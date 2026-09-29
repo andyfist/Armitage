@@ -1,0 +1,1939 @@
+{
+ "auction": "2",
+ "batches": 26,
+ "batches_with_result": 26,
+ "counts": {
+  "SCANNED": 361,
+  "NOT_IN_SALE": 14,
+  "UNSCANNED": 4
+ },
+ "retried_batches": [
+  3067422
+ ],
+ "unscanned_after_retry": [
+  {
+   "cdid": 3067423,
+   "reason": "http 302"
+  },
+  {
+   "cdid": 3067424,
+   "reason": "http 302"
+  },
+  {
+   "cdid": 3067425,
+   "reason": "http 302"
+  },
+  {
+   "cdid": 3067426,
+   "reason": "http 302"
+  }
+ ],
+ "batches_no_result": [],
+ "candidates_total": 140,
+ "not_researched": [
+  {
+   "cdid": 3067332,
+   "lot": 871,
+   "title": "2 x 9CT WHITE GOLD DIAMOND SET...",
+   "estimate": "500-700",
+   "reason": "Diamond halo ring and band set, 9ct claimed, real value in stones and gold",
+   "strength": 6,
+   "strength_scan": 6,
+   "rescore_note": "Diamond halo ring and matching band, unmarked so gold and stones uncertain; realistic mix of genuine and not gives about $150-400."
+  },
+  {
+   "cdid": 3067344,
+   "lot": 883,
+   "title": "8 x 1966 AUSTRALIAN ROUND 50C ...",
+   "estimate": "130-180",
+   "reason": "Eight 80 percent silver round 50c, silver content value",
+   "strength": 6,
+   "strength_scan": 5,
+   "rescore_note": "Eight 1966 round 50c at 80% silver, about 2.7 oz fine silver in total, circulated so melt value only, roughly $150-250."
+  },
+  {
+   "cdid": 3067372,
+   "lot": 911,
+   "title": "8 x 1966 AUSTRALIAN ROUND 50 C...",
+   "estimate": "130-180",
+   "reason": "Silver round 50c have solid bullion value, eight coins",
+   "strength": 6,
+   "strength_scan": 5,
+   "rescore_note": "Eight 1966 round 50c, 80% silver, about 85g fine silver (2.7 oz) in total, so roughly $150-200 on melt value, plus a small collector premium for bright coins. No comps."
+  },
+  {
+   "cdid": 3067070,
+   "lot": 609,
+   "title": "A DOULTON SLATTERS PATENT LIDD...",
+   "estimate": "20-40",
+   "reason": "Doulton Lambeth Slater's Patent tobacco jar, collectable",
+   "strength": 5,
+   "strength_scan": 3,
+   "rescore_note": "Doulton Lambeth Slater's Patent tobacco jar, lid fits and no damage seen, typically about $80-150."
+  },
+  {
+   "cdid": 3067089,
+   "lot": 628,
+   "title": "LARGE BRASS & ENAMEL CARRIAGE ...",
+   "estimate": "100-200",
+   "reason": "Antique style brass carriage clock, likely French",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Five glass brass carriage clock with enamel dial and key; may be genuine French or a later reproduction, working order unknown; mix realistically $80-200."
+  },
+  {
+   "cdid": 3067092,
+   "lot": 631,
+   "title": "BRASS FREE STANDING COMPASS H-...",
+   "estimate": "40-60",
+   "reason": "Elliott Bros (London) is a known scientific instrument maker; brass surveying compass of collectable type.",
+   "strength": 5,
+   "strength_scan": 6,
+   "rescore_note": "Elliott Bros brass surveying compass, genuine maker but no box and foxed mirror; realistic $80-200."
+  },
+  {
+   "cdid": 3067098,
+   "lot": 637,
+   "title": "BOXED SET OF 6 SARGISONS STERL...",
+   "estimate": "100-200",
+   "reason": "Sargisons of Hobart Tasmanian silversmith, sterling set in original box, solid Tasmanian interest.",
+   "strength": 5,
+   "strength_scan": 6,
+   "rescore_note": "Boxed set of 6 sterling Sargisons Hobart teaspoons, scrap silver value plus Tasmanian maker premium, roughly $100-200. No comps checked."
+  },
+  {
+   "cdid": 3067118,
+   "lot": 657,
+   "title": "7 PIECE STERLING SILVER CONDIM...",
+   "estimate": "800-1200",
+   "reason": "Antique hallmarked silver condiment set in case.",
+   "strength": 5,
+   "strength_scan": 6,
+   "rescore_note": "Genuine hallmarked pierced silver condiment set in original case, but worn case and replaced liners limit it to roughly $100-200, mostly silver and decorative value."
+  },
+  {
+   "cdid": 3067123,
+   "lot": 662,
+   "title": "FRAMED PRO HART ARTISTS PROOF ...",
+   "estimate": "30-50",
+   "reason": "Pro Hart signed artist's proof etching, known collectable Australian artist",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Signed Pro Hart artist's proof etching, a recognised name with steady demand, discounted for signature uncertainty, about $100-200."
+  },
+  {
+   "cdid": 3067150,
+   "lot": 689,
+   "title": "1939 PARA LIQUEUER PORT - AS I...",
+   "estimate": "50-75",
+   "reason": "Seppelt Para 1939 vintage liqueur port, collectable older Australian fortified",
+   "strength": 5,
+   "strength_scan": 4,
+   "rescore_note": "Seppelt Para 1939 vintage liqueur port, likely $100-200, level unclear and aged label."
+  },
+  {
+   "cdid": 3067161,
+   "lot": 700,
+   "title": "VICTORIAN TEA CUPS & SAUCERS",
+   "estimate": "20-40",
+   "reason": "Hand painted early Victorian green ground cabinet cups, could be a good English maker",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Five unmarked Victorian green-ground cabinet cups and saucers; maker unproven, realistically about $80-200 as a set, small chance of Coalport level."
+  },
+  {
+   "cdid": 3067162,
+   "lot": 701,
+   "title": "PRO HART ARTISTS PROOF 'DRAGON...",
+   "estimate": "40-60",
+   "reason": "Pro Hart signed artist proof, known collectable Australian artist",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Pencil-signed Pro Hart artist proof etching, framed; these typically sell around $100-250. No comps checked."
+  },
+  {
+   "cdid": 3067194,
+   "lot": 733,
+   "title": "PRESENTATION BOTTLE OF JACK DA...",
+   "estimate": "40-60",
+   "reason": "Sealed presentation whiskey set, moderate value",
+   "strength": 5,
+   "strength_scan": 4,
+   "rescore_note": "Full 750 ml Jack Daniel's presentation tin with minis and glasses, mass-market gift set; realistic $90-150."
+  },
+  {
+   "cdid": 3067224,
+   "lot": 763,
+   "title": "FRAMED PRO HART ARTISTS PROOF ...",
+   "estimate": "30-50",
+   "reason": "Pro Hart artist's proof etching, known collectable name, though hand-lettered name looks like print inscription",
+   "strength": 5,
+   "strength_scan": 4,
+   "rescore_note": "Pro Hart hand coloured etching with A.P. inscription, typical Pro Hart prints resell about $100-250, inscription authenticity uncertain. No comps checked."
+  },
+  {
+   "cdid": 3067236,
+   "lot": 775,
+   "title": "BOOK - 'WEEP IN SILENCE, A HIS...",
+   "estimate": "150-175",
+   "reason": "Sought after Tasmanian history reference, limited edition, sells for decent money",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Plomley Weep in Silence 1987 standard edition (not the signed leather set) with jacket, a niche Tasmanian reference likely about $80-150. No comps checked."
+  },
+  {
+   "cdid": 3067256,
+   "lot": 795,
+   "title": "VICTOIRAN BURR WALNUT TRAVELLI...",
+   "estimate": "150-250",
+   "reason": "Fitted Victorian compendium with mother of pearl and cut glass, possible silver top bottles",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Fitted Victorian burr walnut compendium, complete looking with cut glass and mother of pearl but plate worn and lining damaged, likely $100-250. No comps checked."
+  },
+  {
+   "cdid": 3067261,
+   "lot": 800,
+   "title": "KINGWOOD ORMOLU MOUNTED WINE C...",
+   "estimate": "200-300",
+   "reason": "19th century style ormolu mounted jardiniere or cooler, decorative, could make real money",
+   "strength": 5,
+   "strength_scan": 6,
+   "rescore_note": "Burr veneer wine cooler with gilt mounts, probably a later reproduction, with cracked veneer and worn lining, likely $100-250. No comps checked."
+  },
+  {
+   "cdid": 3067268,
+   "lot": 807,
+   "title": "BOTTLE OF PENFOLDS 1997 ST HEN...",
+   "estimate": "80-120",
+   "reason": "St Henri, decent value",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Penfolds St Henri 1997, good label and capsule; older vintage, likely about $120-200 depending on storage."
+  },
+  {
+   "cdid": 3067269,
+   "lot": 808,
+   "title": "1945 PENFOLDS GRANDFATHER PORT...",
+   "estimate": "50-100",
+   "reason": "Penfolds Grandfather port is collectable",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Penfolds Grandfather Port 1945 vintage bottled 1969; collectable label but uncertain fill and age, likely $100-200."
+  },
+  {
+   "cdid": 3067274,
+   "lot": 813,
+   "title": "BOTTLE OF 2006 PENFOLDS ST HEN...",
+   "estimate": "80-140",
+   "reason": "Penfolds St Henri, reliable resale",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "St Henri 2006 usually sells about $100-140; solid but not rare; no comps checked."
+  },
+  {
+   "cdid": 3067296,
+   "lot": 835,
+   "title": "'THE GOLDEN DECADE' RUGBY AUST...",
+   "estimate": "100-200",
+   "reason": "Multi-signed Wallabies limited edition with COA, sports memorabilia market",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Framed multi-signed Wallabies 'Golden Decade' lithograph 228/500 with certificate; niche sports memorabilia, likely $100-200, no comps checked."
+  },
+  {
+   "cdid": 3067303,
+   "lot": 842,
+   "title": "FRAMED 'LAST MAN STANDING' SIG...",
+   "estimate": "60-100",
+   "reason": "Authenticated signed Waugh limited edition with COA",
+   "strength": 5,
+   "strength_scan": 4,
+   "rescore_note": "Steve Waugh signed 'Last Man Standing' lithograph 827/1000 with PwC certificate and hologram, framed; large edition so likely $100-200, no comps checked."
+  },
+  {
+   "cdid": 3067304,
+   "lot": 843,
+   "title": "9CT GOLD & DIAMOND SET ILLUSIO...",
+   "estimate": "140-240",
+   "reason": "9ct gold diamond cluster ring",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Yellow gold illusion-set diamond cluster ring, boxed, no hallmark seen; small diamonds and uncertain gold content, likely $80-200."
+  },
+  {
+   "cdid": 3067319,
+   "lot": 858,
+   "title": "GOLD VICTORIAN BROOCH WITH DIA...",
+   "estimate": "200-300",
+   "reason": "Victorian gold brooch with diamonds, gold content plus antique appeal",
+   "strength": 5,
+   "strength_scan": 4,
+   "rescore_note": "Victorian gold brooch with rose diamonds and small stones, worn with missing stones; karat unknown, roughly $100-250."
+  },
+  {
+   "cdid": 3067322,
+   "lot": 861,
+   "title": "9CT GOLD VICTORIAN BROOCH WITH...",
+   "estimate": "80-140",
+   "reason": "Hallmarked antique gold bar brooch",
+   "strength": 5,
+   "strength_scan": 3,
+   "rescore_note": "9ct Victorian bar brooch with garnets and seed pearls, damaged clasp, small gold weight plus antique appeal, roughly $120-250."
+  },
+  {
+   "cdid": 3067327,
+   "lot": 866,
+   "title": "ASSORTED SILVER JEWELLERY INCL...",
+   "estimate": "50-75",
+   "reason": "Southwest silver and turquoise pendants plus heavy curb chain, silver weight",
+   "strength": 5,
+   "strength_scan": 3,
+   "rescore_note": "Three silver chains with Southwest-style turquoise pendants, possibly not authentic Native made; silver weight plus modest premium (about $80-180)."
+  },
+  {
+   "cdid": 3067328,
+   "lot": 867,
+   "title": "A LEA STEIN DUTCH GIRL BROOCH",
+   "estimate": "100-140",
+   "reason": "Lea Stein is a collectable French maker",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Lea Stein Dutch girl brooch in good condition, collectable French maker but common design (about $80-150)."
+  },
+  {
+   "cdid": 3067333,
+   "lot": 872,
+   "title": "1880 SCOTTISH STERLING SILVER ...",
+   "estimate": "900-1100",
+   "reason": "Victorian Scottish agate silver bracelet, collectable",
+   "strength": 5,
+   "strength_scan": 6,
+   "rescore_note": "Scottish agate silver bracelet with padlock clasp, no visible marks; collectable Victorian style but often modest sellers (about $100-250)."
+  },
+  {
+   "cdid": 3067334,
+   "lot": 873,
+   "title": "GOLD STONE SET RING ACID TESTS...",
+   "estimate": "100-120",
+   "reason": "Antique gypsy ring, diamond and rubies, may be higher carat than stated",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Gypsy-set gold ring with small diamond and red stones (likely synthetic or paste), Edwardian style; mainly gold weight (about $120-250)."
+  },
+  {
+   "cdid": 3067341,
+   "lot": 880,
+   "title": "2005 1 TROY OZ SILVER COMMEMOR...",
+   "estimate": "60-100",
+   "reason": "Perth Mint gilded lunar silver coin, boxed with cert",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "2005 Rooster gilded 1 oz Perth Mint silver coin, boxed with cert; silver plus modest gilded premium, roughly $100-150."
+  },
+  {
+   "cdid": 3067348,
+   "lot": 887,
+   "title": "ASSORTED COLLECTABLE COINS & M...",
+   "estimate": "60-90",
+   "reason": "Several tiny 14ct gold proof coins plus certificates, titled only as assorted coins",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Several tiny .585 proof gold coins (0.5 g class) plus a Ned Kelly and Niue $5 and a plated medal; low gold weight, collectable premium, realistic $150-250 total."
+  },
+  {
+   "cdid": 3067354,
+   "lot": 893,
+   "title": "LEA STEIN FOX BROOCH",
+   "estimate": "100-200",
+   "reason": "Collectable Lea Stein fox brooch, marked Paris",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "Fox stamped LEA STEIN PARIS, a popular design in good condition; likely $80-150. No comps."
+  },
+  {
+   "cdid": 3067378,
+   "lot": 917,
+   "title": "2001 AUSTRALIAN STATE SILVER D...",
+   "estimate": "40-70",
+   "reason": "Australian mint silver proof Holey Dollar and Dump set, cased with certificate",
+   "strength": 5,
+   "strength_scan": 5,
+   "rescore_note": "2001 Centenary of Federation silver proof holey dollar and dump, cased with certificate; roughly 28g fine silver plus collector premium, about $80-150. No comps."
+  },
+  {
+   "cdid": 3067379,
+   "lot": 918,
+   "title": "2 STERLING SILVER CASED POCKET...",
+   "estimate": "40-70",
+   "reason": "Two silver-cased Waltham pocket watches, silver weight plus collectable movements",
+   "strength": 5,
+   "strength_scan": 6,
+   "rescore_note": "Two silver hunter-case Waltham watches, no glass and unchecked movements; silver weight and collector interest give about $100-200 if hallmarks are genuine. No comps."
+  },
+  {
+   "cdid": 3067380,
+   "lot": 919,
+   "title": "LEA STEIN DANCING LADY BROOCH",
+   "estimate": "100-150",
+   "reason": "Genuine Lea Stein Paris figural brooch, collectable designer",
+   "strength": 5,
+   "strength_scan": 6,
+   "rescore_note": "Genuine signed Lea Stein Paris figural brooch in good condition; collectable designer piece, typically about $60-120. No comps."
+  },
+  {
+   "cdid": 3067393,
+   "lot": 932,
+   "title": "ASSORTED ENGLISH COINS",
+   "estimate": "75-100",
+   "reason": "Mostly .925 silver George V half crowns and florins, silver melt plus small premium",
+   "strength": 5,
+   "strength_scan": 4,
+   "rescore_note": "About 8 silver (.500 for 1920-46, not .925) half crowns and florins in VF to EF, worth roughly $80-120 on silver plus small premium; the 1946 and 1955 coins are nickel and worth little."
+  },
+  {
+   "cdid": 3067063,
+   "lot": 602,
+   "title": "SIGNED JOHN CAMPBELL GREEN GLA...",
+   "estimate": "100-200",
+   "reason": "Signed John Campbell Tasmanian pottery, collectable Australian maker",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Signed John Campbell Tasmanian jardiniere, usually sells about $30-80; interior staining. No comps searched."
+  },
+  {
+   "cdid": 3067073,
+   "lot": 612,
+   "title": "A BRASS CASED ENAMEL FACED CAR...",
+   "estimate": "150-250",
+   "reason": "Brass carriage clock, French style, plausible value",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Unsigned brass carriage clock, working state unknown, likely $50-120 in this condition."
+  },
+  {
+   "cdid": 3067087,
+   "lot": 626,
+   "title": "MARTIN BOYD SIGNED PLATE DIA-1...",
+   "estimate": "40-60",
+   "reason": "Martin Boyd Australian pottery, Aboriginal motif is collectable",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Martin Boyd Australia decorated plate with Aboriginal figure, mid-century pottery with some collector interest; about $40-90."
+  },
+  {
+   "cdid": 3067102,
+   "lot": 641,
+   "title": "A POCKET COMPENSATING BAROMETE...",
+   "estimate": "30-50",
+   "reason": "Pocket aneroid barometer and two watches, small group of collectable instruments.",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Unnamed pocket aneroid barometer and two ordinary plated/chrome watches, unverified running, realistic $50-100. No comps checked."
+  },
+  {
+   "cdid": 3067104,
+   "lot": 643,
+   "title": "PAIR OF VINTAGE HAND PAINTED E...",
+   "estimate": "70-100",
+   "reason": "Victorian style painted and carved emu eggs, Australiana with some collector appeal.",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Pair of painted emu eggs with foxing and worn stands, decorative Australiana, likely $60-150 for the pair. No comps checked."
+  },
+  {
+   "cdid": 3067108,
+   "lot": 647,
+   "title": "STERLING SILVER GOBLET H-17 CM",
+   "estimate": "100-200",
+   "reason": "Hallmarked silver goblet, value mostly scrap plus some premium.",
+   "strength": 4,
+   "strength_scan": 3,
+   "rescore_note": "17cm hallmarked sterling goblet, mostly weight in silver plus some premium if English, about $60-120. No comps checked."
+  },
+  {
+   "cdid": 3067109,
+   "lot": 648,
+   "title": "GROUP OF 4 ASSORTED MOSER STYL...",
+   "estimate": "50-80",
+   "reason": "Bohemian gilt cranberry glass, possibly Moser, decent decorative value.",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Five cranberry gilt glasses, unsigned so likely generic Bohemian rather than Moser, realistic $60-150 for the group. No comps checked."
+  },
+  {
+   "cdid": 3067119,
+   "lot": 658,
+   "title": "FRAMED PRO HART ARTISTS PROOF ...",
+   "estimate": "75-125",
+   "reason": "Pro Hart signed proof, but signature looks unverified and Pro Hart fakes are common.",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Pro Hart AP print with pencil signature; genuine ones are modest value and fakes are common, so the realistic mix is about $50-150."
+  },
+  {
+   "cdid": 3067121,
+   "lot": 660,
+   "title": "FRAMED PRO HART ETCHING 'ANTS'...",
+   "estimate": "40-60",
+   "reason": "Authentic Pro Hart etching with certificate, unsigned proof.",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Genuine Littlewood Press hand coloured drypoint with certificate but an unsigned publisher's proof, so likely $60-150."
+  },
+  {
+   "cdid": 3067124,
+   "lot": 663,
+   "title": "JOHN CAMPBELL GREEN GLAZED TRO...",
+   "estimate": "200-300",
+   "reason": "Signed John Campbell Tasmanian art pottery, collectable",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "John Campbell Tasmanian art pottery, collectable but a large planter trough with glaze crawl, likely $50-120."
+  },
+  {
+   "cdid": 3067126,
+   "lot": 665,
+   "title": "CASED PRESENTATION BATON C1884...",
+   "estimate": "100-200",
+   "reason": "Cased presentation baton with engraved white metal mounts, possibly silver, under-described",
+   "strength": 4,
+   "strength_scan": 3,
+   "rescore_note": "Cased c1884 presentation baton with named plate and white metal mounts, niche collectable, metal unconfirmed as silver, likely $50-150."
+  },
+  {
+   "cdid": 3067127,
+   "lot": 666,
+   "title": "RARE SIGNED JOHN CAMPBELL RELI...",
+   "estimate": "800-1200",
+   "reason": "Signed John Campbell relief lily pottery, good Tasmanian pottery",
+   "strength": 4,
+   "strength_scan": 6,
+   "rescore_note": "Signed John Campbell Launceston relief lily planter, Tasmanian studio pottery, typically about $50-120, some staining."
+  },
+  {
+   "cdid": 3067137,
+   "lot": 676,
+   "title": "PAIR OF DUDSON JASPER VASES C1...",
+   "estimate": "30-50",
+   "reason": "Matched pair of Dudson-style jasper vases, decent decorative pair",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Green jasperware pair with sprigged figures, Dudson attribution unconfirmed (no mark seen), decorative pair likely $60-150."
+  },
+  {
+   "cdid": 3067165,
+   "lot": 704,
+   "title": "8 ITEMS VENETIAN GLASS TABLE P...",
+   "estimate": "100-200",
+   "reason": "Bohemian ruby panel gilt glass set, could be Moser and worth real money",
+   "strength": 4,
+   "strength_scan": 6,
+   "rescore_note": "Unsigned ruby and gilt Bohemian-style set of 8; most likely decorative later production, about $50-150, small chance of Moser."
+  },
+  {
+   "cdid": 3067170,
+   "lot": 709,
+   "title": "UNUSUAL SIGNED JOHN CAMPBELL V...",
+   "estimate": "60-100",
+   "reason": "John Campbell Tasmanian pottery is collected in Australia, signed and numbered",
+   "strength": 4,
+   "strength_scan": 6,
+   "rescore_note": "Signed John Campbell Tasmania drip glaze vase V15; collected locally but usually about $40-120."
+  },
+  {
+   "cdid": 3067184,
+   "lot": 723,
+   "title": "A FRAMED PRO HART ETCHING 'THE...",
+   "estimate": "40-100",
+   "reason": "Pro Hart small etching with certificate, but unsigned proof so modest value",
+   "strength": 4,
+   "strength_scan": 3,
+   "rescore_note": "Pro Hart hand-coloured etching with certificate, but stated as an unsigned publisher's proof; about $50-120."
+  },
+  {
+   "cdid": 3067220,
+   "lot": 759,
+   "title": "PAIR OF ROYAL BONN IRIS VASES,...",
+   "estimate": "20-40",
+   "reason": "Genuine Royal Bonn marked pair, Art Nouveau iris decoration, some collector interest",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Genuine Royal Bonn marked iris vase pair, but one repaired plus rim wear and foxing; realistic $60-150."
+  },
+  {
+   "cdid": 3067266,
+   "lot": 805,
+   "title": "1947 PARA LIQUEUER PORT - AS I...",
+   "estimate": "40-60",
+   "reason": "1947 Seppelt vintage fortified, some collector interest",
+   "strength": 4,
+   "strength_scan": 3,
+   "rescore_note": "1947 Seppelt Para Liqueur Port, unclear fill and worn label; usually $50-100 for these, condition uncertain."
+  },
+  {
+   "cdid": 3067272,
+   "lot": 811,
+   "title": "BOTTLE OF 2002 PENFOLDS ST HEN...",
+   "estimate": "80-140",
+   "reason": "Good cellar Penfolds St Henri, solid resale",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Penfolds St Henri 2002 with shop sticker, no box, fill in neck; usually about $80-130 so borderline 4-5."
+  },
+  {
+   "cdid": 3067293,
+   "lot": 832,
+   "title": "JOHN CAMPBELL GREEN GLAZED TRO...",
+   "estimate": "50-100",
+   "reason": "Signed John Campbell (Tasmanian potter) piece, collectable despite damage",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Signed John Campbell Tasmanian pottery trough, but hairline crack, chips and rim loss cut value to roughly $40-100, no comps checked."
+  },
+  {
+   "cdid": 3067314,
+   "lot": 853,
+   "title": "LEA STEIN DOG BROOCH",
+   "estimate": "100-150",
+   "reason": "Collectable French Lea Stein brooch",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Lea Stein Scottie brooch, collectable but common, typically $40-90; glue residue and unmarked pin lower confidence."
+  },
+  {
+   "cdid": 3067323,
+   "lot": 862,
+   "title": "2 LADIES WRIST WATCHES",
+   "estimate": "50-75",
+   "reason": "Vintage gold-cased ladies watches, may be solid gold",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Two vintage ladies gold-cased watches; likely rolled or filled gold with unknown running, realistic $30-100 with small chance of solid gold."
+  },
+  {
+   "cdid": 3067350,
+   "lot": 889,
+   "title": "VARIOUS JEWELLERY INCLUDING ST...",
+   "estimate": "60-100",
+   "reason": "Multiple probable sterling silver items including engraved bangle, chains and fob, hallmarks unverified",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Probable sterling bangle, chains and fob but unhallmarked in photos and worn; likely $40-80 mostly on silver weight. No comps."
+  },
+  {
+   "cdid": 3067351,
+   "lot": 890,
+   "title": "A LEA STEIN FROG BROOCH",
+   "estimate": "100-200",
+   "reason": "Collectable Lea Stein brooch",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Lea Stein style frog, maker mark not seen so genuine is uncertain; a genuine one is about $60-120, discounted for the unmarked risk. No comps."
+  },
+  {
+   "cdid": 3067367,
+   "lot": 906,
+   "title": "GROUP OF SCOTTISH THEMED JEWEL...",
+   "estimate": "100-200",
+   "reason": "Victorian style Scottish brooches, possible silver mounts and real opal bar brooch",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Scottish agate, cairngorm-style and pheasant feather brooches with a possible real opal bar brooch; mixed lot likely $40-90. No comps."
+  },
+  {
+   "cdid": 3067373,
+   "lot": 912,
+   "title": "A PANDORA BRACELET",
+   "estimate": "50-75",
+   "reason": "Pandora silver bangle with many charms, decent value if genuine",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Pandora-style silver bangle with about a dozen charms and Murano-style beads; authenticity unverified, so about $50-100 if genuine and less if not. No comps."
+  },
+  {
+   "cdid": 3067376,
+   "lot": 915,
+   "title": "CASKET OF GOLD PLATED CUFFLINK...",
+   "estimate": "20-40",
+   "reason": "Possible 9ct gold cufflinks plus amber links and Victorian style casket",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Mixed casket and links; cufflinks may be 9ct or rolled gold, unhallmarked, so realistic mix is about $30-80 with upside. No comps."
+  },
+  {
+   "cdid": 3067391,
+   "lot": 930,
+   "title": "ASSORTED PANDORA JEWELLERY",
+   "estimate": "40-70",
+   "reason": "Pandora sterling silver bangles, bracelet and rings, sold as a group",
+   "strength": 4,
+   "strength_scan": 5,
+   "rescore_note": "Pandora-style silver bangles, chain and rings, marks unverified so may be genuine or not; realistic mix about $40-100. No comps."
+  },
+  {
+   "cdid": 3067396,
+   "lot": 935,
+   "title": "VARIOUS WORLD COINS & BANKNOTE...",
+   "estimate": "30-40",
+   "reason": "1927 Canberra florin and 1855 NSW Railways medal add real collector value beyond the foreign notes",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Mostly circulated notes and copper; 1927 Canberra florin (about $15-30) and a medal add a little, roughly $40-70 overall."
+  },
+  {
+   "cdid": 3067407,
+   "lot": 946,
+   "title": "ASSORTED JEWELLERY, WRIST WATC...",
+   "estimate": "20-30",
+   "reason": "Seiko automatic blue dial vintage watch plus Rotary Paul Harris Fellow medal and badges",
+   "strength": 4,
+   "strength_scan": 4,
+   "rescore_note": "Seiko automatic day-date on steel is worn, worth perhaps $40-80; Paul Harris Fellow medallion and pins/badges add little. No comps checked."
+  },
+  {
+   "cdid": 3067068,
+   "lot": 607,
+   "title": "DAWN OAKFORD STUDIO POTTERY FI...",
+   "estimate": "20-40",
+   "reason": "Signed studio ceramic sculpture by named artist, some interest",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Modern signed studio pottery figure by a minor artist, likely $20-60."
+  },
+  {
+   "cdid": 3067074,
+   "lot": 613,
+   "title": "STERLING SILVER TOPPED CRYSTAL...",
+   "estimate": "70-100",
+   "reason": "Hallmarked silver and enamel items",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Damaged crystal jar with small silver rim and enamel scent bottle, hallmarks unread, likely $30-70."
+  },
+  {
+   "cdid": 3067077,
+   "lot": 616,
+   "title": "SIGNED MCHUGH BLUE & YELLOW GLAZED VASE H-13 CM",
+   "estimate": "60-100",
+   "reason": "Signed Tasmanian studio pottery (Howard McHugh), collectable",
+   "strength": 3,
+   "strength_scan": 5,
+   "rescore_note": "H. McHugh Tasmanian glazed vase, small base nick, typically $30-70."
+  },
+  {
+   "cdid": 3067080,
+   "lot": 619,
+   "title": "SIGNED McHUGH DRIP GLAZED VASE...",
+   "estimate": "100-180",
+   "reason": "Signed Tasmanian McHugh pottery",
+   "strength": 3,
+   "strength_scan": 5,
+   "rescore_note": "Signed Tasmanian McHugh drip glaze vase, modest studio pottery, typically $30-70 with base wear. No comps checked."
+  },
+  {
+   "cdid": 3067081,
+   "lot": 620,
+   "title": "2 JAPANESE CLOISONNE MINIATURE...",
+   "estimate": "40-60",
+   "reason": "Japanese ginbari cloisonne pair, possibly silver mounted, better than title implies",
+   "strength": 3,
+   "strength_scan": 5,
+   "rescore_note": "Pair of small ginbari cloisonne vases, Sato style, common 20th century export ware, rims likely plated not silver; about $30-70."
+  },
+  {
+   "cdid": 3067084,
+   "lot": 623,
+   "title": "PAIR OF HIATT BEST CAST IRON H...",
+   "estimate": "300-400",
+   "reason": "Antique Hiatt type English handcuffs with key, collectable",
+   "strength": 3,
+   "strength_scan": 6,
+   "rescore_note": "Iron handcuffs with key, maker mark unclear and heavy rust; Hiatt cuffs are common, likely $30-80."
+  },
+  {
+   "cdid": 3067097,
+   "lot": 636,
+   "title": "CAMEO GLASS DISH IN BRASS JEWE...",
+   "estimate": "60-120",
+   "reason": "Bohemian style jewelled ormolu and glass dish, decorative and collectable.",
+   "strength": 3,
+   "strength_scan": 5,
+   "rescore_note": "Uranium pressed glass dish in jewelled filigree brass mount, decorative but common; about $30-70."
+  },
+  {
+   "cdid": 3067105,
+   "lot": 644,
+   "title": "A MINIATURE LEATHER BOUND COMM...",
+   "estimate": "20-40",
+   "reason": "Small hallmarked silver mounted cover with old miniature prayer book, possible ivory.",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Small miniature prayer book with silver IHS mount and uncertain ivory or bone cover, modest value, roughly $30-80. No comps checked."
+  },
+  {
+   "cdid": 3067112,
+   "lot": 651,
+   "title": "GROUP OF 3 POOLE POTTERY FIGUR...",
+   "estimate": "30-50",
+   "reason": "Poole stoneware animals are collectable but low value each.",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Three Poole stoneware animals, common and low value each, about $40-80 together. No comps checked."
+  },
+  {
+   "cdid": 3067113,
+   "lot": 652,
+   "title": "ASSORTED DECORATIVE JEWELLERY ...",
+   "estimate": "50-75",
+   "reason": "Mixed jewellery lot, possible sterling among costume.",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Mostly costume jewellery with unmarked, possibly sterling pieces, about $30-70 as a lot. No comps checked."
+  },
+  {
+   "cdid": 3067125,
+   "lot": 664,
+   "title": "SIGNED ANDY WARHOL ROSENTHAL G...",
+   "estimate": "30-50",
+   "reason": "Rosenthal studio-line Warhol flower plate, sought after design",
+   "strength": 3,
+   "strength_scan": 5,
+   "rescore_note": "Rosenthal Warhol flower plate with printed signature only, common studio-line piece, typically $40-90."
+  },
+  {
+   "cdid": 3067133,
+   "lot": 672,
+   "title": "SIGNED McHUGH TWIN HANDLED VAS...",
+   "estimate": "50-80",
+   "reason": "Signed McHugh Tasmanian pottery vase, collectable but hairline",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Signed W. McHugh Tasmanian drip-glaze vase dated 49, but hairline crack in base limits value to about $30-70."
+  },
+  {
+   "cdid": 3067166,
+   "lot": 705,
+   "title": "ROSENTHAL SIGNED PLATTER DIA-3...",
+   "estimate": "20-30",
+   "reason": "Rosenthal studio-linie artist signed plate, modest collectable",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Rosenthal studio-linie plate signed Wolf Bauer, with glaze spot and rim wear; modest, likely $30-60."
+  },
+  {
+   "cdid": 3067187,
+   "lot": 726,
+   "title": "4 PIECES OF RYNNE TANTON POTTE...",
+   "estimate": "30-50",
+   "reason": "Signed Australian studio pottery, modest value",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Four Rynne Tanton red glazed pottery pieces; decorative studio pottery, roughly $40-90 for the group."
+  },
+  {
+   "cdid": 3067199,
+   "lot": 738,
+   "title": "A SIGMA CHINA MISS PIGGY LIDDE...",
+   "estimate": "10-20",
+   "reason": "Sigma Muppets collectable jar, steady collector market",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Sigma Tastesetter Miss Piggy and Rowlf jar, common Muppets collectable; realistic $30-60. No comps checked."
+  },
+  {
+   "cdid": 3067204,
+   "lot": 743,
+   "title": "SIGNED LIMITED EDITION LINO CU...",
+   "estimate": "20-40",
+   "reason": "Signed limited edition Australian print, possible collectable artist",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Hand-coloured lino cut 1984, 7/10, artist unconfirmed (Sibley guess is uncertain); likely $30-80 as decorative print."
+  },
+  {
+   "cdid": 3067212,
+   "lot": 751,
+   "title": "MARGARET MATSON OIL 'SUBURBAN ...",
+   "estimate": "50-75",
+   "reason": "Named artist label, contemporary oil, decent decorative value",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Margaret Matson abstract houses oil, label reads 'The Red Zone', no established market found; decorative value $30-80."
+  },
+  {
+   "cdid": 3067214,
+   "lot": 753,
+   "title": "FRAMED PRO HART ETCHING 'DRAGO...",
+   "estimate": "50-80",
+   "reason": "Pro Hart etching with certificate of authenticity, though a publisher's proof and unsigned by Hart",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Certificate shows a Lytlewode Press publisher's proof, unsigned by Hart, so the 'Pro Hart' mark is not a genuine Hart signature; small print worth $40-80."
+  },
+  {
+   "cdid": 3067250,
+   "lot": 789,
+   "title": "LARGE LLADRO FIGURINE OF A DAN...",
+   "estimate": "40-60",
+   "reason": "Known maker Lladro, retired popular model",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Large Lladro dancer, no base mark seen so identification uncertain, most such figures resell about $30-80. No comps checked."
+  },
+  {
+   "cdid": 3067260,
+   "lot": 799,
+   "title": "3 STERLING SILVER RINGS & A PA...",
+   "estimate": "50-100",
+   "reason": "boxed sterling silver dress jewellery, modest value",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Boxed sterling marcasite and stone rings plus earrings, small silver weight, likely $30-70. No comps checked."
+  },
+  {
+   "cdid": 3067262,
+   "lot": 801,
+   "title": "HORN HANDLED LEATHER WHIP WITH...",
+   "estimate": "100-200",
+   "reason": "antler handled whip with hallmarked silver collar, hallmarks not legible",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Antler handled riding whip with dented collar and illegible marks; silver content small, typical market $30-70, no comps checked."
+  },
+  {
+   "cdid": 3067315,
+   "lot": 854,
+   "title": "PEARL NECKLACE, PEARL BRACELET...",
+   "estimate": "120-150",
+   "reason": "Boxed freshwater pearl suite, decent set",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Freshwater pearl suite with silver-tone fittings, low resale value, roughly $30-70 as a lot."
+  },
+  {
+   "cdid": 3067342,
+   "lot": 881,
+   "title": "3 NANCY BOOTH ART DECO STYLE B...",
+   "estimate": "100-120",
+   "reason": "Signed Nancy Booth hand-painted brooches, collectable",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Three signed Nancy Booth hand-painted deco brooches, a niche collectable; realistic $40-80 for the set with no comps checked."
+  },
+  {
+   "cdid": 3067345,
+   "lot": 884,
+   "title": "2 VICTORIAN POCKET WATCHES",
+   "estimate": "30-50",
+   "reason": "Silver pocket watch plus gold-plated watch, possible collector value",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "One silver-cased and one gold-plated pocket watch, no maker, worn and untested; realistic $50-90 together."
+  },
+  {
+   "cdid": 3067346,
+   "lot": 885,
+   "title": "ASSORTED STERLING SILVER BASED...",
+   "estimate": "80-140",
+   "reason": "Heavy statement silver gemstone bracelet and gem ring",
+   "strength": 3,
+   "strength_scan": 5,
+   "rescore_note": "Sterling and gemstone jewellery of modest stones (topaz, moonstone, kyanite, seraphinite), realistic $40-80 as a group."
+  },
+  {
+   "cdid": 3067365,
+   "lot": 904,
+   "title": "TRAY WITH ASSORTED JEWELLERY I...",
+   "estimate": "40-60",
+   "reason": "Multiple retailer-boxed items (Prouds, Oroton) plus possible gold studs and marcasite in a big mixed lot",
+   "strength": 3,
+   "strength_scan": 5,
+   "rescore_note": "Mostly costume and retailer-boxed pieces (Prouds, Oroton, paua) with unconfirmed gold studs; big mixed lot probably $30-60. No comps."
+  },
+  {
+   "cdid": 3067369,
+   "lot": 908,
+   "title": "DECO STYLE DANCING GIRL BROOCH",
+   "estimate": "50-70",
+   "reason": "Lea Stein style acetate figure brooch; genuine ones sell well, but unsigned in photo",
+   "strength": 3,
+   "strength_scan": 5,
+   "rescore_note": "Unsigned Lea Stein style dancing girl; probably a copy or unmarked, so realistic mix is about $30-60. No comps."
+  },
+  {
+   "cdid": 3067384,
+   "lot": 923,
+   "title": "2 FOSSIL 'STARCK' WATCHES - 1 ...",
+   "estimate": "10-20",
+   "reason": "Philippe Starck for Fossil designer watches, boxed",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Two Fossil S+ARCK watches, one with detached strap; modest designer resale, about $30-60. No comps."
+  },
+  {
+   "cdid": 3067392,
+   "lot": 931,
+   "title": "ASSORTED CHARM BRACELETS, WRIS...",
+   "estimate": "20-40",
+   "reason": "Several vintage 17 jewel ladies watches, modest value",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Mixed costume bracelets and worn plated ladies cocktail watches; no notable makers, running unknown, realistic $30-60 for the lot."
+  },
+  {
+   "cdid": 3067395,
+   "lot": 934,
+   "title": "ASSORTED PANDORA JEWELLERY",
+   "estimate": "40-70",
+   "reason": "Genuine-looking Pandora sterling bangles, one with rose gold clasp, real resale value",
+   "strength": 3,
+   "strength_scan": 5,
+   "rescore_note": "Pandora-style pieces, the stamp is illegible so genuine is uncertain; a mix of genuine and copies is likely $30-70."
+  },
+  {
+   "cdid": 3067397,
+   "lot": 936,
+   "title": "SYDNEY 2000 OLYMPIC COIN COLLE...",
+   "estimate": "200-250",
+   "reason": "Official complete-looking Olympic collection, steady collector demand",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Sydney 2000 $5 aluminium-bronze coins are very common with a large mintage, and sets usually sell for $30-60 at best."
+  },
+  {
+   "cdid": 3067404,
+   "lot": 943,
+   "title": "ASSORTED COINS INCLUDING AUSTR...",
+   "estimate": "50-75",
+   "reason": "Pre-1946 .925 silver florins, sixpences and threepences with silver value",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Mixed worn coins; pre-1946 silver florins/threepences/sixpences and 2 Eisenhower dollars are mostly bullion-level value, no key dates identified. No comps checked."
+  },
+  {
+   "cdid": 3067410,
+   "lot": 949,
+   "title": "CASE OF ASSORTED WATCHES, PART...",
+   "estimate": "30-50",
+   "reason": "Mixed old watches and pocket watches, dated 1901 dog tag, bone knife and vesta",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Mostly plated, dirty, likely non-running watch heads and pocket watches; the 1901 Tasmanian dog tag and vesta case add modest collector interest. No comps checked."
+  },
+  {
+   "cdid": 3067411,
+   "lot": 950,
+   "title": "COLLECTION OF ASSORTED FOUNTAI...",
+   "estimate": "40-60",
+   "reason": "Vintage fountain pens and boxed Wolff's pencils, possible silver pencil",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Worn mixed pens and boxed Wolff's pencils; Parker and Sheaffer items are common, celluloid pens have some interest, silver-toned pencil is uncertain. No comps checked."
+  },
+  {
+   "cdid": 3067083,
+   "lot": 622,
+   "title": "SIGNED McHUGH #52 FOOTED VASE WITH REPAIR H-19 CM",
+   "estimate": "100-150",
+   "reason": "Signed McHugh vase though repaired, reduces value",
+   "strength": 2,
+   "strength_scan": 4,
+   "rescore_note": "Same maker as lot 619 but repaired, so usually under $30-40."
+  },
+  {
+   "cdid": 3067117,
+   "lot": 656,
+   "title": "2 FRAMED RYLLTON VINEY MIXED M...",
+   "estimate": "30-50",
+   "reason": "Signed contemporary mixed media, artist name from title only.",
+   "strength": 2,
+   "strength_scan": 3,
+   "rescore_note": "Minor contemporary mixed media by an obscure artist, small images in big mounts, decor value only, no comps checked."
+  },
+  {
+   "cdid": 3067207,
+   "lot": 746,
+   "title": "ALISON COOPER-WHITE 'WOMBAT' O...",
+   "estimate": "400-500",
+   "reason": "Contemporary artist work on antique box, some appeal",
+   "strength": 2,
+   "strength_scan": 3,
+   "rescore_note": "Painted wombat on old pine box signed 2026, so contemporary decoration on a plain old box; likely under $30-50."
+  },
+  {
+   "cdid": 3067254,
+   "lot": 793,
+   "title": "LLADRO FIGURE OF A GIRL WITH R...",
+   "estimate": "30-60",
+   "reason": "Spanish porcelain figure, modest value",
+   "strength": 2,
+   "strength_scan": 3,
+   "rescore_note": "Lladro/Nao style girl with rabbit, common model and maker uncertain, likely under $40. No comps checked."
+  },
+  {
+   "cdid": 3067297,
+   "lot": 836,
+   "title": "LEATHER SCULPTURED CHESTNUT BO...",
+   "estimate": "100-200",
+   "reason": "Leather covered coco de mer style bowl, unusual decorative piece",
+   "strength": 2,
+   "strength_scan": 3,
+   "rescore_note": "Unmarked leather covered coco de mer style bowl, decorative novelty of low value, under $30."
+  },
+  {
+   "cdid": 3067383,
+   "lot": 922,
+   "title": "4 x $10 NOTES",
+   "estimate": "60-70",
+   "reason": "Commemorative $10 polymer notes including folder, some collector value",
+   "strength": 2,
+   "strength_scan": 4,
+   "rescore_note": "Four polymer $10 notes, face value $40, only modest collector premium for the folder; about $40-60 at most. No comps."
+  },
+  {
+   "cdid": 3067387,
+   "lot": 926,
+   "title": "BOX OF JEWELLERY INCLUDING FRE...",
+   "estimate": "20-40",
+   "reason": "Possible silver brooches and foreign coin pendant hidden in mixed jewellery box",
+   "strength": 2,
+   "strength_scan": 3,
+   "rescore_note": "Mixed costume jewellery with no legible hallmarks; silver claim uncertain, likely under $30. No comps."
+  },
+  {
+   "cdid": 3067399,
+   "lot": 938,
+   "title": "BOX OF PRE DECIMAL COINS - AUS...",
+   "estimate": "30-40",
+   "reason": "Bulk pre-decimal coppers may hold some better date pennies",
+   "strength": 2,
+   "strength_scan": 3,
+   "rescore_note": "Worn bulk pre-decimal coppers with no notable key dates seen; typically under $30 unless a scarce date turns up."
+  },
+  {
+   "cdid": 3067401,
+   "lot": 940,
+   "title": "ASSORTED JEWELLERY & U.S.A COI...",
+   "estimate": "20-30",
+   "reason": "Fine chains and pendants could be gold, plus US coins",
+   "strength": 2,
+   "strength_scan": 3,
+   "rescore_note": "Unmarked gold-tone chains are most likely plated, and the US Eisenhower dollars and small coins are worth face or a little more; under $30 realistically."
+  },
+  {
+   "cdid": 3067402,
+   "lot": 941,
+   "title": "BOX OF WRIST WATCHES",
+   "estimate": "20-30",
+   "reason": "Seiko and Citizen quartz watches, modest resale",
+   "strength": 2,
+   "strength_scan": 4,
+   "rescore_note": "Common quartz watches (Seiko, Citizen, Elite, digital) in worn condition, about $5-10 each, so under $30 to $40 for the box."
+  }
+ ],
+ "interest": [
+  {
+   "cdid": 3067079,
+   "lot": 618,
+   "kind": "whisky",
+   "note": "Empty Johnnie Walker advertising figure only, no spirit"
+  },
+  {
+   "cdid": 3067089,
+   "lot": 628,
+   "kind": "watch",
+   "note": "Brass carriage clock, no maker visible, movement condition unknown"
+  },
+  {
+   "cdid": 3067096,
+   "lot": 635,
+   "kind": "watch",
+   "note": "Plated open-face pocket watch, roman dial, subsidiary seconds, leather case, no maker seen, as is."
+  },
+  {
+   "cdid": 3067102,
+   "lot": 641,
+   "kind": "watch",
+   "note": "Two plated pocket watches, no maker legible, plus a compensated pocket barometer."
+  },
+  {
+   "cdid": 3067107,
+   "lot": 646,
+   "kind": "watch",
+   "note": "Mikimoto branded quartz mini mantel clock in acrylic block with pearls, not a wristwatch."
+  },
+  {
+   "cdid": 3067130,
+   "lot": 669,
+   "kind": "whisky",
+   "note": "Bell's 750ml Queen Elizabeth II 60th birthday 1986 ceramic decanter, boxed, common"
+  },
+  {
+   "cdid": 3067134,
+   "lot": 673,
+   "kind": "whisky",
+   "note": "Dimple superior de luxe Scotch whisky cobalt ceramic decanter in case, common"
+  },
+  {
+   "cdid": 3067136,
+   "lot": 675,
+   "kind": "whisky",
+   "note": "Bell's 75cl 1981 royal wedding ceramic decanter, common"
+  },
+  {
+   "cdid": 3067138,
+   "lot": 677,
+   "kind": "whisky",
+   "note": "Cardhu 11yo 2020 Diageo Special Release, boxed, high fill"
+  },
+  {
+   "cdid": 3067140,
+   "lot": 679,
+   "kind": "whisky",
+   "note": "Dimple ceramic souvenir decanter 750ml boxed, common, low value"
+  },
+  {
+   "cdid": 3067142,
+   "lot": 681,
+   "kind": "whisky",
+   "note": "Bell's 1984 Prince Harry birth commemorative bell decanter 500ml, boxed, common"
+  },
+  {
+   "cdid": 3067144,
+   "lot": 683,
+   "kind": "whisky",
+   "note": "Bell's 1986 Royal Wedding decanter, boxed, common"
+  },
+  {
+   "cdid": 3067145,
+   "lot": 684,
+   "kind": "whisky",
+   "note": "Seppelt Para Liqueur Port 1930 vintage, aged, fill unclear"
+  },
+  {
+   "cdid": 3067146,
+   "lot": 685,
+   "kind": "whisky",
+   "note": "Empty stoneware flagon, Tappit Hen Hawthorn Dew, not liquid, low value"
+  },
+  {
+   "cdid": 3067147,
+   "lot": 686,
+   "kind": "whisky",
+   "note": "White Horse America's Cup ltd edition blend 750ml, boxed, low value"
+  },
+  {
+   "cdid": 3067149,
+   "lot": 688,
+   "kind": "whisky",
+   "note": "Bundaberg Red Extra Smooth rum 700ml, current retail, low value"
+  },
+  {
+   "cdid": 3067150,
+   "lot": 689,
+   "kind": "whisky",
+   "note": "Seppelt Para Liqueur Port 1939 vintage, fill unclear"
+  },
+  {
+   "cdid": 3067151,
+   "lot": 690,
+   "kind": "whisky",
+   "note": "Bell's 1982 Prince William birth commemorative decanter 500ml, boxed, common"
+  },
+  {
+   "cdid": 3067168,
+   "lot": 707,
+   "kind": "whisky",
+   "note": "Royal Salute 21 Year Old blended Scotch in blue ceramic flagon, 700ml, seal and neck tag appear intact, no box"
+  },
+  {
+   "cdid": 3067179,
+   "lot": 718,
+   "kind": "whisky",
+   "note": "Smirnoff vodka 750ml older Australian label and St Agnes 3 star brandy, ordinary spirits, full"
+  },
+  {
+   "cdid": 3067194,
+   "lot": 733,
+   "kind": "whisky",
+   "note": "Jack Daniel's Old No.7 750ml 42% presentation tin with 2 x 50ml miniatures and 2 glasses; seals look intact"
+  },
+  {
+   "cdid": 3067223,
+   "lot": 762,
+   "kind": "whisky",
+   "note": "Irish Mist (x2) and Metaxa Ouzo ceramic advertising figures, likely liqueur decanters, fill level unknown and may be empty. Low to modest collectable value."
+  },
+  {
+   "cdid": 3067229,
+   "lot": 768,
+   "kind": "whisky",
+   "note": "Macallan 25yo Anniversary Malt, distilled 1964, 750ml 43%, original wooden box, good fill"
+  },
+  {
+   "cdid": 3067323,
+   "lot": 862,
+   "kind": "watch",
+   "note": "Two vintage ladies gold-cased watches, unbranded dials, engraved monograms on case backs; no carat marks read, worth checking"
+  },
+  {
+   "cdid": 3067345,
+   "lot": 884,
+   "kind": "watch",
+   "note": "Two Victorian pocket watches, one silver case, one gold-plated, no maker read"
+  },
+  {
+   "cdid": 3067352,
+   "lot": 891,
+   "kind": "watch",
+   "note": "Small star-shaped gold-tone ladies watch, unnamed dial, low value"
+  },
+  {
+   "cdid": 3067355,
+   "lot": 894,
+   "kind": "watch",
+   "note": "Victorian silver full hunter key-wind pocket watch, no glass, movement unseen"
+  },
+  {
+   "cdid": 3067357,
+   "lot": 896,
+   "kind": "watch",
+   "note": "Seiko quartz day-date gents, 1970s style, low value"
+  },
+  {
+   "cdid": 3067364,
+   "lot": 903,
+   "kind": "watch",
+   "note": "Kenneth Cole New York fashion watch, leather strap, date, likely quartz, low value"
+  },
+  {
+   "cdid": 3067370,
+   "lot": 909,
+   "kind": "watch",
+   "note": "1970s Seiko automatic day-date, green dial with heavy scratching, described as going"
+  },
+  {
+   "cdid": 3067379,
+   "lot": 918,
+   "kind": "watch",
+   "note": "Two sterling silver hunter pocket watches, Waltham dials, no glass"
+  },
+  {
+   "cdid": 3067384,
+   "lot": 923,
+   "kind": "watch",
+   "note": "Two Starck with Fossil designer watches, one damaged band"
+  },
+  {
+   "cdid": 3067386,
+   "lot": 925,
+   "kind": "watch",
+   "note": "Two quartz fashion watches, Tempest chronograph, second unbranded"
+  },
+  {
+   "cdid": 3067388,
+   "lot": 927,
+   "kind": "watch",
+   "note": "Mixed pocket and wrist watches, Timex, Quinte, others unbranded"
+  },
+  {
+   "cdid": 3067389,
+   "lot": 928,
+   "kind": "watch",
+   "note": "Ladies Citizen quartz, boxed"
+  },
+  {
+   "cdid": 3067392,
+   "lot": 931,
+   "kind": "watch",
+   "note": "Vintage ladies gold-tone watches incl. BAKER 17 jewels, pendant watch; low value, running unknown"
+  },
+  {
+   "cdid": 3067394,
+   "lot": 933,
+   "kind": "watch",
+   "note": "Single quartz ladies watch with black leather strap, dial illegible; low value"
+  },
+  {
+   "cdid": 3067402,
+   "lot": 941,
+   "kind": "watch",
+   "note": "Seiko Quartz day-date, Citizen Quartz, Elite quartz, digital LCD plus ladies bracelet watches"
+  },
+  {
+   "cdid": 3067405,
+   "lot": 944,
+   "kind": "watch",
+   "note": "Vintage ladies ALBERT 17 jewel marcasite and DATEX 17 jewel watches; low value"
+  },
+  {
+   "cdid": 3067406,
+   "lot": 945,
+   "kind": "watch",
+   "note": "Three fashion quartz watches; low value"
+  },
+  {
+   "cdid": 3067407,
+   "lot": 946,
+   "kind": "watch",
+   "note": "Seiko Automatic 1970s day-date, blue dial, steel bracelet, worn"
+  },
+  {
+   "cdid": 3067408,
+   "lot": 947,
+   "kind": "watch",
+   "note": "Two ladies dress watches, unbranded as far as legible, likely plated"
+  },
+  {
+   "cdid": 3067410,
+   "lot": 949,
+   "kind": "watch",
+   "note": "5 base metal pocket watches, about 6 vintage wrist watch heads (Romero, Accurist, Alera, Citizen), unknown running order"
+  },
+  {
+   "cdid": 3067412,
+   "lot": 951,
+   "kind": "watch",
+   "note": "Dutch Zaanse wall clock, not a watch; no maker mark legible"
+  }
+ ],
+ "picks": [
+  {
+   "cdid": 3067229,
+   "lot": 768,
+   "listing": "NEAR MISS",
+   "what_it_is": "The Macallan Anniversary Malt 25 years old, distilled 1964, 43%, 750 ml, J.H. Baker (Wines & Spirits) Sydney import, in original timber box with burnt Macallan 25 Anniversary Malt logo",
+   "confidence": "Low",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067229.jpg",
+   "condition": "Label clean with light wear, gold capsule intact, box present. Fill sits at the base of the neck/top shoulder, not top neck. Handwritten sticker reading 4860 on the label (stock or price number, meaning unknown). Bottling year only partly legible (Bottled 198.).",
+   "key_photo_findings": "Enlarged crop reads 'Distilled 1964', 'Imported by J.H. Baker (Wines & Spirits) Pty Ltd Sydney N.S.W. 2066', '43% vol 750 ml'. Box lid burnt logo 'The Macallan over 25 years old Anniversary Malt'. Sticker reads 4860.",
+   "comps_kept": [],
+   "comps_dropped": "Valuer supplied no comps. My own searches found whisky.auction, Bonhams (a GBP 3,050 inc. premium result, 2023) and a Sotheby's June 2026 6-bottle lot, but all three sites are blocked by the proxy so no price, date or condition could be checked on a page. None counted.",
+   "asking_note": "Search summaries only: whisky.auction GBP 2,600 (2018) and GBP 3,100 (2019), Bonhams GBP 3,050 (2023), Sotheby's June 2026 6-bottle lot estimate USD 9,000 to 12,000. Unverified and mostly older than 24 months. Suggests a value well into four figures AUD, but not usable for a bid.",
+   "working": "Identification confirmed from photos. No surviving URL-checked sold comps, so FLIP and KEEP methods cannot be applied: flip_max_hammer = 0, keep_max_hammer = 0. No maximum bid. NEAR MISS rather than DROP because the item is genuine and clearly valuable; a manual check of a viewable sold record (whisky.auction or Whisky Hunter from a normal browser) could turn this into a bid.",
+   "confidence_reason": "Label read clearly, but zero verified sold comps.",
+   "question_for_armitage": "Can you confirm the bottling year on the bottom right of the label, the exact fill level (base of neck or into shoulder), that the capsule seal is unbroken, and what the 4860 sticker means?"
+  },
+  {
+   "cdid": 3067279,
+   "lot": 818,
+   "listing": "NEAR MISS",
+   "what_it_is": "Penfolds Grange Bin 95, vintage 1997, bottled 1998, 750 ml, 14.0% alc, no box",
+   "confidence": "Low",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067279.jpg",
+   "condition": "Front label clean, red capsule intact, green tape or foil strip below capsule. Fill level not visible through dark glass. Storage and provenance unknown.",
+   "key_photo_findings": "Label reads 'Penfolds Grange Bin 95 Vintage 1997 Bottled 1998', '750ML Wine made in Australia 14.0% alc/vol', dedication to Max Schubert. Handwritten tag reads roughly '4437/21 NKK1' (meaning unclear).",
+   "comps_kept": [],
+   "comps_dropped": "Valuer supplied no comps. Heritage Auctions 1997 Grange lots (9 bottles, 20 Jun 2025; 6 bottles, 22 Nov 2024) are multi-bottle, show no price in search and wine.ha.com is blocked by the proxy. Not counted.",
+   "asking_note": "Retail asking only (from valuer, not re-checked): United Cellars A$949.99, Hedonism GBP 330 to 425. Not comps.",
+   "working": "Identification confirmed. No surviving single-bottle sold comps with URL and date, so flip_max_hammer = 0 and keep_max_hammer = 0. No maximum bid. NEAR MISS because 1997 Grange is a liquid, well-traded wine and one verified Langton's or Australian auction result could support a bid.",
+   "confidence_reason": "Label read, but no verified sold comps and fill unknown.",
+   "question_for_armitage": "What is the fill level (into neck, base of neck or top shoulder)? Is the cork and capsule sound with no seepage, and what does the handwritten tag mean?"
+  },
+  {
+   "cdid": 3067337,
+   "lot": 876,
+   "listing": "NEAR MISS",
+   "what_it_is": "Perth Mint 2001 Centenary of Federation Floral Emblems bi-metal $20 proof coin, 0.285 oz .9999 gold star centre in 0.346 oz .999 silver ring, 19.60 g, 32.10 mm, in timber box with technical specifications card",
+   "confidence": "Low",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067337.jpg",
+   "condition": "Coin appears clean proof with no visible spotting. Box lid engraved 'Centenary of Federation Floral Emblems Bi-Metal Coin'. Specifications card present. Certificate of authenticity and capsule condition not shown.",
+   "key_photo_findings": "Card reads Gold Content 0.285 troy oz, Silver 0.346 troy oz, AUD 20, 99.99% gold 99.9% silver, 19.60 g, 32.10 mm, 180 serrations. Obverse 'Elizabeth II Australia 20 Dollars'. Reverse shows Arms in gold star with floral emblems ring.",
+   "comps_kept": [],
+   "comps_dropped": "Valuer supplied no comps. My searches found only Numista, a Polish dealer listing (asking) and a Sterling Currency 3-coin set (different item). No sold comp found.",
+   "asking_note": "No asking prices viewed. Gold content alone (0.285 oz) is a meaningful floor at current spot, but spot was not looked up and bullion is not a comp.",
+   "working": "Identification confirmed from the spec card and box. No same-item sold comps, so flip_max_hammer = 0 and keep_max_hammer = 0. No maximum bid. NEAR MISS because the gold content gives a strong floor; a quick check of spot gold plus an eBay AU sold result would let a sensible bid be set.",
+   "confidence_reason": "Spec card read clearly, but no sold comps.",
+   "question_for_armitage": "Is the certificate of authenticity included, is the coin still sealed in its capsule, and are there any marks or spotting on the proof surfaces?"
+  },
+  {
+   "cdid": 3067168,
+   "lot": 707,
+   "listing": "DROP",
+   "drop_reason": "No verified sold comps. The valuer could not open any sold page, and the only snippets point to a modest-value flagon (UK winning bids about GBP 55 to 100, old or undated). So there is no basis for a maximum bid.",
+   "what_it_is": "Royal Salute 21 Year Old blended Scotch whisky, Chivas Brothers, blue (sapphire) ceramic flagon, 70cl. Pewter-look capsule, neck medallion, string tag. No box.",
+   "confidence": "Low",
+   "confidence_reason": "The label was read in the photo, but there are no sold comps at all.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "The single photo confirms the identification: the oval label reads Royal Salute 21 Blended Scotch Whisky, the base label reads Chivas Brothers, the flagon is blue ceramic, and the capsule and tags are intact. Fill level can't be seen through the ceramic. The valuer gave no comp URLs, so there was nothing to check or drop. There are no surviving comps, so no FLIP or KEEP maths applies. Both maximums are 0 and there is no maximum bid.",
+   "comps_kept": [],
+   "comps_dropped": "None supplied. The valuer's UK snippets (GBP 55 to 100, a GBP 60 sale in Dec 2019, a GBP 240 Couture edition) were never opened. They are also outside 24 months or a different item, so none count.",
+   "condition": "Capsule and tags look intact. Fill unknown (opaque ceramic). No box.",
+   "key_photo_findings": "Royal Salute 21 medallion label, Chivas Brothers base label, 70cl, capsule intact.",
+   "asking_note": "UK retail roughly GBP 87 to 92 (asking only, not comps).",
+   "question_for_armitage": "Can you confirm the seal is unbroken and give a rough fill check (weight or a shake test)? Is there a box or velvet bag?",
+   "thumbnail": ""
+  },
+  {
+   "cdid": 3067263,
+   "lot": 802,
+   "listing": "NEAR MISS",
+   "what_it_is": "Blue cloth album titled Spurlings Tasmanian Post Cards, holding about 36 Spurling real photo postcards (A-series numbers such as A503, A560, A632, A741, A626). Views of Launceston, Cataract Gorge, St Helens, Port Arthur, Queenstown and Mt Lyell, about 1920s to 1940s.",
+   "confidence": "Low",
+   "confidence_reason": "The identification is clear from the album title and the pencilled A-series numbers on the pages, but no sold comps were found. Many cards are probably fixed to the pages, and the condition of their backs is unknown.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "All nine photos were checked. The cover title reads Spurlings Tasmanian Post Cards. Eight pages each hold 4 real photo cards with Spurling-style captions, and A-numbers are pencilled on the grey pages. The fronts look clean, and the album spine and cover are worn. The valuer supplied no comp URLs. The Examiner report (about $2,200 for three albums of early cards) and the stamp auction estimates are not the same item and were never verified, so there is nothing to keep. With no surviving comps, both maximums are 0 and there is no maximum bid. It is a near miss because a clean 36-card Spurling set is a saleable lot, but there is no evidence to set a price.",
+   "comps_kept": [],
+   "comps_dropped": "None supplied. The Examiner three-album result (unverified, different early-1900s cards, no date) and the stampauctionnetwork estimates (estimates only, mixed publishers) do not count.",
+   "condition": "Card fronts look clean and bright in the photos. The album cover and spine are worn. Mounting method and card backs unknown.",
+   "key_photo_findings": "Album title read. A-series numbers visible. Includes a night view of the Launceston fountain, Port Arthur prison views and the Queenstown/Mt Lyell series.",
+   "asking_note": "No realised prices; only dealer listings of other Spurling items.",
+   "question_for_armitage": "Are the cards loose in corner mounts or glued to the pages? Are any backs written on or posted? Is the total card count 36, and are there any damaged or missing cards?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067263.jpg"
+  },
+  {
+   "cdid": 3067267,
+   "lot": 806,
+   "listing": "NEAR MISS",
+   "what_it_is": "Penfolds RWT Shiraz 2000, Barossa Valley, 750ml, bottle number 01512, red capsule",
+   "confidence": "Low",
+   "confidence_reason": "The label was clearly read (RWT 2000 Shiraz Barossa Valley, bottle 01512, 750ml), but there are no verified sold comps. The only price guides are a retail asking price and an unopened WineBid figure.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "Both photos confirm the label: Penfolds RWT 2000 Shiraz Barossa Valley, bottle 01512, 750ml, red capsule intact, label clean. The glass is dark, so the fill looks to be at the neck but can't be confirmed. The valuer supplied no comp URLs. The WineBid USD 155 figure (5 Oct 2025) was never opened and is a US venue, so it does not count. The Nick's AUD 170 figure is a retail asking price. With no surviving comps, both maximums are 0 and there is no maximum bid. It is a near miss because the wine has real value, but there is no verified sold evidence.",
+   "comps_kept": [],
+   "comps_dropped": "None supplied. The WineBid USD 155 (unopened), the Sotheby's 6-bottle estimate (estimate only) and Nick's AUD 170 (retail asking price) are all excluded.",
+   "condition": "Label and capsule good. Fill not confirmed. Storage history unknown.",
+   "key_photo_findings": "Vintage 2000 and bottle number 01512 read on the label. 750ml. Red capsule intact.",
+   "asking_note": "Nick's Wine Merchants retail AUD 170 (asking price). Unverified WineBid last sale USD 155.",
+   "question_for_armitage": "What is the fill level (into neck, top shoulder, etc.)? Is the capsule tight with no seepage? What is known about how it was stored?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067267.jpg"
+  },
+  {
+   "cdid": 3067273,
+   "lot": 812,
+   "listing": "NEAR MISS",
+   "what_it_is": "Penfolds RWT Shiraz 2002, Barossa Valley, 750ml, bottle no. 21727. Single bottle, no box.",
+   "confidence": "Low",
+   "confidence_reason": "The label is read clearly (RWT, 2002 Shiraz, Barossa Valley, 750ml, no. 21727), but there are no sold comps I could verify.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No comps, so no maximum bid. The valuer listed no comps, and my own searches found no dated sold result for a 2002 RWT 750ml that I could open. The WineBid figure (about US$87, 15 Feb 2026) only shows up in a search summary. WineBid and Langtons are both egress-blocked, so I can't confirm the price, currency, size or fill. Without surviving comps both methods give 0.",
+   "condition": "Red capsule intact. Clean label with small auction and stock stickers on the shoulder. The neck crop shows no obvious air gap below the capsule, so the fill looks into the neck. No box.",
+   "key_photo_findings": "Label read in photo 2: Penfolds RWT 2002 Shiraz Barossa Valley, bottle number 21727, 750ml. Identification confirmed.",
+   "comps_kept": [],
+   "comps_dropped": "None were supplied. The unverified WineBid summary (https://www.winebid.com/BuyWine/Item/10200510) is not a comp because I couldn't open the page.",
+   "asking_note": "Retail asking only, not comps: Nick's about $199, Cellarit $219 (https://www.cellarit.com.au/wine-41042-penfolds-rwt-shiraz-2002.aspx). Auction results usually come in well below these.",
+   "question_for_armitage": "Can you confirm the fill level (into neck or base of neck), and has the bottle been stored lying down in a cool place? Is there any cork seepage under the capsule?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067273.jpg",
+   "drop_reason": ""
+  },
+  {
+   "cdid": 3067276,
+   "lot": 815,
+   "listing": "NEAR MISS",
+   "what_it_is": "Penfolds RWT Shiraz 1999, Barossa Valley, 750ml, bottle no. 14745. Single bottle, no box.",
+   "confidence": "Low",
+   "confidence_reason": "The label is read clearly, but there are no sold comps for the 1999 vintage, and the fill looks lower than the valuer said.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No comps, so no maximum bid. The searches only found retail asking prices for 1999 and sold results for other vintages (1997, 2000, 2001, 2004). Those are not the same item. Without surviving comps both methods give 0.",
+   "condition": "Red capsule intact and the label is clean. The enlarged neck crop shows empty green glass just below the capsule. That means the fill sits at the base of the neck or high shoulder, not into the neck as the valuer said. That matters for a 27-year-old wine. No box.",
+   "key_photo_findings": "Label read in photo 2: Penfolds RWT 1999 Shiraz Barossa Valley, bottle number 14745, 750ml. The visible air gap below the capsule is a discount factor.",
+   "comps_kept": [],
+   "comps_dropped": "None were supplied. Other-vintage results (whisky.auction 2001, Lawsons 1997 and 2000, Sotheby's 2000 6-pack) were rejected because they are a different vintage or format.",
+   "asking_note": "Retail asking only: Nick's about $180 to $319 for 1999 RWT (https://www.nicks.com.au/products/1999-penfolds-rwt-barossa-shiraz). This is not a sold price.",
+   "question_for_armitage": "What is the exact fill level? The photo shows air below the capsule, so is it base of neck or top shoulder? Any seepage or a raised cork under the capsule? How has it been stored?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067276.jpg",
+   "drop_reason": ""
+  },
+  {
+   "cdid": 3067278,
+   "lot": 817,
+   "listing": "NEAR MISS",
+   "what_it_is": "Penfolds RWT Shiraz 2005, Barossa Valley, 750ml, bottle no. 048455. Single bottle, no box.",
+   "confidence": "Low",
+   "confidence_reason": "The label is read clearly, but there are no sold comps I could verify.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No comps, so no maximum bid. The searches found only retail asking prices (Nick's, Cellarit, Dan Murphy's) and no dated auction result for a 2005 RWT 750ml. Langtons is egress-blocked. Without surviving comps both methods give 0.",
+   "condition": "Red capsule intact and the label is clean. The neck crop shows a small air gap just below the capsule, so the fill looks into the neck or at the base of the neck. No box.",
+   "key_photo_findings": "Label read in photo 2: Penfolds RWT 2005 Shiraz Barossa Valley, bottle number 048455, 750ml. Identification confirmed.",
+   "comps_kept": [],
+   "comps_dropped": "None were supplied, so there was nothing to check.",
+   "asking_note": "Retail asking only: Nick's about $199 (https://www.nicks.com.au/products/2005-penfolds-rwt-barossa-shiraz), Cellarit $195 and $285 (https://www.cellarit.com.au/wine-118150-penfolds-rwt-shiraz-2005.aspx). These are not sold prices.",
+   "question_for_armitage": "Can you confirm the fill level and the storage history? Any seepage under the capsule?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067278.jpg",
+   "drop_reason": ""
+  },
+  {
+   "cdid": 3067280,
+   "lot": 819,
+   "listing": "NEAR MISS",
+   "what_it_is": "Penfolds RWT Barossa Valley Shiraz 2002, single 750ml bottle no. 21492, red capsule intact, label clean, no box.",
+   "condition": "Label and capsule look clean. Fill cannot be judged through the dark glass in the photos. A handwritten consignor sticker on the shoulder reads roughly 'MS3/18 SNK', meaning unclear.",
+   "confidence": "Low",
+   "confidence_reason": "Label read clearly in photo 2 (RWT, 2002 Shiraz, Barossa Valley, bottle 21492), but no verifiable sold comp with URL and date. The WineBid, middaysomewhere and similar result pages are blocked by the egress proxy.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "comps_kept": [],
+   "comps_dropped": "Valuer supplied no comps. The WineBid $87 (15 Feb 2026) figure comes only from a search-engine summary; winebid.com/BuyWine/Item/10200510 is egress-blocked for me too, so the price, currency and condition are unverified and it is not used.",
+   "asking_note": "Asking prices only: Cellarit AU$219 in stock, AU retail roughly $199 to $255 per search summaries (Nicks, Dan Murphy's), Hedonism UK. Not used for any maximum.",
+   "key_photo_findings": "Label, vintage and bottle number read. Capsule intact. Fill level not visible.",
+   "working": "Re-checked the photos: identification confirmed. Ran two more searches for auction results; nothing verifiable, and the result aggregators are blocked. No surviving comps, so FLIP = 0 and KEEP = 0 and there is no maximum bid. NEAR MISS because it is a well-known wine with an active resale market that a manual check of Langton's/Vickery/WineBid sold results could quickly price.",
+   "question_for_armitage": "What is the fill level (into neck, very top shoulder or lower), and what does the 'MS3/18 SNK' sticker mean? Any storage history?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067280.jpg"
+  },
+  {
+   "cdid": 3067289,
+   "lot": 828,
+   "listing": "DROP",
+   "what_it_is": "Taxidermy two-headed Hereford-type calf, curled resting pose, tail detached.",
+   "condition": "Tail detached and lying loose. Both muzzles show wear, splitting and flaking around the mouths and noses. Hide otherwise looks reasonable. Maker and age unknown.",
+   "confidence": "Low",
+   "confidence_reason": "Identification is clear from the photos, but no sold comps anywhere, only old dealer asks.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "comps_kept": [],
+   "comps_dropped": "No comps supplied or found. My own search turned up only the same 2016 USD 15,000 eBay ask and a 2019 NZ goat ask, neither a sale.",
+   "asking_note": "USD 15,000 ask (boingboing 2016) and NZ two-headed goat ask (newshub 2019). Not comps.",
+   "key_photo_findings": "Genuine two-headed specimen, detached tail, muzzle damage.",
+   "working": "No surviving comps, so FLIP = 0 and KEEP = 0, no maximum bid. A bulky, damaged novelty with no price evidence and awkward postage.",
+   "drop_reason": "No sold comps at all, visible damage (detached tail, muzzle wear), bulky and hard to post; there is no basis for any bid.",
+   "question_for_armitage": "Can the tail be reattached, and is there any provenance, maker or age for the mount?",
+   "thumbnail": ""
+  },
+  {
+   "cdid": 3067324,
+   "lot": 863,
+   "listing": "NEAR MISS",
+   "what_it_is": "Antique seed-pearl swallow bar brooch, gold (tag says marked 15ct and platinum), about 5cm, in a fitted box.",
+   "condition": "Looks sound in the photos; swallow and pearls appear complete, pin and C-catch present. Weight not given.",
+   "confidence": "Low",
+   "confidence_reason": "The stamped mark on the back of the bar is visible but too small and blurred to read even enlarged; the 15ct claim rests on the handwritten tag. No verifiable sold comps.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "comps_kept": [],
+   "comps_dropped": "No comps supplied. Smith and Singer AU0770/195 (seed pearl brooch c.1870, reported $650 hammer in a search summary) is a different design and could not be opened, so not used. Carters swallow brooch listings and Noble lots found in search are egress-blocked.",
+   "asking_note": "Dealer asks US$695 (Mae Jean Vintage) and about GBP 695 (Laurelle, three swallows). Not comps.",
+   "key_photo_findings": "Mark present on reverse of bar near left end but unreadable. Tag reads 'Marked 15ct & plat'.",
+   "working": "Enlarged the mark on photo 2: stamp visible, characters not legible. No surviving comps, so FLIP = 0 and KEEP = 0, no maximum bid. NEAR MISS because it has intrinsic gold value and Australian auction records (Carters, Noble) could be checked by hand.",
+   "question_for_armitage": "Please confirm the exact mark wording and the weight in grams, and whether any pearls are missing or replaced.",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067324.jpg"
+  },
+  {
+   "cdid": 3067339,
+   "lot": 878,
+   "listing": "NEAR MISS",
+   "what_it_is": "Deco-style rectangular plaque ring, six small old cut diamonds in two rows of three plus one at each shoulder, white metal top on yellow gold shank (18ct per lot title), in lilac box.",
+   "confidence": "Low",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067339.jpg",
+   "comps_kept": [],
+   "comps_dropped": "The valuer offered none. The Gorringes GBP 1,200 snippet is not used: its stones are about 1.5ct, far bigger than this ring's, the page was never opened and there is no date.",
+   "working": "No comps, so no maths and no maximum bid. The photos confirm the identification. No hallmark is visible in any of the three photos, and the stone weight is a guess by eye only.",
+   "condition": "Looks sound in the photos, with all stones present and no obvious damage. Hallmark not shown.",
+   "key_photo_findings": "Two rows of three old cut diamonds in a millegrain white metal plaque, one diamond at each shoulder, yellow shank. No mark visible.",
+   "confidence_reason": "No sold comps, and the hallmark cannot be read in the photos.",
+   "question_for_armitage": "Can you photograph the inside of the shank to show the 18ct mark and any platinum mark, and tell us the total diamond weight and ring size?",
+   "asking_note": "Only dealer asking prices seen for similar deco rings; none used."
+  },
+  {
+   "cdid": 3067067,
+   "lot": 606,
+   "listing": "NEAR MISS",
+   "what_it_is": "Wedgwood ordinary butterfly lustre bottle vase (Daisy Makeig-Jones design, c1915-29): pale blue mother-of-pearl ground, orange lustre inside. The base has a gilt Portland vase mark, Wedgwood England and a gilt Z pattern number.",
+   "confidence": "Low",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067067.jpg",
+   "comps_kept": [],
+   "comps_dropped": "The valuer offered none. The James D Julia 2007 Z4832 sale at USD 288 is 19 years old and from the US, so not used. The 1stDibs USD 2,250 and Sellingantiques GBP 200 figures are asking prices, so not used.",
+   "working": "No sold comps in a usable time window, so no maths and no maximum bid. On the enlarged base the gilt Portland vase mark, WEDGWOOD, star and ENGLAND read clearly. The gilt Z pattern number is only partly legible (it starts Z4). The paper label reading 4860 looks like a stock or sale number, not a pattern number.",
+   "condition": "No obvious chips or cracks in the three photos, and the lustre looks bright. The rim was not checked closely for wear.",
+   "key_photo_findings": "Gilt Wedgwood Portland vase mark read. Z pattern number partly legible. Butterflies on pale blue lustre, orange lustre inside.",
+   "confidence_reason": "The mark is read, but there are no recent sold comps.",
+   "question_for_armitage": "Can you confirm the full Z pattern number on the base and the height, and tell us about any chips, cracks, restoration or lustre wear on the rim and foot?",
+   "asking_note": "Dealers are asking from GBP 200 to USD 2,250 for Z4832 butterfly vases; not used."
+  },
+  {
+   "cdid": 3067079,
+   "lot": 618,
+   "listing": "DROP",
+   "what_it_is": "Johnnie Walker Scotch Whisky Striding Man shop counter advertising figure. Painted composition on a green plinth with a plaque reading Born 1820 Still going strong; the cane is a thin rod.",
+   "confidence": "Low",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "drop_reason": "No dated sold comps for the same figure. A search turned up a WeWhisky result of GBP 325, but that is a different, earlier (c1920s) figure with no confirmed sale date, so it cannot be used.",
+   "comps_kept": [],
+   "comps_dropped": "The valuer offered none. Two search results are not used because they are different items with unconfirmed dates: the just-whisky GBP 50 damaged statue snippet and the WeWhisky GBP 325 c1920s figure.",
+   "working": "No comps, so no maths and no maximum bid.",
+   "condition": "Only one photo. The paint looks fairly clean and the plinth edges are worn. The cane looks like a replacement rod. The back is not shown.",
+   "key_photo_findings": "Plaque reads Johnnie Walker Scotch Whisky, Born 1820 Still going strong. Front view only.",
+   "question_for_armitage": "What is it made of and how tall is it? Is the cane original, and is there any repair or damage on the back?"
+  },
+  {
+   "cdid": 3067128,
+   "lot": 667,
+   "listing": "DROP",
+   "drop_reason": "No sold comps for the Japanese part of Giafferri's costume series, and hand colouring and completeness cannot be confirmed from photos. No maximum bid.",
+   "what_it_is": "Paul Louis de Giafferri, L'Histoire du costume feminin mondial, La Splendeur des Modes Japonaises, loose folio part with cover and coloured plates of Japanese costume with French captions, age toned (1920s).",
+   "confidence": "Low",
+   "confidence_reason": "Title read but no comps at all.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "comps_kept": [],
+   "comps_dropped": "Valuer gave no comps. The Potter and Potter lot 275 is a live bid on the complete multi-portfolio set plus a men's set, not a sold price and not the same item.",
+   "working": "Cover title read in photo 1. No same-item sold result found, so no keep max and no resale figure for a flip max. Both 0.",
+   "condition": "Toned sheets, edges look handled; plate count unknown.",
+   "key_photo_findings": "Cover title legible; three plates shown, colouring looks hand applied (pochoir style).",
+   "question_for_armitage": "How many plates are in the folio and is the cover and text complete? Any tears, foxing or water staining?",
+   "thumbnail": ""
+  },
+  {
+   "cdid": 3067131,
+   "lot": 670,
+   "listing": "NEAR MISS",
+   "what_it_is": "Wedgwood bone china square flared vase, gilt dragons on powder blue ground, floral garland inside the rim, printed Portland vase Wedgwood England mark, painted pattern number Z4?80 (third digit unclear, likely Z4480 or Z4580, not Z4440 as the valuer said), c.1920s.",
+   "confidence": "Low",
+   "confidence_reason": "Pattern number only partly read and no sold comps.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "comps_kept": [],
+   "comps_dropped": "Valuer gave no comps. Guides cited (Z4829 lustre pieces, Woolley and Wallis 2015) are a different pattern and shape, or too old.",
+   "working": "Mark enlarged: Portland vase printed mark, WEDGWOOD ENGLAND, painted Z4?80 over 1. The powder blue ground looks matt and mottled rather than the iridescent Makeig-Jones dragon lustre, so the valuer's lustre attribution is not confirmed. No same-item sold comps, so both maximums are 0 and there is no maximum bid.",
+   "condition": "No chips or cracks visible in the two photos; light wear to the foot rim.",
+   "key_photo_findings": "Mark partly read; no obvious damage; ink or pencil marking inside the rim.",
+   "question_for_armitage": "Can you confirm the pattern number on the base and whether the glaze is lustre (iridescent inside) or plain powder blue? Height, and any chips, cracks, restoration or gilt wear?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067131.jpg"
+  },
+  {
+   "cdid": 3067138,
+   "lot": 677,
+   "listing": "NEAR MISS",
+   "what_it_is": "Cardhu 11 Year Old, Diageo Special Release 2020, 700ml, with matching printed tube.",
+   "confidence": "Low",
+   "confidence_reason": "Label read, but no readable sold comps (auction pages blocked by proxy).",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "comps_kept": [],
+   "comps_dropped": "Just Whisky GBP 57.50 (31 Oct 2023) could not be opened (proxy blocked) and is out of window. Grand Whisky Auction lot 761395 and Whisky Shop Auctions a20024 were also blocked, so I couldn't read them. Retail prices (TWE, CGars, House of Malt) are asking prices, not comps.",
+   "working": "Label and tube read in photo: Cardhu 11 years, 2020 Special Release. Fill looks good, into the neck. No readable sold comp with URL, price and date, so both maximums are 0 and there is no maximum bid.",
+   "condition": "Capsule looks intact, fill high (into neck), tube present and clean.",
+   "key_photo_findings": "Label and tube match the 2020 Special Release; fill into neck.",
+   "question_for_armitage": "Is the capsule seal intact and the tube undamaged, and is this the 700ml version?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067138.jpg"
+  },
+  {
+   "cdid": 3067145,
+   "lot": 684,
+   "listing": "NEAR MISS",
+   "what_it_is": "Seppelt Para Liqueur, 1930 vintage, bottled by B. Seppelt & Sons Pty Ltd, South Australia. Squat decanter-shaped bottle with a round 1930 neck label and a brown capsule, tied with string at the neck.",
+   "condition": "Main label is aged and scuffed with gold edging worn. Capsule looks intact. Glass is too dark to judge the fill level, and ullage cannot be seen.",
+   "key_photo_findings": "One photo. Neck label reads 1930 clearly. Body label reads PARA Liqueur, B. Seppelt & Sons Pty Ltd, South Australia. The bottle size and any volume marking cannot be read. The identification matches the valuer's.",
+   "comps_kept": [],
+   "comps_dropped": "The valuer supplied no comps. I searched again: a Noble Numismatics lot (noble.com.au lot id 386596) came up, but egress is blocked so I could not check what it is or its price. It is not used.",
+   "asking_note": "Asking prices only, none used: Nick's 8-bottle Para museum set at $1,999 (set price), Dan Murphy's 1930 Single Vineyard Para listing (price not readable), and Langtons Para lots with no vintage or result shown.",
+   "confidence": "Low",
+   "confidence_reason": "The label and vintage are read clearly, but there are no sold comps and the fill level is unknown.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No surviving sold comps, so there is no resale figure and no lowest comp. FLIP = 0 and KEEP = 0, so no maximum bid. A rare early Para vintage could be worth bidding on, but there is no evidence, so this is a near miss. Check a Langtons or Noble result by hand before bidding.",
+   "question_for_armitage": "Can you confirm the fill level (a backlit photo please), the bottle volume, whether the cork or capsule shows any seepage, and any provenance or cellaring history?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067145.jpg"
+  },
+  {
+   "cdid": 3067191,
+   "lot": 730,
+   "listing": "DROP",
+   "what_it_is": "Full-size-looking student violin with bow in a hard case (blue lining). Catalogued as Franz Sandner West Germany. No label is visible in the photos.",
+   "condition": "Top and back varnish looks tidy. Photo 3 shows some edge wear on the lower bout. The bow hair is present. Strings are fitted. The tag shows 1005 (probably a consignment number).",
+   "key_photo_findings": "Three photos. No maker's label or brand is legible, so the Sandner attribution rests only on the catalogue title. The back looks like one piece with a flame-type finish.",
+   "comps_kept": [],
+   "comps_dropped": "The valuer supplied no comps. The Tennants 2017 GBP 130 sale was rightly excluded: it is stale and a different model.",
+   "asking_note": "eBay and Reverb asking prices for Sandner outfits only, none used.",
+   "confidence": "Low",
+   "confidence_reason": "The mark is unread and there are no sold comps.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No surviving sold comps, so FLIP = 0 and KEEP = 0 and there is no maximum bid. A low-value student outfit with an unconfirmed maker leaves nothing to work with.",
+   "drop_reason": "No label read, no qualifying sold comps, and a low-value student outfit.",
+   "question_for_armitage": ""
+  },
+  {
+   "cdid": 3067271,
+   "lot": 810,
+   "listing": "NEAR MISS",
+   "what_it_is": "Penfolds RWT Barossa Valley Shiraz 2002, 750ml, bottle number 21437, single bottle, no box.",
+   "condition": "The label is clean with no visible stains or tears. The red capsule looks intact. In photo 1 the fill looks to be into the neck, which is good for 2002.",
+   "key_photo_findings": "The label reads clearly: Penfolds RWT 2002 Shiraz Barossa Valley, bottle no. 21437, 750ML. The identification matches the valuer's.",
+   "comps_kept": [],
+   "comps_dropped": "The valuer supplied no comps. The only auction figure is a search-engine summary of a WineBid sale at $87 on 15 Feb 2026 (winebid.com/BuyWine/Item/10200510). Egress is blocked, so I could not check the item, quantity or currency (probably USD). It is not used.",
+   "asking_note": "Retail asking prices only: Cellarit $219, Nick's $336, Dan Murphy's listing DM_912813. These are well above the one unverified auction figure.",
+   "confidence": "Low",
+   "confidence_reason": "The label and fill are read clearly, but there are no verified sold comps.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No surviving sold comps, so FLIP = 0 and KEEP = 0 and there is no maximum bid. If the WineBid USD 87 (about AUD 130) is confirmed, net resale after fees and postage would be about AUD 100, giving a flip max of about $40. That figure is not verified and not used. This is a near miss pending a checked Langtons result.",
+   "question_for_armitage": "Can you confirm the fill level and the storage history, and whether there is any cork seepage?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067271.jpg"
+  },
+  {
+   "cdid": 3067277,
+   "lot": 816,
+   "listing": "NEAR MISS",
+   "what_it_is": "Penfolds St Henri Shiraz 2000, 750ml, red capsule intact, clean label, no box",
+   "condition": "Label clean and complete. The capsule looks intact. Photo 1 suggests the fill reaches the neck, but I can't be sure from these photos. No box.",
+   "key_photo_findings": "I read the label myself: 'St Henri Shiraz', 'Vintage 2000', the Penfolds script and 750ml. The handwritten tag '4435/5' is Armitage's stock note.",
+   "confidence": "Low",
+   "confidence_reason": "The label is read, but there are no sold comps. The only prices found are retail asking prices.",
+   "comps_kept": [],
+   "comps_dropped": "The valuer gave no comps. My search found only a Dan Murphy's retail listing (danmurphys.com.au/product/DM_732290) and Decanter news about 1950s to 1970s vintages. Neither is a sold price for a 2000 St Henri 750ml.",
+   "asking_note": "The 2000 vintage is listed at Dan Murphy's and Nick's Wine Merchants retail. I did not confirm those prices, and they are not comps. Recent releases retail at about $108 to $135.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No comps survived, so there is no maximum bid. With no sold price there is no likely resale and no net resale, so both methods give 0. It is worth something, but I can't set a number without a dated sold result (for example Langton's or Wine Auctioneer past results).",
+   "question_for_armitage": "Can you confirm the fill level (into neck or top shoulder)? Has the bottle been stored lying down in a cool place? Is there any seepage under the capsule?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067277.jpg"
+  },
+  {
+   "cdid": 3067281,
+   "lot": 820,
+   "listing": "NEAR MISS",
+   "what_it_is": "Penfolds Bin 707 Cabernet Sauvignon 2006, 750ml, numbered bottle 49833, red capsule, no box",
+   "condition": "Label clean. A close-up crop of the neck shows a ridged top, which looks like a screwcap rather than a cork under a capsule. The fill is not clearly visible behind the capsule. No box.",
+   "key_photo_findings": "I read the label myself: 'Bin 707 Cabernet Sauvignon 2006', bottle no. 49833, 750ml. The neck crop shows threaded ridges at the top of the red closure.",
+   "confidence": "Low",
+   "confidence_reason": "The label is read, but there are no dated sold comps within 24 months. The only prices found are asking prices or out-of-range results.",
+   "comps_kept": [],
+   "comps_dropped": "The valuer gave no comps. The 2019 Waddington's lot was 2 bottles of 2006 plus 1 of 2004 at CAD 900. It is outside 24 months and a mixed lot, so it is not a comp. The Langton's 1999 Bin 707 sale is a different vintage.",
+   "asking_note": "Cellarit lists the 2006 750ml at $560 (an asking price, not a comp). A Dan Murphy's magnum listing exists too.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No comps survived, so there is no maximum bid. Both methods give 0. The retail asking prices suggest real value, but asking prices can't set a maximum under the rules. A Langton's sold result for the 2006 would unlock a KEEP figure.",
+   "question_for_armitage": "Is the closure a screwcap or a cork? What is the fill level? Has it been stored well, and is there any damage to the closure?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067281.jpg"
+  },
+  {
+   "cdid": 3067283,
+   "lot": 822,
+   "listing": "DROP",
+   "what_it_is": "French spelter figural mantel clock, reclining maiden with doves, 'Jeunesse Decouvrant l'Amour par Francois Moreau (Med d'Or)', on a red and white marble base with an enamel dial and a French bell-strike movement",
+   "condition": "The spelter patina is worn. The dial and bezel look good. A key is present. There is a possible hairline or chip at the marble edge in photo 4, but I can't confirm it. I can't tell if the movement runs.",
+   "key_photo_findings": "The plaque crop reads 'Jeunesse Decouvrant l'Amour', not 'Devoilant' as the valuer wrote. The signature 'Francois Moreau' is cast into the case. The movement is brass with a bell strike. It is a single clock, not a garniture.",
+   "confidence": "Low",
+   "confidence_reason": "The mark is read, but there are no sold comps for this model.",
+   "comps_kept": [],
+   "comps_dropped": "The valuer gave no comps. The Dirk Soulis results I found (a Les Vendanges garniture at $450, a La Perle mystery clock at $1,900, an amphora maiden garniture at $275) are different models or garnitures, so they are not the same item. The eBay.de listing could not be opened (the proxy blocked it).",
+   "asking_note": "The 1stdibs and antiques-in-france Moreau clock prices are dealer asking prices only.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No comps survived, so there is no maximum bid. Both methods give 0.",
+   "drop_reason": "There are no sold comps for this model. It is a common spelter production piece, and the heavy, fragile marble base makes postage and resale costly.",
+   "question_for_armitage": "Does the movement run and strike? Is there a chip or crack in the marble base near the clock case?"
+  },
+  {
+   "cdid": 3067285,
+   "lot": 824,
+   "listing": "NEAR MISS",
+   "what_it_is": "Large seated glazed ceramic cheetah in the Italian style, hand painted black spots on a yellow and white ground, amber eyes, about 78 cm. A 1960s-70s decorator piece. No maker mark is visible and the base is not shown.",
+   "confidence": "Low",
+   "confidence_reason": "The type is clear but there is no maker mark, the base and underside are not shown, and I found no sold comps. Only dealer asking prices exist.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "The valuer gave no comps. I searched again for large Italian ceramic cheetahs sold at auction and got only 1stdibs, Chairish and eBay DE asking listings, so still no comps. With no surviving sold comps there is no FLIP or KEEP maximum and no maximum bid at all. It is a near miss because these sell well retail, but without an auction sold price the numbers cannot be checked. It is also bulky to post, so a flip would have to be local pickup.",
+   "comps_kept": [],
+   "comps_dropped": "None to drop. The valuer supplied no comps.",
+   "asking_note": "Asking prices only, not used: 1stdibs about US$1,200 to US$2,100, Chairish about US$500 to US$2,368. Dealer retail, well above likely auction levels.",
+   "condition": "From the three photos the glaze looks bright with no obvious chips on the face, ears or tail. Paws, base and back are only partly seen.",
+   "key_photo_findings": "Photos 1 and 2 show front and three-quarter views, photo 3 is a close-up of the head. There is no view of the base, so no mark could be read.",
+   "question_for_armitage": "Can you send a photo of the base or underside for any maker mark or 'Italy' stamp, and confirm there are no chips, cracks or restorations, especially to the ears, tail tip and paws? What is the exact height?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067285.jpg"
+  },
+  {
+   "cdid": 3067308,
+   "lot": 847,
+   "listing": "DROP",
+   "what_it_is": "White metal ring, catalogued as 14ct white gold, set with a checkerboard-cut orange stone (possibly citrine) with bars of small white accent stones each side, in a lilac box.",
+   "confidence": "Low",
+   "confidence_reason": "I could not read any gold or maker mark in either photo, the stone is unidentified, and there are no sold comps.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No sold comps with a URL and date turned up for the same or a close ring. The only auction result the valuer mentioned (Heritage, US$625) is a different ring, so it is not a comp. With no comps there is no maximum bid.",
+   "comps_kept": [],
+   "comps_dropped": "None supplied. The Heritage 14k citrine ring the valuer mentioned is a different design and was not treated as a comp.",
+   "drop_reason": "No sold comps, no readable 14ct mark, and the stone and diamond content are unconfirmed, so any value would be a guess.",
+   "asking_note": "Retail asking pages only (AUD 950 to 1,025 for larger citrine and diamond rings). Not comparable and not used.",
+   "condition": "Looks clean in the photos. The shank inside and any hallmark are not visible.",
+   "key_photo_findings": "The enlarged side view shows pav\u00e9-style small stones on the shoulders and a faceted orange stone. There is no legible stamp.",
+   "question_for_armitage": "Is the ring stamped 14ct or 585, and is there a maker's mark? What are the weight and ring size, and has the orange stone been tested as citrine?"
+  },
+  {
+   "cdid": 3067310,
+   "lot": 849,
+   "listing": "NEAR MISS",
+   "what_it_is": "Tiffany & Co 1837 collection sterling silver cushion-square bangle. The inside is stamped '(c) TIFFANY&CO 925' and the outside has cartouches reading 925, T&CO and 1837. The cushion-square shape is the factory design, not damage.",
+   "confidence": "Low",
+   "confidence_reason": "I read the marks in both photos, but there are no verified sold comps. The only sold figure found (eBay US item 276029273002, US$494.99) could not be opened because eBay is blocked, so its date and condition are unconfirmed.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "The valuer gave no comps. I searched again and tried to open eBay item 276029273002, but ebay.com is blocked by the network proxy. Search results were otherwise 1stdibs and eBay DE asking listings. No surviving sold comps, so no FLIP or KEEP maximum and no maximum bid. It is a near miss because genuine 1837 bangles resell readily, but the numbers cannot be checked without a confirmed sold price. The surface shows general wear and would need polishing.",
+   "comps_kept": [],
+   "comps_dropped": "None supplied. The eBay US item 276029273002 'sold US$494.99' could not be opened (blocked), so it was not used.",
+   "asking_note": "Asking or unverified only: 1stdibs cushion bangle US$876, narrow 1837 bangle US$498, eBay DE 12 mm cuff US$230, and eBay US claimed sold US$494.99 (unverified).",
+   "condition": "General surface wear and scratching. The cushion shape looks consistent with the design. No dents or cracks are seen, but the full circumference is not shown in close-up.",
+   "key_photo_findings": "Photo 1 clearly shows 925 / T&CO / 1837 on the outside and TIFFANY&CO 925 inside, with a tape measure for scale (about 7 cm across). Photo 2 shows the overall cushion shape.",
+   "question_for_armitage": "Can you give the weight in grams and the inner dimensions? Does it have any dents or distortion, and does it come with a Tiffany pouch or box? Can you confirm it is not a replica (the font and stamp depth look right in the photos)?",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067310.jpg"
+  },
+  {
+   "cdid": 3067321,
+   "lot": 860,
+   "listing": "DROP",
+   "what_it_is": "Two 9ct gold bracelets (catalogue title): an oval belcher link with bolt clasp and a fine flat anchor/mariner link with spring ring. No weight given.",
+   "confidence": "Low",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "The valuer supplied no comps and I found none to add. Value depends only on gold weight, which is unknown. No comps, so no maximum bid. Already at $190 with 13 bids against a $130-150 estimate.",
+   "drop_reason": "No comps, no weight, no 9ct mark readable in the one photo, and already bid past the estimate ($190, 13 bids).",
+   "comps_kept": [],
+   "comps_dropped": "None supplied by the valuer.",
+   "condition": "Looks good, but there is only one photo.",
+   "key_photo_findings": "Single photo. Belcher bracelet is about 19 to 20 cm against the tape; the mariner bracelet is fine and light. No clasp stamps can be read, even enlarged.",
+   "thumbnail": "",
+   "question_for_armitage": "What is the total weight in grams, and are both bracelets stamped 9ct or 375?"
+  },
+  {
+   "cdid": 3067325,
+   "lot": 864,
+   "listing": "NEAR MISS",
+   "what_it_is": "Hinged rose gold bangle with heart padlock and safety chain, catalogue says stamped 9ct. Probably early 20th century, British hallmarked, and probably hollow.",
+   "confidence": "Low",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "The valuer supplied no comps and I found none to add. All the valuer's notes are asking prices or different, heavier items. No comps, so no maximum bid. Estimate $250-350, no bids yet.",
+   "comps_kept": [],
+   "comps_dropped": "None supplied by the valuer. The Dawsons 42.3 g bracelet and the eBay snippets were rightly left out (different form or weight, or no confirmed sale).",
+   "condition": "Surface wear. Possibly hollow. No dents visible, but the back half is not fully shown.",
+   "key_photo_findings": "Enlarged, the tongue shows a row of struck marks: what looks like an assay office symbol, a 9 and a third mark that is only partly legible. This fits a British 9ct hallmark but was not fully read. The heart padlock has screw-head detail and a keyhole, and the safety chain is attached.",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067325.jpg",
+   "question_for_armitage": "What is the weight in grams, is it hollow or solid, are there any dents or splits, and does the padlock carry its own 9ct mark?"
+  },
+  {
+   "cdid": 3067329,
+   "lot": 868,
+   "listing": "NEAR MISS",
+   "what_it_is": "Victorian Etruscan revival gold brooch with applied leaves, three green stones and a fringe of drops. Catalogue says it acid tests as 14ct, with minor damage. The back has a glazed locket compartment, safety chain and pin.",
+   "confidence": "Low",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "The valuer supplied no comps and I found none to add. The dealer listings are asking prices only. No comps, so no maximum bid. Estimate $500-750, no bids yet.",
+   "comps_kept": [],
+   "comps_dropped": "None supplied by the valuer.",
+   "condition": "Minor damage per the catalogue, but I could not see it in the photos. About 6 cm tall without the fringe.",
+   "key_photo_findings": "No mark visible on the front or back, so the carat rests on the house's acid test. The stones are bright green emerald-cut and untested. The back has a glazed locket panel with hair or fabric behind it, and a C-catch pin.",
+   "thumbnail": "/home/user/Armitage/work/thumbs/3067329.jpg",
+   "question_for_armitage": "What is the minor damage (missing drops, stone chips, pin), what is the weight in grams, and have the green stones been tested as emerald or paste?"
+  }
+ ]
+}

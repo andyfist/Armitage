@@ -32,7 +32,7 @@ def coverage(a):
     d = data[a]; recs = d['recs']; A = AUC[a]
     if not recs: return f'<div class="cov"><h3>{A["name"]}</h3><p class="mut">Not started yet. Starts after auction 1 is published.</p></div>'
     n = lambda s: sum(1 for x in recs.values() if x['state'] == s)
-    unsc = [x for x in recs.values() if x['state'] == 'UNSCANNED']; nis = n('NOT_IN_SALE')
+    unsc = [x for x in recs.values() if x['state'] == 'UNSCANNED' and 'http 302' not in str(x.get('reason'))]; nis = n('NOT_IN_SALE') + sum(1 for x in recs.values() if x['state'] == 'UNSCANNED' and 'http 302' in str(x.get('reason')))
     found = n('SCANNED') + len(unsc)
     un = ''.join(f'<li>cdid {x["cdid"]}: {E(str(x.get("reason")))}</li>' for x in unsc) or '<li>None.</li>'
     extra = d['notes'].get('coverage_note', '')

@@ -1,7 +1,7 @@
 {
- "bottom_line": "Auction 1 has no clear flips. Of 56 candidates, the top 30 were researched against sold prices. That left 1 KEEP (lot 320, vintage ports, but the bid is already above its ceiling), no FLIPs and 10 near misses that need a look at viewing. Most searches found no verified sold comps, and a lot with no comps gets no maximum bid.",
- "blocked": "The verifiers could not open eBay sold listings, Artrecord or Langtons product pages (blocked), so Langtons prices for lot 320 come from search summaries only. No logins were tried anywhere.",
- "run": "wf_df7f96ac-58e (script work/wf_scan.js in the repo, resume with the same args)",
+ "bottom_line": "Auctions 1 and 2 are scanned with every photo viewed and researched. So far there are no clear flips and no KEEP with strong sold support. Auction 2 has the more interesting lots (1964 Macallan, Penfolds Grange and RWT, gold, silver, Tasmanian pottery and silver). A market-guide pass with sold, unsold and asking evidence is still running, and auction 3 is being scanned. Bids move fast near the close, so check them before you act.",
+ "blocked": "Closed to this session: eBay AU, Wine-Searcher and Australian Whisky Auctions answer 403 from the sites themselves, so their prices come from the user's own browser and are marked unverified. Langtons, Grays, Wine Owners and Scotch Whisky Auctions were reachable after the network change. Early research ran before that change and rests partly on search snippets. No logins were tried anywhere.",
+ "run": "Auction 1: wf_df7f96ac-58e. Auction 2: wf_29965415-738. Auction 3: wf_d0184d16-18c. Market passes: wf_9ec23b92-f3e (auction 1), wf_8e3f20e1-c4b (auction 2). Scripts wf_scan.js and wf_market.js in work/.",
  "unscanned": "none. cdid 3070210 redirects to the catalogue index, so it is not a lot",
  "assumptions": [
   "Estimates were ignored when scoring, as you asked. This was added part way through: about the first 18 batches (roughly lots 1 to 270) were first judged CANDIDATE or SKIP while the estimate could still influence the call. Every candidate was then rescored blind to the estimate and bid. A lot skipped early because its estimate looked fair was not re-looked at.",
@@ -11,6 +11,8 @@
   "Bid counts come from each lot page bid history. No bidder numbers or locations were kept.",
   "The top 30 candidates by blind score were researched. The other 26 are listed under Not researched.",
   "Confidence is Low on every pick. High needs a mark read in the photos plus 2 matching sold comps, and none met that.",
-  "Scanning ran at about one request a second with at most 3 downloaders at once."
+  "Scanning ran at about one request a second with at most 3 downloaders at once.",
+  "Auction 2 catalogue index lists 361 lots and all 361 were scanned. cdids from 3067423 redirect to the catalogue index and are not lots.",
+  "Wine and whisky prices from Scotch Whisky Auctions were opened and matched by Claude. eBay AU and Wine-Searcher figures supplied by the user through the Claude browser were not opened by Claude and are marked unverified."
  ]
 }
