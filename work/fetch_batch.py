@@ -5,7 +5,7 @@ and contact sheets work/sheets/<cdid>.jpg (plus work/sheets/<cdid>_full.txt list
 import sys, re, json, time, subprocess, html, os, datetime
 from PIL import Image, ImageDraw
 BASE='https://armitage.bidsonline.com.au'
-CH={'1':28711,'2':28712}; RANGE={'1':(1,496),'2':(601,961)}
+CH={'1':28711,'2':28712,'3':28713}; RANGE={'1':(1,496),'2':(601,961),'3':(970,1353)}
 W=os.path.dirname(os.path.abspath(__file__))
 def curl(url, out=None):
     for attempt in range(3):
