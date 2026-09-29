@@ -1,7 +1,7 @@
 {
- "bottom_line": "Auctions 1 and 2 are scanned with every photo viewed. Auction 1 now has a full market pass: the strongest sold support is for lot 62 (Ebatarinja watercolour, bid well under its KEEP ceiling). Lot 35 (London map) and lot 336 (Schiele book lot) are weaker than they look: lot 35 is torn and cracked against near-fine comps, and lot 336 rests on sold prices from 2017 and 2020. Lot 370 (Mikasa service) is already bid past its ceiling. Auction 2 market pass and auction 3 are still running. Bids move fast near the close, so check them before you act.",
+ "bottom_line": "Auctions 1 and 2 are scanned with every photo viewed. Auction 1 now has a full market pass: the strongest sold support is for lot 62 (Ebatarinja watercolour, bid well under its KEEP ceiling). Lot 35 (London map) and lot 336 (Schiele book lot) are weaker than they look: lot 35 is torn and cracked against near-fine comps, and lot 336 rests on sold prices from 2017 and 2020. Lot 370 (Mikasa service) is already bid past its ceiling. The auction 2 and auction 3 market passes are still running. Bids move fast near the close, so check them before you act.",
  "blocked": "Closed to this session: eBay AU, Wine-Searcher and Australian Whisky Auctions answer 403 from the sites themselves, so their prices come from the user's own browser and are marked unverified. Langtons, Grays, Wine Owners and Scotch Whisky Auctions were reachable after the network change. Early research ran before that change and rests partly on search snippets. No logins were tried anywhere.",
- "run": "Auction 1: wf_df7f96ac-58e. Auction 2: wf_29965415-738. Auction 3: wf_d0184d16-18c. Market passes: wf_9ec23b92-f3e (auction 1), wf_8e3f20e1-c4b (auction 2). Scripts wf_scan.js and wf_market.js in work/.",
+ "run": "Auction 1: wf_df7f96ac-58e. Auction 2: wf_29965415-738. Auction 3: wf_d0184d16-18c. Market passes: wf_9ec23b92-f3e (auction 1), wf_8e3f20e1-c4b (auction 2), wf_e26cb093-2c9 (auction 3). Scripts wf_scan.js and wf_market.js in work/.",
  "unscanned": "none. cdid 3070210 redirects to the catalogue index, so it is not a lot",
  "assumptions": [
   "Estimates were ignored when scoring, as you asked. This was added part way through: about the first 18 batches (roughly lots 1 to 270) were first judged CANDIDATE or SKIP while the estimate could still influence the call. Every candidate was then rescored blind to the estimate and bid. A lot skipped early because its estimate looked fair was not re-looked at.",
@@ -13,6 +13,7 @@
   "Confidence is Low on every pick. High needs a mark read in the photos plus 2 matching sold comps, and none met that.",
   "Scanning ran at about one request a second with at most 3 downloaders at once.",
   "Auction 2 catalogue index lists 361 lots and all 361 were scanned. cdids from 3067423 redirect to the catalogue index and are not lots.",
-  "Wine and whisky prices from Scotch Whisky Auctions were opened and matched by Claude. eBay AU and Wine-Searcher figures supplied by the user through the Claude browser were not opened by Claude and are marked unverified."
+  "Wine and whisky prices from Scotch Whisky Auctions were opened and matched by Claude. eBay AU and Wine-Searcher figures supplied by the user through the Claude browser were not opened by Claude and are marked unverified.",
+  "Auction 3 (lots 970-1353, closing from 5:33 PM) catalogue index lists 365 lots and all 365 were scanned. Catalogues 4 (lots 1395-1729) and 5 (lots 1730-2044) exist but have not been scanned."
  ]
 }

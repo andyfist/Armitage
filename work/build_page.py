@@ -18,7 +18,8 @@ def thumb(cd):
     return f'<img class="th" alt="" src="data:image/jpeg;base64,{base64.b64encode(open(p,"rb").read()).decode()}">' if os.path.exists(p) else '<div class="th none">no photo</div>'
 
 AUC = {'1': dict(name='Auction 1', label='Online Auction 30th September Lots 1-496', lots='1 to 496', first=3069703, last=3070215, start='12:45 PM', chid=28711),
-       '2': dict(name='Auction 2', label='Lots 601-961', lots='601 to 961', first=3067062, last=3067440, start='3:32 PM', chid=28712)}
+       '2': dict(name='Auction 2', label='Lots 601-961', lots='601 to 961', first=3067062, last=3067440, start='3:32 PM', chid=28712),
+       '3': dict(name='Auction 3', label='Online Auction 30th September lots 970-1353', lots='970 to 1353', first=3068394, last=3068770, start='5:33 PM', chid=28713)}
 data = {}
 for a in AUC:
     res = load(f'{W}/result_{a}.json')
@@ -177,9 +178,9 @@ page = f'''<title>Armitage Sleeper Tracker</title>
 <dt>Bids refreshed</dt><dd>{ref_txt} (listed lots only). Page built {now}. Bids move fast near the close, so treat these as stale.</dd>
 <dt>Blocked or login sources</dt><dd>{meta.get('blocked','none recorded')}</dd>
 <dt>Resume point</dt><dd>Workflow run {meta.get('run','')}. Batch files are saved in scans/ in the repo, one per 15 cdids. Unscanned cdid ranges: {meta.get('unscanned','none')}.</dd></dl>
-<div class="covs">{coverage('1')}{coverage('2')}</div>
+<div class="covs">{coverage('1')}{coverage('2')}{coverage('3')}</div>
 <details open><summary>Assumptions</summary><ul class="plain">{''.join('<li>'+x+'</li>' for x in meta.get('assumptions',[]))}</ul></details></section>
-{(section2('1') if data['1']['market'] else section('1'))}{(section2('2') if data['2']['market'] else section('2'))}
+{(section2('1') if data['1']['market'] else section('1'))}{(section2('2') if data['2']['market'] else section('2'))}{(section2('3') if data['3']['market'] else section('3'))}
 <footer class="small">Only sold prices with a URL and a date are used for maximum bids. "No comps" means no maximum bid. Currency for any foreign comps is stated in each lot's working. Built by Claude Code.</footer>
 </main>'''
 open(f'{W}/tracker.html', 'w').write(page); print('built', len(page) // 1024, 'KB')
