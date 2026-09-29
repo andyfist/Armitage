@@ -27,7 +27,7 @@ for a in AUC:
     for f in sorted(glob.glob(f'{R}/scans/{a}_*.json')):
         for x in json.load(open(f)):
             if x['state'] == 'SCANNED' or x['cdid'] not in recs: recs[x['cdid']] = x
-    data[a] = dict(market=load(f'{W}/market_{a}.json'), res=res, recs=recs, refresh=load(f'{W}/refresh_{a}.json', {}), interest=load(f'{W}/interest_{a}.json', []), notes=load(f'{W}/notes_{a}.json', {}))
+    data[a] = dict(bx=[e for e in (load(f'{W}/browser_comps_2.json',{}).get('entries',[])) if e['auction']==a], bnotes={k.split(':')[1]:v for k,v in (load(f'{W}/browser_comps_2.json',{}).get('notes',{})).items() if k.split(':')[0]==a}, market=load(f'{W}/market_{a}.json'), res=res, recs=recs, refresh=load(f'{W}/refresh_{a}.json', {}), interest=load(f'{W}/interest_{a}.json', []), notes=load(f'{W}/notes_{a}.json', {}))
 
 def coverage(a):
     d = data[a]; recs = d['recs']; A = AUC[a]
@@ -108,6 +108,19 @@ def ev_list(items, kind, label, hint):
     if not items: return f'<div class="ev {kind}"><h5>{label}</h5><p class="mut small">None found.</p></div>'
     li = ''.join(f'<li><a href="{E(x.get("url") or "#")}" target="_blank" rel="noopener">{E(str(x.get("price","")))}</a> <span class="mut">{E(str(x.get("date","")))}, {E(str(x.get("venue","")))}</span>{age_flag(x.get("date")) if kind != "ask" else ""}<br><span class="small">{E((x.get("note") or "")[:260])}</span></li>' for x in items)
     return f'<div class="ev {kind}"><h5>{label}</h5><p class="small mut">{hint}</p><ul>{li}</ul></div>'
+
+def browser_block(a, lot):
+    d = data[a]; ents = [e for e in d['bx'] if e['lot'] == lot]; note = d['bnotes'].get(str(lot))
+    if not ents and not note: return ''
+    def L(kind, label, hint):
+        xs = [e for e in ents if e['kind'] == kind]
+        if not xs: return ''
+        li = ''.join(f'<li><a href="{E(e["url"] or "#")}" target="_blank" rel="noopener">{E(e["price"])}</a> <span class="mut">{E(e["date"])}, {E(e["venue"])}</span><br><span class="small">{E(e["note"])} <i>({E(e["provenance"])})</i></span></li>' for e in xs)
+        return f'<div class="ev {"sold" if kind=="SOLD" else ("unsold" if kind=="UNSOLD" else "ask")}"><h5>{label}</h5><p class="small mut">{hint}</p><ul>{li}</ul></div>'
+    body = L('SOLD','Sold (from your browser)','Page not opened by Claude. Check provenance.') + L('UNSOLD','Unsold (from your browser)','Ceiling signal only.') + L('ASKING','Asking (from your browser)','Not a price paid.')
+    nb = f'<p class="small">{E(note)}</p>' if note else ''
+    return f'<details class="bx"><summary>Added from your browser comps</summary>{nb}<div class="evs">{body}</div></details>'
+
 def card2(p, a):
     d = data[a]; rec = d['recs'].get(p['cdid'], {}); rf = d['refresh'].get(str(p['cdid']), {})
     bid = rf.get('current_bid') or rec.get('current_bid'); chk = rf.get('checked') or rec.get('checked'); bc = rf.get('bid_count', rec.get('bid_count'))
@@ -132,7 +145,7 @@ def card2(p, a):
 <dt>Current bid</dt><dd>{bidtxt}</dd><dt>All-in at that bid</dt><dd>{allin}</dd><dt>Suggested max</dt><dd><b>{E(mx)}</b></dd>
 <dt>Market guide</dt><dd>{guide} <span class="mut">{E(p.get('guide_summary') or '')}</span></dd><dt>Estimate</dt><dd>{E(rec.get('estimate') or '')} <span class="mut">(reference only, not used)</span></dd></dl>
 <div class="evs">{ev_list(p.get('sold', []), 'sold', 'Sold (price paid)', 'Only these set a maximum bid.')}{ev_list(p.get('unsold', []), 'unsold', 'Unsold (ceiling signal)', 'Did not sell. Not a value.')}{ev_list(p.get('asking', []), 'ask', 'Asking (not a price paid)', 'Optimistic. Never used for a max.')}</div>
-<details><summary>Working and confidence</summary><p class="small"><b>Why {E(p['confidence'])}:</b> {E(p.get('confidence_reason') or '')}</p><p class="small"><b>Dropped entries:</b> {E(p.get('dropped_entries') or 'none')}</p><p class="small"><b>Working:</b> {E(p['working'])}</p></details>{q}</article>'''
+{browser_block(a, p['lot'])}<details><summary>Working and confidence</summary><p class="small"><b>Why {E(p['confidence'])}:</b> {E(p.get('confidence_reason') or '')}</p><p class="small"><b>Dropped entries:</b> {E(p.get('dropped_entries') or 'none')}</p><p class="small"><b>Working:</b> {E(p['working'])}</p></details>{q}</article>'''
 
 def section2(a):
     d = data[a]; mk = d['market']; A = AUC[a]
