@@ -26,7 +26,7 @@ for a in AUC:
     for f in sorted(glob.glob(f'{R}/scans/{a}_*.json')):
         for x in json.load(open(f)):
             if x['state'] == 'SCANNED' or x['cdid'] not in recs: recs[x['cdid']] = x
-    data[a] = dict(res=res, recs=recs, refresh=load(f'{W}/refresh_{a}.json', {}), interest=load(f'{W}/interest_{a}.json', []), notes=load(f'{W}/notes_{a}.json', {}))
+    data[a] = dict(market=load(f'{W}/market_{a}.json'), res=res, recs=recs, refresh=load(f'{W}/refresh_{a}.json', {}), interest=load(f'{W}/interest_{a}.json', []), notes=load(f'{W}/notes_{a}.json', {}))
 
 def coverage(a):
     d = data[a]; recs = d['recs']; A = AUC[a]
@@ -97,6 +97,68 @@ def section(a):
         out.append(f'<h3>For interest: whisky, spirits and watches</h3><p class="small">Not assessed for value. Bids are as at the scan time, not refreshed.</p><div class="tw"><table><thead><tr><th>Lot</th><th>Title</th><th>Kind</th><th>Notes</th><th>Bid</th></tr></thead><tbody>{rows}</tbody></table></div>')
     out.append('</section>'); return ''.join(out)
 
+
+def age_flag(date):
+    m = re.search(r'(20\d\d)', date or '')
+    if not m: return ''
+    y = int(m.group(1))
+    return ' <span class="pill warn">over 24 months old</span>' if y <= 2023 else (' <span class="pill low">about 2 years old</span>' if y == 2024 else '')
+def ev_list(items, kind, label, hint):
+    if not items: return f'<div class="ev {kind}"><h5>{label}</h5><p class="mut small">None found.</p></div>'
+    li = ''.join(f'<li><a href="{E(x.get("url") or "#")}" target="_blank" rel="noopener">{E(str(x.get("price","")))}</a> <span class="mut">{E(str(x.get("date","")))}, {E(str(x.get("venue","")))}</span>{age_flag(x.get("date")) if kind != "ask" else ""}<br><span class="small">{E((x.get("note") or "")[:260])}</span></li>' for x in items)
+    return f'<div class="ev {kind}"><h5>{label}</h5><p class="small mut">{hint}</p><ul>{li}</ul></div>'
+def card2(p, a):
+    d = data[a]; rec = d['recs'].get(p['cdid'], {}); rf = d['refresh'].get(str(p['cdid']), {})
+    bid = rf.get('current_bid') or rec.get('current_bid'); chk = rf.get('checked') or rec.get('checked'); bc = rf.get('bid_count', rec.get('bid_count'))
+    bm = money(bid); allin = f'${bm*1.22:,.2f}' if bm else 'no bids yet'
+    bidtxt = (f'{E(bid)} ({bc} bids)' if bm else 'No bids yet') + f' <span class="mut">at {E(chk or "")}</span>'
+    t = p['triage']; k, f = p.get('keep_max_hammer') or 0, p.get('flip_max_hammer') or 0
+    if t == 'KEEP': mx = f'KEEP max hammer ${k:,.0f} (all-in ${k*1.22:,.2f})'
+    elif t == 'FLIP': mx = f'FLIP max hammer ${f:,.0f} (all-in ${f*1.22:,.2f})'
+    elif t == 'BOTH': mx = f'KEEP max ${k:,.0f}, FLIP max ${f:,.0f} (hammer)'
+    else: mx = 'No maximum bid (no sold support)'
+    over = ''
+    top = max(k, f) if t in ('KEEP', 'FLIP', 'BOTH') else 0
+    if top and bm and (k if t == 'KEEP' else (f if t == 'FLIP' else max(k, f))) < bm: over = '<span class="pill warn">bid already above the max</span>'
+    cls = {'KEEP': 'keep', 'FLIP': 'flip', 'BOTH': 'keep'}.get(t, 'near')
+    lo, hi = p.get('guide_low_aud'), p.get('guide_high_aud')
+    guide = f'${lo:,.0f} to ${hi:,.0f}' if (lo or hi) else 'none'
+    q = f'<p class="q"><b>Ask Armitage:</b> {E(p["question_for_armitage"])}</p>' if p.get('question_for_armitage') else ''
+    return f'''<article class="lot {cls}" data-close="{close_key(rec.get('close'))}">
+<div class="lh">{thumb(p['cdid'])}<div class="lt"><h4><a href="{E(rec.get('url','#'))}" target="_blank" rel="noopener">Lot {p['lot']}</a> <span class="mut">closes {E(short_close(rec.get('close')))}</span></h4>
+<p class="what">{E(p['what_it_is'][:300])}</p><p><span class="pill {p['confidence'].lower()}">{E(p['confidence'])} confidence</span> <span class="pill low">score {p.get('market_score')}/10</span> {over}</p></div></div>
+<dl class="kv"><dt>Photo findings</dt><dd>{E((p.get('key_photo_findings') or '')[:400])}</dd><dt>Condition</dt><dd>{E((p.get('condition') or '')[:250])}</dd>
+<dt>Current bid</dt><dd>{bidtxt}</dd><dt>All-in at that bid</dt><dd>{allin}</dd><dt>Suggested max</dt><dd><b>{E(mx)}</b></dd>
+<dt>Market guide</dt><dd>{guide} <span class="mut">{E(p.get('guide_summary') or '')}</span></dd><dt>Estimate</dt><dd>{E(rec.get('estimate') or '')} <span class="mut">(reference only, not used)</span></dd></dl>
+<div class="evs">{ev_list(p.get('sold', []), 'sold', 'Sold (price paid)', 'Only these set a maximum bid.')}{ev_list(p.get('unsold', []), 'unsold', 'Unsold (ceiling signal)', 'Did not sell. Not a value.')}{ev_list(p.get('asking', []), 'ask', 'Asking (not a price paid)', 'Optimistic. Never used for a max.')}</div>
+<details><summary>Working and confidence</summary><p class="small"><b>Why {E(p['confidence'])}:</b> {E(p.get('confidence_reason') or '')}</p><p class="small"><b>Dropped entries:</b> {E(p.get('dropped_entries') or 'none')}</p><p class="small"><b>Working:</b> {E(p['working'])}</p></details>{q}</article>'''
+
+def section2(a):
+    d = data[a]; mk = d['market']; A = AUC[a]
+    L = mk['lots']; srt = lambda ks: sorted([p for p in L if p['triage'] in ks], key=lambda p: close_key(d['recs'].get(p['cdid'], {}).get('close')))
+    out = [f'<section id="a{a}"><h2>{A["name"]}: {E(A["label"])}</h2>']
+    if d['notes'].get('headline'): out.append(f'<p class="lead">{d["notes"]["headline"]}</p>')
+    for ks, title, empty in ((('FLIP',), 'FLIP picks (buy to resell)', 'None. No lot had sold support for a resale ceiling.'), (('KEEP',), 'KEEP picks (buy to own)', 'None.'), (('BOTH',), 'BOTH picks (keep or resell)', 'None.')):
+        items = srt(ks); out.append(f'<h3>{title}</h3>' + (''.join(card2(p, a) for p in items) if items else f'<p class="mut">{empty}</p>'))
+    lv = srt(('LOOK AT VIEWING',))
+    out.append('<h3>Look at viewing</h3><p class="small">A credible identification with real-looking value, but no sold support, so no maximum bid. Check at the preview (Wed from 8:30 AM) or ring (03) 6326 2555.</p>' + (''.join(card2(p, a) for p in lv) or '<p class="mut">None.</p>'))
+    nm = srt(('NEAR MISS',))
+    out.append('<h3>Near misses</h3>' + ''.join(card2(p, a) for p in nm))
+    done = {p['cdid'] for p in L}
+    nr = [x for x in (d['res'] or {}).get('not_researched', []) if x['cdid'] not in done]
+    if nr:
+        rows = ''.join(f'<tr><td><a href="{E(d["recs"].get(x["cdid"],{}).get("url","#"))}" target="_blank" rel="noopener">{x["lot"]}</a></td><td>{E(x["title"])}</td><td>{x.get("strength")}</td><td>{E(x.get("rescore_note") or x["reason"])}</td></tr>' for x in nr)
+        out.append(f'<h3>Not researched</h3><div class="tw"><table><thead><tr><th>Lot</th><th>Title</th><th>Score</th><th>Reason</th></tr></thead><tbody>{rows}</tbody></table></div>')
+    dr = srt(('DROP',))
+    if dr:
+        rows = ''.join(f'<tr><td><a href="{E(d["recs"].get(x["cdid"],{}).get("url","#"))}" target="_blank" rel="noopener">{x["lot"]}</a></td><td>{E(x["what_it_is"][:110])}</td><td>{E(x.get("score_reason") or "")[:140]}</td></tr>' for x in dr)
+        out.append(f'<details><summary>Researched and dropped ({len(dr)})</summary><div class="tw"><table><thead><tr><th>Lot</th><th>What</th><th>Why</th></tr></thead><tbody>{rows}</tbody></table></div></details>')
+    it = d['interest']
+    if it:
+        rows = ''.join(f'<tr><td><a href="{E(x["url"])}" target="_blank" rel="noopener">{x["lot"]}</a></td><td>{E(x["title"])}</td><td>{E(x["interest"]["kind"])}</td><td>{E(x["interest"]["note"])}</td><td>{E(x.get("current_bid") or "")}</td></tr>' for x in sorted(it, key=lambda x: close_key(x['close'])))
+        out.append(f'<h3>For interest: whisky, spirits and watches</h3><p class="small">Not assessed for value. Bids as at scan time.</p><div class="tw"><table><thead><tr><th>Lot</th><th>Title</th><th>Kind</th><th>Notes</th><th>Bid</th></tr></thead><tbody>{rows}</tbody></table></div>')
+    out.append('</section>'); return ''.join(out)
+
 now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=10))).strftime('%d/%m/%Y %H:%M AEST')
 refreshed = sorted({v['checked'] for a in data for v in data[a]['refresh'].values()})
 ref_txt = f'{refreshed[0]} to {refreshed[-1]}' if refreshed else 'not yet'
@@ -117,7 +179,7 @@ page = f'''<title>Armitage Sleeper Tracker</title>
 <dt>Resume point</dt><dd>Workflow run {meta.get('run','')}. Batch files are saved in scans/ in the repo, one per 15 cdids. Unscanned cdid ranges: {meta.get('unscanned','none')}.</dd></dl>
 <div class="covs">{coverage('1')}{coverage('2')}</div>
 <details open><summary>Assumptions</summary><ul class="plain">{''.join('<li>'+x+'</li>' for x in meta.get('assumptions',[]))}</ul></details></section>
-{section('1')}{section('2')}
+{(section2('1') if data['1']['market'] else section('1'))}{(section2('2') if data['2']['market'] else section('2'))}
 <footer class="small">Only sold prices with a URL and a date are used for maximum bids. "No comps" means no maximum bid. Currency for any foreign comps is stated in each lot's working. Built by Claude Code.</footer>
 </main>'''
 open(f'{W}/tracker.html', 'w').write(page); print('built', len(page) // 1024, 'KB')
