@@ -1,0 +1,16 @@
+{
+ "bottom_line": "Auction 1 has no clear flips. Of 56 candidates, the top 30 were researched against sold prices. That left 1 KEEP (lot 320, vintage ports, but the bid is already above its ceiling), no FLIPs and 10 near misses that need a look at viewing. Most searches found no verified sold comps, and a lot with no comps gets no maximum bid.",
+ "blocked": "The verifiers could not open eBay sold listings, Artrecord or Langtons product pages (blocked), so Langtons prices for lot 320 come from search summaries only. No logins were tried anywhere.",
+ "run": "wf_df7f96ac-58e (script work/wf_scan.js in the repo, resume with the same args)",
+ "unscanned": "none. cdid 3070210 redirects to the catalogue index, so it is not a lot",
+ "assumptions": [
+  "Estimates were ignored when scoring, as you asked. This was added part way through: about the first 18 batches (roughly lots 1 to 270) were first judged CANDIDATE or SKIP while the estimate could still influence the call. Every candidate was then rescored blind to the estimate and bid. A lot skipped early because its estimate looked fair was not re-looked at.",
+  "Estimates are still shown on each card for reference only.",
+  "The catalogue index for auction 1 lists 492 lots and all 492 were scanned with every photo viewed. Lot numbers 29, 467, 468 and 469 are not in the catalogue.",
+  "cdids after lot 496 (3070195 to 3070215) belong to a sale closing 5/12/2026 and count as not in this sale.",
+  "Bid counts come from each lot page bid history. No bidder numbers or locations were kept.",
+  "The top 30 candidates by blind score were researched. The other 26 are listed under Not researched.",
+  "Confidence is Low on every pick. High needs a mark read in the photos plus 2 matching sold comps, and none met that.",
+  "Scanning ran at about one request a second with at most 3 downloaders at once."
+ ]
+}
