@@ -1,0 +1,127 @@
+{
+ "lots": [
+  {
+   "cdid": 3059844,
+   "lot": 152,
+   "what_it_is": "French 10 francs gold coin, Napoleon III bare head (signed BARRE), 1858, mint mark A (Paris), .900 gold, 3.2258 g nominal, 2.90 g fine gold, mounted on a plain wire bar brooch pin that Gowans describes as 18ct. Gowans total weight 4.3 g. Current bid $460 (9 bids) when fetched 30 Sep 2026.",
+   "triage": "KEEP",
+   "market_score": 8,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "EUR 360 hammer",
+     "currency": "EUR",
+     "aud_price": 584,
+     "date": "21 Jul 2026",
+     "venue": "Kuenker (Germany), eLive Auction 93, lot 787",
+     "url": "https://www.kuenker.de/frankreich-koenigreich-napoleon-iii-1852-1870.-10-francs-1858-a-paris./499785",
+     "same_item": "yes",
+     "note": "Page opened. Same coin, same date and mint (10 Francs 1858 A), loose, graded fast vorzueglich (nearly EF), estimate EUR 250, status Sold. Hammer only; buyer premium is not shown on the lot page (it sits in the terms PDF), so the price paid was higher. A better coin than lot 152, which is mounted, worn and has a solder or blemish spot. Gold was near today's level, so this is the best anchor. AUD at 0.61687."
+    },
+    {
+     "kind": "SOLD",
+     "price": "EUR 300 hammer",
+     "currency": "EUR",
+     "aud_price": 486,
+     "date": "21 Jul 2025",
+     "venue": "Kuenker (Germany), eLive Auction 88, lot 4364",
+     "url": "https://www.kuenker.de/frankreich-koenigreich-napoleon-iii-1852-1870.-10-francs-1859-a-paris./916531",
+     "same_item": "close",
+     "note": "Page opened. 10 Francs 1859 A (different year, same common bullion type), loose, vorzueglich plus, estimate EUR 250. Hammer only, premium not shown. Sold when gold was well below today's price, so it understates current value. Better condition than lot 152. AUD at 0.61687 (today's rate)."
+    },
+    {
+     "kind": "SOLD",
+     "price": "EUR 320 hammer",
+     "currency": "EUR",
+     "aud_price": 519,
+     "date": "4 Mar 2025",
+     "venue": "Kuenker (Germany), eLive Auction 86, lot 6380",
+     "url": "https://www.kuenker.de/frankreich-koenigreich-napoleon-iii-1852-1870.-10-francs-1859-a-paris./690271",
+     "same_item": "close",
+     "note": "Page opened. 10 Francs 1859 A, loose, fast vorzueglich, estimate EUR 250. Hammer only, premium not shown. Lower gold price at the time. Better condition than lot 152. AUD at 0.61687 (today's rate)."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "GBP 357.16 (out of stock)",
+     "currency": "GBP",
+     "aud_price": 675,
+     "date": "undated; seen 30 Sep 2026",
+     "venue": "Dorset Coin Company (UK dealer)",
+     "url": "https://dorsetcoincompany.co.uk/?p=3319",
+     "same_item": "yes",
+     "note": "Page opened. 1858 A 10 francs, Very Fine with light surface marks, loose. Dealer retail asking price, now out of stock, so not a confirmed sale. AUD at 0.52876."
+    },
+    {
+     "kind": "ASKING",
+     "price": "USD 513.57 lowest retail (melt USD 390.01 at spot USD 4,180.18)",
+     "currency": "USD",
+     "aud_price": 733,
+     "date": "live, seen 30 Sep 2026",
+     "venue": "findbullionprices.com (US retail aggregator)",
+     "url": "https://new.findbullionprices.com/bullion-coin-melt-values/world-gold/2028//",
+     "same_item": "category guide",
+     "note": "Page opened. Generic Napoleon III 10 francs, loose, any date. Figures differ slightly from the researcher's (live page moved). Melt converts to about AUD 557. Category guide only, excluded from the guide range. AUD at 0.70045."
+    }
+   ],
+   "guide_low_aud": 486,
+   "guide_high_aud": 675,
+   "guide_summary": "3 sold (Kuenker hammers of AUD 486 to 584, all loose and better-graded coins; the two 2025 sales were at a lower gold price), 0 unsold, 1 same-item asking (Dorset, AUD 675, out of stock). Coin melt is about AUD 557 (0.0933 oz x USD 4,180.18 / 0.70045), my calculation, not a price. Rates: ECB via frankfurter.app, 29 Sep 2026: 1 AUD = EUR 0.61687, GBP 0.52876, USD 0.70045.",
+   "flip_max_hammer": 200,
+   "keep_max_hammer": 485,
+   "working": "Keep: lowest same-item SOLD in last 24 months is the 1858 A Kuenker hammer EUR 360 = AUD 584 (the 1859 sales are a different date at an older gold price, so not used). 584 / 1.198 = 487, rounded down to 485. All-in at 485 is AUD 581, about coin melt (AUD 557) plus a little for the pin. Because lot 152 is mounted, worn and has a solder spot, 485 is a ceiling, not a target. Flip: likely resale about AUD 580 (Kuenker sale; mounted coins rarely beat that), less 13% selling fees (eBay or online auction) and AUD 15 registered post: 580 x 0.87 - 15 = 489.6; / 2.396 = 204, rounded down to 200. Current bid is already $460, so a flip is not viable. Pickup Moonah, inbound freight $0.",
+   "confidence": "Medium",
+   "confidence_reason": "Coin legends, date 1858 and mint mark A read in the photos; one same-date SOLD page opened plus two close (1859 A) SOLD pages opened, but all are loose, better coins, and the pin carat and weight are unverified.",
+   "dropped_entries": "Proantic EUR 900 brooch: page returns HTTP 410 Gone, snippet only, carat conflicts (18ct vs 24ct), dealer ask for a different finished piece; kept only as a lead, not listed. eBay.de EUR 945: HTTP 403 (closed to us), snippet only, asking not sold; lead only. Heritage USD 720 (1855 A PCGS MS64) and unnamed USD 228 (2020): URL is the Numista type page, not the sale, Numista returned 403, snippet only, different date and far different grade or age; dropped. Researcher's Kuenker note that the 1858 A was 'close' upgraded to 'yes' (same date and mint).",
+   "key_photo_findings": "Obverse reads NAPOLEON III EMPEREUR, bare head, BARRE signature; reverse EMPIRE FRANCAIS, 10 FRANCS 1858, A mint mark, laurel wreath. Pin is a simple wire bar passing across the reverse (a wire C-clasp and pointed pin), not a bezel. Enlarged crop shows a greyish rough spot right of the 10 on the reverse, near FRANCS, consistent with solder or a residue where the pin was attached. Rims show light knocks; wire slightly bent.",
+   "condition": "Coin worn (about VF), clear legends, solder or blemish spot on reverse, mounted; pin slightly bent. Carat of the pin not visible in photos.",
+   "question_for_gowans": "Is the pin stamped 18ct, and what does the coin weigh on its own (or how is it attached: soldered or clipped)? Can the pin be removed without damaging the coin?"
+  },
+  {
+   "cdid": 3059857,
+   "lot": 165,
+   "what_it_is": "Edwardian sterling silver sauce boat, Chester 1906, maker E.J.H over W.H in a shield (Haseler family, sold as Haseler Brothers), scalloped rim, leaf-capped flying scroll handle, three shell-knee legs on pad feet, 167.9 g, 9 cm high. Current bid $220 (11 bids) when fetched 30 Sep 2026.",
+   "triage": "NEAR MISS",
+   "market_score": 5,
+   "sold": [],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "0 sold, 0 unsold, 0 asking. The researcher had no entries (search budget exhausted) and my WebSearch was also refused (200 of 200 used). Silver content is about 155 g fine (167.9 g x 0.925), about 5.0 troy oz, but I could not read a live silver spot price, so no melt figure is given. No rate used.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD evidence, so both maximums are 0. The current bid of $220 already implies an all-in of about $264.",
+   "confidence": "Low",
+   "confidence_reason": "Marks read clearly, but there is no price evidence of any kind.",
+   "dropped_entries": "None supplied, none dropped.",
+   "key_photo_findings": "Enlarged crops show clear marks, clearer than the researcher said: maker's shield E.J.H over W.H; lion passant; Chester city mark (three wheatsheaves and a sword, post-1779 form), crisply struck; date letter a script capital F in a cut-corner cartouche, which fits Chester 1906 (1901 to 1925 cycle). Form is a George II revival sauce boat.",
+   "condition": "General fine surface scratching, especially around the marks and on the bowl; no dents, splits or repairs visible; feet and handle intact. No monogram seen.",
+   "question_for_gowans": "Any dents, splits at the leg joins or repairs to the handle? Is there any engraving or removed monogram?"
+  },
+  {
+   "cdid": 3059858,
+   "lot": 166,
+   "what_it_is": "Unmarked yellow gold necklace in the Georgian or Etruscan revival style: eleven graduated oval cabochon garnet-type stones in rope-twist wire collets, each with a gold rosette set with a seed pearl, a drop pendant with a larger cabochon in a border of small pearls or white stones, triple fine trace chains and a small cabochon clasp. Gowans: unmarked 9ct, 15ct and 18ct gold, some stones cracked, dented back, 62.9 g total, 50 cm. Presented in a modern 'for the Love of Gold' retail box. Age not established; could be antique or a later revival or reproduction. Current bid $1,000 (1 bid) when fetched 30 Sep 2026.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 8,
+   "sold": [],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "0 sold, 0 unsold, 0 asking. No comps found: researcher's and my WebSearch calls were refused (budget exhausted). Value is likely driven at least by gold content, which cannot be estimated because the stone weight and carat mix are unknown. For reference only, fine gold is about AUD 192 per gram (USD 4,180.18 per oz from findbullionprices, seen 30 Sep 2026, at 0.70045), my calculation, not a price.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD evidence, so both maximums are 0. Current bid $1,000 is an all-in of $1,198.",
+   "confidence": "Low",
+   "confidence_reason": "No hallmarks visible, age and carat unverified, and no price evidence of any kind.",
+   "dropped_entries": "None supplied, none dropped.",
+   "key_photo_findings": "Case lid enlarged reads 'for the Love of Gold' in script, a modern jeweller's box, so it does not date the piece. Collet backs are hammered, uneven yellow gold with a raised figural or cameo-like relief on the centre back; dent visible there. Close-up of one stone shows internal fractures and a sunflower-style gold rosette with a pearl. Rope-twist wire borders on every collet. No hallmarks or stamps seen in any photo.",
+   "condition": "Some stones cracked, dented back (as described); chains look intact in photos. Clasp not clearly shown.",
+   "question_for_gowans": "Has the gold been acid or XRF tested, and which parts are 9ct, 15ct and 18ct? Are the stones garnets or glass, and are the pearls natural or cultured? Any maker's or import marks on the clasp? How many stones are cracked?"
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "lots": [
+  {
+   "cdid": 3059876,
+   "lot": 184,
+   "what_it_is": "Penfolds Grange Hermitage Bin 95, vintage 1984, bottled 1986, 750ml, 13.6% alc, single bottle, no box",
+   "triage": "BOTH",
+   "market_score": 9,
+   "sold": [
+    {
+     "price": "$643 (Langtons price guide: 1984 Bin 95 Grange 0.75L, price range $650-700, Year Sold 2026, Sale Price 643)",
+     "aud_price": 643,
+     "date": "2026 (year only shown)",
+     "venue": "Langtons auction (price guide / valuation tool)",
+     "url": "https://www.langtons.com.au/on/demandware.store/Sites-langtons-Site/en_AU/Auction-LoadMorePriceGuide?limit=5&offset=0&searchPrice=Bin+95+Grange&totalCount=46&loadMore=true",
+     "note": "Kind: SOLD. Page opened (fetched with curl and cookie jar, 30 Sep 2026). AUD. same_item: yes (same vintage, 750ml). One figure is shown against all 129 condition variants for 1984 (base of neck, high shoulder, label damage, Red Wine Clinic etc.), so it is the latest recorded sale for the vintage, not a specific lot. Year only, and whether it is hammer or premium-inclusive is not stated. Found by me, not the researcher."
+    },
+    {
+     "price": "GBP 300 winning bid",
+     "aud_price": 568,
+     "date": "30 January 2024",
+     "venue": "whisky.auction (UK), lot 177940",
+     "url": "https://whisky.auction/auctions/lot/177940/1985-penfolds-grange-bin-95",
+     "note": "Kind: SOLD, with a caveat: page opened, shows 'Winning Bid £300' under hammer price; the page template also carries 'Reserve Not met / Sold in Aftersale' flags, so it may have sold after the auction. same_item: close (1985 vintage, bottled 1987, not 1984). Fill base of neck. Older than 24 months, so cannot set a bid. AUD at 1.893."
+    },
+    {
+     "price": "GBP 270 winning bid",
+     "aud_price": 511,
+     "date": "23 May 2023",
+     "venue": "whisky.auction (UK), lot 158974",
+     "url": "https://whisky.auction/auctions/lot/158974/1982-penfolds-grange-bin-95",
+     "note": "Kind: SOLD (same caveat as above). Page opened. same_item: close (1982 vintage, bottled 1984). Fill upper shoulder, so worse than a base-of-neck bottle. Older than 24 months. AUD at 1.893."
+    },
+    {
+     "price": "GBP 270 winning bid",
+     "aud_price": 511,
+     "date": "27 September 2022",
+     "venue": "whisky.auction (UK), lot 138882",
+     "url": "https://whisky.auction/auctions/lot/138882/penfolds-1983-grange-bin-95",
+     "note": "Kind: SOLD (same caveat). Page opened. same_item: category guide (1983 vintage, recorked 2016, fill into neck). Older than 24 months. AUD at 1.893."
+    },
+    {
+     "price": "$634.50 (currency not stated; the house is in New Zealand, so NZD, not USD as the researcher assumed)",
+     "aud_price": 512,
+     "date": "July 2020 (report posted 15 July)",
+     "venue": "The Wine Auction Room (NZ online auction)",
+     "url": "https://wineauctionroom.com/report-on-july-auction-and-announcing-the-date-of-august-auction/",
+     "note": "Kind: SOLD. Page opened. same_item: yes (1984 Grange Bin 95) but no condition given and premium status unknown. Six years old, so a history point only. The site calls itself 'New Zealand's first accredited member of WineFraud.com', so I read the price as NZD. AUD at 0.807."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$489.00 to $642.00 (schema AggregateOffer low and high, InStock)",
+     "aud_price": 489,
+     "date": "live, seen 2026-09-30",
+     "venue": "Langtons (product page for 1984 Bin 95 Grange 750ml)",
+     "url": "https://www.langtons.com.au/p/penfolds-bin-95-grange-shiraz--south-australia-1984-bottle/auc-mas-10315-1984-1.html",
+     "note": "Kind: ASKING. Page opened. AUD. same_item: yes. The range only appears in the page's structured data; the page does not say whether these are store prices or live marketplace/auction offers, and no fill or provenance is shown. Not a price paid."
+    },
+    {
+     "price": "EUR 347 'current price estimate' (75cl)",
+     "aud_price": 563,
+     "date": "live, seen 2026-09-30",
+     "venue": "iDealwine price estimate page",
+     "url": "https://www.idealwine.com/en/wine-prices/181870-1984-Bottle-South-Australia-South-Australia-Penfolds-red",
+     "note": "Kind: ASKING (a site-generated estimate, not a price paid; no sale dates or condition). Page opened. same_item: yes. AUD at 1.623."
+    }
+   ],
+   "guide_low_aud": 489,
+   "guide_high_aud": 643,
+   "guide_summary": "5 sold (1 same-vintage Langtons 2026 $643, the only one inside 24 months; 1 same-vintage NZ 2020 about $512; 3 UK sales of 1982, 1983 and 1985 vintages 2022-2024 at about $511-568), 0 unsold, 2 asking (Langtons listing $489-642; iDealwine estimate about $563). Rates from open.er-api.com (exchangerate-api), updated 30 Sep 2026: 1 GBP = 1.893 AUD, 1 USD = 1.431 AUD, 1 EUR = 1.623 AUD, 1 NZD = 0.807 AUD.",
+   "flip_max_hammer": 215,
+   "keep_max_hammer": 535,
+   "working": "keep: lowest (and only) same-item SOLD within 24 months is Langtons 2026 $643; $643 / 1.198 = $536.7, round down to $535 (all-in $640.93). flip: likely resale $643 back through Langtons auction, less an assumed 15% seller commission ($96.45) and about $25 to send the bottle to Langtons = $521.55; / 2.396 = $217.7, round down to $215 (all-in $257.57). Caveats: the Langtons figure is year-only and may already include Langtons' buyer premium, in which case true hammer value is lower and the keep figure is generous. The UK and NZ sales ($511-568 AUD) are older than 24 months and cannot set a bid, but they sit a little under $643, which supports treating $535 as a hard ceiling rather than a target. Freight in $0 (pickup Moonah).",
+   "confidence": "Medium",
+   "confidence_reason": "Label read clearly (vintage 1984, bottled 1986, 750ml, 13.6%) but only one same-item SOLD figure within 24 months (Langtons, year only, premium status unknown), and fill level is not confirmed.",
+   "condition": "Label clean with light ageing and a few faint marks, no tears. Red capsule intact with light scuffs on the top. Fill not confirmed: in the back view (photo 2) the neck below the capsule is translucent green, suggesting air in the neck and wine starting around base of neck or top of shoulder, which is normal for a 1984, but the shoulder is dark and reflective so it cannot be read reliably.",
+   "key_photo_findings": "Photo 3 label: Penfolds Grange Hermitage Bin 95, Vintage 1984, Bottled 1986, Bottled by Penfolds Wines Pty Ltd, 750ml, 13.6% alc/vol. Photo 2 enlarged: capsule intact, no visible seepage staining, neck translucent (ullage likely in neck). No Red Wine Clinic tag or back label shown.",
+   "question_for_gowans": "What is the fill level (into neck, base of neck, or shoulder)? Any seepage under the capsule or a sunken cork? Is anything known of storage history or provenance?",
+   "dropped_entries": "Cask Cartel USD 3,499.99 (page opened): the item is shown as 'Unavailable' and backordered, so this is a placeholder US retail price, not a real offer; dropped as an outlier that would distort the guide. The researcher's USD reading of the Wine Auction Room price was wrong (NZ house, NZD) and has been corrected. The researcher's rates (GBP 2.00, USD 1.50) replaced with live rates."
+  },
+  {
+   "cdid": 3059881,
+   "lot": 189,
+   "what_it_is": "Penfolds Grange Hermitage Bin 95, vintage 1984, bottled 1986, 750ml, 13.6% alc, single bottle, no box (second bottle in the same sale as lot 184)",
+   "triage": "BOTH",
+   "market_score": 9,
+   "sold": [
+    {
+     "price": "$643 (Langtons price guide: 1984 Bin 95 Grange 0.75L, price range $650-700, Year Sold 2026, Sale Price 643)",
+     "aud_price": 643,
+     "date": "2026 (year only shown)",
+     "venue": "Langtons auction (price guide / valuation tool)",
+     "url": "https://www.langtons.com.au/on/demandware.store/Sites-langtons-Site/en_AU/Auction-LoadMorePriceGuide?limit=5&offset=0&searchPrice=Bin+95+Grange&totalCount=46&loadMore=true",
+     "note": "Kind: SOLD. Page opened (fetched with curl and cookie jar, 30 Sep 2026). AUD. same_item: yes (same vintage, 750ml). One figure is shown against all 129 condition variants for 1984 (base of neck, high shoulder, label damage, Red Wine Clinic etc.), so it is the latest recorded sale for the vintage, not a specific lot. Year only, and whether it is hammer or premium-inclusive is not stated. Found by me, not the researcher."
+    },
+    {
+     "price": "GBP 300 winning bid",
+     "aud_price": 568,
+     "date": "30 January 2024",
+     "venue": "whisky.auction (UK), lot 177940",
+     "url": "https://whisky.auction/auctions/lot/177940/1985-penfolds-grange-bin-95",
+     "note": "Kind: SOLD, with a caveat: page opened, shows 'Winning Bid £300' under hammer price; the page template also carries 'Reserve Not met / Sold in Aftersale' flags, so it may have sold after the auction. same_item: close (1985 vintage, bottled 1987, not 1984). Fill base of neck. Older than 24 months, so cannot set a bid. AUD at 1.893."
+    },
+    {
+     "price": "GBP 270 winning bid",
+     "aud_price": 511,
+     "date": "23 May 2023",
+     "venue": "whisky.auction (UK), lot 158974",
+     "url": "https://whisky.auction/auctions/lot/158974/1982-penfolds-grange-bin-95",
+     "note": "Kind: SOLD (same caveat as above). Page opened. same_item: close (1982 vintage, bottled 1984). Fill upper shoulder, so worse than a base-of-neck bottle. Older than 24 months. AUD at 1.893."
+    },
+    {
+     "price": "GBP 270 winning bid",
+     "aud_price": 511,
+     "date": "27 September 2022",
+     "venue": "whisky.auction (UK), lot 138882",
+     "url": "https://whisky.auction/auctions/lot/138882/penfolds-1983-grange-bin-95",
+     "note": "Kind: SOLD (same caveat). Page opened. same_item: category guide (1983 vintage, recorked 2016, fill into neck). Older than 24 months. AUD at 1.893."
+    },
+    {
+     "price": "$634.50 (currency not stated; the house is in New Zealand, so NZD, not USD as the researcher assumed)",
+     "aud_price": 512,
+     "date": "July 2020 (report posted 15 July)",
+     "venue": "The Wine Auction Room (NZ online auction)",
+     "url": "https://wineauctionroom.com/report-on-july-auction-and-announcing-the-date-of-august-auction/",
+     "note": "Kind: SOLD. Page opened. same_item: yes (1984 Grange Bin 95) but no condition given and premium status unknown. Six years old, so a history point only. The site calls itself 'New Zealand's first accredited member of WineFraud.com', so I read the price as NZD. AUD at 0.807."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$489.00 to $642.00 (schema AggregateOffer low and high, InStock)",
+     "aud_price": 489,
+     "date": "live, seen 2026-09-30",
+     "venue": "Langtons (product page for 1984 Bin 95 Grange 750ml)",
+     "url": "https://www.langtons.com.au/p/penfolds-bin-95-grange-shiraz--south-australia-1984-bottle/auc-mas-10315-1984-1.html",
+     "note": "Kind: ASKING. Page opened. AUD. same_item: yes. The range only appears in the page's structured data; the page does not say whether these are store prices or live marketplace/auction offers, and no fill or provenance is shown. Not a price paid."
+    },
+    {
+     "price": "EUR 347 'current price estimate' (75cl)",
+     "aud_price": 563,
+     "date": "live, seen 2026-09-30",
+     "venue": "iDealwine price estimate page",
+     "url": "https://www.idealwine.com/en/wine-prices/181870-1984-Bottle-South-Australia-South-Australia-Penfolds-red",
+     "note": "Kind: ASKING (a site-generated estimate, not a price paid; no sale dates or condition). Page opened. same_item: yes. AUD at 1.623."
+    }
+   ],
+   "guide_low_aud": 489,
+   "guide_high_aud": 643,
+   "guide_summary": "5 sold (1 same-vintage Langtons 2026 $643, the only one inside 24 months; 1 same-vintage NZ 2020 about $512; 3 UK sales of other mid-80s vintages 2022-2024 at about $511-568), 0 unsold, 2 asking (Langtons listing $489-642; iDealwine estimate about $563). Rates from open.er-api.com (exchangerate-api), updated 30 Sep 2026: 1 GBP = 1.893 AUD, 1 USD = 1.431 AUD, 1 EUR = 1.623 AUD, 1 NZD = 0.807 AUD.",
+   "flip_max_hammer": 215,
+   "keep_max_hammer": 535,
+   "working": "keep: lowest (and only) same-item SOLD within 24 months is Langtons 2026 $643; $643 / 1.198 = $536.7, round down to $535 (all-in $640.93). flip: likely resale $643 back through Langtons auction, less an assumed 15% seller commission ($96.45) and about $25 to send the bottle to Langtons = $521.55; / 2.396 = $217.7, round down to $215 (all-in $257.57). Caveats: the Langtons figure is year-only and may already include Langtons' buyer premium, in which case true hammer value is lower and the keep figure is generous. The UK and NZ sales ($511-568 AUD) are older than 24 months and cannot set a bid, but they sit a little under $643, which supports treating $535 as a hard ceiling rather than a target. Freight in $0 (pickup Moonah). If bidding on both lot 184 and lot 189, these limits apply to each bottle separately; do not let one bottle's loss push the other above $535.",
+   "confidence": "Medium",
+   "confidence_reason": "Label read clearly, one same-item SOLD within 24 months (Langtons, year only), fill level unconfirmed.",
+   "condition": "Label clean and bright, no tears seen. Red capsule intact, one small light mark on the capsule side. Fill not confirmed: in photo 3 the neck under the capsule is translucent green with darker streaks lower down, suggesting wine at about base of neck, but it cannot be read reliably. No cork detail.",
+   "key_photo_findings": "Photo 2 label: Penfolds Grange Hermitage Bin 95, Vintage 1984, Bottled 1986, 750ml, 13.6% alc/vol, Bottled by Penfolds Wines Pty Ltd. Photo 3 enlarged: capsule intact, no visible seepage, neck partly translucent. The catalogue does not state a fill; the earlier 'high in neck' note came from a first-pass observer, not Gowans, and the photos do not support 'high in neck'.",
+   "question_for_gowans": "What is the fill level? Any seepage or sunken cork under the capsule? Do lots 184 and 189 come from the same cellar, and is anything known of storage history?",
+   "dropped_entries": "Grand Cru Liquid Assets (page opened): 'Price On Request', 'Sold Out', no price, dropped. The two whisky.auction entries the researcher had as snippet only are now page-opened and verified (1982 sale date is 23 May 2023; 1983 is recorked, category guide only). Rates corrected from assumed GBP 2.05 and EUR 1.75 to live rates."
+  },
+  {
+   "cdid": 3059882,
+   "lot": 190,
+   "what_it_is": "Named WWI AIF group to Mathew David Black, 11th Battalion AIF (Sgt, regimental number 3, later 2nd Lieutenant): 1914-15 Star, British War Medal and Victory Medal, Memorial Plaque, miniatures, two Rising Sun badges, framed hand-tinted portrait, copper pens/pointer and a small brass telescope",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 9,
+   "sold": [
+    {
+     "price": "$1,300 (estimate $750)",
+     "aud_price": 1300,
+     "date": "Noble Sale 131 (November 2022 per researcher; sale month not shown on the lot page)",
+     "venue": "Noble Numismatics, Sydney, lot 2497",
+     "url": "https://www.noble.com.au/auctions/lot/?id=401673",
+     "note": "Kind: SOLD ('Result Status Sold, Prices Realised $1,300'). Page opened. same_item: close. Trio to Pte D.A. Gallivan 19 Bn KIA 1917, with Memorial Plaque, hat badge and shoulder titles on a wall shield, ribbons damaged, fine to VF. Premium status not stated. Nearest structure to Black's group (trio plus plaque plus badges), but a private, not an officer or an original-number man. Older than 24 months."
+    },
+    {
+     "price": "$950 (estimate $400)",
+     "aud_price": 950,
+     "date": "Noble Sale 132 (March 2023 per researcher)",
+     "venue": "Noble Numismatics, Sydney, lot 4451",
+     "url": "https://www.noble.com.au/auctions/lot/?id=407424",
+     "note": "Kind: SOLD. Page opened. same_item: close. Trio to L/Cpl G.D. Parr 13 Bn KIA with Memorial Plaque and many badges and ephemera, but Victory Medal naming removed and contact marks, which drags it down. Older than 24 months."
+    },
+    {
+     "price": "$850 (estimate $600)",
+     "aud_price": 850,
+     "date": "Noble Sale 133 (July 2023 per researcher)",
+     "venue": "Noble Numismatics, Sydney, lot 4006",
+     "url": "https://www.noble.com.au/auctions/lot/?id=411564",
+     "note": "Kind: SOLD. Page opened. same_item: close. Trio to T/Sgt A.G. Galland 7 Bn KIA 1917, original 1914 enlistment, display mounted, with colour patch, Gallipoli Medallion and a book; no plaque. Older than 24 months."
+    },
+    {
+     "price": "$1,800 (estimate $2,000)",
+     "aud_price": 1800,
+     "date": "Noble Sale 86 (about 2010; date not shown on page)",
+     "venue": "Noble Numismatics, Sydney, lot 4027",
+     "url": "https://www.noble.com.au/auctions/lot/?id=186246",
+     "note": "Kind: SOLD. Page opened. same_item: close. Trio plus Memorial Plaque to Pte G. Klug 31 Bn KIA 1918, EF, no ribbons. Very old sale."
+    },
+    {
+     "price": "$440 (estimate $450)",
+     "aud_price": 440,
+     "date": "Noble Sale 135 (April 2024 per researcher)",
+     "venue": "Noble Numismatics, Sydney, lot 3977",
+     "url": "https://www.noble.com.au/auctions/lot/?id=419672",
+     "note": "Kind: SOLD. Page opened. same_item: close. Officer trio to 2/Lt then Capt W.J. Galbraith 23 Bn, WIA, survived, no plaque. Shows officer rank alone adds little. About 29 months ago, so just outside 24 months."
+    },
+    {
+     "price": "$2,100 (estimate $2,000)",
+     "aud_price": 2100,
+     "date": "Noble Sale 109 (July 2015 per researcher)",
+     "venue": "Noble Numismatics, Sydney, lot 4692",
+     "url": "https://www.noble.com.au/auctions/lot/?id=298270",
+     "note": "Kind: SOLD. Page opened. same_item: close. Trio to Cpl R.A. Penrose 7 Bn, original number 140, KIA Gallipoli, EF, no plaque. Gallipoli death premium that Black lacks. Old sale."
+    },
+    {
+     "price": "$5,500 (estimate $5,000)",
+     "aud_price": 5500,
+     "date": "Noble Sale 129 (March 2022 per researcher)",
+     "venue": "Noble Numismatics, Sydney, lot 2141",
+     "url": "https://www.noble.com.au/auctions/lot/?id=391781",
+     "note": "Kind: SOLD. Page opened. same_item: category guide only. MM group of four to Sgt A. Clayton with plaque and scroll; gallantry award makes it a different class. Upper bound, not a comp."
+    },
+    {
+     "price": "$4,600 (estimate $4,500)",
+     "aud_price": 4600,
+     "date": "Noble Sale 118 (July 2018 per researcher)",
+     "venue": "Noble Numismatics, Sydney, lot 4602",
+     "url": "https://www.noble.com.au/auctions/lot/?id=344904",
+     "note": "Kind: SOLD. Page opened. same_item: category guide only. Trio to Pte M.D. Griffiths 8 LHR KIA at The Nek; famous-event premium."
+    },
+    {
+     "price": "$200 (estimate $250)",
+     "aud_price": 200,
+     "date": "Noble Sale 119 (November 2018 per researcher)",
+     "venue": "Noble Numismatics, Sydney, lot 3565",
+     "url": "https://www.noble.com.au/auctions/lot/?id=348817",
+     "note": "Kind: SOLD. Page opened. same_item: category guide only. Two singles (including a 3 Bn Star) and a British pair with badges; floor for broken-up medals."
+    },
+    {
+     "price": "$120 (estimate $150)",
+     "aud_price": 120,
+     "date": "Noble Sale 131 (November 2022 per researcher)",
+     "venue": "Noble Numismatics, Sydney, lot 2451",
+     "url": "https://www.noble.com.au/auctions/lot/?id=401627",
+     "note": "Kind: SOLD. Page opened. same_item: category guide only. Single BWM to Lieut A.N. Northcott; floor for a lone officer medal."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 440,
+   "guide_high_aud": 2100,
+   "guide_summary": "10 sold at Noble Numismatics (all AUD, all page opened, all older than 24 months). The six close comps (trios with or without a plaque, KIA or officer) run $440-2,100; the most comparable trio-plus-plaque groups sold $950-1,800. Category guides run from $120 (single medal) to $4,600-5,500 (famous-event or gallantry groups). 0 unsold, 0 asking. Premium status of Noble 'Prices Realised' not stated. No currency conversion needed.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No maximum bid. Every SOLD entry is older than 24 months (the newest, Noble Sale 135, is about April 2024) and none is the same group, since a named group is unique. On the old evidence a complete trio plus plaque with badges and a portrait would sit around $950-1,800 at a specialist sale, and the current Gowans bid is $400 (1 bid), so it looks worth a close look, but the rules do not allow a figure without recent same-item SOLD support.",
+   "confidence": "Medium",
+   "confidence_reason": "Names read clearly on the Star, BWM, Victory rim and plaque, and ten Noble results were opened, but none is the same group and none is inside 24 months. His service record (original No. 3, 11th Bn, commissioned, KIA 10 Aug 1918) comes from search snippets only and is unverified, though the plaque confirms death in service.",
+   "condition": "Plaque toned with spotting, no obvious edge knocks, reverse plain. Star brassy with wear. BWM toned with light contact marks. Victory rim naming legible, brassy. Ribbons on a perspex stand mount, some fading. Miniatures present. Badges lightly oxidised. Telescope with worn/peeling covering. Portrait in a timber frame, not examined for damage.",
+   "key_photo_findings": "Photo 9 Star reverse, read directly: '3 / SGT M. D. BLACK. / 11/BN. A.I.F.' (impressed style consistent with official AIF naming). Photo 5 BWM rim: '2/LIEUT. M. D. BLACK. A.I.F.'. Photos 12-13 Victory rim: '...EUT. M. D. BLACK. A.I.F.' (so also 2/Lieut; the researcher's worry about stripped rank on the Victory looks unfounded, it is just split across two photos). Photo 3 enlarged plaque: 'MATHEW DAVID BLACK' (single T spelling, matching AIF records). Photo 14 AC Military Forces Rising Sun hat badge; photo 15 a second, darker Rising Sun. Portrait caption not legible in the photos. Naming style looks right but cannot be confirmed as original at this resolution.",
+   "question_for_gowans": "Is there a Memorial Scroll, King's message, envelopes or any paperwork with the group? What does the caption on the portrait say? Can the medal naming be inspected at the preview for signs of re-naming? Is there any provenance (family consignment)?",
+   "dropped_entries": "Noonans 2008 GBP 1,900 (lot 157440): site returns HTTP 403 to us, so it was snippet only, and a 2008 UK sale is too old to use; dropped. All ten Noble prices matched the researcher's claims on the lot pages. Sale months are the researcher's from the Noble sale list and are not shown on the lot pages; I could not confirm them (Noble's catalogue list URL returned 404)."
+  }
+ ]
+}
