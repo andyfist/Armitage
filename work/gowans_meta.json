@@ -1,0 +1,14 @@
+{
+ "bottom_line": "Every one of the 285 lots in both Gowans auctions was scanned with every photo viewed. The 120 strongest candidates got a market pass that keeps sold prices, unsold results and asking prices separate, and an Opus check of each. The best-supported picks are the two small McWilliams panels (lots 63 and 72, both at $1,525 against recent sales of $4,400 to $9,000 for small McWilliams panels), the Max Angus and Carington Smith watercolours (66, 78, 83), two 1984 Penfolds Grange (184, 189), the Omega Constellation (123), the Unknown Warrior sovereign set (174) and the Nyakul Dawson painting (19). Several silver and gold lots need a hallmark, weight or fill check at the preview before you rely on them. Maximum bids come only from sold prices in the last 24 months, and where the comp is only close to the item, the card says so. Bids move fast near the close, so check them before you act.",
+ "run": "wf_0292987d-6ed (script work/wf_gowans.js in the repo)",
+ "assumptions": [
+  "Both catalogues were scanned from their own index: 89 lots in the Fine Art Auction and 196 in the Special Antique Auction. All 285 were scanned with every photo viewed and none was unscanned.",
+  "Buyer's premium is 19.8% on every lot page but Gowans' support page says 17.6%. This page uses 19.8% (all-in = hammer x 1.198). Confirm with Gowans before you bid.",
+  "Gowans shows no estimates, so scoring was blind to price by design. The current bid was not used to judge value.",
+  "120 candidates with a blind score of 3 or more got a market pass. The other 88 candidates and the 77 lots the scan skipped are listed in the table of every lot with a one-line photo finding and reason, but have no comps research.",
+  "Many sold prices come from Invaluable results data. Invaluable does not say whether these include buyer's premium, and each card notes this where it matters.",
+  "Where no identical item has sold, a maximum bid may rest on one close sale or on a weight-adjusted price (for example the silver teapot, lot 204). The card for each lot says which, and the confidence level reflects it.",
+  "Pickup only from 37 Main Road, Moonah. Inbound freight is assumed to be $0 because you are local.",
+  "Sources closed to this session (eBay, Wine-Searcher, Australian Whisky Auctions) were not used. Foreign currency comps are converted at the rate stated on each card."
+ ]
+}

@@ -68,7 +68,6 @@ def coverage(k):
     d = D[k]; recs = d['recs']; C = CAT[k]; n = lambda s: sum(1 for x in recs.values() if x['state'] == s)
     unsc = [x for x in recs.values() if x['state'] == 'UNSCANNED']
     un = ''.join(f'<li>cdid {x["cdid"]}: {E(str(x.get("reason")))}</li>' for x in unsc) or '<li>None.</li>'
-    idx = load(f'{W}/index_{k}.txt') is None
     ids = len(open(f'{W}/index_{k}.txt').read().split())
     return f'''<div class="cov"><h3>{C["name"]}</h3><p class="mut">Catalogue {C["chid"]}, closes {C["closes"]}</p>
 <dl class="kv"><dt>Lots in the catalogue index</dt><dd>{ids}</dd><dt>Lots scanned, every photo viewed</dt><dd>{n('SCANNED')}</dd><dt>Not in this sale</dt><dd>{n('NOT_IN_SALE')}</dd><dt>Unscanned</dt><dd>{len(unsc)}</dd></dl><ul class="plain">{un}</ul></div>'''

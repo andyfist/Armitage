@@ -1,0 +1,218 @@
+{
+ "lots": [
+  {
+   "cdid": 3059880,
+   "lot": 188,
+   "what_it_is": "Edwardian sterling silver pierced oval swing-handle basket, James Dixon & Sons, Sheffield 1905, 362.2g, 28 cm wide",
+   "triage": "KEEP",
+   "market_score": 8,
+   "sold": [
+    {
+     "price": "CAD 375",
+     "date": "2025-11-12",
+     "venue": "A.H. Wilkens Auctions & Appraisals (Canada)",
+     "url": "https://www.liveauctioneers.com/item/219093667_english-pierced-silver-basket-225g",
+     "aud_price": 378.19,
+     "note": "SOLD, close (same form, different maker and weight): English sterling pierced oval swing-handle basket, Birmingham 1924, Henry Matthews, 225g, 22 cm. Worth CAD 1.667/g. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: CAD 1 = AUD 1.0085."
+    },
+    {
+     "price": "USD 1,200",
+     "date": "2026-04-18",
+     "venue": "Holler and Hammer (US)",
+     "url": "https://www.liveauctioneers.com/item/228029901_mappin-and-webb-sterling-silver-pierced-basket-bowl-w-swing-handle-578g",
+     "aud_price": 1716.96,
+     "note": "SOLD, close: Mappin & Webb English sterling pierced and chased swing-handle basket, 578g. Worth USD 2.08/g. Heavier and a better-known maker. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 378.19,
+   "guide_high_aud": 1716.96,
+   "guide_summary": "Two SOLD entries, both close rather than the same item (English sterling pierced swing-handle baskets by other makers): AUD 378 for a 225g Birmingham basket and AUD 1,717 for a 578g Mappin & Webb. There are no UNSOLD or ASKING entries. Scaled to 362.2g, the weight-adjusted range is about AUD 609 to 1,086. Not a price paid, only a floor: 362.2g x 0.925 = 335g fine silver, and at spot USD 61.22/ozt (gold-api.com, 30 Sep 2026) that is about AUD 2.816/g, so melt is about AUD 943. A refiner pays less than full melt. Rates are from open.er-api.com, 30 Sep 2026: USD 1 = AUD 1.4308, CAD 1 = AUD 1.0085.",
+   "flip_max_hammer": 210,
+   "keep_max_hammer": 505,
+   "working": "There is no SOLD entry for the same item, so I weight-adjusted the close SOLD comps (silver baskets trade largely on weight). Lowest rate per gram: CAD 375 / 225g = CAD 1.667/g = AUD 1.681/g. x 362.2g = AUD 608.9. Keep: 608.9 / 1.198 = 508.3, rounded down to $505. Flip: resale AUD 609 less 13% selling fees (eBay-style) less $20 outbound postage = 509.8, / 2.396 = 212.8, rounded down to $210. The current bid is already $500 with 1 bid, so the flip route is gone and the keep ceiling is only just above it. A $505 hammer is $605 all in, well under the melt of about AUD 943. This ceiling is conservative because the comp dates from Nov 2025, when silver was cheaper.",
+   "confidence": "Low",
+   "confidence_reason": "The marks are read clearly (JD&S, Sheffield crown, lion passant, date letter n = Sheffield 1905-06), but the SOLD comps are close items rather than the same item, and they are weight-adjusted. I read them from LiveAuctioneers' data because the lot pages are blocked.",
+   "dropped_entries": "None. The researcher had no entries because the WebSearch budget was used up. The two SOLD entries above are my own additions from LiveAuctioneers data.",
+   "key_photo_findings": "Enlarged the base marks: JD&S in a shaped cartouche, crown, lion passant, and a lowercase gothic-style n in a cut-corner shield. That fits Sheffield 1905-06 and James Dixon & Sons, so the catalogue is confirmed. The handle is part-marked JD&S plus lion. Pierced vine frieze over vertical slots, gadrooned shaped rim, swing handle intact. Scratched initials 'AE' on the base.",
+   "condition": "Tarnished, with general surface scratching to the base and a dark oxidised patch on the handle plate. The rim may be slightly out of shape at one end (photo 6, not confirmed). No splits seen in the piercing at this resolution.",
+   "question_for_gowans": "Can you confirm there are no splits or repairs in the piercing or at the handle hinges, and whether the rim is bent? Is 362.2g the basket alone (no liner)?"
+  },
+  {
+   "cdid": 3059891,
+   "lot": 199,
+   "what_it_is": "Lalique France 'Dampierre' crystal vase (Marc Lalique design, 1948), clear with frosted sparrows, 12 cm",
+   "triage": "BOTH",
+   "market_score": 6,
+   "sold": [
+    {
+     "price": "USD 500",
+     "date": "2026-09-29",
+     "venue": "Akiba Galleries (FL, US)",
+     "url": "https://www.liveauctioneers.com/item/240138785_lalique-dampierre-crystal-vase",
+     "aud_price": 715.4,
+     "note": "SOLD, same item. Signed Lalique France. No size or condition given. High outlier. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 400",
+     "date": "2026-08-20",
+     "venue": "Chairish Auction House (US)",
+     "url": "https://www.liveauctioneers.com/item/239004246_lalique-dampierre-crystal-vase",
+     "aud_price": 572.32,
+     "note": "SOLD, same item. Signed. Condition not stated. High end. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 90",
+     "date": "2026-08-11",
+     "venue": "Schwenke Auctioneers (US)",
+     "url": "https://www.liveauctioneers.com/item/237494757_lalique-dampierre-crystal-vase",
+     "aud_price": 128.77,
+     "note": "SOLD, same item. 4 7/8 in high, signed Lalique France. Same size as lot 199. Condition not stated. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 80",
+     "date": "2026-07-12",
+     "venue": "Hyde Park Country Auctions (US)",
+     "url": "https://www.liveauctioneers.com/item/235737391_a-lalique-dampierre-vase-signed-on-underside-of-base-lalique-france-the-vase-decorated-with",
+     "aud_price": 114.46,
+     "note": "SOLD, same item. Signed. Described as very good condition, no damage. Lowest SOLD entry with condition stated, so it sets the keep maximum. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 190",
+     "date": "2026-06-28",
+     "venue": "Lion and Unicorn (US)",
+     "url": "https://www.liveauctioneers.com/item/234267051_lalique-france-frosted-and-clear-crystal-bird-vase-dampierre",
+     "aud_price": 271.85,
+     "note": "SOLD, same item. Script signature. Condition not given in the excerpt. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 200",
+     "date": "2026-04-26",
+     "venue": "Louvre Antique Auction (US)",
+     "url": "https://www.liveauctioneers.com/item/230620048_lalique-dampierre-crystal-vase",
+     "aud_price": 286.16,
+     "note": "SOLD, same item. 5 in high, signed, good condition. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 150",
+     "date": "2026-04-17",
+     "venue": "Alex Cooper (US)",
+     "url": "https://www.liveauctioneers.com/item/229480303_a-lalique-crystal-dampierre-vase",
+     "aud_price": 214.62,
+     "note": "SOLD, same item. Approx. 5 in high, signed. Condition not stated. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 275",
+     "date": "2026-03-15",
+     "venue": "South Shore Auctions (US)",
+     "url": "https://www.liveauctioneers.com/item/224841448_lalique-crystal-dampierre-vase",
+     "aud_price": 393.47,
+     "note": "SOLD, same item. Marked Lalique France. Condition not stated. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 175",
+     "date": "2025-12-17",
+     "venue": "Stefek's Auctioneers (US)",
+     "url": "https://www.liveauctioneers.com/item/221299287_lalique-dampierre-crystal-sparrow-vase",
+     "aud_price": 250.39,
+     "note": "SOLD, same item. 5 in high, etched Lalique France. Same model and size. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 200",
+     "date": "2025-12-13",
+     "venue": "Roland NY (US)",
+     "url": "https://www.liveauctioneers.com/item/220894216_lalique-dampierre-crystal-vase",
+     "aud_price": 286.16,
+     "note": "SOLD, same item. 5 in high, signed Lalique France. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 50",
+     "date": "2026-09-13",
+     "venue": "Great Lakes VNTG (US)",
+     "url": "https://www.liveauctioneers.com/item/239008302_lalique-crystal-dampierre-vase",
+     "aud_price": 71.54,
+     "note": "SOLD, same item. Condition and size not stated, so not shown to be in similar condition. Left out of the keep maximum but kept as a warning that some sell very cheaply. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "AUD 763.83",
+     "date": "live, seen 2026-09-30",
+     "venue": "1stdibs (dealer)",
+     "url": "https://www.1stdibs.com/furniture/decorative-objects/vases-vessels/vases/lalique-dampierre-frosted-clear-crystal-vase-france-20th-century/id-f_30502302/",
+     "aud_price": 763.83,
+     "note": "ASKING, same item. Page opened: in stock at AUD 763.83 (the site's own AUD figure). Dealer retail, not a price paid."
+    },
+    {
+     "price": "AUD 941.33",
+     "date": "live, seen 2026-09-30",
+     "venue": "1stdibs (dealer)",
+     "url": "https://www.1stdibs.com/furniture/decorative-objects/vases-vessels/vases/lalique-dampierre-vase/id-f_29631862/",
+     "aud_price": 941.33,
+     "note": "ASKING, same item, 4.75 in. Page opened: in stock at AUD 941.33. Retail asking price."
+    },
+    {
+     "price": "AUD 1,157.04",
+     "date": "live, seen 2026-09-30",
+     "venue": "1stdibs (French dealer)",
+     "url": "https://www.1stdibs.com/furniture/decorative-objects/vases-vessels/vases/lalique-france-dampierre-vase-20th-century/id-f_34959842/",
+     "aud_price": 1157.04,
+     "note": "ASKING, same item, 12.5 cm. Page opened: in stock at AUD 1,157.04. Retail asking price."
+    }
+   ],
+   "guide_low_aud": 71.54,
+   "guide_high_aud": 1157.04,
+   "guide_summary": "There are 11 SOLD entries (US auctions, hammer only, Dec 2025 to Sep 2026), from AUD 72 to 715 with a median of about AUD 272. Most fall between AUD 115 and 290. There are no UNSOLD entries. Three ASKING entries (1stdibs dealers) run from AUD 764 to 1,157. They are retail and optimistic, about three to four times the auction level. Rate: USD 1 = AUD 1.4308 (open.er-api.com, 30 Sep 2026).",
+   "flip_max_hammer": 80,
+   "keep_max_hammer": 95,
+   "working": "Keep: the lowest SOLD entry with condition stated is Hyde Park, USD 80 = AUD 114.47. 114.47 / 1.198 = 95.55, rounded down to $95. The USD 50 Great Lakes sale is left out because its condition is not stated; on the strict lowest-price rule it would give AUD 71.54 / 1.198 = $55. Flip: likely resale AUD 250 (a little under the SOLD median), less 13% fees, less $15 packed fragile postage = 202.5. 202.5 / 2.396 = 84.5, rounded down to $80. No bids yet.",
+   "confidence": "Medium",
+   "confidence_reason": "The model and the 'Lalique France' script signature with the (R) mark are read in the photos, and there are many matching SOLD records. They come from LiveAuctioneers' data because the pages themselves are bot-walled. All the comps are US sales with no Australian result, and the photos are low resolution for checking chips.",
+   "dropped_entries": "Two researcher entries dropped for condition. (1) 1stdibs f_50916672, AUD 1,234.18: I opened the page and it says 'Small chip to rim'. The researcher had not checked its condition. (2) 1stdibs f_51362532, AUD 1,531.35: I opened the page and it confirms a rim chip. Neither is comparable to an unchipped vase. I checked the other three ASKING prices on their pages (all in stock, AUD figures match) and kept them.",
+   "key_photo_findings": "Dampierre model confirmed: flared rim, band of frosted sparrows between vine columns, short pedestal foot. The base carries an etched script 'Lalique France' with a circled R. The photos are small (450x600 to 800x600).",
+   "condition": "No chips visible at the rim or foot at this resolution. Normal light wear to the base is likely. The crystal looks clear, with no cloudiness seen.",
+   "question_for_gowans": "Please check the rim, the bird tips and the foot rim closely for chips or flea bites, including any that have been polished out."
+  },
+  {
+   "cdid": 3059896,
+   "lot": 204,
+   "what_it_is": "Sterling silver teapot, C.S. Harris & Sons, London 1910, gadroon rim, ball feet, ebonised handle, 724.7g total",
+   "triage": "KEEP",
+   "market_score": 9,
+   "sold": [
+    {
+     "price": "USD 550",
+     "date": "2025-10-23",
+     "venue": "Cedarburg Auction & Appraisals (US)",
+     "url": "https://www.liveauctioneers.com/item/216766493_sterling-english-teapot",
+     "aud_price": 786.94,
+     "note": "SOLD, close: English sterling teapot with ribbed edging, 578.1g, maker and date not given. Worth USD 0.951/g. Silver was cheaper then (the house put scrap at about USD 753 at the time). Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    },
+    {
+     "price": "USD 450",
+     "date": "2026-05-14",
+     "venue": "Millea Bros (US)",
+     "url": "https://www.liveauctioneers.com/item/230843783_irish-victorian-sterling-silver-teapot",
+     "aud_price": 643.86,
+     "note": "SOLD, close: Irish sterling teapot, Dublin 1900, West & Son, wood handle and finial, armorial engraved, about 14.6 ozt (454g) all in. Worth USD 0.991/g. Lighter, and the engraving hurts it. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 643.86,
+   "guide_high_aud": 786.94,
+   "guide_summary": "Two SOLD entries, both close rather than the same item (plain English and Irish sterling teapots): AUD 644 (454g, May 2026) and AUD 787 (578g, Oct 2025). There are no UNSOLD or ASKING entries. Weight-adjusted to 724.7g, that is about AUD 986 to 1,028. Not a price paid, only a floor: allowing about 50-75g for the handle and finial, there is roughly 650-675g of sterling, or about 600-625g fine. At AUD 2.816/g (spot USD 61.22/ozt, gold-api.com, 30 Sep 2026) that is roughly AUD 1,690-1,760 melt. Rate: USD 1 = AUD 1.4308 (open.er-api.com, 30 Sep 2026).",
+   "flip_max_hammer": 345,
+   "keep_max_hammer": 820,
+   "working": "There is no same-item SOLD entry, so I weight-adjusted the close SOLD comps. Lowest rate per gram: USD 550 / 578.1g = USD 0.951/g = AUD 1.361/g. x 724.7g = AUD 986.5. Keep: 986.5 / 1.198 = 823.5, rounded down to $820. Flip: 986.5 less 13% fees less $25 postage = 833.3, / 2.396 = 347.8, rounded down to $345. The current bid is $750 with 1 bid, so the flip route is gone and keep has about $70 of headroom. An $820 hammer is $982 all in, still well under the approximate melt. The comps date from when silver was cheaper, so this ceiling is conservative.",
+   "confidence": "Low",
+   "confidence_reason": "The marks are read clearly: CS over H maker's mark (C.S. Harris & Sons), lion passant, uncrowned leopard's head, and date letter lowercase p = London 1910-11. But the SOLD comps are close items, weight-adjusted, and read from LiveAuctioneers' data. The silver weight net of the handle is estimated.",
+   "dropped_entries": "None. The researcher had no entries because the WebSearch budget was used up. The two SOLD entries above are my own additions from LiveAuctioneers data.",
+   "key_photo_findings": "Enlarged photo 3: a CS/H maker's mark in a shaped punch, lion passant, uncrowned leopard's head in a shield, and a lowercase roman p. That is London 1910-11, so the catalogue date is correct and the researcher's worry about a capital P is not borne out. The lid is also marked (lion plus date letter). The body is plain, with no monogram seen. Wooden (ebonised) handle; the finial looks like wood or bone.",
+   "condition": "Heavy tarnish and spotting overall. The underside of the lid and the interior show coppery firestain or discolouration, and there is a dark patch near the lid hinge in photo 7 (possibly a mark, a solder point or a small hole: not certain). No obvious dents. Feet, spout and handle look intact.",
+   "question_for_gowans": "Are there any holes, splits or solder repairs, especially at the lid hinge, the spout join and the handle sockets? What is the finial made of (wood, bone or ivory)? Can you give the weight excluding the handle if known?"
+  }
+ ]
+}
