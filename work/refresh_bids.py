@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Usage: refresh_bids.py <auction> <cdid> [<cdid> ...]  (text only). Prints JSON {cdid: {current_bid, bid_count, checked}}"""
 import sys,re,json,subprocess,time,datetime
-CH={'1':28711,'2':28712,'3':28713}; a=sys.argv[1]; out={}
+CH={'1':28711,'2':28712,'3':28713,'g1':28665,'g2':28666}; a=sys.argv[1]; out={}
+HOST='https://gowans.bidsonline.com.au' if a.startswith('g') else 'https://armitage.bidsonline.com.au'
 for cd in sys.argv[2:]:
     time.sleep(1)
-    h=subprocess.run(['curl','-sS','--max-time','30',f'https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid={cd}&chid={CH[a]}&category=ALL&style=group'],capture_output=True).stdout.decode('utf8','ignore')
+    h=subprocess.run(['curl','-sS','--max-time','30',f'{HOST}/catalogue_detail.aspx?cdid={cd}&chid={CH[a]}&category=ALL&style=group'],capture_output=True).stdout.decode('utf8','ignore')
     t=re.sub(r'\s+',' ',re.sub(r'<[^>]+>',' ',re.sub(r'<script.*?</script>','',h,flags=re.S)))
     cur=re.search(r'Current Bid \(\$\): (\$[\d,\.]+|[^ ]+)',t)
     rows=re.findall(r'<tr>\s*<td>[^<]*</td>\s*<td>\d+</td>\s*<td>[\d\.,]+</td>\s*<td>[\d/: APM]+</td>',h)
