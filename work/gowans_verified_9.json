@@ -1,174 +1,66 @@
-{
- "lots": [
-  {
-   "cdid": 3059822,
-   "lot": 130,
-   "what_it_is": "18ct yellow gold and platinum diamond half-hoop band, c.1930s-40s: platinum top in a stepped/lozenge (navette) panel with tiny illusion-set single-cut diamonds, milgrain edges, pierced gallery. 2.3g total, size P approx.",
-   "key_photo_findings": "Photo 2: two separate cartouches inside the shank, clearly read as '18CT' and 'PLAT'. Photo 1 (enlarged): white metal top with engraved illusion settings holding very small single-cut stones, pierced gallery under the head, reeded shoulder. Stones look present in the visible side but only one angle is shown, so the full top is not seen. Scratching and wear to the shank inside, no obvious crack or resize join seen.",
-   "condition": "Used, shank scratched and worn; stones appear present on the side shown; top face not photographed square-on.",
-   "triage": "NEAR MISS",
-   "market_score": 6,
-   "sold": [
-    {
-     "kind": "SOLD",
-     "price": "AUD 300 hammer (1 bid; buyer's premium 27% on top, so AUD 381 all-in)",
-     "currency": "AUD",
-     "aud_price": 300,
-     "date": "2026-07-05",
-     "venue": "Lugosi Auctioneers & Valuers, Artarmon NSW (via Invaluable), lot 30",
-     "url": "https://www.invaluable.com/auction-lot/18ct-platinum-antique-diamond-ring-30-c-f689c2e69a",
-     "same_item": "close",
-     "note": "Page opened. The visible page says 'Sold: Log in to view', but the page's embedded JSON shows isLotSold true, soldAmount 300 AUD, currentBid 300, bidCount 1, estimate AUD 300-500, event date 2026-07-05, house premium 27%. Researcher had filed this as an estimate only; moved to SOLD. Item: 18ct/Plat antique ring, milgrain, pierced shank, 2.16g, old-cut 0.20ct centre plus four 0.02ct, total 0.28ct. Same metals, era and weight, but a noticeably better stone than lot 130's tiny illusion-set chips, so lot 130 should sit at or below this, not above it."
-    }
-   ],
-   "unsold": [],
-   "asking": [
-    {
-     "kind": "ASKING",
-     "price": "AUD 6,100",
-     "currency": "AUD",
-     "aud_price": 6100,
-     "date": "live, seen 2026-09-30",
-     "venue": "Kalmar Antiques, Sydney (dealer)",
-     "url": "https://www.kalmarantiques.com.au/product/diamond-wedding-ring/",
-     "same_item": "category guide",
-     "note": "Page opened, price confirmed. A NEW ring made by Kalmar in the old style (18ct and platinum, better stones). Not antique, not comparable in value; retail ceiling only, excluded from the guide range."
-    },
-    {
-     "kind": "ASKING",
-     "price": "AUD 111.51/g Perth Mint buy price for hallmarked 18ct; platinum spot ask AUD 2,516.93/oz",
-     "currency": "AUD",
-     "aud_price": 230,
-     "date": "live, seen 2026-09-30 (prices updated 30/09/2026 11:10am)",
-     "venue": "Perth Mint",
-     "url": "https://www.perthmint.com/metalPrices.aspx",
-     "same_item": "category guide",
-     "note": "Page opened. Metal floor only, not a price for this ring. My estimate: about 1.9g 18ct x 111.51 = about AUD 212, plus about 0.4g platinum at roughly AUD 77/g pure-equivalent = about AUD 30 before refiner discount, so about AUD 230 scrap. The split of gold to platinum is my guess from the photos, not weighed."
-    },
-    {
-     "kind": "ASKING",
-     "price": "GBP 400 reduced (RRP GBP 630)",
-     "currency": "GBP",
-     "aud_price": 757,
-     "date": "undated search snippet via researcher; page returned HTTP 403 on 2026-09-30",
-     "venue": "Hatton Jewellers (UK dealer)",
-     "url": "https://www.hatton-jewellers.com/vintage-18ct-gold-0-10ct-diamond-illusion-set-ring-1979-size-o.html",
-     "same_item": "close",
-     "note": "Snippet only, not verified (403 again when I tried). 1979 18ct illusion-set ring, 0.10ct, 2.9g. Kept only as a lead; UK retail asking price, excluded from the guide range. GBP 400 x 1.893 = AUD 757."
-    }
-   ],
-   "dropped_entries": "Researcher's placeholder UNSOLD 'n/a' entry removed. Kalmar 18ct-and-platinum-diamond-ring: page opened, 'Sold', price shown as $0.00, 0.80ct total, no usable price, dropped. Antique Jewellery Company three-stone ring: page opened, 'Sold' with no price, about 1ct three-stone, not comparable, dropped. Invaluable Lugosi lot: moved from ASKING (estimate) to SOLD because the page JSON shows soldAmount AUD 300.",
-   "guide_low_aud": 300,
-   "guide_high_aud": 381,
-   "guide_summary": "One close SOLD result only: Lugosi, July 2026, AUD 300 hammer (AUD 381 with their 27% premium) for a similar 18ct/plat ring with a better 0.20ct centre stone. No UNSOLD evidence. ASKING evidence is either a new dealer ring (AUD 6,100, category only) or an unverified UK snippet, both excluded. Metal floor is roughly AUD 230 (Perth Mint buy prices, my weight split). Rate: GBP 1 = AUD 1.893 (open.er-api.com 30 Sep 2026).",
-   "keep_max_hammer": 0,
-   "flip_max_hammer": 0,
-   "working": "No same-item SOLD evidence, so both maximums are 0 under the rules. For context only: the one close sale is AUD 300 hammer for a better ring; AUD 300 / 1.198 = 250.4, so paying more than about $250 hammer here would put you above what a superior ring made in July 2026. Current bid is already $200 (all-in $239.60), which is about the scrap value (about $230). Flip: resale might be AUD 250-350 at auction less about 20% fees, so (300 x 0.8) / 2.396 = about $100 hammer, well under the current bid; not a flip.",
-   "confidence": "Low",
-   "confidence_reason": "Marks read clearly, but only one SOLD entry and it is a close, better ring, not the same item. Top face not photographed square-on.",
-   "question_for_gowans": "Can you photograph the top face square-on and confirm all diamonds are present, and say whether the shank has been resized or is thin at the back?"
-  },
-  {
-   "cdid": 3059827,
-   "lot": 135,
-   "what_it_is": "Set of six George III sterling silver Old English pattern teaspoons, London, attributed by Gowans to Thomas & William Chawner 1768; 72.8g total, 12cm each, bottom-marked stems, engraved initials.",
-   "key_photo_findings": "Photo 4 (enlarged): lion passant clear, a faint worn middle mark, and a maker's mark reading as script T/W C, consistent with Thomas & William Chawner. No legible date letter; bottom-marked London spoons of this period often carried only lion and maker, so the '1768' date may be Gowans' attribution rather than a read date letter. Photo 3: marks on another spoon very worn. Photo 5: bright-cut-free plain terminals engraved 'A over C I' and 'W' between stars, so the six are probably not all one original set (different initials). Photo 1: bowls with drop, general polish wear, light scratching; no obvious splits or repairs seen at this size.",
-   "condition": "Worn marks, polish wear and scratches, different engraved initials on at least two spoons (possibly assembled set); no visible repairs in the photos.",
-   "triage": "LOOK AT VIEWING",
-   "market_score": 6,
-   "sold": [
-    {
-     "kind": "SOLD",
-     "price": "GBP 240 ('sold for', premium status not stated)",
-     "currency": "GBP",
-     "aud_price": 454,
-     "date": "2026-05-21 (May 2026 sale)",
-     "venue": "Denhams, UK, lot 194",
-     "url": "https://denhams.com/antique-auction/may-2026/silver-jewellery/cutlery",
-     "same_item": "category guide",
-     "note": "Page opened. 'Ten various Georgian silver Old English pattern teaspoons and 2 others, 184g, sold for GBP 240'. Mixed, unmatched lot of 12, heavier per spoon (about 15g vs 12g), makers not given. Pro rata six spoons is about GBP 120 = AUD 227. Category guide only, cannot set a maximum. GBP 240 x 1.893 = AUD 454."
-    }
-   ],
-   "unsold": [],
-   "asking": [
-    {
-     "kind": "ASKING",
-     "price": "GBP 120 (dealer listing marked 'sold')",
-     "currency": "GBP",
-     "aud_price": 227,
-     "date": "undated, seen 2026-09-30",
-     "venue": "Silfren Antiques (UK dealer), item m5413",
-     "url": "https://www.silfren.com/Flat%20Ware/Old%20English/OE12/m5413.htm",
-     "same_item": "close",
-     "note": "Page opened. Six bead-edged Old English teaspoons, very rubbed maker's mark indicating Thomas Chawner, London c.1775, 92g, bottom-struck marks, bowl bumps, slight bends, two with old stem repairs. Dealer retail price, undated, so filed as ASKING not SOLD. Closest match found: similar maker, period and marks, heavier, some repairs. GBP 120 x 1.893 = AUD 227."
-    }
-   ],
-   "dropped_entries": "Woolley & Wallis print-lot id=11202: page actually opens (not empty as the researcher said) and shows 20 April 2005, hammer GBP 120 for TWO sets of six (12 spoons), bright-engraved, one set probably William Chawner I; 21 years old and 12 spoons, not comparable, dropped. Woolley & Wallis id=408734: page opened, it is a 14 July 2021 mixed Georgian flatware lot (hammer GBP 750, 30oz with basting spoons, dessert spoons etc.), not the GBP 60-100 teaspoon estimate claimed; wrong item, dropped. antique-silver.com PDF link: returns a 0-page PDF, price unverifiable, dropped (the snippet also described a rarer spiral-handled set, not comparable). Researcher's GBP 2.00 assumed rate replaced by 1.893.",
-   "guide_low_aud": 227,
-   "guide_high_aud": 227,
-   "guide_summary": "No same-item SOLD result. One category SOLD (Denhams May 2026, 12 mixed Georgian OE teaspoons GBP 240, about AUD 227 per six) and one close dealer ASKING (Silfren, six Thomas Chawner teaspoons c.1775, GBP 120 = AUD 227, marked sold, undated) both point to about AUD 225 for six. No UNSOLD evidence. Rate GBP 1 = AUD 1.893 (open.er-api.com 30 Sep 2026).",
-   "keep_max_hammer": 0,
-   "flip_max_hammer": 0,
-   "working": "No same-item SOLD evidence within 24 months, so both maximums are 0. For context: evidence suggests about AUD 200-230 for six Georgian OE teaspoons in the UK; melt of 72.8g sterling is well below that. Current bid $80 (all-in $95.84) is well under the indicated value, which is why it deserves a look, but UK prices do not translate straight to a Tasmanian resale and postage/fees eat into a flip.",
-   "confidence": "Low",
-   "confidence_reason": "Maker's mark plausibly Chawner but date letter not legible; evidence is one category SOLD and one undated dealer price.",
-   "question_for_gowans": "Is the 1768 date from a legible date letter or an attribution? Do all six carry the same maker's mark, and are there any splits, repairs or thin bowls? The initials differ between spoons: is it a matched set or assembled?"
-  },
-  {
-   "cdid": 3059828,
-   "lot": 136,
-   "what_it_is": "18ct (750) gold round devotional medal/pendant with a relief bust of the veiled Madonna, integral bail, reverse engraved with a script name and 1954; 3.9g. European, mid-century.",
-   "key_photo_findings": "Photo 4 (enlarged): a '750' stamp, worn but readable, and a separate elongated-hexagon (lozenge) maker's/assay stamp with illegible content; that combination is typical of continental European (possibly Italian) gold. Photos 1-2: well-struck relief with small marks on the rim either side at the base, possibly the medallist's signature. Photo 3: script inscription and '1954', heavy hairline scratching. Bail intact, no dents seen.",
-   "condition": "Heavily scratched reverse and field, personal inscription, no visible dents or repairs.",
-   "triage": "LOOK AT VIEWING",
-   "market_score": 7,
-   "sold": [],
-   "unsold": [],
-   "asking": [
-    {
-     "kind": "ASKING",
-     "price": "AUD 111.51 per gram Perth Mint buy price for hallmarked 18k (750) jewellery",
-     "currency": "AUD",
-     "aud_price": 435,
-     "date": "live, seen 2026-09-30 (updated 30/09/2026 11:10am)",
-     "venue": "Perth Mint",
-     "url": "https://www.perthmint.com/metalPrices.aspx",
-     "same_item": "category guide",
-     "note": "Page opened (researcher had 111.42; current figure 111.51). 3.9g x 111.51 = AUD 434.89. A dealer buy price, not a price paid for this item; a scrap floor assuming the 750 is genuine."
-    },
-    {
-     "kind": "ASKING",
-     "price": "Gold spot ask AUD 6,019.61/oz",
-     "currency": "AUD",
-     "aud_price": 566,
-     "date": "live, seen 2026-09-30",
-     "venue": "Perth Mint spot page",
-     "url": "https://www.perthmint.com/metalPrices.aspx",
-     "same_item": "category guide",
-     "note": "Page opened. Pure metal value: 6019.61 / 31.1035 x 0.75 x 3.9 = AUD 566, before any refiner margin. Reference only."
-    },
-    {
-     "kind": "ASKING",
-     "price": "EUR 1,100",
-     "currency": "EUR",
-     "aud_price": 1785,
-     "date": "live, seen 2026-09-30",
-     "venue": "Proantic (Bijoux Galerie, Grenoble, France)",
-     "url": "https://www.proantic.com/en/1685237-18-carat-gold-medal-of-the-virgin-mary.html",
-     "same_item": "close",
-     "note": "Page opened, price confirmed, in stock. 18k Virgin Mary medal c.1940-60, 7.50g, 32mm, excellent condition, boxed. Nearly twice the weight and unscratched; retail. Pro rata by weight about AUD 928 for 3.9g, still retail. EUR 1,100 x 1.623 = AUD 1,785."
-    }
-   ],
-   "dropped_entries": "Jewellery Discovery French Virgin Mary medal: page opened, 'Sold' with no price or date, nothing usable, dropped. 1stDibs 18K Virgin Mary medal: page opened, no price displayed, dropped. Researcher's EUR 1.70 assumed rate replaced by 1.623.",
-   "guide_low_aud": 435,
-   "guide_high_aud": 1785,
-   "guide_summary": "No SOLD and no UNSOLD evidence. All ASKING/reference: Perth Mint scrap buy about AUD 435 and pure melt about AUD 566 (floor, if the 750 is genuine), and one French dealer asking EUR 1,100 (AUD 1,785) for a 7.5g medal in excellent condition (about AUD 928 pro rata for 3.9g). Rate EUR 1 = AUD 1.623 (open.er-api.com 30 Sep 2026).",
-   "keep_max_hammer": 0,
-   "flip_max_hammer": 0,
-   "working": "No SOLD evidence, so both maximums are 0 under the rules. For context only: scrap break-even hammer = 434.89 / 1.198 = $363; current bid $300 (all-in $359.40) is already close to that. Anything above about $360 hammer relies on a buyer paying over scrap for a scratched, inscribed medal.",
-   "confidence": "Low",
-   "confidence_reason": "750 mark readable but worn and the maker's mark illegible; no SOLD comparables, only metal prices and one retail asking price.",
-   "question_for_gowans": "Has the gold been tested (acid or XRF) to confirm 18ct, and can you read the lozenge-shaped maker's mark? Is 3.9g the weight without a chain?"
-  }
- ]
-}
+{"lots":[
+{"cdid":441213,"lot":1219,
+"what_it_is":"LAG Tramontane auditorium cutaway acoustic-electric guitar in a brown sunburst (LAG call it Brown Shadow, BRS) finish, with a floor stand. Gowans title: LAG TRAMONTANE T100ACE ACOUSTIC/ELECTRIC GUITAR WITH STAND. Most likely a T100ACE-BRS, which Reverb lists as a real factory variant.",
+"triage":"LOOK AT VIEWING","market_score":6,
+"score_reason":"Overseas used asking prices for T100ACE variants run about AUD 500 to 680, and a new T100ACE-BRS is listed from about AUD 638. Realistic Australian used value is probably AUD 300 to 450. I knocked it down because there are no sold prices, the model label is not readable in the photo and the electronics have not been checked.",
+"key_photo_findings":"One photo only. Headstock has the LAG logo and a dark wood face. There is an Occitan cross inlay below the soundhole, a wooden rosette, a winged bridge with a pin row, a wedge-shaped end inlay at the tail, binding, and a single Venetian-style cutaway. Brown sunburst on a cedar-coloured top. All of this matches the Tramontane line and Reverb's stock photo of the T100ACE-BRS (Brown Sunburst). This also settles the researcher's worry that a sunburst top can't be a T100ACE. A label is visible inside the soundhole but too small to read. The preamp side panel is out of view, so the electronics (StudioLag) are unconfirmed. No obvious cracks or big dings on the top at this resolution. Gowans list it with a stand, no case.",
+"condition":"Looks clean and complete from the front, with strings on and no visible top damage at photo resolution. Back, sides, neck, frets, electronics and battery are not seen or tested.",
+"sold":[],"unsold":[],
+"asking":[
+{"kind":"ASKING","price":"US$366.16","currency":"USD","aud_price":527,"date":"live, seen 2026-10-01 (published 2026-05-04)","venue":"Reverb, private seller: Lag T100ACE Tramontane, Natural, Very Good","url":"https://reverb.com/item/94560111-lag-t100ace-tramontane-stage-series-dreadnought-cutaway-2010s-natural","same_item":"close","note":"Page opened (Reverb listings API record). This is an asking price, not a sale. Same model in natural finish, very good condition, a couple of tiny blemishes, set up, electrics working. Rate 1 USD = 1.438252 AUD (open.er-api.com, 1 Oct 2026)."},
+{"kind":"ASKING","price":"US$349.00","currency":"USD","aud_price":502,"date":"live, seen 2026-10-01 (published 2026-03-17)","venue":"Reverb, private seller: 2011 LAG Tramontane T100ACE-BLK, Excellent, with hard case","url":"https://reverb.com/item/95143437-2011-lag-tramontane-t100ace-blk-auditorium-acoustic-electric-guitar","same_item":"close","note":"Page opened (Reverb API). Asking price. Same model in black, excellent condition, includes a premium hard case, which makes it better than the Gowans lot (stand only). Local pickup only. Rate 1.438252."},
+{"kind":"ASKING","price":"US$474.24","currency":"USD","aud_price":682,"date":"live, seen 2026-10-01 (published 2026-03-16)","venue":"Reverb, Belgian private seller: Lag T-100ASCE-BRS slim body auditorium, Brown Shadow, Excellent, with flight case","url":"https://reverb.com/item/95094129-lag-t-100asce-brs-slim-body-auditorium-with-electronics-2010s-brown-shadow","same_item":"close","note":"Page opened (Reverb API). Asking price. Same finish, but the slim-body (ASCE) version, bought new in 2016, near unused, with flight case. Better specified than the Gowans lot. Rate 1.438252."},
+{"kind":"ASKING","price":"US$467.27","currency":"USD","aud_price":672,"date":"listed 2018-12-06, API still shows it live, seen 2026-10-01","venue":"Reverb, German private seller: LAG T100 ACE Brown Shadow, Mint","url":"https://reverb.com/item/17439474-lag-t100-ace-brown-shadow","same_item":"yes","note":"Page opened (Reverb API). Asking price. Exact model and finish, mint condition. The listing dates from 2018 and may be stale, so give it little weight."},
+{"kind":"ASKING","price":"US$443.62 (new, lowest of 2 new listings)","currency":"USD","aud_price":638,"date":"live, seen 2026-10-01","venue":"Reverb product page: Lag T100ACE-BRS Tramontane Acoustic-Electric Guitar Brown Sunburst","url":"https://reverb.com/p/lag-t100ace-brs-tramontane-acoustic-electric-guitar-brown-sunburst","same_item":"yes","note":"Page opened (Reverb comparison-shopping API record, id 61292; the stock photo matches the Gowans guitar). New retail asking price. It shows 0 used listings. A used lot without a case should sell well below this. Rate 1.438252."},
+{"kind":"ASKING","price":"AUD 909.00 (compare-at 999.00)","currency":"AUD","aud_price":909,"date":"live, seen 2026-10-01","venue":"Mega Music Online (Perth retailer): LAG Tramontane T118DCE Black, new","url":"https://megamusiconline.com.au/products/lag-t118dcebk-lag-tramontane-t118dce-black-cutaway-acoustic-electric-guitar-cedar-top","same_item":"category guide","note":"Page opened (title and price 909.00 confirmed, shown as available). New retail price for the newer Tramontane 118 dreadnought cutaway, a different model. Changed from close to category guide. Only shows the new Australian ceiling for the line."}
+],
+"guide_low_aud":502,"guide_high_aud":682,
+"guide_summary":"AUD 502 to 682 from five Reverb asking prices (four used, one new) for the T100ACE and close variants. There are no sold or unsold results. The Mega Music AUD 909 new T118DCE is a category guide only and is left out of the range. Rate 1 USD = 1.438252 AUD (open.er-api.com, 1 Oct 2026). These are all asking prices, mostly overseas, and some include cases, so expect a real Australian used price below the range.",
+"dropped_entries":"Sonovente EUR 349.17: page returns HTTP 403, so the price comes from a search snippet only. It is a new European price ex VAT, and I dropped it (lead only). Adorama T100ACE: shows no price, and the page now returns 403 to me. It only helped with identification, so I dropped it. Bajaao INR 64,889 and Zedem CAD 859.99: snippet only, Bajaao returns HTTP 429, and these are new overseas prices for related models, so I dropped them. Reverb's sold filter did not work through the API (it returned only live listings), and Reverb's price-guide endpoint is closed (403), so I found no sold prices. WebSearch budget is used up.",
+"flip_max_hammer":0,"keep_max_hammer":0,
+"working":"No SOLD evidence survives, so both maximum bids are 0 by rule. For reference only, not a bid basis: if it resells at about AUD 400 used, all-in at 19.8% premium breaks even at a hammer of about 400/1.198 = 334. Gowans already shows 10 bids.",
+"confidence":"Low","confidence_reason":"Asking evidence only, the model label is not read, and the electronics have not been seen.",
+"question_for_gowans":"Can you confirm the model label inside the soundhole (T100ACE-BRS?), that the pickup and preamp work (does the tuner light up, is there a battery?), whether there are any cracks or neck problems, and whether a case is included or only the stand?"},
+{"cdid":441309,"lot":1315,
+"what_it_is":"Single live-edge timber slab, catalogued by Gowans as Huon pine. Pale straw colour, knotty, with burl-like areas toward the top. Length roughly 2m, width estimated at about 250 to 400mm (wider at the top), thickness unknown.",
+"triage":"LOOK AT VIEWING","market_score":5,
+"score_reason":"If it is genuine Huon pine, dealer prices for plain or flawed slabs of similar size run AUD 205 to 490, and an auction slab of unknown thickness and grade will usually make well under retail. The species is the seller's claim only, and I found no sold evidence.",
+"key_photo_findings":"One photo. The slab stands against a wall, chalked 1315 and 2/10/26, with a Gowans sticker. It is pale cream to light yellow with a fine, even grain, scattered small dark knots, and a lumpy figured area at the top right with a dark knot or void. Both edges are natural live edge, waisted near the base, with a small split or rough end at the bottom. It looks sawn and not dressed. Thickness can't be seen. Huon pine is plausible from the colour and small knots, but celery top pine, King Billy or macrocarpa can't be ruled out from a photo, so it needs a smell and close look at the preview.",
+"condition":"Rough sawn, appears sound with no obvious rot, with knots and a likely small end check at the bottom. Thickness and moisture are unknown.",
+"sold":[],"unsold":[],
+"asking":[
+{"kind":"ASKING","price":"$490.00","currency":"AUD","aud_price":490,"date":"live, seen 2026-10-01","venue":"Huon Pine Tasmania (huonpine.com.au) slab 201","url":"https://huonpine.com.au/product/huon-pine-slab-201-2650mm-3100-340mm-x-45mm/","same_item":"close","note":"Page opened (product page, price 490.00, in stock). Asking price. Huon pine, 3100mm real (2650mm for volume) x 340mm average x 45mm, 30.5kg, plain. Longer than lot 1315 and of known thickness."},
+{"kind":"ASKING","price":"$205.00","currency":"AUD","aud_price":205,"date":"live, seen 2026-10-01","venue":"Huon Pine Tasmania slab 256 (bargain basement)","url":"https://huonpine.com.au/product/huon-slab-256-1840mm-430mm-25mm/","same_item":"close","note":"Page opened (product page, 205.00, in stock). Asking price. Huon pine, 1840 x 430 x 25mm, 10.8kg, has cracks. The closest size and condition match, so it is the low end of retail."},
+{"kind":"ASKING","price":"$350.00","currency":"AUD","aud_price":350,"date":"live, seen 2026-10-01","venue":"Huon Pine Tasmania slab 123","url":"https://huonpine.com.au/product/huon-slab-123-2950-x-400-x-25mm/","same_item":"close","note":"Page opened (product page, 350.00). Asking price. 2950 x 400 x 25mm, 20.1kg, natural edges with bumps. Longer and wider than lot 1315."},
+{"kind":"ASKING","price":"$460.00 (reduced from $580.00)","currency":"AUD","aud_price":460,"date":"live, seen 2026-10-01","venue":"Huon Pine Tasmania slab 308 (discounted, has a void)","url":"https://huonpine.com.au/product/huon-slab-308-2350mm-x-425mm-x-40mm-slab-has-a-void/","same_item":"close","note":"Page opened (product page, 580 reduced to 460). Asking price. 2350 x 425 x 40mm, 25.5kg, birdseye 1/5, has a void and faults. Bigger and thicker than the lot appears to be."},
+{"kind":"ASKING","price":"$880.00","currency":"AUD","aud_price":880,"date":"live, seen 2026-10-01","venue":"Huon Pine Tasmania slab 56 (birdseye burl)","url":"https://huonpine.com.au/product/huon-pine-slab-56-2000-x-290-x-35mm-birdseye-burl/","same_item":"category guide","note":"Page opened (product page, 880.00). Asking price. 2000 x 290 x 35mm, 13.1kg, very high quality birdseye burl. Same length, but a much higher grade than lot 1315's knotty figure, so I changed it from close to category guide. Upper bound only."}
+],
+"guide_low_aud":205,"guide_high_aud":490,
+"guide_summary":"AUD 205 to 490 from four dealer asking prices for plain or flawed Huon pine slabs of similar or larger size, all asking, with no sold or unsold results. A high-grade birdseye burl slab of the same length asks AUD 880 (category guide, outside the range). All AUD, no conversion. Retail dealer prices for confirmed Huon pine with known dimensions will be above what an unmeasured auction slab makes.",
+"dropped_entries":"None dropped. I opened all five product pages (the researcher had only read category listings), and price and description match. I reclassified slab 56 (birdseye burl) as a category guide.",
+"flip_max_hammer":0,"keep_max_hammer":0,
+"working":"No SOLD evidence, so both maximum bids are 0 by rule. For reference only: the cheapest comparable dealer slab is AUD 205 retail, and at 19.8% premium that equals a hammer of 205/1.198 = about 171. An auction slab should be bought well under that.",
+"confidence":"Low","confidence_reason":"Asking evidence only, the species is unconfirmed, and thickness is unknown.",
+"question_for_gowans":"What are the slab's length, width and thickness? Is it confirmed Huon pine (it should have the distinctive oily, peppery smell), and is it dry, without rot or deep checks?"},
+{"cdid":441322,"lot":1328,
+"what_it_is":"Single board or slab of Tasmanian blackheart sassafras, strongly figured, with dark grey-brown streaks through pale timber and two knots. It appears sawn with near-straight edges. Estimated about 2.3 to 2.5m long and about 250 to 300mm wide, judged against neighbouring boards. Thickness unknown.",
+"triage":"LOOK AT VIEWING","market_score":5,
+"score_reason":"Dealer prices for blackheart sassafras slabs of 2.37m x 270 to 450mm ran AUD 240 to 555 (all now out of stock). This board is at the narrow end of that, its size is only estimated, and the evidence is asking only. The figure is good, though.",
+"key_photo_findings":"One photo of the timber rack. Lot 1328 (chalked 1328 and 2/10/26, Gowans sticker) is the widest board in the row. It has strong blackheart streaking over most of its length, a dark knot near the top and another about two-thirds down, and pale sapwood-coloured areas. The edges look mostly straight (sawn, not live edge). The surface looks rough sawn or lightly skimmed. There may be a split near the bottom end. No dimensions are marked.",
+"condition":"Rough sawn, with two knots and a possible end split. It appears sound. Thickness and dryness are unknown.",
+"sold":[],"unsold":[],
+"asking":[
+{"kind":"ASKING","price":"$240.00 (out of stock)","currency":"AUD","aud_price":240,"date":"expired listing, page modified 2026-07-01, seen 2026-10-01","venue":"Huon Pine Tasmania blackheart sassafras slab 346","url":"https://huonpine.com.au/product/blackheart-slab-346-2370mm-x-270mm-x-35mm/","same_item":"close","note":"Page opened. A dealer asking price, now out of stock. Out of stock does not prove it sold or at what price. 2370 x 270 x 35mm, 16.8kg, good natural edges. This is the closest width to lot 1328."},
+{"kind":"ASKING","price":"$325.00 (out of stock)","currency":"AUD","aud_price":325,"date":"expired listing, page modified 2026-07-01, seen 2026-10-01","venue":"Huon Pine Tasmania blackheart sassafras slab 343","url":"https://huonpine.com.au/product/blackheart-slab-343-2370mm-x-350mm-x-25mm/","same_item":"close","note":"Page opened. Asking price, out of stock. 2370 x 350 x 25mm, 13.3kg, natural edges. A little wider than lot 1328 appears."},
+{"kind":"ASKING","price":"$375.00 (out of stock)","currency":"AUD","aud_price":375,"date":"expired listing, seen 2026-10-01","venue":"Huon Pine Tasmania blackheart sassafras slab 342","url":"https://huonpine.com.au/product/blackheart-slab-342-2370mm-x-410mm-x-23mm/","same_item":"close","note":"Page opened. Asking price, out of stock. 2370 x 410 x 23mm, 14.7kg, skim dressed, a crack at each end. Wider than lot 1328."},
+{"kind":"ASKING","price":"$540.00 (out of stock)","currency":"AUD","aud_price":540,"date":"expired listing, page modified 2026-07-01, seen 2026-10-01","venue":"Huon Pine Tasmania blackheart sassafras slab 332","url":"https://huonpine.com.au/product/blackheart-slab-332-2360-x-400-x-35mm/","same_item":"category guide","note":"Page opened. Asking price, out of stock. 2360 x 400 x 35mm, 21kg, natural edge. Wider and thicker, so an upper guide only."},
+{"kind":"ASKING","price":"$555.00 (out of stock)","currency":"AUD","aud_price":555,"date":"expired listing, page modified 2026-07-01, seen 2026-10-01","venue":"Huon Pine Tasmania blackheart sassafras slab 340","url":"https://huonpine.com.au/product/blackheart-slab-340-2370mm-x-450mm-x-25mm/","same_item":"category guide","note":"Page opened. Asking price, out of stock. 2370 x 450 x 25mm, high-quality features. Much wider than lot 1328, so an upper guide only."}
+],
+"guide_low_aud":240,"guide_high_aud":375,
+"guide_summary":"AUD 240 to 375 from three expired dealer asking prices for blackheart sassafras slabs of 2.37m x 270 to 410mm. The wider slabs at AUD 540 to 555 are a category guide only. All are asking, with no sold or unsold results. All AUD. I added these myself because the researcher had no entries.",
+"dropped_entries":"The researcher had no entries. I added five expired Huon Pine Tasmania listings, opening the category page and every product page.",
+"flip_max_hammer":0,"keep_max_hammer":0,
+"working":"No SOLD evidence, so both maximum bids are 0 by rule. For reference only: the closest dealer slab asked AUD 240 retail, and at 19.8% premium that equals a hammer of 240/1.198 = about 200. An auction board should be bought well under that.",
+"confidence":"Low","confidence_reason":"Expired asking prices only, with size estimated from the photo.",
+"question_for_gowans":"What are the board's length, width and thickness? Is it dry, and is there an end split or any borer near the bottom?"}
+]}

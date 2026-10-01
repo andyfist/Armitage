@@ -1,5 +1,126 @@
-{"lots":[
-{"cdid":3059909,"lot":220,"triage":"NEAR MISS","market_score":5,"sold":[],"unsold":[],"asking":[],"guide_low_aud":0,"guide_high_aud":0,"flip_max_hammer":0,"keep_max_hammer":0,"confidence":"Low","note":"No comparable evidence gathered; WebSearch budget exhausted (200 of 200) for researcher and verifier."},
-{"cdid":3059946,"lot":257,"triage":"NEAR MISS","market_score":6,"sold":[],"unsold":[],"asking":[],"guide_low_aud":0,"guide_high_aud":0,"flip_max_hammer":0,"keep_max_hammer":0,"confidence":"Low","note":"No comparable evidence gathered; WebSearch budget exhausted."},
-{"cdid":3059952,"lot":263,"triage":"NEAR MISS","market_score":6,"sold":[],"unsold":[],"asking":[],"guide_low_aud":0,"guide_high_aud":0,"flip_max_hammer":0,"keep_max_hammer":0,"confidence":"Low","note":"No comparable evidence gathered; WebSearch budget exhausted."}
-]}
+{
+ "lots": [
+  {
+   "cdid": 440218,
+   "lot": 75,
+   "what_it_is": "7 Australian florins in 2x2 dealer holders: 1910 Edward VII, 1936 George V, 1927 Canberra (all .925 silver), and 1951 Jubilee, 1952, 1954 Royal Visit, 1963 (all .500 silver). The unlabelled piece marked 'F 920' is a 1954 Royal Visit florin (lion and kangaroo reverse), not a Federation type as the researcher thought.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 6,
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "$39.99 AUD (Sold Out)",
+     "currency": "AUD",
+     "aud_price": 39.99,
+     "date": "live, seen 2026-10-01",
+     "venue": "Downies Collectables (dealer)",
+     "url": "https://www.downies.com/products/1927-canberra-florin-fine-to-very-fine",
+     "same_item": "close",
+     "note": "1927 Canberra florin, Fine to Very Fine coin pack. Page opened (product page and product JSON). The researcher put $59.99 against this URL; the page actually shows $39.99. Closest grade to the lot's 1927 coin. Retail ask, not a payment. AUD, no conversion."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$59.99 AUD (not available)",
+     "currency": "AUD",
+     "aud_price": 59.99,
+     "date": "live, seen 2026-10-01",
+     "venue": "Downies Collectables (dealer)",
+     "url": "https://www.downies.com/products/1927-canberra-florin-very-fine",
+     "same_item": "close",
+     "note": "1927 Canberra florin Very Fine pack. Seen in Downies' own product search JSON (title, price and availability), product page not opened separately. This is where the researcher's $59.99 actually belongs. Retail ask."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$89.00 AUD (Sold Out)",
+     "currency": "AUD",
+     "aud_price": 89,
+     "date": "live, seen 2026-10-01",
+     "venue": "Downies Collectables (dealer)",
+     "url": "https://www.downies.com/products/1927-canberra-florin-extremely-fine",
+     "same_item": "close",
+     "note": "1927 Canberra florin Extremely Fine. Page opened, price confirmed. Likely a better grade than the lot's coin, which looks about VF with bag marks. Retail ask."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$39.99 AUD (available)",
+     "currency": "AUD",
+     "aud_price": 39.99,
+     "date": "live, seen 2026-10-01",
+     "venue": "Downies Collectables (dealer)",
+     "url": "https://www.downies.com/products/1954-royal-visit-florin-very-fine",
+     "same_item": "close",
+     "note": "1954 Royal Visit florin Very Fine pack, matching the lot's 'F 920' coin. Seen in Downies' product search JSON, product page not opened separately. New entry found by the verifier. Retail ask; the lot's coin looks VF or a little better but the photo is soft."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$38.99 AUD",
+     "currency": "AUD",
+     "aud_price": 38.99,
+     "date": "live, seen 2026-10-01 (by researcher)",
+     "venue": "Downies Collectables (dealer)",
+     "url": "https://www.downies.com/search?q=1952+florin",
+     "same_item": "close",
+     "note": "1952 florin Extremely Fine, as reported by the researcher from the search page. I could not re-open it (Downies returned HTTP 429), so this is a lead only, not verified. The lot's 1952 looks VF to EF."
+    }
+   ],
+   "guide_low_aud": 38.99,
+   "guide_high_aud": 89,
+   "guide_summary": "No SOLD and no UNSOLD evidence. All surviving entries are dealer ASKING prices for single coins (per coin, not for the lot): about $40 to $60 for a circulated 1927 Canberra, $89 for an EF one, about $40 for a VF 1954 Royal Visit and about $39 for an EF 1952 (lead only). Common dates (1936, 1951, 1952, 1963) sell to dealers at about melt in circulated grades. Melt floor for the lot, at the dealer-site silver spot of AUD 87.71/oz (one source only, not cross-checked): 3 x .925 coins at 0.336 oz = about $88, plus 4 x .500 coins at 0.182 oz = about $64, so about $150 total. A rough lot value is $150 to $250 (melt plus a modest premium for the 1927 Canberra, 1954 Royal Visit and the 1910), but that is an estimate, not evidence. AUD throughout, no conversion.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD entries survive, so both maximum bids are 0 under the rules. For context only (not a bid): melt about $150 / 1.198 = about $125 hammer is the price at which you pay only melt all-in. Buyer's premium 19.8%. Pickup from 37 Main Road, Moonah, no freight.",
+   "confidence": "Low",
+   "confidence_reason": "Dates read from holder labels and partly confirmed on the coins (1927 Canberra, 1951 Jubilee, 1952, 1963, 1936 and the 1954 Royal Visit design are readable; the 1910 date on the coin is mostly lost in glare). Evidence is asking prices only, and the silver spot is a single unconfirmed source.",
+   "dropped_entries": "Dropped: (1) the researcher's $59.99 claim against the 1927 Fine-to-VF URL, because that page shows $39.99; refiled with the right price, and $59.99 moved to the separate VF pack URL. (2) 1927 Canberra aUnc $139 (page JSON opened, price confirmed) and Unc $299 (search JSON confirmed): much higher grade than this lot, not comparable. (3) 1951 Uncirculated $229 (search JSON confirmed): not comparable grade, and the title does not say Jubilee. (4) 1936 florin 'gEF' $12.95: the product page was never opened, the price looks wrong for an EF 1936, and I could not re-find it (429 and no 1936 match in the product search), so it is unverified and dropped. (5) 1933 VG $99 and the 1946-47 pair: different dates, context only. (6) 1910 PCGS AU53 $899 and 1963 PCGS MS65 $269: slabbed high grades, not comparable. (7) Silver spot AUD 87.71/oz: not a price for this item, so it was the wrong kind for an ASKING entry; moved into guide_summary as an unconfirmed melt guide.",
+   "key_photo_findings": "One photo. Holder labels read: 1910; F1065 1936; F 920 (yellow sticker); F1145 1927 Canb.; F1150 1951 Jub.; F1137 1963; F1019 1952 (with a crossed-out '934' sticker). Dealer pencil '2/-' on several. Enlarged, the F 920 coin shows a kangaroo standing behind a reclining lion, which is the 1954 Royal Visit florin, and the date is not legible. The 1910 is quite worn (about Fine) with glare across half the coin; the shield reverse and 'ONE FLORIN' legend can be seen. The 1927, 1951 and 1963 show some lustre. No obvious damage, but only the reverses are shown.",
+   "condition": "Circulated, roughly Fine (1910) to VF/EF (others). Only one side of each coin is visible; obverses, rims and any cleaning or edge knocks are not visible.",
+   "question_for_gowans": "Can you confirm the F 920 coin is a 1954 Royal Visit florin, and that the 1910 really is dated 1910 (please show the obverse and the date)? Are any of the coins cleaned or damaged on the obverse or rims?"
+  },
+  {
+   "cdid": 440251,
+   "lot": 108,
+   "what_it_is": "2014 Tokelau $5 Year of the Horse, gilt 1 oz silver proof, NGC slab graded PF 69 Ultra Cameo, Early Releases, cert 3852631-081 (label read in the photo). Gowans' title also says 1 oz.",
+   "triage": "NEAR MISS",
+   "market_score": 5,
+   "sold": [],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "Nothing survives: no SOLD, UNSOLD or ASKING evidence was found. The researcher's and my WebSearch calls were refused (session budget of 200 used up). A Downies product search for 'tokelau horse' found no match. The only floor is melt: 1 oz of silver at the unconfirmed dealer-site spot of AUD 87.71/oz is about $88 (if the coin is .999 fine, which I have not confirmed). The orchestrator's earlier figure of about $100-150 is unverified and not evidence.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD evidence, so both maximum bids are 0. Context only: about $88 melt / 1.198 = about $73 hammer is the melt-only all-in price. Buyer's premium 19.8%. Pickup Moonah, no freight.",
+   "confidence": "Low",
+   "confidence_reason": "The label is read clearly, but there is no market evidence of any kind. Fineness and maker are not on the label.",
+   "dropped_entries": "None; the researcher supplied no entries.",
+   "key_photo_findings": "NGC label clearly reads '2014 GILT TOKELAU S$5 YEAR OF THE HORSE EARLY RELEASES PF 69 ULTRA CAMEO 3852631-081', with a red horse zodiac label. The coin shows two gilt horses and a '2014' tablet. The slab looks clean with no visible cracks. Only the front of the slab is shown.",
+   "condition": "Graded PF 69 Ultra Cameo by NGC; slab looks undamaged from the front.",
+   "question_for_gowans": "Can you show the back of the slab and confirm there are no cracks, and is there an original box or certificate?"
+  },
+  {
+   "cdid": 440252,
+   "lot": 109,
+   "what_it_is": "Perth Mint Australian Lunar Silver Coin Series II, 2012 Year of the Dragon, 1 oz silver coloured coin (red dragon) in its black Perth Mint case with the illustrated outer box. The researcher called it Series I; the 2012 Dragon belongs to Lunar Series II (2008 to 2019).",
+   "triage": "NEAR MISS",
+   "market_score": 5,
+   "sold": [],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "Nothing survives: no SOLD, UNSOLD or ASKING evidence for this coin. WebSearch was refused (budget used up). A Downies product search returned only 2024 Dragon coins (for example a 2024 1oz silver gilded coin at $130 and coloured expo coins at $95 to $115, all sold out), which are a different issue and are not used. Melt floor: 1 oz at the unconfirmed dealer-site spot of AUD 87.71/oz is about $88. The researcher's blind estimate of $90-140 is unverified.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD evidence, so both maximum bids are 0. Context only: about $88 melt / 1.198 = about $73 hammer is the melt-only all-in price. Buyer's premium 19.8%. Pickup Moonah, no freight. Note there are already 9 bids.",
+   "confidence": "Low",
+   "confidence_reason": "Box, case and coin design are clear in the photo, but the weight is taken from Gowans' title only, the certificate is not shown, and there is no market evidence.",
+   "dropped_entries": "None; the researcher supplied no entries. The 2024 Dragon listings seen on Downies were not added because they are a different year and issue.",
+   "key_photo_findings": "Outer box reads 'AUSTRALIAN LUNAR SILVER COIN SERIES YEAR OF THE DRAGON'; the case lid reads 'THE PERTH MINT AUSTRALIA'. The coin is in its capsule, with a red-coloured dragon and 'Year of the Dragon' visible. No certificate of authenticity is visible. The coin size is consistent with 1 oz but it was not measured.",
+   "condition": "Looks fine in its capsule; box shows light shelf wear; certificate not seen.",
+   "question_for_gowans": "Is the numbered certificate of authenticity with the coin, and is the capsule sealed with no toning or milk spots on the coin?"
+  }
+ ]
+}

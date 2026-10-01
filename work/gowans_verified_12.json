@@ -1,218 +1,48 @@
-{
- "lots": [
-  {
-   "cdid": 3059880,
-   "lot": 188,
-   "what_it_is": "Edwardian sterling silver pierced oval swing-handle basket, James Dixon & Sons, Sheffield 1905, 362.2g, 28 cm wide",
-   "triage": "KEEP",
-   "market_score": 8,
-   "sold": [
-    {
-     "price": "CAD 375",
-     "date": "2025-11-12",
-     "venue": "A.H. Wilkens Auctions & Appraisals (Canada)",
-     "url": "https://www.liveauctioneers.com/item/219093667_english-pierced-silver-basket-225g",
-     "aud_price": 378.19,
-     "note": "SOLD, close (same form, different maker and weight): English sterling pierced oval swing-handle basket, Birmingham 1924, Henry Matthews, 225g, 22 cm. Worth CAD 1.667/g. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: CAD 1 = AUD 1.0085."
-    },
-    {
-     "price": "USD 1,200",
-     "date": "2026-04-18",
-     "venue": "Holler and Hammer (US)",
-     "url": "https://www.liveauctioneers.com/item/228029901_mappin-and-webb-sterling-silver-pierced-basket-bowl-w-swing-handle-578g",
-     "aud_price": 1716.96,
-     "note": "SOLD, close: Mappin & Webb English sterling pierced and chased swing-handle basket, 578g. Worth USD 2.08/g. Heavier and a better-known maker. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    }
-   ],
-   "unsold": [],
-   "asking": [],
-   "guide_low_aud": 378.19,
-   "guide_high_aud": 1716.96,
-   "guide_summary": "Two SOLD entries, both close rather than the same item (English sterling pierced swing-handle baskets by other makers): AUD 378 for a 225g Birmingham basket and AUD 1,717 for a 578g Mappin & Webb. There are no UNSOLD or ASKING entries. Scaled to 362.2g, the weight-adjusted range is about AUD 609 to 1,086. Not a price paid, only a floor: 362.2g x 0.925 = 335g fine silver, and at spot USD 61.22/ozt (gold-api.com, 30 Sep 2026) that is about AUD 2.816/g, so melt is about AUD 943. A refiner pays less than full melt. Rates are from open.er-api.com, 30 Sep 2026: USD 1 = AUD 1.4308, CAD 1 = AUD 1.0085.",
-   "flip_max_hammer": 210,
-   "keep_max_hammer": 505,
-   "working": "There is no SOLD entry for the same item, so I weight-adjusted the close SOLD comps (silver baskets trade largely on weight). Lowest rate per gram: CAD 375 / 225g = CAD 1.667/g = AUD 1.681/g. x 362.2g = AUD 608.9. Keep: 608.9 / 1.198 = 508.3, rounded down to $505. Flip: resale AUD 609 less 13% selling fees (eBay-style) less $20 outbound postage = 509.8, / 2.396 = 212.8, rounded down to $210. The current bid is already $500 with 1 bid, so the flip route is gone and the keep ceiling is only just above it. A $505 hammer is $605 all in, well under the melt of about AUD 943. This ceiling is conservative because the comp dates from Nov 2025, when silver was cheaper.",
-   "confidence": "Low",
-   "confidence_reason": "The marks are read clearly (JD&S, Sheffield crown, lion passant, date letter n = Sheffield 1905-06), but the SOLD comps are close items rather than the same item, and they are weight-adjusted. I read them from LiveAuctioneers' data because the lot pages are blocked.",
-   "dropped_entries": "None. The researcher had no entries because the WebSearch budget was used up. The two SOLD entries above are my own additions from LiveAuctioneers data.",
-   "key_photo_findings": "Enlarged the base marks: JD&S in a shaped cartouche, crown, lion passant, and a lowercase gothic-style n in a cut-corner shield. That fits Sheffield 1905-06 and James Dixon & Sons, so the catalogue is confirmed. The handle is part-marked JD&S plus lion. Pierced vine frieze over vertical slots, gadrooned shaped rim, swing handle intact. Scratched initials 'AE' on the base.",
-   "condition": "Tarnished, with general surface scratching to the base and a dark oxidised patch on the handle plate. The rim may be slightly out of shape at one end (photo 6, not confirmed). No splits seen in the piercing at this resolution.",
-   "question_for_gowans": "Can you confirm there are no splits or repairs in the piercing or at the handle hinges, and whether the rim is bent? Is 362.2g the basket alone (no liner)?"
-  },
-  {
-   "cdid": 3059891,
-   "lot": 199,
-   "what_it_is": "Lalique France 'Dampierre' crystal vase (Marc Lalique design, 1948), clear with frosted sparrows, 12 cm",
-   "triage": "BOTH",
-   "market_score": 6,
-   "sold": [
-    {
-     "price": "USD 500",
-     "date": "2026-09-29",
-     "venue": "Akiba Galleries (FL, US)",
-     "url": "https://www.liveauctioneers.com/item/240138785_lalique-dampierre-crystal-vase",
-     "aud_price": 715.4,
-     "note": "SOLD, same item. Signed Lalique France. No size or condition given. High outlier. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 400",
-     "date": "2026-08-20",
-     "venue": "Chairish Auction House (US)",
-     "url": "https://www.liveauctioneers.com/item/239004246_lalique-dampierre-crystal-vase",
-     "aud_price": 572.32,
-     "note": "SOLD, same item. Signed. Condition not stated. High end. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 90",
-     "date": "2026-08-11",
-     "venue": "Schwenke Auctioneers (US)",
-     "url": "https://www.liveauctioneers.com/item/237494757_lalique-dampierre-crystal-vase",
-     "aud_price": 128.77,
-     "note": "SOLD, same item. 4 7/8 in high, signed Lalique France. Same size as lot 199. Condition not stated. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 80",
-     "date": "2026-07-12",
-     "venue": "Hyde Park Country Auctions (US)",
-     "url": "https://www.liveauctioneers.com/item/235737391_a-lalique-dampierre-vase-signed-on-underside-of-base-lalique-france-the-vase-decorated-with",
-     "aud_price": 114.46,
-     "note": "SOLD, same item. Signed. Described as very good condition, no damage. Lowest SOLD entry with condition stated, so it sets the keep maximum. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 190",
-     "date": "2026-06-28",
-     "venue": "Lion and Unicorn (US)",
-     "url": "https://www.liveauctioneers.com/item/234267051_lalique-france-frosted-and-clear-crystal-bird-vase-dampierre",
-     "aud_price": 271.85,
-     "note": "SOLD, same item. Script signature. Condition not given in the excerpt. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 200",
-     "date": "2026-04-26",
-     "venue": "Louvre Antique Auction (US)",
-     "url": "https://www.liveauctioneers.com/item/230620048_lalique-dampierre-crystal-vase",
-     "aud_price": 286.16,
-     "note": "SOLD, same item. 5 in high, signed, good condition. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 150",
-     "date": "2026-04-17",
-     "venue": "Alex Cooper (US)",
-     "url": "https://www.liveauctioneers.com/item/229480303_a-lalique-crystal-dampierre-vase",
-     "aud_price": 214.62,
-     "note": "SOLD, same item. Approx. 5 in high, signed. Condition not stated. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 275",
-     "date": "2026-03-15",
-     "venue": "South Shore Auctions (US)",
-     "url": "https://www.liveauctioneers.com/item/224841448_lalique-crystal-dampierre-vase",
-     "aud_price": 393.47,
-     "note": "SOLD, same item. Marked Lalique France. Condition not stated. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 175",
-     "date": "2025-12-17",
-     "venue": "Stefek's Auctioneers (US)",
-     "url": "https://www.liveauctioneers.com/item/221299287_lalique-dampierre-crystal-sparrow-vase",
-     "aud_price": 250.39,
-     "note": "SOLD, same item. 5 in high, etched Lalique France. Same model and size. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 200",
-     "date": "2025-12-13",
-     "venue": "Roland NY (US)",
-     "url": "https://www.liveauctioneers.com/item/220894216_lalique-dampierre-crystal-vase",
-     "aud_price": 286.16,
-     "note": "SOLD, same item. 5 in high, signed Lalique France. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 50",
-     "date": "2026-09-13",
-     "venue": "Great Lakes VNTG (US)",
-     "url": "https://www.liveauctioneers.com/item/239008302_lalique-crystal-dampierre-vase",
-     "aud_price": 71.54,
-     "note": "SOLD, same item. Condition and size not stated, so not shown to be in similar condition. Left out of the keep maximum but kept as a warning that some sell very cheaply. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    }
-   ],
-   "unsold": [],
-   "asking": [
-    {
-     "price": "AUD 763.83",
-     "date": "live, seen 2026-09-30",
-     "venue": "1stdibs (dealer)",
-     "url": "https://www.1stdibs.com/furniture/decorative-objects/vases-vessels/vases/lalique-dampierre-frosted-clear-crystal-vase-france-20th-century/id-f_30502302/",
-     "aud_price": 763.83,
-     "note": "ASKING, same item. Page opened: in stock at AUD 763.83 (the site's own AUD figure). Dealer retail, not a price paid."
-    },
-    {
-     "price": "AUD 941.33",
-     "date": "live, seen 2026-09-30",
-     "venue": "1stdibs (dealer)",
-     "url": "https://www.1stdibs.com/furniture/decorative-objects/vases-vessels/vases/lalique-dampierre-vase/id-f_29631862/",
-     "aud_price": 941.33,
-     "note": "ASKING, same item, 4.75 in. Page opened: in stock at AUD 941.33. Retail asking price."
-    },
-    {
-     "price": "AUD 1,157.04",
-     "date": "live, seen 2026-09-30",
-     "venue": "1stdibs (French dealer)",
-     "url": "https://www.1stdibs.com/furniture/decorative-objects/vases-vessels/vases/lalique-france-dampierre-vase-20th-century/id-f_34959842/",
-     "aud_price": 1157.04,
-     "note": "ASKING, same item, 12.5 cm. Page opened: in stock at AUD 1,157.04. Retail asking price."
-    }
-   ],
-   "guide_low_aud": 71.54,
-   "guide_high_aud": 1157.04,
-   "guide_summary": "There are 11 SOLD entries (US auctions, hammer only, Dec 2025 to Sep 2026), from AUD 72 to 715 with a median of about AUD 272. Most fall between AUD 115 and 290. There are no UNSOLD entries. Three ASKING entries (1stdibs dealers) run from AUD 764 to 1,157. They are retail and optimistic, about three to four times the auction level. Rate: USD 1 = AUD 1.4308 (open.er-api.com, 30 Sep 2026).",
-   "flip_max_hammer": 80,
-   "keep_max_hammer": 95,
-   "working": "Keep: the lowest SOLD entry with condition stated is Hyde Park, USD 80 = AUD 114.47. 114.47 / 1.198 = 95.55, rounded down to $95. The USD 50 Great Lakes sale is left out because its condition is not stated; on the strict lowest-price rule it would give AUD 71.54 / 1.198 = $55. Flip: likely resale AUD 250 (a little under the SOLD median), less 13% fees, less $15 packed fragile postage = 202.5. 202.5 / 2.396 = 84.5, rounded down to $80. No bids yet.",
-   "confidence": "Medium",
-   "confidence_reason": "The model and the 'Lalique France' script signature with the (R) mark are read in the photos, and there are many matching SOLD records. They come from LiveAuctioneers' data because the pages themselves are bot-walled. All the comps are US sales with no Australian result, and the photos are low resolution for checking chips.",
-   "dropped_entries": "Two researcher entries dropped for condition. (1) 1stdibs f_50916672, AUD 1,234.18: I opened the page and it says 'Small chip to rim'. The researcher had not checked its condition. (2) 1stdibs f_51362532, AUD 1,531.35: I opened the page and it confirms a rim chip. Neither is comparable to an unchipped vase. I checked the other three ASKING prices on their pages (all in stock, AUD figures match) and kept them.",
-   "key_photo_findings": "Dampierre model confirmed: flared rim, band of frosted sparrows between vine columns, short pedestal foot. The base carries an etched script 'Lalique France' with a circled R. The photos are small (450x600 to 800x600).",
-   "condition": "No chips visible at the rim or foot at this resolution. Normal light wear to the base is likely. The crystal looks clear, with no cloudiness seen.",
-   "question_for_gowans": "Please check the rim, the bird tips and the foot rim closely for chips or flea bites, including any that have been polished out."
-  },
-  {
-   "cdid": 3059896,
-   "lot": 204,
-   "what_it_is": "Sterling silver teapot, C.S. Harris & Sons, London 1910, gadroon rim, ball feet, ebonised handle, 724.7g total",
-   "triage": "KEEP",
-   "market_score": 9,
-   "sold": [
-    {
-     "price": "USD 550",
-     "date": "2025-10-23",
-     "venue": "Cedarburg Auction & Appraisals (US)",
-     "url": "https://www.liveauctioneers.com/item/216766493_sterling-english-teapot",
-     "aud_price": 786.94,
-     "note": "SOLD, close: English sterling teapot with ribbed edging, 578.1g, maker and date not given. Worth USD 0.951/g. Silver was cheaper then (the house put scrap at about USD 753 at the time). Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    },
-    {
-     "price": "USD 450",
-     "date": "2026-05-14",
-     "venue": "Millea Bros (US)",
-     "url": "https://www.liveauctioneers.com/item/230843783_irish-victorian-sterling-silver-teapot",
-     "aud_price": 643.86,
-     "note": "SOLD, close: Irish sterling teapot, Dublin 1900, West & Son, wood handle and finial, armorial engraved, about 14.6 ozt (454g) all in. Worth USD 0.991/g. Lighter, and the engraving hurts it. Checked in LiveAuctioneers' own search data (search-party-prod API record, status done, isSold true). The lot page itself sits behind an Incapsula bot wall, so I read the site's data, not the rendered page. The price is hammer only; the US buyer's premium (usually 20-28%) is extra. Rate: USD 1 = AUD 1.4308."
-    }
-   ],
-   "unsold": [],
-   "asking": [],
-   "guide_low_aud": 643.86,
-   "guide_high_aud": 786.94,
-   "guide_summary": "Two SOLD entries, both close rather than the same item (plain English and Irish sterling teapots): AUD 644 (454g, May 2026) and AUD 787 (578g, Oct 2025). There are no UNSOLD or ASKING entries. Weight-adjusted to 724.7g, that is about AUD 986 to 1,028. Not a price paid, only a floor: allowing about 50-75g for the handle and finial, there is roughly 650-675g of sterling, or about 600-625g fine. At AUD 2.816/g (spot USD 61.22/ozt, gold-api.com, 30 Sep 2026) that is roughly AUD 1,690-1,760 melt. Rate: USD 1 = AUD 1.4308 (open.er-api.com, 30 Sep 2026).",
-   "flip_max_hammer": 345,
-   "keep_max_hammer": 820,
-   "working": "There is no same-item SOLD entry, so I weight-adjusted the close SOLD comps. Lowest rate per gram: USD 550 / 578.1g = USD 0.951/g = AUD 1.361/g. x 724.7g = AUD 986.5. Keep: 986.5 / 1.198 = 823.5, rounded down to $820. Flip: 986.5 less 13% fees less $25 postage = 833.3, / 2.396 = 347.8, rounded down to $345. The current bid is $750 with 1 bid, so the flip route is gone and keep has about $70 of headroom. An $820 hammer is $982 all in, still well under the approximate melt. The comps date from when silver was cheaper, so this ceiling is conservative.",
-   "confidence": "Low",
-   "confidence_reason": "The marks are read clearly: CS over H maker's mark (C.S. Harris & Sons), lion passant, uncrowned leopard's head, and date letter lowercase p = London 1910-11. But the SOLD comps are close items, weight-adjusted, and read from LiveAuctioneers' data. The silver weight net of the handle is estimated.",
-   "dropped_entries": "None. The researcher had no entries because the WebSearch budget was used up. The two SOLD entries above are my own additions from LiveAuctioneers data.",
-   "key_photo_findings": "Enlarged photo 3: a CS/H maker's mark in a shaped punch, lion passant, uncrowned leopard's head in a shield, and a lowercase roman p. That is London 1910-11, so the catalogue date is correct and the researcher's worry about a capital P is not borne out. The lid is also marked (lion plus date letter). The body is plain, with no monogram seen. Wooden (ebonised) handle; the finial looks like wood or bone.",
-   "condition": "Heavy tarnish and spotting overall. The underside of the lid and the interior show coppery firestain or discolouration, and there is a dark patch near the lid hinge in photo 7 (possibly a mark, a solder point or a small hole: not certain). No obvious dents. Feet, spout and handle look intact.",
-   "question_for_gowans": "Are there any holes, splits or solder repairs, especially at the lid hinge, the spout join and the handle sockets? What is the finial made of (wood, bone or ivory)? Can you give the weight excluding the handle if known?"
-  }
- ]
-}
+{"lots":[
+{"cdid":440147,"lot":4,"what_it_is":"Two oval gold-coloured cufflinks with torpedo-style swivel backs (one face engraved with a script monogram, the other plain). One link is stamped 14K with an 81R number; the second link's stamp is not legible in the photos. Gowans title: 14K gold cufflink and 1 other cufflink, 4.4g total.","triage":"NEAR MISS","market_score":4,
+"sold":[{"price":"A$140 (prices realised)","aud_price":140,"date":"25-28 Nov 2025","venue":"Noble Numismatics, Sydney, Sale 140 lot 3698","url":"https://www.noble.com.au/auctions/archive/search?q=9ct+cufflinks","note":"SOLD, AUD, same_item: category guide only. Page opened (archive search results): 9ct gold cufflinks, 2.62g, engraved thin rectangles, dumbbell fittings, attributed to Willis & Sons, estimate $150, SOLD $140. Matched 9ct pair, not 14K, not oval, not a mismatched pair. Noble does not say whether the realised price includes premium. Not used for any maximum bid."}],
+"unsold":[],"asking":[],
+"guide_low_aud":0,"guide_high_aud":0,
+"guide_summary":"No same-item or close entries survive. The researcher returned no entries (search budget exhausted, and it was still exhausted for this check). The only priced reference is one category-guide SOLD result (a light 9ct pair, 2.62g, A$140 hammer or realised, Noble, Nov 2025), which is a different carat and a matched pair. Value here rests mostly on gold content: if the 14K link is about half of the 4.4g, that is roughly 2.2g of 14K (about 1.3g fine gold); the other link may be lower carat or gold-filled. Spot gold was not checked. All prices AUD, no conversion.",
+"flip_max_hammer":0,"keep_max_hammer":0,
+"working":"No same-item SOLD evidence, so keep_max_hammer = 0 and flip_max_hammer = 0. The single Noble result is a category guide (9ct matched pair) and cannot set a maximum. Buyer's premium for reference: all-in = hammer x 1.198.",
+"confidence":"Low",
+"confidence_reason":"Only one link's mark (14K) is read; the second mark is illegible; no same-item sold evidence; scrap value not calculated because spot gold was not checked.",
+"dropped_entries":"None to drop: the researcher supplied no entries.",
+"key_photo_findings":"Photo 1: two oval links, about the same size and form, left engraved with an ornate script monogram, right plain and scratched; both have oval bean-shaped toggle backs on a short post. Photo 2 (enlarged): the reverse of one face is clearly stamped '14K' with '81R' above it (likely a pattern or maker's number, typical of American-made links). Photo 3 (cropped, enlarged and rotated): the second link's back carries a stamp beginning with '1' followed by worn characters (possibly '10K', '1/20 12K' or a gold-filled mark); I could not read it reliably. This agrees with the Gowans title that only one link is 14K.",
+"condition":"Surface scratches on both faces, monogram engraving worn but clear, no obvious dents or broken toggles visible. Mismatched pair (one engraved, one plain), which limits resale as jewellery.",
+"question_for_gowans":"What is the mark on the second (plain or engraved?) cufflink: 10K, 14K, gold-filled or rolled gold? What does each link weigh separately, and do the toggles swivel and hold?"},
+{"cdid":440157,"lot":14,"what_it_is":"Free-form pale blue opal (flat, probably a doublet or a thin solid on dark backing, not confirmed) in a small yellow-metal claw cap and bail, on a fine yellow snake chain with lobster clasp. Gowans title: opal pendant on 9ct gold chain. No stamps visible in the single photo.","triage":"LOOK AT VIEWING","market_score":5,
+"sold":[
+{"price":"A$160 (prices realised)","aud_price":160,"date":"25-28 Nov 2025","venue":"Noble Numismatics, Sydney, Sale 140 lot 1327","url":"https://www.noble.com.au/auctions/lot/?id=436363","note":"SOLD, AUD, same_item: close. Page opened: 'Opal pendant, oval cabochon opal set in a 9ct yellow gold floral pendant, hallmarked 9ct. Toned, very fine', estimate $200, sold $160. Oval cabochon not free-form, no chain, opal quality not described. Premium inclusion not stated."},
+{"price":"A$190 (prices realised)","aud_price":190,"date":"25-28 Nov 2025","venue":"Noble Numismatics, Sydney, Sale 140 lot 1328","url":"https://www.noble.com.au/auctions/lot/?id=436364","note":"SOLD, AUD, same_item: close. Page opened: 'Opal pendant, set in 9ct gold surround mount, with gold plated chain (pendant total weight 10.05g; 16.86g with chain)', estimate $150, sold $190. Much heavier gold mount than ours, plated (not gold) chain. Premium inclusion not stated."},
+{"price":"A$280 (prices realised)","aud_price":280,"date":"25-28 Nov 2025","venue":"Noble Numismatics, Sydney, Sale 140 lot 3288","url":"https://www.noble.com.au/auctions/lot/?id=438324","note":"SOLD, AUD, same_item: category guide. Page opened: 9ct opal doublet pendant, 3.35g, 17x24mm, by Wendt (a collected Australian maker), estimate $200, sold $280. Maker premium makes it a high outlier; not used in the guide range."}],
+"unsold":[],"asking":[],
+"guide_low_aud":160,"guide_high_aud":190,
+"guide_summary":"Two close SOLD results (9ct-mounted opal pendants, Noble Sydney, Nov 2025, A$160 and A$190) and one category-guide SOLD (Wendt-made doublet pendant, A$280, excluded from the range). No unsold or asking evidence. All AUD, no conversion. Noble does not state whether realised prices include premium. Opal pendant values depend almost entirely on opal type and colour, which cannot be judged from one photo, so these are a guide, not a basis for a bid.",
+"flip_max_hammer":0,"keep_max_hammer":0,
+"working":"The surviving SOLD entries are close, not the same item: opal type (solid, doublet or triplet), brightness and the gold weight of the chain all differ and are unconfirmed here, so no maximum bid is set. For reference only, if the opal and chain prove comparable at the viewing, the lowest close sale A$160 / 1.198 = A$133.56, rounded down = A$130 hammer would be the keep ceiling. The lot already has 5 bids.",
+"confidence":"Low",
+"confidence_reason":"One photo only; no 9ct stamp read on chain or mount; opal type unconfirmed; comparables are close rather than same-item.",
+"dropped_entries":"Researcher supplied no entries. I did not use Noble Sale 136 lot 279 (small white opal 9ct pendant, A$110, 29 Jul to 2 Aug 2024) because it is just over 24 months old and much smaller, or Sale 136 lot 282 (five chains with a small doublet, A$40), which is a mixed lot.",
+"key_photo_findings":"Enlarged crop: the opal is a flat, elongated free-form, pale milky blue with weak visible play of colour in this photo; a dark edge on the left side suggests a dark backing (doublet) or potch, not confirmed. Held only at the top by a scalloped claw cap with a tube bail. Chain is a fine round snake chain with lobster clasp and end caps; colour consistent with yellow gold but no stamp legible.",
+"condition":"Looks clean and intact in the photo; no chips visible at this resolution. Opal edges and backing not seen.",
+"question_for_gowans":"Is the 9ct stamp on the chain, the pendant mount, or both? What do the chain and pendant weigh? Is the opal a doublet, triplet or solid (check the side for a dark backing line), and is it chipped or crazed?"},
+{"cdid":440207,"lot":64,"what_it_is":"White-metal vesta case with foliate scroll engraving and a vacant cartouche, on a ring, hung from a fancy Victorian-style bookchain-type albert with two small coins visible (a larger coin reading '...LLING' with a wreath, consistent with a Victorian shilling, and a smaller coin, possibly a threepence or sixpence). Gowans title: sterling silver vesta, Birmingham, on chain with 3 coins. Hallmarks not visible in the photo.","triage":"KEEP","market_score":5,
+"sold":[
+{"price":"A$50 (prices realised)","aud_price":50,"date":"25-28 Nov 2025","venue":"Noble Numismatics, Sydney, Sale 140 lot 3254","url":"https://www.noble.com.au/auctions/lot/?id=438290","note":"SOLD, AUD, same_item: close (vesta component only). Page opened: vintage vesta case, sterling silver, 24.71g, by W.J. Proud, enamel Australian arms, 'a few dents, otherwise very fine', estimate $80, sold $50. No chain or coins. Premium inclusion not stated."},
+{"price":"A$50 (prices realised)","aud_price":50,"date":"25-28 Nov 2025","venue":"Noble Numismatics, Sydney, Sale 140 lot 3255","url":"https://www.noble.com.au/auctions/lot/?id=438291","note":"SOLD, AUD, same_item: close (vesta component only). Page opened: sterling vesta case, 19.04g, by C & G (Asprey), hairlines, good very fine, estimate $80, sold $50. No chain or coins."},
+{"price":"A$70 (prices realised)","aud_price":70,"date":"25-28 Nov 2025","venue":"Noble Numismatics, Sydney, Sale 140 lot 3259","url":"https://www.noble.com.au/auctions/lot/?id=438295","note":"SOLD, AUD, same_item: close (vesta component only). Page opened: small plain silver vesta, Victorian hallmark, 28x39.5x10mm, hairlines, very fine, estimate $50, sold $70. Plain rather than engraved; no chain."},
+{"price":"A$130 (prices realised)","aud_price":130,"date":"13-17 Apr 2026","venue":"Noble Numismatics, Sydney, Sale 141 lot 562","url":"https://www.noble.com.au/auctions/lot/?id=439321","note":"SOLD, AUD, same_item: close (bundle). Page opened: sterling vesta, Chester 1901, ornately decorated and inscribed, with a deer-tooth spoon with shilling bowl, an Edward VII 1910 shilling pendant and a nickel sovereign holder, estimate $100, sold $130. Similar mix of vesta plus coin items, no albert chain."}],
+"unsold":[],"asking":[],
+"guide_low_aud":50,"guide_high_aud":130,
+"guide_summary":"Four SOLD results from Noble Numismatics, Sydney (Nov 2025 and Apr 2026): three single sterling vestas at A$50, A$50 and A$70, and a vesta-plus-coin-items bundle at A$130. No unsold or asking evidence. All AUD, no conversion. Noble does not state whether realised prices include premium. None includes a silver albert chain, which would add value if the chain is silver (not confirmed).",
+"flip_max_hammer":25,"keep_max_hammer":40,
+"working":"keep: lowest close SOLD = A$50 (Noble lots 3254 and 3255, Nov 2025, single sterling vestas). The Gowans lot is a vesta plus chain and coins, so a vesta-only price is a conservative floor. 50 / 1.198 = 41.74, rounded down = A$40 hammer (A$47.92 all-in). flip: likely resale about A$90 for the vesta, chain and coins together (between the A$70 single vesta and the A$130 bundle). Less about 13% selling fees (A$11.70) and A$12 outbound postage = A$66.30; / 2.396 = 27.67, rounded down = A$25 hammer. Flipping is not worthwhile at that margin.",
+"confidence":"Low",
+"confidence_reason":"Hallmarks not read (Birmingham and sterling claims unverified); chain metal unknown; only 2 of the 3 coins visible; SOLD support is close (vesta alone) rather than the same item, though 4 pages were opened.",
+"dropped_entries":"Researcher supplied no entries. Older Noble results seen but not used because they are well over 24 months old: Sale 96 lot 2819 (Birmingham 1888 George Unite vesta with sterling fob chain, A$80), Sale 91 lot 1260 (vesta with two fob chains, A$40), Sale 77 lot 970 (vesta, silver fob chain with jetons and coin and a 9ct fob, A$50), Sale 46 lot 1294 (silver vesta with fob chain, A$120). They suggest the same modest level for this type.",
+"key_photo_findings":"Single photo. Vesta: rectangular with rounded corners, hinged lid, side striker area, engraved foliate scroll with a vacant shield cartouche, worn; no hallmark visible on the face shown. Chain: fancy pierced barrel or bookchain-style links with a T-bar or clasp at one end, colour matching the vesta. Coins (enlarged): the larger reads '...LLING' with a laurel wreath, consistent with a Victorian 'ONE SHILLING' reverse; the smaller shows a crowned shield or monogram design, possibly a threepence or sixpence. The third coin in the title is not visible.",
+"condition":"Vesta worn with light scratches; engraving softened; dents not visible from this angle. Coins worn and soldered or looped to the chain (holed or mounted coins have no numismatic premium).",
+"question_for_gowans":"Can you confirm the vesta hallmark (Birmingham anchor, lion and date letter) and whether the chain is also hallmarked silver? What is the total weight? Where is the third coin, and are the coins silver?"}
+]}
