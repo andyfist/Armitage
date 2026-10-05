@@ -80,8 +80,10 @@ def table_all(k):
         sc = p['market_score'] if p else (d['nr'].get(cd, {}).get('strength') if cd in d['nr'] else x.get('strength'))
         finding = (p.get('key_photo_findings') if p else x.get('findings')) or ''
         why = (p.get('score_reason') if p else (d['nr'].get(cd, {}).get('rescore_note') or x.get('reason'))) or ''
-        rows.append(f'<tr><td><a href="{E(x["url"])}" target="_blank" rel="noopener">{x["lot"]}</a></td><td>{E((x.get("title") or "")[:70])}</td><td>{x.get("photo_count")}</td><td>{E(str(tri))}</td><td>{sc if sc is not None else ""}</td><td>{E(finding[:170])}</td><td>{E(why[:150])}</td><td>{E(x.get("current_bid") or "")}</td></tr>')
-    return f'<details><summary>Every lot in this catalogue ({len(rows)}), with photos viewed and a finding</summary><div class="tw"><table><thead><tr><th>Lot</th><th>Title</th><th>Photos</th><th>Result</th><th>Score</th><th>What the photos show</th><th>Why</th><th>Bid (scan)</th></tr></thead><tbody>{"".join(rows)}</tbody></table></div></details>'
+        rfx = d['refresh'].get(str(cd)) or {}
+        bidtxt = (rfx.get('current_bid') or x.get('current_bid') or '') + (' (' + str(rfx.get('bid_count')) + ' bids)' if rfx.get('bid_count') else '')
+        rows.append(f'<tr><td><a href="{E(x["url"])}" target="_blank" rel="noopener">{x["lot"]}</a></td><td>{E((x.get("title") or "")[:70])}</td><td>{x.get("photo_count")}</td><td>{E(str(tri))}</td><td>{sc if sc is not None else ""}</td><td>{E(finding[:170])}</td><td>{E(why[:150])}</td><td>{E(bidtxt)}</td></tr>')
+    return f'<details><summary>Every lot in this catalogue ({len(rows)}), with photos viewed and a finding</summary><div class="tw"><table><thead><tr><th>Lot</th><th>Title</th><th>Photos</th><th>Result</th><th>Score</th><th>What the photos show</th><th>Why</th><th>Bid (bids)</th></tr></thead><tbody>{"".join(rows)}</tbody></table></div></details>'
 
 def section(k):
     d = D[k]; C = CAT[k]
