@@ -1,0 +1,17 @@
+{
+ "bottom_line": "All 1,477 lots were scanned with every photo viewed, blind rescored, and the 150 strongest candidates got a market pass with an Opus check. The first comps pass ran out of web searches part way, so 110 lots were researched again by fetching sites directly, chiefly Gowans' own past results, which gives hammer prices from this very room. The best-supported picks have modest ceilings: a big LEGO brick pit (535), a 9ct signet ring (9), an Afghan chobi rug (437), the Perth Mint Doctor Who proof (166), a 9ct kookaburra brooch (2), boxed retro games (555), a cedar extension table (447), a Samick guitar (691), Perth Mint 1oz silver coins (103, 121) and a run of Huon pine slabs at $25 to $40. The big unknown is lot 430, catalogued as a Geoff Dyer gouache: Gowans sold a provenanced Dyer for $7,000 hammer in December 2024, but the signature here cannot be read in the photo, so it gets no maximum bid. Check it in person. Also look at the combination planer-thicknesser (1535, 0 bids), the Marantz 1030 (1140) and the gold lots (3, 6, 7, 8), which have no sold comps, so do not pay over melt. Online absentee bids close at 9:30 AM Friday.",
+ "run": "wf_279bd4af-995 (work/wf_weekly.js) plus refetch wf_4ffefecb-06c (work/wf_refetch.js)",
+ "assumptions": [
+  "All 1,477 lots in the auction were taken from Gowans' public API and image store and scanned with every photo viewed. None was unscanned.",
+  "This is a live room auction. The site shows no prices, only a count of absentee bids on each lot (taken Wed 7 Oct), so no current bid is used. Scoring is blind to price. The bid count shows interest, not how high bids go.",
+  "Buyer's premium is 19.8% including GST on the hammer price for all lots except vehicles, per the auction's own notice. All-in = hammer x 1.198.",
+  "150 candidates with a blind score of 4 or more got a market pass. Other candidates and the lots the scan skipped appear in the table of every lot with a photo finding and a reason, but have no comps research.",
+  "The session's web search allowance ran out during the first market pass, leaving 110 lots without evidence. Those lots were researched again with direct fetches only (no general search engines): Gowans' past results API, PriceCharting, Popsike, Langtons, whisky sites, AbeBooks and spot metal prices. Where both passes covered a lot, the second pass is used.",
+  "Gowans past results give sale_price in cents, read as the hammer price (premium extra). Their dates are listing dates, about a week before each sale.",
+  "PriceCharting figures are US and UK eBay completed sales in USD, converted at the rate stated on each card, before postage.",
+  "Maximum bids use only sold prices in the last 24 months. Melt value of gold and silver is a floor, not a sale, so it never sets a maximum bid.",
+  "Gold and silver weights, carat marks and maker claims in the titles are catalogue claims. Check weights and hallmarks at the inspection.",
+  "Pickup from 37 Main Road, Moonah. Inbound freight is assumed to be $0 because you are local.",
+  "Sources closed to this session (eBay, Wine-Searcher, Australian Whisky Auctions, Heritage, Catawiki, BrickLink) were not used."
+ ]
+}
