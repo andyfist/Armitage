@@ -91,7 +91,8 @@ whisky = [c for c in recs if WH.search(cat_tail(c)) or WH.search(c.get('title', 
 NOTWH = re.compile(r'brandy|cognac|armagnac|gin\b|rum\b|vodka|liqueur|tequila|sake|port\b|fortified|wine', re.I)
 other_spirits = [c for c in recs if c not in whisky and (
     re.search(r'miniature|decanter|mixed|assorted|unlabel', c.get('title', ''), re.I)
-    or ('Prestige Spirits' in c.get('category', '') and not NOTWH.search(cat_tail(c))))]
+    or ('Prestige Spirits' in c.get('category', '') and not NOTWH.search(cat_tail(c)))
+    or cat_tail(c).strip(' >') in ('Spirits', 'Misc'))]
 sel = whisky + other_spirits
 print('whisky lots', len(whisky), 'other spirits/mixed', len(other_spirits))
 json.dump(recs, open(f'{D}/all_lots.json', 'w'))
