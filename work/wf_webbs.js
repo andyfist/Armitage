@@ -31,7 +31,7 @@ Also note the reverse (title overstates the bottle) and condition problems (low 
 
 let active = 0; const waiters = []
 async function limited(fn) {
-  while (active >= 8) await new Promise(r => waiters.push(r))
+  while (active >= (args.concurrency || 16)) await new Promise(r => waiters.push(r))
   active++
   try { return await fn() } finally { active--; const n = waiters.shift(); if (n) n() }
 }

@@ -82,12 +82,16 @@ for lid, c in cat.items():
     recs.append(c)
 
 WH = re.compile(r'whisk|bourbon|scotch|single malt|blended malt|rye|spirits', re.I)
-whisky = [c for c in recs if WH.search(c.get('category', '')) or WH.search(c.get('title', ''))]
+def cat_tail(c):
+    return c.get('category', '').replace('Fine Wines & Whiskies', '')
+
+
+whisky = [c for c in recs if WH.search(cat_tail(c)) or WH.search(c.get('title', ''))]
 # also non-wine spirits lots whose category is a general spirits or miniatures group
 NOTWH = re.compile(r'brandy|cognac|armagnac|gin\b|rum\b|vodka|liqueur|tequila|sake|port\b|fortified|wine', re.I)
 other_spirits = [c for c in recs if c not in whisky and (
     re.search(r'miniature|decanter|mixed|assorted|unlabel', c.get('title', ''), re.I)
-    or ('Prestige Spirits' in c.get('category', '') and not NOTWH.search(c.get('category', ''))))]
+    or ('Prestige Spirits' in c.get('category', '') and not NOTWH.search(cat_tail(c))))]
 sel = whisky + other_spirits
 print('whisky lots', len(whisky), 'other spirits/mixed', len(other_spirits))
 json.dump(recs, open(f'{D}/all_lots.json', 'w'))
