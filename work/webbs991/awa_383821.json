@@ -1,0 +1,116 @@
+{
+ "lots": [
+  {
+   "lot_id": 383821,
+   "lot_label": "995",
+   "bottling": "Signatory Cask Strength Collection Bunnahabhain 2009 10yo first fill sherry butt cask 900075",
+   "volume_ml": 700,
+   "abv": 68.5,
+   "is_whisky": true,
+   "search_status": "searched",
+   "entries": [
+    {
+     "kind": "ASKING",
+     "price": "A$220 (retail, different cask, 68.2%, 11yo)",
+     "aud": 220,
+     "date": "date not shown",
+     "venue": "Nick's Wine Merchants",
+     "country": "AU",
+     "url": "https://www.nicks.com.au/products/2009-signatory-vintage-bunnahabhain-11-year-old-cask-strength-single-malt-scotch-whisky-700ml-68-2",
+     "verified": "snippet only",
+     "same_item": "close"
+    }
+   ],
+   "au_resale_estimate_aud": 0,
+   "estimate_basis": "No sold or unsold auction result found. Only a retail asking price for a sibling cask, which is not evidence of hammer.",
+   "note": "No AWA snippet found."
+  },
+  {
+   "lot_id": 383860,
+   "lot_label": "996",
+   "bottling": "Springbank Local Barley 10yo 2019 edition (Optic, High Cattadale), 9000 bottles",
+   "volume_ml": 700,
+   "abv": 56.2,
+   "is_whisky": true,
+   "search_status": "searched",
+   "entries": [],
+   "au_resale_estimate_aud": 0,
+   "estimate_basis": "No AU or UK sold entries found in search results."
+  },
+  {
+   "lot_id": 383845,
+   "lot_label": "997",
+   "bottling": "Springbank Local Barley 9yo 2009/2018 edition (Optic, High Cattadale), 9700 bottles",
+   "volume_ml": 700,
+   "abv": 57.7,
+   "is_whisky": true,
+   "search_status": "searched",
+   "entries": [
+    {
+     "kind": "SOLD",
+     "price": "GBP 180 winning bid, no reserve",
+     "aud": 341.73,
+     "date": "2025-06-16",
+     "venue": "Just Whisky",
+     "country": "UK",
+     "url": "https://www.just-whisky.co.uk/product/springbank_9_years_old_2009_local_barley_2018_release_1489186",
+     "verified": "page opened",
+     "same_item": "yes",
+     "includes_premium": "not stated"
+    }
+   ],
+   "au_resale_estimate_aud": 300,
+   "estimate_basis": "Rests on the single UK guide (GBP 180 = about A$342), discounted slightly because there is no AU sold result. An AWA lot page exists (lot-092115) but its search snippet showed no price. Low confidence.",
+   "note": "I accidentally sent one WebFetch to the AWA lot page; it returned 403 and nothing was obtained. A 2021 Just Whisky lot at GBP 270 was seen only in a search summary and is not recorded."
+  },
+  {
+   "lot_id": 385982,
+   "lot_label": "998",
+   "bottling": "Signatory 100 Proof Edition #30 Secret Orkney (Highland Park) 2010 14yo 1st fill oloroso butts",
+   "volume_ml": 700,
+   "abv": 57.1,
+   "is_whisky": true,
+   "search_status": "searched",
+   "entries": [],
+   "au_resale_estimate_aud": 0,
+   "estimate_basis": "No sold entries found for Edition #30."
+  },
+  {
+   "lot_id": 383737,
+   "lot_label": "999",
+   "bottling": "Ardnamurchan AD/CK.335 07:15 2015 refill oloroso puncheon, bottle 558/696",
+   "volume_ml": 700,
+   "abv": 58.5,
+   "is_whisky": true,
+   "search_status": "searched",
+   "entries": [],
+   "au_resale_estimate_aud": 0,
+   "estimate_basis": "Only a Whisky Shop Auctions listing was found with no sale price."
+  },
+  {
+   "lot_id": 386013,
+   "lot_label": "1000",
+   "bottling": "Cardhu 14yo Special Release 2021 finished in wine casks, natural cask strength",
+   "volume_ml": 700,
+   "abv": 55.5,
+   "is_whisky": true,
+   "search_status": "searched",
+   "entries": [
+    {
+     "kind": "SOLD",
+     "price": "GBP 70 winning bid, lot 170-00668",
+     "aud": 132.9,
+     "date": "2025-08-10",
+     "venue": "Scotch Whisky Auctions",
+     "country": "UK",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/219-the-170th-auction/826104-cardhu-14-year-old-2021-special-release/",
+     "verified": "page opened",
+     "same_item": "yes",
+     "includes_premium": "not stated"
+    }
+   ],
+   "au_resale_estimate_aud": 110,
+   "estimate_basis": "Rests on the single UK guide (GBP 70 = about A$133), discounted for no AU evidence. Low confidence; likely below flip threshold."
+  }
+ ]
+}
