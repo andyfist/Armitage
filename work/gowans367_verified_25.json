@@ -1,0 +1,265 @@
+{
+ "lots": [
+  {
+   "cdid": 444732,
+   "lot": 1536,
+   "what_it_is": "Smeg bean to cup coffee machine, matte white with brushed steel front, automatic milk frother with stainless jug (consistent with the Smeg BCC02, model plate not visible). Used, untested.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$749",
+     "aud_price": 749,
+     "date": "live, seen 2026-10-14",
+     "venue": "The Good Guys (new retail)",
+     "url": "https://www.thegoodguys.com.au/smeg-bean-to-cup-coffee-machine-with-steam-wand-matte-white-bcc12whmau",
+     "note": "ASKING. same_item: close. Page opened (curl 2026-10-14, product JSON price 749.00). New Smeg BCC12 bean to cup with manual steam wand, a newer sibling of the BCC02 (no auto milk system). New retail ceiling only, a used untested unit is worth a fraction of this. AUD, no conversion."
+    },
+    {
+     "price": "$999",
+     "aud_price": 999,
+     "date": "live, seen 2026-10-14",
+     "venue": "The Good Guys (new retail)",
+     "url": "https://www.thegoodguys.com.au/smeg-50s-style-espresso-machine-with-built-in-grinder-black-egf03blau",
+     "note": "ASKING. same_item: category guide. Page opened (curl 2026-10-14, product JSON price 999.00). New Smeg EGF03 espresso machine with grinder, a different machine. Shows Smeg new pricing tier only. AUD, no conversion."
+    }
+   ],
+   "guide_low_aud": 749,
+   "guide_high_aud": 749,
+   "guide_summary": "Nothing sold and nothing unsold found. The only close entry is one new-retail ASKING price ($749, BCC12, a sibling model); the EGF03 at $999 is a category guide only. A used untested machine will sell well below new retail, so this range is a ceiling, not a value. Gowans has no past Smeg coffee machine sales (searched smeg, smeg coffee, coffee machine bean). Web search budget was exhausted, so no external sold results. All AUD.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD evidence of any kind, so keep_max_hammer = 0 and flip_max_hammer = 0 under the rules. For context only (not a maximum): new BCC12 $749 at The Good Guys; a used untested bean to cup typically trades at a small share of new, but no used sale was verified.",
+   "confidence": "Low",
+   "confidence_reason": "Asking-only evidence, model plate unread, single photo, untested.",
+   "dropped_entries": "None dropped. Both Good Guys entries re-opened by curl and prices confirmed ($749, $999); kept as ASKING. The researcher said only the search page was opened; I opened the product pages themselves. A BCC02 product page at The Good Guys returns 404 (model appears discontinued there).",
+   "key_photo_findings": "SMEG lettering on brushed steel front, five touch buttons on top, auto milk frother head with steam pipe into a stainless jug, white body, drip tray with grid, Australian plug. No model plate, water tank, bean hopper contents or grounds drawer visible. Lot tag 1536. Light dust and marks on the top.",
+   "condition": "Used, untested, appears complete externally with milk jug; internal brew unit, grinder and accessories not seen.",
+   "question_for_gowans": "What is the model number on the plate underneath or behind (BCC02?), does it power on and grind/brew, is the water tank, drip tray, grounds container and brew unit all present, and is it scaled up or showing any error lights?"
+  },
+  {
+   "cdid": 444787,
+   "lot": 1591,
+   "what_it_is": "Atari 2600 Jr console (rainbow strip, '2600' on fascia) with one Atari CX40-style joystick, one Commodore-branded paddle, RF/AV leads and a tub of about 16 cartridges (two unlabelled). Used, untested, no power supply visible.",
+   "triage": "KEEP",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$190 hammer (19000 cents), 12 bids",
+     "aud_price": 190,
+     "date": "listed 2026-04-28 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 406258, 'ATARI 2600 WITH GAMES & ACCESSORIES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari+2600&page%5Bnumber%5D=1 (lot id 406258)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Woodgrain 4-switch 2600 with about 35 cartridges, 2 joysticks and paddles, so a bigger games bundle than lot 1591; top of range."
+    },
+    {
+     "price": "$160 hammer (16000 cents), 15 bids",
+     "aud_price": 160,
+     "date": "listed 2025-12-08 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 380623, 'ATARI 2600 CONSOLE  CONTROLS & QTY OF ASST GAMES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari+2600&page%5Bnumber%5D=1 (lot id 380623)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Woodgrain 2600, about 40 cartridges plus manuals and controllers, bigger bundle than ours."
+    },
+    {
+     "price": "$160 hammer (16000 cents), 4 bids",
+     "aud_price": 160,
+     "date": "listed 2026-05-31 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 413372, 'ATARI WITH GAMES - NO POWER CORD')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari&page%5Bnumber%5D=1 (lot id 413372)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Photo shows a 2600 Jr (same model as lot 1591) with several aftermarket joysticks and pads, no power cord. Closest model match. Only 4 bids."
+    },
+    {
+     "price": "$130 hammer (13000 cents), 8 bids",
+     "aud_price": 130,
+     "date": "listed 2025-12-14 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 382464, 'ATARI 2600 CONSOLE & GAMES INCL MS PACMAN  SPACE INVADERS & DOUBLE DRAGON')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari+2600&page%5Bnumber%5D=1 (lot id 382464)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Woodgrain 2600 with 10 boxed games; boxes add appeal."
+    },
+    {
+     "price": "$110 hammer (11000 cents), 9 bids",
+     "aud_price": 110,
+     "date": "listed 2025-11-03 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 372073, 'ATARI 2600 & GAMES IN ATARI CARRY CASE')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari+2600&page%5Bnumber%5D=1 (lot id 372073)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Woodgrain 2600, about 12 cartridges, paddles and PSU in a carry case."
+    },
+    {
+     "price": "$110 hammer (11000 cents), 2 bids",
+     "aud_price": 110,
+     "date": "listed 2025-11-03 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 372512, 'BOX INCL ATARI 2600 & GAMES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari+2600&page%5Bnumber%5D=1 (lot id 372512)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Woodgrain 2600 with 4 boxed games and controllers. Thin bidding."
+    },
+    {
+     "price": "$90 hammer (9000 cents), 17 bids",
+     "aud_price": 90,
+     "date": "listed 2025-10-06 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 365713, 'ATARI 2600 WITH GAMES INCL FROGGER  MISSILE COMMAND  PAC MAN ETC WITH POWER ADAPTOR')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari+2600&page%5Bnumber%5D=1 (lot id 365713)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Woodgrain 2600 with about 20 cartridges, joystick and boxed power adaptor. Similar size bundle to ours but with PSU; strong bidding still only $90."
+    },
+    {
+     "price": "$90 hammer (9000 cents), 7 bids",
+     "aud_price": 90,
+     "date": "listed 2026-01-26 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 385815, 'VINTAGE ATARI 2600 VIDEO COMPUTER SYSTEM & GAMES - 1982')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari+2600&page%5Bnumber%5D=1 (lot id 385815)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Woodgrain 2600 with 2 joysticks, PSU and a few boxed games."
+    },
+    {
+     "price": "$90 hammer (9000 cents), 7 bids",
+     "aud_price": 90,
+     "date": "listed 2026-01-19 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 384016, 'ATARI CONSOLE & GAMES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari&page%5Bnumber%5D=1 (lot id 384016)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Photo shows a woodgrain 2600 with about 8 games incl Crystal Castles boxed. Researcher filed as category guide; photo confirms it is a 2600, so upgraded to close."
+    },
+    {
+     "price": "$90 hammer (9000 cents), 8 bids",
+     "aud_price": 90,
+     "date": "listed 2026-04-13 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 402164, 'ATARI 2600 CONSOLE WITH ACCESSORIES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari+2600&page%5Bnumber%5D=1 (lot id 402164)",
+     "note": "SOLD. same_item: category guide. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Console and controllers only, no cartridges, so less than our lot."
+    },
+    {
+     "price": "$85 hammer (8500 cents), 6 bids",
+     "aud_price": 85,
+     "date": "listed 2026-03-01 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 393768, 'ATARI CONSOLES & ASST GAMES - AS IS')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari&page%5Bnumber%5D=1 (lot id 393768)",
+     "note": "SOLD. same_item: category guide. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Two consoles (2600 and a Sears/other variant), a few games, as is. Not like for like."
+    },
+    {
+     "price": "$55 hammer (5500 cents), 5 bids",
+     "aud_price": 55,
+     "date": "listed 2026-05-31 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 413390, 'ATARI CONSOLE, GAMES & OTHERS - NO CORDS')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari&page%5Bnumber%5D=1 (lot id 413390)",
+     "note": "SOLD. same_item: category guide. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Added by verifier. Photo shows a 2600 Jr with a light gun and about 4 games, no cords; fewer games than ours, so a floor for a thin Jr bundle."
+    },
+    {
+     "price": "$110 hammer (11000 cents), 10 bids",
+     "aud_price": 110,
+     "date": "listed 2026-09-27 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 440520, 'BOX OF ASST ATARI VIDEO GAMES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=atari&page%5Bnumber%5D=1 (lot id 440520)",
+     "note": "SOLD. same_item: category guide. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Cartridges only, no console. Shows cartridge volume carries value."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 90,
+   "guide_high_aud": 190,
+   "guide_summary": "All evidence is SOLD hammer prices at Gowans, Oct 2025 to Sep 2026, AUD. Nine close console-plus-games lots sold $90 to $190 hammer (median about $110); the one exact 2600 Jr match with controllers made $160 on 4 bids. Category-guide lots (no games, two consoles, Jr with few games, games only) sold $55 to $110. Nothing unsold or asking found. Web search budget exhausted so no external comps.",
+   "flip_max_hammer": 35,
+   "keep_max_hammer": 75,
+   "working": "Keep: lowest close same-item SOLD = $90 hammer (365713, 385815, 384016). $90 / 1.198 = $75.13, round down to $75. Note the formula uses the hammer as the price paid, which is conservative (those buyers paid $107.80 all-in). Flip: likely resale about $130 (Gowans close-lot median hammer $110 x 1.198 = $132, rounded to $130; no external sold data). Less about 13% selling fees (eBay-style, $16.90) and $25 outbound postage for a boxed console and carts = $88.10. $88.10 / 2.396 = $36.77, round down to $35. Local pickup sale with no fees or post would allow $130 / 2.396 = $54, so about $50, but that is not the default.",
+   "confidence": "Medium",
+   "confidence_reason": "Console model read in photo (ATARI 2600, Jr casing) and many SOLD comps opened, but condition is untested and there is no visible power supply; cartridge count and labels partly unread.",
+   "dropped_entries": "None dropped. All 12 researcher Gowans entries re-queried in the API: sale prices, bid counts and listing dates match. Comp photos viewed: most comps are woodgrain 4-switch 2600s, not the Jr, so they are close, not exact. 384016 upgraded from category guide to close (photo shows a 2600 with games). Added 413390 ($55, Jr with few games, category guide). Note: another Atari 2600 (lot id 444785) is in this same auction, which may split local bidders.",
+   "key_photo_findings": "Console fascia reads ATARI 2600 with rainbow strip and Jr-style ribbed top; TV Type/Colour and difficulty switches present. Cartridges read: Raiders of the Lost Ark, Dodge 'Em, Berzerk, Asteroids, Video Olympics, Barnstorming, Fishing Derby, Pitfall!, Space Invaders (x2), Defender, Missile Command, Stargate, River Raid, plus two unlabelled and one more partly hidden. All common titles. The paddle is Commodore-branded (from a VIC-20/C64), not an Atari paddle; it usually works on a 2600 but is not original. One CX40-style joystick, RF and AV leads. No power supply visible. Labels show wear.",
+   "condition": "Used, untested, cartridges worn but labels mostly legible, no power supply seen, one non-Atari paddle.",
+   "question_for_gowans": "Is there a power supply with lot 1591, has the console been powered on, and how many cartridges are in the tub in total?"
+  },
+  {
+   "cdid": 444813,
+   "lot": 1617,
+   "what_it_is": "Dyson V10-class cordless stick vacuum (purple cyclone, in-line clear bin marked MAX, three-position power slider on top) on a white floor docking stand, with soft roller and motorised heads, combination and mini tools, and a spare purple post-motor filter in a bag. Model plate not read.",
+   "triage": "KEEP",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$130 hammer (13000 cents), 3 bids",
+     "aud_price": 130,
+     "date": "listed 2026-01-26 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 386282, 'DYSON STICK VACUUM  & ACCESSORIES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dyson+stick&page%5Bnumber%5D=1 (lot id 386282)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Photo shows an older red-wand Dyson stick (V6/V7 era) on a wall dock with accessories, a lesser model than a V10. Only 3 bids, top of range."
+    },
+    {
+     "price": "$110 hammer (11000 cents), 13 bids",
+     "aud_price": 110,
+     "date": "listed 2026-06-21 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 418128, 'DYSON VACUUM CLEANER WITH ATTACHMENTS')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dyson+vacuum&page%5Bnumber%5D=1 (lot id 418128)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Photo shows a V6/V7 class handheld/stick (blue cyclone, yellow trigger tag) with wand and heads. Lesser model than a V10."
+    },
+    {
+     "price": "$85 hammer (8500 cents), 4 bids",
+     "aud_price": 85,
+     "date": "listed 2026-09-20 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 439920, 'DYSON STICK VAC')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dyson+stick&page%5Bnumber%5D=1 (lot id 439920)",
+     "note": "SOLD. same_item: category guide. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Photo shows a tub of mixed Dyson parts (red wand, a V6-type bin, a purple motor body and heads), not one complete like-for-like V10. Researcher filed as close; downgraded to category guide."
+    },
+    {
+     "price": "$75 hammer (7500 cents), 11 bids",
+     "aud_price": 75,
+     "date": "listed 2026-04-13 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 402869, 'DYSON STICK VACUUM')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dyson+stick&page%5Bnumber%5D=1 (lot id 402869)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Photo shows a V6/V7 class stick with blue wand and floor head. Lesser model."
+    },
+    {
+     "price": "$65 hammer (6500 cents), 4 bids",
+     "aud_price": 65,
+     "date": "listed 2026-07-26 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 426871, 'DYSON CORDLESS VACUUM')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dyson+cordless&page%5Bnumber%5D=1 (lot id 426871)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Photo shows a V6 class body and heads in a bag. Lesser model."
+    },
+    {
+     "price": "$60 hammer (6000 cents), 5 bids",
+     "aud_price": 60,
+     "date": "listed 2026-07-26 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 426633, 'DYSON STICK VACUUM & ACCESSORIES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dyson+stick&page%5Bnumber%5D=1 (lot id 426633)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Photo shows a V6/V7 class body with purple wand and heads in a box. Lesser model."
+    },
+    {
+     "price": "$60 hammer (6000 cents), 10 bids",
+     "aud_price": 60,
+     "date": "listed 2026-07-12 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 423826, 'DYSON VACUUM & ACCESSORIES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dyson&page%5Bnumber%5D=1 (lot id 423826)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Added as its own entry (researcher only mentioned it). Photo shows a V7/V8 class stick with gold wand and accessories box."
+    },
+    {
+     "price": "$55 hammer (5500 cents), 8 bids",
+     "aud_price": 55,
+     "date": "listed 2026-05-10 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 408868, '2 DYSON STICK VACUUMS')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dyson+stick&page%5Bnumber%5D=1 (lot id 408868)",
+     "note": "SOLD. same_item: category guide. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Two older units for one price."
+    },
+    {
+     "price": "$50 hammer (5000 cents), 4 bids",
+     "aud_price": 50,
+     "date": "listed 2025-11-24 (sale about a week later)",
+     "venue": "Gowans Auctions, Moonah (lot 377758, 'DYSON STICK VACUUM  CHARGER & ACCESSORIES')",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dyson+stick&page%5Bnumber%5D=1 (lot id 377758)",
+     "note": "SOLD. same_item: close. AUD, no conversion. Page opened (API JSON re-queried 2026-10-14, sale_price confirmed); comp photo viewed. Hammer only, 19.8% premium extra. Photo shows a V7/V8 class stick with copper wand, charger and heads in a tub. Lesser model."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 50,
+   "guide_high_aud": 130,
+   "guide_summary": "All evidence is SOLD hammer prices at Gowans, Nov 2025 to Sep 2026, AUD. Seven close single-unit Dyson stick lots sold $50 to $130 hammer (median $65), but comp photos show these were older V6, V7 and V8 class machines, so a V10 with a floor dock should sit at or above the middle of this range. Two category-guide lots (two units; a tub of parts) made $55 and $85. Nothing unsold or asking found; web search budget exhausted, so no V10-specific sold data.",
+   "flip_max_hammer": 20,
+   "keep_max_hammer": 40,
+   "working": "Keep: lowest close SOLD = $50 hammer (377758, Nov 2025, within 24 months). $50 / 1.198 = $41.74, round down to $40. Caveat: comps are older lesser models, so this cap is conservative and may well be outbid. Flip: likely resale from SOLD evidence about $80 (Gowans close median $65 hammer x 1.198 = $78, allowing a little for the V10 being newer; no external sold data). Less about 13% fees ($10.40) and $20 outbound postage = $49.60. $49.60 / 2.396 = $20.70, round down to $20. Flipping is not supported on this evidence.",
+   "confidence": "Medium",
+   "confidence_reason": "Clear V10-class identification from form and bin markings, comps opened, but model plate not read, battery health unknown, and no comp is a confirmed V10.",
+   "dropped_entries": "None dropped outright. All researcher Gowans sale prices, bids and listing dates confirmed in the API. Comp photos show no confirmed V10: most are V6 to V8 class, which I kept as close but flagged as lesser models. 439920 downgraded to category guide (tub of mixed parts). 423826 ($60) given its own entry.",
+   "key_photo_findings": "Purple top with vent grille, three-position power slider and MAX marking, purple scalloped cyclone with pink trim, clear in-line bin (grubby), MAX line on bin, consistent with a Dyson V10. White floor dock holds a soft roller head, a red-trigger mini tool, combination tool, a motorised mini head and a plug-in charger. Spare purple post-motor filter in a zip bag. Bin taped/bound with rubber band near the base, which could hide a cracked or loose bin catch. Lot tag 1617.",
+   "condition": "Used, dirty bin, untested, battery health unknown, possible bin repair or retaining band around the lower bin.",
+   "question_for_gowans": "Does it charge and run, what model is on the plate (V10 Animal/Absolute?), is the dock a Dyson Floor Dok, and why is there a band or tape around the bottom of the bin (cracked or broken latch)?"
+  }
+ ]
+}
