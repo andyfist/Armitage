@@ -1,0 +1,345 @@
+{
+ "lots": [
+  {
+   "cdid": 444317,
+   "lot": 1121,
+   "what_it_is": "Single rough-sawn live-edge slab sold as SLAB OF HUON PINE, roughly 2 m long and fairly wide, plain pale golden timber, thickness unknown",
+   "triage": "KEEP",
+   "market_score": 3,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "Hammer lower quartile $35, median $50, upper quartile $70, range $15 to $155, n=166 single-slab lots titled SLAB OF HUON PINE",
+     "currency": "AUD",
+     "aud_price": 50,
+     "date": "listed 2026-08-01 to 2026-10-04 (sold about a week later)",
+     "venue": "Gowans Auctions, Moonah (hammer, 19.8% premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened: I pulled all 9 API pages (807 lots) and recomputed. Single-slab titles only, current auction (listed 2026-10-11) excluded. Over the full series since 2025-09-28 (n=627) median is $55, quartiles $35 to $70, range $4 to $180. Descriptions blank so size and figure of each past slab unknown. Weekly medians since late Aug: $60, $40, $35, $40, $60, $77.50."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$85 / $65 / $60 / $40 hammer (lots 420156, 428216, 426588, 425007)",
+     "currency": "AUD",
+     "aud_price": 60,
+     "date": "listed 2026-06-28, 2026-08-03, 2026-07-26, 2026-07-19",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/420156/",
+     "same_item": "yes",
+     "note": "Page opened (API, each lot checked with trailing slash URL; the URL without slash only redirects). All titled SLAB OF HUON PINE, 3 to 5 bids. Researcher gave 426588 and 425007 dates slightly off but prices match."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$180 / $150 / $140 / $135 hammer (lots 403934, 412036, 402324, 420161)",
+     "currency": "AUD",
+     "aud_price": 150,
+     "date": "listed 2026-04-19, 2026-05-24, 2026-04-13, 2026-06-28",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/403934/",
+     "same_item": "close",
+     "note": "Page opened (API). Upper tail of single slabs, presumably larger or better figured pieces. Not the expected result for a plain slab. (Multi-slab lots 387804 2 slabs $180 and 387811 3 slabs $220 also confirmed, but are not single slabs.)"
+    },
+    {
+     "kind": "SOLD",
+     "price": "$83 hammer, 8 bids (SLAB OF BIRDSEYE HUON PINE, lot 423570)",
+     "currency": "AUD",
+     "aud_price": 83,
+     "date": "listed 2026-07-12",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/423570/",
+     "same_item": "close",
+     "note": "Page opened (API). Shows even a titled birdseye slab only made $83 here."
+    }
+   ],
+   "unsold": [
+    {
+     "kind": "UNSOLD",
+     "price": "$0 sale price with 3 and 4 bids (lots 395788, 395789), no reserve or last bid shown",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "listed 2026-03-09",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/395788/",
+     "same_item": "yes",
+     "note": "Page opened (API). These are the only 2 past single-slab lots with no price out of 629; passing in is very rare. Researcher's claim of 8 zero-price lots since June 2026 did not check out."
+    }
+   ],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "Huon slab 256, 1840 x 430 x 25 mm $205; slab 123, 2950 x 400 x 25 mm $350; slab 129 (with faults) 2900 x 420 x 25 mm $380; 2500 x 440 x 50 mm $660",
+     "currency": "AUD",
+     "aud_price": 350,
+     "date": "live, seen 2026-10-14",
+     "venue": "huonpine.com.au (Tasmanian dealer), freight extra",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+     "same_item": "category guide",
+     "note": "Page opened. Dealer retail, dimensioned and graded stock. Asking, not paid; several times Gowans hammer levels."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$1,250 all inc (2.1 m x 300 to 550 mm x 50 mm, whitebait figure, sanded and sealed)",
+     "currency": "AUD",
+     "aud_price": 1250,
+     "date": "live, seen 2026-10-14",
+     "venue": "Buy Tasmanian Timbers Online (dealer)",
+     "url": "https://buytasmaniantimbersonline.com.au/huon-pine-slab-with-whitebait-grain-1-250/",
+     "same_item": "category guide",
+     "note": "Page opened. Figured, finished feature slab; not comparable to a rough-sawn plain slab. Asking only."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$1,800 inc GST (2.1 m x 450 to 550 mm x 40 mm, curved, sanded and sealed)",
+     "currency": "AUD",
+     "aud_price": 1800,
+     "date": "live, seen 2026-10-14",
+     "venue": "Buy Tasmanian Timbers Online (dealer)",
+     "url": "https://buytasmaniantimbersonline.com.au/huon-pine-slab-beautifully-curved-1-800-inc-gst/",
+     "same_item": "category guide",
+     "note": "Page opened. Finished feature slab. Asking only."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$1,250 for two slabs 2850 x 600 x 50 mm",
+     "currency": "AUD",
+     "aud_price": 1250,
+     "date": "seen in search 2026-10-14, listing date unknown",
+     "venue": "Gumtree Tasmania",
+     "url": "https://www.gumtree.com.au/s-tas/huon+pine+slabs/k0l3008843",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified; a lead only. Much larger slabs."
+    }
+   ],
+   "guide_low_aud": 15,
+   "guide_high_aud": 180,
+   "guide_summary": "Same-item range $15 to $180 is all SOLD Gowans hammers (recent 10 weeks $15 to $155, middle half $35 to $70, median $50). UNSOLD: 2 pass-ins in March 2026 only. ASKING dealer prices ($205 to $1,800) are category guides for dried, dimensioned or figured slabs and are left out of the range. All AUD, no conversion.",
+   "flip_max_hammer": 15,
+   "keep_max_hammer": 25,
+   "working": "Keep: the series is a commodity line, so I use the lower quartile of recent same-title sales ($35) rather than the $15 floor: 35 / 1.198 = 29.2, round down to $25 (all-in $29.95). Flip: likely resale is the Gowans median $50 hammer (no other sold evidence); less about 15% vendor commission = $42.50; postage n/a (pickup slab); 42.50 / 2.396 = 17.7, round down to $15. Flipping is not worthwhile. Inbound freight $0 (local pickup from 37 Main Road, Moonah).",
+   "confidence": "Medium",
+   "confidence_reason": "Hundreds of opened same-title Gowans sales, but species is only the catalogue's word (no label or mark to read) and size and thickness are unknown.",
+   "dropped_entries": "Dropped: Tasmanian Special Timbers $9,200 / $12,000 (page opened, no price on it; the $12,000 slab is the BTTO giant birdseye, 4.4 m, not comparable). Macrocarpa pine series dropped as a different timber (kept only as a downside note: median about $20 if the species is wrong). Researcher's '8 zero-price lots since June' corrected to 2 in March 2026. Gumtree kept only as a snippet lead.",
+   "key_photo_findings": "Chalk 1121 and 16/10/26 with lot sticker. Wider slab with waney live edge both sides, rough bandsaw marks, pale golden to pinkish-tan colour typical of fresh Huon, plain straight grain, no birdseye. Top right corner has a large rough, crumbly patch along the edge (sapwood/cambium remnant, possibly some decay or borer) and the top end is split and ragged.",
+   "condition": "Rough sawn, unseasoned or air-dried status unknown, live edges, ragged top end and crumbly patch along one edge; usable area slightly reduced.",
+   "question_for_gowans": "What are the length, width and thickness of lot 1121, is it air-dried, and is the crumbly patch at the top edge soft rot or borer? Is the species confirmed as Huon pine?",
+   "score_reason": "Plain slab in a weekly commodity line; Gowans same-title hammers mostly $35 to $70."
+  },
+  {
+   "cdid": 444318,
+   "lot": 1122,
+   "what_it_is": "Single long, narrow rough-sawn slab sold as SLAB OF HUON PINE, near-straight edges with little live edge, pale straw colour, a knot and bark inclusion about a third up, thickness unknown",
+   "triage": "KEEP",
+   "market_score": 3,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "Hammer lower quartile $35, median $50, upper quartile $70, range $15 to $155, n=166 single-slab lots titled SLAB OF HUON PINE",
+     "currency": "AUD",
+     "aud_price": 50,
+     "date": "listed 2026-08-01 to 2026-10-04 (sold about a week later)",
+     "venue": "Gowans Auctions, Moonah (hammer, 19.8% premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened: I pulled all 9 API pages (807 lots) and recomputed. Single-slab titles only, current auction (listed 2026-10-11) excluded. Over the full series since 2025-09-28 (n=627) median is $55, quartiles $35 to $70, range $4 to $180. Descriptions blank so size and figure of each past slab unknown. Weekly medians since late Aug: $60, $40, $35, $40, $60, $77.50."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$85 / $65 / $60 / $40 hammer (lots 420156, 428216, 426588, 425007)",
+     "currency": "AUD",
+     "aud_price": 60,
+     "date": "listed 2026-06-28, 2026-08-03, 2026-07-26, 2026-07-19",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/420156/",
+     "same_item": "yes",
+     "note": "Page opened (API, each lot checked with trailing slash URL; the URL without slash only redirects). All titled SLAB OF HUON PINE, 3 to 5 bids. Researcher gave 426588 and 425007 dates slightly off but prices match."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$180 / $150 / $140 / $135 hammer (lots 403934, 412036, 402324, 420161)",
+     "currency": "AUD",
+     "aud_price": 150,
+     "date": "listed 2026-04-19, 2026-05-24, 2026-04-13, 2026-06-28",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/403934/",
+     "same_item": "close",
+     "note": "Page opened (API). Upper tail of single slabs, presumably larger or better figured pieces. Not the expected result for a plain slab. (Multi-slab lots 387804 2 slabs $180 and 387811 3 slabs $220 also confirmed, but are not single slabs.)"
+    },
+    {
+     "kind": "SOLD",
+     "price": "$83 hammer, 8 bids (SLAB OF BIRDSEYE HUON PINE, lot 423570)",
+     "currency": "AUD",
+     "aud_price": 83,
+     "date": "listed 2026-07-12",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/423570/",
+     "same_item": "close",
+     "note": "Page opened (API). Shows even a titled birdseye slab only made $83 here."
+    }
+   ],
+   "unsold": [
+    {
+     "kind": "UNSOLD",
+     "price": "$0 sale price with 3 and 4 bids (lots 395788, 395789), no reserve or last bid shown",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "listed 2026-03-09",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/395788/",
+     "same_item": "yes",
+     "note": "Page opened (API). These are the only 2 past single-slab lots with no price out of 629; passing in is very rare. Researcher's claim of 8 zero-price lots since June 2026 did not check out."
+    }
+   ],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "Huon slab 256, 1840 x 430 x 25 mm $205; slab 123, 2950 x 400 x 25 mm $350; slab 129 (with faults) 2900 x 420 x 25 mm $380; 2500 x 440 x 50 mm $660",
+     "currency": "AUD",
+     "aud_price": 350,
+     "date": "live, seen 2026-10-14",
+     "venue": "huonpine.com.au (Tasmanian dealer), freight extra",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+     "same_item": "category guide",
+     "note": "Page opened. Dealer retail, dimensioned and graded stock. Asking, not paid; several times Gowans hammer levels."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$1,250 for two slabs 2850 x 600 x 50 mm",
+     "currency": "AUD",
+     "aud_price": 1250,
+     "date": "seen in search 2026-10-14, listing date unknown",
+     "venue": "Gumtree Tasmania",
+     "url": "https://www.gumtree.com.au/s-tas/huon+pine+slabs/k0l3008843",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified; a lead only. Much larger slabs."
+    }
+   ],
+   "guide_low_aud": 15,
+   "guide_high_aud": 180,
+   "guide_summary": "Same-item range $15 to $180 is all SOLD Gowans hammers (recent 10 weeks $15 to $155, middle half $35 to $70, median $50). UNSOLD: 2 pass-ins in March 2026 only. ASKING dealer prices ($205 to $1,800) are category guides for dried, dimensioned or figured slabs and are left out of the range. All AUD, no conversion.",
+   "flip_max_hammer": 15,
+   "keep_max_hammer": 25,
+   "working": "Keep: lower quartile of recent same-title sales since Sept is $30 (since Aug $35); this board is narrower than most so I use $30: 30 / 1.198 = 25.04, round down to $25 (all-in $29.95). Flip: resale about the Gowans median $50 less 15% vendor commission = $42.50, no postage (pickup); 42.50 / 2.396 = 17.7, round down to $15. Flipping not worthwhile. Inbound freight $0.",
+   "confidence": "Medium",
+   "confidence_reason": "Hundreds of opened same-title Gowans sales, but species is only the catalogue's word and the paler, plainer board and unknown size add doubt.",
+   "dropped_entries": "Researcher's 'n=698, range to $220' mixed in 2 and 3 slab lots; corrected to single slabs only (n=627, median $55, range $4 to $180; the $220 was a 3-slab lot). Dropped BTTO $12,000 giant birdseye slab (page opened, 4.4 m figured feature slab, not comparable). Gumtree kept as a snippet lead only. huonpine.com.au now page opened and confirmed (asking, category guide).",
+   "key_photo_findings": "Chalk 1122 and 16/10/26 with lot sticker. Long narrow board, nearly square-edged, pale straw colour paler and more yellow than 1121, plain grain, one knot with a bark/ingrown inclusion and staining about a third up from the bottom; a short check line below it. No figure.",
+   "condition": "Rough sawn, knot and inclusion near the lower third, otherwise sound looking; dryness and thickness unknown.",
+   "question_for_gowans": "What are the dimensions of lot 1122 (length, width, thickness), is it air-dried, and is the knot area sound? Is the species confirmed as Huon pine?",
+   "score_reason": "Ordinary narrow slab; Gowans same-title hammers mostly $30 to $70."
+  },
+  {
+   "cdid": 444348,
+   "lot": 1152,
+   "what_it_is": "ULTRALOQ Bolt NFC smart Wi-Fi deadbolt (keypad, Bluetooth, NFC, Apple Home Key), boxed; catalogued as ULTRALOG SMART WIFI DEADBOLT",
+   "triage": "KEEP",
+   "market_score": 4,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$45 hammer, 4 bids (ULTRALOQ BOLT NFC SMART WIFI DEADBOLT, lot 411637)",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "listed 2026-05-24",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/411637/",
+     "same_item": "yes",
+     "note": "Page opened (API search result; lot id confirmed). Exact model. Condition not described. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$60 / $45 / $30 / $40 hammer (Bolt Fingerprint lots 423638, 427842, 439688; Fingerprint deadbolt 440614)",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "listed 2026-07-12, 2026-08-03, 2026-09-20, 2026-09-27",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ultraloq&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. Same Bolt family, fingerprint variant rather than NFC; similar new retail. Shows a steady $30 to $60 band here."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$65 hammer (U-BOLT single, lot 421996); $50 for 2 U-Bolts (lot 415052); $50 for 2 sets model not stated (lot 442810)",
+     "currency": "AUD",
+     "aud_price": 65,
+     "date": "listed 2026-07-05, 2026-06-08, 2026-10-04",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ultraloq&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. Older U-Bolt model and an unnamed pair; the pairs work out about $25 a lock."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$110 and $60 hammer, 9 bids each (ULTRALOQ LATCH 5 NFC lever lock, lots 410134, 415051)",
+     "currency": "AUD",
+     "aud_price": 110,
+     "date": "listed 2026-05-17 and 2026-06-08",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ultraloq&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Different product (lever lock), brand context only."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "AU$254.99 / $269.99 / $299.99 (variant prices on the AUD view; US$169.99 on the USD view)",
+     "currency": "AUD",
+     "aud_price": 254.99,
+     "date": "live, seen 2026-10-14",
+     "venue": "ultraloq.com (manufacturer)",
+     "url": "https://ultraloq.com/products/ultraloq-bolt-nfc?currency=AUD",
+     "same_item": "yes",
+     "note": "Page opened. New retail; which variant (finish/bundle) carries which price is not clear. Asking only."
+    },
+    {
+     "kind": "ASKING",
+     "price": "AU$314.37",
+     "currency": "AUD",
+     "aud_price": 314.37,
+     "date": "price stamped 'Latest Update 20/08/2025' (stale)",
+     "venue": "smartgadgets.com.au (affiliate listing)",
+     "url": "https://smartgadgets.com.au/product/ultraloq-bolt-nfc-wifi-smart-lock/",
+     "same_item": "yes",
+     "note": "Page opened. Price is an Amazon affiliate figure last updated Aug 2025, not live; researcher said live. Asking only."
+    },
+    {
+     "kind": "ASKING",
+     "price": "AU$189 or Best Offer, listed as new",
+     "currency": "AUD",
+     "aud_price": 189,
+     "date": "seen in search 2026-10-14",
+     "venue": "eBay Australia",
+     "url": "https://www.ebay.com.au/itm/397061184579",
+     "same_item": "yes",
+     "note": "Snippet only, not verified (eBay closed to us). Lead only."
+    },
+    {
+     "kind": "ASKING",
+     "price": "AU$159.99 (deal) and AU$267.99 (Global Store)",
+     "currency": "AUD",
+     "aud_price": 159.99,
+     "date": "seen in search 2026-10-14",
+     "venue": "Amazon.com.au",
+     "url": "https://www.amazon.com.au/ULTRALOQ-Keyless-Deadbolt-Automation-Waterproof/dp/B0DLG5DB9D",
+     "same_item": "yes",
+     "note": "Snippet only, not verified; conflicting figures. Lead only."
+    }
+   ],
+   "guide_low_aud": 30,
+   "guide_high_aud": 300,
+   "guide_summary": "SOLD at Gowans: exact model $45 once; Bolt family $30 to $65 per lock (May to Sept 2026). No UNSOLD found. ASKING: new retail AU$255 to $300 at the maker (opened), older/snippet figures $160 to $314. The gap shows how far Gowans buyers sit below retail. All AUD; the US$169.99 maker price is context only (about AU$255 at 1 USD = 1.50 AUD, assumed, not checked live).",
+   "flip_max_hammer": 10,
+   "keep_max_hammer": 35,
+   "working": "Keep: only same-item SOLD in 24 months is $45 hammer (May 2026): 45 / 1.198 = 37.6, round down to $35 (all-in $41.93). Flip: likely resale from SOLD evidence about $55 (top of the Bolt family band at Gowans; no opened eBay sold data); less about 13% marketplace fees ($7.15) and about $15 outbound postage = $32.85; 32.85 / 2.396 = 13.7, round down to $10. Flip not worthwhile. Inbound freight $0 (local pickup).",
+   "confidence": "Medium",
+   "confidence_reason": "Box label read clearly (Bolt NFC); one opened exact-model Gowans sale plus several close family sales. Contents and whether it has been opened or installed are unknown.",
+   "dropped_entries": "No entries dropped outright. smartgadgets.com.au re-dated: its $314.37 is a stale Aug 2025 affiliate price, not live. eBay US US$155 entry dropped as a snippet-only foreign asking price adding nothing. eBay AU and Amazon AU kept as snippet leads only. Lot 442810 (2 sets, model not stated) kept as close only.",
+   "key_photo_findings": "Box front reads ULTRALOQ Bolt NFC, Smart Wi-Fi Deadbolt, Works With Apple Home Key; icons Wi-Fi, Bluetooth, NFC, App, Keypad. Lot sticker 1152 over an older crossed-out number. Box is scuffed with grubby marks and creased corners; no factory seal visible on the bottom edge, so it may be opened or a return. A separate AU power cord with a tag lies beside it and is probably a different lot. Title 'ULTRALOG' is a misspelling.",
+   "condition": "Boxed, box worn and possibly opened; contents, keys, Wi-Fi bridge (if included) and mounting hardware unseen.",
+   "question_for_gowans": "Has the box for lot 1152 been opened, and is the lock complete (keypad, interior unit, keys, mounting hardware, any bridge) and unused? Is the power cord in the photo part of the lot?",
+   "score_reason": "Recent smart deadbolt worth about AU$255 to $300 new, but Gowans buyers pay $30 to $65 for this family."
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "lots": [
+  {
+   "cdid": 444091,
+   "lot": 746,
+   "what_it_is": "Canon EOS 1100D DSLR body (rear button layout matches the 1100D) fitted with a Tamron AF 70-300mm f/4-5.6 Di LD Macro telephoto zoom with hood and Tamron cap, Canon strap, brown canvas shoulder bag and a charger or adapter. Gowans title: CANON CAMERA IN BAG WITH ZOOM LENSE & BATTERY. No 18-55mm kit lens is visible, so the researcher's 'kit lens' description is wrong.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$850 hammer, 25 bids (priceResult 850 AUD)",
+     "date": "10 Jun 2025",
+     "venue": "Theodore Bruce Auctions, Sydney Airport lost property tech and gaming sale, lot 1001",
+     "url": "https://www.theodorebruceauctions.com.au/auction-catalog/sydney-airport-lost-property-tech-gaming_MKIX58H08I",
+     "aud_price": 850,
+     "note": "Page opened by curl; lot data read from the embedded search JSON (lotTitle 'A Used Digital Camera Kit including Camera & Lens Marked, Canon EOS 1100D, 18-55mm Zoom, 90-300mm Zoom, Accessories etc', closed, priceResult 850). Same body, close kit (two Canon lenses vs our one Tamron tele). Premium not stated. Lost-property sales draw speculative bidding; this is far above every other datapoint and is treated as an outlier, not used for a max bid. same_item: close."
+    },
+    {
+     "price": "$140 hammer (sale_price 14000), 3 bids",
+     "date": "listed 1 Dec 2025",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=canon+eos400d&page%5Bnumber%5D=1",
+     "aud_price": 140,
+     "note": "API JSON opened, lot 378977 CANON EOS400D DIGITAL CAMERA WITH LENS, BATTERY & MANUAL plus a Canon IXUS compact and tripod. Older body, extras included. Premium extra. same_item: category guide (researcher said close; downgraded because extras inflate it and it is a different model)."
+    },
+    {
+     "price": "$100 hammer (10000), 4 bids",
+     "date": "listed 16 Mar 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=canon+100d&page%5Bnumber%5D=1",
+     "aud_price": 100,
+     "note": "API JSON opened, lot 396710 CANON 100D DIGITAL CAMERA & CHARGER & 2 BATTERIES. Newer, better entry body, no lens in title. Premium extra. same_item: close (sibling model)."
+    },
+    {
+     "price": "$85 hammer (8500), 12 bids",
+     "date": "listed 12 Jul 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=canon+eos+1200d&page%5Bnumber%5D=1",
+     "aud_price": 85,
+     "note": "API JSON opened, lot 422785 CANON EOS 1200D DIGITAL CAMERA. Successor to the 1100D, body only in title. Premium extra. same_item: close (sibling model)."
+    },
+    {
+     "price": "$160 hammer (16000), 11 bids",
+     "date": "listed 9 Aug 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=canon+camera+bag+lens&page%5Bnumber%5D=1",
+     "aud_price": 160,
+     "note": "API JSON opened, lot 429767 CANON EOS 700S CAMERA WITH EXTRA LENSE & BAG. A 35mm film SLR kit, not digital. same_item: category guide only."
+    },
+    {
+     "price": "$57 hammer (5700), 6 bids",
+     "date": "listed 19 Jan 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=canon+eos&page%5Bnumber%5D=1",
+     "aud_price": 57,
+     "note": "API JSON opened, lot 384543 CANON EOS KISS DIGITAL SLR CAMERA, much older 6MP body. same_item: category guide."
+    },
+    {
+     "price": "$30 hammer (3000), 3 bids",
+     "date": "listed 15 Feb 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=canon+eos&page%5Bnumber%5D=1",
+     "aud_price": 30,
+     "note": "API JSON opened, lot 390338 CANON EOS 200D11 CAMERA, garbled title, possibly a film body. Weak category guide."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 85,
+   "guide_high_aud": 850,
+   "guide_summary": "All surviving evidence is SOLD; no verified UNSOLD or ASKING survives. Close entries run $85 (1200D body, Gowans) and $100 (100D body, Gowans) up to a single $850 for an 1100D twin-lens kit at a Sydney Airport lost-property sale, which looks like an outlier. Category guides at Gowans: $30-160. Realistic Gowans hammer for this lot looks like about $80-140. All AUD, no conversion.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "Only one same-model SOLD result exists (Theodore Bruce $850, Jun 2025), and it is a different kit (two Canon lenses) sold in a lost-property sale where bidding runs hot; using it would give keep max 850/1.198 = 709, which no other evidence supports, so I have not used it. The Gowans results are sibling models, not the same item, so by the rules no formal maximum is set. Informal guide only: the lowest close sibling result is $85 (1200D body) and $85/1.198 = $70.95, so about $70 hammer ($84 all-in) would be in line with local buyers; the Tamron 70-300 and bag add a little. Flip: no same-item resale evidence (eBay closed to us), so 0.",
+   "confidence": "Low",
+   "confidence_reason": "Body identified from the rear button layout (badge not legible), lens read on cap and barrel. Only one same-model SOLD entry and it is an outlier; the rest are sibling or category comps. Untested, shutter count unknown.",
+   "dropped_entries": "eBay AU AU$289 and AU$243.18 asking (snippet only; eBay returns 403 to us, cannot verify, kept only as a lead). Gumtree ACT $170 negotiable asking (Gumtree returned 403, snippet only, lead only). Theodore Bruce entry kept but upgraded from snippet to page-verified and flagged as an outlier. Gowans 400D lot downgraded from close to category guide.",
+   "key_photo_findings": "Rear of body shows the 1100D layout: DISP top right, ISO above the cross keys, live view button with red dot, AF right, MENU and WB below, Canon logo top left of the screen. Front: Canon badge, mode dial, pop-up flash. Lens barrel reads 70-300mm 1:4-5.6 TELE-MACRO with a TAMRON band and TAMRON cap, so it is a Tamron AF 70-300mm Di LD Macro with petal-free round hood. Charger or AC adapter in the bag, Canon EOS strap. No 18-55mm lens seen. Rear LCD has light dust and smudges.",
+   "condition": "Used, untested. Cosmetically tidy in photos, LCD dusty. Battery presence, charger type, shutter count and whether it powers up unknown.",
+   "question_for_gowans": "Is the camera an EOS 1100D (badge on the front), does it power on with the included battery, is there a battery in the camera, and is the black box a charger or an AC adapter? Is there any other lens in the bag besides the Tamron 70-300mm?"
+  },
+  {
+   "cdid": 444114,
+   "lot": 769,
+   "what_it_is": "Original Microsoft Xbox Crystal limited edition (translucent clear shell with silver jewel), with a clear controller (clear cable), a black Controller S, cables, and two games: Burnout 2 Point of Impact and Need for Speed Underground (Classics). Gowans title: XBOX CONSOLE, CONTROLS & 2 GAMES - AS IS.",
+   "triage": "KEEP",
+   "market_score": 7,
+   "sold": [
+    {
+     "price": "$307 hammer (sale_price 30700), 16 bids",
+     "date": "listed 28 Jun 2026 (sale about early Jul 2026)",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=xbox+crystal&page%5Bnumber%5D=1",
+     "aud_price": 307,
+     "note": "API JSON opened and lot photo checked: lot 419742 (tag 546) XBOX CRYSTAL CONSOLE, crystal console with a clear Controller S, power and AV cables. Not marked as is, condition not stated. Premium extra. Ours adds a second controller and two games but is sold as is. same_item: yes."
+    },
+    {
+     "price": "US$253.29",
+     "date": "24 May 2026",
+     "venue": "eBay (US) via PriceCharting sold list",
+     "url": "https://www.pricecharting.com/game/xbox/xbox-system-crystal",
+     "aud_price": 362.92,
+     "note": "Page opened. 'Microsoft Xbox Crystal Xbox Tested working!', loose. Tested vs our untested. Rate 1 USD = 1.4328 AUD (open.er-api.com, 14 Oct 2026). US market, shipping not included. same_item: close."
+    },
+    {
+     "price": "US$261.68",
+     "date": "24 Aug 2025",
+     "venue": "eBay (US) via PriceCharting sold list",
+     "url": "https://www.pricecharting.com/game/xbox/xbox-system-crystal",
+     "aud_price": 374.94,
+     "note": "Page opened. 'Microsoft Xbox Crystal Limited Edition 8GB Translucent Console (F23-00180) WORKS', loose. Tested. Rate 1.4328. same_item: close. Same page also lists US$218.95 on 6 Oct 2024 (just outside 24 months) and boxed/serviced units at US$427-653, not comparable."
+    },
+    {
+     "price": "$160 hammer (16000), 7 bids",
+     "date": "listed 6 Sep 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=xbox+parts&page%5Bnumber%5D=1",
+     "aud_price": 160,
+     "note": "API JSON opened, lot 436006 ORIGINAL XBOX - PARTS ONLY & ASST GAMES (standard black). Category guide; researcher's search URL (xbox games) also shows it on page 1 in their run but I confirmed via 'xbox parts'."
+    },
+    {
+     "price": "$160 hammer (16000), 18 bids",
+     "date": "listed 3 Nov 2025",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=xbox+console&page%5Bnumber%5D=1",
+     "aud_price": 160,
+     "note": "API JSON opened, lot 372447 XBOX CONSOLE, CONTROLS ETC - AS IS - CONDITION UNKNOWN. Generation not stated. Category guide."
+    },
+    {
+     "price": "$150 hammer (15000), 15 bids",
+     "date": "listed 12 Jul 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=xbox+original&page%5Bnumber%5D=1",
+     "aud_price": 150,
+     "note": "API JSON opened, lot 422923 ORIGINAL XBOX WITH ASST GAMES & ACCESSORIES. Standard black. Category guide."
+    },
+    {
+     "price": "$135 hammer (13500), 8 bids",
+     "date": "listed 10 May 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=xbox+original&page%5Bnumber%5D=1",
+     "aud_price": 135,
+     "note": "API JSON opened, lot 408393 XBOX ORIGINAL WITH ASST GAMES. Standard black. Category guide."
+    },
+    {
+     "price": "$110 hammer (11000), 10 bids",
+     "date": "listed 8 Dec 2025",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=xbox+console&page%5Bnumber%5D=1",
+     "aud_price": 110,
+     "note": "API JSON opened, lot 380975 XBOX CONSOLE, CONTROL & GAMES, generation not stated. Weak category guide."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$329.99 AUD (compare-at $408.99)",
+     "date": "live, seen 14 Oct 2026",
+     "venue": "RetroSales (Australian retro dealer)",
+     "url": "https://retrosales.com.au/products/console-xbox-crystal-limited-edition-clear-unmodified-original",
+     "aud_price": 329.99,
+     "note": "Page opened (product JSON): 'Console | Xbox | Crystal Limited Edition Clear Unmodified Original', price 329.99. Dealer-tested stock, asking only. Stock status not rechecked. same_item: close."
+    }
+   ],
+   "guide_low_aud": 307,
+   "guide_high_aud": 375,
+   "guide_summary": "Same or close entries run A$307 to A$375: three SOLD (Gowans $307 hammer Jul 2026; US eBay tested units A$363 and A$375 at 1 USD = 1.4328 AUD) and one ASKING (RetroSales $329.99, tested). No UNSOLD found. Standard black original Xbox bundles make $110-160 at Gowans, so the crystal shell roughly doubles it.",
+   "flip_max_hammer": 105,
+   "keep_max_hammer": 255,
+   "working": "Keep: lowest same-item SOLD in the last 24 months is Gowans $307 (Jul 2026). 307 / 1.198 = 256.26, round down to $255 hammer ($305.49 all-in). Caution: ours is sold AS IS and untested, the $307 unit was not marked as is, so bidding to the full $255 assumes it works. Flip: likely resale about A$330 on eBay AU for a working crystal with two controllers and two games (between Gowans $307 hammer and US A$363-375 tested). Less eBay fees about 13% ($43) and outbound postage about $30 for a heavy console: 330 - 43 - 30 = 257. 257 / 2.396 = 107.3, round down to $105. Flip only works if it tests good.",
+   "confidence": "Medium",
+   "confidence_reason": "Crystal shell and XBOX jewel clearly visible and three SOLD pages opened, but the unit is untested and as is, and I cannot see the underside label to confirm a factory crystal unit.",
+   "dropped_entries": "eBay AU Buy It Now AU$310-520 (snippet only, eBay 403 to us; lead only). GameFleets AU$170 (site returned HTTP 429 and earlier 'store unavailable', unverifiable; dropped). PriceCharting US sale reconverted at a looked-up 1.4328 rather than the assumed 1.50 (A$362.92, not A$380), and a second in-window sale (US$261.68, Aug 2025) added. Researcher's 'black Duke controller' corrected: it is a black Controller S.",
+   "key_photo_findings": "Clear translucent shell with crystal X top and silver XBOX jewel, matching the Gowans crystal lot 546 photo. Shell dusty. Black Controller S (smaller pad, coloured face buttons) and a clear controller with clear braided-look cable (could be an official crystal Controller S or third party). Games: Burnout 2 Point of Impact (PAL, M15+) and Need for Speed Underground Classics. Power or AV leads present but tangled; no box.",
+   "condition": "Used, untested, sold as is. Dusty. Completeness of AV and power leads not confirmed.",
+   "question_for_gowans": "Does the Xbox power on and read a disc? Is the clear controller a Microsoft one, and are both the power cable and AV cable included? What does the label underneath say (model or crystal edition)?"
+  },
+  {
+   "cdid": 444124,
+   "lot": 779,
+   "what_it_is": "Box of modern licensed gaming collectables: Legend of Zelda Hylian crest pocket watch (boxed), sealed 550-piece Legend of Zelda 8-bit puzzle (18 x 24 inch), a sealed blue Zelda Breath of the Wild item (book or journal, not identified), PDP Pixel Pals 8-bit Link and Mega Man light-up figures (loose, not on card), a small 3D pixel Link figure, a Rockman dot strap collection vol.2 blind box (Japanese phone strap), and Bandai Tamashii Buddies X and Zero (Rockman X) figures, boxed. Gowans title: BOX OF GAMING COLLECTABLES INCL ZELDA.",
+   "triage": "NEAR MISS",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$80 hammer (8000), 18 bids",
+     "date": "listed 4 Oct 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=zelda&page%5Bnumber%5D=1",
+     "aud_price": 80,
+     "note": "API JSON opened, lot 442456 ZELDA CHESS SET IN SEALED BOX. Single Zelda collectable. Category guide."
+    },
+    {
+     "price": "$60 hammer (6000), 10 bids",
+     "date": "listed 4 Oct 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=zelda&page%5Bnumber%5D=1",
+     "aud_price": 60,
+     "note": "API JSON opened, lot 442453 ZELDA LINK BOXED FIGURE. Single boxed figure, maker unknown. Category guide (researcher said close; downgraded as no piece here is known to match)."
+    },
+    {
+     "price": "$60 hammer (6000), 15 bids",
+     "date": "listed 19 Oct 2025",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=zelda&page%5Bnumber%5D=1",
+     "aud_price": 60,
+     "note": "API JSON opened, lot 369062 5 ZELDA NINTENDO AMIIBO FIGURINES. Category guide."
+    },
+    {
+     "price": "$55 hammer (5500), 9 bids",
+     "date": "listed 4 Oct 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=zelda&page%5Bnumber%5D=1",
+     "aud_price": 55,
+     "note": "API JSON opened, lot 442345 2 ZELDA ENCYCLOPEDIAS. Category guide."
+    },
+    {
+     "price": "$30 to $70 hammer across 5 amiibo lots ($70 Sep 2025, $60 Oct 2025, $50 Mar 2026, $40 May 2026, $30 Jul 2026)",
+     "date": "Sep 2025 to Jul 2026",
+     "venue": "Gowans Auctions",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=amiibo&page%5Bnumber%5D=1",
+     "aud_price": 50,
+     "note": "API JSON opened, lots 364414, 369062, 394059, 408680, 424908. Boxes of small Nintendo figures, median $50. Category guide."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "US$49.53 (Zero), 'Last items in stock'",
+     "date": "live, seen 14 Oct 2026",
+     "venue": "Nin-Nin-Game.com (Japan)",
+     "url": "https://www.nin-nin-game.com/en/rockman-megaman/16958-mega-man-rockman-zero-tamashii-buddies-en.html",
+     "aud_price": 70.97,
+     "note": "Page opened. Tamashii Buddies Zero, new. Rate 1 USD = 1.4328 AUD (open.er-api.com). Researcher said out of stock; page says last items in stock. Scarcity retail, high end. same_item: yes."
+    },
+    {
+     "price": "US$10.68 (X), 'Soon available'",
+     "date": "live, seen 14 Oct 2026",
+     "venue": "Nin-Nin-Game.com (Japan)",
+     "url": "https://www.nin-nin-game.com/en/rockman-megaman/16958-mega-man-rockman-zero-tamashii-buddies-en.html",
+     "aud_price": 15.3,
+     "note": "Page opened; shown on the Zero page as a related product, Tamashii Buddies X at US$10.68 (pre-order or restock). Rate 1.4328. Shows X is cheap; the pair is not $60-90. same_item: yes."
+    },
+    {
+     "price": "US$15.00 (was US$24.99)",
+     "date": "live, seen 14 Oct 2026",
+     "venue": "Mobile Advance (US dealer)",
+     "url": "https://www.mobileadvance.com/pixel-pals-nintendo-white-8-bit-link/",
+     "aud_price": 21.49,
+     "note": "Page opened. Pixel Pals White 8-bit Link, new; page shows out-of-stock markers. Ours is the coloured 8-bit Link, used/loose. Rate 1.4328. same_item: close."
+    }
+   ],
+   "guide_low_aud": 15,
+   "guide_high_aud": 71,
+   "guide_summary": "Per-piece only: verified ASKING prices for individual pieces run about A$15 (Tamashii Buddies X) to A$71 (Tamashii Buddies Zero, scarce), with Pixel Pals Link about A$21 new. No SOLD or UNSOLD for any piece in this box; Gowans category SOLD results for single Zelda items and small figure boxes are $30-80 hammer. Rate 1 USD = 1.4328 AUD.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD evidence, so no maximum bid. Rough sense only: summing low-end used values (watch ~$20, sealed puzzle ~$15, two Pixel Pals ~$30, Tamashii pair ~$40-60, strap and BOTW item ~$15-30) gives about $120-170 retail-used, which at Gowans has typically meant $55-80 hammer for comparable small gaming lots. Not a max bid.",
+   "confidence": "Low",
+   "confidence_reason": "Resting on asking prices and category comps only; the BOTW item and small Link figure are not identified.",
+   "dropped_entries": "eBay Tamashii Buddies Zero US$30 and AU shop $29.99 (snippet only, eBay 403; lead only). eBay Pixel Pals Mega Man and Link US$19-60 (snippet only; lead only). Previews World Triforce pocket watch US$29.99 retail (page returns 404; dropped) and the eBay watch resale figures (snippet only). Researcher errors corrected: puzzle is 550 pieces not 500; neither Pixel Pal is on card; the watch dial shows the Hylian crest; a sealed BOTW item and a Rockman dot strap vol.2 box were missed or misdescribed. Gowans 'Zelda Link boxed figure' downgraded from close to category guide.",
+   "key_photo_findings": "Zelda pocket watch in window box with Zelda gold logo, black dial with bird crest. Rockman -dot strap collection- vol.2 Japanese box. Pixel Pals-style coloured 8-bit Link (top right) and blue Mega Man resting on a shrink-wrapped blue and gold Breath of the Wild item, with a small 3D pixel Link figure. Sealed USAopoly-style Legend of Zelda puzzle, 550 pieces, 18 x 24 in. Bandai Tamashii Buddies 010-type boxes for X and Zero (Rockman X), figures visible and in trays.",
+   "condition": "Mostly boxed or sealed, appears unused; Pixel Pals loose (battery and light function unknown).",
+   "question_for_gowans": "What is the sealed blue Breath of the Wild item (book, journal or art book), and do the two Pixel Pals light up? Is the Rockman strap box sealed?"
+  }
+ ]
+}
