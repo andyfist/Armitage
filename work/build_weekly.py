@@ -40,6 +40,13 @@ def ev_list(items, kind, label, hint):
     if not items: return f'<div class="ev {kind}"><h5>{label}</h5><p class="mut small">None found.</p></div>'
     li = ''.join(f'<li><a href="{E(x.get("url") or "#")}" target="_blank" rel="noopener">{E(str(x.get("price","")))}</a> <span class="mut">{E(str(x.get("date","")))}, {E(str(x.get("venue","")))}</span>{age_flag(x.get("date")) if kind != "ask" else ""}<br><span class="small">{E((x.get("note") or "")[:260])}</span></li>' for x in items)
     return f'<div class="ev {kind}"><h5>{label}</h5><p class="small mut">{hint}</p><ul>{li}</ul></div>'
+EXT = {v['cdid']: v for v in (load(f'{W}/gowans{AID}_ext_result.json', {}) or {}).get('lots', [])}
+def ext_block(p):
+    x = EXT.get(p.get('cdid'))
+    if not x: return ''
+    km, fm = x.get('keep_max_hammer') or 0, x.get('flip_max_hammer') or 0
+    mx = ('keep $' + format(km, ',') if km else '') + (' / flip $' + format(fm, ',') if fm else '')
+    return f'<dt>Outside Gowans</dt><dd><b>{E(mx or "no max from outside sales")}</b> <span class="mut">{E(x.get("guide_summary") or "")}</span></dd>'
 def card(p, k):
     d = D[k]; rec = d['recs'].get(p['cdid'], {}); rf = d['refresh'].get(str(p['cdid']), {})
     bid = rf.get('current_bid') or rec.get('current_bid'); chk = rf.get('checked') or rec.get('checked'); bc = rf.get('bid_count', rec.get('bid_count'))
@@ -60,7 +67,7 @@ def card(p, k):
 <p class="what">{E(p['what_it_is'][:300])}</p><p><span class="pill {p['confidence'].lower()}">{E(p['confidence'])} confidence</span> <span class="pill low">score {p.get('market_score')}/10</span> {over}</p></div></div>
 <dl class="kv"><dt>Photo findings</dt><dd>{E((p.get('key_photo_findings') or '')[:400])}</dd><dt>Condition</dt><dd>{E((p.get('condition') or '')[:250])}</dd>
 <dt>Absentee bids so far</dt><dd>{rec.get('bid_count', 0)} <span class="mut">(amounts are not shown on this site)</span></dd><dt>Suggested max</dt><dd><b>{E(mx)}</b> <span class="mut">(all-in = hammer x 1.198)</span></dd>
-<dt>Market guide</dt><dd>{guide} <span class="mut">{E(p.get('guide_summary') or '')}</span></dd></dl>
+<dt>Market guide</dt><dd>{guide} <span class="mut">{E(p.get('guide_summary') or '')}</span></dd>{ext_block(p)}</dl>
 <div class="evs">{ev_list(p.get('sold', []), 'sold', 'Sold (price paid)', 'Only these set a maximum bid.')}{ev_list(p.get('unsold', []), 'unsold', 'Unsold (ceiling signal)', 'Did not sell. Not a value.')}{ev_list(p.get('asking', []), 'ask', 'Asking (not a price paid)', 'Optimistic. Never used for a max.')}</div>
 <details><summary>Working and confidence</summary><p class="small"><b>Why {E(p['confidence'])}:</b> {E(p.get('confidence_reason') or '')}</p><p class="small"><b>Dropped entries:</b> {E(p.get('dropped_entries') or 'none')}</p><p class="small"><b>Working:</b> {E(p['working'])}</p></details>{q}</article>'''
 
