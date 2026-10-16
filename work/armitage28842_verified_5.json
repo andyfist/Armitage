@@ -1,0 +1,213 @@
+{
+ "lots": [
+  {
+   "cdid": 3088852,
+   "lot": 1682,
+   "what_it_is": "Single hinged timber screen door, about 2m tall, stained/polished hardwood frame, flyscreen mesh in a rounded-corner panel with four fretwork corner brackets, vertical V-joint boarded lower panel, small brass latch. Federation or later reproduction style, no maker marks. Generic building salvage.",
+   "triage": "DROP",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$250 hammer (sale_price 25000 cents, 4 bids)",
+     "date": "listed 2026-07-26, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 426750 WOODEN DOOR WITH GLASS INSERTS",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wooden+door&page%5Bnumber%5D=1",
+     "aud_price": 250,
+     "note": "Kind SOLD, AUD, no conversion. same_item: category guide. Page opened (API JSON) and photo viewed: a white painted 15-light glazed French-style door, not a screen door. Hammer, premium extra. Upper-end category guide only."
+    },
+    {
+     "price": "$70 hammer (sale_price 7000, 3 bids)",
+     "date": "listed 2026-07-19, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 425577 TIMBER DOOR WITH GLASS PANELS",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=timber+door&page%5Bnumber%5D=1",
+     "aud_price": 70,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: modern veneer internal door with reeded glass slots. Not a screen door. Hammer, premium extra."
+    },
+    {
+     "price": "$80 hammer for 2 doors (sale_price 8000, 4 bids)",
+     "date": "listed 2026-09-06, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 436826 2 EXTERNAL SOLID WOODEN DOORS",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=doors&page%5Bnumber%5D=2",
+     "aud_price": 80,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON, found on page 2 of the doors search, not on the wooden door URL the researcher gave, which I corrected). About $40 a door, plain solid doors, no screen."
+    },
+    {
+     "price": "$45 hammer (sale_price 4500, 0 bids recorded)",
+     "date": "listed 2026-07-12, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 423717 SCREEN DOOR & FRAME",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=screen+door&page%5Bnumber%5D=1",
+     "aud_price": 45,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: modern metal security screen door with frame, not timber. Zero bid count with a price is odd."
+    },
+    {
+     "price": "$15 hammer (sale_price 1500, 3 bids)",
+     "date": "listed 2026-05-24, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 412530 MESH SCREEN DOOR - NO KEY",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=screen+door&page%5Bnumber%5D=1",
+     "aud_price": 15,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON). Metal security-type screen door. Other Gowans screen doors (security/aluminium, photos of 389569 and 425490 viewed) sold $5 to $65 hammer."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "Passed in, sale_price 0 with 6 bids, no reserve or last bid shown",
+     "date": "listed 2026-09-06",
+     "venue": "Gowans Auctions, Hobart, lot id 436795 PAIR OF ORNATE TIMBER DOORS WITH BRASS HANDLES",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=doors&page%5Bnumber%5D=1",
+     "aud_price": 0,
+     "note": "Kind UNSOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: pair of carved Asian-style hardwood doors, very different item. Weak ceiling signal only."
+    }
+   ],
+   "asking": [],
+   "guide_summary": "No same-item or close entries survive, so guide is 0 to 0. Category guide only: Gowans sold timber and glazed doors $40 to $250 hammer (4 sold), metal screen doors $5 to $65 hammer, and one pair of carved doors passed in. No asking prices verified. No currency conversion.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD entry is a timber fretwork screen door, so no same-item SOLD price to divide by 1.22 or 2.44. Both maximums 0. If bought anyway, category guide suggests plain old doors make $15 to $80 hammer in Tasmania.",
+   "confidence": "Low",
+   "condition": "Frame looks sound and square in photos, finish fair. Mesh present. Lower boards in photo 2 show dark vertical water staining or weathering on two boards. One fretwork bracket may be chipped (lower left in photo 2 looks rough). Hinges not shown.",
+   "key_photo_findings": "Two views. Rounded-corner screen panel with four pierced fretwork brackets, horizontal mid rail, small brass latch on the right in photo 1 and the left in photo 2 (same door photographed from both faces). V-joint lower boards. No maker or timber marks. Photo 2 shows dark staining on the lower boards. Size not given; reads about 2040 x 820mm, a standard size.",
+   "question_for_armitage": "What are the height and width, and is the mesh intact and the timber sound (no rot at the bottom rail)? Are hinges included?",
+   "confidence_reason": "Identification is clear, but there are no same-item sold results, only category-guide doors.",
+   "dropped_entries": "None dropped outright, but all five SOLD entries downgraded to category guide after viewing Gowans photos (glazed internal doors and metal security screens, none a timber fretwork screen door). Corrected the URL for the 2 EXTERNAL SOLID WOODEN DOORS entry (lot 436826 sits on page 2 of the doors search).",
+   "guide_low_aud": 0,
+   "guide_high_aud": 0
+  },
+  {
+   "cdid": 3088912,
+   "lot": 1742,
+   "what_it_is": "Round cast iron Britannia-pattern pub table: three legs with Britannia figure heads on the frieze, scroll fretwork apron, paw feet, pierced triangular under-shelf, painted black, weathered grey timber top. No foundry mark visible; age (Victorian or later reproduction) not determinable from the photo.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "GBP 151 incl buyer's premium, for two tables",
+     "date": "2024-10-02",
+     "venue": "Woolley & Wallis (UK), The Grange, Wendover, lot 461",
+     "url": "https://www.woolleyandwallis.co.uk/print-lot/?id=496026",
+     "aud_price": 289,
+     "note": "Kind SOLD. Rate GBP 1 = AUD 1.9168 (frankfurter.app, 2026-10-15). same_item: close. Page opened (curl). Late Victorian Britannia pattern pub table with wooden top, painted white with polychrome, sold together with a marble-top cast iron garden table, so about AUD 145 each incl premium. 14 days outside the 24-month window, so cannot set a maximum bid. Added by verifier."
+    },
+    {
+     "price": "GBP 50 hammer",
+     "date": "2024-08-30 (Friday session of the 28-30 Aug sale)",
+     "venue": "Ashley Waller (UK), lot 3201",
+     "url": "https://www.ashleywaller.co.uk/catalogue/lot/8f4e52133a218668c8aaed33046476c0/0ac7de88af80d8fdb74499bdbe7b03e3/three-day-auction-of-collectables-antiques-jewellery-lot-3201/",
+     "aud_price": 96,
+     "note": "Kind SOLD. Rate GBP 1 = AUD 1.9168. same_item: close. Page opened: copper topped pub table with Britannia style cast iron base, hammer GBP 50, status Closed, premium 22% to 25.6% extra. Outside 24 months."
+    },
+    {
+     "price": "GBP 40 hammer",
+     "date": "2024-03-20",
+     "venue": "Trevanion & Dean (UK), lot 919",
+     "url": "https://auctions.trevanion.com/catalogue/lot/49a9ebd81744e1eace1d421deeb1fc33/2cc667607fbd3d3eb630e9ca86b30ea4/the-march-fine-art-antique-auction-two-day-auction-lot-919/",
+     "aud_price": 77,
+     "note": "Kind SOLD. Rate GBP 1 = AUD 1.9168. same_item: close. Page opened: Victorian cast iron Britannia pub table, oval hardwood top, 73 x 82cm. Hammer GBP 40, premium extra. Outside 24 months."
+    },
+    {
+     "price": "$80 hammer (sale_price 8000, 5 bids)",
+     "date": "listed 2026-05-03, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 407393 CAST IRON TABLE",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cast%20iron%20table&page%5Bnumber%5D=1",
+     "aud_price": 80,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: white painted round cast iron garden table with pierced cast top, not a Britannia pub table. Tasmanian context only. Added by verifier."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "GBP 80-120 estimate",
+     "date": "2024-05-08 (past estimate, result hidden)",
+     "venue": "Elstob Auctioneers, Ripon (UK) via Invaluable, lot 657",
+     "url": "https://www.invaluable.com/auction-lot/a-cast-iron-britannia-pub-table-657-c-11c44cbb2e",
+     "aud_price": 192,
+     "note": "Kind ASKING (pre-sale estimate). Rate GBP 1 = AUD 1.9168, midpoint GBP 100 (range AUD 153 to 230). same_item: close. Page opened: cast iron Britannia pub table with circular wooden top, labelled, 77cm x 61cm. Result needs login, not seen."
+    },
+    {
+     "price": "AUD 100-200 estimate",
+     "date": "2024-08-29 (past estimate, result hidden)",
+     "venue": "Lawsons, Sydney via Invaluable, lot 1225",
+     "url": "https://www.invaluable.com/auction-lot/victorian-style-round-cast-iron-pub-table-with-ti-1225-c-7e741e9939",
+     "aud_price": 150,
+     "note": "Kind ASKING (pre-sale estimate). AUD. same_item: close (Victorian style, so likely reproduction, round with timber top, 77 x 65cm). Page opened, sale date confirmed on page. Result needs login, not seen."
+    }
+   ],
+   "guide_summary": "Close entries range AUD 77 to 230: three UK SOLD results AUD 77 to about 145 per table (all March to October 2024, so all outside the 24-month window), and two auction estimates (ASKING) AUD 100 to 230. No unsold. One Tasmanian category-guide sale (plain cast iron garden table $80 hammer). Rate GBP 1 = AUD 1.9168 (frankfurter.app, 15 Oct 2026). Dealer retail for restored genuine Victorian tables runs much higher but none had a verifiable price on the page.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "Only SOLD entries within 24 months of 2026-10-16 (on or after 2024-10-16) can set a maximum. The closest SOLD results are 2024-03-20, 2024-08-30 and 2024-10-02, all outside the window, and the only in-window Tasmanian sale is a different table. So keep and flip maximums are 0. For reference only: lowest close UK sale AUD 77 / 1.22 = 63, which would have been $60 hammer.",
+   "confidence": "Low",
+   "condition": "Base appears complete with all three legs, frieze and under-shelf; black paint with some wear, possible rust at the feet. Timber top heavily weathered grey and may be split or loose, needs refinishing or replacing. Age unknown.",
+   "key_photo_findings": "One photo only. Enlarged crop shows Britannia helmeted figure heads at the top of each leg, scroll fretwork apron, paw feet, pierced triangular under-shelf. No foundry name visible (Gaskell & Chambers or similar marks would be on the under-shelf or apron inside). Top is weathered bare timber, round, roughly 60cm diameter.",
+   "question_for_armitage": "Is there any foundry name cast on the base (under-shelf or inside the apron), and is the top solid and firmly fixed? Is the base cast iron (heavy) rather than cast aluminium?",
+   "confidence_reason": "Clear category identification, but all SOLD evidence is UK and more than 24 months old; age and maker unknown; only one photo.",
+   "dropped_entries": "Dropped the 1stDibs pair (page opened: no price shown, contact seller only; also cast iron tops, not timber). Dropped Pamono / Church Street (page opened: no price shown, Sold Out; it was a refurbished Gaskell & Chambers with new Sapele top). Dropped Etsy USD 546.90 (HTTP 403, snippet only, never verified). Corrected the researcher's assumed GBP rate of 2.00 to 1.9168, and confirmed the Elstob lot-to-house match and date (8 May 2024) on the page.",
+   "guide_low_aud": 77,
+   "guide_high_aud": 230
+  },
+  {
+   "cdid": 3088918,
+   "lot": 1748,
+   "what_it_is": "Garden fountain or bird bath top: seated cherub (boy with hand to mouth) on a scalloped shell basin with a small bird on the rim, grey weathered surface with white bloom, sitting in a cream concrete bowl on a black painted steel stand with a slatted timber bottom shelf. Material unconfirmed: the thin wavy shell rim and white oxide bloom suggest lead, but it could be cast stone or composite.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$90 hammer (sale_price 9000, 2 bids)",
+     "date": "listed 2025-10-27, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 371254 CHERUB BIRD BATH",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cherub%20bird%20bath&page%5Bnumber%5D=1",
+     "aud_price": 90,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: concrete standing cherub pedestal with a separate round concrete bowl. Ordinary concrete piece, worth less than a lead one."
+    },
+    {
+     "price": "$65 hammer (sale_price 6500, 8 bids)",
+     "date": "listed 2025-11-10, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 374400 CHERUB BIRD BATH",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cherub%20bird%20bath&page%5Bnumber%5D=1",
+     "aud_price": 65,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened, photo viewed: concrete cherub holding a bowl on its head. Concrete floor-level value."
+    },
+    {
+     "price": "$35 hammer (sale_price 3500, 3 bids)",
+     "date": "listed 2025-09-28, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 364489 CONCRETE CHERUB BIRD BATH",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cherub%20bird%20bath&page%5Bnumber%5D=1",
+     "aud_price": 35,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON). Concrete, titled as such."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "No bids, reserve not met (reserve and estimate not shown)",
+     "date": "2025-09-28",
+     "venue": "Badgers Auctions (UK), lot 299",
+     "url": "https://badgersauctions.com/?p=699892",
+     "aud_price": 0,
+     "note": "Kind UNSOLD. same_item: category guide (lead bird bath with bird on the rim, no cherub). Page opened. Shows plain lead bird baths do not always find buyers. No figure to convert."
+    }
+   ],
+   "asking": [
+    {
+     "price": "GBP 1,950 (dealer price, now marked Sold)",
+     "date": "undated listing, seen 2026-10-16",
+     "venue": "Chris Holmes Antiques via Decorative Collective (UK dealer)",
+     "url": "https://www.decorativecollective.com/product/chris-holmes-antiques/english-lead-cherub-fountain-c1890-b7n2u",
+     "aud_price": 3738,
+     "note": "Kind ASKING (dealer retail; a Sold tag is not a recorded price paid). Rate GBP 1 = AUD 1.9168. same_item: category guide. Page opened: 80cm English lead winged cupid lifting a scallop shell with a bird, early 20th century, historic repairs. Larger, older and better than lot 1748. Ceiling for genuine antique lead only."
+    }
+   ],
+   "guide_summary": "No same-item or close entries survive, so guide is 0 to 0. Category guide only: Gowans concrete cherub bird baths sold $35 to $90 hammer (3 sold); one UK lead bird bath unsold with no bids; one UK dealer asking GBP 1,950 (about AUD 3,738) for a much larger genuine lead cupid fountain. Rate GBP 1 = AUD 1.9168 (frankfurter.app, 15 Oct 2026).",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD entry is the same item (a lead or cast cherub on shell). The Gowans sales are concrete category guides only, so both maximums are 0. If it proves to be concrete or composite, Tasmanian results point to about $35 to $90 hammer; if old lead, value could be several hundred dollars but no sold evidence supports a figure.",
+   "confidence": "Low",
+   "condition": "Dirty, with soil and lichen in the shell bowl, white bloom on the surface. Shell rim wavy and possibly slightly bent. Figure appears intact. Steel stand painted black with rust; timber shelf weathered. Cream concrete bowl underneath, possibly a separate piece.",
+   "key_photo_findings": "Two photos. Enlarged crop shows a thin, flared scalloped shell rim (thin edges are more typical of lead than concrete), whitish oxide bloom, a small bird modelled on the right rim, the boy seated with a finger to his mouth. No foundry mark or signature visible. A pipe hole or fountain spout not visible. The stand is a modern welded steel frame.",
+   "question_for_armitage": "Is the cherub and shell lead (very heavy, soft, a fingernail leaves a mark) or concrete/composite? Is there any maker's mark underneath, a fountain pipe, and are the shell, the concrete bowl and the stand one lot?",
+   "confidence_reason": "Material is not confirmed from photos, which decides the value; no same-item sold evidence.",
+   "dropped_entries": "Dropped Gowans lot 400496 SHELL AND ANGEL WATER FOUNTAIN $5 (page opened, photo viewed: a boxed modern resin conch-shell pump fountain, not comparable). Dropped Gowans 397767 mixed garden lot $75 (not a like item, context only). Downgraded the Badgers unsold lead bird bath from close to category guide (no cherub). Corrected GBP rate from assumed 2.00 to 1.9168.",
+   "guide_low_aud": 0,
+   "guide_high_aud": 0
+  }
+ ]
+}
