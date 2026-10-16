@@ -1,0 +1,207 @@
+{
+ "lots": [
+  {
+   "cdid": 3088569,
+   "lot": 1399,
+   "what_it_is": "Paslode Impulse cordless gas framing nailer, 30 degree, lithium generation (label on the gun reads 'Li-ion + Fuel', so IM360Ci-type, not the older NiMH IM350), in orange case with a spare battery, battery in the gun, orange charging cradle and plug-pack. Used, dusty, untested.",
+   "triage": "KEEP",
+   "market_score": 5,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$80 hammer (sale_price 8000 cents), 9 bids",
+     "currency": "AUD",
+     "aud_price": 80,
+     "date": "listed 2026-07-19 (sale about a week later)",
+     "venue": "Gowans Auctions, Hobart (lot id 425312, PASLODE NAIL GUN - 318338)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=paslode&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON read and lot photo viewed): same orange case and same 30 degree Li-ion style framer with manual; battery and charger not clearly shown, so possibly a weaker kit than ours. Hammer, premium extra. No conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$110 hammer (sale_price 11000 cents), 5 bids",
+     "currency": "AUD",
+     "aud_price": 110,
+     "date": "listed 2026-09-06",
+     "venue": "Gowans Auctions, Hobart (lot id 436397, PASLODE IMPULSE NAIL GUN)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=impulse&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened (API JSON read and photo viewed): older-generation Impulse framer with NiMH-style battery and charger in case. Older model than ours, kit similar. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$560 hammer for two guns (sale_price 56000 cents), 19 bids",
+     "currency": "AUD",
+     "aud_price": 560,
+     "date": "listed 2025-12-01",
+     "venue": "Gowans Auctions, Hobart (lot id 379535, 2 PASLODE NAIL GUNS)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=paslode&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened (API JSON and photo): two complete Li-ion kits (framer and finish nailer) with cells and chargers, tidy. About $280 per gun, but better kits than ours. Not used for maximum bids."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$520 hammer for two guns plus nails (sale_price 52000 cents), 15 bids",
+     "currency": "AUD",
+     "aud_price": 520,
+     "date": "listed 2026-09-27",
+     "venue": "Gowans Auctions, Hobart (lot id 441381, 2 PASLODE NAIL GUNS INCL NAILS)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=paslode&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened (API JSON and photo): two guns with chargers plus a box of nails. Per-gun guide only, not used for maximum bids."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$55 hammer (sale_price 5500 cents), 2 bids",
+     "currency": "AUD",
+     "aud_price": 55,
+     "date": "listed 2025-10-27",
+     "venue": "Gowans Auctions, Hobart (lot id 371447, PASLODE NAIL GUN IN CASE - NO BATTERY)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=paslode&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened (photo viewed): this is a Paslode finish nailer, not a framer, and no battery. Researcher filed it as close; downgraded to category guide."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 80,
+   "guide_high_aud": 110,
+   "guide_summary": "All sold, all Gowans hammer prices in AUD: same or close single framers $80 to $110 (2 sales, Jul and Sep 2026). Two-gun lots made $520 to $560 (about $260 to $280 per gun) but were complete, tidier kits. No unsold or asking evidence survived.",
+   "flip_max_hammer": 35,
+   "keep_max_hammer": 65,
+   "working": "Keep: lowest same-item SOLD $80 / 1.22 = 65.57, rounded down to $65. Flip: likely resale about $95 (between the $80 and $110 Tasmanian results), less about 10% selling fee ($9.50) and $0 postage (local pickup sale) = $85.50 / 2.44 = 35.04, rounded down to $35. A $35 hammer is unlikely to win given recent results, so KEEP only.",
+   "confidence": "Medium",
+   "confidence_reason": "'Li-ion + Fuel' label read and the 30 degree marking seen, plus 2 opened Gowans SOLD records with photos, but one is the older model and neither shows full kit contents or condition; tool untested.",
+   "dropped_entries": "Data Power Tools UK IM360Ci GBP 539.99: page returns HTTP 404, and it was new retail, dropped. eBay Bankstown IM250S AUD 200: no URL, eBay is closed to us, finish nailer not framer, dropped. Gowans 371447 kept but moved from close to category guide (photo shows a finish nailer). Gowans 379496 (Paslode guns and work bag $600) not kept: a finish nailer and a framer in other cases, adds nothing beyond 379535.",
+   "key_photo_findings": "Gun label reads 'Li-ion + Fuel' with Paslode branding and '30' degree magazine marking. One black Li-ion battery loose in the case, a second fitted to the gun, orange charging cradle and black plug-pack lead. Case lid has the instruction decal and a plastic bag (possibly manual). No gas fuel cell visible. Dust and grime throughout, normal wear.",
+   "condition": "Used, dirty, untested; complete-looking kit (gun, two batteries, charger) but no fuel cell seen and battery health unknown.",
+   "question_for_armitage": "Does the gun fire or at least fan and spark when a battery is fitted? Do both batteries take a charge on the supplied charger? Is a gas fuel cell included, and what model number is on the gun's plate (IM360Ci)?"
+  },
+  {
+   "cdid": 3088575,
+   "lot": 1405,
+   "what_it_is": "Mixed Swiss-outline HO model railway lot, about 9 pieces: boxed Fleischmann SBB CFF Re 4/4 II electric loco in green (older yellow and red Fleischmann box, likely the 4340 series), an unboxed green SBB CFF baggage railcar in a blue foam tray (maker not read), Lima boxed brown wagon, two D+R boxed Furka-Oberalp coaches (box reads 'HOm Modellbahn 1:87', metre gauge, needs HOm track), a Liliput boxed wagon, an AHM-style box with a dark green baggage car, and a Tilsiter Switzerland promotional piece in a window box. Running condition unknown.",
+   "triage": "NEAR MISS",
+   "market_score": 5,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$60 hammer (sale_price 6000 cents), 2 bids",
+     "currency": "AUD",
+     "aud_price": 60,
+     "date": "listed 2026-02-01",
+     "venue": "Gowans Auctions, Hobart (lot id 387627, BOXED FLEISCHMANN TRAIN SET)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=fleischmann&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened (photos viewed): Fleischmann 'Die alten Preussen' boxed goods train set with steam loco and wagons, German outline. Shows boxed Fleischmann HO selling cheaply in Tasmania. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$120 hammer (sale_price 12000 cents), 4 bids",
+     "currency": "AUD",
+     "aud_price": 120,
+     "date": "listed 2025-11-24",
+     "venue": "Gowans Auctions, Hobart (lot id 377154, ROCO BR 58 LOCOMOTIVE)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=locomotive&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened (photo viewed): boxed Roco BR 58 steam loco with paperwork, German outline. Single continental HO loco. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$100 hammer (sale_price 10000 cents), 2 bids",
+     "currency": "AUD",
+     "aud_price": 100,
+     "date": "listed 2025-11-17",
+     "venue": "Gowans Auctions, Hobart (lot id 375402, LILIPUT DAMPFLOK LOCO)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=liliput&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened (photo viewed): boxed Liliput (Bachmann era) steam loco. Single continental HO loco, not Swiss. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$70 hammer (sale_price 7000 cents), 2 bids",
+     "currency": "AUD",
+     "aud_price": 70,
+     "date": "listed 2025-10-06",
+     "venue": "Gowans Auctions, Hobart (lot id 366028, 4 LIMA CARRIAGES - 1 MISSING COUPLING)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=lima&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "API JSON read, title only, photo not checked in detail. Lima rolling stock, 4 carriages. Researcher said close; downgraded to category guide (no Swiss content known). Hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "CHF 59 start price (used, boxed, tested per snippet)",
+     "currency": "CHF",
+     "aud_price": 103,
+     "date": "live, seen 2026-10-16 (per researcher snippet)",
+     "venue": "Ricardo.ch",
+     "url": "https://www.ricardo.ch/fr/a/fleischmann-4340-sbb-re-4-4'-gruen-dc-h0-1326048290/",
+     "same_item": "yes",
+     "note": "Snippet only, lead only: page returned HTTP 403 captcha, so price not verified. Same green Fleischmann 4340 Re 4/4 as the boxed loco in this lot. Start price, not a price paid. Rate 1 CHF = 1.743 AUD (Frankfurter/ECB, 15 Oct 2026)."
+    }
+   ],
+   "guide_low_aud": 60,
+   "guide_high_aud": 120,
+   "guide_summary": "No same-item sales. Four Tasmanian category-guide SOLD hammers for continental HO (single boxed locos $100 to $120, a boxed Fleischmann set $60, Lima carriages $70). One snippet-only Swiss asking start price for the same Fleischmann Re 4/4 at about AUD 103 (unverified). Range shown is the category-guide sold range; the whole lot of 9 pieces may total more.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD evidence, so no maximum bids. As a rough sense check only: Tasmanian continental HO single locos make $100 to $120 hammer and boxed rolling stock far less; the D+R HOm coaches are metre gauge and suit a narrower buyer pool.",
+   "confidence": "Low",
+   "confidence_reason": "Rests on category-guide sold results and one snippet-only asking price; railcar and promotional piece makers not read; running condition unknown.",
+   "dropped_entries": "Gowans 377677 LIMA DMU ENGINE & CARRIAGE $60, 367445 BOX INCL MODEL RAILWAY LOCO & CARRIAGES $50, 377122 F3A LOCOMOTIVE - HO $55, and the train bag of carriages at $26: generic, not Swiss, scale or content unknown, dropped as not comparable. Ricardo Fleischmann 4341 TEE Re 4/4 CHF 379/399: page 403, snippet only, different rare livery in new condition, dropped. eBay.de Fleischmann 4370 Ae 6/6 about GBP 110: eBay closed to us, snippet only, different loco in NOS condition, dropped.",
+   "key_photo_findings": "Fleischmann box (yellow and red) with green SBB CFF Re 4/4 visible through window. Unboxed green SBB CFF baggage railcar with pantograph in blue foam tray, '2' class marking. D+R boxes read 'HOm Modellbahn 1:87' and 'D+R Pr\u00e4zisions-Modelle', red Furka-Oberalp coaches. Lima box with brown hopper wagon. Liliput box with brown van. AHM-style patterned box holds a dark green baggage car. Tilsiter Switzerland promotional piece in a window box. Price stickers on several boxes. Boxes are shelf-worn; no couplings or pantograph damage obvious at this resolution.",
+   "condition": "Used, mostly boxed, shelf-worn boxes; running condition and completeness of the unboxed railcar unknown.",
+   "question_for_armitage": "Can the Fleischmann loco and the green railcar be checked for makers' marks and whether they run? Is it AC (Marklin-style) or DC? Are the D+R Furka-Oberalp coaches metre gauge HOm as boxed, and is anything broken (pantographs, couplings)?"
+  },
+  {
+   "cdid": 3088582,
+   "lot": 1412,
+   "what_it_is": "Early 20th century electric desk fan, six brass blades, wire cage, black cast iron trumpet base. Hub badge appears to carry a script monogram consistent with General Electric (GE), but it is not clearly legible at this resolution. With a nickel-plated tapered metal horn or cone with a strap handle (purpose not identified). Untested.",
+   "triage": "BOTH",
+   "market_score": 7,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$260 hammer (sale_price 26000 cents), 15 bids",
+     "currency": "AUD",
+     "aud_price": 260,
+     "date": "listed 2026-07-05",
+     "venue": "Gowans Auctions, Hobart (lot id 422058, GENERAL ELECTRIC FAN)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=general%20electric%20fan&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened (API JSON read and lot photo viewed): GE brass desk fan with four brass blades, GE monogram hub, wire cage, dark cast base, shiny and apparently tidy. Ours has six blades (usually earlier and at least as desirable) but duller and of unconfirmed maker. Hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "US$395",
+     "currency": "USD",
+     "aud_price": 572,
+     "date": "live, seen 2026-10-16",
+     "venue": "Flying Tiger Antiques (US dealer)",
+     "url": "https://www.flyingtigerantiques.com/great-old-1920s-general-electric-original-brass-fan-with-new-cord.html",
+     "same_item": "close",
+     "note": "Page opened: 1920s GE 13 inch fan with four brass blades, new cord, beautiful condition, in stock. Dealer retail asking, not a price paid. Rate 1 USD = 1.447 AUD (Frankfurter/ECB, 15 Oct 2026)."
+    }
+   ],
+   "guide_low_aud": 260,
+   "guide_high_aud": 572,
+   "guide_summary": "One close Tasmanian SOLD hammer ($260, GE four-blade brass fan, Jul 2026) and one US dealer asking price (about AUD 572, restored-cord GE four-blade). No unsold evidence. No six-blade sale found.",
+   "flip_max_hammer": 90,
+   "keep_max_hammer": 210,
+   "working": "Keep: lowest close SOLD $260 / 1.22 = 213.1, rounded down to $210. Flip: likely resale $260 hammer at a Tasmanian auction, less about 15% seller commission ($39) and $0 postage (local) = $221 / 2.44 = 90.57, rounded down to $90. Both rest on a single sale of a four-blade GE, so treat as soft caps.",
+   "confidence": "Low",
+   "confidence_reason": "Only one SOLD comparable and it is close, not identical (four blades vs six); hub mark not clearly read so maker unconfirmed; untested and wiring condition unknown.",
+   "dropped_entries": "Gowans 371156 LARGE VINTAGE FAN $10: photo shows a Chinese paper hand fan, not electric (researcher also had the price wrong as $50), dropped. Gowans 382660 VINTAGE RETRO FAN $50: photo shows a 1950s Revelair steel-blade fan, not comparable, dropped. Gowans 378991 ART DECO REVELAIR DESK FAN $35 and 400900 VINTAGE FAN & QTY OF COLLECTABLES $30: later steel fans or mixed lot, not comparable, dropped. 1stDibs US$1,836: snippet only from a category page, restored designer retail, dropped.",
+   "key_photo_findings": "Six brass blades riveted to spider arms, brass hub badge with an embossed circular script monogram (looks like GE but blurred). Wire cage with front guard wires, cage mounting clips present. Black cast iron flared base; motor housing partly hidden. Blades dull with patina, possible slight bends, no obvious missing blades. Cord not visible in photos. Separate nickel-plated tapered cone with a riveted strap handle and a threaded fitting at the wide end, some rust and wear.",
+   "condition": "Original patina, untested, cord and wiring not seen; cage and blades complete as far as visible.",
+   "question_for_armitage": "What maker and model are on the motor plate or badge (General Electric, Emerson, etc.), and what blade diameter? Does it have a cord and has it been tested or rewired? Any cracked or bent blades? What is the nickel-plated cone?"
+  }
+ ]
+}
