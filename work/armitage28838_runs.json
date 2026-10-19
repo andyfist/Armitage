@@ -1,0 +1,57 @@
+{
+ "chid": "28838",
+ "key": "a8",
+ "started": "19/10/2026 16:15 AEDT",
+ "note": "split into 8 workflows of 5 batches because this container has 4 CPUs (2 agents per workflow); merge the 8 results into armitage28838_result.json",
+ "runs": {
+  "p1": {
+   "task": "w0dwnj2ao",
+   "run": "wf_6c3fc591-b70",
+   "resumed": true,
+   "args": "armitage28838_wfargs_p1.json",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_6c3fc591-b70/journal.jsonl"
+  },
+  "p2": {
+   "task": "wfw50c1x4",
+   "run": "wf_1a9e60ca-cdc",
+   "args": "armitage28838_wfargs_p2.json",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_1a9e60ca-cdc/journal.jsonl"
+  },
+  "p3": {
+   "task": "wxv02i0ly",
+   "run": "wf_4b20c8f2-d61",
+   "args": "armitage28838_wfargs_p3.json",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_4b20c8f2-d61/journal.jsonl"
+  },
+  "p4": {
+   "task": "wrf2ehnc1",
+   "run": "wf_28039263-46b",
+   "args": "armitage28838_wfargs_p4.json",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_28039263-46b/journal.jsonl"
+  },
+  "p5": {
+   "task": "we4k8xfcs",
+   "run": "wf_98f0f38a-7d5",
+   "args": "armitage28838_wfargs_p5.json",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_98f0f38a-7d5/journal.jsonl"
+  },
+  "p6": {
+   "task": "w6hgmt27a",
+   "run": "wf_c5343a79-a12",
+   "args": "armitage28838_wfargs_p6.json",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_c5343a79-a12/journal.jsonl"
+  },
+  "p7": {
+   "task": "wun5f05pu",
+   "run": "wf_fb9b540c-27e",
+   "args": "armitage28838_wfargs_p7.json",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_fb9b540c-27e/journal.jsonl"
+  },
+  "p8": {
+   "task": "wy4wqnxkg",
+   "run": "wf_7b983c9e-14e",
+   "args": "armitage28838_wfargs_p8.json",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_7b983c9e-14e/journal.jsonl"
+  }
+ }
+}
