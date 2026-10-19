@@ -16,7 +16,7 @@ V, finished, unfinished = {}, [], []
 for k in R['active']:
     ev = events(runs[k]['journal'])
     starts = {e['key']: e for e in ev if e.get('type') == 'started'}
-    done = any(e.get('type') not in ('launched', 'started', 'result') for e in ev)
+    done = k in R.get('completed', [])   # completion comes from the workflow task notifications, recorded in the runs file
     (finished if done else unfinished).append(k)
     for e in ev:
         if e.get('type') != 'result': continue
