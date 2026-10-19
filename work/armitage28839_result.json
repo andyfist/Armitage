@@ -473,7 +473,9 @@
    "dropped_entries": "Catawiki 105424859 (UNSOLD): page returned HTTP 403, snippet only, no price, and a lower K SI2 stone in 14k. Dropped; it could only ever be a lead. Allurez 4093703 (ASKING): page opened but it shows no price (price field 0), it is a loose stone not a ring, and the claimed currency is unclear. Dropped. Fields.ie Kathy de Stafford ring (ASKING): page opened and EUR 2,400 confirmed, but it is a NEW earth-grown halo and baguette ring of 1.00ct TOTAL weight with an IGI cert, not a 1ct solitaire. Dropped as not the same item. Costco Australia 1495077 (ASKING): page opened, the price is now AUD 9,999.99, not the 12,849.99 the researcher claimed, and it is new retail with grades unknown. Dropped for price mismatch and not comparable. 1stDibs Michael Hill bypass channel ring (ASKING): page opened, the AUD offer is 4,226.09, not 2,162, and it is a 1.00ct total channel-set ring of smaller stones. Dropped for price mismatch and not the same item. The unlinked Australian auction snippets the researcher mentioned had no URL or date, were never entries, and stay out. WebSearch was out of budget during this check (limit reached), so no further sold search was possible.",
    "key_photo_findings": "Photos 1-2: yellow gold band with a white gold four-claw (V-corner) head holding a single princess cut stone, in a purple Michael Hill style box. Looks clean and bright with no visible damage. Photos 3-4: Michael Hill certificate of authenticity, stock code 11339731, 18ct Y&WG princess solitaire, no less than 1.00ct, I colour and I2 or better, hallmark 750/michael hill/1.00, purchased 22 Aug 2015, retail $8,999. Photo 5: ADGL report H22439 dated 25/11/2011: princess, 1.04ct, about 5.19 x 5.40 mm, depth 80.5%, table 70.9%, colour H, clarity I1, inscribed ADGL H22439 & michael hill. Cut proportion is GOOD; the researcher's VG/VG is symmetry and polish only. The shank hallmark and girdle inscription are not shown.",
    "condition": "Looks very good in the photos: claws intact, no obvious wear. Shank hallmark and girdle inscription not seen. I1 clarity means inclusions may be visible to the eye.",
-   "question_for_armitage": "Can you confirm the shank is hallmarked 750 / michael hill / 1.00? Can the girdle inscription ADGL H22439 be seen under a loupe, so the report matches the stone? Are all the claws tight, are there any chips to the corners of the stone, and what does the ring weigh? Is the 'valuation' in the description just the Michael Hill certificate, or is there a separate insurance valuation?"
+   "question_for_armitage": "Can you confirm the shank is hallmarked 750 / michael hill / 1.00? Can the girdle inscription ADGL H22439 be seen under a loupe, so the report matches the stone? Are all the claws tight, are there any chips to the corners of the stone, and what does the ring weigh? Is the 'valuation' in the description just the Michael Hill certificate, or is there a separate insurance valuation?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088330,
@@ -584,7 +586,9 @@
    "dropped_entries": "Gowans 391711 (3 scrap gold items incl 9ct bangle, 17.4g, $1,200): confirmed in the API but left out as a mixed scrap lot, not the same item. Lawsons via Invaluable 'antique 9ct gold-lined bangle' (filed by the researcher as ASKING with an estimate midpoint): snippet only, and a gold-lined (base metal) hinged bangle, not the same item. An estimate on a sold lot is neither an asking price nor a price paid. Dropped, but it is a useful warning about lined bangles. eBay.de 167888973422 (ASKING AU$2,924.96): eBay is closed to us, snippet only, title and weight not seen. Dropped. The researcher's URLs were search URLs with lot ids in brackets; I replaced them with the individual lot record URLs I opened.",
    "key_photo_findings": "Single photo. Plain flat-section bangle, even width, slightly bevelled edges, no hinge or clasp, so a slip-on. An enlarged crop of the inner face shows a small but legible '375' stamp. A faint second mark just above it may be a maker's mark but cannot be read. No 'gold lined', 'RG' or '1/5' type mark visible. Light general surface scratching; the colour is even and no base metal shows at the edges.",
    "condition": "Good used: light surface wear and scratches, no dents or splits visible in the one photo. Weight and solidity cannot be checked from the photo.",
-   "question_for_armitage": "Can you confirm the 34.8g weight on scales, and that the bangle is solid 9ct (not gold-lined or filled)? Are there any marks besides the 375 stamp, and any dents, splits or solder repairs?"
+   "question_for_armitage": "Can you confirm the 34.8g weight on scales, and that the bangle is solid 9ct (not gold-lined or filled)? Are there any marks besides the 375 stamp, and any dents, splits or solder repairs?",
+   "keep_max_24m": 1330,
+   "flip_max_24m": 735
   },
   {
    "cdid": 3088128,
@@ -651,7 +655,9 @@
    "dropped_entries": "Antiquariat Rainer Schlicht 32172835511 (US$1,153.07): page opened and price confirmed, but it is the leather-bound deluxe issue in leather-edged slipcases, inscribed to the printer Gerhard Lohse. That is a different and dearer issue, so dropped as not the same item. Antiquariat Blaeschke 1078407835 (US$101.47): Part 1 only, not the set. Dropped. Gowans 444122 'BOOK - THE ENDEMIC FLORA OF TASMANIA' ($150, 10 bids): API record opened, no description. It was listed on 2026-10-11, so it is in the current Gowans sale and the $150 is a live bid, not a result. It is also unknown whether it is one volume or six. Dropped and kept only as a lead: check its final result once the Gowans sale closes.",
    "key_photo_findings": "Photos 1-2: all six volumes present, spines lettered Part I to Part VI, The Ariel Press, white pictorial dust jackets, clean with light shelf wear. A handwritten sticker on Part I seems to say 'Signed'. Photo 3: flyleaf signed 'Talbot de Malahide 20.x.67' in blue ink (a signature and date, not a dedication). Photo 4: Part I title page, Ariel Press London. Photo 5: Publisher's note naming Lord Talbot de Malahide as sponsor. Photo 6: a text and colour plate spread, clean with no foxing visible. Photo 7: newspaper clipping about Lord Talbot's legacy included.",
    "condition": "Looks very good: complete, jackets present and fairly clean, plates bright where shown. Jacket edges, spines and any foxing in the other volumes are not shown.",
-   "question_for_armitage": "Are all six dust jackets present and free of tears? Is there any foxing, water marks or loose plates in any volume? Is the Talbot de Malahide signature only in Part I?"
+   "question_for_armitage": "Are all six dust jackets present and free of tears? Is there any foxing, water marks or loose plates in any volume? Is the Talbot de Malahide signature only in Part I?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088318,
@@ -714,7 +720,9 @@
    "dropped_entries": "Dropped: Gowans 9ct rose gold wristwatch plus Elgin pocket watch (A$180, mixed lot, not comparable). Barnebys 'Up Down' 18kt lever US$5,891, Lyon & Turnbull US$3,727 and Viner & Co US$5,367: snippet only, not on the opened Barnebys pages, unverified. Researcher's Barnebys US$5,226 entry kept but corrected: it is dated 2026-10-13 at Easylive Auction and the watch is 97.3g plus a 19.2g 18ct chain, so it is not undated. Cheffins James McCabe hunter via Invaluable (2024-11-21): page opened, est GBP 1,500-2,500, last visible bid GBP 1,200, price hidden behind a login and isPassed=false, so it is neither a confirmed sale nor a confirmed pass-in. Dropped as not verifiable. 1stDibs verge fusee GBP 4,500: no price visible on the opened page, and an 1807 verge is a different item. Dropped.",
    "key_photo_findings": "Enlarged: the front cover has a window with blue enamel Roman numerals, so this is a HALF hunter, not a full hunter as the researcher said. Keyless pendant crown. Dial signed in two words joined by '&' over LONDON, too blurred to read. Movement plate engraved with a name over 'London', gilt three-quarter plate, blued screws, English lever. Crest on back cover. No hallmark visible in any of the 4 photos. The gold colour is consistent with 18ct but does not prove it.",
    "condition": "Looks good in the photos: dial appears clean with no obvious hairlines, hands present, case shows light wear only. Running condition, dents and hinge function unknown.",
-   "question_for_armitage": "Can you confirm the hallmarks inside the case backs (18 with crown or 0.750, assay office and date letter), the total weight in grams of the watch and of the attached chain section, the case diameter, the maker's name on the movement, and whether it winds and runs?"
+   "question_for_armitage": "Can you confirm the hallmarks inside the case backs (18 with crown or 0.750, assay office and date letter), the total weight in grams of the watch and of the attached chain section, the case diameter, the maker's name on the movement, and whether it winds and runs?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088348,
@@ -785,7 +793,9 @@
    "dropped_entries": "Dropped: Antique Jewellery Company Victorian 15ct oval cufflinks (page opened, no price shown, so it gives no value). Beladora Edwardian diamond and sapphire cufflinks, platinum over 14k, US$1,150 marked Sold on the opened page: a dealer retail price for a different, better item, not an auction price paid and not comparable. Dropped.",
    "key_photo_findings": "Enlarged backs: both panels stamped '15C' in a raised rectangular cartouche, plus a small maker's or pictorial mark near the base of each (not legible). Fronts: a single round blue stone in a star-cut setting on each, shields appear unworn, reeded torpedo/ball bars, belcher-type chains intact.",
    "condition": "Appears good: stones present, chains and bars intact, light surface wear. Stones not tested.",
-   "question_for_armitage": "What is the total weight in grams? Is the maker's mark next to the 15C legible, and are the chains and bars all 15ct (or base metal or 9ct)?"
+   "question_for_armitage": "What is the total weight in grams? Is the maker's mark next to the 15C legible, and are the chains and bars all 15ct (or base metal or 9ct)?",
+   "keep_max_24m": 490,
+   "flip_max_24m": 205
   },
   {
    "cdid": 3088087,
@@ -881,7 +891,9 @@
    "dropped_entries": "Dropped: The Silver Lady Antiques US$129 knife: page opened but no price appears in the page text, so it is a snippet-only price and unverified. Researcher's fork count of about 8 corrected to 7 from the photos. Gowans URLs corrected from gowansauctions.com (connection refused) to gowansauctions.com.au, where the same records were confirmed. Case Antiques entry upgraded from snippet only to page opened (Jan 2021, premium included). Toomey upgraded to page opened. All of these are kept only as category guides.",
    "key_photo_findings": "12 knives with hollow repousse floral handles; blades stamped S. KIRK & SON INC. and STAINLESS (enlarged photo 4). 7 forks with repousse handles, backs stamped with a Kirk sterling mark (partly legible, 'S. KIRK & SON ... STERLING'). Handle tones vary, with some knives more heavily tarnished. Fork sizes look uniform, luncheon or dinner size.",
    "condition": "Used and tarnished, no obvious bends in the photos; blades show light wear. Hollow handles may have dents or loose blades that cannot be seen in the photos.",
-   "question_for_armitage": "Can you confirm the count (12 knives and 7 forks?), the total weight of the forks only, the fork length, and whether any knife handles are dented, split or have loose blades?"
+   "question_for_armitage": "Can you confirm the count (12 knives and 7 forks?), the total weight of the forks only, the fork length, and whether any knife handles are dented, split or have loose blades?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088347,
@@ -952,7 +964,9 @@
    "dropped_entries": "Dropped 375269 (timber box of badges including a pair of 9ct cufflinks, $260): a mixed lot, so the cufflinks cannot be priced on their own. A fresh Gowans search for 9ct cufflinks also found 402955 (15ct and opal pair, 14.3g, $1000), but it is a different metal and kind, so it was not used.",
    "key_photo_findings": "Enlarged photo 2: the rectangular pair is stamped '9ct' (clear on one link, partly struck on the other). The shield pair is stamped '9ct' followed by a short word or maker mark, partly legible. All four links have their chains and ball ends. The engraved monograms on the shields are rubbed.",
    "condition": "Light wear. Engraving and monograms rubbed, no obvious breaks, chains and ball ends present. Weight unknown.",
-   "question_for_armitage": "What is the total weight in grams of the two pairs? Can you confirm the shield pair is stamped 9ct, and what does the second mark read? Are there any repairs, solder or base-metal chains?"
+   "question_for_armitage": "What is the total weight in grams of the two pairs? Can you confirm the shield pair is stamped 9ct, and what does the second mark read? Are there any repairs, solder or base-metal chains?",
+   "keep_max_24m": 260,
+   "flip_max_24m": 150
   },
   {
    "cdid": 3088075,
@@ -1032,7 +1046,9 @@
    "dropped_entries": "Dropped Gowans 363552 (2 Nao figures and a Lladro goose, $60): a mixed lot. Dropped Gowans 400128 (2 Nao by Lladro ducks, $25): Nao is a different, cheaper line. Neither is a clean Lladro price. Dropped the Gowans 'about 25 Lladro lots, median $35' entry: a search list, not a single sale (one result from it, 383965, is kept as a category guide). Dropped LiveAuctioneers 237151453 (lot of 3 including a 4510 with the umbrella MISSING, US$200 to $500 estimate): the page came back empty, the result is unknown and the condition is not comparable. Dropped eBay UK 317018034703 (GBP 22): eBay is closed to us and the snippet said no final price was shown, so it is neither a sale nor verifiable. Moved Gowans 435749 from close to category guide after viewing its photo (different model).",
    "key_photo_findings": "Three photos. The girl has a grey umbrella, headscarf and basket of flowers, with a goose and goslings on a green base; matches Lladro 4510 by sight. The small piece is a white duck beside a woven basket of four ducklings under a lilac-grey cloth; matches Lladro 4895 Ducklings. No bases or backstamps shown. Umbrella and goose necks look intact.",
    "condition": "No chips, cracks or restorations visible in the photos; umbrella intact. Bases not shown.",
-   "question_for_armitage": "Please check the bases for the Lladro backstamp (the blue Lladro mark, not Nao). Please also look closely at the umbrella spokes and edge, the goose necks, the goslings' beaks and the ducklings for chips or restoration."
+   "question_for_armitage": "Please check the bases for the Lladro backstamp (the blue Lladro mark, not Nao). Please also look closely at the umbrella spokes and edge, the goose necks, the goslings' beaks and the ducklings for chips or restoration.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088129,
@@ -1104,7 +1120,9 @@
    "dropped_entries": "Dropped as a comparable: My Whisky Journeys Lawrenny Ascension at A$350. The price was confirmed in the store's product JSON, but it is a different, higher-tier limited release, so it only marks a ceiling for the brand. The web search session cap was reached, so no further Armitage or Australian auction searches were possible.",
    "key_photo_findings": "Photo 1: bottle in its open box. The label reads LAWRENNY TASMANIAN, CELLAR COLLECTION, SALAMANCA, 500ml, 46%, BOURBON. Capsule and seal look intact and the fill reaches the shoulder (full). Photo 2: the slate-green Lawrenny Cellar Collection box, clean.",
    "condition": "Appears sealed and full, box clean. No bottle number visible in the photos.",
-   "question_for_armitage": "Is the seal intact and is the fill level at the neck? Is there a bottle number on the label or box?"
+   "question_for_armitage": "Is the seal intact and is the fill level at the neck? Is there a bottle number on the label or box?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088169,
@@ -1160,7 +1178,9 @@
    "dropped_entries": "Barnebys 'pair of Royal Doulton Art Nouveau stoneware vases, US$81': page opened, no such result shown (the closest were unrelated US$33 and US$26 lots). Carters price guide: HTTP 429 and no single price. Gowans 400162 Doulton Burslem Morrisian vase, $30: Burslem earthenware from a different factory and body, not comparable. Seaway moved from close to category guide (named artist).",
    "key_photo_findings": "Front view: well-proportioned baluster vase with crisp incised or tube-lined outlines and an even gloss glaze. No chip or crack is visible in the single front view. Base: impressed Royal Doulton lion, crown and circle ENGLAND stoneware mark, incised script numerals, impressed M in a shield outline (assistant mark), a painted black bar and letter, and a worn gilt/ochre smudge (probably an old label or paint residue). The back and rim interior are not shown.",
    "condition": "Looks good from the front. The back, rim and foot are not fully shown, so chips, hairlines or restoration cannot be ruled out.",
-   "question_for_armitage": "What is the height? Are there any chips, hairlines or restoration to the rim, foot or back? Is there a decorator signature or monogram on the base besides the impressed M?"
+   "question_for_armitage": "What is the height? Are there any chips, hairlines or restoration to the rim, foot or back? Is there a decorator signature or monogram on the base besides the impressed M?",
+   "keep_max_24m": 45,
+   "flip_max_24m": 15
   },
   {
    "cdid": 3088190,
@@ -1200,7 +1220,9 @@
    "dropped_entries": "eBay.de USD 449.99 listing and eBay USD 374.40 listing: eBay is closed to us, snippet only, sale status unclear. StockX: page opened, but no last sale, averages or asks were shown, so the GBP 214 and GBP 341 figures are unverified. The researcher's assumed rates were replaced with live rates (EUR 1.6214, USD 1.446, GBP 1.918).",
    "key_photo_findings": "One photo: Eclipse canvas side up with silver-tone LV Initiales buckle, orange LV drawer box, cream dust bag, blue LV ribbons and navy hang tag. Edges and canvas look unworn. The size stamp, heat stamp or date code, and the back of the buckle are not visible.",
    "condition": "Looks new or unworn, with packaging. The reverse side, size stamp and back of the buckle are not shown.",
-   "question_for_armitage": "What size is stamped on the belt? Is there a receipt or any provenance? Can you confirm the black calf side and the back of the buckle are unmarked? Is there any doubt about authenticity?"
+   "question_for_armitage": "What size is stamped on the belt? Is there a receipt or any provenance? Can you confirm the black calf side and the back of the buckle are unmarked? Is there any doubt about authenticity?",
+   "keep_max_24m": 530,
+   "flip_max_24m": 225
   },
   {
    "cdid": 3088194,
@@ -1255,7 +1277,9 @@
    "dropped_entries": "Nothing dropped outright, but every entry is snippet only and kept as a lead, not as verified evidence. The researcher's assumed rate of 1.50 AUD per USD was replaced with the live rate of 1.446.",
    "key_photo_findings": "Two boxes: a red FERRAGAMO box (newer branding) and a burgundy Salvatore Ferragamo box (script logo). White dust bags marked 'Made in Italy', and swing tags with style numbers and barcodes. Belt 2 tag: size 115, with a blue price band reading about US$560. Belt 1 tag size reads about 95. Hardware is bright and the visible leather is unmarked.",
    "condition": "Both look new with tags and packaging. The backs of the belts and the undersides of the buckles are not shown.",
-   "question_for_armitage": "Can you confirm the sizes (about 95 and 115) and that both belts are unworn with no scratches on the buckles? Is there a receipt or any provenance? Are the two belts sold together as one lot?"
+   "question_for_armitage": "Can you confirm the sizes (about 95 and 115) and that both belts are unworn with no scratches on the buckles? Is there a receipt or any provenance? Are the two belts sold together as one lot?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088262,
@@ -1294,7 +1318,9 @@
    "dropped_entries": "eBay.com 389724179556 (USD 1,157.72, navy/beige Oblique saddle waist bag): snippet only, eBay closed to us, different colourway and the women's belt model, dropped. Baguseek dior-blue (USD 1,389): page 403, snippet only, blue women's 2019 belt bag, dropped. Baguseek Slim saddle belt bag (USD 912): snippet only, different smaller model, dropped. eBay.de 267335732223 (EUR 685.11 Bordeaux pouch): snippet only, different colour and model, result unknown, dropped. eBay.de 306529704906 (USD 598 Prada Saffiano chain shoulder bag): snippet only, different shape, dropped. dev-fsa-xgleyh.au1.ironstar.io Prada Galleria page: a development server that would not connect (curl 000), unverified, Galleria totes are a different and dearer bag, dropped. Researcher's assumed rates replaced with ECB rates.",
    "key_photo_findings": "Photos 1-3: DIOR-branded navy box and blue dust bag, Dior paperwork/booklet visible. The Dior bag is black-on-black Oblique jacquard saddle shape with black leather piping and tab, wide black webbing strap with lettering and a black metal quick-release buckle (men's Saddle Pouch pattern). Prada pouch is black Saffiano-grain leather with gold triangle plaque reading PRADA MILANO, gold zip with leather pull, gold chain strap and black leather strap with gold clasps. Both look clean and lightly used or unused. No serial tags, date codes or authenticity cards are shown.",
    "condition": "Both appear near new from the photos; corners and handles not shown close up.",
-   "question_for_armitage": "Are there receipts, authenticity cards or a Prada card with these bags? Can you confirm the Dior inside tag/serial and whether the Prada has an inside 'Prada Milano' plate and serial label? Any wear to corners, piping or the jacquard?"
+   "question_for_armitage": "Are there receipts, authenticity cards or a Prada card with these bags? Can you confirm the Dior inside tag/serial and whether the Prada has an inside 'Prada Milano' plate and serial label? Any wear to corners, piping or the jacquard?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088284,
@@ -1366,7 +1392,9 @@
    "dropped_entries": "All researcher entries for the signed limited issue dropped as a different item (the lot is the trade issue, not quarter vellum, and no number or signature): RR Auction 2009 US$10,450 (re-check returned 403), Bonhams 2021 GBP 8,287.50 (snippet only), Hindman 2024 US$8,255 (snippet only, signed trade copy, also not comparable as the lot is unsigned), RR Auction estimate US$25,000+ (snippet only, estimate is not UNSOLD evidence anyway), Lucius Books GBP 12,500 (re-opened: no. 219 of 250 limited), Raptis US$20,000 (snippet only), collecting-fleming guide (commentary, not a price). St Mary's Books kept but corrected: it is a jacketed first impression, URL corrected to www.stmarysbooks.com.",
    "key_photo_findings": "Photo 1: dark brown cloth, white double ski-track wave on front board, spine IAN FLEMING and large silver O.H.M.S. with Cape urn device, rubbed corners and frayed spine ends, no jacket. Photo 2: title page Jonathan Cape, Thirty Bedford Square. Photo 3: copyright page 'First published 1963 (c) 1963 by Glidrose Productions Ltd', the standard 250 numbered copies statement, printed by Alden Press, bound by A. W. Bain; no later-impression line. No frontispiece, limitation number or signature seen.",
    "condition": "Worn, jacketless; rubbed edges and corners, spine ends frayed; text block appears clean in the two pages shown.",
-   "question_for_armitage": "Is there any numbered, signed limitation leaf or Amherst Villiers frontispiece portrait in the Fleming (very unlikely)? Any loose hinges, inscriptions or foxing?"
+   "question_for_armitage": "Is there any numbered, signed limitation leaf or Amherst Villiers frontispiece portrait in the Fleming (very unlikely)? Any loose hinges, inscriptions or foxing?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088325,
@@ -1503,7 +1531,9 @@
    "dropped_entries": "eBay.de 177065187577 (AU$680, 9ct rose gold Victorian locket): snippet only, eBay closed to us, a locket not a pendant, likely hallmarked and heavier, sale not known, dropped. Researcher said the acid test result was unknown: the lot title states it acid tests as 9ct, corrected. Gowans entries re-checked in the API (all prices, bid counts and dates match); researcher URLs were search URLs, kept as given. Dobson downgraded from close to category guide (marked, 8.9 g with solid 9ct chain).",
    "key_photo_findings": "Single photo against a tape: pendant body about 3.5 cm long, pressed repousse scrolls, leaf and a small flower, rose gold colour with even wear, looks hollow-backed (back not shown). Two short fine curb chains from a small swivel/bolt clip, one ending in a split ring: fob or chatelaine style rather than a neck chain. No hallmark or stamp visible.",
    "condition": "Appears sound and complete; light surface wear; back and any dents not shown.",
-   "question_for_armitage": "What is the weight in grams? Are the chains and clip also gold (acid tested), or only the pendant? Is the back hollow or dented, and is there any mark on the back or the bolt ring?"
+   "question_for_armitage": "What is the weight in grams? Are the chains and clip also gold (acid tested), or only the pendant? Is the back hollow or dented, and is there any mark on the back or the bolt ring?",
+   "keep_max_24m": 30,
+   "flip_max_24m": 20
   },
   {
    "cdid": 3088327,
@@ -1608,7 +1638,9 @@
    "dropped_entries": "Dropped Catawiki Big Rose 7934 final bid EUR 1,000 (AUD 1,617): page blocked, sale date unknown. Dropped Tooveys 22 May 2025 lot 1046 (silvered 7934, est GBP 200-400, running): result not published where I could read it. Dropped Analog:Shift USD 4,850 honeycomb 'Albino Explorer' (rarer white Explorer-numeral dial, dealer, undated). Fellows 7934 lots 2014-2023: prices behind login and outside the window. Earlier drops as before.",
    "key_photo_findings": "Viewing photos 17 Oct 2026: between the lugs '7934' over '216541'. Crown carries the Rolex coronet. Dial: cream honeycomb texture intact under the print, small rose over TUDOR OYSTER, SHOCK-RESISTING, SWISS MADE; applied gilt dauphine markers, double at 12, 3, 6 and 9; lume plots and the lume in the dauphine hands aged to the same orange tone; light even toning with a few small spots; no sign of refinishing. Domed acrylic crystal, smooth bezel, case polished with light scratches, lug bevels still visible. Later perlon strap.",
    "condition": "Good for age: original dial with light even patina, case lightly scratched, strap later. Running, timekeeping and crown function still to confirm.",
-   "question_for_armitage": "Does it run and keep time when wound, and does the crown screw down firmly? Is the caseback Rolex-signed?"
+   "question_for_armitage": "Does it run and keep time when wound, and does the crown screw down firmly? Is the caseback Rolex-signed?",
+   "keep_max_24m": 620,
+   "flip_max_24m": 310
   },
   {
    "cdid": 3088333,
@@ -1712,7 +1744,9 @@
    "dropped_entries": "Researcher Gowans figures all confirmed against the API; URLs swapped to per-lot API links. Dropped Diamondport AUD 5,100 (snippet only, 18ct retail). Dropped eBay 376948315535 (snippet only, eBay closed, larger single ring, asking). Most Gowans singles downgraded from close to category guide after viewing photos. Added UNSOLD Gowans 414439.",
    "key_photo_findings": "Cushion double-halo head, small round centre (perhaps 0.10-0.15ct) in two rows of melee, diamond-set shoulders; separate band with a row of claw/pave melee. Bright rhodium-type white finish. Inside of shanks not shown, so no hallmark visible. Stones appear complete. Used rose-gold coloured box.",
    "condition": "Appears good with little visible wear; missing melee cannot be ruled out at this resolution. Metal and stamp unconfirmed.",
-   "question_for_armitage": "What is stamped inside each shank (9K/375, 10K, 925, CZ, TDW)? Total weight in grams, ring sizes, and is any diamond missing?"
+   "question_for_armitage": "What is stamped inside each shank (9K/375, 10K, 925, CZ, TDW)? Total weight in grams, ring sizes, and is any diamond missing?",
+   "keep_max_24m": 155,
+   "flip_max_24m": 80
   },
   {
    "cdid": 3088334,
@@ -1760,7 +1794,9 @@
    "dropped_entries": "Dropped Bonhams 18906 lot 401 (snippet only, 403, gold-mounted, 2011). Dropped Jean Jean Vintage (store JSON shows price 0 and sold out, so USD 950 unverified; three-slab design with modern padlock). Dropped Kalmar Antiques (opened, sold with no price). Laurelle price corrected from GBP 775 to 895; both UK dealer listings reclassified close to category guide. WebSearch was capped this session.",
    "key_photo_findings": "Six engraved crescent links on jump rings, inlaid with blue chalcedony (two), green bloodstone or jasper, cream agates and carnelian (two). Central scrolled buckle motif with claw-set orange citrine, crisp hand engraving. Heart padlock with banded grey/white agate, swing shackle, fine curb safety chain. All stones present at this resolution; no hallmark visible; some tarnish.",
    "condition": "Appears complete, stones present, padlock and safety chain intact, tarnish. Metal unmarked in photo; chips or loose stones cannot be judged.",
-   "question_for_armitage": "Is it marked silver anywhere? Total weight in grams? Any chipped, cracked or loose stones, and does the padlock lock properly? Any later repairs or replacement links?"
+   "question_for_armitage": "Is it marked silver anywhere? Total weight in grams? Any chipped, cracked or loose stones, and does the padlock lock properly? Any later repairs or replacement links?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088335,
@@ -1873,7 +1909,9 @@
    "confidence_reason": "Marks not read; no same-item SOLD; SOLD evidence is generic titles without descriptions; asking evidence is new retail only.",
    "dropped_entries": "1stDibs Circle of Life pendant (page opened, no price) dropped. Invaluable/Tuckerbox lot 269 A$160 (page opened, sold price behind login, heart cluster, Dec 2024) dropped, lead only. Lawsons A$160 (snippet only) dropped. Wallace Bishop $729 Dancing Diamond replaced by $769 Diamond Circle Pendant on the same page. WebSearch was capped this session, so no further Armitage or auction searches were possible.",
    "question_for_armitage": "What marks are on the clasp and pendant bail (9ct/375, 18ct/750)? Total weight in grams? Is the diamond total weight known, and are all claws tight with no stones missing?",
-   "score_reason": "A 17-stone diamond circle pendant on 9ct chain should make about $150 to $300 hammer in Tasmania, more if 18ct or larger stones; held at 6 as marks and diamond weight are unconfirmed."
+   "score_reason": "A 17-stone diamond circle pendant on 9ct chain should make about $150 to $300 hammer in Tasmania, more if 18ct or larger stones; held at 6 as marks and diamond weight are unconfirmed.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088339,
@@ -2007,7 +2045,9 @@
    "confidence_reason": "Album clearly identified but dates and grades unreadable; no recent same-item SOLD; value rests on components and old Noble results.",
    "dropped_entries": "Gowans 409620 $1,050 dropped (photos opened: Port Phillip date-run album with many pennies, not a type set). Noble Sale 128 lot 11 $1,700 dropped (price correct but driven by key dates not present here, and over 24 months old). Sterling Currency listing dropped (no price). WebSearch capped this session, no Armitage past-result search possible.",
    "question_for_armitage": "Is the coin in the Melbourne Centenary slot a filler, not a genuine 1934-35 florin? Any coins missing? Dates on the bronze and is the 50c a round 1966? Rough grade of the crown and florins?",
-   "score_reason": "Silver content, a 1937 crown and three commemorative florins should make about $250 to $400 in Tasmania, but the Melbourne florin is a filler, grades unknown and no direct recent sale, so 6."
+   "score_reason": "Silver content, a 1937 crown and three commemorative florins should make about $250 to $400 in Tasmania, but the Melbourne florin is a filler, grades unknown and no direct recent sale, so 6.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088052,
@@ -2130,7 +2170,9 @@
    "confidence_reason": "Signature present but unread; no same-item SOLD; value rests on other McHugh forms.",
    "dropped_entries": "Gowans 391898 'MULTI COLOUR FLOWER RING' $5 dropped: photo opened, it is a costume finger ring with red and green stones, not pottery. Leski lot 24467 $200 (HTTP 403, snippet only, undated) dropped, lead only. WebSearch capped this session, no Armitage McHugh past-result search possible.",
    "question_for_armitage": "Please read the incised signature under the rim: does it say McHugh or H McHugh Tasmania, with a year or shape number? Any chips, cracks or crazing on the inner rims or base?",
-   "score_reason": "Signed McHugh has a steady local market but flower accessories sit low ($40 to $55 for frogs) and the signature is unconfirmed, so about $50 to $120 at best: 5."
+   "score_reason": "Signed McHugh has a steady local market but flower accessories sit low ($40 to $55 for frogs) and the signature is unconfirmed, so about $50 to $120 at best: 5.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088062,
@@ -2177,7 +2219,9 @@
    "dropped_entries": "Poshmark brand page: opened, but the US$425 and US$309 figures are not on the page, so dropped. Etsy listing 4498837917: HTTP 403, snippet only, dropped. The 'SOLD US$202.50' entry gave this Etsy URL for an eBay sale, so the URL is wrong and it is dropped. eBay 394739353783 (US$189.99 BIN): eBay closed, snippet only, kept as a lead only and not listed. Catawiki EUR 64 (lots 105311172 and 104470420): HTTP 403, snippet only, and a 1980s plated aviator rather than this pattern, so dropped. eBay.de 396364993214 (about US$487): eBay closed, snippet only, a 1980s Ambermatic model sold by best offer, so dropped.",
    "key_photo_findings": "Enlarged bridge: double bridge with tan brow bar. No legible stamp on the visible top surfaces. Marks normally sit under the bridge and inside the temples, and neither is shown. Gold colour is bright and even with no visible wear-through. Cable temples intact. A couple of small spots or scuffs on the left lens. Only one photo.",
    "condition": "Looks complete and straight in the one photo. Frame finish looks good, minor spotting on the left lens, brow bar intact. Marks, lens scratches and hinge function not seen.",
-   "question_for_armitage": "Is anything stamped under the nose bridge or inside the ear stems (for example B&L Ray-Ban USA, B&L 1/10 12k GF, AO, or 1/10 12k Gold Filled)? Are there any chips or scratches on the lenses, and is there a case?"
+   "question_for_armitage": "Is anything stamped under the nose bridge or inside the ear stems (for example B&L Ray-Ban USA, B&L 1/10 12k GF, AO, or 1/10 12k Gold Filled)? Are there any chips or scratches on the lenses, and is there a case?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088067,
@@ -2257,7 +2301,9 @@
    "dropped_entries": "Examiner 2018 Armitage leg irons ($4,000 / $725 / $825): page opened and figures confirmed, but these are leg irons, not handcuffs, from 2018 (over 24 months), and the page does not say hammer or premium, so dropped. plusmodels.com US$225: HTTP 403, snippet only, dropped (kept as a lead only). Denhams moved from ASKING to SOLD because it is a GBP 50 result, not a GBP 50-75 estimate.",
    "key_photo_findings": "Barrel (cylinder) lock housings hinged onto D-shaped cuffs, joined by figure-eight and swivel links. A small hole is visible on the side of one barrel. No HIATT or number stamp on the visible surfaces, though undersides and barrel ends are not all shown clearly. No key in any photo. Even brown rust with pitting all over, no breaks seen. One cuff is shown open.",
    "condition": "Surface rust and pitting throughout, looks structurally sound, chain complete. No key, and whether the locks work is unknown.",
-   "question_for_armitage": "Is there a key, and do the cuffs lock and open? Is there any maker's stamp (HIATT or a number) on the barrels or cuffs?"
+   "question_for_armitage": "Is there a key, and do the cuffs lock and open? Is there any maker's stamp (HIATT or a number) on the barrels or cuffs?",
+   "keep_max_24m": 45,
+   "flip_max_24m": 20
   },
   {
    "cdid": 3088074,
@@ -2304,7 +2350,9 @@
    "dropped_entries": "Gowans 428177 ($170 'pair of amber glass lamps'): photo viewed, they are modern electric amber diamond-glass lamps, not oil lamps, so dropped. Gowans 373981 ($130 'pair of flashed glass lamps'): photo viewed, electric Bohemian overlay lamp bases, so dropped. eBay 135302864552 (US$379 pink opaline pair): eBay closed and snippet only. The researcher filed it as an asking price while also calling it sold, so dropped. au.dealsan.com A$1,695: page opened, but no A$1,695 figure is on it (only single opalescent lamps at about US$38 to US$195 from eBay feeds), so dropped.",
    "key_photo_findings": "Both lamps look complete: brass burner with wick winder, brass gallery, white opal dome shade and clear chimney on each. Bases and fonts are cream milk glass with a translucent pale green band at the font. No chips or cracks visible in the small photos, but the shade rims and chimney tops cannot be checked. No marks visible on the burners.",
    "condition": "Look complete and matched, with shades and chimneys. No damage visible in the two small photos. Burner marks, chips to the shade rims and whether the fonts are sound are unchecked.",
-   "question_for_armitage": "Are there any chips or cracks to the shades, chimneys or fonts? Are the burners marked (for example a maker's name or duplex), and do both burners and wicks work? Are the shades original to the lamps?"
+   "question_for_armitage": "Are there any chips or cracks to the shades, chimneys or fonts? Are the burners marked (for example a maker's name or duplex), and do both burners and wicks work? Are the shades original to the lamps?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088085,
@@ -2416,7 +2464,9 @@
    "dropped_entries": "Dropped Gowans '3 MENS LEATHER WALLETS' $4 and '4 LEATHER WALLETS IN BOXES' $70 (unbranded or unknown brands, not comparable; API confirmed the prices). Dropped the Bidsquare 'UNSOLD' Cartier trifold est US$350-450: page opened, it is the same Fortuna lot that later sold US$375, and an estimate is not an unsold result, so a duplicate. The AU$35 LV wallet is now page-verified (isLotSold true, sale 2024-06-27). eBay items kept only as ASKING leads. WebSearch cap was reached during this check, so no new searches were run.",
    "key_photo_findings": "LV piece is a vertical pocket organiser in burgundy grained (Taiga-type) leather, gold stamp LOUIS VUITTON PARIS made in France, light edge wear. Cartier bifold in bordeaux smooth leather, gold-tone corner guards, embossed CC logo, creasing and darkening along edges and front. Black perforated card holder shows no brand.",
    "condition": "Used. Cartier shows creasing and edge wear; LV looks lightly used. No boxes, dust bags or papers. Cartier interior not shown.",
-   "question_for_armitage": "Can you check inside the Louis Vuitton for a date code (two letters and four digits in a pocket seam) and inside the Cartier for the Cartier Paris stamp and serial number, and say whether either has boxes or papers? Is there any brand on the black card holder? Any tears or peeling inside?"
+   "question_for_armitage": "Can you check inside the Louis Vuitton for a date code (two letters and four digits in a pocket seam) and inside the Cartier for the Cartier Paris stamp and serial number, and say whether either has boxes or papers? Is there any brand on the black card holder? Any tears or peeling inside?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088086,
@@ -2463,7 +2513,9 @@
    "dropped_entries": "Dropped Denhams May 2025 GBP 40: page opened, the GBP 40 belongs to lot 703 (table sign, 1128 plate, soup bowl and cup and saucer, three of them seconds), not lot 697 which held the 11cm scallop 1128 dish and shows no price. Dropped Gowans lot 427751 'QTY OF COLLECTABLES INCL ROYAL CROWN DERBY' $60 (contents unknown). Moved the Albion casserole from ASKING to SOLD (AU$375 sold, not an estimate). WebSearch cap reached, so no new Armitage site search.",
    "key_photo_findings": "Small dish: lobed scalloped rim with gilt and white gadroon border, centre flowerhead of cobalt petals on dense gilt ground, iron red panels: classic RCD Old Imari 1128. Oval dish: shaped rim, cobalt border with iron red flowers and gilt diaper panels, white centre reserve; an older Imari pattern, not 1128. Gilding looks bright, no obvious chips from above, undersides not shown.",
    "condition": "Appears good from above; backstamps, date ciphers, chips, crazing and gilt wear underneath not visible.",
-   "question_for_armitage": "Can you read the backstamps on both dishes (Royal Crown Derby or Derby Crown Porcelain, pattern numbers, date cipher, any seconds line through the mark) and check for chips, cracks, restoration and gilt wear? What are the sizes?"
+   "question_for_armitage": "Can you read the backstamps on both dishes (Royal Crown Derby or Derby Crown Porcelain, pattern numbers, date cipher, any seconds line through the mark) and check for chips, cracks, restoration and gilt wear? What are the sizes?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088100,
@@ -2551,7 +2603,9 @@
    "dropped_entries": "Dropped Smith & Singer AU0807/172 $850 hammer: page opened and price real, but it is a large 1538g Victorian rectangular jewel box (Birmingham 1860), not comparable, and no date shown. Dropped Gowans 404582 $14 (damaged jar, 2.4g lid, not similar condition) and 391705 $60 matchbox case (different item). WebSearch cap reached, so no Armitage site search run.",
    "key_photo_findings": "Ring box: oval, plain domed lid, reeded mid-band, four cabriole feet (three visible), hallmarks on lid and body including lion passant; blue silk lid lining and purple velvet base, worn and faded. Jar: hobnail cut glass body, fluted shaped silver lid with monogram in scroll cartouche, lid rim marks show lion passant, an anchor-like town mark and an illegible date letter; contains old powder. No dents or splits visible.",
    "condition": "Good used. Ring box lining worn; no obvious dents. Jar glass looks intact but the rim was not seen closely; old powder inside.",
-   "question_for_armitage": "Could you read the hallmarks (town, date letter, maker) on both pieces, give the weight of the ring box, and check the ring box hinge and feet for splits or dents and the glass jar rim for chips?"
+   "question_for_armitage": "Could you read the hallmarks (town, date letter, maker) on both pieces, give the weight of the ring box, and check the ring box hinge and feet for splits or dents and the glass jar rim for chips?",
+   "keep_max_24m": 40,
+   "flip_max_24m": 55
   },
   {
    "cdid": 3088106,
@@ -2631,7 +2685,9 @@
    "dropped_entries": "John Moran 2012 'giant' repeater: HTTP 403, snippet only, 13 years old, overseas, giant size; dropped. Gumtree $1,800 ask: snippet only, from a live search page I could not verify; dropped (lead only). Gowans 406646 English carriage clock $100 and 375535 Junghans $50: different makers and likely different construction; dropped. Invaluable entry moved from ASKING (USD) to UNSOLD (GBP, passed, Roseberys 2025-07-10).",
    "key_photo_findings": "Back photo enlarged: 'MADE IN FRANCE' stamped on the backplate, two mainspring ratchet wheels (going and strike trains), a coiled gong, and a lever at the top (probably strike or silent). A small push button on the top front is consistent with a repeat. Corniche case, bevelled glass, clean white enamel dial with no visible chips, key present, light gilt wear.",
    "condition": "Looks good cosmetically. The dial looks clean in the photos, with light gilt wear. Running, striking and repeating are all untested.",
-   "question_for_armitage": "Does it run, and does it strike on the gong and repeat when the top button is pressed? Are there any hairlines or chips in the enamel dial, any cracked glass, or a mark or serial number on the backplate? What is the height?"
+   "question_for_armitage": "Does it run, and does it strike on the gong and repeat when the top button is pressed? Are there any hairlines or chips in the enamel dial, any cracked glass, or a mark or serial number on the backplate? What is the height?",
+   "keep_max_24m": 210,
+   "flip_max_24m": 100
   },
   {
    "cdid": 3088131,
@@ -2662,7 +2718,9 @@
    "dropped_entries": "1stDibs set of 8 (US$3,900): page opened, but no price is shown, so the price was snippet only; it is also clear glass; dropped. 1stDibs single c.1915 goblet (US$1,350): page shows no price (snippet only), and it is older and finer; dropped. Gowans 378343 ($45), 435858 ($50), 405195 ($10) and 395168 ($20): confirmed in the API, but these are mixed Venetian decanter sets and generic goblets, not dolphin-stem goblets; dropped as not the same item.",
    "key_photo_findings": "Four matching goblets: ruby cup, clear twisted dolphin stem with gold aventurine flecks and dark applied eyes, ruby foot. The stems vary a little, as hand-made pieces do. No chips, cracks, labels or acid marks visible in the two photos.",
    "condition": "Looks good in the photos, with no visible chips. The rims and feet need checking by hand.",
-   "question_for_armitage": "Any chips or flea bites on the rims or feet, or cracks at the stem joins? Any Murano or Salviati label or acid mark under the feet? What is the height of each goblet?"
+   "question_for_armitage": "Any chips or flea bites on the rims or feet, or cracks at the stem joins? Any Murano or Salviati label or acid mark under the feet? What is the height of each goblet?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088136,
@@ -2693,7 +2751,9 @@
    "dropped_entries": "Shapiro pair by Hannah Barlow and Frances Lee ($1,350): HTTP 403, snippet only, named-artist top tier, no date; dropped. Shapiro Hannah Barlow lions pair ($2,086): snippet only, named artist, no date; dropped. Gowans 395067 kept, but changed from close to category guide.",
    "key_photo_findings": "Enlarging the right vase shows a clear diagonal crack running across the cream neck from near the rim towards the shoulder. It is more than a faint glaze line. The left vase looks sound in this view, and the decoration matches on both. Only one photo, with no base, so the impressed mark, artist monograms and dates cannot be checked.",
    "condition": "The right vase has a visible crack on the neck. The left vase looks sound in the single photo. The bases were not seen.",
-   "question_for_armitage": "Can you confirm the impressed Royal Doulton Lambeth mark and any artist monograms on the bases? How long is the crack on the right vase's neck, does it go right through, and has it been restored? Are there any chips on the rims or feet? What is the height?"
+   "question_for_armitage": "Can you confirm the impressed Royal Doulton Lambeth mark and any artist monograms on the bases? How long is the crack on the right vase's neck, does it go right through, and has it been restored? Are there any chips on the rims or feet? What is the height?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088162,
@@ -2733,7 +2793,9 @@
    "dropped_entries": "Dropped: (1) AnticStore/Torkild Peruvian or Mexican MOP casket: page opened, marked SOLD with no price, so it gives no value. (2) Roseberys via Invaluable, Ottoman MOP, tortoiseshell and bone casket, estimate GBP 2,000-3,000: page opened, no result in the JSON, and it is Ottoman and rectangular, a different object. (3) Sloane Street lot 289, hammer GBP 3,200 on 6 Feb 2025: page opened and the hammer is real, but it is a 'Spanish colonial style' enconchado mirror (60 x 50 cm), not a casket. (4) Gowans small tortoiseshell items (card case AUD 210 etc.): not the same item, API search summary only. Moved: the Sothebys entry from ASKING to SOLD, because the result is visible on the page.",
    "key_photo_findings": "Read the Spanish note in photo 6: signed Adelina, a gift to her daughter Blanca; 'carey' (tortoiseshell) and 'nacar' (mother of pearl) name the materials. The MOP plaques are hand engraved, with costume detail on the figures. Edge bands are fixed with metal pins. Shaped iron or pewter escutcheon and hinge straps show in photo 4. Feet are turned bone or ivory; one foot looks slightly different in photo 7 and may be a replacement. The interior is plain unlined wood. Visible damage: lifting and losses to the base moulding and lid edge, some MOP banding lifting, wear to the tortoiseshell.",
    "condition": "Armitage says some damage. Photos show losses and lifting to mouldings and edges, wear to the tortoiseshell and a possibly replaced foot. Key present; the main plaques appear intact.",
-   "question_for_armitage": "Please check: does the key work the lock; how many MOP plaques or bands are missing or loose; are all four feet original (bone or ivory); is the carcass sound; are there later repairs or glue; and is there any provenance for the 18th century attribution beyond the note? Viewing from 8:30 AM on closing day at 9 Goodman Crt, Invermay, or ring (03) 6326 2555."
+   "question_for_armitage": "Please check: does the key work the lock; how many MOP plaques or bands are missing or loose; are all four feet original (bone or ivory); is the carcass sound; are there later repairs or glue; and is there any provenance for the 18th century attribution beyond the note? Viewing from 8:30 AM on closing day at 9 Goodman Crt, Invermay, or ring (03) 6326 2555.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088199,
@@ -2755,7 +2817,9 @@
    "dropped_entries": "None: the researcher recorded no entries.",
    "key_photo_findings": "Signed lower right of the oval. Handwritten labels on the mount name the illustration as page 17 of Tasmania is a Garden, and the book has a sticker 'with original artwork by Gayleen Hughes'. Clean pastel watercolour, competent botanical work. Book in dust jacket.",
    "condition": "Framed under glass. Mount and image look clean in the photos; the book jacket looks fair to good. Not checked for foxing.",
-   "question_for_armitage": "Does the illustration match the picture on page 17 of the book? Is the book signed or inscribed by either author? Is there any foxing or water staining under the glass?"
+   "question_for_armitage": "Does the illustration match the picture on page 17 of the book? Is the book signed or inscribed by either author? Is there any foxing or water staining under the glass?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088207,
@@ -2867,7 +2931,9 @@
    "dropped_entries": "Dropped: (1) the researcher's '$150 to $240 range across 15 other lots' summary entry, because it is not a single sale. I replaced it with eight individual Gowans lots checked in the API; others such as 382568 ($200) and 396671 ($240) were confirmed but not listed separately. (2) '3 PRO HART PRINTS' at $7 (411350): a group of probably offset prints, not etchings. (3) Lot 387253 ($220): price confirmed but left out as a repeat of the nude image to avoid double counting. All researcher prices for 384144, 391927, 426024, 427670, 434140 and 387253 matched the API. My WebSearch was blocked by the session cap, so I made no further searches.",
    "key_photo_findings": "The certificate (photo 3) reads: Pro Hart, Lytlewode Press catalogue no. 9, The Yabby Eater, line etching with open biting and a la poupee colour, blue, 300 x 200 mm, edition 100, 'this is an unsigned Publisher's Proof', from Littlewood's personal collection. It is signed Robert C. Littlewood and dated 15 December 2011 (possibly 2014). The photos show no pencil signature or edition mark on the print itself; there is a small pencil mark at lower left of the mount. The image is a monochrome blue etching of a face with a yabby.",
    "condition": "Framed in black and the image looks clean. There is a small brown spot on the mount at upper right in photo 1. Not checked out of the frame.",
-   "question_for_armitage": "Please confirm the print is unsigned: the catalogue says artist's proof but the certificate says unsigned Publisher's Proof. Is there any pencil inscription such as P.P. on the sheet? Any foxing or staining under the mount?"
+   "question_for_armitage": "Please confirm the print is unsigned: the catalogue says artist's proof but the certificate says unsigned Publisher's Proof. Is there any pencil inscription such as P.P. on the sheet? Any foxing or staining under the mount?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088223,
@@ -2889,7 +2955,9 @@
    "dropped_entries": "1) eBay AU 274659003480 AU$425 ASKING: snippet only, page 403, signed A.F. Mitchell piece not a student piece; kept only as a lead in this note. 2) Scammell via Antiques Reporter $1,380 labelled SOLD: page returned 429 to me as well, price kind unverified and it is a Bosley 'after Annie Mitchell' copy, so dropped. 3) Gowans 401986 'TASMANIAN POTTERY VASE' $35 hammer (listed 2026-04-13), 4) Gowans 384010 'BILLIE POWELLS TASMANIAN POTTERY VASE' $5 (listed 2026-01-19), 5) Gowans 367606 'TASMANIAN POTTERY VASE - TINY CRACK TO BASE' $7 (listed 2025-10-13): all confirmed in the Gowans API, but they are unrelated Tasmanian makers, not the same item, so dropped as comparables (mentioned in working as a floor only). Note the researcher's URL for the Gowans entries was a search URL, not a lot page.",
    "key_photo_findings": "Photo 1: tag 'Annie Mitchell School 1930s' (Armitage's own tag, not a maker mark). Applied leaves with a small brown spot or glaze fault near the top leaf. Photo 2 (enlarged): incised base, first line partly legible, something like 'L M..ELL', second and third lines '..GHT GREEN BLUE'; heavy glaze pooling and bubbling on the base, worn edge with exposed body. Photo 3: interior brown glaze with crazing; rim edges show small flecks of glaze loss.",
    "condition": "Wavy rim with minor glaze flecks and possible small chips; interior crazing; base glaze worn at the edge. No cracks visible but the rim needs a hands-on check.",
-   "question_for_armitage": "Can you read the full name incised on the base of lot 779, and is there any 'Goodwood' or 'Sth Aus' mark? What is the basis of the 'Annie Mitchell School' tag (provenance)? Any chips or cracks to the rim, and the height?"
+   "question_for_armitage": "Can you read the full name incised on the base of lot 779, and is there any 'Goodwood' or 'Sth Aus' mark? What is the basis of the 'Annie Mitchell School' tag (provenance)? Any chips or cracks to the rim, and the height?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088225,
@@ -2954,7 +3022,9 @@
    "dropped_entries": "1) Gowans 365477 ODO French mantle clock $43, 2) Gowans 372097 porcelain Anker clock $40, 3) Gowans 384471 2 clocks ceramic and glass $35: confirmed in the API but plain or German clocks, too far from a barbotine clock to help, dropped. 4) Plusmodels Gien majolica clock USD 775: page returns 403, snippet only, dropped (lead only). 5) Hindman/Freeman's 'French porcelain and gilt bronze mantel clock' USD 2,500 labelled SOLD: URL redirects to freemansauction.com, not opened by researcher, gilt bronze and porcelain not barbotine, date unknown; dropped.",
    "key_photo_findings": "Photo 1: flask body with applied yellow and blue iris, pink flowers, on four dark feet; key tied to top. Photo 2 (enlarged): dial with 'SLOW FAST' at XII and a word ending 'PARIS' below the centre, two winding arbors, hands present, a fleck of loss at the lower edge of the blue iris petal and possible small losses to petal tips. Photo 3: back with pierced cast cover, applied rose and white flower; no maker mark visible.",
    "condition": "Applied petals show minor flecks or possible losses typical of barbotine; dial and bezel look complete; movement running and strike unknown; key present, pendulum not seen.",
-   "question_for_armitage": "Does the lot 781 clock run and strike, and is the pendulum with it? Any maker mark on the movement back plate or the base, the height, and any repairs or losses to the applied flowers?"
+   "question_for_armitage": "Does the lot 781 clock run and strike, and is the pendulum with it? Any maker mark on the movement back plate or the base, the height, and any repairs or losses to the applied flowers?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088228,
@@ -2976,7 +3046,9 @@
    "dropped_entries": "1) Lawsons Crocodile Dundee poster A$45 (SOLD claimed): 403, snippet only, not a script, 2017; dropped. 2) Theodore Bruce three Crocodile Dundee II stills A$15 (SOLD claimed): 403, snippet only, not a script, date unknown; dropped. 3) Julien's original poster artwork US$35,750 (SOLD claimed): 403, snippet only, unique artwork not comparable; dropped. 4) Script City PDF of Crocodile Dundee 2 US$14.99 (ASKING): digital copy of a different film; dropped.",
    "key_photo_findings": "Photo 1: title page reads '3RD DRAFT', 'CROCODILE DUNDEE', 'Written by Paul Hogan & Ken Shadie', 'PROPERTY OF...JP PRODUCTIONS 157 Forest Way Belrose N.S.W. Phone 939 ....'; held in a metal lever clip, several pages thick. Photo 2: Scene 1 to Scene 3 typed text, clean, no handwriting seen. Typescript looks photocopied.",
    "condition": "Clean pages on the two shown, light handling; completeness, page count and any annotations unknown.",
-   "question_for_armitage": "Is the lot 784 script complete (page count), are there any handwritten notes, signatures or crew names inside, and is there any provenance (who it came from, for example a cast or crew member)?"
+   "question_for_armitage": "Is the lot 784 script complete (page count), are there any handwritten notes, signatures or crew names inside, and is there any provenance (who it came from, for example a cast or crew member)?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088229,
@@ -3132,7 +3204,9 @@
    "dropped_entries": "None dropped. Corrections: 427670 upgraded from category guide to same item (photo shows the same dragonfly series); 384144 lot id added for the $130 PP. Researcher's Gowans figures checked against the API and all match. Gowans URLs are API search URLs, the lot ids identify the lots. WebSearch was capped this turn, so no extra Armitage past-result search was possible.",
    "key_photo_findings": "Pencil 'A P' lower left and block-letter 'PRO HART' lower right, typical of his small hand-coloured etchings. Image about postcard size on a larger sheet, plate mark not clearly visible. Watercolour wash on the orange ground slightly uneven, as expected for hand colouring. Black frame with a white mount; a small tag in the lower right of the frame reads '777'.",
    "condition": "Looks clean in the photos, no obvious foxing or staining; glass and back of frame not seen.",
-   "question_for_armitage": "Is there anything on the back (gallery label, certificate, Broken Hill provenance)? Is the signature in pencil, and is there a visible plate mark? Any foxing or damage to the frame or glass? What is the '777' tag in the frame?"
+   "question_for_armitage": "Is there anything on the back (gallery label, certificate, Broken Hill provenance)? Is the signature in pencil, and is there a visible plate mark? Any foxing or damage to the frame or glass? What is the '777' tag in the frame?",
+   "keep_max_24m": 170,
+   "flip_max_24m": 70
   },
   {
    "cdid": 3088234,
@@ -3221,7 +3295,9 @@
    "dropped_entries": "Hemswell Antique Centres (19th century burr walnut table mirror): page opened, item sold with no price shown, so it has no price and was dropped. Bonhams London 2013 estimate GBP 1,200-1,800: page returns 403, snippet only and 13 years old, kept only as a lead that genuine period examples are a different price class. WebSearch was capped this turn, so no Armitage, Leonard Joel or Lawsons search for revival walnut mirrors was possible.",
    "key_photo_findings": "Shell-carved cresting on an arched cushion-moulded frame; plate heavily foxed and crackled, consistent with old silvering (could be original or a period replacement). Figured walnut veneer with crossbanding on the drawer fronts. Side view shows a crazed finish on the carcass sides. Drawer interiors look light-coloured timber with no visible dovetail detail. Bombe base with ogee bracket feet, small brass drop handles.",
    "condition": "Aged surface with crazed finish and some wear; plate foxed. Drawers open and appear complete. No obvious missing parts, but veneer losses, repairs and the swing mechanism cannot be checked from photos.",
-   "question_for_armitage": "Can you check the drawer construction (hand-cut or machine dovetails) and the back of the mirror plate, and whether the veneer is solid walnut or a later finish? Height and width? Does the mirror swing and hold position, and are there veneer losses or repairs?"
+   "question_for_armitage": "Can you check the drawer construction (hand-cut or machine dovetails) and the back of the mirror plate, and whether the veneer is solid walnut or a later finish? Height and width? Does the mirror swing and hold position, and are there veneer losses or repairs?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088236,
@@ -3366,7 +3442,9 @@
    "dropped_entries": "Dropped all three Gowans 'Sibley' results (392082 $50 'Catch a Falling Star', 421259 $65 AP 2008, 422872 $35 ltd edn): page opened, the photos show large cartoon-style figure prints in a very different style, not Irena Sibley's linocuts, so they are not the same artist. All Invaluable entries re-checked against the parsed JSON and match the researcher's figures. WebSearch was capped this turn, so no further Armitage or dealer search was possible.",
    "key_photo_findings": "Enlarged crop of the pencil signature reads roughly 'Irena Sibley', consistent with the attribution but blurred. Bold black-line relief cut with hand-added turquoise, pale yellow and green; a star burst top right and three bells lower left. Small image, about 10 x 15cm by eye, in a wide cream mount and dark timber frame. No edition number or title seen.",
    "condition": "Paper and mount look clean in the photos; glass, back and any light staining not visible.",
-   "question_for_armitage": "Can you confirm the signature reads Irena Sibley, and is there a title, edition number or date in pencil? Any label on the back? Image size?"
+   "question_for_armitage": "Can you confirm the signature reads Irena Sibley, and is there a title, edition number or date in pencil? Any label on the back? Image size?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088264,
@@ -3489,7 +3567,9 @@
    "dropped_entries": "KJC A$170.90 for the 2001 frosted UNC: not on the page when opened, snippet only, dropped (KJC kept only for its sibling prices). Numista set catalogue: no price, context only, dropped. Gowans 408018 'carded coins & folder - 7 coins' $12: incomplete set, not comparable, dropped. The researcher's 1998 roo '$100, 10 bids' corrected to 6 bids (lot 441861). Other Anzac folders (Anzac Spirit, Legends, Anzac to Afghanistan) at $12-$80: different sets, category only, not listed.",
    "key_photo_findings": "Roo card reads '2001 $1 SILVER ROO, FROSTED UNCIRCULATED COIN'. The back reads Royal Australian Mint, fine silver 99.9%, one troy ounce, 40.00mm, barcode 9314688001282. Coin sealed in capsule. Folder has 15 cards (1914-1918, Home Front, Mateship, RAN, Light Horsemen, Remembrance Day, Nurses, War Correspondents, Unknown Soldier, Wartime Animals, Flying Corps, Gallipoli Landing, Last Post, AIF, and War Heroes with the coloured $1), all with coins visible.",
    "condition": "Roo looks bright in its capsule and the card is clean, but light toning can't be ruled out. Folder clean with coins present. The Light Horsemen 20c looks toned or coppery in the photo.",
-   "question_for_armitage": "Is the silver roo capsule sealed, and is the coin free of milk spots or toning? Are all 15 Anzacs Remembered cards present with their coins, including the War Heroes $1?"
+   "question_for_armitage": "Is the silver roo capsule sealed, and is the coin free of milk spots or toning? Are all 15 Anzacs Remembered cards present with their coins, including the War Heroes $1?",
+   "keep_max_24m": 110,
+   "flip_max_24m": 45
   },
   {
    "cdid": 3088268,
@@ -3535,7 +3615,9 @@
    "dropped_entries": "Bordeaux Index: page opened. The offer is a case of 6 x 150cl magnums in bond at GBP 1,308, not a 750ml bottle, so dropped. Ozwine Review 2010 store price of about $100: page returned HTTP 429, snippet only and 16 years old, dropped. Dan Murphy's: no price shown, dropped.",
    "key_photo_findings": "Label reads St Henri Shiraz, Vintage 2006, Penfolds, 750ml. Ribbed screwcap with red capsule, intact. Fill looks to be into the neck. Handwritten sticker 4434/12 SKK1 on the lower bottle.",
    "condition": "Label clean and unmarked, screwcap intact, fill looks good in the photo. Storage history unknown.",
-   "question_for_armitage": "Is there any known storage history or provenance for this bottle (cellared, part of a collection)? Is the screwcap undamaged and is the fill into the neck?"
+   "question_for_armitage": "Is there any known storage history or provenance for this bottle (cellared, part of a collection)? Is the screwcap undamaged and is the fill into the neck?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088269,
@@ -3602,7 +3684,9 @@
    "dropped_entries": "Benchmark Wine (USD 114): URL returns 404, snippet only, dropped. Langtons RWT 2004 magnum 'last bid 247': lot page returns 404, snippet only, different vintage and bottle size, dropped. WineBerserkers '$46 all in': 2020 forum post, currency and vintage not certain, not a documented sale, dropped. Gowans sales of Bin 389 2004, Magill 1993 and St Henri 2017: different wines, category signal only, not listed as evidence.",
    "key_photo_findings": "Label reads Penfolds RWT 2002 Shiraz Barossa Valley, bottling number 21676, 750ml. Red capsule intact over the cork. Handwritten price or stock tag on the shoulder. Fill looks to be into the neck, but the dark glass makes it hard to judge.",
    "condition": "Label clean, capsule intact, fill looks good. Storage history and cork condition unknown; a 24-year-old cork could weep.",
-   "question_for_armitage": "What is the fill level (into the neck or top shoulder)? Any sign of seepage under the capsule? Any known storage history?"
+   "question_for_armitage": "What is the fill level (into the neck or top shoulder)? Any sign of seepage under the capsule? Any known storage history?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088270,
@@ -3666,7 +3750,9 @@
    "dropped_entries": "Dropped the Wine-Searcher average: snippet only, the site is closed to us and the currency is unknown. The researcher's Theodore Bruce 2001 and 1987 entries were snippet only. I opened both, confirmed price and date, and kept them as close and category guides.",
    "key_photo_findings": "Label clean and legible: St Henri Shiraz, Vintage 2002, Penfolds, 750ml. Red foil capsule with a smooth top (cork closure), intact. Fill appears to be into the neck, though the red capsule hides the exact level. A vendor sticker with handwritten 4434/16 and a red ink note is on the lower bottle, not on the label.",
    "condition": "Appears good: label clean, capsule intact, fill into the neck. Storage history unknown. It is a 24-year-old cork-sealed wine, so there is cork and storage risk.",
-   "question_for_armitage": "Is the cork sound with no seepage under the capsule, and is the fill into the neck? Is there any storage history (cellared or kept on a kitchen shelf)?"
+   "question_for_armitage": "Is the cork sound with no seepage under the capsule, and is the fill into the neck? Is there any storage history (cellared or kept on a kitchen shelf)?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088271,
@@ -3706,7 +3792,9 @@
    "dropped_entries": "Dropped the Langtons master page (auc-mas-15993-2004-1): on opening, 'Reserve not met' and 'Auction has been closed' are generic template text with a 1 Jan 1970 placeholder date and $0, not a real result. Dropped Langtons magnum lot 2855: snippet only, the page gave no usable text, and a 1.5L magnum is not the same item. Dropped Mid Day Somewhere A$304: the URL is for a different wine (The Standish Lamella).",
    "key_photo_findings": "Label reads Penfolds RWT 2004 Shiraz Barossa Valley, 750ml, bottle number 35432. The red closure has screwcap threads and ribbing at the top, so this is a screwcap bottle, not cork. Fill into the neck. A vendor sticker with a handwritten number (looks like 44343) and a note is on the shoulder.",
    "condition": "Appears good: label clean, screwcap intact, fill into the neck. Storage history unknown. The screwcap lowers the risk of cork taint and seepage.",
-   "question_for_armitage": "Can you confirm the screwcap seal is unbroken and the fill is into the neck, and does the bottle have any known storage history?"
+   "question_for_armitage": "Can you confirm the screwcap seal is unbroken and the fill is into the neck, and does the bottle have any known storage history?",
+   "keep_max_24m": 100,
+   "flip_max_24m": 30
   },
   {
    "cdid": 3088288,
@@ -3753,7 +3841,9 @@
    "dropped_entries": "Dropped Gowans lot 436182 PAIR OF JAPANESE VASES ($150): the photo shows Chinese-style famille rose peacock vases, not Satsuma. Dropped Gowans lot 434595 LARGE JAPANESE VASE ($30): the photo shows a brown glazed pottery jardiniere-style vase with moulded leaves, which is unrelated.",
    "key_photo_findings": "The black brush signature on the lower body reads \u9326\u5149\u5c71\u9020 (Kinkozan zo, made by Kinkozan). It is painted within the decoration rather than on the base. Decoration: geese in flight and resting among reeds on a cream ground with a grey cloud wash, an enamelled floral neck band and a hexagon-diaper floral foot band. Little or no gilding is visible, which points to later Meiji or Taisho export ware rather than top Kinkozan work. No obvious cracks or chips in the photos; bases and interiors are not shown.",
    "condition": "Appears sound in the photos with some surface wear. Bases, interiors and rims seen from above are not shown, so hairlines and restoration cannot be ruled out.",
-   "question_for_armitage": "What is the height of each vase? Are there any chips, hairline cracks or restoration (please check the rims and feet)? Is there a mark on the bases as well as the signature on the side?"
+   "question_for_armitage": "What is the height of each vase? Are there any chips, hairline cracks or restoration (please check the rims and feet)? Is there a mark on the bases as well as the signature on the side?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088300,
@@ -3848,7 +3938,9 @@
    "dropped_entries": "None dropped. I re-opened all nine Gowans records by lot id: title, price, bid count and listing date all match the researcher. Replaced the researcher's search URLs with lot-level API URLs. Added 397065 (Box incl Tasmanian photos, Beattie etc, $135). After checking photos, 416402 is a small souvenir album, so it is a weaker comp than the researcher implied.",
    "key_photo_findings": "Enlarged the views. One shows a power station building at the foot of a penstock running straight up a forested hill, consistent with Lake Margaret power station near Queenstown. Another shows a town on a bare, scarred hillside typical of Queenstown/Gormanston. Several have printed captions along the lower margin, unreadable at 800px. The portraits are standard cabinet cards on studio mounts, including a WW1 soldier and a regimental group. Some foxing and silvering on the large prints, and corner wear.",
    "condition": "Fair to good for age: foxing, some silvering and edge wear on the large prints, and rubbed cabinet card mounts. No obvious tears seen, but most prints overlap in the photos.",
-   "question_for_armitage": "How many large landscape prints are there, and what do the printed captions and photographer names say (e.g. Lake Margaret, Queenstown, Spurling, Beattie, Winter)? Any tears, water damage or trimmed margins?"
+   "question_for_armitage": "How many large landscape prints are there, and what do the printed captions and photographer names say (e.g. Lake Margaret, Queenstown, Spurling, Beattie, Winter)? Any tears, water damage or trimmed margins?",
+   "keep_max_24m": 65,
+   "flip_max_24m": 35
   },
   {
    "cdid": 3088304,
@@ -3895,7 +3987,9 @@
    "dropped_entries": "None dropped; I re-opened all three Gowans records by id and confirmed them. After seeing its photo, 378556 is relabelled close (category): it is a yellow gold solitaire, not a white gold ring with diamond shoulders.",
    "key_photo_findings": "Enlarged the side view: a checkerboard-faceted orange stone with visible inclusions or reflections, set between two sculpted shoulders pave-set with many small white stones down each side, on a heavy polished shank. No stamp visible inside or outside the shank in either photo.",
    "condition": "Looks unworn or lightly worn and polished; the stone surface appears clean. Size and weight not stated.",
-   "question_for_armitage": "What is stamped inside the band (14k, 585, 925, any maker)? Are the side stones diamonds? What are the ring size and weight in grams?"
+   "question_for_armitage": "What is stamped inside the band (14k, 585, 925, any maker)? Are the side stones diamonds? What are the ring size and weight in grams?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088306,
@@ -3966,7 +4060,9 @@
    "dropped_entries": "None dropped; I confirmed all six Gowans records by id, title, price and date. Replaced the researcher's search URLs with lot-level API URLs.",
    "key_photo_findings": "Enlarged the clasp and chain: fine trace chain, spring ring clasp, and a claw-set triangle stone with bar links. The stones are a strong, even purple with facet reflections, consistent with amethyst, though they could be synthetic or paste and need a look. The seed pearls are small and creamy. No stamp visible on the clasp and no tag in the photos.",
    "condition": "Appears complete and in good order: all seven stones and five pearls present, chain intact. Not known whether the clasp is a replacement.",
-   "question_for_armitage": "Is the necklace marked anywhere (clasp, spring ring or bar ends: 9ct, 15ct, 375, 625)? What does it weigh in grams? Are all the stones genuine amethyst and the pearls real seed pearls? Are any stones loose or chipped?"
+   "question_for_armitage": "Is the necklace marked anywhere (clasp, spring ring or bar ends: 9ct, 15ct, 375, 625)? What does it weigh in grams? Are all the stones genuine amethyst and the pearls real seed pearls? Are any stones loose or chipped?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088313,
@@ -4053,7 +4149,9 @@
    "confidence_reason": "Pearl type and clasp metal unverified: no mark is readable and the catalogue claims neither. The close comps are real SOLD Gowans results, opened with photos, but none gives a size, so they were matched by eye.",
    "key_photo_findings": "40 pearls about 9.5 to 10mm, uniform rather than graduated, slightly off-round with small surface dimples, good lustre, cream white. Clasp is a small gold-coloured bolt ring with no visible mark. Knotting cannot be confirmed.",
    "condition": "Looks clean with good lustre and no obvious chips or peeling. Condition of the stringing is unknown.",
-   "question_for_armitage": "Is the clasp marked 9ct/375 or 14k/585, or is it plated? Are the pearls real cultured pearls (gritty on the teeth) or shell/glass imitation, and is the strand knotted and sound?"
+   "question_for_armitage": "Is the clasp marked 9ct/375 or 14k/585, or is it plated? Are the pearls real cultured pearls (gritty on the teeth) or shell/glass imitation, and is the strand knotted and sound?",
+   "keep_max_24m": 65,
+   "flip_max_24m": 30
   },
   {
    "cdid": 3088314,
@@ -4132,7 +4230,9 @@
    "confidence_reason": "The 9ct mark is unread (single photo) and the weight is unknown. The comps are real SOLD results opened in the API, but matched on assumed weight.",
    "key_photo_findings": "One photo only. Fine figaro-type chain, spring ring with oval tag (a stamp appears present but unreadable when enlarged). Key pendant has a stone-outlined heart bow and a white-metal stem set with stones. No breaks seen.",
    "condition": "Appears intact. Whether all the stones are present cannot be checked from the photo.",
-   "question_for_armitage": "What do the clasp tag and pendant bail stamps say (375/9K or plated)? What is the total weight in grams, and are all the stones present?"
+   "question_for_armitage": "What do the clasp tag and pendant bail stamps say (375/9K or plated)? What is the total weight in grams, and are all the stones present?",
+   "keep_max_24m": 95,
+   "flip_max_24m": 40
   },
   {
    "cdid": 3088315,
@@ -4211,7 +4311,9 @@
    "confidence_reason": "Mark unread, weight unknown, and the only evidence is category-guide sales of plain 9ct brooches.",
    "key_photo_findings": "Front: large glossy operculum cabochon, no obvious cracks. Back: solid rose-gold-coloured plate with light scratches, a grey steel or white-metal pin on a gold hinge and catch, and a small loop at the top. Enlarged, the stamp is a small crown-shaped cartouche, possibly a British gold mark, but unreadable.",
    "condition": "Shell intact with good colour. Light scratches on the back. Pin present and apparently not gold.",
-   "question_for_armitage": "What does the stamp on the back read (9ct/375, crown and 9, or something else)? What is the total weight, and is the shell free of cracks and secure in the bezel?"
+   "question_for_armitage": "What does the stamp on the back read (9ct/375, crown and 9, or something else)? What is the total weight, and is the shell free of cracks and secure in the bezel?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088320,
@@ -4289,7 +4391,9 @@
    "dropped_entries": "Dropped Gowans lot 443361 (JADE PENDANT NECKLACE, $60, 5 bids). It belongs to Gowans auction 367 (GA161026), which the API lists as 'current' (sale 16 Oct 2026), so the $60 is a live or absentee bid level, not a SOLD hammer. The researcher was wrong to call it a sold result. Also downgraded 430517 from 'close' to 'category guide' after viewing its photos (dragon disc pendant, no chain).",
    "key_photo_findings": "One photo. Fine yellow rope-style chain with a bolt ring and a small oval tag (mark not legible at this resolution). Carved pendant about 4cm long (scaled from the tape), mottled mid green with whitish and faint lavender zones, translucent, with a carved foliage or bamboo motif and a flower-shaped gold-colour bail. Natural jadeite is possible but untested. It could be treated (B or C grade) or another green stone.",
    "condition": "Appears good. No chips visible on the pendant in the single photo, and the chain appears intact.",
-   "question_for_armitage": "What is the chain's stamp (375 or 9ct) and the total weight with and without the pendant? Is the bail gold and marked? Are there any chips on the pendant edges?"
+   "question_for_armitage": "What is the chain's stamp (375 or 9ct) and the total weight with and without the pendant? Is the bail gold and marked? Are there any chips on the pendant edges?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088321,
@@ -4356,7 +4460,9 @@
    "dropped_entries": "Dropped Gowans lot 398273 (sterling with gold overlay watch, brooch and earrings by Wanda, $50). It is not a ring and it is gold overlay rather than solid 18ct, so it is not comparable.",
    "key_photo_findings": "Three photos. Wide concave silver band with two flat rectangular yellow gold plates forming the top and bottom flanges, giving a spool profile. The gold plates look solid and fairly thick rather than plated, with slight wear. The inside of the shank is not shown, so no maker, 925 or 750 marks are visible. It comes with a pewter-look lidded pill box with a seagull motif, which adds little.",
    "condition": "Good, with light surface wear on the silver. The gold plates appear intact.",
-   "question_for_armitage": "Are there any maker's marks or hallmarks inside the shank (for example 925, 750 or 18K, a designer stamp or a country mark)? What is the total weight and the ring size?"
+   "question_for_armitage": "Are there any maker's marks or hallmarks inside the shank (for example 925, 750 or 18K, a designer stamp or a country mark)? What is the total weight and the ring size?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088329,
@@ -4456,7 +4562,9 @@
    "dropped_entries": "None dropped. All of the researcher's entries were checked against the Gowans API and photos. I re-graded the 9ct pairs from 'category guide' to 'close' because the lot is acid-tested 9ct and these pairs sell on gold weight, and kept the 15ct pair as a category guide. Added Gowans 399784 ($400, 6.4g) and 391733 ($160, 2.3g, damaged).",
    "key_photo_findings": "One photo. Oval domed yellow gold fronts with a black enamel ring around mother of pearl, and a lozenge-shaped white metal setting holding a small round brilliant (looks like diamond, about 2 to 3 points). Fixed T-bar backs on short posts. No hallmark visible in the photo; the catalogue says they acid test as 9ct. The enamel looks complete and the MOP uncracked at this resolution.",
    "condition": "Good in the photo. Minor surface wear on the gold; the enamel and MOP appear intact.",
-   "question_for_armitage": "What is the total weight in grams? Have the stones been tested as diamonds, and are there any chips in the enamel or mother of pearl? Is there a maker's or purity mark on the bars?"
+   "question_for_armitage": "What is the total weight in grams? Have the stones been tested as diamonds, and are there any chips in the enamel or mother of pearl? Is there a maker's or purity mark on the bars?",
+   "keep_max_24m": 145,
+   "flip_max_24m": 70
   },
   {
    "cdid": 3088336,
@@ -4527,7 +4635,9 @@
    "dropped_entries": "Dropped 425674 BRACELET WITH CHARM $50 (metal unknown, no detail). Dropped 422406 STERLING SILVER PANDORA BRACELET & CHARMS 75GM $350 (branded Pandora, not comparable to an unbranded vintage piece). Not used: 420900 CHARM BRACELET $130 and 398296 CHARM BRACELETS $100 (prices confirmed but metal unknown, leads only). 380414 jewellery box & 2 silver charm bracelets $40 confirmed but mixed lot, not used.",
    "key_photo_findings": "Charm bracelet: heavy double curb links, about 25 cast 3D charms, one rectangular engraved tag charm and a curved tag near the centre with a stamped mark (unreadable when enlarged). Panel bracelet: box clasp with stamped lettering on the side (unreadable, could be 925 or a maker). Clasp end of the charm bracelet sits loose at left with a trumpet charm; clasp attachment needs checking.",
    "condition": "Looks used but intact; light tarnish in recesses; charm bracelet clasp end may be detached or simply open. No visible missing links.",
-   "question_for_armitage": "Can you read the stamps on the panel bracelet clasp and the charm bracelet tag (925, Sterling, Silver, or a plated mark)? What do the two bracelets weigh, and is the charm bracelet clasp intact and working?"
+   "question_for_armitage": "Can you read the stamps on the panel bracelet clasp and the charm bracelet tag (925, Sterling, Silver, or a plated mark)? What do the two bracelets weigh, and is the charm bracelet clasp intact and working?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088346,
@@ -4606,7 +4716,9 @@
    "dropped_entries": "Dropped 383808 bag incl florins $1,600 (outlier, contents unknown). Dropped 408022 BOX OF PRE-DECIMAL COINS $580 (mostly bronze per researcher's photo view, unlike lot 903). Dropped 414602 PRE-DECIMAL SILVER COINS & OTHERS $420 (mainly coppers plus a boxed 1927 set, result driven by the set). The researcher's averaged $88 sheet figure was replaced by the actual range.",
    "key_photo_findings": "About 75 to 85 coins visible in a tray, stacks hide some. Readable: 1958 ram shilling, 1961 and 1963 sixpences, several coat-of-arms sixpences and shillings, a few George VI and George V portraits, 3 to 5 dark bronze or toned coins. Wear is typical circulated, no proof or uncirculated pieces seen.",
    "condition": "Circulated, light to moderate wear, some toning. No damage visible.",
-   "question_for_armitage": "How many coins are in lot 903 and what does the silver weigh? Any florins or pre-1946 coins among them, and how many are bronze?"
+   "question_for_armitage": "How many coins are in lot 903 and what does the silver weigh? Any florins or pre-1946 coins among them, and how many are bronze?",
+   "keep_max_24m": 185,
+   "flip_max_24m": 80
   },
   {
    "cdid": 3088351,
@@ -4709,7 +4821,9 @@
    "dropped_entries": "None of the researcher's entries dropped; all prices, bids and dates confirmed on lot endpoints. Not used: 443468 BAG OF 6 ROUND 1966 50C COINS $170, listed 2026-10-11, probably the current Gowans sale, so the figure may be a live bid, not a hammer. Lead only.",
    "key_photo_findings": "Six round 50c coins, all reverse (coat of arms) up, so obverses and dates not shown. Bright silver with light wear on high points; the top-left coin has a small nick at the rim near 11 o'clock and light scuffs.",
    "condition": "Circulated, light wear, bright; one coin with a small rim mark. No obverse view.",
-   "question_for_armitage": "Can you confirm all six are round 1966 50c pieces, and check the obverses for damage or cleaning?"
+   "question_for_armitage": "Can you confirm all six are round 1966 50c pieces, and check the obverses for damage or cleaning?",
+   "keep_max_24m": 145,
+   "flip_max_24m": 65
   },
   {
    "cdid": 3088354,
@@ -4764,7 +4878,9 @@
    "dropped_entries": "Dropped 396541 'TIN & BOX OF BRITISH COINS' ($170): photo shows mostly worn copper, not silver. Dropped 385398 'BAG OF ASST BRITISH COINS' ($55): photo shows modern mint sets and commemoratives. Dropped 388593 'BOX OF ASST ENGLISH COINS' ($35): box of carded modern-looking coins. Dropped 417679 'QTY OF ENGLISH COINS' ($20): small mixed bag of copper and post-war cupro-nickel. Researcher's URLs pointed at search pages; replaced with single-lot API records, prices and dates confirmed.",
    "key_photo_findings": "Flip labels read: One Florin 1901 F (Victoria veiled head), Half Penny 1860 GB (dark, very worn), Half Penny 1886 F, Half Crown 1932 VF, 1907 F, 1922 VF, 1835 GB (heavily worn), 1 Shilling 1907 F. Four loose half crowns: top left George V shield type, top right appears George VI type, bottom right legend may not be British (possibly South African), bottom left worn smooth. Loose coin dates not readable.",
    "condition": "Circulated, mostly Fine to VF by the owner's flip notes; 1835 half crown and 1860 halfpenny heavily worn; loose coins worn.",
-   "question_for_armitage": "Can you read the dates and country on the four loose half crowns (any 1947 or later, which are not silver, or any South African)? Is the 1835 half crown holed, bent or damaged?"
+   "question_for_armitage": "Can you read the dates and country on the four loose half crowns (any 1947 or later, which are not silver, or any South African)? Is the 1835 half crown holed, bent or damaged?",
+   "keep_max_24m": 155,
+   "flip_max_24m": 60
   },
   {
    "cdid": 3088359,
@@ -4835,7 +4951,9 @@
    "dropped_entries": "None dropped. Corrected 440218 date to 2026-09-27 and 443476 contents. Researcher URLs pointed at search pages; replaced with single-lot API records, prices confirmed.",
    "key_photo_findings": "Three 1927 Parliament House florins below the tray, worn (Fine range), no obvious holes. Tray: 1954 Royal Visit florin, shield-and-kangaroo types with 1958, 1947 and probably 1954 legible; others obscured by overlap. No obvious pre-1946 George V types in the tray.",
    "condition": "Circulated, Fine to VF, some toning; no visible damage at photo resolution.",
-   "question_for_armitage": "Can you read the dates on the ten florins in the tray (any 1945 or earlier, which are sterling)? Are the three 1927 florins free of holes, cleaning or edge knocks?"
+   "question_for_armitage": "Can you read the dates on the ten florins in the tray (any 1945 or earlier, which are sterling)? Are the three 1927 florins free of holes, cleaning or edge knocks?",
+   "keep_max_24m": 155,
+   "flip_max_24m": 85
   },
   {
    "cdid": 3088361,
@@ -4946,7 +5064,9 @@
    "dropped_entries": "Dropped 383808 ($1,600): about 150 sorted coins in album sheets and flips, likely key dates; not comparable. Dropped 441696 ($105): photo shows only a closed wooden box, contents unknown. Downgraded 414602 to category guide.",
    "key_photo_findings": "Photo 1: box of about 70 worn copper pennies and halfpennies (kangaroo and Britannia reverses, George V/VI) with one or two silver coins; small box of about 50-55 silver coins. Photo 2: QEII threepences and sixpences, a 1962 shilling, ram shillings, a few George VI pieces. No florins or key dates seen.",
    "condition": "Circulated and worn; copper dirty, verdigris on a few; silver mostly Fine to VF.",
-   "question_for_armitage": "Roughly how many silver coins are in the small box, and what does the silver weigh? Any coins dated 1945 or earlier, or any florins, among them?"
+   "question_for_armitage": "Roughly how many silver coins are in the small box, and what does the silver weigh? Any coins dated 1945 or earlier, or any florins, among them?",
+   "keep_max_24m": 90,
+   "flip_max_24m": 70
   },
   {
    "cdid": 3088365,
@@ -4985,7 +5105,9 @@
    "dropped_entries": "The researcher gave no entries. I left out the Arader Galleries listing (US$8,500, https://www.abebooks.com/Victoria-Illustrated-Second-Series-Descriptive-Letterpress/7581470997/bd, page opened) because it is a rare hand-coloured copy in morocco and not comparable. Listings for the 1857 first series (S.T. Gill) are a different book and were not used. WebSearch was unavailable (the turn budget was used up), so I could not search Armitage, the Gowans website, Leonard Joel, Lawsons or Invaluable. The Gowans API returned nothing for these terms.",
    "key_photo_findings": "The title page reads 'Victoria Illustrated, Second Series, with Descriptive Letterpress, Sands, Kenny & Co., Melbourne, Sands & Kenny, Sydney, 1862'. Plates seen: Melbourne Hospital, Melbourne Protestant Orphan Asylum Emerald Hill and Collegiate Grammar School St Kilda, plus the letterpress for Church of England Grammar School. The plates look fairly clean in the photos. The cover gilt is bright. Photo 1 shows loose leaves sticking out at the fore-edge, and the spine edge is rubbed.",
    "condition": "Cloth rubbed, spine worn, some leaves loose (gutta percha bindings of this date often fail). Plate count and foxing unknown.",
-   "question_for_armitage": "How many engraved plates are there? A complete copy has an engraved title and about 41 to 43 plates. Is the engraved title page present? How many leaves are loose or missing, and are the plates foxed or stained?"
+   "question_for_armitage": "How many engraved plates are there? A complete copy has an engraved title and about 41 to 43 plates. Is the engraved title page present? How many leaves are loose or missing, and are the plates foxed or stained?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088382,
@@ -5032,7 +5154,9 @@
    "dropped_entries": "None dropped. I re-opened all three researcher entries at listing level and confirmed them. AUD figures are corrected from the assumed 1.54 rate to 1.446 (A$332 to A$312, A$487 to A$457, A$221 to A$208). WebSearch was unavailable (turn budget used up) and the Gowans API had nothing.",
    "key_photo_findings": "The limitation page reads 'A limited edition of 500 copies numbered and signed by the artist/author, this copy being 252' with an ink signature. Title page: Volume 1, Grebes-Cormorants. Quarter brown leather with gilt birds on cloth; the corners look sound in photo 1. The plates (pelicans, pied cormorants) look clean.",
    "condition": "Looks good in the photos; no slipcase seen. Volume 2 is not included.",
-   "question_for_armitage": "Is volume 2 (Herons-Spoonbills) or a slipcase anywhere in the sale? Is there any foxing, marking or wear to the leather corners and spine?"
+   "question_for_armitage": "Is volume 2 (Herons-Spoonbills) or a slipcase anywhere in the sale? Is there any foxing, marking or wear to the leather corners and spine?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088384,
@@ -5111,7 +5235,9 @@
    "dropped_entries": "The researcher gave no entries. The Gowans hits for the 1954 40th Battalion reunion programme ($5) and Of Storms & Rainbows 2/12th Battalion ($55) are different items and were not used. Every Story of the Twelfth listing found was a 2000 John Burridge reprint or a Naval & Military Press reprint, so none is comparable to the 1925 original. The Charlotte Du Rietz (US$1,395) and Antipodean Books (US$1,815) Warburton listings were seen on the search page only and not opened, so they were not used. WebSearch was unavailable (turn budget used up).",
    "key_photo_findings": "The Fortieth: the title page reads 'F.C. Green, with a foreword by Sir John Monash, Hobart, John Vail, Government Printer, 1922'. The frontispiece is Lt Col J.E.C. Lord with a printed facsimile signature 'J.E.C. Lord', not a hand signature. There is a pencil ownership inscription on the title, possibly 'L.B. Hampson, Launceston'. Story of the Twelfth: the title page reads 'J. Walch & Sons, Hobart, 1925', so it is the original and not the reprint. It has a frontispiece of the three commanding officers, and the covers are rubbed and soiled. Warburton: green cloth with gilt camels and 'Across Australia', matching the 1875 publisher's binding. The half-title reads 'Journey Across the Western Interior of Australia' and is inscribed 'From my dear sister Ella, May 1898'. The title page, plates and folding map are not photographed.",
    "condition": "All three are used and worn. The Fortieth: white cover titling worn, red cloth marked. The Twelfth: rubbed, soiled covers. The Warburton: cloth fairly bright, corners bumped, tail worn; completeness unknown.",
-   "question_for_armitage": "For the Warburton: is the title page dated London 1875, and are the portrait frontispiece, the 8 plates and the large folding map at the back all present and intact? For The Fortieth: are all 12 folding maps present? Do any of the three books have loose leaves or foxing?"
+   "question_for_armitage": "For the Warburton: is the title page dated London 1875, and are the portrait frontispiece, the 8 plates and the large folding map at the back all present and intact? For The Fortieth: are all 12 folding maps present? Do any of the three books have loose leaves or foxing?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088047,
@@ -5131,7 +5257,9 @@
    "dropped_entries": "Gowans lot 389 'LLADRO FIGURE OF A LADY WITH UMBRELLA' ($120 hammer, listed 2026-09-06): I opened the API record and viewed its 4 photos. It is a different model (lady in a buttoned blouse holding a hat box, detached small parasol, came with a Bernardaud box), so it is not the same item and is downgraded from 'close' to category guide only. The other five Gowans entries ($110 girl with flowers, $100 Japanese lady, $140 Japanese woman damaged with box, $40 damaged girl with flower pot, $5 girl with candle) were confirmed in the API (prices, dates and titles match) but are different models, so they are category guides only and are not filed as same-item evidence. All are AUD hammers with Gowans premium extra.",
    "key_photo_findings": "Two photos, front and side. Figure has a real lace fabric parasol (pink, frilled) on a metal rod, glossy white gown with pale floral hem, Lladro-style elongated face. No base or backstamp shown. Parasol lace looks clean and intact; no obvious chips seen at this resolution, but fingers and parasol rod are fragile points.",
    "condition": "Appears good from two photos; fingers, parasol lace and rod not checked closely; base unseen.",
-   "question_for_armitage": "Please confirm the backstamp on the base (Lladro mark and model number, e.g. 7636), whether the lace parasol is original and undamaged, and whether there are any chips or restorations to fingers, hair or hem. Is there an original box?"
+   "question_for_armitage": "Please confirm the backstamp on the base (Lladro mark and model number, e.g. 7636), whether the lace parasol is original and undamaged, and whether there are any chips or restorations to fingers, hair or hem. Is there an original box?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088050,
@@ -5151,7 +5279,9 @@
    "dropped_entries": "None to drop; the researcher supplied no entries.",
    "key_photo_findings": "Three photos. Bright, even emerald green glaze with very crisp moulding and bright enamel colours, which points to modern production rather than Ming. Openwork bands on both sides of the belly intact. A paper label or sticker inside the rim and a small square label on the shoulder. No chips or cracks visible. Base and foot not shown.",
    "condition": "Appears good, no visible damage; base and interior unseen.",
-   "question_for_armitage": "Please show or describe the base (any reign mark, glaze, foot rim wear), the height, and any chips, cracks or restoration, particularly to the openwork and applied branches."
+   "question_for_armitage": "Please show or describe the base (any reign mark, glaze, foot rim wear), the height, and any chips, cracks or restoration, particularly to the openwork and applied branches.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088057,
@@ -5171,7 +5301,9 @@
    "dropped_entries": "None to drop; the researcher supplied no entries.",
    "key_photo_findings": "Three photos. Portrait of Wagner in a beret, well rendered, gilt beaded borders, gilt foliate panel on the reverse, green-banded saucer with gilt rims. Enlarged base: 'Richard Wagner.' in black script; blue overglaze blackletter line (blurry, possibly 'Handgemalt'); 'Dresden' script; blue circular interlaced monogram (unread, could be one of several Dresden decorators). Gilding looks bright with light rim wear only. No chips seen.",
    "condition": "Appears good with light gilt wear; hairlines not checked.",
-   "question_for_armitage": "Can you read the blue circular monogram and the blackletter line on the base (does it say 'Handgemalt', hand painted)? Please check the cup and saucer for hairlines, chips and gilt wear, and confirm the saucer is matching."
+   "question_for_armitage": "Can you read the blue circular monogram and the blackletter line on the base (does it say 'Handgemalt', hand painted)? Please check the cup and saucer for hairlines, chips and gilt wear, and confirm the saucer is matching.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088061,
@@ -5193,7 +5325,9 @@
    "dropped_entries": "Dropped all 7 researcher SOLD entries (Gowans lots 391998 Pretty Ladies $100, 388678 The Cobbler $100, 398395 Angela $85, 411403 Sweet Anne $70, 398393 Sarah $65, 409815 Elaine $45, 395163 Charlotte $10). Prices, dates and kinds were correct (API re-checked, page opened), but none is the Delight HN1772 model, so they are category guides, not the same item. Used only as context in guide_summary.",
    "key_photo_findings": "Base enlarged: green printed lion-and-crown 'Royal Doulton England Bone China Made in England' backstamp, title '\"Delight\"', and painted 'HN 1772' with 'Potd' alongside. Red circular patch over the base hole. Front shows a complete figure with no obvious breaks to hands, head or skirt edges at this resolution. Some grime around the base rim. No copyright date or registration number visible, which suits an earlier production run.",
    "condition": "Looks complete and undamaged in two photos, but hairline cracks, restoration to the outstretched hands and fingers, or crazing cannot be ruled out from the photos.",
-   "question_for_armitage": "Can you check the hands, fingers, bonnet ribbon and skirt edges for chips, restoration or hairline cracks, and say whether there is any crazing?"
+   "question_for_armitage": "Can you check the hands, fingers, bonnet ribbon and skirt edges for chips, restoration or hairline cracks, and say whether there is any crazing?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088071,
@@ -5215,7 +5349,9 @@
    "dropped_entries": "None (researcher supplied no entries).",
    "key_photo_findings": "Front: three small sketches of curved dome or shed-like 'earthworks' structures, each image about 5 cm square in a wide white canvas surround. Reverse of one: 'Ryllton Viney. 2023. Study for a Painting (Earthworks 3), Pencil on Paper Mounted on Canvas. 5 cm (H) x 5 cm (W)'. Only one back is photographed, so the other two are not confirmed as signed.",
    "condition": "Appears clean and recent (2023). Canvas edges look fine. Two reverses unseen.",
-   "question_for_armitage": "Are all three studies signed and inscribed on the back by Ryllton Viney, and are they sold as one lot?"
+   "question_for_armitage": "Are all three studies signed and inscribed on the back by Ryllton Viney, and are they sold as one lot?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088076,
@@ -5254,7 +5390,9 @@
    "dropped_entries": "Dropped Gowans 378704 ($270, '2 Victorian miniature portraits in gilt frames'): the photo shows a gentleman portrait in a large oval frame plus a Madonna roundel, a different item. Dropped Gowans 409975 ($185, 'Gilt framed miniature portrait'): the photo shows a single porcelain-style plaque in a large carved giltwood frame, a different item. Dropped Gowans 382178 ($120): a single Victorian miniature, not a pair, photo not compared. All prices and dates were as claimed when re-checked in the API.",
    "key_photo_findings": "Enlarged faces: brushwork is visible, so they are hand-painted rather than printed, of fairly naive quality. Left: lady with powdered hair holding a bow or quill, colours reasonable. Right: lady with a blue flower headdress, heavily faded and washed out, possibly damp-affected. Frames: cast gilt metal with beaded and leaf borders and different crests (wreath with leaves, and ribbon bow). Backs: one has woven fabric backing, the other has torn backing paper exposing the board. Wire struts present, gilding worn.",
    "condition": "Poor to fair: the right portrait is badly faded, both glasses are dull, one backing is torn and the gilding is worn. Struts intact.",
-   "question_for_armitage": "Are the portraits painted on ivory, card or paper, are the glasses intact, and is there any signature behind the frames?"
+   "question_for_armitage": "Are the portraits painted on ivory, card or paper, are the glasses intact, and is there any signature behind the frames?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088090,
@@ -5318,7 +5456,9 @@
    "dropped_entries": "None dropped. All 5 researcher entries confirmed in the Gowans API (ids, prices, bid counts, dates match). Three re-filed as category guide only. Lot id 380473 added for the ladle and salt entry.",
    "key_photo_findings": "Two photos. Embossed floral and C-scroll repousse with vacant cartouche on each side, flared oval rims, gilt or gilt-washed interiors, oval foot. A row of small hallmark punches on the rim of each salt; enlarged crops show punch outlines but no readable lion, town mark or date letter. No obvious splits or dents visible; light surface wear.",
    "condition": "Appears good, light wear, no visible splits or repairs in the photos. Gilding to interiors looks intact. Marks not readable.",
-   "question_for_armitage": "Can you read the hallmarks (lion passant, town mark, date letter, maker) and give the combined weight in grams? Any splits, holes or repairs in the embossed bodies?"
+   "question_for_armitage": "Can you read the hallmarks (lion passant, town mark, date letter, maker) and give the combined weight in grams? Any splits, holes or repairs in the embossed bodies?",
+   "keep_max_24m": 25,
+   "flip_max_24m": 10
   },
   {
    "cdid": 3088095,
@@ -5374,7 +5514,9 @@
    "dropped_entries": "None dropped; all 3 researcher entries confirmed in the Gowans API, kept as category guides only. Unsupported $60 to $150 retail impression discarded.",
    "key_photo_findings": "Three photos. Thick bevelled green glass with intaglio of a seated winged figure and a standing cherub holding a bird or flowers. Gilt-metal pierced filigree band with red cabochons and square blue pastes, ribbon-cartouche mounts at the ends, scroll feet, leaf-cast loop handles. Glass shows yellow-green tint at the edges. No chips visible at this resolution; no maker mark visible.",
    "condition": "Appears good in photos; gilding has some dulling. Check stones present and glass rim for chips.",
-   "question_for_armitage": "Are all the paste stones present? Any chips to the glass rim or underside? Is there a Czechoslovakia mark on the mount or glass, and does the glass glow under UV?"
+   "question_for_armitage": "Are all the paste stones present? Any chips to the glass rim or underside? Is there a Czechoslovakia mark on the mount or glass, and does the glass glow under UV?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088097,
@@ -5446,7 +5588,9 @@
    "dropped_entries": "Dropped the 60TH ANNIVERSARY OF WWII MEDALS entry ($30, lot 365329, confirmed in API): it is a commemorative set, not comparable to issued medals. Other 3 researcher entries confirmed and kept as category guides.",
    "key_photo_findings": "Two photos (front and back). Stars have the GRI VI cypher and correct ribbons: 2 x 1939-45 Star (dark blue, red, light blue), 1 x Burma Star (dark blue with orange and red). Defence Medal with uncrowned GVI bust obverse and green and orange ribbon. One loose star with ring, reverse unclear. Loose Africa Star ribbon. US Antarctica Service Medal: hooded figure obverse, COURAGE SACRIFICE DEVOTION over polar map reverse, Wintered Over bar on ribbon, plus ribbon bar. US Air Force Good Conduct Medal: eagle on sword and book with EFFICIENCY HONOR FIDELITY. QEII crowned bust medallion with arms reverse on blue ribbon with pin. British WWII stars were issued unnamed; no reverse naming visible.",
    "condition": "Fair to good; ribbons a bit faded and frayed, medals with normal toning. Authenticity of stars unconfirmed (copies are common).",
-   "question_for_armitage": "Are any of the medals named or numbered (check reverse of stars and the Defence Medal rim, Australian issues were impressed)? Do the stars look like originals (weight, crisp detail, flat reverse) rather than copies? Which star is the unribboned one?"
+   "question_for_armitage": "Are any of the medals named or numbered (check reverse of stars and the Defence Medal rim, Australian issues were impressed)? Do the stars look like originals (weight, crisp detail, flat reverse) rather than copies? Which star is the unribboned one?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088103,
@@ -5517,7 +5661,9 @@
    "dropped_entries": "Dropped 'silver filigree bracelet' Gowans entries ($30-60, heart/padlock/beaded charm-style bracelets): different style from a Siam panel cuff bracelet. Dropped 'silver pendant' entries ($20-60 pendants and $125/$150 trays of assorted sterling and 10K gold): mixed lots with confirmed sterling and gold, not comparable. Not used: lot 443513 Chinese enamel koi fish pendant (listed 2026-10-11, probably the current Gowans sale). WebSearch was capped, so no Armitage past results were checked.",
    "key_photo_findings": "Panel bracelet with floral filigree and safety chain; one clasp plate looks bent or lifted. Fish pendant has a green stone eye and articulated body. Fan pendant has a stamped mark that cannot be read at this resolution. Prouds box holds a paste lizard brooch and a pair of screw-back earrings. Pearl studs on a retail card look like costume.",
    "condition": "Used. Bracelet clasp looks distorted, silver tarnished. Costume pieces appear complete in boxes.",
-   "question_for_armitage": "Are the bracelet, fish pendant and fan pendant marked sterling or 925 (or Siam Sterling), and does the bracelet clasp still close securely? A total weight of the silver pieces would help."
+   "question_for_armitage": "Are the bracelet, fish pendant and fan pendant marked sterling or 925 (or Siam Sterling), and does the bracelet clasp still close securely? A total weight of the silver pieces would help.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088105,
@@ -5605,7 +5751,9 @@
    "dropped_entries": "Dropped lot 443534 single London 1902 sterling napkin ring, $70, 16.9GM: listed 2026-10-11, almost certainly the current Gowans sale, so sale_price is a live bid not a hammer. WebSearch was capped, so no Armitage past results were checked.",
    "key_photo_findings": "Two oval rings with bright-cut style engraving and wavy rims; four round rings with machine-pierced floral bands over a plain liner, each with a small oval cartouche, one engraved with a script initial. Heavy tarnish typical of silver. No marks visible in the single photo.",
    "condition": "Tarnished, no obvious dents visible in the photo, interiors not shown closely.",
-   "question_for_armitage": "Are all six napkin rings hallmarked sterling (which assay office and date), or are any EPNS or plated? Could you give the total weight? Any dents or splits in the pierced bands?"
+   "question_for_armitage": "Are all six napkin rings hallmarked sterling (which assay office and date), or are any EPNS or plated? Could you give the total weight? Any dents or splits in the pierced bands?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088113,
@@ -5652,7 +5800,9 @@
    "dropped_entries": "Dropped Gowans lot 432171 butterfly-wing bar brooch $60 (decorative wing insert, not comparable to a plain bar). Dropped sweetheart/mizpah/Netley Hospital brooches $50-67 (sentimental named types, more collectable). Dropped lot 412913 marcasite brooch 1965 $15 (different type). WebSearch was capped, so no Armitage past results were checked and nothing was found for the 1936 badge.",
    "key_photo_findings": "Card reads 'Makers Mark J.B, Sterling Silver, Birmingham 1896' with ticket '$75-00'; the bar brooch shows a leaf and flower engraving, hallmarks not visible. Badge reads 'COMMONWEALTH OF AUSTRALIA 1936' around the coat of arms, bronze-coloured. Tin holds mixed gilt and paste costume pieces; knife rests are moulded glass.",
    "condition": "Used costume jewellery, condition unchecked; bar brooch looks sound in the photo.",
-   "question_for_armitage": "Can you confirm the hallmarks on the bar brooch (lion, anchor, date letter, J.B) and its weight? What is the 1936 Commonwealth of Australia badge (is there a maker or number on the back)?"
+   "question_for_armitage": "Can you confirm the hallmarks on the bar brooch (lion, anchor, date letter, J.B) and its weight? What is the 1936 Commonwealth of Australia badge (is there a maker or number on the back)?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088125,
@@ -5764,7 +5914,9 @@
    "dropped_entries": "372519 ($120, LTD EDN PRINT 302/1600): dropped, the photo shows an offset reproduction of an outback scene, a different kind of print. 411350 ($7, 3 PRO HART PRINTS): dropped, a job lot. 367214 ($440) and 385691 ($330): dropped, larger and more complex images, not comparable. The researcher's grouped '$220 to $440' entry was split into individual verified lots. Unsold 432591 and 434175 (PRO HART PRINT): dropped, offset outback reproductions. Feast or Fish 49/250: dropped, a different kind. The researcher's doubt about the attribution is withdrawn: the Gowans photo of the same image is catalogued as Pro Hart.",
    "key_photo_findings": "The enlarged signature crop reads as a two-line 'Pro / Hart', matching the stacked signature on Gowans Pro Hart etchings. The pencil edition lower left is too faint to read (the Gowans copy reads about 4/50). The image matches Gowans lot 439005 exactly. Burr wood frame with cream mat.",
    "condition": "Framed and glazed in a burr frame. Mat and paper look clean in the photos, with no foxing visible at this resolution. Back not photographed.",
-   "question_for_armitage": "Can you read the pencil edition number lower left and confirm the signature reads Pro Hart? Is there any foxing, staining or glass damage, and is there a gallery label or certificate on the back?"
+   "question_for_armitage": "Can you read the pencil edition number lower left and confirm the signature reads Pro Hart? Is there any foxing, staining or glass damage, and is there a gallery label or certificate on the back?",
+   "keep_max_24m": 105,
+   "flip_max_24m": 60
   },
   {
    "cdid": 3088138,
@@ -5786,7 +5938,9 @@
    "dropped_entries": "Gowans 384223 ($200, 19th century famille rose pen box, cracked): opened in the API JSON, dropped as a different form, palette and age. Gowans 418461 ($55, Chinese peacock signed vase): opened, dropped as a generic modern vase. The researcher's date was also wrong (listed 2026-06-21, not 2026-08-23). Gowans 431091 ($30, large Chinese painted vase): dropped, generic.",
    "key_photo_findings": "Crisp, even enamels with neat outlines. The yellow ground is uniform and bright and the interior glaze is very white and clean. That tidy finish leans towards a 20th century (Republic or later) decorative piece rather than early Qing, but the base is needed to settle it. No obvious rim chips.",
    "condition": "The rim looks intact. There may be small marks on one panel, but it is unclear. Base not photographed.",
-   "question_for_armitage": "What is on the base: a reign mark or seal, and is the foot glazed or unglazed, and how worn is it? Any chips, cracks or restoration? Is there a lid (it is catalogued as a canister)?"
+   "question_for_armitage": "What is on the base: a reign mark or seal, and is the foot glazed or unglazed, and how worn is it? Any chips, cracks or restoration? Is there a lid (it is catalogued as a canister)?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088157,
@@ -5808,7 +5962,9 @@
    "dropped_entries": "None (the researcher reported no entries).",
    "key_photo_findings": "The enlarged crop shows oversized LV letters across the face, pyramid studs, and a box printed with a large monogram bulldog graphic. Genuine LV boxes are plain saffron with the name only, so the printed dog is a strong replica sign. No serial or stamping visible.",
    "condition": "Looks new or near new, box present.",
-   "question_for_armitage": "Is there any heat stamp, date code or engraved hardware, and does it come with a receipt or dust bag? If not, assume it is a replica."
+   "question_for_armitage": "Is there any heat stamp, date code or engraved hardware, and does it come with a receipt or dust bag? If not, assume it is a replica.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088165,
@@ -5830,7 +5986,9 @@
    "dropped_entries": "Dropped all three. Gowans 373963 '2 POTTERY OWL FIGURES' $130 hammer (listed 2025-11-10, API record opened, photo viewed by me): two unsigned painted terracotta-style garden owls, different maker and type, not comparable. Gowans 432501 'POTTERY HORSE FIGURES - SIGNED YEC' $380 (listed 2026-08-23, API record opened): different maker, contents unknown. Gowans 406972 'BOX OF SUNDRY ITEMS INC POTTERY OWL' $180 (listed 2026-05-03): mixed box, price not attributable. Records themselves are real and correctly priced, but none is the same item.",
    "key_photo_findings": "Photo 3: incised 'McLAREN' signature on base of the horse figure, unglazed brown feet. Horse head is an open spout (bottle or whistle). A thin white band or cord is wrapped round the horse's neck in photos 1 and 2: could be decorative, or could hide a break and glue repair at the neck. Owl has incised square panel motif, no damage seen. Only the horse base is shown, so the owl's mark is unseen.",
    "condition": "No chips seen in photos; neck band on the horse is unexplained and may conceal a repair. Owl base not shown.",
-   "question_for_armitage": "Is there a break or repair under the white band round the horse's neck? Is the owl also signed McLAREN on the base, and are there any chips to the ears, feet or spout?"
+   "question_for_armitage": "Is there a break or repair under the white band round the horse's neck? Is the owl also signed McLAREN on the base, and are there any chips to the ears, feet or spout?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088167,
@@ -5926,7 +6084,9 @@
    "dropped_entries": "Researcher's note that lot 426 was 'numbered 138/275, framed in timber with white-wash frame and grey mat' is not in the API record (description empty); the frame matches the photo I viewed, but the number is unverified. Kept. Facsimile lots (Post & Mail $10, Argyle Cut $50) excluded as a different product.",
    "key_photo_findings": "Pencil 'Robert Littlewood' signature and '275/275' below the image; printed copyright and NLA permission text; plate signature 'Lionel Lindsay' in block and printed signature at right. Image is a black cat seated among blossom and flowers. Clean sheet, no foxing visible, plain black frame with white double mount.",
    "condition": "Appears clean and well framed; glass and back not shown.",
-   "question_for_armitage": "Any foxing, staining or damage to glass or backing?"
+   "question_for_armitage": "Any foxing, staining or damage to glass or backing?",
+   "keep_max_24m": 70,
+   "flip_max_24m": 30
   },
   {
    "cdid": 3088176,
@@ -5958,7 +6118,9 @@
    "dropped_entries": "None dropped. Other Gowans Doulton blue lots (wash set $100, plates $20, bowl $30) are different patterns and not used.",
    "key_photo_findings": "Photo 3: green printed Royal Doulton lion, crown and roundel 'ROYAL DOULTON ENGLAND', red painted 'B1304'. Photos 1-2: glaze bright, gilt rim intact, interior clean with light marks; no chips or cracks visible. Only one side of the exterior shown.",
    "condition": "No damage visible in the three photos; reverse side and rim underside not fully shown.",
-   "question_for_armitage": "Any cracks, chips or hairlines (check the rim and the base by tapping), and how tall is it?"
+   "question_for_armitage": "Any cracks, chips or hairlines (check the rim and the base by tapping), and how tall is it?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088192,
@@ -5980,7 +6142,9 @@
    "dropped_entries": "None submitted by researcher. I did not add the Gowans mixed 3-bag lot (363969, $140 hammer) because it is not the same item.",
    "key_photo_findings": "One photo only, front view. Jacquard pattern aligned, stitching and edge paint look neat, buckle embossed COACH, dust bag present. Interior, creed patch or style number not shown.",
    "condition": "Looks clean and lightly used or unused from the one photo; corners, interior and zip not visible.",
-   "question_for_armitage": "Can you photograph or confirm the inside label/creed and style number, interior condition and corners, and whether it is a genuine Coach (tags or receipt)?"
+   "question_for_armitage": "Can you photograph or confirm the inside label/creed and style number, interior condition and corners, and whether it is a genuine Coach (tags or receipt)?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088193,
@@ -6059,7 +6223,9 @@
    "dropped_entries": "Lot 438896 (researcher gave both $60 and $25; the API says 2500 cents) was dropped as a cracked vase. The floor entry citing lot 398360 ($5 repaired vase) was dropped as damaged. Lot 435777 was downgraded from close to category guide after I viewed its photo. The $6,500 umbrella stand (268037, 2024) was excluded. The mark reads DiL/DIL, not DIK.",
    "key_photo_findings": "Photo 4: glazed underside with stilt marks, script signature 'John Campbell / Tasmania' and 'DiL' initials, all legible. Green and cream drip glaze over moulded strapwork with rivet bosses. Old paper label on the side. No chips or cracks visible.",
    "condition": "Looks sound in the photos. Glaze skips at the stilt points are from firing. The handles and rim need checking for chips or crazing.",
-   "question_for_armitage": "Please check the rim and both lug handles for chips, hairlines or restoration, and confirm the base signature is under the glaze."
+   "question_for_armitage": "Please check the rim and both lug handles for chips, hairlines or restoration, and confirm the base signature is under the glaze.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088208,
@@ -6131,7 +6297,9 @@
    "dropped_entries": "Lot 385691 ($330) was dropped as a different print: its photo shows a larger yellow-ground dragonfly with ants. Lot 396671 was downgraded to category guide because it is a different uncoloured PP.",
    "key_photo_findings": "'A.P' in pencil lower left and 'PRO HART' stacked lower right, matching the signature style on Gowans 418178. Plate about 9 cm. Blue hand-coloured wash. Silver frame. Not clear whether there is glass.",
    "condition": "Clean print, no visible foxing, frame looks sound. Glass not confirmed.",
-   "question_for_armitage": "Is there glass in the frame, any foxing or water marks, and is there a gallery label or certificate on the back?"
+   "question_for_armitage": "Is there glass in the frame, any foxing or water marks, and is there a gallery label or certificate on the back?",
+   "keep_max_24m": 185,
+   "flip_max_24m": 80
   },
   {
    "cdid": 3088210,
@@ -6243,7 +6411,9 @@
    "key_photo_findings": "A.P. lower left. A stacked two-line pencil signature lower right, in the same position and shape as on the signed Gowans copies. Design identical to Gowans 387417 and 384071. Pen '5000' on the mat (old stock or price mark). Double mat, timber frame, glazed.",
    "condition": "Appears clean in the photos. Mat and frame sound, no visible foxing or staining. Glass reflections hide detail.",
    "question_for_armitage": "Can you confirm the pencil signature lower right reads Pro Hart? Please also check the back for any gallery label or certificate, and look for foxing or damage under the glass.",
-   "dropped_entries": "None dropped. Corrected 382568 from $220 to $200 (the API shows 20000 cents). Changed 384071 from close to same item after viewing its photo. The WebSearch budget was used up, so I could not check Armitage past results or Invaluable."
+   "dropped_entries": "None dropped. Corrected 382568 from $220 to $200 (the API shows 20000 cents). Changed 384071 from close to same item after viewing its photo. The WebSearch budget was used up, so I could not check Armitage past results or Invaluable.",
+   "keep_max_24m": 180,
+   "flip_max_24m": 75
   },
   {
    "cdid": 3088235,
@@ -6291,7 +6461,9 @@
    "key_photo_findings": "The signature is a small stacked two-line pencil mark. Its shape is like Pro Hart's stacked signature but it cannot be read. Pro Hart did make some cubist-style etchings (Gowans 367214 sold for $440 and 382568 for $200 are cubist-leaning Pro Hart etchings), so the attribution is possible but unproven. Edition number lower left unreadable.",
    "condition": "Print looks clean. Wide mat, timber frame with a gold slip, glazed. No obvious damage visible.",
    "question_for_armitage": "Who is the artist? Can you read the signature lower right and the edition number lower left, and is there any label on the back?",
-   "dropped_entries": "Dropped 411350 (3 Pro Hart prints for $7: a bundle of low-grade prints, not comparable). Also dropped the Feast or Fish entries 432545 and 434136: I confirmed them in the API, but they are offset reproductions and say nothing about an original intaglio print. The remaining entries are kept as category guide only."
+   "dropped_entries": "Dropped 411350 (3 Pro Hart prints for $7: a bundle of low-grade prints, not comparable). Also dropped the Feast or Fish entries 432545 and 434136: I confirmed them in the API, but they are offset reproductions and say nothing about an original intaglio print. The remaining entries are kept as category guide only.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088242,
@@ -6313,7 +6485,9 @@
    "key_photo_findings": "Tag read: Mr Cobbler, Limited to 1200 Pieces, No. 512. Bag reads Minimo Collection by Charlie Bears, with a printed signature. Round yellow tag attached.",
    "condition": "Looks unused, with tags and bag. Unknown whether a box comes with it.",
    "question_for_armitage": "",
-   "dropped_entries": "Dropped Gowans 379087 (3 Charlie Bears, $30, 1 bid). Photo viewed: three large plain bears, not Minimo, so not comparable to a limited Minimo bear. A search of charliebears.com (Charlie Bears USA store) for 'cobbler' returned 0 results, so I found no retail price."
+   "dropped_entries": "Dropped Gowans 379087 (3 Charlie Bears, $30, 1 bid). Photo viewed: three large plain bears, not Minimo, so not comparable to a limited Minimo bear. A search of charliebears.com (Charlie Bears USA store) for 'cobbler' returned 0 results, so I found no retail price.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088254,
@@ -6446,7 +6620,9 @@
    "dropped_entries": "None dropped. All 10 researcher Gowans entries were re-checked against the API, and the ids, cents, bid counts and dates match. The boxes stay 'close' as a lot type only, flagged as different contents after checking the Gowans photos. The Rowallan identification is corrected to Lady Bastyan.",
    "key_photo_findings": "The invitation card reads 'His Excellency The Governor and Lady Bastyan', handwritten to Mrs W.F. Ellis (Governor Bastyan, 1968-73). Herd & Co (1920) Ltd receipt dated 1929. Also seen: the Rowitta flyer, the Derby Day flyer (Mr Charles Woods, Miss Gertrude Darley), Cox & Webb 'Mercery of Merit', pink 1954 Royal Visit admission tickets, TAA ticket jackets, an F & G Furniture Auctions receipt, a Launceston Homoeopathic Hospital letter and a photographic postcard of a house.",
    "condition": "Aged paper with toning, some creases, edge tears and old tape on the larger sheets. Only part of the box contents is visible.",
-   "question_for_armitage": "Is there anything underneath the top layer (photographs, postcards, pre-1920 items or stamped covers), or is it all receipts, flyers and tickets like the photos?"
+   "question_for_armitage": "Is there anything underneath the top layer (photographs, postcards, pre-1920 items or stamped covers), or is it all receipts, flyers and tickets like the photos?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088261,
@@ -6491,7 +6667,9 @@
    "dropped_entries": "The researcher returned no entries. I added two ASKING entries from the Montblanc Australia site (page opened). The Gowans API search for montblanc found only a pen lot (id 417826), which was not used. The Grays search returned no Montblanc wallets.",
    "key_photo_findings": "Montblanc boxes and dust bags are present, with star emblems on both pieces. The wallet leather shows light creasing and some surface marks, suggesting use. The card holder has a pebbled or cross-grain texture, unlike the smooth wallet. No serial or style number is visible.",
    "condition": "Looks used but tidy. Boxes present, outer box a little scuffed.",
-   "question_for_armitage": "Can you read the style or serial number inside each piece and on the box labels? Do the boxes include the Montblanc warranty or service cards? How worn are the edges and the inside of the wallet?"
+   "question_for_armitage": "Can you read the style or serial number inside each piece and on the box labels? Do the boxes include the Montblanc warranty or service cards? How worn are the edges and the inside of the wallet?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088263,
@@ -6580,7 +6758,9 @@
    "dropped_entries": "Dropped all three researcher ASKING entries: the Creative Media Partners reprint (US$ 44.96), the Forgotten Books and Legare Street Press print-on-demand reprints (US$ 31 to 48.15) and the El Boletin single reproduction plates (US$ 9.22). Reprints and reproductions are not the same item as an 1895-96 original. The researcher's assumed 1.50 rate was replaced with a checked rate. In their place are period copies from an AbeBooks search limited to books before 1930 (page opened).",
    "key_photo_findings": "Title page: 'London: Ernest Nister' and 'New York: E.P. Dutton & Co', 'Printed in Bavaria'. Cover: pictorial gilt and silver flowers with a butterfly. The cover is bright, with some rubbing to the edges and spine ends. Plate IV (Lycaenidae, coppers and blues) is bright and clean, and the text is lightly toned.",
    "condition": "Good from the photos: bright cover with light edge wear, toned text. Not all plates were seen.",
-   "question_for_armitage": "Are all 30 coloured plates present and unmarked? Any foxing, loose plates, cracked hinges or ex-library stamps?"
+   "question_for_armitage": "Are all 30 coloured plates present and unmarked? Any foxing, loose plates, cracked hinges or ex-library stamps?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088291,
@@ -6602,7 +6782,9 @@
    "dropped_entries": "Dropped: Gowans $20 hammer, listed 2026-02-23, '2 RESIN FIGURES INCL G ARMANI & KANREX FIGURE' (API JSON opened and confirmed: sale_price 2000, bid_count 0). Not the same item: a two-figure mixed lot, not a lamp, Armani figure not identified, no bids recorded. Also checked Gowans for 'armani lamp', 'giuseppe armani', 'florence figure' and 'figurine lamp' (no results) and 'figural lamp' (30 lots, none Armani; photos of the top three checked, all generic bronze-look lamps).",
    "key_photo_findings": "The base in photo 3 clearly reads 'Giuseppe Armani' in script and '(c) 1998 FLORENCE', with the blue crown-over-N mark used on Florence Sculture d'Arte pieces. The figure looks intact in the photos: fingers, dog and hat brim are visible with no obvious breaks. Glossy plinth with a small brass plaque. Shade looks clean. Australian plug fitted.",
    "condition": "Looks good across three photos, with no chips or breaks seen. The small resin details (hands, dog, hat flower) need a close look. Electrical condition and test-and-tag status are unknown.",
-   "question_for_armitage": "Is the figure free of chips, cracks or repairs (hands, dog, hat brim)? Does the lamp work and is it tested and tagged? Is the shade original or a replacement? Is there a model number or title under the plinth?"
+   "question_for_armitage": "Is the figure free of chips, cracks or repairs (hands, dog, hat brim)? Does the lamp work and is it tested and tagged? Is the shade original or a replacement? Is there a model number or title under the plinth?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088292,
@@ -6624,7 +6806,9 @@
    "dropped_entries": "Dropped all three (Gowans API JSON opened and figures confirmed): $65 'MURANO GLASS 2 HANDLED VASE' listed 2025-10-19; $90 'MURANO GREEN GLASS VASE' listed 2026-03-23; $110 'MURANO STYLE ART GLASS VASE' listed 2026-05-03. The prices and dates match the researcher's, but none is the same item (they are coloured or 'style' pieces, not a signed clear engraved vase), so they are category context only. Gowans searches for 'cenedese', 'engraved glass vase' and 'italian glass vase' returned nothing; 'etched glass vase' found only unrelated pieces.",
    "key_photo_findings": "The enlarged base shows an engraved script signature reading 'Cenedese Giovanni' and a small etched sans-serif block reading roughly 'O82FHG / LIMITED / EDITION'. That block looks machine- or stencil-etched, more like a modern production mark than a studio signature. Handwritten sticker says 'Vintage Murano engraver Giovanni Cenedese'. Clear glass only, no colour. Light scratching on the base. A '4711' sticker near the rim.",
    "condition": "Looks sound in two photos, with light wear and scratches on the base and no chips seen. The rim is not shown close up.",
-   "question_for_armitage": "Are there any chips to the rim or base edge, and what is the height? Does the 'Limited Edition' mark include an edition number?"
+   "question_for_armitage": "Are there any chips to the rim or base edge, and what is the height? Does the 'Limited Edition' mark include an edition number?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088301,
@@ -6671,7 +6855,9 @@
    "dropped_entries": "Dropped from the sold list as too different (figures confirmed in Gowans API JSON): $110 (1.4g single ring, 2026-08-09), $115 (1.3g, 2026-09-06), $60 each (0.8g and 0.6g rings) and '2 X 9CT GOLD SCRAP RINGS 6GM' $320 (2026-09-13). These are single rings or stoneless scrap, not a bridal pair. The researcher's '$180, listed 2026-01-26' line was wrong (that lot made $340); the correct $180 2.1g entry, dated 2026-08-23, is kept as a category guide.",
    "key_photo_findings": "One photo only. Enlarged, it shows an illusion-set cluster of about 7 to 9 small single-cut diamonds or white stones on an engagement ring with a crossover or twist shoulder, sitting against a plain polished band of the same colour. The gold looks yellow with a rose tint. No hallmark, carat stamp or maker's mark is visible. No obvious missing stones or damage at this resolution.",
    "condition": "Looks good and lightly worn in the one photo, and the stones appear all present. Metal, fineness, weight, size, and whether the two rings are joined or separate, are unknown.",
-   "question_for_armitage": "What are the hallmarks on both rings (9ct, 375, 18ct or plated)? What is the total weight in grams and the ring size? Are the two rings separate or soldered together? Are the stones diamonds, and are they all present and secure?"
+   "question_for_armitage": "What are the hallmarks on both rings (9ct, 375, 18ct or plated)? What is the total weight in grams and the ring size? Are the two rings separate or soldered together? Are the stones diamonds, and are they all present and secure?",
+   "keep_max_24m": 155,
+   "flip_max_24m": 65
   },
   {
    "cdid": 3088303,
@@ -6774,7 +6960,9 @@
    "dropped_entries": "Dropped the aggregate '$150 to $260 (several)' entry (summary, not a single sale). Reclassified 401386 and 401380 from close to category guide after checking photos (solitaires). Replaced search-query URLs with individual lot API URLs, all opened.",
    "key_photo_findings": "Enlarged crop: round pale yellow-green centre stone in a halo of about 12 small white stones in white metal, yellow gold band with engraved scroll or leaf shoulders. No hallmark visible. No obvious missing stones.",
    "condition": "Appears complete and wearable from one photo; size, weight, wear and stone security unknown.",
-   "question_for_armitage": "Is it hallmarked 9ct or 375, what does it weigh and what size is it? Are the stones tested (diamond or paste), and any chipped or loose?"
+   "question_for_armitage": "Is it hallmarked 9ct or 375, what does it weigh and what size is it? Are the stones tested (diamond or paste), and any chipped or loose?",
+   "keep_max_24m": 90,
+   "flip_max_24m": 65
   },
   {
    "cdid": 3088310,
@@ -6837,7 +7025,9 @@
    "dropped_entries": "None dropped. Search-query URLs replaced with individual lot API URLs, opened with photos checked. Researcher's 20mm size corrected to about 14 x 15mm.",
    "key_photo_findings": "Tape (cm side) gives pearls about 14mm wide x 15mm tall, total drop about 40mm. Pink-peach metallic lustre, wrinkled baroque surface typical of cultured freshwater. Bright gold-toned caps with small clear stones; no stamp visible.",
    "condition": "Looks new or near new, good lustre, no visible damage.",
-   "question_for_armitage": "What is the basis for 'natural', is there a lab report? Are the hooks stamped 925, 375 or 9ct?"
+   "question_for_armitage": "What is the basis for 'natural', is there a lab report? Are the hooks stamped 925, 375 or 9ct?",
+   "keep_max_24m": 30,
+   "flip_max_24m": 15
   },
   {
    "cdid": 3088312,
@@ -6924,7 +7114,9 @@
    "dropped_entries": "Dropped 443564 ($55) and 443568 ($55): Gowans auction 367 (GA161026) is status 'current' on 16 Oct 2026, so not a finished result. Dropped the $15 pendant (jewellery). Reclassified 20ct parcels, 433753 and 380482 from close to category guide after checking photos. Search-query URLs replaced with lot API URLs, opened.",
    "key_photo_findings": "About 18 oval mixed-cut stones in yellow, golden and orange, one pinkish-orange; fairly clean and even-sized, in a foam gem jar. No label or weight visible.",
    "condition": "Loose stones, undamaged-looking; no paperwork shown.",
-   "question_for_armitage": "What is the total carat weight, and is there paperwork showing natural sapphire (heated or not) rather than synthetic?"
+   "question_for_armitage": "What is the total carat weight, and is there paperwork showing natural sapphire (heated or not) rather than synthetic?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088332,
@@ -6996,7 +7188,9 @@
    "key_photo_findings": "One photo only. Two round white pearls about 6-7mm with good lustre and no visible blemishes, in yellow scroll-and-leaf open frames with hinged hook/lever fittings. Enlarged crop shows no readable stamp; the backs and fittings are not shown.",
    "condition": "Looks good, pearls bright with no visible chips or peeling; fittings appear intact from the front. Backs not seen.",
    "question_for_armitage": "Can you confirm a 14ct (585) stamp on the fittings, give the total weight in grams, and confirm both hinged fittings close properly and the pearls are firm in their settings?",
-   "dropped_entries": "Dropped: 409527 14K GOLD & PEARL EARRING ($30), a single earring, not a pair. 420804 pearl necklace with 14ct clasp plus earrings ($100), earrings cannot be separated from the necklace. 422473 PAIR OF PEARL DROP EARRINGS ($40), metal not stated, not gold. Researcher's search URLs replaced with the lot JSON URLs I opened. Researcher's $110 entry with no lot id is lot 424059 and has a rose quartz top, so given less weight but kept as close."
+   "dropped_entries": "Dropped: 409527 14K GOLD & PEARL EARRING ($30), a single earring, not a pair. 420804 pearl necklace with 14ct clasp plus earrings ($100), earrings cannot be separated from the necklace. 422473 PAIR OF PEARL DROP EARRINGS ($40), metal not stated, not gold. Researcher's search URLs replaced with the lot JSON URLs I opened. Researcher's $110 entry with no lot id is lot 424059 and has a rose quartz top, so given less weight but kept as close.",
+   "keep_max_24m": 45,
+   "flip_max_24m": 30
   },
   {
    "cdid": 3088345,
@@ -7084,7 +7278,9 @@
    "key_photo_findings": "Bracelet clasp clearly stamped 925; four bezel-set oval faceted red stones with hinged links. Spinner ring inside stamped 925 plus a second word (possibly ISRAEL, a common spinner ring origin mark); its outer bands are gold-tone and copper-tone, not gold. Plain multi-band ring stamped 925.",
    "condition": "Good, light surface tarnish on the bracelet; no missing stones visible. Spinner function cannot be judged from a photo.",
    "question_for_armitage": "What is the total weight of the three pieces, do the spinner bands turn freely, and does the bracelet clasp close securely? Any sign whether the red stones are garnet or glass?",
-   "dropped_entries": "Dropped: 376843 GARNET BRACELET ($14), no silver stated and probably base metal, not comparable. Researcher's lumped 'two silver rings $15-$50' entry dropped because it is a midpoint, not a single sale, and plain rings are not this lot. Researcher's search URLs replaced with lot JSON URLs I opened."
+   "dropped_entries": "Dropped: 376843 GARNET BRACELET ($14), no silver stated and probably base metal, not comparable. Researcher's lumped 'two silver rings $15-$50' entry dropped because it is a midpoint, not a single sale, and plain rings are not this lot. Researcher's search URLs replaced with lot JSON URLs I opened.",
+   "keep_max_24m": 70,
+   "flip_max_24m": 35
   },
   {
    "cdid": 3088349,
@@ -7156,7 +7352,9 @@
    "key_photo_findings": "Fourteen coins, two rows of seven. Dates read: 1961, 1947 (two), 1901-1951 Jubilee (two), one 1950s date. Top right coin shows the older 'FLORIN' shield reverse (1910-1936, .925). One top row coin is worn almost smooth and one is toned. No 1927 Canberra, 1934-35 Centenary or 1932 seen.",
    "condition": "Circulated, Fine to Very Fine, some heavily worn and one toned. Bullion grade, not collector grade.",
    "question_for_armitage": "How many florins are in the lot, and are there any not shown in the photo? If convenient, the total weight in grams would confirm the silver content.",
-   "dropped_entries": "Dropped: 412961 BAG OF COINS INCL FLORINS & SHILLINGS ($130) and 375178 BAG OF AUSTRALIAN PRE-DECIMAL COINS INCL FLORINS ($80), mixed bags of unknown count and content. 383816 ($560) and 383838 ($440) BAG OF AUSTRALIAN FLORINS, bag size unknown and clearly far larger, so they cannot be compared by count. Count corrected from about 15 to 14 coins; the researcher's melt figure of A$228-$265 for 15 coins comes down to about A$215-$240 for 14."
+   "dropped_entries": "Dropped: 412961 BAG OF COINS INCL FLORINS & SHILLINGS ($130) and 375178 BAG OF AUSTRALIAN PRE-DECIMAL COINS INCL FLORINS ($80), mixed bags of unknown count and content. 383816 ($560) and 383838 ($440) BAG OF AUSTRALIAN FLORINS, bag size unknown and clearly far larger, so they cannot be compared by count. Count corrected from about 15 to 14 coins; the researcher's melt figure of A$228-$265 for 15 coins comes down to about A$215-$240 for 14.",
+   "keep_max_24m": 180,
+   "flip_max_24m": 80
   },
   {
    "cdid": 3088350,
@@ -7307,7 +7505,9 @@
    "dropped_entries": "Nothing dropped. Corrected the bid counts on lots 393273 and 394888 and the $20/$12 date mix-up. Moved the 13-17g chains down to category guide. Added five weighed 21-44g sterling chains and one pendant-and-studs set. Armitage past results were not checked because the WebSearch budget was used up.",
    "key_photo_findings": "In an enlarged crop the curb chain has a lobster clasp with flat end tags and grey tarnish, which suggests silver, but no stamp is legible. The chain is about 50cm long and 6-7mm wide. The fine chains are light. The studs have coloured domes in silver-coloured settings.",
    "condition": "Used. The chain is complete with light tarnish. The fine chains are tangled but look intact. The studs are complete.",
-   "question_for_armitage": "Is the curb chain stamped 925 or sterling (on the clasp or end tag), and what does it weigh? Are the pendants and studs marked?"
+   "question_for_armitage": "Is the curb chain stamped 925 or sterling (on the clasp or end tag), and what does it weigh? Are the pendants and studs marked?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088353,
@@ -7410,7 +7610,9 @@
    "dropped_entries": "Split the researcher's 3-lot range into single lots. Dropped the summary of about 100 penny lots, because it is not a single sale. Corrected the fourth coin from Australian to New Zealand. Armitage results were not checked because the WebSearch budget was used up.",
    "key_photo_findings": "The flips are labelled 1880, 1929 VF and 1921 VF. The 1880 is worn nearly smooth. The loose coin reads 'GEORGE V KING EMPEROR' (NZ 1933-36). Readable penny dates include 1910. Some pennies have verdigris.",
    "condition": "Circulated. The silver coins are Good to VF. The pennies are Fair to Fine, some with corrosion.",
-   "question_for_armitage": "What is the date and denomination of the NZ coin (half crown or florin)? Are there only four silver coins in the lot?"
+   "question_for_armitage": "What is the date and denomination of the NZ coin (half crown or florin)? Are there only four silver coins in the lot?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088356,
@@ -7529,7 +7731,9 @@
    "dropped_entries": "Nothing dropped; every researcher entry was re-found. Split the combined entries into single lots and corrected the bids on lot 425829. Dropped the vague $180 and $330 mixed-lot mentions because their contents are unknown. Armitage results were not checked because the WebSearch budget was used up.",
    "key_photo_findings": "The marcasite teddy and lizard have red eyes. The hand clips are cuffed hands holding fans. The bear is large and well modelled. The rings have yellow and red stones. No marks are legible.",
    "condition": "Appears good with light tarnish. Marcasite stone loss cannot be checked from the photo.",
-   "question_for_armitage": "Which pieces are marked 925, and what do the marked pieces weigh in total (especially the bear, hand clips, figure and whistle)? Are any marcasite stones missing? Is the thimble marked?"
+   "question_for_armitage": "Which pieces are marked 925, and what do the marked pieces weigh in total (especially the bear, hand clips, figure and whistle)? Are any marcasite stones missing? Is the thimble marked?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   },
   {
    "cdid": 3088374,
@@ -7576,7 +7780,9 @@
    "dropped_entries": "394957 ($50) dropped as SOLD support: its photos show about 6 empty slots, so it is less complete than this lot (mentioned in the guide summary only). 411222 ($90) dropped as a same-item comparable: its photos show a red sleeve folder of mixed pennies, not a dated run. 368565 ($35) dropped: a mixed album of pennies, halfpennies and 1c/2c decimals, not comparable. The aggregated loose tins and bags entry dropped: it bundled several lots into an invented average of $50. Bulk loose pennies ($35 to $65) are only a floor reference, not this item.",
    "key_photo_findings": "Covers read 'AUSTRALIAN PENNIES COLLECTION 1911 to 1936 NUMBER ONE' and 'COLLECTION 1938 to 1952 NUMBER TWO', Whitman. George V panels: the 1930 slot (printed RARE) is empty. The slot before 1926 (1925) is also empty, though its label is too small to read for certain. George VI panels look full, with 1946 present (close-up photo 4). Elizabeth II 1953 to 1964 panel present. Coins are brown and circulated, mostly Fine to VF at best, and a few look dark or worn. Old price sticker on album 1.",
    "condition": "Circulated brown copper with typical album toning. Folders show some edge wear. Key dates 1925 and 1930 are missing. Individual grades cannot be seen at this resolution.",
-   "question_for_armitage": "Can you confirm which slots are empty (is it only 1925 and 1930?), whether the 1946, 1932 and 1933 pennies are present, and whether any coins are loose or sitting in the wrong slots?"
+   "question_for_armitage": "Can you confirm which slots are empty (is it only 1925 and 1930?), whether the 1946, 1932 and 1933 pennies are present, and whether any coins are loose or sitting in the wrong slots?",
+   "keep_max_24m": 90,
+   "flip_max_24m": 40
   },
   {
    "cdid": 3088383,
@@ -7615,7 +7821,9 @@
    "dropped_entries": "None dropped. Both AbeBooks entries kept as ASKING, with prices and exchange rate corrected to what the listing pages show today.",
    "key_photo_findings": "Title page reads 'MARSUPIALS OF AUSTRALIA Volume 1, Possums, the Koala and Wombats, Text by Meredith J. Smith, Illustrations by Rosemary Woodford Ganf, Foreword by J. H. Calaby'. Limitation page reads 'A limited edition of 1000 copies numbered and signed by the author and the artist, this being Number 531', signed R. Woodford Ganf and Meredith J. Smith. Grey linen boards with an inset tan leather panel blind-tooled with a possum. Prospectus included. The colour plates shown (sugar glider, brushtail) look clean.",
    "condition": "Looks good to very good in the photos: plates clean and the leather panel unscuffed where visible. No slipcase or box shown, and the spine, corners and any foxing cannot be seen.",
-   "question_for_armitage": "Is there a slipcase or box? Are the spine, corners and leather panel free of damage, foxing or water marks? Are all the plates present?"
+   "question_for_armitage": "Is there a slipcase or box? Are the spine, corners and leather panel free of damage, foxing or water marks? Are all the plates present?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
   }
  ],
  "missing": []
