@@ -29,6 +29,14 @@ for f in glob.glob(f'{W}/armitage28838*_verified_*.json'):
         for l in json.load(open(f)).get('lots') or []: V.setdefault(l['cdid'], l)
     except Exception: pass
 
+# manual overrides from my own research, applied on top of the verified lots (keyed by cdid as a string)
+try:
+    for cd, patch in json.load(open(f'{W}/armitage28838_overrides.json')).items():
+        rec = V.get(int(cd)) or {'cdid': int(cd)}
+        rec.update(patch); V[int(cd)] = rec
+except FileNotFoundError:
+    pass
+
 counts = collections.Counter(); interest = []; cands = {}; scores = {}; unscanned = []
 for n, run in orig.items():
     args = json.load(open(f'{W}/armitage28838_wfargs_p{n}.json')); tags = {b['tag'] for b in args['batches']}
