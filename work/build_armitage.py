@@ -75,7 +75,7 @@ def card(p, k):
 <dt>Current bid</dt><dd>{bidtxt}</dd><dt>Armitage estimate</dt><dd>{E(est or "none shown")} <span class="mut">(not used in scoring)</span></dd><dt>Suggested max</dt><dd><b>{E(mx)}</b> <span class="mut">(all-in = hammer x 1.22)</span></dd>
 <dt>Market guide</dt><dd>{guide} <span class="mut">{E(p.get('guide_summary') or '')}</span></dd></dl>
 <div class="evs">{ev_list(p.get('sold', []), 'sold', 'Sold (price paid)', 'Only these set a maximum bid.')}{ev_list(p.get('unsold', []), 'unsold', 'Unsold (ceiling signal)', 'Did not sell. Not a value.')}{ev_list(p.get('asking', []), 'ask', 'Asking (not a price paid)', 'Optimistic. Never used for a max.')}</div>
-<details><summary>Working and confidence</summary><p class="small"><b>Why {E(p['confidence'])}:</b> {E(p.get('confidence_reason') or '')}</p><p class="small"><b>Dropped entries:</b> {E(p.get('dropped_entries') or 'none')}</p><p class="small"><b>Working:</b> {E(p['working'])}</p></details>{q}</article>'''
+<details><summary>Working and confidence</summary><p class="small"><b>Why {E(p['confidence'])}:</b> {E(p.get('confidence_reason') or '')}</p><p class="small"><b>Dropped entries:</b> {E(p.get('dropped_entries') or 'none')}</p><p class="small"><b>Working:</b> {E(p['working'])}</p>{('<p class="small"><b>Flip rule:</b> ' + E(p['flip_rule']) + '</p>') if p.get('flip_rule') else ''}</details>{q}</article>'''
 
 def coverage(k):
     d = D[k]; recs = d['recs']; C = CAT[k]; n = lambda s: sum(1 for x in recs.values() if x['state'] == s)

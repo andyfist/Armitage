@@ -214,7 +214,10 @@
    "condition": "Raw sawn live-edge slabs, some knots, end checks and small splits. Thickness, moisture and how long they have been air-dried are unknown.",
    "question_for_armitage": "Can you confirm the species is blackwood, and the thickness of each slab? How long have they been drying (air-dried or green)? Does '168 X 36' mean 168cm long by 36cm widest? Any borer, rot or deep splits?",
    "keep_max_24m": 45,
-   "flip_max_24m": 30
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
   },
   {
    "cdid": 3088998,
@@ -281,7 +284,10 @@
    "price": "",
    "url": "",
    "keep_max_24m": 295,
-   "flip_max_24m": 115
+   "flip_max_24m": 115,
+   "flip_max_gross": 115,
+   "flip_rule_out": 115,
+   "flip_rule": "Net resale after selling fees $281 (from the working); higher of double your money or $500 profit gives all-in $140, hammer $115."
   },
   {
    "cdid": 3089005,
@@ -540,7 +546,10 @@
    "question_for_armitage": "Are these genuine cast iron (heavy, magnet sticks) or aluminium reproductions? Any cracks, broken lugs or welded repairs? Please confirm sizes.",
    "dropped_entries": "eBay AU 276508525132 (AU$335, 14 lacework pieces) dropped: snippet only, eBay is closed to us so it cannot be opened, and it is frieze/fretwork, not balustrade panels.",
    "keep_max_24m": 80,
-   "flip_max_24m": 65
+   "flip_max_24m": 65,
+   "flip_max_gross": 65,
+   "flip_rule_out": 65,
+   "flip_rule": "Net resale after selling fees $159 (from the working); higher of double your money or $500 profit gives all-in $79, hammer $65."
   },
   {
    "cdid": 3088970,
@@ -701,7 +710,10 @@
    "question_for_armitage": "Is it pine as titled or teak/hardwood? Is it solid with no rot at the feet or loose joints?",
    "dropped_entries": "Luxi Living Lutyens bench dropped: page opened, current price is $599.99 (120cm), not $479.99 as claimed, and it is a new teak Lutyens of a different design. Outdoors on Parade teak seat dropped: URL returned 404 and it was snippet only. Manon & Moss and Cotswold mentions dropped: snippet only, no URL.",
    "keep_max_24m": 130,
-   "flip_max_24m": 65
+   "flip_max_24m": 65,
+   "flip_max_gross": 65,
+   "flip_rule_out": 65,
+   "flip_rule": "Net resale after selling fees $159 (from the working); higher of double your money or $500 profit gives all-in $79, hammer $65."
   },
   {
    "cdid": 3089010,
@@ -954,7 +966,10 @@
    "condition": "Heavily worn and dirty, appears structurally sound; vise appears complete. Underside, splits and woodworm not visible.",
    "question_for_armitage": "What are the length, depth and height? Is the top solid with no big splits or woodworm, does the vise screw turn freely, and does the bench knock down (wedged stretchers) for transport?",
    "keep_max_24m": 340,
-   "flip_max_24m": 145
+   "flip_max_24m": 145,
+   "flip_max_gross": 145,
+   "flip_rule_out": 145,
+   "flip_rule": "Net resale after selling fees $354 (from the working); higher of double your money or $500 profit gives all-in $177, hammer $145."
   },
   {
    "cdid": 3089113,
@@ -1020,7 +1035,10 @@
    "condition": "Used, appears sound with light wear from one photo. Fit kit, keys and locks unknown.",
    "question_for_armitage": "Which vehicle do the bars fit (fit kit or part number on the feet), are keys included, and does the basket carry a Rhino-Rack label and mounting brackets?",
    "keep_max_24m": 45,
-   "flip_max_24m": 25
+   "flip_max_24m": 25,
+   "flip_max_gross": 25,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $61 (from the working); higher of double your money or $500 profit gives all-in $30, hammer $25."
   },
   {
    "cdid": 3088851,
@@ -1215,8 +1233,8 @@
    "guide_low_aud": 77,
    "guide_high_aud": 230,
    "guide_summary": "Close entries range from AUD 77 to 230. Three UK SOLD results run from AUD 77 to about 145 per table, but all are from March to October 2024, so all fall outside the 24-month window. Two auction estimates (ASKING) run from AUD 100 to 230. No unsold results. One Tasmanian category-guide sale: a plain cast iron garden table at $80 hammer. Rate GBP 1 = AUD 1.9168 (frankfurter.app, 15 Oct 2026). Dealer retail for restored genuine Victorian tables runs much higher, but none had a verifiable price on the page.",
-   "flip_max_hammer": 0,
-   "keep_max_hammer": 0,
+   "flip_max_hammer": 25,
+   "keep_max_hammer": 63,
    "working": "Only SOLD entries within 24 months of 2026-10-16 (on or after 2024-10-16) can set a maximum. The close SOLD results are dated 2024-03-20, 2024-08-30 and 2024-10-02, all outside the window, and the only in-window Tasmanian sale is a different kind of table. So keep and flip maximums are 0. For reference only: the lowest close UK sale, AUD 77 / 1.22 = 63, would have given a $60 hammer. | 10-YEAR WINDOW (your instruction, replacing the 24-month rule): lowest same or close SOLD since 2016 is A$77 (Trevanion & Dean (UK), lot 919 2024-03-20); keep = 77 / 1.22 = 63, flip = 77 / 2.44 = 31. Was keep 0, flip 0.",
    "confidence": "Low",
    "confidence_reason": "The category identification is clear, but all SOLD evidence is from the UK and more than 24 months old. Age and maker are unknown, and there is only one photo.",
@@ -1225,7 +1243,10 @@
    "question_for_armitage": "Is there a foundry name cast anywhere on the base (under-shelf or inside the apron), and is the top solid and firmly fixed? Is the base heavy cast iron rather than cast aluminium?",
    "dropped_entries": "Dropped the 1stDibs pair (page opened: no price shown, contact seller only, and the tables have cast iron tops, not timber). Dropped Pamono / Church Street Antiques (page opened: no price shown, Sold Out; it was a refurbished Gaskell & Chambers table with a new Sapele top). Dropped the Etsy USD 546.90 listing (HTTP 403, snippet only, never verified). Replaced the researcher's assumed rate of GBP 1 = AUD 2.00 with 1.9168. Confirmed on the page that the Elstob lot belongs to that house and was dated 8 May 2024.",
    "keep_max_24m": 0,
-   "flip_max_24m": 0
+   "flip_max_24m": 0,
+   "flip_max_gross": 31,
+   "flip_rule_out": 25,
+   "flip_rule": "Resale $76 less 15% selling commission = net $64; higher of double your money or $500 profit gives all-in $32, hammer $25."
   },
   {
    "cdid": 3088918,
@@ -1489,7 +1510,10 @@
    "condition": "Used, appears tidy from a single side photo; brakes, gears and fork action unknown.",
    "question_for_armitage": "Do the brakes and gears work properly, and are the tyres holding air? Is there a model name on the top tube or chainstay?",
    "keep_max_24m": 60,
-   "flip_max_24m": 25
+   "flip_max_24m": 25,
+   "flip_max_gross": 25,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $61 (from the working); higher of double your money or $500 profit gives all-in $30, hammer $25."
   }
  ],
  "missing": []

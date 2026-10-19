@@ -43,6 +43,7 @@ for f in FILES:
             l['working'] = re.sub(r' \| \d+-YEAR WINDOW.*$', '', l.get('working') or '') + f" | {YEARS}-YEAR WINDOW (your instruction, replacing the 24-month rule): lowest same or close SOLD since {MIN_YEAR} is A${low:.0f} ({'; '.join(sorted({(e.get('venue') or '')[:30]+' '+str(e.get('date'))[:12] for e in pool if e['aud_price'] == low}))}); keep = {low:.0f} / 1.22 = {new_k}, flip = {low:.0f} / 2.44 = {new_f}. Was keep {old_k}, flip {old_f}."
             if l.get('triage') in ('LOOK AT VIEWING', 'NEAR MISS') and new_k > 0:
                 l['triage'] = 'KEEP'; l['confidence'] = 'Low'
+            l['keep_max_hammer'], l['flip_max_hammer'] = new_k, new_f
             changes.append((f, l['lot'], old_k, old_f, new_k, new_f, round(low), (l.get('what_it_is') or '')[:50]))
     json.dump(R, open(P, 'w'), indent=1)
 json.dump(changes, open(f'{W}/window_changes.json', 'w'))

@@ -579,7 +579,7 @@
    "guide_high_aud": 2418,
    "guide_summary": "All surviving evidence is SOLD hammer results at Gowans, Hobart, from Jan to Sep 2026, each opened as its own API lot record. Plain 9ct bangles made $46.8 to $64.9/g hammer (4.6g $280, 11.1g $720, 15.5g $725, 18g $1,150), and 9ct bracelets and chains made $60.5 to $69.5/g. Scaled to the catalogued 34.8g, that is about $1,628 to $2,418 hammer (raw prices $280 to $2,950). No unsold or asking entries survive. All AUD, no conversion. Gold melt was not checked because goldprice.org returned Forbidden, so no melt floor is given.",
    "keep_max_hammer": 1330,
-   "flip_max_hammer": 735,
+   "flip_max_hammer": 1060,
    "working": "Same-item SOLD evidence is the Gowans plain 9ct bangles from the last 24 months, scaled by weight to 34.8g. Lowest: 15.5g at $725 = $46.8/g x 34.8 = $1,628. keep_max = 1,628 / 1.22 = $1,334, rounded down to $1,330 (all-in $1,622.60). Flip: likely resale at the most recent bangle rate of $60.9/g (Sep 2026) x 34.8 = $2,118 hammer at Gowans. Less an assumed 15% seller commission ($318) and $0 outbound postage (local room) = $1,800. 1,800 / 2.44 = $738, rounded down to $735. Inbound freight $0 (pickup at 9 Goodman Crt, Invermay). Both figures depend entirely on the 34.8g weight being right and the bangle being solid 9ct, not lined or filled.",
    "confidence": "Medium",
    "confidence_reason": "The 375 stamp is legible when enlarged, and there are several opened Tasmanian SOLD results. But the 34.8g weight cannot be checked from one photo, and whether it is solid or lined or filled is unconfirmed. 34.8g is heavy for a hollow bangle this size, which is reassuring but not proof.",
@@ -588,7 +588,10 @@
    "condition": "Good used: light surface wear and scratches, no dents or splits visible in the one photo. Weight and solidity cannot be checked from the photo.",
    "question_for_armitage": "Can you confirm the 34.8g weight on scales, and that the bangle is solid 9ct (not gold-lined or filled)? Are there any marks besides the 375 stamp, and any dents, splits or solder repairs?",
    "keep_max_24m": 1330,
-   "flip_max_24m": 735
+   "flip_max_24m": 735,
+   "flip_max_gross": 735,
+   "flip_rule_out": 1060,
+   "flip_rule": "Net resale after selling fees $1,793 (from the working); higher of double your money or $500 profit gives all-in $1,293, hammer $1,060."
   },
   {
    "cdid": 3088128,
@@ -795,7 +798,10 @@
    "condition": "Appears good: stones present, chains and bars intact, light surface wear. Stones not tested.",
    "question_for_armitage": "What is the total weight in grams? Is the maker's mark next to the 15C legible, and are the chains and bars all 15ct (or base metal or 9ct)?",
    "keep_max_24m": 490,
-   "flip_max_24m": 205
+   "flip_max_24m": 205,
+   "flip_max_gross": 205,
+   "flip_rule_out": 205,
+   "flip_rule": "Net resale after selling fees $500 (from the working); higher of double your money or $500 profit gives all-in $250, hammer $205."
   },
   {
    "cdid": 3088087,
@@ -966,7 +972,10 @@
    "condition": "Light wear. Engraving and monograms rubbed, no obvious breaks, chains and ball ends present. Weight unknown.",
    "question_for_armitage": "What is the total weight in grams of the two pairs? Can you confirm the shield pair is stamped 9ct, and what does the second mark read? Are there any repairs, solder or base-metal chains?",
    "keep_max_24m": 260,
-   "flip_max_24m": 150
+   "flip_max_24m": 150,
+   "flip_max_gross": 150,
+   "flip_rule_out": 150,
+   "flip_rule": "Net resale after selling fees $366 (from the working); higher of double your money or $500 profit gives all-in $183, hammer $150."
   },
   {
    "cdid": 3088075,
@@ -1180,7 +1189,10 @@
    "condition": "Looks good from the front. The back, rim and foot are not fully shown, so chips, hairlines or restoration cannot be ruled out.",
    "question_for_armitage": "What is the height? Are there any chips, hairlines or restoration to the rim, foot or back? Is there a decorator signature or monogram on the base besides the impressed M?",
    "keep_max_24m": 45,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3088190,
@@ -1222,7 +1234,10 @@
    "condition": "Looks new or unworn, with packaging. The reverse side, size stamp and back of the buckle are not shown.",
    "question_for_armitage": "What size is stamped on the belt? Is there a receipt or any provenance? Can you confirm the black calf side and the back of the buckle are unmarked? Is there any doubt about authenticity?",
    "keep_max_24m": 530,
-   "flip_max_24m": 225
+   "flip_max_24m": 225,
+   "flip_max_gross": 225,
+   "flip_rule_out": 225,
+   "flip_rule": "Net resale after selling fees $549 (from the working); higher of double your money or $500 profit gives all-in $274, hammer $225."
   },
   {
    "cdid": 3088194,
@@ -1533,7 +1548,10 @@
    "condition": "Appears sound and complete; light surface wear; back and any dents not shown.",
    "question_for_armitage": "What is the weight in grams? Are the chains and clip also gold (acid tested), or only the pendant? Is the back hollow or dented, and is there any mark on the back or the bolt ring?",
    "keep_max_24m": 30,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3088327,
@@ -1630,7 +1648,7 @@
    "guide_low_aud": 760,
    "guide_high_aud": 3924,
    "guide_summary": "SOLD inside 24 months: AUD 760 (Noonans, London, 22 Sep 2026, a plain-dial 1965 example) to AUD 3,924 (Antiquorum Geneva, May 2025, a very good 1961 example). Honeycomb-dial examples like this one are sold by dealers at AUD 1,860 to 2,590 (USD 1,295 to 1,800) and an Australian seller asks AUD 2,895 for a Big Rose example. WatchCharts puts the model-wide market price at USD 1,352 (AUD 1,943) in Sep 2026. Rates ECB via frankfurter.dev, 16 Oct 2026.",
-   "flip_max_hammer": 310,
+   "flip_max_hammer": 260,
    "keep_max_hammer": 620,
    "working": "The lowest SOLD comp inside 24 months of the same reference is Noonans AUD 760 (22 Sep 2026), a later, plainer 7934 than this one. Keep 760 / 1.22 = 623, rounded to 620. Flip 760 / 2.44 = 311, rounded to 310. No auction sale of a honeycomb-dial 7934 was found, so the dealer prices for honeycomb examples (AUD 2,130 to 2,590) do not set the maximum. Judgement, not a rule: with the reference, serial and Rolex crown confirmed and the dial original, paying up to about AUD 1,000 hammer (1,220 with premium) to keep still sits well under dealer prices and leaves room for a service.",
    "confidence": "Medium",
@@ -1640,7 +1658,10 @@
    "condition": "Good for age: original dial with light even patina, case lightly scratched, strap later. Running, timekeeping and crown function still to confirm.",
    "question_for_armitage": "Does it run and keep time when wound, and does the crown screw down firmly? Is the caseback Rolex-signed?",
    "keep_max_24m": 620,
-   "flip_max_24m": 310
+   "flip_max_24m": 310,
+   "flip_max_gross": 310,
+   "flip_rule_out": 260,
+   "flip_rule": "Resale $756 less 15% selling commission = net $643; higher of double your money or $500 profit gives all-in $321, hammer $260."
   },
   {
    "cdid": 3088333,
@@ -1746,7 +1767,10 @@
    "condition": "Appears good with little visible wear; missing melee cannot be ruled out at this resolution. Metal and stamp unconfirmed.",
    "question_for_armitage": "What is stamped inside each shank (9K/375, 10K, 925, CZ, TDW)? Total weight in grams, ring sizes, and is any diamond missing?",
    "keep_max_24m": 155,
-   "flip_max_24m": 80
+   "flip_max_24m": 80,
+   "flip_max_gross": 80,
+   "flip_rule_out": 80,
+   "flip_rule": "Net resale after selling fees $195 (from the working); higher of double your money or $500 profit gives all-in $98, hammer $80."
   },
   {
    "cdid": 3088334,
@@ -2303,7 +2327,10 @@
    "condition": "Surface rust and pitting throughout, looks structurally sound, chain complete. No key, and whether the locks work is unknown.",
    "question_for_armitage": "Is there a key, and do the cuffs lock and open? Is there any maker's stamp (HIATT or a number) on the barrels or cuffs?",
    "keep_max_24m": 45,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3088074,
@@ -2605,7 +2632,10 @@
    "condition": "Good used. Ring box lining worn; no obvious dents. Jar glass looks intact but the rim was not seen closely; old powder inside.",
    "question_for_armitage": "Could you read the hallmarks (town, date letter, maker) on both pieces, give the weight of the ring box, and check the ring box hinge and feet for splits or dents and the glass jar rim for chips?",
    "keep_max_24m": 40,
-   "flip_max_24m": 55
+   "flip_max_24m": 55,
+   "flip_max_gross": 55,
+   "flip_rule_out": 55,
+   "flip_rule": "Net resale after selling fees $134 (from the working); higher of double your money or $500 profit gives all-in $67, hammer $55."
   },
   {
    "cdid": 3088106,
@@ -2687,7 +2717,10 @@
    "condition": "Looks good cosmetically. The dial looks clean in the photos, with light gilt wear. Running, striking and repeating are all untested.",
    "question_for_armitage": "Does it run, and does it strike on the gong and repeat when the top button is pressed? Are there any hairlines or chips in the enamel dial, any cracked glass, or a mark or serial number on the backplate? What is the height?",
    "keep_max_24m": 210,
-   "flip_max_24m": 100
+   "flip_max_24m": 100,
+   "flip_max_gross": 100,
+   "flip_rule_out": 100,
+   "flip_rule": "Net resale after selling fees $244 (from the working); higher of double your money or $500 profit gives all-in $122, hammer $100."
   },
   {
    "cdid": 3088131,
@@ -3206,7 +3239,10 @@
    "condition": "Looks clean in the photos, no obvious foxing or staining; glass and back of frame not seen.",
    "question_for_armitage": "Is there anything on the back (gallery label, certificate, Broken Hill provenance)? Is the signature in pencil, and is there a visible plate mark? Any foxing or damage to the frame or glass? What is the '777' tag in the frame?",
    "keep_max_24m": 170,
-   "flip_max_24m": 70
+   "flip_max_24m": 70,
+   "flip_max_gross": 70,
+   "flip_rule_out": 70,
+   "flip_rule": "Net resale after selling fees $171 (from the working); higher of double your money or $500 profit gives all-in $85, hammer $70."
   },
   {
    "cdid": 3088234,
@@ -3569,7 +3605,10 @@
    "condition": "Roo looks bright in its capsule and the card is clean, but light toning can't be ruled out. Folder clean with coins present. The Light Horsemen 20c looks toned or coppery in the photo.",
    "question_for_armitage": "Is the silver roo capsule sealed, and is the coin free of milk spots or toning? Are all 15 Anzacs Remembered cards present with their coins, including the War Heroes $1?",
    "keep_max_24m": 110,
-   "flip_max_24m": 45
+   "flip_max_24m": 45,
+   "flip_max_gross": 45,
+   "flip_rule_out": 45,
+   "flip_rule": "Net resale after selling fees $110 (from the working); higher of double your money or $500 profit gives all-in $55, hammer $45."
   },
   {
    "cdid": 3088268,
@@ -3794,7 +3833,10 @@
    "condition": "Appears good: label clean, screwcap intact, fill into the neck. Storage history unknown. The screwcap lowers the risk of cork taint and seepage.",
    "question_for_armitage": "Can you confirm the screwcap seal is unbroken and the fill is into the neck, and does the bottle have any known storage history?",
    "keep_max_24m": 100,
-   "flip_max_24m": 30
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
   },
   {
    "cdid": 3088288,
@@ -3940,7 +3982,10 @@
    "condition": "Fair to good for age: foxing, some silvering and edge wear on the large prints, and rubbed cabinet card mounts. No obvious tears seen, but most prints overlap in the photos.",
    "question_for_armitage": "How many large landscape prints are there, and what do the printed captions and photographer names say (e.g. Lake Margaret, Queenstown, Spurling, Beattie, Winter)? Any tears, water damage or trimmed margins?",
    "keep_max_24m": 65,
-   "flip_max_24m": 35
+   "flip_max_24m": 35,
+   "flip_max_gross": 35,
+   "flip_rule_out": 35,
+   "flip_rule": "Net resale after selling fees $85 (from the working); higher of double your money or $500 profit gives all-in $43, hammer $35."
   },
   {
    "cdid": 3088304,
@@ -4151,7 +4196,10 @@
    "condition": "Looks clean with good lustre and no obvious chips or peeling. Condition of the stringing is unknown.",
    "question_for_armitage": "Is the clasp marked 9ct/375 or 14k/585, or is it plated? Are the pearls real cultured pearls (gritty on the teeth) or shell/glass imitation, and is the strand knotted and sound?",
    "keep_max_24m": 65,
-   "flip_max_24m": 30
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
   },
   {
    "cdid": 3088314,
@@ -4232,7 +4280,10 @@
    "condition": "Appears intact. Whether all the stones are present cannot be checked from the photo.",
    "question_for_armitage": "What do the clasp tag and pendant bail stamps say (375/9K or plated)? What is the total weight in grams, and are all the stones present?",
    "keep_max_24m": 95,
-   "flip_max_24m": 40
+   "flip_max_24m": 40,
+   "flip_max_gross": 40,
+   "flip_rule_out": 40,
+   "flip_rule": "Net resale after selling fees $98 (from the working); higher of double your money or $500 profit gives all-in $49, hammer $40."
   },
   {
    "cdid": 3088315,
@@ -4564,7 +4615,10 @@
    "condition": "Good in the photo. Minor surface wear on the gold; the enamel and MOP appear intact.",
    "question_for_armitage": "What is the total weight in grams? Have the stones been tested as diamonds, and are there any chips in the enamel or mother of pearl? Is there a maker's or purity mark on the bars?",
    "keep_max_24m": 145,
-   "flip_max_24m": 70
+   "flip_max_24m": 70,
+   "flip_max_gross": 70,
+   "flip_rule_out": 70,
+   "flip_rule": "Net resale after selling fees $171 (from the working); higher of double your money or $500 profit gives all-in $85, hammer $70."
   },
   {
    "cdid": 3088336,
@@ -4718,7 +4772,10 @@
    "condition": "Circulated, light to moderate wear, some toning. No damage visible.",
    "question_for_armitage": "How many coins are in lot 903 and what does the silver weigh? Any florins or pre-1946 coins among them, and how many are bronze?",
    "keep_max_24m": 185,
-   "flip_max_24m": 80
+   "flip_max_24m": 80,
+   "flip_max_gross": 80,
+   "flip_rule_out": 80,
+   "flip_rule": "Net resale after selling fees $195 (from the working); higher of double your money or $500 profit gives all-in $98, hammer $80."
   },
   {
    "cdid": 3088351,
@@ -4823,7 +4880,10 @@
    "condition": "Circulated, light wear, bright; one coin with a small rim mark. No obverse view.",
    "question_for_armitage": "Can you confirm all six are round 1966 50c pieces, and check the obverses for damage or cleaning?",
    "keep_max_24m": 145,
-   "flip_max_24m": 65
+   "flip_max_24m": 65,
+   "flip_max_gross": 65,
+   "flip_rule_out": 65,
+   "flip_rule": "Net resale after selling fees $159 (from the working); higher of double your money or $500 profit gives all-in $79, hammer $65."
   },
   {
    "cdid": 3088354,
@@ -4880,7 +4940,10 @@
    "condition": "Circulated, mostly Fine to VF by the owner's flip notes; 1835 half crown and 1860 halfpenny heavily worn; loose coins worn.",
    "question_for_armitage": "Can you read the dates and country on the four loose half crowns (any 1947 or later, which are not silver, or any South African)? Is the 1835 half crown holed, bent or damaged?",
    "keep_max_24m": 155,
-   "flip_max_24m": 60
+   "flip_max_24m": 60,
+   "flip_max_gross": 60,
+   "flip_rule_out": 60,
+   "flip_rule": "Net resale after selling fees $146 (from the working); higher of double your money or $500 profit gives all-in $73, hammer $60."
   },
   {
    "cdid": 3088359,
@@ -4953,7 +5016,10 @@
    "condition": "Circulated, Fine to VF, some toning; no visible damage at photo resolution.",
    "question_for_armitage": "Can you read the dates on the ten florins in the tray (any 1945 or earlier, which are sterling)? Are the three 1927 florins free of holes, cleaning or edge knocks?",
    "keep_max_24m": 155,
-   "flip_max_24m": 85
+   "flip_max_24m": 85,
+   "flip_max_gross": 85,
+   "flip_rule_out": 85,
+   "flip_rule": "Net resale after selling fees $207 (from the working); higher of double your money or $500 profit gives all-in $104, hammer $85."
   },
   {
    "cdid": 3088361,
@@ -5066,7 +5132,10 @@
    "condition": "Circulated and worn; copper dirty, verdigris on a few; silver mostly Fine to VF.",
    "question_for_armitage": "Roughly how many silver coins are in the small box, and what does the silver weigh? Any coins dated 1945 or earlier, or any florins, among them?",
    "keep_max_24m": 90,
-   "flip_max_24m": 70
+   "flip_max_24m": 70,
+   "flip_max_gross": 70,
+   "flip_rule_out": 70,
+   "flip_rule": "Net resale after selling fees $171 (from the working); higher of double your money or $500 profit gives all-in $85, hammer $70."
   },
   {
    "cdid": 3088365,
@@ -5458,7 +5527,10 @@
    "condition": "Appears good, light wear, no visible splits or repairs in the photos. Gilding to interiors looks intact. Marks not readable.",
    "question_for_armitage": "Can you read the hallmarks (lion passant, town mark, date letter, maker) and give the combined weight in grams? Any splits, holes or repairs in the embossed bodies?",
    "keep_max_24m": 25,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3088095,
@@ -5916,7 +5988,10 @@
    "condition": "Framed and glazed in a burr frame. Mat and paper look clean in the photos, with no foxing visible at this resolution. Back not photographed.",
    "question_for_armitage": "Can you read the pencil edition number lower left and confirm the signature reads Pro Hart? Is there any foxing, staining or glass damage, and is there a gallery label or certificate on the back?",
    "keep_max_24m": 105,
-   "flip_max_24m": 60
+   "flip_max_24m": 60,
+   "flip_max_gross": 60,
+   "flip_rule_out": 60,
+   "flip_rule": "Net resale after selling fees $146 (from the working); higher of double your money or $500 profit gives all-in $73, hammer $60."
   },
   {
    "cdid": 3088138,
@@ -6086,7 +6161,10 @@
    "condition": "Appears clean and well framed; glass and back not shown.",
    "question_for_armitage": "Any foxing, staining or damage to glass or backing?",
    "keep_max_24m": 70,
-   "flip_max_24m": 30
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
   },
   {
    "cdid": 3088176,
@@ -6299,7 +6377,10 @@
    "condition": "Clean print, no visible foxing, frame looks sound. Glass not confirmed.",
    "question_for_armitage": "Is there glass in the frame, any foxing or water marks, and is there a gallery label or certificate on the back?",
    "keep_max_24m": 185,
-   "flip_max_24m": 80
+   "flip_max_24m": 80,
+   "flip_max_gross": 80,
+   "flip_rule_out": 80,
+   "flip_rule": "Net resale after selling fees $195 (from the working); higher of double your money or $500 profit gives all-in $98, hammer $80."
   },
   {
    "cdid": 3088210,
@@ -6413,7 +6494,10 @@
    "question_for_armitage": "Can you confirm the pencil signature lower right reads Pro Hart? Please also check the back for any gallery label or certificate, and look for foxing or damage under the glass.",
    "dropped_entries": "None dropped. Corrected 382568 from $220 to $200 (the API shows 20000 cents). Changed 384071 from close to same item after viewing its photo. The WebSearch budget was used up, so I could not check Armitage past results or Invaluable.",
    "keep_max_24m": 180,
-   "flip_max_24m": 75
+   "flip_max_24m": 75,
+   "flip_max_gross": 75,
+   "flip_rule_out": 75,
+   "flip_rule": "Net resale after selling fees $183 (from the working); higher of double your money or $500 profit gives all-in $92, hammer $75."
   },
   {
    "cdid": 3088235,
@@ -6857,7 +6941,10 @@
    "condition": "Looks good and lightly worn in the one photo, and the stones appear all present. Metal, fineness, weight, size, and whether the two rings are joined or separate, are unknown.",
    "question_for_armitage": "What are the hallmarks on both rings (9ct, 375, 18ct or plated)? What is the total weight in grams and the ring size? Are the two rings separate or soldered together? Are the stones diamonds, and are they all present and secure?",
    "keep_max_24m": 155,
-   "flip_max_24m": 65
+   "flip_max_24m": 65,
+   "flip_max_gross": 65,
+   "flip_rule_out": 65,
+   "flip_rule": "Net resale after selling fees $159 (from the working); higher of double your money or $500 profit gives all-in $79, hammer $65."
   },
   {
    "cdid": 3088303,
@@ -6962,7 +7049,10 @@
    "condition": "Appears complete and wearable from one photo; size, weight, wear and stone security unknown.",
    "question_for_armitage": "Is it hallmarked 9ct or 375, what does it weigh and what size is it? Are the stones tested (diamond or paste), and any chipped or loose?",
    "keep_max_24m": 90,
-   "flip_max_24m": 65
+   "flip_max_24m": 65,
+   "flip_max_gross": 65,
+   "flip_rule_out": 65,
+   "flip_rule": "Net resale after selling fees $159 (from the working); higher of double your money or $500 profit gives all-in $79, hammer $65."
   },
   {
    "cdid": 3088310,
@@ -7027,7 +7117,10 @@
    "condition": "Looks new or near new, good lustre, no visible damage.",
    "question_for_armitage": "What is the basis for 'natural', is there a lab report? Are the hooks stamped 925, 375 or 9ct?",
    "keep_max_24m": 30,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3088312,
@@ -7190,7 +7283,10 @@
    "question_for_armitage": "Can you confirm a 14ct (585) stamp on the fittings, give the total weight in grams, and confirm both hinged fittings close properly and the pearls are firm in their settings?",
    "dropped_entries": "Dropped: 409527 14K GOLD & PEARL EARRING ($30), a single earring, not a pair. 420804 pearl necklace with 14ct clasp plus earrings ($100), earrings cannot be separated from the necklace. 422473 PAIR OF PEARL DROP EARRINGS ($40), metal not stated, not gold. Researcher's search URLs replaced with the lot JSON URLs I opened. Researcher's $110 entry with no lot id is lot 424059 and has a rose quartz top, so given less weight but kept as close.",
    "keep_max_24m": 45,
-   "flip_max_24m": 30
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
   },
   {
    "cdid": 3088345,
@@ -7280,7 +7376,10 @@
    "question_for_armitage": "What is the total weight of the three pieces, do the spinner bands turn freely, and does the bracelet clasp close securely? Any sign whether the red stones are garnet or glass?",
    "dropped_entries": "Dropped: 376843 GARNET BRACELET ($14), no silver stated and probably base metal, not comparable. Researcher's lumped 'two silver rings $15-$50' entry dropped because it is a midpoint, not a single sale, and plain rings are not this lot. Researcher's search URLs replaced with lot JSON URLs I opened.",
    "keep_max_24m": 70,
-   "flip_max_24m": 35
+   "flip_max_24m": 35,
+   "flip_max_gross": 35,
+   "flip_rule_out": 35,
+   "flip_rule": "Net resale after selling fees $85 (from the working); higher of double your money or $500 profit gives all-in $43, hammer $35."
   },
   {
    "cdid": 3088349,
@@ -7354,7 +7453,10 @@
    "question_for_armitage": "How many florins are in the lot, and are there any not shown in the photo? If convenient, the total weight in grams would confirm the silver content.",
    "dropped_entries": "Dropped: 412961 BAG OF COINS INCL FLORINS & SHILLINGS ($130) and 375178 BAG OF AUSTRALIAN PRE-DECIMAL COINS INCL FLORINS ($80), mixed bags of unknown count and content. 383816 ($560) and 383838 ($440) BAG OF AUSTRALIAN FLORINS, bag size unknown and clearly far larger, so they cannot be compared by count. Count corrected from about 15 to 14 coins; the researcher's melt figure of A$228-$265 for 15 coins comes down to about A$215-$240 for 14.",
    "keep_max_24m": 180,
-   "flip_max_24m": 80
+   "flip_max_24m": 80,
+   "flip_max_gross": 80,
+   "flip_rule_out": 80,
+   "flip_rule": "Net resale after selling fees $195 (from the working); higher of double your money or $500 profit gives all-in $98, hammer $80."
   },
   {
    "cdid": 3088350,
@@ -7782,7 +7884,10 @@
    "condition": "Circulated brown copper with typical album toning. Folders show some edge wear. Key dates 1925 and 1930 are missing. Individual grades cannot be seen at this resolution.",
    "question_for_armitage": "Can you confirm which slots are empty (is it only 1925 and 1930?), whether the 1946, 1932 and 1933 pennies are present, and whether any coins are loose or sitting in the wrong slots?",
    "keep_max_24m": 90,
-   "flip_max_24m": 40
+   "flip_max_24m": 40,
+   "flip_max_gross": 40,
+   "flip_rule_out": 40,
+   "flip_rule": "Net resale after selling fees $98 (from the working); higher of double your money or $500 profit gives all-in $49, hammer $40."
   },
   {
    "cdid": 3088383,

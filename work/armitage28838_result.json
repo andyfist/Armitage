@@ -517,7 +517,10 @@
    "condition": "Both look intact in a single photo. Bases, signatures and sizes not shown.",
    "question_for_armitage": "Are both vases signed on the base, what are their heights, and are there any chips or cracks?",
    "keep_max_24m": 25,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090024,
@@ -886,7 +889,10 @@
    "score_reason": "Popular but very common pattern. Part sets like this make about $70 to $110 all-in in Tasmania.",
    "question_for_armitage": "Please confirm the exact piece count, and whether any pieces have chips, hairline cracks, crazing or worn gilt, especially the cup rims and handles and the gravy boat lip.",
    "keep_max_24m": 70,
-   "flip_max_24m": 30
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
   },
   {
    "cdid": 3090028,
@@ -1282,7 +1288,10 @@
    "condition": "Looks near new: leather clean with no visible scuffs or creasing, lining clean, hardware bright. Base, corners, strap edges and zip function not shown. Authenticity cannot be proven from photos.",
    "question_for_armitage": "Please check for a serial or production code (a small leather tag or care label inside a pocket) and whether a dust bag, care card or receipt is included; the bag's height and width (the Medium 3 Compartments is about 40 x 33 x 13 cm); any wear on corners, base and strap edges; that all zips run freely; and whether the blue pouch has a Montblanc label and a clean lining.",
    "keep_max_24m": 410,
-   "flip_max_24m": 165
+   "flip_max_24m": 165,
+   "flip_max_gross": 165,
+   "flip_rule_out": 165,
+   "flip_rule": "Net resale after selling fees $403 (from the working); higher of double your money or $500 profit gives all-in $201, hammer $165."
   },
   {
    "cdid": 3090037,
@@ -1348,7 +1357,10 @@
    "condition": "Appears good from the photos. Hairlines, chips, gilt wear and crazing not checked.",
    "question_for_armitage": "Can you confirm the piece count (six cups, six saucers, six side plates, cake plate, jug, sugar) and check each cup for hairline cracks or chips and the gilt rims for wear?",
    "keep_max_24m": 105,
-   "flip_max_24m": 45
+   "flip_max_24m": 45,
+   "flip_max_gross": 45,
+   "flip_rule_out": 45,
+   "flip_rule": "Net resale after selling fees $110 (from the working); higher of double your money or $500 profit gives all-in $55, hammer $45."
   },
   {
    "cdid": 3090041,
@@ -2103,8 +2115,8 @@
    "guide_low_aud": 100,
    "guide_high_aud": 400,
    "guide_summary": "All three surviving entries are SOLD, all AUD (no conversion): one close comparable (Colville 'Nocturne' lithograph 6/22, $400, Aug 2024, just outside 24 months) and two category guides within the window (Gowans colour reproduction print $110 hammer Aug 2026; Addams screen print 18/200 $100, figure unreliable). No unsold or asking entries survive. No same-print sale found.",
-   "flip_max_hammer": 0,
-   "keep_max_hammer": 0,
+   "flip_max_hammer": 135,
+   "keep_max_hammer": 327,
    "working": "Maximum bids need a same-item SOLD sale within 24 months. None found: no other 'Hamilton' impression traced. The only close comparable (Nocturne litho, $400) is 26 months old; the in-window entries are a reproduction print and a large-edition screen print, both category guides. So keep_max_hammer = 0 and flip_max_hammer = 0. For context only: if the $100-110 in-window print results were treated as the resale level, $110 less about 20% fees = $88 / 2.44 = $36, so there is little flip margin anyway. | 10-YEAR WINDOW (your instruction, replacing the 24-month rule): lowest same or close SOLD since 2016 is A$400 (Colville Auctions, Hobart, 'No 2024-08-06); keep = 400 / 1.22 = 327, flip = 400 / 2.44 = 163. Was keep 0, flip 0.",
    "confidence": "Low",
    "confidence_reason": "Signature 'G. Callaghan 83' and 'Hamilton 7/7' read clearly in the photos, but there is no same-print SOLD evidence, the one close comparable is outside the window, and the medium (lithograph versus another print process) is inferred from the image texture, not confirmed.",
@@ -2113,7 +2125,10 @@
    "dropped_entries": "Dropped as not comparable (original works, not prints): Lawsons 'Flautist' pastel $200 (2024-09-03); Colville 2022 watercolours and oils $200-400; Colville 2022 passed-in watercolour and oil (UNSOLD, last bids 100 and 200). All were opened on the Invaluable artist page and confirmed, but they are originals and over 24 months old. Also noted and excluded: Gowans lot 610 Evandale gouache by Callaghan $1,700 hammer (April 2026), an original painting, not a print. The researcher's direct Invaluable lot URL for Nocturne returned an empty page to curl, so that entry rests on the artist page instead. WebSearch budget was exhausted, so no further Armitage, Leonard Joel or Theodore Bruce searches were possible.",
    "question_for_armitage": "Can you check whether the print has any staining or foxing under the mat on the sheet itself, whether it is a lithograph, etching or other print (any blind stamp or printer's mark), and the sight size? Is there any gallery label on the back?",
    "keep_max_24m": 0,
-   "flip_max_24m": 0
+   "flip_max_24m": 0,
+   "flip_max_gross": 163,
+   "flip_rule_out": 135,
+   "flip_rule": "Resale $398 less 15% selling commission = net $338; higher of double your money or $500 profit gives all-in $169, hammer $135."
   },
   {
    "cdid": 3090051,
@@ -2284,7 +2299,7 @@
    "guide_low_aud": 3950,
    "guide_high_aud": 10048,
    "guide_summary": "One SOLD result inside 24 months for the same edition: AUD 6,500 hammer at Australian Book Auctions, Melbourne, 15 May 2024 (Sale 111, lot 97), a copy rebound in later speckled calf, estimate $3,000/6,000. Dealer asks for original-cloth copies are AUD 9,570 and 10,048 and AUD 3,950 for a rebound one. Lesser Boldrewood three-deckers in original cloth made $1,100 and $1,500 at ABA in 2021. Davidson Auctions' archive and Leski's site have no copy; the 2013 Sotheby's result is behind a login. Earlier searches by the research agents found no auction sale; this one came from reading the ABA catalogue and price-list PDFs.",
-   "flip_max_hammer": 2650,
+   "flip_max_hammer": 4095,
    "keep_max_hammer": 5300,
    "working": "Same edition SOLD inside 24 months: AUD 6,500 hammer (ABA Sale 111, lot 97, 15 May 2024, rebound in later calf). Keep: 6,500 / 1.22 = 5,327, rounded down to $5,300 hammer ($6,466 all-in). Flip: 6,500 / 2.44 = 2,663, rounded down to $2,650 ($3,233 all-in), which leaves room for a specialist auction's commission and the risk that this copy is faulty. The comp is a rebound copy; lot 39 is in the original publisher's cloth, which collectors prefer, so the keep figure is conservative if the set proves complete and sound, and too high if a volume is a later printing, leaves are missing or the hinges are broken. The maximum applies only after the viewing checks pass.",
    "confidence": "Medium",
@@ -2295,7 +2310,10 @@
    "question_for_armitage": "Please confirm all three volumes are the 1888 Remington edition (vols I and III title pages dated 1888), whether the half-titles and publisher's adverts are present and any leaves are missing, the state of the inner hinges and sewing, and whether the cloth has been recased or repaired. Any bookplates or library stamps?",
    "override_note": "Comps found and maximums set by me (Claude) on 19 Oct 2026 from the Australian Book Auctions PDFs; the Opus verify run had found asking prices only.",
    "keep_max_24m": 5300,
-   "flip_max_24m": 2650
+   "flip_max_24m": 2650,
+   "flip_max_gross": 2650,
+   "flip_rule_out": 4095,
+   "flip_rule": "Resale $6,466 less 15% selling commission = net $5,496; higher of double your money or $500 profit gives all-in $4,996, hammer $4,095."
   },
   {
    "cdid": 3090062,
@@ -2513,7 +2531,10 @@
    "condition": "Sound looking. Polish faded and scuffed, especially top and plinth; minor knocks; screw holes in top from missing back; lock and key not confirmed.",
    "question_for_armitage": "What are the dimensions, is the timber cedar or mahogany, is the back or superstructure with it anywhere, does the drawer run freely, and is there a key for the door lock?",
    "keep_max_24m": 40,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3090073,
@@ -2632,8 +2653,8 @@
    "guide_low_aud": 412,
    "guide_high_aud": 412,
    "guide_summary": "Only the close entries count towards the range: two 2019 RR Auction sales (premium included, 1 USD = 1.50 AUD). Original Monroe cards made about AU$140 each in a 20-card archive, and a premium Niagara title card made AU$412. All of this is sold evidence; there is no unsold or asking evidence. Gowans category results ($5 to $40 hammer) show Tasmanian buyers pay little for mixed film paper and modern Monroe prints. If the cards are period originals, the 3 Monroe cards alone could be worth a few hundred dollars overseas. If they are reprints, the box is a $20 to $50 lot.",
-   "flip_max_hammer": 0,
-   "keep_max_hammer": 0,
+   "flip_max_hammer": 140,
+   "keep_max_hammer": 337,
    "working": "There is no same-item SOLD entry from the last 24 months (the RR Auction sales were in August 2019), so keep_max_hammer = 0 and flip_max_hammer = 0. Indicative only: original Monroe cards made about AU$140 each in 2019. 3 cards x $140 = $420, less 13% selling fees and $20 postage = about $345, / 2.44 = about $140. That would be the flip ceiling only if the cards are confirmed original and 2019 prices still hold. It is not used as a maximum. | 10-YEAR WINDOW (your instruction, replacing the 24-month rule): lowest same or close SOLD since 2016 is A$412 (RR Auction, Pop Culture #564,  15/08/2019); keep = 412 / 1.22 = 337, flip = 412 / 2.44 = 168. Was keep 0, flip 0.",
    "confidence": "Low",
    "confidence_reason": "Titles read from the photos, but originality (NSS numbers, card stock, printer credits) is not visible. The only close sold evidence is over 24 months old and from the US. The WebSearch budget was used up, so no Armitage past results, Heritage or dealer prices could be checked.",
@@ -2642,7 +2663,10 @@
    "condition": "Cards show edge wear, possible tape remnants and fading. Prints appear modern and some are sleeved. Originality unconfirmed.",
    "question_for_armitage": "Are the lobby cards original 1950s release cards? Please check the bottom margin for an NSS number and year (for example 53/xxx or 56/xxx), the printer credit and 'Country of origin U.S.A.', and whether the stock is card or thin paper. How many lobby cards are in the box in total, and do any have tears, tape or trimmed edges?",
    "keep_max_24m": 0,
-   "flip_max_24m": 0
+   "flip_max_24m": 0,
+   "flip_max_gross": 168,
+   "flip_rule_out": 140,
+   "flip_rule": "Resale $410 less 15% selling commission = net $348; higher of double your money or $500 profit gives all-in $174, hammer $140."
   },
   {
    "cdid": 3090087,
@@ -2691,7 +2715,10 @@
    "question_for_armitage": "Do all pieces carry the Figgjo Flint Turi-Design backstamp, how many chips are there and where (spout, lid, rims), and is the sugar bowl lid missing?",
    "score_reason": "Collected Scandinavian retro pattern with a firm Tasmanian following; a Market teapot alone made $55 hammer, so four pieces probably sit around $60 to $120 despite the chips.",
    "keep_max_24m": 45,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090090,
@@ -2894,7 +2921,10 @@
    "condition": "Good used: light scratches and scuffs to top, finish otherwise even; joints look tight in photos.",
    "question_for_armitage": "Is there any maker's label, stamp or brand under the top or on the rails, is the top solid timber or veneer, and is the frame firm with no wobble?",
    "keep_max_24m": 40,
-   "flip_max_24m": 25
+   "flip_max_24m": 25,
+   "flip_max_gross": 25,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $61 (from the working); higher of double your money or $500 profit gives all-in $30, hammer $25."
   },
   {
    "cdid": 3090095,
@@ -2945,7 +2975,10 @@
    "score_reason": "A common 1960s Midwinter pattern plus an incomplete set of retro canisters; local evidence puts the whole lot in the $30 to 80 band.",
    "question_for_armitage": "Are any of the cups or saucers chipped, cracked or crazed? Are the canisters plastic, and is there a fifth (Sugar) canister with the set?",
    "keep_max_24m": 20,
-   "flip_max_24m": 5
+   "flip_max_24m": 5,
+   "flip_max_gross": 5,
+   "flip_rule_out": 5,
+   "flip_rule": "Net resale after selling fees $12 (from the working); higher of double your money or $500 profit gives all-in $6, hammer $5."
   },
   {
    "cdid": 3090097,
@@ -3133,7 +3166,10 @@
    "confidence_reason": "Clear identification of type and size and several same-form SOLD results opened (four of them Tasmanian), but there is no maker mark to read and condition is judged from two photos only.",
    "question_for_armitage": "Could you please check lot 80: (1) any maker's stamp, label or 'Made in Denmark' mark under the top or on the shelf rails; (2) the veneer edges and lipping for lifting or chips, and the top for water rings or sun-fading under the lights; (3) whether the legs are tight and the table sits level without wobble.",
    "keep_max_24m": 225,
-   "flip_max_24m": 110
+   "flip_max_24m": 110,
+   "flip_max_gross": 110,
+   "flip_rule_out": 110,
+   "flip_rule": "Net resale after selling fees $268 (from the working); higher of double your money or $500 profit gives all-in $134, hammer $110."
   },
   {
    "cdid": 3090100,
@@ -3166,7 +3202,10 @@
    "condition": "Polished and bright with light hairline scratches. Teak handles look sound. Original tag still attached. Tray has light scratches. Lids, hinges and bases not checked.",
    "question_for_armitage": "Are the bases marked Picquot Ware? Are the teapot and jug lids hinged and tight? Is the tray marked, either Picquot or another maker?",
    "keep_max_24m": 55,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3090102,
@@ -3696,13 +3735,16 @@
    "guide_high_aud": 8409,
    "guide_summary": "Range A$40 to A$8,409 across the four same-type entries, far too wide to price from. SOLD close: NZD 950 (A$885) for a small framed pictorial Uvea siapo at Webb's in 2023, and A$40 for a small Wallis tapa at Lawsons in 2012. UNSOLD close: a 43 x 165 cm Wallis land-sea runner passed at EUR 80 (A$114) in 2010. ASKING close: EUR 5,200 (A$8,409) for a much larger example on 1stdibs, sold at an undisclosed price. Category guides: Australian tapa sold A$10 to A$320 in the last 24 months, and pictorial Tongan cloths passed at A$80 to A$701 equivalent (A$500 for a 19th-century one in Sydney). Rates are given per entry (ECB via frankfurter; sale-date rates for old results, 2026-10-16 for the listing).",
    "keep_max_hammer": 725,
-   "flip_max_hammer": 362,
+   "flip_max_hammer": 305,
    "working": "Single SOLD comp: Webb's Auckland 3 Aug 2023, lot 46, pictorial siapo from Uvea, NZD 950 (about A$885) hammer, a smaller piece (about a third of the area). 885/1.22 = $725 keep, /2.44 = $362 flip. One sale only, so Low confidence.",
    "confidence": "Low",
    "confidence_reason": "The inscription is read and the identification is well supported by the Te Papa record, but there is no SOLD result within 24 months; the value rests on one old, smaller NZ sale, old unsold results and an expired dealer ask.",
    "question_for_armitage": "Could you please check lot 89: (1) the back of the cloth for tears, holes, insect damage, repairs, brittleness or water staining, and whether it has been backed or glued; (2) whether the shiny dark brown areas are original dye or a later varnish or coating; (3) the size excluding the black hanging sleeves, and whether the sleeves are sewn through the cloth; (4) any provenance, label, date or writing on the back (for example, brought back from Wallis in the 1960s or 1970s).",
    "keep_max_24m": 725,
-   "flip_max_24m": 362
+   "flip_max_24m": 362,
+   "flip_max_gross": 362,
+   "flip_rule_out": 305,
+   "flip_rule": "Resale $883 less 15% selling commission = net $751; higher of double your money or $500 profit gives all-in $375, hammer $305."
   },
   {
    "cdid": 3090109,
@@ -3978,7 +4020,10 @@
    "condition": "Clock complete, glass intact, working order unknown. Rack tarnished and spotted.",
    "question_for_armitage": "Does the Junghans clock run with a fresh battery, is the battery compartment free of corrosion, and does the toast rack carry any maker's or EPNS mark?",
    "keep_max_24m": 35,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3090111,
@@ -4666,7 +4711,10 @@
    "question_for_armitage": "What is the full length (the title is cut off at 'L-4...')? Is the shoulder crack stable or does the arm move? Is the ring original or a replacement, and how is it attached to the hand? Any worm holes, missing fingers or toes? Any marks or old labels on the back?",
    "dropped_entries": "Dropped Pamono 'Winged putto playing the wind instrument' (https://www.pamono.eu/winged-putto-playing-the-wind-instrument-carved-in-wood-early-1900s): researcher claimed EUR 1,650 but the page I opened shows EUR 200 (reduced from EUR 250), so the claimed price is wrong; it is also only 32 cm. All 13 Auctionet entries re-opened and the embedded state, bid amount and end date matched the researcher. Gowans and Lion and Unicorn entries re-checked and correct. Snippet-only Bonhams and TimeLine kept as leads only.",
    "keep_max_24m": 235,
-   "flip_max_24m": 120
+   "flip_max_24m": 120,
+   "flip_max_gross": 120,
+   "flip_rule_out": 120,
+   "flip_rule": "Net resale after selling fees $293 (from the working); higher of double your money or $500 profit gives all-in $146, hammer $120."
   },
   {
    "cdid": 3090127,
@@ -4885,7 +4933,10 @@
    "question_for_armitage": "Does the wheel turn freely and drive the flyer, with a drive band, all flyer hooks, and the treadle connector (footman) intact? Any maker's name or plate under the table or on the treadle? Is the boxed wool winder inside the box and complete?",
    "score_reason": "Tasmanian uprights in working order make about $130 to $205 hammer, plus the accessories add a little; maker and working order unproven, so mid-range score.",
    "keep_max_24m": 105,
-   "flip_max_24m": 55
+   "flip_max_24m": 55,
+   "flip_max_gross": 55,
+   "flip_rule_out": 55,
+   "flip_rule": "Net resale after selling fees $134 (from the working); higher of double your money or $500 profit gives all-in $67, hammer $55."
   },
   {
    "cdid": 3090139,
@@ -5031,7 +5082,10 @@
    "question_for_armitage": "Please give the height, width and depth. Are the drawers free running with all original iron handles and lock plates, any keys, and any borer, splits or replaced panels?",
    "score_reason": "Iron-fitted tansu make $110 to $300 hammer in Hobart; this is a smaller, worn example, so mid score.",
    "keep_max_24m": 90,
-   "flip_max_24m": 60
+   "flip_max_24m": 60,
+   "flip_max_gross": 60,
+   "flip_rule_out": 60,
+   "flip_rule": "Net resale after selling fees $146 (from the working); higher of double your money or $500 profit gives all-in $73, hammer $60."
   },
   {
    "cdid": 3090140,
@@ -5244,7 +5298,10 @@
    "condition": "Good: clean even finish with light wear, seat fabric tidy with a few small marks, no visible breaks or repairs. Joints and seat frames not shown.",
    "question_for_armitage": "Are all six chairs firm with no loose joints or repairs, and is there any maker's label or stamp under the seats? What makes you call the timber English oak?",
    "keep_max_24m": 40,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090148,
@@ -5432,7 +5489,10 @@
    "condition": "Velvet clean but flattened and faded in patches on the seat and arm fronts; buttons intact; legs lightly scuffed; castors present on visible legs. Frame stability, back and underside unseen.",
    "question_for_armitage": "Is the frame original Victorian (look under the seat for hand-cut timbers and old webbing) and are all four castors present and the legs firm? Any marks or wear to the back?",
    "keep_max_24m": 30,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090151,
@@ -5678,7 +5738,10 @@
    "confidence_reason": "222K cartouche read in an enlarged crop and the two-part free-arm base visible; four Australian same-model SOLD results within 24 months, all pages opened and photos viewed (two at Gowans, the same Tasmanian buyer pool). The main unknown is condition: replaced lead and running not seen.",
    "question_for_armitage": "Could you please check lot 142: (1) the serial number stamped under the bed (two letters starting with E, then digits) and that the badge under the medallion reads 222K; (2) that the motor runs at all speeds and the light works, as 'going order' says; (3) whether the black power lead was replaced and whether it has been electrically tested and tagged; (4) that the left bed extension (the free-arm flap) is present and latches; (5) whether a bobbin case, bobbins and the instruction booklet are included.",
    "keep_max_24m": 245,
-   "flip_max_24m": 150
+   "flip_max_24m": 150,
+   "flip_max_gross": 150,
+   "flip_rule_out": 150,
+   "flip_rule": "Net resale after selling fees $366 (from the working); higher of double your money or $500 profit gives all-in $183, hammer $150."
   },
   {
    "cdid": 3090162,
@@ -5751,7 +5814,10 @@
    "condition": "Distressed: dull worn finish, many small chips and pale edge losses on drawer fronts and top, scuffed plinths, pale patches on the right side, baize replaced and marked. Drawer interiors, runners and back not shown.",
    "question_for_armitage": "Is it red cedar throughout or stained pine/mixed timbers (check drawer sides and the back)? Do all nine drawers run freely, are any locks working or keys present, and does the top lift off the pedestals as separate pieces?",
    "keep_max_24m": 55,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3090176,
@@ -5926,7 +5992,10 @@
    "dropped_entries": "Dropped: Bonhams 2005 GBP 411.25 (snippet only, 403, 21 years old); Chairish USD 2,800 (different four pieces, US retail); Gowans 391971 vase $320, 430870 vase $120, 365482 cracked vase $40, 377670 figure $21, 395238 trinkets $15 (all confirmed in API but not tea ware); Gowans 380521 part coffee set $5 (confirmed, mass-produced, not comparable). No mislabelled kinds; the two Appraisily-sourced lots were upgraded to page opened.",
    "confidence_reason_extra": "",
    "keep_max_24m": 210,
-   "flip_max_24m": 75
+   "flip_max_24m": 75,
+   "flip_max_gross": 75,
+   "flip_rule_out": 75,
+   "flip_rule": "Net resale after selling fees $183 (from the working); higher of double your money or $500 profit gives all-in $92, hammer $75."
   },
   {
    "cdid": 3090183,
@@ -6024,7 +6093,10 @@
    "condition": "Appears clean with no obvious chips or cracks in the photos, but rims and stoppers cannot be checked at this resolution. Gilt condition on the coupes unknown.",
    "question_for_armitage": "Are there any chips to rims or feet, especially the four gilt iridescent coupes, and is any piece signed (check the base of the frosted-stopper scent bottle and the leaf plate for Lalique, Sabino or Czech marks)?",
    "keep_max_24m": 15,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090188,
@@ -6131,7 +6203,10 @@
    "condition": "Washed (per the vendor note), folded and tied. Outer faces look clean with no obvious fading or stains; inner pieces, cut sizes and any staining cannot be seen.",
    "question_for_armitage": "Roughly how many pieces and what are the largest cut lengths and width? Is the P. Kaufmann name printed on the selvedge, and are any pieces stained, faded or cut into shapes?",
    "keep_max_24m": 10,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090189,
@@ -6238,7 +6313,10 @@
    "condition": "Heavily used: rubbed and chipped spines, losses to the Devil's Cub spine foot, split annual spines, soiled boards. Inside condition, foxing and missing pages unknown.",
    "question_for_armitage": "Can you check the title page and imprint of The Conqueror and Devil's Cub (publisher, date, and whether they say 'First published' with no later printings), and whether The Conqueror has a dust jacket?",
    "keep_max_24m": 10,
-   "flip_max_24m": 5
+   "flip_max_24m": 5,
+   "flip_max_gross": 5,
+   "flip_rule_out": 5,
+   "flip_rule": "Net resale after selling fees $12 (from the working); higher of double your money or $500 profit gives all-in $6, hammer $5."
   },
   {
    "cdid": 3090192,
@@ -7483,7 +7561,10 @@
    "question_for_armitage": "Roughly how many cards are there, and are the 1933 B.D.V. Test Cricketers (with Bradman?) and the Greys and Carreras footballer bundles substantial? Are the cards free of heavy band marks or creases? Is the index sheet complete for the whole lot?",
    "dropped_entries": "Dropped: Leski 6 Oct 2026 lot 454 A$900 (advertising poster, not cards). All 20 Gowans records re-fetched and matching; 65 of 67 Invaluable pages re-opened with matching embedded data; Leski PDFs 649 and 661 re-read (256 = 160 and 288 = 140 on house list; 608 = 160; 580 and 293 Unsold); all 9 Noble pages match. Status 20306 kept as lead only (page blocked). Single-series set lots re-labelled category guide. No kind mislabelled.",
    "keep_max_24m": 145,
-   "flip_max_24m": 55
+   "flip_max_24m": 55,
+   "flip_max_gross": 55,
+   "flip_rule_out": 55,
+   "flip_rule": "Net resale after selling fees $134 (from the working); higher of double your money or $500 profit gives all-in $67, hammer $55."
   },
   {
    "cdid": 3090200,
@@ -7694,7 +7775,10 @@
    "question_for_armitage": "Do any of the frames, the velvet mirror or the hand mirrors carry a sterling or 925 hallmark (or are they marked EPNS, silver plated or resin)? Are all mirror and frame glasses intact and do the stands work?",
    "score_reason": "Modern plated or foil gift-shop frames and dressing items routinely hammer $10 to $35 a lot in Tasmania; only a sterling surprise would change that, and nothing in the photo suggests one.",
    "keep_max_24m": 20,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3090208,
@@ -8000,7 +8084,10 @@
    "condition": "Boxes look sound with light shelf wear. The 25th set box has a small edge tear. Untested, and the contents of the boxes are not shown.",
    "question_for_armitage": "Are the Wii console and Wii Fit Plus board actually inside their boxes, with sensor bar, power pack and AV cable? Is the Mario Kart wheel inside its box? Is the Super Mario 25th set complete (disc, booklet, soundtrack CD)? Are all six game discs in their cases? Has the console been powered up?",
    "keep_max_24m": 65,
-   "flip_max_24m": 45
+   "flip_max_24m": 45,
+   "flip_max_gross": 45,
+   "flip_rule_out": 45,
+   "flip_rule": "Net resale after selling fees $110 (from the working); higher of double your money or $500 profit gives all-in $55, hammer $45."
   },
   {
    "cdid": 3090217,
@@ -8107,7 +8194,10 @@
    "condition": "Paint and decals look clean and bright with little wear. The cord is old rubber-sheathed and may be perished. Untested per catalogue. Case sound with light scuffs. Foot pedal, key and accessories not shown.",
    "question_for_armitage": "Is the foot controller included, and does the case lock have a key? Can you read the model number (99K or 201K) on the plate under the bed or on the pillar, and is the wiring perished or cracked?",
    "keep_max_24m": 30,
-   "flip_max_24m": 25
+   "flip_max_24m": 25,
+   "flip_max_gross": 25,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $61 (from the working); higher of double your money or $500 profit gives all-in $30, hammer $25."
   },
   {
    "cdid": 3090220,
@@ -8264,7 +8354,10 @@
    "condition": "Looks structurally complete with all hooks. The top is worn, with light marks. The mirror glass looks clear. The back and joints are not shown.",
    "question_for_armitage": "What are the height and width? Does it come apart for transport? Is there a maker's label or stamp? Are the mirrors original and clear? Are there any loose joints, worm or broken spindles?",
    "keep_max_24m": 65,
-   "flip_max_24m": 35
+   "flip_max_24m": 35,
+   "flip_max_gross": 35,
+   "flip_rule_out": 35,
+   "flip_rule": "Net resale after selling fees $85 (from the working); higher of double your money or $500 profit gives all-in $43, hammer $35."
   },
   {
    "cdid": 3090224,
@@ -8338,7 +8431,10 @@
    "question_for_armitage": "Is the figure metal (heavy) or resin (light), and is there a maker's mark under the base? Is the globe free of chips at the fitting rim, and is the flex and plug in safe order?",
    "score_reason": "Decorative reproduction Deco figural lamp; Tasmanian rooms hammer these about $60 to $90, with better chrome pieces to $270. Flaking finish keeps it at the lower end.",
    "keep_max_24m": 45,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3090227,
@@ -8788,7 +8884,10 @@
    "condition": "Looks clean with bright gilding in the photos and no obvious chips, but rims, handles and hairline cracks cannot be seen at this resolution.",
    "question_for_armitage": "How many complete trios are there, and are any cups or saucers chipped, cracked or crazed? Is the second rose-border trio also Royal Albert or Royal Doulton?",
    "keep_max_24m": 30,
-   "flip_max_24m": 25
+   "flip_max_24m": 25,
+   "flip_max_gross": 25,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $61 (from the working); higher of double your money or $500 profit gives all-in $30, hammer $25."
   },
   {
    "cdid": 3090245,
@@ -8894,7 +8993,10 @@
    "condition": "Sleeves are worn and torn at the edges. The discs cannot be seen, so scratches and wear are unknown.",
    "question_for_armitage": "Roughly how many records are in the box? Is the blue Beatles sleeve an EP with the record inside (catalogue number GEPO or similar)? Are the discs in reasonable condition?",
    "keep_max_24m": 20,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3090254,
@@ -9432,7 +9534,10 @@
    "condition": "Unassembled, unwired (cloth flex old, wires cut). Chrome bright with no obvious pitting in photos. Shades look whole but rims not visible close up. Needs assembly, rewiring and electrical testing before use.",
    "question_for_armitage": "How many shades and arms are there in total, and do both fittings have all arms, holders and fixing screws? Any chips or cracks on the shade rims? Any maker mark on the canopies or shade holders? Is the chrome original or replated?",
    "keep_max_24m": 200,
-   "flip_max_24m": 100
+   "flip_max_24m": 100,
+   "flip_max_gross": 100,
+   "flip_rule_out": 100,
+   "flip_rule": "Net resale after selling fees $244 (from the working); higher of double your money or $500 profit gives all-in $122, hammer $100."
   },
   {
    "cdid": 3090257,
@@ -9709,7 +9814,10 @@
    "condition": "Labels are mostly clean; the novelty bottle and the Dogrock labels are stained. The whites are 10 to 16 years old with deep colour and unknown storage. The Sauvignon Blancs are likely past their best. The 1977 Spaetlese is a gamble.",
    "question_for_armitage": "Can you tell me the fill levels (especially the 1977 Spaetlese and the 1975 novelty bottle), the Cloudy Bay vintage, and whether the wines came from a cellar or were kept at room temperature? Are the Chablis and the M3 as dark as they look in the photos?",
    "keep_max_24m": 40,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3090262,
@@ -9855,7 +9963,10 @@
    "condition": "Looks sound from one angle. The fitter rims, insides and collars are not shown. The chrome fitter is dull. Wiring and fittings unknown.",
    "question_for_armitage": "Are there any chips or cracks to the fitting rims or collars of the three shades, and does the chrome fitter on the stepped white shade come with a ceiling plate or wiring?",
    "keep_max_24m": 40,
-   "flip_max_24m": 30
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
   },
   {
    "cdid": 3090263,
@@ -10509,7 +10620,10 @@
    "condition": "Looks clean and complete with keys present; corks look worn but intact. Pads, springs and any body cracks cannot be judged from photos. Likely needs a service before playing.",
    "question_for_armitage": "Are all three joints and the bell free of cracks, and do the pads seal (has it been played or serviced recently)? Is there a serial number on the body? Any bent keys?",
    "keep_max_24m": 125,
-   "flip_max_24m": 40
+   "flip_max_24m": 40,
+   "flip_max_gross": 40,
+   "flip_rule_out": 40,
+   "flip_rule": "Net resale after selling fees $98 (from the working); higher of double your money or $500 profit gives all-in $49, hammer $40."
   },
   {
    "cdid": 3090275,
@@ -11377,7 +11491,10 @@
    "dropped_entries": "None dropped. Stockholms Auktionsverk Magasin 5 pink and yellow lamp (USD 172) was snippet only for its URL; I opened it and it is verified. LiveAuctioneers and Catawiki estimates remain snippet only, leads not evidence. Moonlight lantern bid count only partly confirmed (page data showed at least 8 bids). All other Auctionet, Gowans, Leonard Joel, 1stDibs and Italian Lighting Centre figures matched the pages.",
    "question_for_armitage": "Any chips, cracks or repairs to the glass, especially at the pointed base and around the top knops? Any sticker or acid mark (Murano, Made in Italy)? Has the wiring been tested, and do the ceiling cup and flex come with it?",
    "keep_max_24m": 45,
-   "flip_max_24m": 30
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
   },
   {
    "cdid": 3090291,
@@ -11459,7 +11576,10 @@
    "dropped_entries": "Dropped the Gowans 'BOX OF CHANDELIER PARTS' entry (lot ids 434799, 437541, 441175, 442760; $15 to $55): photos opened show brass arms, sockets and wiring, not glass prisms, so not the same kind (the researcher also flagged this). Dropped the US eBay/Etsy entry (https://www.ebay.com/itm/287561214372, US$129.99 and US$250): snippet only, eBay is closed to us, US retail, and the USD rate was assumed. The three remaining eBay AU and Etsy AU entries kept as unverified leads only.",
    "question_for_armitage": "Roughly how many pieces are in the closed tubs, and is there any chipping or cloudiness? Are any pieces lead crystal or marked (for example Swarovski etched)? Does the frosted shade have chips?",
    "keep_max_24m": 20,
-   "flip_max_24m": 25
+   "flip_max_24m": 25,
+   "flip_max_gross": 25,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $61 (from the working); higher of double your money or $500 profit gives all-in $30, hammer $25."
   },
   {
    "cdid": 3090292,
@@ -12142,7 +12262,10 @@
    "condition": "Appears crisp and unused with bright colour; slight curl on loose stacks. Backs, glue residue and any foxing not visible. Count unknown (likely 100 to 300).",
    "question_for_armitage": "Roughly how many labels are there, and how many different designs? Are the album sleeves full, and are there other overseas or mainland labels besides those photographed? Any staining, foxing or glue on the backs?",
    "keep_max_24m": 75,
-   "flip_max_24m": 40
+   "flip_max_24m": 40,
+   "flip_max_gross": 40,
+   "flip_rule_out": 40,
+   "flip_rule": "Net resale after selling fees $98 (from the working); higher of double your money or $500 profit gives all-in $49, hammer $40."
   },
   {
    "cdid": 3090313,
@@ -12224,7 +12347,10 @@
    "condition": "Used, with general shelf wear. The art and glass titles have jackets with edge wear and some fading. Not every book is visible in the photos.",
    "question_for_armitage": "",
    "keep_max_24m": 10,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3090324,
@@ -12571,7 +12697,10 @@
    "confidence_reason": "Wedgwood mark read in photo 2 and two opened Australian SOLD results of close mixed lots, but neither pattern is identified, the Imari group is unmarked and condition is only from photos.",
    "score_reason": "Everyday late Victorian tea ware; comparable lots A$25 to A$85, so about A$30 to A$80: score 4.",
    "keep_max_24m": 20,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090340,
@@ -12850,7 +12979,10 @@
    "condition": "Appears sound and complete as far as seen; light wear to the foot edges; possible light silvering spots near the edge of the plate; back of the mirror, pivots and underside not shown.",
    "question_for_armitage": "Is the timber Tasmanian blackwood? Is the mirror plate original, with any silvering loss or chips to the bevel, do the pivots hold the mirror at an angle, and is there any maker's label or inscription on the back?",
    "keep_max_24m": 45,
-   "flip_max_24m": 25
+   "flip_max_24m": 25,
+   "flip_max_gross": 25,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $61 (from the working); higher of double your money or $500 profit gives all-in $30, hammer $25."
   },
   {
    "cdid": 3090355,
@@ -12917,7 +13049,10 @@
    "condition": "The structure looks sound, the glass is intact in the photos and the key is present. Veneer checking on the front stile and a dull, dry finish. The interior and back are not shown closely.",
    "question_for_armitage": "Is all the curved glass free of cracks and chips? Does the key lock the door? Is the back mirrored or plain? Is any veneer lifting or missing beyond the checking on the front stile?",
    "keep_max_24m": 65,
-   "flip_max_24m": 45
+   "flip_max_24m": 45,
+   "flip_max_gross": 45,
+   "flip_rule_out": 45,
+   "flip_rule": "Net resale after selling fees $110 (from the working); higher of double your money or $500 profit gives all-in $55, hammer $45."
   },
   {
    "cdid": 3090356,
@@ -13039,7 +13174,10 @@
    "confidence_reason": "Clear identification (homemade, no mark exists) and several Tasmanian SOLD results opened with photos, but Gowans entries carry no description or condition and tub contents are unchecked.",
    "score_reason": "Homemade dolls houses with contents sell about A$20 to A$90 in Tasmania: score 4.",
    "keep_max_24m": 15,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090358,
@@ -13169,7 +13307,10 @@
    "condition": "Used and dirty, with worn enamel and bed plate. No cord, foot controller or belt visible. Untested.",
    "question_for_armitage": "What is the serial number or model on the head (to confirm it is a 201)? Is there a power cord and foot controller, and does the motor run? Is a treadle belt fitted so it can be used by foot?",
    "keep_max_24m": 5,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3090366,
@@ -13252,7 +13393,10 @@
    "condition": "Fair to good from photos. Chrome collars worn or tarnished, shade a replacement, old wiring and plug likely, needs an electrical test before use.",
    "question_for_armitage": "Has the lamp been rewired or tested and tagged, and is the flex original? Any cracks or chips in the Bakelite column or base, and does it stand straight?",
    "keep_max_24m": 20,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3090370,
@@ -13518,14 +13662,17 @@
    "guide_low_aud": 50,
    "guide_high_aud": 144,
    "guide_summary": "Only two same-kind entries survive, both SOLD in the USA and well outside 24 months: A$50.30 (2015) and A$143.60 (2018, different model). No unsold. Unverified eBay asking excluded. Tasmanian category guides A$20 to A$45 hammer. USD at 1.4358.",
-   "flip_max_hammer": 0,
-   "keep_max_hammer": 0,
+   "flip_max_hammer": 45,
+   "keep_max_hammer": 117,
    "working": "No same-item SOLD result in the last 24 months, so no maximum bid. Context only: roughly A$30 to A$100 if working. | 10-YEAR WINDOW (your instruction, replacing the 24-month rule): lowest same or close SOLD since 2016 is A$144 (Fontaine's Auction Gallery, Pi 2018-08-25); keep = 144 / 1.22 = 117, flip = 144 / 2.44 = 58. Was keep 0, flip 0.",
    "confidence": "Low",
    "confidence_reason": "Dial read clearly, but only old overseas sales, model and working order unknown, one front photo only.",
    "score_reason": "Decorative 1970s Seiko transistor wall clock, likely A$30 to A$100 if working; thin evidence: score 4.",
    "keep_max_24m": 0,
-   "flip_max_24m": 0
+   "flip_max_24m": 0,
+   "flip_max_gross": 58,
+   "flip_rule_out": 45,
+   "flip_rule": "Resale $142 less 15% selling commission = net $120; higher of double your money or $500 profit gives all-in $60, hammer $45."
   },
   {
    "cdid": 3090382,
@@ -13600,7 +13747,10 @@
    "condition": "Looks good from one photo. Scratches, scuffs or stress cracks around the seat centre (a known weak spot) cannot be judged.",
    "question_for_armitage": "Is there a moulded Kartell logo and Philippe Starck signature under each seat? Any cracks around the centre hole or legs, and what is the seat height?",
    "keep_max_24m": 95,
-   "flip_max_24m": 40
+   "flip_max_24m": 40,
+   "flip_max_gross": 40,
+   "flip_rule_out": 40,
+   "flip_rule": "Net resale after selling fees $98 (from the working); higher of double your money or $500 profit gives all-in $49, hammer $40."
   },
   {
    "cdid": 3090383,
@@ -13755,7 +13905,10 @@
    "dropped_entries": "Dropped: EstateSales US$4 tree (no base, no lights, not comparable condition). Gowans Villeroy & Boch tealight tree A$65 and Gowans carousel figure A$30 (different objects; JSON checked). Theodore Bruce A$45 mixed Christmas lot (2022, mixed lot, page opened). Underpriced AI US$75 Nowell 12 inch tree (too small). Target Anko A$10 new LED tree (not the same kind of item). eBay asking snippets US$149.99, US$449.49, US$399.99 and the plusmodels US$199.99 nativity-base snippet (snippet only, eBay closed to us). Invaluable record-only entries whose built URLs returned HTTP 404 when tried this run, so the URL is wrong and the price unverified: lots 452 (US$137), 126 (US$115), 127 (US$40), 56 (US$70), 132 (US$120), 442 (US$75). Invaluable record-only entries that still return a bot challenge (HTTP 202, not pursued), kept only as unverified leads: lot 194 huge 31 inch tree US$180, lot 181 18 inch unmarked US$95, lot 1022 Atlantic Mold with music box US$85, lot 170 20 inch US$95, lot 47 24 inch US$90, lot 3009 nativity base US$36, Albion lot 542 A$40, Lawsons Atlantic bull A$30 (not a tree), and the Keystone lot 235 UNSOLD at last bid US$80. Corrections: none of the opened entries had wrong prices; researcher's dates confirmed.",
    "question_for_armitage": "How tall is the tree overall, are there any marks or a date under the base or inside the tiers (Atlantic Mold or a hobbyist signature), does it light up, and are any pegs or the star missing, or any chips or cracks on the back?",
    "keep_max_24m": 55,
-   "flip_max_24m": 40
+   "flip_max_24m": 40,
+   "flip_max_gross": 40,
+   "flip_rule_out": 40,
+   "flip_rule": "Net resale after selling fees $98 (from the working); higher of double your money or $500 profit gives all-in $49, hammer $40."
   },
   {
    "cdid": 3090384,
@@ -14079,7 +14232,10 @@
    "condition": "Complete set of four, glossy, no chips or cracks visible at photo size; slight print thinning on the 441; base marks, base wear and scratches unchecked.",
    "question_for_armitage": "Please check the bases: are all four marked PYREX with 441, 442, 443 and 444, and are there any chips (especially on the spouts and base rims), cracks, heavy utensil scratches or dishwasher-dulled print?",
    "keep_max_24m": 70,
-   "flip_max_24m": 30
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
   },
   {
    "cdid": 3090387,
@@ -14410,7 +14566,10 @@
    "question_for_armitage": "Is the table firm (no loose leg joints or wobble), any borer, and what are the exact dimensions? Are the legs blackwood or oak?",
    "dropped_entries": "None dropped; all 16 Gowans records re-opened (titles and prices match) and both Early Settler product records re-opened. Kinds correct.",
    "keep_max_24m": 120,
-   "flip_max_24m": 50
+   "flip_max_24m": 50,
+   "flip_max_gross": 50,
+   "flip_rule_out": 50,
+   "flip_rule": "Net resale after selling fees $122 (from the working); higher of double your money or $500 profit gives all-in $61, hammer $50."
   },
   {
    "cdid": 3090407,
@@ -14767,7 +14926,10 @@
    "question_for_armitage": "Does the top tilt and does the catch work, and is the column firm with no wobble or repaired legs? What timber is the top, solid or veneered, and is the pale frieze original or a replacement (if the table is Australian cedar, blackwood or Huon pine rather than English mahogany it would interest local buyers more)? Is the mark at the front edge a crack or an old join? Are all four ceramic castors original and turning?",
    "dropped_entries": "Dropped as not the same item: Gowans 435935 ($200 card table) and its pass 434558; Gowans 375464 ($260), 418389 ($625) and 440826 ($55), round tops on triform platform bases; Gowans 407198 ($80), 399471 ($35) and 432860 ($65), plain round tilt-tops on tripod legs; McKenzies $600 (round, 142 cm) and $950 (round burr walnut with marquetry, 92 cm); Vickers & Hoad $480 (17 May 2026) and its $320 pass (15 Feb 2026), a Regency-style rounded-rectangular breakfast table on plain splayed legs with brass paw castors; Albion $250 (24 Sep 2026), a round cedar and mahogany tilt-top on a platform base; Moorabool $200 pass (2 Nov 2024), a burr walnut four-column table titled NR yet passed, category guide only. Gowans 403348 (pass) folded into the Gowans 404944 note as the same table. All 10 UK results (7 SOLD, 3 UNSOLD; Cheffins, Lyon & Turnbull x2, Adam Partridge, Andrew Smith x3, Elstob, Claydon, Lacy Scott & Knight) dropped: overseas, mostly rosewood or burr or inlaid walnut, and the Australian evidence is ample. All 4 ASKING entries dropped: three 1stDibs dealer asks (GBP 1,250 rosewood loo table, GBP 1,350 burr walnut loo table, GBP 450 rectangular bobbin-turned tilt-top) and South Perth Antiques A$1,595 (a round mahogany platform-base table, marked SOLD at an unknown price) are not the same item. Prices, dates and kinds of all re-opened entries matched the researcher, except that the researcher missed the lot's stated size and the Moorabool condition note (one castor missing).",
    "keep_max_24m": 40,
-   "flip_max_24m": 35
+   "flip_max_24m": 35,
+   "flip_max_gross": 35,
+   "flip_rule_out": 35,
+   "flip_rule": "Net resale after selling fees $85 (from the working); higher of double your money or $500 profit gives all-in $43, hammer $35."
   },
   {
    "cdid": 3090408,
@@ -15191,7 +15353,10 @@
    "question_for_armitage": "How tall is the Shelley vase, and are there any chips, hairline cracks or touched-up paint on the rim, butterflies or foot (worth checking under a light at the viewing)? Do the jugs, bowl or figurines carry any maker's marks?",
    "dropped_entries": "Dropped: Albion $190 (22 Aug 2024), a yellow-ground crane vase, different pattern and 26 months old; Aalders $90 (19 Feb 2017), nine years old; Gowans 404754 ($140 Shelley trio), teaware not a vase; Gowans 424370 ($90 Carlton Ware Rouge Royale vase), different maker; Potteries GBP 75 (12 Jul 2024, 8-piece butterfly-border group) and GBP 28 (8 Mar 2024, 5-piece mixed lot), group lots older than 24 months (the second is kept only as identification support for pattern 8433 in what_it_is); Lawsons $40 pass (18 Nov 2024), a chipped 34.5 cm champleve floral vase, different pattern; Moorabool $50 pass (29 Aug 2025), a mixed lot with a Blue Dragons vase; Chairish USD 125 (Art Nouveau rose bud vase) and USD 80 (Violette pair) asks, different patterns. Every re-opened price, date and kind matched the researcher (heights of 24 cm, 11 cm and 18 cm confirmed in the Invaluable dimensions fields).",
    "keep_max_24m": 30,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090413,
@@ -15372,7 +15537,10 @@
    "question_for_armitage": "Have any of the locos been run, especially the boxed electric and the boxed green steam loco, and is the turntable complete? How many locos are there in total, and do the boxes hold their correct models?",
    "dropped_entries": "Dropped as not the same era, make or gauge: modern Hornby (1980s onwards) locos and sets 377157 ($110), 377092 ($70), 377097 ($51), 429236 ($100), 429232 ($160), 377581 ($90), 377537 ($100), 390619 ($120), 421550 ($200), 402044 ($80); O gauge or tinplate lots 411744 ($260), 410252 ($110), 435852 ($525) and 393967 ($110, older Hornby, possibly O gauge); Lima or other continental makes 421486 ($120), 421487 ($120), 366028 ($70), 377677 ($60); mixed or uncertain lots 382471 ($140 older Hornby set, gauge uncertain), 429381 ($130 HO/OO accessories and buildings) and 378814 ($80 tub of track, mixed makes). Single boxed Hornby Railways items 368711 ($70), 383995 ($90), 390345 ($55), 429225 ($150) and 390348 ($85, 3 boxed pieces) dropped as component guides that add nothing beyond the kept boxed loco at $120. Gumtree UK asks dropped: GBP 495 (largely modern Hornby system, not like for like), GBP 15 (9 loose wagons), GBP 20 (one loco and 4 wagons) and GBP 4 (one wagon), single items that do not bear on a lot of this size. The researcher's close labels on the small boxed groups and single locos were changed to category guide (component evidence). Every re-opened Gowans price, bid count and sale date matched the researcher.",
    "keep_max_24m": 130,
-   "flip_max_24m": 80
+   "flip_max_24m": 80,
+   "flip_max_gross": 80,
+   "flip_rule_out": 80,
+   "flip_rule": "Net resale after selling fees $195 (from the working); higher of double your money or $500 profit gives all-in $98, hammer $80."
   },
   {
    "cdid": 3090434,
@@ -16311,7 +16479,10 @@
    "condition": "Good for age, with light cover wear and creased corners. Cards are pasted in; the fill of the albums not opened in the photos is unknown.",
    "question_for_armitage": "Roughly how many of the albums are full, partly filled or empty, and are any pages torn or loose?",
    "keep_max_24m": 25,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3090449,
@@ -16555,7 +16726,10 @@
    "condition": "Untested. Light general wear and the yellowing usual for its age; the case looks complete.",
    "question_for_armitage": "Does the console power on and read a disc, and do the wireless pads work with the receiver?",
    "keep_max_24m": 45,
-   "flip_max_24m": 20
+   "flip_max_24m": 20,
+   "flip_max_gross": 20,
+   "flip_rule_out": 20,
+   "flip_rule": "Net resale after selling fees $49 (from the working); higher of double your money or $500 profit gives all-in $24, hammer $20."
   },
   {
    "cdid": 3090460,
@@ -16669,7 +16843,10 @@
    "question_for_armitage": "Roughly how many cards or bundles are in the lot, are all four boxes included, and are the runs marked Complete actually complete? Any rubber band damage, or albums included?",
    "dropped_entries": "Dropped: Leski 30/05/2021 $200 swap card assortment (page opened; older than 24 months and mostly other cigarette cards). All other entries re-opened; prices, dates and kinds match. Kerleys filed close rather than same item because of quantity.",
    "keep_max_24m": 85,
-   "flip_max_24m": 35
+   "flip_max_24m": 35,
+   "flip_max_gross": 35,
+   "flip_rule_out": 35,
+   "flip_rule": "Net resale after selling fees $85 (from the working); higher of double your money or $500 profit gives all-in $43, hammer $35."
   },
   {
    "cdid": 3090462,
@@ -16850,7 +17027,10 @@
    "condition": "Not described. The Royal Winton glaze is crazed (normal). No obvious chips in the photos, but most rims and bases are not shown. The plated biscuit barrel lid shows light wear.",
    "question_for_armitage": "Can you check the base of the grey-green vase with pink flushes for any impressed mark (for example 'Ruskin', 'Ruskin England' or a date) and give its height? Also, are there any chips or cracks on the portrait vases, the Royal Winton leaf pieces and the Clairmont cans?",
    "keep_max_24m": 35,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090469,
@@ -17006,7 +17186,10 @@
    "condition": "No damage visible, but rims and bases are not shown close up and lustre wear cannot be judged.",
    "question_for_armitage": "Are there any chips, flea bites or cracks to the rims or feet, and any maker's marks (for example Crown Crystal or Fenton) on the bases? Is the lot exactly the 12 pieces photographed?",
    "keep_max_24m": 15,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3090471,
@@ -17658,7 +17841,10 @@
    "question_for_armitage": "Are any of the wooden masks cracked or split, and is anything written or stamped on the backs (maker, place or date)? Is the Terminator skull a wearable plastic mask or a resin display piece, and does it have any brand mark?",
    "dropped_entries": "Dropped 4 of 11. (1) Gowans 378973 BOX OF COLLECTABLES INCL STONEWARE BALINESE MASKS ETC, A$30, 5 Dec 2025: page and photo opened; the box is mainly stoneware jars, a rocking horse, a print and letter rack, with no masks clearly visible, so not comparable. (2) 1stDibs early 20th century Javanese wayang topeng, about US$1,076 to 1,500: page opened, but an aged dealer piece, not the same item or condition. (3) Drouot or Galerie Zacke 19th century Balinese topeng, EUR 1,000 to 2,000: page opened, an antique with patina and provenance, not comparable; it also only cites Sotheby's 2021 results for antique Javanese masks. (4) Toyark 2013 Hollywood Collectibles T2 half-scale Endoskull at US$169.95: page opened, it is a 2013 pre-order price for a licensed light-up display skull, not a wearable chrome mask like this one, and 13 years old. Correction: researcher gave the Gowans dates as listing dates and search URLs; the entries now use single-lot URLs and actual auction dates.",
    "keep_max_24m": 20,
-   "flip_max_24m": 5
+   "flip_max_24m": 5,
+   "flip_max_gross": 5,
+   "flip_rule_out": 5,
+   "flip_rule": "Net resale after selling fees $12 (from the working); higher of double your money or $500 profit gives all-in $6, hammer $5."
   },
   {
    "cdid": 3090480,
@@ -17875,7 +18061,10 @@
    "condition": "Used, play-worn and incomplete, with no box. Working order unknown.",
    "question_for_armitage": "How many US-1 trucks and trailers are there? Are the cars and trucks complete with pick-up shoes, is there a transformer, and has it been tested working?",
    "keep_max_24m": 15,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3090484,
@@ -18408,7 +18597,10 @@
    "condition": "Built and played-with, loose parts mixed through, booklets creased but intact. Completeness of each set is unknown and there are no boxes; dust, missing pieces or non-LEGO bricks cannot be checked from the photos.",
    "question_for_armitage": "Are there any minifigures in the tub (especially Harry and Ron from the Aragog set)? Are Dobby's diary accessory and the Mandrake's name tile there, and are the Dobby, Mandrake or Aragog instruction booklets included (the text booklet marked WI)? Roughly how full and heavy is the tub, and are there any non-LEGO bricks mixed in?",
    "keep_max_24m": 60,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3090485,
@@ -18884,7 +19076,10 @@
    "condition": "Appears sound from the photos, and the frame corner shown is intact. The canvas surface could not be checked for holes or flaking.",
    "question_for_armitage": "Can you confirm the spelling of the signature, say whether there is any label or inscription on the back, and tell us if the canvas or frame has any damage?",
    "keep_max_24m": 25,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3090498,
@@ -18917,7 +19112,10 @@
    "condition": "The jeep and trailer look complete in shape but are grubby, with some yellowing of the cream plastic; no windscreen seen. The other items cannot be judged from one photo.",
    "question_for_armitage": "Is there a windscreen with the jeep, and are any Barbie horses or figures included? Are there any cracks or missing parts on the jeep or trailer?",
    "keep_max_24m": 35,
-   "flip_max_24m": 10
+   "flip_max_24m": 10,
+   "flip_max_gross": 10,
+   "flip_rule_out": 10,
+   "flip_rule": "Net resale after selling fees $24 (from the working); higher of double your money or $500 profit gives all-in $12, hammer $10."
   },
   {
    "cdid": 3090545,
@@ -19152,7 +19350,10 @@
    "condition": "Front, side and top look clean and glossy, probably refinished; no splits, chips or lifted joints visible. Interior, shelf, back panel and underside not shown; the back carrying the label is weathered and water stained.",
    "question_for_armitage": "Is the finish original or refinished, and is the top original to the cabinet (its boards are different colours)? Please confirm the COOGAN'S label photo is from this cabinet, the timber (blackwood?), the size (H-76 L-61 D-44 cm), whether there is a shelf inside, and any splits, repairs or a replaced back panel.",
    "keep_max_24m": 155,
-   "flip_max_24m": 50
+   "flip_max_24m": 50,
+   "flip_max_gross": 50,
+   "flip_rule_out": 50,
+   "flip_rule": "Net resale after selling fees $122 (from the working); higher of double your money or $500 profit gives all-in $61, hammer $50."
   },
   {
    "cdid": 3090549,
@@ -19563,7 +19764,10 @@
    "condition": "Box worn and torn at the top edge, polystyrene packing yellowed and chipped, metalwork looks clean, booklets creased. Appears largely complete but untested; lens, condensers, carriers and lamp not confirmed.",
    "question_for_armitage": "Is an enlarging lens included (make and focal length), and are the condenser lenses, negative carriers (6x6 and 35mm) and the baseboard all there? Is there a lamp, and does it light? Any cracked glass?",
    "keep_max_24m": 170,
-   "flip_max_24m": 70
+   "flip_max_24m": 70,
+   "flip_max_gross": 70,
+   "flip_rule_out": 70,
+   "flip_rule": "Net resale after selling fees $171 (from the working); higher of double your money or $500 profit gives all-in $85, hammer $70."
   },
   {
    "cdid": 3090580,
@@ -19820,7 +20024,10 @@
    "condition": "No chips or cracks visible from the front in the one photo; some gilt wear on the porcelain jugs. Bases, backs and rims are not shown, so crazing, hairlines and chips cannot be assessed.",
    "question_for_armitage": "Do the leaf dishes, jug and cruet carry Carlton Ware (Australian Design) backstamps, and are any chipped, cracked or crazed, especially the leaf tips, handles and the salt and pepper pair? Is the boxed dish with spoon Carlton Ware? Is everything in the two boxes shown in the photo?",
    "keep_max_24m": 25,
-   "flip_max_24m": 15
+   "flip_max_24m": 15,
+   "flip_max_gross": 15,
+   "flip_rule_out": 15,
+   "flip_rule": "Net resale after selling fees $37 (from the working); higher of double your money or $500 profit gives all-in $18, hammer $15."
   },
   {
    "cdid": 3090596,
