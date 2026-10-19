@@ -7,13 +7,14 @@ W = os.path.dirname(os.path.abspath(__file__)); F = f'{W}/gowans_all.json'
 db = json.load(open(F)) if os.path.exists(F) else {'pages': {}, 'rows': {}}
 u = 'https://www.gowansauctions.com.au/backend/api/v1/lots/?page%5Bnumber%5D='
 pages = 757
-for n in range(1, 900):
+for n in range(1, 758):   # 757 pages at last count
     if str(n) in db['pages']: continue
     r = subprocess.run(['curl', '-sS', '--max-time', '40', u + str(n)], capture_output=True)
     try: d = json.loads(r.stdout)
     except Exception: time.sleep(5); r = subprocess.run(['curl', '-sS', '--max-time', '40', u + str(n)], capture_output=True)
     try: d = json.loads(r.stdout)
     except Exception: print('fail', n, flush=True); continue
+    if 'meta' not in d: print('bad', n, str(d)[:120], flush=True); time.sleep(10); continue
     pages = d['meta']['pagination']['pages']
     if n > pages: break
     for x in d['data']:
