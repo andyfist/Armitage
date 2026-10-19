@@ -1,56 +1,217 @@
 {
  "chid": "28838",
  "key": "a8",
- "started": "19/10/2026 16:15 AEDT",
- "note": "split into 8 workflows of 5 batches because this container has 4 CPUs (2 agents per workflow); merge the 8 results into armitage28838_result.json",
+ "started": "19/10/2026 18:15 AEDT",
+ "note": "18 workflows: each original 5-batch run's ranked comps queue split by groupRange (groups of 3 lots). Resumed runs reuse cached scans, rescores and finished comps; fresh runs redo their scans. Merge all 18 results into armitage28838_result.json.",
  "runs": {
-  "p1": {
-   "task": "w0dwnj2ao",
+  "p1a": {
+   "task": "wpfm62re6",
    "run": "wf_6c3fc591-b70",
+   "batches_of": "armitage28838_wfargs_p1.json",
+   "groupRange": [
+    0,
+    4
+   ],
    "resumed": true,
-   "args": "armitage28838_wfargs_p1.json",
+   "prefix": "armitage28838p1a",
    "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_6c3fc591-b70/journal.jsonl"
   },
-  "p2": {
-   "task": "wfw50c1x4",
+  "p1b": {
+   "task": "w9klsx91k",
+   "run": "wf_75cb2038-3a8",
+   "batches_of": "armitage28838_wfargs_p1.json",
+   "groupRange": [
+    4,
+    7
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p1b",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_75cb2038-3a8/journal.jsonl"
+  },
+  "p1c": {
+   "task": "wmnqc3v0p",
+   "run": "wf_577c85cf-9d2",
+   "batches_of": "armitage28838_wfargs_p1.json",
+   "groupRange": [
+    7,
+    10
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p1c",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_577c85cf-9d2/journal.jsonl"
+  },
+  "p1d": {
+   "task": "wxo69totf",
+   "run": "wf_d3b428f3-036",
+   "batches_of": "armitage28838_wfargs_p1.json",
+   "groupRange": [
+    10,
+    999
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p1d",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_d3b428f3-036/journal.jsonl"
+  },
+  "p2a": {
+   "task": "wvkunnxaf",
    "run": "wf_1a9e60ca-cdc",
-   "args": "armitage28838_wfargs_p2.json",
+   "batches_of": "armitage28838_wfargs_p2.json",
+   "groupRange": [
+    0,
+    4
+   ],
+   "resumed": true,
+   "prefix": "armitage28838p2a",
    "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_1a9e60ca-cdc/journal.jsonl"
   },
-  "p3": {
-   "task": "wxv02i0ly",
+  "p2b": {
+   "task": "wkmtxfyty",
+   "run": "wf_98379d25-1a2",
+   "batches_of": "armitage28838_wfargs_p2.json",
+   "groupRange": [
+    4,
+    999
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p2b",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_98379d25-1a2/journal.jsonl"
+  },
+  "p3a": {
+   "task": "wr3eafcz1",
    "run": "wf_4b20c8f2-d61",
-   "args": "armitage28838_wfargs_p3.json",
+   "batches_of": "armitage28838_wfargs_p3.json",
+   "groupRange": [
+    0,
+    3
+   ],
+   "resumed": true,
+   "prefix": "armitage28838p3a",
    "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_4b20c8f2-d61/journal.jsonl"
   },
-  "p4": {
-   "task": "wrf2ehnc1",
+  "p3b": {
+   "task": "wcsqnwa6y",
+   "run": "wf_1bbf9981-fb7",
+   "batches_of": "armitage28838_wfargs_p3.json",
+   "groupRange": [
+    3,
+    6
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p3b",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_1bbf9981-fb7/journal.jsonl"
+  },
+  "p3c": {
+   "task": "wbi6vinfq",
+   "run": "wf_6eccf0b6-67f",
+   "batches_of": "armitage28838_wfargs_p3.json",
+   "groupRange": [
+    6,
+    999
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p3c",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_6eccf0b6-67f/journal.jsonl"
+  },
+  "p4a": {
+   "task": "wyc3tp6zm",
    "run": "wf_28039263-46b",
-   "args": "armitage28838_wfargs_p4.json",
+   "batches_of": "armitage28838_wfargs_p4.json",
+   "groupRange": [
+    0,
+    3
+   ],
+   "resumed": true,
+   "prefix": "armitage28838p4a",
    "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_28039263-46b/journal.jsonl"
   },
-  "p5": {
-   "task": "we4k8xfcs",
+  "p4b": {
+   "task": "w6sf2cl3r",
+   "run": "wf_e2f0fcbf-376",
+   "batches_of": "armitage28838_wfargs_p4.json",
+   "groupRange": [
+    3,
+    6
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p4b",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_e2f0fcbf-376/journal.jsonl"
+  },
+  "p4c": {
+   "task": "wz9c9m25i",
+   "run": "wf_ba4540b3-6b7",
+   "batches_of": "armitage28838_wfargs_p4.json",
+   "groupRange": [
+    6,
+    999
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p4c",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_ba4540b3-6b7/journal.jsonl"
+  },
+  "p5a": {
+   "task": "w9om9aj2g",
    "run": "wf_98f0f38a-7d5",
-   "args": "armitage28838_wfargs_p5.json",
+   "batches_of": "armitage28838_wfargs_p5.json",
+   "groupRange": [
+    0,
+    3
+   ],
+   "resumed": true,
+   "prefix": "armitage28838p5a",
    "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_98f0f38a-7d5/journal.jsonl"
   },
-  "p6": {
-   "task": "w6hgmt27a",
+  "p5b": {
+   "task": "wdt2wiq8c",
+   "run": "wf_15dd6ae8-403",
+   "batches_of": "armitage28838_wfargs_p5.json",
+   "groupRange": [
+    3,
+    999
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p5b",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_15dd6ae8-403/journal.jsonl"
+  },
+  "p6a": {
+   "task": "wycmy56sc",
    "run": "wf_c5343a79-a12",
-   "args": "armitage28838_wfargs_p6.json",
+   "batches_of": "armitage28838_wfargs_p6.json",
+   "groupRange": [
+    0,
+    3
+   ],
+   "resumed": true,
+   "prefix": "armitage28838p6a",
    "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_c5343a79-a12/journal.jsonl"
   },
+  "p6b": {
+   "task": "wfm4cktl4",
+   "run": "wf_b0d5bb5c-a9d",
+   "batches_of": "armitage28838_wfargs_p6.json",
+   "groupRange": [
+    3,
+    999
+   ],
+   "resumed": false,
+   "prefix": "armitage28838p6b",
+   "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_b0d5bb5c-a9d/journal.jsonl"
+  },
   "p7": {
-   "task": "wun5f05pu",
+   "task": "wjejnokn5",
    "run": "wf_fb9b540c-27e",
-   "args": "armitage28838_wfargs_p7.json",
+   "batches_of": "armitage28838_wfargs_p7.json",
+   "groupRange": null,
+   "resumed": true,
+   "prefix": "armitage28838p7",
    "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_fb9b540c-27e/journal.jsonl"
   },
   "p8": {
-   "task": "wy4wqnxkg",
+   "task": "wak0zc4ij",
    "run": "wf_7b983c9e-14e",
-   "args": "armitage28838_wfargs_p8.json",
+   "batches_of": "armitage28838_wfargs_p8.json",
+   "groupRange": null,
+   "resumed": true,
+   "prefix": "armitage28838p8",
    "journal": "/root/.claude/projects/-home-user-Armitage/b111cc0b-3b39-598b-9bc6-fe519f4d82c3/subagents/workflows/wf_7b983c9e-14e/journal.jsonl"
   }
  }

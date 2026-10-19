@@ -160,8 +160,12 @@ ${JSON.stringify(items)}`
 }
 
 phase('Market')
-const groups = []
-for (let i = 0; i < toResearch.length; i += 3) groups.push(toResearch.slice(i, i + 3))
+const groupsAll = []
+for (let i = 0; i < toResearch.length; i += 3) groupsAll.push(toResearch.slice(i, i + 3))
+// optional split of the market queue across several runs: args.groupRange = [start, end) over the ranked groups
+const GR = args.groupRange
+const groups = GR ? groupsAll.slice(GR[0], GR[1]) : groupsAll
+if (GR) log(`Market groups ${GR[0]} to ${GR[1] - 1} of ${groupsAll.length}: ${groups.length} groups, ${groups.flat().length} lots`)
 const out = await pipeline(
   groups,
   (g) => parallel(g.map(c => () => agent(marketPrompt(c), { label: `market ${c.key}:lot ${c.lot}`, phase: 'Market', model: 'sonnet', schema: MARKET_SCHEMA }))),
