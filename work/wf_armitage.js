@@ -63,7 +63,8 @@ Task: scan ${scope} and return a summary. Tools are in ${W}.
 }
 
 phase('Scan')
-const scanned = await pipeline(
+const PRESET = args.candidateIds ? args.candidateIds.map(x => ({ cdid: x.cdid, lot: x.lot, key: args.key, title: '(see record file)', strength: x.strength, file: `${W}/cands_${args.key}/${x.cdid}.json` })) : null
+const scanned = PRESET ? [] : await pipeline(
   BATCHES,
   (b) => limited(() => agent(scanPrompt(b, null), { label: `scan ${b.key}:${b.tag}`, phase: 'Scan', model: 'sonnet', schema: SCAN_SCHEMA })),
   async (res, b) => {
@@ -80,7 +81,7 @@ const scanned = await pipeline(
 const ok = scanned.filter(Boolean)
 const keyOf = {}
 BATCHES.forEach(b => b.ids.forEach(id => { keyOf[id] = b.key }))
-const allCands = ok.flatMap(x => (x.res.candidates || []).map(c => ({ ...c, key: keyOf[c.cdid] || x.b.key })))
+const allCands = PRESET ? PRESET : ok.flatMap(x => (x.res.candidates || []).map(c => ({ ...c, key: keyOf[c.cdid] || x.b.key })))
 const allInterest = ok.flatMap(x => (x.res.interest || []).map(c => ({ ...c, key: keyOf[c.cdid] || x.b.key })))
 const allUnscanned = ok.flatMap(x => x.res.unscanned || [])
 log(`Scan done: ${allCands.length} candidates, ${allUnscanned.length} unscanned lots, ${BATCHES.length - ok.length} batches with no result`)
@@ -90,7 +91,7 @@ const RESCORE_SCHEMA = { type: 'object', properties: { scores: { type: 'array', 
   cdid: { type: 'number' }, score: { type: 'number' }, rationale: { type: 'string' } }, required: ['cdid', 'score', 'rationale'] } } }, required: ['scores'] }
 phase('Rescore')
 const chunks = []
-for (let i = 0; i < allCands.length; i += 10) chunks.push(allCands.slice(i, i + 10))
+if (!PRESET) for (let i = 0; i < allCands.length; i += 10) chunks.push(allCands.slice(i, i + 10))
 const rescored = await parallel(chunks.map((ch, ci) => () => agent(
   `You are re-scoring candidate lots from Armitage Auctions (Launceston, Tasmania). ${RULES}
 Score each lot 1 to 10 ONLY on what the item actually is (maker, age, rarity, collectability, condition, completeness) and what it would realistically sell for on the open market: 9-10 likely over $500, 7-8 about $200-500, 5-6 about $80-200, 3-4 about $30-80, 1-2 under $30. Ignore any price or bid mentioned in the notes. Discount for uncertain identification (a possible genuine article scores by the realistic mix of genuine and not). Be sceptical of silver, gold, signature and attribution claims. You may look at the photos (contact sheet ${W}/sheets/<cdid>.jpg, originals ${W}/photos/<cdid>_<n>.jpg, via Read). Return one score and a one-line rationale per lot.
@@ -99,11 +100,11 @@ ${JSON.stringify(ch.map(c => ({ cdid: c.cdid, lot: c.lot, title: c.title, findin
   { label: `rescore ${ci + 1}`, phase: 'Rescore', model: 'sonnet', schema: RESCORE_SCHEMA })))
 const newScore = {}
 rescored.filter(Boolean).forEach(r => (r.scores || []).forEach(x => { newScore[x.cdid] = x }))
-allCands.forEach(c => { c.strength_scan = c.strength; if (newScore[c.cdid]) { c.strength = newScore[c.cdid].score; c.rescore_note = newScore[c.cdid].rationale } })
+if (!PRESET) allCands.forEach(c => { c.strength_scan = c.strength; if (newScore[c.cdid]) { c.strength = newScore[c.cdid].score; c.rescore_note = newScore[c.cdid].rationale } })
 log(`Rescored ${Object.keys(newScore).length} of ${allCands.length} candidates`)
 
 const ranked = [...allCands].sort((a, b) => (b.strength || 0) - (a.strength || 0))
-const toResearch = ranked.filter(c => (c.strength || 0) >= 4).slice(0, MAXMARKET)
+const toResearch = PRESET ? [...PRESET] : ranked.filter(c => (c.strength || 0) >= 4).slice(0, MAXMARKET)
 const notResearched = ranked.filter(c => !toResearch.includes(c))
 log(`Researching ${toResearch.length}; ${notResearched.length} candidates not researched (score under 4 or over the cap of ${MAXMARKET})`)
 
@@ -134,7 +135,7 @@ const FINAL_SCHEMA = { type: 'object', properties: { lots: { type: 'array', item
 
 function marketPrompt(c) {
   return `You are a market researcher for ${NAMES[c.key]}. ${RULES}
-Candidate: lot ${c.lot} (cdid ${c.cdid}), "${c.title}". Scan notes: ${c.findings}. Condition: ${c.condition}. Why flagged: ${c.reason}. Blind score ${c.strength}/10 (${c.rescore_note || ''}).
+${c.file ? `Candidate: lot ${c.lot} (cdid ${c.cdid}). First Read ${c.file}: it holds the title, the photo scan notes, condition, why the lot was flagged and its blind score out of 10.` : `Candidate: lot ${c.lot} (cdid ${c.cdid}), "${c.title}". Scan notes: ${c.findings}. Condition: ${c.condition}. Why flagged: ${c.reason}. Blind score ${c.strength}/10 (${c.rescore_note || ''}).`}
 Photos: contact sheet ${W}/sheets/${c.cdid}.jpg, originals ${W}/photos/${c.cdid}_<n>.jpg (Read them; crop and enlarge marks with Pillow where needed).
 Goal: build the best picture of what this item is worth on the open market, keeping the kinds of evidence strictly separate. The Armitage estimate and current bid are meaningless and have not been given to you. Do not look for them.
 ${KINDS}
