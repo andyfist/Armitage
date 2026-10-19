@@ -128,7 +128,7 @@ page = f'''<title>{E(title)}</title>
 <p class="lead">{E(meta.get('bottom_line',''))}</p></header>
 <section class="status"><h2>Run details</h2>
 <dl class="kv"><dt>Closing</dt><dd><b>{E(meta.get('deadline', 'Each lot closes at its own time; the time is on every card and lot page.'))}</b></dd>
-<dt>Viewing</dt><dd>{E(meta.get('viewing', 'On the closing day from 8:30 AM at 9 Goodman Crt, Invermay. Phone (03) 6326 2555.'))}</dd>
+<dt>Viewing</dt><dd>{E(meta.get('viewing', 'On the closing day from 8:30 AM at 9 Goodman Crt, Invermay. Phone (03) 6326 2555.'))}</dd>{('<dt>Viewing checklist</dt><dd><ul class="plain">' + ''.join('<li>'+E(x)+'</li>' for x in meta.get('viewing_notes', [])) + '</ul></dd>') if meta.get('viewing_notes') else ''}
 <dt>Buyer's premium</dt><dd>22% including GST on the hammer price (shown on every lot page). All-in = hammer x 1.22.</dd>
 <dt>Mode</dt><dd>Lot data and photos came from Armitage's public lot pages. Read-only: no bids, logins or forms. The estimate and the current bid were hidden from the scoring agents and are shown here for information only. Bids last refreshed {E(ref_txt)}.</dd>
 <dt>Collection</dt><dd>Pickup only from 9 Goodman Crt, Invermay. Inbound freight assumed $0 (local).</dd>
