@@ -68,7 +68,7 @@ def card(p, k):
     lo, hi = p.get('guide_low_aud'), p.get('guide_high_aud')
     guide = f'${lo:,.0f} to ${hi:,.0f}' if (lo or hi) else 'none'
     q = f'<p class="q"><b>Ask Armitage:</b> {E(p["question_for_armitage"])}</p>' if p.get('question_for_armitage') else ''
-    return f'''<article class="lot {cls}" data-close="{close_key(rec.get('close'))}">
+    return f'''<article id="c{p['cdid']}" class="lot {cls}" data-close="{close_key(rec.get('close'))}">
 <div class="lh">{thumb(p['cdid'])}<div class="lt"><h4><a href="{E(rec.get('url','#'))}" target="_blank" rel="noopener">Lot {E(str(rec.get('lot_label') or p['lot']))}</a> <span class="mut">closes {E(fmt_close(rec.get('close')))}</span></h4>
 <p class="what">{E(p['what_it_is'][:300])}</p><p><span class="pill {p['confidence'].lower()}">{E(p['confidence'])} confidence</span> <span class="pill low">score {p.get('market_score')}/10</span> {over}</p></div></div>
 <dl class="kv"><dt>Photo findings</dt><dd>{E((p.get('key_photo_findings') or '')[:400])}</dd><dt>Condition</dt><dd>{E((p.get('condition') or '')[:250])}</dd>
@@ -96,6 +96,22 @@ def table_all(k):
         why = (p.get('score_reason') if p else (d['nr'].get(cd, {}).get('rescore_note') or x.get('reason'))) or ''
         rows.append(f'<tr><td><a href="{E(x["url"])}" target="_blank" rel="noopener">{E(str(x.get("lot_label") or x["lot"]))}</a></td><td>{E((x.get("title") or "")[:80])}</td><td>{x.get("photo_count")}</td><td>{E(str(tri))}</td><td>{sc if sc is not None else ""}</td><td>{E(finding[:170])}</td><td>{E(why[:150])}</td><td>{E(rf.get("current_bid") or "")} ({rf.get("bid_count", 0)})</td><td>{E(fmt_close(x.get("close")))}</td></tr>')
     return f'<details><summary>Every lot in this catalogue ({len(rows)}), with photos viewed and a finding</summary><div class="tw"><table><thead><tr><th>Lot</th><th>Title</th><th>Photos</th><th>Result</th><th>Score</th><th>What the photos show</th><th>Why</th><th>Bid (count)</th><th>Closes</th></tr></thead><tbody>{"".join(rows)}</tbody></table></div></details>'
+
+def ranked():
+    rows = []
+    for k in CAT:
+        d = D[k]
+        for p in RES[k]['lots']:
+            rec = d['recs'].get(p['cdid'])
+            km = p.get('keep_max_hammer') or 0
+            if not rec or p['triage'] not in ('KEEP', 'FLIP', 'BOTH') or km <= 0: continue
+            rf = d['refresh'].get(str(p['cdid']), {})
+            try: bid = int(str(rf.get('current_bid') or '0').replace('$', '').replace(',', '').split('.')[0] or 0)
+            except ValueError: bid = 0
+            rows.append(((bid > km), -(p.get('market_score') or 0), {'High': 0, 'Medium': 1, 'Low': 2}.get(p.get('confidence'), 3), -(km - bid), k, p, rec, bid, km))
+    rows.sort(key=lambda r: r[:4])
+    tr = ''.join(f'<tr><td>{i}</td><td><a href="#c{p["cdid"]}">{E(str(rec.get("lot_label") or p["lot"]))}</a></td><td>{E((rec.get("title") or "")[:60])}</td><td>{E(p["triage"])}</td><td>{p.get("market_score")}</td><td>{E(p.get("confidence") or "")}</td><td>${km:,}</td><td>{("$" + format(p.get("flip_max_hammer") or 0, ",")) if p.get("flip_max_hammer") else ""}</td><td>{("$" + format(bid, ",")) if bid else "none"}{" <b>OVER</b>" if over else ""}</td><td>{E(fmt_close(rec.get("close")))}</td></tr>' for i, (over, _, _, _, k, p, rec, bid, km) in enumerate(rows, 1))
+    return f'<section id="ranked"><h2>All picks, most to least attractive</h2><p class="small">Every lot with a maximum bid, across all five catalogues. Ranked by score, then confidence, then room between the current bid and the keep maximum. Lots already bid past the keep maximum sit at the bottom. Maximums are hammer prices. The catalogue sections below stay in lot order to match closing times.</p><div class="tw"><table><thead><tr><th>#</th><th>Lot</th><th>Title</th><th>Type</th><th>Score</th><th>Confidence</th><th>Keep max</th><th>Flip max</th><th>Bid now</th><th>Closes</th></tr></thead><tbody>{tr}</tbody></table></div></section>'
 
 def section(k):
     d = D[k]; C = CAT[k]; res = RES[k]
@@ -137,6 +153,7 @@ page = f'''<title>{E(title)}</title>
 <dt>Resume point</dt><dd>Workflow runs {E(meta.get('run',''))}. Batch files are in scans/ (one per batch).</dd></dl>
 <div class="covs">{''.join(coverage(k) for k in CAT)}</div>
 <details open><summary>Assumptions</summary><ul class="plain">{''.join('<li>'+E(x)+'</li>' for x in meta.get('assumptions',[]))}</ul></details></section>
+{ranked()}
 {''.join(section(k) for k in CAT)}
 <footer class="small">Only sold prices with a URL and a date set maximum bids. "No comps" means no maximum bid. Built by Claude Code.</footer>
 </main>'''
