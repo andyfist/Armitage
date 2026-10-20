@@ -9,8 +9,8 @@ MIN_YEAR = 2026 - YEARS
 FILES = ['armitage28839', 'armitage28840', 'armitage28841', 'armitage28842', 'armitage28838']
 def qualifies(e):
     n = (e.get('note') or '')
-    if re.search(r'category guide|snippet only|lead only|not verified|different (title|item)', n, re.I) and not re.search(r'same_item:\s*(yes|close)', n, re.I): return False
-    return bool(re.search(r'same[_ ]item:\s*(yes|close)|SOLD,? (same|close)|\bclose\b|same item', n, re.I)) and not re.search(r'category guide', n, re.I)
+    if re.search(r'category guide|snippet only|lead only|not verified|different (title|item)', n, re.I) and not re.search(r'same_item:?\s*(yes|close)', n, re.I): return False
+    return bool(re.search(r'same[_ ]item:?\s*(yes|close)|SOLD,? (same|close)|\bclose\b|same item', n, re.I)) and not re.search(r'category guide', n, re.I)
 def ym(e):
     d = str(e.get('date') or '')
     m = re.search(r'(20\d\d)-(\d\d)', d) or None

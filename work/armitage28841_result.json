@@ -3215,9 +3215,9 @@
    "guide_low_aud": 50,
    "guide_high_aud": 555,
    "guide_summary": "All same-item and close evidence is SOLD but more than 24 months old: $50 (ABCR, Aug 2023, Good with dents), $190 (Donington, Mar 2023) and $555 (Donington, Jul 2022, specialist collection outlier). Recent Gowans sales in Tasmania of other Shell and gallon oil tins run $20 to $80, with a Neptune gallon tin at $280. No asking or unsold evidence survives. All AUD, no conversion.",
-   "flip_max_hammer": 190,
-   "keep_max_hammer": 454,
-   "working": "No same-item SOLD in the last 24 months (the latest is ABCR on 19 August 2023, about 38 months ago), so keep_max_hammer = 0 and flip_max_hammer = 0 under the rules. For reference only: the closest condition match (ABCR, Good with dents) made $50, and the realistic range for this rusty example looks like $50 to $190. | 10-YEAR WINDOW (your instruction, replacing the 24-month rule): lowest same or close SOLD since 2016 is A$555 (Donington Auctions, Victoria,  10/07/2022); keep = 555 / 1.22 = 454, flip = 555 / 2.44 = 227. Was keep 0, flip 0.",
+   "flip_max_hammer": 15,
+   "keep_max_hammer": 40,
+   "working": "No same-item SOLD in the last 24 months (the latest is ABCR on 19 August 2023, about 38 months ago), so keep_max_hammer = 0 and flip_max_hammer = 0 under the rules. For reference only: the closest condition match (ABCR, Good with dents) made $50, and the realistic range for this rusty example looks like $50 to $190. | 10-YEAR WINDOW (your instruction, replacing the 24-month rule): lowest same or close SOLD since 2016 is A$50 (ABCR Auctions, Auction 53, lot auction ende); keep = 50 / 1.22 = 40, flip = 50 / 2.44 = 20. Was keep 0, flip 0.",
    "confidence": "Low",
    "confidence_reason": "Label read clearly in the photos, but every same-item sale is older than 24 months and the condition of most comparables is not stated.",
    "dropped_entries": "Dropped: Gumtree $35 (snippet only, search summary, listing not identified, category guide); eBay Shell X-100 $119.99 (eBay closed to us, snippet only, different product); XXXX Antiques expired listings (page opened, no price shown, so no value evidence); Gowans 416444 $15 (mixed lot of three tins, adds nothing). Corrected the researcher's Gowans 407431 price to $25 for two tins. WebSearch session cap was hit, so no Armitage past-results search was possible.",
@@ -3226,9 +3226,9 @@
    "question_for_armitage": "Please describe the back and top of the tin: any dents, holes or rust-through, is there embossing on the top, and is the base sound?",
    "keep_max_24m": 0,
    "flip_max_24m": 0,
-   "flip_max_gross": 227,
-   "flip_rule_out": 190,
-   "flip_rule": "Resale $554 less 15% selling commission = net $471; higher of double your money or $500 profit gives all-in $235, hammer $190."
+   "flip_max_gross": 20,
+   "flip_rule_out": 15,
+   "flip_rule": "Resale $49 less 15% selling commission = net $41; higher of double your money or $500 profit gives all-in $21, hammer $15."
   },
   {
    "cdid": 3088534,
