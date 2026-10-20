@@ -1,13 +1,18 @@
 #!/usr/bin/env python3
 """Pull new Facebook Marketplace listings around Launceston via Apify.
 
-Uses the blackfalcondata/facebook-marketplace-scraper actor (no Facebook login).
-Incremental mode means each run only returns listings that are new or changed
-since the previous run. Needs APIFY_TOKEN in the environment.
+Two Apify actors are supported (neither uses a Facebook login):
+  blackfalcon (default): blackfalcondata/facebook-marketplace-scraper. Has its own
+      incremental mode and a strict radius, about US$0.0009 per listing.
+  apify: Apify's official apify/facebook-marketplace-scraper. More widely used but
+      about US$0.0062 per listing and no incremental mode, so we de-duplicate locally
+      (data/fb_seen.json) and keep the per-search limit low.
+Needs APIFY_TOKEN in the environment.
 
     python3 scraper/marketplace.py -o data/fb.json
     python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos   # also download photos
     python3 scraper/marketplace.py -o data/fb.json --max 20 --no-incremental  # small test run
+    python3 scraper/marketplace.py -o data/fb.json --actor apify --max 10      # Apify's official actor
 """
 import argparse
 import json
@@ -16,7 +21,11 @@ import sys
 
 import requests
 
-ACTOR = "blackfalcondata~facebook-marketplace-scraper"
+ACTORS = {
+    "blackfalcon": "blackfalcondata~facebook-marketplace-scraper",
+    "apify": "apify~facebook-marketplace-scraper",
+}
+SEEN_FILE = "data/fb_seen.json"
 LAUNCESTON = (-41.4332, 147.1441)  # 7250
 
 # Broad on purpose: bargains are mislabelled, so search for the way sellers
@@ -27,6 +36,31 @@ QUERIES = [
     "collectables", "collection", "jewellery", "gold", "silver", "coins",
     "stamps", "pottery", "painting", "first edition", "militaria",
 ]
+
+
+def call_actor(token, actor, payload):
+    r = requests.post(
+        f"https://api.apify.com/v2/acts/{ACTORS[actor]}/run-sync-get-dataset-items",
+        params={"token": token, "timeout": 290},
+        json=payload,
+        timeout=310,
+    )
+    r.raise_for_status()
+    return r.json()
+
+
+def run_apify(token, queries, max_results):
+    # Facebook's own search URLs, newest first, listed in the last day. The city
+    # slug sets the area; Facebook's default radius for it is used.
+    urls = [{"url": "https://www.facebook.com/marketplace/launceston/search/?"
+                    + requests.compat.urlencode({"query": q, "sortBy": "creation_time_descend",
+                                                 "daysSinceListed": 1})}
+            for q in queries]
+    return call_actor(token, "apify", {
+        "startUrls": urls,
+        "resultsLimit": max_results or 20,
+        "includeListingDetails": True,
+    })
 
 
 def run(token, queries, max_results, incremental):
@@ -43,30 +77,38 @@ def run(token, queries, max_results, incremental):
         "stateKey": "armitage-launceston-7250",
         "excludeEmptyFields": True,
     }
-    r = requests.post(
-        f"https://api.apify.com/v2/acts/{ACTOR}/run-sync-get-dataset-items",
-        params={"token": token, "timeout": 290},
-        json=payload,
-        timeout=310,
-    )
-    r.raise_for_status()
-    return r.json()
+    return call_actor(token, "blackfalcon", payload)
+
+
+def first(item, *keys):
+    """First non-empty value among dotted key paths (the two actors name fields differently)."""
+    for key in keys:
+        v = item
+        for part in key.split("."):
+            v = v.get(part) if isinstance(v, dict) else None
+        if v not in (None, "", []):
+            return v
+    return None
 
 
 def normalise(item):
-    photos = item.get("galleryUrls") or ([item["imageUrl"]] if item.get("imageUrl") else [])
+    photos = first(item, "galleryUrls", "listing_photos", "photos") or []
+    photos = [p if isinstance(p, str) else first(p, "image.uri", "uri", "url") for p in photos]
+    if not photos:
+        one = first(item, "imageUrl", "primary_listing_photo.image.uri", "primary_listing_photo.photo_image_url")
+        photos = [one] if one else []
     return {
         "source": "facebook",
-        "id": item.get("id") or item.get("listingId"),
-        "title": item.get("title", ""),
-        "price": item.get("priceValue"),
-        "price_text": item.get("priceText"),
-        "location": item.get("location") or item.get("locationText"),
-        "published": item.get("publishedAt"),
+        "id": first(item, "id", "listingId"),
+        "title": first(item, "title", "marketplace_listing_title", "custom_title") or "",
+        "price": first(item, "priceValue", "listing_price.amount"),
+        "price_text": first(item, "priceText", "listing_price.formatted_amount"),
+        "location": first(item, "locationText", "location.reverse_geocode.city", "location"),
+        "published": first(item, "publishedAt", "creation_time"),
         "change": item.get("changeType"),
-        "description": item.get("description", ""),
-        "url": item.get("url") or item.get("listingUrl"),
-        "photos": photos,
+        "description": first(item, "description", "redacted_description.text") or "",
+        "url": first(item, "url", "listingUrl"),
+        "photos": [p for p in photos if p],
         "raw": item,
     }
 
@@ -89,13 +131,22 @@ def main():
     ap.add_argument("--max", type=int, default=0, help="max listings (0 = all available)")
     ap.add_argument("--no-incremental", action="store_true")
     ap.add_argument("--photos", help="directory to download listing photos into")
+    ap.add_argument("--actor", choices=ACTORS, default="blackfalcon")
     args = ap.parse_args()
 
     token = os.environ.get("APIFY_TOKEN")
     if not token:
         sys.exit("APIFY_TOKEN is not set; add it to the environment's secrets")
 
-    listings = [normalise(i) for i in run(token, QUERIES, args.max, not args.no_incremental)]
+    if args.actor == "apify":
+        listings = [normalise(i) for i in run_apify(token, QUERIES, args.max)]
+        seen = set(json.load(open(SEEN_FILE))) if os.path.exists(SEEN_FILE) else set()
+        listings = [l for l in listings if l["id"] and str(l["id"]) not in seen]
+        os.makedirs(os.path.dirname(SEEN_FILE), exist_ok=True)
+        with open(SEEN_FILE, "w") as f:
+            json.dump(sorted(seen | {str(l["id"]) for l in listings}), f)
+    else:
+        listings = [normalise(i) for i in run(token, QUERIES, args.max, not args.no_incremental)]
     os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
     with open(args.out, "w") as f:
         json.dump(listings, f, indent=1)
