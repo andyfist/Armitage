@@ -11,7 +11,7 @@ export const meta = {
 }
 
 const W = '/home/user/Armitage/work'
-const BATCHES = args.batches            // [{key:'g1'|'g2', tag:<first cdid>, ids:[cdids]}]
+const BATCHES = args.batches.map(b => b.ids ? b : { ...b, ids: Array.from({ length: b.n }, (_, i) => b.tag + i) })   // [{key, tag:<first cdid>, n | ids}]
 const NAMES = args.names                // {key: sale name}
 // per-house terms: premium multiplier for all-in cost, pickup, contact
 const HOUSE = {
