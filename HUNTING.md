@@ -22,3 +22,13 @@ buyer's premium is 20% + GST, so 22% in total. Pickup only, from 9 Goodman Crt, 
    time, current bid, estimate, evidence from the photos, value range, a **max bid**
    (the hammer price that still leaves $1k), risks, and what to ask the auction house
    or check at viewing.
+
+## Facebook Marketplace
+
+Run `python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos`. Each run
+only returns listings that are new or changed since the last run. The threshold is the
+same: resale minus the asking price must be at least $1,000, with no buyer's premium.
+Mislabelled listings are where the bargains are ("old watch, no idea", "box of books"),
+so look at the photos of anything vague rather than trusting the title. Speed matters,
+so put hits in the alert email straight away, each with the listing link and the one
+question to ask the seller.
