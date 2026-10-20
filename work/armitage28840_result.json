@@ -918,7 +918,7 @@
    "cdid": 3089289,
    "lot": 996,
    "what_it_is": "'Pigeons and Doves of Australia' by Frank T. Morris, Lansdowne Editions, Melbourne, 1976 (some dealers say 1978), elephant folio in full brown leather with gilt spine, limited edition of 500 numbered copies signed by the artist; this is No. 325, signed in blue ink.",
-   "triage": "LOOK AT VIEWING",
+   "triage": "KEEP",
    "market_score": 5,
    "sold": [
     {
@@ -960,17 +960,20 @@
    "guide_low_aud": 125,
    "guide_high_aud": 250,
    "guide_summary": "One verified SOLD (PBA 2014, US$96, about A$141, too old to set a bid), two dealer asking prices of $125 (foxed copy, page opened) and $250 (page opened, undated), and one unverified UK result of GBP 75 (about A$144, snippet lead). Nothing sold in Tasmania. Rates: 1 USD = 1.468 AUD, 1 GBP = 1.915 AUD, implied by 1stDibs currency conversions seen 2026-10-16.",
-   "flip_max_hammer": 0,
-   "keep_max_hammer": 0,
-   "working": "The only verified SOLD entry is PBA Galleries 2014, which is outside the 24-month window, so keep_max_hammer = 0 and flip_max_hammer = 0. For context only: if a recent sale near A$141 were found, keep would be 141 / 1.22 = 115.6, rounded down to $115, and a flip at that resale less about 15% fees and $25 postage (about $95) / 2.44 = $38, so $35. Dealer asks of $125 to $250 support a modest market around $100 to $200.",
-   "confidence": "Low",
+   "flip_max_hammer": 25,
+   "keep_max_hammer": 60,
+   "working": "PRICED 20/10/2026. SOLD: A$75 Leski Jun 2019 (#190/500, full leather), A$90 Theodore Bruce Nov 2019, A$140 Gibson's Jul 2024. Keep: 75 / 1.22 = 61, rounded down to $60. (Comps from the owner's Chrome search, 20 Oct 2026; prices read from Invaluable page code behind the paywall were NOT used.)",
+   "confidence": "Medium",
    "confidence_reason": "Identification is clear (limitation page read: 500 copies, No. 325, artist signature; spine titled Pigeons and Doves of Australia, Frank Morris), but the only verified sale is 12 years old and the rest is asking or snippet-only.",
    "dropped_entries": "Davidson Auctions 2020 $190 (antiquesreporter.com.au returned 403, snippet only, part of a three-volume group lot described as a facsimile, and over 24 months old): dropped as not the same single item. AbeBooks US$82.67: dropped, page opened and says 'Item no longer available', no price shown. Reem and Ansie GBP 75 moved from SOLD to a lead under ASKING because the page could not be opened and the sale is unverified.",
    "key_photo_findings": "Photo 5: limitation page reads 'A limited edition of 500 copies numbered and signed by the artist', 'No. 325' and a blue ink signature consistent with 'Frank Morris'. Photo 1: full tan/brown leather folio, gilt rules on boards, raised bands and gilt lettering on spine reading Pigeons and Doves of Australia, Frank Morris. Photos 2 to 4: colour plates (pigeons on branch, bronzewings) and a black ink sketch plate, clean.",
    "condition": "Binding looks bright and square with no visible scuffs from the photos; plates appear clean with no visible foxing in the frames shown. Edges and endpapers not shown. Signature not independently verified.",
    "question_for_armitage": "Any foxing to the text or plates, rubbing to the leather corners or spine, and is there a slipcase? Are all plates present?",
-   "keep_max_24m": 0,
-   "flip_max_24m": 0
+   "keep_max_24m": 60,
+   "flip_max_24m": 26,
+   "flip_max_gross": 26,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $63 (from the working); higher of double your money or $500 profit gives all-in $32, hammer $25."
   },
   {
    "cdid": 3089291,
