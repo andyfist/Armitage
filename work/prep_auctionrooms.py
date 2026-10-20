@@ -41,12 +41,17 @@ else:
             photos = [f'{im.group(1)}.{im.group(2)}'] if im else []
             lots.append((int(f'{SALE}{len(lots) + 1:04d}'), label, title, photos, u.group(1)))
 print(len(lots), 'lots', flush=True)
+def good(out):
+    try:
+        with Image.open(out) as im: im.load()
+        return True
+    except Exception: return False
 def dl(job):
     url, out = job
-    if os.path.exists(out) and os.path.getsize(out) > 1000: return True
+    if os.path.exists(out) and os.path.getsize(out) > 1000 and good(out): return True
     for a in range(3):
         r = subprocess.run(['curl', '-sS', '-L', '--max-time', '40', '-A', UA, '-o', out, '-w', '%{http_code}', url], capture_output=True)
-        if r.stdout.decode()[-3:] == '200' and os.path.getsize(out) > 1000: return True
+        if r.stdout.decode()[-3:] == '200' and os.path.getsize(out) > 1000 and good(out): return True
         time.sleep(2 * (a + 1))
     if os.path.exists(out): os.remove(out)
     return False
