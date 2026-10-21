@@ -39,6 +39,8 @@ Run in this order by `routines/armitage-new-sale.md`; each stage writes under `p
 | `chrome_brief.py <chid>` | The hand-over for the Chrome research on the home computer (run on Sonnet): rules, output format, one section per lot with its photos |
 | `chrome_import.py <chid> <results.json>` | Merges what the Chrome session found back into the market files and `state/chrome_sold.json`; run `assess.py` again after it |
 | `photo_list.py <chid>` | The viewing list: what to look at or photograph for every lot worth bidding on, and the email that points Andy to it |
+| `bidders.py <chid> [--refresh]` | Who is bidding: flags interstate, specialist and strong bidders (history in `state/bidders.json`, built from `databases/armitage.json` and past sales), sends flagged lots the funnel has not valued back through the scan (`wfargs_bidders.json`, `force.json`), prints the "bidder scan" email |
+| `morning.py <chid>` | The auction-morning email: every lot to watch that closes today, in closing order, with times, maximums, bids and bidders |
 | `stage.py <chid> <stage>` | Records a finished stage in `state/sales.json` and prints the "stage finished" email |
 
 The chats Andy starts himself have their prompts in `routines/`: `chrome-research.md`
