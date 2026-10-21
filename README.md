@@ -15,18 +15,34 @@ the older "$500 or double your money" rule and will be updated with the scan fun
 | `scraper/armitage.py` | Pulls every open Armitage lot (title, bid, close time, photos) into one JSON file |
 | `scraper/marketplace.py` | Facebook Marketplace puller via Apify (quick scan, lookup, full scan) |
 | `scraper/fetch_photos.py` | Downloads the photos of shortlisted lots |
-| `routines/` | The prompts behind the two scheduled runs: hourly Marketplace quick scan, 6:40 am daily digest |
+| `pipeline/` | The automated Armitage pipeline, one script per stage (see below). `state/sales.json` records every sale seen and which stages are done |
+| `routines/` | The prompts behind the scheduled runs: hourly Marketplace quick scan, 6:40 am daily digest, two-hourly Armitage new-sale check |
 | `HUNTING.md` | Triage rules and report format for the title-first hunt |
 | `reports/` | One report per sale close date from the daily digest |
 | `work/` | The deep-scan toolkit and every sale researched so far (see below) |
 | `scans/` | Raw photo-scan output per batch of 15 lots |
 | `BOOK_RESEARCH_HANDOVER.md` | A brief for a Claude session on the home computer (Chrome, signed in) to price book lots |
 
+### The pipeline in `pipeline/`
+
+Run in this order by `routines/armitage-new-sale.md`; each stage writes under `pipeline/sales/<chid>/`.
+
+| Script | Job |
+|---|---|
+| `new_sales.py` | Notices a catalogue not seen before and writes the "new sale" email |
+| `rules.py` | Category rules: what is excluded (large furniture, whitegoods, vehicles), what always gets the photo scan |
+| `promote.py` | Promotes lots to the photo scan when their title matches past sales of $250 or more in the results database |
+| `prep.py <chid>` | Reads every lot page, sorts the lots with the rules, downloads photos and builds contact sheets and the workflow args |
+| `wf_funnel.js` | The Workflow: title pass, photo scan, rescore, cloud price research. Sonnet only, no Opus |
+| `merge_scan.py` | Checks a scan batch (every photo viewed) and writes `scans/<tag>.json` |
+| `assess.py <chid>` | The bid check in code: the $200 rule, provisional maximums, the Chrome list, the "first pass" email |
+| `stage.py <chid> <stage>` | Records a finished stage in `state/sales.json` and prints the "stage finished" email |
+
 ### The deep-scan toolkit in `work/`
 
 | Script | Job |
 |---|---|
-| `watch_armitage.py` | Lists the catalogues on armitage.bidsonline.com.au and prints any not seen before (`armitage_catalogues.json` remembers them) |
+| `watch_armitage.py` | The earlier new-catalogue watcher, replaced by `pipeline/new_sales.py` (which seeds its state from `armitage_catalogues.json`) |
 | `prep_armitage.py <chid> <key>` | Reads one catalogue, downloads every photo, builds contact sheets and batches of 15 lots for the scan |
 | `wf_armitage.js` | The scan workflow: photo scan (Sonnet, estimate-blind), rescore, market comps, verify |
 | `comps.py <words>` | Looks an item up in the results database (`gowans_all.json`, 75,655 Gowans hammer prices, plus `sold_db.json`); see `RESULTS_DB.md` |
