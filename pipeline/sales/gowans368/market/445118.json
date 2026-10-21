@@ -1,7 +1,7 @@
 {
  "cdid": 445118,
  "lot": 138,
- "identification": "Macquarie Mint 'Smallest Gold Coins of the World' proof set in red timber case, .585 (14ct) gold, 0.5 g and 11 mm each (certificate read: Fiji $1 2014 George Washington). Photos show 7 numbered slots (I to VII) all filled, plus 14 certificates laid out (photo 4), so most likely 7 coins with 14 certificates, or the other 7 coins are elsewhere. Title says 14 coins.",
+ "identification": "Macquarie Mint 'Smallest Gold Coins of the World' set in red timber case, 0.5 g coins of .585 (14ct) or .9999 gold, 11 mm. Photos show 7 filled slots and 14 certificates, title says 14 coins.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,84 @@
    "url": "https://picclick.com.au/Macquarie-Mint-Smallest-Gold-Coins-of-the-145032601268.html",
    "same_item": "close",
    "note": "Snippet only. Asking price for a 14 coin box set; purity unknown. Not a price paid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$950",
+   "currency": "AUD",
+   "aud_price": 950,
+   "date": "2026-03-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/134553948766",
+   "same_item": "close",
+   "note": "8 coin box set with certificates, same series; about A$119 a coin. Lot may be 7 or 14 coins.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$123.76",
+   "currency": "AUD",
+   "aud_price": 123.76,
+   "date": "2026-04-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/135430219422",
+   "same_item": "single coin",
+   "note": "one 2013 Zeppelin 0.5g .585 coin; seller sold 4 at this average",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$136.94",
+   "currency": "AUD",
+   "aud_price": 136.94,
+   "date": "2026-04-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/136761366738",
+   "same_item": "single coin",
+   "note": "one 2013 Ned Kelly 0.5g .585 coin; 4 sold at this average",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$125.68",
+   "currency": "AUD",
+   "aud_price": 125.68,
+   "date": "2026-05-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134000947565",
+   "same_item": "single coin",
+   "note": "one 2012 Maya Calendar .585 coin; 2 sold",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120.65",
+   "currency": "AUD",
+   "aud_price": 120.65,
+   "date": "2026-05-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134207830523",
+   "same_item": "single coin",
+   "note": "one 2012 Dinosaur Cemetery .585 coin; 2 sold",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$129.83",
+   "currency": "AUD",
+   "aud_price": 129.83,
+   "date": "2026-05-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/135420100852",
+   "same_item": "single coin",
+   "note": "one 2013 First Moon Landing .585 coin; 2 sold",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with macquarie mint / smallest gold coins / 14ct; Gowans API (3 searches); WebSearch x2 (Macquarie Mint Smallest Gold Coins sold; 14 carat set auction results). Leski page 403, eBay closed: eBay sold listings for 'Macquarie Mint smallest gold coins 14ct' would settle it. Each coin holds only about 0.29 g fine gold, so melt is trivial (about 2 g fine for 7 coins, 4 g for 14); value is collector/set value.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) with macquarie mint / smallest gold coins / 14ct; Gowans API (3 searches); WebSearch x2 (Macquarie Mint Smallest Gold Coins sold; 14 carat set auction results). Leski page 403, eBay closed: eBay sold listings for 'Macquarie Mint smallest gold coins 14ct' would settle it. Each coin holds only about 0.29 g fine gold, so melt is trivial (about 2 g fine for 7 coins, 4 g for 14); value is collector/set value. | chrome: Terapeak AU sold 3 years 'macquarie mint smallest gold coins' (about 45 single coins sold A$84 to A$160, most A$100 to A$155 each in 2025-26); opened the 8 coin set listing.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold and completed: Macquarie Mint smallest gold coins 14ct .585 set; also Leski lot 209318 result (catalog 620)",
  "rate_note": "All prices AUD, no conversion. Hammer figures exclude premium except where noted.",
- "viewing_check": "Count the coins: 7 in the case (slots I to VII) versus 14 total, and whether a second case or loose coins exist. Check each capsule is sealed, coins match certificates, and all are .585 (not .999) by reading the certificates."
+ "viewing_check": "Count the coins: are there 7 or 14? Open the case and check for a second tray. Check each certificate matches a coin. Coins should be in capsules, unscratched.",
+ "chrome_done": true
 }

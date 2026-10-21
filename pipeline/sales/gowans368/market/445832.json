@@ -1,7 +1,7 @@
 {
  "cdid": 445832,
  "lot": 852,
- "identification": "Louisa Anne Meredith, 'Our Island Home: A Tasmanian Sketch Book', Hobart J. Walch / London Marcus Ward, 1879, folio, original pictorial cloth with pine-cone gilt design. Photos show autotype plates Hobart Town from Proctor's Road, South Arm, Herne Bay, Wine-glass Bay, Cape Raoul. Spine worn and frayed at head and tail, cover rubbed, foxing on plate margins, front pastedown covered in pasted glider newspaper clippings (1930s Tasmanian gliding), board edge damage. Plates look reasonably clean. Plate count unknown.",
+ "identification": "Louisa Anne Meredith, Our Island Home: A Tasmanian Sketch Book, 1879 folio, original pictorial cloth, worn spine, foxing, newspaper clippings pasted inside the front cover; plate count unknown.",
  "entries": [
   {
    "kind": "SOLD",
@@ -92,9 +92,10 @@
    "note": "A framed Cape Raoul print (likely later reproduction), not the book. Shows the Hobart room pays little for Meredith prints. Via API."
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with Meredith/Our Island Home/Tasmanian sketch; Gowans API (meredith island home, louisa meredith, island home, sketchbook, tasmanian sketch book): no earlier Gowans copy of this title; WebSearch x3 (general, armitage site, house names); Invaluable artist sold-prices page parsed. Not done: Colville/Peter Arnold own lot pages, AbeBooks/dealer asking prices, Trove. eBay sold would help slightly.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) with Meredith/Our Island Home/Tasmanian sketch; Gowans API (meredith island home, louisa meredith, island home, sketchbook, tasmanian sketch book): no earlier Gowans copy of this title; WebSearch x3 (general, armitage site, house names); Invaluable artist sold-prices page parsed. Not done: Colville/Peter Arnold own lot pages, AbeBooks/dealer asking prices, Trove. eBay sold would help slightly. | chrome: Terapeak AU sold 3 years 'meredith our island home' (none); LiveAuctioneers price results (one, 2016, too old); Invaluable past items (19 results but prices are behind a paid subscription, skipped); Google for recent sales (shows Gowans sold a copy on 18/11/2025 but the closed lot page would not open, so the price is not seen). The newest auction prices I know of (A$700 to A$750, Australian Book Auctions 2024) are just over 24 months old.",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: 'Meredith Our Island Home Tasmanian Sketch Book 1879'; also AbeBooks / Rare Book Hub for 'Meredith Our Island Home' sold prices.",
- "viewing_check": "Count the plates against the 13 tinted autotype plates (incl. additional title) and check for missing or loose plates and the title page and date. Check hinges and whether boards are detached, the extent of foxing, and what the pasted clippings have done to the pastedown (removal not possible). A complete, sound copy points to the $600 to $950 range; missing plates or detached boards drops it sharply.",
- "rate_note": "All prices AUD, no conversion. Hammer unless stated; Invaluable premium status unknown."
+ "viewing_check": "Count the plates (a full copy has 13 autotype plates) and check none are cut out; note the spine and the pasted clippings, which put collectors off.",
+ "rate_note": "All prices AUD, no conversion. Hammer unless stated; Invaluable premium status unknown.",
+ "chrome_done": true
 }
