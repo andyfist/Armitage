@@ -75,7 +75,7 @@ def main():
         if sold or asking:
             out.append(f"**Found so far:** {len(sold)} sold price(s)" + (': ' + '; '.join(f"${e.get('aud_price', 0):,.0f} {e.get('venue', '')} {e.get('date', '')}" for e in sold[:4]) if sold else '') +
                        (f"; {len(asking)} asking price(s)" if asking else '') + '.')
-        find = x.get('chrome_hint') or 'Find SOLD prices for this exact item (eBay sold listings first, then LiveAuctioneers and Invaluable results), and note condition differences.'
+        find = x.get('chrome_hint') or 'Find SOLD prices for this exact item (eBay sold prices via Terapeak first, falling back to plain eBay sold listings, then LiveAuctioneers and Invaluable results), and note condition differences.'
         out.append(f"**Find:** {find}")
         pid, n = lot.get('photo_id'), lot.get('photo_count') or 0
         if pid and n:
