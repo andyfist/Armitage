@@ -1,8 +1,8 @@
 # Armitage
 
-Bargain hunting for Launceston-area auctions (7250 + 50 km): scrape the catalogue,
+Bargain hunting for Launceston-area auctions (7250 + 100 km): scrape the catalogue,
 have Claude triage every lot and look at the photos of anything promising, and
-report lots with a realistic **$1,000+ profit** after buyer's premium.
+report lots with a realistic **$500+ profit** after buyer's premium.
 
 ## Sources
 
@@ -22,7 +22,7 @@ python3 scraper/armitage.py -o data/lots.json            # all open lots, titles
 cd scraper && python3 fetch_photos.py ../data/lots.json ../data/shortlist 883 818 943
 ```
 
-Facebook Marketplace (new listings since the last run, 50 km around 7250):
+Facebook Marketplace (new listings since the last run, 100 km around 7250):
 
 ```sh
 python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos
