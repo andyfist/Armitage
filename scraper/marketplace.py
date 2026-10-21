@@ -7,7 +7,9 @@ Two Apify actors are supported (neither uses a Facebook login):
   apify: Apify's official apify/facebook-marketplace-scraper. More widely used but
       about US$0.0062 per listing and no incremental mode, so we de-duplicate locally
       (data/fb_seen.json) and keep the per-search limit low.
-Needs APIFY_TOKEN in the environment.
+Auth: APIFY_TOKEN from the environment, sent as a Bearer header. If it isn't set,
+requests go out without one, for when the environment adds the token itself as a
+network secret for api.apify.com.
 
     python3 scraper/marketplace.py -o data/fb.json
     python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos   # also download photos
@@ -39,12 +41,19 @@ QUERIES = [
 
 
 def call_actor(token, actor, payload):
+    headers = {"Authorization": f"Bearer {token}"} if token else {}
     r = requests.post(
         f"https://api.apify.com/v2/acts/{ACTORS[actor]}/run-sync-get-dataset-items",
-        params={"token": token, "timeout": 290},
+        params={"timeout": 290},
+        headers=headers,
         json=payload,
         timeout=310,
     )
+    if r.status_code in (401, 402) and not token:
+        sys.exit("Apify refused an unauthenticated request; no APIFY_TOKEN or network secret reached it.")
+    if r.status_code == 401:
+        sys.exit("Apify rejected the request (401): token missing or wrong. "
+                 "Set APIFY_TOKEN or a network secret for api.apify.com.")
     r.raise_for_status()
     return r.json()
 
@@ -136,7 +145,7 @@ def main():
 
     token = os.environ.get("APIFY_TOKEN")
     if not token:
-        sys.exit("APIFY_TOKEN is not set; add it to the environment's secrets")
+        print("APIFY_TOKEN not set; relying on a network secret for api.apify.com", file=sys.stderr)
 
     if args.actor == "apify":
         listings = [normalise(i) for i in run_apify(token, QUERIES, args.max)]
