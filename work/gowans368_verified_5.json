@@ -1,0 +1,260 @@
+{
+ "lots": [
+  {
+   "cdid": 446263,
+   "lot": 1432,
+   "what_it_is": "4 assorted powered speakers: 1 x KRK Rokit Powered 6 studio monitor (yellow cone, back plate reads KRK Systems Rokit Powered 6; generation G2 or G3, not confirmed) plus 3 x Sonodyne active monitors (back plate reads Sonodyne SM 200AK Active Monitor, read from an enlarged crop, slightly blurry). Not a matched set: one odd KRK and three Sonodynes.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$65 hammer (6500 cents, 8 bids)",
+     "aud_price": 65,
+     "date": "listed 2026-06-21, sold about a week later",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=monitor+speakers&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 418590, PAIR OF EDIROL MA-15D ACTIVE MONITOR SPEAKERS. AUD, no conversion, hammer only (premium extra). same_item: category guide (small desktop monitor pair, not KRK or Sonodyne). Page opened (API JSON), price and date confirmed."
+    },
+    {
+     "price": "$100 hammer (10000 cents, 11 bids)",
+     "aud_price": 100,
+     "date": "listed 2026-08-23",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=monitor+speakers&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 433118, PAIR OF EDIFIER ACTIVE MONITOR SPEAKERS. AUD hammer. same_item: category guide (consumer active pair). Page opened (API JSON), confirmed."
+    },
+    {
+     "price": "$55, $70, $40 hammer (5500, 7000, 4000 cents)",
+     "aud_price": 55,
+     "date": "listed 2025-11-24, 2026-01-26, 2026-03-23",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=active+speakers&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot ids 377778 (Edifier R1010BT new in box $55), 386294 (Edifier BT pair in box $70), 399075 (Edifier pair $40). aud_price is the middle value. AUD hammer. same_item: category guide only (consumer bookshelf actives). Page opened (API JSON), confirmed."
+    },
+    {
+     "price": "$30 and $50 hammer (3000, 5000 cents)",
+     "aud_price": 40,
+     "date": "listed 2026-09-27 and 2026-10-04",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=powered+speakers&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot ids 441139 (powered bookshelf pair, 1 bid, $30) and 442729 (Edifier R1280DB pair, $50). AUD hammer. same_item: category guide, floor-type comparison. Page opened (API JSON), confirmed."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "AUD $400 for a pair of Sonodyne SRP 400 (RRP $650), 'MINT'",
+     "aud_price": 400,
+     "date": "posted 2024-06-24, expired, 0 enquiries in 467 views",
+     "venue": "StereoNET classifieds",
+     "url": "https://www.stereonet.com/forums/classifieds/item/2943-sonodyne-srp-400-studio-monitors/",
+     "note": "ASKING, AUD. same_item: category guide (different Sonodyne model, SRP 400 not SM 200AK). Page opened via WebFetch (curl got 403). Expired with no enquiries and no sale shown, so an optimistic ceiling for the brand, and older than 24 months."
+    },
+    {
+     "price": "US$130, single KRK Rokit G3 6 in white finish, 'amazing, like new' with original packaging, shown as sold out",
+     "aud_price": 195,
+     "date": "seen 2026-10-21 (listing date not shown)",
+     "venue": "Chicago Music Exchange (US dealer)",
+     "url": "https://www.chicagomusicexchange.com/products/krk-rokit-g3-6-studio-monitor-white-finish-534227",
+     "note": "ASKING (dealer price; 'sold out' is not a dated sale, so not SOLD). Rate assumed 1 USD = 1.50 AUD, not looked up. Page opened with curl: one monitor, not a pair (researcher was unsure). same_item: close (same model line, better condition, US retail). Per-unit figure."
+    },
+    {
+     "price": "EUR 315 for a pair of KRK Rokit 6 Gen 3 (white), excellent; site's median used EUR 233, 75th percentile EUR 252",
+     "aud_price": 520,
+     "date": "posted 2026-07-07, seen 2026-10-21",
+     "venue": "Stereonet Radar (aggregating Kleinanzeigen, Germany)",
+     "url": "https://radar.stereonet.com/listing/118197-krk-rokit-6-gen-3-weiss-2-stuck",
+     "note": "ASKING. Rate assumed 1 EUR = 1.65 AUD, not looked up. Page opened with curl, price and date confirmed. Pair, so about A$260 per unit asking, median about A$190 per unit. same_item: close, overseas private ask."
+    }
+   ],
+   "guide_low_aud": 195,
+   "guide_high_aud": 520,
+   "guide_summary": "Close entries are asking only: one KRK Rokit 6 G3 at US$130 (about A$195, single unit, US dealer) and a German pair at EUR 315 (about A$520, about A$260 per unit). No sold or unsold result for KRK or Sonodyne was found anywhere. Gowans has sold active speaker pairs (category guide only) for $30 to $100 hammer. Rates assumed: 1 USD = 1.50 AUD, 1 EUR = 1.65 AUD. Realistic room value for this mixed lot of four is probably $100 to $200 hammer, but that is my judgement, not evidence.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD entry (no KRK or Sonodyne sale found, eBay closed, WebSearch budget used up when trying Sonodyne SM 200AK). Gowans active-pair hammers ($30 to $100) are category guides only, so by the rules no maximum is set. For reference only: if bought as a KRK single plus three Sonodynes, $65 (cheapest relevant Gowans monitor pair) / 1.198 = $54, which would round to $50, but this is not a permitted cap.",
+   "confidence": "Low",
+   "confidence_reason": "Marks read on the photos (KRK Rokit Powered 6, Sonodyne SM 200AK), but there is no SOLD evidence for either brand and the only close entries are overseas asking prices. Working order unknown.",
+   "dropped_entries": "Dropped Gowans lot 428397 'PAIR OF PRO AUDIO STUDIO MONITOR SPEAKERS' $75: I opened its photo and it is a pair of carpeted passive 'Pro Audio' brand PA cabinets with horns, not powered studio monitors, so not comparable. Dropped Long & McQuade Gear Hunter KRK RP6 G3 CAD 279: page opened, no CAD 279 price shown (quantity available 0), so the claimed price could not be confirmed; snippet-only lead.",
+   "key_photo_findings": "Front photo: KRK Rokit 6 on top with yellow woofer and Rokit 6 badge; three identical black Sonodyne boxes below (badge 'SONODYNE' on lower edge). Back photo: KRK back plate reads 'KRK Systems Rokit Powered 6' with RCA, TRS and XLR inputs, HF/LF/volume knobs and IEC socket, 'Designed and engineered in the USA, made in China'. Sonodyne amp plates read 'SONODYNE SM 200AK ACTIVE MONITOR' with XLR inputs and IEC socket. Some scuffs on the cabinets and grilles absent (normal for monitors). Lot number 1432 on KRK front.",
+   "condition": "Used, cosmetic scuffs on cabinet corners, untested. No power cords visible.",
+   "question_for_gowans": "Do all four speakers power on and produce sound? Are power cords included? Can you confirm the Sonodyne model (SM 200AK?) and the KRK generation (label on the back, G2 or G3)?"
+  },
+  {
+   "cdid": 446267,
+   "lot": 1436,
+   "what_it_is": "Box of mixed electronics: an original grey Sony PlayStation (PS1, memory card slots 1 and 2 visible), an original black Xbox One (2013 style ridged top) with its Xbox-branded power brick, a yellowed beige/grey unidentified console or device, a silver unidentified device, a wired microphone, a yellow 'Brick Game' LCD handheld (cheap Tetris-type), an XtremeMac 10W dual charging dock for iPod/iPhone/iPad in box, and a teal 'Box of Tricks' NBN Wi-Fi modem kit box. No controllers or games visible. Untested.",
+   "triage": "BOTH",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$50 hammer (5000 cents, 6 bids)",
+     "aud_price": 50,
+     "date": "listed 2026-05-10, sold about a week later",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=playstation&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 408456, XBOX & PLAYSTATION 1 CONSOLES, CONTROLS ETC. AUD hammer, premium extra. same_item: close (Xbox plus PS1, but included controls and Xbox model not stated). Page opened (API JSON), confirmed. Closest content match; used for keep cap."
+    },
+    {
+     "price": "$110 hammer (11000 cents, 5 bids)",
+     "aud_price": 110,
+     "date": "listed 2026-10-04",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ps1&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 442385, PS1 CONSOLES & OTHERS - AS IS. AUD hammer. same_item: close (plural PS1s plus others, untested). Page opened (API JSON), confirmed."
+    },
+    {
+     "price": "$60 hammer (6000 cents, 12 bids)",
+     "aud_price": 60,
+     "date": "listed 2026-05-03",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=playstation&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 407185, PLAYSTATION ONE CONSOLE (bare console). AUD hammer. same_item: close for the PS1 part. Page opened (API JSON), confirmed."
+    },
+    {
+     "price": "$55 hammer (5500 cents, 5 bids)",
+     "aud_price": 55,
+     "date": "listed 2026-09-13",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=xbox+one&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 437494, XBOX ONE CONSOLE WITH CONTROLLER & CORDS - FACTORY RESET. AUD hammer. same_item: close for the Xbox One part (this one tested and had a controller, so better). Page opened (API JSON), confirmed."
+    },
+    {
+     "price": "$140 hammer (14000 cents, 16 bids)",
+     "aud_price": 140,
+     "date": "listed 2026-06-28",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=xbox+one&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 419891, XBOX ONE CONSOLE - 1TB. AUD hammer. same_item: close but better (1TB stated). Page opened (API JSON), confirmed."
+    },
+    {
+     "price": "$100 and $90 hammer (10000, 9000 cents)",
+     "aud_price": 95,
+     "date": "listed 2025-10-27 and 2025-09-28 (within 24 months)",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=xbox+one&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot ids 371302 (XBOX ONE & ACCESSORIES, $100, 9 bids) and 364061 (XBOX ONE WITH GAME & ACCESSORIES, $90, 10 bids). Researcher had not captured ids; now confirmed. same_item: close but with accessories. Page opened (API JSON)."
+    },
+    {
+     "price": "$95 to $170 hammer for single PS1 lots",
+     "aud_price": 120,
+     "date": "listed 2026-03-23 to 2026-09-13",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ps1&page%5Bnumber%5D=1",
+     "note": "SOLD. PS1 CONSOLE & ASST GAMES $130 (435975), $140 (435977), $120 (437868); PS1 CONSOLE WITH CARRY BAG $110 (408397); PS1 CONSOLE COMPLETE $95 (403404); PS1 CONSOLE - BOXED $110 (403385); PLAYSTATION ORIGINAL CONSOLE WITH GAMES & ACCESSORIES $170 (398517, playstation search). All include games, bag, box or accessories, so better than this bare PS1. same_item: category guide. Page opened (API JSON), confirmed."
+    },
+    {
+     "price": "$130, $110, $75, $50 hammer",
+     "aud_price": 90,
+     "date": "listed 2026-02-15, 2026-09-27, 2026-07-19, 2026-08-03",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=gaming+consoles&page%5Bnumber%5D=1",
+     "note": "SOLD. 'As is' mixed console lots: 391013 BOX OF GAMING CONSOLES $130, 440632 QTY OF ASST GAMING CONSOLES $110, 425107 TUB OF GAMING CONSOLES $75, 428258 BOX OF GAMING CONSOLES ETC $50. Downgraded from close to category guide: I opened the photos of 391013 (two PS3s, Xbox 360, PS2s) and 440632 (two Sega Mega Drives, Master System II, Super Nintendo), both clearly better contents than this box. Page opened (API JSON)."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "AU$83 to AU$150, original 500GB Xbox One",
+     "aud_price": 115,
+     "date": "snippet seen 2026-10-21 by researcher",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/134501715561",
+     "note": "ASKING, snippet only, not verified (eBay closed to us). Lead only."
+    },
+    {
+     "price": "AU$56.91 console only (SCPH-5502 PS1)",
+     "aud_price": 57,
+     "date": "snippet seen 2026-10-21 by researcher",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/p/112230524",
+     "note": "ASKING, snippet only, not verified (eBay closed). Lead only; consistent with the $60 Gowans bare PS1 hammer."
+    },
+    {
+     "price": "AU$178 refurbished 500GB Xbox One",
+     "aud_price": 178,
+     "date": "snippet seen 2026-10-21 by researcher",
+     "venue": "EB Games Australia",
+     "url": "https://www.ebgames.com.au/product/xbox-one/203521-xbox-one-500gb-console-refurbished-by-eb-games-preowned",
+     "note": "ASKING, snippet only (WebFetch got 403). Retail refurbished with warranty, category guide only."
+    }
+   ],
+   "guide_low_aud": 50,
+   "guide_high_aud": 140,
+   "guide_summary": "All AUD, no conversion. Close SOLD entries at Gowans run $50 (Xbox plus PS1 with controls) to $140 (single Xbox One 1TB), with bare PS1 $60 and reset Xbox One $55. Asking evidence is snippet-only (eBay AU $57 bare PS1, $83 to $150 Xbox One; EB Games $178 refurbished). No unsold results.",
+   "keep_max_hammer": 40,
+   "flip_max_hammer": 25,
+   "working": "Keep: lowest close SOLD = $50 (lot 408456, Xbox and PS1 with controls, May 2026). $50 / 1.198 = $41.74, round down to $40. Flip: likely resale from SOLD = bare PS1 $60 (407185) + Xbox One $55 (437494) = $115, selling separately online. Less about 13% selling fees ($15) and outbound postage about $30 for two parcels = $70. $70 / 2.396 = $29.2, round down to $25. Accessories (dock, mic, brick game, modem) treated as nil value.",
+   "confidence": "Medium",
+   "confidence_reason": "PS1 and Xbox One clearly identified from the photo and several Gowans hammers opened, but none is the identical mix, everything is untested, no controllers or AV/power cords for the PS1 are visible, and one console is unidentified.",
+   "dropped_entries": "Dropped Gamesmen AU$449 / Marketplace $150 / Gumtree $119 PS1 entry: snippet only, Gamesmen page showed no price, and $449 is a complete boxed retail outlier. Downgraded 391013 and 440632 from close to category guide after opening their photos (better consoles). Fixed the two Xbox One lots that had no ids (371302, 364061).",
+   "key_photo_findings": "Single photo. Grey PS1 top shows memory card slots 1 and 2. Black ridged console at bottom left with power brick bearing the Xbox logo: original Xbox One. Yellowed beige/grey flat device next to the PS1 has no visible badge (could be a second console or a scanner-type device). Silver device top right unidentified. Yellow handheld reads 'Brick Game'. XtremeMac 10W dual charging dock in retail box. Teal 'Box of Tricks' box lists NBN Wi-Fi modem, wireless info card, telephone cable, ethernet cables, power adaptor. Microphone with XLR-style lead.",
+   "condition": "Used, untested, PS1 slightly discoloured. No controllers, games or AV leads visible.",
+   "question_for_gowans": "Are any of the consoles tested? What is the beige/grey item beside the PS1 (a second console)? Does the Xbox One power on, and what capacity is it? Are there PS1 power and AV leads or any controllers in the box?"
+  },
+  {
+   "cdid": 446426,
+   "lot": 1595,
+   "what_it_is": "New-looking white glazed single-bowl butler (Belfast-style) kitchen sink, about 60 x 40 x 20 cm, with a basket waste in a plastic bag. Gowans calls it 'Tribo fire day sink' (fireclay). No brand mark visible in the single photo. 'Tribo' is also used by Gowans for vanity basins in the same sale, so it may be the importer's range name rather than proof of Turner Hastings. Three identical lots (1595, 1599, 1601) plus a deeper 40 cm high Tribo sink (lot 1586) in this sale.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 6,
+   "sold": [
+    {
+     "price": "$290 hammer (29000 cents, 8 bids)",
+     "aud_price": 290,
+     "date": "listed 2026-03-17, sold about a week later",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sink&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 398018, BUTLER SINK & ACCESSORIES INCL MIXER TAPES. AUD hammer, premium extra. I opened its photo: a new, boxed white ceramic double-bowl butler sink with a mixer tap and fittings, so better than this single bowl with waste only. same_item: close, not the same item. Page opened (API JSON)."
+    },
+    {
+     "price": "$65 hammer (6500 cents, 5 bids)",
+     "aud_price": 65,
+     "date": "listed 2026-09-20",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sink&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 439939, ABEY KITCHEN SINK. Material not stated. same_item: category guide only. Page opened (API JSON)."
+    },
+    {
+     "price": "$55 hammer (5500 cents, 1 bid)",
+     "aud_price": 55,
+     "date": "listed 2025-11-17",
+     "venue": "Gowans Auctions, Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sink&page%5Bnumber%5D=1",
+     "note": "SOLD. Lot id 376230, STAINLESS STEEL KITCHEN SINK - NEW. same_item: category guide only (stainless, not fireclay). Page opened (API JSON)."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$850 (was $895)",
+     "aud_price": 850,
+     "date": "live, seen 2026-10-21",
+     "venue": "Kitchen Library (online retailer)",
+     "url": "https://kitchenlibrary.au/products/single-bowl-butler-sink-600-reversible-with-central-waste",
+     "note": "ASKING, AUD. Page opened with curl, price confirmed. Generic 600 single-bowl reversible fireclay butler sink with waste, new. same_item: category guide (size and type match, brand differs)."
+    },
+    {
+     "price": "$856 (shown under 'compare to similar items'; Galdor itself no longer available)",
+     "aud_price": 856,
+     "date": "live, seen 2026-10-21",
+     "venue": "Winning Appliances",
+     "url": "https://www.winnings.com.au/p/turner-hastings-turner-hasting-galdor-fine-fireclay-sink-hg6040",
+     "note": "ASKING, AUD. Page opened via WebFetch: Turner Hastings Galdor 60 x 41 fine fireclay single bowl butler, 600 mm long, 202 mm high (matches this lot's 20 cm height). The $856 figure belongs to a similar item on the page, not clearly the Galdor, so treat as a loose retail benchmark. same_item: close."
+    }
+   ],
+   "guide_low_aud": 290,
+   "guide_high_aud": 856,
+   "guide_summary": "All AUD. One close Gowans SOLD ($290 hammer, March 2026) was a new double-bowl butler with a mixer tap, better than this lot. The rest is new retail asking about $850 for a 600 mm fireclay single bowl. No unsold results and no auction sale of the same single sink. Gowans stainless kitchen sinks make $55 to $65 (category guide only). Four similar sinks in this one sale may hold prices down.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD entry: the only butler sink sale (398018, $290) is a double bowl with a tap, so it cannot set a cap under the rules. Asking prices cannot set a maximum. For reference only, $290 / 1.198 = $242, which would be an upper limit, not a recommended bid. Pickup from Moonah, inbound freight $0; outbound freight on a heavy fireclay sink would cut into any flip.",
+   "confidence": "Low",
+   "confidence_reason": "Brand and material not visible in the photo (single view, no underside), title has a typo, and value rests on retail asking prices plus one better-specified Gowans sale.",
+   "dropped_entries": "Dropped Cass Brothers $1,058 (page returns 404), Blue Leaf Bath $1,041 (page returns 404), Home Clearance $1,223 (page not found; WebFetch returned an unrelated dishwasher) and Restoration Online $680.77 (page opened but the claimed price and Cove product were not on the page I fetched). These were snippet-only and could not be verified; they remain leads only, consistent with new fireclay retail around $850 to $1,200. Dropped Gowans 439916 BATHROOM SINK & TAPS $60 (different item type).",
+   "key_photo_findings": "One photo. White glossy single bowl with square rolled rim, thick walls typical of fireclay or ceramic, no visible chips on the rim or front face, light dust marks inside. Basket waste in a sealed plastic bag in the bowl. Lot number 1595 written on the front. No brand label or overflow visible. A round vessel basin and a stone basin sit either side (other lots).",
+   "condition": "Appears new or unused; underside and back not shown.",
+   "question_for_gowans": "Is it fireclay (heavy) or ceramic, and is there a brand label or stamp underneath (Turner Hastings)? Any chips, crazing or cracks on the underside or back? Is the waste complete, and is it new old stock? Are lots 1599 and 1601 identical?"
+  }
+ ]
+}
