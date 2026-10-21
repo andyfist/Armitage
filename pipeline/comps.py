@@ -28,7 +28,7 @@ except ImportError:
     db_records = None
 
 VENUE = {'noble': 'Noble Numismatics, Sydney', 'aba': 'Australian Book Auctions, Melbourne', 'armitage': 'Armitage Auctions, Launceston',
-         'gowans': 'Gowans Auctions, Hobart'}
+         'gowans': 'Gowans Auctions, Hobart', 'ebay': 'eBay Australia (Terapeak sold)', 'leski': 'Leski Auctions, Melbourne'}
 
 
 def rows(source=None, category=None):
