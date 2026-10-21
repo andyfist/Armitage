@@ -15,13 +15,28 @@ the older "$500 or double your money" rule and will be updated with the scan fun
 | `scraper/armitage.py` | Pulls every open Armitage lot (title, bid, close time, photos) into one JSON file |
 | `scraper/marketplace.py` | Facebook Marketplace puller via Apify (quick scan, lookup, full scan) |
 | `scraper/fetch_photos.py` | Downloads the photos of shortlisted lots |
-| `pipeline/` | The automated Armitage pipeline, one script per stage. `new_sales.py` notices a new catalogue; `state/sales.json` records every sale seen and which stages are done |
+| `pipeline/` | The automated Armitage pipeline, one script per stage (see below). `state/sales.json` records every sale seen and which stages are done |
 | `routines/` | The prompts behind the scheduled runs: hourly Marketplace quick scan, 6:40 am daily digest, two-hourly Armitage new-sale check |
 | `HUNTING.md` | Triage rules and report format for the title-first hunt |
 | `reports/` | One report per sale close date from the daily digest |
 | `work/` | The deep-scan toolkit and every sale researched so far (see below) |
 | `scans/` | Raw photo-scan output per batch of 15 lots |
 | `BOOK_RESEARCH_HANDOVER.md` | A brief for a Claude session on the home computer (Chrome, signed in) to price book lots |
+
+### The pipeline in `pipeline/`
+
+Run in this order by `routines/armitage-new-sale.md`; each stage writes under `pipeline/sales/<chid>/`.
+
+| Script | Job |
+|---|---|
+| `new_sales.py` | Notices a catalogue not seen before and writes the "new sale" email |
+| `rules.py` | Category rules: what is excluded (large furniture, whitegoods, vehicles), what always gets the photo scan |
+| `promote.py` | Promotes lots to the photo scan when their title matches past sales of $250 or more in the results database |
+| `prep.py <chid>` | Reads every lot page, sorts the lots with the rules, downloads photos and builds contact sheets and the workflow args |
+| `wf_funnel.js` | The Workflow: title pass, photo scan, rescore, cloud price research. Sonnet only, no Opus |
+| `merge_scan.py` | Checks a scan batch (every photo viewed) and writes `scans/<tag>.json` |
+| `assess.py <chid>` | The bid check in code: the $200 rule, provisional maximums, the Chrome list, the "first pass" email |
+| `stage.py <chid> <stage>` | Records a finished stage in `state/sales.json` and prints the "stage finished" email |
 
 ### The deep-scan toolkit in `work/`
 
