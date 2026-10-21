@@ -16,7 +16,7 @@ the older "$500 or double your money" rule and will be updated with the scan fun
 | `scraper/marketplace.py` | Facebook Marketplace puller via Apify (quick scan, lookup, full scan) |
 | `scraper/fetch_photos.py` | Downloads the photos of shortlisted lots |
 | `pipeline/` | The automated Armitage pipeline, one script per stage (see below). `state/sales.json` records every sale seen and which stages are done |
-| `routines/` | The prompts behind the scheduled runs: hourly Marketplace quick scan, 6:40 am daily digest, two-hourly Armitage new-sale check |
+| `routines/` | The prompts behind the scheduled runs (hourly Marketplace quick scan, 6:40 am daily digest, two-hourly Armitage new-sale check, 2:10 am price-database top-up) and the chats Andy starts himself |
 | `HUNTING.md` | Triage rules and report format for the title-first hunt |
 | `reports/` | One report per sale close date from the daily digest |
 | `work/` | The deep-scan toolkit and every sale researched so far (see below) |
@@ -31,7 +31,8 @@ Run in this order by `routines/armitage-new-sale.md`; each stage writes under `p
 |---|---|
 | `new_sales.py` | Notices a catalogue not seen before and writes the "new sale" email |
 | `rules.py` | Category rules: what is excluded (large furniture, whitegoods, vehicles), what always gets the photo scan |
-| `promote.py` | Promotes lots to the photo scan when their title matches past sales of $250 or more in the results database |
+| `promote.py` | Promotes lots to the photo scan when their title matches past sales of $250 or more in the price databases (`databases/`, Armitage's own results, Gowans) |
+| `comps.py <words>` | Looks an item up in every local price database (Noble coins, ABA books, Armitage results, Gowans, earlier research); the market researchers run it before searching the web |
 | `prep.py <chid>` | Reads every lot page, sorts the lots with the rules, downloads photos and builds contact sheets and the workflow args |
 | `wf_funnel.js` | The Workflow: title pass, photo scan, rescore, cloud price research. Sonnet only, no Opus |
 | `merge_scan.py` | Checks a scan batch (every photo viewed) and writes `scans/<tag>.json` |
