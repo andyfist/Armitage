@@ -33,7 +33,7 @@ Devonport, Scottsdale and St Helens are in and Hobart is out. Each returns only
 listings new or changed since its own last run.
 
 - **Quick scan (hourly):** `python3 scraper/marketplace.py --no-details --state
-  armitage-7250-quick -o data/fb_quick.json --photos data/fb_photos --max-spend 0.10`.
+  armitage-7250-newest -o data/fb_quick.json --photos data/fb_photos --max-spend 0.10`.
   Title, price, suburb, one photo and the link; no description. About US$0.02 a run.
   Shortlist on the title and that one photo: every book lot, anything vague, anything
   that could plausibly clear $500.

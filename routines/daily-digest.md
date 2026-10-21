@@ -10,7 +10,7 @@ working directory. If `scraper/marketplace.py` is missing, run
 `git fetch origin claude/charming-brown-bo3xbf && git checkout claude/charming-brown-bo3xbf`.
 Read HUNTING.md and follow it; the profit threshold is $500.
 
-1. Marketplace. Run the quick scan: `python3 scraper/marketplace.py --no-details --state armitage-7250-quick -o data/fb_quick.json --photos data/fb_photos --max-spend 0.10`
+1. Marketplace. Run the quick scan: `python3 scraper/marketplace.py --no-details --state armitage-7250-newest -o data/fb_quick.json --photos data/fb_photos --max-spend 0.10`
    and triage it per HUNTING.md. On Mondays only, also run the full scan,
    `python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos --max-spend 0.75`,
    and triage that with the galleries and descriptions. If a run says Apify aborted it or

@@ -12,12 +12,13 @@ an aborted run returns NO listings, and it still bills a few cents over the cap.
 
 Two scan modes, each with its own incremental state (--state) so they don't hide new
 listings from each other:
-  quick: --no-details --state armitage-7250-quick. Title, price, location, one photo,
-      link. About US$0.01-0.03 per run once the baseline exists, so it can run hourly.
+  quick: --no-details --state armitage-7250-newest. Title, price, location, one photo,
+      link, newest first and only the first dozen per query. About US$0.01-0.03 per
+      run once the baseline exists, so it can run hourly.
   full:  the default. Descriptions and galleries, but the actor fetches every detail
       page before it filters, so a run costs about US$0.45 even when nothing is new.
 
-    python3 scraper/marketplace.py --no-details --state armitage-7250-quick -o data/fb_quick.json --max-spend 0.10
+    python3 scraper/marketplace.py --no-details --state armitage-7250-newest -o data/fb_quick.json --max-spend 0.10
     python3 scraper/marketplace.py --lookup "The Shannon Rise by R.H. Wigram" -o data/fb_lookup.json --photos data/fb_photos
 
 The usual pattern is quick scan, shortlist on title and photo, then --lookup (about
@@ -137,22 +138,33 @@ def collect_run(token, run_id):
 def run(token, queries, max_results, incremental, max_spend, days=None, details=True,
         state="armitage-launceston-7250", radius=RADIUS_KM, strict=True):
     payload = {
-        "query": json.dumps(queries),
         "latitude": LAUNCESTON[0],
         "longitude": LAUNCESTON[1],
         "radiusKm": radius,
         "strictRadius": strict,
-        # Cost is mostly Apify compute and proxy time, not the per-listing fee, so
-        # scan less: only recent listings, and no detail pages unless asked for.
-        "sortBy": "newest" if details else "relevance",  # newest needs details
         "includeDetails": details,
         "maxResults": max_results,
         "incrementalMode": incremental,
         "excludeEmptyFields": True,
     }
+    if details:
+        payload["query"] = json.dumps(queries)
+        payload["sortBy"] = "newest"  # the actor sorts by the post date it fetched
+    else:
+        # Quick mode: the actor can't sort by newest without detail pages, but
+        # Facebook can. Give it Facebook's own search URLs, newest first, and take
+        # only the first dozen per query: that's every listing posted in the last
+        # hour or so, for a cent or two. Without a cap it would catalogue every
+        # listing for every query, which costs more than the run is worth.
+        payload["startUrls"] = [
+            "https://www.facebook.com/marketplace/launceston/search/?"
+            + requests.compat.urlencode({"query": q, "sortBy": "creation_time_descend",
+                                         "daysSinceListed": days or 1})
+            for q in queries]
+        payload["maxResults"] = max_results or 12 * len(queries)
     if incremental:
         payload["stateKey"] = state
-    if days:
+    if days and details:
         payload["daysSinceListed"] = days
     return call_actor(token, payload, max_spend)
 
