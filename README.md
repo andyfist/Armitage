@@ -42,6 +42,7 @@ Run in this order by `routines/armitage-new-sale.md`; each stage writes under `p
 | `photo_list.py <chid>` | The viewing list: what to look at or photograph for every lot worth bidding on, and the email that points Andy to it |
 | `bidders.py <chid> [--refresh]` | Who is bidding: flags interstate, specialist and strong bidders (history in `state/bidders.json`, built from `databases/armitage.json` and past sales), sends flagged lots the funnel has not valued back through the scan (`wfargs_bidders.json`, `force.json`), prints the "bidder scan" email |
 | `morning.py <chid>` | The auction-morning email: every lot to watch that closes today, in closing order, with times, maximums, bids and bidders |
+| `review.py <chid>` | After the sale closes: our passes against the hammer prices, the lots that made money or drew interstate bidders after the funnel let them go (and at which stage), lessons appended to `state/lessons.md` |
 | `stage.py <chid> <stage>` | Records a finished stage in `state/sales.json` and prints the "stage finished" email |
 
 The chats Andy starts himself have their prompts in `routines/`: `chrome-research.md`
