@@ -41,19 +41,21 @@ The Fortieth (1922, clean inside, Launceston owner's name) and The Story of the 
 ## Lot 924, Victoria Illustrated Second Series 1862 (cost $140.30). Decision: recase, then sell. 3 to 6 months.
 As it sits (loose leaves, bright original gilt cloth, engraved title present, about 40 of 43 plates): auction value A$300-330 (Forum 2021, Bearnes 2016). Recased in the original cloth: A$1,400 (Peter Arnold 2020; Leski 2024) and A$2,200 (Leski 2022, 41 plates, fine cloth).
 
+Venue: Leski Auctions, Armadale, Melbourne (727-729 High Street; +61 3 8539 6150; mail@leski.com.au). Leski sold both top copies (A$2,200 Dec 2022, A$1,400 May 2024) in its Australian & Historical sales, which have a Books, Plates, Documents & Ephemera section. Next sale: Sat 21 Nov 2026 (catalogue "online soon", so entries are all but closed); the one after is likely about May 2027. Leski's buyer's premium is 24.5%; its vendor commission is not published, so ask.
+
 Recommended path:
-1. Collate first. List present and missing plates against the book's own list of plates. The number decides the description and the price.
-2. Get two photo quotes for a conservation recase: resew the text block, reattach the original cloth case, new endpapers only if needed, keep all original material. Do not have it rebound in new cloth. No Tasmanian hand binder turned up in searches; ask Fullers (Hobart), Petrarch's (Launceston) or the Tasmanian Archives for a local referral, and get mainland quotes from Ariad Bookbinding (Melbourne, takes books by post, quotes from photos) or Newbold & Collins (Sydney). Budget A$300-500; the quote will tell.
-3. If the quote is under about A$600 and at least 40 plates are present: recase, then consign to ABA or Leski. Expect A$1,000-1,500 hammer, roughly A$850-1,250 net, less the binder.
-4. If the quote is high or plates are badly short: sell as is at ABA/Leski (net ~A$250-280) or offer it to a dealer.
+1. Collate first (Thursday). Complete = engraved title + 43 plates (British Museum and NLA both say 43), each with a facing letterpress leaf and a tissue guard. The last letterpress leaf is also easy to lose. List present and missing plates by title. The count decides the description and the estimate. The 2022 Leski copy had only 41 plates and still made A$2,200 because the cloth was fine, so a plate or two short is not fatal; condition is.
+2. Email Leski's book specialist this week with photos (cloth, engraved title, a spread, the broken binding, your plate count). Ask two things: would they estimate it higher recased in its original cloth, and can they recommend a Melbourne binder they trust. Their answer sets the path.
+3. Recase before selling (expected answer). Conservation recase: resew the text block, reattach the original cloth case, new endpapers only if needed, keep all original material. Not a rebind in new cloth. Quotes from photos: Ariad Bookbinding (Melbourne, takes books by post), Newbold & Collins (Sydney), plus any Leski referral; for a Tasmanian name ask Fullers (Hobart), Petrarch's (Launceston) or the Tasmanian Archives. Budget A$300-500. Then consign to Leski for the autumn 2027 Australian & Historical sale, with the recasing disclosed. Expect A$1,000-1,500 hammer if 40+ plates and the cloth stays bright.
+4. Fallback only if Leski says sell as is, or the quote is high or the plates badly short: consign as is to Leski in November (a loose copy made about A$305-325 at Forum and Bearnes) or offer it to a dealer.
 Do not break it for the plates: slower, and it destroys a scarce book.
 
 ## Timeline
 - Thu 22 Oct: pay, collect, inspect, photograph.
-- Fri 23 Oct: list the four Monroe cards; email dealers (Warburton) and binders (924).
-- By 7 Nov: decide Warburton (dealer vs ABA); list the battalion histories; post 924 to the binder; group-lot the remaining cards.
-- Nov-Dec: ABA consignment if needed (ABA sale 119 was Sep 2026; the next is being scheduled).
-- Jan-Mar 2027: 924 back from binder, consign.
+- Fri 23 Oct: list the four Monroe cards; email dealers (Warburton); email Leski's book specialist about 924 (recase or not, binder referral).
+- By 7 Nov: decide Warburton (dealer vs ABA); list the battalion histories; get binder quotes and post 924; group-lot the remaining cards.
+- Nov-Dec: ABA consignment if needed (ABA sale 119 was Sep 2026; the next is being scheduled). Leski 21 Nov is too soon for a recased 924.
+- Jan-Mar 2027: 924 back from the binder; consign to Leski for the autumn 2027 Australian & Historical sale.
 
 ## Expected outcome
 Net after fees: lot 64 A$600-850; lot 943 A$700-950; lot 924 A$250 as is, or about A$700-1,100 after recasing costs. Total roughly A$1,550-2,050 as is, A$2,000-2,900 with 924 recased, against A$616 outlay.
