@@ -1,0 +1,89 @@
+{
+ "cdid": 445513,
+ "lot": 533,
+ "identification": "Nintendo 64 console (PAL/NTSC not visible) with Turok sticker decals over the lid and top, green and grey controllers, power pack, one loose cartridge (Turok-like label). Cables look tangled; no AV lead or RF lead visible, so likely cannot be hooked up without extras. Untested.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$210 hammer",
+   "currency": "AUD",
+   "aud_price": 210,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nintendo%2064%20console&page%5Bnumber%5D=1 (lot id 439147)",
+   "same_item": "close",
+   "note": "N64 console only, 16 bids; condition not stated. Page opened via API; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-08-30",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nintendo%2064%20console&page%5Bnumber%5D=1 (lot id 434228)",
+   "same_item": "yes",
+   "note": "N64 console and controller etc, 16 bids; closest in scope. Page opened via API; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$170 hammer",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nintendo%2064%20console&page%5Bnumber%5D=1 (lot id 414910)",
+   "same_item": "close",
+   "note": "Console with assorted games, 20 bids. Page opened via API; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$190 hammer",
+   "currency": "AUD",
+   "aud_price": 190,
+   "date": "2026-01-19",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nintendo%2064%20console&page%5Bnumber%5D=1 (lot id 384156)",
+   "same_item": "close",
+   "note": "Console, 2 games, 3 controllers, 34 bids; fuller bundle. Page opened via API; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150 hammer",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2025-11-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nintendo%2064%20console&page%5Bnumber%5D=1 (lot id 374190)",
+   "same_item": "close",
+   "note": "Console with expansion pak, 18 bids. Page opened via API; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$110 hammer",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2025-11-03",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nintendo%2064%20console&page%5Bnumber%5D=1 (lot id 372198)",
+   "same_item": "close",
+   "note": "Console with steering wheel, 5 bids; weakest. Page opened via API; premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "about $55 to $60 per tested controller",
+   "currency": "AUD",
+   "aud_price": 57,
+   "date": "live, seen 2026-10-21",
+   "venue": "eBay AU (search result summary)",
+   "url": "https://www.ebay.com.au/b/Nintendo-64-Controllers/117042/bn_201086",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Retail tested controller asking; auction bundles sell well under this."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for nintendo 64 console and n64 console; Gowans API search nintendo 64 console (6 past sold console lots); WebSearch for AU N64 console auctions (only a snippet-only retail asking price, Theodore Bruce catalogue found but no result); PriceCharting console page returned nothing; retail sites gave no usable prices. eBay AU sold listings would settle it best.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold listings: Nintendo 64 console controllers power supply used (Sold items, Australia)",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Check console number plate for PAL and region, whether the stickers peel off cleanly, whether an AV lead is present (none seen in photo), cartridge title, controller stick wear and cracks; ask if it can be powered up."
+}

@@ -365,7 +365,8 @@ def main():
     inter = [f for f in flagged if any('interstate' in e['tags'] for e in f['bidders'])]
     towns = sorted({f"{e['town']} {e['state']}".strip() for f in inter for e in f['bidders'] if 'interstate' in e['tags']})
     spec = sum(1 for f in flagged if any('specialist' in t for e in f['bidders'] for t in e['tags']))
-    lines = [f"Armitage {cat.get('name')}: bidder scan, {len(flagged)} lots with interstate or known bidders", '',
+    gw = chid.startswith('gowans')
+    lines = [f"{'' if gw else 'Armitage '}{cat.get('name')}: bidder scan, {len(flagged)} lots with interstate or known bidders", '',
              f"{len(flagged)} lots carry a signal from their bidders: {len(inter)} with an interstate bidder"
              + (f" ({', '.join(towns[:12])})" if towns else '') + f", {spec} with a specialist, {sum(1 for f in flagged if f['crowd'])} with 4 or more bidders. "
              + (f"{len(to_research)} had not been valued and are being scanned and researched now. " if to_research else '')
@@ -382,7 +383,7 @@ def main():
             lines.append(f"... and {len(flagged) - args.top} more in bidders.json")
     if unknown:
         lines += ['', f"Hometowns not known to be Tasmanian (treated as unknown, not interstate): {', '.join(sorted(unknown)[:20])}"]
-    lines += ['', f"Catalogue: {BASE}/catalogue-group.aspx?chid={chid}"]
+    lines += ['', 'Catalogue: https://www.gowansauctions.com.au/' if gw else f"Catalogue: {BASE}/catalogue-group.aspx?chid={chid}"]
     print('\n'.join(lines))
 
 
