@@ -44,8 +44,10 @@ QUERIES = [
     "old books", "books", "box of books", "book collection", "antique books", "rare books",
     "antique", "vintage", "watch", "pocket watch", "old watch",
     "deceased estate", "estate", "clearing out", "garage sale", "box of",
-    "collectables", "collection", "jewellery", "gold", "silver", "coins",
-    "stamps", "pottery", "painting", "first edition", "militaria",
+    "collectables", "jewellery", "gold", "silver", "coins",
+    "stamps", "pottery", "painting", "first edition",
+    # Dropped: "militaria" (Facebook returns clothing) and "collection" ("collection
+    # from Hadspen" in clothing ads). Both cost per listing and never matched a real item.
 ]
 
 
