@@ -50,6 +50,15 @@ Recommended path:
 4. Fallback only if Leski says sell as is, or the quote is high or the plates badly short: consign as is to Leski in November (a loose copy made about A$305-325 at Forum and Bearnes) or offer it to a dealer.
 Do not break it for the plates: slower, and it destroys a scarce book.
 
+Complete-copy evidence (44 = engraved title + 43 plates), found 21 Oct 2026:
+- SOLD A$1,400, Peter Arnold (Korju collection), Melbourne, 29 Nov 2020, lot 159: 44 plates incl. pictorial title, recased in original gilt green cloth (slightly worn), gilt edges, minimal foxing, est A$500-600. Invaluable displayed price; premium basis not stated. The template for this plan.
+- SOLD GBP 170 (about A$325), Bearnes Hampton & Littlewood, Exeter, 23 Mar 2016, lot 362: 44 plates [complete], original cloth worn, est GBP 180-220. Read from Invaluable page code. Shows the UK has no buyers for it.
+- Probably complete, not stated: Leski May 2024, A$1,400, original gilt cloth.
+- Not complete but top price: Leski Dec 2022, A$2,200, engraved title + 41 plates, fine cloth. Condition outranks completeness.
+- ASKING only: Maggs Bros London US$723 (44 plates, tissue guards); a complete rebacked copy A$2,598; Antique Print Room A$475 (old listing); Renaissance Books NZ NZ$1,072 (morocco, half the plates loose).
+- Blocked from here (bot checks): Invaluable, LiveAuctioneers, the-saleroom, Bonhams, Leski lot archive, NLA and British Museum records. Use Chrome for a fuller sweep and the plate list.
+
+
 ## Timeline
 - Thu 22 Oct: pay, collect, inspect, photograph.
 - Fri 23 Oct: list the four Monroe cards; email dealers (Warburton); email Leski's book specialist about 924 (recase or not, binder referral).
