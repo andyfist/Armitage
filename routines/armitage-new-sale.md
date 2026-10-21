@@ -44,7 +44,15 @@ If `pipeline/new_sales.py` is still missing, reply "new-sale check is not on mai
    c. Bid check: `python3 pipeline/assess.py <chid>` prints the "first pass done" email;
       send it to andyfist@gmail.com with subject "Armitage <name>: first pass, <PASS> lots pass the $200 rule".
       Then `python3 pipeline/stage.py <chid> researched` (no email needed for that one).
-   d. Commit the sale's files (photos, sheets, crops and per-lot files are ignored by git)
+   d. Chrome list: `python3 pipeline/chrome_brief.py <chid>` writes `pipeline/sales/<chid>/chrome_brief.md`
+      (the hand-over for the Chrome research chat, which Andy runs on Sonnet) and
+      `chrome_email.txt` (how to start that chat), and prints how many lots are in it. Then run
+      `python3 pipeline/stage.py <chid> chrome_list --note "<n> lots to research in Chrome" --body pipeline/sales/<chid>/chrome_email.txt`
+      and email its output. Skip this step and its email when the brief holds no lots.
+   e. Photo list: `python3 pipeline/photo_list.py <chid>` writes `pipeline/sales/<chid>/photo_list.md`
+      and prints the email (first line is the subject): send it to andyfist@gmail.com.
+      Then `python3 pipeline/stage.py <chid> photo_list` (no email needed for that one).
+   f. Commit the sale's files (photos, sheets, crops and per-lot files are ignored by git)
       and the state: `git add pipeline/sales/<chid> pipeline/state/sales.json && git commit -m "Armitage <chid>: funnel" && git push origin main`.
 6. Reply in one short line: catalogues on the site, new ones found, emails sent, funnel
    stages run, anything that failed. Commit nothing else and send no other email.

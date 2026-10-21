@@ -94,7 +94,8 @@ def main():
         out = {'cdid': cdid, 'lot': c.get('lot'), 'title': c.get('title'), 'strength': c.get('strength'), 'findings': c.get('findings'),
                'condition': c.get('condition'), 'current_bid': current, 'bid_count': b.get('bid_count'), 'close': b.get('close'),
                'identification': (m or {}).get('identification'), 'researched': m is not None, 'needs_chrome': bool((m or {}).get('needs_chrome')),
-               'chrome_hint': (m or {}).get('chrome_hint', ''), 'sold': [], 'sold_old': [], 'unsold': [], 'asking': [], 'resale': 0,
+               'chrome_hint': (m or {}).get('chrome_hint', ''), 'chrome_done': bool((m or {}).get('chrome_done')),
+               'sold': [], 'sold_old': [], 'unsold': [], 'asking': [], 'resale': 0,
                'net_resale': 0, 'max_hammer': 0, 'status': '', 'why': ''}
         for e in (m or {}).get('entries', []):
             price = float(e.get('aud_price') or 0)
@@ -131,9 +132,11 @@ def main():
             out['why'] = 'no sold evidence and a weak photo score'
         lots.append(out)
 
-    chrome = [x for x in lots if x['status'] in ('PASS', 'CHROME')]
-    # browser research goes to every lot that passes or might pass, best prospects first
+    # browser research goes to every lot that passes or might pass, best prospects first;
+    # a lot already researched in Chrome (chrome_import.py sets chrome_done) is not sent again
+    chrome = [x for x in lots if x['status'] in ('PASS', 'CHROME') and not x['chrome_done']]
     chrome.sort(key=lambda x: (-(x['max_hammer'] or 0), -(x['strength'] or 0)))
+    chrome_done = sum(1 for x in lots if x['chrome_done'])
     counts = {s: sum(1 for x in lots if x['status'] == s) for s in ('PASS', 'CHROME', 'FAIL', 'DROP', 'NOT RESEARCHED')}
     result = {'chid': args.chid, 'name': cat.get('name'), 'assessed': today.isoformat(), 'rule': vars(args), 'scanned': scanned,
               'candidates': len(lots), 'counts': counts, 'lots': lots}
@@ -152,7 +155,8 @@ def main():
         if len(passes) > args.top:
             lines.append(f"... and {len(passes) - args.top} more in assessment.json")
         lines.append('')
-    lines.append(f"Chrome list: {len(chrome)} lots in chrome_list.json (passes first, then lots with no sold price yet).")
+    lines.append(f"Chrome list: {len(chrome)} lots in chrome_list.json (passes first, then lots with no sold price yet)."
+                 + (f" {chrome_done} lots already researched in Chrome." if chrome_done else ''))
     lines.append("Maximums are provisional until the Chrome research confirms them. Only a SOLD price with a link and a date sets a maximum.")
     text = '\n'.join(lines)
     open(os.path.join(D, 'assessment_email.txt'), 'w').write(text + '\n')
