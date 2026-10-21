@@ -1,0 +1,56 @@
+{
+ "cdid": 445086,
+ "lot": 106,
+ "identification": "Perth Mint 2010 Saint Mary MacKillop 1/10oz 99.99 gold proof $15, coloured reverse, 2010 mintage reported 2,010 (coinnews/coinsweekly snippets), issue price AUD 275 in 2010. Photos show coin in capsule, grey case, blue outer box and COA; all look genuine and complete.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "AUD 240 hammer",
+   "currency": "AUD",
+   "aud_price": 240,
+   "date": "2022-11-22",
+   "venue": "Noble Numismatics, Sydney sale 131 lot 3145",
+   "url": "https://www.noble.com.au/auctions/lot/?id=402321",
+   "same_item": "yes",
+   "note": "Same 2010 MacKillop 1/10oz proof gold; lot says missing outer (box). Local DB hit, page not opened. Hammer, premium extra. Gold was far lower then."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 240 hammer",
+   "currency": "AUD",
+   "aud_price": 240,
+   "date": "2021-08-30",
+   "venue": "Noble Numismatics, Sydney sale 127 lot 246",
+   "url": "https://www.noble.com.au/auctions/lot/?id=381164",
+   "same_item": "yes",
+   "note": "Same coin, FDC. Local DB hit, page not opened. Hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 180 hammer",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2019-07-30",
+   "venue": "Noble Numismatics, Sydney sale 121 lot 492",
+   "url": "https://www.noble.com.au/auctions/lot/?id=355353",
+   "same_item": "yes",
+   "note": "Same coin, in case with certificate. Local DB hit. Hammer; old, gold much lower."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 170 hammer",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2019-04-02",
+   "venue": "Noble Numismatics, Sydney sale 120 lot 308",
+   "url": "https://www.noble.com.au/auctions/lot/?id=350635",
+   "same_item": "yes",
+   "note": "Same coin, in case with certificate. Local DB hit. Hammer; old."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for mackillop/gold/proof/perth mint; Gowans API (only a 2026 medallion at $25 hammer, not same item); WebSearch x4 (price, auction, Noble, dealer): no current dealer or recent auction results found, only issue details. Gold spot seen 21/10/2026 USD 4130.5/oz (gold-api.com), implying melt of 0.1oz fine gold about USD 413 = AUD 590 at 1.4286 (open.er-api.com); melt is a floor reference, not a sale. All Noble results predate the gold rally so understate today's value; eBay sold (Perth Mint 1/10 gold proof recent) would settle it.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold listings: 2010 Mary MacKillop 1/10 oz gold proof Perth Mint; also Perth Mint 1/10oz gold proof $15 recent sold for gold-price comparison",
+ "viewing_check": "Confirm coin is the gold issue (weight ~3.11g if allowed, no marks on capsule), certificate number present and matches 2,010 limit, no fingerprints or spotting on proof surface, box and COA included.",
+ "rate_note": "AUD per USD 1.4286 on 2026-10-21; melt about AUD 590. Noble prices are hammer, premium extra, not adjusted for gold price."
+}

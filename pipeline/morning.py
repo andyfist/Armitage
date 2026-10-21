@@ -63,10 +63,11 @@ def main():
     first = clock((bids.get(str(today[0]['cdid'])) or {}).get('close') or today[0].get('close')) if today else '?'
     last = clock((bids.get(str(today[-1]['cdid'])) or {}).get('close') or today[-1].get('close')) if today else '?'
     passes = sum(1 for c, _ in watch if 'max $' in _)
-    lines = [f"Armitage {cat.get('name')}: {len(today)} lots close today, {len(watch)} to watch (first {first}, last {last})", '',
+    gw = args.chid.startswith('gowans')
+    lines = [f"{'' if gw else 'Armitage '}{cat.get('name')}: {len(today)} lots close today, {len(watch)} to watch (first {first}, last {last})", '',
              f"{len(today)} lots close today, {day.strftime('%A %d %B')}, from {first} to {last} Hobart time. {len(watch)} of them are worth watching: "
-             f"{passes} with a maximum, {len(watch) - passes} still without one. Bid at {BASE}/catalogue-group.aspx?chid={args.chid}", '',
-             'A maximum is the most to pay as a hammer price; the 22% premium is already allowed for. Do not go over it.', '']
+             f"{passes} with a maximum, {len(watch) - passes} still without one. Bid at {'https://www.gowansauctions.com.au/' if gw else BASE + '/catalogue-group.aspx?chid=' + args.chid}", '',
+             f"A maximum is the most to pay as a hammer price; the {'19.8%' if gw else '22%'} premium is already allowed for. Do not go over it.", '']
     for c, line in watch[:args.top]:
         lines.append(line)
     if len(watch) > args.top:

@@ -19,7 +19,7 @@ Not scraped, and why:
 - **Leski** (Melbourne, coins and banknotes): the results pages return HTTP 403 (CloudFront block) to the cloud, so `leski/` was collected with the Chrome brief on Andy's computer instead.
 - **Lawsons**: "Access Denied" page on every request, so left alone.
 - **Davidson** (Sydney): the results search came back empty to a plain request (it seems to need a browser session), and the sales are almost all art.
-- **eBay**: 403 from the cloud. `ebay/` came from `CHROME_BRIEF_ebay.md` run on Andy's computer (Terapeak, 21 Oct 2026). Re-run it to add a new `ebay/sale_<date>.json`.
+- **eBay**: 403 from the cloud. `ebay/` came from `CHROME_BRIEF_ebay.md` run on Andy's computer (Terapeak, 21 Oct 2026); the brief reads sold prices from Terapeak (eBay Seller Hub), which looks back further than plain eBay sold search. Re-run it to add a new `ebay/sale_<date>.json`.
 
 `SEARCH_COUNTS_ebay_leski.md` lists every eBay search (rows found, kept, sold-date span, why rows were dropped) and every Leski auction included or left out. Read its first section before pricing from these two: eBay prices are what the buyer paid (`premium_included` true), Leski prices are hammer only (add about 21.45% to compare), Terapeak shows at most 100 rows per search so many eBay searches only cover recent months, and the general book searches include cheap modern books. `ebay/drops_2026-10-21.json` holds every eBay row left out, with the reason. `leski/leski_archive.tsv` is Leski's full auction list; the two `*_categories.tsv` files record how each Leski lot was given its category (manual fixes and AI-assigned).
 - Noble sale 889 (eNZ1, New Zealand medals) has no lots recorded on its page.
