@@ -44,10 +44,11 @@ def main():
     if args.max:
         chrome = chrome[:args.max]
 
-    out = [f"# Armitage {cat['name']}: Chrome price research", '',
+    GW = args.chid.startswith('gowans')  # Gowans sale (pipeline/prep_gowans.py)
+    out = [f"# {'' if GW else 'Armitage '}{cat['name']}: Chrome price research", '',
            f"For a Claude session on the home computer, using Claude in Chrome (your own signed-in browser). "
            f"**Run it on Sonnet** (pick Sonnet in the model menu before starting; the work is searching and reading, not reasoning). "
-           f"Lots close from {cat.get('close_first')} to {cat.get('close_last')} (Hobart time). Buyer's premium 22%. "
+           f"Lots close from {cat.get('close_first')} to {cat.get('close_last')} (Hobart time). Buyer's premium {'19.8%' if GW else '22%'}. "
            f"{len(chrome)} lots, best prospects first; it is fine to stop part way and hand back what is done.", '',
            RULES,
            '## Output', '',
@@ -78,9 +79,12 @@ def main():
         find = x.get('chrome_hint') or 'Find SOLD prices for this exact item (eBay sold listings first, then LiveAuctioneers and Invaluable results), and note condition differences.'
         out.append(f"**Find:** {find}")
         pid, n = lot.get('photo_id'), lot.get('photo_count') or 0
-        if pid and n:
+        if lot.get('photo_urls') and n:
+            out.append('**Photos:** ' + ' '.join(f"[{i}]({u})" for i, u in enumerate(lot['photo_urls'], 1)))
+        elif pid and n:
             out.append('**Photos:** ' + ' '.join(f"[{i}]({BASE}/images/products/{pid}_{i}.jpg)" for i in range(1, n + 1)))
-        out.append(f"**Lot page (read only, for the photos):** {BASE}/catalogue_detail.aspx?cdid={x['cdid']}&chid={args.chid}&category=ALL&style=group")
+        if not GW:
+            out.append(f"**Lot page (read only, for the photos):** {BASE}/catalogue_detail.aspx?cdid={x['cdid']}&chid={args.chid}&category=ALL&style=group")
         out.append('')
     path = os.path.join(D, 'chrome_brief.md')
     open(path, 'w').write('\n'.join(out))
@@ -88,7 +92,7 @@ def main():
     email = [f"{len(chrome)} lots are in the brief, best prospects first: " +
              ', '.join(f"lot {x['lot']} ({x['title'][:40]})" for x in chrome[:8]) + (' ...' if len(chrome) > 8 else '') + '.', '',
              'To run it: on the home computer, with Claude in Chrome connected, start a new chat in the Auction scans project saying '
-             f'"Chrome research for Armitage {args.chid}, use Sonnet". The brief is pipeline/sales/{args.chid}/chrome_brief.md '
+             f'"Chrome research for {'Gowans' if GW else 'Armitage'} {args.chid}, use Sonnet". The brief is pipeline/sales/{args.chid}/chrome_brief.md '
              f'(https://github.com/andyfist/armitage/blob/main/pipeline/sales/{args.chid}/chrome_brief.md). '
              'It can run all night, and stopping part way is fine.']
     open(os.path.join(D, 'chrome_email.txt'), 'w').write('\n'.join(email) + '\n')

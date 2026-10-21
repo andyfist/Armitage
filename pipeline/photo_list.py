@@ -13,12 +13,15 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = 'https://armitage.bidsonline.com.au'
+HOUSE = None  # set in main: 'Gowans' for gowans<id> sales, else 'Armitage'
 
 
 def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
     chid = sys.argv[1]
+    global HOUSE
+    HOUSE = 'Gowans' if chid.startswith('gowans') else 'Armitage'
     D = os.path.join(ROOT, 'pipeline', 'sales', chid)
     cat = json.load(open(os.path.join(D, 'cat.json')))
     a = json.load(open(os.path.join(D, 'assessment.json')))
@@ -38,22 +41,22 @@ def main():
     rows.sort(key=lambda r: (r['lot'] or 0))
     need_photo = [r for r in rows if r['check']]
 
-    out = [f"# Armitage {cat['name']}: viewing list", '',
+    out = [f"# {'' if chid.startswith('gowans') else 'Armitage '}{cat['name']}: viewing list", '',
            f"{len(rows)} lots to look at ({sum(1 for r in rows if r['status'] == 'PASS')} pass the $200 rule on current evidence, "
            f"{sum(1 for r in rows if r['status'] == 'CHROME')} still need a price). {len(need_photo)} need a specific photo or check. "
            f"Lots close from {cat.get('close_first')} to {cat.get('close_last')}. Viewing at 9 Goodman Crt, Invermay.", '',
            'Photograph everything in daylight: the whole item, then the detail asked for. Upload the photos in a new chat in the Auction scans project, '
-           f'saying "viewing photos for Armitage {chid}", and name each photo by lot number (for example 924-title-page.jpg).', '',
+           f'saying "viewing photos for {HOUSE} {chid}", and name each photo by lot number (for example 924-title-page.jpg).', '',
            '| Lot | What it is | Look at / photograph | Max (provisional) | Bid now | Closes |', '|---|---|---|---|---|---|']
     for r in rows:
         what = r['what'] or r['title']
         check = r['check'] or ('general condition: ' + r['condition'] if r['condition'] else 'general condition and completeness')
         out.append(f"| {r['lot']} | {what} | {check} | {'$' + format(r['max'], ',') if r['max'] else 'none yet'} | ${r['bid']:,.0f} | {r['close']} |")
-    out += ['', f"Lot pages: {BASE}/catalogue-group.aspx?chid={chid}"]
+    out += ['', 'Lot pages: https://www.gowansauctions.com.au/' if chid.startswith('gowans') else f"Lot pages: {BASE}/catalogue-group.aspx?chid={chid}"]
     path = os.path.join(D, 'photo_list.md')
     open(path, 'w').write('\n'.join(out) + '\n')
 
-    email = [f"Armitage {cat['name']}: photo request list ready", '',
+    email = [f"{'' if chid.startswith('gowans') else 'Armitage '}{cat['name']}: photo request list ready", '',
              f"{len(rows)} lots to look at, {len(need_photo)} of them with a specific photo or check. The list is in the repo at pipeline/sales/{chid}/photo_list.md "
              f"(https://github.com/andyfist/armitage/blob/main/pipeline/sales/{chid}/photo_list.md).", '',
              'The ones that need a specific photo:']
@@ -61,7 +64,7 @@ def main():
         email.append(f"- Lot {r['lot']}: {r['check']} ({r['title'][:50]})")
     if len(need_photo) > 40:
         email.append(f"... and {len(need_photo) - 40} more in the list")
-    email += ['', f'To send the photos: start a new chat in the Auction scans project saying "viewing photos for Armitage {chid}" and upload them there. '
+    email += ['', f'To send the photos: start a new chat in the Auction scans project saying "viewing photos for {HOUSE} {chid}" and upload them there. '
               'You get an answer on each lot as the photos arrive.',
               f"Lots close from {cat.get('close_first')} to {cat.get('close_last')}."]
     print('\n'.join(email))

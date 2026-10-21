@@ -52,7 +52,7 @@ const TITLE_SCHEMA = {
 }
 
 function titlePrompt(n) {
-  return `You are the title pass for ${NAME}. It is a general online auction run from Invermay, Launceston: china, pottery, glass, silver, metalware, woodware, jewellery, art, coins, books, tools and collectables. ${RULES}
+  return `You are the title pass for ${NAME}. It is a general auction (${args.venue || "run from Invermay, Launceston"}): china, pottery, glass, silver, metalware, woodware, jewellery, art, coins, books, tools and collectables. ${RULES}
 Task: read ${W}/titles/in_${n}.json, a list of lots with cdid, lot, title and description (the catalogue's own words, often vague or wrong). Decide for each lot whether its PHOTOS deserve a look. Nothing else happens to a dropped lot, so when in doubt keep it.
 KEEP a lot if any of these hold: it could plausibly resell for $200 or more net of fees (so roughly $250+ on the open market); the title is vague, bulk or unidentified ("box of", "quantity of", "assorted", "collection", "unknown maker"), because mislabelled lots are where the bargains are; it names or hints at a maker, artist, brand, period, material (gold, silver, bronze, Huon pine, blackwood, cedar), origin (Tasmanian, colonial, Aboriginal, Japanese, Chinese) or age that collectors pay for; it is a category collectors chase even when cheap-looking (tools, axes, scientific instruments, fishing tackle, model trains, toys, games, advertising, signs, tins, enamelware, taxidermy, textiles, quilts, rugs, lamps, clocks, sewing machines, typewriters, cameras, radios, vintage electronics, sporting memorabilia, music instruments); or anything you cannot picture from the words.
 DROP a lot only when it is clearly ordinary household goods with no collector market: modern kitchenware, generic glassware and crockery, everyday linen, modern prints and decor, modern garden tools, plastic, flat-pack, exercise gear, modern electronics, large furniture, whitegoods, vehicles, or anything that would clearly sell for under about $80 even in perfect condition.
@@ -95,7 +95,7 @@ const SCAN_SCHEMA = {
 function scanPrompt(b, retryList) {
   const scope = retryList ? `ONLY these cdids from the batch: ${retryList.join(', ')}` : `all ${b.ids.length} lots in the batch`
   const ids = b.ids.join(' ')
-  return `You are a scan agent for ${NAME}. It is a general online auction run from Invermay, Launceston: china, pottery, glass, silver, metalware, woodware, jewellery, art, coins, books, tools and collectables. ${RULES}
+  return `You are a scan agent for ${NAME}. It is a general auction (${args.venue || "run from Invermay, Launceston"}): china, pottery, glass, silver, metalware, woodware, jewellery, art, coins, books, tools and collectables. ${RULES}
 Task: scan ${scope} and return a summary. The batch is cdids ${ids}.
 
 1. ${retryList ? '(retry run, skip this step)' : `If ${W}/scans/${b.tag}.json already exists, a previous run finished this batch: run "python3 -I ${P}/merge_scan.py ${W} ${b.tag} ${ids}" and return its printed JSON as your result. Stop.`}
