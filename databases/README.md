@@ -17,7 +17,7 @@ Not scraped, and why:
 - **Leski** (Melbourne, coins and banknotes): the results pages return HTTP 403 (CloudFront block) to the cloud. Included in the Chrome brief instead.
 - **Lawsons**: "Access Denied" page on every request, so left alone.
 - **Davidson** (Sydney): the results search came back empty to a plain request (it seems to need a browser session), and the sales are almost all art.
-- **eBay**: 403 from the cloud. See `CHROME_BRIEF_ebay.md`, which Andy's computer can run.
+- **eBay**: 403 from the cloud. See `CHROME_BRIEF_ebay.md`, which Andy's computer can run; it reads sold prices from Terapeak (eBay Seller Hub), which looks back further than plain eBay sold search.
 - Noble sale 889 (eNZ1, New Zealand medals) has no lots recorded on its page.
 
 ## Record format

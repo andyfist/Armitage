@@ -1,25 +1,46 @@
-# Chrome brief: eBay sold prices (and Leski results) for the price database
+# Chrome brief: eBay sold prices via Terapeak (and Leski results) for the price database
 
-**Who runs this:** Claude in Chrome on Andy's computer (Claude Desktop open, computer awake).
-The cloud cannot do this part: eBay returns 403 to it, and Leski's results pages sit behind
-a CloudFront block. Both open normally in Andy's own browser.
+**Use Sonnet for this chat** (pick Sonnet in the model menu, or say "use Sonnet").
+
+**Who runs this:** Claude in Chrome on Andy's computer (Claude Desktop open, computer awake),
+signed in to Andy's own eBay account. The cloud cannot do this part: eBay returns 403 to it,
+and Leski's results pages sit behind a CloudFront block. Both open normally in Andy's browser.
 
 **Paste this into a new Claude Desktop chat with the Chrome extension switched on.**
 
 ---
 
 You are building a sold-price list for coins and books, to help judge lots at Tasmanian
-auctions. Read pages only. Never bid, buy, message sellers or change any account setting.
-Go at a human pace (a few seconds between pages). If eBay shows a captcha or "unusual
-activity" page, stop and tell Andy.
+auctions. Read pages only. Never bid, buy, list, message sellers or change any account
+setting. Go at a human pace (a few seconds between pages). If eBay shows a captcha or
+"unusual activity" page, stop and tell Andy.
 
-## 1. eBay Australia sold listings
+## 1. eBay sold prices from Terapeak (Seller Hub, Product Research)
 
-For each search below, open
+Terapeak is eBay's research tool inside Seller Hub. It shows real sold prices and looks back
+much further than the normal "sold items" search.
+
+**Getting in.** Open `https://www.ebay.com.au/sh/research` (or Seller Hub, then Research, then
+Product Research). **If you see a prompt to register as a seller, a "not available" message, or
+a login that fails, stop and tell Andy plainly:** he may need to switch on Seller Hub / Terapeak
+on his eBay account first (free for most accounts; eBay may ask for a seller registration or
+subscription). Do not fill in registration or payment forms yourself. If Terapeak will not
+open at all, say so and offer the fallback: eBay sold search at
 `https://www.ebay.com.au/sch/i.html?_nkw=<words>&LH_Sold=1&LH_Complete=1&_sop=13&_ipg=240&LH_PrefLoc=1`
-(sold and completed, Australia only, newest first, 240 per page). Read the first page only.
-Record **sold** listings only (green price, "Sold" date). Skip "Best offer accepted" when the
-real price is hidden, and skip lots that are clearly reproductions.
+(only the last few months, so tell Andy it is the weaker option).
+
+**For each search below:**
+1. In Product Research, choose the **Sold** tab (not Active).
+2. Type the keywords and search.
+3. Set the date range to the **longest one offered** (the dropdown usually goes up to 365
+   days; use anything longer if Andy's account offers it, for example two years). Note which
+   range you used.
+4. Set the marketplace/site to **eBay Australia** (Australian dollars). Leave condition on all.
+5. Read the sold-listings table: title, sold price, shipping, condition and sold date, plus the
+   listing link where Terapeak shows one. Page through up to about 100 rows per search, newest
+   first. Stop earlier if the rows stop matching the search.
+6. Skip rows with a hidden price ("Best offer accepted" without a real price) and anything
+   clearly a reproduction.
 
 Coins and notes (category `coins`):
 - 1930 penny; 1923 halfpenny; 1925 penny; 1946 penny
@@ -56,8 +77,11 @@ One JSON object per sold item, in this exact shape:
  "url": "https://www.ebay.com.au/itm/<item number>", "category": "coins"}
 ```
 
-- eBay: `sale` is today's date (the day you searched), `date` is the sold date, `hammer_aud`
-  is the item price without postage, `premium_included` true (no buyer's premium on eBay).
+- eBay (Terapeak): `sale` is today's date (the day you searched), `date` is the sold date,
+  `hammer_aud` is the item price without postage, `premium_included` true (no buyer's premium
+  on eBay). Put the shipping cost, the search words and the date range used in `description`,
+  e.g. "condition Used; postage $12; Terapeak 'Australian florin 1932', 365 days". If Terapeak
+  gives no item number, use `lot` "terapeak-<row number>" and leave `url` as the Terapeak page.
 - Leski: `source` "leski", `sale` the auction id number, `lot` the lot number, `date` the
   auction date, `hammer_aud` the price shown, `premium_included` false, `url` the prices
   realised page.
@@ -68,5 +92,5 @@ Armitage repo. If you cannot write files, put the JSON in your reply and Andy wi
 into a cloud chat to be committed. `python3 -I databases/load.py <words>` picks the new files
 up automatically.
 
-Also record, at the end, how many sold items each search returned, so we know which searches
+Also record, at the end, how many sold items each search returned (and the date range used), so we know which searches
 are worth repeating.

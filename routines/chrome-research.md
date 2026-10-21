@@ -9,7 +9,7 @@ Needs: repo andyfist/armitage (`main`), Claude in Chrome on Andy's computer (his
 signed-in eBay, LiveAuctioneers, Invaluable and whatever else he has accounts for), Gmail.
 
 The cloud research (pipeline/wf_funnel.js) finds what it can on the open web. This
-stage uses Andy's signed-in browser to get what the cloud cannot: eBay sold listings and
+stage uses Andy's signed-in browser to get what the cloud cannot: eBay sold prices (Terapeak in Seller Hub first, which looks back furthest, then plain sold listings) and
 auction results behind a login. It is the last word on a lot's value, and a maximum bid
 is final only after it.
 
