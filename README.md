@@ -27,7 +27,9 @@ Facebook Marketplace (new listings since the last run, 100 km around 7250):
 ```sh
 # quick scan: titles, prices, one photo; ~US$0.02 a run, fine to run hourly
 python3 scraper/marketplace.py --no-details --state armitage-7250-quick -o data/fb_quick.json --photos data/fb_photos --max-spend 0.10
-# full scan: descriptions and galleries; ~US$0.45 a run, so weekly or on demand
+# lookup: gallery and description for one shortlisted listing; ~US$0.02 a title
+python3 scraper/marketplace.py --lookup "The Shannon Rise by R.H. Wigram" -o data/fb_lookup.json --photos data/fb_photos
+# full scan: details for everything new; ~US$0.45 a run, so on demand only
 python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos --max-spend 0.75
 ```
 

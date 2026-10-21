@@ -35,13 +35,18 @@ listings new or changed since its own last run.
 - **Quick scan (hourly):** `python3 scraper/marketplace.py --no-details --state
   armitage-7250-quick -o data/fb_quick.json --photos data/fb_photos --max-spend 0.10`.
   Title, price, suburb, one photo and the link; no description. About US$0.02 a run.
-  Triage on the title and that one photo. Alert on a hit, and also on anything that
-  looks promising but needs the full gallery to judge: say so in the email and give the
-  link, since the buyer can open the listing in seconds.
-- **Full scan (weekly, or on demand):** `python3 scraper/marketplace.py -o data/fb.json
-  --photos data/fb_photos --max-spend 0.75`. Descriptions and galleries. About US$0.45 a
-  run whatever it finds, because the actor fetches every detail page, so don't run it
-  often.
+  Shortlist on the title and that one photo: every book lot, anything vague, anything
+  that could plausibly clear $500.
+- **Lookup (for each shortlisted listing):** `python3 scraper/marketplace.py --lookup
+  "<exact title>" -o data/fb_lookup.json --photos data/fb_photos`. Fetches the whole
+  gallery, the description and the post date for that listing, about US$0.02 a title
+  (several `--lookup` flags can go in one run). Judge the candidate on this: spines,
+  title pages, hallmarks, dial, what the seller actually says. Then price-check and
+  alert on a hit.
+- **Full scan (on demand only):** `python3 scraper/marketplace.py -o data/fb.json
+  --photos data/fb_photos --max-spend 0.75`. Details for everything new. About US$0.45
+  a run whatever it finds, because the actor fetches every detail page, so there is
+  rarely a reason to prefer it over quick scan plus lookups.
 
 Apify aborts a run at `--max-spend`; an aborted run returns nothing but still bills, so
 if that happens use `--max` to take fewer listings rather than retrying. Don't start two

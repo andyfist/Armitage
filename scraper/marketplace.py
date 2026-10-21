@@ -18,6 +18,10 @@ listings from each other:
       page before it filters, so a run costs about US$0.45 even when nothing is new.
 
     python3 scraper/marketplace.py --no-details --state armitage-7250-quick -o data/fb_quick.json --max-spend 0.10
+    python3 scraper/marketplace.py --lookup "The Shannon Rise by R.H. Wigram" -o data/fb_lookup.json --photos data/fb_photos
+
+The usual pattern is quick scan, shortlist on title and photo, then --lookup (about
+US$0.02 a title) for the gallery and description of each candidate.
 
 Apify's official apify/facebook-marketplace-scraper is deliberately not supported: a
 20-listing test run returned 403 US listings for US$5.00, because its limit applies
@@ -131,25 +135,37 @@ def collect_run(token, run_id):
 
 
 def run(token, queries, max_results, incremental, max_spend, days=None, details=True,
-        state="armitage-launceston-7250"):
+        state="armitage-launceston-7250", radius=RADIUS_KM, strict=True):
     payload = {
         "query": json.dumps(queries),
         "latitude": LAUNCESTON[0],
         "longitude": LAUNCESTON[1],
-        "radiusKm": RADIUS_KM,
-        "strictRadius": True,
+        "radiusKm": radius,
+        "strictRadius": strict,
         # Cost is mostly Apify compute and proxy time, not the per-listing fee, so
         # scan less: only recent listings, and no detail pages unless asked for.
         "sortBy": "newest" if details else "relevance",  # newest needs details
         "includeDetails": details,
         "maxResults": max_results,
         "incrementalMode": incremental,
-        "stateKey": state,
         "excludeEmptyFields": True,
     }
+    if incremental:
+        payload["stateKey"] = state
     if days:
         payload["daysSinceListed"] = days
     return call_actor(token, payload, max_spend)
+
+
+def lookup(token, titles, max_spend):
+    """Full details (gallery, description, post date) for listings found by a quick
+    scan: search for each exact title with details on. About US$0.02 per title."""
+    # No radius limit: the quick scan already found it, wherever it is.
+    items = run(token, titles, 5 * len(titles), False, max_spend, details=True,
+                radius=500, strict=False)
+    wanted = [t.strip().lower() for t in titles]
+    return [i for i in items
+            if any(w in (first(i, "title") or "").lower() for w in wanted)]
 
 
 def first(item, *keys):
@@ -215,6 +231,8 @@ def main():
                     help="skip listing detail pages (no description or gallery; cheaper)")
     ap.add_argument("--state", default="armitage-launceston-7250",
                     help="incremental-mode state key; use a different one per scan type")
+    ap.add_argument("--lookup", metavar="TITLE", action="append",
+                    help="no scan; fetch full details for listings with this title (repeatable)")
     args = ap.parse_args()
 
     token = os.environ.get("APIFY_TOKEN")
@@ -223,6 +241,8 @@ def main():
 
     if args.run:
         items = collect_run(token, args.run)
+    elif args.lookup:
+        items = lookup(token, args.lookup, args.max_spend)
     else:
         items = run(token, QUERIES, args.max, not args.no_incremental, args.max_spend,
                     days=args.days, details=not args.no_details, state=args.state)
