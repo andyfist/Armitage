@@ -201,7 +201,9 @@ def main():
                  'all_closed': all(r.get('closed') for r in recs if r.get('http') == 200),
                  'sold': sum(1 for r in recs if r.get('hammer_aud')), 'records': recs}
         db[key] = entry
-        json.dump(db, open(args.out, 'w'), indent=0)
+        with open(args.out + '.tmp', 'w') as f:  # write then rename, so a commit mid-run never sees half a file
+            json.dump(db, f, indent=0)
+        os.replace(args.out + '.tmp', args.out)
         print(f"  saved: {entry['sold']} sold of {entry['lots']}, all closed: {entry['all_closed']}", flush=True)
     total = sum(e['lots'] for e in db.values())
     sold = sum(e.get('sold', 0) for e in db.values())
