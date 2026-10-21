@@ -73,5 +73,12 @@ If `pipeline/new_sales.py` is still missing, reply "new-sale check is not on mai
    bidder scan: `python3 pipeline/morning.py <chid>` prints the email (first line is the
    subject) with every closing time that matters; send it to andyfist@gmail.com, then
    `python3 pipeline/stage.py <chid> morning_email` and commit the state as in 6d.
-8. Reply in one short line: catalogues on the site, new ones found, emails sent, funnel
+8. Post-sale review. For each catalogue in `pipeline/state/sales.json` whose last lot has
+   closed (its `close_last` is in the past) and whose `reviewed` stage is not done, once
+   `pipeline/armitage_results.py` exists: run `python3 pipeline/armitage_results.py --chid <chid>`
+   (its closing bids and bid histories go into `databases/armitage.json`), then
+   `python3 pipeline/review.py <chid>` and email its output to andyfist@gmail.com (first
+   line is the subject). Then `python3 pipeline/stage.py <chid> reviewed` and commit:
+   `git add pipeline/sales/<chid> pipeline/state databases/armitage.json && git commit -m "Armitage <chid>: review" && git push origin main`.
+9. Reply in one short line: catalogues on the site, new ones found, emails sent, funnel
    stages run, anything that failed. Commit nothing else and send no other email.
