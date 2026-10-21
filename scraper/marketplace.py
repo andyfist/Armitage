@@ -33,6 +33,7 @@ ACTOR = "blackfalcondata~facebook-marketplace-scraper"
 DEFAULT_MAX_SPEND = 0.50  # US$ per run, enforced by Apify
 RUN_TIMEOUT_SECS = 1800  # Apify kills the run after this
 LAUNCESTON = (-41.4332, 147.1441)  # 7250
+RADIUS_KM = 100
 
 # Broad on purpose: bargains are mislabelled, so search for the way sellers
 # describe clear-outs, not the brand names a dealer would search for.
@@ -94,7 +95,7 @@ def run(token, queries, max_results, incremental, max_spend):
         "query": json.dumps(queries),
         "latitude": LAUNCESTON[0],
         "longitude": LAUNCESTON[1],
-        "radiusKm": 50,
+        "radiusKm": RADIUS_KM,
         "strictRadius": True,
         "sortBy": "newest",
         "includeDetails": True,

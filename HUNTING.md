@@ -25,8 +25,10 @@ buyer's premium is 20% + GST, so 22% in total. Pickup only, from 9 Goodman Crt, 
 
 ## Facebook Marketplace
 
-Run `python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos`. Each run
-only returns listings that are new or changed since the last run. A run costs about
+Run `python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos`. It covers
+100 km around Launceston (`RADIUS_KM` in the script), so Devonport, Scottsdale and St
+Helens are in and Hobart is out. Each run only returns listings that are new or
+changed since the last run. A run costs about
 US$0.03 plus US$0.003 per listing, and Apify aborts it at `--max-spend` (default
 US$0.50). An aborted run returns nothing but still bills, so if that happens use
 `--max` to take fewer listings rather than retrying. The threshold is the
