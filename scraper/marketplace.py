@@ -2,8 +2,13 @@
 """Pull new Facebook Marketplace listings around Launceston via Apify.
 
 Uses blackfalcondata/facebook-marketplace-scraper (no Facebook login), which has its
-own incremental mode and a strict radius, about US$0.0009 per listing. Every run is
-capped by Apify at --max-spend (default US$0.50) so a bad input can't run up a bill.
+own incremental mode and a strict radius. Measured cost (Oct 2026): about US$0.03 per
+run plus US$0.003 per listing, so --max 100 is roughly US$0.35.
+
+Every run is capped by Apify at --max-spend (default US$0.50) so a bad input can't run
+up a bill. The cap is a backstop, not a budget: Apify aborts the run when it is reached,
+an aborted run returns NO listings, and it still bills a few cents over the cap. So keep
+--max-spend well above the expected cost of the run, and use --max to control cost.
 
 Apify's official apify/facebook-marketplace-scraper is deliberately not supported: a
 20-listing test run returned 403 US listings for US$5.00, because its limit applies
@@ -23,8 +28,10 @@ import sys
 
 import requests
 
+API = "https://api.apify.com/v2"
 ACTOR = "blackfalcondata~facebook-marketplace-scraper"
 DEFAULT_MAX_SPEND = 0.50  # US$ per run, enforced by Apify
+RUN_TIMEOUT_SECS = 1800  # Apify kills the run after this
 LAUNCESTON = (-41.4332, 147.1441)  # 7250
 
 # Broad on purpose: bargains are mislabelled, so search for the way sellers
@@ -38,14 +45,19 @@ QUERIES = [
 
 
 def call_actor(token, payload, max_spend):
+    """Start the actor, wait for it to finish, return its dataset items.
+
+    Runs asynchronously rather than via run-sync-get-dataset-items, which cuts the
+    run off (and still bills it) after 300 s; a full run of 22 queries takes longer.
+    """
     headers = {"Authorization": f"Bearer {token}"} if token else {}
     r = requests.post(
-        f"https://api.apify.com/v2/acts/{ACTOR}/run-sync-get-dataset-items",
-        # Apify stops the run once it has charged this much.
-        params={"timeout": 290, "maxTotalChargeUsd": max_spend},
+        f"{API}/acts/{ACTOR}/runs",
+        # Apify aborts the run once it has charged maxTotalChargeUsd.
+        params={"maxTotalChargeUsd": max_spend, "timeout": RUN_TIMEOUT_SECS},
         headers=headers,
         json=payload,
-        timeout=310,
+        timeout=60,
     )
     if r.status_code in (401, 402) and not token:
         sys.exit("Apify refused an unauthenticated request; no APIFY_TOKEN or network secret reached it.")
@@ -55,7 +67,26 @@ def call_actor(token, payload, max_spend):
     if r.status_code == 403:
         sys.exit(f"Apify refused the run (403): {r.text[:300]}")
     r.raise_for_status()
-    return r.json()
+    run = r.json()["data"]
+    print(f"Apify run {run['id']} started (cap US${max_spend:.2f})", file=sys.stderr)
+    while run["status"] in ("READY", "RUNNING"):
+        r = requests.get(f"{API}/actor-runs/{run['id']}", params={"waitForFinish": 60},
+                         headers=headers, timeout=90)
+        r.raise_for_status()
+        run = r.json()["data"]
+    r = requests.get(f"{API}/datasets/{run['defaultDatasetId']}/items",
+                     params={"clean": "true"}, headers=headers, timeout=120)
+    r.raise_for_status()
+    items = r.json()
+    # Apify keeps posting charges for a minute or so after the run ends.
+    print(f"Apify run {run['id']}: {run['status']}, {len(items)} items, "
+          f"US${run.get('usageTotalUsd') or 0:.3f} so far", file=sys.stderr)
+    if run["status"] != "SUCCEEDED":
+        msg = run.get("statusMessage") or run["status"]
+        if not items:
+            sys.exit(f"Apify run returned nothing: {msg}")
+        print(f"warning: {msg}; keeping the {len(items)} listings it returned", file=sys.stderr)
+    return items
 
 
 def run(token, queries, max_results, incremental, max_spend):
@@ -114,10 +145,13 @@ def download_photos(listings, out_dir):
         os.makedirs(d, exist_ok=True)
         for i, url in enumerate(l["photos"][:6], 1):
             try:
-                with open(os.path.join(d, f"{i}.jpg"), "wb") as f:
-                    f.write(requests.get(url, timeout=60).content)
+                r = requests.get(url, timeout=60)
+                r.raise_for_status()
             except requests.RequestException as e:
                 print(f"photo failed {l['id']} #{i}: {e}", file=sys.stderr)
+                continue  # don't leave an empty file behind
+            with open(os.path.join(d, f"{i}.jpg"), "wb") as f:
+                f.write(r.content)
 
 
 def main():

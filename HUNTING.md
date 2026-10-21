@@ -26,7 +26,10 @@ buyer's premium is 20% + GST, so 22% in total. Pickup only, from 9 Goodman Crt, 
 ## Facebook Marketplace
 
 Run `python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos`. Each run
-only returns listings that are new or changed since the last run. The threshold is the
+only returns listings that are new or changed since the last run. A run costs about
+US$0.03 plus US$0.003 per listing, and Apify aborts it at `--max-spend` (default
+US$0.50). An aborted run returns nothing but still bills, so if that happens use
+`--max` to take fewer listings rather than retrying. The threshold is the
 same: resale minus the asking price must be at least $1,000, with no buyer's premium.
 Mislabelled listings are where the bargains are ("old watch, no idea", "box of books"),
 so look at the photos of anything vague rather than trusting the title. Speed matters,
