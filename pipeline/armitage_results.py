@@ -84,6 +84,24 @@ def money(s):
     return float(m.group(0).replace(',', '')) if m else 0.0
 
 
+BIDDER_RE = re.compile(r'^\s*(\d+)\s*-\s*(.*?)\s*$')
+STATES = ('TAS', 'VIC', 'NSW', 'ACT', 'QLD', 'SA', 'WA', 'NT')
+
+
+def bidder(cell):
+    """'77980 - Stanley, TAS  - AutoBid' -> {who, bidder: '77980', town: 'Stanley', state: 'TAS', autobid: True}.
+    The state is often missing ('142599 - Gravelly Beach , '), so an empty state is not a sign of interstate."""
+    who = strip(cell)
+    auto = bool(re.search(r'-\s*AutoBid\s*$', who, re.I))
+    rest = re.sub(r'\s*-\s*AutoBid\s*$', '', who, flags=re.I)
+    m = BIDDER_RE.match(rest)
+    no, place = (m.group(1), m.group(2)) if m else ('', rest)
+    parts = [x.strip() for x in place.split(',')]
+    state = parts[-1].upper() if len(parts) > 1 and parts[-1].upper() in STATES else ''
+    town = parts[0] if parts else ''
+    return {'who': who, 'bidder': no, 'town': town, 'state': state, 'autobid': auto}
+
+
 def group_items(chid):
     body, code = curl(f'{BASE}/catalogue-group.aspx?chid={chid}&BID=')
     if code != 200 or not body:
@@ -115,7 +133,10 @@ def parse_lot(chid, it, now):
     est = re.search(r'Estimate: Estimate ([^ ]+(?: ?- ?[^ ]+)?)', t)
     cur = re.search(r'Current Bid \(\$\): (\$[\d,\.]+|[^ ]+)', t)
     title = re.search(r'<h2 class="post-title">(.*?)<span', body, flags=re.S)
+    # bid history table, newest first: Bidder ("142599 - Gravelly Beach , " or "77980 - Stanley, TAS  - AutoBid"), Quantity, Bid, Date/Time
     rows = re.findall(r'<tr>\s*<td>([^<]*)</td>\s*<td>(\d+)</td>\s*<td>([\d\.,]+)</td>\s*<td>([\d/: APM]+)</td>', body)
+    history = [dict(bidder(w), qty=int(q), amount=money(a), when=when.strip()) for w, q, a, when in rows]
+    top = max((h['amount'] for h in history), default=0.0)
     close_text = close.group(1) if close else it['close_group']
     cdt = close_dt(close_text)
     closed = bool(cdt and cdt < now)
@@ -126,11 +147,12 @@ def parse_lot(chid, it, now):
         'description': desc.group(1).strip() if desc else None,
         'close': close_text, 'date': cdt.date().isoformat() if cdt else None, 'closed': closed,
         'estimate': est.group(1) if est else None,
-        'current_bid': cur.group(1) if cur else None, 'bid_count': bids,
+        # closed lot pages no longer show "Current Bid", so the closing bid is the top of the bid history
+        'current_bid': top or (money(cur.group(1)) if cur else None), 'bid_count': bids,
         # the hammer is the closing bid of a closed lot that had bids; a reserve may still have stopped the sale
-        'hammer_aud': money(cur.group(1)) if (cur and closed and bids) else 0.0, 'premium_included': False,
+        'hammer_aud': top if (closed and bids) else 0.0, 'premium_included': False,
         'reserve_note': 'reserve not met' if re.search(r'reserve not met', t, re.I) else '',
-        'history': [{'who': strip(w), 'no': n, 'amount': money(a), 'when': when} for w, n, a, when in rows],
+        'history': history,
         'category': (rules.classify(strip(title.group(1)) if title else '', desc.group(1) if desc else '')[1] if rules else ''),
     })
     return rec
