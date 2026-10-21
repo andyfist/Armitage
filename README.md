@@ -15,7 +15,8 @@ the older "$500 or double your money" rule and will be updated with the scan fun
 | `scraper/armitage.py` | Pulls every open Armitage lot (title, bid, close time, photos) into one JSON file |
 | `scraper/marketplace.py` | Facebook Marketplace puller via Apify (quick scan, lookup, full scan) |
 | `scraper/fetch_photos.py` | Downloads the photos of shortlisted lots |
-| `routines/` | The prompts behind the two scheduled runs: hourly Marketplace quick scan, 6:40 am daily digest |
+| `pipeline/` | The automated Armitage pipeline, one script per stage. `new_sales.py` notices a new catalogue; `state/sales.json` records every sale seen and which stages are done |
+| `routines/` | The prompts behind the scheduled runs: hourly Marketplace quick scan, 6:40 am daily digest, two-hourly Armitage new-sale check |
 | `HUNTING.md` | Triage rules and report format for the title-first hunt |
 | `reports/` | One report per sale close date from the daily digest |
 | `work/` | The deep-scan toolkit and every sale researched so far (see below) |
@@ -26,7 +27,7 @@ the older "$500 or double your money" rule and will be updated with the scan fun
 
 | Script | Job |
 |---|---|
-| `watch_armitage.py` | Lists the catalogues on armitage.bidsonline.com.au and prints any not seen before (`armitage_catalogues.json` remembers them) |
+| `watch_armitage.py` | The earlier new-catalogue watcher, replaced by `pipeline/new_sales.py` (which seeds its state from `armitage_catalogues.json`) |
 | `prep_armitage.py <chid> <key>` | Reads one catalogue, downloads every photo, builds contact sheets and batches of 15 lots for the scan |
 | `wf_armitage.js` | The scan workflow: photo scan (Sonnet, estimate-blind), rescore, market comps, verify |
 | `comps.py <words>` | Looks an item up in the results database (`gowans_all.json`, 75,655 Gowans hammer prices, plus `sold_db.json`); see `RESULTS_DB.md` |
