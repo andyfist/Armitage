@@ -25,6 +25,7 @@ import argparse
 import json
 import os
 import sys
+import time
 
 import requests
 
@@ -71,12 +72,31 @@ def call_actor(token, payload, max_spend):
     if r.status_code == 403:
         sys.exit(f"Apify refused the run (403): {r.text[:300]}")
     r.raise_for_status()
-    run = r.json()["data"]
-    print(f"Apify run {run['id']} started (cap US${max_spend:.2f})", file=sys.stderr)
+    run_id = r.json()["data"]["id"]
+    print(f"Apify run {run_id} started (cap US${max_spend:.2f}); "
+          f"if this script dies, collect it with --run {run_id}", file=sys.stderr)
+    return collect_run(token, run_id)
+
+
+def collect_run(token, run_id):
+    """Wait for an Apify run to finish and return its dataset items."""
+    headers = {"Authorization": f"Bearer {token}"} if token else {}
+    run = {"status": "RUNNING"}
+    failures = 0
     while run["status"] in ("READY", "RUNNING"):
-        r = requests.get(f"{API}/actor-runs/{run['id']}", params={"waitForFinish": 60},
-                         headers=headers, timeout=90)
-        r.raise_for_status()
+        # Short waits: a connection held open for long gets cut by proxies.
+        try:
+            r = requests.get(f"{API}/actor-runs/{run_id}", params={"waitForFinish": 20},
+                             headers=headers, timeout=45)
+            r.raise_for_status()
+        except requests.RequestException as e:
+            failures += 1
+            if failures > 10:
+                sys.exit(f"Lost contact with Apify while polling run {run_id}: {e}. "
+                         f"The run may still finish; collect it with --run {run_id}")
+            time.sleep(10)
+            continue
+        failures = 0
         run = r.json()["data"]
     r = requests.get(f"{API}/datasets/{run['defaultDatasetId']}/items",
                      params={"clean": "true"}, headers=headers, timeout=120)
@@ -166,14 +186,19 @@ def main():
     ap.add_argument("--photos", help="directory to download listing photos into")
     ap.add_argument("--max-spend", type=float, default=DEFAULT_MAX_SPEND,
                     help=f"US$ cap on the Apify run (default {DEFAULT_MAX_SPEND})")
+    ap.add_argument("--run", metavar="RUN_ID",
+                    help="don't start a run; collect this existing Apify run's results")
     args = ap.parse_args()
 
     token = os.environ.get("APIFY_TOKEN")
     if not token:
         print("APIFY_TOKEN not set; relying on a network secret for api.apify.com", file=sys.stderr)
 
-    listings = [normalise(i) for i in
-                run(token, QUERIES, args.max, not args.no_incremental, args.max_spend)]
+    if args.run:
+        items = collect_run(token, args.run)
+    else:
+        items = run(token, QUERIES, args.max, not args.no_incremental, args.max_spend)
+    listings = [normalise(i) for i in items]
     os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
     with open(args.out, "w") as f:
         json.dump(listings, f, indent=1)
