@@ -115,20 +115,24 @@ def collect_run(token, run_id):
     return items
 
 
-def run(token, queries, max_results, incremental, max_spend):
+def run(token, queries, max_results, incremental, max_spend, days=None, details=True):
     payload = {
         "query": json.dumps(queries),
         "latitude": LAUNCESTON[0],
         "longitude": LAUNCESTON[1],
         "radiusKm": RADIUS_KM,
         "strictRadius": True,
-        "sortBy": "newest",
-        "includeDetails": True,
+        # Cost is mostly Apify compute and proxy time, not the per-listing fee, so
+        # scan less: only recent listings, and no detail pages unless asked for.
+        "sortBy": "newest" if details else "best_match",
+        "includeDetails": details,
         "maxResults": max_results,
         "incrementalMode": incremental,
         "stateKey": "armitage-launceston-7250",
         "excludeEmptyFields": True,
     }
+    if days:
+        payload["daysSinceListed"] = days
     return call_actor(token, payload, max_spend)
 
 
@@ -190,6 +194,9 @@ def main():
                     help=f"US$ cap on the Apify run (default {DEFAULT_MAX_SPEND})")
     ap.add_argument("--run", metavar="RUN_ID",
                     help="don't start a run; collect this existing Apify run's results")
+    ap.add_argument("--days", type=int, help="only listings posted in the last N days")
+    ap.add_argument("--no-details", action="store_true",
+                    help="skip listing detail pages (no description or gallery; cheaper)")
     args = ap.parse_args()
 
     token = os.environ.get("APIFY_TOKEN")
@@ -199,7 +206,8 @@ def main():
     if args.run:
         items = collect_run(token, args.run)
     else:
-        items = run(token, QUERIES, args.max, not args.no_incremental, args.max_spend)
+        items = run(token, QUERIES, args.max, not args.no_incremental, args.max_spend,
+                    days=args.days, details=not args.no_details)
     listings = [normalise(i) for i in items]
     os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
     with open(args.out, "w") as f:
