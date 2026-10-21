@@ -36,9 +36,12 @@ LAUNCESTON = (-41.4332, 147.1441)  # 7250
 RADIUS_KM = 100
 
 # Broad on purpose: bargains are mislabelled, so search for the way sellers
-# describe clear-outs, not the brand names a dealer would search for.
+# describe clear-outs, not the brand names a dealer would search for. Books come
+# first because they're the likeliest source of unrecognised value, and because a
+# --max test run only gets through the first few queries.
 QUERIES = [
-    "old books", "antique", "vintage", "watch", "pocket watch", "old watch",
+    "old books", "books", "box of books", "book collection", "antique books", "rare books",
+    "antique", "vintage", "watch", "pocket watch", "old watch",
     "deceased estate", "estate", "clearing out", "garage sale", "box of",
     "collectables", "collection", "jewellery", "gold", "silver", "coins",
     "stamps", "pottery", "painting", "first edition", "militaria",

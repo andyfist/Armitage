@@ -1,13 +1,16 @@
 # Hunt procedure (for Claude)
 
-Goal: flag lots where **likely resale − (hammer × 1.22) ≥ $1,000**. Armitage's
+Goal: flag lots where **likely resale − (hammer × 1.22) ≥ $500**. Armitage's
 buyer's premium is 20% + GST, so 22% in total. Pickup only, from 9 Goodman Crt, Invermay.
 
 1. `python3 scraper/armitage.py -o data/lots.json`
 2. **Title pass.** Read every title, not just keyword hits. Shortlist anything where a
-   $1k gap is plausible:
+   $500 gap is plausible:
+   - **Books first.** Unrecognised value is most likely here: sellers and auction houses
+     rarely know what they have. Early Australiana, explorers' journals, Tasmanian unit
+     histories, Gould, limited editions, signed copies, and any boxed or bulk lot whose
+     photos show cloth or leather spines. Shortlist every book lot that is vague.
    - Watches: Rolex, Tudor, Omega, Longines, gold cases, pocket watches.
-   - Books: early Australiana, explorers' journals, Tasmanian unit histories, Gould, limited editions.
    - Precious metal: gold or silver by weight. Melt = grams × purity × spot (9ct is 0.375, 18ct is 0.75).
    - Designer goods, Tasmanian studio pottery (John Campbell, McLaren), colonial furniture,
      listed Tasmanian artists, coins, militaria.
@@ -20,7 +23,7 @@ buyer's premium is 20% + GST, so 22% in total. Pickup only, from 9 Goodman Crt, 
    price you could sell at, not retail.
 5. **Report.** Write `reports/<close-date>.md`. For each hit, give the lot, link, close
    time, current bid, estimate, evidence from the photos, value range, a **max bid**
-   (the hammer price that still leaves $1k), risks, and what to ask the auction house
+   (the hammer price that still leaves $500), risks, and what to ask the auction house
    or check at viewing.
 
 ## Facebook Marketplace
@@ -32,8 +35,10 @@ changed since the last run. A run costs about
 US$0.03 plus US$0.003 per listing, and Apify aborts it at `--max-spend` (default
 US$0.50). An aborted run returns nothing but still bills, so if that happens use
 `--max` to take fewer listings rather than retrying. The threshold is the
-same: resale minus the asking price must be at least $1,000, with no buyer's premium.
+same: resale minus the asking price must be at least $500, with no buyer's premium.
 Mislabelled listings are where the bargains are ("old watch, no idea", "box of books"),
-so look at the photos of anything vague rather than trusting the title. Speed matters,
+so look at the photos of anything vague rather than trusting the title. Open every
+book listing's photos and read the spines; a $3-each paperback pile can hide one
+title worth the threshold on its own. Speed matters,
 so put hits in the alert email straight away, each with the listing link and the one
 question to ask the seller.
