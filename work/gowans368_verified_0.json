@@ -1,0 +1,198 @@
+{
+ "lots": [
+  {
+   "cdid": 446555,
+   "lot": 1,
+   "what_it_is": "Lot 1B: 2013 Ford Mondeo LX (MC) automatic, white, 178,384 km, Tas rego C21XZ to 5/11/2026, 1 key, described as damaged with some body damage. Photo 9 shows a liftback tailgate, so it is the 5-door hatch even though the title says sedan.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 8,
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$6,000 negotiable (lead only)",
+     "date": "expired, snippet seen by researcher 2026-10-21",
+     "venue": "Carsales private listing, WA, 2013 Mondeo LX TDCi wagon",
+     "url": "https://www.carsales.com.au/cars/details/2013-ford-mondeo-lx-tdci-mc-auto/SSE-AD-17805719/",
+     "aud_price": 6000,
+     "note": "ASKING, AUD at 1.0, same_item close. Snippet only: I got HTTP 403 when opening it, so the price is not verified and is kept as a lead only. Diesel wagon, not the petrol hatch, and an asking price, not a sale."
+    }
+   ],
+   "guide_summary": "No verified same-model or close evidence survives, so the guide is 0 to 0. The only Mondeo figure is a snippet-only WA asking price of $6,000 for a diesel wagon (lead only). For context only, Gowans sold other registered cars in 2026 at $2,400 (1993 Falcon), $3,600 (2000 Falcon wagon), $5,500 (2012 Swift, 167k km) and $13,600 (2014 Camry, 74k km); none is a Mondeo, so none sets a value.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD Mondeo (or close MC Mondeo) result was found: the Gowans API search for mondeo returns only this lot, and the researcher found no Australian auction result. Under the rules a maximum bid needs a same-item SOLD sale within 24 months, so keep_max_hammer = 0 and flip_max_hammer = 0. Category reference only, not a maximum: Gowans 2012 Swift manual, 167,589 km, rego to Jan 2027, $5,500 hammer (lot 407865, listed 2026-05-06) is the nearest local age and km anchor; at 19.8% premium that is $6,589 all-in. This Mondeo has body damage, 1 key and only two weeks of rego left.",
+   "confidence": "Low",
+   "key_photo_findings": "Badge and plate read: Ford, Mondeo and LX badges on the boot lid, plate C21XZ (Gowans title has a typo, CZ1XZ). Liftback tailgate in photo 9 so it is the hatch. Photo 6 shows a long crease or dent in the rear door and quarter panel on the passenger side. Interior cloth seats grubby, rear seat stained, rubber mats, tarp in cargo area. No odometer photo, no engine bay photo, wheels alloy and look sound.",
+   "condition": "Running condition unknown. Visible rear door and quarter dent, grubby interior. Title says 'damaged & some body damage', which may mean more than the dent seen. Rego expires 5/11/2026.",
+   "question_for_gowans": "What does 'damaged' cover beyond the rear door dent: any mechanical, transmission or warning-light faults? Does it start and drive, and is it petrol 2.3 or diesel? Can it be test-started at the preview? Note the title rego CZ1XZ, plate reads C21XZ.",
+   "dropped_entries": "Dropped: CarExpert '$7,900 used price guide' (page opened, it shows only new-car pricing from $30,990, no used price, so the figure is unverified and is a guide not a sale). Carsales SSE-AD-20713933 (403, no price seen). Turners NZ 26773393 (page opened: shows only 104,610 km hatch, petrol, 'no longer available', no reserve or price on the page, so the NZ$4,500 to NZ$6,000 range is unverified; also mislabelled, an auction reserve range is not a sale; and the researcher's NZD rate of 0.91 was wrong, the rate on 2026-10-20 was 0.813 AUD per NZD from frankfurter.dev). Gowans Camry $13,600, Impreza $10,500, Swift $5,500, Falcon $3,600 and $2,400 (all confirmed in the Gowans API, but they are different models; moved to context in the guide summary, not kept as entries).",
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "confidence_reason": "No SOLD Mondeo evidence; only a snippet-only asking lead.",
+   "score_reason": "A running 2013 Mondeo is worth several thousand dollars, but damage extent and running state are unknown and there is no sold evidence."
+  },
+  {
+   "cdid": 446554,
+   "lot": 1,
+   "what_it_is": "Lot 1A: 2007 Toyota Yaris 5-door hatch (NCP90/91 series) automatic, silver, 311,962 km on the odometer photo, unregistered since 1/9/2025, plates FP5627 still fitted, 4 keys, dents and scrapes, signwritten 'Dolly's Ducati' and 'Please don't tailgate'.",
+   "triage": "KEEP",
+   "market_score": 8,
+   "sold": [
+    {
+     "price": "$1,309 hammer (buyer's premium $470 extra)",
+     "date": "closed 9 Apr 2025",
+     "venue": "Grays (VIC), 2007 Toyota Yaris YRS NCP93R automatic sedan",
+     "url": "https://www.grays.com/lot/0001-21046940/motor-vehicles-motor-cycles/2007-toyota-yaris-yrs-ncp93r-automa",
+     "aud_price": 1309,
+     "note": "SOLD, AUD, same_item close. Page opened: 'Sold for $1,309', 14 bids, 1.5 auto, 269,131 km, sold unregistered without plates, silver. Same year and generation but the sedan body, and 43,000 km fewer. About 18 months old, inside 24 months. Best direct comp."
+    },
+    {
+     "price": "$1,500 hammer",
+     "date": "listed 2026-04-15 (sale about a week later)",
+     "venue": "Gowans Auctions lot 402935, 2005 Honda Jazz 5-door hatch manual",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hatchback&page%5Bnumber%5D=1",
+     "aud_price": 1500,
+     "note": "SOLD, AUD, same_item category guide. API data checked (sale_price 150000 cents, 10 bids). 243,200 km, registered to 3/8/2026, new battery. Different make, manual, but registered; same buyers."
+    },
+    {
+     "price": "$1,800 hammer",
+     "date": "listed 2025-11-12",
+     "venue": "Gowans Auctions lot 375015, 2003 Toyota Corolla Ascent sedan",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=corolla&page%5Bnumber%5D=1",
+     "aud_price": 1800,
+     "note": "SOLD, AUD, category guide. API checked: 324,284 km, registered to 31/01/2026, 7 bids. Older Toyota with similar high km but registered. Added by verifier."
+    },
+    {
+     "price": "$2,400 hammer",
+     "date": "listed 2025-10-29",
+     "venue": "Gowans Auctions lot 371688, 2005 Suzuki Liana auto hatch",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=liana&page%5Bnumber%5D=1",
+     "aud_price": 2400,
+     "note": "SOLD, AUD, category guide. API checked: 160,171 km, registered, 6 bids (researcher said 7). Lower km and registered, so above this car."
+    },
+    {
+     "price": "$2,800 hammer",
+     "date": "listed 2026-09-30",
+     "venue": "Gowans Auctions lot 441704, 2009 Toyota Corolla manual hatch",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=corolla&page%5Bnumber%5D=1",
+     "aud_price": 2800,
+     "note": "SOLD, AUD, category guide. API checked: 173,479 km, body damage and dents, registered to 23/3/2027, 10 bids. Added by verifier. Registered with long rego, so above this car."
+    },
+    {
+     "price": "$1,200 hammer",
+     "date": "listed 2026-02-11",
+     "venue": "Gowans Auctions lot 389976, 2007 Mitsubishi Express van",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=mitsubishi+express&page%5Bnumber%5D=1",
+     "aud_price": 1200,
+     "note": "SOLD, AUD, category guide. API checked: unregistered, does not start, 253,866 km, 7 bids. Floor for an unregistered non-runner."
+    },
+    {
+     "price": "$6,100 hammer (premium $650 extra)",
+     "date": "closed 17 Mar 2024",
+     "venue": "Grays (NSW), 2007 Toyota Yaris YRS NCP91R automatic hatch",
+     "url": "https://www.grays.com/lot/0001-10340638/motor-vehiclesmotor-cycles/2007-toyota-yaris-yrs-ncp91r-automatic-hatchback",
+     "aud_price": 6100,
+     "note": "SOLD, AUD, category guide. Page opened: 'Sold for $6,100', 74 bids, 87,057 km, sold unregistered. Same model but under a third of the km and 31 months old, so outside 24 months and not comparable on condition; ceiling only."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$4,990 (lead only)",
+     "date": "live, snippet seen by researcher 2026-10-21",
+     "venue": "Dealer, Derwent Park TAS, via CarsGuide",
+     "url": "https://www.carsguide.com.au/buy-a-car/toyota/yaris/tas",
+     "aud_price": 4990,
+     "note": "ASKING, AUD, same_item close. Snippet only (site returns 403), not verified. 2007 Yaris YR auto hatch 281,032 km, registered dealer retail with margin."
+    },
+    {
+     "price": "$1,900 to $2,300 (lead only)",
+     "date": "live, snippet seen by researcher 2026-10-21",
+     "venue": "Facebook Marketplace, Devonport TAS",
+     "url": "https://www.facebook.com/marketplace/104644986240882/toyota-yaris/",
+     "aud_price": 1900,
+     "note": "ASKING, AUD, same_item close. Snippet only, not verified. 2007 Yaris YRS about 280,000 km, private, probably registered."
+    }
+   ],
+   "guide_summary": "Close and category SOLD evidence runs $1,200 to $2,800 hammer (AUD, no conversion): the only close same-model sale is the Grays 2025 2007 Yaris sedan, unregistered, 269k km, at $1,309; local Gowans high-km small cars sold $1,500 to $2,800 but were registered. Snippet-only asking leads are $1,900 (private) and $4,990 (dealer, registered). No unsold results. The guide range given is $1,309 to $2,400, set by the close Grays sale and registered high-km local hatches; the 2024 low-km $6,100 Yaris is excluded as not comparable.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 1090,
+   "working": "keep_max_hammer: lowest surviving same-model SOLD in 24 months = Grays 2007 Yaris, $1,309 hammer (9 Apr 2025). $1,309 / 1.198 = $1,092.65, rounded down to $1,090 (all-in about $1,306). This is a sedan rather than hatch and 43,000 km lower, so it is generous rather than conservative; the Gowans unregistered non-runner van at $1,200 sits just below it. flip_max_hammer: 0. Resale as-is would be about the same $1,300 to $1,500 at auction, less about 10% selling fees ($150) and no postage, so ($1,300 - $150) / 2.396 = $480, but re-registering a car unregistered for over a year will likely need an inspection and repairs that are not costed, so I do not support a flip figure. Pickup from 37 Main Road, Moonah on a trailer or tow, since it cannot be driven on the road unregistered.",
+   "confidence": "Medium",
+   "key_photo_findings": "Odometer photo reads 311962 km. Toyota badges, 3-door-style Yaris hatch body confirmed as 5-door. Plates FP5627 still on. Damage: scrapes and dents on both rear quarters and rear bumper corners (photos 3, 4, 6, 8), long scrape on driver rear door under the 'Dolly's Ducati' signwriting (photo 10), scratch graffiti on the front door (photo 9), scuffed front bumper and wheel arch (photo 11). Steel wheels, one with missing hubcap. Interior worn with fluffy seat covers, dirty floor. Signwriting decals would need removal.",
+   "condition": "Tired high-km runabout: 311,962 km, unregistered since 1/9/2025, multiple dents and scrapes, worn interior, decals. Mechanical state not stated.",
+   "question_for_gowans": "Does it start and drive, and is the auto shifting properly? Any warning lights? Why was rego allowed to lapse in Sept 2025? Are the plates FP5627 included or to be returned? Can it be started at the preview?",
+   "dropped_entries": "Dropped: Gowans 2007 Corolla $8,850 (lot 412832, confirmed in API at 885000 cents, but 63,913 km and registered, so not comparable; the researcher's price field was garbled). Gowans 2019 Yaris $11,750 (lot 430461, confirmed, but a 2019 car). Gowans 2011 Micra $3,000 (lot 412831, confirmed, but newer, 107k km, registered; context only). Pickles listing (no price seen, snippet only). Moved Grays 2024 $6,100 from 'close' to 'category guide' because of the large km gap and age of the sale.",
+   "guide_low_aud": 1309,
+   "guide_high_aud": 2400,
+   "confidence_reason": "Odometer and badges read; one good close SOLD (Grays 2025 Yaris, page opened) plus local category sales; mechanical state unknown.",
+   "score_reason": "Worth roughly $1,300 to $2,000 as a car, well over $500, but unregistered, damaged and very high km."
+  },
+  {
+   "cdid": 445086,
+   "lot": 106,
+   "what_it_is": "2010 Perth Mint Saint Mary MacKillop 1/10 oz gold proof coin, in Perth Mint case with blue outer box and certificate of authenticity.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 9,
+   "sold": [
+    {
+     "price": "$575 hammer",
+     "date": "listed 2026-08-30 (sale about a week later)",
+     "venue": "Gowans Auctions lot 433831, 2008 Centenary of Scouts Australia $10 gold proof coin 1/10 oz",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=1/10+gold+proof&page%5Bnumber%5D=1",
+     "aud_price": 575,
+     "note": "SOLD, AUD, same_item close (same weight and fineness, different design and mint series). API checked: sale_price 57500 cents, 13 bids. Packaging not stated."
+    },
+    {
+     "price": "$600 hammer",
+     "date": "listed 2026-02-01",
+     "venue": "Gowans Auctions lot 386910, 2010 Kangaroo series $10 gold proof coin",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=gold+proof+coin&page%5Bnumber%5D=1",
+     "aud_price": 600,
+     "note": "SOLD, AUD, same_item close. Added by verifier. API checked: 60000 cents, 13 bids. Same year, 1/10 oz gold proof (series weight confirmed by the London Coin Company listing for the same coin). Gold price was probably different in Feb 2026."
+    },
+    {
+     "price": "$700 hammer",
+     "date": "listed 2026-05-03",
+     "venue": "Gowans Auctions lot 406424, 2008 Centenary of Scouts Australia $10 gold proof coin 1/10 oz",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=1/10+gold+proof&page%5Bnumber%5D=1",
+     "aud_price": 700,
+     "note": "SOLD, AUD, same_item close. API checked: 70000 cents, 14 bids. Same type later sold $575, so about 20% swing."
+    },
+    {
+     "price": "$800 hammer",
+     "date": "listed 2026-01-26",
+     "venue": "Gowans Auctions lot 385301, 2011 ten dollar gold proof coin, Ram's Head",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=gold+proof+coin&page%5Bnumber%5D=1",
+     "aud_price": 800,
+     "note": "SOLD, AUD, same_item close. Added by verifier. API checked: 80000 cents, 15 bids. Weight not stated in the title; Australian $10 gold proofs are normally 1/10 oz, assumed not verified."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "GBP 479.95",
+     "date": "live, seen 2026-10-21",
+     "venue": "The London Coin Company, 2010 Australia Kangaroo $10 gold proof 1/10 oz, boxed with COA",
+     "url": "https://www.thelondoncoincompany.com/store/2010-Australia-Kangaroo-$10-Gold-Proof-1-10oz-Coin-Box-Coa-p161948468",
+     "aud_price": 917,
+     "note": "ASKING, GBP converted at 1.9108 AUD per GBP (frankfurter.dev, 2026-10-20) = A$917. Page opened: in stock, 1 available, .9999 gold 3.11 g, mintage 1,500, boxed with COA. UK dealer retail, not a price paid. The page says Royal Australian Mint as issuer."
+    }
+   ],
+   "guide_summary": "All surviving evidence is close, not the exact coin: four Gowans SOLD hammers for other 1/10 oz Australian gold proof coins in 2026 at $575, $600, $700 and $800, and one UK dealer asking price of A$917 (GBP 479.95 at 1.9108). No unsold results. Guide $575 to $917. Melt (a floor, not a sale) is about A$587 at spot A$5,865.85/oz (livepriceofgold.com, page opened 21 Oct 2026 07:23 UTC).",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD result for this exact MacKillop coin was found, and the rules allow maximum bids only from same-item sales, so keep_max_hammer = 0 and flip_max_hammer = 0. Reference only, not a maximum bid: the lowest close Gowans sale, $575 / 1.198 = $479.97, would round to $475 (all-in $569), which is below the current melt of about $587 (0.1 oz x A$5,865.85). Gowans buyers paid $575 to $800 for 1/10 oz gold proofs this year, so a bid near $475 to $490 has a gold floor under it. Gold spot at the earlier sale dates was not checked, so the comps are not adjusted for gold moves.",
+   "confidence": "Medium",
+   "key_photo_findings": "Box reads '1/10oz GOLD PROOF COIN', 'Saint Mary MacKillop'; case lid reads 'The Perth Mint Australia'; COA card present reading 'Certificate of Authenticity, Saint Mary MacKillop, 1/10oz Gold Proof Coin'. Coin in capsule reads 'Saint Mary MacKillop, First Australian Saint, 2010' with a coloured portrait. No visible damage; obverse and COA number not shown. Researcher's mintage 2,010 and issue price A$275 come from coinnews.net and I did not re-open that page (WebSearch cap reached).",
+   "condition": "Appears complete and in capsule, proof surface not inspectable in photos. Obverse not photographed.",
+   "question_for_gowans": "Is the capsule sealed and the coin free of spots or handling marks? Please confirm the obverse (Queen's effigy, $15 or other denomination), the COA serial number, and that the coin is 1/10 oz .9999 gold (3.11 g).",
+   "dropped_entries": "None dropped. The researcher's GBP rate (assumed 1.90) was replaced with 1.9108 from frankfurter.dev (2026-10-20), giving A$917 rather than A$912. Added two Gowans close sales (lots 386910 and 385301). The Mary MacKillop medallion/token lot 385310 ($25) is not gold and was rightly ignored.",
+   "guide_low_aud": 575,
+   "guide_high_aud": 917,
+   "confidence_reason": "Box, case and COA read; four close Gowans SOLD results via API but none for this exact coin; obverse not photographed.",
+   "score_reason": "Gold content alone is about A$587 and local 1/10 oz proofs sold $575 to $800."
+  }
+ ]
+}
