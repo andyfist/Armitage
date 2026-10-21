@@ -1,0 +1,14 @@
+{
+ "bottom_line": "This is a general weekly sale, so most of the value is mass-market. All 1,352 lots were scanned with every photo viewed, and the 150 strongest candidates got a market pass with an Opus check. The best-supported picks are retro video games (lots 328, 746, 732, 489), LEGO sets (689, 672), boxed Funko Pop lots (806A, 890, 582A) and a Wild Turkey Rare Breed bourbon (329). They have plenty of sold comps but modest ceilings, from about $65 to $170 hammer. The more valuable-looking lots have no sold support, so they get no maximum bid and are listed under \"Look at the inspection\": gold rings and a signet ring (lots 7, 1, 5), an Omega Seamaster in a mixed watch lot (228), a 2009 Toyota Corolla (1C), a Honda outboard (1535), Tasmanian single malts (281 to 283) and a Mackie mixer, a Conn saxophone and other gear. Check weights, hallmarks and condition in person. Online absentee bids close at 9:30 AM Friday, and inspection opens at 8:30 AM.",
+ "run": "wf_db784ad0-25e (script work/wf_gowans363.js in the repo)",
+ "assumptions": [
+  "All 1,352 lots in the auction were taken from Gowans' public API and image store and scanned with every photo viewed. None was unscanned. Lot numbers with a letter (such as 1C or 806A) are shown as the catalogue labels them.",
+  "This is a live room auction. The site shows no prices, only a count of absentee bids on each lot, so no current bid is used or shown. Scoring is blind to price.",
+  "Buyer's premium is 19.8% including GST on the hammer price for all lots except vehicles (contact the office), per the auction's own notice. All-in = hammer x 1.198.",
+  "150 candidates with a blind score of 4 or more got a market pass. The other 90 candidates and the 1,112 lots the scan skipped appear in the table of every lot with a photo finding and a reason, but have no comps research.",
+  "Many sold prices come from marketplace and auction results data that does not say whether buyer's premium is included. Each card notes this where it matters. Maximum bids use only sold prices in the last 24 months.",
+  "Gold and silver weights, carat marks and maker claims in the titles are catalogue claims. The cards say where the photos support them and where they do not. Check weights and hallmarks at the inspection.",
+  "Pickup from 37 Main Road, Moonah. Inbound freight is assumed to be $0 because you are local.",
+  "Sources closed to this session (eBay, Wine-Searcher, Australian Whisky Auctions) were not used."
+ ]
+}

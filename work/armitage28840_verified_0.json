@@ -1,0 +1,162 @@
+{
+ "lots": [
+  {
+   "cdid": 3089451,
+   "lot": 1159,
+   "what_it_is": "Shoprider fully enclosed cabin mobility scooter (RainRider type), red, double gull-style doors, rear storage box, charger and keys. Described as 2025 and barely used.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 9,
+   "sold": [
+    {
+     "price": "$600 hammer (sale_price 60000 cents, 2 bids)",
+     "date": "Gowans listed 2026-02-05, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 389497",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=shoprider&page%5Bnumber%5D=1",
+     "aud_price": 600,
+     "note": "Kind SOLD, AUD, no conversion. same_item: category guide only. Page opened (API JSON re-run by verifier, title 'SHOPRIDER MOBILITY SCOOTER WITH BACK STORAGE & CANOPY - 2 KEYS & CHARGER IN OFFICE'). An ordinary open 4-wheel Shoprider with a canopy, not the enclosed RainRider cabin, so it cannot set a maximum bid. Shows only that a used Shoprider makes $600+ hammer in Tasmania."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$5,800",
+     "date": "Added 12-01-2022, expired 27-02-2022",
+     "venue": "eBility classifieds (VIC), private seller",
+     "url": "https://ebility.com.au/en/categories/equipment-and-assistive-technology/ad/wheelchairs-mobility-scooters,151/vic,30l/mobility-scooter-fully-enclosed,1487.html",
+     "aud_price": 5800,
+     "note": "Kind ASKING, AUD. same_item: yes (Shoprider Rainrider named in ad). Page opened by verifier: price $5,800, used, missing key, 2 new batteries, solid tyres; ad says new models retail $12,000 to $15,000. Private asking price, over 4 years old, not known to have sold. Lot 1159 is said to be near new with keys and charger."
+    },
+    {
+     "price": "$11,200 'Price Guide'",
+     "date": "live, seen 2026-10-16",
+     "venue": "MedicalSearch Australia listing for Metro Mobility (dealer), Shoprider RainRider cabin scooter",
+     "url": "https://www.medicalsearch.com.au/mobility-scooters-i-rainrider-cabin-scooter/p/186738",
+     "aud_price": 11200,
+     "note": "Kind ASKING, AUD (researcher wrongly said US$5,242.50; the page actually shows 'Price Guide: $11,200' in AUD, so corrected). same_item: yes, new. Page opened. New dealer price guide, not a resale value."
+    }
+   ],
+   "guide_low_aud": 5800,
+   "guide_high_aud": 11200,
+   "guide_summary": "All surviving same-item evidence is ASKING: a 2022 private used ad at $5,800 and a new dealer price guide of $11,200 (both AUD, no conversion). No SOLD or UNSOLD result for an enclosed RainRider found anywhere. The only SOLD is an ordinary open Shoprider at Gowans, $600 hammer, category guide only and outside this range.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD evidence in the last 24 months, so keep_max_hammer = 0 and flip_max_hammer = 0 by rule. For reference only (not a bid basis): the $600 Gowans hammer is a different, much cheaper model.",
+   "confidence": "Low",
+   "confidence_reason": "Shoprider badge read and enclosed cabin clear in photos, but the rear model badge is unreadable and value rests on asking prices only (one 4 years old).",
+   "dropped_entries": "Unicare Health $12,940: dropped, verifier opened the page and it shows POA / request a quote, no price. MedicalSearch entry: kept but corrected from a claimed US$5,242.50 to the AUD $11,200 price guide actually on the page; the USD figure and 1.5 rate are discarded.",
+   "key_photo_findings": "Fully enclosed red and white cabin with clear acrylic doors that open both sides, SHOPRIDER badge on front, rear badge too small to read at enlargement, wiper, lights, indicators, tiller with keys in ignition, padded seat, carpeted floor, rear grey top box with charger and manual still in plastic. Tyres look clean and barely worn. Photographed outside at Armitage.",
+   "condition": "Appears very clean and near new: no visible scuffs on body panels, upholstery unmarked, charger bagged. Batteries and running condition unknown.",
+   "question_for_armitage": "Please confirm the exact model (Shoprider RainRider?) and build or purchase date, whether it powers up, drives and charges, battery size and age, odometer or hours if shown, whether both keys and the manual are included, and any cracks or scratches on the clear doors. How is it loaded for pickup (it will need a trailer or ute with ramps)?"
+  },
+  {
+   "cdid": 3089302,
+   "lot": 1009,
+   "what_it_is": "Large oil on canvas, Tamar River scene with jetty and a ruined tower, signed 'Higgs' lower right in orange, dated 1900, in a gilt frame, with handwritten family provenance notes attributing it to Joshua Higgs (architect and surveyor, died 1903).",
+   "triage": "NEAR MISS",
+   "market_score": 6,
+   "sold": [],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "Nothing survives: no SOLD, UNSOLD or ASKING price found. Art Record lists Joshua Higgs (Junior and Senior) works sold at Leonard Joel, Deutscher-Menzies and Christie's Hobart, but all prices are paywalled, so none can be used. No Gowans or Armitage Higgs results.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD evidence, so both maximums are 0.",
+   "confidence": "Low",
+   "confidence_reason": "Signature 'Higgs 1900' read in photo 2 and the provenance notes support Joshua Higgs, but there is no verified price for any Higgs work.",
+   "dropped_entries": "Researcher submitted no entries. Verifier searches (WebSearch for Joshua Higgs sale prices and Invaluable artist page; Gowans API 'higgs') found only paywalled Art Record listings, no prices.",
+   "key_photo_findings": "Photo 2: signature 'Higgs' in orange paint with date reading 1900 lower right, no initial clearly visible. Photo 4: handwritten note 'Re painting of Tamar River by Joshua Higgs 1900', family chain of ownership (Florence Saxton, Alfred Charles Hall estate), family tree from Mrs Higgs of Spreyton (March 1992): Joshua Higgs surveyor d.1897 m. Ann; son Joshua d.1903 architect; correction slip says gift made by Joshua's widow Mary after his death in 1903, Alfred and Nellie married Dec 1904. Painting shows a cottage-style tower ruin and jetty on a calm river with bush foreground.",
+   "condition": "Paint surface looks sound in the photos, with no obvious tears or flaking; the sky is pale and could be faded or grimy. Frame is a later gilt moulding with a light inner slip. Back of canvas not shown.",
+   "question_for_armitage": "Please check the back of the canvas and stretcher for any inscription, labels or relining, the canvas size, and whether there is any flaking, tears or old restoration. Are the provenance notes included with the lot?"
+  },
+  {
+   "cdid": 3089453,
+   "lot": 1161,
+   "what_it_is": "Ecovacs Deebot T30 Pro Omni robot vacuum and mop with self-empty, wash and dry base station, white, with a retail receipt for $1,100 (product code DEEBOT-T30-PRO, 24 month warranty).",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 6,
+   "sold": [
+    {
+     "price": "$220 hammer (22000 cents, 10 bids)",
+     "date": "Gowans listed 2026-05-03",
+     "venue": "Gowans Auctions, Hobart, lot id 407221",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ecovacs+deebot&page%5Bnumber%5D=1",
+     "aud_price": 220,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API re-run). Ecovacs Deebot N20 Plus with self-empty station only, a lower model with no wash/dry. Premium extra."
+    },
+    {
+     "price": "$110 hammer (11000 cents, 6 bids)",
+     "date": "Gowans listed 2026-04-19",
+     "venue": "Gowans Auctions, Hobart, lot id 404158",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ecovacs+deebot&page%5Bnumber%5D=1",
+     "aud_price": 110,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened. Ecovacs Deebot N20, no station, entry level."
+    },
+    {
+     "price": "$230 hammer (23000 cents, 29 bids)",
+     "date": "Gowans listed 2026-06-14",
+     "venue": "Gowans Auctions, Hobart, lot id 416489",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=robot+vacuum&page%5Bnumber%5D=1",
+     "aud_price": 230,
+     "note": "Kind SOLD, AUD. same_item: category guide (closest class: a premium self-wash/dry robot from Dreame, L40S Ultra, in box). Page opened. Best local signal of what an Omni-class unit makes at auction in Tasmania."
+    },
+    {
+     "price": "$170, $180, $130, $135 hammers",
+     "date": "Gowans listed 2026-09-13, 2026-05-17, 2026-07-05, 2026-10-11",
+     "venue": "Gowans Auctions, Hobart, lot ids 438111 (Dreame D20 Plus), 410524 (Eureka E20 Plus), 421682 and 444453 (Mova E20 Plus)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=robot+vacuum&page%5Bnumber%5D=1",
+     "aud_price": 180,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened. Self-empty dock robots, lower tier than T30 Pro Omni. Researcher's '$140-$170' label understated the top (Eureka $180)."
+    },
+    {
+     "price": "$85, $100, $65 hammers",
+     "date": "Gowans listed 2026-09-20, 2026-09-27, 2026-10-04",
+     "venue": "Gowans Auctions, Hobart, lot ids 439834, 441290, 442892 (Roborock Q7 with station)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=robot+vacuum&page%5Bnumber%5D=1",
+     "aud_price": 100,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened. Mid-tier docked units, well below this lot."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "A$403.99 (Very Good), A$434.99 (Like New)",
+     "date": "live, seen 2026-10-16",
+     "venue": "Reebelo Australia (refurbished dealer)",
+     "url": "https://reebelo.com.au/collections/ecovas-deebot-t30-pro-omni-robot-vacuum-cleaner",
+     "aud_price": 404,
+     "note": "Kind ASKING, AUD. same_item: yes. Page opened by verifier, prices confirmed. Professionally refurbished with 12-month warranty; best guide to used retail ceiling."
+    },
+    {
+     "price": "$997 (new)",
+     "date": "live, seen 2026-10-16",
+     "venue": "JB Hi-Fi",
+     "url": "https://www.jbhifi.com.au/products/ecovacs-deebot-t30-pro-robot-vacuum",
+     "aud_price": 997,
+     "note": "Kind ASKING, AUD. same_item: yes (model DEEBOT-T30-PRO-OMNI). Page opened by verifier, price $997 shown. New retail; consistent with the $1,100 receipt. Not a resale value. Big W $1,399 and Ecovacs $1,499 were snippet only and are not used."
+    },
+    {
+     "price": "$399 lowest refurbished (claimed)",
+     "date": "aggregator snippet, updated 2026-10-05",
+     "venue": "Buywisely (eBay AU refurbished listings)",
+     "url": "https://buywisely.com.au/au/product/ecovacs-deebot-t30-pro-omni-vacuum-cleaner",
+     "aud_price": 399,
+     "note": "Kind ASKING. Snippet only, page returns 403, NOT verified. Kept as a lead only, excluded from the guide range."
+    }
+   ],
+   "guide_low_aud": 404,
+   "guide_high_aud": 997,
+   "guide_summary": "Same-item evidence is ASKING only: refurbished A$404 to A$435 (Reebelo) and new $997 (JB Hi-Fi), all AUD, no conversion. SOLD evidence is all category guide from Gowans: other-model robot vacuums at $65 to $230 hammer, the closest class (Dreame L40S Ultra) $230. No UNSOLD. No same-model SOLD result found.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD evidence, so both maximums are 0 by rule. For context only: the closest Tasmanian sale (Dreame L40S Ultra, $230 hammer = $280.60 all-in at 22%) suggests local auction value around $200 to $300 hammer, against refurbished retail asking about $404.",
+   "confidence": "Low",
+   "confidence_reason": "Model read from receipt and station looks right, but no same-model SOLD result; value rests on asking prices and other-model auction sales.",
+   "dropped_entries": "HiBid Texas T30S US$320: dropped (page 403, snippet only, different model T30S, overseas). eBay ex-demo $1,099 'marked sold': dropped (eBay closed to us, snippet only, Buy It Now ask, year not shown). Grays T30S: dropped, page opened but no price or result shown. Buywisely $399: snippet only, kept only as a lead. USD rate no longer needed.",
+   "key_photo_findings": "Photo 1: tall white Omni station with purple-tinted water tanks and Ecovacs logo, robot docked, looks clean. A lot tag on the station reads '1215', not 1161 (could be an old tag or a lot mix-up). Photo 2: robot top with TrueDetect lidar cap, clean, little wear. Photo 3: receipt for ECOVACS DEEBOT T30 PRO ROBOT VACUUM, $1,100.00, product code DEEBOT-T30-PRO, batch 10424130, 24 months manufacturer warranty; date and store name not visible (top blacked out).",
+   "condition": "Looks clean and lightly used. Not known whether it works, whether the mop pads, side brushes, dust bags, power lead and ramp are included, or whether it has been unpaired from the previous owner's app.",
+   "question_for_armitage": "The station carries a lot tag reading 1215, so please confirm this is lot 1161. Does it power on and dock, are the power cord, mop pads, brushes and dust bag included, and is the purchase date on the receipt (for remaining warranty)? Has it been reset from the previous owner's Ecovacs account?"
+  }
+ ]
+}

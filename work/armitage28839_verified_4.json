@@ -1,0 +1,252 @@
+{
+ "lots": [
+  {
+   "cdid": 3088262,
+   "lot": 818,
+   "what_it_is": "Two bags: (1) Dior men's line Saddle Pouch (Kim Jones era) in black Dior Oblique jacquard with black leather trim and a black nylon webbing strap with a black metal quick-release buckle, in a Dior box with dust bag and Dior paperwork; (2) black Prada Saffiano leather small zip camera/waist pouch with gold-tone triangle logo plaque, gold-tone zip, a gold chain strap and a black leather strap. Lot title: PRADA WAIST BAG & CHRISTIAN DIOR SADDLE BAG. Authenticity not confirmable from photos.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 7,
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "USD 1,850 (retail new; last sale field empty)",
+     "aud_price": 2677,
+     "date": "live, seen 2026-10-16",
+     "venue": "StockX (UK site)",
+     "url": "https://stockx.com/en-gb/dior-saddle-pouch-oblique-jacquard-black",
+     "note": "Kind ASKING (new retail reference). Currency USD, rate 1.447. same_item: close (Dior Saddle Pouch Oblique Jacquard Black, 21 x 16 x 5 cm, adjustable leather and nylon strap, matches the lot's Dior piece). Page opened (WebFetch): retail only, no last sale or market data. A new retail price, well above what a pre-owned bag fetches at a regional auction."
+    },
+    {
+     "price": "GBP 750 (page also shows a conflicting 'Regular price GBP 320'); sold out",
+     "aud_price": 1438,
+     "date": "listing date unknown, seen 2026-10-16",
+     "venue": "Bagista (UK pre-loved dealer)",
+     "url": "https://bagista.co.uk/collections/dior-sold/products/pre-loved-dior-saddle-belt-pouch-oblique-ghw",
+     "note": "Kind ASKING. Currency GBP, rate 1.917. same_item: category guide (women's Saddle Belt Pouch in navy Oblique, a smaller, different model with a slim belt, not the men's black jacquard Saddle Pouch with webbing strap). Page opened: great pre-loved condition, sold out in the 'Dior Sold' collection but the price actually paid is not stated and the page is internally inconsistent, so not SOLD."
+    }
+   ],
+   "guide_low_aud": 1438,
+   "guide_high_aud": 2677,
+   "guide_summary": "0 sold, 0 unsold, 2 asking. AUD 2,677 is the new retail price of the same Dior model (StockX) and AUD 1,438 a UK dealer price for a smaller women's Oblique belt pouch. No price paid evidence for either the Dior or the Prada piece, and nothing at all survives for the Prada bag. Rates from ECB via frankfurter.dev, 15 Oct 2026: 1 USD = 1.447 AUD, 1 GBP = 1.917 AUD, 1 EUR = 1.622 AUD.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD evidence, so keep_max_hammer = 0 and flip_max_hammer = 0. Gowans API (dior, prada) only returned perfume, sunglasses and dioramas. WebSearch budget was exhausted in this run, so no new Armitage or auction-house searches were possible; Invaluable search page is client-rendered and gave no results. If genuine, the Dior pouch alone would likely resell well into the hundreds (pre-owned asking prices run roughly half to two-thirds of the AUD 2,677 retail), but that is unproven here.",
+   "confidence": "Low",
+   "confidence_reason": "Asking evidence only, no sold results, and authenticity of both bags cannot be checked from photos.",
+   "dropped_entries": "eBay.com 389724179556 (USD 1,157.72, navy/beige Oblique saddle waist bag): snippet only, eBay closed to us, different colourway and the women's belt model, dropped. Baguseek dior-blue (USD 1,389): page 403, snippet only, blue women's 2019 belt bag, dropped. Baguseek Slim saddle belt bag (USD 912): snippet only, different smaller model, dropped. eBay.de 267335732223 (EUR 685.11 Bordeaux pouch): snippet only, different colour and model, result unknown, dropped. eBay.de 306529704906 (USD 598 Prada Saffiano chain shoulder bag): snippet only, different shape, dropped. dev-fsa-xgleyh.au1.ironstar.io Prada Galleria page: a development server that would not connect (curl 000), unverified, Galleria totes are a different and dearer bag, dropped. Researcher's assumed rates replaced with ECB rates.",
+   "key_photo_findings": "Photo 1-3: DIOR-branded navy box and blue dust bag, Dior paperwork/booklet visible. The Dior bag is black-on-black Oblique jacquard saddle shape with black leather piping and tab, wide black webbing strap with lettering and a black metal quick-release buckle (men's Saddle Pouch pattern). Prada pouch is black Saffiano-grain leather with gold triangle plaque reading PRADA MILANO, gold zip with leather pull, gold chain strap and black leather strap with gold clasps. Both look clean and lightly used or unused. No serial tags, date codes or authenticity cards are shown.",
+   "condition": "Both appear near new from the photos; corners and handles not shown close up.",
+   "question_for_armitage": "Are there receipts, authenticity cards or a Prada card with these bags? Can you confirm the Dior inside tag/serial and whether the Prada has an inside 'Prada Milano' plate and serial label? Any wear to corners, piping or the jacquard?"
+  },
+  {
+   "cdid": 3088284,
+   "lot": 840,
+   "what_it_is": "Ian Fleming, On Her Majesty's Secret Service, Jonathan Cape 1963, ordinary trade first edition (copyright page shows only 'First published 1963', consistent with a first impression), in the brown-cloth trade binding with white ski-track wave on the front board and silver-white O.H.M.S. spine. No dust jacket. The limitation statement on the copyright page is printed in every trade copy and does not make it a limited copy. With a worthless Modern Medical Counsellor.",
+   "triage": "NEAR MISS",
+   "market_score": 3,
+   "sold": [
+    {
+     "price": "14000 cents = $140 hammer",
+     "aud_price": 140,
+     "date": "listed 2025-09-28",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ian+fleming&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. AUD. same_item: category guide only (QTY OF ASST IAN FLEMING BOOKS INCL 1ST EDN, lot 363935, 8 bids; titles not stated). API JSON read directly. Shows a Tasmanian buyer pool for Fleming firsts but cannot set a bid for this title. Premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "US$50.00",
+     "aud_price": 72,
+     "date": "live, seen 2026-10-16",
+     "venue": "Princeton Antiques Bookshop via AbeBooks",
+     "url": "https://www.abebooks.com/first-edition/Majestys-Secret-Service-Fleming-Ian-CAPE/32415504713/bd",
+     "note": "Kind ASKING. USD, rate 1.447. same_item: yes (Cape 1963 1st printing, brown hardback, no jacket mentioned, general wear, front hinge reinforced, worn top and base of spine). Page opened. Closest match to the lot's condition."
+    },
+    {
+     "price": "US$50.00",
+     "aud_price": 72,
+     "date": "live, seen 2026-10-16",
+     "venue": "Secret Bookshop via AbeBooks",
+     "url": "https://www.abebooks.com/first-edition/Majestys-Secret-Service-Ian-Fleming-Jonathan/32490915983/bd",
+     "note": "Kind ASKING. USD, rate 1.447. same_item: close (brown boards, silver spine text, 2nd impression, with a chipped jacket, spine loose and frayed). Page opened. Confirms brown cloth is a trade binding."
+    },
+    {
+     "price": "US$60.00",
+     "aud_price": 87,
+     "date": "live, seen 2026-10-16",
+     "venue": "Chapter 1 via AbeBooks",
+     "url": "https://www.abebooks.com/first-edition/Majestys-Secret-Service-Fleming-Ian-Jonathan/30511590794/bd",
+     "note": "Kind ASKING. USD, rate 1.447. same_item: category guide (Cape 1963 first, no jacket, but rebound in recent full leather). Page opened."
+    },
+    {
+     "price": "US$100.00",
+     "aud_price": 145,
+     "date": "live, seen 2026-10-16",
+     "venue": "Old Algonquin Books via AbeBooks",
+     "url": "https://www.abebooks.com/first-edition/Majestys-Secret-Service-Fleming-Ian-Jonathan/31614737653/bd",
+     "note": "Kind ASKING. USD, rate 1.447. same_item: close but better (black-board trade first with 16s jacket, no chips). Page opened."
+    },
+    {
+     "price": "GBP 200.00",
+     "aud_price": 383,
+     "date": "live, seen 2026-10-16 (page offers 'email when back in stock')",
+     "venue": "St Mary's Books (UK)",
+     "url": "https://www.stmarysbooks.com/products/120070/on-her-majestys-secret-service",
+     "note": "Kind ASKING. GBP, rate 1.917. same_item: close but better (first impression, Gilbert binding 'b', with Chopping-design jacket, corners chipped). Page opened at www.stmarysbooks.com (the researcher's new.www subdomain did not resolve). The jacket accounts for most of the price; the lot has none."
+    }
+   ],
+   "guide_low_aud": 72,
+   "guide_high_aud": 383,
+   "guide_summary": "0 same-item sold, 0 unsold, 5 asking. Jacketless or rebound trade firsts are asked at AUD 72 to 87; copies with jackets AUD 145 to 383. One Gowans sold lot ($140 for a mixed lot of Fleming books incl a first) is category guide only. Rates from ECB via frankfurter.dev, 15 Oct 2026: 1 USD = 1.447 AUD, 1 GBP = 1.917 AUD, 1 EUR = 1.622 AUD.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD result found, so both maximums are 0. WebSearch budget was exhausted, so no new Armitage or auction searches; Gowans API checked (ian fleming, fleming first edition, majesty secret). Realistic value for a worn jacketless trade first is roughly AUD 40 to 80 at auction.",
+   "confidence": "Low",
+   "confidence_reason": "Identification is clear (trade first, binding and copyright page seen) but value rests on dealer asking prices only.",
+   "dropped_entries": "All researcher entries for the signed limited issue dropped as a different item (the lot is the trade issue, not quarter vellum, and no number or signature): RR Auction 2009 US$10,450 (re-check returned 403), Bonhams 2021 GBP 8,287.50 (snippet only), Hindman 2024 US$8,255 (snippet only, signed trade copy, also not comparable as the lot is unsigned), RR Auction estimate US$25,000+ (snippet only, estimate is not UNSOLD evidence anyway), Lucius Books GBP 12,500 (re-opened: no. 219 of 250 limited), Raptis US$20,000 (snippet only), collecting-fleming guide (commentary, not a price). St Mary's Books kept but corrected: it is a jacketed first impression, URL corrected to www.stmarysbooks.com.",
+   "key_photo_findings": "Photo 1: dark brown cloth, white double ski-track wave on front board, spine IAN FLEMING and large silver O.H.M.S. with Cape urn device, rubbed corners and frayed spine ends, no jacket. Photo 2: title page Jonathan Cape, Thirty Bedford Square. Photo 3: copyright page 'First published 1963 (c) 1963 by Glidrose Productions Ltd', the standard 250 numbered copies statement, printed by Alden Press, bound by A. W. Bain; no later-impression line. No frontispiece, limitation number or signature seen.",
+   "condition": "Worn, jacketless; rubbed edges and corners, spine ends frayed; text block appears clean in the two pages shown.",
+   "question_for_armitage": "Is there any numbered, signed limitation leaf or Amherst Villiers frontispiece portrait in the Fleming (very unlikely)? Any loose hinges, inscriptions or foxing?"
+  },
+  {
+   "cdid": 3088325,
+   "lot": 881,
+   "what_it_is": "Small Victorian/Edwardian-style repousse (pressed, likely hollow) floral pendant in rose gold colour, about 3.5 cm long, on two short fine chains with a swivel clip and a ring (fob style). Lot title says it acid tests as 9ct; no hallmark visible.",
+   "triage": "KEEP",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "4000 cents = $40 hammer",
+     "aud_price": 40,
+     "date": "listed 2026-05-03",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=unmarked+9ct+pendant&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. AUD. same_item: close (UNMARKED 9CT GOLD GREEN STONE PENDANT, lot 406575, 4 bids, weight not stated). API JSON read directly. Premium extra."
+    },
+    {
+     "price": "6000 cents = $60 hammer",
+     "aud_price": 60,
+     "date": "listed 2026-02-01",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=unmarked+9ct+pendant&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. AUD. same_item: close (UNMARKED 9CT GOLD & STONE PENDANT, lot 386840, 9 bids, weight not stated). API JSON read directly."
+    },
+    {
+     "price": "7000 cents = $70 hammer",
+     "aud_price": 70,
+     "date": "listed 2026-10-11",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=unmarked+9ct+pendant&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. AUD. same_item: close (UNMARKED 9CT GOLD CAMEO PENDANT/BROOCH, lot 443356, 6 bids; cameo adds bulk without gold). API JSON read directly."
+    },
+    {
+     "price": "21000 cents = $210 hammer",
+     "aud_price": 210,
+     "date": "listed 2026-05-24",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=unmarked+9ct+gold+pendant&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. AUD. same_item: close (UNMARKED 9CT GOLD PENDANT, lot 411069, 7 bids, weight not stated, probably heavier). API JSON read directly."
+    },
+    {
+     "price": "9000 cents = $90 hammer",
+     "aud_price": 90,
+     "date": "listed 2026-08-09",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=9ct+gold+cameo+pendant&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. category guide (9CT GOLD CAMEO PENDANT ON CHAIN, lot 428916, 2 bids). API read."
+    },
+    {
+     "price": "14000 cents = $140 hammer",
+     "aud_price": 140,
+     "date": "listed 2026-07-19",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=9ct+pendant+chain&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. category guide (9CT GOLD PENDANT ON 9CT GOLD CHAIN - 2.2GM TOTAL, lot 424077, 11 bids, about $64/g hammer). API read."
+    },
+    {
+     "price": "20000 cents = $200 hammer",
+     "aud_price": 200,
+     "date": "listed 2026-08-03",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=9ct+pendant+chain&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. category guide (9CT GOLD CHAIN & PENDANT - 3.1GM TOTAL, lot 427321, 6 bids, about $65/g hammer). API read."
+    },
+    {
+     "price": "22000 cents = $220 hammer",
+     "aud_price": 220,
+     "date": "listed 2026-08-30",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=9ct+pendant+chain&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. category guide (9CT GOLD WIREWORK PENDANT ON CHAIN, lot 433969, 7 bids, weight not stated). API read."
+    },
+    {
+     "price": "3000 cents = $30 hammer",
+     "aud_price": 30,
+     "date": "listed 2025-12-14",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=9ct+pendant+chain&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. category guide (9CT GOLD PENDANT - 0.6GM ON CHAIN, lot 382329, 2 bids): floor for a tiny piece. API read."
+    },
+    {
+     "price": "32000 cents = $320 hammer",
+     "aud_price": 320,
+     "date": "listed 2026-05-03",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=victorian+gold&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. category guide only (VICTORIAN SEAL INCL UNMARKED 9CT GOLD, lot 406403, 8 bids; heavier seal fob, different form). API read."
+    },
+    {
+     "price": "6000 cents = $60 hammer",
+     "aud_price": 60,
+     "date": "listed 2026-08-03",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=victorian+pendant&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. category guide (CLEAR STONE VICTORIAN PENDANT NECKLACE, lot 427282, not stated as gold). Base-metal outcome marker. API read."
+    },
+    {
+     "price": "4500 cents = $45 hammer",
+     "aud_price": 45,
+     "date": "listed 2026-05-17",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rolled+gold+pendant&page%5Bnumber%5D=1",
+     "note": "Kind SOLD. category guide (SMALL CAMEO PENDANT ON 14K ROLLED GOLD/PLATED CHAIN, lot 409504). Rolled-gold outcome marker. API read."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "sale_price 0, 7 bids (no reserve or last bid shown)",
+     "aud_price": 0,
+     "date": "listed 2026-09-13",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=9ct+pendant+chain&page%5Bnumber%5D=1",
+     "note": "Kind UNSOLD. category guide (9CT GOLD PENDANT ON CHAIN, lot 437220). API read; passed in or unsold, reason not given. Weak signal."
+    }
+   ],
+   "asking": [
+    {
+     "price": "GBP 300.00",
+     "aud_price": 575,
+     "date": "live, listed 2023-08-01, seen 2026-10-16",
+     "venue": "Dobson Fine Jewellery (UK dealer)",
+     "url": "https://dobsonfinejewellery.co.uk/products/antique-9ct-rose-gold-ornate-floral-pendant-necklace",
+     "note": "Kind ASKING. GBP, rate 1.917. same_item: category guide (downgraded from close): page opened via the Shopify product JSON; Edwardian 9ct rose gold floral pendant marked 9ct, on a solid 9ct belcher chain, 8.9 g total, great condition. Much heavier and marked, so a high retail marker only."
+    }
+   ],
+   "guide_low_aud": 40,
+   "guide_high_aud": 210,
+   "guide_summary": "Range is the four close Gowans SOLD hammers for unmarked 9ct pendants ($40, $60, $70, $210, all 2026). Category-guide sold results for weighed 9ct pendants with chains run $30 (0.6 g) to $220, about $64 to $65 per gram hammer. 1 unsold (category guide) and 1 asking (UK dealer GBP 300 = AUD 575 for a heavier marked piece with chain, category guide). All AUD hammer, Gowans premium extra. Rates from ECB via frankfurter.dev, 15 Oct 2026: 1 USD = 1.447 AUD, 1 GBP = 1.917 AUD, 1 EUR = 1.622 AUD.",
+   "keep_max_hammer": 30,
+   "flip_max_hammer": 20,
+   "working": "keep_max_hammer: lowest close same-kind SOLD = $40 (Gowans unmarked 9ct pendant, May 2026); 40 / 1.22 = 32.79, rounded down to $30. flip_max_hammer: likely resale about $65 hammer (middle of the $40 to $70 cluster of small unmarked 9ct pendants), less about 15% selling commission (about $10), no outbound postage if resold locally = $55; 55 / 2.44 = 22.5, rounded down to $20. Flip margin is too thin to bother, so triage KEEP only. The $210 lot is excluded from the floor as its weight is unknown. If weighed at viewing, a gram rate of about $60 hammer per gram for 9ct (Gowans) is a better guide, but the pendant looks hollow and light.",
+   "confidence": "Low",
+   "confidence_reason": "No hallmark seen (only Armitage's acid-test note), weight unknown, pendant may be hollow, and the sold comparisons are close in kind rather than the same item.",
+   "dropped_entries": "eBay.de 177065187577 (AU$680, 9ct rose gold Victorian locket): snippet only, eBay closed to us, a locket not a pendant, likely hallmarked and heavier, sale not known, dropped. Researcher said the acid test result was unknown: the lot title states it acid tests as 9ct, corrected. Gowans entries re-checked in the API (all prices, bid counts and dates match); researcher URLs were search URLs, kept as given. Dobson downgraded from close to category guide (marked, 8.9 g with solid 9ct chain).",
+   "key_photo_findings": "Single photo against a tape: pendant body about 3.5 cm long, pressed repousse scrolls, leaf and a small flower, rose gold colour with even wear, looks hollow-backed (back not shown). Two short fine curb chains from a small swivel/bolt clip, one ending in a split ring: fob or chatelaine style rather than a neck chain. No hallmark or stamp visible.",
+   "condition": "Appears sound and complete; light surface wear; back and any dents not shown.",
+   "question_for_armitage": "What is the weight in grams? Are the chains and clip also gold (acid tested), or only the pendant? Is the back hollow or dented, and is there any mark on the back or the bolt ring?"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{"lots":[
+{"cdid":3067278,"lot":817,"what_it_is":"Penfolds RWT Shiraz 2005, Barossa Valley, 750ml, bottle no. 048455, single bottle, no box","triage":"KEEP","market_score":6,
+"sold":[
+{"price":"$138 (Langtons price guide, Year Sold 2026, Sale Price 138; price range shown $150-190)","aud_price":138,"date":"2026 (year only shown)","venue":"Langtons auction (price guide / valuation tool)","url":"https://www.langtons.com.au/priceguide?searchPrice=Penfolds+RWT+Shiraz","note":"Page opened (curl with cookie jar). Kind: SOLD. Currency AUD, no conversion. same_item: yes (PENFOLDS RWT Shiraz, Barossa Valley 2005, 0.75). One figure is shown for every condition variant, so it is the latest recorded sale for the wine and vintage, not a lot-specific result; the guide does not say whether it is hammer or includes Langtons' buyer's premium (16.5% shown on their live RWT lot). Comparable condition."},
+{"price":"$127 (Langtons price guide, 'PENFOLDS RWT Shiraz (Cork), Barossa Valley 2005', Year Sold 2026, Sale Price 127; range $150-200)","aud_price":127,"date":"2026 (year only shown)","venue":"Langtons auction (price guide / valuation tool)","url":"https://www.langtons.com.au/priceguide?searchPrice=Penfolds+RWT+Shiraz","note":"Page opened. Kind: SOLD. AUD. same_item: yes, cork-sealed listing of the same wine (Armitage bottle has a foil capsule, so presumably cork). Same caveats as above: year only, hammer vs premium not stated."}],
+"unsold":[],
+"asking":[
+{"price":"$199 (marked Sold Out)","aud_price":199,"date":"seen 2026-09-29, listing date not shown","venue":"Nick's Wine Merchants (retail)","url":"https://www.nicks.com.au/products/2005-penfolds-rwt-barossa-shiraz","note":"Page opened. Kind: ASKING (past retail ask, now sold out; not a price paid). AUD. same_item: yes. Retail stock, so above auction value."},
+{"price":"$195 per bottle, in stock (4 bottles)","aud_price":195,"date":"live, seen 2026-09-29","venue":"Cellarit (secondary market retail)","url":"https://www.cellarit.com.au/wine-118150-penfolds-rwt-shiraz-2005.aspx","note":"Page opened. Kind: ASKING. AUD. same_item: yes. The earlier $285 ask was not on the page and is dropped."}],
+"guide_low_aud":127,"guide_high_aud":199,
+"guide_summary":"2 sold (Langtons price guide, 2026, $127 and $138), 0 unsold, 2 asking ($195-199 retail). Asking prices run about 45% above sold. All AUD.",
+"flip_max_hammer":35,"keep_max_hammer":100,
+"working":"keep: lowest SOLD $127 / 1.22 = $104.10, round down to $100 (all-in $122). flip: likely resale $132 (mid of $127-138 SOLD) less 15% auction selling commission ($19.80) less $20 outbound postage = $92.20; / 2.44 = $37.79, round down to $35 (all-in $42.70).",
+"confidence":"Medium",
+"confidence_reason":"Label, vintage and bottle number read clearly in the photos and two Langtons price guide sale figures agree, but they give year only and do not say whether the figure is hammer or includes premium, so not High.",
+"condition":"Label clean and unmarked, red capsule intact, fill high in neck just below the capsule, no box. Handwritten vendor tag (reads about '4434/18 SSKI') stuck on the shoulder.",
+"key_photo_findings":"Front label reads Penfolds RWT 2005 Shiraz Barossa Valley, bottle number 048455, 750ml. Fill into upper neck with a small headspace under the capsule. No visible seepage or label damage.",
+"question_for_armitage":"Can you confirm there is no seepage under the capsule and say what the handwritten tag on the shoulder refers to (storage or provenance)?",
+"dropped_entries":"Langtons live lot auc-mas-15993-2005-1 'price 137': page opened, but the lot shows $0.00 bid and no estimate; 137 is only a data-layer field (it matches the price guide figure), not a bid, estimate or result, so dropped. Cellarit $285 figure not on the page, dropped."},
+{"cdid":3067279,"lot":818,"what_it_is":"Penfolds Grange Bin 95, vintage 1997, bottled 1998, 750ml, 14.0% alc, single bottle, no box","triage":"KEEP","market_score":8,
+"sold":[
+{"price":"$496 (Langtons price guide, 'PENFOLDS Bin 95 Grange Shiraz, South Australia' 1997, 0.75, price range $500-550, Year Sold 2026, Sale Price 496)","aud_price":496,"date":"2026 (year only shown)","venue":"Langtons auction (price guide / valuation tool)","url":"https://www.langtons.com.au/on/demandware.store/Sites-langtons-Site/en_AU/Auction-LoadMorePriceGuide?limit=5&offset=41&searchPrice=Bin+95+Grange&totalCount=46&loadMore=true","note":"Page opened (price guide load-more page for the search 'Bin 95 Grange'). Kind: SOLD. AUD. same_item: yes. One figure across 58 condition variants, so it is the latest recorded sale for the vintage, not a specific lot. Hammer vs premium-inclusive not stated. Comparable condition (clean label, neck fill)."}],
+"unsold":[],
+"asking":[
+{"price":"$899 per bottle (6 in stock)","aud_price":899,"date":"live, seen 2026-09-29","venue":"Langtons Fine Wine Store (retail)","url":"https://www.langtons.com.au/p/penfolds-bin-95-grange-shiraz--south-australia-1997-bottle/10315-1997-1.html","note":"Page opened. Kind: ASKING (retail). AUD. same_item: yes. Dealer retail ask, well above auction."},
+{"price":"Estimate $500-550; current bid $495 (1 bid) + 9% BPA = $539.55","aud_price":495,"date":"live, seen 2026-09-29, closes Sun 4 Oct 2026 9 PM AET","venue":"Langtons auction lot 346 (live)","url":"https://www.langtons.com.au/p/penfolds-bin-95-grange-shiraz--south-australia-1997-bottle/auc-var-27518865.html","note":"Page opened. Kind: ASKING (live estimate and bid, not a result). AUD. same_item: yes but 'Minor Label Damage', slightly worse than the Armitage bottle. Check the result after 4 Oct."}],
+"guide_low_aud":495,"guide_high_aud":899,
+"guide_summary":"1 sold (Langtons 2026, $496), 0 unsold, 2 asking (live auction bid $495, est $500-550; retail $899). The live auction lines up with sold; retail runs about 80% above. All AUD.",
+"flip_max_hammer":160,"keep_max_hammer":405,
+"working":"keep: SOLD $496 / 1.22 = $406.56, round down to $405 (all-in $494.10). flip: resale $496 less 15% auction selling commission ($74.40) less $25 insured outbound postage = $396.60; / 2.44 = $162.54, round down to $160 (all-in $195.20). A flip at that hammer is unlikely to win.",
+"confidence":"Medium",
+"confidence_reason":"Label, vintage, bottling year and alcohol read clearly in the photos; one good SOLD figure (Langtons 2026) backed up by a live Langtons estimate at the same level. Only one SOLD entry, year only, so not High.",
+"condition":"Label clean, red capsule intact, fill high in neck with a small gap just below the capsule, no box. Handwritten tag on the shoulder (reads about '16437/21 NKKI').",
+"key_photo_findings":"Label reads Penfolds Grange Bin 95, Vintage 1997, Bottled 1998, 750ml, 14.0% alc/vol, 'Dedicated to Max Schubert 1915-1994' at top left. Genuine-looking label typography. Small headspace under the capsule, no visible seepage.",
+"question_for_armitage":"Please confirm there is no seepage or staining under the capsule, that the capsule is original and turns freely, and what the handwritten tag '16437/21' refers to (provenance, cellar record or earlier auction?).",
+"dropped_entries":"Wine-Searcher AU average $838 (Cellarit $795): the site is closed to us and there is no search snippet, only a user-file figure with a date later than today, so dropped. United Cellars A$949.99 and Hedonism GBP 330-425: no URL and not re-checked, dropped."},
+{"cdid":3067280,"lot":819,"what_it_is":"Penfolds RWT Shiraz 2002, Barossa Valley, 750ml, bottle no. 21492, single bottle, no box","triage":"KEEP","market_score":6,
+"sold":[
+{"price":"$165 (Langtons price guide, PENFOLDS RWT Shiraz, Barossa Valley 2002, 0.75, range $180-200, Year Sold 2026, Sale Price 165)","aud_price":165,"date":"2026 (year only shown)","venue":"Langtons auction (price guide / valuation tool)","url":"https://www.langtons.com.au/priceguide?searchPrice=Penfolds+RWT+Shiraz","note":"Page opened. Kind: SOLD. AUD. same_item: yes. One figure across all condition variants (latest recorded sale for the vintage); year only; hammer vs premium not stated."}],
+"unsold":[],
+"asking":[
+{"price":"Estimate $180-200 per bottle; current bid $164 (lots 1124, 1125, 1126)","aud_price":164,"date":"live, seen 2026-09-29, closes Sun 4 Oct 2026 9 PM AET","venue":"Langtons auction (live)","url":"https://www.langtons.com.au/search?q=rwt+2002","note":"Page opened. Kind: ASKING (live estimate and bid). AUD. same_item: yes, single bottles; condition not stated in the listing."}],
+"guide_low_aud":164,"guide_high_aud":200,
+"guide_summary":"1 sold (Langtons 2026, $165), 0 unsold, 1 asking (three live Langtons lots at $164 bid, est $180-200). Live bids match the sold figure. All AUD.",
+"flip_max_hammer":45,"keep_max_hammer":135,
+"working":"keep: SOLD $165 / 1.22 = $135.25, round down to $135 (all-in $164.70). flip: resale $165 less 15% auction selling commission ($24.75) less $20 outbound postage = $120.25; / 2.44 = $49.28, round down to $45 (all-in $54.90).",
+"confidence":"Medium",
+"confidence_reason":"Label, vintage and bottle number read in the photos; one SOLD figure (Langtons 2026) matching live bids at Langtons. Single SOLD entry, year only.",
+"condition":"Label clean, red capsule intact, fill in neck, no box. Handwritten tag on the shoulder (reads about '1434/18 SNKL').",
+"key_photo_findings":"Front label reads Penfolds RWT 2002 Shiraz Barossa Valley, bottle number 21492, 750ml. Researcher had not re-inspected the photos; done now and the identification holds. Note Armitage lots 810 and 812 are also RWT 2002, so the room has several of these.",
+"question_for_armitage":"Can you confirm there is no seepage under the capsule and what the handwritten tag on the shoulder refers to?",
+"dropped_entries":"Wine-Searcher AU avg $251: site closed to us, no search snippet, dropped. Cellarit/Nicks/Dan Murphy's AU$219 and AU$199-255: no URL retained, not re-checked, dropped."}
+]}

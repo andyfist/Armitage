@@ -1,0 +1,282 @@
+{
+ "lots": [
+  {
+   "cdid": 444314,
+   "lot": 1118,
+   "what_it_is": "Rough-sawn live-edge slab sold as SLAB OF HUON PINE, pale straw, plain grain, about 2 m+ long by an estimated 25 to 30 cm wide (no dimensions given). One of a run of near-identical slabs, lots 1117 to 1121.",
+   "triage": "KEEP",
+   "market_score": 3,
+   "score_reason": "A plain pale rough-sawn slab with knots and live edge; 242 near-identical Gowans sales in the last three months settle at about $35 to $70 hammer, median $50. Species unconfirmed from the photo, so no Huon retail premium is credited.",
+   "sold": [
+    {
+     "price": "Median $55 hammer (10th pct $25, 25th $35, 75th $70, 90th $90, range $4 to $180), 634 sold of 636 past single lots titled SLAB OF HUON PINE or HUON PINE SLAB",
+     "aud_price": 55,
+     "date": "listed 2025-09-28 to 2026-10-04 (sales about a week later)",
+     "venue": "Gowans Auctions, Moonah (past results API, hammer, 19.8% premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD, rate 1.0. Page opened: I pulled all 9 pages (815 lots) myself and filtered titles; multi-slab lots and the current sale (listed 2026-10-11) excluded. same_item yes: same title, same chalk-marked stock series photographed against the same shed wall (I compared photos of past lots 442693 and 442706 and they look the same kind of pale live-edge slab). No sizes in the data, so the spread mostly reflects size and quality."
+    },
+    {
+     "price": "Median $50 hammer (25th pct $35, 75th $65, 90th $85, range $15 to $155), 242 of 242 single slabs sold",
+     "aud_price": 50,
+     "date": "listed 2026-07-05 to 2026-10-04",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened (API, own filter). Most recent three months, same item. Monthly medians: Jul $55, Aug $47.50, Sep $45, 4 Oct $75 (15 lots). Every one of 242 sold, so there is a steady local bid."
+    },
+    {
+     "price": "4 Oct 2026 run of 15 single slabs: $155, $135, $110, $100, $100, $90, $80, $75, $70, $70, $55, $50, $50, $50 (HUON PINE SLAB, 6 bids), $15",
+     "aud_price": 75,
+     "date": "listed 2026-10-04 (sale about 11 Oct 2026)",
+     "venue": "Gowans Auctions, Moonah (past results API; lot ids 442693 to 442710, 442775, 442914)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened. The latest sale, same series, firmer than September (27 Sep run of 28 single slabs: $30 to $120, median about $55). Bid counts 1 to 7."
+    },
+    {
+     "price": "Median $25.50 hammer (25th pct $20, 75th $40, range $4 to $90), 70 of 70 SLAB OF MACROCARPA PINE lots sold",
+     "aud_price": 25.5,
+     "date": "listed 2025-11-10 to 2026-09-27",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa+pine+slab&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened. same_item close only: a different species sold by Gowans in the same format. Downside guide if the slab is really macrocarpa rather than Huon; not used for bid limits."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "Hammer $0 with 3 and 4 bids (lots 395788, 395789)",
+     "aud_price": 0,
+     "date": "listed 2026-03-09",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind UNSOLD. AUD. Page opened. Only 2 of 636 past single Huon-titled slabs show no sale, both with bids, so probably passed in under a reserve; no reserve shown. same_item yes. Weak ceiling signal only; nearly everything in this series sells."
+    }
+   ],
+   "asking": [
+    {
+     "price": "$350 (slab 123, 2950 x 400 x 25 mm, natural edges), $380 (slab 129, 2900 x 420 x 25 mm, with faults), $205 (slab 256, 1840 x 430 x 25 mm), $490 (2650 x 340 x 45 mm), $660 (2500 x 440 x 50 mm), $80 (1100 x 230 x 24 mm)",
+     "aud_price": 350,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), Normal Grade, retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+     "note": "kind ASKING. AUD. Page opened (curl). same_item category guide: genuine, measured, dried, graded Huon from a specialist, shipping extra. Gowans lots are unmeasured, rough-sawn, unverified species, so this only shows the retail ceiling, not a price paid."
+    },
+    {
+     "price": "$350 (slab 167, 2750 x 350 x 25 mm, bird's-eye 1/5), $565 (slab 168, 4100 x 380 x 25 mm), $280 (slab 220, 3300 x 240 x 25 mm), $500 (slab 248, 3300 x 420 x 25 mm)",
+     "aud_price": 350,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), all slabs, retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/",
+     "note": "kind ASKING. AUD. Page opened (curl). same_item category guide. Same caution as above."
+    },
+    {
+     "price": "$1,250 (Huon slab with whitebait grain) up to $12,000 inc GST (giant bird's-eye slab)",
+     "aud_price": 1250,
+     "date": "live, seen 2026-10-14",
+     "venue": "Buy Tasmanian Timbers Online, retail",
+     "url": "https://buytasmaniantimbersonline.com.au/slabs/",
+     "note": "kind ASKING. AUD. Page opened (curl), the $12,000 product page also opened. same_item category guide only: figured premium slabs, nothing like these plain pale slabs. Top of the retail category; excluded from the guide range."
+    }
+   ],
+   "guide_low_aud": 25,
+   "guide_high_aud": 155,
+   "guide_summary": "Range $25 to $155 hammer from SOLD evidence only: Gowans' own 242 recent same-title single slabs (10th percentile $25 to top $155, median $50; 4 Oct 2026 run median $75). Unsold: 2 of 636 past lots (no value). Asking: specialist retail $205 to $660 for measured, dried, genuine Huon slabs (category guide, excluded from the range). Macrocarpa slabs at Gowans median $25.50 mark the downside if the species is wrong. All AUD, rate 1.0.",
+   "flip_max_hammer": 15,
+   "keep_max_hammer": 25,
+   "working": "Keep: the same-title pool has no sizes, so the literal lowest ($4, $15) is not a like-for-like full-length slab. Using the lower quartile of recent single-slab sales, $35 hammer (Jul to Oct 2026, n=242, all within 24 months), as the lowest representative price: 35 / 1.198 = $29.2, round down to $25 hammer ($29.95 all-in). Flip: likely resale about the recent median $50 (re-offered locally, e.g. Gowans or Marketplace), less about 10% selling fees ($5), outbound postage $0 (buyer collects, a 2 m+ slab does not post) = $45; 45 / 2.396 = $18.8, round down to $15. Premium 19.8%, all-in = hammer x 1.198. Pickup only, 37 Main Road Moonah, inbound freight $0, needs a ute or trailer.",
+   "confidence": "Medium",
+   "confidence_reason": "Very large same-title SOLD sample at Gowans (API data I pulled and filtered myself), same stock series by photo. Not High because no label or mark can confirm the species (the chalk shows only lot number and 16/10/26), the photo is a group shot with no size, and the pool has no per-slab dimensions.",
+   "dropped_entries": "Dropped: Gumtree asking prices ($100 to $3,500, $171, $300, $1,995, $2,300; gumtree.com.au returns HTTP 403, so snippet only, unverifiable, and category guide at best). Researcher's UNSOLD claim that several Huon slabs in the 2025-11-10 and 2025-11-17 listings show $0 is wrong: my pull shows only 2 zero results among 636 past single slabs, both in the 2026-03-09 listing; replaced. Researcher's 4 Oct sample of 6 lots was a partial list; replaced with the full 15. Researcher's '$350 2750 mm slab' from Buy Tasmanian Timbers is actually huonpine.com.au slab 167; refiled.",
+   "key_photo_findings": "Two photos (one per neighbouring lot) both show 1118: chalked '1118 16/10/26' with a round lot tag, standing between 1117 and 1119 against corrugated iron. Narrowest of the run, fairly straight and even width, plain close pale grain, a dark knot or resin pocket lower down, a few small dark checks along the left edge, a yellow paint or crayon mark down part of the right edge, bark mostly off. No figure (no bird's-eye) visible. Species not confirmable from colour alone; pale yellow is consistent with lower-grade Huon but also with macrocarpa.",
+   "condition": "Rough sawn, unseasoned or air-dried look; small knots and edge checks; looks sound in the photo. Size unknown.",
+   "question_for_gowans": "Can you give the length, width and thickness of lots 1117 to 1121, and has the vendor confirmed they are Huon pine (not macrocarpa or celery top)? Any end splits, rot or borer? (Best checked at viewing: genuine Huon has a strong oily, peppery scent on a fresh cut.)"
+  },
+  {
+   "cdid": 444315,
+   "lot": 1119,
+   "what_it_is": "Rough-sawn live-edge slab sold as SLAB OF HUON PINE, pale blond, the longest and widest at the top end of the run (estimated 2.2 m+ long, 30 to 40 cm wide, no dimensions given), with a grey decayed or bark-inclusion patch and splits on the lower left edge.",
+   "triage": "KEEP",
+   "market_score": 3,
+   "score_reason": "A plain pale rough-sawn slab with knots and live edge; 242 near-identical Gowans sales in the last three months settle at about $35 to $70 hammer, median $50. Species unconfirmed from the photo, so no Huon retail premium is credited.",
+   "sold": [
+    {
+     "price": "Median $55 hammer (10th pct $25, 25th $35, 75th $70, 90th $90, range $4 to $180), 634 sold of 636 past single lots titled SLAB OF HUON PINE or HUON PINE SLAB",
+     "aud_price": 55,
+     "date": "listed 2025-09-28 to 2026-10-04 (sales about a week later)",
+     "venue": "Gowans Auctions, Moonah (past results API, hammer, 19.8% premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD, rate 1.0. Page opened: I pulled all 9 pages (815 lots) myself and filtered titles; multi-slab lots and the current sale (listed 2026-10-11) excluded. same_item yes: same title, same chalk-marked stock series photographed against the same shed wall (I compared photos of past lots 442693 and 442706 and they look the same kind of pale live-edge slab). No sizes in the data, so the spread mostly reflects size and quality."
+    },
+    {
+     "price": "Median $50 hammer (25th pct $35, 75th $65, 90th $85, range $15 to $155), 242 of 242 single slabs sold",
+     "aud_price": 50,
+     "date": "listed 2026-07-05 to 2026-10-04",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened (API, own filter). Most recent three months, same item. Monthly medians: Jul $55, Aug $47.50, Sep $45, 4 Oct $75 (15 lots). Every one of 242 sold, so there is a steady local bid."
+    },
+    {
+     "price": "4 Oct 2026 run of 15 single slabs: $155, $135, $110, $100, $100, $90, $80, $75, $70, $70, $55, $50, $50, $50 (HUON PINE SLAB, 6 bids), $15",
+     "aud_price": 75,
+     "date": "listed 2026-10-04 (sale about 11 Oct 2026)",
+     "venue": "Gowans Auctions, Moonah (past results API; lot ids 442693 to 442710, 442775, 442914)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened. The latest sale, same series, firmer than September (27 Sep run of 28 single slabs: $30 to $120, median about $55). Bid counts 1 to 7."
+    },
+    {
+     "price": "Median $25.50 hammer (25th pct $20, 75th $40, range $4 to $90), 70 of 70 SLAB OF MACROCARPA PINE lots sold",
+     "aud_price": 25.5,
+     "date": "listed 2025-11-10 to 2026-09-27",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa+pine+slab&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened. same_item close only: a different species sold by Gowans in the same format. Downside guide if the slab is really macrocarpa rather than Huon; not used for bid limits."
+    },
+    {
+     "price": "Median $45 hammer (range $5 to $95), 19 of 19 SLAB OF CELERY TOP PINE lots sold",
+     "aud_price": 45,
+     "date": "listed 2025-12-01 to 2026-08-23",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=celery+top+pine+slab&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened. same_item close only (a different pale Tasmanian softwood). Context, not used for bid limits. Researcher said n=27 and median $40; my pull gives n=19, median $45."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "Hammer $0 with 3 and 4 bids (lots 395788, 395789)",
+     "aud_price": 0,
+     "date": "listed 2026-03-09",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind UNSOLD. AUD. Page opened. Only 2 of 636 past single Huon-titled slabs show no sale, both with bids, so probably passed in under a reserve; no reserve shown. same_item yes. Weak ceiling signal only; nearly everything in this series sells."
+    }
+   ],
+   "asking": [
+    {
+     "price": "$350 (slab 123, 2950 x 400 x 25 mm, natural edges), $380 (slab 129, 2900 x 420 x 25 mm, with faults), $205 (slab 256, 1840 x 430 x 25 mm), $490 (2650 x 340 x 45 mm), $660 (2500 x 440 x 50 mm), $80 (1100 x 230 x 24 mm)",
+     "aud_price": 350,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), Normal Grade, retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+     "note": "kind ASKING. AUD. Page opened (curl). same_item category guide: genuine, measured, dried, graded Huon from a specialist, shipping extra. Gowans lots are unmeasured, rough-sawn, unverified species, so this only shows the retail ceiling, not a price paid."
+    },
+    {
+     "price": "$350 (slab 167, 2750 x 350 x 25 mm, bird's-eye 1/5), $565 (slab 168, 4100 x 380 x 25 mm), $280 (slab 220, 3300 x 240 x 25 mm), $500 (slab 248, 3300 x 420 x 25 mm)",
+     "aud_price": 350,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), all slabs, retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/",
+     "note": "kind ASKING. AUD. Page opened (curl). same_item category guide. Same caution as above."
+    },
+    {
+     "price": "$1,250 (Huon slab with whitebait grain) up to $12,000 inc GST (giant bird's-eye slab)",
+     "aud_price": 1250,
+     "date": "live, seen 2026-10-14",
+     "venue": "Buy Tasmanian Timbers Online, retail",
+     "url": "https://buytasmaniantimbersonline.com.au/slabs/",
+     "note": "kind ASKING. AUD. Page opened (curl), the $12,000 product page also opened. same_item category guide only: figured premium slabs, nothing like these plain pale slabs. Top of the retail category; excluded from the guide range."
+    }
+   ],
+   "guide_low_aud": 25,
+   "guide_high_aud": 155,
+   "guide_summary": "Range $25 to $155 hammer from SOLD evidence only: Gowans' own 242 recent same-title single slabs (10th percentile $25 to top $155, median $50; 4 Oct 2026 run median $75). Unsold: 2 of 636 past lots (no value). Asking: specialist retail $205 to $660 for measured, dried, genuine Huon slabs (category guide, excluded from the range). Macrocarpa slabs at Gowans median $25.50 mark the downside if the species is wrong. All AUD, rate 1.0.",
+   "flip_max_hammer": 15,
+   "keep_max_hammer": 25,
+   "working": "Keep: the same-title pool has no sizes, so the literal lowest ($4, $15) is not a like-for-like full-length slab. Using the lower quartile of recent single-slab sales, $35 hammer (Jul to Oct 2026, n=242, all within 24 months), as the lowest representative price: 35 / 1.198 = $29.2, round down to $25 hammer ($29.95 all-in). Flip: likely resale about the recent median $50 (re-offered locally, e.g. Gowans or Marketplace), less about 10% selling fees ($5), outbound postage $0 (buyer collects, a 2 m+ slab does not post) = $45; 45 / 2.396 = $18.8, round down to $15. Premium 19.8%, all-in = hammer x 1.198. Pickup only, 37 Main Road Moonah, inbound freight $0, needs a ute or trailer.",
+   "confidence": "Medium",
+   "confidence_reason": "Very large same-title SOLD sample at Gowans (API data I pulled and filtered myself), same stock series by photo. Not High because no label or mark can confirm the species (the chalk shows only lot number and 16/10/26), the photo is a group shot with no size, and the pool has no per-slab dimensions.",
+   "dropped_entries": "Dropped: Gumtree asking prices ($100 to $3,500, $171, $300, $1,995, $2,300; gumtree.com.au returns HTTP 403, so snippet only, unverifiable, and category guide at best). Researcher's counts were slightly off but in line (557 sold, median $55; I found 634 single slabs sold, median $55). The 'only 4 at $150 or more' claim missed lot 442693 at $155 (listed 2026-10-04). Gumtree $171 and $300 snippets and the Buy Tasmanian Timbers 'from $1,250' snippet: Gumtree dropped (403, snippet only); Buy Tasmanian Timbers kept only because I opened the page myself.",
+   "key_photo_findings": "Visible in all three photos: chalked '1119 16/10/26' with lot tag. Tallest slab in the row, wavy live edge with a step about a third of the way down where a chunk of edge is missing. Lower left has a long grey weathered or decayed strip with dark open splits for roughly a quarter of the length. Several small dark knots. Plain grain, no figure visible. Species not confirmable from the photo.",
+   "condition": "Rough sawn; noticeable defect on one edge (grey weathering or decay with splits) which would be cut off in use, reducing usable width. Otherwise looks sound.",
+   "question_for_gowans": "Can you give the length, width and thickness of lots 1117 to 1121, and has the vendor confirmed they are Huon pine (not macrocarpa or celery top)? Any end splits, rot or borer? (Best checked at viewing: genuine Huon has a strong oily, peppery scent on a fresh cut.)"
+  },
+  {
+   "cdid": 444316,
+   "lot": 1120,
+   "what_it_is": "Rough-sawn live-edge slab sold as SLAB OF HUON PINE, pale yellow-blond, about 2 m long by an estimated 30 cm wide (no dimensions given), with several knots and a split and dark streak near the lower left.",
+   "triage": "KEEP",
+   "market_score": 3,
+   "score_reason": "A plain pale rough-sawn slab with knots and live edge; 242 near-identical Gowans sales in the last three months settle at about $35 to $70 hammer, median $50. Species unconfirmed from the photo, so no Huon retail premium is credited.",
+   "sold": [
+    {
+     "price": "Median $55 hammer (10th pct $25, 25th $35, 75th $70, 90th $90, range $4 to $180), 634 sold of 636 past single lots titled SLAB OF HUON PINE or HUON PINE SLAB",
+     "aud_price": 55,
+     "date": "listed 2025-09-28 to 2026-10-04 (sales about a week later)",
+     "venue": "Gowans Auctions, Moonah (past results API, hammer, 19.8% premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD, rate 1.0. Page opened: I pulled all 9 pages (815 lots) myself and filtered titles; multi-slab lots and the current sale (listed 2026-10-11) excluded. same_item yes: same title, same chalk-marked stock series photographed against the same shed wall (I compared photos of past lots 442693 and 442706 and they look the same kind of pale live-edge slab). No sizes in the data, so the spread mostly reflects size and quality."
+    },
+    {
+     "price": "Median $50 hammer (25th pct $35, 75th $65, 90th $85, range $15 to $155), 242 of 242 single slabs sold",
+     "aud_price": 50,
+     "date": "listed 2026-07-05 to 2026-10-04",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened (API, own filter). Most recent three months, same item. Monthly medians: Jul $55, Aug $47.50, Sep $45, 4 Oct $75 (15 lots). Every one of 242 sold, so there is a steady local bid."
+    },
+    {
+     "price": "4 Oct 2026 run of 15 single slabs: $155, $135, $110, $100, $100, $90, $80, $75, $70, $70, $55, $50, $50, $50 (HUON PINE SLAB, 6 bids), $15",
+     "aud_price": 75,
+     "date": "listed 2026-10-04 (sale about 11 Oct 2026)",
+     "venue": "Gowans Auctions, Moonah (past results API; lot ids 442693 to 442710, 442775, 442914)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened. The latest sale, same series, firmer than September (27 Sep run of 28 single slabs: $30 to $120, median about $55). Bid counts 1 to 7."
+    },
+    {
+     "price": "Median $25.50 hammer (25th pct $20, 75th $40, range $4 to $90), 70 of 70 SLAB OF MACROCARPA PINE lots sold",
+     "aud_price": 25.5,
+     "date": "listed 2025-11-10 to 2026-09-27",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa+pine+slab&page%5Bnumber%5D=1",
+     "note": "kind SOLD. AUD. Page opened. same_item close only: a different species sold by Gowans in the same format. Downside guide if the slab is really macrocarpa rather than Huon; not used for bid limits."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "Hammer $0 with 3 and 4 bids (lots 395788, 395789)",
+     "aud_price": 0,
+     "date": "listed 2026-03-09",
+     "venue": "Gowans Auctions, Moonah (past results API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1",
+     "note": "kind UNSOLD. AUD. Page opened. Only 2 of 636 past single Huon-titled slabs show no sale, both with bids, so probably passed in under a reserve; no reserve shown. same_item yes. Weak ceiling signal only; nearly everything in this series sells."
+    }
+   ],
+   "asking": [
+    {
+     "price": "$350 (slab 123, 2950 x 400 x 25 mm, natural edges), $380 (slab 129, 2900 x 420 x 25 mm, with faults), $205 (slab 256, 1840 x 430 x 25 mm), $490 (2650 x 340 x 45 mm), $660 (2500 x 440 x 50 mm), $80 (1100 x 230 x 24 mm)",
+     "aud_price": 350,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), Normal Grade, retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+     "note": "kind ASKING. AUD. Page opened (curl). same_item category guide: genuine, measured, dried, graded Huon from a specialist, shipping extra. Gowans lots are unmeasured, rough-sawn, unverified species, so this only shows the retail ceiling, not a price paid."
+    },
+    {
+     "price": "$350 (slab 167, 2750 x 350 x 25 mm, bird's-eye 1/5), $565 (slab 168, 4100 x 380 x 25 mm), $280 (slab 220, 3300 x 240 x 25 mm), $500 (slab 248, 3300 x 420 x 25 mm)",
+     "aud_price": 350,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), all slabs, retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/",
+     "note": "kind ASKING. AUD. Page opened (curl). same_item category guide. Same caution as above."
+    },
+    {
+     "price": "$1,250 (Huon slab with whitebait grain) up to $12,000 inc GST (giant bird's-eye slab)",
+     "aud_price": 1250,
+     "date": "live, seen 2026-10-14",
+     "venue": "Buy Tasmanian Timbers Online, retail",
+     "url": "https://buytasmaniantimbersonline.com.au/slabs/",
+     "note": "kind ASKING. AUD. Page opened (curl), the $12,000 product page also opened. same_item category guide only: figured premium slabs, nothing like these plain pale slabs. Top of the retail category; excluded from the guide range."
+    }
+   ],
+   "guide_low_aud": 25,
+   "guide_high_aud": 155,
+   "guide_summary": "Range $25 to $155 hammer from SOLD evidence only: Gowans' own 242 recent same-title single slabs (10th percentile $25 to top $155, median $50; 4 Oct 2026 run median $75). Unsold: 2 of 636 past lots (no value). Asking: specialist retail $205 to $660 for measured, dried, genuine Huon slabs (category guide, excluded from the range). Macrocarpa slabs at Gowans median $25.50 mark the downside if the species is wrong. All AUD, rate 1.0.",
+   "flip_max_hammer": 15,
+   "keep_max_hammer": 25,
+   "working": "Keep: the same-title pool has no sizes, so the literal lowest ($4, $15) is not a like-for-like full-length slab. Using the lower quartile of recent single-slab sales, $35 hammer (Jul to Oct 2026, n=242, all within 24 months), as the lowest representative price: 35 / 1.198 = $29.2, round down to $25 hammer ($29.95 all-in). Flip: likely resale about the recent median $50 (re-offered locally, e.g. Gowans or Marketplace), less about 10% selling fees ($5), outbound postage $0 (buyer collects, a 2 m+ slab does not post) = $45; 45 / 2.396 = $18.8, round down to $15. Premium 19.8%, all-in = hammer x 1.198. Pickup only, 37 Main Road Moonah, inbound freight $0, needs a ute or trailer.",
+   "confidence": "Medium",
+   "confidence_reason": "Very large same-title SOLD sample at Gowans (API data I pulled and filtered myself), same stock series by photo. Not High because no label or mark can confirm the species (the chalk shows only lot number and 16/10/26), the photo is a group shot with no size, and the pool has no per-slab dimensions.",
+   "dropped_entries": "Dropped: Gumtree asking prices ($100 to $3,500, $171, $300, $1,995, $2,300; gumtree.com.au returns HTTP 403, so snippet only, unverifiable, and category guide at best). Researcher's $770 huonpine.com.au slab (2850 x 450 x 50 mm) dropped: snippet only and not on either huonpine.com.au slab page I opened. Researcher's $160 LARGE HUON PINE LENGTH (listed 2025-10-19, 0 bids) dropped: a different item (a length, not a slab) and a $160 sale with 0 bids is an odd record. Researcher's headline range to $220 included 2 and 3 slab lots; I used single slabs only (max $180).",
+   "key_photo_findings": "Visible in photos 2 and 3: chalked '1120 16/10/26' with lot tag. Squarer top, a dark knot cluster high on the left edge, a few scattered knots, a long dark streak and open split along the lower left edge with a notch out of the edge, plain grain with some flame figure in the middle. Shorter than 1119. Species not confirmable from colour.",
+   "condition": "Rough sawn; knots plus a split and dark streak on one edge near the bottom end. Looks otherwise sound. Size unknown.",
+   "question_for_gowans": "Can you give the length, width and thickness of lots 1117 to 1121, and has the vendor confirmed they are Huon pine (not macrocarpa or celery top)? Any end splits, rot or borer? (Best checked at viewing: genuine Huon has a strong oily, peppery scent on a fresh cut.)"
+  }
+ ]
+}

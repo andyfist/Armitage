@@ -1,0 +1,250 @@
+{
+ "lots": [
+  {
+   "cdid": 442057,
+   "lot": 328,
+   "what_it_is": "Edge Sculpture style resin tiger head bust on a rock base (Matt Buckley design look, natural brown finish, green eyes), not a lion as the Gowans title says. Same mould and finish as three earlier Gowans tiger lots.",
+   "triage": "KEEP",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$100 hammer (sale_price 10000 cents)",
+     "aud_price": 100,
+     "date": "listed 2026-03-30",
+     "venue": "Gowans Auctions, TIGER HEAD SCULPTURE (id 400048), 2 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tiger+head+sculpture",
+     "note": "Kind SOLD, AUD, same_item yes. Page opened (API JSON) and photo viewed: same Edge-style tiger bust, same finish, number sticker 272 on nose. Condition looks comparable. Hammer only, 19.8% premium on top."
+    },
+    {
+     "price": "$40 hammer (sale_price 4000 cents)",
+     "aud_price": 40,
+     "date": "listed 2026-08-16",
+     "venue": "Gowans Auctions, TIGER HEAD FIGURE (id 430758), 1 bid",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tiger+head",
+     "note": "Kind SOLD, AUD, same_item yes. Page opened (API JSON) and photo viewed: same bust, same finish. Sold only after five passed-in listings. Hammer only."
+    },
+    {
+     "price": "$50 hammer (sale_price 5000 cents)",
+     "aud_price": 50,
+     "date": "listed 2026-09-06",
+     "venue": "Gowans Auctions, LION HEAD SCULPTURE (id 435637), 2 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=lion+head+sculpture",
+     "note": "Kind SOLD, AUD, same_item category guide. Page opened and photo viewed (verifier): an Edge-style lion bust in grey/white finish, same maker style but a different animal. Not used for max bids."
+    },
+    {
+     "price": "$100 hammer (sale_price 10000 cents)",
+     "aud_price": 100,
+     "date": "listed 2026-06-21",
+     "venue": "Gowans Auctions, WILD ESCAPE LION HEAD SCULPTURE (id 417870), 0 bids shown",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=lion+head+sculpture",
+     "note": "Kind SOLD, AUD, same_item category guide. Page opened and photo viewed: Edge-style lion bust, different animal. API shows 0 bids yet a sale price, so treat with caution. Not used for max bids."
+    },
+    {
+     "price": "$45 hammer (sale_price 4500 cents)",
+     "aud_price": 45,
+     "date": "listed 2026-04-19",
+     "venue": "Gowans Auctions, RESIN TIGER HEAD FIGURE - 63CM HIGH (id 403708), 7 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=resin+tiger",
+     "note": "Kind SOLD, AUD, same_item category guide (researcher said close). Page opened and photo viewed: realistic painted orange tiger bust, not Edge style. Category guide only."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "Passed in, sale_price 0 (bid_count 1, 2, 0, 1, 1)",
+     "aud_price": 0,
+     "date": "listed 2026-07-12, 07-19, 07-26, 08-03, 08-09",
+     "venue": "Gowans Auctions, TIGER HEAD FIGURE ids 422746, 424367, 425915, 427560, 429165",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tiger+head",
+     "note": "Kind UNSOLD, AUD, same_item yes. Page opened (API JSON); photo of 422746 viewed (same bust, sticker 325). Five weekly passes before the $40 sale: strong ceiling signal that local demand is thin. Last bid and reserve not shown."
+    },
+    {
+     "price": "Passed in, sale_price 0 (1 bid)",
+     "aud_price": 0,
+     "date": "listed 2026-08-30",
+     "venue": "Gowans Auctions, LION HEAD SCULPTURE (id 434008)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=lion+head+sculpture",
+     "note": "Kind UNSOLD, AUD, category guide (Edge-style lion bust, different animal). Page opened, photo viewed. Added by verifier."
+    }
+   ],
+   "asking": [],
+   "guide_low_aud": 40,
+   "guide_high_aud": 100,
+   "guide_summary": "Same-item evidence is all Gowans SOLD hammer: $100 (Mar 2026) and $40 (Aug 2026), plus five passed-in listings of the same bust (UNSOLD) before the $40 sale. Edge-style lion busts made $50 and $100 hammer (category guide). No asking or retail prices verified. All AUD, no FX.",
+   "keep_max_hammer": 30,
+   "flip_max_hammer": 25,
+   "working": "Keep: lowest same-item SOLD $40 / 1.198 = $33.39, round down to $30. Flip: likely resale about $70 (middle of the $40 and $100 same-item hammers; no retail evidence verified), less 13% selling fee allowance = $60.90, outbound postage $0 (bulky resin, sell as local pickup), / 2.396 = $25.42, round down to $25. Both sales within 24 months.",
+   "confidence": "Medium",
+   "confidence_reason": "Shape, finish and mould match two opened same-item Gowans SOLD results, but no maker's mark was read (the round sticker at the top of the head is a blurry number sticker, roughly 3x4, not a maker's logo) and the earlier same bust needed six listings to sell.",
+   "dropped_entries": "None dropped. Resin tiger 63cm (id 403708) downgraded from close to category guide (different, realistic painted bust). Lion head entries confirmed by photo as Edge-style lion busts, category guide only. Added UNSOLD lion head 434008.",
+   "key_photo_findings": "One photo. Tiger, not lion. Edge-style faceted resin tiger bust on rocky base, brown/ochre finish, green glass-look eyes, fangs at chin. Small round white sticker at top of head with a partly legible handwritten number (looks like 3x4), probably an old lot or stock number; it may be the same piece re-offered. No chips visible from the front; back and base not shown.",
+   "condition": "Front looks clean with no obvious chips or breaks to ears or mane points; back and underside not photographed.",
+   "question_for_gowans": "Is there an Edge Sculpture or Matt Buckley mark or sticker on the base, and are the ear tips, mane points and fangs free of chips or repairs? Is this the same tiger bust that was offered in July and August?"
+  },
+  {
+   "cdid": 443332,
+   "lot": 351,
+   "what_it_is": "Group of 13 miniature and model-making planes: green and silver cast-iron block planes, maroon and black plastic-bodied planes (two hand-tagged 'Model Making Plane $15'), a beech mini plane, a small rosewood-handled plane, three modern rosewood and brass miniature planes, and a red Stanley Surform body (blade appears to be missing). The '1998' and '1762/1764' tags are stock or lot stickers, not dates.",
+   "triage": "NEAR MISS",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$90 hammer (sale_price 9000 cents)",
+     "aud_price": 90,
+     "date": "listed 2025-11-03",
+     "venue": "Gowans Auctions, THUMB PLANE & 1 OTHER (id 371963), 7 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thumb+plane",
+     "note": "Kind SOLD, AUD, same_item close. Page opened and photo viewed: older cast thumb/bullnose plane plus a small plane, better quality than most pieces here. Hammer only."
+    },
+    {
+     "price": "$55 hammer (sale_price 5500 cents)",
+     "aud_price": 55,
+     "date": "listed 2026-04-13",
+     "venue": "Gowans Auctions, SMALL WOOD PLANE - MOHAWK MADE IN USA (id 401639), 3 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=small+plane",
+     "note": "Kind SOLD, AUD, downgraded to category guide. Page opened and photo viewed: a wooden-soled transitional-type plane, larger than the miniatures here."
+    },
+    {
+     "price": "$50 hammer (sale_price 5000 cents)",
+     "aud_price": 50,
+     "date": "listed 2026-09-06",
+     "venue": "Gowans Auctions, 6 COMPASS HAND PLANES (id 435698), 3 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hand+planes",
+     "note": "Kind SOLD, AUD, downgraded to category guide. Page opened and photo viewed: old wooden coffin/compass planes, not miniatures."
+    },
+    {
+     "price": "$67 hammer (sale_price 6700 cents)",
+     "aud_price": 67,
+     "date": "listed 2026-04-13",
+     "venue": "Gowans Auctions, BLOCK PLANE NO.1 (id 401701), 3 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=block+plane",
+     "note": "Kind SOLD, AUD, category guide. Page opened. Single small block plane."
+    },
+    {
+     "price": "$45 hammer (sale_price 4500 cents)",
+     "aud_price": 45,
+     "date": "listed 2025-11-10",
+     "venue": "Gowans Auctions, BOX ASST BLOCK PLANES & REBATE (id 374523), 2 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=block+plane",
+     "note": "Kind SOLD, AUD, category guide. Page opened, photo viewed: mixed wooden and metal planes in a box."
+    },
+    {
+     "price": "$50 hammer (sale_price 5000 cents)",
+     "aud_price": 50,
+     "date": "listed 2025-11-10",
+     "venue": "Gowans Auctions, 3 METAL HAND PLANES (id 374853), 5 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hand+planes",
+     "note": "Kind SOLD, AUD, category guide. Page opened, photo viewed: three small block planes."
+    },
+    {
+     "price": "$20 hammer (sale_price 2000 cents)",
+     "aud_price": 20,
+     "date": "listed 2026-04-13",
+     "venue": "Gowans Auctions, 2 BLOCK PLANES (id 402538), 0 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=block+plane",
+     "note": "Kind SOLD, AUD, category guide. Page opened. Low end for ordinary planes."
+    },
+    {
+     "price": "$70 hammer (sale_price 7000 cents)",
+     "aud_price": 70,
+     "date": "listed 2026-07-26",
+     "venue": "Gowans Auctions, BOX OF HAND PLANES (id 427017), 3 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hand+planes",
+     "note": "Kind SOLD, AUD, category guide. Page opened, photo viewed: box of full-size planes."
+    },
+    {
+     "price": "$85 hammer (sale_price 8500 cents)",
+     "aud_price": 85,
+     "date": "listed 2026-07-05",
+     "venue": "Gowans Auctions, QTY OF HAND PLANES (id 421983), 3 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hand+planes",
+     "note": "Kind SOLD, AUD, category guide. Page opened, photo viewed: full-size Stanley-type planes."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 90,
+   "guide_high_aud": 90,
+   "guide_summary": "Only one close entry survives: a Gowans SOLD $90 hammer for a thumb plane and one other (Nov 2025). Everything else is SOLD category guide for ordinary or full-size plane lots at $20 to $85 hammer. No unsold or asking evidence. No Gowans sale of a comparable miniature/model-making group found. All AUD.",
+   "keep_max_hammer": 0,
+   "flip_max_hammer": 0,
+   "working": "No same-item SOLD evidence (no comparable miniature plane group sold at Gowans; the one close comp is a different two-plane lot), so no maximum bid is set. Indicative only: category lots make $45 to $90 hammer.",
+   "confidence": "Low",
+   "confidence_reason": "Makers not read on any plane, comps are category-level only, and the pieces are generic hobby planes, several with paint loss and rust.",
+   "dropped_entries": "None dropped. Mohawk small wood plane and 6 compass hand planes downgraded from close to category guide after viewing their photos (full-size or old wooden planes, not miniatures). Researcher's 'red 1998 Stanley-style' is actually a Stanley Surform body; 1998 is a sticker.",
+   "key_photo_findings": "One photo. Stanley Surform label read on the red body, which looks empty of its rasp blade. Two planes carry handwritten 'Model Making Plane $15' tags (old shop or owner pricing). Three modern rosewood and brass miniature planes in good order. Green cast plane has rust and paint loss; others show wear. No premium maker names seen.",
+   "condition": "Mixed: paint loss and rust on the cast planes, Surform likely missing its blade, the rosewood/brass miniatures look clean.",
+   "question_for_gowans": "Are any maker names on the planes (e.g. on the cast and rosewood ones), and does the Stanley Surform still have its blade?"
+  },
+  {
+   "cdid": 442101,
+   "lot": 372,
+   "what_it_is": "Two storage boxes of Magic: The Gathering product boxes and accessories: The Hobbit x2, Lorwyn Eclipsed, Magic x Marvel, other MTG retail boxes, a Zendikar Rising deck box, a row of loose cards, Ultra Pro deck boxes (one marked 'High Value'), Dragon Shield sleeves, dice and binders. Whether the boxes are sealed or hold cards cannot be seen.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$210 hammer (sale_price 21000 cents)",
+     "aud_price": 210,
+     "date": "listed 2026-05-24",
+     "venue": "Gowans Auctions, 3 BOXES OF MAGIC THE GATHERING CARDS (id 411779), 12 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=magic+gathering+cards",
+     "note": "Kind SOLD, AUD, same_item close (bulk MTG, contents differ). Page opened, photo viewed: loose cards in deck boxes and a Guildpact box. Hammer only."
+    },
+    {
+     "price": "$110 hammer (sale_price 11000 cents)",
+     "aud_price": 110,
+     "date": "listed 2026-03-09",
+     "venue": "Gowans Auctions, BOX OF ASST TRADING CARDS & BOX OF MAGIC THE GATHERING SUPPLIES (id 395943), 11 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=magic+gathering+cards",
+     "note": "Kind SOLD, AUD, close. Page opened, photo viewed: one box loose cards plus a box of binders and supplies."
+    },
+    {
+     "price": "$80 hammer (sale_price 8000 cents)",
+     "aud_price": 80,
+     "date": "listed 2026-05-10",
+     "venue": "Gowans Auctions, BOX OF MAGIC THE GATHERING CARDS (id 408225), 11 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=magic+gathering+cards",
+     "note": "Kind SOLD, AUD, close. Page opened, photo viewed: one box of loose bulk cards."
+    },
+    {
+     "price": "$80 hammer (sale_price 8000 cents)",
+     "aud_price": 80,
+     "date": "listed 2026-06-14",
+     "venue": "Gowans Auctions, BOX OF MAGIC THE GATHERING CARDS (id 416424), 13 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=magic+gathering+cards",
+     "note": "Kind SOLD, AUD, close. Page opened, photo viewed: one box of loose bulk cards."
+    },
+    {
+     "price": "$55 hammer (sale_price 5500 cents)",
+     "aud_price": 55,
+     "date": "listed 2026-04-28",
+     "venue": "Gowans Auctions, MAGIC THE GATHERING CARDS (id 406087), 6 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=magic+gathering+cards",
+     "note": "Kind SOLD, AUD, close. Page opened, photo viewed: a Land Station box and a small case of cards."
+    },
+    {
+     "price": "$55 hammer (sale_price 5500 cents)",
+     "aud_price": 55,
+     "date": "listed 2026-05-03",
+     "venue": "Gowans Auctions, MAGIC THE GATHERING CARDS (id 406715), 8 bids",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=magic+gathering+cards",
+     "note": "Kind SOLD, AUD, close. Page opened, photo viewed: a small tray of loose cards."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 55,
+   "guide_high_aud": 210,
+   "guide_summary": "All surviving evidence is Gowans SOLD hammer for bulk MTG lots in the last 7 months: $55 to $80 for one box, $110 for two boxes, $210 for three. These are close but not the same contents. No unsold or asking entries survive (the two PriceCharting sealed-display guides were dropped). All AUD.",
+   "keep_max_hammer": 0,
+   "flip_max_hammer": 0,
+   "working": "Bulk card lots are never the same item, and here it cannot be seen whether the product boxes are sealed, empty or full of cards, so no same-item SOLD price supports a maximum. Indicative only: comparable two-box MTG lots made about $110 hammer ($131.78 all-in).",
+   "confidence": "Low",
+   "confidence_reason": "Contents unknown; comps are close bulk lots only, photos of the comps show loose cards whereas this lot shows mostly boxes.",
+   "dropped_entries": "Dropped both ASKING PriceCharting entries (Lorwyn Eclipsed Play Boosters Display US$116.96; Marvel Spider-Man Play Booster Box US$123.15; prices confirmed on the pages opened 2026-10-07): they price sealed booster displays, while the boxes in the photo are long, flat boxes of a different shape that look opened or used for storage, so not the same item or condition.",
+   "key_photo_findings": "One photo. Two black storage boxes. Left: long boxes labelled The Hobbit (x2), Magic, Lorwyn Eclipsed, Magic x Marvel and Magic, with a row of loose cards at the back. Right: Zendikar Rising deck box, Ultra Pro deck boxes (one labelled High Value), a Magic box, a box with Chandra-style art, Dragon Shield sleeves, a stack of white card boxes, dice and binders. No shrink-wrap visible, so the boxes are likely opened.",
+   "condition": "Boxes look used but tidy; no sign that any product is sealed.",
+   "question_for_gowans": "Are any of the Magic product boxes (Hobbit, Lorwyn Eclipsed, Marvel) still sealed, and roughly how many cards are in the lot? What is in the Ultra Pro deck box marked High Value?"
+  }
+ ]
+}

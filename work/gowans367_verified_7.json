@@ -1,0 +1,260 @@
+{
+ "lots": [
+  {
+   "cdid": 444517,
+   "lot": 1321,
+   "what_it_is": "Piece of Huon pine (Gowans title 'PIECE OF HUON PINE'): a rough-sawn, pale yellow live-edge slab, roughly 0.8 to 1 m tall by about 0.5 m wide (estimated from the photo only), with a burl and bark-inclusion lobe down the lower left edge, a small knot, a sawn top and a check or split running up from the bottom edge. Thickness, moisture and weight unknown.",
+   "triage": "KEEP",
+   "market_score": 3,
+   "sold": [
+    {
+     "price": "$40.00 hammer, 2 bids",
+     "aud_price": 40,
+     "date": "listed 2026-06-21 (sale about a week later)",
+     "venue": "Gowans Auctions, lot 418741 'PIECE OF HUON PINE'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/418741/",
+     "note": "SOLD. AUD, no FX. same_item: yes (closest match). Page opened (API JSON) and I viewed its photo: a wide, short, pale rough slab (lot sticker 1318) of very similar size and shape to lot 1321, without the burl lobe. Hammer only, premium extra."
+    },
+    {
+     "price": "$40.00 hammer, 3 bids",
+     "aud_price": 40,
+     "date": "listed 2026-06-14",
+     "venue": "Gowans Auctions, lot 417130 'PIECE OF HUON PINE WOOD'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/417130/",
+     "note": "SOLD. AUD. same_item: yes. Page opened (API JSON) and photo viewed: pale live-edge slab with knots and bark edge, a bit longer and narrower than lot 1321. Hammer only."
+    },
+    {
+     "price": "$35.00 hammer, 4 bids",
+     "aud_price": 35,
+     "date": "listed 2026-06-28",
+     "venue": "Gowans Auctions, lot 420369 'PIECE OF HUON PINE'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/420369/",
+     "note": "SOLD. AUD. same_item: close. Page opened (API JSON) and photo viewed: a plain narrow dressed-looking board, less character than lot 1321. Hammer only."
+    },
+    {
+     "price": "$77.00 hammer, 3 bids",
+     "aud_price": 77,
+     "date": "listed 2026-07-26",
+     "venue": "Gowans Auctions, lot 426891 'PIECE OF HUON PINE'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/426891/",
+     "note": "SOLD. AUD. same_item: close. Page opened (API JSON) and photo viewed: a long, curved, darker orange live-edge slab, larger than lot 1321, which explains the higher price. Hammer only."
+    },
+    {
+     "price": "$25.00 hammer each (2 lots, 4 and 1 bids)",
+     "aud_price": 25,
+     "date": "listed 2026-06-14",
+     "venue": "Gowans Auctions, lots 417129 and 417138 'PIECE OF HUON PINE WOOD'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/417129/",
+     "note": "SOLD. AUD. same_item: close (smaller). Page opened (API JSON) for 417129 (search listing shows 417138) and photos viewed: narrow boards or strips, smaller and plainer than lot 1321. Hammer only."
+    },
+    {
+     "price": "$20 to $170 hammer across about 100 'SLAB OF HUON PINE' lots, mostly $40 to $100; e.g. 374264 $140, 376000 $160, 379780 $170",
+     "aud_price": 60,
+     "date": "listed 2025-09-28 to 2025-12-08",
+     "venue": "Gowans Auctions, weekly slab batches",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "SOLD. AUD. same_item: category guide (slab sizes and figure unknown, photos not checked individually). Page opened (API JSON page 1 of 9, which I filtered). aud_price 60 is my rough median, not a single sale. Hammer only."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$260.00 (Huon Pine Slab 179, 1650 x 430 x 25 mm, birdseye 1/5, 12.8 kg); also slab 187, 1100 x 230 x 24 mm, $80.00",
+     "aud_price": 260,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/",
+     "note": "ASKING. AUD. same_item: close. Page opened. Dressed, measured, graded retail slabs (also slab 167 2750 x 350 x 25 mm $350, slab 168 4100 x 380 x 25 mm $565). Better presented than a rough Gowans piece; freight extra. Retail asking, not paid."
+    }
+   ],
+   "guide_low_aud": 25,
+   "guide_high_aud": 260,
+   "guide_summary": "Sold: six same-title 'PIECE OF HUON PINE' Gowans hammers $25 to $77 (Jun to Jul 2026), the two closest in size and form $40 each; the wider 'SLAB OF HUON PINE' run was $20 to $170, mostly $40 to $100. Asking: one verified dealer page, $80 to $260 for dressed, measured slabs (retail, optimistic). No unsold evidence. All AUD, no FX.",
+   "keep_max_hammer": 30,
+   "flip_max_hammer": 25,
+   "working": "Keep: lowest closest same-item SOLD = $40 (lots 418741 and 417130) / 1.198 = $33.39, rounded down to $30 (all-in about $36). Flip: likely resale about $60 (Gowans slab median and the $40 to $77 piece range), sold locally on Marketplace at no fee and pickup only, so no postage: $60 / 2.396 = $25.04, rounded down to $25. A flip barely breaks even, so this is a keep only if the buyer wants it for woodwork.",
+   "confidence": "Medium",
+   "confidence_reason": "Several opened Gowans SOLD comps with photos that match in form and size, but the species is taken from the Gowans title only (pale yellow timber is consistent with Huon pine, not verified), and thickness and dryness are unknown.",
+   "dropped_entries": "Dropped: (1) the 'HUON PINE BURL' entry (lots 394635, 365784, 371133, 371139): 394635 is '2 PIECES OF HUON PINE', not a burl, and the others are burl blocks or a display, not a slab; not the same item. (2) UniqueTas HG-0418 $510: page would not load (curl got nothing), snippet only and out of stock, so dropped as unverified. (3) Buy Tasmanian Timbers birdseye slab: the URL says $2,600 but the page I opened shows $3,600 inc GST for a 1.55 m x up to 1.2 m x 55 mm sanded birdseye slab; price did not match the claim and it is not comparable. (4) Tasmanian Specialty Timbers $9,200: the page is now a parked domain with no listing, dropped. (5) The claimed low-end slab 374311 at $10 was not on the page I checked, so not relied on.",
+   "key_photo_findings": "Lot number 1321 and date 16/10/26 written on the face. Pale straw to yellow timber with fine straight grain and a faint wavy figure in the middle, a small knot low centre, a burl and bark-inclusion lobe down the left edge with some rot or punky wood at the edge, and a check or split running up from the bottom end right of centre. Looks rough-sawn and unfinished. No size reference except the saw blade beside it.",
+   "condition": "Rough-sawn, undressed; bark inclusion and possibly soft wood at the left live edge; end check at the bottom. Thickness and moisture unknown.",
+   "question_for_gowans": "Inspection Thu 15 Oct 9 AM to 5:30 PM or Fri from 8:30 AM; absentee bids close 9:30 AM Fri 16 Oct; office (03) 6278 1600. What are the length, width and thickness, and is it air-dried? Is the timber confirmed Huon pine (it should smell of its oil when scratched), and is the soft-looking wood along the left burl edge sound?"
+  },
+  {
+   "cdid": 443400,
+   "lot": 55,
+   "what_it_is": "Container of assorted opals (Gowans title 'CONTAINER OF ASST OPALS'): about 9 to 10 loose polished cabochons on wool in a small plastic box, mostly light to crystal body with green and blue flash, one elongated stone with red-orange flash, several ovals and a long flat stone. Solid versus doublet not shown, carat weight not given.",
+   "triage": "KEEP",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$105.00 hammer, 11 bids",
+     "aud_price": 105,
+     "date": "listed 2025-11-10",
+     "venue": "Gowans Auctions, lot 373386 'BAG OF ASST OPALS'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/373386/",
+     "note": "SOLD. AUD. same_item: close. Page opened (API JSON) and photo viewed: about 12 white/light opal cabochons, paler and more milky than lot 55, similar count. Hammer only, premium extra."
+    },
+    {
+     "price": "$100.00 hammer, 5 bids",
+     "aud_price": 100,
+     "date": "listed 2026-08-16",
+     "venue": "Gowans Auctions, lot 430475 '2 OPALS - 1 CRACKED'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/430475/",
+     "note": "SOLD. AUD. same_item: close (fewer, larger stones). Page opened (API JSON) and photo viewed: two long crystal-type cabochons with green pinfire, the same style as the larger stones in lot 55, one cracked. Hammer only."
+    },
+    {
+     "price": "$80.00 hammer, 6 bids",
+     "aud_price": 80,
+     "date": "listed 2026-03-30",
+     "venue": "Gowans Auctions, lot 399868 'TUB OF OPALS'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/399868/",
+     "note": "SOLD. AUD. same_item: close. Page opened (API JSON) and photo viewed: three white opal cabochons plus a tiny chip in a box, paler and fewer than lot 55. Hammer only."
+    },
+    {
+     "price": "$65.00 hammer, 8 bids",
+     "aud_price": 65,
+     "date": "listed 2026-09-06",
+     "venue": "Gowans Auctions, lot 435402 '2 OPALS'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/435402/",
+     "note": "SOLD. AUD. same_item: close (only 2 stones). Page opened (API JSON) and photo viewed: two light opal cabochons with green and orange flash in a capsule. Hammer only."
+    },
+    {
+     "price": "$150.00 hammer, 5 bids",
+     "aud_price": 150,
+     "date": "listed 2026-03-16",
+     "venue": "Gowans Auctions, lot 396590 '3 OPALS'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/396590/",
+     "note": "SOLD. AUD. same_item: category guide. Page opened (API JSON) and photo viewed: three bright blue stones in capsules that look like doublets or triplets, a different type. Hammer only."
+    },
+    {
+     "price": "$250.00 hammer, 8 bids",
+     "aud_price": 250,
+     "date": "listed 2026-01-19",
+     "venue": "Gowans Auctions, lot 383834 'CASE OF ASST OPALS'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/383834/",
+     "note": "SOLD. AUD. same_item: category guide. Page opened (API JSON) and photo viewed: a dealer tray of many weighed and priced parcels (dozens of small stones), far more stock than lot 55. Hammer only."
+    },
+    {
+     "price": "$20 to $40 hammer for '40-55 CARATS OPAL DOUBLET GEMSTONES' parcels (e.g. lots 363294 $30, 388660 $40, 430548 $35)",
+     "aud_price": 30,
+     "date": "Sep 2025 to Aug 2026",
+     "venue": "Gowans Auctions, doublet parcels",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=opal+doublet&page%5Bnumber%5D=1",
+     "note": "SOLD. AUD. same_item: category guide only, the downside case if the stones turn out to be doublets. Researcher's API search, not re-opened by me individually; not used for any maximum."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "US$430 for 2.76 ct crystal opal parcel 4 pcs; US$800 for 2.08 ct; US$830 for 4.71 ct (calibrated crystal opal)",
+     "aud_price": 616,
+     "date": "live, seen 2026-10-14",
+     "venue": "Opal Galaxy (retail dealer)",
+     "url": "https://opalgalaxy.com/opal-parcels/",
+     "note": "ASKING. USD at 1 USD = 1.4328 AUD (open.er-api.com, 14 Oct 2026): US$430 = about A$616. same_item: category guide. Page opened. Calibrated, selected crystal opal, generally better and better documented than lot 55. Retail asking, not paid."
+    },
+    {
+     "price": "$250.00 for a 1.20 ct Lightning Ridge opal doublet cabochon",
+     "aud_price": 250,
+     "date": "live, seen 2026-10-14",
+     "venue": "Absolute Opals & Gems (retail dealer)",
+     "url": "https://www.absoluteopals.com/products/1-20-cts-australian-opal-doublet-stone-cabochon-lightning-ridge",
+     "note": "ASKING. Shown as $250.00 with an AUD/USD switcher; I have taken it as AUD (not certain). same_item: category guide (a single doublet). Page opened (the researcher said snippet only). Retail asking; shows dealer prices run far above Gowans hammers."
+    }
+   ],
+   "guide_low_aud": 65,
+   "guide_high_aud": 105,
+   "guide_summary": "Close sold evidence only: four Gowans hammers for loose light or crystal opal lots, $65 to $105 (Nov 2025 to Sep 2026). Category-guide sold lots run $20 to $40 (doublet parcels) up to $150 to $250 (doublets in capsules, a dealer tray), and retail asking prices are A$250 for a single doublet to about A$616 for a small calibrated parcel (USD at 1.4328); those are outside the guide range. No unsold evidence.",
+   "keep_max_hammer": 65,
+   "flip_max_hammer": 30,
+   "working": "Keep: lowest close same-type SOLD in 24 months = $80 (lot 399868, Mar 2026, a lesser lot) / 1.198 = $66.78, rounded down to $65 (all-in about $78). The 2-stone $65 lot is excluded from the minimum because it is only 2 stones. Flip: likely resale about $100 (Gowans $80 to $105 for similar parcels), less about 13% eBay/marketplace fees ($13) and $10 tracked postage = $77 / 2.396 = $32.14, rounded down to $30. Flip margin is thin.",
+   "confidence": "Medium",
+   "confidence_reason": "Clear identification as loose light/crystal opal cabochons and four opened Gowans SOLD comps with photos, but solid versus doublet is not visible, there is no carat weight, and at least one stone is cracked.",
+   "dropped_entries": "Dropped: (1) lot 382346 '3 OPALS' $55: photo not viewed and no description, can't tell if comparable. (2) lot 433793 '27.25 CARATS OF WELO OPALS' $50: Ethiopian opal, a different material. (3) eBay 5.8 ct lot US$29.95: snippet only and eBay is closed to us, unverified. (4) Opal Galaxy price guide '$30 to $500 per carat': page opened and the text does say light crystal from Coober Pedy runs $30 to $500 per carat, but it is a general guide, not a price for any item, so it is kept out of the evidence lists. (5) The researcher's placeholder UNSOLD entry with url 'n/a' is not evidence and was removed. Also corrected: Opal Galaxy now converted at 1.4328, not an assumed 1.50.",
+   "key_photo_findings": "About 9 to 10 polished cabochons visible, some partly hidden under others. Largest stones are a long oval and a round oval with bright green and some blue pinfire on a light grey crystal-looking body. One elongated stone with red-orange flash. Enlarged crop: the yellowish oval at top centre has a clear crack running right across it and a small pit near the top; the long flat stone at the bottom shows a line that may be a crack. Backs and sides are not visible, so doublets cannot be ruled out.",
+   "condition": "Polished loose stones; at least one cracked, possibly two; unknown whether solid; no weights.",
+   "question_for_gowans": "Inspection Thu 15 Oct 9 AM to 5:30 PM or Fri from 8:30 AM; absentee bids close 9:30 AM Fri 16 Oct; office (03) 6278 1600. Are these solid opals or doublets (look at the sides and backs)? How many stones and what total carat weight? Which stones are cracked (the top-centre oval looks cracked across)?"
+  },
+  {
+   "cdid": 443441,
+   "lot": 96,
+   "what_it_is": "SilverTowne Legendary Warriors series Geronimo 1 troy oz .999 fine silver round (medallion, not legal tender), in a soft plastic flip. Obverse shows GERONIMO seated with a horse and tepees; reverse shows the radial weapons design reading LEGENDARY WARRIORS / 1 oz 999 FINE SILVER.",
+   "triage": "KEEP",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$150.00 hammer, 9 bids",
+     "aud_price": 150,
+     "date": "listed 2026-09-13 (sale about a week later)",
+     "venue": "Gowans Auctions, lot 437099 '1 OZ FINE SILVER LEGENDARY WARRIORS - GERONIMO COIN'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437099/",
+     "note": "SOLD. AUD. same_item: yes (identical title and design). Page opened (API JSON). Hammer only, premium extra. A hot sale; later sibling rounds fell to $100."
+    },
+    {
+     "price": "$100.00 hammer, 9 bids",
+     "aud_price": 100,
+     "date": "listed 2026-10-04",
+     "venue": "Gowans Auctions, lot 441863 'LEGENDARY WARRIORS - SITTING BULL COIN'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/441863/",
+     "note": "SOLD. AUD. same_item: close (same series, mint, weight and fineness, different design). Page opened (API JSON). Most recent result. Hammer only."
+    },
+    {
+     "price": "$100.00 hammer, 6 bids",
+     "aud_price": 100,
+     "date": "listed 2026-10-04",
+     "venue": "Gowans Auctions, lot 441865 'LEGENDARY WARRIORS - CAESAR COIN'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/441865/",
+     "note": "SOLD. AUD. same_item: close (same series). Page opened (API JSON). Hammer only."
+    },
+    {
+     "price": "$150.00 hammer, 11 bids",
+     "aud_price": 150,
+     "date": "listed 2026-09-13",
+     "venue": "Gowans Auctions, lot 437093 'LEGENDARY WARRIORS - SITTING BULL'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437093/",
+     "note": "SOLD. AUD. same_item: close (same series). Page opened (API JSON). Hammer only."
+    },
+    {
+     "price": "$140.00 hammer, 11 bids",
+     "aud_price": 140,
+     "date": "listed 2026-09-13",
+     "venue": "Gowans Auctions, lot 437097 'LEGENDARY WARRIORS - CAESAR COIN'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437097/",
+     "note": "SOLD. AUD. same_item: close (same series). Page opened (API JSON). Hammer only."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "US$65.11 to US$67.71 for 1 (check to card price), US$63.28 at 100+",
+     "aud_price": 93,
+     "date": "live, seen 2026-10-14",
+     "venue": "Hero Bullion (US dealer)",
+     "url": "https://www.herobullion.com/geronimo-1-oz-silver-round-legendary-warriors/",
+     "note": "ASKING. USD at 1 USD = 1.4328 AUD (open.er-api.com, 14 Oct 2026): about A$93 to A$97 before US shipping and Australian GST. same_item: yes (new Geronimo round, in stock). Page opened. Retail asking, not paid."
+    },
+    {
+     "price": "US$350.62 (check/wire) or US$361.14 (card) for a 5-piece lot, about US$70 to US$72 each",
+     "aud_price": 101,
+     "date": "live, seen 2026-10-14",
+     "venue": "SilverTowne (the mint)",
+     "url": "https://www.silvertowne.com/product/31321/",
+     "note": "ASKING. USD at 1.4328: about A$100 to A$103 each, before shipping and GST. same_item: yes. Page opened; the price differs from the researcher's US$401.78 / US$413.83, corrected here. Retail asking."
+    }
+   ],
+   "guide_low_aud": 93,
+   "guide_high_aud": 150,
+   "guide_summary": "Sold: one identical Geronimo round at $150 hammer (Sep 2026) and four same-series rounds at $100 to $150, the latest two at $100 (Oct 2026), all Gowans. Asking: new rounds from US dealers at about A$93 to A$103 each (USD at 1.4328) before shipping and GST. No unsold evidence. Melt (about A$86/oz per a search snippet) is a floor, not verified.",
+   "keep_max_hammer": 80,
+   "flip_max_hammer": 35,
+   "working": "Keep: same-series rounds are the same product (1 oz .999, same mint), so lowest same-item SOLD in 24 months = $100 (lots 441863 and 441865, Oct 2026) / 1.198 = $83.47, rounded down to $80 (all-in $95.84, near melt and below landed new retail). Using the single identical Geronimo sale alone would give $150 / 1.198 = $125, but that sale looks like a spike and the series has since fallen to $100, so I have used the lower figure. Flip: likely resale about $110 (Gowans $100 to $150, new retail about A$95 to A$103 landed higher), less 13% eBay fees ($14.30) and $10 tracked postage = $85.70 / 2.396 = $35.77, rounded down to $35. Not a flip.",
+   "confidence": "High",
+   "confidence_reason": "Design and the 1 oz 999 FINE SILVER legend read clearly in both photos; one identical and four same-series Gowans SOLD results opened, plus two dealer pages opened. Silver price movement is the main risk.",
+   "dropped_entries": "Dropped: (1) Boston Tea Party, Southern Cross ingot and Perth Mint coin results: different products, category only, not needed. (2) exchange-rates.org silver spot AUD 86.515: page returned 403, snippet only, so it is only a floor lead, not evidence (and spot is not an asking price). (3) KJC rounds A$113 to A$155: undated snippets, unverified. Corrected: SilverTowne price (page shows US$350.62 / US$361.14 for 5, not US$401.78 / US$413.83) and the FX rate (1.4328 checked, not an assumed 1.50).",
+   "key_photo_findings": "Photo 2: obverse GERONIMO with seated figure, horse, tepees, crisp frosted relief. Photo 1: reverse LEGENDARY WARRIORS, 1 oz 999 FINE SILVER around crossed weapons. Round sits in a soft flip rather than a sealed capsule; a few light handling marks and fine hairlines visible on the reverse field. Note: the current lot already shows 3 bids on the API.",
+   "condition": "Bright uncirculated-looking bullion round with light handling marks; in a soft flip.",
+   "question_for_gowans": ""
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "lots": [
+  {
+   "cdid": 442694,
+   "lot": 1114,
+   "what_it_is": "Single live-edge slab catalogued as 'SLAB OF HUON PINE', roughly 2 m plus long and about 45 to 50 cm wide, pale yellow, bark on the left edge, a couple of small dark knots or inclusions, blue crayon mark near the base. One of a run of near-identical slabs (lots 1113 to 1115 in the same photo, about 14 Huon slab lots in this sale).",
+   "triage": "KEEP",
+   "market_score": 3,
+   "sold": [
+    {
+     "price": "$30 to $120 hammer, median $60 (29 single 'SLAB OF HUON PINE' lots, most recent sale)",
+     "aud_price": 60,
+     "date": "listed 2026-09-27",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=huon%20pine%20slab",
+     "note": "kind SOLD, AUD, no conversion, same_item yes (series, sizes not stated). Page opened (API JSON, all 8 pages). Hammer only, 19.8% premium extra. Top two were $110 and $120 with 6 bids each."
+    },
+    {
+     "price": "Median $50 hammer, middle half $35 to $65, top $140 (226 single 'SLAB OF HUON PINE' lots sold)",
+     "aud_price": 50,
+     "date": "listed 2026-07-05 to 2026-09-27",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=huon%20pine%20slab",
+     "note": "kind SOLD, AUD, same_item yes (series). Page opened (API JSON), my own aggregation, single-slab titles only. Over all 613 single slabs since Sep 2025 the median is $55 (IQR $35 to $65), so the price level is very stable. Titles carry no size, so this is the series price, not a size-matched price."
+    },
+    {
+     "price": "$105 to $180 hammer (top tail of single slabs: $180 2 bids listed 2026-04-19; $170 8 bids 2025-12-01; $160 6 bids 2025-11-17; $150 7 bids 2026-05-24; $140 x3; $105 x3 on 2026-09-20)",
+     "aud_price": 140,
+     "date": "listed 2025-11-10 to 2026-09-20",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab%20of%20huon%20pine",
+     "note": "kind SOLD, AUD, same_item close (presumably larger or better-figured slabs; not size-checked). Page opened (API JSON). About 5% of single slabs reach $100 or more. Multi-slab lots reached $180 to $220 (2 or 3 slabs, listed 2026-02-01) and are not a comp for one slab."
+    },
+    {
+     "price": "$60 hammer, 5 bids (same batch $30, $50, $60, $60)",
+     "aud_price": 60,
+     "date": "listed 2025-09-28",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=huon%20pine%20slab",
+     "note": "kind SOLD, AUD, same_item yes (series). Page opened (API JSON), lot id 364270. Earliest batch; level unchanged a year later."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "2 'SLAB OF HUON PINE' lots with sale_price 0 despite 3 and 4 bids (no reserve or last bid shown)",
+     "aud_price": 0,
+     "date": "listed 2026-03-09",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=huon%20pine%20slab",
+     "note": "kind UNSOLD, same_item yes. Page opened (API JSON), lot ids 395788 and 395789. Only 2 of about 780 past Huon slab lots show no sale; probably passed in or withdrawn. Ceiling signal only."
+    }
+   ],
+   "asking": [],
+   "guide_low_aud": 30,
+   "guide_high_aud": 180,
+   "guide_summary": "All evidence is SOLD hammer prices at Gowans (AUD, no conversion): single Huon slabs typically make $35 to $65 hammer (median $50 to $60), with about 5% reaching $105 to $180 for presumably larger pieces. Two unsold lots in 13 months. No asking prices sought (no listed source covers timber).",
+   "keep_max_hammer": 40,
+   "flip_max_hammer": 15,
+   "working": "keep: lowest surviving same-item SOLD figure used is the series median $50 (single slabs since July 2026; the literal lowest hammers of $15 to $20 are evidently offcuts and not size-comparable, and the $60 Sep 2026 batch median is higher). $50 / 1.198 = $41.74, round down to $40. flip: realistic resale is re-offering at Gowans or Marketplace at about the same $50; less an assumed 15% vendor commission and $0 postage (pickup) = $42.50; / 2.396 = $17.74, round down to $15. Flipping is not worthwhile; only bid to keep for your own woodwork.",
+   "confidence": "Medium",
+   "confidence_reason": "Species is from the catalogue title; colour and grain in the photo are consistent with Huon pine but not proof, and no size or thickness is given. Many matching SOLD results opened, but none size-matched.",
+   "dropped_entries": "Dropped the researcher's UNSOLD entry '23 lots listed July to Sep 2026 had sale_price 0': not true. The 14 zero-price Huon slab lots are all listed 2026-10-04, which is the current auction 366 (including this lot). Replaced it with the 2 genuine unsold lots from 2026-03-09. Dropped the macrocarpa category-guide entry from this lot (it belongs to the macrocarpa lot; kept only as a note that macrocarpa slabs make a median $25 to $30). Kept the $160 single (2025-11-17) but folded it into the top-tail entry. Researcher's '304 lots since July' count mixes single and multi-slab titles; my single-slab count is 226 with the same $50 median.",
+   "key_photo_findings": "Chalk '1114 9/10/26' and a round lot tag read. Pale yellow, fine even grain, one bark edge, a 10 cm dark knot or void about two thirds down, small pin knots, blue crayon mark at the base, rough sawn surface. Slab appears full length and of average width for the series; thickness not visible.",
+   "condition": "Rough sawn, unfinished, with live edge and some inclusions; no obvious large splits in the photo.",
+   "question_for_gowans": "What are the length, width and thickness of lot 1114, and is it confirmed Huon pine (any smell or provenance from the supplier)?"
+  },
+  {
+   "cdid": 442720,
+   "lot": 1140,
+   "what_it_is": "Marantz Model 1030 console stereo amplifier, early to mid 1970s silver-face integrated amplifier (catalogued as such; model name read on the faceplate). All knobs and switches present, front view only, untested.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 7,
+   "sold": [
+    {
+     "price": "$230 hammer, 8 bids",
+     "aud_price": 230,
+     "date": "listed 2026-09-27",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=marantz%20amplifier",
+     "note": "kind SOLD, AUD, same_item close (not the same model). Page opened (API JSON) and photo viewed: lot 440962 'MARANTZ AMPLIFIER' is a Marantz PM30 console stereo amplifier, black face, sliders, looks clean. A sister Marantz integrated of a similar era and class rather than the 1030 itself; working status not stated. Hammer, premium extra."
+    },
+    {
+     "price": "$370 and $460 hammer, 16 bids each (Sansui AU-555)",
+     "aud_price": 370,
+     "date": "listed 2026-08-03 and 2026-03-23",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sansui%20amplifier",
+     "note": "kind SOLD, AUD, same_item category guide (comparable 1970s Japanese integrated). Page opened (API JSON), lots 428615 and 399113. Shows strong local demand for 1970s amps, not a value for the 1030."
+    },
+    {
+     "price": "$625 hammer (Sony TA-5650) and $760 hammer (J E Sugden A48), 10 bids each",
+     "aud_price": 625,
+     "date": "listed 2026-03-09 and 2026-02-23",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=vintage%20stereo%20amplifier",
+     "note": "kind SOLD, AUD, category guide only. Page opened (API JSON), lots 395803 and 392656. Dearer, more sought-after amps."
+    },
+    {
+     "price": "$120 hammer (Pioneer SA-5300, aux input faulty) and $100 (Pioneer stereo amplifier)",
+     "aud_price": 100,
+     "date": "listed 2026-08-30 and 2026-02-01",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pioneer%20amplifier",
+     "note": "kind SOLD, AUD, category guide (lower-tier vintage amps). Page opened (API JSON), lots 434743 and 387559."
+    },
+    {
+     "price": "$1,700 hammer (Marantz stereophonic receiver, 20 bids) and $800 (Marantz 2225 receiver, 14 bids)",
+     "aud_price": 800,
+     "date": "listed 2026-02-15 and 2026-03-01",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=marantz",
+     "note": "kind SOLD, AUD, category guide only. Page opened (API JSON), lots 391345 and 394255. Silver-face Marantz receivers are a dearer class than the entry-level 1030 integrated amp; shows the local appetite for vintage Marantz."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 230,
+   "guide_high_aud": 230,
+   "guide_summary": "Only one close entry survives: a Marantz PM30 console stereo amplifier sold for $230 hammer at Gowans in Sep 2026 (SOLD, AUD). No sale of a Model 1030 found at Gowans or popsike (0 results), and eBay is closed, so nothing same-item. Category guides at Gowans: 1970s amps $100 to $760 hammer, Marantz receivers $800 to $1,700. No unsold or asking evidence.",
+   "keep_max_hammer": 0,
+   "flip_max_hammer": 0,
+   "working": "No same-item SOLD evidence (no Model 1030 sale found), so both maximums are 0 under the rules. For reference only: if the PM30 at $230 were accepted as a proxy, keep would be 230 / 1.198 = $191.99, round down to $190, and flip ($230 resale less about 13% marketplace fee and say $30 courier = $170) / 2.396 = $70.95, round down to $70. Already 4 bids at the time of fetching.",
+   "confidence": "Low",
+   "confidence_reason": "Model read clearly on the faceplate, but value rests only on a sister model and category guides; working order, rear panel and case condition unseen.",
+   "dropped_entries": "Dropped 'MARANTZ AMPLIFIER & AARON SPEAKERS' $90 (lot 409260, listed 2026-05-10): I viewed its photo and the Marantz is a modern black AV surround receiver with tower speakers, not comparable. Corrected the researcher's description of the PM30 as 'later and cheaper-class': it is a Marantz console stereo amplifier of broadly similar era and class, so kept as close. Kept the Sansui, Sony, Sugden, Pioneer and Marantz receiver entries as category guides only.",
+   "key_photo_findings": "Faceplate reads 'Model 1030', 'marantz', 'console Stereo amplifier'. Brushed silver face clean with no obvious dents; all eight push switches and five knobs present; mic and stereophones jacks; power lamp unlit (not powered in photo). Top cover dark and vented, a lot sticker on the top right. No wooden case shown, no rear view.",
+   "condition": "Cosmetically good from the front; untested, functions unknown; rear terminals and case unseen.",
+   "question_for_gowans": "Has lot 1140 been powered on, do both channels work without crackle on the pots and switches, and does it come with its wooden case? Can you check the rear panel (speaker terminals, power cord) for damage?"
+  },
+  {
+   "cdid": 442998,
+   "lot": 1418,
+   "what_it_is": "Single long slab catalogued as 'SLAB OF MACROCARPA', about 2.5 m or more long (much taller than the neighbouring slabs 1416 and 1417), roughly 30 cm wide at the top widening to about 45 cm at the base, pinkish-tan straight grain, with a long dark bark inclusion and split in the lower third.",
+   "triage": "KEEP",
+   "market_score": 3,
+   "sold": [
+    {
+     "price": "$65 hammer, 2 bids",
+     "aud_price": 65,
+     "date": "listed 2026-07-26",
+     "venue": "Gowans Auctions past results (lot 426872)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa+slab",
+     "note": "kind SOLD, AUD, same_item yes. Page opened (API JSON) and photo viewed: large wide macrocarpa slab with a split and bark inclusion, chalked 31/7, similar to or a bit smaller than lot 1418. Hammer, premium extra."
+    },
+    {
+     "price": "$70, $70 and $67 hammer, 1 bid each",
+     "aud_price": 67,
+     "date": "listed 2026-04-26",
+     "venue": "Gowans Auctions past results (lots 405803, 405804, 405807)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa+slab",
+     "note": "kind SOLD, AUD, same_item close (sizes not stated; the listing photo shows a row of long, narrower slabs). Page opened (API JSON). Single-bidder results."
+    },
+    {
+     "price": "$62 and $60 hammer, 1 bid each",
+     "aud_price": 60,
+     "date": "listed 2025-12-08",
+     "venue": "Gowans Auctions past results (lots 381631, 381633)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa+slab",
+     "note": "kind SOLD, AUD, same_item close (sizes not stated). Page opened (API JSON)."
+    },
+    {
+     "price": "Median $23.50 hammer, top $65 (28 'SLAB OF MACROCARPA' lots sold); all 91 since Nov 2025 median $25, IQR $12 to $35",
+     "aud_price": 25,
+     "date": "listed 2026-07-01 to 2026-09-27",
+     "venue": "Gowans Auctions past results",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa",
+     "note": "kind SOLD, AUD, same_item close (mixed sizes, mostly smaller pieces). Page opened (API JSON, all 3 pages), my own aggregation. Recent sales soft: $10 to $45 on 2026-08-30, $25 on 2026-09-20, $12 on 2026-09-27."
+    },
+    {
+     "price": "$80 to $90 hammer, 3 to 5 bids ('SLAB OF MACROCARPA PINE')",
+     "aud_price": 80,
+     "date": "listed 2025-11-10, 2026-05-17, 2026-09-20",
+     "venue": "Gowans Auctions past results (lots 374252, 410721, 439804)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa",
+     "note": "kind SOLD, AUD, category guide (separately catalogued 'PINE' slabs, median $30 across 66 lots). Page opened (API JSON) and 439804 photo viewed: a long, fairly narrow slab similar in style to 1418. Top of the raw slab range at Gowans."
+    },
+    {
+     "price": "$145 and $100 hammer, 11 bids each (MACROCARPA BENCH SEAT)",
+     "aud_price": 100,
+     "date": "listed 2025-11-11 and 2026-01-19",
+     "venue": "Gowans Auctions past results (lots 374931, 384784)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa",
+     "note": "kind SOLD, AUD, category guide only: finished bench seats, not raw slabs. Page opened (API JSON)."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 25,
+   "guide_high_aud": 90,
+   "guide_summary": "All SOLD hammer prices at Gowans (AUD, no conversion). Large single macrocarpa slabs make $60 to $70 hammer (one photo-matched at $65 in Jul 2026), the separately catalogued 'pine' slabs top out at $80 to $90, and the typical small slab is $25. No unsold lots recorded and no asking prices sought. The scanner's $150 to $350 guess has no support.",
+   "keep_max_hammer": 50,
+   "flip_max_hammer": 20,
+   "working": "keep: lowest surviving same-item SOLD for a large single slab is $60 (Dec 2025; the photo-matched $65 gives the same answer). $60 / 1.198 = $50.08, round down to $50. The series median of $25 is for smaller pieces and is not used. flip: resale about $65 (best size-matched sale) less an assumed 15% vendor commission, $0 postage (pickup) = $55.25; / 2.396 = $23.06, round down to $20. Not a worthwhile flip.",
+   "confidence": "Medium",
+   "confidence_reason": "Species from the catalogue title only; the colour is pinker than most macrocarpa at Gowans, which is unusual but plausible. One photo-matched SOLD comp plus several unsized ones, all opened.",
+   "dropped_entries": "None dropped; all researcher figures checked against the API and match (lot ids, prices, bid counts, dates). Relabelled the 'PINE' slabs and bench seats as category guides (as the researcher did) and added the series median entry so the typical price is visible.",
+   "key_photo_findings": "Chalk '1418 9/10/26' and a round lot tag read. Long straight-grained pinkish slab with sawn (not live) right edge, slight live edge on the left; a long dark bark-filled inclusion and open split runs up from the base for about a third of the length; a smaller knot on the left edge. Much longer than lots 1416 and 1417. Thickness not visible.",
+   "condition": "Rough sawn, unfinished; the lower third has a split and bark inclusion that would need stabilising or cutting off.",
+   "question_for_gowans": "What are the dimensions and thickness of lot 1418, and is the species confirmed as macrocarpa? Does the split at the base go right through?"
+  }
+ ]
+}

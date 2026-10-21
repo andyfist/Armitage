@@ -1,0 +1,174 @@
+{
+ "lots": [
+  {
+   "cdid": 3090237,
+   "lot": 220,
+   "what_it_is": "Boxed Mettoy Playthings (Swansea) tinplate model Hoover washing machine with hand-cranked mangle and side crank, 1950s, in its original printed 'Model Hoover Washing Machine' carton, plus a separate blue tubular steel school-style chair with ply seat.",
+   "triage": "NEAR MISS",
+   "market_score": 4,
+   "score_reason": "A common British 1950s toy. The only price evidence is a UK auction estimate of GBP 10-20 for two boxed examples and an unverified eBay asking price. Machine itself looks clean, which helps, and the chair adds a little retro value, but the realistic local market is about $30-80 for the lot.",
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "Estimate GBP 10-20 for two machines (hammer hidden behind login)",
+     "currency": "GBP",
+     "aud_price": 29,
+     "date": "24 January 2024 (past sale, result not shown)",
+     "venue": "Vectis Auctions (UK), General Toys & Tinplate sale, lot 357",
+     "url": "https://www.vectis.co.uk/d007-lot-971304-mettoy-playthings-model-hoover-washing-machine-x-2",
+     "same_item": "yes",
+     "note": "Page opened. Two Mettoy Hoover machines #4400E, Good to Good Plus, in Fair boxes with instruction leaflets, no reserve. Only the estimate is visible, so this is an estimate signal, not a price paid and not proven unsold. AUD 19-38 for the pair at 1 GBP = 1.914 AUD (open.er-api.com, 19 Oct 2026); midpoint about AUD 29 for two, roughly AUD 15 each. Vectis examples had leaflets; the Armitage one shows no leaflet."
+    },
+    {
+     "kind": "ASKING",
+     "price": "GBP 45 or best offer",
+     "currency": "GBP",
+     "aud_price": 86,
+     "date": "status unknown, seen in a search snippet by the researcher",
+     "venue": "eBay, item 256224790674",
+     "url": "https://www.ebay.com/itm/256224790674",
+     "same_item": "yes",
+     "note": "Snippet only, NOT verified (eBay returns 403 to us). Lead only. Worn box, comparable to Armitage lot. AUD at 1 GBP = 1.914 AUD. An optimistic asking price with best offer."
+    }
+   ],
+   "guide_low_aud": 19,
+   "guide_high_aud": 86,
+   "guide_summary": "Nothing sold verified. Range is AUD 19-38 for a PAIR from a 2024 Vectis estimate (result hidden) up to an unverified eBay asking price of about AUD 86. 0 sold, 0 unsold, 2 asking/estimate (one snippet only). Rate 1 GBP = 1.914 AUD.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD entry survived verification: the two eBay 'sold' figures (GBP 30 and GBP 15.96) are snippet-only, undated and eBay is closed to us, so they cannot set a maximum. keep_max_hammer = 0 and flip_max_hammer = 0. For context only: if the GBP 30 snippet were real, it is about AUD 57, giving 57/1.22 = $46.7 so about $45 hammer, and the GBP 15.96 unboxed example about AUD 31; the Vectis estimate implies about AUD 15 a machine. Treat any bid over about $30-40 hammer as paying retail.",
+   "confidence": "Low",
+   "confidence_reason": "The maker is read on the box (Made in Gt Britain by the Mettoy Co Ltd Swansea), but there is no verified sold price, only an estimate and a snippet asking price. Web search cap reached so no Australian results checked beyond Gowans (none found).",
+   "dropped_entries": "eBay UK 175976135413 (claimed SOLD GBP 30) and eBay UK 128098076440 (claimed SOLD GBP 15.96): snippet only, undated, page returns 403, so removed from SOLD and kept only as unverified leads. Vectis entry moved from UNSOLD to ASKING/estimate: the page shows only an estimate, with the hammer hidden behind login, so there is no proof it went unsold; date corrected to 24 January 2024, lot 357. Taylors / the-saleroom 2016 lot 5657: no price at all and page did not load, dropped. Researcher's 1 GBP = 2.0 AUD replaced with 1.914.",
+   "key_photo_findings": "Box end panel reads 'Made in Gt. Britain by the Mettoy Co. Ltd. Swansea' and 'Model HOOVER Registered Trade Mark of Hoover Ltd Washing Machine'. Machine is white tinplate with red 'HOOVER' badge, red crank handle on the side, chrome-handled mangle with red knob on top, grey top surround, black base. Paint looks bright with light rubbing and small rust or wear marks along the lower front edge and seams; a grey plate sits under it. Box is complete on four sides but the top flaps are torn away and the card is faded and soiled. Chair is a blue tubular steel stacking school chair with worn paint and a ply seat. No instruction leaflet visible.",
+   "condition": "Toy good with light wear and minor edge rust; box fair, top flaps missing; chair worn.",
+   "question_for_armitage": "Does the mangle turn and the side crank work? Is there any rust inside the tub or on the base, and is the grey plate underneath part of the toy? Are the box flaps and any instruction leaflet present?"
+  },
+  {
+   "cdid": 3090242,
+   "lot": 225,
+   "what_it_is": "Fifteen hand-blown ruby red bowl glasses (about 7 tall wine goblets and 8 coupes) on clear stems with gold-fleck (aventurine) twisted knops and clear feet. Murano or Venetian style, probably mid-20th century, unmarked, maker not confirmed.",
+   "triage": "NEAR MISS",
+   "market_score": 4,
+   "score_reason": "Prettier and better made than the plain ruby quantity lots that sell at Gowans for $37-50 hammer, but those are only close comparisons, and plain ruby lots also pass in often. No verified Murano aventurine sales found. Likely $40-100.",
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$50 hammer (sale_price 5000 cents, 6 bids)",
+     "currency": "AUD",
+     "aud_price": 50,
+     "date": "listed 2026-05-17, sold about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 409980 QTY OF RUBY GLASSES",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=qty+ruby+glasses",
+     "same_item": "close",
+     "note": "API JSON read and photo viewed (page opened). About 20 plain all-red moulded goblets, red stems and feet, no gold knops. Plainer and commoner than lot 225, larger quantity. Premium extra. Same title passed in on 2026-04-26, 05-03 and 05-10 (may be the same lot relisted; the photos look different)."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$37 hammer (sale_price 3700, 4 bids)",
+     "currency": "AUD",
+     "aud_price": 37,
+     "date": "listed 2026-08-31",
+     "venue": "Gowans Auctions, Hobart, lot id 435284 QTY OF RUBY GLASSWARE",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ruby+glass",
+     "same_item": "close",
+     "note": "API JSON read (page opened); researcher viewed photo, I confirmed title, price and bids. About 20 ruby glasses, some clear twist stems, no gold fleck. Premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$35 hammer (sale_price 3500, 5 bids)",
+     "currency": "AUD",
+     "aud_price": 35,
+     "date": "listed 2025-11-03",
+     "venue": "Gowans Auctions, Hobart, lot id 372394 1960 WHITEFRIARS RUBY RED GLASSWARE",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ruby+glass",
+     "same_item": "category guide",
+     "note": "API JSON read (page opened), title only. Named English maker, different style."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$15 hammer (sale_price 1500, 2 bids)",
+     "currency": "AUD",
+     "aud_price": 15,
+     "date": "listed 2026-06-21",
+     "venue": "Gowans Auctions, Hobart, lot id 417887 SET OF 6 RUBY WINE GLASSES",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ruby+glass",
+     "same_item": "category guide",
+     "note": "API JSON read (page opened), title only. Only 6 glasses."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$10 hammer (sale_price 1000, 1 bid)",
+     "currency": "AUD",
+     "aud_price": 10,
+     "date": "listed 2026-09-20",
+     "venue": "Gowans Auctions, Hobart, lot id 439042 PART RUBY GLASS DECANTER SET WITH 2 GLASSES",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=ruby+glasses",
+     "same_item": "category guide",
+     "note": "API JSON read (page opened). Part set, low end."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$50 hammer (sale_price 5000, 1 bid)",
+     "currency": "AUD",
+     "aud_price": 50,
+     "date": "listed 2026-09-06",
+     "venue": "Gowans Auctions, Hobart, lot id 435858 VENETIAN GLASS DECANTER & GLASS SET - ONLY 5 GLASSES",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=venetian+glass",
+     "same_item": "category guide",
+     "note": "API JSON read (page opened), title only. Includes a decanter, single bid."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$45 hammer (sale_price 4500, 5 bids)",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "listed 2025-11-24",
+     "venue": "Gowans Auctions, Hobart, lot id 378343 2 VENETIAN GLASS DECANTERS & GLASSES",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=venetian+glass",
+     "same_item": "category guide",
+     "note": "API JSON read (page opened), title only. Includes two decanters."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$10 hammer (sale_price 1000, 2 bids)",
+     "currency": "AUD",
+     "aud_price": 10,
+     "date": "listed 2026-04-26",
+     "venue": "Gowans Auctions, Hobart, lot id 405195 VENETIAN GLASS SET & OTHER COLOURED GLASSES",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=venetian+glass",
+     "same_item": "category guide",
+     "note": "API JSON read (page opened), title only."
+    }
+   ],
+   "unsold": [
+    {
+     "kind": "UNSOLD",
+     "price": "sale_price 0 after 3 bids (no reserve shown)",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "listed 2026-05-10",
+     "venue": "Gowans Auctions, Hobart, lot id 408323 QTY OF RUBY GLASSES",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=qty+ruby+glasses",
+     "same_item": "close",
+     "note": "API JSON read and photo viewed (page opened). Plain all-red goblets, about 20. Passed in. Lots 404978 (2 bids, 2026-04-26) and 406791 (4 bids, 2026-05-03) with the same title also show 0. Shows plain ruby quantity lots often fail."
+    }
+   ],
+   "asking": [],
+   "guide_low_aud": 37,
+   "guide_high_aud": 50,
+   "guide_summary": "Close comparisons only: two Gowans plain ruby quantity lots sold at $37 and $50 hammer in 2026, and one similar lot passed in three times. Wider category guides (Venetian sets, Whitefriars, small ruby sets) sold $10-50 hammer. All sold, all AUD, no asking evidence found. Nothing is the same gold-fleck Murano style.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "Rule: maximum bids only from same-item SOLD. None of the Gowans lots is the same item (they are plain moulded ruby glasses, not Venetian aventurine-stem glasses), so keep_max_hammer = 0 and flip_max_hammer = 0. Indicative only, if you accept the close lots: lowest close SOLD $37 / 1.22 = $30.3, so about $30 hammer ($36.60 all-in). Flip: resale about $50 less 10% fees ($5) = $45, / 2.44 = $18.4, so about $15 hammer, not worth flipping.",
+   "confidence": "Low",
+   "confidence_reason": "No mark or label in the photos, maker unconfirmed, and the sold evidence is close or category only. Web search cap reached, so no Murano aventurine or Armitage past results could be checked.",
+   "dropped_entries": "None dropped. All eight SOLD and the UNSOLD Gowans entries were re-checked against the live API (titles, sale_price, bid counts and listing dates all match). I viewed photos of 404978, 408323 and 409980: all plain red moulded goblets, confirming 'close' at best.",
+   "key_photo_findings": "Fifteen glasses: about 7 tall ovoid goblets and 8 wide coupes. Thin ruby bowls, clear twisted knops filled with gold aventurine fleck, clear round feet; looks hand-blown Venetian work. No label, etching or acid mark visible. No chips seen on rims or feet at this resolution, but rims are not shown close up.",
+   "condition": "Appears good, no chips seen, rims not inspected closely.",
+   "question_for_armitage": "Please check every rim and foot for chips or flea bites, and look for any foil label or acid-etched 'Murano' or 'Venezia' mark. How many glasses exactly (we count 15)?"
+  }
+ ]
+}

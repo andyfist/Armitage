@@ -1,0 +1,240 @@
+{
+ "lots": [
+  {
+   "cdid": 3088264,
+   "lot": 820,
+   "what_it_is": "Two items: (1) Royal Australian Mint 2001 $1 Silver Roo, 1 troy oz fine silver (99.9%), frosted uncirculated, Jeanette Timbery design, in capsule on original RAM card (barcode 9314688001282). (2) Westpac/RAM 'Anzacs Remembered World War I 1914-1918' 2015 official coin collection folder, 15 cards all appearing filled (14 x 20c plus the coloured War Heroes $1).",
+   "triage": "KEEP",
+   "market_score": 6,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$110 hammer (sale_price 11000 cents, 13 bids)",
+     "currency": "AUD",
+     "aud_price": 110,
+     "date": "listed 2026-04-26, sold about a week later",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=kangaroo+silver+2001&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON). Lot 404622 '2001 $1 SILVER KANGAROO FROSTED UNCIRCULATED COIN'. I viewed the Gowans photo: identical RAM card and capsule. Hammer only, Gowans premium extra. Condition looks comparable."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$100 to $160 hammer across 2026 1oz silver roo lots",
+     "currency": "AUD",
+     "aud_price": 120,
+     "date": "2026-02 to 2026-10",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+kangaroo&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened (API JSON). Other years, same 1oz series: 1998 $100 (441861, 6 bids, Oct 2026), 2006 $120, 1995 $120 and $121, 1998 $130 and $140, 1999 $130, 1997 $130, 1993 $140, 2003 $160, 2007 $160. Late 2025 results lower (2004 frosted $79, 2024 $80). Not used for the max bid; shows the band."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$45 hammer (4 bids)",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "listed 2026-05-31",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=anzacs+remembered&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON). Lot 412990 'ANZACS REMEMBERED COIN COLLECTION', description blank, completeness not stated."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$45 hammer (7 bids)",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "listed 2026-07-26",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=anzac+coin&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON). Lot 425769 'ANZAC REMEMBERED COIN SET'. Researcher had this under category guide; it is the same set. Completeness not stated."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$35 hammer (2 bids)",
+     "currency": "AUD",
+     "aud_price": 35,
+     "date": "listed 2026-09-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=anzacs+remembered&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON). Lot 440274 'ANZACS REMEMBERED COIN SET'. Gowans photo viewed: full folder, looks complete. Most recent result."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$30 hammer each (2 and 3 bids)",
+     "currency": "AUD",
+     "aud_price": 30,
+     "date": "listed 2025-11-10 and 2026-06-14",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=anzacs+remembered&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON). Lots 373453 and 416181. Completeness unknown."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$25 hammer (1 bid)",
+     "currency": "AUD",
+     "aud_price": 25,
+     "date": "listed 2025-10-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=anzacs+remembered&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON). Lot 368556 'ANZACS REMEMBERED COIN COLLECTION'. Lowest result for a (presumed full) folder."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "GBP 149.95 (1 available)",
+     "currency": "GBP",
+     "aud_price": 287.6,
+     "date": "live, seen 2026-10-16",
+     "venue": "The London Coin Company (UK dealer)",
+     "url": "https://www.thelondoncoincompany.com/store/2001-Australia-Kangaroo-$1-Frosted-Silver-1oz-Coin-Mint-Pack-p161948613",
+     "same_item": "yes",
+     "note": "Page opened. Same RAM mint pack, same UPC 9314688001282, mintage 45,562 stated. Converted at 1 GBP = 1.918 AUD (open.er-api.com 2026-10-16). Overseas retail ask, optimistic."
+    },
+    {
+     "kind": "ASKING",
+     "price": "A$179.84 (2004 frosted UNC + box) and A$179.84 (2001 proof strike)",
+     "currency": "AUD",
+     "aud_price": 179.84,
+     "date": "live, seen 2026-10-16",
+     "venue": "KJC Bullion (Sydney dealer)",
+     "url": "https://www.kjc-gold-silver-bullion.com.au/PD/1-oz-2001-1-silver-kangaroo-frosted-unc/421",
+     "same_item": "close",
+     "note": "Page opened. The researcher's A$170.90 for the 2001 frosted UNC did not appear on the page (snippet only, dropped). Only sibling items shown: 2001 proof (different strike) and 2004 frosted UNC, both A$179.84. Retail ask."
+    }
+   ],
+   "guide_low_aud": 25,
+   "guide_high_aud": 288,
+   "guide_summary": "Sold: 2001 roo $110 hammer (one exact sale, Gowans Apr 2026), other-year 1oz roos $100-$160 hammer in 2026; folder $25-$45 hammer (six Gowans sales). Asking: A$180 (KJC, sibling items) and A$288 (UK dealer, GBP 149.95 at 1.918). No unsold. Combined realistic Tasmanian hammer for the lot is about $135-$200.",
+   "keep_max_hammer": 110,
+   "flip_max_hammer": 45,
+   "working": "Keep: lowest same-item SOLD roo $110 + lowest folder $25 = $135; 135 / 1.22 = 110.66, round down to $110. Flip: likely resale from SOLD evidence about $110 (roo) + $35 (folder) = $145; less about 13% selling fees ($18.85) and $12 tracked outbound postage = $114.15; / 2.44 = 46.8, round down to $45. Gowans prices are hammer with their premium extra, so these are conservative. Silver price movements will shift the roo value.",
+   "confidence": "Medium",
+   "confidence_reason": "Card text, barcode and denomination read in the photos; folder cards all read. Only one same-year SOLD roo (Gowans photo matched), backed by many other-year roo sales and six folder sales, all pages opened. Not High because the roo value is a single exact sale and coin condition (spots, toning) is unseen close up.",
+   "dropped_entries": "KJC A$170.90 for the 2001 frosted UNC: not on the page when opened, snippet only, dropped (KJC kept only for its sibling prices). Numista set catalogue: no price, context only, dropped. Gowans 408018 'carded coins & folder - 7 coins' $12: incomplete set, not comparable, dropped. Researcher's 1998 roo '$100, 10 bids' corrected to 6 bids (441861). Other Anzac folders (Anzac Spirit, Legends, Anzac to Afghanistan) $12-$80: different sets, category only, not listed.",
+   "key_photo_findings": "Roo card reads '2001 $1 SILVER ROO, FROSTED UNCIRCULATED COIN', back reads Royal Australian Mint, fine silver 99.9%, one troy ounce, 40.00mm, barcode 9314688001282. Coin sealed in capsule. Folder: 15 cards (1914-1918, Home Front, Mateship, RAN, Light Horsemen, Remembrance Day, Nurses, War Correspondents, Unknown Soldier, Wartime Animals, Flying Corps, Gallipoli Landing, Last Post, AIF, War Heroes coloured $1), all with coins visible.",
+   "condition": "Roo looks bright in capsule, card clean; minor toning cannot be ruled out. Folder clean, coins present; Light Horsemen 20c looks toned or coppery in photo.",
+   "question_for_armitage": "Is the silver roo capsule sealed and the coin free of milk spots or toning? Are all 15 Anzacs Remembered cards present with their coins (including the War Heroes $1)?"
+  },
+  {
+   "cdid": 3088268,
+   "lot": 824,
+   "what_it_is": "Penfolds St Henri Shiraz 2006, 750ml, screwcap (Stelvin), single bottle with a retailer stock sticker (4434/12 SKK1).",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$100 hammer (sale_price 10000 cents, 17 bids)",
+     "currency": "AUD",
+     "aud_price": 100,
+     "date": "listed 2026-09-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=st+henri&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened (API JSON). Lot 440458 St Henri 2017, a different and younger vintage, so not the same item. Tasmanian buyer-pool signal only; cannot set a max bid."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "$159.99 per bottle ($1,919.88 dozen), Sold Out",
+     "currency": "AUD",
+     "aud_price": 159.99,
+     "date": "expired listing, page seen 2026-10-16",
+     "venue": "Nick's Wine Merchants (Melbourne retail)",
+     "url": "https://www.nicks.com.au/products/2006-penfolds-st-henri-shiraz",
+     "same_item": "yes",
+     "note": "Page opened. Same wine and vintage, closure Stelvin matches the screwcap in the photo. Stale retail ask, not a price paid; retail provenance better than an unknown single bottle."
+    }
+   ],
+   "guide_low_aud": 100,
+   "guide_high_aud": 160,
+   "guide_summary": "One retail asking price for the same wine ($159.99, sold out) and one Gowans sale of a different vintage (2017, $100 hammer). No sold or unsold result for the 2006 found. Range $100-$160 is asking plus a category signal only.",
+   "keep_max_hammer": 0,
+   "flip_max_hammer": 0,
+   "working": "No SOLD evidence for the 2006 vintage, so no maximum bid. The 2017 St Henri at $100 hammer is a different vintage and cannot set a max.",
+   "confidence": "Low",
+   "confidence_reason": "Label clearly read (St Henri Shiraz, Vintage 2006, Penfolds, 750ml) but value rests on one stale retail ask and a different-vintage sale. WebSearch session cap hit, so no further auction results could be searched; Langtons search returned no 2006 St Henri lots.",
+   "dropped_entries": "Bordeaux Index: page opened, the offer is a 6 x 150cl magnum case in bond at GBP 1,308, not a 750ml bottle, dropped. Ozwine Review 2010 store price about $100: page returned HTTP 429, snippet only and 16 years old, dropped. Dan Murphy's: no price shown, dropped.",
+   "key_photo_findings": "Label reads St Henri Shiraz, Vintage 2006, Penfolds, 750ml. Ribbed screwcap with red capsule, intact. Fill looks into the neck. Handwritten sticker 4434/12 SKK1 on lower bottle.",
+   "condition": "Label clean and unmarked, screwcap intact, fill good from photo. Storage history unknown.",
+   "question_for_armitage": "Any known storage history or provenance for this bottle (cellared, part of a collection)? Is the screwcap undamaged and fill into the neck?"
+  },
+  {
+   "cdid": 3088269,
+   "lot": 825,
+   "what_it_is": "Penfolds RWT Shiraz 2002, Barossa Valley, 750ml, cork with red capsule, bottle number 21676.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 6,
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "Estimate $180-$200 per bottle; current bid $164",
+     "currency": "AUD",
+     "aud_price": 180,
+     "date": "live, seen 2026-10-16 (closing 20 and 25 Oct 2026)",
+     "venue": "Langtons (lots 636, 637, 1211)",
+     "url": "https://www.langtons.com.au/p/penfolds-rwt-shiraz--barossa-valley-2002-bottle/auc-var-27843377.html",
+     "same_item": "yes",
+     "note": "Seen on the Langtons search results page (page opened), three lots of the same wine each showing est $180-$200 and current bid $164. Live auction estimate, not a price paid; the $164 bid may still rise or the lot may pass in. Langtons provenance is vetted."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$260.00",
+     "currency": "AUD",
+     "aud_price": 260,
+     "date": "live, seen 2026-10-16",
+     "venue": "Canterbury Wines (retail)",
+     "url": "https://canterburywines.au/products/penfolds-rwt-shiraz-2002",
+     "same_item": "yes",
+     "note": "Page opened, sale price $260.00 with Add to cart. Retail ask."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$250.00 per bottle, Sold Out",
+     "currency": "AUD",
+     "aud_price": 250,
+     "date": "expired listing, seen 2026-10-16",
+     "venue": "Nick's Wine Merchants (retail)",
+     "url": "https://www.nicks.com.au/products/2002-penfolds-rwt-barossa-shiraz",
+     "same_item": "yes",
+     "note": "Page opened, cork closure, Sold Out. Stale retail ask."
+    },
+    {
+     "kind": "ASKING",
+     "price": "USD 99.99, out of stock",
+     "currency": "USD",
+     "aud_price": 144.6,
+     "date": "expired listing, seen 2026-10-16",
+     "venue": "Chambers Street Wines (New York retail)",
+     "url": "https://chambersstwines.com/products/penfolds-2002-shiraz-rwt",
+     "same_item": "yes",
+     "note": "Page opened. Converted at 1 USD = 1.446 AUD (open.er-api.com 2026-10-16). US retail, out of stock."
+    }
+   ],
+   "guide_low_aud": 145,
+   "guide_high_aud": 260,
+   "guide_summary": "All asking: Langtons live estimate $180-$200 (current bid $164), Australian retail $250-$260, US retail about A$145. No sold or unsold result for the 2002 RWT found. A realistic Tasmanian hammer is probably well under the Langtons estimate.",
+   "keep_max_hammer": 0,
+   "flip_max_hammer": 0,
+   "working": "No SOLD evidence for RWT 2002, so no maximum bid. Gowans Penfolds sales (Bin 389 2004 $120, Magill 1993 $120, St Henri 2017 $100) are different wines and cannot set a max. Watch the Langtons lots closing 20 and 25 Oct 2026: their hammer would be valid SOLD evidence.",
+   "confidence": "Low",
+   "confidence_reason": "Label read clearly (RWT 2002 Shiraz Barossa Valley, bottle 21676) but value rests on asking prices only. WebSearch session cap hit, so no wider past-results search was possible.",
+   "dropped_entries": "Benchmark Wine (USD 114): URL returns 404, snippet only, dropped. Langtons RWT 2004 magnum 'last bid 247': lot page returns 404, snippet only, different vintage and format, dropped. WineBerserkers '$46 all in': forum anecdote from 2020, currency and vintage not certain, not a documented sale, dropped. Gowans Bin 389 2004, Magill 1993 and St Henri 2017 sales: different wines, category signal only, not listed as evidence.",
+   "key_photo_findings": "Label reads Penfolds RWT 2002 Shiraz Barossa Valley, bottling number 21676, 750ml. Red capsule intact over cork. Handwritten price/stock tag on shoulder. Fill looks into the neck but dark glass makes it hard to judge.",
+   "condition": "Label clean, capsule intact, fill appears good. Storage and cork condition unknown; a 24-year-old cork could weep.",
+   "question_for_armitage": "What is the fill level (into neck or top shoulder), any sign of seepage under the capsule, and any known storage history?"
+  }
+ ]
+}
