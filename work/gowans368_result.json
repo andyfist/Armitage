@@ -9505,9 +9505,26 @@
    "cdid": 445832,
    "lot": 852,
    "what_it_is": "Our Island Home: A Tasmanian Sketch Book by Louisa A. Meredith (J. Walch & Sons, Hobart / Marcus Ward & Co, London, 1879), cloth with gilt pine-cone and she-oak design, autotype plates.",
-   "triage": "LOOK AT VIEWING",
+   "triage": "KEEP",
    "market_score": 6,
-   "sold": [],
+   "sold": [
+    {
+     "price": "$700 hammer",
+     "aud_price": 700,
+     "date": "May 2024",
+     "venue": "Australian Book Auctions Sale 111 lot 194",
+     "url": "https://australianbookauctions.com/wp-content/uploads/2024/05/sale-111-price-list.pdf",
+     "note": "Same 1879 Walch/Marcus Ward first edition, original gilt cloth, all edges gilt (catalogue); estimate $400-600. Price list opened."
+    },
+    {
+     "price": "$750 hammer",
+     "aud_price": 750,
+     "date": "Aug 2024",
+     "venue": "Australian Book Auctions Sale 112 lot 21",
+     "url": "https://australianbookauctions.com/wp-content/uploads/2024/08/Sale-112-price-list.pdf",
+     "note": "Same 1879 first edition, same catalogue description; estimate $400-600. Price list opened."
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -9519,14 +9536,14 @@
      "note": "ASKING, same_item yes, page opened. Same 1879 Walch/Marcus Ward edition, graded VG-: heavy scuffing to spine and board edges, foxing, gift inscription, two plates partly detached. Lot 852 is probably a bit worse (frayed spine ends, back board covered with pasted glider clippings and photos). Rate 1 USD = 1.4286 AUD (open.er-api.com, 21 Oct 2026); the researcher's 1.55 was too high. Only copy on AbeBooks. Dealer asking price, not a price paid."
     }
    ],
-   "guide_low_aud": 819,
+   "guide_low_aud": 700,
    "guide_high_aud": 819,
-   "guide_summary": "Only one entry survives: one ASKING price (AbeBooks NZ dealer, about A$819 for a VG- copy). No SOLD and no UNSOLD evidence for this title. The only Gowans Meredith book sale (My Home in Tasmania, $105) is a modern reprint in a dust jacket of a different book, so it was dropped. Rate 1 USD = 1.4286 AUD.",
+   "guide_summary": "Two SOLD hammers at Australian Book Auctions for the 1879 first ($700 May 2024, $750 Aug 2024; both over the $400-600 estimate) and one ASKING copy at about A$819 (AbeBooks NZ, VG-, two plates partly detached).",
    "flip_max_hammer": 0,
-   "keep_max_hammer": 0,
-   "working": "No SOLD entry for Our Island Home within 24 months, so no maximum bid can be set (keep 0, flip 0). The dealer ask of about A$819 is optimistic. Auction hammer for a worn copy with a defaced back board is likely well below that, but this is unproven.",
-   "confidence": "Low",
-   "confidence_reason": "Title and author read clearly on the cover and spine, and the plates are captioned, but the value rests on one dealer asking price only. The web search cap was reached, so no auction records (Invaluable, Leonard Joel, Australian Book Auctions) were checked. Australian Book Auctions returned a 503 error.",
+   "keep_max_hammer": 450,
+   "working": "Lowest same-edition SOLD is $700, giving $700 / 1.198 = $584. This copy is worse than a typical auction copy (mouldy front board, frayed spine ends, back board covered with pasted 1930 Mercury glider clippings), so the maximum is cut to $450 hammer if all 12 plates are present, and about $300 if any are missing. Added after the run: the verifier could not reach Australian Book Auctions (HTTP 503); both price lists were opened afterwards and matched to the catalogue descriptions.",
+   "confidence": "Medium",
+   "confidence_reason": "Edition matches the 1879 first and two recent SOLD results exist, but condition is clearly below the sold copies and the title page and plate count are not visible in the photos.",
    "condition": "Cloth worn and rubbed with pale spotting, spine ends frayed, foxing and some toning to plate margins, back pastedown or board covered by pasted 1930s-style newspaper clippings and glider photographs. Completeness of plates and text unknown.",
    "key_photo_findings": "Front board reads 'Our Island Home / A Tasmanian Sketch Book by Louisa A Meredith', spine 'Our Island Home'. Plates seen: Hobart Town, Mt Direction &c. from Proctor's Road; South Arm from the Springs; Herne Bay, D'Entrecasteaux's Channel; Wine-glass Bay, Schoutens; Cape Raoul, with 'Autotype' and 'London' imprints. The last photo shows clippings and glider photos pasted over the back board, which hurts collector value. The Gowans title calls it 'A Tasmanian Sketchbook ... some wear'.",
    "question_for_gowans": "Are all the plates present and attached (please count them)? Is the title page present with the Walch/Marcus Ward imprint and date? Are the clippings pasted only on the back pastedown, or also on any plates or text? Is the text block sound?",
