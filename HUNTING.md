@@ -28,13 +28,25 @@ buyer's premium is 20% + GST, so 22% in total. Pickup only, from 9 Goodman Crt, 
 
 ## Facebook Marketplace
 
-Run `python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos`. It covers
-100 km around Launceston (`RADIUS_KM` in the script), so Devonport, Scottsdale and St
-Helens are in and Hobart is out. Each run only returns listings that are new or
-changed since the last run. A run costs about
-US$0.03 plus US$0.003 per listing, and Apify aborts it at `--max-spend` (default
-US$0.50). An aborted run returns nothing but still bills, so if that happens use
-`--max` to take fewer listings rather than retrying. The threshold is the
+Two scans, both covering 100 km around Launceston (`RADIUS_KM` in the script), so
+Devonport, Scottsdale and St Helens are in and Hobart is out. Each returns only
+listings new or changed since its own last run.
+
+- **Quick scan (hourly):** `python3 scraper/marketplace.py --no-details --state
+  armitage-7250-quick -o data/fb_quick.json --photos data/fb_photos --max-spend 0.10`.
+  Title, price, suburb, one photo and the link; no description. About US$0.02 a run.
+  Triage on the title and that one photo. Alert on a hit, and also on anything that
+  looks promising but needs the full gallery to judge: say so in the email and give the
+  link, since the buyer can open the listing in seconds.
+- **Full scan (weekly, or on demand):** `python3 scraper/marketplace.py -o data/fb.json
+  --photos data/fb_photos --max-spend 0.75`. Descriptions and galleries. About US$0.45 a
+  run whatever it finds, because the actor fetches every detail page, so don't run it
+  often.
+
+Apify aborts a run at `--max-spend`; an aborted run returns nothing but still bills, so
+if that happens use `--max` to take fewer listings rather than retrying. Don't start two
+runs with the same `--state` at once: the second exits with "Another run holds the
+state lock" and returns nothing. The threshold is the
 same: resale minus the asking price must be at least $500, with no buyer's premium.
 Mislabelled listings are where the bargains are ("old watch, no idea", "box of books"),
 so look at the photos of anything vague rather than trusting the title. Open every

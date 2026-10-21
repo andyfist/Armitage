@@ -10,6 +10,15 @@ up a bill. The cap is a backstop, not a budget: Apify aborts the run when it is 
 an aborted run returns NO listings, and it still bills a few cents over the cap. So keep
 --max-spend well above the expected cost of the run, and use --max to control cost.
 
+Two scan modes, each with its own incremental state (--state) so they don't hide new
+listings from each other:
+  quick: --no-details --state armitage-7250-quick. Title, price, location, one photo,
+      link. About US$0.01-0.03 per run once the baseline exists, so it can run hourly.
+  full:  the default. Descriptions and galleries, but the actor fetches every detail
+      page before it filters, so a run costs about US$0.45 even when nothing is new.
+
+    python3 scraper/marketplace.py --no-details --state armitage-7250-quick -o data/fb_quick.json --max-spend 0.10
+
 Apify's official apify/facebook-marketplace-scraper is deliberately not supported: a
 20-listing test run returned 403 US listings for US$5.00, because its limit applies
 per search URL, it ignores the city in the URL, and it charges ~US$0.0124 per listing.
@@ -35,6 +44,13 @@ DEFAULT_MAX_SPEND = 0.50  # US$ per run, enforced by Apify
 RUN_TIMEOUT_SECS = 1800  # Apify kills the run after this
 LAUNCESTON = (-41.4332, 147.1441)  # 7250
 RADIUS_KM = 100
+# Without listing details the actor can't measure distance, so Facebook's loose
+# radius lets these through. Dropped by city name in --no-details runs.
+FAR_CITIES = {
+    "Hobart", "Kingston", "Sorell", "Margate", "Glenorchy", "Clarence", "Huonville",
+    "New Norfolk", "Brighton", "Swansea", "Somerset", "Waratah", "Flowerdale", "Burnie",
+    "Wynyard", "Smithton", "Queenstown", "Strahan", "Rosebery", "Zeehan",
+}
 
 # Broad on purpose: bargains are mislabelled, so search for the way sellers
 # describe clear-outs, not the brand names a dealer would search for. Books come
@@ -211,6 +227,13 @@ def main():
         items = run(token, QUERIES, args.max, not args.no_incremental, args.max_spend,
                     days=args.days, details=not args.no_details, state=args.state)
     listings = [normalise(i) for i in items]
+    if args.no_details:
+        before = len(listings)
+        listings = [l for l in listings
+                    if l["raw"].get("state", "TAS") == "TAS"
+                    and l["raw"].get("city") not in FAR_CITIES]
+        if before != len(listings):
+            print(f"dropped {before - len(listings)} listings outside the area", file=sys.stderr)
     os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
     with open(args.out, "w") as f:
         json.dump(listings, f, indent=1)

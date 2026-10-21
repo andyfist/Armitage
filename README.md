@@ -25,8 +25,15 @@ cd scraper && python3 fetch_photos.py ../data/lots.json ../data/shortlist 883 81
 Facebook Marketplace (new listings since the last run, 100 km around 7250):
 
 ```sh
-python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos
+# quick scan: titles, prices, one photo; ~US$0.02 a run, fine to run hourly
+python3 scraper/marketplace.py --no-details --state armitage-7250-quick -o data/fb_quick.json --photos data/fb_photos --max-spend 0.10
+# full scan: descriptions and galleries; ~US$0.45 a run, so weekly or on demand
+python3 scraper/marketplace.py -o data/fb.json --photos data/fb_photos --max-spend 0.75
 ```
+
+The scheduled runs (hourly quick scan, daily digest) are defined in `routines/`; they
+need to be created in the claude.ai routines UI with the repo and the Gmail connector
+attached, because sessions started by the API get neither.
 
 Then ask Claude to follow `HUNTING.md`, which covers the triage rules and report format.
 Reports go in `reports/`.
