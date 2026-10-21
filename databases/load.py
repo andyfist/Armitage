@@ -34,7 +34,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('words', nargs='+')
     ap.add_argument('--source')
-    ap.add_argument('--category', choices=['coins', 'books'])
+    ap.add_argument('--category', choices=['coins', 'books', 'stamps', 'other'])
     ap.add_argument('--min', type=float, default=0, help='minimum hammer')
     ap.add_argument('--sold', action='store_true', help='sold lots only')
     ap.add_argument('--limit', type=int, default=40)
@@ -52,7 +52,7 @@ def main():
     sold = [r['hammer_aud'] for r in hits if not r['unsold']]
     if sold:
         print(f'\n{len(hits)} hits, {len(sold)} sold: low ${min(sold):,.0f}, median ${statistics.median(sold):,.0f}, '
-              f'high ${max(sold):,.0f} (hammer, buyer\'s premium not included)')
+              f'high ${max(sold):,.0f} (hammer; eBay prices already include everything the buyer paid, other houses add a buyer\'s premium)')
     else:
         print(f'\n{len(hits)} hits, none sold')
 
