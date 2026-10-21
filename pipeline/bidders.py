@@ -8,8 +8,10 @@ picked a lot out from far away and will pay freight on it, so they probably know
 something. A bidder whose history shows a specialty (most of their bids in one category)
 or real spending is treated the same way. The history is pipeline/state/bidders.json,
 rebuilt on every run from databases/armitage.json (past sales, pipeline/armitage_results.py)
-and every prepped sale's bids.json. Bidder numbers may be per sale, so a bidder is keyed
-on number and hometown together.
+and every prepped sale's bids.json. Bidder numbers are account numbers that persist across
+sales, so a bidder is keyed on the number. The hometown and state are typed by the bidder
+and the state is often blank, so a Tasmanian town list and the bidder's other sales fill
+it in; a town that is neither counts as unknown, never as interstate.
 
 --refresh    re-read the lot pages first (bids change by the hour): every lot that is not
              excluded, or every lot on a day when lots of this sale close. About 8 minutes
@@ -76,17 +78,33 @@ def money(s):
         return 0.0
 
 
-def parse_who(who, no=''):
-    """'Bidder 123 (Launceston TAS)' -> number, town, state, autobid. Armitage's exact wording is
-    taken loosely: the state code anywhere in the text, the town as the words before it."""
-    s = re.sub(r'\s+', ' ', str(who or '')).strip()
-    autobid = bool(re.search(r'auto ?bid|absentee|max(imum)? bid', s, re.I))
-    s = re.sub(r'\(?\b(auto ?bid|absentee|max(imum)? bid)\b\)?', ' ', s, flags=re.I)
-    num = str(no or '') or (re.search(r'\d+', s).group(0) if re.search(r'\d+', s) else '')
-    m = STATE_RE.search(s)
-    state = STATE_WORDS[m.group(1).upper()] if m else ''
-    town = s[:m.start()] if m else s
-    town = re.sub(r'\bbidder\b|#|\d+|[()\[\],:;-]', ' ', town, flags=re.I)
+def parse_who(h):
+    """A bid row -> bidder number, town, state, autobid. Armitage prints the first cell of a bid
+    as "138060 - Evandale, - AutoBid" or "59492 - DEVONPORT, TAS": the hometown and state are
+    typed by the bidder, so the state is often blank (even for Hobart) and the town's case
+    varies. Rows from databases/armitage.json carry the split already (bidder, town, state,
+    autobid). The "no" cell that prep.py saves is the quantity, not the bidder number."""
+    if isinstance(h, dict) and h.get('bidder'):
+        num, town, state, autobid = str(h['bidder']), str(h.get('town') or ''), str(h.get('state') or '').upper(), bool(h.get('autobid'))
+    else:
+        s = re.sub(r'\s+', ' ', str((h.get('who') if isinstance(h, dict) else h) or '')).strip()
+        autobid = bool(re.search(r'auto ?bid', s, re.I))
+        s = re.sub(r'-?\s*auto ?bid\s*$', '', s, flags=re.I).strip()
+        m = re.match(r'^(\d+)\s*-\s*(.*)$', s)
+        if m:
+            num, place = m.group(1), m.group(2)
+        else:
+            d = re.search(r'\d+', s)
+            num, place = (d.group(0) if d else ''), re.sub(r'\bbidder\b|#|\d+', ' ', s, flags=re.I)
+        parts = [p.strip(' .') for p in place.split(',')]
+        town, state = parts[0], ''
+        if len(parts) > 1 and parts[-1].upper() in STATE_WORDS:
+            state = STATE_WORDS[parts[-1].upper()]
+        else:
+            m2 = STATE_RE.search(town)
+            if m2:
+                state, town = STATE_WORDS[m2.group(1).upper()], town[:m2.start()]
+    town = re.sub(r'[()\[\]]', ' ', town)
     town = re.sub(r'\s+', ' ', town).strip().title()
     if not state and town.lower() in TAS_TOWNS:
         state = 'TAS'
@@ -94,7 +112,8 @@ def parse_who(who, no=''):
 
 
 def bidder_key(p):
-    return f"{p['no']}|{p['town'].lower()}" if p['no'] else (p['town'].lower() or '?')
+    """Bidder numbers are account numbers that persist across sales; the town is self-typed."""
+    return p['no'] or (p['town'].lower() or '?')
 
 
 def now_key():
@@ -112,7 +131,7 @@ def history_rows():
     rows, seen = [], set()
 
     def add(sale, cdid, lot, title, category, hammer, closed, h):
-        p = parse_who(h.get('who', ''), str(h.get('no') or ''))
+        p = parse_who(h)
         key = (str(sale), cdid, p['no'], p['town'], str(h.get('amount')), h.get('when'))
         if key in seen:
             return
@@ -242,7 +261,7 @@ def main():
             continue
         seen = {}
         for h in hist:
-            p = parse_who(h.get('who', ''), str(h.get('no') or ''))
+            p = parse_who(h)
             k = bidder_key(p)
             e = seen.setdefault(k, {'who': h.get('who', ''), 'no': p['no'], 'town': p['town'], 'state': p['state'], 'n': 0, 'top': 0.0, 'tags': []})
             e['n'] += 1
@@ -251,10 +270,11 @@ def main():
         score = 0
         for k, e in seen.items():
             pr = prof.get(k, {})
-            if e['state'] not in ('', 'TAS'):
-                e['tags'].append('interstate')
+            st = e['state'] or pr.get('state') or ''   # a blank state is filled from the bidder's other sales
+            if st not in ('', 'TAS'):
+                e['tags'].append('interstate' if e['state'] else f'interstate, {st} in an earlier sale')
                 score += 3
-            elif not e['state'] and e['town']:
+            elif not st and e['town']:
                 unknown.add(e['town'])
             if pr.get('specialty') and pr['specialty'] == lot_cat:
                 e['tags'].append(f"{pr['specialty']} specialist")
