@@ -1,0 +1,15 @@
+{
+ "bottom_line": "All 1,433 lots were scanned with every photo viewed. 204 candidates were blind rescored, and 117 got a market pass with an Opus check, using Gowans' own past results first. It is a modest sale. The best-supported picks are a 9ct gold bracelet (lot 92), a seven-piece mid-century teak dining suite (742), a 19th century cedar and mahogany secretaire bookcase (422), two 18ct scrap chains (9), a 9ct onyx signet ring (2), a Pattern 1907 Wilkinson bayonet (204), a Telecom Gold Phone (1170) and four William IV mahogany chairs (867). The 2007 Toyota Yaris in lot 1 is supported by sold cars. The biggest unknowns, with no close Gowans sale and so no maximum bid, are the Mary MacKillop 1/10 oz gold proof coin (106), the Macquarie Mint 14-coin gold set (138), the 308 g silver choker (167), the box of 18th century English porcelain (716), the 1969 St Henri and 1973 Bin 128 Penfolds (730) and Louisa Anne Meredith's 1879 Our Island Home (852, which Australian Book Auctions sold for $700 and $750 in 2024). A separate first-edition check of 44 book lots found the Meredith and an original 1900 Cyclopedia of Tasmania (715, ceiling about $120) as the only real books. The Van Diemen's Land map (616) is a modern reproduction. Online absentee bids close at 9:30 AM Friday.",
+ "run": "wf_f49db4cb-a5b (work/wf_weekly.js), resumed once after a spend-limit stop",
+ "assumptions": [
+  "All 1,433 lots in the auction were taken from Gowans' public API and image store and scanned with every photo viewed. None was unscanned.",
+  "This is a live room auction. The site shows no prices, only a count of absentee bids on each lot (read Wed 21 Oct), so no current bid is used. Scoring is blind to price.",
+  "Buyer's premium is 19.8% including GST on the hammer price. All-in = hammer x 1.198.",
+  "Candidates with a blind score of 4 or more (117 lots) got a market pass. Other candidates and skipped lots appear in the table of every lot with a photo finding and a reason.",
+  "Gowans past results come from Gowans' public lot API, where sale_price is in cents and read as the hammer price (premium extra); dates are listing dates, about a week before each sale.",
+  "Maximum bids use only sold prices in the last 24 months. Asking prices, estimates and melt value never set a maximum bid.",
+  "Gold and silver weights, carat marks and maker claims in the titles are catalogue claims. Check weights and hallmarks at the inspection.",
+  "Pickup from 37 Main Road, Moonah. Inbound freight is assumed to be $0 because you are local.",
+  "Sources closed to this session (eBay, Wine-Searcher, Australian Whisky Auctions) were not used. Book details are in work/books368_out_*.json; a handover for signed-in browser research is in BOOK_RESEARCH_HANDOVER.md."
+ ]
+}
