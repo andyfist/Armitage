@@ -1,0 +1,62 @@
+{"lots":[
+{"cdid":445951,"lot":1120,"what_it_is":"Raw sawn live-edge slab catalogued by Gowans as SLAB OF HUON PINE. Long, pale yellow, with a heavily weathered grey decayed section and through-voids in the top third, a deep split running up the lower half and ragged edges.","triage":"KEEP","market_score":3,
+"sold":[
+{"price":"$30 hammer (1 bid)","aud_price":30,"date":"listed 2026-09-27, sold about 2 Oct 2026","venue":"Gowans Auctions, Moonah (lot id 441115, SLAB OF HUON PINE)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/441115/","note":"SOLD, AUD, no conversion. Page opened (API record and photo). Same seller, same title, similar long slab with voids and splits. Hammer, premium extra. same_item: close."},
+{"price":"$35 hammer (3 bids)","aud_price":35,"date":"listed 2026-09-27, sold about 2 Oct 2026","venue":"Gowans Auctions (lot id 441106)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/441106/","note":"SOLD, AUD. Page opened (API and photo): wide slab with splits and defects. same_item: close."},
+{"price":"$30 hammer","aud_price":30,"date":"listed 2026-10-11, sold about 16 Oct 2026","venue":"Gowans Auctions (lot id 444316)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/444316/","note":"SOLD, AUD. Page opened (API). Bid count shows 0 but a $30 sale price is recorded, so treat as sold at the opening level. same_item: close."},
+{"price":"$90 hammer (1 bid)","aud_price":90,"date":"listed 2026-10-11, sold about 16 Oct 2026","venue":"Gowans Auctions (lot id 444310)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/444310/","note":"SOLD, AUD. Page opened (API and photo): the photo appears to show a pitted, holed slab, so character slabs can still fetch the middle of the range. same_item: close."},
+{"price":"645 single-slab lots: hammer $4 to $180, median $55, deciles $25 (10%) to $90 (90%); since Jul 2026 253 lots, quartiles $35 / $50 / $70","aud_price":55,"date":"listed 2025-09 to 2026-10-11","venue":"Gowans Auctions past results","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1","note":"SOLD aggregate, AUD. My own pull of the API (searches 'slab of huon pine' and 'huon pine slab', all pages, single-slab titles only, current auction excluded). Hammer, premium extra. same_item: category guide (sizes and grades vary)."}
+],
+"unsold":[
+{"price":"Passed in or no sale recorded, no last bid shown (2 lots, 3 and 4 bids)","aud_price":0,"date":"listed 2026-03-09","venue":"Gowans Auctions (lot ids 395788, 395789)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1","note":"UNSOLD, page opened (API). Only 2 of 647 past single-slab lots failed to sell, so slabs nearly always clear. same_item: yes."}
+],
+"asking":[],
+"guide_low_aud":30,"guide_high_aud":90,
+"guide_summary":"All AUD, no conversion. Surviving evidence is SOLD only (Gowans hammers, premium extra): photo-matched defect-heavy slabs made $30 to $35, with one holed slab at $90; the wider Gowans slab market runs $25 to $90 (10th to 90th percentile), median $55. 2 unsold out of 647. No asking prices.",
+"flip_max_hammer":15,"keep_max_hammer":25,
+"working":"Premium 19.8%. Keep: lowest close photo-matched SOLD $30 (lots 441115 and 444316, Sep to Oct 2026) / 1.198 = $25.04, round down to $25 ($29.95 all-in). Flip: likely resale about $50 (recent median) via local Marketplace or Gumtree with buyer pickup, less about 15% fees/costs assumed = $42.50, $0 postage; / 2.396 = $17.74, round down to $15. No real flip margin; a buy-to-use lot only.",
+"confidence":"Medium",
+"confidence_reason":"Gowans title and chalked lot number 1120 read in the photo; several opened SOLD comparables from the same seller and venue. Species cannot be confirmed from a photo and the slab has no dimensions, and the decayed section makes the usable length uncertain, so not High.",
+"dropped_entries":"Dropped the researcher's UNSOLD claim of 14 zero-price single-slab lots: my full pull shows only 2 past single-slab lots at $0 (9 Mar 2026); the rest were almost certainly current-auction lots. Dropped the empty ASKING placeholder (no listing seen). Researcher period aggregates for Sep to Dec 2025 and Jan to Apr 2026 not re-derived period by period but are consistent with my overall pull, so replaced by my own aggregate. The $160 to $180 outliers (376000, 379780, 403934) were checked and are real but are exceptional slabs, not comparables for this one.",
+"key_photo_findings":"Chalk 1120 23/10/26 and lot tag visible. Top third is grey, weathered and partly rotted with deep through-voids; a long open split and gap runs up the lower half, dividing it into two legs; ragged live edges. Clean pale timber in the middle section only. Colour and grain consistent with the neighbouring Huon slabs but species not verifiable.",
+"condition":"Poor to fair: substantial decay and voids, large split; usable mainly for offcuts or a feature piece.",
+"question_for_gowans":"What are the length, width and thickness of lot 1120, and is the grey top section soft or rotted right through? Is it air dried?"},
+{"cdid":445957,"lot":1126,"what_it_is":"Long narrow live-edge slab catalogued as SLAB OF HUON PINE, pale cream-yellow, fine even grain, bark on both edges along much of its length, the narrowest and barkiest in the row of lots 1124 to 1128.","triage":"KEEP","market_score":3,
+"sold":[
+{"price":"$30 hammer (1 bid)","aud_price":30,"date":"listed 2026-09-20, sold about 25 Sep 2026","venue":"Gowans Auctions (lot id 439531, SLAB OF HUON PINE)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/439531/","note":"SOLD, AUD, page opened (API and photo): a narrow bark-edged slab very like 1126. Hammer, premium extra. same_item: close."},
+{"price":"$35 hammer (1 bid)","aud_price":35,"date":"listed 2026-09-27, sold about 2 Oct 2026","venue":"Gowans Auctions (lot id 441119)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/441119/","note":"SOLD, AUD, page opened (API and photo): narrow slab with bark edge. same_item: close."},
+{"price":"$40 hammer (2 bids)","aud_price":40,"date":"listed 2026-09-27, sold about 2 Oct 2026","venue":"Gowans Auctions (lot id 441117)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/441117/","note":"SOLD, AUD, page opened (API and photo): narrow slab. same_item: close."},
+{"price":"$15 hammer (1 bid)","aud_price":15,"date":"listed 2026-10-04, sold about 9 Oct 2026","venue":"Gowans Auctions (lot id 442914)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/442914/","note":"SOLD, AUD, page opened (API and photo): photo shows a short offcut-type slab, smaller than 1126, so it marks the floor rather than a match. same_item: category guide."},
+{"price":"645 single-slab lots: hammer $4 to $180, median $55, deciles $25 to $90; since Jul 2026 quartiles $35 / $50 / $70","aud_price":55,"date":"listed 2025-09 to 2026-10-11","venue":"Gowans Auctions past results","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1","note":"SOLD aggregate, AUD, my own API pull (current auction excluded). Researcher's figures (425 lots, median $55, IQR $40 to $65) are consistent. same_item: category guide."}
+],
+"unsold":[
+{"price":"Passed in or no sale recorded, no last bid shown (2 lots, 3 and 4 bids)","aud_price":0,"date":"listed 2026-03-09","venue":"Gowans Auctions (lot ids 395788, 395789)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1","note":"UNSOLD, page opened (API). 2 of 647 failed; effectively no reserve risk. same_item: yes."}
+],
+"asking":[],
+"guide_low_aud":30,"guide_high_aud":55,
+"guide_summary":"All AUD, no conversion. Surviving evidence is SOLD only: photo-matched narrow bark-edged slabs made $30 to $40 in Sep to Oct 2026 and the Gowans slab median is $55; 2 unsold out of 647. No asking prices.",
+"flip_max_hammer":15,"keep_max_hammer":25,
+"working":"Premium 19.8%. Keep: lowest close photo-matched SOLD $30 (lot 439531, Sep 2026) / 1.198 = $25.04, round down to $25 ($29.95 all-in). Flip: likely resale about $45 locally with buyer pickup, less about 15% fees/costs assumed = $38.25, $0 postage; / 2.396 = $15.96, round down to $15. Buy only for own use.",
+"confidence":"Medium",
+"confidence_reason":"Chalked 1126 and the Gowans title read; three opened photo-matched SOLD comparables. Species and dimensions not verifiable from the photo, so not High.",
+"dropped_entries":"Dropped the 'other Gowans timber' entry (Huon pine length, log, burls): different items, not re-checked, category context only. Moved the $160 to $180 outliers (376000, 379780, 403934, checked and real) into the aggregate only, as they are not comparables for a narrow barky slab. The researcher's '$25 to $35 low slabs' percentile entry is folded into the specific matched lots above.",
+"key_photo_findings":"Chalk 1126 23/10/26 with lot tag. Tall, narrow slab with bark along both edges for most of its length, a dark weathered barky top end, otherwise clean pale timber with fine grain and few knots. No dimensions.",
+"condition":"Fair: sound-looking timber but much of the width is bark and sapwood, so the clear usable width is narrow.",
+"question_for_gowans":"What are the length, width (clear of bark) and thickness of lot 1126?"},
+{"cdid":445999,"lot":1168,"what_it_is":"Pair of glossy royal-blue plastic mushroom table lamps in the style of the Artemide Nesso, catalogued by Gowans as PAIR OF MID-CENTURY MODERN STYLE LAMPS. Same mould as the orange pair Gowans sold the week before; almost certainly modern imported replicas, not Artemide.","triage":"KEEP","market_score":5,
+"sold":[
+{"price":"$80 hammer for the pair (4 bids)","aud_price":80,"date":"listed 2026-10-11, sold about 16 Oct 2026","venue":"Gowans Auctions (lot id 444362, 2 ORANGE MUSHROOM MID-CENTURY MODERN STYLE LAMPS)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/444362/","note":"SOLD, AUD, page opened (API record and photo). Photo shows the identical shape and mould in orange, apparently new and unused, with a supplier shipping label on a carton behind, so very likely the same import batch. Hammer, premium extra. same_item: close (colour differs)."}
+],
+"unsold":[],
+"asking":[],
+"guide_low_aud":80,"guide_high_aud":80,
+"guide_summary":"All AUD. One SOLD close comparable only ($80 hammer for the orange pair at Gowans, Oct 2026). No unsold or asking evidence survived; web search was unavailable (session cap), so no retail replica or genuine Nesso prices were checked.",
+"flip_max_hammer":25,"keep_max_hammer":65,
+"working":"Premium 19.8%. Keep: lowest same-item SOLD $80 (lot 444362, Oct 2026) / 1.198 = $66.78, round down to $65 ($77.87 all-in). Flip: likely resale about $80 for the pair locally, less about 15% fees/costs assumed = $68, $0 postage (buyer pickup); / 2.396 = $28.38, round down to $25. Thin flip margin.",
+"confidence":"Medium",
+"confidence_reason":"Clear identification as a Nesso-style replica of the same mould as a sold Gowans lot one week earlier; only 1 SOLD entry, and the small round mark on each base could not be read, so condition and maker are unconfirmed.",
+"dropped_entries":"Dropped the researcher's UNSOLD entry for lot 446036 (a second mushroom lamp pair in the current auction): it has no result yet, so it is not an UNSOLD record. It does mean a near-identical pair is competing in the same sale, which may soften prices.",
+"key_photo_findings":"Two glossy blue plastic lamps, wide dished dome shades, flared stems and round feet; a cord visible behind the left lamp. Enlarged bases show a small moulded circular mark or button on each foot, not legible; no Artemide marking visible. Finish looks unscuffed, consistent with new stock. Matches the orange pair sold as lot 444362.",
+"condition":"Appears new or near new; working condition, plug type and bulbs unknown.",
+"question_for_gowans":"Do the lamps work and come with Australian plugs? Is there any maker's mark or label under the bases (Artemide or otherwise), and are they new in box like the orange pair last week?"}
+]}

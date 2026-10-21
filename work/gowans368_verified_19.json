@@ -1,0 +1,256 @@
+{
+ "lots": [
+  {
+   "cdid": 445080,
+   "lot": 100,
+   "what_it_is": "1927 Australia Parliament House (Canberra) florin, George V, sterling silver, Melbourne Mint circulation strike, in a 2x2 cardboard holder. Normal type; 'steps clearly visible' is a strike-quality remark, not a premium variety.",
+   "triage": "KEEP",
+   "market_score": 4,
+   "score_reason": "Common commemorative. Verified sales of single coins run $34 to $60 (Gowans hammers $34 and $45, dealer retail sales $40 and $60), so about $40 to $60 retail.",
+   "sold": [
+    {
+     "price": "$45.00 hammer (sale_price 4500 cents, 7 bids)",
+     "date": "listed 11 Oct 2026, sale about 16 Oct 2026",
+     "venue": "Gowans Auctions, Moonah, lot id 443480 '1927 FLORIN'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=1927+florin&page%5Bnumber%5D=1",
+     "aud_price": 45,
+     "note": "SOLD, AUD, no conversion. Same item (yes). API record opened and photo viewed by me: raw 1927 florin, reverse shows light circulation wear, about VF to EF, similar to ours. Hammer only, premium extra."
+    },
+    {
+     "price": "$34.00 hammer (sale_price 3400 cents, 11 bids)",
+     "date": "listed 12 Jul 2026, sale about 17 Jul 2026",
+     "venue": "Gowans Auctions, Moonah, lot id 422523 '1927 AUSTRALIAN FLORIN'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=1927+florin&page%5Bnumber%5D=1",
+     "aud_price": 34,
+     "note": "SOLD, AUD. Same item (yes). API record opened and both photos viewed by me (small): circulated coin in a cardboard 2x2 with an old $102 dealer ticket, grade looks VF or so, probably a bit below ours. Hammer only."
+    },
+    {
+     "price": "$60.00 (We Last Sold This Item For, 2 sold in past 12 months)",
+     "date": "21 Aug 2026",
+     "venue": "Sterling & Currency, Perth (dealer), '1927 Florin Canberra good EF'",
+     "url": "https://www.sterlingcurrency.com.au/1927-florin-canberra-good-ef",
+     "aud_price": 60,
+     "note": "SOLD at retail, AUD. Close (good EF, probably a touch better than ours). Page opened by me, figures confirmed. Retail sale, not an auction hammer."
+    },
+    {
+     "price": "$40.00 (We Last Sold This Item For, 5 sold in past 12 months)",
+     "date": "13 Nov 2025",
+     "venue": "Sterling & Currency, Perth (dealer), '1927 Florin Canberra Extremely Fine'",
+     "url": "https://www.sterlingcurrency.com.au/1927-florin-canberra-extremely-fine",
+     "aud_price": 40,
+     "note": "SOLD at retail, AUD. Close (EF). Page opened by me, figures confirmed. Within 24 months."
+    },
+    {
+     "price": "Sold: A$30.00 (estimate A$60 to A$80)",
+     "date": "21 Sep 2022",
+     "venue": "Theodore Bruce Auctions, Stanmore, lot 1043",
+     "url": "https://www.theodorebruceauctions.com.au/auction-lot/a-parliament-house-australian-florin-coin-1927_42A46F2912",
+     "aud_price": 30,
+     "note": "SOLD, AUD. Close (circulated, grade not stated). Page opened by me this time: 'Sold: A$30.00, Estimate A$60 - A$80, September 21, 2022'. Premium 25% is extra per their terms. Over 24 months old, so not used for a maximum."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$70.00 (EF option, now SOLD OUT)",
+     "date": "live, seen 2026-10-21",
+     "venue": "Wynyard Coin Centre (dealer)",
+     "url": "https://wynyardcoins.com.au/products/australia-1927-parliament-house-florin-ef",
+     "aud_price": 70,
+     "note": "ASKING, AUD. Close (EF, sample image). Page opened: regular price $70, EF and toned nUnc both sold out. A sold-out listing is not a confirmed sale price."
+    },
+    {
+     "price": "$89.00 AUD (Unavailable, Discontinued, Out of Stock)",
+     "date": "live, seen 2026-10-21",
+     "venue": "Downies Collectables, SKU 19377, '1927 Canberra Florin Extremely Fine'",
+     "url": "https://www.downies.com/products/1927-canberra-florin-extremely-fine",
+     "aud_price": 89,
+     "note": "ASKING, AUD. Close (EF). Page opened by me: price shown is $89.00, not the $80.91 the researcher had from a snippet. Stale retail ask."
+    }
+   ],
+   "guide_low_aud": 30,
+   "guide_high_aud": 89,
+   "guide_summary": "A$30 to A$89 across surviving entries, all AUD so no conversion. Sold: Gowans hammers $34 and $45 (2026), dealer retail sales $40 (Nov 2025) and $60 (Aug 2026), and an older Theodore Bruce $30 (2022). Asking: $70 (Wynyard, sold out) and $89 (Downies, discontinued). Realistic Gowans hammer range is about $35 to $50.",
+   "keep_max_hammer": 25,
+   "flip_max_hammer": 15,
+   "working": "Keep: lowest same-item SOLD within 24 months = $34 (Gowans, Jul 2026); 34 / 1.198 = 28.38, round down to $25 (all-in about $30). Flip: likely resale about $50 (between Gowans $45 and dealer sales $40 to $60); less eBay-style fees about 13% ($6.50) and about $3 outbound large-letter postage = $40.50; 40.50 / 2.396 = 16.90, round down to $15. Thin flip margin; this is mainly a keep at the right price.",
+   "confidence": "Medium",
+   "confidence_reason": "Identification is certain (date, legend and design read in the photos) and there are 2 Gowans same-item SOLD hammers whose API records and photos I checked, plus 2 dealer sales I opened. Held at Medium because grade is judged from two phone photos through a flip and the Gowans comps were API records rather than lot pages.",
+   "key_photo_findings": "Reverse: PARLIAMENT HOUSE AUSTRALIA / ONE FLORIN / 1927 cartouche, building and steps clear, mace detail good, light even toning with blue-green edge tone. Obverse: George V crowned bust with good crown jewel and hair detail, light hairlines in the field. White sticker '136723' over '100-' is an old seller or dealer ticket, not a grade. Handwritten '...f Parliament 1927' and 'steps clearly visible'.",
+   "condition": "About EF to good VF, toned, light hairlines, no obvious rim knocks visible. Raw, not slabbed.",
+   "question_for_gowans": "Can you confirm there are no rim knocks, scratches or signs of cleaning on either side once out of the flip?",
+   "dropped_entries": "Dropped as snippet only and unverified: Katz Auction USD 129.34 (Numista page 403 to me, AU grade, overseas); Catawiki EUR 20 (403 to me); Numista value table $36/$45 (403, guide figures, not transactions); The Purple Penny $65 (page returned a Google block page, no price seen). Corrected: Downies was $89.00 on the page, not $80.91. Theodore Bruce kept (page opened this time) but is too old for a maximum."
+  },
+  {
+   "cdid": 445097,
+   "lot": 117,
+   "what_it_is": "Mixed lot of circulated Australian decimal coins in plastic pocket sheets, titled as 2 sheets. Only one sheet of 12 is photographed: Mabo 50c, 2024 and 2023 AFL $1, two coins labelled 1981 3 1/2 claw 20c, 1980 50c labelled double bar, 2016 changeover 50c, outback 50c, 2001 Tasmania Centenary of Federation 50c, 1973 50c, 1966 20c, 1968 20c. The second sheet is not shown.",
+   "triage": "DROP",
+   "market_score": 3,
+   "score_reason": "Close Gowans sheet lots made $22 to $35 hammer. Worn coins; the 3 1/2 claw and double bar claims cannot be checked at this resolution and are worth only single dollars each when worn.",
+   "sold": [
+    {
+     "price": "$35.00 hammer (3500 cents, 6 bids)",
+     "date": "listed 21 Jun 2026",
+     "venue": "Gowans Auctions, lot id 417729, SHEET OF AUSTRALIAN COLLECTOR COINS INCL 3 1/2 CLAW 20C, 1966 10C, MABO 50C ETC",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=mabo+50c",
+     "aud_price": 35,
+     "note": "SOLD, AUD. Close (one sheet with a claw 20c and Mabo, ours claims two sheets). API record opened, hammer only."
+    },
+    {
+     "price": "$22.00 hammer (2200 cents, 3 bids)",
+     "date": "listed 24 May 2026",
+     "venue": "Gowans Auctions, lot id 411245, 2 SHEETS OF AUSTRALIAN 20C COINS 1966-77 & 3 1/2 CLAW",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=claw+20c",
+     "aud_price": 22,
+     "note": "SOLD, AUD. Close (two sheets with one claw). API record opened."
+    },
+    {
+     "price": "$25.00 hammer (2500 cents, 2 bids)",
+     "date": "listed 10 May 2026",
+     "venue": "Gowans Auctions, lot id 408025, 2 SHEETS OF $1, 50C & 20C COMMEMORATIVE AUSTRALIAN COINS",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sheets+of+coins",
+     "aud_price": 25,
+     "note": "SOLD, AUD. Close (two sheets of commemoratives, no claw). API record opened."
+    },
+    {
+     "price": "$35.00 hammer (5 bids)",
+     "date": "listed 28 Jun 2026",
+     "venue": "Gowans Auctions, lot id 419357, 2 SHEETS OF COMMEMORATIVE 50C COINS",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sheets+of+coins",
+     "aud_price": 35,
+     "note": "SOLD, AUD. Category guide only. API record opened."
+    },
+    {
+     "price": "$35.00 hammer (5 bids)",
+     "date": "listed 14 Jun 2026",
+     "venue": "Gowans Auctions, lot id 416177, SHEET OF AUSTRALIAN COLLECTOR COINS",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=collector+coins+sheet",
+     "aud_price": 35,
+     "note": "SOLD, AUD. Category guide only (contents unknown). API record opened; bid count is 5, not 3 as the researcher had."
+    },
+    {
+     "price": "$7.00, $4.00 and $2.00 hammers",
+     "date": "listed 24 May to 14 Jun 2026",
+     "venue": "Gowans Auctions, lot ids 416135, 416141, 411205 (single 1981 3 1/2 claw 20c with a 4 claw coin)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=claw+20c",
+     "aud_price": 7,
+     "note": "SOLD, AUD. Category guide: shows a single worn claw 20c fetches $2 to $7 at Gowans. API records opened."
+    },
+    {
+     "price": "$55.00 hammer (5500 cents, 4 bids)",
+     "date": "listed 13 Oct 2025",
+     "venue": "Gowans Auctions, lot id 366944, FULL SET OF 20 AFL 2023 $1 COIN COLLECTION",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=AFL+%241",
+     "aud_price": 55,
+     "note": "SOLD, AUD. Category guide (full set, about $2.75 a coin). API record opened: researcher had $60 and 17 bids, the record says $55 and 4 bids."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$99.00",
+     "date": "live, seen 2026-10-21",
+     "venue": "WA Coins / Trevor's Coins, Perth",
+     "url": "https://www.wacoins.com.au/shop/1981-3-5-claw-20c-variety/",
+     "aud_price": 99,
+     "note": "ASKING, AUD. Category guide: an about uncirculated claw 20c, far better than the worn coins here. Page opened."
+    },
+    {
+     "price": "$220.00 (Sold out)",
+     "date": "live, seen 2026-10-21",
+     "venue": "Loose Change Coins",
+     "url": "https://loosechangecoins.com.au/products/1981-20c-coin-3-1-2-claw-variety-ms64-39232026",
+     "aud_price": 220,
+     "note": "ASKING, AUD. Category guide: PCGS MS64 claw 20c, not comparable. Page opened, sold out shown."
+    },
+    {
+     "price": "$189.00 AUD (Unavailable, Discontinued)",
+     "date": "live, seen 2026-10-21",
+     "venue": "Downies, SKU 40362, 1980 50c Double Bar PCGS MS65",
+     "url": "https://www.downies.com/products/1980-50c-double-bar-type-pcgs-ms65-gem-unc",
+     "aud_price": 189,
+     "note": "ASKING, AUD. Category guide only, gem graded coin. Page opened: $189.00, not the $171.82 the researcher had."
+    }
+   ],
+   "guide_low_aud": 22,
+   "guide_high_aud": 35,
+   "guide_summary": "A$22 to A$35, all from close SOLD Gowans hammers for similar coin-sheet lots in 2026 (AUD, no conversion). No unsold results. Dealer asking prices for graded claw and double bar coins ($99 to $220) do not apply to these worn coins.",
+   "keep_max_hammer": 15,
+   "flip_max_hammer": 0,
+   "working": "No identical lot exists, so the nearest close two-sheet lots stand in: lowest close SOLD $22 (lot 411245); 22 / 1.198 = 18.36, round down to $15. Flip: resale about $30, less 13% fees ($3.90) and about $5 postage = $21.10; 21.10 / 2.396 = 8.8, rounds to $5, which is not worth the effort, so 0.",
+   "confidence": "Low",
+   "confidence_reason": "Only one of the two sheets is photographed, the claw and double bar labels are the seller's and cannot be checked at this resolution, and comparables are close mixed lots, not the same lot.",
+   "key_photo_findings": "One sheet of 12 pockets, all coins circulated. Labels: Mabo, 2024 AFL, 2023 AFL, '1981 3 1/2 claw' twice, '1980 Double Bar', '2016 change-over', 'outback', 'Tasmania 2001', '1973 very low mintage', '1966 1st 20c', '1968 *'. The 1973 50c is not low mintage (about 4 million). No second sheet in the photos.",
+   "condition": "Circulated, worn, loose in pocket sheets.",
+   "question_for_gowans": "The title says 2 sheets but only one is photographed: what is on the second sheet?",
+   "dropped_entries": "Dropped: the eBay $8.25 claw 20c (snippet only, eBay closed to us, date and sale status unconfirmed); the 'UNSOLD' entry for current-sale lots 445097 and 445125 (current auction, not a result); the australian-coins.com $60 1973 50c catalogue value (catalogue figure for uncirculated, irrelevant to a worn coin); the $25 carded box lot 412997, $35 AFL $1 collection 438708 and $70 bag of Mabo 50c (not comparable lots). Corrected: lot 366944 was $55 hammer with 4 bids, not $60 with 17; lot 416177 had 5 bids; Downies double bar MS65 is $189."
+  },
+  {
+   "cdid": 445118,
+   "lot": 138,
+   "what_it_is": "Macquarie Mint 'Smallest Gold Coins of the World' collection: 14 proof coins, each 0.5 g of .585 (14ct) gold, 11 mm, in capsules in a two-tier timber display case with 14 certificates. About 4.1 g of fine gold in total.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 9,
+   "score_reason": "Gold content alone is about A$770 at today's price, and the closest Gowans set (mixed .585/.999) made $1,010 hammer last month. Over $500 either way.",
+   "sold": [
+    {
+     "price": "$1,010.00 hammer (sale_price 101000 cents, 6 bids)",
+     "date": "listed 22 Sep 2026, sale about 25 Sep 2026",
+     "venue": "Gowans Auctions, lot id 440126, MACQUARIE MINT SET OF 14 GOLD COINS ... 6 X 0.585 & 8 X 0.999",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macquarie+mint+gold+coins&page%5Bnumber%5D=1",
+     "aud_price": 1010,
+     "note": "SOLD, AUD. Close, not the same: same case and 14 coin format (photos viewed: seven-slot tray, certificates), but 8 of the coins are .999, so it holds about 5.75 g fine against about 4.10 g in ours. Hammer about 93% of its melt. API record opened."
+    },
+    {
+     "price": "Sold: A$60.00 and A$50.00 (estimate A$50 to A$100 each)",
+     "date": "26 Aug 2021",
+     "venue": "AAAC, Brisbane (single Macquarie Mint 14k coins, Samoa 2013 Moon Landing and 2013 Britain)",
+     "url": "https://www.aaac.com.au/auction-lot/samoa-2013-14k-proof-coin-0.05-gram-moon-landing_9FC44B48AD",
+     "aud_price": 60,
+     "note": "SOLD, AUD. Category guide only, single coins, 2021 (gold far cheaper), premium 18.5% extra. Both pages opened by me (second: https://www.aaac.com.au/auction-lot/2013-kingdom-of-britain14k-x-0.05-grams-proof-gol_2b54af2a44). Too old for a maximum."
+    },
+    {
+     "price": "$340 (researcher's figure from the Leski page)",
+     "date": "Leski sale 30 Jun 2024",
+     "venue": "Leski Auctions, Armadale VIC, 14 different 14ct coins in a box",
+     "url": "https://auctions.leski.com.au/lot-details/index/catalog/620/lot/209318/",
+     "aud_price": 340,
+     "note": "SOLD per researcher, same type of 14 coin .585 set. I could not reopen the Leski page (202 empty, then 403); Invaluable (https://www.invaluable.com/auction-lot/macquarie-mint-the-smallest-gold-coins-of-the-wor-351-c-6be4d0093a, opened) confirms lot 351, estimate $300-400, 30 Jun 2024, but hides the price. Unverified by me, about 28 months old and gold was much lower, so a lead only."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "Passed in (sale_price 0, 7 bids, last bid not shown)",
+     "date": "listed 15 Sep 2026, sale about 18 Sep 2026",
+     "venue": "Gowans Auctions, lot id 438548, same 6 x .585 & 8 x .999 set",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macquarie+mint+gold+coins&page%5Bnumber%5D=1",
+     "aud_price": 0,
+     "note": "UNSOLD, close. API record opened. Same set as 440126, passed in a week earlier, so the vendor held a reserve and buyers stopped short of it."
+    }
+   ],
+   "asking": [
+    {
+     "price": "$3,350.00 (Sold Out)",
+     "date": "live, seen 2026-10-21",
+     "venue": "Shields Stamps & Coins, 44 x 0.5 g coin collection",
+     "url": "https://shieldsstamps.com.au/products/macquarie-mint-the-smallest-gold-coins-of-the-world-collection",
+     "aud_price": 3350,
+     "note": "ASKING, AUD. Category guide: 44 coins, mixed .999 and .585, about $76 a coin retail. Page opened."
+    }
+   ],
+   "guide_low_aud": 340,
+   "guide_high_aud": 1010,
+   "guide_summary": "A$340 to A$1,010, AUD only. Sold: Gowans $1,010 hammer (Sep 2026) for a richer mixed set, and an unverified, old Leski $340 (2024). Unsold: the same Gowans set passed in a week before. Asking: Shields $3,350 for 44 coins (category guide, not in range). Melt reference (a floor, not a sale): gold A$5,863.44/oz as shown live on Downies on 2026-10-21 = A$188.5/g; 14 x 0.5 g x .585 = 4.095 g fine = about A$772.",
+   "keep_max_hammer": 0,
+   "flip_max_hammer": 0,
+   "working": "No same-item SOLD in the last 24 months: the Gowans $1,010 set had 8 x .999 coins, so it is close, not the same, and Leski is unverified and too old. So 0 for both. For reference only, not a formal maximum: paying no more than melt all-in would mean 772 / 1.198 = 644, so about $640 hammer; the Gowans set's 93% hammer-to-melt ratio applied to our A$772 melt suggests the room may settle near $720 hammer.",
+   "confidence": "Medium",
+   "confidence_reason": "Identification is clear: Macquarie Mint case, 14 different coins across two trays, and the certificates read '585 Gold, 0.5 grams, 11 mm'. Only one close (not identical) SOLD comparable, and the coins themselves were not checked against the certificates.",
+   "key_photo_findings": "Photo 1: Macquarie Mint timber case, seven numbered slots per tray. Photos 2 and 3 show different coins in slots I to VII (for example slot II is a flower in one and a building in the other), so there are two tiers and 14 coins, not 7 as the researcher feared. Photo 4: 14 certificates (Mary Stuart 2017 Solomon Islands, Bird of Paradise 2013 PNG, Temple Guardian 2015 Laos etc.), each reading Metal .585 Gold, Weight 0.5 grams, Diameter 11 mm. All coins in capsules.",
+   "condition": "Proof coins in capsules, case and certificates present and clean. Case velvet shows some marks.",
+   "question_for_gowans": "Can you confirm all 14 coins are present across both trays, that each one is .585 to match its certificate (none .999), and that the capsules are intact?",
+   "dropped_entries": "Dropped: PicClick $1,099 (403 to me, snippet only, undated eBay mirror); Aurec X (no price seen, .999 version). Leski $340 kept only as an unverified lead. Researcher's doubt about 7 coins is resolved: photos show two different trays and 14 certificates."
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "lots": [
+  {
+   "cdid": 446537,
+   "lot": 329,
+   "what_it_is": "Lot 329A. H. McHugh (Tasmania) ball-form multi-hole flower frog on a round foot, green, amber and plum drip glaze, base incised 'H. McHugh / Tasmania / 1934 / 39'.",
+   "triage": "KEEP",
+   "market_score": 4,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$55 hammer (sale_price 5500 cents, 5 bids)",
+     "currency": "AUD",
+     "aud_price": 55,
+     "date": "listed 2026-08-23, sold about 28 Aug 2026",
+     "venue": "Gowans Auctions, lot id 432469 'H MCHUGH TASMANIAN 33 FLOWER FROG'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=mchugh&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "API record re-read and both lot photos viewed (page opened via API). Same McHugh ball frog, base incised 'H McHugh Tasmania 33', brown and yellow glaze, less colourful than ours. Hammer, premium extra. Rate 1.00."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$45 hammer (sale_price 4500 cents, 4 bids) for 2 frogs",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "listed 2026-03-01, sold about 6 Mar 2026",
+     "venue": "Gowans Auctions, lot id 393770 'FLOWER FROG VASES - MCHUGH & WARDLE'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=mchugh&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "API record re-read and photos viewed (researcher had not). The McHugh frog in this lot is near identical to ours: green, amber and brown drip ball frog, incised 'H McHugh Tasmania 1934 33'. Bundled with a plain blue Wardle ball frog, so the McHugh share is a bit under $45. Hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 45,
+   "guide_high_aud": 55,
+   "guide_summary": "All AUD (rate 1.00). Two surviving SOLD entries at Gowans, both hammer, premium extra: $55 for a single McHugh ball frog (Aug 2026) and $45 for a near-identical 1934 McHugh frog bundled with a Wardle frog (Mar 2026). No unsold or asking evidence survives. Category guides at Gowans (not used for bids): McHugh 1934 signed vase $40 (Nov 2025), McHugh signed ashtray '39' $40 (Aug 2026), McHugh 11cm vase $30 (Mar 2026), John Campbell frogs $35 and $70 (chipped).",
+   "keep_max_hammer": 35,
+   "flip_max_hammer": 15,
+   "working": "Keep: lowest same-item SOLD in last 24 months = $45 (lot 393770, Mar 2026, the bundled 1934 frog, the closest match) / 1.198 = 37.56, round down to $35 hammer (about $42 all-in). Using the single-frog $55 alone would give 55/1.198 = 45.9 -> $45, but $35 is the safer cap. Flip: likely resale about $45 (low end of Gowans sold evidence, no outside sold evidence); less about 15% selling fees ($7) and $0 outbound postage if resold locally = $38 / 2.396 = 15.9, round down to $15. If posted interstate add about $12 postage and the flip maximum falls to $10. Flipping is not worthwhile.",
+   "confidence": "Medium",
+   "confidence_reason": "Mark read clearly in photo 1 and two Gowans SOLD comparables with photos checked, one an exact match in mark and glaze, but one of the two is a two-frog bundle and there is no sold evidence outside Gowans (web search cap reached).",
+   "dropped_entries": "Dropped: John Campbell frogs ($35 lot 392018, $70 lot 373737), McHugh vases ($40 lot 373647, $30 lot 398218) and McHugh ashtray ($40 lot 430651): confirmed in the API but different maker or form, kept only as category guides in guide_summary. 'Unsigned glazed pottery flower frog' $1,650 (lot 424329): confirmed but a different, unrelated item, not a comparable. McHugh 98 vase $1,510 (lot 266358, July 2024): confirmed in API but bid_count 0, over 24 months old, large vase, not comparable. Leski Auctions lot 218 ($200 for a large McHugh vase plus 1934 frog): I could not re-open the page (WebFetch HTTP 403, curl returned empty HTTP 202), the date is unclear (possibly 2010) and it is a bundle, so it is a lead only and not verified. Antiques Reporter '$8,078 frog and lizard bowl': snippet only, page returned HTTP 429 to me, different and far more elaborate item, and it was mislabelled ASKING (it is neither an asking price nor verified); dropped.",
+   "key_photo_findings": "Photo 1: base clearly incised 'H. McHugh / Tasmania / 1934 / 39' in script, unglazed buff base. Photos 2-3: ball frog with about 20 holes on a separate turned foot, bright green, amber and plum drip glaze, fine crazing to the glaze, no chips or cracks visible to the holes, rim of foot or body in the photos. More colourful than the two Gowans comparables.",
+   "condition": "Appears good from photos: glaze crazing only, no visible chips or cracks. Not checked in hand.",
+   "question_for_gowans": "Any chips to the hole edges or foot rim, any cracks or restoration (check under UV if possible), and the height/diameter?"
+  },
+  {
+   "cdid": 445327,
+   "lot": 347,
+   "what_it_is": "Two Nao (Lladro, Spain) porcelain figurines: girl in nightgown holding up a lantern with a dog at her feet, and girl in blue dress with a puppy running at her feet. Nao marks on both bases, one hand-dated 8.5.88.",
+   "triage": "KEEP",
+   "market_score": 4,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$25 hammer (2500 cents, 2 bids)",
+     "currency": "AUD",
+     "aud_price": 25,
+     "date": "listed 2026-05-31, sold about 5 Jun 2026",
+     "venue": "Gowans Auctions, lot id 413205 'NAO FIGURE - GIRL & PUPPY'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nao+girl&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "API record re-read and photos viewed: the identical model to our girl in blue dress with running puppy. Single figure. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$50 hammer (5000 cents, 2 bids) for 2 figures",
+     "currency": "AUD",
+     "aud_price": 50,
+     "date": "listed 2025-12-01, sold about 5 Dec 2025",
+     "venue": "Gowans Auctions, lot id 378764 '2 NAO FIGURINES - GIRL & PUPPY & NEWLY WEDS'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nao+girl&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "API record and photos viewed: a seated girl hugging a puppy plus a bride and groom, both Nao marked. A pair of Nao figures like ours, different models. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$45 hammer (4500 cents, 1 bid) for 2 figures",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "listed 2025-12-08, sold about 12 Dec 2025",
+     "venue": "Gowans Auctions, lot id 381120 '2 NAO FIGURES'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nao+figures&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "API record re-read, photos not checked, subjects not stated. Pair of Nao figures. Single bid. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$45 hammer (4500 cents, 3 bids)",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "listed 2025-11-10",
+     "venue": "Gowans Auctions, lot id 373651 'NAO FIGURINE - GIRL HOLDING A CAKE'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nao+girl&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "API record re-read. Single Nao girl figure, different model. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$45 hammer (4500 cents, 3 bids)",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "listed 2025-12-01",
+     "venue": "Gowans Auctions, lot id 378761 'NAO FIGURINE - GIRL WITH BUNNIES'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nao+girl&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "API record re-read. Single Nao girl, different model. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$35 hammer (3500 cents, 4 bids)",
+     "currency": "AUD",
+     "aud_price": 35,
+     "date": "listed 2026-05-03",
+     "venue": "Gowans Auctions, lot id 406644 'NAO FIGURINE - YOUNG BOY & GIRL'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nao+figurine&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "API record re-read. Single Nao group, different model. Hammer, premium extra."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$25 hammer (2500 cents, 2 bids)",
+     "currency": "AUD",
+     "aud_price": 25,
+     "date": "listed 2026-03-23",
+     "venue": "Gowans Auctions, lot id 398397 'NAO FIGURINE - YOUNG LADY'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=nao+figurine&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "API record re-read. Single Nao lady, different model, low end. Hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 25,
+   "guide_high_aud": 50,
+   "guide_summary": "All AUD (rate 1.00), all SOLD hammer at Gowans, premium extra, Oct 2025 to Jun 2026. Exact model (girl with running puppy) $25 single; pairs of Nao $45-50; single Nao girls $25-45. No unsold or asking evidence (web search cap reached). Category guides not counted in range: 2 Nao figures plus Franklin Mint $35, 2 Nao plus Lladro goose $60, Nao boy with aeroplane $50.",
+   "keep_max_hammer": 35,
+   "flip_max_hammer": 15,
+   "working": "Keep: lowest same-lot-type SOLD for a pair of Nao = $45 (lot 381120, Dec 2025) / 1.198 = 37.56, round down to $35 hammer (about $42 all-in). Cross-check: exact model single $25 plus a similar single $25-45 gives about $50-70 for both, so $35 is cautious. Flip: likely resale about $45 for the pair (Gowans sold level); less about 15% selling fees ($7) and $0 postage if sold locally = $38 / 2.396 = 15.9, round down to $15. Flip margin is negligible.",
+   "confidence": "Medium",
+   "confidence_reason": "Nao marks seen on both bases and one exact model matched by photo at Gowans; pair results are consistent, but the lantern girl model has no direct sold match and there is no evidence outside Gowans.",
+   "dropped_entries": "Moved to category guide only (not dropped as false, but not like for like): lot 381128 2 Nao plus Franklin Mint figure $35 (mixed lot), lot 363552 2 Nao plus Lladro goose $60 (includes Lladro), lot 369961 Nao boy with aeroplane $50 (different subject). All prices confirmed in the API. Researcher's entries otherwise matched the API exactly.",
+   "key_photo_findings": "Photo 1: girl in blue dress with puppy at her feet, and girl in cream nightgown raising a lantern with a black and white dog. Photo 2: both bases carry the Nao blue mark with the 'Daisa' copyright stamp; one base hand-written '8.5.88'. No chips visible to fingers, lantern or dog ears at this resolution; the lantern and raised hand are the vulnerable points.",
+   "condition": "Appears good from photos, no visible damage; fine extremities (lantern, fingers, puppy legs) not checked closely.",
+   "question_for_gowans": "Any chips or restoration to the raised hand and lantern, fingers, or the puppy's legs and ears?"
+  },
+  {
+   "cdid": 445355,
+   "lot": 375,
+   "what_it_is": "Japanese cloisonne vase, deep red (pigeon-blood style) ground with pink and white roses and silver-coloured rims, probably Showa period export, about 25cm by eye; with a cream relief-moulded stoneware jug (Celtic knot neck band, floral panels, Victorian style, unmarked in photo).",
+   "triage": "NEAR MISS",
+   "market_score": 5,
+   "sold": [],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "No same-item or close entries survive, so guide is 0. Category guides only, all SOLD hammer at Gowans, AUD, premium extra: single cloisonne vase $95 (lot 375292, Chinese, not like ours), large 35cm Chinese cloisonne vase $120 (410009), pair of Japanese wire cloisonne vases with chrysanthemums $170 (442121, Oct 2026, about $85 each), pair of cloisonne vases $160 one bid (417869), mixed low lots $14 to $30; a white relief jug like ours (repaired) with a glazed vase made $60 (437748, Sep 2026). That suggests the lot might make roughly $50 to $100 hammer, but none of these is the same item.",
+   "keep_max_hammer": 0,
+   "flip_max_hammer": 0,
+   "working": "No same-item SOLD evidence survives, so no maximum bid is set. All researcher entries are category guides only.",
+   "confidence": "Low",
+   "confidence_reason": "Single photo, no mark read on either piece, vase size and maker unknown, and only category-level Gowans results; web search cap reached so no outside evidence.",
+   "dropped_entries": "All nine researcher SOLD entries were confirmed in the Gowans API (prices and dates correct) but downgraded to category guide: photos show lot 375292 ($95) and 410009 ($120) are Chinese cloisonne with different style, 442121 ($170 pair) is Japanese black-ground wire cloisonne, 417869 ($160 pair) is a different brocade pattern; 440858 ($30), 395033 ($14) and 401548 ($5 reproduction) are mixed or poor lots. Jug comparables 437748 ($60, repaired jug plus vase, photo shows a similar white relief jug) and 418044 ($30, Doulton Lambeth, bid_count 0 recorded) are category only; 440706 ($2, cracked Doulton jug, bid_count 0) is not comparable. The researcher's 'about 25cm' size is an estimate from the photo, not confirmed.",
+   "key_photo_findings": "Vase: glossy translucent red ground with pink and white roses and green leaves, silver-coloured rim and foot mounts, typical of mid 20th century Japanese export cloisonne (Ando-type style), no dents or chips visible. Jug: cream matt stoneware or parian-type body, relief Celtic knot band, key-fret bands at neck and foot, floral panels, rustic branch handle, noticeable brown staining in the crevices and on the handle; it does not look obviously salt glazed. No marks visible for either piece (bases not shown).",
+   "condition": "Vase looks clean in a single photo; jug has visible staining and possible surface wear. Bases not shown.",
+   "question_for_gowans": "What is the vase height and is there any mark or seal on its base or on the silver rims (e.g. Ando or a maker's seal)? Any dents or enamel chips? Is the jug marked on the base, and any chips, cracks or repairs?"
+  }
+ ]
+}
