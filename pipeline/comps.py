@@ -92,8 +92,8 @@ def main():
         print(json.dumps({'summary': summary, 'hits': hits[:a.limit]}, indent=1))
         return
     for h in hits[:a.limit]:
-        ref = f"{h['venue']} {h['sale']}/{h['lot']}".replace(' /', ' lot ')
-        print(f"{h['date'][:10]:10}  ${h['hammer']:>8,.0f}  {ref}: {h['text'][:140]}  {h['url']}")
+        ref = h['venue'] + (f" sale {h['sale']}" if h['sale'] else '') + (f" lot {h['lot']}" if h['lot'] else '')
+        print(f"{str(h['date'])[:10]:10}  ${h['hammer']:>8,.0f}  {ref}: {h['text'][:140]}  {h['url']}")
     if hits:
         print(f"\n{len(hits)} sold hits: low ${summary['low']:,.0f}, median ${summary['median']:,.0f}, high ${summary['high']:,.0f} ({summary['note']})")
     else:
