@@ -136,7 +136,7 @@ def collect_run(token, run_id):
 
 
 def run(token, queries, max_results, incremental, max_spend, days=None, details=True,
-        state="armitage-launceston-7250", radius=RADIUS_KM, strict=True):
+        state="armitage-launceston-7250", radius=RADIUS_KM, strict=True, sort="newest"):
     payload = {
         "latitude": LAUNCESTON[0],
         "longitude": LAUNCESTON[1],
@@ -149,7 +149,7 @@ def run(token, queries, max_results, incremental, max_spend, days=None, details=
     }
     if details:
         payload["query"] = json.dumps(queries)
-        payload["sortBy"] = "newest"  # the actor sorts by the post date it fetched
+        payload["sortBy"] = sort  # newest: the actor sorts by the post date it fetched
     else:
         # Quick mode: the actor can't sort by newest without detail pages, but
         # Facebook can. Give it Facebook's own search URLs, newest first, and take
@@ -172,9 +172,11 @@ def run(token, queries, max_results, incremental, max_spend, days=None, details=
 def lookup(token, titles, max_spend):
     """Full details (gallery, description, post date) for listings found by a quick
     scan: search for each exact title with details on. About US$0.02 per title."""
-    # No radius limit: the quick scan already found it, wherever it is.
-    items = run(token, titles, 5 * len(titles), False, max_spend, details=True,
-                radius=500, strict=False)
+    # No radius limit (the quick scan already found it, wherever it is) and best
+    # match first, so the listing with that exact title comes top. Pass the whole
+    # title: a fragment of a common phrase can miss.
+    items = run(token, titles, 10 * len(titles), False, max_spend, details=True,
+                radius=500, strict=False, sort="relevance")
     wanted = [t.strip().lower() for t in titles]
     return [i for i in items
             if any(w in (first(i, "title") or "").lower() for w in wanted)]
