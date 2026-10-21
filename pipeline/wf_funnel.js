@@ -157,8 +157,9 @@ const MARKET_SCHEMA = {
       aud_price: { type: 'number' }, date: { type: 'string' }, venue: { type: 'string' }, url: { type: 'string' },
       same_item: { type: 'string' }, note: { type: 'string' } }, required: ['kind', 'price', 'aud_price', 'date', 'venue', 'url', 'same_item'] } },
     rate_note: { type: 'string' }, searches_tried: { type: 'string' }, needs_chrome: { type: 'boolean' }, chrome_hint: { type: 'string' },
+    viewing_check: { type: 'string' },
   },
-  required: ['cdid', 'lot', 'identification', 'entries', 'searches_tried', 'needs_chrome'],
+  required: ['cdid', 'lot', 'identification', 'entries', 'searches_tried', 'needs_chrome', 'viewing_check'],
 }
 
 function marketPrompt(c) {
@@ -168,7 +169,7 @@ Photos: contact sheet ${W}/sheets/${c.cdid}.jpg, originals ${W}/photos/${c.cdid}
 Goal: build the best picture of what this item is worth on the open market, keeping the kinds of evidence strictly separate. The Armitage estimate and current bid are meaningless and have not been given to you. Do not look for them.
 ${KINDS}
 ${NETWORK}
-Prefer Australian sales from the last 24 months for SOLD and UNSOLD. Do at least 5 varied searches unless the item is clearly generic (mixed china, common furniture), in which case say so and stop early. Return every entry you found, each labelled with its kind. Set needs_chrome true when eBay sold listings or a signed-in site (LiveAuctioneers, Invaluable results, WorthPoint, Rare Book Hub) would settle the value better than what you found, and put the exact search to run in chrome_hint. Do not compute a maximum bid. Write your final JSON to ${W}/market/${c.cdid}.json as well as returning it.`
+Prefer Australian sales from the last 24 months for SOLD and UNSOLD. Do at least 5 varied searches unless the item is clearly generic (mixed china, common furniture), in which case say so and stop early. Return every entry you found, each labelled with its kind. Set needs_chrome true when eBay sold listings or a signed-in site (LiveAuctioneers, Invaluable results, WorthPoint, Rare Book Hub) would settle the value better than what you found, and put the exact search to run in chrome_hint. In viewing_check say what Andy should look at or photograph at the viewing to settle the value (a hallmark, a title page and date, a serial number, a signature, a crack, a fill level), or "nothing" if the photos already settle it. Do not compute a maximum bid. Write your final JSON to ${W}/market/${c.cdid}.json as well as returning it.`
 }
 
 phase('Market')

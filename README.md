@@ -36,7 +36,14 @@ Run in this order by `routines/armitage-new-sale.md`; each stage writes under `p
 | `wf_funnel.js` | The Workflow: title pass, photo scan, rescore, cloud price research. Sonnet only, no Opus |
 | `merge_scan.py` | Checks a scan batch (every photo viewed) and writes `scans/<tag>.json` |
 | `assess.py <chid>` | The bid check in code: the $200 rule, provisional maximums, the Chrome list, the "first pass" email |
+| `chrome_brief.py <chid>` | The hand-over for the Chrome research on the home computer (run on Sonnet): rules, output format, one section per lot with its photos |
+| `chrome_import.py <chid> <results.json>` | Merges what the Chrome session found back into the market files and `state/chrome_sold.json`; run `assess.py` again after it |
+| `photo_list.py <chid>` | The viewing list: what to look at or photograph for every lot worth bidding on, and the email that points Andy to it |
 | `stage.py <chid> <stage>` | Records a finished stage in `state/sales.json` and prints the "stage finished" email |
+
+The chats Andy starts himself have their prompts in `routines/`: `chrome-research.md`
+("Chrome research for Armitage <chid>, use Sonnet") and `viewing-photos.md` ("viewing
+photos for Armitage <chid>").
 
 ### The deep-scan toolkit in `work/`
 
