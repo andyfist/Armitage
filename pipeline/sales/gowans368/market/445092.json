@@ -1,0 +1,56 @@
+{
+ "cdid": 445092,
+ "lot": 112,
+ "identification": "WWI Memorial Plaque (Dead Man's Penny), bronze, about 120mm, Britannia with lion, named ARTHUR EDWARD BATE (no rank or regiment on plaque, as normal). Looks like an original cast plaque with natural brown patina; reverse blank apart from lot sticker. Not a replica on the photos, but casting texture is not fully verifiable.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$900 hammer",
+   "currency": "AUD",
+   "aud_price": 900,
+   "date": "Sale 129, 29 Mar-1 Apr 2022",
+   "venue": "Noble Numismatics, Sydney, lot 2106",
+   "url": "https://www.noble.com.au/auctions/sale/129?c=6566&g=3&e=501&s=r2",
+   "same_item": "close",
+   "note": "Page opened. Plaque named to Arthur Percival Smith WITH Memorial Scroll, very fine, estimate $500. Scroll and named AIF casualty lift it above a bare plaque; Noble fee not included. Older than 24 months. AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-03-01",
+   "venue": "Gowans Auctions, Hobart, lot id 393381 (DEAD MANS PENNY SET 1914-1918)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/393381/",
+   "same_item": "category guide",
+   "note": "From local comps database and API (page opened). Gowans API sale_price reads 7500 cents = $75; 3 bids. Description empty; it is a 'set' so contents unclear, may be a replica or partial. Weak comp, shows local room level."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions, Hobart, lot id 435721 (WWI MEMORIAL PLAQUE IN FOLDER)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/435721/",
+   "same_item": "category guide",
+   "note": "From local comps database only, 1 bid. Condition and whether named unknown. Shows low local result for a plaque."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$126 to $2,461 (20 auction results summarised)",
+   "currency": "AUD",
+   "aud_price": 126,
+   "date": "seen in search snippet 2026-10-21",
+   "venue": "Carters Price Guide",
+   "url": "https://www.carters.com.au/index.cfm/index/6323-militaria-death-plaques-death-penny/",
+   "same_item": "category guide",
+   "note": "Snippet only, page blocked to curl. Unverified range, no lot detail; top end likely named Australian or rare units. Not a price paid for a single item."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) on death penny bate, memorial plaque, dead mans penny, death plaque; Gowans API 'death penny' (only a replica and this lot); WebSearch for AU hammer prices, Noble sale 129, Armitage site search (nothing relevant), generic Noble/Downies search; Wynyard Coins page (price not extracted); Carters blocked. eBay sold listings would settle value best (closed to us). No sale of an Arthur Edward Bate plaque found.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold+completed: 'WW1 memorial plaque death penny' (also 'dead mans penny named'), last 90 days; also Noble Numismatics results search 'Memorial Plaque' sales 2024-2026",
+ "viewing_check": "Check it is a genuine cast plaque (rough edge casting, slight thickness, rim finish, any foundry marks under the lion's feet 'E CR P'), no cracks or repairs; no scroll or box included. Confirm name is cast, not engraved. Optionally look up Arthur Edward Bate on the AIF Project/NAA to see whether he was Australian (adds value) or British.",
+ "rate_note": "All prices AUD, no conversion."
+}

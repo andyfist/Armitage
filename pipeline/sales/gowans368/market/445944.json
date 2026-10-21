@@ -1,0 +1,67 @@
+{
+ "cdid": 445944,
+ "lot": 1113,
+ "identification": "Two pale, nearly white-yellow live-edge slabs, long and narrow, with bark inclusions, knots and voids, chalked 1113 23/10/26. Colour is more like celery top pine or similar pale timber than golden Huon pine, though Gowans sells this whole run of chalked slabs under the Huon pine title. Part of a long series of near-identical lots (1112, 1114 beside it).",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer (about 90 identical '2 SLABS OF HUON PINE' lots, listed Nov 2025 to Aug 2026, hammer $10 to $180, typical $35 to $80)",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "Nov 2025 to 30 Aug 2026 (listing dates; sale about a week later)",
+   "venue": "Gowans Auctions, Hobart (API sale_price)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2+slabs+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "API page opened. Typical hammer about $45 to $65, top results $100 ($180 on 387804, 7 bids; $140 on 394640, 11 bids). Premium extra. No FX needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 to $105 hammer (20 lots sold 11 Oct 2026: 2 SLABS OF HUON PINE $105, $75, $70, $70, $65, $65, $60, $60, $55, $50 etc.)",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart (work/comps.py database)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444306/",
+   "same_item": "yes",
+   "note": "Most recent comparable sale; lots 444303, 444305, 444306, 444307, 444319-444325. Median about $62 hammer for the 2-slab lots. Database output, page not individually opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer (lots 442685, 436315, 436316)",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "Sep to Oct 2026",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Better of the series, a long narrow plus wider slab. Database summary, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$220 hammer, 3 SLABS OF HUON PINE, lot 387811",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "about 6 Feb 2026",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/387811/",
+   "same_item": "close",
+   "note": "Three slabs, so about $73 each; the top of the series. Database summary."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$15 to $85 hammer, celery top pine slabs and pieces",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/433211/",
+   "same_item": "close",
+   "note": "If these pale slabs are celery top, single slabs go $50 to $85 (ids 433209 to 433211). Database output."
+  }
+ ],
+ "searches_tried": "work/comps.py and pipeline/comps.py (huon pine slab, huon pine, slab timber, celery top pine); Gowans API search '2 slabs of huon pine' (about 100 sold lots listed). No web search: this is a repeating generic Gowans series with a deep same-venue, same-buyer-pool sample, so retail Huon pine prices (sawn, kiln-dried, graded) are not a useful guide to raw chalked slabs. eBay sold would not add much. Aud only, no FX.",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Check the grain and smell: genuine Huon pine is golden with very fine tight grain and a strong sweet oil smell; these look pale and plain, so likely celery top or similar. Check thickness, length and that the slabs are sound (no splits or rot at voids). Nothing else would change the value much.",
+ "rate_note": "All AUD, no conversion. Hammer prices exclude the 19.8% premium."
+}
