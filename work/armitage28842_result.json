@@ -1,0 +1,1520 @@
+{
+ "batches": 20,
+ "batches_with_result": 20,
+ "counts": {
+  "SCANNED": 288,
+  "NOT_IN_SALE": 0,
+  "UNSCANNED": 0
+ },
+ "retried_batches": [],
+ "unscanned_after_retry": [],
+ "batches_no_result": [],
+ "candidates_total": 24,
+ "not_researched": [
+  {
+   "cdid": 3088869,
+   "lot": 1699,
+   "key": "a7",
+   "title": "CAST IRON BASE, MARBLE TOP OUT...",
+   "reason": "Possible Victorian cast iron pub table base, unmarked, damaged top",
+   "strength": 3,
+   "strength_scan": 4,
+   "rescore_note": "Unmarked base with broken marble top and rusty feet; base alone worth maybe $40-70."
+  },
+  {
+   "cdid": 3089068,
+   "lot": 1898,
+   "key": "a7",
+   "title": "QUANTITY OF VARIOUS SIGNS",
+   "reason": "Superfast Ferries and ferry-related signs have some collector appeal",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Mixed lot of weathered signs; Superfast Ferries items have niche memorabilia interest, total about $30-80."
+  },
+  {
+   "cdid": 3089123,
+   "lot": 1953,
+   "key": "a7",
+   "title": "2 BOXES OF OIL TINS RUNNER BOA...",
+   "reason": "Vintage oil tins (Caltex), modest collectable value",
+   "strength": 3,
+   "strength_scan": 3,
+   "rescore_note": "Rusty, dented vintage oil and petrol tins with only one Caltex tin identified and no legible marks; likely $30-70 for the lot."
+  }
+ ],
+ "interest": [],
+ "lots": [
+  {
+   "cdid": 3088965,
+   "lot": 1795,
+   "what_it_is": "Strapped pack of Tasmanian oak tongue and groove lining boards, marked in pen 'APPROX 11.50 m/2 TAS OAK LINING'. About 4 boards across by roughly 1.1 m long (short lengths), on timber bearers. Clean, unused looking stock.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 6,
+   "sold": [
+    {
+     "price": "$300 hammer (sale_price 30000 cents), 10 bids",
+     "aud_price": 300,
+     "date": "listed 2025-10-01",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oak+flooring&page%5Bnumber%5D=1",
+     "note": "Kind SOLD, AUD, no conversion. Lot 365191 'QTY OF OAK FLOORING - ALL SECOND HAND'. same_item: category guide. Page opened (API JSON) and lot photo viewed: a long strapped bundle of used hardwood flooring in full lengths, quantity not stated. Used and longer lengths, so only a category guide; not used for a maximum bid."
+    },
+    {
+     "price": "$400 hammer (sale_price 40000 cents), 3 bids",
+     "aud_price": 400,
+     "date": "listed 2025-12-03",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=floor+boards&page%5Bnumber%5D=1",
+     "note": "Kind SOLD, AUD. Lot 380207 '2 PACKS OF FLOATING FLOOR BOARDS', added by verifier. same_item: category guide. Page opened (API JSON) and photo viewed: two large strapped packs of floating (engineered) floor boards, area not stated. Different product, shows strapped new board packs do find buyers in Tasmania. Not used for a maximum bid."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$82.24 per sq m ($6.99 per m), 85x12mm utility grade V-joint T&G, random lengths",
+     "aud_price": 946,
+     "date": "live, seen 2026-10-16",
+     "venue": "JBM Timber Adelaide (retail)",
+     "url": "https://www.jbmtimberadelaide.com.au/product/85x12mm-tasmanian-oak-utility-grade-v-joint-lining-boards/",
+     "note": "Kind ASKING, AUD. same_item: close. Page opened, both prices confirmed. aud_price is 11.5 sq m x $82.24 = $946 new retail, before freight from Adelaide. New random-length stock, ours looks to be short lengths, so ours is worth well below this."
+    },
+    {
+     "price": "$23.99 per metre inc GST, 185x12mm VJ lining, random lengths",
+     "aud_price": 1495,
+     "date": "live, seen 2026-10-16",
+     "venue": "Geelong Timber Supplies (retail)",
+     "url": "https://geelongtimbersupplies.com.au/product/tas-oak-vj-lining-boards-185x12mm/",
+     "note": "Kind ASKING, AUD. same_item: close. Page opened, 'LENGTH WISE PRICE $23.99 PER METRE INC. GST' confirmed. About 5.4 m per sq m at 185mm, so about $130 per sq m, x 11.5 = about $1,495 (my calculation, cover width not stated so approximate). Wider board, new stock, retail."
+    },
+    {
+     "price": "$106 per sq m (21x78mm groove board), $26.90 per linear metre",
+     "aud_price": 106,
+     "date": "live, seen 2026-10-16",
+     "venue": "Bunnings (retail)",
+     "url": "https://www.bunnings.com.au/products/building-hardware/timber/timber-boards/internal-lining-boards/timber-linings-",
+     "note": "Kind ASKING. same_item: category guide. Snippet only, page not opened, not verified. Kept as a lead only, excluded from the guide range."
+    }
+   ],
+   "guide_low_aud": 946,
+   "guide_high_aud": 1495,
+   "guide_summary": "Nothing sold that is the same item. The range ($946 to $1,495) is new retail ASKING only, for 11.5 sq m of random-length Tas oak lining from two opened retailer pages (all AUD, no conversion). Two Gowans SOLD results ($300 used oak flooring bundle, $400 two packs of floating floor) are category guides only. A pack of short-length lining will realistically sell for a fraction of new retail.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD evidence in the last 24 months, so keep_max_hammer = 0 and flip_max_hammer = 0 under the rules. For reference only: new retail for 11.5 sq m is about $946 to $1,495; the closest Tasmanian auction result is $300 hammer for a used oak flooring bundle. Pickup from Invermay, inbound freight $0.",
+   "confidence": "Low",
+   "confidence_reason": "Label read clearly in photo 3 (TAS OAK LINING, approx 11.50 m2), but no same-item SOLD result; value rests on new retail asking prices and loose category guides.",
+   "dropped_entries": "Dropped Gowans 381541 '6 BOXES OF PARQUETRY FLOORING' ($95): photo shows old boxed mosaic parquet tiles, not lining. Dropped Gowans 415797 'HERITAGE TASMANIAN OAK FLOOR BOARDS' ($25) and 415795 'QTY OF TASMANIAN OAK FLOOR BOARDS' ($10): photos show a handful of loose used boards, not a pack. Dropped Gowans 426946 '5 BOXES OF FLOOR BOARDS & SOME LOOSE' ($65): photo shows boxed laminate or vinyl plank (Harmony Grange, Carpet Court), not timber. Bunnings kept as a snippet-only lead, not verified.",
+   "key_photo_findings": "Photo 3 handwritten label 'APPROX 11.50 m/2 TAS OAK LINING'. Photo 2 end view shows 4 boards per row with tongue and groove profile, boards look about 120 to 135mm wide and thin (lining, not flooring thickness). Photo 1 shows the pack about 1.1 m long, so boards appear to be short lengths. Timber looks clean and unweathered, banded with two straps.",
+   "condition": "Appears new and unused, clean and dry in photos. Board length looks short (about 1.1 m), grade unknown, exact profile and dimensions not stated.",
+   "question_for_armitage": "What are the board width, thickness and lengths (are they all about 1.1 m, or random lengths)? Is it V-joint lining or flooring profile? Any water staining, mould or split tongues inside the pack? Is the 11.5 sq m a measured figure?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3089103,
+   "lot": 1933,
+   "what_it_is": "Generic imported sliding panel saw, plate reads 'SLIDING PANEL SAW MODEL: MJ12-1800', 240V 50Hz 3000W, 315x30x3mm main blade at 4000 rpm, 90mm scoring blade, 1800mm sliding panel stroke, 1220mm rip capacity, 1350mm crosscut width. Serial number blank, no brand visible. With sliding carriage, crosscut frame and outrigger, on a pallet. Not tested.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 7,
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$7,995.00",
+     "aud_price": 7995,
+     "date": "live, seen 2026-10-16",
+     "venue": "Beyond Tools (Australian retailer), new Woodfast TS315B 315mm 1.6m sliding table saw 3HP 240V",
+     "url": "https://beyondtools.com/products/315mm-12-1hp-1-6m-sliding-table-panel-saw-240v-ts315b-by-woodfast",
+     "note": "Kind ASKING, AUD. same_item: category guide. Page opened (curl), offer price 7995.00 AUD in page data confirmed. New, branded, better grade machine; a new-price ceiling for the category only, not comparable to a used untested generic import."
+    },
+    {
+     "price": "$2,990 ex GST, Machinery House PS-1810 315mm sliding panel saw",
+     "aud_price": 3289,
+     "date": "live, seen 2026-10-16",
+     "venue": "Machinery House (Australian retailer)",
+     "url": "https://the.machineryhouse.com.au/w700",
+     "note": "Kind ASKING, AUD; aud_price is $2,990 plus 10% GST. same_item: close (similar class of import, 315mm blade, about 1.8 to 1.9m carriage). Snippet only: page returned HTTP 403, so not verified. Lead only, excluded from the guide range."
+    }
+   ],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "Nothing survives as same-item or close evidence with an opened page. No SOLD or UNSOLD results found anywhere. The only verified price is a new branded Woodfast at $7,995 ASKING (category guide). A snippet-only lead puts a new Machinery House PS-1810 of the same import class at about $2,990 ex GST, which is the more realistic new reference, unverified. All AUD.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD evidence, so keep_max_hammer = 0 and flip_max_hammer = 0. For reference only, a new comparable import is about $3,300 inc GST (snippet only), so a used, untested example is likely worth well under that.",
+   "confidence": "Low",
+   "confidence_reason": "Model plate read clearly, but evidence is asking prices only, one of them snippet only, and the machine is untested with no brand or serial.",
+   "dropped_entries": "None dropped. Researcher's Beyond Tools entry confirmed on the opened page and kept as a category guide only.",
+   "key_photo_findings": "Photo 3 rating plate: MJ12-1800, 240V 50Hz 3000W, main blade 315x30x3mm 4000rpm, scorer 90x20x3mm 5800rpm, max cut depth 100mm at 90 degrees, rip 1220mm, stroke 1800mm, serial number field blank. Photos 1 and 2: blue and white cabinet, aluminium sliding carriage, crosscut frame with fence and outrigger leg, rip fence, red blade guard, switch box. A badge is on the cabinet but not legible. Some dust, no obvious damage seen.",
+   "condition": "Used, untested. Looks complete in photos (carriage, crosscut frame, rip fence, guard); blade condition and scorer function unknown.",
+   "question_for_armitage": "Does it run, and does the scoring blade work? Is it a standard 15A plug or hard-wired? Are the main and scoring blades included, plus the mitre fence, rip fence, guard and any manual? Any brand on the badge? Is anything missing or damaged on the sliding carriage?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3088995,
+   "lot": 1825,
+   "what_it_is": "Seven raw live-edge slabs, about 1.7 m long, widths roughly 20 to 40cm, pale sapwood edges with brown heartwood, consistent with Tasmanian blackwood as described (species is the auctioneer's description, not confirmable from the photo). Thickness and seasoning unknown.",
+   "triage": "KEEP",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$230 hammer (sale_price 23000 cents), 5 bids",
+     "aud_price": 230,
+     "date": "listed 2026-08-09",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=blackwood+slabs&page%5Bnumber%5D=1",
+     "note": "Kind SOLD, AUD. Lot 429847 '8 BLACKWOOD SLABS'. same_item: close. Page opened (API JSON) and both photos viewed: a stack of 8 wide, freshly sawn live-edge slabs, likely from one log and probably wider than ours. About $29 a slab."
+    },
+    {
+     "price": "$90 hammer (sale_price 9000 cents), 2 bids",
+     "aud_price": 90,
+     "date": "listed 2026-02-01",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=blackwood+slabs&page%5Bnumber%5D=1",
+     "note": "Kind SOLD, AUD. Lot 388125 '8 BLACKWOOD SLABS'. same_item: close. Page opened (API JSON) and photo viewed: rough, weathered narrower slabs, poorer looking than ours. About $11 a slab."
+    },
+    {
+     "price": "$60 hammer (sale_price 6000 cents), 1 bid",
+     "aud_price": 60,
+     "date": "listed 2026-02-01",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=blackwood+slabs&page%5Bnumber%5D=1",
+     "note": "Kind SOLD, AUD. Lot 388126 '8 BLACKWOOD SLABS', same sale as 388125. same_item: close. Page opened (API JSON) and photo viewed: rough weathered slabs. Single bid, low end."
+    },
+    {
+     "price": "$115 hammer (sale_price 11500 cents), 4 bids",
+     "aud_price": 115,
+     "date": "listed 2026-06-21",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=blackwood+slabs&page%5Bnumber%5D=1",
+     "note": "Kind SOLD, AUD. Lot 418873 '2 SLABS OF BLACKWOOD'. same_item: category guide. Page opened (API JSON), photo not reviewed. Top of the 2-slab range; most 2-slab lots made $7 to $65."
+    },
+    {
+     "price": "$140 hammer (sale_price 14000 cents), 4 bids",
+     "aud_price": 140,
+     "date": "listed 2026-03-16",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=blackwood+slabs&page%5Bnumber%5D=1",
+     "note": "Kind SOLD, AUD. Lot 397898 'SLAB OF BLACKWOOD'. same_item: category guide. Page opened (API JSON) and photo viewed: one long, wide, clean slab, better than any single slab here. Outlier; single slabs Jul to Sep 2026 mostly made $10 to $50."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 60,
+   "guide_high_aud": 230,
+   "guide_summary": "All SOLD evidence, all AUD hammer at Gowans (premium extra), no conversion. Three close 8-slab blackwood lots made $60, $90 and $230 in Feb to Aug 2026 (about $7.50 to $29 a slab, so roughly $50 to $200 for 7). Single-slab lots in Jul to Sep 2026 mostly made $10 to $50 (verifier's read of the Gowans API listing). No UNSOLD or ASKING evidence survives.",
+   "flip_max_hammer": 30,
+   "keep_max_hammer": 45,
+   "working": "keep: lowest close same-item SOLD = $60 (8 blackwood slabs, Gowans Feb 2026) / 1.22 = $49.18, round down to $45. flip: likely resale about $90 at a Tasmanian auction (middle of the three 8-slab results; 7 slabs is slightly fewer), less about 15% selling fees ($13.50) and $0 outbound postage (buyer collects) = $76.50 / 2.44 = $31.35, round down to $30. Flipping is barely worth it. Pickup from 9 Goodman Crt, Invermay, inbound freight $0.",
+   "confidence": "Medium",
+   "confidence_reason": "Clear identification of slab type and count, and 3 close SOLD results with data and photos checked, but species is the auctioneer's claim, there is no mark to read, and thickness and dryness are unknown.",
+   "dropped_entries": "Dropped the researcher's aggregated '$20 to $25 typical 2-slab' SOLD entry: it is a summary, not a single sale, so it is folded into guide_summary instead. Dropped the mbveneer/eBay ASKING entry: no price shown on mbveneer and the eBay figures are other species and snippet only.",
+   "key_photo_findings": "Single photo: 7 slabs standing against a roller door, each with live edges and pale sapwood, brown heartwood with some figure and a few knots. Left slab has a knotty, flared base; a couple show end checks and small splits; rough sawn ends. Look dry on the surface and reasonably flat, no visible borer in the photo.",
+   "condition": "Raw sawn live-edge slabs, some knots, end checks and small splits. Thickness, moisture and how long they have been air-dried are unknown.",
+   "question_for_armitage": "Can you confirm the species is blackwood, and the thickness of each slab? How long have they been drying (air-dried or green)? Does '168 X 36' mean 168cm long by 36cm widest? Any borer, rot or deep splits?",
+   "keep_max_24m": 45,
+   "flip_max_24m": 30,
+   "flip_max_gross": 30,
+   "flip_rule_out": 30,
+   "flip_rule": "Net resale after selling fees $73 (from the working); higher of double your money or $500 profit gives all-in $37, hammer $30."
+  },
+  {
+   "cdid": 3088998,
+   "lot": 1828,
+   "what_it_is": "Old Australian farm or workshop bank of 16 drawers under a thick timber plank top, about 2 m long. Carcase and 13 drawer fronts painted dark grey with hand-lettered white labels (Screws/Splitting gun, Drills/Pincers, Hammers/Handsaw gear, Screw drivers/Pliers/Punches, Boot repair gear, Wrenches, Files/Rasps, Hones-abrasives/Trowels-floats, Iron scrap, Wedges, Fencing gear, Motor repair gear, Painting gear/Wood pieces). Three bottom drawers are bare white-painted replacements. Cup handles, open timber side slats on the ends. Shown sitting on furniture dollies with red castors that may not be part of the lot.",
+   "triage": "BOTH",
+   "market_score": 7,
+   "sold": [
+    {
+     "price": "$360 hammer (sale_price 36000 cents), 4 bids",
+     "date": "listed 2026-09-13, sale about 2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/438487/",
+     "aud_price": 360,
+     "note": "SOLD. AUD, no conversion. same_item: close. Page opened (API record) and photo viewed: LARGE OLD OAK WORKBENCH WITH 16 DRAWERS, about 1.2 m, worn galvanised/zinc top, end vice with power point, bank of timber drawers. Old working shop piece in similar used condition, but no painted lettering and shorter. Hammer, premium extra."
+    },
+    {
+     "price": "$475 hammer (sale_price 47500 cents), 10 bids",
+     "date": "listed 2026-03-16, sale about 2026-03-23",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/397649/",
+     "aud_price": 475,
+     "note": "SOLD. AUD. same_item: close. Page opened (API record) and photo viewed: 18 DRAWER WORKSHOP DRAWERS, upright grey-painted carcase with natural timber drawers and alloy cup handles, tidier than the Armitage lot. Same buyer appeal (old workshop drawer bank). Hammer, premium extra."
+    },
+    {
+     "price": "$420 hammer (sale_price 42000 cents), 6 bids",
+     "date": "listed 2025-10-13, sale about 2025-10-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/367930/",
+     "aud_price": 420,
+     "note": "SOLD. AUD. same_item: category guide. Page opened (API record) and photo viewed: TIMBER WORK BENCH WITH WOOD SCREW VICE, rustic old cabinetmaker bench, heavily used. Shows rustic old benches with character reach $400 in Hobart. No drawer bank. Hammer, premium extra."
+    },
+    {
+     "price": "$110 hammer (sale_price 11000 cents), 2 bids",
+     "date": "listed 2026-09-27, sale about 2026-10-04",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/441225/",
+     "aud_price": 110,
+     "note": "SOLD. AUD. same_item: category guide. Page opened (API record) and photo viewed: plain open-frame PINE WORKBENCH, no drawers. Floor for a plain bench. Hammer, premium extra."
+    },
+    {
+     "price": "$80 hammer (sale_price 8000 cents), 3 bids",
+     "date": "listed 2025-10-13, sale about 2025-10-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/367961/",
+     "aud_price": 80,
+     "note": "SOLD. AUD. same_item: category guide. Page opened (API record) and photo viewed: PINE WORKBENCH/TABLE ON CASTERS, plain table form, no drawers. Floor only. Hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 360,
+   "guide_high_aud": 475,
+   "guide_summary": "All sold, all Gowans Hobart hammer prices in AUD (no conversion, premium extra). The two close comparables set the range: an old oak workbench with 16 drawers ($360, Sep 2026) and an 18 drawer workshop drawer bank ($475, Mar 2026). A rustic old vice bench made $420 (category guide). Plain pine benches at $80 to $110 are the floor. No unsold or asking entries survive.",
+   "keep_max_hammer": 295,
+   "flip_max_hammer": 115,
+   "working": "Keep: lowest close SOLD $360 / 1.22 = $295.08, round down to $295 hammer ($360 all-in). Flip: likely resale $360 (lowest close SOLD, as a resale at a local auction), less about 20% selling costs (seller commission about 15% plus GST and lotting fees, assumed) = $288. No outbound postage (buyer collects, too big to post). $288 / 2.44 = $118, round down to $115 hammer. Neither close comparable is the identical item, so treat both caps as soft. The painted lettering may appeal more than either comparable, but three replacement drawers and the worn finish cut the other way.",
+   "confidence": "Medium",
+   "confidence_reason": "The drawer labels read clearly in the photos. Two close Gowans sales within 7 months were opened and their photos viewed, but neither is the same item (one is a vice bench, one an upright cabinet), so not High.",
+   "condition": "Heavily aged and worn paint. Plank top weathered with old stains and nail holes. Three bottom drawers are later white-painted replacements, and one drawer runner looks loose in photo 2. Looks structurally sound in the photos. The castors look like separate furniture dollies.",
+   "key_photo_findings": "16 drawers in four rows of four. 13 are painted with original-looking hand lettering and 3 bottom drawers are bare white replacements (not four, as the researcher said). Open slatted ends show raw timber. The unit rests on two black board dollies with red castors, which may be Armitage's moving dollies rather than part of the lot. No maker mark. The value is decorative and rustic.",
+   "question_for_armitage": "Are the castor dollies under the unit included, or are they yard equipment? Overall length and depth? Do all 16 drawers run, and are the drawer bottoms sound? Any borer in the top or carcase?",
+   "dropped_entries": "Dropped 433667 TIMBER APOTHECARY DRAWERS ($155), 371489 and 372598 18 DRAWER APOTHECARY CABINET ($215, $140) and 395902 PINE 12 DRAWER SPECIMEN DRAWERS ($60): photos show modern reproduction Asian-style or decorator pieces, not old workshop furniture. Dropped 443052 18 DRAWER METAL WORKSHOP CABINET ($380): green steel cabinet, different material and buyer. Dropped 401016 RESTORABLE SINGLE DRAWER WORKSHOP BENCH ($80, 1 bid): single drawer, not comparable. Dropped 437803 PINE TOP 3 DRAWER BENCH ($120): photo shows a polished pine hall table, not a work bench. Kept 367961 ($80) and 441225 ($110) only as floor guides. The researcher had them as snippet-only with no lot id; both are now verified via the API with photos. Removed the researcher's placeholder UNSOLD entry (no URL, no price). Noted but not used: 395471, a 36 drawer haberdashery cupboard from Bidencopes Hobart, $2,200 hammer Mar 2026. It is a glazed shop fit-out with Hobart provenance, far finer than this lot. Armitage site: searches returned no Armitage pages.",
+   "price": "",
+   "url": "",
+   "keep_max_24m": 295,
+   "flip_max_24m": 115,
+   "flip_max_gross": 115,
+   "flip_rule_out": 115,
+   "flip_rule": "Net resale after selling fees $281 (from the working); higher of double your money or $500 profit gives all-in $140, hammer $115."
+  },
+  {
+   "cdid": 3089005,
+   "lot": 1835,
+   "what_it_is": "Strapped bundle of new-looking dressed (DAR) Tasmanian oak lengths, hand marked on a board \"APPROX 70 L/M 65mm x 35mm TAS OAK\". About 40 pieces visible end-on, mostly full lengths of about 2.4 to 3 m with some shorter offcuts. Clean, bright, unweathered timber.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 6,
+   "sold": [
+    {
+     "price": "$140 hammer (sale_price 14000 cents), 2 bids",
+     "date": "listed 2025-10-29, sale about 2025-11-05",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/371690/",
+     "aud_price": 140,
+     "note": "SOLD. AUD. same_item: category guide. Page opened (API record) and photo viewed: QTY OF TIMBER LENGTHS, strapped bundle of old weathered timber lengths, species not stated, several metres. Recycled and weathered, so worse than the clean dressed Tas oak in the Armitage lot. Hammer, premium extra."
+    },
+    {
+     "price": "$220 hammer (sale_price 22000 cents), 2 bids",
+     "date": "listed 2025-12-10, sale about 2025-12-17",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/382088/",
+     "aud_price": 220,
+     "note": "SOLD. AUD. same_item: category guide. Page opened (API record) and photo viewed: QTY OF ASST TIMBER PIECES, strapped bundle of heavy recycled hardwood sections and boards. Recycled, mixed sizes. Hammer, premium extra."
+    },
+    {
+     "price": "$2 hammer (sale_price 200 cents), 1 bid",
+     "date": "listed 2026-05-17, sale about 2026-05-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/410784/",
+     "aud_price": 2,
+     "note": "SOLD. AUD. same_item: category guide. Page opened (API record) and photo viewed: QTY OF TASMANIAN OAK TIMBER, only about five lengths strapped together, a far smaller quantity. Shows small Tas oak lots go for next to nothing at Gowans. Hammer, premium extra."
+    },
+    {
+     "price": "$10 hammer (sale_price 1000 cents), 1 bid",
+     "date": "listed 2026-06-08, sale about 2026-06-15",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/415795/",
+     "aud_price": 10,
+     "note": "SOLD. AUD. same_item: category guide. Page opened (API record) and photo viewed: QTY OF TASMANIAN OAK FLOOR BOARDS, about eight used boards in a different profile. Weak floor guide. Hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$21.50 per metre (Tas oak DAR 65 x 32 mm)",
+     "aud_price": 21.5,
+     "date": "live, seen 2026-10-16",
+     "venue": "Canterbury Timbers (retail)",
+     "url": "https://www.canterburytimbers.com.au/products/tasmanian-oak-dressed-all-round-dar-65-x-32-per-metre",
+     "note": "ASKING. AUD. same_item: close (3 mm thinner). Page opened (Shopify product data, price 21.50). New retail. 70 lm x $21.50 = $1,505 new, which is not a resale value."
+    },
+    {
+     "price": "$31.55 per metre (Tas oak DAR 65 x 42 mm)",
+     "aud_price": 31.55,
+     "date": "live, seen 2026-10-16",
+     "venue": "Canterbury Timbers (retail)",
+     "url": "https://www.canterburytimbers.com.au/products/tasmanian-oak-dressed-all-round-dar-65-x-42-per-metre",
+     "note": "ASKING. AUD. same_item: close (7 mm thicker). Page opened (price 31.55). New retail. 70 lm x $31.55 = $2,208. With the 65 x 32 price, this brackets 65 x 35 at roughly $23 to $25 per metre new (my interpolation)."
+    },
+    {
+     "price": "$27.53 per metre (65 x 32 mm 2.4 m Select DAR Tas oak)",
+     "aud_price": 27.53,
+     "date": "live, seen 2026-10-16 (snippet)",
+     "venue": "Bunnings Australia (retail)",
+     "url": "https://www.bunnings.com.au/65-x-32mm-2-4m-dar-tasmanian-oak-select_p0070282",
+     "note": "ASKING. AUD. same_item: close. Snippet only, not verified (Bunnings blocks curl). Kept as a lead only."
+    }
+   ],
+   "guide_low_aud": 1505,
+   "guide_high_aud": 2208,
+   "guide_summary": "Asking only. The only close entries are new retail prices for neighbouring Tas oak DAR sizes ($21.50 and $31.55 per metre, Canterbury Timbers, pages opened), which put 70 lm at about $1,505 to $2,208 new. That is replacement cost, not what a used bundle fetches. Sold evidence is category guide only: Gowans bundles of mixed or recycled timber made $2 to $220 hammer. No same-item sale and no unsold result found. All AUD, no conversion.",
+   "keep_max_hammer": 0,
+   "flip_max_hammer": 0,
+   "working": "No same-item SOLD evidence (no past sale of a bundle of new dressed Tas oak framing found), so both maxima are 0 under the rules. For context only, not a bid: new retail is about $23 to $25 per metre for 65 x 35, so 70 lm would cost about $1,600 to $1,750 new. The Gowans timber bundles show auction buyers pay a small fraction of retail.",
+   "confidence": "Low",
+   "confidence_reason": "The marking was read in the photo, but the 70 lm quantity is the seller's own estimate, and all the evidence is asking prices or loose category-guide sales.",
+   "condition": "Appears clean, bright and dressed all round, with no weathering, nails or paint visible. Ends square cut. Some pieces may be shorter offcuts. Grade, moisture content and straightness unknown.",
+   "key_photo_findings": "Hand marking reads 'APPROX 70 L/M 65mm x 35mm TAS OAK'. The end view shows about 40 pieces in a stack roughly 5 wide by 8 high, which fits roughly 70 lm if the average length is near 1.8 m. Strapped on bearers. Faces look dressed with eased edges (DAR).",
+   "question_for_armitage": "Can you confirm the count and lengths (is it really about 70 lineal metres) and that it is all dressed 65 x 35 Tas oak? Are any pieces bowed, split or short offcuts?",
+   "dropped_entries": "Dropped 415797 HERITAGE TASMANIAN OAK FLOOR BOARDS ($25) and 417192 PIECE OF TASMANIAN OAK WOOD ($25): photos show rough mixed slabs and boards, and the researcher's URL for 417192 was only the bare list endpoint. Dropped 369875 2 TASMANIAN OAK BOARDS ($160, 0 bids, Oct 2025): photo shows two long old boards, and 0 bids against a sale price is a data oddity. Dropped 381839 QTY OF BLACKWOOD, MYRTLE, TASMANIAN OAK & CEDAR BOARDS ($70): mixed cabinet species, a different item. Added verified Gowans bundles 371690 and 382088 as category guides. Armitage site: searches returned no Armitage pages.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3089006,
+   "lot": 1836,
+   "what_it_is": "Set of five square open-top steel planters with an even pre-rusted Corten-style finish, in three heights: two tall (about 72 cm per the title), one medium and two short. Plain folded sheet construction with a narrow top return, no maker mark. The photo cannot show whether this is true weathering steel or rusted mild steel, or what gauge it is.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 6,
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$195 to $690 each (Corten Steel Planter Boxes, standard sizes)",
+     "aud_price": 195,
+     "date": "live, seen 2026-10-16",
+     "venue": "Red Cloud Bamboo, Heatherton VIC (retail)",
+     "url": "https://redcloudbamboo.com.au/planter-boxes/corten-steel-planters/",
+     "note": "ASKING. AUD. same_item: close (new square Corten planter boxes). Page opened (curl) and range confirmed on the page; price per size not checked. New retail per planter, so far above second-hand value."
+    },
+    {
+     "price": "$445 to $998 each (Square Metal Planter Boxes, 300 to 1000 mm, e.g. 400x400x600)",
+     "aud_price": 445,
+     "date": "live, seen 2026-10-16",
+     "venue": "Custom Steel Co., Torquay VIC (retail)",
+     "url": "https://customsteelco.com.au/product/square-planter-boxes/",
+     "note": "ASKING. AUD. same_item: close. Page opened (curl): price range and sizes confirmed, add-on base $90. New, made to order, collection from Torquay. An asking price, not a price paid."
+    }
+   ],
+   "guide_low_aud": 195,
+   "guide_high_aud": 998,
+   "guide_summary": "Asking only: new retail single square Corten or steel planters are $195 to $998 each (Red Cloud Bamboo and Custom Steel Co., both pages opened). No sold or unsold same-item results found in Tasmania. The Gowans planter sales the researcher offered are different items and were dropped. All AUD, no conversion. Used sets resell well below new retail.",
+   "keep_max_hammer": 0,
+   "flip_max_hammer": 0,
+   "working": "No SOLD evidence of comparable steel planters, so both maxima are 0 under the rules. New retail for one planter starts near $195, so a set of five has real value if the steel is sound and a decent gauge, but there is no price paid to set a cap.",
+   "confidence": "Low",
+   "confidence_reason": "Single photo, no mark, gauge and steel type unknown, and only asking prices survive.",
+   "condition": "Even surface rust patina. No obvious holes, dents or rust-through in the one photo. Bases and drainage not visible.",
+   "key_photo_findings": "One photo only. Five planters in three heights (2 tall, 1 medium, 2 short), square section, open tops with a narrow folded rim, uniform rust finish consistent with Corten. No maker label or mark visible.",
+   "question_for_armitage": "Are they solid steel with bases, or bottomless sleeves? Roughly what gauge? Any rust-through or holes? What are the sizes of each?",
+   "dropped_entries": "Dropped all four Gowans SOLD entries after viewing their photos. 417469 5 BLACK SQUARE PLANTER POTS ($27) are boxed shiny black ceramic or plastic pots. 406821 SET OF 3 GRADUATED TIN PLANTERS ($32) are small decorative oval tin tubs. 404332 STEEL POT PLANT HOLDERS ($55) are ornate white cast pot holders. 366223 BOX OF ASST METAL GARDEN PLANTERS ($20) is a box of wire baskets. None is a steel planter box. Dropped the Urban Metalwork / Metal Art / cortensteel.net.au entry: snippet only, and its URL points to a Corten mailbox product and would not load (HTTP 000). Armitage site: searches returned no Armitage pages.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3088865,
+   "lot": 1695,
+   "what_it_is": "Four green-painted cast iron (per title) verandah balustrade panels, three matching arched star-flower design and one different pattern, about 700mm wide by 850-900mm high judging by the roller door. Unmarked.",
+   "triage": "KEEP",
+   "market_score": 6,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$220 hammer (22000 cents, 3 bids)",
+     "currency": "AUD",
+     "aud_price": 220,
+     "date": "Gowans lot listed 2026-08-16, sold about a week later",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/431599/",
+     "same_item": "close",
+     "note": "Page opened (API record) and photo viewed: single rusty 19th century verandah fretwork panel with scroll design and grille top, raw unpainted. Single panel, different design. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$70 hammer (7000 cents, 5 bids)",
+     "currency": "AUD",
+     "aud_price": 70,
+     "date": "Gowans lot listed 2026-09-13",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/438286/",
+     "same_item": "close",
+     "note": "Page opened (API record) and photo viewed: single ornate grey arched balustrade panel, old paint, similar size class. Researcher said star motif; it is mainly scrollwork. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$30 hammer (3000 cents, 2 bids)",
+     "currency": "AUD",
+     "aud_price": 30,
+     "date": "Gowans lot listed 2026-09-06",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/436794/",
+     "same_item": "close",
+     "note": "Page opened (API record) and photo viewed: single grey Australian verandah panel with arched centre, painted. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$25 hammer (2500 cents, bid_count 0)",
+     "currency": "AUD",
+     "aud_price": 25,
+     "date": "Gowans lot listed 2026-08-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/434879/",
+     "same_item": "close",
+     "note": "Page opened (API record) and photo viewed: single grey heart-scroll panel, appears to lack its frame. Bid_count 0 despite a sale price, so treat as a soft low-end result. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$40 hammer (4000 cents, bid_count 0)",
+     "currency": "AUD",
+     "aud_price": 40,
+     "date": "Gowans lot listed 2026-08-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/434880/",
+     "same_item": "close",
+     "note": "Page opened (API record) and photo viewed: single framed white-painted scroll panel, flaking paint. Bid_count 0, soft result. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$675 hammer (67500 cents, 5 bids)",
+     "currency": "AUD",
+     "aud_price": 675,
+     "date": "Gowans lot listed 2026-08-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/434882/",
+     "same_item": "category guide",
+     "note": "Page opened (API record) and photo viewed: pair of tall narrow framed late 19th century scroll panels, rusty/white. Taller decorative panels, not verandah balustrade, so a guide only. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$3,800 hammer (380000 cents, 4 bids)",
+     "currency": "AUD",
+     "aud_price": 3800,
+     "date": "Gowans lot listed 2026-08-05",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/428889/",
+     "same_item": "category guide",
+     "note": "Page opened (API record) and photo viewed: a stack of matching cast iron balustrade panels made in Adelaide, quantity not stated (looks like 6 or more). Added by verifier. Shows that matching sets of original balustrade panels bring strong money; count unknown so not a per-panel figure. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$50 hammer (5000 cents, 2 bids)",
+     "currency": "AUD",
+     "aud_price": 50,
+     "date": "Gowans lot listed 2026-06-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/415740/",
+     "same_item": "category guide",
+     "note": "Page opened (API record) and photo viewed: tub of assorted white-painted lacework frieze and brackets, not panels. Hammer, premium extra. Rate: AUD, no conversion."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "$240 each, 4 available (700W x 850H), Victorian fan design original cast iron balustrade panels (LW128)",
+     "currency": "AUD",
+     "aud_price": 240,
+     "date": "live, seen 2026-10-16 (page last updated 16 August 2026)",
+     "venue": "Federation Trading (SA dealer)",
+     "url": "https://federationtrading.com.au/cast-iron-exterior/",
+     "same_item": "category guide",
+     "note": "Page opened. Dealer retail ask per panel, repaired original stock; four = $960. Asking, not paid. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "ASKING",
+     "price": "$3,400 for a set of 17 cast iron balustrade panels, 785H x 800W, repaired, ready for blasting (LW143)",
+     "currency": "AUD",
+     "aud_price": 200,
+     "date": "live, seen 2026-10-16 (page last updated 16 August 2026)",
+     "venue": "Federation Trading (SA dealer)",
+     "url": "https://federationtrading.com.au/cast-iron-exterior/",
+     "same_item": "category guide",
+     "note": "Page opened. Added by verifier. Works out about $200 a panel retail for a set. Asking only. aud_price is per panel. Rate: AUD, no conversion."
+    }
+   ],
+   "guide_low_aud": 25,
+   "guide_high_aud": 960,
+   "guide_summary": "Mostly SOLD: five single verandah panels at Gowans in Aug-Sep 2026 made $25 to $220 hammer (two of those with 0 bids, so soft). Category SOLD guides: a pair of tall panels $675 and a stack of matching Adelaide balustrade panels $3,800. ASKING: SA dealer wants $200 to $240 a panel ($960 for four). No UNSOLD found. All AUD.",
+   "flip_max_hammer": 65,
+   "keep_max_hammer": 80,
+   "working": "No sold set of four found, so values are scaled from single-panel Gowans sales (close, not same). Keep: lowest single SOLD $25 x 4 panels = $100; $100 / 1.22 = $81.97, round down to $80. Flip: likely Tasmanian resale about $50 a panel from the $30-$70 bid-supported singles, so 4 x $50 = $200; less about 20% auction seller fees ($40) and $0 postage (bulky, local pickup sale) = $160; $160 / 2.44 = $65.57, round down to $65. A buyer restoring a verandah would pay well above this (dealer $240 each), which is the upside, not the bid basis.",
+   "confidence": "Low",
+   "confidence_reason": "Identification as cast iron rests on the title only (could be aluminium reproduction), no maker mark, and the SOLD evidence is single panels of different designs, scaled up to four.",
+   "condition": "Appear complete with feet and top rails, painted green, no obvious breaks visible at this resolution. Paint over possible rust; one panel is a different design so only three form a matching run.",
+   "key_photo_findings": "One photo against a roller door. Three panels share an arched top with star or flower motifs, the third from left is a different design with an oval lower frame. Lugs at top corners and feet at the base, typical of balustrade panels. No foundry mark visible.",
+   "question_for_armitage": "Are these genuine cast iron (heavy, magnet sticks) or aluminium reproductions? Any cracks, broken lugs or welded repairs? Please confirm sizes.",
+   "dropped_entries": "eBay AU 276508525132 (AU$335, 14 lacework pieces) dropped: snippet only, eBay is closed to us so it cannot be opened, and it is frieze/fretwork, not balustrade panels.",
+   "keep_max_24m": 80,
+   "flip_max_24m": 65,
+   "flip_max_gross": 65,
+   "flip_rule_out": 65,
+   "flip_rule": "Net resale after selling fees $159 (from the working); higher of double your money or $500 profit gives all-in $79, hammer $65."
+  },
+  {
+   "cdid": 3088970,
+   "lot": 1800,
+   "what_it_is": "Strapped pack of new, unused Tasmanian oak tongue and groove (VJ style) lining boards, 90 x 15mm, approx 5.5 m2, stack about 1.1m long per the description (H-110 CM). Handwritten 'APPROX 5.50 m/2 TAS OAK LINING' read in photo 3.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$10 hammer (1000 cents, 1 bid), QTY OF TASMANIAN OAK FLOOR BOARDS",
+     "currency": "AUD",
+     "aud_price": 10,
+     "date": "Gowans lot listed 2026-06-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/415795/",
+     "same_item": "category guide",
+     "note": "Page opened (API record), photo not checked; quantity and condition not stated. Used flooring, not new lining. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$25 hammer (2500 cents, 1 bid), HERITAGE TASMANIAN OAK FLOOR BOARDS",
+     "currency": "AUD",
+     "aud_price": 25,
+     "date": "Gowans lot listed 2026-06-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/415797/",
+     "same_item": "category guide",
+     "note": "Page opened (API record); quantity not stated. Reclaimed flooring, not new lining. Hammer, premium extra. Rate: AUD, no conversion."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "kind": "ASKING",
+     "price": "$14.12 per lineal metre, Tasmanian Oak V/J Lining 86 x 12mm",
+     "currency": "AUD",
+     "aud_price": 14.12,
+     "date": "live, seen 2026-10-16",
+     "venue": "Canterbury Timbers (retail)",
+     "url": "https://www.canterburytimbers.com.au/collections/tasmanian-oak-lining-boards",
+     "same_item": "close",
+     "note": "Page opened (Shopify products JSON for this collection). New retail per lineal metre. Lot boards are 90 x 15mm per Armitage, slightly thicker. Assuming about 82mm cover, 12.2 m per m2, about $172 per m2, so 5.5 m2 is about $945 new at retail. aud_price is per metre. Rate: AUD, no conversion."
+    }
+   ],
+   "guide_low_aud": 10,
+   "guide_high_aud": 945,
+   "guide_summary": "No same-item SOLD. Low end is category guide only: odd lots of used Tas oak floor boards made $10 and $25 hammer at Gowans (quantity unknown). High end is ASKING: new 86 x 12 VJ lining at $14.12 a metre retail, about $945 for 5.5 m2. No UNSOLD. All AUD.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD evidence in the last 24 months, so no maximum bid. For context only: new retail replacement about $945; any bid should sit well below that because Tasmanian auction timber regularly goes for $1 to $25.",
+   "confidence": "Low",
+   "confidence_reason": "Label read, but the only evidence is retail asking and category-guide sales of different timber.",
+   "condition": "Looks new and clean, strapped, ends square, no visible weathering. Short lengths: the pack looks only about 1.1m long, which limits use.",
+   "key_photo_findings": "Photo 3 label reads 'APPROX 5.50 m/2 TAS OAK LINING'. Photo 2 end view shows tongue and groove profiles with V-joint. Stack is short (about 1.1m), so boards are short lengths.",
+   "question_for_armitage": "What are the board lengths (the stack looks about 1.1m)? Is it all one length and profile, and any end splits or water marks?",
+   "dropped_entries": "Canterbury Porta Contours 78x21mm ($79.70 per 2.7m) dropped: profiled 21mm feature lining, not comparable. Gowans 410784 ($2, Tas oak timber, likely offcuts), 397335 ($1, skirting, 0 bids) and 369875 ($160, 2 boards, 0 bids, likely slabs) dropped: records opened and prices match, but not comparable items.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3089000,
+   "lot": 1830,
+   "what_it_is": "Large timber outdoor bench, H 97 x L 185 cm per Armitage, titled pine. Solid shaped camel-back board with a circular lattice cut-out, slatted seat, rolled slatted scroll arms. Colonial or Raffles style rather than a true Lutyens. Oiled finish looks like teak but the title says pine and no mark is visible.",
+   "triage": "KEEP",
+   "market_score": 6,
+   "sold": [
+    {
+     "kind": "SOLD",
+     "price": "$160 hammer (16000 cents, 15 bids), OUTDOOR BENCH SEAT",
+     "currency": "AUD",
+     "aud_price": 160,
+     "date": "Gowans lot listed 2025-09-28",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/364405/",
+     "same_item": "close",
+     "note": "Page opened (API record) and photo viewed: slatted varnished timber 3-seater with carved slat back panels and turned legs, good condition. Smaller and plainer. Hammer, premium extra. Within 24 months. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$260 hammer (26000 cents, 7 bids), TIMBER BENCH SEAT",
+     "currency": "AUD",
+     "aud_price": 260,
+     "date": "Gowans lot listed 2026-02-05",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/389561/",
+     "same_item": "close",
+     "note": "Page opened (API record) and photo viewed: slatted rustic hardwood bench with high slatted back and shaped arms, used. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$290 hammer (29000 cents, 7 bids), OUTDOOR BENCH SEAT",
+     "currency": "AUD",
+     "aud_price": 290,
+     "date": "Gowans lot listed 2025-09-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/365037/",
+     "same_item": "category guide",
+     "note": "Page opened (API record) and photo viewed: long white-painted weathered slatted bench with curved back, rust staining. Different style. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$155 hammer (15500 cents, 11 bids), OUTDOOR GARDEN BENCH SEAT",
+     "currency": "AUD",
+     "aud_price": 155,
+     "date": "Gowans lot listed 2026-06-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/415637/",
+     "same_item": "category guide",
+     "note": "Page opened (API record) and photo viewed: green-painted slatted timber bench with wide flat arms. Different style. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$160 hammer (16000 cents, 11 bids), VINTAGE WOODEN BENCH SEAT",
+     "currency": "AUD",
+     "aud_price": 160,
+     "date": "Gowans lot listed 2026-06-21",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/418936/",
+     "same_item": "category guide",
+     "note": "Page opened (API record); researcher says backless plain pine bench (photo not rechecked by verifier). Weak guide. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$100 hammer (10000 cents, 14 bids), 2 OUTDOOR BENCH SEATS",
+     "currency": "AUD",
+     "aud_price": 100,
+     "date": "Gowans lot listed 2026-09-06",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/436496/",
+     "same_item": "category guide",
+     "note": "Page opened (API record). Pair of small painted benches per researcher. Bid count is 14, not 10 as the researcher said. Low-end guide. Hammer, premium extra. Rate: AUD, no conversion."
+    },
+    {
+     "kind": "SOLD",
+     "price": "$100 hammer (10000 cents, 8 bids), OUTDOOR BENCH SEAT",
+     "currency": "AUD",
+     "aud_price": 100,
+     "date": "Gowans lot listed 2026-09-13",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/438092/",
+     "same_item": "category guide",
+     "note": "Page opened (API record), photo not checked. Low-end guide. Hammer, premium extra. Rate: AUD, no conversion."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 100,
+   "guide_high_aud": 290,
+   "guide_summary": "All SOLD, all Gowans hammer prices: two close slatted timber benches $160 and $260, other garden benches $100 to $290 as category guides. No UNSOLD. Retail asking entries dropped. All AUD.",
+   "flip_max_hammer": 65,
+   "keep_max_hammer": 130,
+   "working": "Keep: lowest close SOLD $160 (Gowans 364405, Sep 2025, within 24 months); $160 / 1.22 = $131.15, round down to $130. Flip: likely resale about $200 (midpoint of the close sales $160-$260); less about 20% selling fees ($40) and $0 postage (bulky, pickup only) = $160; $160 / 2.44 = $65.57, round down to $65.",
+   "confidence": "Low",
+   "confidence_reason": "No identical design sold; comps are close-only benches, timber species uncertain (pine per title versus teak look), single photo.",
+   "condition": "Weathered oiled finish, some silvering on the seat slats, appears structurally complete and sound in the photo. Any rot in pine at the feet cannot be seen.",
+   "key_photo_findings": "Single photo. Solid back board with a round lattice cut-out, rolled slatted arm ends, slatted seat, stout square legs with stretchers. Grain and colour on the arm crop look like an oiled hardwood but resolution is too low to confirm. No maker's label visible.",
+   "question_for_armitage": "Is it pine as titled or teak/hardwood? Is it solid with no rot at the feet or loose joints?",
+   "dropped_entries": "Luxi Living Lutyens bench dropped: page opened, current price is $599.99 (120cm), not $479.99 as claimed, and it is a new teak Lutyens of a different design. Outdoors on Parade teak seat dropped: URL returned 404 and it was snippet only. Manon & Moss and Cotswold mentions dropped: snippet only, no URL.",
+   "keep_max_24m": 130,
+   "flip_max_24m": 65,
+   "flip_max_gross": 65,
+   "flip_rule_out": 65,
+   "flip_rule": "Net resale after selling fees $159 (from the working); higher of double your money or $500 profit gives all-in $79, hammer $65."
+  },
+  {
+   "cdid": 3089010,
+   "lot": 1840,
+   "what_it_is": "Strapped bundle of dressed Tasmanian oak, hand marked 'APPROX 110 LM 55mm x 25mm TAS OAK'. Mixed lengths of about 1.2 to 1.8 m, roughly 80 sticks visible end on. Clean, looks dry and sound. Builder's or joiner's stock, not off cuts in the scrap sense.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "$2 hammer (sale_price 200), 1 bid",
+     "aud_price": 2,
+     "date": "listed 2026-05-17",
+     "venue": "Gowans Auctions, Hobart (lot id 410784, QTY OF TASMANIAN OAK TIMBER)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian+oak&page%5Bnumber%5D=1",
+     "note": "Kind SOLD, AUD, no conversion. same_item: category guide (researcher said close). Page opened (API JSON re-fetched, figures match). Gowans photo shows only about 4 or 5 mixed boards, a far smaller quantity than 110 lm. Premium extra."
+    },
+    {
+     "price": "$10 hammer (1000), 1 bid",
+     "aud_price": 10,
+     "date": "listed 2026-06-08",
+     "venue": "Gowans Auctions, Hobart (lot id 415795, QTY OF TASMANIAN OAK FLOOR BOARDS)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian+oak&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened. Photo shows about 8 old used boards leaning on a wall. Much smaller, used. Premium extra."
+    },
+    {
+     "price": "$25 hammer (2500), 1 bid",
+     "aud_price": 25,
+     "date": "listed 2026-06-08",
+     "venue": "Gowans Auctions, Hobart (lot id 415797, HERITAGE TASMANIAN OAK FLOOR BOARDS)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian+oak&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened. Photo shows a handful of old boards. Premium extra."
+    },
+    {
+     "price": "$30 hammer (3000), 5 bids",
+     "aud_price": 30,
+     "date": "listed 2026-09-20",
+     "venue": "Gowans Auctions, Hobart (lot id 439741, CRATE OF TIMBER OFF-CUTS)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=timber+off+cuts&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened. Species and quantity unknown. Premium extra."
+    },
+    {
+     "price": "$35 hammer (3500), 4 bids",
+     "aud_price": 35,
+     "date": "listed 2026-09-06",
+     "venue": "Gowans Auctions, Hobart (lot id 436550, LARGE QTY OF TIMBER OFF CUTS INCL SPINDLES & LEGS)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=timber+off+cuts&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened. Mixed turning stock, not the same item. Premium extra."
+    },
+    {
+     "price": "$70 hammer (7000), 10 bids",
+     "aud_price": 70,
+     "date": "listed 2025-12-08",
+     "venue": "Gowans Auctions, Hobart (lot id 381839, QTY OF BLACKWOOD MYRTLE TASMANIAN OAK & CEDAR BOARDS)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tas+oak&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened. Mixed cabinet species, quantity unknown. Within 24 months. Premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$12.35 per metre, Tasmanian Oak DAR 65 x 19",
+     "aud_price": 12.35,
+     "date": "live, seen 2026-10-16",
+     "venue": "Canterbury Timbers (Melbourne)",
+     "url": "https://www.canterburytimbers.com.au/products/tasmanian-oak-dressed-all-round-dar-65-x-19-per-metre",
+     "note": "ASKING, AUD. same_item: close (same species, dressed, similar section, new). Page opened via the shop's products.json feed for the Tasmanian oak collection. Other sizes on the same feed: 65 x 32 $21.50/m, 42 x 32 random lengths $16.65/m, 42 x 19 $7.70/m, 90 x 19 $16.25/m (the researcher's $7.35 and $15.45 were stale snippet figures, corrected here). 110 lm of 55 x 25 new would be roughly $1,350 to $1,800 retail. Second-hand mixed lengths sell far below that."
+    }
+   ],
+   "guide_summary": "Range $2 to about $1,360 AUD, which is really two separate markets. SOLD: six Gowans timber lots at $2 to $70 hammer, all category guides only (small handfuls of boards or mixed species, none like this 110 lm bundle). UNSOLD: none. ASKING: new retail Tas oak DAR at Canterbury Timbers, $12.35 per metre for 65 x 19, so about $1,360 for 110 lm new. No currency conversion. No Armitage past result found.",
+   "guide_low_aud": 2,
+   "guide_high_aud": 1360,
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD entry is the same item (a bundle of about 110 lm of 55 x 25 dressed Tas oak). The Gowans lots are small, mostly used boards, so they cannot set a maximum. keep_max_hammer = 0 and flip_max_hammer = 0. For reference only: if a private buyer on Gumtree or Marketplace paid around a third of new retail (about $450), with roughly 0% fees on a private sale, that would be $450 / 2.44 = $184. This rests on asking prices and is not a bid limit.",
+   "confidence": "Low",
+   "confidence_reason": "The label is clear in photo 4 and the photos confirm dressed oak, but there is no same-item SOLD evidence. Value rests on new retail asking prices and small, unrelated Gowans lots.",
+   "dropped_entries": "Gowans 397335 TAS OAK SKIRTING BOARDS $1 with 0 bids: dropped, a nominal figure with no bids and a different product. Bunnings 65 x 19 $14.25/lm: dropped, snippet only and the Bunnings page returns 403, so it cannot be checked. The Canterbury URL the researcher gave (/shop/tasmanian-oak-dar-timber) returns 404; replaced with the checked product URL and current price. Gowans 410784 downgraded from close to category guide after viewing its photo.",
+   "key_photo_findings": "Photo 4: handwritten 'APPROX 110 LM 55mm x 25mm TAS OAK'. Photos 1 to 3: square dressed sections, pale to pinkish colour typical of Tas oak, some gum vein and surface checking on the top board, lengths vary. The photo 2 end view shows roughly 6 across by 13 to 14 high, consistent with about 110 lm at about 1.4 m average.",
+   "condition": "Appears new or surplus dressed stock, clean and dry, no paint or nails seen. Some natural gum veins and minor checking. Lengths mixed and fairly short.",
+   "question_for_armitage": "Is the bundle all 55 x 25 dressed Tas oak, what are the shortest and longest lengths, and is any of it split, bowed or nail-holed? Is the 110 lm a measured figure or a guess?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3089015,
+   "lot": 1845,
+   "what_it_is": "Strapped pallet of Tasmanian oak lining boards, about 85 x 12 mm with tongue and groove, random lengths, hand marked 'APPROX 6.50 m/2 TAS OAK LINING'. Looks clean and unused.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$6.99 per metre, $82.24 per sqm, 85 x 12 Tas oak Utility Grade V-joint T&G lining, random lengths",
+     "aud_price": 82.24,
+     "date": "live, seen 2026-10-16",
+     "venue": "JBM Timber Adelaide",
+     "url": "https://www.jbmtimberadelaide.com.au/product/85x12mm-tasmanian-oak-utility-grade-v-joint-lining-boards/",
+     "note": "ASKING, AUD, no conversion. same_item: close (same profile and section, new, utility grade). Page opened, prices confirmed. 6.5 sqm x $82.24 = about $535 new retail."
+    },
+    {
+     "price": "$14.12 per metre, Tasmanian Oak V/J Lining 86 x 12mm",
+     "aud_price": 14.12,
+     "date": "live, seen 2026-10-16",
+     "venue": "Canterbury Timbers (Melbourne)",
+     "url": "https://www.canterburytimbers.com.au/products/tasmanian-oak-v-j-lining-86-x-12-per-metre",
+     "note": "ASKING, AUD. same_item: close (same section, new, probably a better grade). Page opened via the shop's products.json feed. 6.5 sqm at about 85 mm cover is about 76 lm, so about $1,080 new retail."
+    }
+   ],
+   "guide_summary": "Range about $535 to $1,080 AUD for the whole 6.5 sqm, all ASKING: new retail lining from two mainland yards (JBM utility grade $82.24/sqm, Canterbury $14.12/lm). SOLD: none. UNSOLD: none. No Gowans or Armitage past result for lining boards. No currency conversion.",
+   "guide_low_aud": 535,
+   "guide_high_aud": 1080,
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "There is no SOLD evidence of any kind for lining boards, in Tasmania or elsewhere, so keep_max_hammer = 0 and flip_max_hammer = 0. For reference only: second-hand building timber usually sells privately at a third to a half of new retail, about $180 to $270 for this lot. At /2.44 that would be $70 to $110 hammer, but no SOLD evidence supports it and it is not a bid limit.",
+   "confidence": "Low",
+   "confidence_reason": "The label is legible and the profile shows in the photos, but the only evidence is new retail asking prices.",
+   "dropped_entries": "Ballarat Timber Supplies $8.49/lm: now returns 403 to curl and WebFetch got nothing, so the researcher's price could not be confirmed. Kept only as a lead, not used. Bunnings 21 x 78 groove board $106/m2: dropped, snippet only, a different thicker product, page 403. Gumtree Hobart Tas oak overlay flooring $120: dropped, snippet only, page 403, flooring not lining, undated and about 315 days old.",
+   "key_photo_findings": "Photo 4: handwritten 'APPROX 6.50 m/2 TAS OAK LINING'. The photo 2 end view shows tongue and groove boards with a V-joint, stacked 4 wide by about 18 high. Photos 1 and 3 show random lengths up to about 1.8 to 2 m, clean faces, a little colour variation.",
+   "condition": "Looks unused and clean. Short to medium random lengths. Grade unknown (could be utility grade with gum vein and knots).",
+   "question_for_armitage": "Is it unused lining with the tongues intact, roughly what lengths, and is it select or utility grade? Is the 6.5 sqm measured?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3089072,
+   "lot": 1902,
+   "what_it_is": "Avanti alloy-frame drop-bar road bike, black with red and white graphics, 700c wheels, compact double crankset, rim brakes, entry-level Shimano groupset (probably the Giro series, but model and size are not readable). Used, needs a service.",
+   "triage": "NEAR MISS",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$15 hammer (1500), 1 bid",
+     "aud_price": 15,
+     "date": "listed 2025-10-13",
+     "venue": "Gowans Auctions, Hobart (lot id 368247, AVANTI ROAD BIKE)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=avanti&page%5Bnumber%5D=1",
+     "note": "SOLD, AUD. same_item: category guide (researcher said close). Page opened and Gowans photo viewed: despite the title it is a white flat-bar hybrid, not a drop-bar road bike. Premium extra."
+    },
+    {
+     "price": "$25 hammer (2500), 3 bids",
+     "aud_price": 25,
+     "date": "listed 2026-01-26",
+     "venue": "Gowans Auctions, Hobart (lot id 386429, AVANTI ROAD PRO SERIES BIKE)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=avanti&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened and photo viewed: an older green steel road bike in a retro style, not the same model. Premium extra."
+    },
+    {
+     "price": "$55 hammer (5500), 1 bid",
+     "aud_price": 55,
+     "date": "listed 2025-10-06",
+     "venue": "Gowans Auctions, Hobart (lot id 366678, FUJI ABSOLUTE S ROAD BIKE WITH ALLOY FRAME)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=road%20bike&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened. The Absolute is usually a flat-bar fitness model. Premium extra."
+    },
+    {
+     "price": "$60 hammer (6000), 5 bids",
+     "aud_price": 60,
+     "date": "listed 2026-09-20",
+     "venue": "Gowans Auctions, Hobart (lot id 439717, SAMSON ROAD BIKE)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=road%20bike&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened. Budget brand. Premium extra."
+    },
+    {
+     "price": "$85 hammer (8500), 4 bids",
+     "aud_price": 85,
+     "date": "listed 2025-10-13",
+     "venue": "Gowans Auctions, Hobart (lot id 368248, MERIDA HYBRID ROAD BIKE)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=road%20bike&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened. Hybrid. Premium extra."
+    },
+    {
+     "price": "$150 hammer (15000), 5 bids",
+     "aud_price": 150,
+     "date": "listed 2026-03-03",
+     "venue": "Gowans Auctions, Hobart (lot id 394790, GIANT DEFY ROAD BIKE)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=road%20bike&page%5Bnumber%5D=1",
+     "note": "SOLD, category guide. Page opened. Alloy drop-bar endurance bike: the closest type, but a better-known model. Premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_summary": "Range $15 to $150 AUD hammer, all SOLD at Gowans in the last 13 months, all category guides only (no same-model Avanti drop-bar road bike found). Other Gowans road bikes in the period: Merida 901 $125, Frike carbon $130, Focus $210 (not entered). UNSOLD: none. ASKING: none survived. No currency conversion in the surviving entries.",
+   "guide_low_aud": 15,
+   "guide_high_aud": 150,
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "There is no same-item SOLD entry. Of the three Gowans Avanti results, one is a flat-bar hybrid, one an old steel road bike and one a kids' mountain bike. So keep_max_hammer = 0 and flip_max_hammer = 0. For reference only: category results suggest a used entry-level alloy road bike makes $55 to $150 hammer in Tasmania. A private resale at about $200, less a $40 service (chain, cassette, bar tape), leaves $160, and /2.44 = $65. This is not a bid limit.",
+   "confidence": "Low",
+   "confidence_reason": "The brand is legible on the downtube, but model and size are not readable from a single photo, and there is no same-item SOLD evidence.",
+   "dropped_entries": "Gowans 406064 AVANTI BIKE $55: dropped, the photo shows a kids' 24 inch mountain bike. Cash Converters Kings Meadows Avanti X-plorer $429.99: dropped, page now 404, snippet only, a trekking bike not a road bike. Trade Me Avanti Giro 3 NZ$750: dropped, page 406, snippet only, near new and foreign. 'eBay Australia' Avanti Monza $300: dropped, the URL is ebay.de, eBay is closed to us and the price cannot be checked. Stereonet 2011 forum post $300: dropped, a 15-year-old anecdote, not a sale record or a listing. Gowans 444524 Scott road bike listed 2026-10-11 ignored because it may be in a current sale.",
+   "key_photo_findings": "Single photo. 'Avanti' on the downtube, alloy frame in black and red, black fork, compact double crankset with silver arms, rusty cassette and chain, entry-level rear derailleur, flat platform pedals, bar tape worn and torn on both drops, two white bottle cages, tyres look serviceable. No model name or frame size visible.",
+   "condition": "Used. Rusty drivetrain and torn bar tape, so it probably needs a full service. No obvious frame damage in the one photo.",
+   "question_for_armitage": "What model and frame size is it (decal on the top tube or seat tube)? Does it shift and brake, and do the tyres hold air?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3089107,
+   "lot": 1937,
+   "what_it_is": "Old European-style (German/Scandinavian pattern) joiner's workbench in dark timber: long top with a full-length rear tool trough, dog hole, single front drawer, leg vise with wooden chop, iron screw and tommy bar, a pegged parallel guide, trestle ends with through-wedged stretchers (likely knocks down). Unmarked, heavily worn, probably early 20th century. Roughly 2.5 m long judging by the photos.",
+   "triage": "BOTH",
+   "market_score": 7,
+   "sold": [
+    {
+     "price": "$420 hammer (sale_price 42000 cents), 6 bids",
+     "aud_price": 420,
+     "date": "listed 2025-10-13, sold about a week later",
+     "venue": "Gowans Auctions, Hobart (lot id 367930)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=TIMBER%20WORK%20BENCH%20WITH%20WOOD%20SCREW%20VICE&page%5Bnumber%5D=1",
+     "note": "SOLD, AUD, same_item close. Page opened (API JSON re-fetched 2026-10-16) and photo viewed: old heavily worn solid timber bench with a wooden screw face vise and lower shelf. Similar age, character and wear; shorter, no trestle base or tool trough. Hammer, premium extra. No conversion."
+    },
+    {
+     "price": "$360 hammer (36000 cents), 4 bids",
+     "aud_price": 360,
+     "date": "listed 2026-09-13",
+     "venue": "Gowans Auctions, Hobart (lot id 438487)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=LARGE%20OLD%20OAK%20WORKBENCH%20WITH%2016%20DRAWERS&page%5Bnumber%5D=1",
+     "note": "SOLD, AUD, category guide. Page opened and photo viewed: old oak lab/school style bench with 16 drawers. Different form. Hammer, premium extra."
+    },
+    {
+     "price": "$175 hammer (17500 cents), 7 bids",
+     "aud_price": 175,
+     "date": "listed 2026-07-01",
+     "venue": "Gowans Auctions, Hobart (lot id 420778)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=WORKBENCH%20WITH%20DAWN%20VICE&page%5Bnumber%5D=1",
+     "note": "SOLD, AUD, category guide. Page opened and photo viewed (researcher had snippet only): old worn graffiti-painted timber bench with Dawn metal vice. Plainer and shorter. Hammer, premium extra."
+    },
+    {
+     "price": "$110 hammer (11000 cents), 3 bids",
+     "aud_price": 110,
+     "date": "listed 2026-02-01",
+     "venue": "Gowans Auctions, Hobart (lot id 387960)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=TIMBER%20WORK%20BENCH%20WITH%20VICE&page%5Bnumber%5D=1",
+     "note": "SOLD, AUD, category guide. Page opened and photo viewed: white painted utility bench with metal engineer's vice. Weak comparable. Hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 420,
+   "guide_high_aud": 420,
+   "guide_summary": "Only one close entry survives: a SOLD hammer of $420 at Gowans (Oct 2025) for an old timber bench with a wooden screw vice. Category-guide SOLD benches at Gowans ran $110 to $360. No unsold or verified asking evidence. All AUD.",
+   "flip_max_hammer": 145,
+   "keep_max_hammer": 340,
+   "working": "Keep: lowest same-item/close SOLD $420 / 1.22 = $344.26, rounded down to $340. Flip: likely resale $420 hammer, less about 15% auction seller commission ($63) and $0 postage (bulky, pickup only) = $357; $357 / 2.44 = $146.31, rounded down to $145. Rests on one close sale, so treat as an upper limit.",
+   "confidence": "Medium",
+   "confidence_reason": "Clear identification from two photos (no maker mark expected or seen) and one good close SOLD entry with page and photo checked. The rest are category guides.",
+   "dropped_entries": "Dropped Gowans 401016 (RESTORABLE SINGLE DRAWER WORKSHOP BENCH, $80): photo shows a cupboard-style bench with panelled sides, different form. Dropped Gowans 396255 (WORKSHOP BENCH, $110): photo shows a modern steel-framed bench, not comparable. Dropped 1stdibs Torquay dealer listing: page opened, no price shown (a search summary claimed about A$4,635, unverified), refinished retail piece; kept only as a lead. Researcher called the vise a tail vise; it is a leg (front) vise.",
+   "key_photo_findings": "Leg vise with wooden chop, iron screw and tommy bar plus pegged parallel guide at the left front; full-length tool trough at the back; dog hole; one drawer with turned knob; trestle ends with wedged through-tenon stretchers; heavy wear and grime; no visible cracks to the top in these shots; no maker mark.",
+   "condition": "Heavily worn and dirty, appears structurally sound; vise appears complete. Underside, splits and woodworm not visible.",
+   "question_for_armitage": "What are the length, depth and height? Is the top solid with no big splits or woodworm, does the vise screw turn freely, and does the bench knock down (wedged stretchers) for transport?",
+   "keep_max_24m": 340,
+   "flip_max_24m": 145,
+   "flip_max_gross": 145,
+   "flip_rule_out": 145,
+   "flip_rule": "Net resale after selling fees $354 (from the working); higher of double your money or $500 profit gives all-in $177, hammer $145."
+  },
+  {
+   "cdid": 3089113,
+   "lot": 1943,
+   "what_it_is": "Pair of black Rhino-Rack aero cross bars (logo read on a bar) with feet, plus a black steel mesh roof basket with tie-down fittings, about 1.2 to 1.3 m by 1 m. Basket brand not readable (mark on front rail illegible), style matches a Rhino-Rack Steel Mesh Basket. Fit kit and vehicle fitment unknown.",
+   "triage": "NEAR MISS",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$60 hammer (6000 cents), 4 bids",
+     "aud_price": 60,
+     "date": "listed 2026-01-26",
+     "venue": "Gowans Auctions, Hobart (lot id 386707)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=roof+basket",
+     "note": "SOLD, AUD, close. Page opened and photo viewed: black steel mesh roof basket of the same style, used, brand not stated. Basket only. Hammer, premium extra."
+    },
+    {
+     "price": "$25 hammer (2500 cents), 1 bid",
+     "aud_price": 25,
+     "date": "listed 2026-03-17",
+     "venue": "Gowans Auctions, Hobart (lot id 397998)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rhino+roof+racks",
+     "note": "SOLD, AUD, close. Page opened and photo viewed: Rhino-Rack bar set in retail box. Bars only. Hammer, premium extra."
+    },
+    {
+     "price": "$5 hammer (500 cents), 1 bid",
+     "aud_price": 5,
+     "date": "listed 2026-07-05",
+     "venue": "Gowans Auctions, Hobart (lot id 422183)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rhino+rack",
+     "note": "SOLD, AUD, close. Page opened and photo viewed: two Rhino-Rack bars without feet. Less complete. Hammer, premium extra."
+    },
+    {
+     "price": "$50 hammer (5000 cents), 8 bids",
+     "aud_price": 50,
+     "date": "listed 2026-03-30",
+     "venue": "Gowans Auctions, Hobart (lot id 400821)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rhino+rack",
+     "note": "SOLD, AUD, category guide. Page opened and photo viewed: boxed Rhino-Rack kayak carrier. Brand demand only. Hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$356.00 new, basket only, brackets not included",
+     "aud_price": 356,
+     "date": "live, seen 2026-10-16",
+     "venue": "Autopro",
+     "url": "https://autopro.com.au/AC31471.html",
+     "note": "ASKING, AUD, close. Page opened: new Rhino-Rack Steel Mesh Basket Medium RLBM, 1340 x 1070 x 125 mm. Page shows $356, no 'was' price (researcher's $284.80 not seen). New retail; used at auction makes a fraction."
+    }
+   ],
+   "guide_low_aud": 5,
+   "guide_high_aud": 356,
+   "guide_summary": "Close SOLD hammers at Gowans: basket $60, Rhino-Rack bar set $25, bare Rhino bars $5 (all 2026). One verified ASKING price, $356 for a new medium basket only. No unsold evidence. No direct sale of bars plus basket; components suggest about $85 hammer together. All AUD.",
+   "flip_max_hammer": 25,
+   "keep_max_hammer": 45,
+   "working": "Keep: no sale of the same combination, so using the closest same-item component, the basket at $60: $60 / 1.22 = $49.18, rounded down to $45 (bars add $5 to $25 at Tasmanian auction). Flip: resale $60 + $25 = $85, less about 15% seller commission ($12.75) and $0 postage = $72.25; / 2.44 = $29.61, rounded down to $25.",
+   "confidence": "Medium",
+   "confidence_reason": "Rhino-Rack mark read on bars and comparable SOLD pages and photos checked, but basket brand unread, one photo only, and bars only suit vehicles matching their fit kit.",
+   "dropped_entries": "Dropped Gowans 418727 (PAIR OF PRORACK ROOF RACKS, $10): 0 bids so not a clear sale, different brand. Dropped Roofracks Galore small basket (about $256 from instalments): HTTP 403, snippet only, lead only. Corrected Autopro price from $284.80 to $356 as shown on the opened page. Other title-only Gowans roof rack lots ($1 to $80) not used.",
+   "key_photo_findings": "Two black aero bars with Rhino-Rack logo and black feet; black steel mesh basket with four tie-down fittings; mark on front rail unreadable; no fit kit or keys visible; light surface wear.",
+   "condition": "Used, appears sound with light wear from one photo. Fit kit, keys and locks unknown.",
+   "question_for_armitage": "Which vehicle do the bars fit (fit kit or part number on the feet), are keys included, and does the basket carry a Rhino-Rack label and mounting brackets?",
+   "keep_max_24m": 45,
+   "flip_max_24m": 25,
+   "flip_max_gross": 25,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $61 (from the working); higher of double your money or $500 profit gives all-in $30, hammer $25."
+  },
+  {
+   "cdid": 3088851,
+   "lot": 1681,
+   "what_it_is": "Large rusted flat-plate cut-steel thylacine (Tasmanian tiger) garden silhouette with cut-through stripes, open jaws and spiked feet for the ground. Roughly 1 m long. No maker mark seen. Decorative garden art.",
+   "triage": "NEAR MISS",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$24 hammer (2400 cents), 8 bids",
+     "aud_price": 24,
+     "date": "listed 2026-01-19",
+     "venue": "Gowans Auctions, Hobart (lot id 384906)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=metal%20cut",
+     "note": "SOLD, AUD, category guide. Page opened and photo viewed: rusted cut-steel kiwi and wallaby, same style, much smaller, not a thylacine. Researcher had $25; record shows $24. Hammer, premium extra."
+    },
+    {
+     "price": "$35 hammer (3500 cents), 2 bids",
+     "aud_price": 35,
+     "date": "listed 2026-02-05",
+     "venue": "Gowans Auctions, Hobart (lot id 389029)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silhouette",
+     "note": "SOLD, AUD, category guide. Page opened (API JSON): three small rusty cut-steel animal silhouettes. Hammer, premium extra."
+    },
+    {
+     "price": "$45 hammer (4500 cents), 2 bids",
+     "aud_price": 45,
+     "date": "listed 2026-01-19",
+     "venue": "Gowans Auctions, Hobart (lot id 384373)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian%20tiger",
+     "note": "SOLD, AUD, category guide. Page opened (API JSON): papier mache thylacine by Lindsay Arnold. Different medium. Hammer, premium extra."
+    },
+    {
+     "price": "$260 hammer (26000 cents), 6 bids",
+     "aud_price": 260,
+     "date": "listed 2026-02-15",
+     "venue": "Gowans Auctions, Hobart (lot id 390652)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine",
+     "note": "SOLD, AUD, category guide. Page opened and photo viewed: painted 3D folk-art thylacine figure on a base. Not a flat cut-out; shows thylacine pieces can draw strong local bidding. Hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "No same-item or close entries survive. Category guides only, all SOLD at Gowans in 2026: small rusty cut-steel animals $24 to $35, papier mache thylacine $45, painted thylacine folk-art figure $260. No unsold or asking evidence. All AUD.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No same-item SOLD evidence, so no maximum bid. Judgement only (not a bid basis): a 1 m rusted thylacine cut-out would likely make $50 to $120 at a Tasmanian auction.",
+   "confidence": "Low",
+   "confidence_reason": "Clear identification from one photo, but no comparable sale of a cut-steel thylacine; all evidence is category guide.",
+   "dropped_entries": "Dropped Gowans 422196 (PIECE OF METAL GARDEN ART, $130): photo shows a painted wrought-iron leaf panel. Dropped Gowans 412340 (LARGE GARDEN ART PIECE, $80): timber and mosaic wall art. Dropped Gowans 374375 (METAL GARDEN ART FROGS & WINDMILL, $70): mixed painted frogs and windmill spinner. Search for a priced corten or cut-steel thylacine retail listing found none.",
+   "key_photo_findings": "Flat steel plate about 1 m long, even surface rust, cut-through stripes, open mouth with teeth, eye cut-out, two spiked ground stakes; no maker mark visible on the side shown; no bends or breaks seen.",
+   "condition": "Surface rust throughout (intended patina), appears intact from one photo.",
+   "question_for_armitage": "What is its length and plate thickness, and is there a maker's mark or signature on the back?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3088852,
+   "lot": 1682,
+   "what_it_is": "Single hinged timber screen door, about 2m tall, stained/polished hardwood frame, flyscreen mesh in a rounded-corner panel with four fretwork corner brackets, vertical V-joint boarded lower panel, small brass latch. Federation or later reproduction style, no maker marks. Generic building salvage.",
+   "triage": "DROP",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$250 hammer (sale_price 25000 cents, 4 bids)",
+     "date": "listed 2026-07-26, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 426750 WOODEN DOOR WITH GLASS INSERTS",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wooden+door&page%5Bnumber%5D=1",
+     "aud_price": 250,
+     "note": "Kind SOLD, AUD, no conversion. same_item: category guide. Page opened (API JSON) and photo viewed: a white painted 15-light glazed French-style door, not a screen door. Hammer, premium extra. Upper-end category guide only."
+    },
+    {
+     "price": "$70 hammer (sale_price 7000, 3 bids)",
+     "date": "listed 2026-07-19, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 425577 TIMBER DOOR WITH GLASS PANELS",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=timber+door&page%5Bnumber%5D=1",
+     "aud_price": 70,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: modern veneer internal door with reeded glass slots. Not a screen door. Hammer, premium extra."
+    },
+    {
+     "price": "$80 hammer for 2 doors (sale_price 8000, 4 bids)",
+     "date": "listed 2026-09-06, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 436826 2 EXTERNAL SOLID WOODEN DOORS",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=doors&page%5Bnumber%5D=2",
+     "aud_price": 80,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON). It sits on page 2 of the doors search, not on the wooden door URL the researcher gave, so I corrected the URL. About $40 a door, plain solid doors, no screen."
+    },
+    {
+     "price": "$45 hammer (sale_price 4500, 0 bids recorded)",
+     "date": "listed 2026-07-12, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 423717 SCREEN DOOR & FRAME",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=screen+door&page%5Bnumber%5D=1",
+     "aud_price": 45,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: modern metal security screen door with frame, not timber. A price with a zero bid count is odd."
+    },
+    {
+     "price": "$15 hammer (sale_price 1500, 3 bids)",
+     "date": "listed 2026-05-24, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 412530 MESH SCREEN DOOR - NO KEY",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=screen+door&page%5Bnumber%5D=1",
+     "aud_price": 15,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON). Metal security-type screen door. Other Gowans screen doors (security or aluminium; I viewed the photos of 389569 and 425490) sold for $5 to $65 hammer."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "Passed in, sale_price 0 with 6 bids, no reserve or last bid shown",
+     "date": "listed 2026-09-06",
+     "venue": "Gowans Auctions, Hobart, lot id 436795 PAIR OF ORNATE TIMBER DOORS WITH BRASS HANDLES",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=doors&page%5Bnumber%5D=1",
+     "aud_price": 0,
+     "note": "Kind UNSOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: pair of carved Asian-style hardwood doors, a very different item. Weak ceiling signal only."
+    }
+   ],
+   "asking": [],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "No same-item or close entries survive, so the guide is 0 to 0. Category guide only: Gowans sold timber and glazed doors for $40 to $250 hammer (4 sold) and metal screen doors for $5 to $65 hammer. One pair of carved doors passed in. No asking prices were verified. No currency conversion.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD entry is a timber fretwork screen door, so there is no same-item SOLD price to divide by 1.22 or 2.44. Both maximums are 0. If bought anyway, the category guide suggests plain old doors make $15 to $80 hammer in Tasmania.",
+   "confidence": "Low",
+   "confidence_reason": "The identification is clear, but there are no same-item sold results, only category-guide doors.",
+   "condition": "The frame looks sound and square in the photos, finish fair. Mesh present. In photo 2, two lower boards show dark vertical water staining or weathering. One fretwork bracket may be chipped (lower left in photo 2 looks rough). Hinges not shown.",
+   "key_photo_findings": "Two views of the same door, one from each face. Rounded-corner screen panel with four pierced fretwork brackets, horizontal mid rail, small brass latch. V-joint lower boards. No maker or timber marks. Photo 2 shows dark staining on the lower boards. Size not given; it reads as about 2040 x 820mm, a standard size.",
+   "question_for_armitage": "What are the height and width, and is the mesh intact and the timber sound (no rot at the bottom rail)? Are hinges included?",
+   "dropped_entries": "None dropped outright, but all five SOLD entries were downgraded to category guide after viewing the Gowans photos: they are glazed internal doors and metal security screens, none a timber fretwork screen door. Corrected the URL for the 2 EXTERNAL SOLID WOODEN DOORS entry (lot 436826 is on page 2 of the doors search).",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3088912,
+   "lot": 1742,
+   "what_it_is": "Round cast iron Britannia-pattern pub table: three legs with Britannia figure heads on the frieze, scroll fretwork apron, paw feet, pierced triangular under-shelf, painted black, weathered grey timber top. No foundry mark visible. Whether it is Victorian or a later reproduction cannot be told from the photo.",
+   "triage": "KEEP",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "GBP 151 including buyer's premium, for two tables",
+     "date": "2024-10-02",
+     "venue": "Woolley & Wallis (UK), The Grange, Wendover, lot 461",
+     "url": "https://www.woolleyandwallis.co.uk/print-lot/?id=496026",
+     "aud_price": 289,
+     "note": "Kind SOLD. Rate GBP 1 = AUD 1.9168 (frankfurter.app, 2026-10-15). same_item: close. Page opened (curl). Late Victorian Britannia pattern pub table with wooden top, painted white with polychrome, sold together with a marble-top cast iron garden table, so about AUD 145 each including premium. It is 14 days outside the 24-month window, so it cannot set a maximum bid. Added by verifier."
+    },
+    {
+     "price": "GBP 50 hammer",
+     "date": "2024-08-30 (Friday session of the 28-30 Aug sale)",
+     "venue": "Ashley Waller (UK), lot 3201",
+     "url": "https://www.ashleywaller.co.uk/catalogue/lot/8f4e52133a218668c8aaed33046476c0/0ac7de88af80d8fdb74499bdbe7b03e3/three-day-auction-of-collectables-antiques-jewellery-lot-3201/",
+     "aud_price": 96,
+     "note": "Kind SOLD. Rate GBP 1 = AUD 1.9168. same_item: close. Page opened: copper-topped pub table with a Britannia style cast iron base, hammer GBP 50, status Closed, premium of 22% to 25.6% extra. Outside 24 months."
+    },
+    {
+     "price": "GBP 40 hammer",
+     "date": "2024-03-20",
+     "venue": "Trevanion & Dean (UK), lot 919",
+     "url": "https://auctions.trevanion.com/catalogue/lot/49a9ebd81744e1eace1d421deeb1fc33/2cc667607fbd3d3eb630e9ca86b30ea4/the-march-fine-art-antique-auction-two-day-auction-lot-919/",
+     "aud_price": 77,
+     "note": "Kind SOLD. Rate GBP 1 = AUD 1.9168. same_item: close. Page opened: Victorian cast iron Britannia pub table, oval hardwood top, 73 x 82cm. Hammer GBP 40, premium extra. Outside 24 months."
+    },
+    {
+     "price": "$80 hammer (sale_price 8000, 5 bids)",
+     "date": "listed 2026-05-03, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 407393 CAST IRON TABLE",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cast%20iron%20table&page%5Bnumber%5D=1",
+     "aud_price": 80,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: white painted round cast iron garden table with a pierced cast top, not a Britannia pub table. Tasmanian context only. Added by verifier."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "GBP 80-120 estimate",
+     "date": "2024-05-08 (past estimate, result hidden)",
+     "venue": "Elstob Auctioneers, Ripon (UK) via Invaluable, lot 657",
+     "url": "https://www.invaluable.com/auction-lot/a-cast-iron-britannia-pub-table-657-c-11c44cbb2e",
+     "aud_price": 192,
+     "note": "Kind ASKING (pre-sale estimate). Rate GBP 1 = AUD 1.9168, midpoint GBP 100 (range AUD 153 to 230). same_item: close. Page opened: cast iron Britannia pub table with a circular wooden top, labelled, 77cm high, 61cm diameter. The result needs a login and was not seen."
+    },
+    {
+     "price": "AUD 100-200 estimate",
+     "date": "2024-08-29 (past estimate, result hidden)",
+     "venue": "Lawsons, Sydney via Invaluable, lot 1225",
+     "url": "https://www.invaluable.com/auction-lot/victorian-style-round-cast-iron-pub-table-with-ti-1225-c-7e741e9939",
+     "aud_price": 150,
+     "note": "Kind ASKING (pre-sale estimate). AUD. same_item: close (described as Victorian style, so likely a reproduction; round with a timber top, 77 x 65cm). Page opened, sale date confirmed on the page. The result needs a login and was not seen."
+    }
+   ],
+   "guide_low_aud": 77,
+   "guide_high_aud": 230,
+   "guide_summary": "Close entries range from AUD 77 to 230. Three UK SOLD results run from AUD 77 to about 145 per table, but all are from March to October 2024, so all fall outside the 24-month window. Two auction estimates (ASKING) run from AUD 100 to 230. No unsold results. One Tasmanian category-guide sale: a plain cast iron garden table at $80 hammer. Rate GBP 1 = AUD 1.9168 (frankfurter.app, 15 Oct 2026). Dealer retail for restored genuine Victorian tables runs much higher, but none had a verifiable price on the page.",
+   "flip_max_hammer": 25,
+   "keep_max_hammer": 63,
+   "working": "Only SOLD entries within 24 months of 2026-10-16 (on or after 2024-10-16) can set a maximum. The close SOLD results are dated 2024-03-20, 2024-08-30 and 2024-10-02, all outside the window, and the only in-window Tasmanian sale is a different kind of table. So keep and flip maximums are 0. For reference only: the lowest close UK sale, AUD 77 / 1.22 = 63, would have given a $60 hammer. | 10-YEAR WINDOW (your instruction, replacing the 24-month rule): lowest same or close SOLD since 2016 is A$77 (Trevanion & Dean (UK), lot 919 2024-03-20); keep = 77 / 1.22 = 63, flip = 77 / 2.44 = 31. Was keep 0, flip 0.",
+   "confidence": "Low",
+   "confidence_reason": "The category identification is clear, but all SOLD evidence is from the UK and more than 24 months old. Age and maker are unknown, and there is only one photo.",
+   "condition": "The base appears complete, with all three legs, the frieze and the under-shelf. Black paint shows some wear, with possible rust at the feet. The timber top is heavily weathered and grey and may be split or loose; it needs refinishing or replacing. Age unknown.",
+   "key_photo_findings": "One photo only. An enlarged crop shows Britannia helmeted figure heads at the top of each leg, a scroll fretwork apron, paw feet and a pierced triangular under-shelf. No foundry name is visible; a maker's name such as Gaskell & Chambers would normally be cast inside the apron or on the under-shelf. The top is weathered bare timber, round, roughly 60cm across.",
+   "question_for_armitage": "Is there a foundry name cast anywhere on the base (under-shelf or inside the apron), and is the top solid and firmly fixed? Is the base heavy cast iron rather than cast aluminium?",
+   "dropped_entries": "Dropped the 1stDibs pair (page opened: no price shown, contact seller only, and the tables have cast iron tops, not timber). Dropped Pamono / Church Street Antiques (page opened: no price shown, Sold Out; it was a refurbished Gaskell & Chambers table with a new Sapele top). Dropped the Etsy USD 546.90 listing (HTTP 403, snippet only, never verified). Replaced the researcher's assumed rate of GBP 1 = AUD 2.00 with 1.9168. Confirmed on the page that the Elstob lot belongs to that house and was dated 8 May 2024.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0,
+   "flip_max_gross": 31,
+   "flip_rule_out": 25,
+   "flip_rule": "Resale $76 less 15% selling commission = net $64; higher of double your money or $500 profit gives all-in $32, hammer $25."
+  },
+  {
+   "cdid": 3088918,
+   "lot": 1748,
+   "what_it_is": "Garden fountain or bird bath top: a seated cherub (a boy with his hand to his mouth) on a scalloped shell basin with a small bird on the rim. Grey weathered surface with white bloom. It sits in a cream concrete bowl on a black painted steel stand with a slatted timber bottom shelf. Material unconfirmed: the thin wavy shell rim and white oxide bloom suggest lead, but it could be cast stone or composite.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "$90 hammer (sale_price 9000, 2 bids)",
+     "date": "listed 2025-10-27, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 371254 CHERUB BIRD BATH",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cherub%20bird%20bath&page%5Bnumber%5D=1",
+     "aud_price": 90,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON), photo viewed: concrete standing cherub pedestal with a separate round concrete bowl. An ordinary concrete piece, worth less than a lead one."
+    },
+    {
+     "price": "$65 hammer (sale_price 6500, 8 bids)",
+     "date": "listed 2025-11-10, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 374400 CHERUB BIRD BATH",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cherub%20bird%20bath&page%5Bnumber%5D=1",
+     "aud_price": 65,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened, photo viewed: concrete cherub holding a bowl on its head. Basic concrete value."
+    },
+    {
+     "price": "$35 hammer (sale_price 3500, 3 bids)",
+     "date": "listed 2025-09-28, sale about a week later",
+     "venue": "Gowans Auctions, Hobart, lot id 364489 CONCRETE CHERUB BIRD BATH",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cherub%20bird%20bath&page%5Bnumber%5D=1",
+     "aud_price": 35,
+     "note": "Kind SOLD, AUD. same_item: category guide. Page opened (API JSON). Concrete, as the title says."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "No bids, reserve not met (reserve and estimate not shown)",
+     "date": "2025-09-28",
+     "venue": "Badgers Auctions (UK), lot 299",
+     "url": "https://badgersauctions.com/?p=699892",
+     "aud_price": 0,
+     "note": "Kind UNSOLD. same_item: category guide (a lead bird bath with a bird on the rim, no cherub). Page opened. Shows that plain lead bird baths do not always find buyers. No figure to convert."
+    }
+   ],
+   "asking": [
+    {
+     "price": "GBP 1,950 (dealer price, now marked Sold)",
+     "date": "undated listing, seen 2026-10-16",
+     "venue": "Chris Holmes Antiques via Decorative Collective (UK dealer)",
+     "url": "https://www.decorativecollective.com/product/chris-holmes-antiques/english-lead-cherub-fountain-c1890-b7n2u",
+     "aud_price": 3738,
+     "note": "Kind ASKING (dealer retail; a Sold tag is not a recorded price paid). Rate GBP 1 = AUD 1.9168. same_item: category guide. Page opened: an 80cm English lead winged cupid lifting a scallop shell with a bird, early 20th century, with historic repairs. Larger, older and better than lot 1748. A ceiling for genuine antique lead only."
+    }
+   ],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "No same-item or close entries survive, so the guide is 0 to 0. Category guide only: Gowans concrete cherub bird baths sold for $35 to $90 hammer (3 sold). One UK lead bird bath went unsold with no bids. One UK dealer asked GBP 1,950 (about AUD 3,738) for a much larger genuine lead cupid fountain. Rate GBP 1 = AUD 1.9168 (frankfurter.app, 15 Oct 2026).",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD entry is the same item (a lead or cast cherub on a shell). The Gowans sales are concrete category guides only, so both maximums are 0. If it proves to be concrete or composite, Tasmanian results point to about $35 to $90 hammer. If it is old lead, it could be worth several hundred dollars, but no sold evidence supports a figure.",
+   "confidence": "Low",
+   "confidence_reason": "The photos do not confirm the material, which decides the value, and there is no same-item sold evidence.",
+   "condition": "Dirty, with soil and lichen in the shell bowl and white bloom on the surface. The shell rim is wavy and possibly slightly bent. The figure appears intact. The steel stand is painted black and rusty, and the timber shelf is weathered. There is a cream concrete bowl underneath, possibly a separate piece.",
+   "key_photo_findings": "Two photos. An enlarged crop shows a thin, flared scalloped shell rim (thin edges are more typical of lead than concrete), whitish oxide bloom, a small bird modelled on the right rim, and the boy seated with a finger to his mouth. No foundry mark or signature is visible. No fountain pipe hole or spout is visible. The stand is a modern welded steel frame.",
+   "question_for_armitage": "Are the cherub and shell lead (very heavy and soft, so a fingernail leaves a mark) or concrete or composite? Is there a maker's mark underneath or a fountain pipe? Are the shell, the concrete bowl and the stand all one lot?",
+   "dropped_entries": "Dropped Gowans lot 400496 SHELL AND ANGEL WATER FOUNTAIN at $5 (page opened, photo viewed: a boxed modern resin conch-shell pump fountain, not comparable). Dropped Gowans lot 397767, a mixed garden lot at $75 (not a like item, context only). Downgraded the Badgers unsold lead bird bath from close to category guide (no cherub). Replaced the assumed rate of GBP 1 = AUD 2.00 with 1.9168.",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3088978,
+   "lot": 1808,
+   "what_it_is": "Beefeater BUGG portable gas BBQ, amber hood, on the original black moulded BUGG pedestal stand with two round side tables and wire under-rack. Used, dirty.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "A$553 (RRP $599), alternative model BB18224 shown as the 18224 Amber BUGG is no longer available",
+     "aud_price": 553,
+     "date": "live, seen 2026-10-16",
+     "venue": "Appliances Online (retailer)",
+     "url": "https://www.appliancesonline.com.au/beefeater-bugg-bbq-18224/",
+     "note": "ASKING, AUD, no conversion. same_item: close (new BUGG, same model family and colour). Page opened. New retail, a ceiling for a used unit that has a rusty grill and rack."
+    },
+    {
+     "price": "A$297 (RRP $599), out of stock",
+     "aud_price": 297,
+     "date": "live, seen 2026-10-16",
+     "venue": "Home Clearance (retailer, damaged stock)",
+     "url": "https://www.homeclearance.com.au/p/beefeater-bugg-bugg-mobile-lpg-bbq-bb18226-0007015252",
+     "note": "ASKING, AUD. same_item: close. Page opened (researcher said no price parsed; page shows $297). New graphite BB18226 with scratches, missing both side shelves, grease tray and a part; stand sold separately. Lot 1808 has its stand and shelves but is used and rusty."
+    },
+    {
+     "price": "A$753 (RRP $849), alternative BB49924 shown as listed item unavailable",
+     "aud_price": 753,
+     "date": "live, seen 2026-10-16",
+     "venue": "Appliances Online (retailer)",
+     "url": "https://www.appliancesonline.com.au/product/beefeater-bugg-bbq-with-trolley-amber-49924",
+     "note": "ASKING, AUD. same_item: category guide (newer BUGG with trolley package). Page opened. Researcher's $770 figure differs from the $753 now shown."
+    },
+    {
+     "price": "A$539.10 (was $599)",
+     "aud_price": 539.1,
+     "date": "live, seen 2026-10-16",
+     "venue": "BBQs and Outdoor (retailer), BUGG Portable BBQ Amber",
+     "url": "https://www.bbqsandoutdoor.com.au/product/beefeater-small-bugg-amber",
+     "note": "ASKING, AUD. same_item: close. Snippet only (site returns 403), kept as a lead only, price not verified."
+    }
+   ],
+   "guide_low_aud": 297,
+   "guide_high_aud": 553,
+   "guide_summary": "No SOLD and no UNSOLD evidence for a BUGG anywhere (Gowans API, Armitage search). Range is ASKING only, for new or new-damaged units: A$297 (damaged, missing shelves, no stand) to A$553 (new BB18224). All AUD. Used value is likely well below these.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "No SOLD same-item evidence in the last 24 months, so keep and flip maximums are 0. The only Gowans 'BEEFEATER BBQ' sale ($30 hammer, lot 429977, listed 2026-08-09) is a different flat-top trolley BBQ (photo checked), so it was dropped.",
+   "confidence": "Low",
+   "confidence_reason": "BUGG and Beefeater logos read on the stand, but value rests on new retail asking prices only; no sold result for a used BUGG found.",
+   "dropped_entries": "Gowans lot 429977 'BEEFEATER BBQ' $30 SOLD: I viewed the photo; green-framed trolley BBQ with timber slats and flat black lid, not a BUGG, so dropped. BuyWisely tracker ($288 to $599): site 403, snippet only, new graphite units, dropped as a duplicate of the retail leads.",
+   "key_photo_findings": "Moulded 'BeefEater' logo on the pedestal and a BUGG badge on the grey panel (read on enlargement). Amber hood with thermometer, intact. Grill heavily soiled with rust; wire under-rack rusty; side tables dirty but whole. No gas hose, regulator or bottle visible.",
+   "condition": "Used, dirty, rusty cooking grill and rack; hood and stand look sound. Working order unknown.",
+   "question_for_armitage": "Does it come with the gas hose and regulator, do both burners light with the igniter, and is the cast bowl or hood cracked?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3089040,
+   "lot": 1870,
+   "what_it_is": "Garden figure of a cherub or boy, hand to mouth, on a fluted round base, with a separate square sundial plate with Roman numeral ring and loose gnomon. Material unconfirmed: the figure could be lead (silvery-grey patina, soft-looking folds) or cast stone; the plate looks like cast stone or composition. Top of head pitted and holed with rust spots, which fits an internal iron armature or fountain pipe.",
+   "triage": "LOOK AT VIEWING",
+   "market_score": 5,
+   "sold": [
+    {
+     "price": "9000 cents = A$90 hammer, 2 bids",
+     "aud_price": 90,
+     "date": "listed 2025-10-27 (sale about a week later)",
+     "venue": "Gowans Auctions, Hobart, lot 371254 'CHERUB BIRD BATH'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/371254/",
+     "note": "SOLD, AUD, premium extra. same_item: category guide. API record opened and photo viewed: concrete cherub holding a bowl with a separate scalloped dish. Concrete, so only a guide if lot 1870 proves to be cast stone."
+    },
+    {
+     "price": "6500 cents = A$65 hammer, 4 bids",
+     "aud_price": 65,
+     "date": "listed 2026-06-21",
+     "venue": "Gowans Auctions, Hobart, lot 418928 'GARDEN TROUGH PLANTER & GARDEN FIGURE'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/418928/",
+     "note": "SOLD, AUD, premium extra. same_item: category guide. API opened, photo viewed: white concrete cherub holding a shell plus a wire trough planter. Concrete."
+    },
+    {
+     "price": "3500 cents = A$35 hammer, 3 bids",
+     "aud_price": 35,
+     "date": "listed 2025-09-28",
+     "venue": "Gowans Auctions, Hobart, lot 364489 'CONCRETE CHERUB BIRD BATH'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/364489/",
+     "note": "SOLD, AUD, premium extra. same_item: category guide. API record only, photo not viewed. Concrete."
+    },
+    {
+     "price": "6200 cents = A$62 hammer, 2 bids",
+     "aud_price": 62,
+     "date": "listed 2026-03-09",
+     "venue": "Gowans Auctions, Hobart, lot 395958 'CONCRETE SUNDIAL'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/395958/",
+     "note": "SOLD, AUD, premium extra. same_item: category guide for the sundial plate only. API opened, photo viewed: round cast sundial top on a concrete pedestal."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "GBP 1,995",
+     "aud_price": 3826,
+     "date": "live, seen 2026-10-16",
+     "venue": "Decorative Garden Antiques via Decorative Collective (Kent, UK)",
+     "url": "https://www.decorativecollective.com/product/decorative-garden-antiques/antique-lead-cherub-garden-statue-3400/print",
+     "note": "ASKING, GBP at 1.918 AUD (open.er-api.com, 16 Oct 2026). same_item: category guide. Page opened: reclining lead child with quiver, 53 x 80 x 35 cm, early 1900s, historic repairs. Dealer retail for an intact, proven lead piece; ours is unproven and damaged."
+    },
+    {
+     "price": "GBP 1,950 (marked Sold by dealer)",
+     "aud_price": 3740,
+     "date": "seen 2026-10-16",
+     "venue": "Chris Holmes Antiques via Decorative Collective (North Yorkshire, UK)",
+     "url": "https://www.decorativecollective.com/product/chris-holmes-antiques/english-lead-cherub-fountain-c1890-b7n2u",
+     "note": "ASKING (dealer list price; a dealer 'Sold' tag does not show the price paid). GBP at 1.918. same_item: category guide. Page opened: lead winged cherub fountain with shell, H 80 cm, first quarter 20th century, historic repairs. Researcher's GBP 2,650 was wrong; page shows GBP 1,950."
+    }
+   ],
+   "guide_low_aud": 0,
+   "guide_high_aud": 0,
+   "guide_summary": "No same-item or close entry survives, so the guide is 0. Category guides only: Tasmanian SOLD hammers for concrete cherub pieces and a concrete sundial A$35 to A$90 (Gowans, 2025-26); UK dealer ASKING prices for intact antique lead cherubs A$3,740 to A$3,826 (GBP at 1.918). The value hinges entirely on whether the figure is lead.",
+   "flip_max_hammer": 0,
+   "keep_max_hammer": 0,
+   "working": "All SOLD entries are concrete category guides, not the same item, so no maximum is set. If it proves to be cast stone, Gowans results suggest about $35 to $90 hammer for the pair; if lead, it is a different market and needs proper lead comparables before bidding.",
+   "confidence": "Low",
+   "confidence_reason": "Material and age unconfirmed from photos, no maker's mark, no same-item sold result; UK figures are dealer asks for sound antique pieces.",
+   "dropped_entries": "Gowans 418105 'APHRODITE GARDEN FIGURE' $70: photo viewed, a white Venus figure, not a cherub, dropped. Gowans 442798 'SUNDIAL' $70: photo viewed, a green cast-metal crescent sundial, not like this plate, dropped. Gowans 396745 'QTY OF LEAD FIGURES': toy figures, and researcher's price was wrong ($60 claimed, API shows 7000 cents = $70), dropped. Carters lead putto: HTTP 429, no price seen, kept only as a lead to check later (https://www.carters.com.au/index.cfm/item/1408215-lead-fountain-statue-of-a-putto-early-20th-century-the-young-boy/). Bonhams 2007 GBP 540: page 403, snippet only and 19 years old, dropped.",
+   "key_photo_findings": "No mark seen on figure, base or plate. Figure has a silvery-grey weathered surface with soft drapery; top of head is pitted and holed with several rust spots, suggesting a corroded internal iron armature or fountain pipe. Sundial plate has a Roman numeral ring, crumbly chipped edges like cast stone, rust in one hole, gnomon loose. Paper tag on the figure's hand.",
+   "condition": "Weathered; head badly corroded and holed; sundial plate chipped at edges with loose gnomon. Structural soundness unknown.",
+   "question_for_armitage": "Is the cherub lead or cast stone (lead is very heavy, soft and shows bright grey metal if scratched underneath)? About how tall and heavy is it, is there any maker's mark or stamp under the base, and is the sundial plate the same material?",
+   "keep_max_24m": 0,
+   "flip_max_24m": 0
+  },
+  {
+   "cdid": 3089074,
+   "lot": 1904,
+   "what_it_is": "Trek youth hardtail mountain bike, orange, 24 inch wheels, front suspension fork, triple chainring with rear derailleur (about 21 speed), TREK on down tube. Probably a Trek MT 220 or Precaliber 24 suspension; model not legible.",
+   "triage": "KEEP",
+   "market_score": 4,
+   "sold": [
+    {
+     "price": "7500 cents = A$75 hammer, 2 bids",
+     "aud_price": 75,
+     "date": "listed 2025-10-06 (sale about a week later)",
+     "venue": "Gowans Auctions, Hobart, lot 366188 'TREK PUSH BIKE'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/366188/",
+     "note": "SOLD, AUD, premium extra. same_item: close. API record opened and photo viewed: black and blue Trek youth MTB, about 24 inch, white front suspension fork, kickstand. Same brand and class; condition looks similar."
+    },
+    {
+     "price": "4500 cents = A$45 hammer, 2 bids",
+     "aud_price": 45,
+     "date": "listed 2026-02-05",
+     "venue": "Gowans Auctions, Hobart, lot 389838 'GIANT 24 INCH MOUNTAIN BIKE'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/389838/",
+     "note": "SOLD, AUD, premium extra. same_item: close (same size class, different good brand). API opened, photo viewed: silver Giant 24 inch youth MTB with suspension fork."
+    },
+    {
+     "price": "8000 cents = A$80 hammer, 5 bids",
+     "aud_price": 80,
+     "date": "listed 2026-08-09",
+     "venue": "Gowans Auctions, Hobart, lot 430344 'MOUNTAIN TRACK TREK BIKE'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/430344/",
+     "note": "SOLD, AUD, premium extra. same_item: category guide. API opened, photo viewed: blue adult rigid Trek Mountain Track, 26 inch, older. Not the same bike."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "US$175",
+     "aud_price": 253,
+     "date": "live, seen 2026-10-16",
+     "venue": "Cahaba Cycles (US dealer), pre-owned 2023 Trek Precaliber 24 7 speed",
+     "url": "https://www.cahabacycles.com/collections/pre-owned-bikes/products/pre-owned-2023-trek-precaliber-24",
+     "note": "ASKING, USD at 1.446 AUD (open.er-api.com, 16 Oct 2026). same_item: close (newer model, US dealer). Price read from the shop's product JSON (page HTML hit 429). Dealer retail, ceiling only."
+    },
+    {
+     "price": "A$549.99 new",
+     "aud_price": 549.99,
+     "date": "live, seen 2026-10-16",
+     "venue": "Trek Australia, Precaliber 24 8 Speed Suspension",
+     "url": "https://trekbikes.com/au/en_AU/bikes/kids-bikes/kids-hybrid-bikes/precaliber/precaliber-24-8-speed-suspension/p/28589",
+     "note": "ASKING, AUD. same_item: category guide (new current equivalent). Page opened but the price loads by script and was not visible; figure is the researcher's snippet only, a lead, not verified."
+    }
+   ],
+   "guide_low_aud": 45,
+   "guide_high_aud": 253,
+   "guide_summary": "Two SOLD close entries at Gowans, A$45 and A$75 hammer (Oct 2025, Feb 2026), plus one ASKING close entry, a US dealer pre-owned Precaliber 24 at US$175 (A$253 at 1.446). No UNSOLD evidence. New retail about A$550 is a snippet-only lead.",
+   "flip_max_hammer": 25,
+   "keep_max_hammer": 60,
+   "working": "Keep: lowest same-item SOLD in 24 months is the Trek youth MTB at $75 hammer (Gowans 366188; the Giant is a different brand so not used as the floor). 75 / 1.22 = 61.48, round down to $60. Flip: likely resale $75 (SOLD evidence), less 10% selling fees ($7.50) and $0 outbound postage (local pickup sale) = $67.50; 67.50 / 2.44 = 27.66, round down to $25. Flip margin is very thin.",
+   "confidence": "Medium",
+   "confidence_reason": "Clear Trek ID from the down tube and one good matching SOLD result with photo checked; exact model and mechanical condition not confirmed from one photo.",
+   "dropped_entries": "Gowans 378174 'TREK LADIES BICYCLE' $25: photo viewed, adult step-through hybrid, not comparable, dropped. eBay US MT220 listing (US$95.90 or best offer) and claimed US$85.23 sale: eBay is closed to us, snippet only, no verifiable page, dropped.",
+   "key_photo_findings": "TREK lettering on down tube read on enlargement; no model decal legible. Orange frame, black suspension fork with red decal, triple front chainring, rear derailleur, bell, black saddle. Tyres look reasonable; one side photo only.",
+   "condition": "Used, appears tidy from a single side photo; brakes, gears and fork action unknown.",
+   "question_for_armitage": "Do the brakes and gears work properly, and are the tyres holding air? Is there a model name on the top tube or chainstay?",
+   "keep_max_24m": 60,
+   "flip_max_24m": 25,
+   "flip_max_gross": 25,
+   "flip_rule_out": 25,
+   "flip_rule": "Net resale after selling fees $61 (from the working); higher of double your money or $500 profit gives all-in $30, hammer $25."
+  }
+ ],
+ "missing": []
+}

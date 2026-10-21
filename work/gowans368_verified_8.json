@@ -1,0 +1,566 @@
+{
+ "lots": [
+  {
+   "cdid": 445260,
+   "lot": 280,
+   "what_it_is": "Book: Australian Art Pottery 1900-1950 (Fahy, Freeland, Free, Simpson; Casuarina Press, Sydney, 2004), large quarto cloth in dust jacket, limited to 2000 numbered copies. Only the front of the jacket is photographed.",
+   "triage": "KEEP",
+   "market_score": 4,
+   "key_photo_findings": "One photo of the dust jacket front: title 'Australian Art Pottery 1900-1950' and 'Casuarina Press' clearly legible, so the identification is certain. Jacket looks clean and bright with no obvious tears or chips on the front; the spine edge shows yellow and looks unfaded. Number, boards, text block and back of jacket are not shown.",
+   "condition": "Jacket front looks very good. Internal condition, numbered limitation page and back panel unseen.",
+   "sold": [
+    {
+     "price": "A$65 hammer (sale_price 6500 cents, 6 bids)",
+     "currency": "AUD",
+     "aud_price": 65,
+     "date": "listed 2025-10-06, sold at the Gowans sale about 10 Oct 2025",
+     "venue": "Gowans Auctions, Moonah (past lot id 365871)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=casuarina+press&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON re-read 2026-10-21). Title 'BOOK - AUSTRALIAN ART POTTERY 1900 - 1950 LTD NO. 1249/2000 CASUARINA PRESS'. Same book, numbered copy, condition not stated. Hammer only, premium extra. About 12 months old, within 24 months. The only verified sale."
+    },
+    {
+     "price": "A$60 sold (estimate A$40-60)",
+     "currency": "AUD",
+     "aud_price": 60,
+     "date": "unknown (date not established)",
+     "venue": "Lawsons, Sydney",
+     "url": "https://www.lawsons.com.au/auction-catalog/books-bric-a-brac-miscellany_F6HYA1I8ZZ",
+     "same_item": "yes",
+     "note": "Lead only, not verified by me: the page returned HTTP 202 with an empty body to curl (three tries) and 403 to WebFetch, so I could not confirm the price, date or whether it includes premium. Researcher reported copy No. 1386/2000. Not used for any maximum."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "No sale: sale_price 0, 1 bid (bid amount not shown)",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "listed 2026-10-04, sale about 9 Oct 2026",
+     "venue": "Gowans Auctions (past lot id 442172)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=casuarina+press&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON). Identical title to lot 280, almost certainly the same copy. Failed to sell with one bid, so the reserve or vendor floor sat above that bid."
+    },
+    {
+     "price": "No sale: sale_price 0, 1 bid (bid amount not shown)",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "listed 2026-10-11, sale about 16 Oct 2026",
+     "venue": "Gowans Auctions (past lot id 443676)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=casuarina+press&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Page opened (API JSON). Second straight no-sale of the same copy. Lot 280 is the third run, again showing 1 bid. A reserve above $50-65 is the likely cause."
+    }
+   ],
+   "asking": [
+    {
+     "price": "A$260.00",
+     "currency": "AUD",
+     "aud_price": 260,
+     "date": "live, seen 2026-10-21",
+     "venue": "Berkelouw Rare Books (dealer)",
+     "url": "http://berkelouw.com.au/rare-book/australian-art-pottery-1900-1950/242161/buy-online",
+     "same_item": "yes",
+     "note": "Page opened. Stock 242161, large 4to, original cloth, dust jacket. Dealer retail ask, not a price paid."
+    },
+    {
+     "price": "US$100.00 plus US$4.50 US postage",
+     "currency": "USD",
+     "aud_price": 145,
+     "date": "live, seen 2026-10-21",
+     "venue": "AbeBooks: Erika Wallington, Pawtucket RI, USA",
+     "url": "https://www.abebooks.com/book-search/title/australian-art-pottery-1900-1950/",
+     "same_item": "yes",
+     "note": "Page opened. Fine in near fine jacket, numbered copy 547. Rate 1 USD = 1.446 AUD, implied by Berkelouw's own A$260 = US$179.80 pricing on the same AbeBooks page. Retail ask."
+    },
+    {
+     "price": "US$107.87 plus US$30 postage",
+     "currency": "AUD",
+     "aud_price": 156,
+     "date": "live, seen 2026-10-21",
+     "venue": "AbeBooks: Q's Books Hamilton, NSW",
+     "url": "https://www.abebooks.com/book-search/title/australian-art-pottery-1900-1950/",
+     "same_item": "close",
+     "note": "Page opened. Very good in very good jacket, listed as signed. Rate 1 USD = 1.446 AUD, implied by Berkelouw's own A$260 = US$179.80 pricing on the same AbeBooks page. Retail ask."
+    },
+    {
+     "price": "US$140.24 plus US$32.50 postage",
+     "currency": "AUD",
+     "aud_price": 203,
+     "date": "live, seen 2026-10-21",
+     "venue": "AbeBooks: Barclay Books, York WA",
+     "url": "https://www.abebooks.com/book-search/title/australian-art-pottery-1900-1950/",
+     "same_item": "yes",
+     "note": "Page opened. 'A fine, unmarked copy in a fine d/w', limited edition. Rate 1 USD = 1.446 AUD, implied by Berkelouw's own A$260 = US$179.80 pricing on the same AbeBooks page. Retail ask."
+    },
+    {
+     "price": "US$143.84 plus US$37 postage",
+     "currency": "AUD",
+     "aud_price": 208,
+     "date": "live, seen 2026-10-21",
+     "venue": "AbeBooks: Douglas Stewart Fine Books, Armadale VIC",
+     "url": "https://www.abebooks.com/book-search/title/australian-art-pottery-1900-1950/",
+     "same_item": "yes",
+     "note": "Page opened. Quarto, gilt cloth, jacket, an out-of-series copy of the 2000. Rate 1 USD = 1.446 AUD, implied by Berkelouw's own A$260 = US$179.80 pricing on the same AbeBooks page. Retail ask. (Peter Arnold, East Prahran, lists a fine copy at the same US$143.84.)"
+    },
+    {
+     "price": "US$179.80 plus US$17.45 postage",
+     "currency": "AUD",
+     "aud_price": 260,
+     "date": "live, seen 2026-10-21",
+     "venue": "AbeBooks: Mr Pickwick's Fine Old Books, Katoomba NSW",
+     "url": "https://www.abebooks.com/book-search/title/australian-art-pottery-1900-1950/",
+     "same_item": "yes",
+     "note": "Page opened. As new in as new jacket. Rate 1 USD = 1.446 AUD, implied by Berkelouw's own A$260 = US$179.80 pricing on the same AbeBooks page. Retail ask."
+    },
+    {
+     "price": "US$215.76 plus US$26 postage",
+     "currency": "AUD",
+     "aud_price": 312,
+     "date": "live, seen 2026-10-21",
+     "venue": "AbeBooks: Kay Craddock Antiquarian Bookseller, Melbourne",
+     "url": "https://www.abebooks.com/book-search/title/australian-art-pottery-1900-1950/",
+     "same_item": "yes",
+     "note": "Page opened. First edition, upper board a trifle scuffed, jacket. Rate 1 USD = 1.446 AUD, implied by Berkelouw's own A$260 = US$179.80 pricing on the same AbeBooks page. Top of the unsigned asks. Retail ask."
+    },
+    {
+     "price": "A$250 (snippet)",
+     "currency": "AUD",
+     "aud_price": 250,
+     "date": "undated, snippet seen by researcher",
+     "venue": "Australian Pottery at Bemboka (dealer)",
+     "url": "https://www.australianpotteryatbemboka.com.au/shop/index.php?cPath=122",
+     "same_item": "yes",
+     "note": "Snippet only, lead only. The page returned a 253-byte stub to curl, so the price is unverified."
+    }
+   ],
+   "guide_low_aud": 65,
+   "guide_high_aud": 312,
+   "guide_summary": "A$65 to A$312. The only verified SOLD is A$65 hammer at Gowans (Oct 2025). Two UNSOLD runs of this same copy at Gowans in October 2026 (1 bid each). Everything above A$65 is ASKING: at least eight dealer copies listed at about A$145-312 (USD converted at 1.446). Plenty of copies on the market and slow sales, so dealer asks are well above what auction buyers pay.",
+   "keep_max_hammer": 50,
+   "flip_max_hammer": 15,
+   "working": "Keep: lowest same-item SOLD in 24 months = A$65 (Gowans, Oct 2025). 65 / 1.198 = 54.26, round down to $50 (all-in $59.90). Flip: resale from SOLD evidence = A$65; less about 13% online selling fees ($8.45) and about $20 outbound postage for a heavy quarto (about 2.5 kg) = $36.55; / 2.396 = 15.25, round down to $15. Flipping makes no sense on sold evidence; the A$145-312 dealer asks are not prices paid. The same copy has failed twice this month, so its reserve is probably above $50; do not chase it. Pickup at 37 Main Road, Moonah, inbound freight $0.",
+   "confidence": "Medium",
+   "confidence_reason": "Title read clearly on the jacket and one good same-item SOLD whose data I re-read, but only one verified sale (the Lawsons sale could not be re-opened) and the copy's condition and number are unseen.",
+   "dropped_entries": "Nothing dropped outright. Lawsons A$60 kept only as an unverified lead (page would not load for me; date unknown). Bemboka A$250 kept as a snippet-only lead. Researcher's assumed 1.50 USD rate replaced by the 1.446 rate implied on the AbeBooks page, so AUD figures fell a little. Researcher's 'Fine, practically as new' note for Douglas Stewart was not on the page I read; corrected to what the listing says.",
+   "question_for_gowans": "Is there a limitation number written in, is the book clean inside with no foxing or inscriptions, is the back of the jacket intact, and is there a reserve on it (it has been passed in twice this month)?"
+  },
+  {
+   "cdid": 445344,
+   "lot": 364,
+   "what_it_is": "Mixed lot of small silver, catalogued as sterling: a repousse egg cup with gilt interior, a pair of repousse round salts with shell-bowl salt spoons, a novelty miniature of a man beside a barrel on a scroll-edged tray, a thimble, and a button hook with a repousse handle.",
+   "triage": "BOTH",
+   "market_score": 6,
+   "key_photo_findings": "One photo, all six pieces. Egg cup: heavily embossed flowers and scrolls, gilt-washed interior, plain spreading foot; no marks visible. Salts: thin repousse floral bowls with wavy rims, both slightly out of round with small dents at the rim; the spoons have ribbed shell bowls and ball finials. Miniature: cast figure and barrel on an embossed rectangular tray with scroll corners, typical of Dutch or continental silver toys; the figure looks darker, possibly brass coloured or tarnished, so it may not be silver. Thimble: dimpled crown with a band of marks on the lower rim, unreadable at this size. Button hook: steel shaft with a repousse filled handle (only the handle is silver). No hallmark can be read anywhere.",
+   "condition": "Salts dented and slightly misshapen. Egg cup looks sound. Others look fair to good. No weights given; the button hook handle and possibly the egg cup base are thin or filled.",
+   "sold": [
+    {
+     "price": "A$110 hammer, 11 bids",
+     "currency": "AUD",
+     "aud_price": 110,
+     "date": "listed 2025-10-19, sale about 24 Oct 2025",
+     "venue": "Gowans Auctions (past lot id 368598)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+egg+cup&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened (API JSON). Sterling egg cup and spoon in box, 39.2gm. Plain boxed set with spoon vs our repousse cup without spoon or box. Premium extra."
+    },
+    {
+     "price": "A$130 hammer, 5 bids",
+     "currency": "AUD",
+     "aud_price": 130,
+     "date": "listed 2026-07-19, sale about 24 Jul 2026",
+     "venue": "Gowans Auctions (past lot id 424085)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+salt&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. 2 sterling salt dishes plus a serviette ring, 39.3gm, some damage. Good match for damaged salts, plus a ring. Premium extra."
+    },
+    {
+     "price": "A$33 hammer, 8 bids",
+     "currency": "AUD",
+     "aud_price": 33,
+     "date": "listed 2025-11-17, sale about 21 Nov 2025",
+     "venue": "Gowans Auctions (past lot id 375054)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+salt&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. Pair of sterling salt cellars, Birmingham 1899, Jessop, 19.3gm. Low result for a light marked pair without spoons. Premium extra."
+    },
+    {
+     "price": "A$40 hammer, 4 bids",
+     "currency": "AUD",
+     "aud_price": 40,
+     "date": "listed 2025-12-08, sale about 12 Dec 2025",
+     "venue": "Gowans Auctions (past lot id 380573)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+salt&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. Pair of hallmarked sterling salt cellars with handles. Premium extra."
+    },
+    {
+     "price": "A$90 hammer, 4 bids",
+     "currency": "AUD",
+     "aud_price": 90,
+     "date": "listed 2026-05-17, sale about 22 May 2026",
+     "venue": "Gowans Auctions (past lot id 410240)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+salt&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. 'Qty of sterling silver rimmed bottles, salts etc', a mixed small-silver lot like ours. Premium extra."
+    },
+    {
+     "price": "A$137 hammer, 7 bids",
+     "currency": "AUD",
+     "aud_price": 137,
+     "date": "listed 2026-01-26, sale about 30 Jan 2026",
+     "venue": "Gowans Auctions (past lot id 385424)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sterling+silver+qty&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. 'Qty of sterling silver incl Volmer Bahner salt shaker & dish', 50.8gm total. Mixed small-silver lot. Added by verifier. Premium extra."
+    },
+    {
+     "price": "A$55 hammer, 6 bids",
+     "currency": "AUD",
+     "aud_price": 55,
+     "date": "listed 2026-08-23, sale about 28 Aug 2026",
+     "venue": "Gowans Auctions (past lot id 432297)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+thimble&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. Single sterling thimble, 3.3gm. Lowest recent Gowans thimble. Premium extra."
+    },
+    {
+     "price": "A$100 hammer, 10 bids",
+     "currency": "AUD",
+     "aud_price": 100,
+     "date": "listed 2026-05-31, sale about 5 Jun 2026",
+     "venue": "Gowans Auctions (past lot id 412904)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+thimble&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. Sterling thimble, Chester 1908, Charles Horner, 5.1gm. A collectable maker; ours is unread. Premium extra."
+    },
+    {
+     "price": "A$36 hammer, 5 bids",
+     "currency": "AUD",
+     "aud_price": 36,
+     "date": "listed 2025-12-01, sale about 5 Dec 2025",
+     "venue": "Gowans Auctions (past lot id 378471)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=button+hook&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. Pair of button hooks with sterling handles, Chester 1916, so about A$18 each. Premium extra."
+    },
+    {
+     "price": "A$70 hammer, 8 bids",
+     "currency": "AUD",
+     "aud_price": 70,
+     "date": "listed 2026-07-12, sale about 17 Jul 2026",
+     "venue": "Gowans Auctions (past lot id 422515)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=button+hook&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. 3 button hooks incl sterling. Added by verifier. Premium extra."
+    },
+    {
+     "price": "A$90 hammer, 3 bids",
+     "currency": "AUD",
+     "aud_price": 90,
+     "date": "listed 2025-11-10, sale about 14 Nov 2025",
+     "venue": "Gowans Auctions (past lot id 373391)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=button+hook&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Button hook and shoe horn, sterling handles, Birmingham 1905. Two pieces. Premium extra."
+    },
+    {
+     "price": "A$150 hammer, 15 bids",
+     "currency": "AUD",
+     "aud_price": 150,
+     "date": "listed 2026-02-01, sale about 6 Feb 2026",
+     "venue": "Gowans Auctions (past lot id 387019)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+salt&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Single sterling salt and spoon, Sheffield c1895, 59.4gm, heavy and marked. Shows weight and marks drive price. Premium extra."
+    },
+    {
+     "price": "A$130 hammer, 7 bids",
+     "currency": "AUD",
+     "aud_price": 130,
+     "date": "listed 2026-07-05, sale about 10 Jul 2026",
+     "venue": "Gowans Auctions (past lot id 420876)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+miniature&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Sterling miniature handcuffs, 12.8gm. Only local novelty-miniature sale; a different object. Premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "guide_low_aud": 33,
+   "guide_high_aud": 137,
+   "guide_summary": "A$33 to A$137, all SOLD hammer results at Gowans for close single components or small mixed sterling lots (no UNSOLD or ASKING evidence survives). Nothing is the same mixed lot. Sum of parts at typical Gowans hammers, if all pieces are sterling: salts with spoons about $40-130, egg cup about $110, thimble about $55-100, button hook about $18-25, miniature unknown. That gives roughly A$220-360 for the lot.",
+   "keep_max_hammer": 85,
+   "flip_max_hammer": 90,
+   "working": "No same-lot sale exists, so keep is built conservatively from the lowest close Gowans SOLD per component (last 24 months): salts pair $33 (id 375054) + thimble $55 (id 432297) + button hook $18 (half of $36 pair, id 378471) = $106, counting the egg cup and miniature at nil. 106 / 1.198 = 88.48, round down to $85 (all-in $101.83). Flip: likely resale from typical Gowans sold prices per part: salts with spoons $80 + egg cup $110 + thimble $90 + button hook $25 = $305 (miniature nil). Less about 13% online fees ($40) and four parcels at about $12 ($48) = $217; / 2.396 = 90.57, round down to $90. Both rest on all pieces being genuine sterling as catalogued; if marks are missing or continental, halve these. Pickup at 37 Main Road, Moonah, inbound freight $0.",
+   "confidence": "Low",
+   "confidence_reason": "No hallmark can be read in the photo, weights are unknown, the miniature may be plate or brass, and the maximum is a sum-of-parts from close (not identical) Gowans sales, even though those sales were all verified.",
+   "dropped_entries": "Dropped all non-Gowans entries. Wakefield's GBP 26 button hook: page loads without lot text, snippet only, plain folding hook, not the same. Tremont US$375 six-piece lot: page opened, sold 6 Dec 2020 (over 24 months old) and different objects (bell, putto with wheelbarrow etc). 1stDibs barrel casters: different object, dealer ask. Beryl Lane A$165: agate-handled hook, dealer ticket marked sold, not the same. Silfren GBP 110: page opened, a UK dealer sold list for marked Birmingham 1911 salts with glass liners, undated retail, not comparable. Researcher's /lots/<id> URLs return empty bodies; replaced with the search URLs that return each lot.",
+   "question_for_gowans": "Please confirm which pieces carry sterling hallmarks (egg cup, each salt and spoon, thimble, button hook handle, miniature) and the town and date if legible, the total weight, whether the miniature figure is silver (Dutch or other marks) or brass/plate, and how bad the dents or splits on the salts are."
+  },
+  {
+   "cdid": 445408,
+   "lot": 428,
+   "what_it_is": "Wykeham Perry (Australian, 1936-2021) oil on board, bush scene: gums by a creek with cattle drinking and blue hills behind, signed lower right, in a gilt frame with linen slip. Wide panoramic format, about 2.5 to 1; size not given.",
+   "triage": "KEEP",
+   "market_score": 6,
+   "key_photo_findings": "Enlarged signature at lower right reads 'Wykeham Perry' in his usual cursive, matching the catalogue. Typical Perry palette and handling: white-trunked gums, blue ranges, cattle in a creek. Panoramic board in a wide moulded gilt frame with linen mat. No visible damage, flaking or staining in the photo. Size not stated; the format resembles his 29 x 59cm panoramas.",
+   "condition": "Looks clean in one photo; frame good. Back, board and size unseen.",
+   "sold": [
+    {
+     "price": "A$200 hammer, 3 bids",
+     "currency": "AUD",
+     "aud_price": 200,
+     "date": "listed 2025-12-14, sale about 19 Dec 2025",
+     "venue": "Gowans Auctions (past lot id 382574)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened (API JSON). Oil on board, river scene, 29 x 39cm. Nearest Gowans subject; smaller. Premium extra."
+    },
+    {
+     "price": "A$100 hammer, 5 bids",
+     "currency": "AUD",
+     "aud_price": 100,
+     "date": "listed 2026-07-05, sale about 10 Jul 2026",
+     "venue": "Gowans Auctions (past lot id 421232)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. Oil on board, bush cottage, signed lower right, 39.5 x 50cm. Sold on the second run (first run id 419645 unsold). Premium extra."
+    },
+    {
+     "price": "A$160 hammer, 5 bids",
+     "currency": "AUD",
+     "aud_price": 160,
+     "date": "listed 2025-12-08, sale about 12 Dec 2025",
+     "venue": "Gowans Auctions (past lot id 380654)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Beach scene, 39.5 x 49.5cm. Premium extra."
+    },
+    {
+     "price": "A$240 hammer, 5 bids",
+     "currency": "AUD",
+     "aud_price": 240,
+     "date": "listed 2025-12-08, sale about 12 Dec 2025",
+     "venue": "Gowans Auctions (past lot id 380677)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Streetscape, 29 x 39.5cm. Premium extra."
+    },
+    {
+     "price": "A$70 hammer, 4 bids",
+     "currency": "AUD",
+     "aud_price": 70,
+     "date": "listed 2026-05-03, sale about 8 May 2026",
+     "venue": "Gowans Auctions (past lot id 406602)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Oil on board, subject and size not given. Premium extra."
+    },
+    {
+     "price": "A$110 hammer, 6 bids",
+     "currency": "AUD",
+     "aud_price": 110,
+     "date": "listed 2026-05-24, sale about 29 May 2026",
+     "venue": "Gowans Auctions (past lot id 411957)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Oil on canvas, untitled. Premium extra."
+    },
+    {
+     "price": "A$180 hammer, 6 bids",
+     "currency": "AUD",
+     "aud_price": 180,
+     "date": "listed 2026-06-21, sale about 26 Jun 2026",
+     "venue": "Gowans Auctions (past lot id 418181)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Oil on canvas, picnic scene. Premium extra."
+    },
+    {
+     "price": "A$200 hammer, 8 bids",
+     "currency": "AUD",
+     "aud_price": 200,
+     "date": "listed 2026-08-03, sale about 7 Aug 2026",
+     "venue": "Gowans Auctions (past lot id 427686)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Framed oil on board, horse riding; sold on third run. Premium extra."
+    },
+    {
+     "price": "A$400",
+     "currency": "AUD",
+     "aud_price": 400,
+     "date": "2026-05-31",
+     "venue": "Leski Auctions (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "Page opened (embedded JSON). 'Mt Buller', oil on board, signed lower right, 45 x 79.5cm. Larger mountain landscape, top of range. Premium inclusion not stated."
+    },
+    {
+     "price": "A$160",
+     "currency": "AUD",
+     "aud_price": 160,
+     "date": "2026-05-31",
+     "venue": "Leski Auctions (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "category guide",
+     "note": "Page opened. 'Fly Fisherman', oil on board, 41 x 60cm. Premium inclusion not stated."
+    },
+    {
+     "price": "A$200",
+     "currency": "AUD",
+     "aud_price": 200,
+     "date": "2025-07-10",
+     "venue": "Leonard Joel (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "Page opened. '(Landscape)' 1979, oil on canvas laid on board, signed lower right, 34 x 44cm. Premium inclusion not stated."
+    },
+    {
+     "price": "A$200",
+     "currency": "AUD",
+     "aud_price": 200,
+     "date": "2025-08-14",
+     "venue": "Leonard Joel (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "Page opened. '(Penhurst near Hamilton)' 1994, rural landscape, 34 x 44cm. Premium inclusion not stated."
+    },
+    {
+     "price": "A$90 (estimate A$200-300)",
+     "currency": "AUD",
+     "aud_price": 90,
+     "date": "2026-08-09",
+     "venue": "Amanda Addams Auctions (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "Page opened. 'River Scene', oil on board, signed lower right, 29 x 39cm. Added by verifier; sold well under estimate. Premium inclusion not stated."
+    },
+    {
+     "price": "A$90 (estimate A$80-120)",
+     "currency": "AUD",
+     "aud_price": 90,
+     "date": "2026-08-25",
+     "venue": "E J Ainger (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "Page opened. Oil on board, landscape scene, signed and dated 74, 35 x 45cm. Added by verifier. Premium inclusion not stated."
+    },
+    {
+     "price": "A$100 (three lots at A$100, A$120, A$100)",
+     "currency": "AUD",
+     "aud_price": 100,
+     "date": "2026-09-30",
+     "venue": "E J Ainger (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "category guide",
+     "note": "Page opened. Three oils on board, 'Figures by the river', 45 x 65cm and about 50 x 60cm overall. Researcher said no subject or size; corrected. Premium inclusion not stated."
+    },
+    {
+     "price": "A$220 (estimate A$300-500)",
+     "currency": "AUD",
+     "aud_price": 220,
+     "date": "2026-08-20",
+     "venue": "Leonard Joel (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "category guide",
+     "note": "Page opened. Cottage among cherry blossom, 59 x 75cm; passed in at A$280 on 30 Jul then sold here. Premium inclusion not stated."
+    },
+    {
+     "price": "A$250",
+     "currency": "AUD",
+     "aud_price": 250,
+     "date": "2025-09-24",
+     "venue": "Christian McCann (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "category guide",
+     "note": "Page opened. 'Farmhouse', oil on canvas, 50 x 59cm. Premium inclusion not stated."
+    },
+    {
+     "price": "A$130-170 (four lots) and A$60",
+     "currency": "AUD",
+     "aud_price": 150,
+     "date": "2025-10-22",
+     "venue": "Lawsons (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "category guide",
+     "note": "Page opened. Unframed riverside and farming scenes, estimates A$80-120: A$170, 160, 150, 130 and A$60 (camping). Midpoint used. Premium inclusion not stated."
+    },
+    {
+     "price": "A$300 (estimate A$300-500)",
+     "currency": "AUD",
+     "aud_price": 300,
+     "date": "2024-12-12",
+     "venue": "Leonard Joel, Hawthorn",
+     "url": "https://bidlive.leonardjoel.com.au/auction-lot/wykeham-perry-rocky-shores_b61464892f",
+     "same_item": "category guide",
+     "note": "Page opened (was snippet only for researcher, now verified). '(Rocky Shores)', oil on canvasboard, 39 x 49cm, frame 82 x 91cm. Coastal, not bush. Just inside 24 months."
+    }
+   ],
+   "unsold": [
+    {
+     "price": "Passed in, last bid A$140 (estimate A$200-400)",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "2026-10-01",
+     "venue": "Leonard Joel (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "Page opened. 'Heading Home' 1994, oil on canvasboard, 29 x 59cm, frame 47.5 x 78cm. Same panoramic format as ours. Ceiling signal: A$140 did not meet the reserve."
+    },
+    {
+     "price": "No sale: sale_price 0, 4 bids",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "listed 2026-06-28, sale about 3 Jul 2026",
+     "venue": "Gowans Auctions (past lot id 419645)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Page opened. Bush cottage 39.5 x 50cm, then sold A$100 next week. Last bid not shown."
+    },
+    {
+     "price": "No sale: sale_price 0, 4-7 bids each",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "Dec 2025 to Aug 2026",
+     "venue": "Gowans Auctions (past lot ids 382559, 404783, 424664, 426021, 426255, 427666, 432585, 434163)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Page opened. Eight other Perry runs did not sell, so about half of the 17 past Perry listings at Gowans failed on the day. Last bids not shown."
+    },
+    {
+     "price": "Passed in, last bid A$275 (estimate A$300-500)",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "2025-07-12",
+     "venue": "Davidson Auctions (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "category guide",
+     "note": "Page opened. 'Winter - Mt Bogong' 1986, 60 x 90cm, much larger."
+    },
+    {
+     "price": "Passed in three times, last bids A$280, A$190, A$180 (estimate A$500-700)",
+     "currency": "AUD",
+     "aud_price": 0,
+     "date": "2025-04-09, 2025-10-29, 2026-05-13",
+     "venue": "Lawsons (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/perry-wykeham-zlg4b5axoq/sold-at-auction-prices/",
+     "same_item": "category guide",
+     "note": "Page opened. Same 'Beach Scene' 29 x 60cm oil on board; panoramic format but beach subject."
+    }
+   ],
+   "asking": [],
+   "guide_low_aud": 90,
+   "guide_high_aud": 400,
+   "guide_summary": "A$90 to A$400, all from SOLD results for close Perry landscapes and river scenes on board (Gowans A$100 and A$200; Invaluable-listed sales A$90 to A$400). UNSOLD signals: a 29 x 59cm panorama passed in at A$140 on 1 Oct 2026 and about half the Perry runs at Gowans failed. No ASKING evidence survives. Most bush and river scenes clear at A$90-200 hammer.",
+   "keep_max_hammer": 75,
+   "flip_max_hammer": 65,
+   "working": "Keep: lowest close same-subject SOLD in 24 months = A$90 (Amanda Addams river scene 9 Aug 2026, and E J Ainger landscape 25 Aug 2026). 90 / 1.198 = 75.13, round down to $75 (all-in $89.85). Using Gowans' own lowest close sale (A$100) would give $80. Flip: likely resale about A$200 (typical close SOLD: Gowans river scene $200, Leonard Joel landscapes $200); less about 20% auction seller's commission and fees ($40), outbound postage $0 if consigned locally = $160; / 2.396 = 66.78, round down to $65. Flip margin is thin and Perry lots often fail to sell. Invaluable prices may or may not include premium. Pickup at 37 Main Road, Moonah, inbound freight $0.",
+   "confidence": "Medium",
+   "confidence_reason": "Signature read in the enlarged photo and many verified SOLD results for close Perry landscapes, but the board size and condition are not stated and no exact match for this painting was found.",
+   "dropped_entries": "Dropped Leski 'The stockmen' A$260: page opened, but it is auction #457 with the artist listed as living '(1936 - )', so it is before 2021 and over 24 months old. Dropped the ASKING entry 'estimates typically A$200-600': a search summary, not a listing. Leonard Joel 'Rocky Shores' A$300 upgraded from snippet to verified. E J Ainger 2026-09-30 note corrected (subjects and sizes are given). Added Amanda Addams A$90 and E J Ainger A$90 close sales, and Gowans unsold id 382559.",
+   "question_for_gowans": "What is the board size (image and frame), is it signed or titled on the back, and is there any flaking, scratches or frame damage?"
+  }
+ ]
+}

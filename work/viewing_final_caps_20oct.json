@@ -1,0 +1,99 @@
+{
+"checked": "20/10/2026 AEDT, after viewing",
+"lots": {
+"18": {
+"bid": 110,
+"cap": 150
+},
+"25": {
+"bid": 40,
+"cap": 230
+},
+"39": {
+"bid": 50,
+"cap": 600,
+"note": "lowered: vol I lacks half-title, title and ad leaf; no comps for defective copies"
+},
+"64": {
+"bid": 50,
+"cap": 300,
+"note": "raised after Chrome card DD 21 Oct: Monroe 4 typical US$640 (Niagara #4 ~US$250, GPB #3 US$289, SYI #6 ~US$50, Bus Stop #3 ~US$50)"
+},
+"89": {
+"bid": 10,
+"cap": 40
+},
+"924": {
+"bid": 20,
+"cap": 550,
+"note": "watered down by owner 21 Oct: bargain cap ~ (A$1,400 bound comp - ~A$400 recase) x 0.65 / 1.22"
+},
+"943": {
+"bid": 315,
+"cap": 480,
+"note": "watered down 21 Oct: ~60% of low combined value A$830-1,260"
+},
+"1391": {
+"bid": 100,
+"cap": 100,
+"note": "Hytest Racer; flip rule gives ~95-150"
+}
+},
+"skipped": [
+3,
+9,
+296,
+561,
+883,
+360,
+868
+],
+"results": {
+"64": {
+"won": true,
+"hammer": 70,
+"all_in": 85.4
+},
+"18": {
+"won": false,
+"note": "went past cap"
+},
+"25": {
+"won": false,
+"note": "not bid (owner busy)"
+},
+"39": {
+"won": false,
+"note": "not bid (owner busy)"
+},
+"924": {
+"won": true,
+"hammer": 115,
+"all_in": 140.3,
+"underbidder": "Prahran VIC dealer (bidder 53489, autobid topped out ~110)"
+},
+"943": {
+"won": true,
+"hammer": 320,
+"all_in": 390.4,
+"underbidder": "Perth TAS 315"
+},
+"1391": {
+"won": false,
+"note": "not bid; went past 100 cap"
+},
+"89": {
+"won": false,
+"note": "not bid"
+}
+},
+"totals": {
+"hammer": 505,
+"all_in": 616.1,
+"lots_won": [
+64,
+924,
+943
+]
+}
+}

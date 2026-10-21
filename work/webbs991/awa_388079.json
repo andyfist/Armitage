@@ -1,0 +1,136 @@
+{
+ "lots": [
+  {
+   "lot_id": 388079,
+   "lot_label": "941a",
+   "bottling": "Hennessy Paradis Imperial cognac, mid 2010s",
+   "volume_ml": 700,
+   "abv": 40,
+   "is_whisky": false,
+   "search_status": "skipped not whisky",
+   "entries": [],
+   "au_resale_estimate_aud": 0,
+   "estimate_basis": "Not whisky, not searched.",
+   "note": "Cognac, outside whisky scope."
+  },
+  {
+   "lot_id": 382706,
+   "lot_label": "942",
+   "bottling": "Hennessy XO cognac, AU import",
+   "volume_ml": 700,
+   "abv": 40,
+   "is_whisky": false,
+   "search_status": "skipped not whisky",
+   "entries": [],
+   "au_resale_estimate_aud": 0,
+   "estimate_basis": "Not whisky, not searched.",
+   "note": "Cognac. Volume and ABV assumed from title/standard."
+  },
+  {
+   "lot_id": 387245,
+   "lot_label": "943",
+   "bottling": "Chabot 1958 vintage Armagnac",
+   "volume_ml": 700,
+   "abv": 40,
+   "is_whisky": false,
+   "search_status": "skipped not whisky",
+   "entries": [],
+   "au_resale_estimate_aud": 0,
+   "estimate_basis": "Not whisky, not searched.",
+   "note": "Armagnac, not whisky."
+  },
+  {
+   "lot_id": 386422,
+   "lot_label": "944",
+   "bottling": "Chatelle Napoleon VSOP brandy",
+   "volume_ml": 1000,
+   "abv": 37.2,
+   "is_whisky": false,
+   "search_status": "skipped not whisky",
+   "entries": [],
+   "au_resale_estimate_aud": 0,
+   "estimate_basis": "Not whisky, not searched.",
+   "note": "Everyday brandy, not whisky."
+  },
+  {
+   "lot_id": 387350,
+   "lot_label": "945",
+   "bottling": "Glenfarclas 1962 Family Casks 44yo, sherry hogshead, bottled 28/11/2006 (title says 2016, label says 2006), 166 bottles",
+   "volume_ml": 700,
+   "abv": 54.8,
+   "is_whisky": true,
+   "search_status": "searched",
+   "entries": [
+    {
+     "kind": "SOLD",
+     "price": "GBP 1,600",
+     "aud": 3037.6,
+     "date": "2016-12-06",
+     "venue": "whisky.auction",
+     "country": "UK",
+     "url": "https://whisky.auction/auctions/lot/12858/glenfarclas-1962-the-family-casks",
+     "includes_premium": "not stated on page",
+     "same_item": "close",
+     "verified": "page opened",
+     "note": "Cask 2645, 70cl 54.8%, bottled Nov 2006. Same bottling series; our cask number is unreadable so may be a different cask of the 166 bottles."
+    }
+   ],
+   "au_resale_estimate_aud": 3200,
+   "estimate_basis": "Only the 2016 UK sale (GBP 1,600, about A$3,037), nudged slightly up for ten years of price growth, kept conservative. No AU comp found.",
+   "note": "No AWA result appeared in the search. Verify with a second AU comp before relying on it."
+  },
+  {
+   "lot_id": 387242,
+   "lot_label": "946",
+   "bottling": "Glenmorangie 1971 The Culloden Bottle, bottled 1995, 2,500 bottle limited edition",
+   "volume_ml": 700,
+   "abv": 43,
+   "is_whisky": true,
+   "search_status": "searched",
+   "entries": [
+    {
+     "kind": "SOLD",
+     "price": "GBP 875",
+     "aud": 1661.19,
+     "date": "2022-07-05",
+     "venue": "whisky.auction",
+     "country": "UK",
+     "url": "https://whisky.auction/auctions/lot/133821/glenmorangie-1971-the-culloden-bottle",
+     "includes_premium": "not stated on page",
+     "same_item": "yes",
+     "verified": "page opened",
+     "note": "Upper shoulder fill. Page oddly also shows Reserve not met / Sold in Aftersale, so status uncertain."
+    },
+    {
+     "kind": "SOLD",
+     "price": "GBP 625 to 875 range",
+     "aud": 1186.56,
+     "date": "date not shown",
+     "venue": "whisky.auction",
+     "country": "UK",
+     "url": "https://whisky.auction/auctions/lot/138260/glenmorangie-1971-the-culloden-bottle",
+     "includes_premium": "not stated",
+     "same_item": "yes",
+     "verified": "snippet only",
+     "note": "Search summary only; low end converted. Not individually checked."
+    },
+    {
+     "kind": "SOLD",
+     "price": "GBP 740 and GBP 820",
+     "aud": 1404.89,
+     "date": "date not shown",
+     "venue": "Scotch Whisky Auctions",
+     "country": "UK",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/106_the-68th-auction/126366_glenmorangie-1971-the-culloden-vintage/",
+     "includes_premium": "not stated",
+     "same_item": "yes",
+     "verified": "snippet only",
+     "note": "Search summary only; 740 converted."
+    }
+   ],
+   "au_resale_estimate_aud": 1400,
+   "estimate_basis": "UK sales roughly GBP 625 to 875 (A$1,190 to 1,660); took a conservative mid-low figure. No AU comp.",
+   "note": "No AWA result found in search."
+  }
+ ]
+}

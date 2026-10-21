@@ -1,0 +1,187 @@
+{
+ "lots": [
+  {
+   "cdid": 444305,
+   "lot": 1109,
+   "what_it_is": "2 rough-sawn live-edge slabs catalogued as Huon pine: one long narrow slab (roughly 2.2 m, 20 to 30 cm wide) with resin/check streaks, and one shorter wider slab (roughly 1.3 m) with round knots and bark edge. Same consignor as the weekly Gowans '2 SLABS OF HUON PINE' run. Species not provable from the photo, but the pale straw colour and fine grain match the past lots of this run.",
+   "triage": "KEEP",
+   "market_score": 3,
+   "sold": [
+    {
+     "price": "Median $57.50 hammer, n=52 past lots titled '2 SLABS OF HUON PINE', 10th to 90th percentile $35 to $90, range $10 to $105 (premium extra)",
+     "currency": "AUD",
+     "aud_price": 57.5,
+     "date": "Listings created 3 Aug to 4 Oct 2026 (sales about a week later)",
+     "venue": "Gowans Auctions past results (API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. Rate 1.00 AUD. Same item: yes (same title, same consignor, same wall, same chalk style; I pulled the API pages myself, 142 lots, and compared 12 past photos against this lot). Hammer only. Some 0-bid lots still show a sale price ($10 to $60), so the bottom tail may be reserve-level or after-sale prices. Wider Jul to Oct window n=75, median $55; Jan to Jun 2026 n=56, median $52.50, top $180 (lot 387804, 7 bids, 1 Feb 2026), $140 (394640, 11 bids), $120 (413821). Page (API JSON) opened."
+    },
+    {
+     "price": "$60 (442708, 5 bids), $40 (442699, 2 bids), $60 (439524, 5 bids)",
+     "currency": "AUD",
+     "aud_price": 40,
+     "date": "Listed 20 Sep and 4 Oct 2026",
+     "venue": "Gowans Auctions past results (API), lots 442708, 442699, 439524",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. Rate 1.00. Same item: close (photo compared by me, same consignor). Similar mixed pairs: one long narrow slab plus one wider, knots and checks. Page (API JSON) opened; hammer, premium extra."
+    },
+    {
+     "price": "$100 (442685, 6 bids), $100 (436315, 6 bids), $105 (436316, 4 bids)",
+     "currency": "AUD",
+     "aud_price": 100,
+     "date": "Listed 6 Sep and 4 Oct 2026",
+     "venue": "Gowans Auctions past results (API), lots 442685, 436315, 436316",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. Rate 1.00. Same item: close (photo compared by me, same consignor). Top of range: longer, cleaner, straighter pairs than lot 1109, so a ceiling rather than a target. Page (API JSON) opened; hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$80 (slab 187, 1100x230x24mm), $125 (312, 1250x240x24mm), $170 (351, 1370x340x30mm), $260 (179, 1650x430x25mm), $350 (167, 2750x350x25mm), $565 (168, 4100x380x25mm), $660 (223, 2500x440x50mm); figured slabs to $990",
+     "currency": "AUD",
+     "aud_price": 260,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), dealer retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/",
+     "note": "kind ASKING. Rate 1.00. Same item: category guide only. Page opened. Single dressed, dried, graded, measured genuine Huon slabs with dealer margin and freight extra. This lot is a rough-sawn, unmeasured pair of unconfirmed species, so these are a far ceiling, not a value."
+    }
+   ],
+   "guide_summary": "All SOLD (Gowans, same consignor, last 10 weeks): close comps $40 to $105, run median $57.50. No UNSOLD found. ASKING (dealer, category guide only) $80 to $660 per dressed slab is not counted in the range.",
+   "guide_low_aud": 40,
+   "guide_high_aud": 100,
+   "flip_max_hammer": 20,
+   "keep_max_hammer": 30,
+   "working": "keep: lowest close SOLD $40 (442699) / 1.198 = $33.39, round down to $30 (all-in $35.94). flip: likely resale about the run median $57.50 hammer if put back through an auction; less assumed 15% vendor commission = $48.88; no postage (slabs are pickup only); $48.88 / 2.396 = $20.40, round down to $20. Flipping is not really worth it at these margins.",
+   "confidence": "Medium",
+   "confidence_reason": "Comparables are same-consignor Gowans sales whose API data and photos I checked (many), but the species, size and thickness are not confirmed from one photo.",
+   "key_photo_findings": "Chalked 1109 16/10/26 on both slabs and a 1109 sticker. Long slab has dark resin streaks and surface checks, irregular live edge. Short slab has two round knots, bark still on one edge, some end splitting at the base. No birdseye or pippy figure visible. Same wall, chalk and style as the past 2-slab lots I compared.",
+   "condition": "Rough-sawn, undressed, bark on, checks and resin streaks; dryness and thickness unknown.",
+   "question_for_gowans": "Please confirm length, width and thickness of each slab, whether they are dry or green, and whether they are confirmed Huon pine (it has a strong oily, peppery smell when cut). Any splits running through?",
+   "dropped_entries": "Dropped: Gumtree Wynyard pair $1,250 and George Town $1,995 (snippet only, Gumtree returns 403, much larger figured slabs, not the same item). Dropped: Buy Tasmanian Timbers $12,000 birdseye slab (not on the page I opened; the page does show a $1,800 curved slab and $1,250 whitebait slab, but these are premium dressed pieces, not comparable, so not kept). Kept the researcher's Gowans aggregates but checked them myself: the figures match my own pull. Corrected: the researcher said 2-slab pairs made $140 to $220 in Feb 2026; the $220 (387811) and $190 (387812) were 3-slab lots, the 2-slab tops were $180 (387804) and $140 (394640).",
+   "score_reason": "Pair of rough slabs, typical hammer $40 to $65; worth roughly $50 to $80 all-in. Score 3."
+  },
+  {
+   "cdid": 444306,
+   "lot": 1110,
+   "what_it_is": "2 rough-sawn live-edge slabs catalogued as Huon pine, both fairly wide (perhaps 35 to 45 cm) and about 1.8 to 2 m long. Left slab is paler with dark grey staining (mould or weathering) on the lower half; right slab has bark along one edge and a few fine splits. Same weekly consignor run.",
+   "triage": "KEEP",
+   "market_score": 3,
+   "sold": [
+    {
+     "price": "Median $57.50 hammer, n=52 past lots titled '2 SLABS OF HUON PINE', 10th to 90th percentile $35 to $90, range $10 to $105 (premium extra)",
+     "currency": "AUD",
+     "aud_price": 57.5,
+     "date": "Listings created 3 Aug to 4 Oct 2026 (sales about a week later)",
+     "venue": "Gowans Auctions past results (API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. Rate 1.00 AUD. Same item: yes (same title, same consignor, same wall, same chalk style; I pulled the API pages myself, 142 lots, and compared 12 past photos against this lot). Hammer only. Some 0-bid lots still show a sale price ($10 to $60), so the bottom tail may be reserve-level or after-sale prices. Wider Jul to Oct window n=75, median $55; Jan to Jun 2026 n=56, median $52.50, top $180 (lot 387804, 7 bids, 1 Feb 2026), $140 (394640, 11 bids), $120 (413821). Page (API JSON) opened."
+    },
+    {
+     "price": "$65 (442684, 4 bids), $75 (442686, 4 bids), $40 (442699, 2 bids)",
+     "currency": "AUD",
+     "aud_price": 40,
+     "date": "Listed 4 Oct 2026",
+     "venue": "Gowans Auctions past results (API), lots 442684, 442686, 442699",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. Rate 1.00. Same item: close (photo compared by me, same consignor). Wide pairs of similar length; 442699 also had a defect (dark hole/rot patch), the best low anchor for the stained slab here. Page (API JSON) opened; hammer, premium extra."
+    },
+    {
+     "price": "$45 (439523, 4 bids), $55 (439536, 3 bids), $55 (439537, 2 bids)",
+     "currency": "AUD",
+     "aud_price": 45,
+     "date": "Listed 20 Sep 2026",
+     "venue": "Gowans Auctions past results (API), lots 439523, 439536, 439537",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. Rate 1.00. Same item: close (photo compared by me, same consignor). Typical mid-run pairs. Page (API JSON) opened; hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$80 (slab 187, 1100x230x24mm), $125 (312, 1250x240x24mm), $170 (351, 1370x340x30mm), $260 (179, 1650x430x25mm), $350 (167, 2750x350x25mm), $565 (168, 4100x380x25mm), $660 (223, 2500x440x50mm); figured slabs to $990",
+     "currency": "AUD",
+     "aud_price": 260,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), dealer retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/",
+     "note": "kind ASKING. Rate 1.00. Same item: category guide only. Page opened. Single dressed, dried, graded, measured genuine Huon slabs with dealer margin and freight extra. This lot is a rough-sawn, unmeasured pair of unconfirmed species, so these are a far ceiling, not a value."
+    }
+   ],
+   "guide_summary": "All SOLD (Gowans, same consignor, Sep to Oct 2026): close comps $40 to $75, run median $57.50, top $105. No UNSOLD. Dealer ASKING $80 to $660 per dressed slab is a category guide only and not counted.",
+   "guide_low_aud": 40,
+   "guide_high_aud": 75,
+   "flip_max_hammer": 20,
+   "keep_max_hammer": 30,
+   "working": "keep: lowest close SOLD $40 (442699) / 1.198 = $33.39, round down to $30 (all-in $35.94). flip: resale about $57.50 hammer, less assumed 15% vendor commission = $48.88, no postage (pickup only), / 2.396 = $20.40, round down to $20.",
+   "confidence": "Medium",
+   "confidence_reason": "Same-consignor Gowans comps checked by me in API and photos; species, dimensions and depth of staining unconfirmed.",
+   "key_photo_findings": "Chalked 1110 16/10/26 on both slabs plus 1110 sticker. Left slab: dark grey staining across the lower half and near the top, small knots, a crack at the top end. Right slab: bark on the left edge, pinkish straw face, a long fine split near the bottom right. No figure visible.",
+   "condition": "Rough-sawn, one slab stained (possibly surface mould, may plane out), bark on, minor splits.",
+   "question_for_gowans": "Please confirm length, width and thickness of each slab, whether they are dry or green, and whether they are confirmed Huon pine (it has a strong oily, peppery smell when cut). Any splits running through? Does the staining on the left slab go deep?",
+   "dropped_entries": "Dropped: Buy Tasmanian Timbers $1,800 curved slab (page opened, price seen, but a premium dressed showpiece, not comparable) and the $12,000 birdseye slab (not on the page I opened, snippet only). Corrected: researcher said lots 436315 to 436341 ran $10 to $90 with median $45; the API shows $25 to $105, median $50 (7 of the 17 had 0 bids). The researcher marked the dealer $170 and $660 examples as snippet only; I saw both on the dealer page, so they are now page opened and merged into the one dealer ASKING entry. Checked the researcher Gowans figures (151 lots, highs $180 387804, $140 394640, $120 413821, $105 436316): they match my own pull.",
+   "score_reason": "Ordinary rough slab pair, typical $40 to $75 hammer. Score 3."
+  },
+  {
+   "cdid": 444307,
+   "lot": 1111,
+   "what_it_is": "2 shorter rough-sawn live-edge slabs catalogued as Huon pine, roughly 1.4 to 1.5 m long and 40 to 45 cm wide. Left slab has a large piece missing from one edge and long end splits; right slab has bark along both edges and end checks. Same weekly consignor run.",
+   "triage": "DROP",
+   "market_score": 3,
+   "sold": [
+    {
+     "price": "Median $57.50 hammer, n=52 past lots titled '2 SLABS OF HUON PINE', 10th to 90th percentile $35 to $90, range $10 to $105 (premium extra)",
+     "currency": "AUD",
+     "aud_price": 57.5,
+     "date": "Listings created 3 Aug to 4 Oct 2026 (sales about a week later)",
+     "venue": "Gowans Auctions past results (API)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. Rate 1.00 AUD. Same item: yes (same title, same consignor, same wall, same chalk style; I pulled the API pages myself, 142 lots, and compared 12 past photos against this lot). Hammer only. Some 0-bid lots still show a sale price ($10 to $60), so the bottom tail may be reserve-level or after-sale prices. Wider Jul to Oct window n=75, median $55; Jan to Jun 2026 n=56, median $52.50, top $180 (lot 387804, 7 bids, 1 Feb 2026), $140 (394640, 11 bids), $120 (413821). Page (API JSON) opened."
+    },
+    {
+     "price": "$25 (439542, 1 bid), $30 (439545, 2 bids), $40 (442699, 2 bids)",
+     "currency": "AUD",
+     "aud_price": 25,
+     "date": "Listed 20 Sep and 4 Oct 2026",
+     "venue": "Gowans Auctions past results (API), lots 439542, 439545, 442699",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. Rate 1.00. Same item: close (photo compared by me, same consignor). Short, broken or defective pairs like this one. 439542 is very similar (short wide pair with a jagged edge). Page (API JSON) opened; hammer, premium extra."
+    },
+    {
+     "price": "$35 (439538, 3 bids), $40 (437970, 6 bids)",
+     "currency": "AUD",
+     "aud_price": 35,
+     "date": "Listed 13 and 20 Sep 2026",
+     "venue": "Gowans Auctions past results (API), lots 439538, 437970",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "note": "kind SOLD. Rate 1.00. Same item: close (photo compared by me, same consignor). Low-mid run results. Page (API JSON) opened; hammer, premium extra."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "price": "$80 (slab 187, 1100x230x24mm), $125 (312, 1250x240x24mm), $170 (351, 1370x340x30mm), $260 (179, 1650x430x25mm), $350 (167, 2750x350x25mm), $565 (168, 4100x380x25mm), $660 (223, 2500x440x50mm); figured slabs to $990",
+     "currency": "AUD",
+     "aud_price": 260,
+     "date": "live, seen 2026-10-14",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), dealer retail",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/",
+     "note": "kind ASKING. Rate 1.00. Same item: category guide only. Page opened. Single dressed, dried, graded, measured genuine Huon slabs with dealer margin and freight extra. This lot is a rough-sawn, unmeasured pair of unconfirmed species, so these are a far ceiling, not a value."
+    }
+   ],
+   "guide_summary": "All SOLD (Gowans, same consignor): short or damaged pairs $25 to $40, run median $57.50 for all pairs. No UNSOLD. Dealer ASKING per dressed slab is category guide only and not counted.",
+   "guide_low_aud": 25,
+   "guide_high_aud": 60,
+   "flip_max_hammer": 10,
+   "keep_max_hammer": 20,
+   "working": "keep: lowest close SOLD $25 (439542) / 1.198 = $20.87, round down to $20 (all-in $23.96). flip: likely resale about $40 hammer for a short damaged pair, less assumed 15% vendor commission = $34, no postage (pickup only), / 2.396 = $14.19, round down to $10. Not a flip.",
+   "confidence": "Medium",
+   "confidence_reason": "Same-consignor Gowans comps checked by me; species and dimensions unconfirmed, end splits limit usable length.",
+   "key_photo_findings": "Chalked 1111 16/10/26 on both slabs plus 1111 sticker. Left slab has a big chunk broken out of the right edge, long splits from the top end and a knot; right slab has bark both edges and splitting along the top end. Pale, plain grain, no figure. Shorter than most lots in the run.",
+   "condition": "Rough-sawn, split ends, one slab with a missing section, bark on. Usable length reduced by end splits.",
+   "question_for_gowans": "Please confirm length, width and thickness of each slab, whether they are dry or green, and whether they are confirmed Huon pine (it has a strong oily, peppery smell when cut). Any splits running through?",
+   "dropped_entries": "Dropped: Gumtree Wynyard pair $1,250 and George Town $1,995 (snippet only, Gumtree returns 403, much larger figured slabs, not the same item). Dropped: Buy Tasmanian Timbers $12,000 birdseye slab (not on the page I opened; the page does show a $1,800 curved slab and $1,250 whitebait slab, but these are premium dressed pieces, not comparable, so not kept). Kept the researcher's Gowans aggregates but checked them myself: the figures match my own pull. ",
+   "score_reason": "Short split pair, typical $25 to $40 hammer. Score 3 at best, close to 2."
+  }
+ ]
+}
