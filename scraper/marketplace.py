@@ -71,9 +71,8 @@ def call_actor(token, payload, max_spend):
     if r.status_code == 401:
         sys.exit("Apify rejected the request (401): token missing or wrong. "
                  "Set APIFY_TOKEN or a network secret for api.apify.com.")
-    if r.status_code == 403:
-        sys.exit(f"Apify refused the run (403): {r.text[:300]}")
-    r.raise_for_status()
+    if not r.ok:
+        sys.exit(f"Apify refused the run ({r.status_code}): {r.text[:500]}")
     run_id = r.json()["data"]["id"]
     print(f"Apify run {run_id} started (cap US${max_spend:.2f}); "
           f"if this script dies, collect it with --run {run_id}", file=sys.stderr)
@@ -115,7 +114,8 @@ def collect_run(token, run_id):
     return items
 
 
-def run(token, queries, max_results, incremental, max_spend, days=None, details=True):
+def run(token, queries, max_results, incremental, max_spend, days=None, details=True,
+        state="armitage-launceston-7250"):
     payload = {
         "query": json.dumps(queries),
         "latitude": LAUNCESTON[0],
@@ -124,11 +124,11 @@ def run(token, queries, max_results, incremental, max_spend, days=None, details=
         "strictRadius": True,
         # Cost is mostly Apify compute and proxy time, not the per-listing fee, so
         # scan less: only recent listings, and no detail pages unless asked for.
-        "sortBy": "newest" if details else "best_match",
+        "sortBy": "newest" if details else "relevance",  # newest needs details
         "includeDetails": details,
         "maxResults": max_results,
         "incrementalMode": incremental,
-        "stateKey": "armitage-launceston-7250",
+        "stateKey": state,
         "excludeEmptyFields": True,
     }
     if days:
@@ -197,6 +197,8 @@ def main():
     ap.add_argument("--days", type=int, help="only listings posted in the last N days")
     ap.add_argument("--no-details", action="store_true",
                     help="skip listing detail pages (no description or gallery; cheaper)")
+    ap.add_argument("--state", default="armitage-launceston-7250",
+                    help="incremental-mode state key; use a different one per scan type")
     args = ap.parse_args()
 
     token = os.environ.get("APIFY_TOKEN")
@@ -207,7 +209,7 @@ def main():
         items = collect_run(token, args.run)
     else:
         items = run(token, QUERIES, args.max, not args.no_incremental, args.max_spend,
-                    days=args.days, details=not args.no_details)
+                    days=args.days, details=not args.no_details, state=args.state)
     listings = [normalise(i) for i in items]
     os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
     with open(args.out, "w") as f:
