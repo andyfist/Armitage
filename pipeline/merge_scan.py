@@ -13,6 +13,8 @@ import sys
 D, tag, ids = sys.argv[1], sys.argv[2], sys.argv[3:]
 obs_file = os.path.join(D, 'obs', f'{tag}.json')
 obs = json.load(open(obs_file)) if os.path.exists(obs_file) else {}
+force_file = os.path.join(D, 'force.json')  # written by bidders.py: lots to research whatever the scan thinks of them
+force = json.load(open(force_file)) if os.path.exists(force_file) else {}
 out, counts = [], {}
 for cdid in ids:
     r = json.load(open(os.path.join(D, 'lots', f'{cdid}.json')))
@@ -24,6 +26,10 @@ for cdid in ids:
             if r.get('verdict') not in ('CANDIDATE', 'SKIP'):
                 r['verdict'] = 'SKIP'
                 r['reason'] = r.get('reason') or 'no reason given'
+            if str(cdid) in force and r['verdict'] == 'SKIP':
+                r['verdict'] = 'CANDIDATE'
+                r['strength'] = max(int(r.get('strength') or 0), 4)
+                r['reason'] = f"{force[str(cdid)]}; the scan said: {r.get('reason')}"
         else:
             r['state'] = 'UNSCANNED'
             r['reason'] = 'photos not all viewed' if o else 'no observation recorded'
