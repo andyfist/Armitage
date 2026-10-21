@@ -84,15 +84,19 @@ def fetch_pdf(f, url, name):
 
 def parse_prices(text):
     # 'Price List. Auction Number 119' is not followed by '$', so only lot/price pairs match
-    return {int(lot): float(p.replace(',', '')) for lot, p in re.findall(r'(?<![\d$,])(\d{1,4})\s+\$([\d,]+)', text)}
+    # sub-lots such as 46.1 are kept as their own lot
+    return {lot: float(p.replace(',', '')) for lot, p in re.findall(r'(?<![\d$,.])(\d{1,4}(?:\.\d+)?)\s+\$([\d,]+)', text)}
 
 
-SECTION = re.compile(r'^\s*(.{3,80}?)\.?\s+Lots?\s+\d+\s*[-–]\s*\d+\s*$', re.M)
+SECTION = re.compile(r'^[ \t]*(?!Lots?\b)([^\n]{3,80}?)\.?[ \t]+Lots?[ \t]+\d+\s*[-–]\s*\d+\s*$', re.M)
 
 
 def parse_catalogue(text):
     """{lot: (section, description)} from '[n]' markers in the catalogue text."""
-    parts = re.split(r'^\s*\[(\d{1,4})\]\s*$', text, flags=re.M)
+    # a lot marker sits alone on its line ('[12]'), or is followed by a SURNAME, ('[12] CURR, Edward');
+    # a sub-lot ('[46.1] PLOMLEY...') may be followed by anything.
+    # Requiring that keeps bracketed years at the start of a line, such as '[1850]', out.
+    parts = re.split(r"^\s*\[(\d{1,4}\.\d+|\d{1,4}(?=\]\s*$|\][ \t]+[A-Z][A-Z'\-]+[,.]))\][ \t]*", text, flags=re.M)
     lots, section = {}, ''
     head = parts[0]
     for i in range(1, len(parts) - 1, 2):
@@ -104,7 +108,7 @@ def parse_catalogue(text):
         body = SECTION.sub('', body)
         body = re.sub(r'Illustrated online( at)? www\.invaluable\.com', '', body)
         body = re.sub(r'\s+', ' ', body).strip()
-        n = int(parts[i])
+        n = parts[i]
         if n not in lots:
             lots[n] = (section, body)
     return lots
@@ -117,14 +121,14 @@ def title_of(desc):
 
 def build(sale, prices, cat):
     recs = []
-    for lot in sorted(set(cat) | set(prices)):
+    for lot in sorted(set(cat) | set(prices), key=float):
         section, desc = cat.get(lot, ('', ''))
         est = re.search(r'Estimate\s+\$([\d,]+)\s*/\s*\$?([\d,]+)', desc)
         hammer = prices.get(lot)
         r = {
             'source': 'aba',
             'sale': sale['sale'],
-            'lot': str(lot),
+            'lot': lot,
             'date': sale['date'],
             'title': title_of(desc) if desc else f'Lot {lot} (not in catalogue text)',
             'description': desc,
