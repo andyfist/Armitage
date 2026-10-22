@@ -16,7 +16,7 @@ the older "$500 or double your money" rule and will be updated with the scan fun
 | `scraper/marketplace.py` | Facebook Marketplace puller via Apify (quick scan, lookup, full scan) |
 | `scraper/fetch_photos.py` | Downloads the photos of shortlisted lots |
 | `pipeline/` | The automated Armitage pipeline, one script per stage (see below). `state/sales.json` records every sale seen and which stages are done |
-| `routines/` | The prompts behind the scheduled runs: hourly Marketplace quick scan, 6:40 am daily digest, two-hourly Armitage new-sale check |
+| `routines/` | The prompts behind the scheduled runs (hourly Marketplace quick scan, 6:40 am daily digest, two-hourly Armitage new-sale check, 2:10 am price-database top-up) and the chats Andy starts himself |
 | `HUNTING.md` | Triage rules and report format for the title-first hunt |
 | `reports/` | One report per sale close date from the daily digest |
 | `work/` | The deep-scan toolkit and every sale researched so far (see below) |
@@ -31,12 +31,23 @@ Run in this order by `routines/armitage-new-sale.md`; each stage writes under `p
 |---|---|
 | `new_sales.py` | Notices a catalogue not seen before and writes the "new sale" email |
 | `rules.py` | Category rules: what is excluded (large furniture, whitegoods, vehicles), what always gets the photo scan |
-| `promote.py` | Promotes lots to the photo scan when their title matches past sales of $250 or more in the results database |
+| `promote.py` | Promotes lots to the photo scan when their title matches past sales of $250 or more in the price databases (`databases/`, Armitage's own results, Gowans) |
+| `comps.py <words>` | Looks an item up in every local price database (Noble coins, ABA books, Armitage results, Gowans, earlier research); the market researchers run it before searching the web |
 | `prep.py <chid>` | Reads every lot page, sorts the lots with the rules, downloads photos and builds contact sheets and the workflow args |
 | `wf_funnel.js` | The Workflow: title pass, photo scan, rescore, cloud price research. Sonnet only, no Opus |
 | `merge_scan.py` | Checks a scan batch (every photo viewed) and writes `scans/<tag>.json` |
 | `assess.py <chid>` | The bid check in code: the $200 rule, provisional maximums, the Chrome list, the "first pass" email |
+| `chrome_brief.py <chid>` | The hand-over for the Chrome research on the home computer (run on Sonnet): rules, output format, one section per lot with its photos |
+| `chrome_import.py <chid> <results.json>` | Merges what the Chrome session found back into the market files and `state/chrome_sold.json`; run `assess.py` again after it |
+| `photo_list.py <chid>` | The viewing list: what to look at or photograph for every lot worth bidding on, and the email that points Andy to it |
+| `bidders.py <chid> [--refresh]` | Who is bidding: flags interstate, specialist and strong bidders (history in `state/bidders.json`, built from `databases/armitage.json` and past sales), sends flagged lots the funnel has not valued back through the scan (`wfargs_bidders.json`, `force.json`), prints the "bidder scan" email |
+| `morning.py <chid>` | The auction-morning email: every lot to watch that closes today, in closing order, with times, maximums, bids and bidders |
+| `review.py <chid>` | After the sale closes: our passes against the hammer prices, the lots that made money or drew interstate bidders after the funnel let them go (and at which stage), lessons appended to `state/lessons.md` |
 | `stage.py <chid> <stage>` | Records a finished stage in `state/sales.json` and prints the "stage finished" email |
+
+The chats Andy starts himself have their prompts in `routines/`: `chrome-research.md`
+("Chrome research for Armitage <chid>, use Sonnet") and `viewing-photos.md` ("viewing
+photos for Armitage <chid>").
 
 ### The deep-scan toolkit in `work/`
 

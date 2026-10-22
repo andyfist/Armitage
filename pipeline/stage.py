@@ -36,6 +36,10 @@ def main():
 
     state = json.load(open(STATE)) if os.path.exists(STATE) else {'catalogues': {}, 'failures': 0}
     c = state['catalogues'].setdefault(args.chid, {'chid': args.chid, 'name': f'catalogue {args.chid}'})
+    cat_file = os.path.join(ROOT, 'pipeline', 'sales', args.chid, 'cat.json')
+    if os.path.exists(cat_file) and c['name'].startswith('catalogue '):
+        cat = json.load(open(cat_file))
+        c.update(name=cat.get('name', c['name']), close_first=cat.get('close_first'), close_last=cat.get('close_last'))
     when = datetime.datetime.now(HOBART).strftime('%d/%m/%Y %H:%M %Z')
     c.setdefault('stages', {})[args.stage] = when
     os.makedirs(os.path.dirname(STATE), exist_ok=True)
@@ -43,7 +47,8 @@ def main():
 
     done = [s for s in STAGES if s in c['stages']]
     nxt = next((s for s in STAGES if s not in c['stages']), None)
-    lines = [f"Armitage {c.get('name')}: {LABEL[args.stage]}", '']
+    gowans = args.chid.startswith('gowans')  # Gowans sales are prepped by pipeline/prep_gowans.py as gowans<auction id>
+    lines = [f"{'' if gowans else 'Armitage '}{c.get('name')}: {LABEL[args.stage]}", '']
     if args.note:
         lines += [args.note, '']
     if args.body and os.path.exists(args.body):
@@ -51,7 +56,7 @@ def main():
     if c.get('close_first'):
         lines.append(f"Lots close from {c['close_first']} to {c.get('close_last', '?')}.")
     lines.append(f"Stages done: {', '.join(done)}." + (f" Next: {nxt}." if nxt else ''))
-    lines.append(f"Catalogue: https://armitage.bidsonline.com.au/catalogue-group.aspx?chid={args.chid}")
+    lines.append('Catalogue: https://www.gowansauctions.com.au/' if gowans else f"Catalogue: https://armitage.bidsonline.com.au/catalogue-group.aspx?chid={args.chid}")
     print('\n'.join(lines))
 
 

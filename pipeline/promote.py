@@ -2,14 +2,16 @@
 """Usage: python3 pipeline/promote.py [--rebuild] [--min-hammer 250] ["<title to test>" ...]
 
 Promotes lots to the photo scan from hard data instead of hand-written rules. Builds an
-index of word pairs from the results database (work/gowans_all.json, work/sold_db.json,
-work/aba_lots.json): a pair of title words is "valuable" when at least three sales with that
-pair made --min-hammer or more AND at least 60% of all sales with that pair did. A lot
-whose title and description hold a valuable pair is promoted, never excluded (Andy,
-21 Oct 2026: the database is for not overlooking things).
+index of word pairs from the price databases (databases/<source>/ through databases/load.py,
+databases/armitage.json, work/gowans_all.json, work/sold_db.json): a pair of title words is
+"valuable" when at least three sales with that pair made --min-hammer or more AND at least
+60% of all sales with that pair did. A lot whose title and description hold a valuable pair
+is promoted, never excluded (Andy, 21 Oct 2026: the database is for not overlooking things).
+Noble's 450,000 coin lots are left out: they would swamp the index, and coins already go
+straight to the photo scan through pipeline/rules.py.
 
-The index is cached in pipeline/state/promote_index.json; --rebuild remakes it (about 20
-seconds) after the database grows. check(title, description) is what prep.py calls.
+The index is cached in pipeline/state/promote_index.json (not in git; built on first use);
+--rebuild remakes it after the databases grow. check(title, description) is what prep.py calls.
 """
 import argparse
 import itertools
@@ -64,8 +66,26 @@ def records():
         for r in json.load(open(s)):
             if r.get('item') and r.get('aud_hammer', 0) > 0 and r.get('match') in ('yes', 'close'):
                 yield r['item'], float(r['aud_hammer'])
+    DB = os.path.join(ROOT, 'databases')
+    sys.path.insert(0, DB)
+    try:
+        from load import records as db_records
+    except ImportError:
+        db_records = None
+    sources = sorted(d for d in os.listdir(DB) if os.path.isdir(os.path.join(DB, d)) and d != 'noble') if os.path.isdir(DB) else []
+    if db_records:
+        for src in sources:
+            for r in db_records(source=src):
+                if r.get('title') and r.get('hammer_aud', 0) > 0 and not r.get('unsold'):
+                    yield r['title'], float(r['hammer_aud'])
+    arm = os.path.join(DB, 'armitage.json')
+    if os.path.exists(arm):
+        for e in json.load(open(arm)).values():
+            for r in e.get('records', []):
+                if r.get('title') and r.get('hammer_aud', 0) > 0:
+                    yield r['title'], float(r['hammer_aud'])
     a = os.path.join(WORK, 'aba_lots.json')
-    if os.path.exists(a):
+    if os.path.exists(a) and 'aba' not in sources:  # the older ABA file, superseded by databases/aba/
         for r in json.load(open(a)):
             if r.get('text') and r.get('hammer'):
                 yield r['text'], float(r['hammer'])
@@ -102,7 +122,9 @@ _index = None
 def load():
     global _index
     if _index is None:
-        _index = json.load(open(INDEX))['pairs'] if os.path.exists(INDEX) else {}
+        if not os.path.exists(INDEX):
+            build()  # a fresh checkout has no index; without one nothing would be promoted
+        _index = json.load(open(INDEX))['pairs']
     return _index
 
 

@@ -1,0 +1,78 @@
+{
+ "cdid": 445943,
+ "lot": 1112,
+ "identification": "Two pale yellow-cream live-edge slabs, one wide with a dark stained void and bark inclusion, one tall narrow with knots, chalked 1112. Sold as Huon pine but the colour is plain pale straw and the species is not confirmed; could equally be celery top pine or similar. Gowans sells this whole title in bulk each week (about 100 lots in recent months).",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions (Moonah/Hobart), id 444306",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Same title '2 SLABS OF HUON PINE', 5 bids; best of the previous sale's 2-slab lots. Found via local results DB and past-results API (API queried, data seen). Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 and $75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, ids 444303, 444305, 444322",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Typical 2 SLABS OF HUON PINE results in the previous sale ($35 to $105, most $50 to $75). Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, id 442685",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "2 SLABS OF HUON PINE, 6 bids. Top of that sale's 2-slab lots; others $40 to $75. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120 hammer (top of 109 sales)",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-04 to 2026-10",
+   "venue": "Gowans Auctions, all lots titled exactly '2 SLABS OF HUON PINE', listed since April 2026",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Counted via API: 109 sold, low $10, median $55, high $120. About 90 percent at or under $100. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180 hammer (earlier, 2 slabs)",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026 (earlier, from local DB)",
+   "venue": "Gowans Auctions, 2 SLABS OF HUON PINE with a tall wide slab and a shorter slab",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pine+slabs",
+   "same_item": "close",
+   "note": "Outlier from the local results DB; earliest 2025-26 lots reached $140 to $180 (e.g. $180 in Feb 2026 on one lot, 7 bids). Not the typical result. Premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$285",
+   "currency": "AUD",
+   "aud_price": 285,
+   "date": "live, seen 2026-10-21 (search snippet)",
+   "venue": "huonpine.com.au (Huon Pine Tasmania shop), slab 103 3050x225x25mm B.I. 2/5",
+   "url": "https://huonpine.com.au/product/huon-slab-length-3050mm-average-width-225mm-thickness-25mm-b-i-rating-2-5/",
+   "same_item": "category guide",
+   "note": "Snippet only, page fetch returned no price, not verified. Dressed, graded genuine Huon pine slab, one board. The lot is raw, knotty and unconfirmed species, so well below this."
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline and work) x4 on huon pine slab, 2 slabs, huon slabs; Gowans past-results API, 6 pages on '2 slabs of huon pine', filtered to exact title and sold since April 2026; WebSearch for Huon pine slab prices (found huonpine.com.au and Island Specialty Timbers retail figures, snippet only). Did not search eBay (closed); eBay sold listings for Huon pine slabs would add little as this is a bulk-run Gowans lot.",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Smell and look at the cut ends: genuine Huon pine has a strong distinctive oily/sweet scent, tight fine growth rings and a pale yellow colour; celery top has a plainer smell. Check slab thickness and length, and whether the knots/void are structural. The stained void slab is worth less.",
+ "rate_note": "All AUD, no conversion. Gowans prices are hammer, buyer's premium (about 19.8%) extra."
+}

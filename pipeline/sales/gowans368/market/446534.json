@@ -1,0 +1,89 @@
+{
+ "cdid": 446534,
+ "lot": 234,
+ "identification": "Mixed lot: seven-panel carved shell cameo bracelet (classical figures, silver-coloured mounts, metal unverified, possibly 800 silver or plated), Satsuma-style round pendant with silver-coloured rim, small shell cameo brooch, and a pearl sprig bar brooch (silver-looking) in worn red Hardy Bros Ltd box. Modest mixed jewellery.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart lot 412860",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cameo+bracelet&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "STERLING LINED CAMEO BRACELET, 3 bids; hammer from results database, premium extra; bracelet not seen so panel count unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2002-07-09",
+   "venue": "Noble Numismatics sale 70 lot 1106",
+   "url": "https://www.noble.com.au/auctions/lot/?id=115185",
+   "same_item": "category guide",
+   "note": "Gold plated sterling cameo bracelet, eight cameos, VF; old and dated, from results database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$10 hammer",
+   "currency": "AUD",
+   "aud_price": 10,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart lot 413059",
+   "url": "gowans id 413059 (comps.py pearl brooch silver)",
+   "same_item": "category guide",
+   "note": "Sterling and pearl brooch, 4 bids; typical price for plain silver pearl brooches (range $8 to $50, median $10, 8 sales Mar to Sep 2026). Hardy Bros box may add a little."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-03-23",
+   "venue": "Gowans Auctions, Hobart lot 398109",
+   "url": "gowans id 398109",
+   "same_item": "category guide",
+   "note": "Sterling silver and pearl brooch, 4 bids; top of the pearl brooch range."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$110 hammer",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart lot 421047",
+   "url": "gowans id 421047",
+   "same_item": "category guide",
+   "note": "CAMEO BROOCH, 4 bids, metal not stated; single shell cameo brooch comparison. Plain silver or base ones sell lower (e.g. $70 to $75)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-02-01",
+   "venue": "Gowans Auctions, Hobart lot 387039",
+   "url": "gowans id 387039",
+   "same_item": "category guide",
+   "note": "Continental silver marcasite cameo brooch, 4 bids."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$350",
+   "currency": "USD",
+   "aud_price": null,
+   "date": "live, seen 2026-10-21",
+   "venue": "US consignment dealer (seven-panel 800 silver shell cameo bracelet, classical scenes)",
+   "url": "https://www.devinejeweler.com/products/antique-carved-shell-cameo-panel-800-silver-italy-7-5-21-61g-bracelet",
+   "same_item": "close",
+   "note": "Snippet only, price from WebSearch summary and not verified; asking price not paid; no AUD rate applied. Similar seven-panel design; ours metal unverified."
+  }
+ ],
+ "searches_tried": "comps.py (work and pipeline) for hardy bros brooch, cameo bracelet, cameo, satsuma pendant, pearl brooch silver; Gowans API cameo bracelet (only prior hit lot 412860; this lot is current sale); WebSearch for shell cameo silver panel bracelet (Carters blocked by bot protection, price guide pages not readable) and Hardy Bros pearl brooch (no auction result found). No Armitage lookups. eBay sold prices would help with the bracelet and Satsuma pendant.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay sold: 'shell cameo panel bracelet silver 800 seven panels' and 'Satsuma silver pendant round'; also Carters price guide hardy bros jewellery",
+ "viewing_check": "Look for silver marks (800, 925, sterling) on bracelet clasp and mounts and on the pearl brooch pin; check whether the pearl is real, the Satsuma pendant rim metal and any signature, and cracks or chips in cameos.",
+ "rate_note": "All AUD, no conversion; USD ask not converted."
+}

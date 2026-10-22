@@ -1,0 +1,67 @@
+{
+ "cdid": 445951,
+ "lot": 1120,
+ "identification": "Single long live-edge pale yellow slab, sold as Huon pine. Looks like it, but species unconfirmed from the photo; heavy dark bark and burl-like patches on one face. Sits beside lots 1119 and 1121 (similar slabs), so this is a run of many.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$55 to $90 hammer (single SLAB OF HUON PINE, 7 lots: 90, 90, 75, 60, 55, 50, plus 2-slab lots 55 to 105)",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-10-11 (Gowans sale, lots ids 444301 to 444315)",
+   "venue": "Gowans Auctions, Hobart (local results database)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444301/",
+   "same_item": "yes",
+   "note": "Most recent same-title lots, 1 to 4 bids each; hammer, premium extra. Database rows, page not opened. Single slabs median about $70; 2-slab lots $50 to $105."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25 to $170 hammer, median about $55 (855 sold hits for huon pine slab, 2024 to 2026)",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "Sep 2025 to Oct 2026",
+   "venue": "Gowans Auctions, Hobart (comps.py)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Same title, same seller, same buyer pool. Nov-Dec 2025 saw highs of $140 to $170 (ids 374264 14000c, 376000 16000c, 379780 17000c) but typical $40 to $90. Fetched live from API and saw sale_price in cents; wider slabs top the range, narrow bark-edged ones sit at $25 to $60."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$220 hammer",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "about 2026-02-06",
+   "venue": "Gowans Auctions, lot 387811 (3 SLABS OF HUON PINE)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/387811/",
+   "same_item": "close",
+   "note": "Database row only; three slabs, so not comparable to a single. Upper outlier."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$80 (1100x230mm) / $350 (2750x350mm light birdseye) / $565 (4100x380mm)",
+   "currency": "AUD",
+   "aud_price": 350,
+   "date": "live, seen 2026-10-21",
+   "venue": "huonpine.com.au (dealer)",
+   "url": "https://huonpine.com.au/product-category/huonpine/slabs/",
+   "same_item": "category guide",
+   "note": "Snippet only. Dealer-dressed, thicknessed, figured slabs; asking, not paid. Our lot is rough sawn with bark edges, so worth well below dealer retail."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$135 (2000x305x28mm backsawn board) up to $1,995 neg (2 large slabs 3100mm)",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "live, seen 2026-10-21",
+   "venue": "Gumtree private sellers",
+   "url": "https://www.gumtree.com.au/s-building-materials/huon+pine+slabs/k0c20103",
+   "same_item": "category guide",
+   "note": "Snippet only, listings may be stale and negotiable. Closest small asking is the $135 board, finished dimensions."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) x2 words; Gowans API search slab of huon pine (first page, Sep to Dec 2025 results); WebSearch Huon pine slab live edge price Tasmania. No eBay sold access (eBay sold Huon pine slab would help but Gowans hammers are the better guide). Lot photo viewed.",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Check species (smell, resinous, pale yellow close-grained is Huon; celery top or kingbilly look similar), width and length with a tape, thickness, any birdseye or figure, and splits or rot at the ends. Wide, thick, clean slab is worth more than $90.",
+ "rate_note": "All AUD, no conversion. Gowans prices are hammer, premium about 19.8% extra."
+}

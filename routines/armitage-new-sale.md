@@ -44,7 +44,41 @@ If `pipeline/new_sales.py` is still missing, reply "new-sale check is not on mai
    c. Bid check: `python3 pipeline/assess.py <chid>` prints the "first pass done" email;
       send it to andyfist@gmail.com with subject "Armitage <name>: first pass, <PASS> lots pass the $200 rule".
       Then `python3 pipeline/stage.py <chid> researched` (no email needed for that one).
-   d. Commit the sale's files (photos, sheets, crops and per-lot files are ignored by git)
+   d. Chrome list: `python3 pipeline/chrome_brief.py <chid>` writes `pipeline/sales/<chid>/chrome_brief.md`
+      (the hand-over for the Chrome research chat, which Andy runs on Sonnet) and
+      `chrome_email.txt` (how to start that chat), and prints how many lots are in it. Then run
+      `python3 pipeline/stage.py <chid> chrome_list --note "<n> lots to research in Chrome" --body pipeline/sales/<chid>/chrome_email.txt`
+      and email its output. Skip this step and its email when the brief holds no lots.
+   e. Photo list: `python3 pipeline/photo_list.py <chid>` writes `pipeline/sales/<chid>/photo_list.md`
+      and prints the email (first line is the subject): send it to andyfist@gmail.com.
+      Then `python3 pipeline/stage.py <chid> photo_list` (no email needed for that one).
+   f. Commit the sale's files (photos, sheets, crops and per-lot files are ignored by git)
       and the state: `git add pipeline/sales/<chid> pipeline/state/sales.json && git commit -m "Armitage <chid>: funnel" && git push origin main`.
-6. Reply in one short line: catalogues on the site, new ones found, emails sent, funnel
+6. Bidder scan. Do this on the 7:23 and 17:23 runs, and on every run on a day when lots
+   of the catalogue close. It applies to each catalogue in `current` whose `researched`
+   stage is done (see `pipeline/state/sales.json`) and whose last lot has not closed yet.
+   a. `python3 pipeline/bidders.py <chid> --refresh` re-reads the lot pages (about 8 minutes
+      per 1,800 lots), rebuilds the bidder history, and prints the "bidder scan" email
+      (first line is the subject). It writes `pipeline/sales/<chid>/wfargs_bidders.json`
+      only when flagged lots have not been valued yet.
+   b. If `wfargs_bidders.json` exists, run the Workflow tool with the script file
+      `pipeline/wf_funnel.js` and that file's JSON as `args` (Andy has opted in to this
+      multi-agent run through this routine; it scans and researches just those lots). Then
+      `python3 pipeline/assess.py <chid>` and `python3 pipeline/bidders.py <chid>` again
+      (no `--refresh`) so the email carries the fresh values.
+   c. Email the bidder scan output to andyfist@gmail.com when it lists at least one lot;
+      then `python3 pipeline/stage.py <chid> bidders --note "<n> lots flagged"` (no email).
+   d. Commit: `git add pipeline/sales/<chid> pipeline/state && git commit -m "Armitage <chid>: bidders" && git push origin main`.
+7. Morning email. On the 7:23 run of a day when lots of the catalogue close, after the
+   bidder scan: `python3 pipeline/morning.py <chid>` prints the email (first line is the
+   subject) with every closing time that matters; send it to andyfist@gmail.com, then
+   `python3 pipeline/stage.py <chid> morning_email` and commit the state as in 6d.
+8. Post-sale review. For each catalogue in `pipeline/state/sales.json` whose last lot has
+   closed (its `close_last` is in the past) and whose `reviewed` stage is not done, once
+   `pipeline/armitage_results.py` exists: run `python3 pipeline/armitage_results.py --chid <chid>`
+   (its closing bids and bid histories go into `databases/armitage.json`), then
+   `python3 pipeline/review.py <chid>` and email its output to andyfist@gmail.com (first
+   line is the subject). Then `python3 pipeline/stage.py <chid> reviewed` and commit:
+   `git add pipeline/sales/<chid> pipeline/state databases/armitage.json && git commit -m "Armitage <chid>: review" && git push origin main`.
+9. Reply in one short line: catalogues on the site, new ones found, emails sent, funnel
    stages run, anything that failed. Commit nothing else and send no other email.
