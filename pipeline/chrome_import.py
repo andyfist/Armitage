@@ -25,7 +25,7 @@ def main():
     if isinstance(results, dict):
         results = results.get('lots') or results.get('results') or [results]
     sold_db = json.load(open(SOLD)) if os.path.exists(SOLD) else []
-    known = {(s.get('url'), s.get('aud_price')) for s in sold_db}
+    known = {(s.get('url'), s.get('aud_hammer')) for s in sold_db}
     added, lots = 0, 0
     for r in results:
         cdid = r.get('cdid')

@@ -1,10 +1,161 @@
-{"cdid":445205,"lot":225,"identification":"US M1917 bayonet made by Remington (1917 and Remington roundel, flaming bomb, U.S., 14 inspection mark), a derivative of the British Pattern 1913. Scabbard dated 1918 (partly read), white metal chape and mount. Title says Pattern 1913 but the US ordnance marks make it an M1917. Common, around 1.2 million Remington P1913/M1917 made.","entries":[
-{"kind":"SOLD","price":"$180","currency":"AUD","aud_price":180,"date":"2025-11-24","venue":"Gowans Auctions, Hobart","url":"gowans id 377008","same_item":"category guide","note":"WWI BAYONET & OTHER, hammer from local database, not same model; premium extra."},
-{"kind":"SOLD","price":"$240","currency":"AUD","aud_price":240,"date":"2026-06-14","venue":"Gowans Auctions, Hobart","url":"gowans id 416282","same_item":"category guide","note":"WORLD WAR I ENGLISH BAYONET, hammer from local database; premium extra. Shows typical Hobart range for WWI bayonets."},
-{"kind":"SOLD","price":"$220","currency":"AUD","aud_price":220,"date":"2026-07-26","venue":"Gowans Auctions, Hobart","url":"gowans id 425860","same_item":"category guide","note":"1913 MODEL SPANISH BAYONET & SCABBARD, hammer from local database (11 bids); different item. Local medians for bayonets about $205 hammer (20 sales, $60 to $490)."},
-{"kind":"SOLD","price":"GBP 170 hammer","currency":"GBP","aud_price":340,"date":"undated","venue":"Dukes Auctions (UK), Tank Museum militaria sale","url":"https://app.dukes-auctions.com/en/auction/1046-militaria-in-association-with-the-tank-museum/281-three-bayonets","same_item":"category guide","note":"Lot of three bayonets incl. 1917 and 1913 Remington; est GBP100-200. Snippet only, page would not load. Rate GBP1=AUD2.0 assumed. Date not seen."},
-{"kind":"SOLD","price":"GBP 43 winning bid","currency":"GBP","aud_price":86,"date":"undated","venue":"Badgers Auctions (UK)","url":"https://badgersauctions.com/product/1913-pattern-remmington-bayonet-for-303-p14-rifle-may-1917/","same_item":"close","note":"Remington P1913 dated May 1917 (British .303 P14 version, not US marked). Snippet only. Rate 2.0 assumed. Date not seen."},
-{"kind":"ASKING","price":"$225 (marked sold)","currency":"USD","aud_price":338,"date":"undated, seen 2026-10-21","venue":"Stewart's Military Antiques (US dealer)","url":"https://stewartsmilitaryantiques.com/us-wwi-m1917-bayonet-remington-mfg-2nd-pattern-scabbard.51686.archive.htm","same_item":"yes","note":"Page opened. Clean 1917 Remington M1917 with 2nd pattern scabbard; dealer price, archived as sold, not a verified price paid. Much cleaner than lot 225. Rate USD1=AUD1.5 assumed."},
-{"kind":"ASKING","price":"$160 reduced from $260 (marked sold)","currency":"USD","aud_price":240,"date":"2024-06-05","venue":"Legacy Collectibles (US dealer)","url":"https://legacy-collectibles.com/kw052824-1","same_item":"close","note":"Page opened. Remington M1917 dated 1913 (earlier date), great condition with scabbard; dealer price, not verified paid. Rate 1.5 assumed."},
-{"kind":"ASKING","price":"$200 to $350 (several marked sold)","currency":"USD","aud_price":450,"date":"2021 to 2024","venue":"Legacy Collectibles / Collectors Firearms (US dealers)","url":"https://legacy-collectibles.com/sold-remington-model-1917-bayonet/","same_item":"yes","note":"Snippet only. Typical US dealer range for Remington M1917 with scabbard in good condition, about AUD300 to 525; aud_price is the mid-range at rate 1.5. Dealer asking, not verified."}
-],"searches_tried":"comps.py (pipeline and work) for M1917 bayonet, Remington bayonet, 1913 bayonet, bayonet; Gowans API search (M1917 bayonet, Remington bayonet, US bayonet scabbard) found no past sold M1917; WebSearch for M1917 Remington sold price and Pattern 1913 Australia auction. No Australian M1917 result found. eBay sold listings (AU) would settle it best. Armitage site not searched.","needs_chrome":true,"chrome_hint":"eBay Australia sold items: 'M1917 Remington bayonet scabbard' and 'US 1917 Remington bayonet'","viewing_check":"Check scabbard is original leather with intact 1918 date and chape, blade not heavily pitted, crossguard rust, no grinding or re-sharpening, and that grips are original wood with no cracks.","rate_note":"USD1=AUD1.5, GBP1=AUD2.0 assumed, not live rates."}
+{
+ "cdid": 445205,
+ "lot": 225,
+ "identification": "US M1917 bayonet by Remington (1917, US ordnance marks), a US version of the British Pattern 1913, with a 1918 scabbard.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$180",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2025-11-24",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 377008",
+   "same_item": "category guide",
+   "note": "WWI BAYONET & OTHER, hammer from local database, not same model; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$240",
+   "currency": "AUD",
+   "aud_price": 240,
+   "date": "2026-06-14",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 416282",
+   "same_item": "category guide",
+   "note": "WORLD WAR I ENGLISH BAYONET, hammer from local database; premium extra. Shows typical Hobart range for WWI bayonets."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$220",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "2026-07-26",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 425860",
+   "same_item": "category guide",
+   "note": "1913 MODEL SPANISH BAYONET & SCABBARD, hammer from local database (11 bids); different item. Local medians for bayonets about $205 hammer (20 sales, $60 to $490)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 170 hammer",
+   "currency": "GBP",
+   "aud_price": 340,
+   "date": "undated",
+   "venue": "Dukes Auctions (UK), Tank Museum militaria sale",
+   "url": "https://app.dukes-auctions.com/en/auction/1046-militaria-in-association-with-the-tank-museum/281-three-bayonets",
+   "same_item": "category guide",
+   "note": "Lot of three bayonets incl. 1917 and 1913 Remington; est GBP100-200. Snippet only, page would not load. Rate GBP1=AUD2.0 assumed. Date not seen."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 43 winning bid",
+   "currency": "GBP",
+   "aud_price": 86,
+   "date": "undated",
+   "venue": "Badgers Auctions (UK)",
+   "url": "https://badgersauctions.com/product/1913-pattern-remmington-bayonet-for-303-p14-rifle-may-1917/",
+   "same_item": "close",
+   "note": "Remington P1913 dated May 1917 (British .303 P14 version, not US marked). Snippet only. Rate 2.0 assumed. Date not seen."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$225 (marked sold)",
+   "currency": "USD",
+   "aud_price": 338,
+   "date": "undated, seen 2026-10-21",
+   "venue": "Stewart's Military Antiques (US dealer)",
+   "url": "https://stewartsmilitaryantiques.com/us-wwi-m1917-bayonet-remington-mfg-2nd-pattern-scabbard.51686.archive.htm",
+   "same_item": "yes",
+   "note": "Page opened. Clean 1917 Remington M1917 with 2nd pattern scabbard; dealer price, archived as sold, not a verified price paid. Much cleaner than lot 225. Rate USD1=AUD1.5 assumed."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$160 reduced from $260 (marked sold)",
+   "currency": "USD",
+   "aud_price": 240,
+   "date": "2024-06-05",
+   "venue": "Legacy Collectibles (US dealer)",
+   "url": "https://legacy-collectibles.com/kw052824-1",
+   "same_item": "close",
+   "note": "Page opened. Remington M1917 dated 1913 (earlier date), great condition with scabbard; dealer price, not verified paid. Rate 1.5 assumed."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$200 to $350 (several marked sold)",
+   "currency": "USD",
+   "aud_price": 450,
+   "date": "2021 to 2024",
+   "venue": "Legacy Collectibles / Collectors Firearms (US dealers)",
+   "url": "https://legacy-collectibles.com/sold-remington-model-1917-bayonet/",
+   "same_item": "yes",
+   "note": "Snippet only. Typical US dealer range for Remington M1917 with scabbard in good condition, about AUD300 to 525; aud_price is the mid-range at rate 1.5. Dealer asking, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$246.97",
+   "currency": "AUD",
+   "aud_price": 246.97,
+   "date": "2026-10-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/237066003407",
+   "same_item": "yes",
+   "note": "WW1 US Remington M1917 bayonet and scabbard",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$285.06",
+   "currency": "AUD",
+   "aud_price": 285.06,
+   "date": "2026-06-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206328040311",
+   "same_item": "yes",
+   "note": "US Remington M1917 bayonet with 2nd pattern scabbard",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$448.03",
+   "currency": "AUD",
+   "aud_price": 448.03,
+   "date": "2026-01-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157399462499",
+   "same_item": "yes",
+   "note": "WWI US 1917 Remington with Mk I leather scabbard, better scabbard",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$308.12",
+   "currency": "AUD",
+   "aud_price": 308.12,
+   "date": "2026-07-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206385067105",
+   "same_item": "yes",
+   "note": "Remington P1913/M1917 bayonet",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$267.33",
+   "currency": "AUD",
+   "aud_price": 267.33,
+   "date": "2025-04-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167414075247",
+   "same_item": "yes",
+   "note": "US M1917 Remington with Remington scabbard",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for M1917 bayonet, Remington bayonet, 1913 bayonet, bayonet; Gowans API search (M1917 bayonet, Remington bayonet, US bayonet scabbard) found no past sold M1917; WebSearch for M1917 Remington sold price and Pattern 1913 Australia auction. No Australian M1917 result found. eBay sold listings (AU) would settle it best. Armitage site not searched. | chrome: Terapeak AU sold 2 years 'remington 1917 bayonet'; Terapeak AU sold 2 years 'm1917 bayonet scabbard'. Same bayonet with scabbard sold A$247 to A$448, middle about A$285.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold items: 'M1917 Remington bayonet scabbard' and 'US 1917 Remington bayonet'",
+ "viewing_check": "Check the blade for pitting and that the scabbard is the matching US M1917 type.",
+ "rate_note": "USD1=AUD1.5, GBP1=AUD2.0 assumed, not live rates.",
+ "chrome_done": true
+}

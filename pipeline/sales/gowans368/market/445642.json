@@ -1,7 +1,68 @@
-{"cdid":445642,"lot":662,"identification":"Oval portrait, probably oil on canvas or board, of a dark-haired woman in Spanish style (rose in hair, black lace mantilla/shawl over a leopard-print-like patterned dress), in a good ornate gilt gesso frame with gilt slip. One photo, no signature visible. Competent academic quality, likely continental c.1860-1890 rather than early 1800s. Unattributed.","entries":[
-{"kind":"SOLD","price":"GBP 120 hammer","currency":"GBP","aud_price":240,"date":"2017-12","venue":"Bellmans, UK, Dec 2017 lot 70","url":"https://app.bellmans.co.uk/en/auction/2017DEC/70-continental-school-19th-century-portrait-of-a-lady-oil-on-canvas-in-a-feigned-oval-28cm-x-22-5cm-i1","same_item":"close","note":"Page opened. Continental School 19th c portrait of a lady, oil on canvas, feigned oval, 28x22.5cm. Old (2017) and UK. Rate used GBP 1 = AUD 2.00 (assumed)."},
-{"kind":"SOLD","price":"AUD 280 hammer","currency":"AUD","aud_price":280,"date":"2025-11-03","venue":"Gowans Auctions, Hobart (lot id 372304)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=portrait+lady&page%5Bnumber%5D=1","same_item":"category guide","note":"From local database/API. Two oils on stretched canvas, portraits of a lady and a gentleman, 4 bids. A pair, so per-piece weaker; no frame detail."},
-{"kind":"SOLD","price":"AUD 100 hammer","currency":"AUD","aud_price":100,"date":"2026-06-10","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=portrait+lady&page%5Bnumber%5D=1","same_item":"category guide","note":"API result. Mid 20th c oil on board, portrait of young lady, gilt frame, some damage. Lower quality and period."},
-{"kind":"SOLD","price":"AUD 190 hammer","currency":"AUD","aud_price":190,"date":"2025-12-01","venue":"Gowans Auctions, Hobart (lot id 379129)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=miniature+portraits&page%5Bnumber%5D=1","same_item":"category guide","note":"Pair of round hand-painted portrait miniatures, 18th c style ladies. Different item, shows Hobart appetite for decorative lady portraits."},
-{"kind":"ASKING","price":"USD 1,200","currency":"USD","aud_price":1850,"date":"live, seen 2026-10-21 (marked Sold Out)","venue":"Maison (shopatmaison.com), US dealer","url":"https://shopatmaison.com/products/spanish-lady-oil-painting-19th-century","same_item":"close","note":"Page opened. Dealer retail ask for 19th c Spanish lady portrait in carved gilt frame, now Sold Out, sale price unknown. Rate USD 1 = AUD 1.55 (assumed). Retail, not a price paid."}
-],"searches_tried":"comps.py (work and pipeline) on portrait/spanish/lady/oval/gilt/gesso/frame; Gowans API on portrait lady, spanish lady, oval portrait oil; WebSearch on Spanish lady oval portrait sold, Armitage past results (nothing relevant), Australian Spanish school oval portrait; opened Bellmans and Maison pages. LiveAuctioneers price-result pages returned nothing via curl. eBay sold prices (search: 'antique oil portrait spanish lady oval gilt frame', sold items) and LiveAuctioneers/Invaluable results would help.","needs_chrome":true,"chrome_hint":"eBay sold: 'antique oil painting portrait spanish lady oval gilt gesso frame'; LiveAuctioneers price results: 'spanish lady portrait oval 19th century oil'","rate_note":"GBP 1 = AUD 2.00, USD 1 = AUD 1.55, assumed approximate rates.","viewing_check":"Look at the back and edges: canvas or board, any label, stamp, inscription or signature (check lower corners with a torch, under the slip). Check the paint surface for retouching, craquelure and relining, and whether the gilt gesso frame is original with sound ornament and no losses. A Spanish or Madrid academy name would change value."}
+{
+ "cdid": 445642,
+ "lot": 662,
+ "identification": "Oval portrait of a Spanish-style lady with a rose in her hair and lace mantilla, in an ornate gilt frame; unsigned in the photo, probably continental c.1860-1890. Google Lens found only loosely similar portraits, no match.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "GBP 120 hammer",
+   "currency": "GBP",
+   "aud_price": 240,
+   "date": "2017-12",
+   "venue": "Bellmans, UK, Dec 2017 lot 70",
+   "url": "https://app.bellmans.co.uk/en/auction/2017DEC/70-continental-school-19th-century-portrait-of-a-lady-oil-on-canvas-in-a-feigned-oval-28cm-x-22-5cm-i1",
+   "same_item": "close",
+   "note": "Page opened. Continental School 19th c portrait of a lady, oil on canvas, feigned oval, 28x22.5cm. Old (2017) and UK. Rate used GBP 1 = AUD 2.00 (assumed)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 280 hammer",
+   "currency": "AUD",
+   "aud_price": 280,
+   "date": "2025-11-03",
+   "venue": "Gowans Auctions, Hobart (lot id 372304)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=portrait+lady&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "From local database/API. Two oils on stretched canvas, portraits of a lady and a gentleman, 4 bids. A pair, so per-piece weaker; no frame detail."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-06-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=portrait+lady&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "API result. Mid 20th c oil on board, portrait of young lady, gilt frame, some damage. Lower quality and period."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 190 hammer",
+   "currency": "AUD",
+   "aud_price": 190,
+   "date": "2025-12-01",
+   "venue": "Gowans Auctions, Hobart (lot id 379129)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=miniature+portraits&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Pair of round hand-painted portrait miniatures, 18th c style ladies. Different item, shows Hobart appetite for decorative lady portraits."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 1,200",
+   "currency": "USD",
+   "aud_price": 1850,
+   "date": "live, seen 2026-10-21 (marked Sold Out)",
+   "venue": "Maison (shopatmaison.com), US dealer",
+   "url": "https://shopatmaison.com/products/spanish-lady-oil-painting-19th-century",
+   "same_item": "close",
+   "note": "Page opened. Dealer retail ask for 19th c Spanish lady portrait in carved gilt frame, now Sold Out, sale price unknown. Rate USD 1 = AUD 1.55 (assumed). Retail, not a price paid."
+  }
+ ],
+ "searches_tried": "comps.py (work and pipeline) on portrait/spanish/lady/oval/gilt/gesso/frame; Gowans API on portrait lady, spanish lady, oval portrait oil; WebSearch on Spanish lady oval portrait sold, Armitage past results (nothing relevant), Australian Spanish school oval portrait; opened Bellmans and Maison pages. LiveAuctioneers price-result pages returned nothing via curl. eBay sold prices (search: 'antique oil portrait spanish lady oval gilt frame', sold items) and LiveAuctioneers/Invaluable results would help. | chrome: Google Lens on the photo (no match, only similar 19th century portraits); Terapeak AU sold 'antique oval portrait oil painting lady gilt frame' (none); Terapeak AU sold 'antique portrait oil painting spanish' (none). Nothing found beyond the Gowans results in the brief.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: 'antique oil painting portrait spanish lady oval gilt gesso frame'; LiveAuctioneers price results: 'spanish lady portrait oval 19th century oil'",
+ "rate_note": "GBP 1 = AUD 2.00, USD 1 = AUD 1.55, assumed approximate rates.",
+ "viewing_check": "Look on the back for a label, stamp or inscription and check the canvas for tears and old repairs; the frame may be worth as much as the picture.",
+ "chrome_done": true
+}

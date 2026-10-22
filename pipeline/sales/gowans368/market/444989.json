@@ -1,7 +1,7 @@
 {
  "cdid": 444989,
  "lot": 9,
- "identification": "Two very fine 18ct box/snake chains, both broken, plus a small bail/pendant clip (looks dark, may not be gold). Photo 2 shows clasp ring stamped 750 and 360 AR. Weight not stated beyond '2gm & 1 other'; photos suggest 2 to 3gm of chain.",
+ "identification": "Two fine broken 18ct (750) box/snake chains plus a small bail or clip that may not be gold; about 2 to 3 g.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,72 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/433728/",
    "same_item": "category guide",
    "note": "API record only. 11 bids; about $100/gm, most recent."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$220.97",
+   "currency": "AUD",
+   "aud_price": 220.97,
+   "date": "2026-08-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117341440391",
+   "same_item": "similar",
+   "note": "18ct yellow gold scrap 2.7 g; A$82/g",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$229.17",
+   "currency": "AUD",
+   "aud_price": 229.17,
+   "date": "2026-09-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/128089023895",
+   "same_item": "similar",
+   "note": "18ct white gold ring 2.05 g sold for scrap; A$112/g",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$180.04",
+   "currency": "AUD",
+   "aud_price": 180.04,
+   "date": "2026-06-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227389169822",
+   "same_item": "similar",
+   "note": "18ct scrap ring 1.55 g; A$116/g",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$345.25",
+   "currency": "AUD",
+   "aud_price": 345.25,
+   "date": "2026-07-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117274243113",
+   "same_item": "similar",
+   "note": "18ct scrap ring 2.8 g; A$123/g",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,032.85",
+   "currency": "AUD",
+   "aud_price": 1032.85,
+   "date": "2026-06-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127948613977",
+   "same_item": "similar",
+   "note": "18ct scrap 13 g; A$79/g",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) x4 on 18ct gold necklace/chain/scrap; Gowans API searches (18ct gold chain, 18ct scrap, necklace broken, fine chain), filtered to sold. No WebSearch or goldprice fetch (goldprice API returned Forbidden). Generic scrap gold, so stopped early. eBay sold would add little.",
+ "searches_tried": "comps.py (pipeline and work) x4 on 18ct gold necklace/chain/scrap; Gowans API searches (18ct gold chain, 18ct scrap, necklace broken, fine chain), filtered to sold. No WebSearch or goldprice fetch (goldprice API returned Forbidden). Generic scrap gold, so stopped early. eBay sold would add little. | chrome: Terapeak AU sold 6 months '18ct gold scrap' filtered to small weights. 18ct scrap sells at about A$80 to A$123 a gram on eBay.",
  "needs_chrome": false,
  "chrome_hint": "",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Weigh the chains and bail if allowed, confirm the bail is gold (it looks dark/base), and check how many chains and total length. Weight drives value: Gowans buyers pay roughly $100-165 per gram hammer for small 18ct chains, so 2gm is about $200-260 hammer, 1.4gm sold $230."
+ "viewing_check": "Weigh the chains without the dark clip. Under 3 g of 18ct is worth only about A$200 to A$330 as scrap, which leaves no room for the $200 profit.",
+ "chrome_done": true
 }

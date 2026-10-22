@@ -1,7 +1,7 @@
 {
  "chid": "gowans368",
  "name": "Gowans Weekly Friday Auction GA231026",
- "assessed": "2026-10-21",
+ "assessed": "2026-10-22",
  "rule": {
   "chid": "gowans368",
   "profit": 200,
@@ -9,15 +9,15 @@
   "premium": 0.198,
   "months": 24,
   "top": 25,
-  "ignore_bids": true
+  "ignore_bids": false
  },
- "scanned": 981,
- "candidates": 127,
+ "scanned": 1053,
+ "candidates": 131,
  "counts": {
-  "PASS": 6,
-  "CHROME": 15,
-  "FAIL": 76,
-  "DROP": 0,
+  "PASS": 10,
+  "CHROME": 6,
+  "FAIL": 82,
+  "DROP": 3,
   "NOT RESEARCHED": 30
  },
  "lots": [
@@ -25,17 +25,17 @@
    "cdid": 444982,
    "lot": 2,
    "title": "9CT GOLD RING - 3.6GM TOTAL WEIGHT - SIZE V APPROX",
-   "strength": 6,
+   "strength": 5,
    "findings": "Gents 9ct signet with black onyx panel and small stone; 9CT stamp clear, claimed 3.6gm plausible.",
    "condition": "Scratches, wear",
    "current_bid": 0.0,
    "bid_count": 3,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Gents 9ct yellow gold signet ring, rectangular black onyx panel with a small stone (likely tiny diamond or paste) set in a white-metal square, 9CT stamp visible, stated 3.6gm total weight, size V. Scratched and worn.",
+   "identification": "Gents 9ct yellow gold signet ring, black onyx panel with small stone set in a white metal square, 3.6 g total weight, size V, scratched.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 380.0,
@@ -52,32 +52,48 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/363299/",
      "same_item": "close",
      "note": "9CT GOLD ONYX RING size S, 5.3gm, 14 bids. Heavier than this lot. Local database and Gowans API record; premium extra; page not opened."
+    },
+    {
+     "aud_price": 322.3,
+     "date": "2026-09-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/267773822340",
+     "same_item": "yes",
+     "note": "9ct ring black onyx with diamond accent, mens signet; weight not in title"
+    },
+    {
+     "aud_price": 189.62,
+     "date": "2026-08-31",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/318801090527",
+     "same_item": "yes",
+     "note": "vintage mens 9ct onyx signet 3 g, no diamond"
     }
    ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 315.0,
-   "net_resale": 267.75,
-   "max_hammer": 55,
+   "resale": 286.15,
+   "net_resale": 243.22749999999996,
+   "max_hammer": 35,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $315; less 15% fees = $268; less $200 profit, / 1.20 premium = max hammer $55"
+   "why": "4 same-item SOLD price(s), median $286; less 15% fees = $243; less $200 profit, / 1.20 premium = max hammer $35"
   },
   {
    "cdid": 444989,
    "lot": 9,
    "title": "18CT GOLD SCRAP NECKLACE - 2GM & 1 OTHER",
-   "strength": 6,
+   "strength": 5,
    "findings": "Very fine 18ct chains, clasp stamped 750 and 360 AR; about 2gm claimed plausible plus a bail.",
    "condition": "Thin, broken chains",
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Two very fine 18ct box/snake chains, both broken, plus a small bail/pendant clip (looks dark, may not be gold). Photo 2 shows clasp ring stamped 750 and 360 AR. Weight not stated beyond '2gm & 1 other'; photos suggest 2 to 3gm of chain.",
+   "identification": "Two fine broken 18ct (750) box/snake chains plus a small bail or clip that may not be gold; about 2 to 3 g.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 230.0,
@@ -133,7 +149,7 @@
    "cdid": 444997,
    "lot": 17,
    "title": "9CT GOLD LINED LOCKET  LINED BROOCH & 9CT GOLD BROOCH - PIN NOT GOLD - 1.8GM",
-   "strength": 3,
+   "strength": 4,
    "findings": "Key-shaped brooch, heart locket and small heart pendant, 9ct gold lined; 9ct stamp read on key brooch; photos show a steel pin through brooch as titled; blue paste stones in double heart.",
    "condition": "Light wear, small chain on key.",
    "current_bid": 0.0,
@@ -158,7 +174,7 @@
    "cdid": 445040,
    "lot": 60,
    "title": "LOOSE OVAL AQUAMARINE - MEDIUM DARK NATURAL - 2.5CT",
-   "strength": 3,
+   "strength": 4,
    "findings": "Loose oval faceted pale blue stone in gem jar. Colour is light, not 'medium dark'. No certificate; natural and 2.5ct claims unverified.",
    "condition": "Appears clean, no chips seen",
    "current_bid": 0.0,
@@ -183,7 +199,7 @@
    "cdid": 445061,
    "lot": 81,
    "title": "QUEENSLAND BOULDER OPAL NECKLACE",
-   "strength": 4,
+   "strength": 5,
    "findings": "Boulder opal pendant, oval, blue-green flash on ironstone, on black rubber cord with small clasp; no marks visible",
    "condition": "fine",
    "current_bid": 0.0,
@@ -266,7 +282,7 @@
    "cdid": 445067,
    "lot": 87,
    "title": "CARVED ELEPHANT FIGURE",
-   "strength": 3,
+   "strength": 5,
    "findings": "Carved ivory-coloured elephant standing within a notched hoop on a turned circular base; piece looks like old ivory (or bone), base has central hole, small crack, tags",
    "condition": "small crack in base, yellowing",
    "current_bid": 0.0,
@@ -291,17 +307,17 @@
    "cdid": 445072,
    "lot": 92,
    "title": "9CT GOLD BRACELET - 8.9GM",
-   "strength": 8,
+   "strength": 7,
    "findings": "Fine figaro-style link bracelet with lobster clasp; close-up shows a cartouche stamp reading 9 and .375, supporting 9ct. Weight not verifiable from photos.",
    "condition": "Some wear, no obvious breaks.",
    "current_bid": 0.0,
    "bid_count": 3,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "9ct yellow gold long-link (figaro-style, alternating long and short oval links) bracelet with lobster clasp, stamped 9 and .375 in a cartouche (photo 2). Claimed 8.9g; weight not verifiable from photos. Looks slim and in decent condition, some wear.",
+   "identification": "9ct yellow gold figaro-style long link bracelet, lobster clasp, stamped 9 and .375, stated 8.9 g.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 725.0,
@@ -366,6 +382,38 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/428946/",
      "same_item": "close",
      "note": "9CT GOLD BRACELET - 3.2GM. Local comps database (page not opened); premium extra. 12 bids, about $69/g"
+    },
+    {
+     "aud_price": 453.21,
+     "date": "2026-08-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/117348172587",
+     "same_item": "close",
+     "note": "9ct yellow gold bracelet 8.17 g, link style not checked; A$55/g"
+    },
+    {
+     "aud_price": 595.92,
+     "date": "2026-09-07",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/147555208032",
+     "same_item": "close",
+     "note": "9ct curb bracelet 10 g; A$60/g"
+    },
+    {
+     "aud_price": 738.72,
+     "date": "2026-06-14",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/147370873527",
+     "same_item": "close",
+     "note": "UnoAErre 9ct bracelet 10.59 g, branded Italian; A$70/g"
+    },
+    {
+     "aud_price": 509.41,
+     "date": "2026-03-22",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/127734489340",
+     "same_item": "yes",
+     "note": "9ct figaro link bracelet 7.84 g, 375 hallmarked; A$65/g"
     }
    ],
    "sold_old": [],
@@ -380,17 +428,17 @@
      "note": "Melt guide only, snippet only (WebSearch summary, pages not opened; direct goldprice.org blocked). 8.9g x 70.8 = about $630 spot; x 62.87 = about $560 scrap buy-back. Floor reference, not a sale. Rate: AUD as quoted."
     }
    ],
-   "resale": 470.0,
-   "net_resale": 399.5,
-   "max_hammer": 165,
+   "resale": 504.70500000000004,
+   "net_resale": 428.99925,
+   "max_hammer": 190,
    "status": "PASS",
-   "why": "8 same-item SOLD price(s), median $470; less 15% fees = $400; less $200 profit, / 1.20 premium = max hammer $165"
+   "why": "12 same-item SOLD price(s), median $505; less 15% fees = $429; less $200 profit, / 1.20 premium = max hammer $190"
   },
   {
    "cdid": 445076,
    "lot": 96,
    "title": "ACDC 7 COIN SET",
-   "strength": 5,
+   "strength": 6,
    "findings": "Seven miniature coins in vinyl record style sleeves (High Voltage, TNT, Dirty Deeds, Back in Black, For Those About to Rock, Ballbreaker, Power Up era) in an AC/DC flight case marked Volume 01 coin collector. Coins appear to be silver/coloured proof style in capsules. Photos show the full set.",
    "condition": "Appears complete and clean, boxed.",
    "current_bid": 0.0,
@@ -573,18 +621,75 @@
    "cdid": 445086,
    "lot": 106,
    "title": "2010 MARY MACKILLOP 1/10TH OZ GOLD PROOF COIN",
-   "strength": 9,
+   "strength": 8,
    "findings": "Perth Mint 2010 Saint Mary MacKillop 1/10oz gold proof coin in case with outer box and certificate of authenticity; coin shows 2010, First Australian Saint.",
    "condition": "Excellent, complete with box and COA.",
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Perth Mint 2010 Saint Mary MacKillop 1/10oz 99.99 gold proof $15, coloured reverse, 2010 mintage reported 2,010 (coinnews/coinsweekly snippets), issue price AUD 275 in 2010. Photos show coin in capsule, grey case, blue outer box and COA; all look genuine and complete.",
+   "identification": "Perth Mint 2010 Saint Mary MacKillop 1/10 oz 99.99 gold proof $15, coloured, in capsule, case, outer box with COA.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 2010 Mary MacKillop 1/10 oz gold proof Perth Mint; also Perth Mint 1/10oz gold proof $15 recent sold for gold-price comparison",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 627.72,
+     "date": "2026-09-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/257773129818",
+     "same_item": "yes",
+     "note": "2010 MacKillop 1/10oz gold proof, Perth Mint"
+    },
+    {
+     "aud_price": 718.71,
+     "date": "2026-07-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/168315395490",
+     "same_item": "yes",
+     "note": "2010 MacKillop 1/10oz gold proof, Perth Mint"
+    },
+    {
+     "aud_price": 837.81,
+     "date": "2026-04-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/227223164552",
+     "same_item": "yes",
+     "note": "MacKillop First Australian Saint 1/10oz gold proof"
+    },
+    {
+     "aud_price": 546.25,
+     "date": "2025-04-26",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/133761189809",
+     "same_item": "yes",
+     "note": "2010 MacKillop 1/10oz proof; gold was cheaper in 2025"
+    },
+    {
+     "aud_price": 496.53,
+     "date": "2025-04-04",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/335760189406",
+     "same_item": "yes",
+     "note": "2010 Perth Mint 1/10oz proof MacKillop"
+    },
+    {
+     "aud_price": 476.36,
+     "date": "2025-03-20",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/376042703838",
+     "same_item": "yes",
+     "note": "same coin plus a magazine"
+    },
+    {
+     "aud_price": 471.45,
+     "date": "2025-02-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/295854014340",
+     "same_item": "yes",
+     "note": "same coin plus a magazine"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 240.0,
@@ -621,11 +726,11 @@
    ],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "resale": 546.25,
+   "net_resale": 464.3125,
+   "max_hammer": 220,
+   "status": "PASS",
+   "why": "7 same-item SOLD price(s), median $546; less 15% fees = $464; less $200 profit, / 1.20 premium = max hammer $220"
   },
   {
    "cdid": 445087,
@@ -776,12 +881,85 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "WWI Memorial Plaque (Dead Man's Penny), bronze, about 120mm, Britannia with lion, named ARTHUR EDWARD BATE (no rank or regiment on plaque, as normal). Looks like an original cast plaque with natural brown patina; reverse blank apart from lot sticker. Not a replica on the photos, but casting texture is not fully verifiable.",
+   "identification": "WWI Memorial Plaque named ARTHUR EDWARD BATE. Online records (Virtual War Memorial Australia) show Private Arthur Edward Bate, AIF, died of pneumonia on 22 January 1916 at Sydney Hall Hospital, Weymouth, England, buried Greenbank Cemetery, Bristol. So it is an Australian (AIF) plaque.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold+completed: 'WW1 memorial plaque death penny' (also 'dead mans penny named'), last 90 days; also Noble Numismatics results search 'Memorial Plaque' sales 2024-2026",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 392.9,
+     "date": "2026-03-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/227269565359",
+     "same_item": "close",
+     "note": "named AIF plaque, 24 Bn, KIA (killed in action plaques sell better than died of illness)"
+    },
+    {
+     "aud_price": 310.39,
+     "date": "2025-12-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/326920651348",
+     "same_item": "close",
+     "note": "named WW1 dead man's penny"
+    },
+    {
+     "aud_price": 212.04,
+     "date": "2025-11-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/306612035740",
+     "same_item": "close",
+     "note": "named AIF plaque, 6th Bn, KIA"
+    },
+    {
+     "aud_price": 212.82,
+     "date": "2025-11-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157488460575",
+     "same_item": "close",
+     "note": "AIF plaque with condolence slip, 16th Bn"
+    },
+    {
+     "aud_price": 185.41,
+     "date": "2025-10-19",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/236396554729",
+     "same_item": "close",
+     "note": "named AIF plaque, Harry Hoare"
+    },
+    {
+     "aud_price": 303.19,
+     "date": "2025-08-31",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/236287945311",
+     "same_item": "close",
+     "note": "named AIF plaque, 11th Bn"
+    },
+    {
+     "aud_price": 315.31,
+     "date": "2025-08-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/306463375793",
+     "same_item": "close",
+     "note": "named AIF plaque, 32nd Bn"
+    },
+    {
+     "aud_price": 281.92,
+     "date": "2025-07-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/306405281152",
+     "same_item": "close",
+     "note": "named AIF plaque, 7th Bn"
+    },
+    {
+     "aud_price": 212.6,
+     "date": "2025-08-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/306441246922",
+     "same_item": "close",
+     "note": "named AIF plaque, 50th Bn"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 900.0,
@@ -803,11 +981,11 @@
      "note": "Snippet only, page blocked to curl. Unverified range, no lot detail; top end likely named Australian or rare units. Not a price paid for a single item."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "resale": 281.92,
+   "net_resale": 239.632,
+   "max_hammer": 30,
+   "status": "PASS",
+   "why": "9 same-item SOLD price(s), median $282; less 15% fees = $240; less $200 profit, / 1.20 premium = max hammer $30"
   },
   {
    "cdid": 445097,
@@ -910,11 +1088,11 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Macquarie Mint 'Smallest Gold Coins of the World' proof set in red timber case, .585 (14ct) gold, 0.5 g and 11 mm each (certificate read: Fiji $1 2014 George Washington). Photos show 7 numbered slots (I to VII) all filled, plus 14 certificates laid out (photo 4), so most likely 7 coins with 14 certificates, or the other 7 coins are elsewhere. Title says 14 coins.",
+   "identification": "Macquarie Mint 'Smallest Gold Coins of the World' set in red timber case, 0.5 g coins of .585 (14ct) or .9999 gold, 11 mm. Photos show 7 filled slots and 14 certificates, title says 14 coins.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold and completed: Macquarie Mint smallest gold coins 14ct .585 set; also Leski lot 209318 result (catalog 620)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 1010.0,
@@ -923,6 +1101,14 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440126/",
      "same_item": "close",
      "note": "Page opened (API). Macquarie Mint set of 14 gold coins in display case with certificates, 6 x .585 and 8 x .999, 6 bids. Mixed purity, so more gold than lot 138; .999 coins are worth more. Premium extra."
+    },
+    {
+     "aud_price": 950.0,
+     "date": "2026-03-04",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/134553948766",
+     "same_item": "close",
+     "note": "8 coin box set with certificates, same series; about A$119 a coin. Lot may be 7 or 14 coins."
     }
    ],
    "sold_old": [
@@ -946,11 +1132,11 @@
      "note": "Snippet only. Asking price for a 14 coin box set; purity unknown. Not a price paid."
     }
    ],
-   "resale": 1010.0,
-   "net_resale": 858.5,
-   "max_hammer": 545,
+   "resale": 980.0,
+   "net_resale": 833.0,
+   "max_hammer": 525,
    "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $1,010; less 15% fees = $858; less $200 profit, / 1.20 premium = max hammer $545"
+   "why": "2 same-item SOLD price(s), median $980; less 15% fees = $833; less $200 profit, / 1.20 premium = max hammer $525"
   },
   {
    "cdid": 445139,
@@ -1243,11 +1429,11 @@
    "current_bid": 0.0,
    "bid_count": 5,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "British Pattern 1907 sword bayonet with scabbard, wood grips, dated '10 FEB'15' with crown over 1907 on one ricasso face. Other face has 18, R, X (bend test) and Japanese-looking characters. Wilkinson name not seen in photos 5 and 6. Guard looks without hooked quillon (hook was dropped in 1915). Japanese-like marks not explained by anything found; sources say P1907 was modelled on the Japanese Type 30 but no Japanese-contract P1907 was confirmed.",
+   "identification": "British Pattern 1907 sword bayonet with scabbard, dated 10 FEB '15, crown over 1907, bend test X, no hooked quillon, plus unexplained Japanese-looking characters. Maker name not seen in the photos.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: 'Wilkinson 1907 bayonet scabbard' and 'pattern 1907 bayonet japanese marked 1915' (Australia and UK sold); also carters.com.au price guide for Wilkinson 1907 bayonet.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 310.0,
@@ -1264,6 +1450,62 @@
      "url": "gowans lot id 383897 (gowansauctions.com.au lots API)",
      "same_item": "close",
      "note": "1907 Lithgow bayonet, 11 bids, scabbard not stated in title. Local database, premium extra."
+    },
+    {
+     "aud_price": 428.59,
+     "date": "2026-07-15",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157523389077",
+     "same_item": "yes",
+     "note": "British P07 Wilkinson Pall Mall bayonet with scabbard"
+    },
+    {
+     "aud_price": 358.39,
+     "date": "2025-09-20",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157067035493",
+     "same_item": "yes",
+     "note": "British P07 Wilkinson bayonet and scabbard, WWII period"
+    },
+    {
+     "aud_price": 371.21,
+     "date": "2025-08-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116694687994",
+     "same_item": "yes",
+     "note": "WW1 1907 Wilkinson with 1943 scabbard"
+    },
+    {
+     "aud_price": 353.9,
+     "date": "2025-06-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157020418825",
+     "same_item": "yes",
+     "note": "British P07 Wilkinson bayonet and scabbard"
+    },
+    {
+     "aud_price": 250.92,
+     "date": "2025-03-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167342835910",
+     "same_item": "yes",
+     "note": "British 1907 Wilkinson Pall Mall, April date"
+    },
+    {
+     "aud_price": 372.51,
+     "date": "2025-02-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156378040193",
+     "same_item": "yes",
+     "note": "WWI Australian-issue P07 Wilkinson with scabbard"
+    },
+    {
+     "aud_price": 328.74,
+     "date": "2025-01-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/155269211490",
+     "same_item": "yes",
+     "note": "WW1 British P07 Wilkinson with scabbard"
     }
    ],
    "sold_old": [
@@ -1318,11 +1560,11 @@
    ],
    "unsold": [],
    "asking": [],
-   "resale": 270.0,
-   "net_resale": 229.5,
-   "max_hammer": 20,
+   "resale": 353.9,
+   "net_resale": 300.815,
+   "max_hammer": 80,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $270; less 15% fees = $230; less $200 profit, / 1.20 premium = max hammer $20"
+   "why": "9 same-item SOLD price(s), median $354; less 15% fees = $301; less $200 profit, / 1.20 premium = max hammer $80"
   },
   {
    "cdid": 445186,
@@ -1515,12 +1757,53 @@
    "current_bid": 0.0,
    "bid_count": 4,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "US M1917 bayonet made by Remington (1917 and Remington roundel, flaming bomb, U.S., 14 inspection mark), a derivative of the British Pattern 1913. Scabbard dated 1918 (partly read), white metal chape and mount. Title says Pattern 1913 but the US ordnance marks make it an M1917. Common, around 1.2 million Remington P1913/M1917 made.",
+   "identification": "US M1917 bayonet by Remington (1917, US ordnance marks), a US version of the British Pattern 1913, with a 1918 scabbard.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold items: 'M1917 Remington bayonet scabbard' and 'US 1917 Remington bayonet'",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 246.97,
+     "date": "2026-10-02",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/237066003407",
+     "same_item": "yes",
+     "note": "WW1 US Remington M1917 bayonet and scabbard"
+    },
+    {
+     "aud_price": 285.06,
+     "date": "2026-06-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/206328040311",
+     "same_item": "yes",
+     "note": "US Remington M1917 bayonet with 2nd pattern scabbard"
+    },
+    {
+     "aud_price": 448.03,
+     "date": "2026-01-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157399462499",
+     "same_item": "yes",
+     "note": "WWI US 1917 Remington with Mk I leather scabbard, better scabbard"
+    },
+    {
+     "aud_price": 308.12,
+     "date": "2026-07-12",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/206385067105",
+     "same_item": "yes",
+     "note": "Remington P1913/M1917 bayonet"
+    },
+    {
+     "aud_price": 267.33,
+     "date": "2025-04-13",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167414075247",
+     "same_item": "yes",
+     "note": "US M1917 Remington with Remington scabbard"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -1549,11 +1832,11 @@
      "note": "Snippet only. Typical US dealer range for Remington M1917 with scabbard in good condition, about AUD300 to 525; aud_price is the mid-range at rate 1.5. Dealer asking, not verified."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "resale": 285.06,
+   "net_resale": 242.301,
+   "max_hammer": 35,
+   "status": "PASS",
+   "why": "5 same-item SOLD price(s), median $285; less 15% fees = $242; less $200 profit, / 1.20 premium = max hammer $35"
   },
   {
    "cdid": 445206,
@@ -1565,12 +1848,53 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Officer's cross belt fitting: lion mask boss keeper with scrolled border, belcher chain and hinged-top tapered whistle, as used on colonial and British officer's cross belts. Photos show no hallmarks; metal looks white metal or plated, not clearly silver. Back of boss has replaced fittings (nut, brass part). Paper printout calls it a Victorian infantry officer's whistle. The Noble comps for the same type (NSW Military Forces lion boss, chain and whistle) are all white metal.",
+   "identification": "Officer's cross belt fitting: lion mask boss, chain and whistle, white metal or plated, no hallmarks seen, replaced fittings on the back.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: 'lion boss whistle chain cross belt' and 'victorian officers whistle lion head chain' (sold items, Australia and UK)",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 149.01,
+     "date": "2026-02-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157636148660",
+     "same_item": "yes",
+     "note": "Victorian Rifles officer's whistle and chain with lion head boss"
+    },
+    {
+     "aud_price": 221.97,
+     "date": "2026-02-06",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/177732415236",
+     "same_item": "yes",
+     "note": "officer's cross-belt whistle and chain set with lion boss"
+    },
+    {
+     "aud_price": 153.23,
+     "date": "2025-10-20",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/389106276827",
+     "same_item": "yes",
+     "note": "cross belt whistle and chain, circular lion head boss with fixing"
+    },
+    {
+     "aud_price": 146.69,
+     "date": "2025-10-23",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/389128945325",
+     "same_item": "yes",
+     "note": "same type, same seller"
+    },
+    {
+     "aud_price": 94.93,
+     "date": "2025-10-27",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/317419229857",
+     "same_item": "yes",
+     "note": "Victorian shoulder belt chains, whistle and lion head boss"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 240.0,
@@ -1616,11 +1940,11 @@
      "note": "Birmingham 1904 hallmarked sterling lion whistle and Albert chain. Snippet only (page gave 403), unverified. Converted at assumed 1 GBP = 2.0 AUD. Hallmarked silver, which this lot is not shown to be."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 149.01,
+   "net_resale": 126.65849999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $149 does not clear the current bid $0"
   },
   {
    "cdid": 446534,
@@ -1695,85 +2019,36 @@
    "lot": 280,
    "title": "BOOK - AUSTRALIAN ART POTTERY 1900-1950 - CASUARINA PRESS",
    "strength": 5,
-   "findings": "Australian Art Pottery 1900-1950, Casuarina Press hardback with dust jacket",
-   "condition": "jacket good",
+   "findings": "Hardback with dust jacket: AUSTRALIAN ART POTTERY 1900-1950, Casuarina Press (Geoff Ford, 1995 per title and imprint; author name not visible on the photo). Cover read in full; spine and title page not shown, copyright page not visible. This is the standard, long out-of-print reference on Australian art pottery (Remued, Bendigo, Merric Boyd etc.) and the only edition; it has a steady collector and dealer market well above cover price.",
+   "condition": "Jacket glossy and appears clean with no visible tears; orange spine edge visible; corners look sharp from the one photo.",
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Australian Art Pottery 1900-1950, eds Kevin Fahy, John Freeland, Keith Free, Andrew Simpson, Casuarina Press, Sydney, 2004, hardback with dust jacket. Jacket looks clean in the single photo. No edition number is visible or stated (the Oct 2025 Gowans copy was numbered 1249/2000), so numbered or signed status is unknown.",
+   "identification": "Australian Art Pottery 1900-1950, Casuarina Press. Cover only shown (title, Casuarina Press); no author, spine, title page or copyright page visible. The scan note's '1995, Geoff Ford' is NOT supported by the photo: the only book by this title is the 2004 Casuarina Press (Sydney) volume ed. Kevin Fahy, John Freeland, Keith Free and Andrew Simpson, 372pp, limited edition of 2000 numbered copies, original RRP $295. Cover matches the 2004 jacket. A modern, fairly common reference book, not a scarce first edition.",
    "researched": true,
    "needs_chrome": true,
-   "chrome_hint": "eBay.com.au sold/completed listings: \"Australian Art Pottery 1900-1950\" Casuarina Press; also Australian Book Auctions / Lawsons results for the same title",
+   "chrome_hint": "eBay AU sold listings: 'Australian Art Pottery 1900-1950 Casuarina Press'; also AbeBooks/Biblio listings for the same title",
    "chrome_done": false,
    "sold": [
     {
      "aud_price": 65.0,
      "date": "2025-10-06",
-     "venue": "Gowans Auctions, Hobart (lot 670, 6 bids)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=casuarina%20press&page%5Bnumber%5D=1",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=australian%20art%20pottery",
      "same_item": "yes",
-     "note": "Limited no. 1249/2000 copy. Local comps DB and Gowans API (id 365871, sale_price 6500 cents); premium extra. Condition not stated. Best same-buyer-pool result."
+     "note": "From comps database (gowans lot id 365871, 6 bids): same book, numbered 1249/2000, 2004 Casuarina Press. Database row only, API page not re-opened. Condition not stated. Two db rows are the same lot."
     }
    ],
    "sold_old": [],
-   "unsold": [
-    {
-     "aud_price": 0.0,
-     "date": "2026-10-04 listing",
-     "venue": "Gowans Auctions, Hobart (lot 443, id 442172)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=casuarina%20press&page%5Bnumber%5D=1",
-     "same_item": "yes",
-     "note": "Same title, likely a copy that did not sell the week before (inferred from sale_price 0, 1 bid; reserve or bid amount not shown). API data, not a page. Ceiling signal only."
-    },
-    {
-     "aud_price": 0.0,
-     "date": "2026-10-11 listing",
-     "venue": "Gowans Auctions, Hobart (lot 331, id 443676)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=casuarina%20press&page%5Bnumber%5D=1",
-     "same_item": "yes",
-     "note": "Same title again the following week, likely the same copy re-offered and unsold (inferred). Suggests weak room demand at Gowans."
-    },
-    {
-     "aud_price": 50.0,
-     "date": "date not seen",
-     "venue": "Lawsons, Sydney",
-     "url": "https://www.lawsons.com.au/auction-catalog/books-bric-a-brac-miscellany_F6HYA1I8ZZ",
-     "same_item": "close",
-     "note": "Limited ed. no. 1386/2000. Snippet only, result not confirmed; bid not a final price."
-    }
-   ],
+   "unsold": [],
    "asking": [
     {
-     "aud_price": 125.0,
-     "date": "undated",
-     "venue": "Lawsons, Sydney sales 8905 and 9181",
-     "url": "https://archive.lawsons.com.au/asp/searchresults.asp?pg=3&sale_no=8905",
-     "same_item": "close",
-     "note": "Auction estimates only, no results seen. Snippet only."
-    },
-    {
-     "aud_price": 260.0,
-     "date": "live, seen 2026-10-21",
-     "venue": "Berkelouw Rare Books",
-     "url": "http://berkelouw.com.au/rare-book/australian-art-pottery-1900-1950/242161/buy-online",
+     "aud_price": 295.0,
+     "date": "live, seen 2026-10-22",
+     "venue": "Simpson's Antiques (AAADA dealer listing; Simpson is a Casuarina Press editor)",
+     "url": "https://aaada.org.au/items?item=5103",
      "same_item": "yes",
-     "note": "Dealer online price, page opened. Retail asking, condition not shown. A second Berkelouw listing at $250 was seen in a snippet only."
-    },
-    {
-     "aud_price": 150.0,
-     "date": "live, seen 2026-10-21",
-     "venue": "AbeBooks, Erika Wallington (USA)",
-     "url": "https://www.abebooks.com/book-search/title/australian-art-pottery-1900-1950/",
-     "same_item": "yes",
-     "note": "First edition, Fine, dust jacket Near Fine, page opened. Rate used about 1 USD = 1.50 AUD (assumed). Retail asking price, offshore."
-    },
-    {
-     "aud_price": 450.0,
-     "date": "live, seen via snippet 2026-10-21",
-     "venue": "Treloars",
-     "url": "https://www.treloars.com/catalogues/online-catalogue-53?action=catalog&category_id=367&orderBy=author&recordsLength=50&view=list&p=2",
-     "same_item": "close",
-     "note": "Described as second expanded edition; snippet only, unverified. Dealer retail."
+     "note": "Page opened. Dealer price equals original RRP, likely new or publisher stock. Asking price only, not a price paid."
     }
    ],
    "resale": 65.0,
@@ -2125,12 +2400,37 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Insta360 ONE X2 pocket 360 camera, boxed, with charger and cable, neoprene case, mini tripod, silicone cover. Condition and battery health unknown, no SIM (title). Single photo.",
+   "identification": "Insta360 ONE X2 360 degree camera, boxed with charger, cable, case, mini tripod and cover; condition and battery unknown.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU, Insta360 ONE X2, filters Sold Items + Australia only; also eBay 'insta360 one x2 bundle' sold",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 221.0,
+     "date": "2026-10-05",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/137662770526",
+     "same_item": "yes",
+     "note": "Insta360 ONE X2 camera"
+    },
+    {
+     "aud_price": 270.05,
+     "date": "2026-06-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/147365846954",
+     "same_item": "yes",
+     "note": "Insta360 ONE X2 black, preowned"
+    },
+    {
+     "aud_price": 172.74,
+     "date": "2026-08-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/168637759642",
+     "same_item": "yes",
+     "note": "Insta360 One X2, contents not checked"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2167,11 +2467,11 @@
      "note": "Snippet only, condition unclear, so unverified."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 221.0,
+   "net_resale": 187.85,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $221 does not clear the current bid $0"
   },
   {
    "cdid": 445334,
@@ -2532,12 +2832,21 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Redington Crosswater 9ft, line 8, 4 piece graphite fly rod (model 890-4), in Redington bag. Entry-level Redington range; photo shows cork handle, clean reel seat, no reel.",
+   "identification": "Redington Crosswater 9 ft 8 weight 4 piece fly rod (890-4) in bag, no reel.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: Redington Crosswater 890-4 (also 'Redington Crosswater 8wt 9ft'), Australia and US, last 90 days",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 91.22,
+     "date": "2025-04-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/356529375092",
+     "same_item": "yes",
+     "note": "Redington Crosswater 9 ft 8 wt, as new and unused"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2566,11 +2875,11 @@
      "note": "Crosswater 890-4 new with tags. Snippet only, asking price, looks inflated, ignore for value."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 91.22,
+   "net_resale": 77.53699999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $91 does not clear the current bid $0"
   },
   {
    "cdid": 445465,
@@ -2915,12 +3224,45 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Corgi CC99203 Edward Stobart 1954-2011 Commemorative Set (1:50, Holly's of Renown), boxed, plus about 5 to 6 boxed Lledo Days Gone vehicles (green boxes) in a carton. Single photo; set number read from the box and confirmed by web search.",
+   "identification": "Corgi CC99203 Edward Stobart 1954-2011 Commemorative Set (1:50), boxed, plus 5 to 6 boxed Lledo Days Gone models.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold and completed listings: Corgi CC99203 Edward Stobart Commemorative Set; also Lledo Days Gone boxed lot",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 66.71,
+     "date": "2026-09-22",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/128075410996",
+     "same_item": "yes",
+     "note": "Corgi CC99203 Stobart Scania truck and trailer set"
+    },
+    {
+     "aud_price": 95.49,
+     "date": "2025-12-12",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/135527705437",
+     "same_item": "yes",
+     "note": "2011 Corgi CC99203"
+    },
+    {
+     "aud_price": 75.5,
+     "date": "2025-08-11",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/127300422783",
+     "same_item": "yes",
+     "note": "Corgi CC99203 commemorative set"
+    },
+    {
+     "aud_price": 161.6,
+     "date": "2024-11-23",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/133645025252",
+     "same_item": "yes",
+     "note": "Corgi CC99203, top of range"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 78.0,
@@ -2951,11 +3293,61 @@
      "note": "Snippet only, not verified. Asking prices for CC99203, new or pre-owned. AUD figure is a rough midpoint at about 1.5 AUD per USD (approximate)."
     }
    ],
+   "resale": 85.495,
+   "net_resale": 72.67075,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $85 does not clear the current bid $0"
+  },
+  {
+   "cdid": 445548,
+   "lot": 568,
+   "title": "BOX OF VINTAGE MILITARY RELATED BOOKS & 2 TASMANIAN YEAR BOOKS",
+   "strength": 5,
+   "findings": "Run of about 21-22 Australian War Memorial green cloth wartime annuals plus two Tasmanian Year Book 1971 (red cloth). Spines read: These Eagles (RAAF, 1942), RAAF Log (The RAAF at War), HMAS Mk IV (The RAN's fourth book), Stand Easy (After the Defeat of Japan 1945), On Guard (Volunteer Defence Corps), RAAF Saga (The RAAF at War), As You Were 1948, As You Were 1950. About 13 further green spines lie flat under the Year Books and could not be read (likely more AWM titles such as Khaki and Green, Jungle Warfare, Soldiering On, Active Service).",
+   "condition": "Spines faded and bumped at ends; text blocks look sound; jackets absent as usual.",
+   "current_bid": 0.0,
+   "bid_count": 1,
+   "close": "23/10/2026 09:30:00 AM AEDT",
+   "identification": "Box of about 22 green cloth Australian War Memorial wartime Christmas-style annuals plus two red cloth Tasmanian Year Book 1971 volumes. Readable spines: These Eagles, RAAF Log, HMAS (Mk IV), Stand Easy, On Guard, RAAF Saga, As You Were 1948, As You Were 1950. About 13 further green spines lie flat and cannot be read. Titles not readable: the flat spines and the volume between RAAF Log and Stand Easy. Single photo only. These annuals had very large print runs (Stand Easy 162,240 and RAAF Saga 95,730 by 1957 per AWM), so they are common; the first printings were free or cheap to servicemen.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold: \"Australian War Memorial annual lot Stand Easy RAAF Saga These Eagles\" (optional, low value).",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 25.0,
+     "date": "live, seen 2026-10-22",
+     "venue": "Leura Books (Australia)",
+     "url": "https://www.leurabooks.com.au/product/548433/RAAF-Saga",
+     "same_item": "close",
+     "note": "Page opened. RAAF Saga 3rd edition 1954, good, dust jacket rubbed. Asking price, not paid. Lot books are jacketless."
+    },
+    {
+     "aud_price": 23.3,
+     "date": "live, seen 2026-10-22",
+     "venue": "Marlowes Books",
+     "url": "https://www.marlowesbooks.com/RAAF-Saga.-The-RAAF-At-War--Book-204877",
+     "same_item": "close",
+     "note": "Page opened. RAAF Saga, edition not stated. Asking price."
+    },
+    {
+     "aud_price": 44.0,
+     "date": "live, seen 2026-10-22",
+     "venue": "AbeBooks seller (Ireland)",
+     "url": "https://www.abebooks.com/first-edition/Stand-easy-Australia-Australian-Army-Memorial/11749347439/bd",
+     "same_item": "close",
+     "note": "Page opened. Stand Easy 1945, used. Rate about 1 USD = 1.52 AUD assumed, not checked. Asking price."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 445589,
@@ -3277,36 +3669,127 @@
    "cdid": 445605,
    "lot": 625,
    "title": "BOOK - MARILYN MONROE THE COMPLETE LAST SITTING - BY BERT STERN - HARDCOVER",
-   "strength": 5,
-   "findings": "Sealed Schirmer Art Books hardcover, Bert Stern Marilyn Monroe The Complete Last Sitting, in shrink wrap.",
-   "condition": "Sealed, appears fine.",
+   "strength": 6,
+   "findings": "Bert Stern, Marilyn Monroe: The Complete Last Sitting, 2571 Photographs, Schirmer Art Books (Schirmer/Mosel, first published 1992). Large hardcover in dust jacket, appears still in or covered by clear plastic film. Out of print and sought after by photobook and Monroe collectors. Check the copyright page at viewing for 1992 first printing versus later reprint, and that it is the full 2571-photograph edition, not the abridged 'Last Sitting'.",
+   "condition": "Plastic covering prevents a close look; jacket appears clean, no visible tears from the front.",
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Bert Stern, Marilyn Monroe: The Complete Last Sitting, Schirmer Art Books (Schirmer/Mosel) large folio hardcover, c.1992 or later printing, 463 pages, ISBN 3-88814-191-5. Sealed in shrink wrap per photo (cover and publisher line legible). Printing/edition not determinable while sealed.",
+   "identification": "Bert Stern, Marilyn Monroe: The Complete Last Sitting, Schirmer/Mosel large hardcover, still shrink-wrapped; printing unknown while sealed.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold/completed: Bert Stern Marilyn Monroe The Complete Last Sitting Schirmer 1992 hardcover; also AbeBooks sold-out not available, check Rare Book Hub / ABA.",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 258.4,
+     "date": "2026-05-12",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/287313095622",
+     "same_item": "yes",
+     "note": "brand new copy, sold in Australia"
+    },
+    {
+     "aud_price": 427.86,
+     "date": "2026-09-22",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/137687545397",
+     "same_item": "yes",
+     "note": "near fine copy"
+    },
+    {
+     "aud_price": 356.61,
+     "date": "2026-07-12",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/178223444556",
+     "same_item": "yes",
+     "note": "1992 edition"
+    },
+    {
+     "aud_price": 449.31,
+     "date": "2026-06-04",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/155453940775",
+     "same_item": "yes",
+     "note": ""
+    },
+    {
+     "aud_price": 111.26,
+     "date": "2026-08-24",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/158198465883",
+     "same_item": "yes",
+     "note": "1992 edition, condition likely poor at this price"
+    },
+    {
+     "aud_price": 427.92,
+     "date": "2026-02-10",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/177842034176",
+     "same_item": "yes",
+     "note": ""
+    },
+    {
+     "aud_price": 463.59,
+     "date": "2025-12-30",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/176802563732",
+     "same_item": "yes",
+     "note": "hardcover"
+    },
+    {
+     "aud_price": 256.04,
+     "date": "2025-10-31",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/167876414197",
+     "same_item": "yes",
+     "note": ""
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 535.0,
+     "date": "live, seen 2026-10-22",
+     "venue": "AbeBooks dealer listings, ISBN 9783888141911",
+     "url": "https://www.abebooks.com/9783888141911/Bert-Stern-Marilyn-Monroe-Complete-3888141915/plp",
+     "same_item": "yes",
+     "note": "Page opened. Asking prices only, copies of varied condition and printing; also US$300.74 and US$347.02 seen. Rate 1 USD = 1.53 AUD (assumed). Not prices paid."
+    }
+   ],
+   "resale": 392.235,
+   "net_resale": 333.39975,
+   "max_hammer": 110,
+   "status": "PASS",
+   "why": "8 same-item SOLD price(s), median $392; less 15% fees = $333; less $200 profit, / 1.20 premium = max hammer $110"
+  },
+  {
+   "cdid": 445606,
+   "lot": 626,
+   "title": "QTY OF ASST COMIC BOOK & RECORD SETS - SOME WITHOUT RECORDS",
+   "strength": 4,
+   "findings": "About six Power Records 'Book and Record Set' 45rpm comics in bags: three copies of PR17 'The Curse of the Werewolf' (Marvel, copyright 1974 Marvel Comics Group), PR13 (Superman-type cover, title not fully legible), a Peter Pan 'Book and Record' with Superman 'S' cover. Catalogue says some lack the records.",
+   "condition": "Bagged; covers look reasonably bright; records missing from some; duplicates.",
+   "current_bid": 0.0,
+   "bid_count": 2,
+   "close": "23/10/2026 09:30:00 AM AEDT",
+   "identification": "About six Power Records (Peter Pan Industries) 'Book and Record Set' 45rpm comics, bagged: three copies of PR17 'The Curse of the Werewolf' (Marvel, 1974), a Superman-type set (PR13 not fully legible) and a Peter Pan 'Book and Record' with Superman S cover. Titles I could read: Curse of the Werewolf only; the others partly hidden. Catalogue says some lack records. Mid-1970s mass-produced US items, not a first-edition book candidate.",
    "researched": true,
    "needs_chrome": true,
-   "chrome_hint": "eBay sold/completed: Bert Stern Marilyn Monroe \"Complete Last Sitting\" Schirmer (ebay.com.au and ebay.com, Sold Items). Also AbeBooks 'complete last sitting' Schirmer sealed.",
+   "chrome_hint": "eBay sold items: Power Records Curse of the Werewolf PR17 book and record",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
     {
-     "aud_price": 722.0,
-     "date": "live, seen 2026-10-21",
-     "venue": "1stDibs (France seller)",
-     "url": "https://www.1stdibs.com/furniture/more-furniture-collectibles/collectibles-curiosities/books/bert-stern-marilyn-monroe-complete-last-sitting-first-edition-1992/id-f_13032692",
-     "same_item": "close",
-     "note": "Snippet only for the price; page opened but showed no price. Rate 1 USD = 1.52 AUD. 1992 first edition in jacket, condition Good/Fine, unsealed. Dealer asking, unverified."
-    },
-    {
-     "aud_price": 175.0,
-     "date": "live, seen 2026-10-21",
-     "venue": "German retailer (via search result for ebay.de/other)",
-     "url": "https://www.ebay.de/itm/357166407511",
-     "same_item": "close",
-     "note": "Snippet only, unverified, retailer name and URL not confirmed; 2002 Schirmer/Mosel printing, new, list price. Rate 1 EUR = 1.78 AUD. Weak evidence; treat as new-price guide only."
+     "aud_price": 2.0,
+     "date": "live/undated, seen 2026-10-22",
+     "venue": "GoCollect blog on Power Records (via search summary)",
+     "url": "https://gocollect.com/blog/power-records-comics-superheroes-scifi-and-more",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified. Says many copies are listed at $1.49 and a high-grade Conan set asked $100. Rate about 1 USD = 1.55 AUD; the $1.49 figure converts to about A$2, the $100 to about A$155. Shows common sets are cheap and only top-grade complete scarce titles reach real money."
     }
    ],
    "resale": 0,
@@ -3440,11 +3923,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Mahogany brass-bound campaign style trunk, flush brass corner and side straps, oval brass plate, escutcheon. Heavy wear, old finish, one photo. Probably late 19th or early 20th century; no maker marks visible. Dimensions about 90cm wide.",
+   "identification": "Mahogany brass-bound campaign style trunk, about 90 cm wide, heavy wear, no maker marks seen.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: antique mahogany campaign trunk brass bound; also LiveAuctioneers/Invaluable sold: mahogany campaign trunk Australia",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 475.0,
@@ -3556,11 +4039,11 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Oval portrait, probably oil on canvas or board, of a dark-haired woman in Spanish style (rose in hair, black lace mantilla/shawl over a leopard-print-like patterned dress), in a good ornate gilt gesso frame with gilt slip. One photo, no signature visible. Competent academic quality, likely continental c.1860-1890 rather than early 1800s. Unattributed.",
+   "identification": "Oval portrait of a Spanish-style lady with a rose in her hair and lace mantilla, in an ornate gilt frame; unsigned in the photo, probably continental c.1860-1890. Google Lens found only loosely similar portraits, no match.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: 'antique oil painting portrait spanish lady oval gilt gesso frame'; LiveAuctioneers price results: 'spanish lady portrait oval 19th century oil'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [
     {
@@ -3587,7 +4070,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 445650,
@@ -3766,11 +4249,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Signature reads HENK LEURS (Lot title says Hank). Likely Hendrik Johannes Henk Leurs (The Hague 1890-1956), post-Hague School impressionist, son of Johannes Karel Leurs. Small oil on canvas/board, snowy Dutch farm scene with figure, gilt frame. Plausibly genuine period Dutch work but a modest, low-value artist.",
+   "identification": "Small oil, snowy Dutch farmhouse with figure, signed HENK LEURS (Hendrik Johannes Leurs, The Hague 1890-1956), gilt frame.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: \"Henk Leurs\" oil painting; also kunstveiling.nl artist results for Henk Leurs, and invaluable.com search \"Henk Leurs\"",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3778,8 +4261,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 445687,
@@ -3833,27 +4316,35 @@
    "current_bid": 0.0,
    "bid_count": 3,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Cyclopedia of Tasmania (Illustrated), 2 vols, Maitland and Krone, Hobart, 1900 (printed Niven, Melbourne and Ballarat). Photos 2 and 12 show a period title page with foxing and toning; looks like the original 1900 set rather than the 1988 facsimile (500 sets), but not certain. Half cloth/leather bindings worn, vol 1 spine wear. Inscribed flyleaves (names and a gift note), many portraits and views. Not checked for completeness.",
+   "identification": "Cyclopedia of Tasmania (Illustrated), Vols I and II, Maitland and Krone, Hobart 1900 (Niven, Melbourne and Ballarat). Photos show the Vol I title page (royal arms), Vol II title page dated 1900, Parliament, Launceston and Hobart plates, portrait pages; paper foxed and period-looking, so it reads as the original, not the modern facsimile. Half leather, worn. Read: title pages, Tasmania introduction, headings. Not readable: any binder or reprint note, index, last pages.",
    "researched": true,
    "needs_chrome": true,
-   "chrome_hint": "eBay sold/completed: \"Cyclopedia of Tasmania\" 1900 Maitland Krone 2 volumes; also Carters price guide and LiveAuctioneers/Invaluable results for Cyclopedia of Tasmania",
+   "chrome_hint": "eBay sold: \"Cyclopedia of Tasmania 1900\" (Maitland Krone, 2 volumes); also AbeBooks and Rare Book Hub for 'Cyclopedia of Tasmania' 1900 original",
    "chrome_done": false,
    "sold": [
     {
      "aud_price": 110.0,
      "date": "2026-08-23",
      "venue": "Gowans Auctions, Hobart",
-     "url": "gowans lot id 432913",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/432913/",
      "same_item": "close",
-     "note": "Local database. 2 vol leatherbound FACSIMILE copies, 4 bids. Facsimile, so a floor for an original. Premium extra. Page not opened."
+     "note": "2 vol leatherbound facsimile copies of the Cyclopedia of Tasmania. Facsimile, not original, 4 bids; premium extra. Page opened (API). Floor for a reproduction; an original should beat it."
     },
     {
      "aud_price": 110.0,
      "date": "2026-05-24",
      "venue": "Gowans Auctions, Hobart",
-     "url": "gowans lot id 411626",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/411626/",
      "same_item": "close",
-     "note": "Local database. Vol I and II FACSIMILE copy, 4 bids. Facsimile, premium extra. Page not opened."
+     "note": "Vol I and II facsimile copy. Facsimile, not original, 4 bids; premium extra. Page opened (API). Same."
+    },
+    {
+     "aud_price": 25.0,
+     "date": "2025-10-06",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/365657/",
+     "same_item": "close",
+     "note": "Box of assorted books including a Cyclopedia of Tasmania; unclear which; low signal."
     }
    ],
    "sold_old": [
@@ -3863,53 +4354,19 @@
      "venue": "Australian Book Auctions, Melbourne sale 102 lot 59",
      "url": "https://australianbookauctions.com/wp-content/uploads/2022/08/Sale-102-price-list.pdf",
      "same_item": "yes",
-     "note": "Local database. Cyclopedia of Tasmania (Illustrated), likely original set but condition and whether complete unknown. Old, about 5 years. Not opened by me."
-    }
-   ],
-   "unsold": [
+     "note": "Cyclopedia of Tasmania (Illustrated), from the local comps database; condition unknown, old (2021). Price list not opened by me."
+    },
     {
-     "aud_price": 80.0,
-     "date": "2024",
-     "venue": "Lawsons, Sydney",
-     "url": "https://www.lawsons.com.au/auction-lot/walch-s-tasmanian-almanac-together-with-two-volum_EA24446B86",
-     "same_item": "close",
-     "note": "Walch's Almanac plus two vols Cyclopedia, passed in. Snippet only (page gave 403). Mixed lot, edition unknown. Ceiling signal: nobody paid A$80 there."
-    }
-   ],
-   "asking": [
-    {
-     "aud_price": 850.0,
-     "date": "live, seen 2026-10-21",
-     "venue": "Berkelouw Books (rare books dealer)",
-     "url": "http://berkelouw.com.au/rare-books/written-by/author/cyclopedia-of-tasmania-illustrated-the",
+     "aud_price": 300.0,
+     "date": "2013-08-14",
+     "venue": "Leski Auctions, Melbourne sale 72 lot 148",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/72",
      "same_item": "yes",
-     "note": "Page opened. 2 vols, 1900, stock 229908. Condition not shown, likely a better set. Dealer asking, not a price paid."
-    },
-    {
-     "aud_price": 600.0,
-     "date": "live, seen 2026-10-21",
-     "venue": "Treloar's Books",
-     "url": "https://www.treloars.com/pages/books/139048/the-cyclopedia-of-tasmania-an-historical-and-commercial-review-descriptive-and-biographical",
-     "same_item": "close",
-     "note": "Snippet only. 1988 facsimile reprint, number 139 of 500. Dealer asking for a facsimile; sold facsimiles at Gowans made $110."
-    },
-    {
-     "aud_price": 100.0,
-     "date": "live, seen 2026-10-21 (sale 5-7 Nov 2026)",
-     "venue": "Sedwick, Treasure Auction 40 via NumisBids",
-     "url": "https://www.numisbids.com/n.php?p=searchall&searchall=volume&so=2",
-     "same_item": "close",
-     "note": "Snippet only. First edition vols I and II plus second copy of vol I, grade G. Start price only, not a result."
-    },
-    {
-     "aud_price": 245.0,
-     "date": "live, seen 2026-10-21",
-     "venue": "eBay Canada listing",
-     "url": "https://www.ebay.ca/b/cyclopedia/bn_7024918809",
-     "same_item": "yes",
-     "note": "Snippet only. 2 vols 1900 1st ed. Rate used about 1 CAD = 1.10 AUD (approximate). Asking only, not a sale."
+     "note": "Two vols Maitland & Krone 1900 plus 'The Tasmanian Cyclopedia' (1931), so a bundle; old. Database record, page not opened."
     }
    ],
+   "unsold": [],
+   "asking": [],
    "resale": 110.0,
    "net_resale": 93.5,
    "max_hammer": 0,
@@ -3926,11 +4383,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Box of 6 to 8 pieces of 18th c English porcelain, mostly Worcester type c.1760-85. Photo 2 shows a fluted teabowl with blue open crescent mark (Worcester) and a pierced strainer dish with a blue pseudo-Chinese or fret-type mark, cracked and chipped (rim chip visible). Photo 3 shows a scale blue and gilt fluted teapot with polychrome flower sprays and floral lid, c.1770, Worcester style; no damage visible in photos but not inspected. Also a blue and white sauceboat, a blue and white mug with floral sprays, a blue and white cup, a small leaf-shaped dish and a cup with a painted insect inside. Some pieces could be Caughley or Lowestoft rather than Worcester; the scale blue teapot is the key piece, and may be Worcester or a good later copy (Samson or Chamberlain style) - needs checking.",
+   "identification": "Box of 6 to 8 pieces of 18th century English blue and white and polychrome porcelain, some damaged. Google Lens on photo 3 matches the fluted teapot (blue shoulder with gilt 'cracked ice', flower sprays) to Philip Christian & Co of Liverpool c.1770 rather than Worcester; a dealer (Moorabool Antique Galleries) has a similar one at A$1,450 asking (seen in Lens results only, page not opened).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: 'Worcester scale blue teapot 18th century' and 'Worcester fluted teabowl crescent mark' (Sold items); also LiveAuctioneers/Invaluable results for 'Worcester scale blue teapot fluted' and the-saleroom Worcester price guide.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [
     {
@@ -3948,66 +4405,49 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 445706,
    "lot": 726,
    "title": "2 BOXES OF BOOKS - ART IN AUSTRALIA",
    "strength": 5,
-   "findings": "Two boxes of Art and Australia journals, c1963-1980s, including early volumes (Vol 1 No 2 Aug 1962, Vol 1 No 1 May 1963 on spines, Vol 3 No 1 June 1965, Vol 4 No 4 Mar 1967, Vol 6 No 1 1968, Vol 7 No 3 Dec 1969, Vol 16 No 2 1978).",
-   "condition": "Spine wear, some foxing.",
+   "findings": "Two boxes of the Ure Smith journal 'Art and Australia', a long run starting from Vol 1 No 1 May 1963 (first issue), with Vol 1 No 2 August 1963, Vol 3 No 1 June 1965, Vol 4 No 4 March 1967, Vol 6 No 1 June 1968, Vol 7 No 3 December 1969, Vol 16 No 2 Summer December 1978 (Fine Arts Press) visible, plus many later issues and a later large-format issue on top. A run from the first issue sells to dealers and libraries.",
+   "condition": "Spines toned and some edge wear; contents not checked.",
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Two cartons of Art and Australia (Ure Smith, Sydney) quarterly journals, roughly 1962/63 to 1980s, perhaps 80 to 100 issues, mostly 1970s-80s common volumes. Photo 2 shows a stack of early issues on top: Vol 1 No 1 May 1963 (edge-worn), Vol 1 No 2 Aug 1963 (note: spine reads 1962 per scan notes; likely 1963), Vol 3 No 1 Jun 1965, Vol 4 No 4 Mar 1967, Vol 6 No 1 Jun 1968, Vol 7 No 3 Dec 1969, Vol 16 No 2 Dec 1978. Large blue-cover issue visible in box 1. Not the earlier Art in Australia (1916-1942) series despite the lot title.",
+   "identification": "Two cartons of Art and Australia quarterly journals (Ure Smith), about 1963 to 1980s, perhaps 80 to 100 issues, including Vol 1 No 1 May 1963.",
    "researched": true,
-   "needs_chrome": true,
-   "chrome_hint": "eBay sold items: 'Art and Australia magazine lot' and 'Art and Australia 1963 Vol 1'; also Invaluable/LiveAuctioneers search 'Art and Australia journal lot'",
-   "chrome_done": false,
+   "needs_chrome": false,
+   "chrome_hint": "eBay.com.au sold items: 'Art and Australia magazine' and 'Art and Australia 1963 Vol 1 No 1' and 'Art and Australia job lot'; also Invaluable/LiveAuctioneers for 'Art and Australia magazines lot'",
+   "chrome_done": true,
    "sold": [],
-   "sold_old": [
-    {
-     "aud_price": 90.0,
-     "date": "2000-07-12",
-     "venue": "Noble Numismatics, Sydney sale 64 lot 1762",
-     "url": "https://www.noble.com.au/auctions/lot/?id=93272",
-     "same_item": "close",
-     "note": "Run of Art and Australia issues with duplicates, Vol 5 and 6 (1967-68) and more. From local comps database, 26 years old so weak guide to today. Not opened by me, database record only."
-    }
-   ],
+   "sold_old": [],
    "unsold": [],
    "asking": [
     {
-     "aud_price": 2500.0,
-     "date": "live, seen 2026-10-21",
-     "venue": "Michael Treloar Antiquarian Booksellers",
-     "url": "https://www.treloars.com/pages/books/134831/art-and-australia/art-and-australia-volume-1-number-1-may-1963-to-volume-45-number-4-winter-2008",
-     "same_item": "category guide",
-     "note": "Complete run Vol 1 No 1 to Vol 45 No 4 (45 years). Not comparable to a partial 1960s-80s run; dealer asking only. Snippet only."
-    },
-    {
      "aud_price": 21.0,
-     "date": "live, seen 2026-10-21",
-     "venue": "AbeBooks UK listing",
+     "date": "live, seen 2026-10-22",
+     "venue": "AbeBooks UK (dealer)",
      "url": "https://www.abebooks.co.uk/first-edition/Art-Australia-Vol-1-No-1-1963/31759929427/bd",
-     "same_item": "yes",
-     "note": "Single Vol 1 No 1 May 1963, Good, no jacket. Rate assumed GBP 1 = AUD 2.0 (not checked). Dealer asking for the single scarcest issue; shows even No 1 is only about AUD 20 to 40. Snippet only."
+     "same_item": "close",
+     "note": "Vol 1 No 1 May 1963 single issue, Used Good, first edition. Price from fetched page text (page opened, URL as returned by search: https://www.abebooks.co.uk/first-edition/Art-Australia-Vol-1-No-1963/31759929427/bd). Rate about 2.0 AUD per GBP is an assumption. Postage extra. Shows a single first issue is only about $20 asking."
     },
     {
-     "aud_price": 10.0,
-     "date": "seen 2026-10-21",
-     "venue": "Room & Book (UK)",
-     "url": "https://www.roomandbook.co.uk/books/p/rb00347-art-and-australia",
-     "same_item": "yes",
-     "note": "Vol 1 No 1 May 1963, acceptable condition, marked sold at discounted price; the only hint of a price actually paid, but it is a retail sale, not verified. Rate GBP 1 = AUD 2.0 assumed. Snippet only."
+     "aud_price": 20.0,
+     "date": "seen 2026-10-22 (sale date unknown)",
+     "venue": "Room & Book, London (dealer)",
+     "url": "https://www.roomandbook.co.uk/books/p/rb00294-art-and-australia-1963",
+     "same_item": "close",
+     "note": "Vol 1 No 2 Aug 1963, acceptable condition. Page opened. Marked Sold but no date, so treated as a dealer asking price, not a verified sale. Rate 2.0 assumed."
     }
    ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 445710,
@@ -4019,11 +4459,11 @@
    "current_bid": 0.0,
    "bid_count": 4,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Three Penfolds reds: St Henri Claret Special Vintage 1969 (1 pint 6 fl oz, Auldana Cellars label) and two Penfolds Coonawarra Claret Bin 128 Vintage 1973 750ml. Labels aged, one 1973 label has a small mark, fill levels look good (high shoulder) in photo. Photo confirms all three vintages.",
+   "identification": "Three Penfolds reds: St Henri Claret 1969 (1 pint 6 fl oz, Auldana Cellars label) and two Coonawarra Claret Bin 128 1973 750 ml; aged labels, fills look high shoulder.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Wine-Searcher or Langtons/Grays/Lawsons past results: 'Penfolds St Henri Claret 1969' and 'Penfolds Coonawarra Claret Bin 128 1973'; also eBay sold: 'Penfolds Coonawarra Claret Bin 128 1973'; Wickman wine auction values page for St Henri Claret 1969.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4031,8 +4471,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 445719,
@@ -4288,11 +4728,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Large decorative Australian bush droving scene, oil on board, gilt frame with orange slip. Drover on grey horse leading brown horses through dappled sunlit gum trees. Signature in yellow lower left reads Wapener (or Wepener/Wagener); no artist of that name found. Looks like mid to late 20th century decorative output, not a recorded name.",
+   "identification": "Large oil on board of a drover on a grey horse leading horses through gums, signed Wapener (or similar), gilt frame. Google Lens says the composition closely follows d'Arcy Doyle's 'The End of the Muster', so this looks like an amateur copy of a well-known Doyle print, not an original design.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: 'oil painting drover horses bush signed Wapener' and 'Australian droving scene oil painting gilt frame large'; also Invaluable search 'Wapener' and 'Wepener'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4300,8 +4740,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 445802,
@@ -4579,76 +5019,43 @@
    "cdid": 445832,
    "lot": 852,
    "title": "BOOK - A TASMANIAN SKETCHBOOK BY LOUISA A MEREDITH - SOME WEAR",
-   "strength": 6,
+   "strength": 7,
    "findings": "Our Island Home: A Tasmanian Sketch Book by Louisa A Meredith (c1879), autotype plates (Hobart Town, South Arm, Herne Bay, Wine-glass Bay, Cape Raoul). Inside cover has pasted glider newspaper clippings.",
    "condition": "Worn cloth, spine wear, paper foxing, board damage",
    "current_bid": 0.0,
    "bid_count": 4,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Louisa Anne Meredith, 'Our Island Home: A Tasmanian Sketch Book', Hobart J. Walch / London Marcus Ward, 1879, folio, original pictorial cloth with pine-cone gilt design. Photos show autotype plates Hobart Town from Proctor's Road, South Arm, Herne Bay, Wine-glass Bay, Cape Raoul. Spine worn and frayed at head and tail, cover rubbed, foxing on plate margins, front pastedown covered in pasted glider newspaper clippings (1930s Tasmanian gliding), board edge damage. Plates look reasonably clean. Plate count unknown.",
+   "identification": "Louisa Anne Meredith, Our Island Home: A Tasmanian Sketch Book, 1879 folio, original pictorial cloth, worn spine, foxing, newspaper clippings pasted inside the front cover; plate count unknown.",
    "researched": true,
-   "needs_chrome": true,
-   "chrome_hint": "eBay Australia sold listings: 'Meredith Our Island Home Tasmanian Sketch Book 1879'; also AbeBooks / Rare Book Hub for 'Meredith Our Island Home' sold prices.",
-   "chrome_done": false,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold and AbeBooks/Rare Book Hub: 'Meredith Our Island Home Tasmanian Sketch Book 1879'",
+   "chrome_done": true,
    "sold": [],
    "sold_old": [
     {
      "aud_price": 750.0,
      "date": "2024-08-21",
-     "venue": "Australian Book Auctions, Melbourne sale 112 lot 21",
+     "venue": "Australian Book Auctions, Melbourne, sale 112 lot 21",
      "url": "https://australianbookauctions.com/wp-content/uploads/2024/08/Sale-112-price-list.pdf",
      "same_item": "yes",
-     "note": "From local comps database (price list PDF, not opened by me). Folio, autotype plates. Condition not stated in the database line, so assume a decent dealer-grade copy. Hammer, premium extra. Rate: AUD, none needed."
+     "note": "Local comps database hit: folio, full-page autotype plates. Price list PDF not opened by me, condition not stated. Hammer, premium not included. AUD, no conversion."
     },
     {
      "aud_price": 700.0,
      "date": "2024-05-15",
-     "venue": "Australian Book Auctions, Melbourne sale 111 lot 194",
+     "venue": "Australian Book Auctions, Melbourne, sale 111 lot 194",
      "url": "https://australianbookauctions.com/wp-content/uploads/2024/05/sale-111-price-list.pdf",
      "same_item": "yes",
-     "note": "From local comps database (not opened by me). Same title and edition. Condition not stated. Hammer, premium extra."
-    },
-    {
-     "aud_price": 950.0,
-     "date": "2023-07-08",
-     "venue": "Peter Arnold Pty Ltd (Invaluable), 13 tinted autotype plates, original pictorial cloth, est 500-700",
-     "url": "https://www.invaluable.com/artist/meredith-louisa-ann-ly6rwhugw2/sold-at-auction-prices/",
-     "same_item": "yes",
-     "note": "Invaluable artist page parsed (page opened). Invaluable does not say whether priceResult includes premium. Sold above estimate, so likely a good copy. Older than 24 months."
-    },
-    {
-     "aud_price": 600.0,
-     "date": "2023-07-08",
-     "venue": "Peter Arnold Pty Ltd (Invaluable), 'another copy' in original pictorial cloth, slightly marked, W.R. Griffiths bookplate, slipcase, est 400-500",
-     "url": "https://www.invaluable.com/artist/meredith-louisa-ann-ly6rwhugw2/sold-at-auction-prices/",
-     "same_item": "yes",
-     "note": "Page opened. Same sale as the 950 copy. Premium inclusion unknown. Better condition than lot 852 (slightly marked only) and with slipcase, so still a useful lower anchor."
-    },
-    {
-     "aud_price": 800.0,
-     "date": "2017-05-02",
-     "venue": "Colville Auctions (Invaluable), est 1000-1200",
-     "url": "https://www.invaluable.com/artist/meredith-louisa-ann-ly6rwhugw2/sold-at-auction-prices/",
-     "same_item": "yes",
-     "note": "Page opened; title only 'Our Island Home', no condition. Sold below estimate. Old (2017), premium inclusion unknown."
+     "note": "Local comps database hit, same title and description. Price list PDF not opened by me, condition not stated. Hammer, premium not included."
     }
    ],
-   "unsold": [
-    {
-     "aud_price": 600.0,
-     "date": "2019-08-24",
-     "venue": "Sydney Rare Book Auctions (Invaluable)",
-     "url": "https://www.invaluable.com/artist/meredith-louisa-ann-ly6rwhugw2/sold-at-auction-prices/",
-     "same_item": "yes",
-     "note": "Page opened (priceResult 0, currentBid 600). Copy with original decorated cloth, all edges gilt. Ceiling signal only; old."
-    }
-   ],
+   "unsold": [],
    "asking": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 445833,
@@ -7726,6 +8133,115 @@
    "max_hammer": 0,
    "status": "FAIL",
    "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0"
+  },
+  {
+   "cdid": 446159,
+   "lot": 1328,
+   "title": "BOX OF WINSTON CHURCHILL THE 2ND WORLD WAR BOOKS",
+   "strength": 5,
+   "findings": "Read spines: Winston Churchill The Second World War, Cassell, black cloth gilt, vols I, II, III, V and VI (no jackets); plus two further Cassell copies in worn paper jackets: Vol I The Gathering Storm and Vol IV The Hinge of Fate, so all six volumes of the Cassell (UK) issue are present with one duplicate. Also The World Crisis 1915 and The World Crisis 1916-1918 Part II, dark blue cloth (looks like the Thornton Butterworth issue) but with white library shelf numbers on the spines (approx '... CHU'), so ex-library. Churchill His Life in Photographs (blue cloth, facsimile signature on the cover). Cannot read title pages or impression lines from the photo.",
+   "condition": "Black cloth spines rubbed, vol V has a stain on the side; the two jackets are chipped, torn and browned; World Crisis vols ex-library with spine labels and shelf wear.",
+   "current_bid": 0.0,
+   "bid_count": 1,
+   "close": "23/10/2026 09:30:00 AM AEDT",
+   "identification": "Box: Churchill The Second World War, Cassell, all 6 vols plus duplicate vols I and IV in worn jackets; The World Crisis 1915 and 1916-18 pt II (ex-library); Churchill His Life in Photographs. Title pages and impression lines not readable.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold: Churchill Second World War Cassell 6 volumes set; also Churchill World Crisis Thornton Butterworth 1923",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 70.0,
+     "date": "2025-11-17",
+     "venue": "Gowans Auctions Hobart, lot id 375787",
+     "url": "gowans id 375787 (local comps.py)",
+     "same_item": "close",
+     "note": "COMPLETE SET 1-6 WINSTON CHURCHILL WWII BOOKS, 9 bids; premium extra; from local database, edition and condition unknown"
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-02-23",
+     "venue": "Gowans Auctions Hobart, lot id 392380",
+     "url": "gowans id 392380 (local comps.py)",
+     "same_item": "close",
+     "note": "4 WINSTON CHURCHILL WORLD WAR II BOOKS, 4 bids; part set"
+    },
+    {
+     "aud_price": 5.0,
+     "date": "2025-12-01",
+     "venue": "Gowans Auctions Hobart, lot id 379271",
+     "url": "gowans id 379271 (local comps.py)",
+     "same_item": "close",
+     "note": "6 WINSTON CHURCHILL WWII BOOKS, 2 bids; low end"
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 70.0,
+   "net_resale": 59.5,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0"
+  },
+  {
+   "cdid": 446160,
+   "lot": 1329,
+   "title": "BOX OF INSECT BOOKS",
+   "strength": 4,
+   "findings": "Read: Australian Butterflies, McCubbin (Nelson, large format in jacket); For Love of Insects, Eisner (Belknap/Harvard); Australian Insects in Colour (Healy & Smithers, Reed); Australian Spiders in Colour (Mascord); Living Insects (Hughes); Ants Observed (Warne); Wonders of the Beetle World (Wheaton); The Life of the Spider (Fabre); The World of Ants, Bees & Wasps (Vevers, Warne); wasps (Harrap); Insect Collecting; Insects (Golden Press); Social Life in the Insect World (Fabre, Pelican); Social Behaviour in Insects (Imms); Fabre's Book of Insects (Stawell, Nelson) x2; Nature's Pioneers of the Insect World (Ritson, Allenson); Collecting Specimens (Periwinkle); Black's Young Naturalist series; Insect Life in Britain (Geoffrey Taylor); The Junior Book of Insects (second revised edition, Dutton); several unread spines at right.",
+   "condition": "Mixed, older titles with rubbed and faded cloth; McCubbin jacket chipped and torn at top edge; paperbacks worn.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "23/10/2026 09:30:00 AM AEDT",
+   "identification": "Box of about 25 insect and natural history books. Readable: Australian Butterflies (McCubbin, Nelson, large format, jacket chipped); For Love of Insects (Eisner); Australian Insects in Colour (Healy & Smithers); Australian Spiders in Colour (Mascord); Fabre titles (Nelson, Pelican); Ants, wasps and beetle books; Junior Book of Insects (2nd rev ed). Unread spines at right. Mostly common, low-value.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold: McCubbin Australian Butterflies Nelson 1971",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 35.0,
+     "date": "2026-09-27 listing",
+     "venue": "Gowans Auctions Hobart, lot 440652",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=Australian%20Butterflies",
+     "same_item": "close",
+     "note": "Box of assorted books incl Australian birds, Tasmanian ferns, butterflies, snakes. API result, no page opened. Mixed natural history box."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-07-12 listing",
+     "venue": "Gowans Auctions Hobart, lot 423589",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=insect%20books",
+     "same_item": "close",
+     "note": "Box of Australian animal, bird and insect books. API result, no page opened. Closest box comparison."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 70.0,
+     "date": "live, seen 2026-10-22",
+     "venue": "Treloar's (Adelaide dealer)",
+     "url": "https://www.treloars.com/pages/books/98331/charles-mccubbin/australian-butterflies",
+     "same_item": "yes",
+     "note": "McCubbin Australian Butterflies, Nelson 1971 folio. Snippet only, condition not seen. Dealer asking, not paid."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "live, seen 2026-10-22",
+     "venue": "Lamdha Books",
+     "url": "https://www.lamdhabooks.com.au/product/sku/217910",
+     "same_item": "close",
+     "note": "McCubbin Australian Butterflies, wear to boards and wrapper. Snippet only. Dealer asking."
+    }
+   ],
+   "resale": 32.5,
+   "net_resale": 27.625,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $32 does not clear the current bid $0"
   },
   {
    "cdid": 446229,
