@@ -18,6 +18,7 @@ These are book and comic lots the first Chrome list left out. Most are boxes, so
 - SOLD and UNSOLD from the last 24 months only, Australian sales preferred; say the currency and, if not AUD, the rate you used.
 - Same item only: same title, edition, printing, binding and comparable condition (jacket or not, ex-library or not). Say what differs. A merely similar book is a "category guide", not a comp.
 - Give the individual listing or lot URL, never a search-results page. At most 3 searches per title, then move on.
+- Book rule (Andy): if a title's first edition turns out to be worth little, record that and move on; spend the remaining searches on titles whose first edition can sell for hundreds or thousands.
 - First edition check: from the photos you usually cannot see the copyright page. Record comps for the first edition and for later printings separately, so Andy knows what to check at the Friday-morning viewing.
 
 ## Output

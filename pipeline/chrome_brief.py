@@ -29,6 +29,7 @@ RULES = """## Rules
   - ASKING: a live or expired listing, Buy It Now, dealer price or auction estimate.
 - SOLD and UNSOLD from the last 24 months only, Australian sales preferred; say the currency and, if not AUD, the rate you used.
 - Same item only: same maker, model, edition, size, era and comparable condition. Say what differs. A merely similar item is a "category guide", not a comp.
+- Books: price the first edition and later printings separately. A book whose first edition is worth little needs no further work; spend the searches on titles whose first edition can sell for hundreds or thousands.
 - Give the individual listing or lot URL, never a search-results page. At most 6 searches per lot, then move on.
 """
 
