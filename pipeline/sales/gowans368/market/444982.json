@@ -1,7 +1,7 @@
 {
  "cdid": 444982,
  "lot": 2,
- "identification": "Gents 9ct yellow gold signet ring, rectangular black onyx panel with a small stone (likely tiny diamond or paste) set in a white-metal square, 9CT stamp visible, stated 3.6gm total weight, size V. Scratched and worn.",
+ "identification": "Gents 9ct yellow gold signet ring, black onyx panel with small stone set in a white metal square, 3.6 g total weight, size V, scratched.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,10 +68,59 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/416044/",
    "same_item": "category guide",
    "note": "Unmarked 9ct signet piece 2.5gm, 3 bids. Local database and Gowans API record; premium extra; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$322.30",
+   "currency": "AUD",
+   "aud_price": 322.3,
+   "date": "2026-09-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267773822340",
+   "same_item": "yes",
+   "note": "9ct ring black onyx with diamond accent, mens signet; weight not in title",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$189.62",
+   "currency": "AUD",
+   "aud_price": 189.62,
+   "date": "2026-08-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/318801090527",
+   "same_item": "yes",
+   "note": "vintage mens 9ct onyx signet 3 g, no diamond",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$355.18",
+   "currency": "AUD",
+   "aud_price": 355.18,
+   "date": "2026-06-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267695844431",
+   "same_item": "similar",
+   "note": "9ct mens onyx signet with diamond halo, more diamonds",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$544.58",
+   "currency": "AUD",
+   "aud_price": 544.58,
+   "date": "2026-07-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167791615471",
+   "same_item": "similar",
+   "note": "gents onyx signet 9ct 4.1 g, size T, heavier and better condition",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) signet words and work/comps.py 9ct onyx ring, 9ct gold ring 3.6gm, 9ct gents ring; Gowans API search 9ct onyx ring and 9ct gold signet gm. No web search done (Gowans same-buyer-pool results were close and sufficient; many local rows were repeats of a Denhams/Gowans template entry and were ignored as unreliable). eBay sold would add little.",
+ "searches_tried": "comps.py (pipeline) signet words and work/comps.py 9ct onyx ring, 9ct gold ring 3.6gm, 9ct gents ring; Gowans API search 9ct onyx ring and 9ct gold signet gm. No web search done (Gowans same-buyer-pool results were close and sufficient; many local rows were repeats of a Denhams/Gowans template entry and were ignored as unreliable). eBay sold would add little. | chrome: Terapeak AU sold 12 months '9ct gold onyx signet ring' (44 sold), filtered to 3 to 4.5 g and diamond-set. Comparable rings of 3 to 4 g sold for A$190 to A$545, middle about A$340.",
  "needs_chrome": false,
- "viewing_check": "Check the 9CT stamp is complete (photo shows '9CT' then a partly worn mark), whether the small centre stone is a real diamond, and that the onyx is uncracked. Weigh if possible; 3.6gm includes onyx so gold is under about 3gm, melt roughly $120-170.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Check the small stone (diamond or paste) with a loupe, and that the onyx is not chipped or loose.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }
