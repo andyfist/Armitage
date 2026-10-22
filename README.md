@@ -34,7 +34,7 @@ Run in this order by `routines/armitage-new-sale.md`; each stage writes under `p
 | `promote.py` | Promotes lots to the photo scan when their title matches past sales of $250 or more in the price databases (`databases/`, Armitage's own results, Gowans) |
 | `comps.py <words>` | Looks an item up in every local price database (Noble coins, ABA books, Armitage results, Gowans, earlier research); the market researchers run it before searching the web |
 | `prep.py <chid>` | Reads every lot page, sorts the lots with the rules, downloads photos and builds contact sheets and the workflow args |
-| `wf_funnel.js` | The Workflow: title pass, photo scan, rescore, cloud price research. Sonnet only, no Opus |
+| `wf_funnel.js` | The Workflow: title pass, photo scan, rescore, cloud price research. The photo scan runs on Opus at high effort (`scanModel`, `scanEffort` in the args override it); every other stage on Sonnet |
 | `merge_scan.py` | Checks a scan batch (every photo viewed) and writes `scans/<tag>.json` |
 | `assess.py <chid>` | The bid check in code: the $200 rule, provisional maximums, the Chrome list, the "first pass" email |
 | `chrome_brief.py <chid>` | The hand-over for the Chrome research on the home computer (run on Sonnet): rules, output format, one section per lot with its photos |
