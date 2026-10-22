@@ -9,15 +9,15 @@
   "premium": 0.198,
   "months": 24,
   "top": 25,
-  "ignore_bids": true
+  "ignore_bids": false
  },
  "scanned": 1053,
  "candidates": 131,
  "counts": {
-  "PASS": 6,
-  "CHROME": 17,
-  "FAIL": 78,
-  "DROP": 0,
+  "PASS": 10,
+  "CHROME": 6,
+  "FAIL": 82,
+  "DROP": 3,
   "NOT RESEARCHED": 30
  },
  "lots": [
@@ -31,11 +31,11 @@
    "current_bid": 0.0,
    "bid_count": 3,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Gents 9ct yellow gold signet ring, rectangular black onyx panel with a small stone (likely tiny diamond or paste) set in a white-metal square, 9CT stamp visible, stated 3.6gm total weight, size V. Scratched and worn.",
+   "identification": "Gents 9ct yellow gold signet ring, black onyx panel with small stone set in a white metal square, 3.6 g total weight, size V, scratched.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 380.0,
@@ -52,16 +52,32 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/363299/",
      "same_item": "close",
      "note": "9CT GOLD ONYX RING size S, 5.3gm, 14 bids. Heavier than this lot. Local database and Gowans API record; premium extra; page not opened."
+    },
+    {
+     "aud_price": 322.3,
+     "date": "2026-09-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/267773822340",
+     "same_item": "yes",
+     "note": "9ct ring black onyx with diamond accent, mens signet; weight not in title"
+    },
+    {
+     "aud_price": 189.62,
+     "date": "2026-08-31",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/318801090527",
+     "same_item": "yes",
+     "note": "vintage mens 9ct onyx signet 3 g, no diamond"
     }
    ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 315.0,
-   "net_resale": 267.75,
-   "max_hammer": 55,
+   "resale": 286.15,
+   "net_resale": 243.22749999999996,
+   "max_hammer": 35,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $315; less 15% fees = $268; less $200 profit, / 1.20 premium = max hammer $55"
+   "why": "4 same-item SOLD price(s), median $286; less 15% fees = $243; less $200 profit, / 1.20 premium = max hammer $35"
   },
   {
    "cdid": 444989,
@@ -73,11 +89,11 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Two very fine 18ct box/snake chains, both broken, plus a small bail/pendant clip (looks dark, may not be gold). Photo 2 shows clasp ring stamped 750 and 360 AR. Weight not stated beyond '2gm & 1 other'; photos suggest 2 to 3gm of chain.",
+   "identification": "Two fine broken 18ct (750) box/snake chains plus a small bail or clip that may not be gold; about 2 to 3 g.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 230.0,
@@ -297,11 +313,11 @@
    "current_bid": 0.0,
    "bid_count": 3,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "9ct yellow gold long-link (figaro-style, alternating long and short oval links) bracelet with lobster clasp, stamped 9 and .375 in a cartouche (photo 2). Claimed 8.9g; weight not verifiable from photos. Looks slim and in decent condition, some wear.",
+   "identification": "9ct yellow gold figaro-style long link bracelet, lobster clasp, stamped 9 and .375, stated 8.9 g.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 725.0,
@@ -366,6 +382,38 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/428946/",
      "same_item": "close",
      "note": "9CT GOLD BRACELET - 3.2GM. Local comps database (page not opened); premium extra. 12 bids, about $69/g"
+    },
+    {
+     "aud_price": 453.21,
+     "date": "2026-08-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/117348172587",
+     "same_item": "close",
+     "note": "9ct yellow gold bracelet 8.17 g, link style not checked; A$55/g"
+    },
+    {
+     "aud_price": 595.92,
+     "date": "2026-09-07",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/147555208032",
+     "same_item": "close",
+     "note": "9ct curb bracelet 10 g; A$60/g"
+    },
+    {
+     "aud_price": 738.72,
+     "date": "2026-06-14",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/147370873527",
+     "same_item": "close",
+     "note": "UnoAErre 9ct bracelet 10.59 g, branded Italian; A$70/g"
+    },
+    {
+     "aud_price": 509.41,
+     "date": "2026-03-22",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/127734489340",
+     "same_item": "yes",
+     "note": "9ct figaro link bracelet 7.84 g, 375 hallmarked; A$65/g"
     }
    ],
    "sold_old": [],
@@ -380,11 +428,11 @@
      "note": "Melt guide only, snippet only (WebSearch summary, pages not opened; direct goldprice.org blocked). 8.9g x 70.8 = about $630 spot; x 62.87 = about $560 scrap buy-back. Floor reference, not a sale. Rate: AUD as quoted."
     }
    ],
-   "resale": 470.0,
-   "net_resale": 399.5,
-   "max_hammer": 165,
+   "resale": 504.70500000000004,
+   "net_resale": 428.99925,
+   "max_hammer": 190,
    "status": "PASS",
-   "why": "8 same-item SOLD price(s), median $470; less 15% fees = $400; less $200 profit, / 1.20 premium = max hammer $165"
+   "why": "12 same-item SOLD price(s), median $505; less 15% fees = $429; less $200 profit, / 1.20 premium = max hammer $190"
   },
   {
    "cdid": 445076,
@@ -579,12 +627,69 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Perth Mint 2010 Saint Mary MacKillop 1/10oz 99.99 gold proof $15, coloured reverse, 2010 mintage reported 2,010 (coinnews/coinsweekly snippets), issue price AUD 275 in 2010. Photos show coin in capsule, grey case, blue outer box and COA; all look genuine and complete.",
+   "identification": "Perth Mint 2010 Saint Mary MacKillop 1/10 oz 99.99 gold proof $15, coloured, in capsule, case, outer box with COA.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 2010 Mary MacKillop 1/10 oz gold proof Perth Mint; also Perth Mint 1/10oz gold proof $15 recent sold for gold-price comparison",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 627.72,
+     "date": "2026-09-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/257773129818",
+     "same_item": "yes",
+     "note": "2010 MacKillop 1/10oz gold proof, Perth Mint"
+    },
+    {
+     "aud_price": 718.71,
+     "date": "2026-07-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/168315395490",
+     "same_item": "yes",
+     "note": "2010 MacKillop 1/10oz gold proof, Perth Mint"
+    },
+    {
+     "aud_price": 837.81,
+     "date": "2026-04-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/227223164552",
+     "same_item": "yes",
+     "note": "MacKillop First Australian Saint 1/10oz gold proof"
+    },
+    {
+     "aud_price": 546.25,
+     "date": "2025-04-26",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/133761189809",
+     "same_item": "yes",
+     "note": "2010 MacKillop 1/10oz proof; gold was cheaper in 2025"
+    },
+    {
+     "aud_price": 496.53,
+     "date": "2025-04-04",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/335760189406",
+     "same_item": "yes",
+     "note": "2010 Perth Mint 1/10oz proof MacKillop"
+    },
+    {
+     "aud_price": 476.36,
+     "date": "2025-03-20",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/376042703838",
+     "same_item": "yes",
+     "note": "same coin plus a magazine"
+    },
+    {
+     "aud_price": 471.45,
+     "date": "2025-02-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/295854014340",
+     "same_item": "yes",
+     "note": "same coin plus a magazine"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 240.0,
@@ -621,11 +726,11 @@
    ],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "resale": 546.25,
+   "net_resale": 464.3125,
+   "max_hammer": 220,
+   "status": "PASS",
+   "why": "7 same-item SOLD price(s), median $546; less 15% fees = $464; less $200 profit, / 1.20 premium = max hammer $220"
   },
   {
    "cdid": 445087,
@@ -776,12 +881,85 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "WWI Memorial Plaque (Dead Man's Penny), bronze, about 120mm, Britannia with lion, named ARTHUR EDWARD BATE (no rank or regiment on plaque, as normal). Looks like an original cast plaque with natural brown patina; reverse blank apart from lot sticker. Not a replica on the photos, but casting texture is not fully verifiable.",
+   "identification": "WWI Memorial Plaque named ARTHUR EDWARD BATE. Online records (Virtual War Memorial Australia) show Private Arthur Edward Bate, AIF, died of pneumonia on 22 January 1916 at Sydney Hall Hospital, Weymouth, England, buried Greenbank Cemetery, Bristol. So it is an Australian (AIF) plaque.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold+completed: 'WW1 memorial plaque death penny' (also 'dead mans penny named'), last 90 days; also Noble Numismatics results search 'Memorial Plaque' sales 2024-2026",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 392.9,
+     "date": "2026-03-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/227269565359",
+     "same_item": "close",
+     "note": "named AIF plaque, 24 Bn, KIA (killed in action plaques sell better than died of illness)"
+    },
+    {
+     "aud_price": 310.39,
+     "date": "2025-12-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/326920651348",
+     "same_item": "close",
+     "note": "named WW1 dead man's penny"
+    },
+    {
+     "aud_price": 212.04,
+     "date": "2025-11-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/306612035740",
+     "same_item": "close",
+     "note": "named AIF plaque, 6th Bn, KIA"
+    },
+    {
+     "aud_price": 212.82,
+     "date": "2025-11-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157488460575",
+     "same_item": "close",
+     "note": "AIF plaque with condolence slip, 16th Bn"
+    },
+    {
+     "aud_price": 185.41,
+     "date": "2025-10-19",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/236396554729",
+     "same_item": "close",
+     "note": "named AIF plaque, Harry Hoare"
+    },
+    {
+     "aud_price": 303.19,
+     "date": "2025-08-31",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/236287945311",
+     "same_item": "close",
+     "note": "named AIF plaque, 11th Bn"
+    },
+    {
+     "aud_price": 315.31,
+     "date": "2025-08-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/306463375793",
+     "same_item": "close",
+     "note": "named AIF plaque, 32nd Bn"
+    },
+    {
+     "aud_price": 281.92,
+     "date": "2025-07-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/306405281152",
+     "same_item": "close",
+     "note": "named AIF plaque, 7th Bn"
+    },
+    {
+     "aud_price": 212.6,
+     "date": "2025-08-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/306441246922",
+     "same_item": "close",
+     "note": "named AIF plaque, 50th Bn"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 900.0,
@@ -803,11 +981,11 @@
      "note": "Snippet only, page blocked to curl. Unverified range, no lot detail; top end likely named Australian or rare units. Not a price paid for a single item."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "resale": 281.92,
+   "net_resale": 239.632,
+   "max_hammer": 30,
+   "status": "PASS",
+   "why": "9 same-item SOLD price(s), median $282; less 15% fees = $240; less $200 profit, / 1.20 premium = max hammer $30"
   },
   {
    "cdid": 445097,
@@ -910,11 +1088,11 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Macquarie Mint 'Smallest Gold Coins of the World' proof set in red timber case, .585 (14ct) gold, 0.5 g and 11 mm each (certificate read: Fiji $1 2014 George Washington). Photos show 7 numbered slots (I to VII) all filled, plus 14 certificates laid out (photo 4), so most likely 7 coins with 14 certificates, or the other 7 coins are elsewhere. Title says 14 coins.",
+   "identification": "Macquarie Mint 'Smallest Gold Coins of the World' set in red timber case, 0.5 g coins of .585 (14ct) or .9999 gold, 11 mm. Photos show 7 filled slots and 14 certificates, title says 14 coins.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold and completed: Macquarie Mint smallest gold coins 14ct .585 set; also Leski lot 209318 result (catalog 620)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 1010.0,
@@ -923,6 +1101,14 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440126/",
      "same_item": "close",
      "note": "Page opened (API). Macquarie Mint set of 14 gold coins in display case with certificates, 6 x .585 and 8 x .999, 6 bids. Mixed purity, so more gold than lot 138; .999 coins are worth more. Premium extra."
+    },
+    {
+     "aud_price": 950.0,
+     "date": "2026-03-04",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/134553948766",
+     "same_item": "close",
+     "note": "8 coin box set with certificates, same series; about A$119 a coin. Lot may be 7 or 14 coins."
     }
    ],
    "sold_old": [
@@ -946,11 +1132,11 @@
      "note": "Snippet only. Asking price for a 14 coin box set; purity unknown. Not a price paid."
     }
    ],
-   "resale": 1010.0,
-   "net_resale": 858.5,
-   "max_hammer": 545,
+   "resale": 980.0,
+   "net_resale": 833.0,
+   "max_hammer": 525,
    "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $1,010; less 15% fees = $858; less $200 profit, / 1.20 premium = max hammer $545"
+   "why": "2 same-item SOLD price(s), median $980; less 15% fees = $833; less $200 profit, / 1.20 premium = max hammer $525"
   },
   {
    "cdid": 445139,
@@ -1243,11 +1429,11 @@
    "current_bid": 0.0,
    "bid_count": 5,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "British Pattern 1907 sword bayonet with scabbard, wood grips, dated '10 FEB'15' with crown over 1907 on one ricasso face. Other face has 18, R, X (bend test) and Japanese-looking characters. Wilkinson name not seen in photos 5 and 6. Guard looks without hooked quillon (hook was dropped in 1915). Japanese-like marks not explained by anything found; sources say P1907 was modelled on the Japanese Type 30 but no Japanese-contract P1907 was confirmed.",
+   "identification": "British Pattern 1907 sword bayonet with scabbard, dated 10 FEB '15, crown over 1907, bend test X, no hooked quillon, plus unexplained Japanese-looking characters. Maker name not seen in the photos.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: 'Wilkinson 1907 bayonet scabbard' and 'pattern 1907 bayonet japanese marked 1915' (Australia and UK sold); also carters.com.au price guide for Wilkinson 1907 bayonet.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 310.0,
@@ -1264,6 +1450,62 @@
      "url": "gowans lot id 383897 (gowansauctions.com.au lots API)",
      "same_item": "close",
      "note": "1907 Lithgow bayonet, 11 bids, scabbard not stated in title. Local database, premium extra."
+    },
+    {
+     "aud_price": 428.59,
+     "date": "2026-07-15",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157523389077",
+     "same_item": "yes",
+     "note": "British P07 Wilkinson Pall Mall bayonet with scabbard"
+    },
+    {
+     "aud_price": 358.39,
+     "date": "2025-09-20",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157067035493",
+     "same_item": "yes",
+     "note": "British P07 Wilkinson bayonet and scabbard, WWII period"
+    },
+    {
+     "aud_price": 371.21,
+     "date": "2025-08-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116694687994",
+     "same_item": "yes",
+     "note": "WW1 1907 Wilkinson with 1943 scabbard"
+    },
+    {
+     "aud_price": 353.9,
+     "date": "2025-06-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157020418825",
+     "same_item": "yes",
+     "note": "British P07 Wilkinson bayonet and scabbard"
+    },
+    {
+     "aud_price": 250.92,
+     "date": "2025-03-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167342835910",
+     "same_item": "yes",
+     "note": "British 1907 Wilkinson Pall Mall, April date"
+    },
+    {
+     "aud_price": 372.51,
+     "date": "2025-02-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156378040193",
+     "same_item": "yes",
+     "note": "WWI Australian-issue P07 Wilkinson with scabbard"
+    },
+    {
+     "aud_price": 328.74,
+     "date": "2025-01-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/155269211490",
+     "same_item": "yes",
+     "note": "WW1 British P07 Wilkinson with scabbard"
     }
    ],
    "sold_old": [
@@ -1318,11 +1560,11 @@
    ],
    "unsold": [],
    "asking": [],
-   "resale": 270.0,
-   "net_resale": 229.5,
-   "max_hammer": 20,
+   "resale": 353.9,
+   "net_resale": 300.815,
+   "max_hammer": 80,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $270; less 15% fees = $230; less $200 profit, / 1.20 premium = max hammer $20"
+   "why": "9 same-item SOLD price(s), median $354; less 15% fees = $301; less $200 profit, / 1.20 premium = max hammer $80"
   },
   {
    "cdid": 445186,
@@ -1515,12 +1757,53 @@
    "current_bid": 0.0,
    "bid_count": 4,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "US M1917 bayonet made by Remington (1917 and Remington roundel, flaming bomb, U.S., 14 inspection mark), a derivative of the British Pattern 1913. Scabbard dated 1918 (partly read), white metal chape and mount. Title says Pattern 1913 but the US ordnance marks make it an M1917. Common, around 1.2 million Remington P1913/M1917 made.",
+   "identification": "US M1917 bayonet by Remington (1917, US ordnance marks), a US version of the British Pattern 1913, with a 1918 scabbard.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold items: 'M1917 Remington bayonet scabbard' and 'US 1917 Remington bayonet'",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 246.97,
+     "date": "2026-10-02",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/237066003407",
+     "same_item": "yes",
+     "note": "WW1 US Remington M1917 bayonet and scabbard"
+    },
+    {
+     "aud_price": 285.06,
+     "date": "2026-06-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/206328040311",
+     "same_item": "yes",
+     "note": "US Remington M1917 bayonet with 2nd pattern scabbard"
+    },
+    {
+     "aud_price": 448.03,
+     "date": "2026-01-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157399462499",
+     "same_item": "yes",
+     "note": "WWI US 1917 Remington with Mk I leather scabbard, better scabbard"
+    },
+    {
+     "aud_price": 308.12,
+     "date": "2026-07-12",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/206385067105",
+     "same_item": "yes",
+     "note": "Remington P1913/M1917 bayonet"
+    },
+    {
+     "aud_price": 267.33,
+     "date": "2025-04-13",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167414075247",
+     "same_item": "yes",
+     "note": "US M1917 Remington with Remington scabbard"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -1549,11 +1832,11 @@
      "note": "Snippet only. Typical US dealer range for Remington M1917 with scabbard in good condition, about AUD300 to 525; aud_price is the mid-range at rate 1.5. Dealer asking, not verified."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "resale": 285.06,
+   "net_resale": 242.301,
+   "max_hammer": 35,
+   "status": "PASS",
+   "why": "5 same-item SOLD price(s), median $285; less 15% fees = $242; less $200 profit, / 1.20 premium = max hammer $35"
   },
   {
    "cdid": 445206,
@@ -1565,12 +1848,53 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Officer's cross belt fitting: lion mask boss keeper with scrolled border, belcher chain and hinged-top tapered whistle, as used on colonial and British officer's cross belts. Photos show no hallmarks; metal looks white metal or plated, not clearly silver. Back of boss has replaced fittings (nut, brass part). Paper printout calls it a Victorian infantry officer's whistle. The Noble comps for the same type (NSW Military Forces lion boss, chain and whistle) are all white metal.",
+   "identification": "Officer's cross belt fitting: lion mask boss, chain and whistle, white metal or plated, no hallmarks seen, replaced fittings on the back.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: 'lion boss whistle chain cross belt' and 'victorian officers whistle lion head chain' (sold items, Australia and UK)",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 149.01,
+     "date": "2026-02-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157636148660",
+     "same_item": "yes",
+     "note": "Victorian Rifles officer's whistle and chain with lion head boss"
+    },
+    {
+     "aud_price": 221.97,
+     "date": "2026-02-06",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/177732415236",
+     "same_item": "yes",
+     "note": "officer's cross-belt whistle and chain set with lion boss"
+    },
+    {
+     "aud_price": 153.23,
+     "date": "2025-10-20",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/389106276827",
+     "same_item": "yes",
+     "note": "cross belt whistle and chain, circular lion head boss with fixing"
+    },
+    {
+     "aud_price": 146.69,
+     "date": "2025-10-23",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/389128945325",
+     "same_item": "yes",
+     "note": "same type, same seller"
+    },
+    {
+     "aud_price": 94.93,
+     "date": "2025-10-27",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/317419229857",
+     "same_item": "yes",
+     "note": "Victorian shoulder belt chains, whistle and lion head boss"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 240.0,
@@ -1616,11 +1940,11 @@
      "note": "Birmingham 1904 hallmarked sterling lion whistle and Albert chain. Snippet only (page gave 403), unverified. Converted at assumed 1 GBP = 2.0 AUD. Hallmarked silver, which this lot is not shown to be."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 149.01,
+   "net_resale": 126.65849999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $149 does not clear the current bid $0"
   },
   {
    "cdid": 446534,
@@ -2076,12 +2400,37 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Insta360 ONE X2 pocket 360 camera, boxed, with charger and cable, neoprene case, mini tripod, silicone cover. Condition and battery health unknown, no SIM (title). Single photo.",
+   "identification": "Insta360 ONE X2 360 degree camera, boxed with charger, cable, case, mini tripod and cover; condition and battery unknown.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU, Insta360 ONE X2, filters Sold Items + Australia only; also eBay 'insta360 one x2 bundle' sold",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 221.0,
+     "date": "2026-10-05",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/137662770526",
+     "same_item": "yes",
+     "note": "Insta360 ONE X2 camera"
+    },
+    {
+     "aud_price": 270.05,
+     "date": "2026-06-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/147365846954",
+     "same_item": "yes",
+     "note": "Insta360 ONE X2 black, preowned"
+    },
+    {
+     "aud_price": 172.74,
+     "date": "2026-08-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/168637759642",
+     "same_item": "yes",
+     "note": "Insta360 One X2, contents not checked"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2118,11 +2467,11 @@
      "note": "Snippet only, condition unclear, so unverified."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 221.0,
+   "net_resale": 187.85,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $221 does not clear the current bid $0"
   },
   {
    "cdid": 445334,
@@ -2483,12 +2832,21 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Redington Crosswater 9ft, line 8, 4 piece graphite fly rod (model 890-4), in Redington bag. Entry-level Redington range; photo shows cork handle, clean reel seat, no reel.",
+   "identification": "Redington Crosswater 9 ft 8 weight 4 piece fly rod (890-4) in bag, no reel.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: Redington Crosswater 890-4 (also 'Redington Crosswater 8wt 9ft'), Australia and US, last 90 days",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 91.22,
+     "date": "2025-04-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/356529375092",
+     "same_item": "yes",
+     "note": "Redington Crosswater 9 ft 8 wt, as new and unused"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2517,11 +2875,11 @@
      "note": "Crosswater 890-4 new with tags. Snippet only, asking price, looks inflated, ignore for value."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 91.22,
+   "net_resale": 77.53699999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $91 does not clear the current bid $0"
   },
   {
    "cdid": 445465,
@@ -2866,12 +3224,45 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Corgi CC99203 Edward Stobart 1954-2011 Commemorative Set (1:50, Holly's of Renown), boxed, plus about 5 to 6 boxed Lledo Days Gone vehicles (green boxes) in a carton. Single photo; set number read from the box and confirmed by web search.",
+   "identification": "Corgi CC99203 Edward Stobart 1954-2011 Commemorative Set (1:50), boxed, plus 5 to 6 boxed Lledo Days Gone models.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold and completed listings: Corgi CC99203 Edward Stobart Commemorative Set; also Lledo Days Gone boxed lot",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 66.71,
+     "date": "2026-09-22",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/128075410996",
+     "same_item": "yes",
+     "note": "Corgi CC99203 Stobart Scania truck and trailer set"
+    },
+    {
+     "aud_price": 95.49,
+     "date": "2025-12-12",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/135527705437",
+     "same_item": "yes",
+     "note": "2011 Corgi CC99203"
+    },
+    {
+     "aud_price": 75.5,
+     "date": "2025-08-11",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/127300422783",
+     "same_item": "yes",
+     "note": "Corgi CC99203 commemorative set"
+    },
+    {
+     "aud_price": 161.6,
+     "date": "2024-11-23",
+     "venue": "eBay UK (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.co.uk/itm/133645025252",
+     "same_item": "yes",
+     "note": "Corgi CC99203, top of range"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 78.0,
@@ -2902,11 +3293,11 @@
      "note": "Snippet only, not verified. Asking prices for CC99203, new or pre-owned. AUD figure is a rough midpoint at about 1.5 AUD per USD (approximate)."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 85.495,
+   "net_resale": 72.67075,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $85 does not clear the current bid $0"
   },
   {
    "cdid": 445548,
@@ -3284,12 +3675,77 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Bert Stern, Marilyn Monroe: The Complete Last Sitting, Schirmer Art Books (Schirmer/Mosel, 1992, ISBN 9783888141911). Cover text legible: 'BERT STERN MARILYN MONROE / THE COMPLETE LAST SITTING ... PHOTOGRAPHS, SCHIRMER ART BOOKS'; the photo count is hidden by plastic glare but the title says Complete Last Sitting, so it is the large 2571-photograph edition. Copy appears sealed or wrapped in plastic. Only one photo; spine, copyright page and printing line not visible.",
+   "identification": "Bert Stern, Marilyn Monroe: The Complete Last Sitting, Schirmer/Mosel large hardcover, still shrink-wrapped; printing unknown while sealed.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Bert Stern Marilyn Monroe The Complete Last Sitting Schirmer 1992 hardcover; also AbeBooks sold-out not available, check Rare Book Hub / ABA.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 258.4,
+     "date": "2026-05-12",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/287313095622",
+     "same_item": "yes",
+     "note": "brand new copy, sold in Australia"
+    },
+    {
+     "aud_price": 427.86,
+     "date": "2026-09-22",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/137687545397",
+     "same_item": "yes",
+     "note": "near fine copy"
+    },
+    {
+     "aud_price": 356.61,
+     "date": "2026-07-12",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/178223444556",
+     "same_item": "yes",
+     "note": "1992 edition"
+    },
+    {
+     "aud_price": 449.31,
+     "date": "2026-06-04",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/155453940775",
+     "same_item": "yes",
+     "note": ""
+    },
+    {
+     "aud_price": 111.26,
+     "date": "2026-08-24",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/158198465883",
+     "same_item": "yes",
+     "note": "1992 edition, condition likely poor at this price"
+    },
+    {
+     "aud_price": 427.92,
+     "date": "2026-02-10",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/177842034176",
+     "same_item": "yes",
+     "note": ""
+    },
+    {
+     "aud_price": 463.59,
+     "date": "2025-12-30",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/176802563732",
+     "same_item": "yes",
+     "note": "hardcover"
+    },
+    {
+     "aud_price": 256.04,
+     "date": "2025-10-31",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/167876414197",
+     "same_item": "yes",
+     "note": ""
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -3302,11 +3758,11 @@
      "note": "Page opened. Asking prices only, copies of varied condition and printing; also US$300.74 and US$347.02 seen. Rate 1 USD = 1.53 AUD (assumed). Not prices paid."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "resale": 392.235,
+   "net_resale": 333.39975,
+   "max_hammer": 110,
+   "status": "PASS",
+   "why": "8 same-item SOLD price(s), median $392; less 15% fees = $333; less $200 profit, / 1.20 premium = max hammer $110"
   },
   {
    "cdid": 445606,
@@ -3467,11 +3923,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Mahogany brass-bound campaign style trunk, flush brass corner and side straps, oval brass plate, escutcheon. Heavy wear, old finish, one photo. Probably late 19th or early 20th century; no maker marks visible. Dimensions about 90cm wide.",
+   "identification": "Mahogany brass-bound campaign style trunk, about 90 cm wide, heavy wear, no maker marks seen.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: antique mahogany campaign trunk brass bound; also LiveAuctioneers/Invaluable sold: mahogany campaign trunk Australia",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 475.0,
@@ -3583,11 +4039,11 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Oval portrait, probably oil on canvas or board, of a dark-haired woman in Spanish style (rose in hair, black lace mantilla/shawl over a leopard-print-like patterned dress), in a good ornate gilt gesso frame with gilt slip. One photo, no signature visible. Competent academic quality, likely continental c.1860-1890 rather than early 1800s. Unattributed.",
+   "identification": "Oval portrait of a Spanish-style lady with a rose in her hair and lace mantilla, in an ornate gilt frame; unsigned in the photo, probably continental c.1860-1890. Google Lens found only loosely similar portraits, no match.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: 'antique oil painting portrait spanish lady oval gilt gesso frame'; LiveAuctioneers price results: 'spanish lady portrait oval 19th century oil'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [
     {
@@ -3614,7 +4070,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 445650,
@@ -3793,11 +4249,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Signature reads HENK LEURS (Lot title says Hank). Likely Hendrik Johannes Henk Leurs (The Hague 1890-1956), post-Hague School impressionist, son of Johannes Karel Leurs. Small oil on canvas/board, snowy Dutch farm scene with figure, gilt frame. Plausibly genuine period Dutch work but a modest, low-value artist.",
+   "identification": "Small oil, snowy Dutch farmhouse with figure, signed HENK LEURS (Hendrik Johannes Leurs, The Hague 1890-1956), gilt frame.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: \"Henk Leurs\" oil painting; also kunstveiling.nl artist results for Henk Leurs, and invaluable.com search \"Henk Leurs\"",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3805,8 +4261,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 445687,
@@ -3927,11 +4383,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Box of 6 to 8 pieces of 18th c English porcelain, mostly Worcester type c.1760-85. Photo 2 shows a fluted teabowl with blue open crescent mark (Worcester) and a pierced strainer dish with a blue pseudo-Chinese or fret-type mark, cracked and chipped (rim chip visible). Photo 3 shows a scale blue and gilt fluted teapot with polychrome flower sprays and floral lid, c.1770, Worcester style; no damage visible in photos but not inspected. Also a blue and white sauceboat, a blue and white mug with floral sprays, a blue and white cup, a small leaf-shaped dish and a cup with a painted insect inside. Some pieces could be Caughley or Lowestoft rather than Worcester; the scale blue teapot is the key piece, and may be Worcester or a good later copy (Samson or Chamberlain style) - needs checking.",
+   "identification": "Box of 6 to 8 pieces of 18th century English blue and white and polychrome porcelain, some damaged. Google Lens on photo 3 matches the fluted teapot (blue shoulder with gilt 'cracked ice', flower sprays) to Philip Christian & Co of Liverpool c.1770 rather than Worcester; a dealer (Moorabool Antique Galleries) has a similar one at A$1,450 asking (seen in Lens results only, page not opened).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: 'Worcester scale blue teapot 18th century' and 'Worcester fluted teabowl crescent mark' (Sold items); also LiveAuctioneers/Invaluable results for 'Worcester scale blue teapot fluted' and the-saleroom Worcester price guide.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [
     {
@@ -3949,7 +4405,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 445706,
@@ -3961,11 +4417,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Two boxes of Art and Australia (Ure Smith, later Fine Arts Press), quarterly journal from Vol 1 No 1 May 1963. Titles read from spines: Vol 1 No 1 (May 1963), Vol 1 No 2 (Aug 1963), Vol 3 No 1 (Jun 1965), Vol 4 No 4 (Mar 1967), Vol 6 No 1 (Jun 1968), Vol 7 No 3 (Dec 1969), Vol 16 No 2 (Dec 1978). The rest are unreadable stacked edges, and a later large-format ART and Australia issue sits on top. Single issues are common; the whole run is also free online at artandaustralia.com/archive.",
+   "identification": "Two cartons of Art and Australia quarterly journals (Ure Smith), about 1963 to 1980s, perhaps 80 to 100 issues, including Vol 1 No 1 May 1963.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold items: 'Art and Australia magazine' and 'Art and Australia 1963 Vol 1 No 1' and 'Art and Australia job lot'; also Invaluable/LiveAuctioneers for 'Art and Australia magazines lot'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3991,7 +4447,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 445710,
@@ -4003,11 +4459,11 @@
    "current_bid": 0.0,
    "bid_count": 4,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Three Penfolds reds: St Henri Claret Special Vintage 1969 (1 pint 6 fl oz, Auldana Cellars label) and two Penfolds Coonawarra Claret Bin 128 Vintage 1973 750ml. Labels aged, one 1973 label has a small mark, fill levels look good (high shoulder) in photo. Photo confirms all three vintages.",
+   "identification": "Three Penfolds reds: St Henri Claret 1969 (1 pint 6 fl oz, Auldana Cellars label) and two Coonawarra Claret Bin 128 1973 750 ml; aged labels, fills look high shoulder.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Wine-Searcher or Langtons/Grays/Lawsons past results: 'Penfolds St Henri Claret 1969' and 'Penfolds Coonawarra Claret Bin 128 1973'; also eBay sold: 'Penfolds Coonawarra Claret Bin 128 1973'; Wickman wine auction values page for St Henri Claret 1969.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4015,8 +4471,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 445719,
@@ -4272,11 +4728,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Large decorative Australian bush droving scene, oil on board, gilt frame with orange slip. Drover on grey horse leading brown horses through dappled sunlit gum trees. Signature in yellow lower left reads Wapener (or Wepener/Wagener); no artist of that name found. Looks like mid to late 20th century decorative output, not a recorded name.",
+   "identification": "Large oil on board of a drover on a grey horse leading horses through gums, signed Wapener (or similar), gilt frame. Google Lens says the composition closely follows d'Arcy Doyle's 'The End of the Muster', so this looks like an amateur copy of a well-known Doyle print, not an original design.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: 'oil painting drover horses bush signed Wapener' and 'Australian droving scene oil painting gilt frame large'; also Invaluable search 'Wapener' and 'Wepener'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4284,8 +4740,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 445802,
@@ -4569,11 +5025,11 @@
    "current_bid": 0.0,
    "bid_count": 4,
    "close": "23/10/2026 09:30:00 AM AEDT",
-   "identification": "Louisa Anne Meredith, Our Island Home: A Tasmanian Sketch Book (Hobart: J. Walch; London: Marcus Ward, 1879), folio, olive/brown gilt-decorated cloth with Huon pine cone design. Photos show autotype plates (Proctor's Road, South Arm, Herne Bay, Wine-Glass Bay, Cape Raoul). Single edition, so any 1879 copy is the first. Cloth rubbed and stained, spine ends frayed, foxing, back pastedown covered with 1930s Mercury glider cuttings and photos (adds minor local aviation interest, not book value). Title page and plate count not seen; the full book has 12 plates.",
+   "identification": "Louisa Anne Meredith, Our Island Home: A Tasmanian Sketch Book, 1879 folio, original pictorial cloth, worn spine, foxing, newspaper clippings pasted inside the front cover; plate count unknown.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold and AbeBooks/Rare Book Hub: 'Meredith Our Island Home Tasmanian Sketch Book 1879'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [
     {
@@ -4599,7 +5055,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 445833,
