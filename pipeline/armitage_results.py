@@ -150,13 +150,15 @@ def parse_lot(chid, it, now):
     title = re.search(r'<h2 class="post-title">(.*?)<span', body, flags=re.S)
     # bid history table, newest first: Bidder ("142599 - Gravelly Beach , " or "77980 - Stanley, TAS  - AutoBid"), Quantity, Bid, Date/Time
     rows = re.findall(r'<tr>\s*<td>([^<]*)</td>\s*<td>(\d+)</td>\s*<td>([\d\.,]+)</td>\s*<td>([\d/: APM]+)</td>', body)
-    history = [dict(bidder(w), qty=int(q), amount=money(a), when=when.strip()) for w, q, a, when in rows]
+    # only the cell as printed is stored (the file must stay under GitHub's 100 MB limit); bidder() or
+    # bidders.parse_who() split it into number, town, state and autobid when needed
+    history = [{'who': strip(w), 'amount': money(a), 'when': when.strip()} for w, q, a, when in rows]
     top = max((h['amount'] for h in history), default=0.0)
     close_text = close.group(1) if close else it['close_group']
     cdt = close_dt(close_text)
     closed = bool(cdt and cdt < now)
     bids = len(rows)
-    rec.update(house_info(body))
+    rec.update({k: v for k, v in house_info(body).items() if k != 'about'})
     rec.update({
         'lot': (lot.group(1) if lot else it['lot_label']) or str(cd),
         'title': strip(title.group(1)) if title else None,
@@ -176,7 +178,7 @@ def parse_lot(chid, it, now):
 
 def save(db, path):
     with open(path + '.tmp', 'w') as f:  # write then rename, so a commit mid-run never sees half a file
-        json.dump(db, f, indent=0)
+        json.dump(db, f, separators=(',', ':'))
     os.replace(path + '.tmp', path)
 
 
@@ -188,7 +190,7 @@ def main():
     ap.add_argument('--refresh-open', action='store_true', help='re-read catalogues that have not finished closing')
     ap.add_argument('--pause', type=float, default=1.0)
     ap.add_argument('--all-houses', action='store_true', help='scrape every lot of other auction houses too (default: a stub only)')
-    ap.add_argument('--stub-others', action='store_true', help='cut catalogues already labelled as another house down to a stub')
+    ap.add_argument('--stub-others', action='store_true', help='cut other houses to a stub and slim older records to the current format')
     ap.add_argument('--tag-houses', action='store_true', help='label catalogues already in the file as Armitage or another house (one request each)')
     ap.add_argument('--out', default=OUT)
     args = ap.parse_args()
@@ -216,6 +218,9 @@ def main():
         for e in db.values():
             if e.get('house') == 'other' and e.get('records'):
                 e.update(records=[], all_closed=True, sold=0)
+            for r in e.get('records', []):  # older records: drop the per-lot copy of 'about' and the split bid fields
+                r.pop('about', None)
+                r['history'] = [{'who': h['who'], 'amount': h['amount'], 'when': h['when']} for h in r.get('history') or []]
         save(db, args.out)
         return
     if not chids:
