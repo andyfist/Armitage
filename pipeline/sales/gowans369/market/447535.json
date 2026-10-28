@@ -1,0 +1,89 @@
+{
+ "cdid": 447535,
+ "lot": 1124,
+ "identification": "Single wide rough-sawn live-edge slab, pale yellow fine grain with pin knots, consistent with Huon pine as catalogued; about 1.3 m by 50 cm by eye, one long shake. Sits beside similar slabs (lots 1123 etc) from the same Gowans timber run.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$155 hammer",
+   "currency": "AUD",
+   "aud_price": 155,
+   "date": "listed 4 Oct 2026 (sold about 9 Oct 2026)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/442693/",
+   "same_item": "close",
+   "note": "Page opened via API. SLAB OF HUON PINE, long rough-sawn live-edge, 6 bids. Top of the recent Gowans slab range. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "listed 11 Oct 2026",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444301/",
+   "same_item": "close",
+   "note": "Page opened via API. SLAB OF HUON PINE, 4 bids. Typical recent Gowans single slab. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "listed 11 Oct 2026",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444314/",
+   "same_item": "close",
+   "note": "Page opened via API. SLAB OF HUON PINE, 3 bids. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 to $105 hammer, 20 Gowans slab lots, median about $60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "listed 11 Oct 2026",
+   "venue": "Gowans Auctions, Hobart (comps.py, lots 444301 to 444325)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Local database. Same series of slabs and 2-slab lots one week; many 0 to 2 bids. Sizes unstated per lot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 to $180 hammer, earlier Gowans SLAB OF HUON PINE lots, typically $40 to $140",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "Sep 2025 to Sep 2026",
+   "venue": "Gowans Auctions, Hobart (comps.py)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=huon+pine&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Local database summary of about 640 slab/piece lots; the $180 and $150 to $140 cases were large wide boards. Median about $50. Premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$660 (2500x440x50mm); A$1,850 (1840x700x53mm); A$80 to A$3,350 range",
+   "currency": "AUD",
+   "aud_price": 660,
+   "date": "live, seen 2026-10-28",
+   "venue": "huonpine.com.au (specialist retailer)",
+   "url": "https://huonpine.com.au/product-category/huonpine/",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Retail dressed/graded slabs, often old-growth; asking, not paid. This lot is rough sawn with a shake so well below retail."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$450 for two 1800x510x38 slabs (marked down from A$1,500)",
+   "currency": "AUD",
+   "aud_price": 450,
+   "date": "live, seen 2026-10-28",
+   "venue": "Facebook Marketplace, Warrane TAS",
+   "url": "https://www.facebook.com/marketplace/item/404012819011258/",
+   "same_item": "close",
+   "note": "Snippet only, not verified. Private asking price, about $225 per slab, similar width; may be stale."
+  }
+ ],
+ "searches_tried": "comps.py (work and pipeline) x4; Gowans API search 'slab of huon pine'; opened 3 Gowans lot records; islandspecialtytimbers tender archive (log prices per m3 only, not slab comparable); WebSearch Huon pine slab prices. Armitage not searched (blind). eBay sold would help but is closed; Gumtree sold not visible.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay sold: huon pine slab (Australia, sold items); also Gumtree/Marketplace Tasmania 'huon pine slab' for realised prices",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Confirm it is Huon pine (pale yellow, sweet resinous smell when scratched), measure length, width and thickness, check the shake length and depth and any rot, and look for birdseye or tight pin-knot figure; compare against neighbouring lots 1123 and 1125 for the best one."
+}

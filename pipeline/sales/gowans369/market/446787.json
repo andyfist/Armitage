@@ -1,0 +1,78 @@
+{
+ "cdid": 446787,
+ "lot": 227,
+ "identification": "German Empire, Prussia, Wilhelm II 5 Mark 1913 (KM 536, .900 silver, about 27.8g, about 28g melt roughly 1.0 oz x .9 = 0.80 oz fine) in a silver filigree bezel on a long paperclip-link chain claimed 835. Mint mark not visible in photos (A most likely, 1.96m minted of 1913A). Mounted, so numismatic premium largely gone; value is mostly silver weight plus a small jewellery premium.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$150 hammer",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart (lot id 437032, 7 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437032/",
+   "same_item": "close",
+   "note": "STERLING SILVER CHAIN WITH 1 SHILLING COIN PENDANT. Similar coin-on-silver-chain format, but sterling and a smaller coin. From comps database, page not opened. Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2025-12-08",
+   "venue": "Gowans Auctions, Hobart (3 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+coin+necklace&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "STERLING SILVER COIN NECKLACE. Low end for a lightweight coin necklace. API result seen, lot page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart (1 bid)",
+   "url": "gowans id 438666",
+   "same_item": "category guide",
+   "note": "CELTIC PENDANT ON 835 SILVER CHAIN. Shows 835 chain with pendant sells low. From comps database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-05-10",
+   "venue": "Gowans Auctions, Hobart (7 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=mark+silver+chain&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "STERLING SILVER NECK CHAIN 30.4GM. Roughly $3.3/g hammer for plain silver chain; useful for the chain's weight value. API result seen, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "USD 168 (Stack's Bowers, Oct 2022, PCGS MS-64, est 100-150)",
+   "currency": "USD",
+   "aud_price": 260,
+   "date": "2022-10",
+   "venue": "Stack's Bowers via PCGS Auction Prices",
+   "url": "https://www.pcgs.com/auctionprices/item/1913-5-mk-j-114/289951/-2527819016047120330",
+   "same_item": "category guide",
+   "note": "Loose uncirculated coin, not comparable to a worn mounted one. Snippet only, unverified. Rate assumed 0.65 USD to AUD."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 315 or best offer",
+   "currency": "USD",
+   "aud_price": 485,
+   "date": "live, seen 2026-10-28",
+   "venue": "eBay listing, circulated 1913-A Prussia 5 mark",
+   "url": "https://www.ebay.com/itm/287278796040",
+   "same_item": "category guide",
+   "note": "Loose circulated coin, snippet only. The search summary called it an outlier; the same summary reported a circulated example ending at USD 68 in April 2026 but gave no URL, so that is not logged as a sale. Rate 0.65."
+  }
+ ],
+ "searches_tried": "comps.py (work and pipeline) for silver chain coin, German 5 mark, 5 mark 1913, 835 silver chain, german mark silver; Gowans API for mark silver chain and silver coin necklace; WebSearch for Prussia 5 mark 1913 pendant and KM 536 price (no mounted-coin sale found; NGC page blocked by Cloudflare). No Noble sale of a plain 1913 5 mark seen. eBay sold listings would settle it best (Chrome step).",
+ "needs_chrome": true,
+ "chrome_hint": "eBay sold/completed: 'silver 5 mark coin pendant necklace 835' and 'Prussia 5 mark 1913 pendant'; also 'silver filigree coin pendant chain 800 835'",
+ "rate_note": "USD to AUD at 0.65 (assumed, not looked up). Melt guide seen in snippet: about USD 53-59 for the coin alone; chain weight unknown (about 15-30g of 835 estimated).",
+ "viewing_check": "Weigh the whole piece if allowed; look for 835 or 800 stamp on the clasp and bezel; read the mint letter under the eagle (A, D, E, F, G, J) and the obverse to confirm it is a real Prussia 1913 5 mark and not a copy or restrike; check the coin is not a plated copy (magnet, edge lettering); check chain solder and clasp for repair."
+}

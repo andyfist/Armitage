@@ -1,0 +1,100 @@
+{
+ "cdid": 446853,
+ "lot": 293,
+ "identification": "Australian Art Pottery 1900-1950, eds Kevin Fahy, John Freeland, Keith Free and Andrew Simpson, Casuarina Press, Sydney 2004, hardback with dust jacket (cover photo matches). The scan note naming Geoffrey Ford as author is wrong. It was a limited edition of 2000 numbered copies, so there is only one printing (no later printings to separate); the lot could be a numbered copy or a signed one. Jacket looks clean in the single photo, with a lot sticker on the front.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2025-10-06",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=australian%20art%20pottery",
+   "same_item": "yes",
+   "note": "Same book (2004 limited edition, copy 1249/2000, 6 bids). API sale_price 6500 cents. Premium extra. Page opened (API)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 closing bid",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-09-09",
+   "venue": "Armitage Auctions, Launceston sale 28587 lot 823",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3044693&chid=28587&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Title only 'BOOK AUSTRALIAN ART POTTERY'; from local comps database, condition unknown. Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 closing bid",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-07-08",
+   "venue": "Armitage Auctions, Launceston sale 28166 lot 844",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2972749&chid=28166&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "BOOK 'AUSTRALIAN ART POTTERY 1900-1950'; local comps database, condition unknown. Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$225",
+   "currency": "AUD",
+   "aud_price": 225,
+   "date": "unknown (Davidson sale 146, date not seen)",
+   "venue": "Davidson Auctions, Sydney, sale 146 lot 558",
+   "url": "https://auctions.davidsonauctions.com.au/asp/searchresults.asp?ps=51&st=D&sale_no=146++++&pg=12",
+   "same_item": "close",
+   "note": "Signed copy #48/2000, estimate $100-300. Signed copy so worth more than an unsigned one; premium inclusion unknown. Page opened."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "no sale, last bid 0 to 3 bids",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "listed 2026-10-04, 10-11, 10-18",
+   "venue": "Gowans Auctions, Hobart (same title relisted)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=australian%20art%20pottery",
+   "same_item": "yes",
+   "note": "Same title appeared in three recent weekly sales with sale_price 0 (1, 1 and 3 bids), so apparently passed in or reserve not met. Could be the same copy being relisted. Page opened (API)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$260 (signed, numbered copy); another A$250",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "live, seen 2026-10-28",
+   "venue": "Berkelouw Rare Books",
+   "url": "http://berkelouw.com.au/rare-book/australian-art-pottery-1900-1950/242161/buy-online",
+   "same_item": "close",
+   "note": "Dealer asking price, signed numbered copy. Snippet only, not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$250 and A$300",
+   "currency": "AUD",
+   "aud_price": 250,
+   "date": "live, seen 2026-10-28",
+   "venue": "Biblio AU dealers",
+   "url": "https://biblio.com.au/authors/keith-simpson/22902",
+   "same_item": "close",
+   "note": "Used first edition with dust jacket. Snippet only, not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$100 to US$144",
+   "currency": "USD",
+   "aud_price": 155,
+   "date": "live, seen 2026-10-28",
+   "venue": "AbeBooks sellers",
+   "url": "https://www.abebooks.com/book-search/title/australian-art-pottery-1900-1950/",
+   "same_item": "close",
+   "note": "Used copies, one Fine with Near Fine jacket at US$100 (about A$155 at roughly 0.65 USD/AUD, assumed rate). Plus shipping. Snippet only, not verified."
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline and work) with australian art pottery, casuarina press; Gowans API search (found the 2025 sale and three recent unsold relistings); WebSearch twice (Berkelouw, Biblio, AbeBooks, Davidson, Lawsons results). Lawsons lots 1697/1698 (copy 167/2000) showed no realised price. eBay sold prices not reachable; they would show the real trade level. Rate: 1 USD = 0.65 AUD assumed.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: \"Australian Art Pottery 1900-1950\" Casuarina; also Lawsons sale 7949A lots 1697 and 1698 realised price",
+ "viewing_check": "Open the book: check the limitation page for a copy number (x/2000) and any signatures of the editors, the jacket condition and spine, and library marks or ownership inscriptions. A signed copy is worth noticeably more.",
+ "rate_note": "USD to AUD about 0.65 (assumed)."
+}

@@ -1,0 +1,110 @@
+{
+ "cdid": 447526,
+ "lot": 1115,
+ "identification": "Two rough-sawn live-edge slabs, pale yellow with dark grey/black staining along the edges and mid-face; catalogued Huon pine. Roughly 2 m tall and 25 to 40 cm wide each, thickness unknown. Staining and checking/rough ends reduce the value.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2+slabs+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Gowans lot 444306 '2 SLABS OF HUON PINE', 5 bids (local comps database; premium extra, not opened). Highest of that sale's 2-slab lots."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2+slabs+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Gowans lot 444305, 2 slabs, 2 bids (comps database)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2+slabs+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Gowans lot 444303, 2 slabs, 4 bids (comps database)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2+slabs+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Gowans lot 444307, 2 slabs, 3 bids (comps database)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2+slabs+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Gowans lot 444302, 2 slabs, 2 bids (comps database). Low end."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2+slabs+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "Gowans lot 436316, 2 slabs, 4 bids (comps database)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 to $100 hammer",
+   "currency": "AUD",
+   "aud_price": 58,
+   "date": "listed Aug to Oct 2026",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2+slabs+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Research-run summary of 2-slab Huon pine lots: $25 to $100, mostly $35 to $60 (API, premium extra)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "listed Aug 2026",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2+slabs+of+huon+pine&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Gowans API 2 SLABS OF HUON PINE listings of 2026-08-09, sale_price 3500 to 9000 cents, typical $55 to $65 (saw API list, premium extra)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$3,350",
+   "currency": "AUD",
+   "aud_price": 3350,
+   "date": "live, seen 2026-10-28",
+   "venue": "huonpine.com.au",
+   "url": "https://huonpine.com.au/product/huon-slab-359-2950-x-840-x-52mm/",
+   "same_item": "category guide",
+   "note": "Snippet only. Dealer-finished 2.95 m x 840 mm x 52 mm slab; much larger, kiln dried and graded, not comparable to rough stained auction slabs."
+  }
+ ],
+ "rate_note": "All AUD, no conversion. Gowans hammer, buyer's premium (about 19.8%) extra.",
+ "searches_tried": "work/comps.py and pipeline/comps.py (huon pine slab, 2 slabs, huon pine); Gowans API search '2 slabs of huon pine' (about 100 sold 2-slab lots since Nov 2025, hammer $10 to $180, mostly $30 to $90); one WebSearch for retail slab pricing (dealer prices not comparable). eBay and Gumtree not checked; not needed for a Gowans-sold commodity lot.",
+ "needs_chrome": false,
+ "viewing_check": "Check thickness (50 mm+ is better), whether the grey stain is surface only or deep rot/spalting, end checks and splits, and whether it is truly Huon pine (smell, pin knots, fine grain). Otherwise nothing."
+}

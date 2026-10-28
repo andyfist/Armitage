@@ -1,0 +1,89 @@
+{
+ "cdid": 447343,
+ "lot": 783,
+ "identification": "Two built LEGO Harry Potter sets: 4842 Hogwarts Castle (2010, about 1290 pieces) and 4867 Hogwarts (2011, about 400 pieces) in a cardboard tray with instruction books (4842 visible). No boxes. Minifigs and dementors visible. Completeness unverified.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$390 hammer",
+   "currency": "AUD",
+   "aud_price": 390,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 442224",
+   "same_item": "category guide",
+   "note": "71043 Hogwarts Castle (6020 pieces, much bigger, newer set), 33 bids. Not the same sets; shows strong Hogwarts demand locally. From local database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-03-01",
+   "venue": "Gowans Auctions, Hobart (lot 393946, 2 HARRY POTTER LEGO SETS)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/393946/",
+   "same_item": "category guide",
+   "note": "Local database hit, 2 unspecified Harry Potter sets, details not confirmed; low-end local reference. Page not opened."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$111.50 complete (used) average, new US$184.50",
+   "currency": "USD",
+   "aud_price": 167,
+   "date": "live, seen 2026-10-28",
+   "venue": "PriceCharting, LEGO 4842 Hogwarts Castle",
+   "url": "https://www.pricecharting.com/game/lego-harry-potter/hogwarts-castle-4842",
+   "same_item": "yes",
+   "note": "Page opened. Aggregate of eBay US sales/guide values, so a market guide not a single sale. Rate 1 USD = 1.50 AUD (assumed). Complete figure is for boxed set with box; no box here so discount. Loose figure shown only US$5.30 (looks unreliable)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$44.95 complete (used), new US$71.09",
+   "currency": "USD",
+   "aud_price": 67,
+   "date": "live, seen 2026-10-28",
+   "venue": "PriceCharting, LEGO 4867 Hogwarts",
+   "url": "https://www.pricecharting.com/game/lego-harry-potter/hogwarts-4867",
+   "same_item": "yes",
+   "note": "Page opened. Guide value, not a sale. Rate 1.50 assumed. Complete-in-box figure; this lot has no box. Loose US$15.70."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$120 to AU$450 range",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "live, seen 2026-10-28",
+   "venue": "eBay Australia product page 4842",
+   "url": "https://ebay.com.au/p/99337649",
+   "same_item": "yes",
+   "note": "Snippet only, not verified. Retail asking range for used 4842, some incomplete. Low end AU$120 used for comparison."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$90",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "live, seen 2026-10-28",
+   "venue": "Australian-market listing (via search snippet)",
+   "url": "https://ebay.com.au/p/99337649",
+   "same_item": "close",
+   "note": "Snippet only, not verified. Used set with only some minifigures; site not clear."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$299.99",
+   "currency": "USD",
+   "aud_price": 450,
+   "date": "live, seen 2026-10-28",
+   "venue": "United Brick Co (atlbrick.com), 4842 pre-owned as-is incomplete",
+   "url": "https://atlbrick.com/products/hogwarts-castle-4th-edition-4842",
+   "same_item": "yes",
+   "note": "Snippet only, not verified. Dealer price, rate 1.50. Dealer asking, high-end ceiling."
+  }
+ ],
+ "searches_tried": "comps.py (both) for lego hogwarts, lego 4842, lego 4867, lego harry potter hogwarts: no same-item sold hits, only 71043 and a $50 two-set lot. Gowans API searches for lego hogwarts/4842/4867/harry potter: only 71043 sold. PriceCharting pages for 4842 and 4867 opened. One WebSearch for built 4842 Australia. No Armitage lookups. eBay sold listings for 4842 and 4867 built/used (Australia) would settle it best.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay.com.au sold and completed: LEGO 4842 Hogwarts Castle used built; and LEGO 4867 Hogwarts used built; also 'lego 4842 4867 bundle'",
+ "rate_note": "USD to AUD at 1.50 (assumed); hammer prices exclude 19.8% premium.",
+ "viewing_check": "Check completeness: count minifigs against 4842 and 4867 lists (Harry, Ron, Hermione, Dumbledore, Snape, Hagrid, Quirrell, Voldemort etc, plus dementors), check for missing small parts, yellowing or sun-fade of white/tan bricks, sticker and printed-part damage, whether instruction books for both sets are present, and for loose bricks or glued pieces."
+}
