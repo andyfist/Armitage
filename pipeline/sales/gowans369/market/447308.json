@@ -1,7 +1,7 @@
 {
  "cdid": 447308,
  "lot": 748,
- "identification": "LEGO Knights' Kingdom 8877 Vladek's Dark Fortress (2006, 967 pieces, 9 minifigs), built, loose in a cardboard box with the original instruction book (creased, worn). Photos confirm the book is 8877 and a built black and red castle with skeleton horse and banners. Loose pieces and minifigs visible at bottom; completeness unknown, no original box.",
+ "identification": "LEGO Knights' Kingdom 8877 Vladek's Dark Fortress (2006), built, loose in a box with original instructions; no original box, completeness unknown",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,60 @@
    "url": "https://www.brickeconomy.com/set/8877-1/lego-knights-kingdom-ii-vladeks-dark-fortress",
    "same_item": "yes",
    "note": "Snippet only, unverified (my own fetch of BrickEconomy and Brick Owl returned no content). Complete sets, asking prices. Rate 1.55. Lower end AUD about 294."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$172.24",
+   "currency": "AUD",
+   "aud_price": 172.24,
+   "date": "2026-10-27",
+   "venue": "eBay (US seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/336841641668",
+   "same_item": "yes",
+   "note": "8877 used, incomplete",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$203.54",
+   "currency": "AUD",
+   "aud_price": 203.54,
+   "date": "2026-08-14",
+   "venue": "eBay (US seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/318029047273",
+   "same_item": "yes",
+   "note": "8877 used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$242.70 list, Best Offer accepted (actual lower)",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2026-09-24",
+   "venue": "eBay (US seller)",
+   "url": "https://www.ebay.com.au/itm/407232497794",
+   "same_item": "yes",
+   "note": "8877 used, 967pc",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$388.33",
+   "currency": "AUD",
+   "aud_price": 388.33,
+   "date": "2026-08-18",
+   "venue": "eBay (US seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/366530613606",
+   "same_item": "yes",
+   "note": "8877 used, '100% complete'",
+   "via": "chrome"
   }
  ],
  "rate_note": "1 USD = 1.55 AUD approx (assumed). Gowans prices are hammer, 19.8% premium extra.",
- "searches_tried": "work/comps.py and pipeline/comps.py (lego 8877, lego castle knights, lego knights, lego vintage, 8877): no 8877 sale at Gowans or elsewhere locally; only castle-themed and vintage lot comps. Gowans API search 'lego knights kingdom': only this lot. WebSearch 'LEGO 8877 Vladek's Dark Fortress sold price used' (snippet). Fetched Brickset (opened); BrickEconomy and Brick Owl returned empty. eBay sold prices are closed to us and would settle the value best. Did not look at PriceCharting or Armitage.",
- "needs_chrome": true,
+ "searches_tried": "work/comps.py and pipeline/comps.py (lego 8877, lego castle knights, lego knights, lego vintage, 8877): no 8877 sale at Gowans or elsewhere locally; only castle-themed and vintage lot comps. Gowans API search 'lego knights kingdom': only this lot. WebSearch 'LEGO 8877 Vladek's Dark Fortress sold price used' (snippet). Fetched Brickset (opened); BrickEconomy and Brick Owl returned empty. eBay sold prices are closed to us and would settle the value best. Did not look at PriceCharting or Armitage. | chrome: eBay sold 'lego 8877' (worldwide). All sales US; used A$170-390, new A$450-740. BrickLink not checked.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold/completed: 'LEGO 8877 Vladek's Dark Fortress' and also 'LEGO 8877 Knights Kingdom used built' (Australia and US, last 90 days, Sold Items); also BrickLink price guide 8877-1 sold used (6-month).",
- "viewing_check": "Count completeness: 9 minifigs (Vladek, Shadow Knights, skeleton, etc.), portcullis, gate, catapult/launcher, banners, horse, number of the 967 pieces roughly (bag size). Check for missing walls, discolouring (red/black fading), stickers, and loose pieces from other sets mixed in. Check the instruction book is the full booklet. Photograph the minifigs and the underside of the base."
+ "viewing_check": "Count the 9 minifigs (Vladek, Jayko, Rascus, shadow knights, skeleton horse rider) and check for the drawbridge and towers; that decides whether it is a A$170 or A$380 set.",
+ "chrome_done": true
 }

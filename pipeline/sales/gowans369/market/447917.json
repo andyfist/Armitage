@@ -1,7 +1,7 @@
 {
  "cdid": 447917,
  "lot": 1506,
- "identification": "Large mixed lot of Sylvanian Families (Epoch) houses and parts in a tub plus two torn boxes: a boxed Country Tree School (box torn), red-roof cream house in pieces, a pink and white Town Series style house, instruction sheets, gold-trimmed furniture, red fabric. One photo only. Figures not visible; buildings partly disassembled, completeness unknown.",
+ "identification": "Large mixed lot of Sylvanian Families houses and parts, boxed Country Tree School (box torn), red-roof house in pieces, Town Series style house, furniture; figures not visible",
  "entries": [
   {
    "kind": "SOLD",
@@ -24,11 +24,60 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/428185/",
    "same_item": "category guide",
    "note": "Box of Sylvanian books, stickers, ears etc. Paper and small items only, floor for odds and ends. Local database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$78.00",
+   "currency": "AUD",
+   "aud_price": 78,
+   "date": "2026-10-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267807465234",
+   "same_item": "no",
+   "note": "category guide: house bundle with koala, sheep, husky, rabbit figures",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$64.30 list, Best Offer accepted (actual lower)",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2026-09-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/366698063696",
+   "same_item": "no",
+   "note": "category guide: house, furniture and bunnies bundle",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$99.95",
+   "currency": "AUD",
+   "aud_price": 99.95,
+   "date": "2026-08-09",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/278223739652",
+   "same_item": "partly",
+   "note": "vintage Japanese red-roof house with furniture",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$155.00 list, Best Offer accepted (actual lower)",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2026-10-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/307121733441",
+   "same_item": "no",
+   "note": "school house with 30+ figures (figures drive value)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for sylvanian, sylvanian families, sylvanian house, calico critters: 2 Gowans hits only. Gowans API search sylvanian (same 2 lots; later queries errored, likely rate limit). WebSearch (armitage.bidsonline, general) failed: session search cap used up, so no web comps. eBay Australia sold listings for 'Sylvanian Families house lot' would settle it.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for sylvanian, sylvanian families, sylvanian house, calico critters: 2 Gowans hits only. Gowans API search sylvanian (same 2 lots; later queries errored, likely rate limit). WebSearch (armitage.bidsonline, general) failed: session search cap used up, so no web comps. eBay Australia sold listings for 'Sylvanian Families house lot' would settle it. | chrome: eBay AU sold 'sylvanian families house bundle' (Australia only). Bundles with figures A$50-155.",
+ "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed: Sylvanian Families house bundle lot; also Red Roof Country Home, Country Tree School, Town Series house sold prices",
- "viewing_check": "Check which houses are present and complete (roof panels, walls, balcony), whether any figures or furniture are in the tub, and the box labels (Town Series items and Red Roof Country Home are the valuable ones). Photograph the tub contents laid out.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Dig through the tub for figures (biggest value driver) and count house parts; check the Country Tree School is complete.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

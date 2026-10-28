@@ -1,7 +1,7 @@
 {
  "cdid": 446954,
  "lot": 394,
- "identification": "H. McHugh (McHugh Pottery, Launceston) Tasmanian art pottery squat vase with flared neck, brown and amber streaked drip glaze. Base incised H. McHugh Tasmania and a shape number (reads 13 or 18). Heavy crazing, and photo 3 shows a glaze spot loss with radiating flaking on the body. Roughly 12 to 15cm high judging by proportions (size not stated).",
+ "identification": "H McHugh Tasmania squat vase, brown and amber drip glaze, shape 13 or 18; heavy crazing and a glaze loss with flaking",
  "entries": [
   {
    "kind": "SOLD",
@@ -200,11 +200,60 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/650",
    "same_item": "category guide",
    "note": "Larger 22.5cm unusual green and mottled brown vase; upper end, interstate. Local comps database result (snippet only, title read, page not opened); AUD so no conversion; hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.00",
+   "currency": "AUD",
+   "aud_price": 48,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/277386727030",
+   "same_item": "partly",
+   "note": "small H.McHugh brown drip glaze vase, condition not checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.04",
+   "currency": "AUD",
+   "aud_price": 42.04,
+   "date": "2026-08-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158183033645",
+   "same_item": "no",
+   "note": "McHugh 1935 vase shape 16",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.50",
+   "currency": "AUD",
+   "aud_price": 85.5,
+   "date": "2026-09-07",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227140429458",
+   "same_item": "no",
+   "note": "mottled brown McHugh flower ball (different form)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.50",
+   "currency": "AUD",
+   "aud_price": 19.5,
+   "date": "2026-10-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237106797327",
+   "same_item": "no",
+   "note": "damaged (AF) 1935 McHugh model 5, shows damage discount",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) 'mchugh vase'; work/comps.py 'mchugh' and 'mchugh pottery' (105 and 30 hits). No web searches run: local databases already hold about 100 same-maker sold results from Gowans and Armitage in the last 7 months, so more web work adds little. Rough range: typical signed McHugh vase 40 to 180 hammer, median about 120; small vases with chips or cracks 25 to 100, with exceptions at 180 for chip to base. eBay sold prices not checkable.",
+ "searches_tried": "comps.py (pipeline) 'mchugh vase'; work/comps.py 'mchugh' and 'mchugh pottery' (105 and 30 hits). No web searches run: local databases already hold about 100 same-maker sold results from Gowans and Armitage in the last 7 months, so more web work adds little. Rough range: typical signed McHugh vase 40 to 180 hammer, median about 120; small vases with chips or cracks 25 to 100, with exceptions at 180 for chip to base. eBay sold prices not checkable. | chrome: eBay sold 'mchugh tasmania pottery'; eBay sold McHugh brown/cobalt variant search. Brown McHugh is the cheaper colourway on eBay (A$42-86).",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Check size (height), shape number on base, whether the chip spot is a through-glaze flake or just a surface loss, any hairline cracks running from it, and whether crazing is stained. Brown and amber drip is a common colourway; look for any dated mark (1934) or unusual form.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Size of the glaze loss and whether flaking is still active; read the shape number.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

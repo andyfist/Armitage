@@ -1,7 +1,7 @@
 {
  "cdid": 447010,
  "lot": 450,
- "identification": "Small framed oil on board of tall forest trees with loose impasto, wide off-white linen mount and grey/gilt frame, signed lower left 'Colin Parker '65' (photo reads COLIN PARKER '65). Probably Colin (Ross) Parker, b.1941, Australian landscape painter mostly seen selling Western NSW and outback scenes; a 1965 date would make him about 24, so artist identity and Tasmanian connection unconfirmed. A second Colin Parker oil (An Old Peppercorn) is in the same Gowans sale, suggesting a single vendor group.",
+ "identification": "Small oil on board of tall forest trees, signed 'Colin Parker 65', grey/gilt frame",
  "entries": [
   {
    "kind": "SOLD",
@@ -70,9 +70,10 @@
    "note": "The Watershore, oil on canvas 19x24cm, closest in size to this lot (image about 20x25cm). Local database, page not opened."
   }
  ],
- "searches_tried": "work/comps.py and pipeline/comps.py 'colin parker' and 'parker oil': 7 hits listed above, no earlier Gowans sale found. Gowans API search 'colin parker': only the two current-sale lots (Peppercorn, Mersey Forest), none past. WebSearch was refused (budget exhausted), so no web searches (Armitage site search, Invaluable artist page, Colville etc.) were done. Not checked: Invaluable/LiveAuctioneers and eBay sold would settle small Colin Parker results better.",
- "needs_chrome": true,
+ "searches_tried": "work/comps.py and pipeline/comps.py 'colin parker' and 'parker oil': 7 hits listed above, no earlier Gowans sale found. Gowans API search 'colin parker': only the two current-sale lots (Peppercorn, Mersey Forest), none past. WebSearch was refused (budget exhausted), so no web searches (Armitage site search, Invaluable artist page, Colville etc.) were done. Not checked: Invaluable/LiveAuctioneers and eBay sold would settle small Colin Parker results better. | chrome: Same eBay sold search as lot 422: nothing relevant. Nothing found.",
+ "needs_chrome": false,
  "chrome_hint": "Invaluable or LiveAuctioneers sold results for 'Colin Parker oil on board' (small works, 2023-2026); eBay sold 'Colin Parker oil painting'",
  "rate_note": "All AUD, no conversion. Hammer prices, premium not included.",
- "viewing_check": "Check signature and date closely (is it 'Colin Parker' with '65, and does it match the b.1941 artist's signature style), look for a gallery or exhibition label on the back naming the title and Mersey Forest, and check board for damage. A small size likely means a modest value of a few hundred dollars at most."
+ "viewing_check": "Check the back for a title or Tasmanian address label; confirm the '65 date.",
+ "chrome_done": true
 }

@@ -1,11 +1,112 @@
-{"cdid":447385,"lot":825,"identification":"Victorian (possibly late Georgian) flame mahogany bow front chest, two short over three long cockbeaded drawers, oval brass plate handles, bun feet. Photo shows good figure, dark finish, top not clearly visible. Size not stated; looks about 105-110cm wide.","entries":[
-{"kind":"SOLD","price":"$310 hammer","currency":"AUD","aud_price":310,"date":"2025-11-12","venue":"Armitage Auctions, Launceston sale 26637 lot 1011","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2729740&chid=26637&category=ALL&style=group","same_item":"close","note":"Figured mahogany bow front 5 drawer chest c.1865, 110cm wide; local database hit, premium not included."},
-{"kind":"SOLD","price":"$270 hammer","currency":"AUD","aud_price":270,"date":"2025-03-26","venue":"Armitage Auctions, Launceston sale 23722 lot 1000","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2448070&chid=23722&category=ALL&style=group","same_item":"close","note":"Georgian mahogany bow front chest, 105cm wide; local database hit."},
-{"kind":"SOLD","price":"$190 hammer","currency":"AUD","aud_price":190,"date":"2025-03-26","venue":"Armitage Auctions, Launceston sale 23722 lot 929","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2448201&chid=23722&category=ALL&style=group","same_item":"category guide","note":"Low bow front chest on claw/ball feet, smaller; local database hit."},
-{"kind":"SOLD","price":"$200 hammer","currency":"AUD","aud_price":200,"date":"2026-08-19","venue":"Armitage Auctions, Launceston sale 28447 lot 1087","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020261&chid=28447&category=ALL&style=group","same_item":"category guide","note":"Small Georgian style 4 drawer bow front, 63cm wide; local database hit."},
-{"kind":"SOLD","price":"$250 hammer","currency":"AUD","aud_price":250,"date":"2025-07-09","venue":"Armitage Auctions, Launceston sale 25106 lot 1068","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2560665&chid=25106&category=ALL&style=group","same_item":"category guide","note":"Georgian mahogany 5 drawer cockbeaded straight chest, 90cm wide; local database hit."},
-{"kind":"SOLD","price":"$480 hammer (17 bids)","currency":"AUD","aud_price":480,"date":"2026-07-05","venue":"Gowans Auctions, Hobart (lot id 421490)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=bow+front+chest","same_item":"close","note":"4 DRAWER BOW FRONT CHEST OF DRAWERS; photos not checked so wood and quality unknown; strongest local price, premium extra; Gowans API and local database."},
-{"kind":"ASKING","price":"AU$1,445 sold (dealer)","currency":"AUD","aud_price":1445,"date":"seen 2026-10-28 (snippet)","venue":"South Perth Antiques & Collectables","url":"https://antiquesandcollectables.com.au/product/victorian-mahogany-bow-front-chest-of-drawers/","same_item":"close","note":"Mid Victorian flame mahogany bow front 5 drawer chest c.1850, dealer retail, snippet only, not verified. Retail ceiling, not auction value."},
-{"kind":"ASKING","price":"AU$2,495 (reduced from 2,985)","currency":"AUD","aud_price":2495,"date":"seen 2026-10-28 (snippet)","venue":"Bazaa","url":"https://bazaa.com.au/products/antique-english-early-victorian-mahogany-bow-front-chest-of-drawers","same_item":"category guide","note":"Early Victorian bow front, 122cm, excellent condition, dealer retail, snippet only."},
-{"kind":"SOLD","price":"GBP 80 hammer","currency":"GBP","aud_price":160,"date":"unknown (snippet)","venue":"Criterion Auctioneers (UK)","url":"https://bid.criterionauctioneers.com/past-auctions/criter11126/lot-details/966fe2b1-76dd-426e-b0ac-afe4012c516e","same_item":"yes","note":"Victorian mahogany bow front two short over three long cockbeaded drawers. Snippet only, date unseen, not verified; UK price shows the type is cheap at auction. AUD at assumed 2.0."}
-],"searches_tried":"pipeline/comps.py (mahogany bow front chest; georgian chest drawers), work/comps.py (bow front chest drawers; victorian mahogany chest drawers), Gowans API bow front chest, one WebSearch for Victorian mahogany bow front sold Australia. Stopped early as common brown furniture. eBay sold would add little. Carters price guide not opened.","needs_chrome":false,"chrome_hint":"","viewing_check":"Check the top (depth of scratches, any water marks or splits), drawer runners and bottoms for woodworm, solid-wood sides and dovetails (Victorian vs later reproduction), size, bun feet condition, and whether the handles are original. Bring a tape measure.","rate_note":"GBP to AUD assumed 2.0; Gowans and Armitage prices are hammer, premium extra."}
+{
+ "cdid": 447385,
+ "lot": 825,
+ "identification": "Victorian (possibly late Georgian) flame mahogany bow front chest, 2 short over 3 long cockbeaded drawers, oval brass handles, bun feet; scratches to top",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$310 hammer",
+   "currency": "AUD",
+   "aud_price": 310,
+   "date": "2025-11-12",
+   "venue": "Armitage Auctions, Launceston sale 26637 lot 1011",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2729740&chid=26637&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Figured mahogany bow front 5 drawer chest c.1865, 110cm wide; local database hit, premium not included."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$270 hammer",
+   "currency": "AUD",
+   "aud_price": 270,
+   "date": "2025-03-26",
+   "venue": "Armitage Auctions, Launceston sale 23722 lot 1000",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2448070&chid=23722&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Georgian mahogany bow front chest, 105cm wide; local database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$190 hammer",
+   "currency": "AUD",
+   "aud_price": 190,
+   "date": "2025-03-26",
+   "venue": "Armitage Auctions, Launceston sale 23722 lot 929",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2448201&chid=23722&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Low bow front chest on claw/ball feet, smaller; local database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$200 hammer",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions, Launceston sale 28447 lot 1087",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020261&chid=28447&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Small Georgian style 4 drawer bow front, 63cm wide; local database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$250 hammer",
+   "currency": "AUD",
+   "aud_price": 250,
+   "date": "2025-07-09",
+   "venue": "Armitage Auctions, Launceston sale 25106 lot 1068",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2560665&chid=25106&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Georgian mahogany 5 drawer cockbeaded straight chest, 90cm wide; local database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$480 hammer (17 bids)",
+   "currency": "AUD",
+   "aud_price": 480,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart (lot id 421490)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=bow+front+chest",
+   "same_item": "close",
+   "note": "4 DRAWER BOW FRONT CHEST OF DRAWERS; photos not checked so wood and quality unknown; strongest local price, premium extra; Gowans API and local database."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$1,445 sold (dealer)",
+   "currency": "AUD",
+   "aud_price": 1445,
+   "date": "seen 2026-10-28 (snippet)",
+   "venue": "South Perth Antiques & Collectables",
+   "url": "https://antiquesandcollectables.com.au/product/victorian-mahogany-bow-front-chest-of-drawers/",
+   "same_item": "close",
+   "note": "Mid Victorian flame mahogany bow front 5 drawer chest c.1850, dealer retail, snippet only, not verified. Retail ceiling, not auction value."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$2,495 (reduced from 2,985)",
+   "currency": "AUD",
+   "aud_price": 2495,
+   "date": "seen 2026-10-28 (snippet)",
+   "venue": "Bazaa",
+   "url": "https://bazaa.com.au/products/antique-english-early-victorian-mahogany-bow-front-chest-of-drawers",
+   "same_item": "category guide",
+   "note": "Early Victorian bow front, 122cm, excellent condition, dealer retail, snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 80 hammer",
+   "currency": "GBP",
+   "aud_price": 160,
+   "date": "unknown (snippet)",
+   "venue": "Criterion Auctioneers (UK)",
+   "url": "https://bid.criterionauctioneers.com/past-auctions/criter11126/lot-details/966fe2b1-76dd-426e-b0ac-afe4012c516e",
+   "same_item": "yes",
+   "note": "Victorian mahogany bow front two short over three long cockbeaded drawers. Snippet only, date unseen, not verified; UK price shows the type is cheap at auction. AUD at assumed 2.0."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py (mahogany bow front chest; georgian chest drawers), work/comps.py (bow front chest drawers; victorian mahogany chest drawers), Gowans API bow front chest, one WebSearch for Victorian mahogany bow front sold Australia. Stopped early as common brown furniture. eBay sold would add little. Carters price guide not opened. | chrome: eBay AU sold 'mahogany bow front chest of drawers' (Australia only): only a small Louis XVI-style bedside chest (A$194.94), not comparable. Nothing found.",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Check drawer dovetails and runners for age, whether the bun feet are replacements, and the top damage.",
+ "rate_note": "GBP to AUD assumed 2.0; Gowans and Armitage prices are hammer, premium extra.",
+ "chrome_done": true
+}

@@ -14,10 +14,10 @@
  "scanned": 1087,
  "candidates": 194,
  "counts": {
-  "PASS": 23,
-  "CHROME": 37,
-  "FAIL": 101,
-  "DROP": 0,
+  "PASS": 22,
+  "CHROME": 15,
+  "FAIL": 113,
+  "DROP": 11,
   "NOT RESEARCHED": 33
  },
  "lots": [
@@ -31,11 +31,11 @@
    "current_bid": 0.0,
    "bid_count": 3,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "9ct yellow gold ring, large triangular bezel-set opal triplet or doublet (flat top, bright multicolour), shank stamped 9CT, 6.3g total, size P. Not solid opal.",
+   "identification": "9ct yellow gold ring, large triangular bezel-set opal triplet or doublet, stamped 9CT, 6.3g total, size P",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 380.0,
@@ -113,11 +113,11 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "18ct (750) yellow gold teardrop pendant, 4.1g total, with a faceted pear-cut pale blue stone (likely synthetic spinel, glass or pale topaz, not tested) in a claw setting inside a rope-twist and chain-link double frame; small white metal accent at base; bail stamped 750 plus partly legible maker mark. Value is mainly the gold, with a modest vintage-style premium. Gowans' own sales of plain 18ct pendants of 3 to 4.3g land around $370 to $600 hammer.",
+   "identification": "18ct yellow gold pendant, 4.1g total, pear-cut pale blue stone in rope-twist frame",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 600.0,
@@ -155,11 +155,11 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Vintage (probably 1920s-1940s) yellow gold half-hoop ring with white metal (platinum or white gold) square illusion settings holding three small old-cut diamonds in a row, and small stones on the shoulders. Shank carries a worn rectangular cartouche stamp plus a smaller mark; in the enlarged photo I could not read it, so 18ct is claimed by the lot title but not confirmed. Colour is a warm yellow-red, consistent with 18ct. 2.7g gross including stones, size O.",
+   "identification": "Vintage (1920s-40s) yellow gold half-hoop ring with white metal illusion settings, three small old-cut diamonds plus shoulder stones; 18ct claimed, stamp not read; 2.7g, size O",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 260.0,
@@ -551,11 +551,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "1948 Mary Marvel character wristwatch, Fawcett Publications licence, Swiss movement, chrome case, blue vinyl strap. Photos confirm dial text and that hands are missing (green centre washer only), dial yellowed and stained, case worn. Likely a Swiss-made copy of the US Marvel Watch Co. type.",
+   "identification": "1948 Mary Marvel character wristwatch (Fawcett), chrome case, hands missing, dial yellowed and stained",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed listings: Mary Marvel watch Fawcett 1948 (also Captain Marvel Jr watch, Marvel Watch Co); and Heritage Auctions / LiveAuctioneers results for Mary Marvel wristwatch",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -563,8 +563,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 446633,
@@ -781,11 +781,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Movado Kingmatic Calendar automatic, 1960s, gold-plated or gold-capped round case, date at 3, brown leather strap (replacement). Single photo; no case back or caseback stamp visible.",
+   "identification": "Movado Kingmatic Calendar automatic, 1960s, gold-plated or gold-capped round case, date at 3, replacement strap",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Movado Kingmatic calendar automatic gold plated (also Movado Kingmatic Calendar 1960s sold)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -803,7 +803,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 446657,
@@ -954,11 +954,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Darphane (Turkish State Mint) red cased set of three large silver proof-finish medals/coins on Ataturk-era themes: republic 'Cumhuriyet sizden fikri hur...' quote, 'Cagdas Giyim Kusam / Sapka Devrimi' (hat reform) and a science/space piece. Each in a capsule, about 38-40mm. Weight and fineness not visible; no hallmark seen. May be medals rather than legal tender coins.",
+   "identification": "Darphane (Turkish State Mint) red-cased set of three large silver proof-finish Ataturk-theme medals/coins; weight and fineness not visible",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Darphane Turkish State Mint silver proof set 3 Ataturk (also try 'Darphane 925 silver medal set Sapka Devrimi')",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -966,8 +966,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 446663,
@@ -1226,11 +1226,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "1966 Royal Australian Mint Canberra proof set, six coins (80% silver 50c, 20c, 10c, 5c, 2c, 1c) in original RAM blue presentation case, one photo. Case exterior looks mid to dark navy with royal blue velvet; Gowans calls it light blue. Light blue is generally the second case of issue; dark blue is the first. All six coins appear present. Copper coins look bright, 50c looks slightly frosty or hazed.",
+   "identification": "1966 Royal Australian Mint proof set, six coins incl. 80% silver 50c, in RAM blue case (catalogue says light blue; photo looks darker)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 1966 Australia proof set light blue case (last 90 days, Sold items)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 325.0,
@@ -1319,6 +1319,22 @@
      "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/644",
      "same_item": "close",
      "note": "Dark blue case, superb condition. Premium treatment not confirmed."
+    },
+    {
+     "aud_price": 350.0,
+     "date": "2026-08-16",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/236992895007",
+     "same_item": "yes",
+     "note": "1966 proof set, light blue case"
+    },
+    {
+     "aud_price": 360.0,
+     "date": "2026-08-10",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/236992894248",
+     "same_item": "yes",
+     "note": "1966 proof set, light blue case (same seller)"
     }
    ],
    "sold_old": [],
@@ -1345,7 +1361,7 @@
    "net_resale": 272.0,
    "max_hammer": 60,
    "status": "PASS",
-   "why": "11 same-item SOLD price(s), median $320; less 15% fees = $272; less $200 profit, / 1.20 premium = max hammer $60"
+   "why": "13 same-item SOLD price(s), median $320; less 15% fees = $272; less $200 profit, / 1.20 premium = max hammer $60"
   },
   {
    "cdid": 446675,
@@ -1382,12 +1398,21 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Perth Mint 2008 HMAS Sydney II 1oz silver proof coin, HSK-8 Kormoran 1oz silver medallion and badge set (mintage 2,500, sold out). Cased, certificate and both capsules present in photo; two badges visible.",
+   "identification": "Perth Mint 2008 HMAS Sydney II 1oz silver proof coin, HSK-8 Kormoran 1oz silver medallion and badge set, cased with certificate",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items, Australia: 2008 HMAS Sydney II Kormoran silver proof medallion badge set Perth Mint",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 249.99,
+     "date": "2026-08-31",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/236815790454",
+     "same_item": "yes",
+     "note": "2008 HMAS Sydney Kormoran silver proof coin, medallion and badge set"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 360.0,
@@ -1449,11 +1474,11 @@
      "note": "Snippet only (page text did not load price); marked sold out, so not a live price. Ensleigh Coins snippet listed $148.75 backordered, also snippet only."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "resale": 249.99,
+   "net_resale": 212.4915,
+   "max_hammer": 10,
+   "status": "PASS",
+   "why": "1 same-item SOLD price(s), median $250; less 15% fees = $212; less $200 profit, / 1.20 premium = max hammer $10"
   },
   {
    "cdid": 446697,
@@ -1806,11 +1831,11 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Seiko Bell-Matic alarm automatic, 17 jewels, day-date (TUE), stainless steel, silver linen dial, 4006 family, early 1970s. Dial flaked and spotted, aftermarket croc-print strap, running unknown.",
+   "identification": "Seiko Bell-Matic 4006 automatic alarm, 17J, steel, silver linen dial, early 1970s; dial flaked and spotted, aftermarket strap, running unknown",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold and completed: Seiko Bell-Matic 4006 steel, silver dial, not working or dial damage, Australia and worldwide, last 90 days",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 360.0,
@@ -1827,6 +1852,46 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=seiko+bellmatic&page%5Bnumber%5D=1",
      "same_item": "close",
      "note": "API record seen. Photo checked: gold-plated case and bracelet, brown/gold dial, clean and attractive, 17 jewels. Better looking colourway and condition than this lot, so an upper marker. Premium extra."
+    },
+    {
+     "aud_price": 140.0,
+     "date": "2026-10-25",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/257793774448",
+     "same_item": "yes",
+     "note": "4006A 17J for repair or parts, not running; dial colour not checked"
+    },
+    {
+     "aud_price": 155.02,
+     "date": "2026-10-15",
+     "venue": "eBay (US seller), price shown in AUD",
+     "url": "https://www.ebay.com.au/itm/940014344706",
+     "same_item": "yes",
+     "note": "4006-7080 17J, condition per title partial/project"
+    },
+    {
+     "aud_price": 150.18,
+     "date": "2026-10-07",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/168742866976",
+     "same_item": "yes",
+     "note": "4006-7004 17J day-date, gold-tone dial"
+    },
+    {
+     "aud_price": 215.93,
+     "date": "2026-10-28",
+     "venue": "eBay (UK seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/880021114161",
+     "same_item": "yes",
+     "note": "4006-7001 working, better condition than this lot"
+    },
+    {
+     "aud_price": 378.82,
+     "date": "2026-10-25",
+     "venue": "eBay (overseas seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/880034034330",
+     "same_item": "yes",
+     "note": "4006-6040 working, better condition"
     }
    ],
    "sold_old": [
@@ -1858,11 +1923,11 @@
      "note": "Snippet only, asking prices, mostly later 4006-7020 or tidy examples. Not verified; AUD figure is a rough low-end guess from the lowest USD asks at 1.50. eBay itself closed to us."
     }
    ],
-   "resale": 435.0,
-   "net_resale": 369.75,
-   "max_hammer": 140,
-   "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $435; less 15% fees = $370; less $200 profit, / 1.20 premium = max hammer $140"
+   "resale": 215.93,
+   "net_resale": 183.5405,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $216 does not clear the current bid $0"
   },
   {
    "cdid": 446754,
@@ -2040,11 +2105,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Wide articulated panel bracelet, textured wave links, box clasp with side safety links, in Sargisons (Hobart) fitted box. No hallmark visible in the single photo, so sterling is unproven and weight unknown. Likely 1950s-70s.",
+   "identification": "Wide articulated textured-wave panel bracelet with box clasp, in Sargisons (Hobart) fitted box; no hallmark seen, weight unknown",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: vintage sterling silver wide panel bracelet textured wave 1960s; and Sargisons Hobart silver bracelet",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2052,8 +2117,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 446787,
@@ -2206,11 +2271,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Nickel/silver-plate vesta case with celluloid panels, early 20th century. Front: photo print of racehorse 'POSITANO' (Australian sire). Back: script 'Winchcombe, Carson & Co. Ltd., Woolbrokers and Stock Salesmen, Sydney'. Hinged lid, striker on base, rope borders. Plating worn to brass at edges, slight yellowing.",
+   "identification": "Nickel/silver-plate vesta case with celluloid panels: racehorse 'Positano' photo front, 'Winchcombe, Carson & Co. Ltd., Woolbrokers, Sydney' back; plating worn",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: Winchcombe Carson vesta; also celluloid advertising vesta Australia wool; LiveAuctioneers/Invaluable 'Winchcombe Carson'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2218,8 +2283,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 446821,
@@ -2370,11 +2435,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "H McHugh (Tasmania) art pottery cobalt blue drip-glazed flower pot with attached pie crust saucer, incised 'H McHugh Tasmania' on base, early 1930s period. Handwritten label cites Jessie Luckman provenance. Several rim chips and crazing.",
+   "identification": "H McHugh Tasmania cobalt blue drip-glaze flower pot with attached pie-crust saucer, early 1930s, Jessie Luckman provenance label; several rim chips and crazing",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: McHugh Tasmania pottery pot OR planter OR jardiniere cobalt blue; also Antiques Reporter McHugh page for 'pie crust' lot result",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 380.0,
@@ -2429,11 +2494,11 @@
    "current_bid": 0.0,
    "bid_count": 5,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Super7 Transformers Super Shogun Optimus Prime 'Fallen Leader' (grayscale), 60 cm / 24 inch blow-moulded figure, new boxed. Photo shows the sealed-looking retail box with Super7 logo, 'Heroic Autobot Optimus Prime', Super Shogun branding. Super7 RRP US$350.",
+   "identification": "Super7 Transformers Super Shogun Optimus Prime 24 inch (catalogued as 'Fallen Leader' grayscale variant), boxed",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings (Australia and US): Super7 Transformers Super Shogun Optimus Prime Fallen Leader 24 inch, filter Sold Items, new in box, last 90 days",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2483,7 +2548,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 446840,
@@ -2495,12 +2560,53 @@
    "current_bid": 0.0,
    "bid_count": 6,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "threezero DLX Transformers Bumblebee collectible figure (Hasbro authentic licence), 1/6 scale approx 20cm die-cast. Box shows Bumblebee DLX in black and gold print, sealed-looking, one photo only. Probably the Last Knight era DLX Bumblebee (re-offered by Sideshow); cannot be sure from one front-of-box photo.",
+   "identification": "threezero DLX Transformers Bumblebee boxed figure (version not confirmed: Last Knight or Bumblebee movie)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: threezero DLX Transformers Bumblebee boxed (Australia and worldwide, last 90 days)",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 349.99,
+     "date": "2026-10-09",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/298743402771",
+     "same_item": "yes",
+     "note": "threezero DLX Bumblebee The Last Knight, pre-owned"
+    },
+    {
+     "aud_price": 186.2,
+     "date": "2026-09-19",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/298666513307",
+     "same_item": "yes",
+     "note": "threezero Last Knight DLX Bumblebee with box, pre-owned"
+    },
+    {
+     "aud_price": 217.08,
+     "date": "2026-10-28",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/820260520941",
+     "same_item": "yes",
+     "note": "threezero Bumblebee DLX, sealed"
+    },
+    {
+     "aud_price": 249.11,
+     "date": "2026-10-28",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/267819123653",
+     "same_item": "yes",
+     "note": "threezero DLX Bumblebee, new"
+    },
+    {
+     "aud_price": 156.57,
+     "date": "2026-10-27",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/398126547241",
+     "same_item": "yes",
+     "note": "threezero DLX Bumblebee, used"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2537,11 +2643,11 @@
      "note": "Used DLX Bumblebee, snippet only, not verified. Rate 1.52. Not a sold price."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 217.08,
+   "net_resale": 184.518,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $217 does not clear the current bid $0"
   },
   {
    "cdid": 446842,
@@ -2744,12 +2850,61 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Bushmills 2010 Double Moscatel Cask, Causeway Collection, The Whisky Club (Australia) member exclusive, 700ml, about 49.1% (scan said 48.7%), 13yo triple distilled, Oloroso then Valencia/Setubal Moscatel finish, bottled 2024, in tube with Club leaflet. Lot 446875 is a second identical-title lot in the same sale.",
+   "identification": "Bushmills 2010 Causeway Double Moscatel Finish, The Whisky Club (Australia) exclusive, 700ml, in tube",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Australian Whisky Auctions and Whisky Auctioneer / Scotch Whisky Auctions / Catawiki sold results for 'Bushmills 2010 Double Moscatel Cask' (Whisky Club), plus eBay AU sold listings for the same",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 135.0,
+     "date": "2026-10 (month inferred from sidebar)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-732722/bushmills-2010-causeway-double-moscatel-finish-the-whisky-club",
+     "same_item": "yes",
+     "note": "reserve met"
+    },
+    {
+     "aud_price": 135.0,
+     "date": "2026-06 (inferred)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-691955/bushmills-2010-causeway-double-moscatel-finish-the-whisky-club",
+     "same_item": "yes",
+     "note": "reserve met"
+    },
+    {
+     "aud_price": 145.0,
+     "date": "2026-06 (inferred)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-691770/bushmills-2010-causeway-double-moscatel-finish-the-whisky-club",
+     "same_item": "yes",
+     "note": "reserve met"
+    },
+    {
+     "aud_price": 125.0,
+     "date": "2025-11 (inferred)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-531053/bushmills-2010-causeway-double-moscatel-finish-the-whisky-club",
+     "same_item": "yes",
+     "note": "no reserve"
+    },
+    {
+     "aud_price": 165.0,
+     "date": "2025-05 (inferred)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-470711/bushmills-2010-causeway-double-moscatel-finish-the-whisky-club",
+     "same_item": "yes",
+     "note": "reserve met"
+    },
+    {
+     "aud_price": 150.0,
+     "date": "2025-04 (inferred)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-461663/bushmills-2010-causeway-double-moscatel-finish-the-whisky-club",
+     "same_item": "yes",
+     "note": "reserve met"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2770,11 +2925,11 @@
      "note": "Snippet only, not verified (page fetch returned homepage). Stock and date unknown."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 140.0,
+   "net_resale": 119.0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $140 does not clear the current bid $0"
   },
   {
    "cdid": 446868,
@@ -2786,12 +2941,45 @@
    "current_bid": 0.0,
    "bid_count": 3,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Glenfarclas 2014 Christmas Edition (bottled 2024), 700ml, 49.8%, fully matured in Oloroso sherry casks, made for The Whisky Club (Australia) members. Photo shows the Christmas Edition label, Whisky Club box, copper capsule, seal intact. Limited run of about 3,000-3,600 bottles.",
+   "identification": "Glenfarclas 2014 Christmas Edition (bottled 2024), 700ml 49.8%, Oloroso, The Whisky Club (Australia), boxed, seal intact",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Australian Whisky Auctions past results (australianwhiskyauctions.com.au lot-480442 and lot-440923: Glenfarclas 2014 Christmas Edition 2024 The Whisky Club) and Whisky Auctioneer result for the same bottle (whiskyauctioneer.com/learn/explore-whisky/bottles/glenfarclas-2014-christmas-edition-2024-whisky-club); eBay sold: Glenfarclas Christmas Edition 2024 Whisky Club",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 131.0,
+     "date": "2026-06 (month inferred from page's same-auction sidebar)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-690488/glenfarclas-2014-christmas-edition-2024-the-whisky-club",
+     "same_item": "yes",
+     "note": "Final Bid $131, reserve met"
+    },
+    {
+     "aud_price": 150.0,
+     "date": "about late 2025 (not shown; lot number sits between Nov 2025 lots)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-540069/glenfarclas-2014-christmas-edition-2024-the-whisky-club",
+     "same_item": "yes",
+     "note": "Final Bid $150, reserve met"
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2025-03 (month inferred from sidebar)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-450648/glenfarclas-2014-christmas-edition-2024-the-whisky-club",
+     "same_item": "yes",
+     "note": "Final Bid $180, no reserve"
+    },
+    {
+     "aud_price": 140.0,
+     "date": "2025-02 (month inferred from sidebar)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-440923/glenfarclas-2014-christmas-edition-2024-the-whisky-club",
+     "same_item": "yes",
+     "note": "Final Bid $140, reserve met"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2820,11 +3008,11 @@
      "note": "Snippet only, not verified, and the page may be a different Glenfarclas 2014 bottling. aud_price left 0 as unverified. Ignore for valuation."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 145.0,
+   "net_resale": 123.25,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $145 does not clear the current bid $0"
   },
   {
    "cdid": 446871,
@@ -2878,12 +3066,21 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Bushmills The Christmas Causeway 2012 vintage, first-fill Oloroso full maturation, 51.6%, 700ml, bottled 2025, exclusive to The Whisky Club (Australia), signed Alex Thomas, with tube. Gowans title (2010) is wrong. Original Club price $140 (5-7 Dec 2025).",
+   "identification": "Bushmills 2012 Causeway Collection Oloroso, 'The Christmas Causeway', 51.6%, 700ml, Whisky Club exclusive, in tube (Gowans title says 2010, wrong)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Bushmills Christmas Causeway 2012 Oloroso; also Australian Whisky Auctions and Whisky Auctioneer / Uniquely Irish past results for 'Bushmills Causeway 2012 Oloroso Whisky Club'.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 150.0,
+     "date": "2026-10 (month inferred from sidebar)",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-732588/bushmills-2012-causeway-collection-oloroso-sherry-casks-the-christmas-causeway-the-whisky-club",
+     "same_item": "yes",
+     "note": "Final Bid $150, reserve met"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2920,11 +3117,11 @@
      "note": "Page opened. Original member release price, no longer on sale. Page also claims the bottle 'sold at auction for over $1,100' with no house, date or lot given: unverified marketing, not a SOLD entry."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 150.0,
+   "net_resale": 127.5,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $0"
   },
   {
    "cdid": 446898,
@@ -3211,11 +3408,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "H. McHugh (McHugh Pottery, Launceston) Tasmanian art pottery squat vase with flared neck, brown and amber streaked drip glaze. Base incised H. McHugh Tasmania and a shape number (reads 13 or 18). Heavy crazing, and photo 3 shows a glaze spot loss with radiating flaking on the body. Roughly 12 to 15cm high judging by proportions (size not stated).",
+   "identification": "H McHugh Tasmania squat vase, brown and amber drip glaze, shape 13 or 18; heavy crazing and a glaze loss with flaking",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3236,11 +3433,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "H. McHugh (Tasmanian art pottery, Launceston, 1930s) squat shouldered vase, cobalt blue with white streaked drip glaze, base incised 'H. McHugh 1933' and shape number 22. About 12-14 cm high judging by the scale (not stated). No damage seen in three photos; light crazing at base. Cobalt blue with white drip is a good colour but the form is a compact squat shape, not a tall twin-handled one.",
+   "identification": "H McHugh 1933 squat shouldered vase, cobalt blue with white drip glaze, shape 22, about 12-14cm, no damage seen",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: McHugh Tasmania vase blue drip 1933; also invaluable.com McHugh Tasmanian pottery blue sold prices",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 460.0,
@@ -3337,11 +3534,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Oil on board, large old peppercorn tree over timber stockyard rails, loose impressionist handling, approx 40x50cm image in a cream/white painted frame. Signed lower left, signature too low-resolution to confirm (photo crop is blurry; reads at best as a two-word block-capital signature). Listed as Colin Parker. The known auction Colin Parker is Colin Ross Parker (b.1941, NSW, outback pubs and sheds, typically sells AUD 250-800 at auction, record about US$2,566). The scan note calling him a Victorian painter is not supported. The sibling lot 'In the Mersey Forest' by the same name suggests one Tasmanian vendor, so this could be a different local Colin Parker. Subject (peppercorn, stockyard) is plausible for either.",
+   "identification": "Oil on board, old peppercorn tree over stockyard rails, signed lower left, listed as Colin Parker",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Optional: Invaluable or LiveAuctioneers search 'Colin Parker peppercorn' and 'Colin Parker oil on board sold' for 2025-2026 results with prices.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 525.0,
@@ -3555,11 +3752,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Large impressionist oil on canvas of a flowering garden with blue hills behind, signed lower right in dark paint 'Winifred Knight' (signature legible in photo 3). Framed in cream slip and pale grey frame, glass-free. Artist not identified: not the British Slade painter (1899-1947). No Australian artist of this name found in any database or search.",
+   "identification": "Large impressionist oil on canvas of a flowering garden with blue hills, signed Winifred Knight, 90x74.5cm. Likely the Australian painter Winifred Knight (1921-2008), who has an auction record (Lawsons, Colville, Allbids), not the British Slade painter",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Invaluable and LiveAuctioneers search for \"Winifred Knight\" oil, sold results; also Design and Art Australia Online (daao.org.au) and artsearch 'Winifred Knight'; eBay sold 'Winifred Knight oil painting'.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3567,8 +3764,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 447004,
@@ -3678,11 +3875,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Small framed oil on board of tall forest trees with loose impasto, wide off-white linen mount and grey/gilt frame, signed lower left 'Colin Parker '65' (photo reads COLIN PARKER '65). Probably Colin (Ross) Parker, b.1941, Australian landscape painter mostly seen selling Western NSW and outback scenes; a 1965 date would make him about 24, so artist identity and Tasmanian connection unconfirmed. A second Colin Parker oil (An Old Peppercorn) is in the same Gowans sale, suggesting a single vendor group.",
+   "identification": "Small oil on board of tall forest trees, signed 'Colin Parker 65', grey/gilt frame",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Invaluable or LiveAuctioneers sold results for 'Colin Parker oil on board' (small works, 2023-2026); eBay sold 'Colin Parker oil painting'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 525.0,
@@ -3778,11 +3975,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Modern hand-knotted Afghan chobi rug, 291x200cm, ombre horizontal stripes in maroon, red, pink and orange. Contemporary decorator rug from the same Gowans chobi supply stream, clean with intact fringe. Not antique.",
+   "identification": "Modern hand-knotted Afghan chobi rug, 291x200cm, ombre maroon/red/pink/orange stripes",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 630.0,
@@ -3844,11 +4041,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Modern hand-knotted Afghan chobi style rug, abrashed dark green, about 299x242cm, fringe intact, looks clean. Photo shows a plain overdyed/abrash modern design (not Ziegler floral).",
+   "identification": "Modern hand-knotted Afghan chobi rug, abrash dark green, about 299x242cm",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 630.0,
@@ -4272,11 +4469,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Pair of chrome Jaguar hub caps, dished with recessed black-filled JAGUAR block lettering in a raised centre ring, early 1950s type (XK120/XK140/Mk V/Mk VII era style). Photo shows bright chrome, light marks, no obvious dents. Exact model fit not confirmed.",
+   "identification": "Pair of chrome Jaguar hub caps with black-filled JAGUAR lettering, early 1950s type (XK120/140, Mk V/VII)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Jaguar hubcap XK120 OR 'Mk V' OR 'Mk VII' OR Mark 7 pair chrome, on ebay.com.au and ebay.co.uk, last 90 days",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4302,7 +4499,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 447172,
@@ -4314,11 +4511,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Wood-rim 3-spoke sports wheel with drilled alloy spokes and Jaguar growler horn push, E-Type style (15-16 in). Photos show no maker stamp; most likely an aftermarket Moto-Lita/Derrington/Les Leston type copy, original Jaguar wheels are rarer. Rim varnish worn, horn push edge wear.",
+   "identification": "Wood-rim 3-spoke drilled alloy sports wheel with Jaguar growler horn push, E-Type style 15-16in; no maker stamp seen, likely aftermarket",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Jaguar E-Type wood rim steering wheel Moto-Lita used (AU and UK, completed items)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4344,7 +4541,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 447179,
@@ -4438,11 +4635,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Round two-tier bentwood occasional table, dark stained beech, black moulded rim, brown inset leathercloth top, lower shelf with punched/embossed whiplash panel. Single photo, no label visible. Viennese bentwood style c.1900-1920; Thonet or Kohn attribution unproven and many similar tables were made by Czech and Polish firms (Fischel, Mundus, Ton, Radomsko).",
+   "identification": "Round two-tier bentwood occasional table, dark stained beech, inset leathercloth top, embossed lower shelf; Viennese style c.1900-20, no label seen",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: 'bentwood two tier table leather top' and 'Thonet Kohn bentwood round table' (Australia and UK); also invaluable.com 'Thonet bentwood occasional table'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4450,8 +4647,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 447196,
@@ -4629,12 +4826,37 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Box of about 10 children's and illustrated books. Legible spines: Andersen's Fairy Tales (Victorian red gilt cloth); a grey cloth gilt book (scan reads as Rackham-illustrated Grimm, not confirmed from photos); The Big Book of Nursery Rhymes ed. Walter Jerrold, illus. Charles Robinson (Blackie, 1903 or later printing); Melba's Gift Book (1915, Hodder & Stoughton, Belgian Relief); Picture-Stories of Ancient Liverpool; Fairy-Land in 1918; The Christopher Robin story/birthday book (Milne); A.A. Milne When We Were Very Young (blue-grey cloth, Methuen, probably later printing); large Victorian scrap album. Photos are too low-res to confirm the Rackham title.",
+   "identification": "Box of about 10 children's and illustrated books incl. Andersen (Victorian gilt cloth), possible Rackham Grimm, Big Book of Nursery Rhymes (Jerrold/Robinson, Blackie), Melba's Gift Book 1915, Milne titles, scrap album",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold, Australia or UK: \"Rackham Grimm's Fairy Tales Constable\" and \"Big Book of Nursery Rhymes Jerrold Robinson Blackie\", \"Melba's Gift Book 1915\"",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 27.0,
+     "date": "2026-10-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/276332934426",
+     "same_item": "yes",
+     "note": "Melba's Gift Book of Australian Art & Literature"
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-08-28",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/820029703008",
+     "same_item": "yes",
+     "note": "1915 Melba's Gift Book"
+    },
+    {
+     "aud_price": 16.5,
+     "date": "2026-09-20",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/287548397288",
+     "same_item": "yes",
+     "note": "Melba's Gift Book c.1915"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -4663,11 +4885,11 @@
      "note": "Snippet only. Melba's Gift Book signed copy, asking. Signed so above an ordinary copy. Rate 2.00."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 27.0,
+   "net_resale": 22.95,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $27 does not clear the current bid $0"
   },
   {
    "cdid": 447206,
@@ -4704,11 +4926,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Victorian walnut (rosewood-toned) music cabinet, single glazed arched door, satinwood scroll inlay to top, brass three-sided gallery with turned finials, carved corbels, plinth base, about 90-100cm high. Unmarked, later glossy top finish. Typical brown-furniture music cabinet, not a named maker.",
+   "identification": "Victorian walnut (rosewood-toned) music cabinet, glazed arched door, satinwood scroll inlay, brass gallery, plinth base, unmarked",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 360.0,
@@ -4942,11 +5164,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Oil of fishing boats moored in haze, signed lower right. Signature on the photo is a small scrawl, not clearly legible as Brian Baigent; catalogue attribution unverified. Brian Charles Baigent (1929-2000) is a Sydney painter (Ku-ring-gai, harbour, Cowan Waters), not Victorian as the scan note claims; Lakes Entrance title may still fit if he travelled. Gilt frame with linen slip, roughly 50x60cm image.",
+   "identification": "Oil of fishing boats moored in haze, gilt frame, catalogued as Brian Baigent 'Weather Bound Lakes Entrance'; signature not confirmed",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Invaluable artist search 'Brian Baigent' sold results (signed in), plus eBay sold 'Brian Baigent oil'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 450.0,
@@ -5125,11 +5347,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "1940s Jacobean-revival tiger (quarter-sawn) oak refectory table with cup-and-cover/baluster trestle base plus two carved high-back caned armchairs; T R Preston & Co plaque not visible in photos, maker unverified. No web record of the maker found.",
+   "identification": "1940s Jacobean-revival tiger oak refectory table with cup-and-cover legs plus two high-back armchairs",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: Jacobean refectory table oak chairs Australia; also Trove/Google 'T R Preston & Co' furniture Melbourne",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 520.0,
@@ -5159,11 +5381,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Korean style bandaji (blanket chest) with brass mounts: bat/butterfly escutcheon plate, diamond studs, hasp, two hinged top panels over a central lock plate, on a low base. Raw timber interior, dark stained exterior, one top panel detached. Looks 20th century (mid century or later), probably a decorator or reproduction piece, not a 19th century chest. Photos show well-made mounts and a plinth base but no maker marks.",
+   "identification": "Korean-style bandaji blanket chest with brass mounts and bat/butterfly escutcheon, one top panel detached; probably mid-20th century or later",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia, sold and completed items: Korean chest brass bandaji OR 'Korean blanket chest' OR 'Korean brass bound chest'. Also Invaluable/LiveAuctioneers past results: Korean bandaji chest brass.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5171,8 +5393,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 447269,
@@ -5184,11 +5406,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Berolinum Berlin, copper engraving by J.G. Ringlin after F.B. Werner, published by Martin Engelbrecht, Augsburg, c.1740. Hand-coloured, with title cartouche, arms cartouche and numbered key. Plate about 18 x 30.5 cm, 21 x 30.5 cm with key. Imprint matches dealer listings. Genuine retail copies are listed at roughly A$1,500, but those are asking prices from dealers in fine condition. This lot is foxed, glazed and in a later frame. No sold price seen anywhere.",
+   "identification": "Berolinum Berlin, hand-coloured copper engraving by J.G. Ringlin after F.B. Werner, Martin Engelbrecht, Augsburg c.1740; foxed, glazed, later frame",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: Berolinum Berlin Engelbrecht Werner Ringlin; also Invaluable/LiveAuctioneers/Catawiki: 'Berolinum Berlin Engelbrecht' sold results, and Bassenge 2020-10-06 lot 222 result",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5214,7 +5436,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 447275,
@@ -5393,11 +5615,11 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Small colour print after Reg Mombassa (Chris O'Doherty), garden standpipe/tap with eyes, gum tree and hedge blocks at sunset; image about 10x13cm in a cream mount with orange fillet, black frame. Signature 'Reg Mombassa' in black ink below image, lower right; ink is even in weight with no pressure variation, so it looks more like a printed facsimile signature than a hand signature, but photos cannot prove it. No edition number or pencil title visible. Likely a small offset or giclee reproduction of a Mambo-era or later image, not one of the 300-edition numbered lithographs.",
+   "identification": "Small framed colour print after Reg Mombassa, garden standpipe with eyes; signature looks printed; no edition number",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed: 'Reg Mombassa signed print' and 'Reg Mombassa print framed'; also Invaluable/LiveAuctioneers past results for Reg Mombassa prints under $500, and search the image title (standpipe / tap / garden) on Mombassa dealer sites to identify the print and its edition.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 400.0,
@@ -5427,12 +5649,37 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "LEGO Knights' Kingdom 8877 Vladek's Dark Fortress (2006, 967 pieces, 9 minifigs), built, loose in a cardboard box with the original instruction book (creased, worn). Photos confirm the book is 8877 and a built black and red castle with skeleton horse and banners. Loose pieces and minifigs visible at bottom; completeness unknown, no original box.",
+   "identification": "LEGO Knights' Kingdom 8877 Vladek's Dark Fortress (2006), built, loose in a box with original instructions; no original box, completeness unknown",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: 'LEGO 8877 Vladek's Dark Fortress' and also 'LEGO 8877 Knights Kingdom used built' (Australia and US, last 90 days, Sold Items); also BrickLink price guide 8877-1 sold used (6-month).",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 172.24,
+     "date": "2026-10-27",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/336841641668",
+     "same_item": "yes",
+     "note": "8877 used, incomplete"
+    },
+    {
+     "aud_price": 203.54,
+     "date": "2026-08-14",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/318029047273",
+     "same_item": "yes",
+     "note": "8877 used"
+    },
+    {
+     "aud_price": 388.33,
+     "date": "2026-08-18",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/366530613606",
+     "same_item": "yes",
+     "note": "8877 used, '100% complete'"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -5453,11 +5700,11 @@
      "note": "Snippet only, unverified (my own fetch of BrickEconomy and Brick Owl returned no content). Complete sets, asking prices. Rate 1.55. Lower end AUD about 294."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 203.54,
+   "net_resale": 173.009,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $204 does not clear the current bid $0"
   },
   {
    "cdid": 447310,
@@ -5469,11 +5716,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Oil on board/canvas of a child in a red shirt before an abandoned sandstone farm building with dried hemlock/umbellifer stalks, signed ARTHUR PHILLIPS 71 lower right (1971), ornate gilt frame. Artist not identified; no Tasmanian or Australian Arthur Phillips of note found in local data. Likely a competent amateur or minor semi-professional work.",
+   "identification": "Oil of a child in red shirt before an abandoned sandstone farm building, signed ARTHUR PHILLIPS 71, ornate gilt frame; artist not identified",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Invaluable/LiveAuctioneers: 'Arthur Phillips' oil painting 1971; also AskArt and Trove for 'Arthur Phillips' artist Tasmania/Australia; eBay sold 'Arthur Phillips oil painting'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5481,8 +5728,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 448165,
@@ -5661,11 +5908,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Black four-spoke Jaguar steering wheel with finger-grip rim, splined boss and column stub, and a black horn push with two gold rings and a gilt growler head. Style fits XK120/140 or Mk VII-IX/Mk1/Mk2 era (about 16-17 inch). No maker mark or part number visible. Fitment and exact model unconfirmed. Note a second 'JAGUAR STEERING WHEEL' lot is in the same sale (both listed 25/10/2026).",
+   "identification": "Black four-spoke Jaguar steering wheel with finger-grip rim, splined boss, gold-ringed growler horn push; XK120/140 or Mk VII-IX/Mk1/Mk2 era style",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold and completed items: 'Jaguar steering wheel Mk2 OR XK140 OR \"Mark VII\" 4 spoke growler' (ebay.com.au first, then ebay.co.uk); also ebay.com.au sold 'Jaguar horn push growler'.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5715,7 +5962,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 447338,
@@ -5821,12 +6068,21 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Two built LEGO Harry Potter sets: 4842 Hogwarts Castle (2010, about 1290 pieces) and 4867 Hogwarts (2011, about 400 pieces) in a cardboard tray with instruction books (4842 visible). No boxes. Minifigs and dementors visible. Completeness unverified.",
+   "identification": "Two built LEGO Harry Potter sets, 4842 Hogwarts Castle (2010) and 4867 Hogwarts (2011), with instructions, no boxes, completeness unverified",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed: LEGO 4842 Hogwarts Castle used built; and LEGO 4867 Hogwarts used built; also 'lego 4842 4867 bundle'",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 150.32,
+     "date": "2026-09-16",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/187996298011",
+     "same_item": "yes",
+     "note": "4842 Hogwarts Castle plus 4867 together, used/loose"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -5871,11 +6127,11 @@
      "note": "Snippet only, not verified. Dealer price, rate 1.50. Dealer asking, high-end ceiling."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 150.32,
+   "net_resale": 127.77199999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $0"
   },
   {
    "cdid": 447352,
@@ -5887,11 +6143,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Ferguson, Bibliography of Australia, 7 vols (I 1784-1830 to VII 1851-1900 Q-Z), National Library of Australia imprint on the spines. This is almost certainly the 1975-77 / 1986 NLA facsimile reprint of the Angus & Robertson original (1941-69), not the scarce original. Addenda volume absent. Common reference set, modest value.",
+   "identification": "Ferguson, Bibliography of Australia, 7 vols, NLA facsimile reprint (1975-77/1986), no Addenda volume",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: \"Ferguson Bibliography of Australia\" 7 volumes (completed/sold items, last 12 months)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 274.0,
@@ -6233,11 +6489,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Five-drawer timber plan/map chest, light honey oak or pine veneer look, chrome cup pulls and label holders, plywood drawer bases, full-size plan drawers, single unit (no stand). Mid-century office or drafting type, not antique.",
+   "identification": "Five-drawer timber plan/map chest, chrome cup pulls, mid-century office type",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'timber plan chest 5 drawer' and 'vintage map drawers timber'; also Gumtree 'plan drawers' Tasmania asking prices",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 650.0,
@@ -6308,11 +6564,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Victorian (possibly late Georgian) flame mahogany bow front chest, two short over three long cockbeaded drawers, oval brass plate handles, bun feet. Photo shows good figure, dark finish, top not clearly visible. Size not stated; looks about 105-110cm wide.",
+   "identification": "Victorian (possibly late Georgian) flame mahogany bow front chest, 2 short over 3 long cockbeaded drawers, oval brass handles, bun feet; scratches to top",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 310.0,
@@ -6426,11 +6682,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Victorian-style gallery-back washstand, one frieze apron, turned legs, lower shelf undertier. Timber in the single photo is a warm orange-red to golden brown with some figure, redder than typical pale-golden Huon pine, so cedar, blackwood or other timber is a real possibility. Title says Huon pine (Gowans description is blank). Finish worn, no marble top, no drawers.",
+   "identification": "Victorian-style gallery-back washstand, turned legs, undertier; timber looks redder than Huon pine (cedar/blackwood possible)",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 340.0,
@@ -6569,12 +6825,21 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Sun Star 1:24 diecast AEC Routemaster, model 2914 RM 2217 CUV 217C 'The Last Routemaster', Arriva livery, limited edition with numbered certificate, boxed. Box in photo is clean and appears intact; certificate and model condition not visible. Limited run reported as about 1,899 pieces.",
+   "identification": "Sun Star 1:24 diecast AEC Routemaster 2914, RM 2217 CUV 217C 'The Last Routemaster', Arriva livery, limited edition, boxed",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed items (Australia and UK): Sun Star 2914 Routemaster 1:24 'The Last Routemaster' RM2217 CUV217C",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 183.63,
+     "date": "2026-08-28",
+     "venue": "eBay (UK seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/336747334801",
+     "same_item": "yes",
+     "note": "Sun Star 1:24 2914 Routemaster Arriva Heritage Fleet red; certificate/box status not in title"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 190.0,
@@ -6612,11 +6877,11 @@
      "note": "Retail dealer asks for new stock (original MSRP USD 144, discontinued). Snippet only. No AUD conversion given, treat as ceiling-type asks."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 183.63,
+   "net_resale": 156.0855,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $184 does not clear the current bid $0"
   },
   {
    "cdid": 447431,
@@ -6628,11 +6893,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Framed original-looking watercolour of fairies/elves blowing bubbles on a lakeshore under big trees, signed lower right J Skerratt. Single photo, no size given. Style follows Outhwaite/Rentoul but the artist is unknown to me and no records were found. Could be a hobbyist or a modern decorative painter; a print is not ruled out from one photo.",
+   "identification": "Framed watercolour of fairies blowing bubbles on a lakeshore, signed J Skerratt; probably Jean Skerratt, a painter whose watercolours and oils (Upper Derwent, New Harbour South Coast) have sold through Gowans",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'J Skerratt fairy watercolour'; also Google Images/Artprice/invaluable.com search 'Skerratt fairies' and 'Skerratt watercolour Tasmania'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -6640,8 +6905,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 447433,
@@ -6653,11 +6918,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Round English dial wall clock, approx 12 inch, cream painted dial, Roman numerals, unsigned, spade hands, turned oak or mahogany surround, glazed bezel. School, office or railway style. Photo shows single winding hole near the centre-lower area (dial may be a repaint). Movement not seen: single fusee (worth AUD 150-300 at auction) versus plain going-barrel or later German or American movement (worth AUD 40-100). Similar Gowans dial/railway clocks sold AUD 160-320 hammer.",
+   "identification": "Round English dial wall clock, about 12 inch, cream dial, Roman numerals, unsigned, timber surround; movement type unknown",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: 'fusee dial wall clock 12 inch' and 'english dial clock oak 12 inch', Australia and UK, last 90 days",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 320.0,
@@ -6695,11 +6960,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Carved wooden seated Buddha, bhumisparsha mudra, gilt over red lacquer, flame ushnisha, on stepped red-lacquered plinth (roughly 50-60 cm overall by scale of plinth). Burmese Shan / Thai style. Most likely 20th century decorative export piece; true 18th/19th century Shan examples are carved differently (often dry lacquer, finer detail). Age cannot be confirmed from one photo.",
+   "identification": "Carved wooden seated Buddha, bhumisparsha mudra, gilt over red lacquer, flame ushnisha, stepped red plinth, about 50-60cm; Burmese Shan / Thai style, probably 20th century",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold and completed: 'Burmese Shan style gilt lacquer wood Buddha' and 'Thai carved wood Buddha gilt red lacquer plinth'; also LiveAuctioneers past results 'Burmese gilt lacquered wood Buddha' last 24 months",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -6733,7 +6998,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 447444,
@@ -6745,11 +7010,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Two vases. Left: Falcon Ware (Thomas Lawrence, Longton) style Art Deco vase, printed and painted cottage garden landscape with birch trees and mountain, yellow neck, blue foot, 1930s; maker unconfirmed (no base seen). Right: Minh Long (Vietnam) red crystalline-glaze vase with white crystal blooms; modern studio-style piece, maker unconfirmed. No marks visible in the one photo.",
+   "identification": "Two vases: Falcon Ware (Thomas Lawrence) style Art Deco landscape vase, 1930s; Minh Long (Vietnam) red crystalline-glaze vase; no marks seen",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Falcon Ware vase Art Deco landscape; and eBay AU sold: Minh Long crystalline vase",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -6757,8 +7022,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 447445,
@@ -7136,11 +7401,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Six bottles Casella 1919 Cabernet Sauvignon 2013 (labels read Cabernet, title says Shiraz). Casella Family Brands premium range, Limestone Coast/South Australia, 13.5%. Condition and fill not visible.",
+   "identification": "Six bottles Casella 1919 2013, labels read Cabernet Sauvignon (title says Shiraz)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: Casella 1919 Cabernet Sauvignon 2013; also wine-searcher Casella 1919 Cabernet 2013 average price",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -7166,7 +7431,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 447500,
@@ -7178,11 +7443,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Six bottles of Casella 1919 Shiraz 2007, 14%, in the plain white 'Casella 1919 / 2007 Shiraz / 14%' label seen on Grays 'Cleanskin' releases of the same wine (Casella Family Brands, Yenda NSW). The retail 1919 Shiraz 2007 was a ~$90-100 premium release, but the plain label here matches the cleanskin (surplus, unbranded-price) version, which sells far cheaper at auction. Photo shows a Wynns carton behind, not the original case. Fill levels look into the neck; corks not visible.",
+   "identification": "Six bottles Casella 1919 Shiraz 2007, 14%, plain white label (likely cleanskin release); Wynns carton",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Casella 1919 Shiraz 2007 (optional)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -7236,12 +7501,53 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Single photo. Two opened English booster bundle boxes (left: Pokemon TCG 30th Celebration, 'Celebrating 30 Years of Pokemon', contents look like a stack of loose cards or packs; right: Mega Evolution Ascended Heroes, 'Rise to a new challenge', sealed packs visible at the top) plus about 10 visible sleeved Simplified Chinese 30th anniversary Pikachu cards (claimed 1-30). Bundles originally hold 6 packs each; how many remain is unknown. The Chinese Pikachu set is a mass-market item, not rare.",
+   "identification": "Two opened English booster bundle boxes (Pokemon 30th Celebration; Mega Evolution Ascended Heroes, some sealed packs visible) plus Simplified Chinese 30th anniversary Pikachu cards claimed 1-30",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Pokemon 30th anniversary Pikachu 1-30 Chinese set; also eBay sold: Ascended Heroes booster pack (single) AU",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 29.98,
+     "date": "2026-10-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/900036123277",
+     "same_item": "yes",
+     "note": "Chinese Pikachu 1-30 complete set"
+    },
+    {
+     "aud_price": 43.1,
+     "date": "2026-10-21",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/257793216150",
+     "same_item": "yes",
+     "note": "Pikachu 1-30 complete set"
+    },
+    {
+     "aud_price": 66.89,
+     "date": "2026-10-18",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/307190532072",
+     "same_item": "yes",
+     "note": "Pikachu 1-30 complete set"
+    },
+    {
+     "aud_price": 26.0,
+     "date": "2026-10-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/820071479952",
+     "same_item": "yes",
+     "note": "single sealed Ascended Heroes booster pack"
+    },
+    {
+     "aud_price": 29.99,
+     "date": "2026-10-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/147617642148",
+     "same_item": "yes",
+     "note": "single English 30th Celebration booster pack"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -7286,11 +7592,11 @@
      "note": "Page opened. Market guide for the single #30 card only; 1.5 USD/AUD. Confirms the Pikachu set is low value per card."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 29.99,
+   "net_resale": 25.4915,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $30 does not clear the current bid $0"
   },
   {
    "cdid": 448116,
@@ -7302,11 +7608,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Summerfield Pyrenees Reserve Shiraz 2019, 750ml screwcap, three bottles visible in top layer of carton, six per title (count unverified). Retail about $55-63 per bottle for recent vintages.",
+   "identification": "Summerfield Pyrenees Reserve Shiraz 2019, 750ml screwcap, six per title (three visible)",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Grays.com and Langtons past results: Summerfield Reserve Shiraz 2019",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [
@@ -10295,12 +10601,61 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Sansui A-5 integrated amplifier (model name on front panel, silver face, LED peak meters), c.1979-81, about 25 W/ch, phono stage. Untested.",
+   "identification": "Sansui A-5 integrated amplifier, silver face, c.1979-81, phono stage, untested",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and eBay.com sold/completed: 'Sansui A-5' (exclude A-505, A-500), sold items, last 90 days",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 190.0,
+     "date": "2026-09-29",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/236980273891",
+     "same_item": "yes",
+     "note": "Sansui A-5 with phono, tested working (this lot untested)"
+    },
+    {
+     "aud_price": 125.27,
+     "date": "2026-08-23",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/227465161431",
+     "same_item": "yes",
+     "note": "tested working"
+    },
+    {
+     "aud_price": 234.86,
+     "date": "2026-09-13",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/198504389025",
+     "same_item": "yes",
+     "note": "condition not in title"
+    },
+    {
+     "aud_price": 165.54,
+     "date": "2026-08-07",
+     "venue": "eBay (UK seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/406883447450",
+     "same_item": "yes",
+     "note": "condition not in title"
+    },
+    {
+     "aud_price": 259.56,
+     "date": "2026-10-16",
+     "venue": "eBay (Germany seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/188752771541",
+     "same_item": "yes",
+     "note": "condition not in title"
+    },
+    {
+     "aud_price": 222.88,
+     "date": "2026-09-10",
+     "venue": "eBay (Canada seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/235853145314",
+     "same_item": "yes",
+     "note": "fully working"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -10337,11 +10692,11 @@
      "note": "Snippet only. Classified ad, price looks like a placeholder or stale; ignore."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 206.44,
+   "net_resale": 175.474,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $206 does not clear the current bid $0"
   },
   {
    "cdid": 447579,
@@ -10353,11 +10708,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Akai X-1800SD Cartridge Super Deluxe (Cross Field head), 1960s reel-to-reel with built-in 8-track cartridge recorder, walnut case with lid. Photo confirms 'Akai X-1800SD' and 'Cartridge Super Deluxe' on faceplate. No reels, untested.",
+   "identification": "Akai X-1800SD Cartridge Super Deluxe (Cross Field) reel-to-reel with 8-track recorder, 1960s, walnut case, untested",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com and eBay.com.au sold and completed listings: Akai X-1800SD (also 'Akai X-1800SD parts' and 'untested'); also Catawiki lot 4532201 to confirm date.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 340.0,
@@ -10374,6 +10729,14 @@
      "url": "gowans lot id 377311",
      "same_item": "close",
      "note": "Second Akai GX-1900D, 4 bids. Local comps database."
+    },
+    {
+     "aud_price": 59.79,
+     "date": "2026-10-27",
+     "venue": "eBay (US seller), AUD shown",
+     "url": "https://www.ebay.com.au/itm/257807023714",
+     "same_item": "yes",
+     "note": "X-1800SD, title says 'works'; US, buyer pays heavy freight"
     }
    ],
    "sold_old": [
@@ -10422,11 +10785,11 @@
      "note": "Snippet only, asking prices not sold. aud_price is the low end (USD 35). Shows untested/parts sit far below working units."
     }
    ],
-   "resale": 280.0,
-   "net_resale": 238.0,
-   "max_hammer": 30,
-   "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $280; less 15% fees = $238; less $200 profit, / 1.20 premium = max hammer $30"
+   "resale": 220.0,
+   "net_resale": 187.0,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $220 does not clear the current bid $0"
   },
   {
    "cdid": 447582,
@@ -10438,11 +10801,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Champion Spark Plugs metal counter display cabinet (wall or counter holder) with printed orange header 'SPARK PLUGS: More power, Quicker starts, Better mileage', about 20 vertical plug slots, a few boxed and loose plugs (L88A etc). c.1970s-80s Australian shop fitting. Header scuffed, bottom of slots grimy.",
+   "identification": "Champion Spark Plugs metal counter/wall display cabinet with orange header, about 20 plug slots, some boxed plugs, c.1970s-80s; header scuffed",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: Champion spark plug display cabinet (Australia, last 90 days sold); also LiveAuctioneers price-result champion spark plugs metal parts cabinet; Donington lot 46617 final price",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -10460,7 +10823,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 447620,
@@ -11363,11 +11726,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Set of four Mart Stam S34 / Breuer B34 style cantilever armchairs, chrome tube frames, black leather or leatherette sling seats and backs with wrapped arms. Likely Italian 1970s-80s or later reproduction; no maker label visible in the single photo.",
+   "identification": "Four Mart Stam S34 / Breuer B34 style cantilever armchairs, chrome tube, black leather or leatherette slings, probably later reproduction",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'Breuer style cantilever chairs set of 4 chrome leather' and 'Mart Stam S34 chairs'; also Carters sold lot 1739759 (pair Breuer style)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 320.0,
@@ -11422,11 +11785,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Eley Bros (UK) timber shotgun cartridge crate, dovetailed, printed 'ELEY 500 Grand Prix Cartridges, Loaded with Smokeless Diamond', 12 gauge, No. 6 shot, with trade mark shield. Weathered, no lid, splits and paint splashes. Probably mid 20th century (Eley-Kynoch era not confirmed).",
+   "identification": "Eley Bros timber shotgun cartridge crate, dovetailed, printed 'ELEY 500 Grand Prix Cartridges, Smokeless Diamond', 12 gauge No.6; weathered, no lid, splits",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Eley Grand Prix 500 cartridge crate wooden 12 gauge; also eBay AU 'Eley cartridge box wooden' and 'Eley Kynoch wooden crate'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -11434,8 +11797,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score"
   },
   {
    "cdid": 447904,
@@ -11447,11 +11810,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "ARB roll-out vehicle awning in grey PVC cover (ARB Touring awning style), single photo, standing upright against a shed wall. Size and brackets not visible; length looks about 2m+ so likely a 2000 or 2500mm unit.",
+   "identification": "ARB roll-out vehicle awning in grey PVC bag, size not visible (probably 2000 or 2500mm)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed listings: ARB awning 2000 OR 2500 touring (used)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -11477,7 +11840,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 447905,
@@ -11514,11 +11877,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Large mixed lot of Sylvanian Families (Epoch) houses and parts in a tub plus two torn boxes: a boxed Country Tree School (box torn), red-roof cream house in pieces, a pink and white Town Series style house, instruction sheets, gold-trimmed furniture, red fabric. One photo only. Figures not visible; buildings partly disassembled, completeness unknown.",
+   "identification": "Large mixed lot of Sylvanian Families houses and parts, boxed Country Tree School (box torn), red-roof house in pieces, Town Series style house, furniture; figures not visible",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed: Sylvanian Families house bundle lot; also Red Roof Country Home, Country Tree School, Town Series house sold prices",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 250.0,
@@ -11764,11 +12127,11 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Feral (Australian brand) camo sit-on-top fishing kayak with seat, paddle, rod holders and a two-wheel trolley. Model not legible. No Feral sales found anywhere.",
+   "identification": "Feral camo sit-on-top fishing kayak with seat, paddle, rod holders and trolley",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: 'feral kayak' and 'feral fishing kayak'; also Gumtree Tasmania 'feral kayak'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -11777,7 +12140,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; strong photo score"
   },
   {
    "cdid": 447999,
@@ -12011,11 +12374,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "30/10/2026 09:30:00 AM AEDT",
-   "identification": "Automatic Timing Clock Co. pigeon racing timing clock (chrome case, paper chart dial) in fitted timber box with blue maker's certificate label (clock no. A1420?, cert no. 366?), plus a pair of 10x50-style binoculars in brown leather case, maker not legible.",
+   "identification": "Automatic Timing Clock Co. pigeon racing timing clock in fitted timber box with maker's certificate label, plus 10x50 style binoculars in leather case",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: \"Automatic Timing Clock Co\" pigeon racing clock; also \"pigeon racing timing clock\" sold, Australia and UK",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [
     {
@@ -12033,7 +12396,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
   },
   {
    "cdid": 448059,

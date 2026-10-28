@@ -1,15 +1,160 @@
-{"cdid":446687,"lot":127,"identification":"Perth Mint 2008 HMAS Sydney II 1oz silver proof coin, HSK-8 Kormoran 1oz silver medallion and badge set (mintage 2,500, sold out). Cased, certificate and both capsules present in photo; two badges visible.",
-"entries":[
-{"kind":"SOLD","price":"$360 hammer","currency":"AUD","aud_price":360,"date":"2023-07-24","venue":"Noble Numismatics, Sydney sale 133 lot 1215","url":"https://www.noble.com.au/auctions/lot/?id=408773","same_item":"close","note":"Page opened. Set was part of an 11-item mixed lot (estimate $200), so not a clean single-set price."},
-{"kind":"SOLD","price":"$760 hammer","currency":"AUD","aud_price":760,"date":"2022-11-22","venue":"Noble Numismatics, Sydney sale 131 lot 3156","url":"https://www.noble.com.au/auctions/lot/?id=402332","same_item":"close","note":"Page opened. Set missing outer box, but sold within a big multi-coin lot, so well above the set's own value."},
-{"kind":"SOLD","price":"$130 hammer","currency":"AUD","aud_price":130,"date":"2021-03-23","venue":"Noble Numismatics, Sydney sale 126 lot 119","url":"https://www.noble.com.au/auctions/lot/?id=377691","same_item":"yes","note":"Local comps database; page not opened. Coin, medallion and badge set 2008."},
-{"kind":"SOLD","price":"$240 hammer","currency":"AUD","aud_price":240,"date":"2020-07-28","venue":"Noble Numismatics, Sydney sale 124 lot 253","url":"https://www.noble.com.au/auctions/lot/?id=368615","same_item":"yes","note":"Local comps database; page not opened. Single set."},
-{"kind":"SOLD","price":"$240 hammer","currency":"AUD","aud_price":240,"date":"2020-07-28","venue":"Noble Numismatics, Sydney sale 124 lot 254","url":"https://www.noble.com.au/auctions/lot/?id=368616","same_item":"yes","note":"Local comps database; page not opened. Second set, same sale, same price."},
-{"kind":"SOLD","price":"$150 hammer","currency":"AUD","aud_price":150,"date":"2011-04-05","venue":"Noble Numismatics, Sydney sale 96 lot 642","url":"https://www.noble.com.au/auctions/lot/?id=232770","same_item":"yes","note":"Old (2011) and out of date range; local database only."},
-{"kind":"SOLD","price":"$55 hammer","currency":"AUD","aud_price":55,"date":"2026-04-13","venue":"Gowans Auctions, Hobart (gowans id 401487)","url":"gowans id 401487","same_item":"category guide","note":"Single 2000 silver proof $1 HMAS Sydney II coin only (not this set), 6 bids. Shows local appetite for the single coin."},
-{"kind":"ASKING","price":"$330 regular (sold out)","currency":"AUD","aud_price":330,"date":"live, seen 2026-10-28","venue":"Wynyard Coin Centre","url":"https://wynyardcoins.com.au/products/2008-hmas-sydney-ii-1oz-silver-proof-hsk-8-kormoran-silver-medallion-set","same_item":"yes","note":"Snippet only (page text did not load price); marked sold out, so not a live price. Ensleigh Coins snippet listed $148.75 backordered, also snippet only."}
-],
-"searches_tried":"comps.py (pipeline and work) with HMAS Sydney Kormoran, Kormoran, silver proof; Gowans API three searches; Noble pages opened for two lots; WebSearch for set details and dealer prices; one dealer page fetch (no price). Rate: AUD only. eBay sold listings for '2008 HMAS Sydney II Kormoran silver proof set' would settle current resale value but eBay is closed to us.",
-"needs_chrome":true,
-"chrome_hint":"eBay sold items, Australia: 2008 HMAS Sydney II Kormoran silver proof medallion badge set Perth Mint",
-"viewing_check":"Check the certificate number and that both 1oz silver pieces are in sealed capsules with no toning or spots, the outer shipper box is likely absent (Noble sold one 'missing outer' set), and that both badges are present and undamaged."}
+{
+ "cdid": 446687,
+ "lot": 127,
+ "identification": "Perth Mint 2008 HMAS Sydney II 1oz silver proof coin, HSK-8 Kormoran 1oz silver medallion and badge set, cased with certificate",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$360 hammer",
+   "currency": "AUD",
+   "aud_price": 360,
+   "date": "2023-07-24",
+   "venue": "Noble Numismatics, Sydney sale 133 lot 1215",
+   "url": "https://www.noble.com.au/auctions/lot/?id=408773",
+   "same_item": "close",
+   "note": "Page opened. Set was part of an 11-item mixed lot (estimate $200), so not a clean single-set price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$760 hammer",
+   "currency": "AUD",
+   "aud_price": 760,
+   "date": "2022-11-22",
+   "venue": "Noble Numismatics, Sydney sale 131 lot 3156",
+   "url": "https://www.noble.com.au/auctions/lot/?id=402332",
+   "same_item": "close",
+   "note": "Page opened. Set missing outer box, but sold within a big multi-coin lot, so well above the set's own value."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2021-03-23",
+   "venue": "Noble Numismatics, Sydney sale 126 lot 119",
+   "url": "https://www.noble.com.au/auctions/lot/?id=377691",
+   "same_item": "yes",
+   "note": "Local comps database; page not opened. Coin, medallion and badge set 2008."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$240 hammer",
+   "currency": "AUD",
+   "aud_price": 240,
+   "date": "2020-07-28",
+   "venue": "Noble Numismatics, Sydney sale 124 lot 253",
+   "url": "https://www.noble.com.au/auctions/lot/?id=368615",
+   "same_item": "yes",
+   "note": "Local comps database; page not opened. Single set."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$240 hammer",
+   "currency": "AUD",
+   "aud_price": 240,
+   "date": "2020-07-28",
+   "venue": "Noble Numismatics, Sydney sale 124 lot 254",
+   "url": "https://www.noble.com.au/auctions/lot/?id=368616",
+   "same_item": "yes",
+   "note": "Local comps database; page not opened. Second set, same sale, same price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150 hammer",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2011-04-05",
+   "venue": "Noble Numismatics, Sydney sale 96 lot 642",
+   "url": "https://www.noble.com.au/auctions/lot/?id=232770",
+   "same_item": "yes",
+   "note": "Old (2011) and out of date range; local database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart (gowans id 401487)",
+   "url": "gowans id 401487",
+   "same_item": "category guide",
+   "note": "Single 2000 silver proof $1 HMAS Sydney II coin only (not this set), 6 bids. Shows local appetite for the single coin."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$330 regular (sold out)",
+   "currency": "AUD",
+   "aud_price": 330,
+   "date": "live, seen 2026-10-28",
+   "venue": "Wynyard Coin Centre",
+   "url": "https://wynyardcoins.com.au/products/2008-hmas-sydney-ii-1oz-silver-proof-hsk-8-kormoran-silver-medallion-set",
+   "same_item": "yes",
+   "note": "Snippet only (page text did not load price); marked sold out, so not a live price. Ensleigh Coins snippet listed $148.75 backordered, also snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$249.99",
+   "currency": "AUD",
+   "aud_price": 249.99,
+   "date": "2026-08-31",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/236815790454",
+   "same_item": "yes",
+   "note": "2008 HMAS Sydney Kormoran silver proof coin, medallion and badge set",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$253.63 list, Best Offer accepted (actual lower)",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2026-09-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128054848312",
+   "same_item": "yes",
+   "note": "2008 Perth Mint 1oz coin, medallion and badge set",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$211.64 list, Best Offer accepted (actual lower)",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2026-08-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/147433065250",
+   "same_item": "yes",
+   "note": "2008 coin and Kormoran medallion set (badges not mentioned)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$216.00",
+   "currency": "AUD",
+   "aud_price": 216,
+   "date": "2026-10-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/960038909114",
+   "same_item": "partly",
+   "note": "2008 HMAS Sydney II / Kormoran 2x 1oz set, badges not mentioned",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$150.00",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2026-09-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/377440016944",
+   "same_item": "no",
+   "note": "2008 HMAS Sydney II 1oz proof coin only",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with HMAS Sydney Kormoran, Kormoran, silver proof; Gowans API three searches; Noble pages opened for two lots; WebSearch for set details and dealer prices; one dealer page fetch (no price). Rate: AUD only. eBay sold listings for '2008 HMAS Sydney II Kormoran silver proof set' would settle current resale value but eBay is closed to us. | chrome: eBay sold 'hmas sydney kormoran silver proof' (worldwide; all AU sellers). Full sets about A$210-250. 2oz of silver adds a floor.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold items, Australia: 2008 HMAS Sydney II Kormoran silver proof medallion badge set Perth Mint",
+ "viewing_check": "Check both capsules for milk spots or toning, certificate number, and both badges present.",
+ "chrome_done": true
+}

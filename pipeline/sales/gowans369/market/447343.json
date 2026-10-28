@@ -1,7 +1,7 @@
 {
  "cdid": 447343,
  "lot": 783,
- "identification": "Two built LEGO Harry Potter sets: 4842 Hogwarts Castle (2010, about 1290 pieces) and 4867 Hogwarts (2011, about 400 pieces) in a cardboard tray with instruction books (4842 visible). No boxes. Minifigs and dementors visible. Completeness unverified.",
+ "identification": "Two built LEGO Harry Potter sets, 4842 Hogwarts Castle (2010) and 4867 Hogwarts (2011), with instructions, no boxes, completeness unverified",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,108 @@
    "url": "https://atlbrick.com/products/hogwarts-castle-4th-edition-4842",
    "same_item": "yes",
    "note": "Snippet only, not verified. Dealer price, rate 1.50. Dealer asking, high-end ceiling."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$150.32",
+   "currency": "AUD",
+   "aud_price": 150.32,
+   "date": "2026-09-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/187996298011",
+   "same_item": "yes",
+   "note": "4842 Hogwarts Castle plus 4867 together, used/loose",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100.00",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-09-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117357016945",
+   "same_item": "partly",
+   "note": "4842 alone, no box",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$112.00",
+   "currency": "AUD",
+   "aud_price": 112,
+   "date": "2026-08-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227342299626",
+   "same_item": "partly",
+   "note": "4842 alone, 100% complete",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$243.88",
+   "currency": "AUD",
+   "aud_price": 243.88,
+   "date": "2026-10-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/306988715054",
+   "same_item": "partly",
+   "note": "4842 alone, used; box/minifig status not in title",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$266.12",
+   "currency": "AUD",
+   "aud_price": 266.12,
+   "date": "2026-10-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267806099184",
+   "same_item": "partly",
+   "note": "4842 alone, used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52.09 list, Best Offer accepted (actual lower)",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2026-10-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227488215624",
+   "same_item": "partly",
+   "note": "4842 not complete, no box",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.05 list, Best Offer accepted (actual lower)",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2026-10-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/900040225109",
+   "same_item": "partly",
+   "note": "4867 complete, no box",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$39.15",
+   "currency": "AUD",
+   "aud_price": 39.15,
+   "date": "2026-10-09",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128085072703",
+   "same_item": "partly",
+   "note": "4867 used",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (both) for lego hogwarts, lego 4842, lego 4867, lego harry potter hogwarts: no same-item sold hits, only 71043 and a $50 two-set lot. Gowans API searches for lego hogwarts/4842/4867/harry potter: only 71043 sold. PriceCharting pages for 4842 and 4867 opened. One WebSearch for built 4842 Australia. No Armitage lookups. eBay sold listings for 4842 and 4867 built/used (Australia) would settle it best.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (both) for lego hogwarts, lego 4842, lego 4867, lego harry potter hogwarts: no same-item sold hits, only 71043 and a $50 two-set lot. Gowans API searches for lego hogwarts/4842/4867/harry potter: only 71043 sold. PriceCharting pages for 4842 and 4867 opened. One WebSearch for built 4842 Australia. No Armitage lookups. eBay sold listings for 4842 and 4867 built/used (Australia) would settle it best. | chrome: eBay AU sold 'lego 4842' and 'lego 4867 hogwarts' (Australia only). Used 4842 A$100-266 depending on completeness; 4867 A$39-51; both together A$150.",
+ "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed: LEGO 4842 Hogwarts Castle used built; and LEGO 4867 Hogwarts used built; also 'lego 4842 4867 bundle'",
  "rate_note": "USD to AUD at 1.50 (assumed); hammer prices exclude 19.8% premium.",
- "viewing_check": "Check completeness: count minifigs against 4842 and 4867 lists (Harry, Ron, Hermione, Dumbledore, Snape, Hagrid, Quirrell, Voldemort etc, plus dementors), check for missing small parts, yellowing or sun-fade of white/tan bricks, sticker and printed-part damage, whether instruction books for both sets are present, and for loose bricks or glued pieces."
+ "viewing_check": "Count minifigures (4842 has 11 incl. Dumbledore, Snape, Quirrell; 4867 has 6) as they drive value; check for missing tower sections.",
+ "chrome_done": true
 }

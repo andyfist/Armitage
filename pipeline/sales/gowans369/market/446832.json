@@ -1,7 +1,7 @@
 {
  "cdid": 446832,
  "lot": 272,
- "identification": "Super7 Transformers Super Shogun Optimus Prime 'Fallen Leader' (grayscale), 60 cm / 24 inch blow-moulded figure, new boxed. Photo shows the sealed-looking retail box with Super7 logo, 'Heroic Autobot Optimus Prime', Super Shogun branding. Super7 RRP US$350.",
+ "identification": "Super7 Transformers Super Shogun Optimus Prime 24 inch (catalogued as 'Fallen Leader' grayscale variant), boxed",
  "entries": [
   {
    "kind": "ASKING",
@@ -57,11 +57,24 @@
    "url": "https://tfsource.com/search/view/status/5/search_term/Transformers+Transformers+Super+Shogun+Optimus+Prime+/",
    "same_item": "yes",
    "note": "Snippet only. Dealer list price, out of stock."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$266.18",
+   "currency": "AUD",
+   "aud_price": 266.18,
+   "date": "2026-09-11",
+   "venue": "eBay (US seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/287347462026",
+   "same_item": "partly",
+   "note": "Super7 Optimus Prime 24in Super Shogun, new; title does not say Fallen Leader so may be the standard colour version; US freight extra",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for super7/transformers/optimus/shogun: no same-item sold; only unrelated Gowans Transformers lots (Soundwave lot $120 hammer, Galvatron lot $130, Optimus Ultra book lot $60), not comparable. Gowans API search 'shogun optimus' returns only this current lot. WebSearch x2 (grayscale price; Australia AUD): no Australian sellers or sold results found. Fetched super7.com, faoschwarz.com, hobbiesville (no useful data), popmarket (empty). No Armitage lookups. eBay sold listings would settle real resale and are blocked to us. USD to AUD rate assumed 1.55 (not checked live).",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (pipeline and work) for super7/transformers/optimus/shogun: no same-item sold; only unrelated Gowans Transformers lots (Soundwave lot $120 hammer, Galvatron lot $130, Optimus Ultra book lot $60), not comparable. Gowans API search 'shogun optimus' returns only this current lot. WebSearch x2 (grayscale price; Australia AUD): no Australian sellers or sold results found. Fetched super7.com, faoschwarz.com, hobbiesville (no useful data), popmarket (empty). No Armitage lookups. eBay sold listings would settle real resale and are blocked to us. USD to AUD rate assumed 1.55 (not checked live). | chrome: eBay sold 'super7 super shogun optimus prime' and 'super7 optimus prime 24' (worldwide): one sale.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold listings (Australia and US): Super7 Transformers Super Shogun Optimus Prime Fallen Leader 24 inch, filter Sold Items, new in box, last 90 days",
  "rate_note": "1 USD = 1.55 AUD assumed, not verified live.",
- "viewing_check": "Confirm the box is factory sealed or at least complete with the figure inside, that it is the Fallen Leader grayscale version (not the standard G1 red/blue colourway), box corner and crush damage, and any shelf wear. Photograph the box ends and any seal or tape."
+ "viewing_check": "Confirm which version (standard red/blue or grayscale Fallen Leader) from the box art; check box is sealed and not crushed.",
+ "chrome_done": true
 }

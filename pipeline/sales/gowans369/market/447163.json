@@ -1,7 +1,7 @@
 {
  "cdid": 447163,
  "lot": 603,
- "identification": "Pair of chrome Jaguar hub caps, dished with recessed black-filled JAGUAR block lettering in a raised centre ring, early 1950s type (XK120/XK140/Mk V/Mk VII era style). Photo shows bright chrome, light marks, no obvious dents. Exact model fit not confirmed.",
+ "identification": "Pair of chrome Jaguar hub caps with black-filled JAGUAR lettering, early 1950s type (XK120/140, Mk V/VII)",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,24 @@
    "url": "https://www.ebay.de/itm/265892418829",
    "same_item": "category guide",
    "note": "Snippet only, unverified, URL attribution uncertain. Rate 1 GBP = 2.0 AUD (assumed). Reproduction, new, unclear if per cap or set. Sets a replacement-cost ceiling."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$24.53",
+   "currency": "AUD",
+   "aud_price": 24.53,
+   "date": "2026-09-01",
+   "venue": "eBay (UK seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/298619096610",
+   "same_item": "no",
+   "note": "category guide: single 1950s Jaguar hub cap badge only, Mk1/Mk2/Mk7/XK",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Both comps.py databases (jaguar hub caps; hub caps chrome; jaguar hubcap): no Jaguar hit. Gowans API for jaguar hub, hub caps, jaguar: no past Jaguar hubcap sold; other hubcaps sold $2 to $85 hammer. WebSearch x4 (XK120/Mk VII hubcap sold; Mk V hubcap; site:armitage; Australian price): no SOLD or UNSOLD Jaguar cap results, only retail snippets. eBay sold listings would settle it: needs Chrome.",
- "needs_chrome": true,
+ "searches_tried": "Both comps.py databases (jaguar hub caps; hub caps chrome; jaguar hubcap): no Jaguar hit. Gowans API for jaguar hub, hub caps, jaguar: no past Jaguar hubcap sold; other hubcaps sold $2 to $85 hammer. WebSearch x4 (XK120/Mk VII hubcap sold; Mk V hubcap; site:armitage; Australian price): no SOLD or UNSOLD Jaguar cap results, only retail snippets. eBay sold listings would settle it: needs Chrome. | chrome: eBay sold 'jaguar hub cap (xk120,xk140,mk7,mk vii,mk v,mark vii)' and 'jaguar hubcap chrome vintage' (worldwide): no full hubcaps sold, only badges and braces. Nothing found for the same item.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold/completed: Jaguar hubcap XK120 OR 'Mk V' OR 'Mk VII' OR Mark 7 pair chrome, on ebay.com.au and ebay.co.uk, last 90 days",
- "viewing_check": "Check the back of each cap for part numbers or stamping, diameter, and the retaining clip type to confirm fit (XK120/140/150 vs Mk V/VII/saloon). Check chrome for pitting, flaking or dents under the glare, and that both caps match.",
- "rate_note": "USD 1.52 and GBP 2.00 assumed, not looked up."
+ "viewing_check": "Check the back for a part number and the retaining clips; dents on the dome; whether they fit wire or steel wheels.",
+ "rate_note": "USD 1.52 and GBP 2.00 assumed, not looked up.",
+ "chrome_done": true
 }

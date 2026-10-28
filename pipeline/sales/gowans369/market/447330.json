@@ -1,12 +1,159 @@
-{"cdid":447330,"lot":770,"identification":"Black four-spoke Jaguar steering wheel with finger-grip rim, splined boss and column stub, and a black horn push with two gold rings and a gilt growler head. Style fits XK120/140 or Mk VII-IX/Mk1/Mk2 era (about 16-17 inch). No maker mark or part number visible. Fitment and exact model unconfirmed. Note a second 'JAGUAR STEERING WHEEL' lot is in the same sale (both listed 25/10/2026).","entries":[
-{"kind":"SOLD","price":"$145","currency":"AUD","aud_price":145,"date":"2026-05-27","venue":"Armitage Auctions, Launceston sale 27893 lot 1424","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2925602&chid=27893&category=ALL&style=group","same_item":"close","note":"From local comps database (snippet only, page not opened). Vintage Jaguar bonnet emblem with mounting pieces, hammer. Not a wheel, but shows local Jaguar parts demand."},
-{"kind":"SOLD","price":"$25","currency":"AUD","aud_price":25,"date":"2026-07-12","venue":"Gowans Auctions, Hobart (id 423306)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/423306/","same_item":"category guide","note":"From local database, hammer, 1 bid. DAIMLER STEERING WHEEL, condition unknown. Daimler is Jaguar-related but this is the low end of the local range."},
-{"kind":"SOLD","price":"$75","currency":"AUD","aud_price":75,"date":"2025-10-06","venue":"Gowans Auctions, Hobart (id 366618)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/366618/","same_item":"category guide","note":"From local database, hammer, 6 bids. HOLDEN HJ-HZ ORIGINAL STEERING WHEEL. Common Australian car, not comparable in demand."},
-{"kind":"SOLD","price":"$5","currency":"AUD","aud_price":5,"date":"2026-07-12","venue":"Gowans Auctions, Hobart (id 423305)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/423305/","same_item":"category guide","note":"From local database. 1960s Simca Aronde wheel, hammer, 1 bid. Shows common period wheels can go very cheaply in Hobart."},
-{"kind":"SOLD","price":"$65","currency":"AUD","aud_price":65,"date":"2025-04-16","venue":"Armitage Auctions, Launceston sale 23849 lot 1352","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2471150&chid=23849&category=ALL&style=group","same_item":"category guide","note":"From local database, snippet only. Jaguar hood ornament, hammer."},
-{"kind":"ASKING","price":"$350 ono","currency":"AUD","aud_price":350,"date":"listing dated 09/08/2025, seen 2026-10-28 via search","venue":"Gumtree Australia (Aberfoyle Park SA)","url":"https://www.gumtree.com.au/s-automotive/jaguar+mk2/k0c9299","same_item":"close","note":"Snippet only. Original 'mint condition' Mk2/Daimler V8 wheel, ask only, may be stale. Likely a better wheel than lot 770 unless proven otherwise."},
-{"kind":"ASKING","price":"$80","currency":"AUD","aud_price":80,"date":"live or stale, seen 2026-10-28 via search","venue":"Gumtree Australia","url":"https://www.gumtree.com.au/s-automotive/jaguar+mk2/k0c9299","same_item":"close","note":"Snippet only. Jaguar/Daimler Mk2 wheel, status unclear, condition unknown."},
-{"kind":"ASKING","price":"$115","currency":"AUD","aud_price":115,"date":"live, seen 2026-10-28","venue":"Louis Guthry (Moorabbin VIC)","url":"https://louguthry.com.au/products/moto-lita-steering-wheels/early-jaguar-mk-2-horn-push-badge/","same_item":"category guide","note":"Snippet only (page text did not show the price when fetched). Early Mk2 horn push badge alone, retail. The horn push on lot 770 is a fraction of this item."},
-{"kind":"ASKING","price":"US$450 to US$489.99","currency":"USD","aud_price":690,"date":"live, seen 2026-10-28","venue":"eBay (US sellers), XK120 Bluemels adjustable 4-spoke wheel","url":"https://www.ebay.com/b/Steering-Wheels-Horns-for-Jaguar-XK/33704/bn_1413266","same_item":"category guide","note":"Snippet only. Rate used USD 1 = AUD 1.53 (assumed). Different, adjustable XK120 wheel in better demand; asking prices only."},
-{"kind":"ASKING","price":"US$200","currency":"USD","aud_price":305,"date":"live, seen 2026-10-28","venue":"eBay (US), used XK140 17 inch 4-spoke wheel","url":"https://www.ebay.com/itm/235343921436","same_item":"close","note":"Snippet only. Rate USD 1 = AUD 1.53 (assumed). Used OEM four-spoke wheel, asking. Closest overseas retail comparison."}
-],"searches_tried":"Local comps (work/comps.py: jaguar steering wheel, jaguar wheel, steering wheel, daimler wheel, holden steering wheel; pipeline/comps.py: jaguar). Gowans API search: jaguar steering wheel (only the two current-sale lots, none sold), jaguar growler, horn push, bonnet badge (nothing). WebSearch: XK120/XK140/Mk2 Bluemels wheel sold, Mk2 horn push growler AUD, site:armitage Jaguar steering wheel (returned nothing from Armitage), Bonhams/H&H/Shannons Mk2 wheel (none found), Gumtree Jaguar wheel. No past Australian auction SOLD result for a Jaguar wheel found, so no SOLD price for the actual item. eBay sold listings would settle it (eBay is closed to us).","needs_chrome":true,"chrome_hint":"eBay sold and completed items: 'Jaguar steering wheel Mk2 OR XK140 OR \"Mark VII\" 4 spoke growler' (ebay.com.au first, then ebay.co.uk); also ebay.com.au sold 'Jaguar horn push growler'.","viewing_check":"Photograph the back of the boss and spokes for a part number or Bluemels/Jaguar stamp, measure rim diameter (16 vs 17 inch), check the rim for cracks or splits, check the horn push for chips and that the boss splines are not worn, and check whether it is adjustable or fixed-boss with a column stub. Also compare with the other Jaguar steering wheel lot in the sale.","rate_note":"USD 1 = AUD 1.53 assumed; no GBP used."}
+{
+ "cdid": 447330,
+ "lot": 770,
+ "identification": "Black four-spoke Jaguar steering wheel with finger-grip rim, splined boss, gold-ringed growler horn push; XK120/140 or Mk VII-IX/Mk1/Mk2 era style",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$145",
+   "currency": "AUD",
+   "aud_price": 145,
+   "date": "2026-05-27",
+   "venue": "Armitage Auctions, Launceston sale 27893 lot 1424",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2925602&chid=27893&category=ALL&style=group",
+   "same_item": "close",
+   "note": "From local comps database (snippet only, page not opened). Vintage Jaguar bonnet emblem with mounting pieces, hammer. Not a wheel, but shows local Jaguar parts demand."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-07-12",
+   "venue": "Gowans Auctions, Hobart (id 423306)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/423306/",
+   "same_item": "category guide",
+   "note": "From local database, hammer, 1 bid. DAIMLER STEERING WHEEL, condition unknown. Daimler is Jaguar-related but this is the low end of the local range."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2025-10-06",
+   "venue": "Gowans Auctions, Hobart (id 366618)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/366618/",
+   "same_item": "category guide",
+   "note": "From local database, hammer, 6 bids. HOLDEN HJ-HZ ORIGINAL STEERING WHEEL. Common Australian car, not comparable in demand."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$5",
+   "currency": "AUD",
+   "aud_price": 5,
+   "date": "2026-07-12",
+   "venue": "Gowans Auctions, Hobart (id 423305)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/423305/",
+   "same_item": "category guide",
+   "note": "From local database. 1960s Simca Aronde wheel, hammer, 1 bid. Shows common period wheels can go very cheaply in Hobart."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2025-04-16",
+   "venue": "Armitage Auctions, Launceston sale 23849 lot 1352",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2471150&chid=23849&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "From local database, snippet only. Jaguar hood ornament, hammer."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$350 ono",
+   "currency": "AUD",
+   "aud_price": 350,
+   "date": "listing dated 09/08/2025, seen 2026-10-28 via search",
+   "venue": "Gumtree Australia (Aberfoyle Park SA)",
+   "url": "https://www.gumtree.com.au/s-automotive/jaguar+mk2/k0c9299",
+   "same_item": "close",
+   "note": "Snippet only. Original 'mint condition' Mk2/Daimler V8 wheel, ask only, may be stale. Likely a better wheel than lot 770 unless proven otherwise."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$80",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "live or stale, seen 2026-10-28 via search",
+   "venue": "Gumtree Australia",
+   "url": "https://www.gumtree.com.au/s-automotive/jaguar+mk2/k0c9299",
+   "same_item": "close",
+   "note": "Snippet only. Jaguar/Daimler Mk2 wheel, status unclear, condition unknown."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$115",
+   "currency": "AUD",
+   "aud_price": 115,
+   "date": "live, seen 2026-10-28",
+   "venue": "Louis Guthry (Moorabbin VIC)",
+   "url": "https://louguthry.com.au/products/moto-lita-steering-wheels/early-jaguar-mk-2-horn-push-badge/",
+   "same_item": "category guide",
+   "note": "Snippet only (page text did not show the price when fetched). Early Mk2 horn push badge alone, retail. The horn push on lot 770 is a fraction of this item."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$450 to US$489.99",
+   "currency": "USD",
+   "aud_price": 690,
+   "date": "live, seen 2026-10-28",
+   "venue": "eBay (US sellers), XK120 Bluemels adjustable 4-spoke wheel",
+   "url": "https://www.ebay.com/b/Steering-Wheels-Horns-for-Jaguar-XK/33704/bn_1413266",
+   "same_item": "category guide",
+   "note": "Snippet only. Rate used USD 1 = AUD 1.53 (assumed). Different, adjustable XK120 wheel in better demand; asking prices only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$200",
+   "currency": "USD",
+   "aud_price": 305,
+   "date": "live, seen 2026-10-28",
+   "venue": "eBay (US), used XK140 17 inch 4-spoke wheel",
+   "url": "https://www.ebay.com/itm/235343921436",
+   "same_item": "close",
+   "note": "Snippet only. Rate USD 1 = AUD 1.53 (assumed). Used OEM four-spoke wheel, asking. Closest overseas retail comparison."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$403.50 list, Best Offer accepted (actual lower)",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2026-09-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/204153275114",
+   "same_item": "partly",
+   "note": "18in Jaguar Mk IV / SS steering wheel (earlier model)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$324.00",
+   "currency": "AUD",
+   "aud_price": 324,
+   "date": "2026-09-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128061010281",
+   "same_item": "unknown",
+   "note": "'jaguar Steering Wheel', model not in title",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$372.59",
+   "currency": "AUD",
+   "aud_price": 372.59,
+   "date": "2026-10-22",
+   "venue": "eBay (Bulgaria seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/168276417986",
+   "same_item": "no",
+   "note": "reproduction wood wheel for Mk II / XK150, new",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "Local comps (work/comps.py: jaguar steering wheel, jaguar wheel, steering wheel, daimler wheel, holden steering wheel; pipeline/comps.py: jaguar). Gowans API search: jaguar steering wheel (only the two current-sale lots, none sold), jaguar growler, horn push, bonnet badge (nothing). WebSearch: XK120/XK140/Mk2 Bluemels wheel sold, Mk2 horn push growler AUD, site:armitage Jaguar steering wheel (returned nothing from Armitage), Bonhams/H&H/Shannons Mk2 wheel (none found), Gumtree Jaguar wheel. No past Australian auction SOLD result for a Jaguar wheel found, so no SOLD price for the actual item. eBay sold listings would settle it (eBay is closed to us). | chrome: eBay AU sold 'jaguar steering wheel' (Australia only); eBay AU sold 'jaguar wood rim steering wheel' (worldwide). Original black Jaguar wheels in Australia sell in the hundreds, well above the Gowans comps.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold and completed items: 'Jaguar steering wheel Mk2 OR XK140 OR \"Mark VII\" 4 spoke growler' (ebay.com.au first, then ebay.co.uk); also ebay.com.au sold 'Jaguar horn push growler'.",
+ "viewing_check": "Measure diameter (17in suggests Mk VII-IX/XK), look for a part number on the boss, check the rim for cracks in the black finish and the horn push condition.",
+ "rate_note": "USD 1 = AUD 1.53 assumed; no GBP used.",
+ "chrome_done": true
+}

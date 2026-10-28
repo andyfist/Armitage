@@ -1,7 +1,7 @@
 {
  "cdid": 447866,
  "lot": 1455,
- "identification": "Eley Bros (UK) timber shotgun cartridge crate, dovetailed, printed 'ELEY 500 Grand Prix Cartridges, Loaded with Smokeless Diamond', 12 gauge, No. 6 shot, with trade mark shield. Weathered, no lid, splits and paint splashes. Probably mid 20th century (Eley-Kynoch era not confirmed).",
+ "identification": "Eley Bros timber shotgun cartridge crate, dovetailed, printed 'ELEY 500 Grand Prix Cartridges, Smokeless Diamond', 12 gauge No.6; weathered, no lid, splits",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,24 @@
    "url": "https://www.gowansauctions.com.au/ (gowans id 392910, AMMUNITION BOX)",
    "same_item": "category guide",
    "note": "4 bids. Generic ammunition box."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$106.70",
+   "currency": "AUD",
+   "aud_price": 106.7,
+   "date": "2026-09-12",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/287295034220",
+   "same_item": "partly",
+   "note": "vintage Eley sporting cartridge wooden crate, empty; which Eley print and lid status not in title",
+   "via": "chrome"
   }
  ],
  "rate_note": "All AUD, no conversion. Hammer prices; Gowans premium about 19.8% extra.",
- "searches_tried": "comps.py (pipeline and work) for eley cartridge, eley, cartridge crate, ammunition box, shotgun box wooden: no Eley crate sales found (only Noble Eley-Kynoch blotter $240 and Eley anvils tin $50, not the same item). Gowans API searches eley, cartridge box/crate: no Eley crate. WebSearch budget was exhausted so no web or Armitage searches were possible. eBay sold listings (Eley Grand Prix cartridge box/crate, wooden) would settle value best.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for eley cartridge, eley, cartridge crate, ammunition box, shotgun box wooden: no Eley crate sales found (only Noble Eley-Kynoch blotter $240 and Eley anvils tin $50, not the same item). Gowans API searches eley, cartridge box/crate: no Eley crate. WebSearch budget was exhausted so no web or Armitage searches were possible. eBay sold listings (Eley Grand Prix cartridge box/crate, wooden) would settle value best. | chrome: eBay sold 'eley cartridge box wooden' (worldwide): one wooden crate, rest cardboard boxes.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold/completed: Eley Grand Prix 500 cartridge crate wooden 12 gauge; also eBay AU 'Eley cartridge box wooden' and 'Eley Kynoch wooden crate'",
- "viewing_check": "Check for a lid, any paper labels or stencils on other sides, condition of the red print and joints, and any other Eley or Kynoch markings. Photo already shows the main print; otherwise little to settle."
+ "viewing_check": "Check the print is original stencil and readable on how many sides; confirm no lid and size of splits.",
+ "chrome_done": true
 }

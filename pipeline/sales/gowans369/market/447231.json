@@ -1,7 +1,7 @@
 {
  "cdid": 447231,
  "lot": 671,
- "identification": "Oil of fishing boats moored in haze, signed lower right. Signature on the photo is a small scrawl, not clearly legible as Brian Baigent; catalogue attribution unverified. Brian Charles Baigent (1929-2000) is a Sydney painter (Ku-ring-gai, harbour, Cowan Waters), not Victorian as the scan note claims; Lakes Entrance title may still fit if he travelled. Gilt frame with linen slip, roughly 50x60cm image.",
+ "identification": "Oil of fishing boats moored in haze, gilt frame, catalogued as Brian Baigent 'Weather Bound Lakes Entrance'; signature not confirmed",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,24 @@
    "url": "https://www.invaluable.com/auction-lot/brian-baigent-1929-2000-foreshore-broken-bay-oil--8186-c-47f40e0827",
    "same_item": "category guide",
    "note": "Foreshore Broken Bay, small 34x44cm. Page opened; currentBid 150 only, final result not confirmed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$63.24",
+   "currency": "AUD",
+   "aud_price": 63.24,
+   "date": "2026-09-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267770233609",
+   "same_item": "no",
+   "note": "Brian Baigent oil, Cowan Waters landscape; same artist, different subject and size unknown",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (both databases) for baigent: no hits. Gowans API search baigent: only this lot. WebSearch x2 (sold prices; auction results); opened Appraisily profile and 4 Invaluable lot pages. Artrecord/AASD not opened (paywalled). eBay sold and Invaluable signed-in results would help.",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (both databases) for baigent: no hits. Gowans API search baigent: only this lot. WebSearch x2 (sold prices; auction results); opened Appraisily profile and 4 Invaluable lot pages. Artrecord/AASD not opened (paywalled). eBay sold and Invaluable signed-in results would help. | chrome: Invaluable past results 'brian baigent': 192 lots listed (mostly Lawsons Sydney; Lawsons relisted several titles 2-4 times in 2024 and 2026, which suggests passing in) but prices are behind a subscription paywall, so none recorded. No Lakes Entrance or Victorian title in the first 96 results. eBay sold 'brian baigent' (worldwide): one sale.",
+ "needs_chrome": false,
  "chrome_hint": "Invaluable artist search 'Brian Baigent' sold results (signed in), plus eBay sold 'Brian Baigent oil'",
- "viewing_check": "Photograph the signature up close to confirm it reads Baigent; look at the back for title label, date and size; check for a Lawsons or gallery label. Check the canvas board for damage.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Read the signature closely and look on the back for a title label, gallery sticker or date; check board vs canvas and size against Lawsons-sold works (mostly 30x40 to 45x60cm).",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

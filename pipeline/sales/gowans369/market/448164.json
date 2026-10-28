@@ -1,10 +1,101 @@
-{"cdid":448164,"lot":823,"identification":"Five-drawer timber plan/map chest, light honey oak or pine veneer look, chrome cup pulls and label holders, plywood drawer bases, full-size plan drawers, single unit (no stand). Mid-century office or drafting type, not antique.","entries":[
-{"kind":"SOLD","price":"$650 hammer","currency":"AUD","aud_price":650,"date":"2026-05-24","venue":"Gowans Auctions, Hobart (13 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/412376/","same_item":"close","note":"WOODEN MAP DRAWERS, via local database; photo not viewed, drawer count unknown. Top of Gowans range."},
-{"kind":"SOLD","price":"$525 hammer","currency":"AUD","aud_price":525,"date":"2026-05-10","venue":"Gowans Auctions, Hobart (9 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/409241/","same_item":"close","note":"SET OF MAP DRAWERS, via local database; photo not viewed, condition unknown."},
-{"kind":"SOLD","price":"$360 hammer","currency":"AUD","aud_price":360,"date":"2026-09-06","venue":"Gowans Auctions, Hobart (9 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/436692/","same_item":"close","note":"SET OF MAP DRAWERS, via local database; photo not viewed."},
-{"kind":"SOLD","price":"$255 and $250 hammer","currency":"AUD","aud_price":255,"date":"2026-08-30","venue":"Gowans Auctions, Hobart (12 and 13 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/435226/","same_item":"close","note":"Two SET OF 6 DRAWER MAP DRAWERS (ids 435226, 435221); via local database; photos not viewed, material unknown."},
-{"kind":"SOLD","price":"$180 hammer","currency":"AUD","aud_price":180,"date":"2026-05-17","venue":"Gowans Auctions, Hobart (11 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/410280/","same_item":"close","note":"3 DRAWER PLAN DRAWERS, smaller unit; via local database."},
-{"kind":"SOLD","price":"$240 hammer","currency":"AUD","aud_price":240,"date":"2025-05-28","venue":"Armitage Auctions, Launceston sale 24113 lot 1727","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2513534&chid=24113&category=ALL&style=group","same_item":"category guide","note":"Bank of 1 map drawers 148x63x93cm, via local database; closing bid, premium extra."},
-{"kind":"SOLD","price":"$400 hammer","currency":"AUD","aud_price":400,"date":"2026-07-08","venue":"Armitage Auctions, Launceston sale 28165 lot 119","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2974335&chid=28165&category=ALL&style=group","same_item":"category guide","note":"Large 16 drawer Tas oak plan drawers, much bigger; via local database."},
-{"kind":"ASKING","price":"$800-$1,200 estimate","currency":"AUD","aud_price":1000,"date":"2025-09-21","venue":"Yarra Valley Auctions lot 265 (vintage timber plan/map cabinet)","url":"https://www.invaluable.com/auction-lot/vintage-timber-plan-map-drawer-cabinet-265-c-eb54071a22","same_item":"category guide","note":"Snippet only; estimate, result hidden. Drawer count unknown. Estimates run well above Hobart hammers."}
-],"searches_tried":"comps.py (both databases) with map drawers, plan chest, plan drawers, architect drawers, map chest drawers; Gowans API search map drawers and plan drawers; one WebSearch (Invaluable, Carters, Gumtree results). Carters page blocked by bot check. Photos of past Gowans comps not viewed, so same-type match is unverified. Gumtree asking prices and eBay sold would help.","needs_chrome":true,"chrome_hint":"eBay AU sold: 'timber plan chest 5 drawer' and 'vintage map drawers timber'; also Gumtree 'plan drawers' Tasmania asking prices","viewing_check":"Count drawers, confirm timber (solid oak/pine vs veneer), check drawers run smoothly and are full-size, any maker label or stencil, damage to top, overall size (full-size plan chests are wider and more valuable), and whether the top is a separate lift-off piece.","rate_note":"All AUD, no conversion. Gowans and Armitage hammers exclude premium."}
+{
+ "cdid": 448164,
+ "lot": 823,
+ "identification": "Five-drawer timber plan/map chest, chrome cup pulls, mid-century office type",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$650 hammer",
+   "currency": "AUD",
+   "aud_price": 650,
+   "date": "2026-05-24",
+   "venue": "Gowans Auctions, Hobart (13 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/412376/",
+   "same_item": "close",
+   "note": "WOODEN MAP DRAWERS, via local database; photo not viewed, drawer count unknown. Top of Gowans range."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$525 hammer",
+   "currency": "AUD",
+   "aud_price": 525,
+   "date": "2026-05-10",
+   "venue": "Gowans Auctions, Hobart (9 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/409241/",
+   "same_item": "close",
+   "note": "SET OF MAP DRAWERS, via local database; photo not viewed, condition unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$360 hammer",
+   "currency": "AUD",
+   "aud_price": 360,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions, Hobart (9 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/436692/",
+   "same_item": "close",
+   "note": "SET OF MAP DRAWERS, via local database; photo not viewed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$255 and $250 hammer",
+   "currency": "AUD",
+   "aud_price": 255,
+   "date": "2026-08-30",
+   "venue": "Gowans Auctions, Hobart (12 and 13 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/435226/",
+   "same_item": "close",
+   "note": "Two SET OF 6 DRAWER MAP DRAWERS (ids 435226, 435221); via local database; photos not viewed, material unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180 hammer",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Hobart (11 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/410280/",
+   "same_item": "close",
+   "note": "3 DRAWER PLAN DRAWERS, smaller unit; via local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$240 hammer",
+   "currency": "AUD",
+   "aud_price": 240,
+   "date": "2025-05-28",
+   "venue": "Armitage Auctions, Launceston sale 24113 lot 1727",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2513534&chid=24113&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Bank of 1 map drawers 148x63x93cm, via local database; closing bid, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$400 hammer",
+   "currency": "AUD",
+   "aud_price": 400,
+   "date": "2026-07-08",
+   "venue": "Armitage Auctions, Launceston sale 28165 lot 119",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2974335&chid=28165&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Large 16 drawer Tas oak plan drawers, much bigger; via local database."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$800-$1,200 estimate",
+   "currency": "AUD",
+   "aud_price": 1000,
+   "date": "2025-09-21",
+   "venue": "Yarra Valley Auctions lot 265 (vintage timber plan/map cabinet)",
+   "url": "https://www.invaluable.com/auction-lot/vintage-timber-plan-map-drawer-cabinet-265-c-eb54071a22",
+   "same_item": "category guide",
+   "note": "Snippet only; estimate, result hidden. Drawer count unknown. Estimates run well above Hobart hammers."
+  }
+ ],
+ "searches_tried": "comps.py (both databases) with map drawers, plan chest, plan drawers, architect drawers, map chest drawers; Gowans API search map drawers and plan drawers; one WebSearch (Invaluable, Carters, Gumtree results). Carters page blocked by bot check. Photos of past Gowans comps not viewed, so same-type match is unverified. Gumtree asking prices and eBay sold would help. | chrome: eBay AU sold 'plan drawers timber' (only steel Brownbuilt 10-drawer at A$265.70 and a new A0 steel unit, not comparable); eBay AU sold 'vintage map drawers' (only maps). Nothing found for timber 5-drawer chests.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold: 'timber plan chest 5 drawer' and 'vintage map drawers timber'; also Gumtree 'plan drawers' Tasmania asking prices",
+ "viewing_check": "Measure drawer internal size (A1 or A0), check drawer runners and veneer chips.",
+ "rate_note": "All AUD, no conversion. Gowans and Armitage hammers exclude premium.",
+ "chrome_done": true
+}
