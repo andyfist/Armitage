@@ -1,0 +1,122 @@
+{
+ "cdid": 447539,
+ "lot": 1128,
+ "identification": "Two long narrow rough-sawn live-edge boards, pale yellow, claimed Huon pine (could also be celery top or other pale softwood; not verifiable from photo). Roughly 1.8-2 m by 20-25 cm. Photo also shows neighbouring lot 1129 boards at left; ours are the middle and right boards.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Moonah/Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444306/",
+   "same_item": "close",
+   "note": "Same title '2 SLABS OF HUON PINE', 5 bids, top of the recent run. Seen via API query (page not opened); premium extra. Dimensions not checked against ours."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Moonah/Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/442685/",
+   "same_item": "close",
+   "note": "Same title, 6 bids. API data only; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85 hammer",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-10-18",
+   "venue": "Gowans Auctions, Moonah/Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/445942/",
+   "same_item": "close",
+   "note": "Same title, 2 bids. API data only; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-10-18",
+   "venue": "Gowans Auctions, Moonah/Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/445941/",
+   "same_item": "close",
+   "note": "Same title, 4 bids. API data only; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Moonah/Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444323/",
+   "same_item": "close",
+   "note": "Same title, 3 bids, typical middle result. API data only; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20 hammer",
+   "currency": "AUD",
+   "aud_price": 20,
+   "date": "2026-10-18",
+   "venue": "Gowans Auctions, Moonah/Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/445944/",
+   "same_item": "close",
+   "note": "Same title, 1 bid, low end (probably short or poor boards). API data only; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180 hammer",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-02-01",
+   "venue": "Gowans Auctions, Moonah/Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/387804/",
+   "same_item": "close",
+   "note": "Same title, 7 bids, a tall wide slab about 2 m plus a shorter one per DB description; the high outlier of about 150 sales since Nov 2025. API data only; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$155 hammer (single slab, 6 bids)",
+   "currency": "AUD",
+   "aud_price": 155,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Moonah",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/442693/",
+   "same_item": "category guide",
+   "note": "Single long wide SLAB OF HUON PINE; shows upper end for one good board. Premium extra. API data only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$490 for one slab 2650 x 340 x 45 mm",
+   "currency": "AUD",
+   "aud_price": 490,
+   "date": "live, seen 2026-10-28",
+   "venue": "Huon Pine Tasmania (huonpine.com.au)",
+   "url": "https://huonpine.com.au/shop/",
+   "same_item": "category guide",
+   "note": "Snippet only. Dressed, graded retail slab, much wider and thicker than ours; shows retail runs about $12,000/m3 for good slabs. Not a price paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,250 for two slabs 2850 x 600 x 50 mm",
+   "currency": "AUD",
+   "aud_price": 1250,
+   "date": "live, seen 2026-10-28",
+   "venue": "Gumtree, Wynyard Tas",
+   "url": "https://www.gumtree.com.au/s-tas/huon+pine+slabs/k0l3008843",
+   "same_item": "category guide",
+   "note": "Snippet only; private asking, larger boards. Not a price paid."
+  }
+ ],
+ "searches_tried": "pipeline comps.py (huon pine slab) and work comps.py (huon pine; huon slabs; huon slab --min-price 150); Gowans API search '2 slabs of huon pine' pages 1-2 (about 150 sold same-title lots since Nov 2025: most $30-$100, median about $55-60 hammer, 2026 Oct 18 sale $10-$85, rare highs $140-$180); one WebSearch for retail Huon pine slab prices (Gumtree, huonpine.com.au). eBay sold prices would not add much; Gowans own results are the best guide. Armitage not searched by design.",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "rate_note": "AUD only, no conversion. Gowans hammer excludes about 19.8% premium.",
+ "viewing_check": "Check it is real Huon pine (sweet resinous smell, fine even grain, pale yellow, pin knots) rather than celery top or similar; measure width and thickness of each board; look for rot, splits, shake and borers. Wider (30 cm+) clean boards are the ones that reach $100+."
+}

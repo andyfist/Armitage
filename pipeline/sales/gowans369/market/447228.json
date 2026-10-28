@@ -1,0 +1,100 @@
+{
+ "cdid": 447228,
+ "lot": 668,
+ "identification": "Mixed box of recent boxed consumer gadgets: RingConn Gen 2 Air smart ring (boxed), GameSir controller for Xbox with dock, DEERC drone (box), TOZO NC20 earbuds, Cable Matters 20Gbps USB-C 3-in-1-out switch (201343), Soundcore item, two boxed security/doorbell cameras, power bank, walkie-talkie, batteries. Looks like returns/surplus; all sold as is, working order unknown.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/401541/",
+   "same_item": "close",
+   "note": "2 RINGCONN RINGS, 5 bids. Model and condition unknown; two rings for $80 hammer. Local comps DB hit, not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/409693/",
+   "same_item": "category guide",
+   "note": "SMART RING, 4 bids. Unbranded or unknown smart ring. Local comps DB hit, not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20 hammer",
+   "currency": "AUD",
+   "aud_price": 20,
+   "date": "2026-06-14",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/416313/",
+   "same_item": "category guide",
+   "note": "SMART HEALTH RING, 2 bids. Cheap generic. Local comps DB hit, not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437381/",
+   "same_item": "close",
+   "note": "DEERC D350 PRO DRONE, 5 bids. Same maker drone as in this box (model unknown). Local comps DB hit, not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-02-05",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/388720/",
+   "same_item": "close",
+   "note": "DEERC D25 DRONE IN BOX, 2 bids. Local comps DB hit, not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85 hammer",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-08-30",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/434408/",
+   "same_item": "category guide",
+   "note": "Plain BOX OF ASST ELECTRONICS - AS IS, 11 bids. Typical range for generic electronics boxes is $25 to $110 hammer (about 30 sales since Apr 2026, median about $60); this box is better than most. Local comps DB hit, not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$110 hammer",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/401908/",
+   "same_item": "category guide",
+   "note": "Top end of generic electronics boxes seen, 15 bids. Local comps DB hit, not opened. Premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$319",
+   "currency": "AUD",
+   "aud_price": 319,
+   "date": "live, seen 2026-10-28 (listings last updated late 2025)",
+   "venue": "eBay AU seller, Deer Park VIC (RingConn Gen 2 Air new)",
+   "url": "https://www.ebay.de/itm/187106283950",
+   "same_item": "yes",
+   "note": "snippet only, not verified, from WebSearch summary. New retail asking for the Gen 2 Air. Official US price quoted US$199 (about A$300, rate about 1.5). Lot item is opened/used box so second-hand value well below new."
+  }
+ ],
+ "searches_tried": "Local comps DBs (work/comps.py: ringconn, smart ring, box electronics, drone deerc, xbox controller, gamesir, tozo, cable matters; pipeline/comps.py ringconn); Gowans API ringconn; WebSearch RingConn Gen 2 Air price Australia. No hits for GameSir, TOZO, Cable Matters, Soundcore. eBay AU sold listings for RingConn Gen 2 Air, GameSir controller (model unknown) and DEERC would settle resale value (closed to us). Rate used: USD to AUD about 1.5.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold+completed: RingConn Gen 2 Air (used/open box); also GameSir Xbox controller wireless with charging dock sold; DEERC drone sold",
+ "viewing_check": "Open the RingConn box: is a ring present and what size, does it come with charger case. Check GameSir model name on the controller/dock, whether doorbell cameras are Eufy/Ring/Tapo brand and complete, and whether items power on. Count other gadgets under the top layer.",
+ "rate_note": "USD to AUD about 1.5; all Gowans prices are hammer, 19.8% premium extra."
+}

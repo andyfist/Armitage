@@ -1,0 +1,67 @@
+{
+ "cdid": 447308,
+ "lot": 748,
+ "identification": "LEGO Knights' Kingdom 8877 Vladek's Dark Fortress (2006, 967 pieces, 9 minifigs), built, loose in a cardboard box with the original instruction book (creased, worn). Photos confirm the book is 8877 and a built black and red castle with skeleton horse and banners. Loose pieces and minifigs visible at bottom; completeness unknown, no original box.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$110 hammer (17 bids)",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-07-19",
+   "venue": "Gowans Auctions, Hobart (VINTAGE LEGO - CASTLE, gowans id 424936)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/424936/",
+   "same_item": "category guide",
+   "note": "Unknown castle lot, not 8877; Hammer, premium extra. From local database, page not opened; no photo check."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85 hammer (16 bids)",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart (LEGO Creator 3in1 Castle 31120, id 442230)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/442230/",
+   "same_item": "category guide",
+   "note": "Modern small set, shows castle-themed LEGO floor. Hammer, premium extra. Database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25-152 hammer, median $50 (23 Gowans vintage LEGO lots)",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2025-10 to 2026-10",
+   "venue": "Gowans Auctions, Hobart (work/comps.py 'lego vintage')",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437860/",
+   "same_item": "category guide",
+   "note": "Mixed vintage lots, mostly not named sets. Highest $152 was a tub (id 437860). Database only. No past Knights Kingdom 8877 lot at Gowans found."
+  },
+  {
+   "kind": "ASKING",
+   "price": "Used value approx US$193 (Brickset current value; new approx US$341)",
+   "currency": "USD",
+   "aud_price": 299,
+   "date": "live, seen 2026-10-28",
+   "venue": "Brickset 8877-1 Vladek's Dark Fortress",
+   "url": "https://brickset.com/sets/8877-1/Vladek-s-Dark-Fortress",
+   "same_item": "yes",
+   "note": "Page opened. Rate used 1 USD = 1.55 AUD. Value estimate for a complete used set, not a price paid. 967 pieces, 9 minifigs, RRP US$99.99. Lot is unverified-complete, built, no box, so worth less."
+  },
+  {
+   "kind": "ASKING",
+   "price": "Used US$189-260, avg US$217 (BrickEconomy); Brick Owl used complete US$190; Austin Block Shop used with box US$320; eBay used listing US$419",
+   "currency": "USD",
+   "aud_price": 294,
+   "date": "live, seen 2026-10-28",
+   "venue": "Search snippet summary of BrickEconomy, Brick Owl, dealers, eBay",
+   "url": "https://www.brickeconomy.com/set/8877-1/lego-knights-kingdom-ii-vladeks-dark-fortress",
+   "same_item": "yes",
+   "note": "Snippet only, unverified (my own fetch of BrickEconomy and Brick Owl returned no content). Complete sets, asking prices. Rate 1.55. Lower end AUD about 294."
+  }
+ ],
+ "rate_note": "1 USD = 1.55 AUD approx (assumed). Gowans prices are hammer, 19.8% premium extra.",
+ "searches_tried": "work/comps.py and pipeline/comps.py (lego 8877, lego castle knights, lego knights, lego vintage, 8877): no 8877 sale at Gowans or elsewhere locally; only castle-themed and vintage lot comps. Gowans API search 'lego knights kingdom': only this lot. WebSearch 'LEGO 8877 Vladek's Dark Fortress sold price used' (snippet). Fetched Brickset (opened); BrickEconomy and Brick Owl returned empty. eBay sold prices are closed to us and would settle the value best. Did not look at PriceCharting or Armitage.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay sold/completed: 'LEGO 8877 Vladek's Dark Fortress' and also 'LEGO 8877 Knights Kingdom used built' (Australia and US, last 90 days, Sold Items); also BrickLink price guide 8877-1 sold used (6-month).",
+ "viewing_check": "Count completeness: 9 minifigs (Vladek, Shadow Knights, skeleton, etc.), portcullis, gate, catapult/launcher, banners, horse, number of the 967 pieces roughly (bag size). Check for missing walls, discolouring (red/black fading), stickers, and loose pieces from other sets mixed in. Check the instruction book is the full booklet. Photograph the minifigs and the underside of the base."
+}

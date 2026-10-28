@@ -1,0 +1,78 @@
+{
+ "cdid": 446698,
+ "lot": 138,
+ "identification": "Two plastic holder sheets, 24 carded circulated Australian pre-decimal silver coins (mostly 1950-63 sixpences, two Rams Head shillings, two florins). About 44g pure silver, mostly melt plus a mild premium (1951 PL sixpence). No key dates seen.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$110 hammer",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions, Hobart (lot id 399944)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sheet+pre-decimal+silver+coins&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Single 'SHEET OF PRE-DECIMAL SILVER COINS', Gowans ID 399944; likely a similar one-sheet carded lot. Page opened (API JSON); title only, no description or photos read, so contents unverified. AUD, no conversion; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart (lot id 401508)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sheet+pre-decimal+silver+coins&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Same title, ID 401508; likely similar. Page opened (API JSON); title only, no description or photos read, so contents unverified. AUD, no conversion; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85 hammer",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart (lot id 401529)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sheet+pre-decimal+silver+coins&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Same title, ID 401529; likely similar. Page opened (API JSON); title only, no description or photos read, so contents unverified. AUD, no conversion; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-05-03",
+   "venue": "Gowans Auctions, Hobart (lot id 406423)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sheet+pre-decimal+silver+coins&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Same title, ID 406423; likely similar. Page opened (API JSON); title only, no description or photos read, so contents unverified. AUD, no conversion; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 and $85 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-04-13 and 2026-05-03",
+   "venue": "Gowans Auctions, Hobart (local DB, '2 sheets of Australian pre-decimal coins, sheet 1 holds 20 carded silver')",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sheet+pre-decimal+silver+coins&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Two-sheet lots, closest in format to this lot; description in local DB says sheet 1 holds 20 carded silver coins. Local database entry only, not re-opened; the $55 and $85 may duplicate the single-sheet IDs above, so do not double count."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$550 and $300 hammer",
+   "currency": "AUD",
+   "aud_price": 300,
+   "date": "2026-04 and 2026-07",
+   "venue": "Noble Numismatics Sale 141 lot 226 and Sale 142 lot 24",
+   "url": "https://www.noble.com.au/auctions/lot/?id=458010",
+   "same_item": "category guide",
+   "note": "Local DB lists these as 'Two sheets of Australian pre-decimal coins' with Gowans title match, but contents likely include better dates; treat as an upper outlier, not comparable to circulated 1950s-60s silver. Local database only, pages not opened."
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline and work) with carded/florins/shillings/sixpences/sheet/1951 PL; Gowans API search for sheet pre-decimal silver coins. No web search or live melt check done (generic melt-value lot). Melt value of about 44g pure silver is roughly $50 to $80 at recent prices, not verified this run; check goldprice.org. eBay sold would not materially help.",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "rate_note": "All prices AUD; no conversion.",
+ "viewing_check": "Check the dates on the two florins and shillings and confirm all coins are 0.500 silver (1946-64); look for any 1946-47 or 1951 PL/1955 Y.* key dates in the sixpences and florin 1947. Count coins and confirm no coins are cleaned or holed."
+}

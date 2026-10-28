@@ -167,7 +167,7 @@ def main():
         'alwaysLook': [{'cdid': r['cdid'], 'lot': r['lot'], 'title': r['title'], 'why': r['cls_reason']}
                        for r in slim if r['cls'] == 'always_look' and r['state'] == 'FETCHED'],
         'description': (f'Gowans Auctions (Hobart, Tasmania) weekly auction {att["code"]}: lots {cat["lot_min"]} to {cat["lot_max"]}, '
-                        f'absentee bidding closes {close}; the room auction is the next morning. Buyer\'s premium about {PREMIUM}. '
+                        f'absentee bidding closes {close}; the room auction starts at 10am the same morning. Buyer\'s premium about {PREMIUM}. '
                         'Gowans lots have few words and usually one or two photos, so treat the photos as the main evidence'),
     }
     json.dump(wfargs, open(f'{D}/wfargs.json', 'w'), separators=(',', ':'))

@@ -1,0 +1,78 @@
+{
+ "cdid": 446753,
+ "lot": 193,
+ "identification": "Seiko Bell-Matic alarm automatic, 17 jewels, day-date (TUE), stainless steel, silver linen dial, 4006 family, early 1970s. Dial flaked and spotted, aftermarket croc-print strap, running unknown.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$360 hammer",
+   "currency": "AUD",
+   "aud_price": 360,
+   "date": "2025-11-24",
+   "venue": "Gowans Auctions, Hobart (lot id 376759, SEIKO BELLMATIC WRISTWATCH, 6 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=seiko+bellmatic&page%5Bnumber%5D=1",
+   "same_item": "yes",
+   "note": "API record seen (page opened via API). Photo checked: steel case, silver dial with day-date, steel bracelet, 17 jewels, worn and tired with dial ageing, bezel dull. Closest comparable to this lot (this lot has a flaked dial and a replacement strap). Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$510 hammer",
+   "currency": "AUD",
+   "aud_price": 510,
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions, Hobart (lot id 390092, SEIKO BELLMATIC MENS WATCH, 15 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=seiko+bellmatic&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "API record seen. Photo checked: gold-plated case and bracelet, brown/gold dial, clean and attractive, 17 jewels. Better looking colourway and condition than this lot, so an upper marker. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150 to $300 hammer (17 Bell-Matic lots, median $160)",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2018-04-17",
+   "venue": "Noble Numismatics, Sydney sale 117 lots 3302-3318",
+   "url": "https://www.noble.com.au/auctions/lot/?id=338039",
+   "same_item": "close",
+   "note": "Local comps database. Mostly 4006 steel and gold plate, good to very good condition. Steel 4006-6040 'excellent' $300, 'good' $160-200. Old (8 years) so only a guide to relative condition pricing; market has risen since. Not opened by me."
+  },
+  {
+   "kind": "SOLD",
+   "price": "USD 439",
+   "currency": "USD",
+   "aud_price": 660,
+   "date": "2026-08-08",
+   "venue": "Blackwell Auctions (US), Seiko Bell-Matic 4006-6040 steel",
+   "url": "https://everywatch.com/seiko/4006-6040/watch-13336686",
+   "same_item": "close",
+   "note": "Snippet only, via WebSearch summary of Everywatch results list. Unverified; unclear whether premium included and condition unknown. Rate used 1 USD = 1.50 AUD (assumed)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "WatchCharts market estimate USD 249 (4006-6027) and USD 271 (4006-6040)",
+   "currency": "USD",
+   "aud_price": 375,
+   "date": "live, seen 2026-10-28",
+   "venue": "WatchCharts",
+   "url": "https://watchcharts.com/watch_model/16465-seiko-bellmatic-4006-6027/overview",
+   "same_item": "category guide",
+   "note": "Snippet only. Aggregated private-sale estimates for working examples, not a price paid. AUD at 1.50 assumed, about 375 to 405. Works-condition pieces with good dials; this lot is below that."
+  },
+  {
+   "kind": "ASKING",
+   "price": "eBay Germany and UK Bell-Matic listings, about GBP 330-350 and USD 125-320",
+   "currency": "mixed",
+   "aud_price": 300,
+   "date": "live, seen 2026-10-28",
+   "venue": "eBay (search snippets)",
+   "url": "https://www.ebay.de/itm/205883552140",
+   "same_item": "category guide",
+   "note": "Snippet only, asking prices, mostly later 4006-7020 or tidy examples. Not verified; AUD figure is a rough low-end guess from the lowest USD asks at 1.50. eBay itself closed to us."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for seiko bell-matic and seiko watch; Gowans API for seiko bell-matic, bellmatic, alarm; two WebSearches (general and site:armitage, which returned only eBay snippets, no Armitage results). I did not search eBay sold, which is closed to us; eBay sold for 'Seiko Bell-Matic 4006' steel would best settle it. Read-only.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay sold and completed: Seiko Bell-Matic 4006 steel, silver dial, not working or dial damage, Australia and worldwide, last 90 days",
+ "rate_note": "USD to AUD 1.50 assumed",
+ "viewing_check": "Wind and set the alarm to see if the movement runs, the day-date changes and the alarm rings; check case back for 4006-xxxx reference and serial; look at how bad the dial flaking is up close; check for polish and crystal condition; note the strap is a replacement and there is no bracelet."
+}
