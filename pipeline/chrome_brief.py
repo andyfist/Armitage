@@ -64,7 +64,7 @@ def main():
         lot = json.load(open(os.path.join(D, 'lots', f"{x['cdid']}.json"))) if os.path.exists(os.path.join(D, 'lots', f"{x['cdid']}.json")) else {}
         mf = os.path.join(D, 'market', f"{x['cdid']}.json")
         m = json.load(open(mf)) if os.path.exists(mf) else {}
-        out.append(f"### Lot {x['lot']}: {x['title']}")
+        out.append(f"### Lot {x['lot']} (cdid {x['cdid']}): {x['title']}")
         out.append('')
         out.append(f"**Status:** {x['status']}" + (f", provisional maximum ${x['max_hammer']:,} hammer" if x.get('max_hammer') else '') +
                    f". Current bid ${x.get('current_bid') or 0:,.0f}. Closes {x.get('close') or '?'}.")

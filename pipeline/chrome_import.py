@@ -26,9 +26,23 @@ def main():
         results = results.get('lots') or results.get('results') or [results]
     sold_db = json.load(open(SOLD)) if os.path.exists(SOLD) else []
     known = {(s.get('url'), s.get('aud_hammer')) for s in sold_db}
+    # a results file with no cdids (the brief once left them out) is matched on lot number:
+    # the Chrome list first, since Gowans can give several lots the same number
+    by_lot = {}
+    for f in ('lots.json', 'chrome_list.json'):
+        p = os.path.join(D, f)
+        rows = json.load(open(p)) if os.path.exists(p) else []
+        if isinstance(rows, dict):
+            rows = rows.get('lots', [])
+        seen = {}
+        for x in rows:
+            seen.setdefault(str(x.get('lot')), set()).add(x['cdid'])
+        by_lot.update({k: v.pop() for k, v in seen.items() if len(v) == 1})
     added, lots = 0, 0
     for r in results:
-        cdid = r.get('cdid')
+        cdid = r.get('cdid') or by_lot.get(str(r.get('lot')))
+        if not r.get('cdid') and r.get('lot') is not None and not cdid:
+            print(f"lot {r.get('lot')}: no cdid and the lot number is not unique, skipped", file=sys.stderr)
         if not cdid:
             continue
         mf = os.path.join(D, 'market', f'{cdid}.json')

@@ -1,7 +1,7 @@
 {
  "cdid": 447569,
  "lot": 1158,
- "identification": "Sansui A-5 integrated amplifier (model name on front panel, silver face, LED peak meters), c.1979-81, about 25 W/ch, phono stage. Untested.",
+ "identification": "Sansui A-5 integrated amplifier, silver face, c.1979-81, phono stage, untested",
  "entries": [
   {
    "kind": "ASKING",
@@ -68,11 +68,84 @@
    "url": "https://www.gowansauctions.com.au/ (lot ids 428615, 399113); armitage sale 27351 lot 1200",
    "same_item": "category guide",
    "note": "These are SOLD hammer prices for bigger, more sought-after Sansui amps (AU-555, AU-6600), not the A-5, so not same item. Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$190.00",
+   "currency": "AUD",
+   "aud_price": 190,
+   "date": "2026-09-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/236980273891",
+   "same_item": "yes",
+   "note": "Sansui A-5 with phono, tested working (this lot untested)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$125.27",
+   "currency": "AUD",
+   "aud_price": 125.27,
+   "date": "2026-08-23",
+   "venue": "eBay (US seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/227465161431",
+   "same_item": "yes",
+   "note": "tested working",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$234.86",
+   "currency": "AUD",
+   "aud_price": 234.86,
+   "date": "2026-09-13",
+   "venue": "eBay (US seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/198504389025",
+   "same_item": "yes",
+   "note": "condition not in title",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$165.54",
+   "currency": "AUD",
+   "aud_price": 165.54,
+   "date": "2026-08-07",
+   "venue": "eBay (UK seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/406883447450",
+   "same_item": "yes",
+   "note": "condition not in title",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$259.56",
+   "currency": "AUD",
+   "aud_price": 259.56,
+   "date": "2026-10-16",
+   "venue": "eBay (Germany seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/188752771541",
+   "same_item": "yes",
+   "note": "condition not in title",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$222.88",
+   "currency": "AUD",
+   "aud_price": 222.88,
+   "date": "2026-09-10",
+   "venue": "eBay (Canada seller), AUD shown",
+   "url": "https://www.ebay.com.au/itm/235853145314",
+   "same_item": "yes",
+   "note": "fully working",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (both databases) sansui amplifier / sansui A-5 / integrated: no A-5 hits, only AU-555 and AU-6600. Gowans API sansui searches: no past A-5. WebSearch x2 (sold price, Australia). HiFi Shark page opened. No Armitage or Invaluable A-5 results found. eBay sold listings would settle it best.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (both databases) sansui amplifier / sansui A-5 / integrated: no A-5 hits, only AU-555 and AU-6600. Gowans API sansui searches: no past A-5. WebSearch x2 (sold price, Australia). HiFi Shark page opened. No Armitage or Invaluable A-5 results found. eBay sold listings would settle it best. | chrome: eBay sold 'sansui a-5 amplifier' (worldwide). Working units A$125-260; one Australian sale A$190.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU and eBay.com sold/completed: 'Sansui A-5' (exclude A-505, A-500), sold items, last 90 days",
  "rate_note": "Approx rates: 1 EUR = 1.75 AUD, 1 CAD = 1.10 AUD.",
- "viewing_check": "Confirm A-5 plate, power on: both LED meters light, no crackle on volume/balance pots, sound from both channels, protection relay clicks, phono input works, no hum. Check back panel for damage and speaker terminals."
+ "viewing_check": "Power on if allowed: check both channels, LED meters, scratchy pots; check for 240V (Australian) model on the back panel.",
+ "chrome_done": true
 }

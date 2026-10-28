@@ -1,15 +1,91 @@
-{"cdid":447352,"lot":792,
-"identification":"Ferguson, Bibliography of Australia, 7 vols (I 1784-1830 to VII 1851-1900 Q-Z), National Library of Australia imprint on the spines. This is almost certainly the 1975-77 / 1986 NLA facsimile reprint of the Angus & Robertson original (1941-69), not the scarce original. Addenda volume absent. Common reference set, modest value.",
-"entries":[
-{"kind":"SOLD","price":"AU$200 hammer","aud_price":200,"currency":"AUD","date":"2024-05-15","venue":"Australian Book Auctions, Melbourne, sale 111 lot 14","url":"https://australianbookauctions.com/wp-content/uploads/2024/05/sale-111-price-list.pdf","same_item":"yes","note":"Seven volumes, original cloth in dustwrappers, 1784-1900. From local comps database, hammer, premium extra. Same set, most comparable result."},
-{"kind":"SOLD","price":"AU$274 (Terapeak sold, fixed price, postage AU$24.96 extra)","aud_price":274,"currency":"AUD","date":"2025-08-18","venue":"eBay Australia (Terapeak sold)","url":"https://www.ebay.com.au/itm/167156703956","same_item":"yes","note":"7 vols HC with dust jackets. From local comps database (earlier research); not re-opened by me. Retail sale price, no auction premium."},
-{"kind":"SOLD","price":"AU$280 hammer (shared lot with another book)","aud_price":280,"currency":"AUD","date":"2008-11-25","venue":"Noble Numismatics, Sydney, sale 89 lot 2777","url":"https://www.noble.com.au/auctions/lot/?id=199457","same_item":"close","note":"Bibliography of Australia 1831-88 (partial, not the full set) plus another title. Old, weak comparison. From local database."},
-{"kind":"ASKING","price":"US$234 plus US$18 postage, 7 vols","aud_price":360,"currency":"USD","date":"live, seen 2026-10-28","venue":"Dealer listing found via biblio.com search","url":"https://www.biblio.com/0642990433","same_item":"close","note":"Snippet only, not verified. Rate used approx 1 USD = 1.54 AUD. Asking price, likely reprint set."},
-{"kind":"ASKING","price":"AU$300, set with supplementary volume","aud_price":300,"currency":"AUD","date":"live, seen 2026-10-28","venue":"Bookgrocer","url":"https://bookgrocer.com/products/2024000002527-secondhand-bibliography-of-australia-volumes-1-7-addenda","same_item":"close","note":"Snippet only, not verified. Includes Addenda volume, which this lot lacks."},
-{"kind":"ASKING","price":"up to about GBP 395 for a complete set","aud_price":770,"currency":"GBP","date":"live, seen 2026-10-28","venue":"biblio.co.uk listings","url":"https://biblio.co.uk/bibliography-of-australia-by-ferguson-john-alexander/work/2734240","same_item":"category guide","note":"Snippet only, not verified. Rate approx 1 GBP = 1.95 AUD. Top of asking range, likely includes Addenda or better jackets; asks run well above sold prices."}
-],
-"searches_tried":"comps.py (work and pipeline) x3 with ferguson/bibliography/australia words; Gowans API search (only this current lot, no past sales); WebSearch for set prices and site:armitage.bidsonline (no Armitage hits). Not done: eBay sold listings (closed to us) would settle retail range better. Original A&R first edition (1941-69) would be worth more (vol I limited to 500 copies, dealer ask about AU$750) but the NLA spines show this is the reprint.",
-"needs_chrome":true,
-"chrome_hint":"eBay AU sold listings: \"Ferguson Bibliography of Australia\" 7 volumes (completed/sold items, last 12 months)",
-"viewing_check":"Check the title page and back of it for imprint and date: Angus & Robertson 1941-69 original (worth more) versus NLA facsimile 1975-86 (likely, given NLA on spines). Confirm all 7 volumes are present, no library stamps or marks, jacket condition and that spines and hinges are sound.",
-"rate_note":"AUD rates used: 1 USD = 1.54 AUD, 1 GBP = 1.95 AUD (approximate)."}
+{
+ "cdid": 447352,
+ "lot": 792,
+ "identification": "Ferguson, Bibliography of Australia, 7 vols, NLA facsimile reprint (1975-77/1986), no Addenda volume",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "AU$200 hammer",
+   "aud_price": 200,
+   "currency": "AUD",
+   "date": "2024-05-15",
+   "venue": "Australian Book Auctions, Melbourne, sale 111 lot 14",
+   "url": "https://australianbookauctions.com/wp-content/uploads/2024/05/sale-111-price-list.pdf",
+   "same_item": "yes",
+   "note": "Seven volumes, original cloth in dustwrappers, 1784-1900. From local comps database, hammer, premium extra. Same set, most comparable result."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$274 (Terapeak sold, fixed price, postage AU$24.96 extra)",
+   "aud_price": 274,
+   "currency": "AUD",
+   "date": "2025-08-18",
+   "venue": "eBay Australia (Terapeak sold)",
+   "url": "https://www.ebay.com.au/itm/167156703956",
+   "same_item": "yes",
+   "note": "7 vols HC with dust jackets. From local comps database (earlier research); not re-opened by me. Retail sale price, no auction premium."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$280 hammer (shared lot with another book)",
+   "aud_price": 280,
+   "currency": "AUD",
+   "date": "2008-11-25",
+   "venue": "Noble Numismatics, Sydney, sale 89 lot 2777",
+   "url": "https://www.noble.com.au/auctions/lot/?id=199457",
+   "same_item": "close",
+   "note": "Bibliography of Australia 1831-88 (partial, not the full set) plus another title. Old, weak comparison. From local database."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$234 plus US$18 postage, 7 vols",
+   "aud_price": 360,
+   "currency": "USD",
+   "date": "live, seen 2026-10-28",
+   "venue": "Dealer listing found via biblio.com search",
+   "url": "https://www.biblio.com/0642990433",
+   "same_item": "close",
+   "note": "Snippet only, not verified. Rate used approx 1 USD = 1.54 AUD. Asking price, likely reprint set."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$300, set with supplementary volume",
+   "aud_price": 300,
+   "currency": "AUD",
+   "date": "live, seen 2026-10-28",
+   "venue": "Bookgrocer",
+   "url": "https://bookgrocer.com/products/2024000002527-secondhand-bibliography-of-australia-volumes-1-7-addenda",
+   "same_item": "close",
+   "note": "Snippet only, not verified. Includes Addenda volume, which this lot lacks."
+  },
+  {
+   "kind": "ASKING",
+   "price": "up to about GBP 395 for a complete set",
+   "aud_price": 770,
+   "currency": "GBP",
+   "date": "live, seen 2026-10-28",
+   "venue": "biblio.co.uk listings",
+   "url": "https://biblio.co.uk/bibliography-of-australia-by-ferguson-john-alexander/work/2734240",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Rate approx 1 GBP = 1.95 AUD. Top of asking range, likely includes Addenda or better jackets; asks run well above sold prices."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$375.80 list, Best Offer accepted (actual lower, not shown)",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2026-08-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/382848904408",
+   "same_item": "partly",
+   "note": "Ferguson Bibliography of Australia 1986 (NLA reprint); number of volumes not shown in title",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (work and pipeline) x3 with ferguson/bibliography/australia words; Gowans API search (only this current lot, no past sales); WebSearch for set prices and site:armitage.bidsonline (no Armitage hits). Not done: eBay sold listings (closed to us) would settle retail range better. Original A&R first edition (1941-69) would be worth more (vol I limited to 500 copies, dealer ask about AU$750) but the NLA spines show this is the reprint. | chrome: eBay sold 'ferguson bibliography of australia' (worldwide): one relevant sale.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: \"Ferguson Bibliography of Australia\" 7 volumes (completed/sold items, last 12 months)",
+ "viewing_check": "Confirm it is the NLA reprint (title page date), count volumes, check for ex-library stamps and spine fading.",
+ "rate_note": "AUD rates used: 1 USD = 1.54 AUD, 1 GBP = 1.95 AUD (approximate).",
+ "chrome_done": true
+}

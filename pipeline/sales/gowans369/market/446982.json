@@ -1,7 +1,7 @@
 {
  "cdid": 446982,
  "lot": 422,
- "identification": "Oil on board, large old peppercorn tree over timber stockyard rails, loose impressionist handling, approx 40x50cm image in a cream/white painted frame. Signed lower left, signature too low-resolution to confirm (photo crop is blurry; reads at best as a two-word block-capital signature). Listed as Colin Parker. The known auction Colin Parker is Colin Ross Parker (b.1941, NSW, outback pubs and sheds, typically sells AUD 250-800 at auction, record about US$2,566). The scan note calling him a Victorian painter is not supported. The sibling lot 'In the Mersey Forest' by the same name suggests one Tasmanian vendor, so this could be a different local Colin Parker. Subject (peppercorn, stockyard) is plausible for either.",
+ "identification": "Oil on board, old peppercorn tree over stockyard rails, signed lower left, listed as Colin Parker",
  "entries": [
   {
    "kind": "SOLD",
@@ -81,9 +81,10 @@
    "note": "Colin Parker The Pub at Stuart Town, oil on board 59x80cm. Page opened (Invaluable artist page, embedded JSON); estimate only, no result shown. Other Davidson Parker estimates on that page are $80-$400; Lawsons estimates $300-$800 for 22-79cm boards. Estimates are not prices paid."
   }
  ],
- "searches_tried": "comps.py (pipeline) 'colin parker' and 'parker oil'; work/comps.py 'colin parker', 'parker oil board', 'parker peppercorn' (no Gowans hits); Gowans API search colin parker/parker oil (only the two current lots, unsold); WebSearch peppercorn Colin Parker and Tasmania/Mersey Colin Parker (no match); Invaluable artist pages fetched (Colin Parker page opened, estimates only, no sold prices; sold-at-auction-prices URL returned a different artist). No Tasmanian Colin Parker found. eBay sold and Invaluable/LiveAuctioneers results would help only marginally.",
+ "searches_tried": "comps.py (pipeline) 'colin parker' and 'parker oil'; work/comps.py 'colin parker', 'parker oil board', 'parker peppercorn' (no Gowans hits); Gowans API search colin parker/parker oil (only the two current lots, unsold); WebSearch peppercorn Colin Parker and Tasmania/Mersey Colin Parker (no match); Invaluable artist pages fetched (Colin Parker page opened, estimates only, no sold prices; sold-at-auction-prices URL returned a different artist). No Tasmanian Colin Parker found. eBay sold and Invaluable/LiveAuctioneers results would help only marginally. | chrome: eBay sold 'colin parker oil' worldwide: nothing relevant. Invaluable prices are paywalled, so not searched further. Nothing found.",
  "needs_chrome": false,
  "chrome_hint": "Optional: Invaluable or LiveAuctioneers search 'Colin Parker peppercorn' and 'Colin Parker oil on board sold' for 2025-2026 results with prices.",
- "viewing_check": "Read the signature under magnification (first name and surname, cursive vs block capitals) and check the back for a label, title, date or artist name. Measure the board. Compare against a known Colin Parker (b.1941) signature, which is usually a flowing 'Colin Parker'. Check for any gallery label or Tasmanian provenance.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Read the signature and any back label; compare to the Mersey Forest lot for same hand.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

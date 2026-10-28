@@ -1,1 +1,82 @@
-{"cdid":447444,"lot":884,"identification":"Two vases. Left: Falcon Ware (Thomas Lawrence, Longton) style Art Deco vase, printed and painted cottage garden landscape with birch trees and mountain, yellow neck, blue foot, 1930s; maker unconfirmed (no base seen). Right: Minh Long (Vietnam) red crystalline-glaze vase with white crystal blooms; modern studio-style piece, maker unconfirmed. No marks visible in the one photo.","entries":[{"kind":"SOLD","price":"$50 hammer","currency":"AUD","aud_price":50,"date":"2026-02-15","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/390668/","same_item":"close","note":"FALCON WARE 2 HANDLED VASE, from local comps database and Gowans API; hammer, premium extra. Different shape, condition unknown, no photo checked. Snippet only (database line)."},{"kind":"SOLD","price":"$3 hammer","currency":"AUD","aud_price":3,"date":"2026-07-05","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/421533/","same_item":"category guide","note":"2 mugs by Harrods plus Falcon Ware vase plus Phoenix Ware vase, 1 bid. Mixed lot, so low floor only. Snippet only."},{"kind":"SOLD","price":"$14 hammer","currency":"AUD","aud_price":14,"date":"2026-09-13","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/437533/","same_item":"category guide","note":"Mark Knight crystalline vase, Tasmanian. Different maker, shows what modern crystalline glaze vases make locally. Snippet only."}],"searches_tried":"comps.py (pipeline and work) for minh long, falcon ware, falconware, crystalline vase; Gowans API for minh long (no sold results), falcon ware, crystalline vase. WebSearch budget was exhausted so no web or Armitage searches were done. eBay sold listings for Falcon Ware Deco vases and Minh Long crystalline vases would settle value.","needs_chrome":true,"chrome_hint":"eBay sold/completed: Falcon Ware vase Art Deco landscape; and eBay AU sold: Minh Long crystalline vase","rate_note":"All AUD, no conversion.","viewing_check":"Turn both vases over and photograph the base marks (Falcon Ware / Lawrence Longton backstamp and pattern name; Minh Long mark). Check for chips, hairlines and crazing, especially on the neck rim and foot of the yellow vase and the crystal blooms on the red one."}
+{
+ "cdid": 447444,
+ "lot": 884,
+ "identification": "Two vases: Falcon Ware (Thomas Lawrence) style Art Deco landscape vase, 1930s; Minh Long (Vietnam) red crystalline-glaze vase; no marks seen",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/390668/",
+   "same_item": "close",
+   "note": "FALCON WARE 2 HANDLED VASE, from local comps database and Gowans API; hammer, premium extra. Different shape, condition unknown, no photo checked. Snippet only (database line)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$3 hammer",
+   "currency": "AUD",
+   "aud_price": 3,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/421533/",
+   "same_item": "category guide",
+   "note": "2 mugs by Harrods plus Falcon Ware vase plus Phoenix Ware vase, 1 bid. Mixed lot, so low floor only. Snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$14 hammer",
+   "currency": "AUD",
+   "aud_price": 14,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437533/",
+   "same_item": "category guide",
+   "note": "Mark Knight crystalline vase, Tasmanian. Different maker, shows what modern crystalline glaze vases make locally. Snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.70",
+   "currency": "AUD",
+   "aud_price": 53.7,
+   "date": "2026-08-23",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267755638793",
+   "same_item": "partly",
+   "note": "Falcon Ware vase, England, large; decoration not in title",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50.00",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-09-12",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257724442409",
+   "same_item": "partly",
+   "note": "Falcon Ware Aragon Art Deco vase 21cm",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.40",
+   "currency": "AUD",
+   "aud_price": 48.4,
+   "date": "2026-08-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298330395297",
+   "same_item": "partly",
+   "note": "two matching Falcon Ware T. Lawrence vases",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for minh long, falcon ware, falconware, crystalline vase; Gowans API for minh long (no sold results), falcon ware, crystalline vase. WebSearch budget was exhausted so no web or Armitage searches were done. eBay sold listings for Falcon Ware Deco vases and Minh Long crystalline vases would settle value. | chrome: eBay sold 'minh long crystalline vase' (worldwide): no results; eBay sold 'falcon ware vase landscape' (worldwide): Falcon Ware vases A$48-54 in Australia.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold/completed: Falcon Ware vase Art Deco landscape; and eBay AU sold: Minh Long crystalline vase",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Turn both over for backstamps (Falcon Ware / T.L. Longton; Minh Long logo) and check rims for chips.",
+ "chrome_done": true
+}
