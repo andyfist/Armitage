@@ -24,6 +24,8 @@ import statistics
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, 'pipeline'))
+import rules  # noqa: E402  (PRIORITY: books first, Andy 5 Nov 2026)
 MONTHS = {m: i + 1 for i, m in enumerate(['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'])}
 
 
@@ -86,6 +88,7 @@ def main():
         except Exception:
             pass
 
+    first = rules.priority_cdids(D)
     lots = []
     for cdid, c in sorted(cands.items(), key=lambda kv: kv[1].get('lot') or 0):
         mf = os.path.join(D, 'market', f'{cdid}.json')
@@ -97,7 +100,7 @@ def main():
                'identification': (m or {}).get('identification'), 'researched': m is not None, 'needs_chrome': bool((m or {}).get('needs_chrome')),
                'chrome_hint': (m or {}).get('chrome_hint', ''), 'chrome_done': bool((m or {}).get('chrome_done')),
                'sold': [], 'sold_old': [], 'unsold': [], 'asking': [], 'resale': 0,
-               'net_resale': 0, 'max_hammer': 0, 'status': '', 'why': ''}
+               'net_resale': 0, 'max_hammer': 0, 'status': '', 'why': '', 'priority': cdid in first}
         for e in (m or {}).get('entries', []):
             price = float(e.get('aud_price') or 0)
             same = str(e.get('same_item', '')).lower()
@@ -124,10 +127,11 @@ def main():
         elif m is None:
             out['status'] = 'NOT RESEARCHED'
             out['why'] = 'no market file'
-        elif out['sold_old'] or out['asking'] or out['unsold'] or out['needs_chrome'] or (out['strength'] or 0) >= 6:
+        elif out['sold_old'] or out['asking'] or out['unsold'] or out['needs_chrome'] or (out['strength'] or 0) >= 6 or out['priority']:
             out['status'] = 'CHROME'
             out['why'] = 'no recent same-item SOLD price in the cloud sources; ' + ('researcher asked for eBay/signed-in sites' if out['needs_chrome'] else
-                         'older sold, asking or unsold evidence only' if (out['sold_old'] or out['asking'] or out['unsold']) else 'strong photo score')
+                         'older sold, asking or unsold evidence only' if (out['sold_old'] or out['asking'] or out['unsold']) else
+                         'strong photo score' if (out['strength'] or 0) >= 6 else 'priority category (books): every candidate gets the Chrome research')
         else:
             out['status'] = 'DROP'
             out['why'] = 'no sold evidence and a weak photo score'
@@ -136,27 +140,41 @@ def main():
     # browser research goes to every lot that passes or might pass, best prospects first;
     # a lot already researched in Chrome (chrome_import.py sets chrome_done) is not sent again
     chrome = [x for x in lots if x['status'] in ('PASS', 'CHROME') and not x['chrome_done']]
-    chrome.sort(key=lambda x: (-(x['max_hammer'] or 0), -(x['strength'] or 0)))
+    chrome.sort(key=lambda x: (not x['priority'], -(x['max_hammer'] or 0), -(x['strength'] or 0)))  # books first
     chrome_done = sum(1 for x in lots if x['chrome_done'])
     counts = {s: sum(1 for x in lots if x['status'] == s) for s in ('PASS', 'CHROME', 'FAIL', 'DROP', 'NOT RESEARCHED')}
     result = {'chid': args.chid, 'name': cat.get('name'), 'assessed': today.isoformat(), 'rule': vars(args), 'scanned': scanned,
               'candidates': len(lots), 'counts': counts, 'lots': lots}
     json.dump(result, open(os.path.join(D, 'assessment.json'), 'w'), indent=1)
-    json.dump([{k: x[k] for k in ('cdid', 'lot', 'title', 'status', 'strength', 'max_hammer', 'current_bid', 'identification', 'chrome_hint', 'close')} for x in chrome],
+    json.dump([{k: x[k] for k in ('cdid', 'lot', 'title', 'status', 'strength', 'max_hammer', 'current_bid', 'identification', 'chrome_hint', 'close', 'priority')} for x in chrome],
               open(os.path.join(D, 'chrome_list.json'), 'w'), indent=1)
 
     passes = sorted([x for x in lots if x['status'] == 'PASS'], key=lambda x: -(x['max_hammer'] - x['current_bid']))
     lines = [f"First pass done for {cat.get('name')}: {scanned} lots photo-scanned, {len(lots)} candidates researched, "
              f"{counts['PASS']} pass the ${args.profit:,.0f} rule now, {counts['CHROME']} more need the Chrome research.", '']
+    if first:
+        books = [x for x in lots if x['priority']]
+        bp = [x for x in passes if x['priority']]
+        bc = [x for x in chrome if x['priority']]
+        lines.append(f"Books first: {len(first)} book and paper lots photo-scanned title by title, {len(books)} candidates, "
+                     f"{len(bp)} pass now, {len(bc)} go to the Chrome research first.")
+        for x in bp:
+            lines.append(f"- Lot {x['lot']}: max ${x['max_hammer']:,} (bid ${x['current_bid']:,.0f}), {x['title']}. {(x['identification'] or '')[:160]}")
+        for x in bc[:args.top]:
+            lines.append(f"- Lot {x['lot']}: needs Chrome, {x['title']}. {(x['identification'] or x['findings'] or '')[:160]}")
+        if len(bc) > args.top:
+            lines.append(f"... and {len(bc) - args.top} more book lots in chrome_list.json")
+        lines.append('')
+        passes = [x for x in passes if not x['priority']]
     if passes:
-        lines.append(f"Lots that pass now (max hammer, current bid, what it is):")
+        lines.append(f"{'Other lots' if first else 'Lots'} that pass now (max hammer, current bid, what it is):")
         for x in passes[:args.top]:
             lines.append(f"- Lot {x['lot']}: max ${x['max_hammer']:,} (bid ${x['current_bid']:,.0f}, {x['bid_count'] or 0} bids), {x['title']}. "
                          f"{(x['identification'] or '')[:120]} Sold evidence: {len(x['sold'])} price(s), median ${x['resale']:,.0f}.")
         if len(passes) > args.top:
             lines.append(f"... and {len(passes) - args.top} more in assessment.json")
         lines.append('')
-    lines.append(f"Chrome list: {len(chrome)} lots in chrome_list.json (passes first, then lots with no sold price yet)."
+    lines.append(f"Chrome list: {len(chrome)} lots in chrome_list.json ({'books first, then ' if first else ''}passes first, then lots with no sold price yet)."
                  + (f" {chrome_done} lots already researched in Chrome." if chrome_done else ''))
     lines.append("Maximums are provisional until the Chrome research confirms them. Only a SOLD price with a link and a date sets a maximum.")
     text = '\n'.join(lines)

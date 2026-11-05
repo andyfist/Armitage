@@ -50,7 +50,9 @@ def main():
            f"For a Claude session on the home computer, using Claude in Chrome (your own signed-in browser). "
            f"**Run it on Sonnet** (pick Sonnet in the model menu before starting; the work is searching and reading, not reasoning). "
            f"Lots close from {cat.get('close_first')} to {cat.get('close_last')} (Hobart time). Buyer's premium {'19.8%' if GW else '22%'}. "
-           f"{len(chrome)} lots, best prospects first; it is fine to stop part way and hand back what is done.", '',
+           f"{len(chrome)} lots, best prospects first"
+           + (f", starting with the {sum(1 for x in chrome if x.get('priority'))} book lots (Andy's priority for this sale: do every one of them before anything else)" if any(x.get('priority') for x in chrome) else '')
+           + "; it is fine to stop part way and hand back what is done.", '',
            RULES,
            '## Output', '',
            f"Save a file named `chrome_results_{args.chid}.json`: a JSON list with one object per lot you worked on:",

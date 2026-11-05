@@ -30,7 +30,7 @@ Run in this order by `routines/armitage-new-sale.md`; each stage writes under `p
 | Script | Job |
 |---|---|
 | `new_sales.py` | Notices a catalogue not seen before and writes the "new sale" email |
-| `rules.py` | Category rules: what is excluded (large furniture, whitegoods, vehicles), what always gets the photo scan |
+| `rules.py` | Category rules: what is excluded (large furniture, whitegoods, vehicles), what always gets the photo scan, and the priority lots (books since 5 Nov 2026) that are scanned title by title, always researched and listed first everywhere |
 | `promote.py` | Promotes lots to the photo scan when their title matches past sales of $250 or more in the price databases (`databases/`, Armitage's own results, Gowans) |
 | `comps.py <words>` | Looks an item up in every local price database (Noble coins, ABA books, Armitage results, Gowans, earlier research); the market researchers run it before searching the web |
 | `prep.py <chid>` | Reads every lot page, sorts the lots with the rules, downloads photos and builds contact sheets and the workflow args |
