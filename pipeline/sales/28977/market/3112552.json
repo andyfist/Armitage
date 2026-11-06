@@ -1,7 +1,7 @@
 {
  "cdid": 3112552,
  "lot": 1525,
- "identification": "Two Stanley spokeshaves (No. 151 adjustable type and a flat-bottom No. 64/63 type, Made in England) plus a carpenter's brace with bit. Common user tools.",
+ "identification": "Two Stanley spokeshaves (an adjustable No. 151-type and a flat-bottom type marked Stanley, Made in England) plus a carpenter's brace with bit; photo confirms",
  "entries": [
   {
    "kind": "SOLD",
@@ -114,9 +114,10 @@
    "note": "No. 64 flat base spokeshave, dealer asking price; snippet only, not verified, likely cleaned and sold out. AUD, no conversion."
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for stanley spokeshave, spoke shave, stanley brace, brace bit; Gowans API for stanley spokeshave, spoke shave, stanley 151, carpenters brace; WebSearch site:armitage (no Armitage results returned, only dealer listings). Nothing found from Armitage past sales. eBay sold prices for Stanley 151/64 spokeshaves would settle it slightly, but the item is low value.",
+ "searches_tried": "comps.py (pipeline and work) for stanley spokeshave, spoke shave, stanley brace, brace bit; Gowans API for stanley spokeshave, spoke shave, stanley 151, carpenters brace; WebSearch site:armitage (no Armitage results returned, only dealer listings). Nothing found from Armitage past sales. eBay sold prices for Stanley 151/64 spokeshaves would settle it slightly, but the item is low value. | chrome: eBay AU sold: stanley spokeshave; stanley no 151 spokeshave (both eBay error page, throttled). Nothing found.",
  "needs_chrome": false,
- "viewing_check": "Check the 151 mark and whether the Stanley is a No. 63 convex or 64 flat; check blades and adjuster screw are present, no cracks in the castings, and the brace chuck and ratchet work. Nothing else would change value much.",
+ "viewing_check": "Check spokeshave blades and adjusters are present and not cracked, and the brace ratchet or chuck works.",
  "rate_note": "All AUD, no conversion.",
- "chrome_hint": ""
+ "chrome_hint": "",
+ "chrome_done": true
 }

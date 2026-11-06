@@ -1,7 +1,7 @@
 {
  "cdid": 3111033,
  "lot": 771,
- "identification": "Two signed Harry McHugh (Launceston) cobalt blue art pottery vases: larger numbered 220 with white streaked rim, smaller (about 12-14cm) with yellow/orange drip. Photos confirm 'H McHugh Tasmania' incised signatures; both show chips/glaze loss.",
+ "identification": "Two signed H. McHugh (Launceston) cobalt blue art pottery vases, larger with white streaked rim (~17cm), smaller blue with yellow/orange drip (~11cm); both chipped/glaze loss per catalogue",
  "entries": [
   {
    "kind": "SOLD",
@@ -134,11 +134,72 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=McHugh&page%5Bnumber%5D=1",
    "same_item": "category guide",
    "note": "McHugh vase and 1 other, both cracked. AUD, no FX. Hammer, premium extra. Local database/API result, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.50",
+   "currency": "AUD",
+   "aud_price": 19.5,
+   "date": "2026-10-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237106797327",
+   "same_item": "yes",
+   "note": "1935 McHugh model 5 blue/yellow, A/F (as found), 2 bids; closest to damaged condition, single vase",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$106.70",
+   "currency": "AUD",
+   "aud_price": 106.7,
+   "date": "2026-09-23",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267786308752",
+   "same_item": "partial",
+   "note": "Small blue & yellow vase shape 7 13x10cm, 1 bid, presumably undamaged, single vase",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$125.78",
+   "currency": "AUD",
+   "aud_price": 125.78,
+   "date": "2026-09-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267773806562",
+   "same_item": "partial",
+   "note": "Medium blue & yellow vase shape 46 1935, Buy It Now, presumably undamaged",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$125.71",
+   "currency": "AUD",
+   "aud_price": 125.71,
+   "date": "2026-08-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267761322866",
+   "same_item": "partial",
+   "note": "Medium blue & orange vase shape 46 1935, 1 bid, presumably undamaged",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80.19",
+   "currency": "AUD",
+   "aud_price": 80.19,
+   "date": "2026-08-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267761290763",
+   "same_item": "partial",
+   "note": "Small blue & yellow & red vase shape 2, 2 bids",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py pipeline (McHugh pottery, Harry McHugh, McHugh Tasmania vase), work/comps.py McHugh, Gowans API search McHugh (25 lots read). No WebSearch used: local data deep (about 60 Tasmanian and Leski results). eBay sold would add little.",
+ "searches_tried": "comps.py pipeline (McHugh pottery, Harry McHugh, McHugh Tasmania vase), work/comps.py McHugh, Gowans API search McHugh (25 lots read). No WebSearch used: local data deep (about 60 Tasmanian and Leski results). eBay sold would add little. | chrome: eBay AU sold: mchugh tasmania blue vase (11 matches, first 8 read); mchugh cobalt blue vase (error page)",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Measure the larger vase height and check how bad the foot rim chips and any cracks are (large damaged cobalt vases sold around $300 when chips were minor). Check for hairlines and any restoration, and check the smaller vase for a rim crack.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Examine chips and glaze loss on both vases, check shape numbers (larger is no. 220 per cloud ID) and for cracks or restoration.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

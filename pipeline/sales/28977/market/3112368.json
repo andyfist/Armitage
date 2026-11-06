@@ -1,7 +1,7 @@
 {
  "cdid": 3112368,
  "lot": 1645,
- "identification": "Used Australian stock saddle (poley knee pads, sheepskin-lined panel, girth), catalogued as Flinders Collection. Oval maker stamp on off-side flap illegible in photo. Maker unknown.",
+ "identification": "Used Australian leather stock saddle with poley knee pads, sheepskin-lined panels, girth; maker stamp unread, worn leather",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,60 @@
    "url": "https://www.ebay.com/shop/australian-stock-saddle?_nkw=australian+stock+saddle",
    "same_item": "category guide",
    "note": "Snippet only, not verified, named maker saddle in US market; rate about 1 USD = 1.54 AUD assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$179.84",
+   "currency": "AUD",
+   "aud_price": 179.84,
+   "date": "2026-09-13",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/176821859806",
+   "same_item": "yes",
+   "note": "16in Australian made stock saddle, condition not checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$277.74",
+   "currency": "AUD",
+   "aud_price": 277.74,
+   "date": "2026-09-22",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257745950125",
+   "same_item": "yes",
+   "note": "Australian stock saddle brown and black, 16in",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$468.91",
+   "currency": "AUD",
+   "aud_price": 468.91,
+   "date": "2026-10-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128108819338",
+   "same_item": "partial",
+   "note": "Australian Outrider AOC poley stock saddle 17in, named brand, likely newer/better condition",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$558.95",
+   "currency": "AUD",
+   "aud_price": 558.95,
+   "date": "2026-10-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/256560626445",
+   "same_item": "partial",
+   "note": "Ord River Junior Cox poley stock saddle, named maker",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py in pipeline (crashed, bug) and work/comps.py (stock saddle, saddle, saddle girth); Gowans API search for stock saddle, flinders saddle, saddle; WebSearch Armitage past results (none found); WebSearch general sold prices (only eBay asking). eBay sold prices for same-maker saddles would settle it once the maker is read.",
- "needs_chrome": true,
+ "searches_tried": "comps.py in pipeline (crashed, bug) and work/comps.py (stock saddle, saddle, saddle girth); Gowans API search for stock saddle, flinders saddle, saddle; WebSearch Armitage past results (none found); WebSearch general sold prices (only eBay asking). eBay sold prices for same-maker saddles would settle it once the maker is read. | chrome: eBay AU sold: australian stock saddle poley (one search, others skipped due to eBay throttling). | chrome: eBay AU sold: australian stock saddle poley (one search, others skipped due to eBay throttling).",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold listings: Australian stock saddle poley used (add maker name once read from flap stamp)",
- "viewing_check": "Read the oval stamp on the flap (maker name, e.g. a known saddler), check tree/frame for cracks, panel condition and girth/strap state. A named maker such as Fox, Syd Hill, Bluegum or a Tasmanian saddler could lift it to $200-400; unnamed worn saddles at Gowans mostly $5-160.",
- "rate_note": "Gowans prices AUD; one USD asking converted at 1.54 (assumed)."
+ "viewing_check": "Read the maker stamp on the off-side flap (Ord River, Bates, Cox, Syd Hill etc add value), check tree for cracks/broken (flex test), girth, stirrup leathers and irons (not included here?), leather dryness, sheepskin condition.",
+ "rate_note": "Gowans prices AUD; one USD asking converted at 1.54 (assumed).",
+ "chrome_done": true
 }

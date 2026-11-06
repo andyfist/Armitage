@@ -1,7 +1,7 @@
 {
  "cdid": 3112876,
  "lot": 2035,
- "identification": "Unbranded large green painted cast iron floor-standing vertical band saw, enclosed steel base, tilting table, handwheel guide adjuster. No maker legible; pencil note on upper wheel cover looks like blade length. Possibly an old Australian or UK made saw (about 14-16 inch).",
+ "identification": "Unbranded green painted floor-standing vertical band saw, enclosed steel base, tilting table, roughly 14 inch; no maker visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -93,8 +93,9 @@
   }
  ],
  "rate_note": "All AUD, no conversion. Gowans hammers exclude premium. Armitage adds 22%.",
- "searches_tried": "Local comps.py (pipeline and work) band saw/bandsaw; Gowans API search band saw, bandsaw, large band saw (18 sold since Nov 2025, $1 to $630, median about $78; older small/bench saws mostly $10-$125, full-size wood saws $320-$630); WebSearch site:armitage.bidsonline.com.au band saw (no band saw result pages); WebSearch vintage cast iron band saw sold Australia (only retail asks); WebSearch site:gowans.bidsonline.com.au large band saw (only a 2020 Sher lot, no price). eBay sold prices would settle it.",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (pipeline and work) band saw/bandsaw; Gowans API search band saw, bandsaw, large band saw (18 sold since Nov 2025, $1 to $630, median about $78; older small/bench saws mostly $10-$125, full-size wood saws $320-$630); WebSearch site:armitage.bidsonline.com.au band saw (no band saw result pages); WebSearch vintage cast iron band saw sold Australia (only retail asks); WebSearch site:gowans.bidsonline.com.au large band saw (only a 2020 Sher lot, no price). eBay sold prices would settle it. | chrome: eBay AU sold: cast iron band saw vertical floor; vintage bandsaw 14 inch floor; bandsaw 240v pickup (all junk: blades, trunnions, parts). No whole-machine sold comps. Gumtree not searched (no sold data). | chrome: eBay AU sold: cast iron band saw vertical floor; vintage bandsaw 14 inch floor; bandsaw 240v pickup (all junk: blades, trunnions, parts). No whole-machine sold comps. Gumtree not searched (no sold data).",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: vintage cast iron band saw floor standing 14 inch (and Gumtree Tasmania band saw sold/asking)",
- "viewing_check": "Look for a maker's plate or casting name (on the wheel covers, column or table), motor plate (HP, phase; 3-phase lowers resale), wheel diameter and throat size, whether the table tilts and wheels are intact and not cracked, and ask for it to be powered up. Photograph the plate and the motor."
+ "viewing_check": "Look for maker plate (wheel cover, base, motor), motor voltage/phase (single vs 3 phase), wheel size, blade guide condition, and whether it runs.",
+ "chrome_done": true
 }

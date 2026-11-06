@@ -1,7 +1,46 @@
-{"cdid":3112860,"lot":2019,"identification":"Nissan Generator NDG5B Brushless, small air-cooled single-cylinder diesel set (about 3.5-5kVA class), electric start, battery fitted, 3 x 15A outlets, tubular roll frame. Badge and model confirmed in photos. Heavy surface rust on tank and frame; running order unknown. Older Japanese unit (likely 1980s-90s), spares support uncertain.","entries":[
-{"kind":"SOLD","price":"$620","aud_price":620,"currency":"AUD","date":"2026-05-31","venue":"Gowans Auctions, Hobart (hammer, premium extra)","url":"https://www.gowansauctions.com.au (Gowans lot id 414264)","same_item":"close","note":"Dunlite 6.8kVA diesel generator, starts and runs, governor issue under load, 9 bids. Larger and known running, so a ceiling for this lot. From local comps database; page not opened."},
-{"kind":"SOLD","price":"US$412 hammer (US$458.35 with premium)","aud_price":630,"currency":"USD","date":"2014-12 to 2015-01","venue":"GovDeals (Walnut Creek CA)","url":"https://www.govdeals.com/index.cfm?fa=Main.Item&itemid=34&acctid=6824","same_item":"close","note":"Nissan NDG5A diesel generator, 3500W electric start, functionality unknown, 61 bids. Closest same-maker, same-condition-class comp but old and US. AUD at roughly 1.53 per USD (assumed, not checked). Snippet only (page returned 403), not verified."},
-{"kind":"SOLD","price":"$150","aud_price":150,"currency":"AUD","date":"2026-03-01 (listing date)","venue":"Gowans Auctions, Hobart (hammer, premium extra)","url":"https://www.gowansauctions.com.au (Gowans lot id 394762)","same_item":"category guide","note":"Single cylinder Yanmar diesel motor with clutch, as is, 2 bids. Engine only, not a generator; shows low end for a rough small diesel. Page not opened."}
-],
-"searches_tried":"comps.py pipeline (crashed on a null field), work/comps.py: diesel generator, generator diesel kva, yanmar generator, nissan; Gowans API: nissan generator, diesel generator, yanmar, kipor diesel, hatz diesel; WebSearch: Nissan NDG5B sold auction, site:armitage.bidsonline.com.au diesel generator (nothing relevant), Nissan NDG5B for sale Australia (no listings), used 5kva diesel Tasmania auction (dealer new stock only); Macfarlane used page and Machineryline fetch gave no usable prices. No Australian NDG5B sale found. eBay sold listings for 'Nissan NDG5B' / 'Nissan diesel generator NDG' would settle it best.",
-"needs_chrome":true,"chrome_hint":"eBay sold/completed listings: Nissan NDG5B generator; also Nissan NDG5A / NDG3 diesel generator; Gumtree and Facebook Marketplace for 'Nissan diesel generator'","viewing_check":"Check the engine nameplate and that the engine turns over by hand; look for compression and oil/diesel leaks, check for water in oil, condition of fuel tank rust (pinholes), whether the battery holds a crank, and the outlet panel for damage. If the seller allows, ask for a start. Note any hour meter or serial plate.","rate_note":"USD to AUD about 1.53 assumed for the 2014-15 GovDeals comp; AUD items need no conversion."}
+{
+ "cdid": 3112860,
+ "lot": 2019,
+ "identification": "Nissan Generator NDG5B Brushless diesel set, electric start, tubular frame, heavy rust on tank/frame (photo confirms badge).",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$620",
+   "aud_price": 620,
+   "currency": "AUD",
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+   "url": "https://www.gowansauctions.com.au (Gowans lot id 414264)",
+   "same_item": "close",
+   "note": "Dunlite 6.8kVA diesel generator, starts and runs, governor issue under load, 9 bids. Larger and known running, so a ceiling for this lot. From local comps database; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$412 hammer (US$458.35 with premium)",
+   "aud_price": 630,
+   "currency": "USD",
+   "date": "2014-12 to 2015-01",
+   "venue": "GovDeals (Walnut Creek CA)",
+   "url": "https://www.govdeals.com/index.cfm?fa=Main.Item&itemid=34&acctid=6824",
+   "same_item": "close",
+   "note": "Nissan NDG5A diesel generator, 3500W electric start, functionality unknown, 61 bids. Closest same-maker, same-condition-class comp but old and US. AUD at roughly 1.53 per USD (assumed, not checked). Snippet only (page returned 403), not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150",
+   "aud_price": 150,
+   "currency": "AUD",
+   "date": "2026-03-01 (listing date)",
+   "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+   "url": "https://www.gowansauctions.com.au (Gowans lot id 394762)",
+   "same_item": "category guide",
+   "note": "Single cylinder Yanmar diesel motor with clutch, as is, 2 bids. Engine only, not a generator; shows low end for a rough small diesel. Page not opened."
+  }
+ ],
+ "searches_tried": "comps.py pipeline (crashed on a null field), work/comps.py: diesel generator, generator diesel kva, yanmar generator, nissan; Gowans API: nissan generator, diesel generator, yanmar, kipor diesel, hatz diesel; WebSearch: Nissan NDG5B sold auction, site:armitage.bidsonline.com.au diesel generator (nothing relevant), Nissan NDG5B for sale Australia (no listings), used 5kva diesel Tasmania auction (dealer new stock only); Macfarlane used page and Machineryline fetch gave no usable prices. No Australian NDG5B sale found. eBay sold listings for 'Nissan NDG5B' / 'Nissan diesel generator NDG' would settle it best. | chrome: eBay AU sold: nissan diesel generator NDG; nissan generator brushless diesel NDG5B (only Nissan car alternators/junk, no generator comps) | chrome: eBay AU sold: nissan diesel generator NDG; nissan generator brushless diesel NDG5B (only Nissan car alternators/junk, no generator comps)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold/completed listings: Nissan NDG5B generator; also Nissan NDG5A / NDG3 diesel generator; Gumtree and Facebook Marketplace for 'Nissan diesel generator'",
+ "viewing_check": "Check whether engine turns over, battery state, oil/fuel condition, outlet panel and alternator output if a test is allowed; tank rust.",
+ "rate_note": "USD to AUD about 1.53 assumed for the 2014-15 GovDeals comp; AUD items need no conversion.",
+ "chrome_done": true
+}

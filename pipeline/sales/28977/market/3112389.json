@@ -1,7 +1,7 @@
 {
  "cdid": 3112389,
  "lot": 1668,
- "identification": "Stanley 20 inch plastic toolbox with about 15 used woodturning tools (mostly unbranded, ash handles), one Coronet HSS red-handled gouge, new carving tool pack, misc chisels and gauge. Mixed lot, no single valuable item.",
+ "identification": "Stanley plastic toolbox with about 15 used woodturning/carving chisels and gouges (mostly red/ash handled, unbranded), a pack of new carving tools, misc chisels and a gauge",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,48 @@
    "url": "https://www.carbatec.com.au/products/tj-6c",
    "same_item": "category guide",
    "note": "New retail, snippet only. Used mixed tools sell well below this."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$93.15",
+   "currency": "AUD",
+   "aud_price": 93.15,
+   "date": "2026-08-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237002829769",
+   "same_item": "partial",
+   "note": "16 woodturning gouges and chisels lathe turning job lot, BIN; no toolbox",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.21",
+   "currency": "AUD",
+   "aud_price": 95.21,
+   "date": "2026-10-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/137596714368",
+   "same_item": "partial",
+   "note": "Vintage wood carving tool lot chisels gouges and sharpening stone, BIN",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$194.04",
+   "currency": "AUD",
+   "aud_price": 194.04,
+   "date": "2026-08-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/278286311920",
+   "same_item": "partial",
+   "note": "Vintage job lot of 25 wood carving chisels, gouges, spoons, 2 box sets, best offer accepted",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for coronet gouge, woodturning tools, turning gouges chisels: no tool hits (Coronet hits were watches/guitar). Gowans API: wood lathe tools, turning chisels, carving tools, woodturning tools, coronet tools. WebSearch: Coronet HSS gouge sold (retail only), site:armitage.bidsonline (nothing). eBay sold would help but is closed to us. Rate: AUD only, no conversion.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for coronet gouge, woodturning tools, turning gouges chisels: no tool hits (Coronet hits were watches/guitar). Gowans API: wood lathe tools, turning chisels, carving tools, woodturning tools, coronet tools. WebSearch: Coronet HSS gouge sold (retail only), site:armitage.bidsonline (nothing). eBay sold would help but is closed to us. Rate: AUD only, no conversion. | chrome: eBay AU sold: coronet turning gouge woodturning tools lot (error page); woodturning chisels gouges lot tool box",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: Coronet HSS turning gouge; and lot of woodturning chisels Australia",
- "viewing_check": "Check the Coronet markings and whether other handles carry brands (Sorby, Henry Taylor, Crown, Marples); check blades for length left and split handle; confirm count of tools.",
- "rate_note": "All AUD."
+ "viewing_check": "Check for any named quality tools (Sorby, Henry Taylor, Marples, Coronet) in the box, whether the new carving tool pack is sealed, and rust on blades. Named turning gouges are worth more individually.",
+ "rate_note": "All AUD.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112694,
  "lot": 1853,
- "identification": "Pair of matching green vitreous enamel industrial dome pendant shades (factory or barn style, roughly 1930s-60s), cast neck fittings with conduit elbows, rusted. No maker mark visible; Thorlux (UK) or Benjamin (US) type makers possible, which would lift value, but not shown.",
+ "identification": "Pair of green vitreous enamel industrial dome pendant shades with cast neck and conduit elbow; glossy, rust on fittings; no maker visible",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,60 @@
    "url": "https://www.etsy.com/au/market/green_factory_light_vintage",
    "same_item": "close",
    "note": "Pair of vintage green porcelain enamel 12 inch industrial shades; snippet only, not verified. Asking price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$97.03",
+   "currency": "AUD",
+   "aud_price": 97.03,
+   "date": "2026-10-02",
+   "venue": "eBay AU (converted, listed from UK)",
+   "url": "https://www.ebay.com.au/itm/178348627102",
+   "same_item": "yes",
+   "note": "Two vintage industrial green enamel shades, pair, 11in",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$145.54",
+   "currency": "AUD",
+   "aud_price": 145.54,
+   "date": "2026-09-14",
+   "venue": "eBay AU (converted, listed from UK)",
+   "url": "https://www.ebay.com.au/itm/257677838857",
+   "same_item": "partial",
+   "note": "Pair of Coolicon vintage enamel shades racing green 11in; named maker",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$164.95",
+   "currency": "AUD",
+   "aud_price": 164.95,
+   "date": "2026-09-15",
+   "venue": "eBay AU (converted, listed from UK)",
+   "url": "https://www.ebay.com.au/itm/257677809968",
+   "same_item": "partial",
+   "note": "Pair of Coolicon, same type, another sale",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$138.75",
+   "currency": "AUD",
+   "aud_price": 138.75,
+   "date": "2026-10-18",
+   "venue": "eBay AU (converted, listed from UK)",
+   "url": "https://www.ebay.com.au/itm/860053787432",
+   "same_item": "partial",
+   "note": "Maxlume enamel industrial lights 12in and 14in green shades",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py: enamel pendant, industrial light, enamel shade, factory light, enamel lamp (pipeline/comps.py crashed with a TypeError on a null aud_hammer). Gowans API: enamel shade, industrial pendant, enamel pendant, factory light. WebSearch site:armitage.bidsonline.com.au (nothing relevant); WebSearch for AU green enamel pendant prices (Etsy AU asking only); WebSearch Thorlux/Benjamin sold (UK/US dealer and LiveAuctioneers, no usable AU prices). Gowans pairs of industrial shades sold $40 to $160, most enamel pairs $40 to $50, median about $50 to $90 range. Armitage past results: none found. eBay Australia sold listings would settle it better.",
- "needs_chrome": true,
+ "searches_tried": "work/comps.py: enamel pendant, industrial light, enamel shade, factory light, enamel lamp (pipeline/comps.py crashed with a TypeError on a null aud_hammer). Gowans API: enamel shade, industrial pendant, enamel pendant, factory light. WebSearch site:armitage.bidsonline.com.au (nothing relevant); WebSearch for AU green enamel pendant prices (Etsy AU asking only); WebSearch Thorlux/Benjamin sold (UK/US dealer and LiveAuctioneers, no usable AU prices). Gowans pairs of industrial shades sold $40 to $160, most enamel pairs $40 to $50, median about $50 to $90 range. Armitage past results: none found. eBay Australia sold listings would settle it better. | chrome: eBay AU sold: pair green enamel industrial light shades; first query hit error page | chrome: eBay AU sold: pair green enamel industrial light shades; first query hit error page",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: pair green enamel industrial light shades (also: vintage green enamel factory pendant pair, Thorlux, Benjamin)",
- "viewing_check": "Look inside the shade rim and neck for a maker stamp or label (Thorlux, Benjamin, Revo, Wardle, Holophane); check diameter (larger 40cm+ is worth more), enamel chips and rust-through at rim, and that both shades truly match; photograph the inside.",
- "rate_note": "All AUD, rate 1.0. Gowans hammer excludes premium."
+ "viewing_check": "Look for a maker name (Coolicon, Thorlux, Benjamin) on the neck or inside; measure diameter; check chips to the enamel rim.",
+ "rate_note": "All AUD, rate 1.0. Gowans hammer excludes premium.",
+ "chrome_done": true
 }

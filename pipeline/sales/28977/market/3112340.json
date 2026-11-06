@@ -1,11 +1,124 @@
-{"cdid":3112340,"lot":1435,"identification":"Three handmade sandstock bricks with finger-drawn marks: 'EAD'-style letters, a possible broad arrow (only one reads as an arrow, and it looks more like an upward stroke/spike than a clear broad arrow), and a zigzag 'WMVM' mark. Likely Tasmanian colonial-era bricks, ex Alanvale, Newnham. Marks may be brickmaker/finger marks rather than Government broad arrows.","entries":[
-{"kind":"SOLD","price":"$100 hammer","aud_price":100,"currency":"AUD","date":"2026-04-19","venue":"Gowans (Hobart), 4 CONVICT BRICKS WITH BROAD ARROW & THUMB PRINT BRICK, 8 bids","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 403610)","same_item":"yes","note":"Best comp: four bricks incl. broad arrow and thumbprint, so about $25 a brick. Premium extra. API data, not photos."},
-{"kind":"SOLD","price":"$25 hammer","aud_price":25,"currency":"AUD","date":"2025-10-27","venue":"Gowans (Hobart), 10 CONVICT BRICKS, 2 bids","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 371036)","same_item":"close","note":"Ten bricks, marks unstated. Premium extra."},
-{"kind":"SOLD","price":"$15 hammer","aud_price":15,"currency":"AUD","date":"2025-10-13","venue":"Gowans (Hobart), 4 CONVICT BRICKS","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 368001)","same_item":"close","note":"Premium extra."},
-{"kind":"SOLD","price":"$10 hammer","aud_price":10,"currency":"AUD","date":"2026-06-14","venue":"Gowans (Hobart), 2 CONVICT BRICKS","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 417052)","same_item":"close","note":"1 bid. Premium extra."},
-{"kind":"SOLD","price":"$5 hammer","aud_price":5,"currency":"AUD","date":"2026-01-19","venue":"Gowans (Hobart), 2 CONVICT BRICKS","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 384740)","same_item":"close","note":"1 bid. Premium extra."},
-{"kind":"SOLD","price":"$4 hammer","aud_price":4,"currency":"AUD","date":"2025-10-06","venue":"Gowans (Hobart), 3 CONVICT BRICKS","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 366210)","same_item":"yes","note":"Three bricks, same count as this lot, 2 bids. Premium extra."},
-{"kind":"SOLD","price":"$3 hammer","aud_price":3,"currency":"AUD","date":"2025-11-03","venue":"Gowans (Hobart), CRATE OF CONVICT BRICKS, 0 bids","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 372685)","same_item":"category guide","note":"Crate, floor price."},
-{"kind":"SOLD","price":"$80 closing bid (estimate 50-100)","aud_price":80,"currency":"AUD","date":"2022-05-04","venue":"Armitage Auctions, Box of convict bricks incl. broad arrow, lot 1539","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=1511757&chid=19714&category=ALL&style=group","same_item":"close","note":"Snippet only, not verified, old (4 years). Box with broad arrow, closing bid shown as a bid not a confirmed sale."},
-{"kind":"ASKING","price":"$60 each (thumbprint and broad arrow bricks); $275 for a lot of double-thumbprint and Engineers Dept broad arrow bricks","aud_price":60,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Gumtree classifieds","url":"https://www.gumtree.com.au/s-convict+brick/k0","same_item":"category guide","note":"Snippet only, not verified. Retail asking prices, well above auction hammers."}
-],"searches_tried":"comps.py (pipeline version crashed on a data error; work/comps.py convict bricks, broad arrow brick, brick); Gowans API convict brick (also saw a current-sale 3 ENGINEERS DEPARTMENT BROAD ARROW MARKED CONVICT BRICKS listing created 2026-11-01 showing $30 and 1 bid, skipped as current auction); WebSearch convict brick broad arrow finger marked; WebSearch site:armitage convict bricks. Carters price-guide page for convict bricks exists but not opened. eBay sold would help a little but this is low value. Evidence: typical Tasmanian convict brick lots sell $3 to $25 hammer, with one clear broad arrow and thumbprint lot at $100 for four.","needs_chrome":false,"viewing_check":"Check whether any brick has a clear Government broad arrow (pointing-down arrowhead, often inside a stamped frame) versus finger-drawn maker marks; look for a Hobart Town, Engineers Dept or other stamped or incised mark, and check the cracked brick. Confirm the 'ex Alanvale' provenance paperwork if any.","chrome_hint":"","rate_note":"All AUD, no conversion."}
+{
+ "cdid": 3112340,
+ "lot": 1435,
+ "identification": "Three handmade sandstock bricks with finger-drawn marks (EAD-like letters, a stroke/arrow, zigzag WMVM); finger/maker marks, broad arrow not clearly shown.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "aud_price": 100,
+   "currency": "AUD",
+   "date": "2026-04-19",
+   "venue": "Gowans (Hobart), 4 CONVICT BRICKS WITH BROAD ARROW & THUMB PRINT BRICK, 8 bids",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 403610)",
+   "same_item": "yes",
+   "note": "Best comp: four bricks incl. broad arrow and thumbprint, so about $25 a brick. Premium extra. API data, not photos."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25 hammer",
+   "aud_price": 25,
+   "currency": "AUD",
+   "date": "2025-10-27",
+   "venue": "Gowans (Hobart), 10 CONVICT BRICKS, 2 bids",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 371036)",
+   "same_item": "close",
+   "note": "Ten bricks, marks unstated. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$15 hammer",
+   "aud_price": 15,
+   "currency": "AUD",
+   "date": "2025-10-13",
+   "venue": "Gowans (Hobart), 4 CONVICT BRICKS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 368001)",
+   "same_item": "close",
+   "note": "Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$10 hammer",
+   "aud_price": 10,
+   "currency": "AUD",
+   "date": "2026-06-14",
+   "venue": "Gowans (Hobart), 2 CONVICT BRICKS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 417052)",
+   "same_item": "close",
+   "note": "1 bid. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$5 hammer",
+   "aud_price": 5,
+   "currency": "AUD",
+   "date": "2026-01-19",
+   "venue": "Gowans (Hobart), 2 CONVICT BRICKS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 384740)",
+   "same_item": "close",
+   "note": "1 bid. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$4 hammer",
+   "aud_price": 4,
+   "currency": "AUD",
+   "date": "2025-10-06",
+   "venue": "Gowans (Hobart), 3 CONVICT BRICKS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 366210)",
+   "same_item": "yes",
+   "note": "Three bricks, same count as this lot, 2 bids. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$3 hammer",
+   "aud_price": 3,
+   "currency": "AUD",
+   "date": "2025-11-03",
+   "venue": "Gowans (Hobart), CRATE OF CONVICT BRICKS, 0 bids",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=convict+brick (id 372685)",
+   "same_item": "category guide",
+   "note": "Crate, floor price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 closing bid (estimate 50-100)",
+   "aud_price": 80,
+   "currency": "AUD",
+   "date": "2022-05-04",
+   "venue": "Armitage Auctions, Box of convict bricks incl. broad arrow, lot 1539",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=1511757&chid=19714&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Snippet only, not verified, old (4 years). Box with broad arrow, closing bid shown as a bid not a confirmed sale."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$60 each (thumbprint and broad arrow bricks); $275 for a lot of double-thumbprint and Engineers Dept broad arrow bricks",
+   "aud_price": 60,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Gumtree classifieds",
+   "url": "https://www.gumtree.com.au/s-convict+brick/k0",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Retail asking prices, well above auction hammers."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-09-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/800625916588",
+   "same_item": "partial",
+   "note": "Single sandstock convict/colonial heritage brick (double-d), no mark detail checked",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed on a data error; work/comps.py convict bricks, broad arrow brick, brick); Gowans API convict brick (also saw a current-sale 3 ENGINEERS DEPARTMENT BROAD ARROW MARKED CONVICT BRICKS listing created 2026-11-01 showing $30 and 1 bid, skipped as current auction); WebSearch convict brick broad arrow finger marked; WebSearch site:armitage convict bricks. Carters price-guide page for convict bricks exists but not opened. eBay sold would help a little but this is low value. Evidence: typical Tasmanian convict brick lots sell $3 to $25 hammer, with one clear broad arrow and thumbprint lot at $100 for four. | chrome: eBay AU sold: 'convict brick' (error page); 'convict bricks tasmania' (one relevant single brick) | chrome: eBay AU sold: 'convict brick' (error page); 'convict bricks tasmania' (one relevant single brick)",
+ "needs_chrome": false,
+ "viewing_check": "Confirm whether any mark is a genuine government broad arrow (pointing up with barbs) versus a maker's finger mark; check provenance paperwork for Alanvale, Newnham. Bricks are heavy, factor in carry.",
+ "chrome_hint": "",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}

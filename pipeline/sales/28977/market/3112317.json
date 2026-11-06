@@ -1,14 +1,146 @@
-{"cdid":3112317,"lot":1411,"identification":"Golden Fleece Supra Heavy Duty Hydraulic Brake Fluid SAE 70-R-3, 1 Imp. Pint tin, H.C. Sleigh Limited, pre-metric. Rusty top and cap, scuffs, small dents, some paint loss (photos confirm).",
-"entries":[
-{"kind":"SOLD","price":"$185 hammer","currency":"AUD","aud_price":185,"date":"2026-08-19","venue":"Armitage Auctions, Launceston sale 28448 lot 1371","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020549&chid=28448&category=ALL&style=group","same_item":"yes","note":"From local comps database (page not opened). Same title GOLDEN FLEECE 1 PINT BRAKE FLUID TIN; condition unknown, so compare photos. 22% premium extra. Same room, same buyer pool."},
-{"kind":"SOLD","price":"$125 hammer","currency":"AUD","aud_price":125,"date":"2026-08-19","venue":"Armitage Auctions sale 28448 lot 1368","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020546&chid=28448&category=ALL&style=group","same_item":"close","note":"Golden Fleece 1 quart oil tin. Database only. Similar-size Golden Fleece tin."},
-{"kind":"SOLD","price":"$210 hammer","currency":"AUD","aud_price":210,"date":"2025-08-20","venue":"Armitage Auctions sale 25445 lot 1369","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2602494&chid=25445&category=ALL&style=group","same_item":"close","note":"Wakefield Castraulic 2 imperial pint brake fluid tin, different brand. Database only."},
-{"kind":"SOLD","price":"$20 hammer","currency":"AUD","aud_price":20,"date":"2025-11-17","venue":"Gowans Auctions, Hobart lot 375829","url":"gowans lot id 375829","same_item":"close","note":"Nasco hydraulic brake fluid tin, lesser brand. Database only."},
-{"kind":"SOLD","price":"$85 hammer","currency":"AUD","aud_price":85,"date":"2026-01-21","venue":"Armitage Auctions sale 27047 lot 1603","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2788007&chid=27047&category=ALL&style=group","same_item":"category guide","note":"BP aviation gas drum plus Mobil brake fluid tin, two items. Database only."},
-{"kind":"SOLD","price":"$260 hammer","currency":"AUD","aud_price":260,"date":"2026-09-06","venue":"Gowans Auctions, Hobart lot 435746","url":"gowans lot id 435746","same_item":"category guide","note":"Golden Fleece gallon tin, larger and more desirable. Database/API only."},
-{"kind":"SOLD","price":"$65 hammer","currency":"AUD","aud_price":65,"date":"2026-08-19","venue":"Armitage Auctions sale 28448 lot 1355","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020533&chid=28448&category=ALL&style=group","same_item":"category guide","note":"Golden Fleece 1 gallon oil tin. Database only."},
-{"kind":"SOLD","price":"$230","currency":"AUD","aud_price":230,"date":"2025 (date not seen)","venue":"ABCR Auctions, Golden Fleece radiator fluid tin 1 pint","url":"https://www.abcrauctions.com.au/past-auctions/2414/abcr-auction-50/254/garagenalia-golden-fleece-radiator-fluid-tin-1-pint/","same_item":"category guide","note":"Snippet only, not verified. Different product (radiator fluid), unknown if premium included."},
-{"kind":"SOLD","price":"$55","currency":"AUD","aud_price":55,"date":"unknown","venue":"Donington Auctions","url":"https://online.doningtonauctions.com.au/m/lot-details/index/catalog/60/lot/9535?url=/m/search","same_item":"category guide","note":"Snippet only, not verified. Golden Fleece Supra-Safe PLASTIC brake fluid container with Atlantic tin, not a tin."},
-{"kind":"ASKING","price":"$99","currency":"AUD","aud_price":99,"date":"live, seen 2026-11-06","venue":"eBay AU","url":"https://www.ebay.com.au/b/Golden-Fleece-Collectable-Advertising/34/bn_18988585","same_item":"category guide","note":"Snippet only, not verified. Search summary described a Supra heavy duty hydraulic brake fluid 1 imp pint tin by another brand, local pickup. Asking price only."}
-],
-"searches_tried":"comps.py (pipeline, work) with golden fleece / brake fluid / tin / pint; Gowans API (golden fleece brake, tin, supra brake fluid; no Supra brake fluid hits); one WebSearch. Burns & Co 21 Aug 2025 lot 1681 is a Golden Fleece Supra brake fluid lot, result not seen. eBay sold listings would settle it best. Blind score of under $30 looks too low given the $185 Armitage hammer on the same title in Aug 2026, though that tin's condition is unknown and the price may be one-off; Armitage 1 quart at $125 and similar tins at $65-260 suggest a realistic range of roughly $60-185 hammer for a rusty one.","needs_chrome":true,"chrome_hint":"eBay AU sold/completed: Golden Fleece Supra brake fluid tin pint","viewing_check":"Check for rust holes or leaks, how bad the dents are, and whether the label graphics are bright. Compare condition against the Armitage sale 28448 lot 1371 photos if available."}
+{
+ "cdid": 3112317,
+ "lot": 1411,
+ "identification": "Golden Fleece Supra Heavy Duty Hydraulic Brake Fluid 1 Imp. Pint tin, H.C. Sleigh, rusty cap, scuffs",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$185 hammer",
+   "currency": "AUD",
+   "aud_price": 185,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions, Launceston sale 28448 lot 1371",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020549&chid=28448&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "From local comps database (page not opened). Same title GOLDEN FLEECE 1 PINT BRAKE FLUID TIN; condition unknown, so compare photos. 22% premium extra. Same room, same buyer pool."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$125 hammer",
+   "currency": "AUD",
+   "aud_price": 125,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions sale 28448 lot 1368",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020546&chid=28448&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Golden Fleece 1 quart oil tin. Database only. Similar-size Golden Fleece tin."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$210 hammer",
+   "currency": "AUD",
+   "aud_price": 210,
+   "date": "2025-08-20",
+   "venue": "Armitage Auctions sale 25445 lot 1369",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2602494&chid=25445&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Wakefield Castraulic 2 imperial pint brake fluid tin, different brand. Database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20 hammer",
+   "currency": "AUD",
+   "aud_price": 20,
+   "date": "2025-11-17",
+   "venue": "Gowans Auctions, Hobart lot 375829",
+   "url": "gowans lot id 375829",
+   "same_item": "close",
+   "note": "Nasco hydraulic brake fluid tin, lesser brand. Database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85 hammer",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-01-21",
+   "venue": "Armitage Auctions sale 27047 lot 1603",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2788007&chid=27047&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "BP aviation gas drum plus Mobil brake fluid tin, two items. Database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$260 hammer",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions, Hobart lot 435746",
+   "url": "gowans lot id 435746",
+   "same_item": "category guide",
+   "note": "Golden Fleece gallon tin, larger and more desirable. Database/API only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions sale 28448 lot 1355",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020533&chid=28448&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Golden Fleece 1 gallon oil tin. Database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2025 (date not seen)",
+   "venue": "ABCR Auctions, Golden Fleece radiator fluid tin 1 pint",
+   "url": "https://www.abcrauctions.com.au/past-auctions/2414/abcr-auction-50/254/garagenalia-golden-fleece-radiator-fluid-tin-1-pint/",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Different product (radiator fluid), unknown if premium included."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "unknown",
+   "venue": "Donington Auctions",
+   "url": "https://online.doningtonauctions.com.au/m/lot-details/index/catalog/60/lot/9535?url=/m/search",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Golden Fleece Supra-Safe PLASTIC brake fluid container with Atlantic tin, not a tin."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$99",
+   "currency": "AUD",
+   "aud_price": 99,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/b/Golden-Fleece-Collectable-Advertising/34/bn_18988585",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Search summary described a Supra heavy duty hydraulic brake fluid 1 imp pint tin by another brand, local pickup. Asking price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$61.06",
+   "currency": "AUD",
+   "aud_price": 61.06,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/198749274629",
+   "same_item": "partial",
+   "note": "Golden Fleece Supra Safe Brake Fluid tin, 1 Imp. GALLON (not pint)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$499.00",
+   "currency": "AUD",
+   "aud_price": 499,
+   "date": "2026-09-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168574864065",
+   "same_item": "partial",
+   "note": "Golden Fleece Cinemascope Lubricants 1 gallon brake fluid; rarer Cinemascope design, gallon, outlier",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline, work) with golden fleece / brake fluid / tin / pint; Gowans API (golden fleece brake, tin, supra brake fluid; no Supra brake fluid hits); one WebSearch. Burns & Co 21 Aug 2025 lot 1681 is a Golden Fleece Supra brake fluid lot, result not seen. eBay sold listings would settle it best. Blind score of under $30 looks too low given the $185 Armitage hammer on the same title in Aug 2026, though that tin's condition is unknown and the price may be one-off; Armitage 1 quart at $125 and similar tins at $65-260 suggest a realistic range of roughly $60-185 hammer for a rusty one. | chrome: eBay AU sold: golden fleece brake fluid tin (no pint tins sold; two earlier queries hit eBay error page)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold/completed: Golden Fleece Supra brake fluid tin pint",
+ "viewing_check": "Confirm pint size and the Supra Heavy Duty label; check for rust-through and seam splits.",
+ "chrome_done": true
+}

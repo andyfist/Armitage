@@ -1,7 +1,7 @@
 {
  "cdid": 3111192,
  "lot": 930,
- "identification": "Open-face silver pocket watch, white enamel dial signed Kendal & Dent (London retailer/maker, Makers to the Admiralty), Roman numerals, subsidiary seconds, engine-turned back with vacant shield, stem wind. Hallmarks not visible; likely late Victorian/Edwardian English or Swiss-made for the retailer. Photos show minute hand drooping, dial appears clean, case rubbed.",
+ "identification": "Open-face silver pocket watch, white enamel dial signed Kendal & Dent, Roman numerals, subsidiary seconds; minute hand drooping, case rubbed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,72 @@
    "url": "https://ashton-blakey-antiques.com/products/kendal-and-dent-silver-pocket-watch",
    "same_item": "category guide",
    "note": "Dealer retail, fully hallmarked and serviced presumably; snippet only. Not comparable to an unserviced auction lot with a bent hand. Rate USD1=AUD1.54 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$127",
+   "currency": "AUD",
+   "aud_price": 127.48,
+   "date": "2026-11-05",
+   "venue": "eBay AU (converted, listed from United Kingdom)",
+   "url": "https://www.ebay.com.au/itm/366766542654",
+   "same_item": "yes",
+   "note": "No reserve c1890s Kendal & Dent gents silver pocket watch",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$181",
+   "currency": "AUD",
+   "aud_price": 181.44,
+   "date": "2026-10-24",
+   "venue": "eBay AU (converted, listed from United Kingdom)",
+   "url": "https://www.ebay.com.au/itm/860065276972",
+   "same_item": "yes",
+   "note": "Antique solid silver gents Kendal & Dent London pocket watch, working order per title",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$97",
+   "currency": "AUD",
+   "aud_price": 97.03,
+   "date": "2026-10-16",
+   "venue": "eBay AU (converted, listed from United Kingdom)",
+   "url": "https://www.ebay.com.au/itm/128123319270",
+   "same_item": "partial",
+   "note": "Swiss silver pocket watch and chain retailed by Kendal & Dent, 1887",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80",
+   "currency": "AUD",
+   "aud_price": 79.56,
+   "date": "2026-10-15",
+   "venue": "eBay AU (converted, listed from United Kingdom)",
+   "url": "https://www.ebay.com.au/itm/860014622110",
+   "same_item": "partial",
+   "note": "Kendal & Dent 925 silver key-wind, spares or repair",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$39",
+   "currency": "AUD",
+   "aud_price": 38.81,
+   "date": "2026-10-27",
+   "venue": "eBay AU (converted, listed from United Kingdom)",
+   "url": "https://www.ebay.com.au/itm/307239696412",
+   "same_item": "partial",
+   "note": "Antique Kendal & Dent Swiss .935 silver floral, 38.6mm, untested",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (kendal dent; sterling pocket watch enamel; failed on one script with a data error) and work/comps.py (silver pocket watch, kendal, dent); Gowans API search kendal dent returned nothing; 3 web searches (Kendal & Dent silver pocket watch sold; Australian auction houses). No Australian Kendal & Dent sold result found. eBay sold listings (Kendal Dent silver pocket watch) would help.",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (kendal dent; sterling pocket watch enamel; failed on one script with a data error) and work/comps.py (silver pocket watch, kendal, dent); Gowans API search kendal dent returned nothing; 3 web searches (Kendal & Dent silver pocket watch sold; Australian auction houses). No Australian Kendal & Dent sold result found. eBay sold listings (Kendal Dent silver pocket watch) would help. | chrome: eBay AU sold: kendal dent pocket watch (first attempt read before page loaded, retried) | chrome: eBay AU sold: kendal dent pocket watch (first attempt read before page loaded, retried)",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: Kendal Dent silver pocket watch; also LiveAuctioneers/the-saleroom Kendal & Dent silver pocket watch results",
- "viewing_check": "Open the case back and photograph hallmarks (sterling lion / town / date letter, or 935 Swiss marks), movement signature and serial number, check whether it winds and runs, whether the minute hand is just bent, and dial/glass hairlines.",
- "rate_note": "GBP1=AUD2.00, USD1=AUD1.54 (assumed, approximate). Gowans prices are hammer, premium extra."
+ "viewing_check": "Check hallmarks inside case (sterling, London or Swiss), movement signature, whether it runs, dial hairlines, glass, hand fit and case weight.",
+ "rate_note": "GBP1=AUD2.00, USD1=AUD1.54 (assumed, approximate). Gowans prices are hammer, premium extra.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112269,
  "lot": 1597,
- "identification": "Eight Tasmanian steel number plates: three Holiday Isle era (1976-98) blue on grey/white plates (AU-8006, CK-0351, and a matched pair DC-9397), plus VA-5201 (TAS, blue, 1970s) and three older black-on-white TAS plates (WGD-408, WSK-624, WJV-989). Ordinary registrations, no low numbers or personalised plates. Heavy rust on three.",
+ "identification": "Eight old Tasmanian steel number plates (Holiday Isle era and older black-on-white), ordinary registrations, rust on some",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,48 @@
    "url": "https://www.ebay.com.au/shop/tas-number-plate?_nkw=tas+number+plate",
    "same_item": "close",
    "note": "Snippet only, not verified. Asking prices, not paid. Eight plates at $17-60 asking implies $140-480 retail, but retail asking exceeds auction results."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$74.90",
+   "currency": "AUD",
+   "aud_price": 74.9,
+   "date": "2026-09-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/800168496209",
+   "same_item": "partial",
+   "note": "Matching pair of Holiday Isle plates BZ 933, embossed; pair, one lot",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$15.50",
+   "currency": "AUD",
+   "aud_price": 15.5,
+   "date": "2026-09-20",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168685450337",
+   "same_item": "partial",
+   "note": "Single Holiday Isle plate CK 8160",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$17.60",
+   "currency": "AUD",
+   "aud_price": 17.6,
+   "date": "2026-08-13",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117329731808",
+   "same_item": "partial",
+   "note": "Single Tasmania Holiday Isle plate",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on a None value; work/comps.py run for tasmanian plates, tas plates, number plate, found only Gowans lots above); Gowans API searches for number plates, tasmanian plates, tas plates, holiday isle, registration plates; one WebSearch for Holiday Isle pair sold (only eBay/Gumtree asking and Collecting Cars heritage plates with no price). eBay sold listings would settle value best (eBay blocked to us). Did not reach 5 web searches as the item is generic and Gowans gives the relevant results.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline version crashed on a None value; work/comps.py run for tasmanian plates, tas plates, number plate, found only Gowans lots above); Gowans API searches for number plates, tasmanian plates, tas plates, holiday isle, registration plates; one WebSearch for Holiday Isle pair sold (only eBay/Gumtree asking and Collecting Cars heritage plates with no price). eBay sold listings would settle value best (eBay blocked to us). Did not reach 5 web searches as the item is generic and Gowans gives the relevant results. | chrome: eBay AU sold: tasmania number plate holiday isle | chrome: eBay AU sold: tasmania number plate holiday isle",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: tasmania holiday isle number plate (also: tas number plates lot, vintage tasmanian number plates)",
  "rate_note": "All AUD, no conversion. Gowans prices are hammer, premium extra.",
- "viewing_check": "Check whether any plate is a low or notable number, and confirm the DC-9397 pair are a true matched set and straight. Check rust and bends on each, and that WJV-989 is original embossed (not repainted). Otherwise photos settle it."
+ "viewing_check": "Read each plate for low numbers, 1-3 letter combos or custom plates; check the matching pair DC-9397 condition.",
+ "chrome_done": true
 }

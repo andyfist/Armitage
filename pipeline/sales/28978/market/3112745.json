@@ -1,7 +1,7 @@
 {
  "cdid": 3112745,
  "lot": 1904,
- "identification": "Pallet of about 14 old generic garden tools (shovels, bow rakes, fork, hoes, mattock-type head, axe-type head, loppers, broom, spade). No legible maker stamps. Generic, low value.",
+ "identification": "Pallet of ~14 old generic garden tools (shovels, rakes, forks, hoes, axe/mattock heads, broom); no maker marks visible",
  "entries": [
   {
    "kind": "SOLD",
@@ -114,9 +114,10 @@
    "note": "Quantity of garden tools; high result, contents unknown. Local comps database, no page opened."
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for 'garden tools' and 'mattock' (mattock no hits). Generic lot, so web search skipped by design. eBay sold would not change this.",
+ "searches_tried": "Local comps.py (pipeline and work) for 'garden tools' and 'mattock' (mattock no hits). Generic lot, so web search skipped by design. eBay sold would not change this. | chrome: None; generic mixed tool lot with nothing identifiable to search, and eBay throttling (many error pages).",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Check head stamps on the axe/mattock heads and any Tasmanian timber handled or maker-stamped tools (e.g. Ames, Wilkinson); otherwise nothing.",
- "rate_note": "All AUD, rate 1."
+ "viewing_check": "Check handles for splits, any old maker-stamped heads (Wilkinson, Gilpin), and the axe head; otherwise generic.",
+ "rate_note": "All AUD, rate 1.",
+ "chrome_done": true
 }

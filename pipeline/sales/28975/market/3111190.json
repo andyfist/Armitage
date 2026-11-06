@@ -1,7 +1,7 @@
 {
  "cdid": 3111190,
  "lot": 928,
- "identification": "Omega De Ville quartz ladies watch, white Roman dial, steel case with gold-tone crown, De Ville cityscape caseback medallion, black lizard-pattern strap. Appears genuine, 1980s-90s. Running not confirmed.",
+ "identification": "Omega De Ville quartz ladies, white Roman dial, steel case with gold crown, black lizard strap; looks genuine, running unknown",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,10 +90,47 @@
    "url": "https://www.noonans.co.uk/auctions/archive/lot-archive/results/346190/",
    "same_item": "close",
    "note": "Steel and gilt De Ville, white dial black Roman numerals, quartz, 28mm; estimate only, result not shown. Snippet only, not verified. Rate assumed 1 GBP = 2.00 AUD (approximate)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$283.02",
+   "currency": "AUD",
+   "aud_price": 283.02,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/307242849453",
+   "same_item": "partial",
+   "note": "1979 De Ville quartz gold plated, Roman dial; eBay AU converted, likely listed from overseas; gold plated rather than steel",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$412.62",
+   "currency": "AUD",
+   "aud_price": 412.62,
+   "date": "2026-08-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/178425657879",
+   "same_item": "partial",
+   "note": "De Ville Symbol Cal.1455 Roman 18k gold 23mm; eBay AU converted, Japanese dealer style listing, gold case so not comparable",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$698.62",
+   "currency": "AUD",
+   "aud_price": 698.62,
+   "date": "2026-10-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298681978231",
+   "same_item": "partial",
+   "note": "1995 De Ville Cal.1471 quartz Roman blue 23mm; Japanese dealer, mint/serviced, upper bound only",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for omega ladies, omega watch, omega deville; Gowans API omega ladies; one WebSearch for De Ville quartz ladies steel (snippets only). eBay sold prices for 'Omega De Ville quartz ladies steel' would help but are closed to us. Gowans hammers for comparable Omega De Ville ladies/quartz: 160-420, median about 250 (hammer, premium extra); plain 'Omega ladies watch' lots can go as low as 35-120.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for omega ladies, omega watch, omega deville; Gowans API omega ladies; one WebSearch for De Ville quartz ladies steel (snippets only). eBay sold prices for 'Omega De Ville quartz ladies steel' would help but are closed to us. Gowans hammers for comparable Omega De Ville ladies/quartz: 160-420, median about 250 (hammer, premium extra); plain 'Omega ladies watch' lots can go as low as 35-120. | chrome: eBay AU sold: omega de ville ladies quartz stainless steel roman (worldwide, 10 shown); Australia-only repeats hit eBay Error Page twice, not retried further. | chrome: eBay AU sold: omega de ville ladies quartz stainless steel roman (worldwide, 10 shown); Australia-only repeats hit eBay Error Page twice, not retried further.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold/completed: Omega De Ville quartz ladies stainless steel Roman dial (Australia and worldwide)",
- "viewing_check": "Check whether it is running (battery), movement and case-back reference number, case condition/scratches on crystal, and whether the strap and buckle are Omega. Steel versus gold-plated bezel."
+ "viewing_check": "Check caseback says De Ville and that the watch runs/keeps time; check crystal scratches, strap wear. Confirm case is steel (not plated). Overseas dealer sales above are mint/serviced; untested used steel examples go lower.",
+ "chrome_done": true
 }

@@ -1,9 +1,126 @@
-{"cdid":3111879,"lot":1049,"identification":"Five-panel folding fire screen, ornate cast gilt metal (iron or brass/spelter) with mesh backing, Renaissance revival style, late 19th to early 20th century probable. No maker mark seen. Material and age unconfirmed.","entries":[
-{"kind":"SOLD","price":"$140","currency":"AUD","aud_price":140,"date":"2026-06-17","venue":"Armitage Auctions, Launceston sale 28012 lot 365 (FOLDING FIRESCREEN CIRCA 1915)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2947814&chid=28012&category=ALL&style=group","same_item":"close","note":"Local database hammer, premium extra. Folding firescreen, not confirmed cast or gilt. Comes from comps.py output, not opened."},
-{"kind":"SOLD","price":"$70","currency":"AUD","aud_price":70,"date":"2025-05-07","venue":"Armitage Auctions, Launceston sale 23992 lot 1750","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491547&chid=23992&category=ALL&style=group","same_item":"category guide","note":"Metal folding firescreen, plain description, hammer from local database."},
-{"kind":"SOLD","price":"$60","currency":"AUD","aud_price":60,"date":"2025-10-01","venue":"Armitage Auctions, Launceston sale 25745 lot 1960","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2656261&chid=25745&category=ALL&style=group","same_item":"category guide","note":"Folding metal firescreen H-84 cm, smaller; hammer from local database."},
-{"kind":"SOLD","price":"$85","currency":"AUD","aud_price":85,"date":"2026-05-24","venue":"Gowans Auctions, Hobart","url":"gowans lot id 412070","same_item":"category guide","note":"CAST FIRESCREEN & FIRESIDE SET, 11 bids, hammer from local database."},
-{"kind":"SOLD","price":"$180","currency":"AUD","aud_price":180,"date":"2026-01-26","venue":"Gowans Auctions, Hobart","url":"gowans lot id 385924","same_item":"category guide","note":"BRASS PEACOCK FIRE SCREEN, 4 bids; decorative brass single screen, hammer from local database."},
-{"kind":"SOLD","price":"GBP 240 hammer (est 250-350)","currency":"GBP","aud_price":470,"date":"2016-03","venue":"Bellmans, UK, French gilt brass and mesh four-panel fire screen, late 19th c","url":"https://app.bellmans.co.uk/en/auction/2016MAR/917-a-french-gilt-brass-and-mesh-four-panel-fire-screen-late-19th-century-with-gilt-bronze-foliate-decoration-to-the-surmounts-139cm-wide-overall-67cm","same_item":"close","note":"Page opened. Old (2016) and UK; finer gilt brass. Rate approx 1 GBP = 1.96 AUD assumed, not checked."},
-{"kind":"SOLD","price":"GBP 650 (est 100-150)","currency":"GBP","aud_price":1270,"date":"2025-11-11","venue":"Gorringe's, Lewes, Louis XVI style gilt bronze and iron mesh fireguard, late 19th c","url":"https://auction.gorringes.co.uk/auction-lot-detail/A-Louis-XVI-style-gilt-bronze-and-iron-mesh-fireguard,-late-&salelot=111125+++276+&refno=90180011","same_item":"category guide","note":"Page opened. Gilt bronze, higher quality, far above estimate; outlier for UK market. Premium inclusion unknown. Rate approx 1.95 assumed."}
-],"searches_tried":"comps.py (pipeline and work) for fire screen/folding/gilt/cast iron; Gowans API folding fire screen; WebSearch site:armitage (no Armitage hits) and gilt cast iron folding screen. eBay sold prices for 'gilt cast folding fire screen' would help, as would 1stdibs/Carters dealer asking prices. Not done: Invaluable, Carters past results. Local comps show most folding metal screens at $15-140 hammer in Tasmania; the ornate size and gilt finish put this at the upper end, but no direct local same-item sale found.","needs_chrome":true,"chrome_hint":"eBay sold: 'antique gilt cast iron folding fire screen' and 'ornate brass folding fireplace screen mesh'; also LiveAuctioneers 'gilt folding fire screen'","viewing_check":"Test with a magnet (iron vs brass/spelter), check weight, look for foundry marks or registration lozenge on back, check hinges and mesh for damage, and photograph back and joints.","rate_note":"GBP to AUD approx 1.95-1.96 assumed, not verified."}
+{
+ "cdid": 3111879,
+ "lot": 1049,
+ "identification": "Ornate five-panel folding fire screen, cast gilt metal frame with mesh infill, Renaissance revival scrollwork and urn motif, painted gilt finish, ~80x104cm",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$140",
+   "currency": "AUD",
+   "aud_price": 140,
+   "date": "2026-06-17",
+   "venue": "Armitage Auctions, Launceston sale 28012 lot 365 (FOLDING FIRESCREEN CIRCA 1915)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2947814&chid=28012&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Local database hammer, premium extra. Folding firescreen, not confirmed cast or gilt. Comes from comps.py output, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2025-05-07",
+   "venue": "Armitage Auctions, Launceston sale 23992 lot 1750",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491547&chid=23992&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Metal folding firescreen, plain description, hammer from local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2025-10-01",
+   "venue": "Armitage Auctions, Launceston sale 25745 lot 1960",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2656261&chid=25745&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Folding metal firescreen H-84 cm, smaller; hammer from local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-05-24",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 412070",
+   "same_item": "category guide",
+   "note": "CAST FIRESCREEN & FIRESIDE SET, 11 bids, hammer from local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-01-26",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 385924",
+   "same_item": "category guide",
+   "note": "BRASS PEACOCK FIRE SCREEN, 4 bids; decorative brass single screen, hammer from local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 240 hammer (est 250-350)",
+   "currency": "GBP",
+   "aud_price": 470,
+   "date": "2016-03",
+   "venue": "Bellmans, UK, French gilt brass and mesh four-panel fire screen, late 19th c",
+   "url": "https://app.bellmans.co.uk/en/auction/2016MAR/917-a-french-gilt-brass-and-mesh-four-panel-fire-screen-late-19th-century-with-gilt-bronze-foliate-decoration-to-the-surmounts-139cm-wide-overall-67cm",
+   "same_item": "close",
+   "note": "Page opened. Old (2016) and UK; finer gilt brass. Rate approx 1 GBP = 1.96 AUD assumed, not checked."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 650 (est 100-150)",
+   "currency": "GBP",
+   "aud_price": 1270,
+   "date": "2025-11-11",
+   "venue": "Gorringe's, Lewes, Louis XVI style gilt bronze and iron mesh fireguard, late 19th c",
+   "url": "https://auction.gorringes.co.uk/auction-lot-detail/A-Louis-XVI-style-gilt-bronze-and-iron-mesh-fireguard,-late-&salelot=111125+++276+&refno=90180011",
+   "same_item": "category guide",
+   "note": "Page opened. Gilt bronze, higher quality, far above estimate; outlier for UK market. Premium inclusion unknown. Rate approx 1.95 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$485.14",
+   "currency": "AUD",
+   "aud_price": 485.14,
+   "date": "2026-10-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/287518996995",
+   "same_item": "partial",
+   "note": "1920s fire screen with griffin detail, brass, folding, BIN; different design, brass",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$291.08",
+   "currency": "AUD",
+   "aud_price": 291.08,
+   "date": "2026-10-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158290940088",
+   "same_item": "partial",
+   "note": "Victorian brass peacock fan fireplace screen, ornate; peacock fan type, lighter",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$350",
+   "currency": "AUD",
+   "aud_price": 350,
+   "date": "2026-08-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257670141926",
+   "same_item": "partial",
+   "note": "Ornate brass cameo peacock fireplace screen Victorian; different design",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for fire screen/folding/gilt/cast iron; Gowans API folding fire screen; WebSearch site:armitage (no Armitage hits) and gilt cast iron folding screen. eBay sold prices for 'gilt cast folding fire screen' would help, as would 1stdibs/Carters dealer asking prices. Not done: Invaluable, Carters past results. Local comps show most folding metal screens at $15-140 hammer in Tasmania; the ornate size and gilt finish put this at the upper end, but no direct local same-item sale found. | chrome: eBay AU sold: antique folding fire screen brass gilt (no cast iron gilt matches visible in extractor output; truncated)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: 'antique gilt cast iron folding fire screen' and 'ornate brass folding fireplace screen mesh'; also LiveAuctioneers 'gilt folding fire screen'",
+ "viewing_check": "Check whether it is cast iron or spelter/brass (magnet and weight), whether the gilt is original or repainted, hinges working, mesh intact, and any broken castings or missing feet.",
+ "rate_note": "GBP to AUD approx 1.95-1.96 assumed, not verified.",
+ "chrome_done": true
+}

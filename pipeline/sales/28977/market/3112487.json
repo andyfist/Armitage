@@ -1,7 +1,7 @@
 {
  "cdid": 3112487,
  "lot": 1459,
- "identification": "Two 5 lb grease tins: Mobilgrease (Vacuum Oil Company, Pegasus logo), heavily rusted with paint loss at base, and Golden Fleece 5 lb grease tin (ram in shield logo, blue/yellow), scuffed and faded. Both open-topped, no lids.",
+ "identification": "Two 5 lb grease tins: Mobilgrease (red/white, Pegasus, Vacuum Oil Company, rusty base) and Golden Fleece (ram logo, yellow/blue, scuffed), open-topped, no lids",
  "entries": [
   {
    "kind": "SOLD",
@@ -145,11 +145,36 @@
    "url": "https://www.gumtree.com.au/s-antiques-art-collectables/golden+fleece+grease+tin/k0c18297",
    "same_item": "close",
    "note": "Cinemascope 5lb tin asking; snippet only, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.00",
+   "currency": "AUD",
+   "aud_price": 95,
+   "date": "2026-10-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168704229419",
+   "same_item": "partial",
+   "note": "Mobil Oil Australia Mobilgrease 1 lb tin (smaller size, one tin)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$91.06",
+   "currency": "AUD",
+   "aud_price": 91.06,
+   "date": "2026-09-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/398357678625",
+   "same_item": "partial",
+   "note": "Lot of vintage Mobil advertising tins incl. Mobilgrease; mixed lot",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py (golden fleece, mobilgrease, grease tin, pegasus; pipeline/comps.py crashed with a TypeError); Gowans API (golden fleece, mobil, vacuum oil, 5 lb grease; no Mobilgrease or Golden Fleece grease hits); WebSearch for Golden Fleece 5 lb grease tin sold; opened three Burns & Co (Qld) result PDFs. Not done: Armitage past results, eBay sold (blocked). eBay sold for 'Golden Fleece 5lb grease tin' and 'Mobilgrease 5lb tin' would help.",
- "needs_chrome": true,
+ "searches_tried": "work/comps.py (golden fleece, mobilgrease, grease tin, pegasus; pipeline/comps.py crashed with a TypeError); Gowans API (golden fleece, mobil, vacuum oil, 5 lb grease; no Mobilgrease or Golden Fleece grease hits); WebSearch for Golden Fleece 5 lb grease tin sold; opened three Burns & Co (Qld) result PDFs. Not done: Armitage past results, eBay sold (blocked). eBay sold for 'Golden Fleece 5lb grease tin' and 'Mobilgrease 5lb tin' would help. | chrome: eBay AU sold: golden fleece grease tin (error pages x2), mobilgrease tin. No Golden Fleece sold results retrieved. | chrome: eBay AU sold: golden fleece grease tin (error pages x2), mobilgrease tin. No Golden Fleece sold results retrieved.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'Golden Fleece 5lb grease tin' and 'Mobilgrease 5lb tin Vacuum Oil'",
  "rate_note": "All prices AUD, rate 1.0.",
- "viewing_check": "Check the Golden Fleece tin for a Cinemascope or other scarce design and its condition; check the Mobil tin for Vacuum Oil era wording and rust holes; confirm lids and whether either is the Duo/Cinemascope type."
+ "viewing_check": "Check for lids, rust-through, dents, and sizes (5 lb). Golden Fleece tin is the more collectable Australian brand; look for any text and condition of the ram logo.",
+ "chrome_done": true
 }

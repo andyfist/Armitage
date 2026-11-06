@@ -1,12 +1,125 @@
-{"cdid":3111178,"lot":916,"identification":"Mixed lot: four vintage wristwatches (Citizen automatic-style steel, three gold-tone dress watches, makers unread) plus a loaded silver-coloured charm bracelet (about 25 charms) and loose charms. Silver content unconfirmed.","entries":[
-{"kind":"SOLD","price":"$130 hammer","aud_price":130,"currency":"AUD","date":"2026-04-26","venue":"Gowans Auctions, Hobart (lot 404682, CITIZEN 21 JEWEL AUTOMATIC WRISTWATCH)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=citizen+wristwatch&page%5Bnumber%5D=1","same_item":"close","note":"Local database hit, not opened on web. Single Citizen automatic, 9 bids; premium extra. Our Citizen model unknown, may be worth less."},
-{"kind":"SOLD","price":"$200 hammer","aud_price":200,"currency":"AUD","date":"2026-02-15","venue":"Gowans Auctions, Hobart (lot 390195, CITIZEN WRISTWATCH)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=citizen+wristwatch&page%5Bnumber%5D=1","same_item":"category guide","note":"Local database hit, 10 bids; model unknown, likely a better Citizen. Upper end only."},
-{"kind":"SOLD","price":"$20 hammer","aud_price":20,"currency":"AUD","date":"2026-02-23","venue":"Gowans Auctions, Hobart (lot 391887, 3 LADIES WRISTWATCHES TIMEX, CITIZEN & RITEX)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=citizen+wristwatch&page%5Bnumber%5D=1","same_item":"category guide","note":"Local database hit. Low end for mixed ordinary watches."},
-{"kind":"SOLD","price":"$24 hammer","aud_price":24,"currency":"AUD","date":"2025-11-03","venue":"Gowans Auctions, Hobart (lot 371969, CITIZEN & SWISS WRISTWATCH)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=citizen+wristwatch&page%5Bnumber%5D=1","same_item":"category guide","note":"Local database hit. Two ordinary watches."},
-{"kind":"SOLD","price":"$80 hammer","aud_price":80,"currency":"AUD","date":"2026-08-23","venue":"Gowans Auctions, Hobart (lot 432155, CHARM BRACELET INCL STERLING SILVER 12.6GM)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=charm+bracelet&page%5Bnumber%5D=1","same_item":"close","note":"Local database hit, 5 bids. Heavy curb-link charm bracelet, partly sterling. Our bracelet looks heavier with about 25 charms, weight unknown."},
-{"kind":"SOLD","price":"$130 hammer","aud_price":130,"currency":"AUD","date":"2026-07-05","venue":"Gowans Auctions, Hobart (lot 420900, CHARM BRACELET)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=charm+bracelet&page%5Bnumber%5D=1","same_item":"close","note":"Local database hit, 6 bids, material unstated."},
-{"kind":"SOLD","price":"$35-45 hammer (several)","aud_price":40,"currency":"AUD","date":"2026-03-30 to 2026-08-23","venue":"Gowans Auctions, Hobart (sterling charm bracelets, 8.7 to 12.5g, lots 432202, 399811, 399983)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=charm+bracelet&page%5Bnumber%5D=1","same_item":"category guide","note":"Local database hits. Light sterling charm bracelets sell about $20-45; typical $25-45."},
-{"kind":"SOLD","price":"$350 hammer","aud_price":350,"currency":"AUD","date":"2026-07-08","venue":"Gowans Auctions, Hobart (lot 422406, STERLING SILVER PANDORA BRACELET & CHARMS 75GM)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=charm+bracelet&page%5Bnumber%5D=1","same_item":"category guide","note":"Local database hit. Confirmed 75g sterling Pandora, much heavier and branded; ceiling only, not comparable."}
-],
-"searches_tried":"Local comps.py (pipeline and work) with charm bracelet silver (pipeline script errored), citizen automatic watch, citizen wristwatch, charm bracelet, sterling charm bracelet, wristwatches. No web searches run. eBay sold prices (Citizen model and charm bracelet weights) would help; no marks readable, so a web search gains little until marks are seen.","needs_chrome":false,"chrome_hint":"","rate_note":"All prices AUD; no conversion needed.",
-"viewing_check":"Check for 925 or STERLING marks and weigh the charm bracelet and loose charms (scrap silver value); check the yellow ingot charm for 9ct stamp; read Citizen model and movement (caseback number, automatic or hand-wind) and whether it runs; read makers on the three dress watches (any Omega, Rolex Tudor, Seiko would change things)."}
+{
+ "cdid": 3111178,
+ "lot": 916,
+ "identification": "Mixed lot: four vintage wristwatches (Citizen steel, three gold-tone dress watches) plus charm bracelet and loose charms",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "aud_price": 130,
+   "currency": "AUD",
+   "date": "2026-04-26",
+   "venue": "Gowans Auctions, Hobart (lot 404682, CITIZEN 21 JEWEL AUTOMATIC WRISTWATCH)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=citizen+wristwatch&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Local database hit, not opened on web. Single Citizen automatic, 9 bids; premium extra. Our Citizen model unknown, may be worth less."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$200 hammer",
+   "aud_price": 200,
+   "currency": "AUD",
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions, Hobart (lot 390195, CITIZEN WRISTWATCH)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=citizen+wristwatch&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Local database hit, 10 bids; model unknown, likely a better Citizen. Upper end only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20 hammer",
+   "aud_price": 20,
+   "currency": "AUD",
+   "date": "2026-02-23",
+   "venue": "Gowans Auctions, Hobart (lot 391887, 3 LADIES WRISTWATCHES TIMEX, CITIZEN & RITEX)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=citizen+wristwatch&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Local database hit. Low end for mixed ordinary watches."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$24 hammer",
+   "aud_price": 24,
+   "currency": "AUD",
+   "date": "2025-11-03",
+   "venue": "Gowans Auctions, Hobart (lot 371969, CITIZEN & SWISS WRISTWATCH)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=citizen+wristwatch&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Local database hit. Two ordinary watches."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "aud_price": 80,
+   "currency": "AUD",
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart (lot 432155, CHARM BRACELET INCL STERLING SILVER 12.6GM)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=charm+bracelet&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Local database hit, 5 bids. Heavy curb-link charm bracelet, partly sterling. Our bracelet looks heavier with about 25 charms, weight unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "aud_price": 130,
+   "currency": "AUD",
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart (lot 420900, CHARM BRACELET)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=charm+bracelet&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Local database hit, 6 bids, material unstated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35-45 hammer (several)",
+   "aud_price": 40,
+   "currency": "AUD",
+   "date": "2026-03-30 to 2026-08-23",
+   "venue": "Gowans Auctions, Hobart (sterling charm bracelets, 8.7 to 12.5g, lots 432202, 399811, 399983)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=charm+bracelet&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Local database hits. Light sterling charm bracelets sell about $20-45; typical $25-45."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$350 hammer",
+   "aud_price": 350,
+   "currency": "AUD",
+   "date": "2026-07-08",
+   "venue": "Gowans Auctions, Hobart (lot 422406, STERLING SILVER PANDORA BRACELET & CHARMS 75GM)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=charm+bracelet&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Local database hit. Confirmed 75g sterling Pandora, much heavier and branded; ceiling only, not comparable."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84.00",
+   "currency": "AUD",
+   "aud_price": 84,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407286150316",
+   "same_item": "partial",
+   "note": "Job lot 8 vintage wristwatches Citizen, Fossil, Timex, Seiko; no charm bracelet",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.69",
+   "currency": "AUD",
+   "aud_price": 53.69,
+   "date": "2026-08-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158215624808",
+   "same_item": "partial",
+   "note": "Bulk job lot 7 vintage dress watches (Seiko, Pierre Cardin etc); needing batteries",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline and work) with charm bracelet silver (pipeline script errored), citizen automatic watch, citizen wristwatch, charm bracelet, sterling charm bracelet, wristwatches. No web searches run. eBay sold prices (Citizen model and charm bracelet weights) would help; no marks readable, so a web search gains little until marks are seen. | chrome: eBay AU sold: job lot vintage wristwatches charm bracelet (AU only) | chrome: eBay AU sold: job lot vintage wristwatches charm bracelet (AU only)",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "rate_note": "All prices AUD; no conversion needed.",
+ "viewing_check": "Check watch faces for makers, whether the Citizen is automatic, and the charm bracelet for sterling 925 stamps.",
+ "chrome_done": true
+}

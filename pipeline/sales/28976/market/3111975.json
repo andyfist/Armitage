@@ -1,7 +1,7 @@
 {
  "cdid": 3111975,
  "lot": 1145,
- "identification": "Victorian-style wind-out extension dining table, rounded corners, moulded edge, baluster turned legs on brass castors, two leaves. Photos show a reddish brown timber that could be cedar or mahogany (not settled from photos). Seats about 10-12 at 241 cm. Gowans Hobart hammers for similar cedar extension tables are mostly $160-$260 with one $720; median of 17 extension table hits was $160 (premium extra).",
+ "identification": "Victorian wind-out extension dining table, 241cm, reddish timber (looks mahogany-ish in photo, cedar not confirmed), turned legs on castors.",
  "entries": [
   {
    "kind": "SOLD",
@@ -103,9 +103,10 @@
    "note": "Snippet only, unverified, different form (oval). Private asking price, not a price paid."
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) with cedar extension table, victorian extension table, cedar dining table, wind-out table (none over $300 in 2 years), cedar extension over $300 (only the $720). Gowans API cedar extension table (2 sold hits, already in database). One WebSearch for Tasmanian cedar wind-out sales: only Carters price guide pages (HTTP bot check, blocked, not bypassed) and Gumtree asking prices. Mahogany versus cedar matters little at Gowans, where mahogany wind-out tables sold $50-$260. eBay and Carters sold results or Lawsons/Leonard Joel archives would add Australian cedar evidence.",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (pipeline and work) with cedar extension table, victorian extension table, cedar dining table, wind-out table (none over $300 in 2 years), cedar extension over $300 (only the $720). Gowans API cedar extension table (2 sold hits, already in database). One WebSearch for Tasmanian cedar wind-out sales: only Carters price guide pages (HTTP bot check, blocked, not bypassed) and Gumtree asking prices. Mahogany versus cedar matters little at Gowans, where mahogany wind-out tables sold $50-$260. eBay and Carters sold results or Lawsons/Leonard Joel archives would add Australian cedar evidence. | chrome: eBay AU sold 'cedar extension dining table wind out' (error page); Carters price guide (bot check 'MeshAuth', skipped) | chrome: eBay AU sold 'cedar extension dining table wind out' (error page); Carters price guide (bot check 'MeshAuth', skipped)",
+ "needs_chrome": false,
  "chrome_hint": "Carters price guide: https://www.carters.com.au/index.cfm/index/12011-tables-large-dining-extending-australian-incl-cedar/ (sold cedar extension tables with 2+ leaves, note size and year)",
- "viewing_check": "Confirm timber is cedar (red-brown, open grain, scent, underside of leaves and inside the apron) versus mahogany or other. Wind the table out and check the mechanism and winder handle are present and both leaves fit and match in colour. Check leaf count and overall extended length, castors, any splits, repairs or veneer on the top, and whether the legs are original and solid.",
- "rate_note": "All AUD, no conversion. Gowans prices are hammer, premium (about 19.8%) extra."
+ "viewing_check": "Confirm timber (cedar vs mahogany), leaf count and winder/handle present, top veneer lifting, leg repairs, and that it can actually be moved.",
+ "rate_note": "All AUD, no conversion. Gowans prices are hammer, premium (about 19.8%) extra.",
+ "chrome_done": true
 }

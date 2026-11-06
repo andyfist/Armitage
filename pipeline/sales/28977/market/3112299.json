@@ -1,7 +1,7 @@
 {
  "cdid": 3112299,
  "lot": 1627,
- "identification": "Two black bakelite PMG-style 300-series magneto (crank) telephones plus a twin-gong painted wall bell and a small bell. Untested, grimy. Magnetos are less common than rotary dial but Gowans pairs of plain 300-series phones made only $25-75 hammer.",
+ "identification": "Two black bakelite PMG 300-series telephones (one with magneto crank) plus a twin-gong wall bell and small bell; untested.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,60 @@
    "url": "https://www.carters.com.au/index.cfm/index/1425-telephones-bakelite/",
    "same_item": "category guide",
    "note": "Whole bakelite phone category, not magneto; snippet only, page blocked by bot check. Not usable as a price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168800122843",
+   "same_item": "partial",
+   "note": "Single black bakelite PMG magneto hand-crank phone",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59",
+   "currency": "AUD",
+   "aud_price": 59,
+   "date": "2026-10-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/840008843569",
+   "same_item": "partial",
+   "note": "Single black bakelite PMG magneto hand-crank phone",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90",
+   "currency": "AUD",
+   "aud_price": 89.95,
+   "date": "2026-08-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/389511433854",
+   "same_item": "partial",
+   "note": "Single hand crank magneto PMG black bakelite phone",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$29",
+   "currency": "AUD",
+   "aud_price": 29,
+   "date": "2026-10-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168804543794",
+   "same_item": "partial",
+   "note": "Single bakelite magneto phone with generator ringer",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py: bakelite telephone, magneto, crank telephone, wall bell, telephone bell, fire bell, gong (pipeline/comps.py crashed on a None value). WebSearch: Armitage past results (nothing relevant), bakelite magneto PMG auction price, PMG magneto wall bell. Carters and vintagephones blocked by bot check. No verified sold price for a magneto crank phone found. eBay sold listings would settle it.",
- "needs_chrome": true,
+ "searches_tried": "work/comps.py: bakelite telephone, magneto, crank telephone, wall bell, telephone bell, fire bell, gong (pipeline/comps.py crashed on a None value). WebSearch: Armitage past results (nothing relevant), bakelite magneto PMG auction price, PMG magneto wall bell. Carters and vintagephones blocked by bot check. No verified sold price for a magneto crank phone found. eBay sold listings would settle it. | chrome: eBay AU sold: bakelite magneto telephone crank pmg | chrome: eBay AU sold: bakelite magneto telephone crank pmg",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold items: PMG magneto crank bakelite telephone 300 series; also 'telephone wall bell twin gong'",
- "viewing_check": "Check makers marks and dates under the phones and on the dial label (PMG, Ericsson, STC); confirm both are genuine magneto with generator and handsets match; check for cracks, missing parts and whether bells carry maker plates.",
- "rate_note": "All AUD, no conversion needed."
+ "viewing_check": "Photo shows only one phone clearly with a crank; confirm whether both are magneto, check cords, handsets, cracks and bell condition (two-gong bell is a separate item of value).",
+ "rate_note": "All AUD, no conversion needed.",
+ "chrome_done": true
 }

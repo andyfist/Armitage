@@ -1,7 +1,7 @@
 {
  "cdid": 3112510,
  "lot": 1482,
- "identification": "Railway signal/hand lamp with round reservoir base and etched broad arrow lens; Victorian-style, likely Australian state railways or PWD era, early to mid 20th century. Missing burner and fount, rusty, cobwebs. No maker or railway name visible in photos.",
+ "identification": "Square black-painted tin railway hand/signal lamp with oval lens (etched broad arrow-type mark) on round oval reservoir base; rusty, burner/fount missing, no maker visible",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,60 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=426469",
    "same_item": "close",
    "note": "Early 1900s railway signal lamp, black metal. Local database record, no web page opened. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$17.06",
+   "currency": "AUD",
+   "aud_price": 17.06,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327426599373",
+   "same_item": "partial",
+   "note": "Antique brass railway or carriage lamp, 4 bids; brass, smaller",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$75.27",
+   "currency": "AUD",
+   "aud_price": 75.27,
+   "date": "2026-10-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407293127179",
+   "same_item": "partial",
+   "note": "Pair of vintage railway signal/carriage lamps, 6 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$64",
+   "currency": "AUD",
+   "aud_price": 64,
+   "date": "2026-11-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/900052145341",
+   "same_item": "partial",
+   "note": "Vintage Adlake railway signal lamp, North American type; different maker",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$164.95",
+   "currency": "AUD",
+   "aud_price": 164.95,
+   "date": "2026-10-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407309434645",
+   "same_item": "partial",
+   "note": "Vintage brass Sherwoods British railway hand signal lamp, 1 bid; brass, more complete",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work and pipeline) on railway lamp, signal lamp, railway lantern, railway signal, lamp broad arrow; Gowans API search for railway signal lamp and lamp casing. No web search or eBay (closed). eBay sold listings for 'railway signal lamp' would help.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (work and pipeline) on railway lamp, signal lamp, railway lantern, railway signal, lamp broad arrow; Gowans API search for railway signal lamp and lamp casing. No web search or eBay (closed). eBay sold listings for 'railway signal lamp' would help. | chrome: eBay AU sold: railway signal lamp broad arrow (error pages x2); vintage railway signal lamp (success after retry)",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold: railway signal lamp broad arrow",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Look for a maker stamp, railway initials (VR, SAR, TGR, NSWGR) on the lamp body or base, and whether the burner and fount are really absent. Check the broad arrow lens is original."
+ "viewing_check": "Look for stamped railway name or initials on the top, base or burner (Victorian Railways, NSW, GWR, BR) as a named railway lamp is worth much more. Check the lens, whether the base separates, and rust holes.",
+ "chrome_done": true
 }

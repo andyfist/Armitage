@@ -1,9 +1,113 @@
-{"cdid":3112436,"lot":1716,"identification":"Hornby Railways (Margate, c.1974-78) Australian-outline electric set with VR B-class diesel and blue passenger cars (Spirit of Progress / Inter-Capital style, catalogue R.159/R.572/R.773 family), boxed, worn; plus boxed Bachmann Yard Boss (US N-scale-type starter set) and boxed Hornby Operating Royal Mail Coach, transformer, buildings, scenery.","entries":[
-{"kind":"SOLD","price":"$120","aud_price":120,"currency":"AUD","date":"2026-02-15","venue":"Gowans Auctions, Hobart","url":"gowans id 390619","same_item":"close","note":"HORNBY ELECTRIC TRAIN SET, 3 bids, hammer, premium extra. From local database, not opened. Outline/condition unknown."},
-{"kind":"SOLD","price":"$140","aud_price":140,"currency":"AUD","date":"2025-12-14","venue":"Gowans Auctions, Hobart","url":"gowans id 382471","same_item":"close","note":"HORNBY TRAIN SET, 3 bids, hammer. Database hit, not opened."},
-{"kind":"SOLD","price":"$80","aud_price":80,"currency":"AUD","date":"2026-04-13","venue":"Gowans Auctions, Hobart","url":"gowans id 402044","same_item":"close","note":"HORNBY PART TRAIN SET, 3 bids, hammer. Database hit."},
-{"kind":"SOLD","price":"$200","aud_price":200,"currency":"AUD","date":"2026-07-05","venue":"Gowans Auctions, Hobart","url":"gowans id 421550","same_item":"category guide","note":"Hornby Mainline 125 High Speed Train set, 7 bids, hammer. UK outline, higher end."},
-{"kind":"SOLD","price":"$55","aud_price":55,"currency":"AUD","date":"2026-07-05","venue":"Gowans Auctions, Hobart","url":"gowans id 421571","same_item":"category guide","note":"Bachmann Old Timer train set, hammer. Guide for Bachmann set value."},
-{"kind":"ASKING","price":"$250","aud_price":250,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Salvos Stores","url":"https://www.salvosstores.com.au/shop/p/hornby-railways-electric-train-set-freight-express/1569222","same_item":"category guide","note":"Used Hornby Railways Freight Express set, not VR outline. Snippet only (page blocked by security check). Asking price."},
-{"kind":"SOLD","price":"AU$145.50","aud_price":145.5,"currency":"AUD","date":"unknown","venue":"eBay (via search summary)","url":"https://www.hornbyguide.com/class_details.asp?classid=72","same_item":"category guide","note":"Lima VR B class loco B65 only, not Hornby. Snippet only, date and listing URL not seen, unverified."}
-],"searches_tried":"Local comps (work/comps.py: hornby train set, australian, victorian, royal mail, bachmann train set; pipeline/comps.py crashed with a NoneType error); Gowans API (no hits for hornby railways/victorian/australian); WebSearch for Armitage site, Hornby VR B class/Spirit of Progress sold, Bachmann Yard Boss sold. Carters (R.773 Spirit of Progress lot, sold, price behind subscription) and Salvos pages blocked. eBay sold prices for Hornby R.159/R.773 Australian sets would settle it. Rate: AUD only, no conversion.","needs_chrome":true,"chrome_hint":"eBay sold/completed: Hornby Railways Victorian Railways B class electric train set R.773 OR R.159 OR Spirit of Progress OO HO; also Carters archive for lot 843344 'Three Hornby model Railway sets including R.773 Spirit of Progress' (signed-in price).","viewing_check":"Check the set number on the Hornby box end and that the B-class loco, 3-4 blue cars and track are all present; test loco runs on the transformer; check Royal Mail coach box is complete. Yard Boss is likely N-scale, confirm contents and controller."}
+{
+ "cdid": 3112436,
+ "lot": 1716,
+ "identification": "Boxed Hornby Railways electric set with blue VR diesel and passenger cars (Spirit of Progress style), boxed Bachmann Yard Boss set, plus box of Hornby accessories, transformer, buildings, catalogue",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$120",
+   "aud_price": 120,
+   "currency": "AUD",
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 390619",
+   "same_item": "close",
+   "note": "HORNBY ELECTRIC TRAIN SET, 3 bids, hammer, premium extra. From local database, not opened. Outline/condition unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$140",
+   "aud_price": 140,
+   "currency": "AUD",
+   "date": "2025-12-14",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 382471",
+   "same_item": "close",
+   "note": "HORNBY TRAIN SET, 3 bids, hammer. Database hit, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80",
+   "aud_price": 80,
+   "currency": "AUD",
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 402044",
+   "same_item": "close",
+   "note": "HORNBY PART TRAIN SET, 3 bids, hammer. Database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$200",
+   "aud_price": 200,
+   "currency": "AUD",
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 421550",
+   "same_item": "category guide",
+   "note": "Hornby Mainline 125 High Speed Train set, 7 bids, hammer. UK outline, higher end."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55",
+   "aud_price": 55,
+   "currency": "AUD",
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 421571",
+   "same_item": "category guide",
+   "note": "Bachmann Old Timer train set, hammer. Guide for Bachmann set value."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$250",
+   "aud_price": 250,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Salvos Stores",
+   "url": "https://www.salvosstores.com.au/shop/p/hornby-railways-electric-train-set-freight-express/1569222",
+   "same_item": "category guide",
+   "note": "Used Hornby Railways Freight Express set, not VR outline. Snippet only (page blocked by security check). Asking price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$145.50",
+   "aud_price": 145.5,
+   "currency": "AUD",
+   "date": "unknown",
+   "venue": "eBay (via search summary)",
+   "url": "https://www.hornbyguide.com/class_details.asp?classid=72",
+   "same_item": "category guide",
+   "note": "Lima VR B class loco B65 only, not Hornby. Snippet only, date and listing URL not seen, unverified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$324.30",
+   "currency": "AUD",
+   "aud_price": 324.3,
+   "date": "2026-10-20",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/206615332559",
+   "same_item": "yes",
+   "note": "Vintage Hornby Railways electric train set Spirit of Progress R773; condition/completeness not checked, this lot also has Bachmann set and extras",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$101.06",
+   "currency": "AUD",
+   "aud_price": 101.06,
+   "date": "2026-08-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/188808571582",
+   "same_item": "partial",
+   "note": "Two VR Spirit of Progress coaches only",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "Local comps (work/comps.py: hornby train set, australian, victorian, royal mail, bachmann train set; pipeline/comps.py crashed with a NoneType error); Gowans API (no hits for hornby railways/victorian/australian); WebSearch for Armitage site, Hornby VR B class/Spirit of Progress sold, Bachmann Yard Boss sold. Carters (R.773 Spirit of Progress lot, sold, price behind subscription) and Salvos pages blocked. eBay sold prices for Hornby R.159/R.773 Australian sets would settle it. Rate: AUD only, no conversion. | chrome: eBay AU sold: hornby railways victorian railways train set (not same item), hornby spirit of progress train set | chrome: eBay AU sold: hornby railways victorian railways train set (not same item), hornby spirit of progress train set",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold/completed: Hornby Railways Victorian Railways B class electric train set R.773 OR R.159 OR Spirit of Progress OO HO; also Carters archive for lot 843344 'Three Hornby model Railway sets including R.773 Spirit of Progress' (signed-in price).",
+ "viewing_check": "Check box label for set number (R773/R159), that the blue diesel and all four coaches are present and run, track and transformer included, and whether the Yard Boss set is complete.",
+ "chrome_done": true
+}

@@ -1,12 +1,122 @@
-{"cdid":3112288,"lot":1616,"identification":"Dawn 5SP 5 inch (125mm) engineer's bench vice, Australian made cast iron, repainted green, timber jaw facings, slide appears complete.","entries":[
-{"kind":"SOLD","price":"$80 hammer","currency":"AUD","aud_price":80,"date":"2025-12-01","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dawn%205sp%20vice&page%5Bnumber%5D=1 (lot id 379515)","same_item":"yes","note":"DAWN 5\" 5SP VICE, 5 bids. Database record; condition not seen. Premium extra."},
-{"kind":"SOLD","price":"$80 hammer","currency":"AUD","aud_price":80,"date":"2026-02-01","venue":"Gowans Auctions, Hobart","url":"gowans id 388193","same_item":"close","note":"DAWN BENCH VICE, 6 bids, size not stated."},
-{"kind":"SOLD","price":"$55 hammer","currency":"AUD","aud_price":55,"date":"2026-01-26","venue":"Gowans Auctions, Hobart","url":"gowans id 386655","same_item":"close","note":"DAWN BENCH VICE, 9 bids, size not stated."},
-{"kind":"SOLD","price":"$35 hammer","currency":"AUD","aud_price":35,"date":"2026-04-13","venue":"Gowans Auctions, Hobart","url":"gowans id 402518","same_item":"close","note":"DAWN BENCH VICE, 6 bids, size not stated."},
-{"kind":"SOLD","price":"$60 hammer","currency":"AUD","aud_price":60,"date":"2026-02-01","venue":"Gowans Auctions, Hobart","url":"gowans id 387888","same_item":"close","note":"DAWN 4 inch bench vice, 13 bids; smaller."},
-{"kind":"SOLD","price":"$65 hammer","currency":"AUD","aud_price":65,"date":"2026-10-04","venue":"Gowans Auctions, Hobart","url":"gowans id 442730","same_item":"close","note":"DAWN VICE, 5 bids."},
-{"kind":"SOLD","price":"$140 hammer","currency":"AUD","aud_price":140,"date":"2026-09-20","venue":"Gowans Auctions, Hobart","url":"gowans id 439600","same_item":"close","note":"LARGE DAWN VICE, 12 bids; likely bigger than 5 inch."},
-{"kind":"SOLD","price":"$55 hammer","currency":"AUD","aud_price":55,"date":"2026-03-16","venue":"Gowans Auctions, Hobart","url":"gowans id 397855","same_item":"close","note":"LARGE DAWN VICE, 5 bids."},
-{"kind":"ASKING","price":"AU$317 (Dawn 5SP) and AU$420 (restored 5 inch)","currency":"AUD","aud_price":317,"date":"live, seen 2026-11-06","venue":"Retail/classified listings via search","url":"https://picclick.com.au/Dawn-Vice-5-RESTORED-284742602774.html","same_item":"yes","note":"Snippet only, unverified. Restored retail asking, not paid."},
-{"kind":"UNSOLD","price":"AU$150 start, no bids","currency":"AUD","aud_price":150,"date":"2019-06-05","venue":"eBay AU","url":"https://www.ebay.com.au/itm/DAWN-125mm-5-INCH-BENCH-VICE-MADE-IN-AUSTRALIA-/133067403681","same_item":"yes","note":"Snippet only; old and unverified. Shows $150 start did not attract bids."}
-],"searches_tried":"pipeline and work comps.py (dawn vice, bench vice, 5sp, dawn 5), Gowans API 'dawn 5sp vice', WebSearch Dawn 5 inch bench vice sold auction. Only one search run as item is a common low-value tool. eBay sold would settle it. Rate: AUD only, no conversion. Gowans hammer excludes premium.","needs_chrome":false,"chrome_hint":"eBay AU sold: dawn 5sp vice","viewing_check":"Check jaws are not cracked, screw and nut not worn, slide runs smoothly and the swivel base (if any) is intact."}
+{
+ "cdid": 3112288,
+ "lot": 1616,
+ "identification": "Dawn 5SP 5 inch engineer's bench vice, Australian made, repainted green, timber jaw liners; photo shows DAWN and 5SP cast marks",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2025-12-01",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=dawn%205sp%20vice&page%5Bnumber%5D=1 (lot id 379515)",
+   "same_item": "yes",
+   "note": "DAWN 5\" 5SP VICE, 5 bids. Database record; condition not seen. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-02-01",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 388193",
+   "same_item": "close",
+   "note": "DAWN BENCH VICE, 6 bids, size not stated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-01-26",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 386655",
+   "same_item": "close",
+   "note": "DAWN BENCH VICE, 9 bids, size not stated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 402518",
+   "same_item": "close",
+   "note": "DAWN BENCH VICE, 6 bids, size not stated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-02-01",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 387888",
+   "same_item": "close",
+   "note": "DAWN 4 inch bench vice, 13 bids; smaller."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 442730",
+   "same_item": "close",
+   "note": "DAWN VICE, 5 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$140 hammer",
+   "currency": "AUD",
+   "aud_price": 140,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 439600",
+   "same_item": "close",
+   "note": "LARGE DAWN VICE, 12 bids; likely bigger than 5 inch."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-03-16",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 397855",
+   "same_item": "close",
+   "note": "LARGE DAWN VICE, 5 bids."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$317 (Dawn 5SP) and AU$420 (restored 5 inch)",
+   "currency": "AUD",
+   "aud_price": 317,
+   "date": "live, seen 2026-11-06",
+   "venue": "Retail/classified listings via search",
+   "url": "https://picclick.com.au/Dawn-Vice-5-RESTORED-284742602774.html",
+   "same_item": "yes",
+   "note": "Snippet only, unverified. Restored retail asking, not paid."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "AU$150 start, no bids",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2019-06-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/DAWN-125mm-5-INCH-BENCH-VICE-MADE-IN-AUSTRALIA-/133067403681",
+   "same_item": "yes",
+   "note": "Snippet only; old and unverified. Shows $150 start did not attract bids."
+  }
+ ],
+ "searches_tried": "pipeline and work comps.py (dawn vice, bench vice, 5sp, dawn 5), Gowans API 'dawn 5sp vice', WebSearch Dawn 5 inch bench vice sold auction. Only one search run as item is a common low-value tool. eBay sold would settle it. Rate: AUD only, no conversion. Gowans hammer excludes premium. | chrome: eBay AU sold: dawn 5sp vice; dawn bench vice (both eBay error page, throttled). Nothing found. | chrome: eBay AU sold: dawn 5sp vice; dawn bench vice (both eBay error page, throttled). Nothing found.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold: dawn 5sp vice",
+ "viewing_check": "Wind the screw through full travel, check for jaw play, cracks in the body or base, and that the swivel base and slide are intact.",
+ "chrome_done": true
+}

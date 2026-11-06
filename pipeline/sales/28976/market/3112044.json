@@ -1,7 +1,80 @@
-{"cdid":3112044,"lot":1216,"identification":"Westinghouse WVE614SC 60cm stainless electric built-in oven (RRP about $899) plus a black 4-zone ceramic cooktop with knobs, probably a Westinghouse WHC64x series (not confirmed). Catalogue says UNUSED, not tested. Oven accessories still in carton.","entries":[
-{"kind":"SOLD","price":"$180 hammer","currency":"AUD","aud_price":180,"date":"2026-07-05","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/ (gowans id 422034)","same_item":"close","note":"Westinghouse 110cm elevated oven with separate grill and 4 zone cooktop WDE132WC-L, in box, 2 bids. Different model, similar pairing. Premium extra. Local database result."},
-{"kind":"SOLD","price":"$65 hammer","currency":"AUD","aud_price":65,"date":"2025-11-24","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/ (gowans id 378232)","same_item":"close","note":"Westinghouse induction cooktop, 4 bids. Cooktop only, condition unknown. Premium extra. Local database result."},
-{"kind":"ASKING","price":"$418 (RRP $899; also $481)","currency":"AUD","aud_price":418,"date":"live, seen 2026-11-06","venue":"Home Clearance / Appliances Online clearance","url":"https://clearance.appliancesonline.com.au/p/westinghouse-60cm-electric-builtin-oven-wve614sc-0006208506","same_item":"yes","note":"Page opened. Same model, ex-display with rear panel dents, needs hardwiring, no power cable, out of stock. Asking price only."},
-{"kind":"ASKING","price":"$384 lowest (June 2026 snapshot)","currency":"AUD","aud_price":384,"date":"seen 2026-11-06 (price updated 8 Jun 2026)","venue":"BuyWisely / Home Clearance","url":"https://buywisely.com.au/au/product/westinghouse-whc643bc-60cm-ceramic-cooktop","same_item":"close","note":"Snippet only, not verified. New Westinghouse WHC643BC 60cm ceramic cooktop; other retailers $599-$845. Cooktop in lot is only similar, model unread."},
-{"kind":"ASKING","price":"No price (unavailable)","currency":"AUD","aud_price":0,"date":"live, seen 2026-11-06","venue":"Appliances Online","url":"https://www.appliancesonline.com.au/product/westinghouse-wve614sc-60cm-electric-built-in-oven","same_item":"yes","note":"Page opened. WVE614SC listed as not available, so likely a discontinued model. No price shown."}],
-"searches_tried":"comps.py (pipeline version crashed on a None field; work/comps.py worked) for westinghouse oven and cooktop; Gowans API for westinghouse wall oven, WVE614SC, westinghouse cooktop; WebSearch for WVE614SC price, site:armitage Westinghouse wall oven (no Armitage results), WHC643BC cooktop price; fetched two retailer pages. No Gowans or Armitage past result for the WVE614SC itself. eBay sold prices for 'Westinghouse WVE614SC' and used Westinghouse cooktop would settle resale value.","needs_chrome":true,"chrome_hint":"eBay AU sold listings: Westinghouse WVE614SC oven; also Westinghouse ceramic cooktop WHC643BC (Sold items, Australia). Also Facebook Marketplace / Gumtree Tasmania for used wall ovens.","rate_note":"All prices AUD, no conversion. Gowans hammer excludes premium.","viewing_check":"Photograph the oven and cooktop rating plates (model and serial) to confirm WVE614SC and the cooktop model; check the oven is truly unused (accessories sealed), glass for chips, and that a hardwire lead or plug is present."}
+{
+ "cdid": 3112044,
+ "lot": 1216,
+ "identification": "Westinghouse 60cm stainless built-in electric wall oven (three knobs, stickers still on door, looks unused) plus cooktop per catalogue; only the oven shown in photo 1",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$180 hammer",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-07-05",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/ (gowans id 422034)",
+   "same_item": "close",
+   "note": "Westinghouse 110cm elevated oven with separate grill and 4 zone cooktop WDE132WC-L, in box, 2 bids. Different model, similar pairing. Premium extra. Local database result."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2025-11-24",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/ (gowans id 378232)",
+   "same_item": "close",
+   "note": "Westinghouse induction cooktop, 4 bids. Cooktop only, condition unknown. Premium extra. Local database result."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$418 (RRP $899; also $481)",
+   "currency": "AUD",
+   "aud_price": 418,
+   "date": "live, seen 2026-11-06",
+   "venue": "Home Clearance / Appliances Online clearance",
+   "url": "https://clearance.appliancesonline.com.au/p/westinghouse-60cm-electric-builtin-oven-wve614sc-0006208506",
+   "same_item": "yes",
+   "note": "Page opened. Same model, ex-display with rear panel dents, needs hardwiring, no power cable, out of stock. Asking price only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$384 lowest (June 2026 snapshot)",
+   "currency": "AUD",
+   "aud_price": 384,
+   "date": "seen 2026-11-06 (price updated 8 Jun 2026)",
+   "venue": "BuyWisely / Home Clearance",
+   "url": "https://buywisely.com.au/au/product/westinghouse-whc643bc-60cm-ceramic-cooktop",
+   "same_item": "close",
+   "note": "Snippet only, not verified. New Westinghouse WHC643BC 60cm ceramic cooktop; other retailers $599-$845. Cooktop in lot is only similar, model unread."
+  },
+  {
+   "kind": "ASKING",
+   "price": "No price (unavailable)",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-06",
+   "venue": "Appliances Online",
+   "url": "https://www.appliancesonline.com.au/product/westinghouse-wve614sc-60cm-electric-built-in-oven",
+   "same_item": "yes",
+   "note": "Page opened. WVE614SC listed as not available, so likely a discontinued model. No price shown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$345.00",
+   "currency": "AUD",
+   "aud_price": 345,
+   "date": "2026-09-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/178119121607",
+   "same_item": "category guide",
+   "note": "Brand new Kogan 60cm electric built-in oven, BIN, other brand, new retail-style pricing only; budget new ovens sell A$285-450 on eBay AU",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed on a None field; work/comps.py worked) for westinghouse oven and cooktop; Gowans API for westinghouse wall oven, WVE614SC, westinghouse cooktop; WebSearch for WVE614SC price, site:armitage Westinghouse wall oven (no Armitage results), WHC643BC cooktop price; fetched two retailer pages. No Gowans or Armitage past result for the WVE614SC itself. eBay sold prices for 'Westinghouse WVE614SC' and used Westinghouse cooktop would settle resale value. | chrome: eBay AU sold: westinghouse wall oven WVE614SC (60 results, all parts/seals/knobs, no whole ovens); westinghouse built in oven 60cm (only other brands, new). No used Westinghouse oven sold comps found. | chrome: eBay AU sold: westinghouse wall oven WVE614SC (60 results, all parts/seals/knobs, no whole ovens); westinghouse built in oven 60cm (only other brands, new). No used Westinghouse oven sold comps found.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: Westinghouse WVE614SC oven; also Westinghouse ceramic cooktop WHC643BC (Sold items, Australia). Also Facebook Marketplace / Gumtree Tasmania for used wall ovens.",
+ "rate_note": "All prices AUD, no conversion. Gowans hammer excludes premium.",
+ "viewing_check": "Confirm model plate WVE614SC, unused with no transit damage, cooktop model and that glass is unbroken; untested so electrical function unknown.",
+ "chrome_done": true
+}

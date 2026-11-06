@@ -1,7 +1,7 @@
 {
  "cdid": 3111154,
  "lot": 892,
- "identification": "Pair of Tahitian-type dark grey-green round pearls, about 12 mm, on articulated white metal bar drops with small white stones, butterfly backs. Lot description states 18CT WHITE GOLD (title truncated); no hallmark visible in photo, so metal and stones unverified.",
+ "identification": "Pair of ~12mm dark grey-green Tahitian-type round pearls on articulated white metal bar drops with small stones, butterfly backs; metal not hallmark-verified in photo",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,12 +68,49 @@
    "url": "https://shop.glitters.com/products/18k-white-gold-tahitian-pearl-and-diamond-earrings",
    "same_item": "category guide",
    "note": "Snippet only, not verified. Rate about 1 USD = 1.52 AUD (assumed). New US retail, upper guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$476.12",
+   "currency": "AUD",
+   "aud_price": 476.12,
+   "date": "2026-10-26",
+   "venue": "eBay AU converted, listed from United States",
+   "url": "https://www.ebay.com.au/itm/257716107250",
+   "same_item": "partial",
+   "note": "Tahitian black pearl studs 18k gold 12mm; studs not drops, likely new/dealer",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$352.21",
+   "currency": "AUD",
+   "aud_price": 352.21,
+   "date": "2026-11-03",
+   "venue": "eBay AU converted, listed from United Kingdom",
+   "url": "https://www.ebay.com.au/itm/287616492007",
+   "same_item": "partial",
+   "note": "Pre-owned Tahitian pearl diamond studs 18K 750 gold 1.51g, best offer accepted; smaller pearls likely",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$749.03",
+   "currency": "AUD",
+   "aud_price": 749.03,
+   "date": "2026-04-26",
+   "venue": "eBay AU converted, listed from United States",
+   "url": "https://www.ebay.com.au/itm/383654302213",
+   "same_item": "partial",
+   "note": "14k white gold diamond and Tahitian pearl hook earrings; different style",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work) for tahitian pearl earrings, black pearl earrings, tahitian pearl 18ct; pipeline comps.py errored (TypeError); Gowans API for 4 query variants (2 sold hits); WebSearch x2 (retail only, no Australian auction results for 18ct Tahitian pearl drops); WebFetch Everts and Stelios. eBay sold listings would settle it best; no Armitage past-result search done. Rate is assumed, not looked up.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (work) for tahitian pearl earrings, black pearl earrings, tahitian pearl 18ct; pipeline comps.py errored (TypeError); Gowans API for 4 query variants (2 sold hits); WebSearch x2 (retail only, no Australian auction results for 18ct Tahitian pearl drops); WebFetch Everts and Stelios. eBay sold listings would settle it best; no Armitage past-result search done. Rate is assumed, not looked up. | chrome: eBay AU sold: tahitian pearl earrings gold (several error pages from throttling; 18ct-specific query errored); Australia-only filter not applied | chrome: eBay AU sold: tahitian pearl earrings gold (several error pages from throttling; 18ct-specific query errored); Australia-only filter not applied",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: Tahitian pearl 18ct white gold diamond drop earrings 12mm, Australia, sold items",
- "viewing_check": "Look for a 750 or 18ct stamp on the posts, butterflies and bars (loupe), test with acid or XRF if allowed, confirm the stones are real diamonds, measure the pearls (12mm or more), check pearl nacre thickness, drill holes and blemishes, and that the colour is natural green-grey not dyed.",
+ "viewing_check": "Look for 750 or 18K stamp on the posts and backs, test pearl size (12mm) and surface lustre/blemishes, check whether the white stones are diamonds, and weigh if possible.",
  "rate_note": "USD to AUD about 1.52 assumed; AUD entries unchanged.",
- "note": "Local Tasmanian sold evidence is thin: genuine Tahitian pearl pairs have sold $55 to $100 hammer, but those were smaller or on 9ct. A 12mm pair in 18ct with diamonds would plausibly sit above that, but no sold comp confirms it."
+ "note": "Local Tasmanian sold evidence is thin: genuine Tahitian pearl pairs have sold $55 to $100 hammer, but those were smaller or on 9ct. A 12mm pair in 18ct with diamonds would plausibly sit above that, but no sold comp confirms it.",
+ "chrome_done": true
 }

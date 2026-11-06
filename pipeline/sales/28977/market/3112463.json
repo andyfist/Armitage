@@ -1,7 +1,7 @@
 {
  "cdid": 3112463,
  "lot": 1743,
- "identification": "ITM 16mm pedestal floor drill press, plate MODEL TD131GF (photo plate partly legible), 240V 550W, blue head cover, photos confirm.",
+ "identification": "ITM 16mm 12-speed floor-standing pedestal drill press, blue head cover and base, 240V motor, appears complete",
  "entries": [
   {
    "kind": "SOLD",
@@ -70,9 +70,10 @@
    "note": "New retail for the related 16 speed ITM model; TD131GF 12 speed not found. Snippet only, not verified."
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with several word sets; Gowans API pedestal drill and ITM drill; WebSearch Armitage site (nothing); WebSearch ITM TD131GF retail. eBay sold prices would help but not essential.",
+ "searches_tried": "comps.py (pipeline and work) with several word sets; Gowans API pedestal drill and ITM drill; WebSearch Armitage site (nothing); WebSearch ITM TD131GF retail. eBay sold prices would help but not essential. | chrome: eBay AU sold: itm pedestal drill press 16mm, ITM pedestal drill, itm drill press pedestal (all returned eBay error pages after 6-30s waits). Nothing found.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: ITM pedestal drill press 16mm",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Run the motor, check chuck runout, quill spring, belt and speed change, and that the plate model reads TD131GF."
+ "viewing_check": "Check model plate (TD131GF), chuck and quill run-out, table lock and column rack, run it, and note missing chuck key or guard.",
+ "chrome_done": true
 }

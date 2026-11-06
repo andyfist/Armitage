@@ -1,7 +1,7 @@
 {
  "cdid": 3112371,
  "lot": 1648,
- "identification": "Fiskars X-series splitting axe (likely X25/X27, composite handle, orange grip) plus generic 24 inch style bolt cutters, both rusty.",
+ "identification": "Fiskars X-series splitting axe (orange/black composite handle, X27-style size) plus 24-30in bolt cutters, both rusty",
  "entries": [
   {
    "kind": "SOLD",
@@ -59,9 +59,10 @@
    "note": "Snippet only, years old, new retail."
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for fiskars axe, splitting axe, axe, bolt cutters; Gowans API for fiskars, splitting axe, splitting maul (no same-item sold except tool tubs); WebSearch Fiskars X27 price Australia. eBay sold prices (closed) would settle it but low value item.",
+ "searches_tried": "comps.py (pipeline and work) for fiskars axe, splitting axe, axe, bolt cutters; Gowans API for fiskars, splitting axe, splitting maul (no same-item sold except tool tubs); WebSearch Fiskars X27 price Australia. eBay sold prices (closed) would settle it but low value item. | chrome: eBay AU sold: fiskars x25 splitting axe; fiskars splitting axe; fiskars x27 axe (all three hit eBay Error Page after long waits, no data).",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Read the model on the handle (X25, X27 or X17) and check the edge for chips or heavy pitting. Bolt cutters are generic; nothing more needed.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check axe model on the head (X25/X27/X21), head rust and handle cracks; bolt cutters jaw alignment and cutting edge.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

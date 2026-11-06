@@ -1,11 +1,137 @@
-{"cdid":3112222,"lot":1394,"identification":"Sony TC-630 Stereo Center solid state quarter-track reel-to-reel with built-in amp, matching pair of detachable speakers and a photocopy service manual. No power cord, untested. Common model; US retail 1970s about USD 450.","entries":[
-{"kind":"SOLD","price":"$55 hammer","currency":"AUD","aud_price":55,"date":"2026-02-15","venue":"Gowans (Hobart)","url":"gowans id 391317","same_item":"close","note":"SONY STEREO TAPE RECORDER & REEL-TO-REEL - AS IS, 3 bids. Model unknown, as-is. Local database hit; premium extra."},
-{"kind":"SOLD","price":"$40 hammer","currency":"AUD","aud_price":40,"date":"2025-11-10","venue":"Gowans (Hobart)","url":"gowans id 374785","same_item":"close","note":"SONY REEL TO REEL ETC, 2 bids. Model unknown. Local database hit; premium extra."},
-{"kind":"SOLD","price":"$160 hammer","currency":"AUD","aud_price":160,"date":"2026-03-01","venue":"Gowans (Hobart)","url":"gowans id 393752","same_item":"category guide","note":"Akai 1730D surround reel deck with 22 tapes, 8 bids. Better deck, category guide only."},
-{"kind":"SOLD","price":"$120 hammer","currency":"AUD","aud_price":120,"date":"2026-06-28","venue":"Gowans (Hobart)","url":"gowans id 419796","same_item":"category guide","note":"Tandberg reel to reel player and tapes, 2 bids. Category guide only."},
-{"kind":"SOLD","price":"$60 hammer","currency":"AUD","aud_price":60,"date":"2025-12-08","venue":"Gowans (Hobart)","url":"gowans id 381375","same_item":"category guide","note":"National 4 track solid state reel to reel recorder, 3 bids."},
-{"kind":"ASKING","price":"USD 175 plus USD 69 shipping","currency":"USD","aud_price":266,"date":"live, seen 2026-11-06","venue":"eBay (TC-630D deck, no speakers)","url":"https://www.ebay.com/p/2097404348","same_item":"close","note":"Snippet only, not verified. Deck-only variant, asking. Rate used 1 USD = 1.52 AUD (assumed)."},
-{"kind":"ASKING","price":"USD 175-200 typical, up to USD 480 serviced","currency":"USD","aud_price":266,"date":"live, seen 2026-11-06","venue":"tryrelic.app value guide","url":"https://www.tryrelic.app/antiques/sony-tc-630-reel-to-reel-tape-recorder","same_item":"category guide","note":"Snippet only. Aggregated guide, not a verified sale. Rate 1.52 (low end shown)."},
-{"kind":"ASKING","price":"no price seen","currency":"USD","aud_price":0,"date":"live, seen 2026-11-06","venue":"EBTH Modern Living sale, TC-630 with speakers and tapes","url":"https://www.ebth.com/items/14268347-sony-stereo-center-tc-630-tape-recorder-player-with-speakers-and-tapes","same_item":"yes","note":"Page opened: powered on but untested, corroded areas, stains. No sold price shown. aud_price 0 means unknown."}
-],
-"searches_tried":"comps.py (pipeline version crashed with a TypeError; work/comps.py sony reel / sony tc / reel to reel tape), Gowans API sony tc-630 (no TC-630 hits), WebSearch for Sony TC-630 sold/for sale and site:armitage (no Armitage results). Sony reel decks at Gowans sold $40-55 hammer. eBay sold TC-630 prices (with speakers, no cord) would settle it, but eBay is closed to us.","needs_chrome":true,"chrome_hint":"eBay sold listings: Sony TC-630 (with speakers) and Sony TC-630 no power cord / for parts, last 90 days, Australia and US","viewing_check":"Check serial/badge is TC-630 (not 630D), both speakers present with leads, lid, condition of belts and pinch roller (perished rubber), whether the transport turns by hand, and the mains inlet type to see whether a cord is easy to source.","rate_note":"1 USD = 1.52 AUD assumed; not looked up."}
+{
+ "cdid": 3112222,
+ "lot": 1394,
+ "identification": "Sony TC-630 stereo reel-to-reel with speakers, no power cord, untested",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-02-15",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 391317",
+   "same_item": "close",
+   "note": "SONY STEREO TAPE RECORDER & REEL-TO-REEL - AS IS, 3 bids. Model unknown, as-is. Local database hit; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2025-11-10",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 374785",
+   "same_item": "close",
+   "note": "SONY REEL TO REEL ETC, 2 bids. Model unknown. Local database hit; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-03-01",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 393752",
+   "same_item": "category guide",
+   "note": "Akai 1730D surround reel deck with 22 tapes, 8 bids. Better deck, category guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120 hammer",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-06-28",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 419796",
+   "same_item": "category guide",
+   "note": "Tandberg reel to reel player and tapes, 2 bids. Category guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2025-12-08",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 381375",
+   "same_item": "category guide",
+   "note": "National 4 track solid state reel to reel recorder, 3 bids."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 175 plus USD 69 shipping",
+   "currency": "USD",
+   "aud_price": 266,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay (TC-630D deck, no speakers)",
+   "url": "https://www.ebay.com/p/2097404348",
+   "same_item": "close",
+   "note": "Snippet only, not verified. Deck-only variant, asking. Rate used 1 USD = 1.52 AUD (assumed)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 175-200 typical, up to USD 480 serviced",
+   "currency": "USD",
+   "aud_price": 266,
+   "date": "live, seen 2026-11-06",
+   "venue": "tryrelic.app value guide",
+   "url": "https://www.tryrelic.app/antiques/sony-tc-630-reel-to-reel-tape-recorder",
+   "same_item": "category guide",
+   "note": "Snippet only. Aggregated guide, not a verified sale. Rate 1.52 (low end shown)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "no price seen",
+   "currency": "USD",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-06",
+   "venue": "EBTH Modern Living sale, TC-630 with speakers and tapes",
+   "url": "https://www.ebth.com/items/14268347-sony-stereo-center-tc-630-tape-recorder-player-with-speakers-and-tapes",
+   "same_item": "yes",
+   "note": "Page opened: powered on but untested, corroded areas, stains. No sold price shown. aud_price 0 means unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$69.99",
+   "currency": "AUD",
+   "aud_price": 69.99,
+   "date": "2026-11-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128155171495",
+   "same_item": "yes",
+   "note": "Sony TC-630 Stereo Center, not tested; speakers not confirmed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$222.19",
+   "currency": "AUD",
+   "aud_price": 222.19,
+   "date": "2026-10-25",
+   "venue": "eBay AU (converted, listed from US)",
+   "url": "https://www.ebay.com.au/itm/198663123091",
+   "same_item": "partial",
+   "note": "TC-630 three head deck, untested",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$315.76",
+   "currency": "AUD",
+   "aud_price": 315.76,
+   "date": "2026-11-06",
+   "venue": "eBay AU (converted, listed from US)",
+   "url": "https://www.ebay.com.au/itm/178506440398",
+   "same_item": "partial",
+   "note": "TC-630 with 2 mics and 2 speakers, as tested/working per title; import postage from US",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed with a TypeError; work/comps.py sony reel / sony tc / reel to reel tape), Gowans API sony tc-630 (no TC-630 hits), WebSearch for Sony TC-630 sold/for sale and site:armitage (no Armitage results). Sony reel decks at Gowans sold $40-55 hammer. eBay sold TC-630 prices (with speakers, no cord) would settle it, but eBay is closed to us. | chrome: eBay AU sold: sony tc-630 | chrome: eBay AU sold: sony tc-630",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold listings: Sony TC-630 (with speakers) and Sony TC-630 no power cord / for parts, last 90 days, Australia and US",
+ "viewing_check": "Check speakers are present, belts/pinch roller, any mains lead socket type and corrosion; photograph the model plate.",
+ "rate_note": "1 USD = 1.52 AUD assumed; not looked up.",
+ "chrome_done": true
+}

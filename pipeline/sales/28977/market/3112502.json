@@ -1,10 +1,149 @@
-{"cdid":3112502,"lot":1474,"identification":"Four Jacksons (Launceston) brass padlocks: EBU (number 1056), two Four Lever (one with key), and one stamped 4 SRA NSW (State Rail Authority NSW, 1980-2003 era name). Two keys.","entries":[
-{"kind":"SOLD","price":"$60 hammer","aud_price":60,"currency":"AUD","date":"2026-10-21","venue":"Armitage Auctions, Launceston sale 28841 lot 1381","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088552&chid=28841&category=ALL&style=group","same_item":"close","note":"Local database hit, 4 brass padlocks incl Jacksons Four Lever; no SRA/EBU named. Closest comp; premium extra. Database record, page not opened."},
-{"kind":"SOLD","price":"$130 hammer","aud_price":130,"currency":"AUD","date":"2026-05-06","venue":"Armitage Auctions, Launceston sale 27763 lot 1528","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2902568&chid=27763&category=ALL&style=group","same_item":"close","note":"2 old brass padlocks with keys; high outlier, keys present. Database record."},
-{"kind":"SOLD","price":"$45 hammer","aud_price":45,"currency":"AUD","date":"2025-04-16","venue":"Armitage Auctions, Launceston sale 23849 lot 1434","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2471232&chid=23849&category=ALL&style=group","same_item":"close","note":"3 old brass padlocks incl levers. Database record."},
-{"kind":"SOLD","price":"$25 hammer","aud_price":25,"currency":"AUD","date":"2025-12-03","venue":"Armitage Auctions, Launceston sale 26808 lot 1517","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2754271&chid=26808&category=ALL&style=group","same_item":"close","note":"One large Jacksons brass padlock. Database record."},
-{"kind":"SOLD","price":"$75 hammer","aud_price":75,"currency":"AUD","date":"2026-02-05","venue":"Gowans Auctions, Hobart","url":"gowans lot id 388643","same_item":"close","note":"2 vintage padlocks, 12 bids. Database record."},
-{"kind":"SOLD","price":"$30 hammer","aud_price":30,"currency":"AUD","date":"2026-08-03","venue":"Gowans Auctions, Hobart","url":"gowans lot id 427631","same_item":"category guide","note":"Single vintage brass padlock, no key, 2 bids."},
-{"kind":"ASKING","price":"AU$74.50 or Best Offer","aud_price":74.5,"currency":"AUD","date":"live, seen 2026-11-06","venue":"eBay Australia","url":"https://www.ebay.com.au/itm/256083007296","same_item":"close","note":"Jacksons NSWG prison brass padlock, no key, one lock. Snippet only, unverified. Asking price only."},
-{"kind":"ASKING","price":"AU$30 each or Best Offer","aud_price":30,"currency":"AUD","date":"live, seen 2026-11-06","venue":"eBay Australia","url":"https://www.ebay.com.au/itm/175077331795","same_item":"category guide","note":"Genuine Jackson's Launceston brass lock, price per lock. Snippet only, unverified."}
-],"searches_tried":"comps.py (pipeline and work) padlock/brass/railway; WebSearch SRA NSW brass padlock sold; Jacksons EBU brass padlock. No sold price found for SRA NSW or EBU specifically. eBay sold listings would settle it.","needs_chrome":true,"chrome_hint":"eBay Australia sold items: Jacksons brass padlock; and: NSW SRA padlock brass","rate_note":"All AUD, no conversion.","viewing_check":"Check which locks have keys and work, the EBU number and stamp, SRA lock condition (verdigris), and that shackles are original."}
+{
+ "cdid": 3112502,
+ "lot": 1474,
+ "identification": "Four brass padlocks: Jacksons (Launceston) EBU, two Four Lever, one stamped 4 SRA NSW; two keys",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "aud_price": 60,
+   "currency": "AUD",
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions, Launceston sale 28841 lot 1381",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088552&chid=28841&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Local database hit, 4 brass padlocks incl Jacksons Four Lever; no SRA/EBU named. Closest comp; premium extra. Database record, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "aud_price": 130,
+   "currency": "AUD",
+   "date": "2026-05-06",
+   "venue": "Armitage Auctions, Launceston sale 27763 lot 1528",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2902568&chid=27763&category=ALL&style=group",
+   "same_item": "close",
+   "note": "2 old brass padlocks with keys; high outlier, keys present. Database record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2025-04-16",
+   "venue": "Armitage Auctions, Launceston sale 23849 lot 1434",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2471232&chid=23849&category=ALL&style=group",
+   "same_item": "close",
+   "note": "3 old brass padlocks incl levers. Database record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25 hammer",
+   "aud_price": 25,
+   "currency": "AUD",
+   "date": "2025-12-03",
+   "venue": "Armitage Auctions, Launceston sale 26808 lot 1517",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2754271&chid=26808&category=ALL&style=group",
+   "same_item": "close",
+   "note": "One large Jacksons brass padlock. Database record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "aud_price": 75,
+   "currency": "AUD",
+   "date": "2026-02-05",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 388643",
+   "same_item": "close",
+   "note": "2 vintage padlocks, 12 bids. Database record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "aud_price": 30,
+   "currency": "AUD",
+   "date": "2026-08-03",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 427631",
+   "same_item": "category guide",
+   "note": "Single vintage brass padlock, no key, 2 bids."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$74.50 or Best Offer",
+   "aud_price": 74.5,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay Australia",
+   "url": "https://www.ebay.com.au/itm/256083007296",
+   "same_item": "close",
+   "note": "Jacksons NSWG prison brass padlock, no key, one lock. Snippet only, unverified. Asking price only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$30 each or Best Offer",
+   "aud_price": 30,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay Australia",
+   "url": "https://www.ebay.com.au/itm/175077331795",
+   "same_item": "category guide",
+   "note": "Genuine Jackson's Launceston brass lock, price per lock. Snippet only, unverified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40.00",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-10-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327286081405",
+   "same_item": "partial",
+   "note": "Single Jacksons Four Lever padlock",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.00",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-09-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/198674131635",
+   "same_item": "partial",
+   "note": "Single Jacksons Four Lever padlock, no key",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.50",
+   "currency": "AUD",
+   "aud_price": 85.5,
+   "date": "2026-10-22",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168787455793",
+   "same_item": "partial",
+   "note": "Single large Jacksons padlock with 3 keys; large size",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$43.10",
+   "currency": "AUD",
+   "aud_price": 43.1,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/198673906277",
+   "same_item": "partial",
+   "note": "1942 Jacksons heavy duty padlock with key, working",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) padlock/brass/railway; WebSearch SRA NSW brass padlock sold; Jacksons EBU brass padlock. No sold price found for SRA NSW or EBU specifically. eBay sold listings would settle it. | chrome: eBay AU sold: jacksons brass padlock (single padlocks sell ~A$30-45 each, so a 4 lock lot is plausibly more); NSW SRA search not run",
+ "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold items: Jacksons brass padlock; and: NSW SRA padlock brass",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Check which locks have keys and whether they work; photograph the SRA NSW lock and any large size.",
+ "chrome_done": true
+}

@@ -1,8 +1,91 @@
-{"cdid":3112527,"lot":1499,"identification":"Shell X-100 Motor Oil 30 five gallon drum, mid-century Shell Australia style, dented, rusty top. Common-ish petroliana drum format; X-100 branding is popular but large drums sell well below small tins and pourers.","entries":[
-{"kind":"SOLD","price":"$30 hammer","aud_price":30,"currency":"AUD","date":"2025-09-28","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/364722/","same_item":"close","note":"Old Shell motor oil drum, 2 bids; condition unknown, brand variant unknown. Premium extra. Local DB hit."},
-{"kind":"SOLD","price":"$230 (premium not incl.)","aud_price":230,"currency":"AUD","date":"2026 (Livestream Collectors Auction, results PDF)","venue":"Burns & Co Auctions","url":"https://burnsandcoauctions.com.au/wp-content/uploads/Print-Results-1.pdf","same_item":"close","note":"Lot 1669 Shell Double Motor Oil Drag Free 4 gallon drum; earlier, rarer Shell brand, specialist petroliana room. Page opened (PDF). Upper bound for a Shell drum, likely better condition."},
-{"kind":"SOLD","price":"$350 and $640 (premium not incl.)","aud_price":350,"currency":"AUD","date":"undated results PDF","venue":"Burns & Co Auctions","url":"https://burnsandcoauctions.com.au/wp-content/uploads/Print-Results.pdf","same_item":"category guide","note":"Lot 1053 Golden Fleece Duo 5 gallon drum $350; lot 1052 Golden Fleece Cinemascope 4 gallon $640. Different brands, specialist sale. Page opened."},
-{"kind":"SOLD","price":"$70","aud_price":70,"currency":"AUD","date":"2026-03-04","venue":"Burns & Co Auctions","url":"https://burnsandcoauctions.com.au/wp-content/uploads/Results-Livestream-Collectors-Auctionl.pdf","same_item":"category guide","note":"Lots 1827-1830 Castrol 4 gallon drums $50-$70, common drums. Page opened."},
-{"kind":"UNSOLD","price":"$35 shown, but listing says passed","aud_price":0,"currency":"USD","date":"2015-03-07","venue":"Shackelton Auctions via Proxibid","url":"https://www.proxibid.com/asp/LotDetail.asp?ahid=2654&aid=92748&lid=23825892","same_item":"close","note":"1952 Shell X100 5 imp gal can, shows wear. Page opened, no price confirmed; old and US. Not verified."},
-{"kind":"ASKING","price":"US$125","aud_price":190,"currency":"USD","date":"live, seen 2026-11-06 (snippet only)","venue":"oldgas.com forum private listing","url":"https://www.oldgas.com/forum/ubbthreads.php?ubb=showflat&Number=796247","same_item":"category guide","note":"Shell 5 gal drum dated 1980, rust free. Snippet only, rate 1 USD = 1.52 AUD assumed. Better condition than the lot."}
-],"searches_tried":"comps.py (pipeline, work), Gowans API x4, WebSearch x4, Burns & Co result PDFs, Proxibid page. eBay sold prices for 'Shell X-100 5 gallon drum' would help (eBay closed to us).","needs_chrome":true,"chrome_hint":"eBay AU sold listings: Shell X-100 5 gallon drum / oil drum Shell 4 gallon","viewing_check":"Check for a date or Shell Australia/Imperial gallon marking on base or side, whether the lid and cap are original, and rust holes or leaks. Condition is the main driver.","rate_note":"USD to AUD at 1.52 assumed."}
+{
+ "cdid": 3112527,
+ "lot": 1499,
+ "identification": "Shell X-100 Motor Oil 30, red five-gallon drum, dented, rusty top and rim.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "aud_price": 30,
+   "currency": "AUD",
+   "date": "2025-09-28",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/364722/",
+   "same_item": "close",
+   "note": "Old Shell motor oil drum, 2 bids; condition unknown, brand variant unknown. Premium extra. Local DB hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230 (premium not incl.)",
+   "aud_price": 230,
+   "currency": "AUD",
+   "date": "2026 (Livestream Collectors Auction, results PDF)",
+   "venue": "Burns & Co Auctions",
+   "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Print-Results-1.pdf",
+   "same_item": "close",
+   "note": "Lot 1669 Shell Double Motor Oil Drag Free 4 gallon drum; earlier, rarer Shell brand, specialist petroliana room. Page opened (PDF). Upper bound for a Shell drum, likely better condition."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$350 and $640 (premium not incl.)",
+   "aud_price": 350,
+   "currency": "AUD",
+   "date": "undated results PDF",
+   "venue": "Burns & Co Auctions",
+   "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Print-Results.pdf",
+   "same_item": "category guide",
+   "note": "Lot 1053 Golden Fleece Duo 5 gallon drum $350; lot 1052 Golden Fleece Cinemascope 4 gallon $640. Different brands, specialist sale. Page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70",
+   "aud_price": 70,
+   "currency": "AUD",
+   "date": "2026-03-04",
+   "venue": "Burns & Co Auctions",
+   "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Livestream-Collectors-Auctionl.pdf",
+   "same_item": "category guide",
+   "note": "Lots 1827-1830 Castrol 4 gallon drums $50-$70, common drums. Page opened."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "$35 shown, but listing says passed",
+   "aud_price": 0,
+   "currency": "USD",
+   "date": "2015-03-07",
+   "venue": "Shackelton Auctions via Proxibid",
+   "url": "https://www.proxibid.com/asp/LotDetail.asp?ahid=2654&aid=92748&lid=23825892",
+   "same_item": "close",
+   "note": "1952 Shell X100 5 imp gal can, shows wear. Page opened, no price confirmed; old and US. Not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$125",
+   "aud_price": 190,
+   "currency": "USD",
+   "date": "live, seen 2026-11-06 (snippet only)",
+   "venue": "oldgas.com forum private listing",
+   "url": "https://www.oldgas.com/forum/ubbthreads.php?ubb=showflat&Number=796247",
+   "same_item": "category guide",
+   "note": "Shell 5 gal drum dated 1980, rust free. Snippet only, rate 1 USD = 1.52 AUD assumed. Better condition than the lot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96.93",
+   "currency": "AUD",
+   "aud_price": 96.93,
+   "date": "2026-09-07",
+   "venue": "eBay AU (converted, listed from United States)",
+   "url": "https://www.ebay.com.au/itm/117376855662",
+   "same_item": "partial",
+   "note": "Vintage 5 gallon Shell 2T two-stroke oil drum, different product, similar size and brand",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline, work), Gowans API x4, WebSearch x4, Burns & Co result PDFs, Proxibid page. eBay sold prices for 'Shell X-100 5 gallon drum' would help (eBay closed to us). | chrome: eBay AU sold: shell x-100 oil drum (only reproduction stickers), shell 5 gallon oil drum vintage | chrome: eBay AU sold: shell x-100 oil drum (only reproduction stickers), shell 5 gallon oil drum vintage",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: Shell X-100 5 gallon drum / oil drum Shell 4 gallon",
+ "viewing_check": "Check for dents, rust-through, top condition, legibility of the X-100 graphics and 'net five gallons' text; bring tape measure for size.",
+ "rate_note": "USD to AUD at 1.52 assumed.",
+ "chrome_done": true
+}

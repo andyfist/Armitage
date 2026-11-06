@@ -1,10 +1,136 @@
-{"cdid":3112535,"lot":1508,"identification":"Two boxes of rusty old tins and hardware. Main box: BP Energol quart-size oil tin (green/white, 1950s-60s, scuffed), Spartan Velvet Wood Finish varnish tin (torn label), Davis Joiners Glue 500g packet, Mason's varnish tin, Country Life tobacco tin, enamel spouted can, red fuel can, several squat spouted tins. Second tray is rusty scrap hardware. Photos confirm: BP tin has paint loss, nothing rare visible.","entries":[
-{"kind":"SOLD","price":"$45","currency":"AUD","aud_price":45,"date":"2025-10-22","venue":"Armitage Auctions, Launceston sale 26383 lot 1506 (3 x BP Energol tins, hammer)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2671956&chid=26383&category=ALL&style=group","same_item":"yes","note":"Local comps DB, not opened. Three Energol tins for $45 hammer; closest same-item evidence, condition not known. Premium extra."},
-{"kind":"SOLD","price":"$80","currency":"AUD","aud_price":80,"date":"2025-11-10","venue":"Gowans Auctions, Hobart (ENERGOL OIL TIN, 1 bid, hammer)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=energol&page%5Bnumber%5D=1 (lot id 374081)","same_item":"yes","note":"Local results DB, not opened. Single Energol tin $80 hammer; condition unknown, may be a better example."},
-{"kind":"SOLD","price":"$160","currency":"AUD","aud_price":160,"date":"2026-10-04","venue":"Gowans Auctions, Hobart (QTY OF ASST OIL TINS, FUEL TIN, BOOT LAST & BAR/CAR PRINTS, 2 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 442306)","same_item":"close","note":"Local DB, not opened. Top of the range for mixed oil tin boxes; mixed contents."},
-{"kind":"SOLD","price":"$81","currency":"AUD","aud_price":81,"date":"2026-09-06","venue":"Gowans Auctions, Hobart (QTY OF ASST OIL & FUEL TINS INCL NEPTUNE ETC, 4 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 436150)","same_item":"close","note":"Local DB, not opened. Box of oil and fuel tins with a Neptune tin."},
-{"kind":"SOLD","price":"$90","currency":"AUD","aud_price":90,"date":"2026-06-28","venue":"Gowans Auctions, Hobart (BOX OF ASST OIL & GREASE TINS INCL CASTROL, 7 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 420090)","same_item":"close","note":"Local DB, not opened."},
-{"kind":"SOLD","price":"$60","currency":"AUD","aud_price":60,"date":"2026-05-31","venue":"Gowans Auctions, Hobart (QTY OF OIL TINS & OTHERS, 3 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 413913)","same_item":"close","note":"Local DB, not opened."},
-{"kind":"SOLD","price":"$35","currency":"AUD","aud_price":35,"date":"2026-06-28","venue":"Gowans Auctions, Hobart (BOX OF OIL TINS ETC, 4 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 420194)","same_item":"close","note":"Local DB, not opened."},
-{"kind":"SOLD","price":"$20","currency":"AUD","aud_price":20,"date":"2026-10-11","venue":"Gowans Auctions, Hobart (QTY OF VINTAGE OIL TINS, 1 bid)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 444341)","same_item":"close","note":"Local DB, not opened. Low end for a plain oil tin lot."}
-],"searches_tried":"comps.py (pipeline and work) for BP Energol tin, oil tin petroliana, Country Life tobacco tin (nothing), Davis glue tin (nothing), Energol tin, oil tins, tin lot petroliana. WebSearch for Spartan Velvet Wood Finish tin (nothing found), vintage BP Energol tin sold Australia (only eBay snippets for different items: tin-top pourer bottles around AU$160, not same item, not used), site:armitage.bidsonline.com.au tins (nothing). No rate needed, all AUD. eBay sold listings for Energol tin and Spartan varnish tin would add detail but this is a low-value lot, so not essential.","needs_chrome":false,"chrome_hint":"","viewing_check":"Check the BP Energol tin for any embossing or a pre-1950s design and the red fuel can and spouted tins for brand names (Plume, Shell, Vacuum, Neptune, Golden Fleece), which would add value. Photograph any readable lids or labels. Otherwise rusty scrap."}
+{
+ "cdid": 3112535,
+ "lot": 1508,
+ "identification": "Two boxes: rusty old tins (Country Life tobacco, Aerogel/Kenneth-type small tins, enamel spouted can, red fuel can, varnish and oil tins) and a tray of scrap hardware; nothing rare visible.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$45",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2025-10-22",
+   "venue": "Armitage Auctions, Launceston sale 26383 lot 1506 (3 x BP Energol tins, hammer)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2671956&chid=26383&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Local comps DB, not opened. Three Energol tins for $45 hammer; closest same-item evidence, condition not known. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2025-11-10",
+   "venue": "Gowans Auctions, Hobart (ENERGOL OIL TIN, 1 bid, hammer)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=energol&page%5Bnumber%5D=1 (lot id 374081)",
+   "same_item": "yes",
+   "note": "Local results DB, not opened. Single Energol tin $80 hammer; condition unknown, may be a better example."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$160",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart (QTY OF ASST OIL TINS, FUEL TIN, BOOT LAST & BAR/CAR PRINTS, 2 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 442306)",
+   "same_item": "close",
+   "note": "Local DB, not opened. Top of the range for mixed oil tin boxes; mixed contents."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$81",
+   "currency": "AUD",
+   "aud_price": 81,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions, Hobart (QTY OF ASST OIL & FUEL TINS INCL NEPTUNE ETC, 4 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 436150)",
+   "same_item": "close",
+   "note": "Local DB, not opened. Box of oil and fuel tins with a Neptune tin."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-06-28",
+   "venue": "Gowans Auctions, Hobart (BOX OF ASST OIL & GREASE TINS INCL CASTROL, 7 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 420090)",
+   "same_item": "close",
+   "note": "Local DB, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart (QTY OF OIL TINS & OTHERS, 3 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 413913)",
+   "same_item": "close",
+   "note": "Local DB, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-06-28",
+   "venue": "Gowans Auctions, Hobart (BOX OF OIL TINS ETC, 4 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 420194)",
+   "same_item": "close",
+   "note": "Local DB, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20",
+   "currency": "AUD",
+   "aud_price": 20,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart (QTY OF VINTAGE OIL TINS, 1 bid)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 444341)",
+   "same_item": "close",
+   "note": "Local DB, not opened. Low end for a plain oil tin lot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-08-13",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327124069473",
+   "same_item": "partial",
+   "note": "Lot of vintage oil and grease tins",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$99.78",
+   "currency": "AUD",
+   "aud_price": 99.78,
+   "date": "2026-10-22",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158182661232",
+   "same_item": "partial",
+   "note": "Lot of 10 vintage tins, 2 bottles and boxes (medical, tobacco etc)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$35.01",
+   "currency": "AUD",
+   "aud_price": 35.01,
+   "date": "2026-10-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267825707643",
+   "same_item": "category guide",
+   "note": "Job lot of vintage tobacco tins",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for BP Energol tin, oil tin petroliana, Country Life tobacco tin (nothing), Davis glue tin (nothing), Energol tin, oil tins, tin lot petroliana. WebSearch for Spartan Velvet Wood Finish tin (nothing found), vintage BP Energol tin sold Australia (only eBay snippets for different items: tin-top pourer bottles around AU$160, not same item, not used), site:armitage.bidsonline.com.au tins (nothing). No rate needed, all AUD. eBay sold listings for Energol tin and Spartan varnish tin would add detail but this is a low-value lot, so not essential. | chrome: eBay AU sold: old tins job lot vintage oil tin box (AU only)",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Look through the box for any graphic oil or kerosene tins (Golden Fleece, Shell, Plume) and good tobacco tins; one such tin can lift the lot.",
+ "chrome_done": true
+}

@@ -1,7 +1,80 @@
-{"cdid":3111124,"lot":862,"identification":"Large Art Nouveau majolica jardiniere on pedestal stand, cobalt ground, moulded pink flowerheads, green whiplash scrolls, about 98 cm overall. Probably English or Continental c1900-1910, unmarked in photos, possible hairline across a flower near rim.","entries":[
-{"kind":"SOLD","price":"$260 hammer","aud_price":260,"currency":"AUD","date":"2026-08-23","venue":"Gowans Auctions, Hobart (17 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/432830","same_item":"close","note":"LARGE ART NOUVEAU MAJOLICA GLAZED JARDINIERE, title only (no stand mentioned, size and condition not read). Gowans API record opened, no rate needed. Premium extra."},
-{"kind":"SOLD","price":"$190 hammer","aud_price":190,"currency":"AUD","date":"2026-10-21","venue":"Armitage Auctions sale 28840 lot 1024","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089317&chid=28840&category=ALL&style=group","same_item":"category guide","note":"Glazed jardiniere and pedestal with Chinese dragon, H 87 cm. From local comps database, not opened. Premium extra."},
-{"kind":"SOLD","price":"$185 hammer","aud_price":185,"currency":"AUD","date":"2026-09-30","venue":"Armitage Auctions sale 28713 lot 972","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3068396&chid=28713&category=ALL&style=group","same_item":"category guide","note":"Large Portuguese jardiniere with pedestal, H 84 cm. Local comps database, not opened. Premium extra."},
-{"kind":"SOLD","price":"$75 hammer","aud_price":75,"currency":"AUD","date":"2025-05-28","venue":"Armitage Auctions sale 24112 lot 1216","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2514091&chid=24112&category=ALL&style=group","same_item":"category guide","note":"Plain ceramic pedestal and jardiniere, floor of the range. Local comps database, not opened."},
-{"kind":"SOLD","price":"$340 hammer","aud_price":340,"currency":"AUD","date":"2026-04-13","venue":"Gowans Auctions, Hobart (7 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/402076","same_item":"category guide","note":"Ceramic glazed majolica style plant stand 78 cm, a stand only, not a jardiniere. Database entry (id 402076), not opened."}
-],"searches_tried":"comps.py (pipeline and work) with majolica jardiniere, jardiniere stand, art nouveau jardiniere, jardiniere pedestal, majolica stand; Gowans API majolica and jardiniere stand; WebSearch general and site:armitage (no Armitage majolica hit); WebFetch of LiveAuctioneers pages returned empty. Search snippets only mentioned dealer listings and unpriced estimates, none usable. eBay sold listings for Art Nouveau majolica jardiniere on stand would help (eBay is closed to us).","needs_chrome":true,"chrome_hint":"eBay sold items: art nouveau majolica jardiniere stand cobalt; LiveAuctioneers price results: art nouveau majolica jardiniere with pedestal","viewing_check":"Check the base underside and stand joins for a maker's mark (Eichwald, Schütz, Wardle, etc), and inspect the pink flower near the rim for a crack or restoration; check rim glaze wear and that the jardiniere seats properly on the stand.","rate_note":"All results AUD, no conversion."}
+{
+ "cdid": 3111124,
+ "lot": 862,
+ "identification": "Large cobalt Art Nouveau majolica jardiniere on pedestal, pink flowerheads, green scrolls, c1900-10, unmarked, appears in good condition in photo",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$260 hammer",
+   "aud_price": 260,
+   "currency": "AUD",
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart (17 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/432830",
+   "same_item": "close",
+   "note": "LARGE ART NOUVEAU MAJOLICA GLAZED JARDINIERE, title only (no stand mentioned, size and condition not read). Gowans API record opened, no rate needed. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$190 hammer",
+   "aud_price": 190,
+   "currency": "AUD",
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions sale 28840 lot 1024",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089317&chid=28840&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Glazed jardiniere and pedestal with Chinese dragon, H 87 cm. From local comps database, not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$185 hammer",
+   "aud_price": 185,
+   "currency": "AUD",
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions sale 28713 lot 972",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3068396&chid=28713&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Large Portuguese jardiniere with pedestal, H 84 cm. Local comps database, not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "aud_price": 75,
+   "currency": "AUD",
+   "date": "2025-05-28",
+   "venue": "Armitage Auctions sale 24112 lot 1216",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2514091&chid=24112&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Plain ceramic pedestal and jardiniere, floor of the range. Local comps database, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$340 hammer",
+   "aud_price": 340,
+   "currency": "AUD",
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart (7 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/402076",
+   "same_item": "category guide",
+   "note": "Ceramic glazed majolica style plant stand 78 cm, a stand only, not a jardiniere. Database entry (id 402076), not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$119.03",
+   "currency": "AUD",
+   "aud_price": 119.03,
+   "date": "2026-10-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407304112269",
+   "same_item": "partial",
+   "note": "eBay AU converted, listed from United States. Antique Art Nouveau majolica jardiniere and pedestal but green/yellow colourway, size unknown, best offer accepted",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with majolica jardiniere, jardiniere stand, art nouveau jardiniere, jardiniere pedestal, majolica stand; Gowans API majolica and jardiniere stand; WebSearch general and site:armitage (no Armitage majolica hit); WebFetch of LiveAuctioneers pages returned empty. Search snippets only mentioned dealer listings and unpriced estimates, none usable. eBay sold listings for Art Nouveau majolica jardiniere on stand would help (eBay is closed to us). | chrome: eBay AU sold: art nouveau majolica jardiniere pedestal; majolica jardiniere stand cobalt blue (only umbrella stand, ignored). LiveAuctioneers not tried (light mode).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold items: art nouveau majolica jardiniere stand cobalt; LiveAuctioneers price results: art nouveau majolica jardiniere with pedestal",
+ "viewing_check": "Check for hairline cracks at rim and flowerheads, restoration, size (98cm), whether bowl and stand are a true matched pair, any maker mark underneath.",
+ "rate_note": "All results AUD, no conversion.",
+ "chrome_done": true
+}

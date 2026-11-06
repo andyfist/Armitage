@@ -1,10 +1,137 @@
-{"cdid":3112353,"lot":1449,"identification":"Group of 5 Australian Shell tins, 1960s-70s: one Shell Spirax 90 EP quart cone-top oil tin, two Retinax A grease tins (about 1 lb to 2 lb), a plain Shell grease tin and a Shell Grease 450g tube tin. General wear, some rust, lids on some. Common later-era Shell packaging, not the early gallon tins that make real money.","entries":[
-{"kind":"SOLD","price":"$110 hammer","aud_price":110,"currency":"AUD","date":"2026-10-04","venue":"Gowans Auctions, Hobart (lot id 442585, 6 bids)","url":"gowans lot id 442585","same_item":"close","note":"Single SHELL GREASE TIN; from local DB, not opened. Highest of the grease hits, 6 bids."},
-{"kind":"SOLD","price":"$45 hammer","aud_price":45,"currency":"AUD","date":"2025-09-28","venue":"Gowans Auctions, Hobart (lot id 363619)","url":"gowans lot id 363619","same_item":"close","note":"Single Shell grease tin; local DB."},
-{"kind":"SOLD","price":"$15 hammer","aud_price":15,"currency":"AUD","date":"2026-01-26","venue":"Gowans Auctions, Hobart (lot id 385595)","url":"gowans lot id 385595","same_item":"yes","note":"Single Shell Retinax A grease tin; local DB. Low end for the Retinax."},
-{"kind":"SOLD","price":"$105 hammer","aud_price":105,"currency":"AUD","date":"2026-09-09","venue":"Armitage Auctions sale 28589 lot 1508","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045098&chid=28589&category=ALL&style=group","same_item":"close","note":"Shell, Castrol and BP oil and grease tins group; local DB closing bid, not opened. Best group comparable."},
-{"kind":"SOLD","price":"$55 hammer","aud_price":55,"currency":"AUD","date":"2026-10-21","venue":"Armitage Auctions sale 28841 lot 1595","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088761&chid=28841&category=ALL&style=group","same_item":"category guide","note":"2 boxes with Shell oil tins, sign and other tins; local DB."},
-{"kind":"SOLD","price":"$35 to $90 hammer, 12 sales","aud_price":50,"currency":"AUD","date":"2025-10 to 2026-09","venue":"Gowans Auctions, Hobart (various oil tin lots, e.g. 420090 $90, 436150 $81, 426920 $50)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oil+tin&page%5Bnumber%5D=1","same_item":"category guide","note":"Loose Shell oil tin lots, mostly one-gallon; DB titles garbled so treat as category guide. Range $7 to $90."},
-{"kind":"ASKING","price":"AU$55 (1lb Retinax A) and AU$195 (5lb Shell grease tin)","aud_price":55,"currency":"AUD","date":"live, seen 2026-11-06","venue":"XXXX Antiques (dealer)","url":"https://www.xxxxantiques.com.au/antiques_collectables_old_vintage_antique_items_for_sale/automobilia/display/10044-shell-1lb-retinax-a-grease-tin-","same_item":"yes","note":"Snippet only, not verified. Dealer retail asking price, well above auction hammer."},
-{"kind":"ASKING","price":"AU$49.81 listed, marked sold (Etsy); AU$46.06 eBay 5lb Retinax A ended","aud_price":48,"currency":"AUD","date":"seen 2026-11-06","venue":"Etsy AU / eBay AU","url":"https://www.etsy.com/au/listing/476022280/vintage-shell-retinax-a-grease-oil-can","same_item":"yes","note":"Snippet only. Listed price, not confirmed paid; treat as asking."}
-],"searches_tried":"comps.py (pipeline and work) for shell oil tin, shell retinax, shell grease tin, spirax, shell quart; one WebSearch for Retinax A tin. Generic common petroliana so stopped early. eBay sold prices for Retinax A / Shell quart tin would settle individual tin values but gain is small.","needs_chrome":false,"chrome_hint":"","rate_note":"All AUD, no conversion.","viewing_check":"nothing needed; photos show the five tins. Optionally check for a gloss finish with clean labels on the quart tin and whether any tin is an older pre-1960s design."}
+{
+ "cdid": 3112353,
+ "lot": 1449,
+ "identification": "Five Australian Shell tins, 1960s-70s: quart Spirax-type cone-top oil tin, two Retinax A grease tins, plain grease tin, grease tube tin",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$110 hammer",
+   "aud_price": 110,
+   "currency": "AUD",
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart (lot id 442585, 6 bids)",
+   "url": "gowans lot id 442585",
+   "same_item": "close",
+   "note": "Single SHELL GREASE TIN; from local DB, not opened. Highest of the grease hits, 6 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2025-09-28",
+   "venue": "Gowans Auctions, Hobart (lot id 363619)",
+   "url": "gowans lot id 363619",
+   "same_item": "close",
+   "note": "Single Shell grease tin; local DB."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$15 hammer",
+   "aud_price": 15,
+   "currency": "AUD",
+   "date": "2026-01-26",
+   "venue": "Gowans Auctions, Hobart (lot id 385595)",
+   "url": "gowans lot id 385595",
+   "same_item": "yes",
+   "note": "Single Shell Retinax A grease tin; local DB. Low end for the Retinax."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "aud_price": 105,
+   "currency": "AUD",
+   "date": "2026-09-09",
+   "venue": "Armitage Auctions sale 28589 lot 1508",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045098&chid=28589&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Shell, Castrol and BP oil and grease tins group; local DB closing bid, not opened. Best group comparable."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "aud_price": 55,
+   "currency": "AUD",
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions sale 28841 lot 1595",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088761&chid=28841&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "2 boxes with Shell oil tins, sign and other tins; local DB."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 to $90 hammer, 12 sales",
+   "aud_price": 50,
+   "currency": "AUD",
+   "date": "2025-10 to 2026-09",
+   "venue": "Gowans Auctions, Hobart (various oil tin lots, e.g. 420090 $90, 436150 $81, 426920 $50)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oil+tin&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Loose Shell oil tin lots, mostly one-gallon; DB titles garbled so treat as category guide. Range $7 to $90."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$55 (1lb Retinax A) and AU$195 (5lb Shell grease tin)",
+   "aud_price": 55,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "XXXX Antiques (dealer)",
+   "url": "https://www.xxxxantiques.com.au/antiques_collectables_old_vintage_antique_items_for_sale/automobilia/display/10044-shell-1lb-retinax-a-grease-tin-",
+   "same_item": "yes",
+   "note": "Snippet only, not verified. Dealer retail asking price, well above auction hammer."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$49.81 listed, marked sold (Etsy); AU$46.06 eBay 5lb Retinax A ended",
+   "aud_price": 48,
+   "currency": "AUD",
+   "date": "seen 2026-11-06",
+   "venue": "Etsy AU / eBay AU",
+   "url": "https://www.etsy.com/au/listing/476022280/vintage-shell-retinax-a-grease-oil-can",
+   "same_item": "yes",
+   "note": "Snippet only. Listed price, not confirmed paid; treat as asking."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.00",
+   "currency": "AUD",
+   "aud_price": 95,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/236952085681",
+   "same_item": "partial",
+   "note": "Set of 2 Shell Retinax 1lb vintage grease tins",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.70",
+   "currency": "AUD",
+   "aud_price": 53.7,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407325956550",
+   "same_item": "partial",
+   "note": "Shell Retinax A 5 lb tin, 1950s; older, larger",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$21.90",
+   "currency": "AUD",
+   "aud_price": 21.9,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/900061030961",
+   "same_item": "partial",
+   "note": "Vintage Shell Grease B 5 lb tin; low end",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for shell oil tin, shell retinax, shell grease tin, spirax, shell quart; one WebSearch for Retinax A tin. Generic common petroliana so stopped early. eBay sold prices for Retinax A / Shell quart tin would settle individual tin values but gain is small. | chrome: eBay AU sold: shell grease tin (other queries hit error page; no Spirax quart search)",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Check each tin's label and lid; Retinax A tins look in fair condition with some rust on the edges.",
+ "chrome_done": true
+}

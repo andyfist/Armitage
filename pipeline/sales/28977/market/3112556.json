@@ -1,7 +1,7 @@
 {
  "cdid": 3112556,
  "lot": 1529,
- "identification": "HP Laptop 15s-eq2021AU, ProdID 3N8L9PA#ABG, AMD Ryzen 5 5500U, 15.6in, originally 8GB RAM/512GB SSD Win 10 (about 2021). Silver, with charger, Asus carry bag and large-print USB keyboard.",
+ "identification": "HP Laptop 15s-eq2021AU (3N8L9PA), Ryzen 5 5500U, 15.6in, originally 8GB/512GB Win10, with charger, Asus bag, mouse and large-print keyboard; factory reset.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,36 @@
    "url": "https://www.australiancomputertraders.com.au/hp-laptop-15s-eq2021au-amd-ryzen-5-5500u-2.10ghz-1",
    "same_item": "yes",
    "note": "Same model, but refurbished with upgraded RAM and warranty, and sold out. Price came from a search snippet only (page opened but price not extracted); not verified. Dealer retail, well above auction value. No FX needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$149.99",
+   "currency": "AUD",
+   "aud_price": 149.99,
+   "date": "2026-10-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/880020626036",
+   "same_item": "partial",
+   "note": "HP 15s-eq2xxx Ryzen 5 5500U 8GB/512GB, Windows 11 with genuine charger; same family, seller-tested and likely refurbished listing, Australia.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$495.00",
+   "currency": "AUD",
+   "aud_price": 495.0,
+   "date": "2026-09-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/127624692470",
+   "same_item": "partial",
+   "note": "HP 15s-eq2139AU Ryzen 5 5500U 8GB/512GB Win11, listed with fingerprint reader and BT; price looks high versus the other comp, possibly a fixed-price sale of a refurbished unit. Treat with caution.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with hp/laptop/15s/ryzen: no same-model sale, only Gowans HP laptop sales above; Gowans API searches laptop, hp laptop, notebook computer, ryzen; WebSearch for HP 15s-eq2021AU price; WebSearch site:armitage.bidsonline.com.au HP laptop (nothing useful). eBay sold listings for 15s-eq2021AU would settle it best (blocked here).",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) with hp/laptop/15s/ryzen: no same-model sale, only Gowans HP laptop sales above; Gowans API searches laptop, hp laptop, notebook computer, ryzen; WebSearch for HP 15s-eq2021AU price; WebSearch site:armitage.bidsonline.com.au HP laptop (nothing useful). eBay sold listings for 15s-eq2021AU would settle it best (blocked here). | chrome: eBay AU sold (Australia only): hp 15s-eq2021au (error page, no results); hp 15s ryzen 5 5500u laptop (2 results); hp 15s laptop ryzen 5 (0).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: HP 15s-eq2021AU (also try 15s-eq2xxx Ryzen 5 5500U laptop), last 90 days, Australia",
- "viewing_check": "Check RAM and SSD size (sticker/Settings), that it boots and the screen, battery and hinges are fine, keyboard and trackpad work, and that the large-print keyboard and Asus bag are included. Photograph the base sticker with serial and any scratches.",
- "rate_note": "All AUD, no conversion. Gowans hammers exclude premium."
+ "viewing_check": "Check it powers on and holds a charge, screen and hinges, keyboard/trackpad, battery condition, and that the charger is the correct HP one. Confirm model on the underside label.",
+ "rate_note": "All AUD, no conversion. Gowans hammers exclude premium.",
+ "chrome_done": true
 }

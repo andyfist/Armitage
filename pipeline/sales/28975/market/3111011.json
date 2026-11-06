@@ -1,7 +1,7 @@
 {
  "cdid": 3111011,
  "lot": 749,
- "identification": "Pro Hart (1928-2006), 'Five Ants', hand-coloured etching, Lytlewode Press Series 3 No. 3, 107 x 140 mm, edition of 100. This copy is an unsigned publisher's (printer's) proof with certificate from R.C. Littlewood (2011), signed verso by publisher only. Framed under glass.",
+ "identification": "Pro Hart 'Five Ants' hand-coloured etching, small (about 11x14cm), orange wash, framed; unsigned publisher's proof per cloud research.",
  "entries": [
   {
    "kind": "SOLD",
@@ -123,11 +123,48 @@
    "url": "https://www.ehva.com.au/c/antiques-art-memorabilia/art/2006-five-ants-limited-edition-hand-coloured-etching-hand-signed-editioned-artists-proof-of-100-and-titled-42-x-32-cm-frame-1571314",
    "same_item": "yes",
    "note": "Same title, but signed. Page opened but price not visible in static HTML (JavaScript); search snippet said under offer. No price verified; do not use."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$200",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2026-10-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327395483629",
+   "same_item": "partial",
+   "note": "Pro Hart limited edition hand coloured etching 'Grasshopper', 1 bid; likely signed/numbered, different image",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$212.70",
+   "currency": "AUD",
+   "aud_price": 212.7,
+   "date": "2026-09-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327335584714",
+   "same_item": "partial",
+   "note": "Pro Hart limited edition hand coloured etching 'The Feast', 1 bid; signed edition, different image",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.70",
+   "currency": "AUD",
+   "aud_price": 159.7,
+   "date": "2026-09-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327352698189",
+   "same_item": "partial",
+   "note": "Pro Hart spit bite etching, 1 bid, different image",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) 'pro hart ants'; work/comps.py 'pro hart etching', 'lytlewode', 'pro hart ants', 'pro hart unsigned', 'pro hart publisher'; live Gowans API for 'pro hart ants/unsigned/lytlewode' (no sold past lots returned); WebSearch 'Pro Hart Five Ants hand coloured etching Lytlewode Press'; opened EHVA and prohart.com.au pages. No sold result found for an unsigned Pro Hart proof or for Five Ants itself. Gowans small Pro Hart etchings (signed) cluster $130-$240 hammer, median about $200; unsigned should sit at or below the bottom of that range. eBay sold would help.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline) 'pro hart ants'; work/comps.py 'pro hart etching', 'lytlewode', 'pro hart ants', 'pro hart unsigned', 'pro hart publisher'; live Gowans API for 'pro hart ants/unsigned/lytlewode' (no sold past lots returned); WebSearch 'Pro Hart Five Ants hand coloured etching Lytlewode Press'; opened EHVA and prohart.com.au pages. No sold result found for an unsigned Pro Hart proof or for Five Ants itself. Gowans small Pro Hart etchings (signed) cluster $130-$240 hammer, median about $200; unsigned should sit at or below the bottom of that range. eBay sold would help. | chrome: eBay AU sold: 'pro hart etching ants'; 'pro hart lytlewode' (error page) | chrome: eBay AU sold: 'pro hart etching ants'; 'pro hart lytlewode' (error page)",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold listings: Pro Hart etching ants unsigned OR 'printer's proof' OR Lytlewode; also artrecord.com Pro Hart 'Five Ants' results",
- "viewing_check": "Confirm signature absence on front (lower right margin) and the publisher's signature and any pencil title/number verso; check the certificate matches the print (Series 3 No. 3 Five Ants) and that the etching is not a reproduction (plate mark, hand-colour texture).",
- "rate_note": "All prices AUD; no conversion needed."
+ "viewing_check": "Confirm no pencil signature or edition number (unsigned proof is worth less than signed numbered); check certificate is included, mount stain, foxing. Signed ltd edition Pro Hart etchings sold A$160-215 on eBay.",
+ "rate_note": "All prices AUD; no conversion needed.",
+ "chrome_done": true
 }

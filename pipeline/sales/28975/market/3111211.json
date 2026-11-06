@@ -1,16 +1,162 @@
-{"cdid":3111211,"lot":949,
-"identification":"Commonwealth of Australia 1949 ten pound note, KGVI, Coombs/Watt, prefix V/17 604818. Catalogue ref is R60 (R59 is the 1943 Armitage/McFarlane note, so the scan note's R59 looks wrong). Photos show a bright note, light handling, no tears; grade looks about VF to good VF. Dealer label 7700/12 reads 'L.. 1-' (unclear).",
-"entries":[
-{"kind":"SOLD","price":"$100 hammer (premium extra)","currency":"AUD","aud_price":100,"date":"2026-04-13","venue":"Gowans Auctions, Hobart (lot 401464, 8 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/401464/","same_item":"yes","note":"10 POUND NOTE - COOMBS/WATT. No description, grade not known from the data. Likely a lower grade than this lot, so a floor-type result for the Tasmanian buyer pool. Database record opened."},
-{"kind":"SOLD","price":"$130 hammer (premium extra)","currency":"AUD","aud_price":130,"date":"2025-12-01","venue":"Gowans Auctions, Hobart (lot 378596, 11 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/378596/","same_item":"close","note":"10 POUND NOTE - COOMBS/WILSON (1954/1960 type, a cheaper issue than Coombs/Watt). Grade unknown. Shows Tasmanian room pays about $50 to $130 for ten pound notes."},
-{"kind":"SOLD","price":"$51 hammer (premium extra)","currency":"AUD","aud_price":51,"date":"2026-05-10","venue":"Gowans Auctions, Hobart (lot 407977)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/407977/","same_item":"close","note":"Coombs/Wilson ten pound, cheaper issue, grade unknown."},
-{"kind":"ASKING","price":"$375 last sold (dealer retail)","currency":"AUD","aud_price":375,"date":"2026-08-30","venue":"Sterling & Currency (dealer recorded sale), 1949 R60 good VF","url":"https://www.sterlingcurrency.com.au/1949-ten-pound-coombs-watt-r60-very-fine","same_item":"yes","note":"Page opened. Dealer's own 'last sold for' list, retail not auction, so treat as retail ceiling. Retail also seen: Very Fine $375 (25/4/2024), about VF $225 (24/9/2025), Fine $201.25 (15/4/2026), Very Good $172.50 (22/5/2025), Extremely Fine $550 (2/12/2025), about EF $750 (5/4/2025). Closest grade to this lot is about VF to good VF, $225 to $375. Date shown is the good VF sale."},
-{"kind":"ASKING","price":"$225 last sold (dealer retail), about VF","currency":"AUD","aud_price":225,"date":"2025-09-24","venue":"Sterling & Currency (dealer recorded sale)","url":"https://www.sterlingcurrency.com.au/1949-ten-pound-coombs-watt-r60-very-fine","same_item":"yes","note":"Same page opened, about VF 1949 Coombs/Watt R60. Retail price, auction hammer would normally be well under this."},
-{"kind":"ASKING","price":"$550 (was $660, MSRP $850), first prefix V/15, Very Fine","currency":"AUD","aud_price":550,"date":"live, seen 2026-11-06","venue":"Bradford Coins, Cairns","url":"https://shop.bradfordcoins.com.au/1949-ten-pounds-coombs-watt-first-prefix-v-15-banknote/","same_item":"close","note":"Page opened. First prefix commands a premium over V/17, so overstates this lot. Dealer asking price."},
-{"kind":"UNSOLD","price":"Passed in, estimate $650-$850 for 4 notes (10/-, 1, 5, 10 pound Coombs/Watt, all VF)","currency":"AUD","aud_price":0,"date":"2016","venue":"Smalls Auctions via Invaluable","url":"https://www.invaluable.com/auction-lot/australia-coombs-watt-10-one-pound-5-pound-10-pou-317-c-0f748b7953","same_item":"category guide","note":"Page opened. Old (2016) and a set of four notes, so only a weak ceiling signal."}
-],
-"searches_tried":"work/comps.py (ten pound, banknote coombs, 10 pound, ten pounds, R59, £10 note; pipeline/comps.py crashed with a TypeError); Gowans API 'ten pound note' and lot 401464; WebSearch for Coombs Watt 1949 ten pound sold (x2); opened Sterling & Currency, Bradford Coins, Invaluable lot. No Noble or Downies result found. eBay sold listings would help: search 'Coombs Watt ten pound R60 VF' with Sold Items filter.",
-"needs_chrome":true,
-"chrome_hint":"eBay.com.au sold items: 1949 Coombs Watt ten pound R60 (also Noble Numismatics and Downies archives for 1949 R60 VF)",
-"rate_note":"All prices AUD, no conversion needed.",
-"viewing_check":"Check the prefix and serial (V/17 604818 seems ordinary, not a first prefix), any folds, pinholes, staining or repairs, and whether it is truly VF or closer to about EF. Photograph both sides under good light."}
+{
+ "cdid": 3111211,
+ "lot": 949,
+ "identification": "Commonwealth 1949 ten pound note, KGVI, Coombs/Watt, prefix V/17 604818 (R60); looks bright, light handling, about VF to EF",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart (lot 401464, 8 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/401464/",
+   "same_item": "yes",
+   "note": "10 POUND NOTE - COOMBS/WATT. No description, grade not known from the data. Likely a lower grade than this lot, so a floor-type result for the Tasmanian buyer pool. Database record opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2025-12-01",
+   "venue": "Gowans Auctions, Hobart (lot 378596, 11 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/378596/",
+   "same_item": "close",
+   "note": "10 POUND NOTE - COOMBS/WILSON (1954/1960 type, a cheaper issue than Coombs/Watt). Grade unknown. Shows Tasmanian room pays about $50 to $130 for ten pound notes."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$51 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 51,
+   "date": "2026-05-10",
+   "venue": "Gowans Auctions, Hobart (lot 407977)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/407977/",
+   "same_item": "close",
+   "note": "Coombs/Wilson ten pound, cheaper issue, grade unknown."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$375 last sold (dealer retail)",
+   "currency": "AUD",
+   "aud_price": 375,
+   "date": "2026-08-30",
+   "venue": "Sterling & Currency (dealer recorded sale), 1949 R60 good VF",
+   "url": "https://www.sterlingcurrency.com.au/1949-ten-pound-coombs-watt-r60-very-fine",
+   "same_item": "yes",
+   "note": "Page opened. Dealer's own 'last sold for' list, retail not auction, so treat as retail ceiling. Retail also seen: Very Fine $375 (25/4/2024), about VF $225 (24/9/2025), Fine $201.25 (15/4/2026), Very Good $172.50 (22/5/2025), Extremely Fine $550 (2/12/2025), about EF $750 (5/4/2025). Closest grade to this lot is about VF to good VF, $225 to $375. Date shown is the good VF sale."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$225 last sold (dealer retail), about VF",
+   "currency": "AUD",
+   "aud_price": 225,
+   "date": "2025-09-24",
+   "venue": "Sterling & Currency (dealer recorded sale)",
+   "url": "https://www.sterlingcurrency.com.au/1949-ten-pound-coombs-watt-r60-very-fine",
+   "same_item": "yes",
+   "note": "Same page opened, about VF 1949 Coombs/Watt R60. Retail price, auction hammer would normally be well under this."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$550 (was $660, MSRP $850), first prefix V/15, Very Fine",
+   "currency": "AUD",
+   "aud_price": 550,
+   "date": "live, seen 2026-11-06",
+   "venue": "Bradford Coins, Cairns",
+   "url": "https://shop.bradfordcoins.com.au/1949-ten-pounds-coombs-watt-first-prefix-v-15-banknote/",
+   "same_item": "close",
+   "note": "Page opened. First prefix commands a premium over V/17, so overstates this lot. Dealer asking price."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "Passed in, estimate $650-$850 for 4 notes (10/-, 1, 5, 10 pound Coombs/Watt, all VF)",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "2016",
+   "venue": "Smalls Auctions via Invaluable",
+   "url": "https://www.invaluable.com/auction-lot/australia-coombs-watt-10-one-pound-5-pound-10-pou-317-c-0f748b7953",
+   "same_item": "category guide",
+   "note": "Page opened. Old (2016) and a set of four notes, so only a weak ceiling signal."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$91",
+   "currency": "AUD",
+   "aud_price": 91,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/940046989701",
+   "same_item": "partial",
+   "note": "1949 Coombs/Watt 10 pound, 9 bids, grade not stated, likely lower grade",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$189",
+   "currency": "AUD",
+   "aud_price": 189,
+   "date": "2026-08-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/178124655174",
+   "same_item": "partial",
+   "note": "V18 prefix, BIN, 'condition in photos', grade not confirmed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$199",
+   "currency": "AUD",
+   "aud_price": 199,
+   "date": "2026-10-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407225621344",
+   "same_item": "partial",
+   "note": "V 22 prefix, BIN, grade not confirmed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$445.90",
+   "currency": "AUD",
+   "aud_price": 445.9,
+   "date": "2026-09-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267770393317",
+   "same_item": "yes",
+   "note": "R-60 VF-EF, 1 bid",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$450",
+   "currency": "AUD",
+   "aud_price": 450,
+   "date": "2026-10-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117335817201",
+   "same_item": "partial",
+   "note": "BIN (best offer may apply), grade not stated, probably higher grade",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$466.32",
+   "currency": "AUD",
+   "aud_price": 466.32,
+   "date": "2026-10-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/127923834499",
+   "same_item": "partial",
+   "note": "first prefix R60F, scarcer prefix, premium",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "work/comps.py (ten pound, banknote coombs, 10 pound, ten pounds, R59, \u00a310 note; pipeline/comps.py crashed with a TypeError); Gowans API 'ten pound note' and lot 401464; WebSearch for Coombs Watt 1949 ten pound sold (x2); opened Sterling & Currency, Bradford Coins, Invaluable lot. No Noble or Downies result found. eBay sold listings would help: search 'Coombs Watt ten pound R60 VF' with Sold Items filter. | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode) | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold items: 1949 Coombs Watt ten pound R60 (also Noble Numismatics and Downies archives for 1949 R60 VF)",
+ "rate_note": "All prices AUD, no conversion needed.",
+ "viewing_check": "Check corners, folds (hold to light), pinholes, paper crispness and any pressing to grade VF vs EF. Compare with the dealer label.",
+ "chrome_done": true
+}

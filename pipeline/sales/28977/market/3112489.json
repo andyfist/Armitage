@@ -1,7 +1,7 @@
 {
  "cdid": 3112489,
  "lot": 1461,
- "identification": "Eight South Australian plates: RDT-919 x2, URD-250 x2 (Festival State), RMD-578, RZF-705, SL-599 small, and black SA 132-495 (1930s-50s style embossed, six digits). Mostly ordinary 1960s-80s plates, not low-number or rights-bearing.",
+ "identification": "Eight South Australian plates: RDT-919 x2, URD-250 x2 (Festival State), RMD-578, RZF-705, small SL-599, and black-ground SA 132-495 numeric; all weathered, ordinary 1960s-80s style",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,60 @@
    "url": "https://auction.numericplatessa.com.au/lots/view/5-1NC1G2/sa-555-numeric-plate",
    "same_item": "category guide",
    "note": "Not comparable: low-digit numeric plate rights. Lot plates are 6-digit/ordinary and the plate rights are not what is being sold. Snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.00",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-10-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/317166319229",
+   "same_item": "partial",
+   "note": "Single black SA numeric car plate 132-199, same style as lot 132-495",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.23",
+   "currency": "AUD",
+   "aud_price": 51.23,
+   "date": "2026-10-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/136819007189",
+   "same_item": "partial",
+   "note": "eBay AU converted. Single genuine used South Australia plate",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.97",
+   "currency": "AUD",
+   "aud_price": 32.97,
+   "date": "2026-10-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318835296656",
+   "same_item": "partial",
+   "note": "Single SA plate (Adelaide), best offer accepted",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$12.00",
+   "currency": "AUD",
+   "aud_price": 12,
+   "date": "2026-10-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/235675721766",
+   "same_item": "partial",
+   "note": "Single vintage SA plate, BIN (listed A$15)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py (number plates, number plate, licence plate, south australian plates); pipeline/comps.py crashed (None error); Gowans API for number plates, SA plates, licence plates; WebSearch x3 (SA black plate sold, site:armitage number plates, SA embossed black plate). No SA ordinary-plate sold results found; big prices are for low-digit numeric plates only. eBay sold listings would help.",
- "needs_chrome": true,
+ "searches_tried": "work/comps.py (number plates, number plate, licence plate, south australian plates); pipeline/comps.py crashed (None error); Gowans API for number plates, SA plates, licence plates; WebSearch x3 (SA black plate sold, site:armitage number plates, SA embossed black plate). No SA ordinary-plate sold results found; big prices are for low-digit numeric plates only. eBay sold listings would help. | chrome: eBay AU sold: south australian number plate (32 results, singles A$12-60) | chrome: eBay AU sold: south australian number plate (32 results, singles A$12-60)",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: vintage South Australian number plate black white SA; also 'SA number plates job lot'",
- "viewing_check": "Check the black plate is a genuine early embossed one (any year or tab marks, 'SA' stacked at left); check whether any plate is a low-digit or sought combination; check rust and flatness. Six-digit numbers add little.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check the black 132-495 plate for being genuine embossed pre-1960s, rust-through or bends, and the Festival State pair condition.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

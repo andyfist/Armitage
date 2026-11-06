@@ -1,7 +1,7 @@
 {
  "cdid": 3111240,
  "lot": 978,
- "identification": "Six 750ml Australian shiraz reds: two Penfolds Kalimna Shiraz Bin 28 (older cream label, red wax-style capsule, vintage illegible, likely 1990s; one with stained label), Miranda Barossa Old Vine Shiraz Grenache, Forty's Fool, Certain Views Shiraz (2004), Road to Robe 2001 Shiraz. Only the Bin 28 pair has real resale value; the other four are ordinary drinking wines, probably $8-20 each.",
+ "identification": "Six bottles Australian shiraz: 2 x Penfolds Kalimna Shiraz Bin 28 (one label stained), Miranda Barossa Old Vine Shiraz Grenache, Forty Fool, Certain Views Shiraz 2004, Road to Robe 2001 Shiraz",
  "entries": [
   {
    "kind": "SOLD",
@@ -114,9 +114,10 @@
    "note": "Snippet only via search summary; the exact lot URL was not matched to each price, so treat as unverified. Roughly A$30-45 a bottle, premium not included."
   }
  ],
- "searches_tried": "comps.py (pipeline) kalimna bin 28, penfolds bin 28, mixed shiraz; work/comps.py kalimna shiraz, miranda old vine, road to robe, certain views (nothing relevant); Gowans API penfolds bin 28 (no results); WebSearch Penfolds Kalimna Bin 28 1990s auction. No sold data found for the four other wines. eBay sold listings (Bin 28 1990s, Miranda Old Vine Shiraz Grenache) would help.",
+ "searches_tried": "comps.py (pipeline) kalimna bin 28, penfolds bin 28, mixed shiraz; work/comps.py kalimna shiraz, miranda old vine, road to robe, certain views (nothing relevant); Gowans API penfolds bin 28 (no results); WebSearch Penfolds Kalimna Bin 28 1990s auction. No sold data found for the four other wines. eBay sold listings (Bin 28 1990s, Miranda Old Vine Shiraz Grenache) would help. | chrome: eBay AU sold: penfolds kalimna bin 28 shiraz (0 results, eBay AU does not carry alcohol sales). Nothing found.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: Penfolds Kalimna Bin 28 Shiraz 1990s bottle; secondary check on Wine-Searcher average prices for the vintage once known.",
  "rate_note": "GBP1=A$2.0 assumed (rough). Hammer prices exclude buyer's premium.",
- "viewing_check": "Read the Bin 28 vintages off the labels/back labels (1990s vs 2000s matters, 1996/1998 stronger); check fill levels and cork/capsule condition, the stained label bottle, and any seepage. Also read Miranda vintage."
+ "viewing_check": "Read vintages on the two Bin 28 labels, fill levels/ullage, cork and capsule condition, label damage; vintage drives value.",
+ "chrome_done": true
 }

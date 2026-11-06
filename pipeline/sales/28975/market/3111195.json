@@ -1,7 +1,7 @@
 {
  "cdid": 3111195,
  "lot": 933,
- "identification": "Eight Australian 1966 round 50c coins (80% silver, 13.28g fine silver each, about 106g total). Photo shows 8 coins, all Coat of Arms reverse, bright, light wear. Obverses not shown, so date is assumed from the lot title; check for 1966 and that none is a later copper-nickel or square coin.",
+ "identification": "Eight Australian round 1966 50c silver coins, reverse Coat of Arms, bright with light wear (photo shows reverses only)",
  "entries": [
   {
    "kind": "SOLD",
@@ -81,8 +81,9 @@
    "note": "Single 1966 round 50c, 12 bids; singles typically $30-40 Jun-Oct 2026. Snippet/database only, not verified by opening."
   }
  ],
- "searches_tried": "Local pipeline/comps.py (failed with a code error), work/comps.py three queries (1966 50c, round 50c 1966, 8 round 50c); Gowans API search 1966 50c. No web search or melt-price lookup done. eBay sold prices for lots of 1966 round 50c would add retail context. Gowans buyer pool pays roughly $28-38 per coin in Jun-Oct 2026 for multi-coin lots, so 8 coins implies about $225-300 hammer, with the 6-coin $280 in Feb 2026 as a high.",
+ "searches_tried": "Local pipeline/comps.py (failed with a code error), work/comps.py three queries (1966 50c, round 50c 1966, 8 round 50c); Gowans API search 1966 50c. No web search or melt-price lookup done. eBay sold prices for lots of 1966 round 50c would add retail context. Gowans buyer pool pays roughly $28-38 per coin in Jun-Oct 2026 for multi-coin lots, so 8 coins implies about $225-300 hammer, with the 6-coin $280 in Feb 2026 as a high. | chrome: eBay AU sold: 4 queries (1966 50c round silver coins lot / 1966 round 50c silver coins / 1966 50c silver coins 8 / 1966 round 50c) all returned eBay error page (throttled). Nothing found. | chrome: eBay AU sold: 4 queries (1966 50c round silver coins lot / 1966 round 50c silver coins / 1966 50c silver coins 8 / 1966 round 50c) all returned eBay error page (throttled). Nothing found.",
  "needs_chrome": false,
- "viewing_check": "Check obverses: all dated 1966 (round, silver), no later 1969+ copper-nickel round 50c mixed in. Look for toning, scratches or any uncirculated gloss.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Turn each coin over: confirm all are dated 1966 round 80% silver (not 1967+ cupronickel or square), and note any wear or toning. Melt value is about 106g fine silver.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

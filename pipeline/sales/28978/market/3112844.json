@@ -1,7 +1,7 @@
 {
  "cdid": 3112844,
  "lot": 2003,
- "identification": "Leitner step-over e-bike (older model), rear-rack battery, front fork, disc brakes, helmet, rack bag, ST Li-ion charger. Model not identifiable from photos.",
+ "identification": "Leitner step-over electric bike, black, rear-rack battery, disc brakes, helmet and rack bag (photo).",
  "entries": [
   {
    "kind": "SOLD",
@@ -103,9 +103,10 @@
    "note": "Snippet only. New retail for Leitner range; the lot looks like an older step-over model, so well below this."
   }
  ],
- "searches_tried": "comps.py (pipeline errored, work/comps.py used: 4 e-bike sales $130-$360, no Leitner); Gowans API for leitner, e-bike, ebike, electric bicycle; WebSearch Leitner used price; WebSearch site:armitage (no e-bike past results). eBay sold listings would help: not accessible. Gowans lot URLs not given by API, so API search URL cited.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline errored, work/comps.py used: 4 e-bike sales $130-$360, no Leitner); Gowans API for leitner, e-bike, ebike, electric bicycle; WebSearch Leitner used price; WebSearch site:armitage (no e-bike past results). eBay sold listings would help: not accessible. Gowans lot URLs not given by API, so API search URL cited. | chrome: eBay AU sold: leitner electric bike (60 results, none Leitner bikes); leitner ebike bicycle AU only (one Leitner Venice Cruiser charger+toolkit sold A$21.90 6 Sep 2026, not a bike so not recorded) | chrome: eBay AU sold: leitner electric bike (60 results, none Leitner bikes); leitner ebike bicycle AU only (one Leitner Venice Cruiser charger+toolkit sold A$21.90 6 Sep 2026, not a bike so not recorded)",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: Leitner electric bike (also used Leitner e-bike)",
- "viewing_check": "Battery: check it holds charge/shows charge lights, key present, model name and age on frame/battery label, brakes and tyres.",
- "rate_note": "All AUD, no conversion needed."
+ "viewing_check": "Check battery holds charge/age, charger included and matching, motor runs, brakes, tyres, key present.",
+ "rate_note": "All AUD, no conversion needed.",
+ "chrome_done": true
 }

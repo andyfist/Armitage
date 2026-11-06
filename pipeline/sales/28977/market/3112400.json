@@ -1,12 +1,160 @@
-{"cdid":3112400,"lot":1679,"identification":"Tray of about 20 antique beech moulding planes (hollows, rounds, snipe bills etc, unmarked in photos) plus a brass-mounted wedge-arm sliding-arm plough plane with brass depth stop and brass-ferruled arms. No makers stamps visible.","entries":[
-{"kind":"SOLD","price":"$350 hammer","currency":"AUD","aud_price":350,"date":"2026-04-26","venue":"Gowans Auctions Hobart lot 405942 BOX OF MOULDING PLANES (12 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=moulding+planes","same_item":"close","note":"Local database; about 12 planes; contents/makers not seen, so may include marked ones. Premium extra. Smaller count than this lot but no plough plane."},
-{"kind":"SOLD","price":"$230 hammer","currency":"AUD","aud_price":230,"date":"2026-03-30","venue":"Gowans Auctions lot 401103 SASH FILLISTER PLANE & PLOUGH PLANE","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=plough+planes","same_item":"close","note":"Two planes only, one a plough; shows a wooden plough plane alone can reach about $100-230. Page not opened; API listing."},
-{"kind":"SOLD","price":"$230 hammer","currency":"AUD","aud_price":230,"date":"2026-03-30","venue":"Gowans Auctions lot 401102 BOX OF ENGLISH MOULDING PLANES","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=moulding+planes","same_item":"close","note":"About 12 planes, 4 bids."},
-{"kind":"SOLD","price":"$360 hammer","currency":"AUD","aud_price":360,"date":"2026-09-06","venue":"Gowans Auctions lot 435638 BOX OF VINTAGE MOSELEY & SONS WOODWORKING PLANES","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=woodworking+planes","same_item":"close","note":"Named maker (Moseley) lifted it; this lot has no visible maker."},
-{"kind":"SOLD","price":"$260 hammer","currency":"AUD","aud_price":260,"date":"2026-09-06","venue":"Gowans Auctions lot 435654 BOX OF VINTAGE WOODWORKING PLANES","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=woodworking+planes","same_item":"close","note":"Box of wood planes."},
-{"kind":"SOLD","price":"$95 hammer","currency":"AUD","aud_price":95,"date":"2026-09-13","venue":"Gowans Auctions lot 438044 BOX OF 12 ASST WOOD PLANES","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wood+planes","same_item":"close","note":"Low end for a mixed box."},
-{"kind":"SOLD","price":"$55-90 hammer","currency":"AUD","aud_price":80,"date":"2025-10 to 2026-07","venue":"Gowans lots 369770 ($80), 377633 ($90), 425212 ($55)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=molding+planes","same_item":"close","note":"Plain boxes of about 11-12 planes, low end."},
-{"kind":"SOLD","price":"$105 hammer","currency":"AUD","aud_price":105,"date":"2026-05-24","venue":"Gowans lot 412168 STANLEY PLOUGH PLANE (6 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=plough+plane","same_item":"category guide","note":"Metal Stanley plough, not wooden; a guide only."},
-{"kind":"SOLD","price":"GBP 440","currency":"GBP","aud_price":850,"date":"unknown","venue":"Gorringes UK, fifty early 20th century moulding planes","url":"https://auction.gorringe s.co.uk/auction-lot-detail/Fifty-early-20th-century-woodworking-moulding-planes,-etc.-b&salelot=271025++2260+&refno=90178578","same_item":"category guide","note":"Snippet only, unverified, date not seen. Rate about 1 GBP = 1.95 AUD (assumed). About 17 AUD per plane."}
-],
-"searches_tried":"Local comps.py (pipeline version crashed on a None field; work/comps.py also not usable, so I used the Gowans API directly) for moulding planes, plough plane, tray planes; Gowans API moulding+planes and plough+plane; WebSearch armitage site (no useful hits), WebSearch general moulding/plough planes (snippets only, no prices for Carters). Carters plough/moulding category pages are the best Australian source but returned 429. eBay sold (Closed) would help: needs Chrome.","needs_chrome":true,"chrome_hint":"eBay AU sold listings: 'wooden moulding planes lot' and 'sliding arm plough plane brass'; also Carters sold lots categories planes-moulding and planes-plough","viewing_check":"Look at the toe/heel ends of every plane for maker stamps (Moseley, Mathieson, Griffiths, Varvill, Sorby, etc). Check the plough plane for a maker stamp, ivory/boxwood or rosewood fittings, and cracks at the fence/arms. Count planes and note any complete matched sets or rare profiles.","rate_note":"All AUD except one GBP snippet at about 1.95 AUD per GBP (assumed)."}
+{
+ "cdid": 3112400,
+ "lot": 1679,
+ "identification": "Tray of about 20 antique beech moulding planes plus a brass-mounted sliding-arm (wedge-arm) plough plane; no makers stamps seen in photo",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$350 hammer",
+   "currency": "AUD",
+   "aud_price": 350,
+   "date": "2026-04-26",
+   "venue": "Gowans Auctions Hobart lot 405942 BOX OF MOULDING PLANES (12 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=moulding+planes",
+   "same_item": "close",
+   "note": "Local database; about 12 planes; contents/makers not seen, so may include marked ones. Premium extra. Smaller count than this lot but no plough plane."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230 hammer",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions lot 401103 SASH FILLISTER PLANE & PLOUGH PLANE",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=plough+planes",
+   "same_item": "close",
+   "note": "Two planes only, one a plough; shows a wooden plough plane alone can reach about $100-230. Page not opened; API listing."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230 hammer",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions lot 401102 BOX OF ENGLISH MOULDING PLANES",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=moulding+planes",
+   "same_item": "close",
+   "note": "About 12 planes, 4 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$360 hammer",
+   "currency": "AUD",
+   "aud_price": 360,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions lot 435638 BOX OF VINTAGE MOSELEY & SONS WOODWORKING PLANES",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=woodworking+planes",
+   "same_item": "close",
+   "note": "Named maker (Moseley) lifted it; this lot has no visible maker."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$260 hammer",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions lot 435654 BOX OF VINTAGE WOODWORKING PLANES",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=woodworking+planes",
+   "same_item": "close",
+   "note": "Box of wood planes."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$95 hammer",
+   "currency": "AUD",
+   "aud_price": 95,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions lot 438044 BOX OF 12 ASST WOOD PLANES",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wood+planes",
+   "same_item": "close",
+   "note": "Low end for a mixed box."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55-90 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2025-10 to 2026-07",
+   "venue": "Gowans lots 369770 ($80), 377633 ($90), 425212 ($55)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=molding+planes",
+   "same_item": "close",
+   "note": "Plain boxes of about 11-12 planes, low end."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-05-24",
+   "venue": "Gowans lot 412168 STANLEY PLOUGH PLANE (6 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=plough+plane",
+   "same_item": "category guide",
+   "note": "Metal Stanley plough, not wooden; a guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 440",
+   "currency": "GBP",
+   "aud_price": 850,
+   "date": "unknown",
+   "venue": "Gorringes UK, fifty early 20th century moulding planes",
+   "url": "https://auction.gorringe s.co.uk/auction-lot-detail/Fifty-early-20th-century-woodworking-moulding-planes,-etc.-b&salelot=271025++2260+&refno=90178578",
+   "same_item": "category guide",
+   "note": "Snippet only, unverified, date not seen. Rate about 1 GBP = 1.95 AUD (assumed). About 17 AUD per plane."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.38",
+   "currency": "AUD",
+   "aud_price": 85.38,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267815557219",
+   "same_item": "yes",
+   "note": "Collection of 12 vintage wooden moulding planes",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$44.63",
+   "currency": "AUD",
+   "aud_price": 44.63,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/377601156866",
+   "same_item": "yes",
+   "note": "19 vintage wooden moulding planes, various styles",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$64.04",
+   "currency": "AUD",
+   "aud_price": 64.04,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227009500086",
+   "same_item": "yes",
+   "note": "10 vintage antique wooden moulding planes",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$13.56",
+   "currency": "AUD",
+   "aud_price": 13.56,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/377605783037",
+   "same_item": "yes",
+   "note": "9 antique wooden moulding planes, low end",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline version crashed on a None field; work/comps.py also not usable, so I used the Gowans API directly) for moulding planes, plough plane, tray planes; Gowans API moulding+planes and plough+plane; WebSearch armitage site (no useful hits), WebSearch general moulding/plough planes (snippets only, no prices for Carters). Carters plough/moulding category pages are the best Australian source but returned 429. eBay sold (Closed) would help: needs Chrome. | chrome: eBay AU sold: wooden moulding planes (many multi-plane lots, A$13-85 per lot); brass plough plane sliding arm hit eBay Error Page (throttled), Carters not tried. | chrome: eBay AU sold: wooden moulding planes (many multi-plane lots, A$13-85 per lot); brass plough plane sliding arm hit eBay Error Page (throttled), Carters not tried.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'wooden moulding planes lot' and 'sliding arm plough plane brass'; also Carters sold lots categories planes-moulding and planes-plough",
+ "viewing_check": "Look for maker stamps on toes/heels (Moseley, Mathieson, Varvill, Greenslade etc) and the brass sliding-arm plough (check arms, fence, wedges, irons all present). A stamped plough plane could be worth well more than the moulding planes.",
+ "rate_note": "All AUD except one GBP snippet at about 1.95 AUD per GBP (assumed).",
+ "chrome_done": true
+}

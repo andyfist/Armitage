@@ -1,7 +1,7 @@
 {
  "cdid": 3112315,
  "lot": 1409,
- "identification": "Kelly Worlds Finest Dandenong (Victorian made) felling axe, head stamped WORLDS FINEST / KELLY oval / DANDENONG, on a timber handle. Title says True Temper but stamp is Kelly. Head has been buffed (grind cross-hatching) and is pitted.",
+ "identification": "Kelly Worlds Finest Dandenong felling axe on long curved timber handle; head broad and buffed bright (cross-hatched grinding, pitted); catalogue says True Temper, possibly Canadian-made Kelly True Temper; pattern (Tasmanian vs other) and weight not confirmed from photo",
  "entries": [
   {
    "kind": "SOLD",
@@ -123,11 +123,84 @@
    "url": "https://stumptownaxes.com/products/kelly-world-s-finest-dandenong",
    "same_item": "category guide",
    "note": "Asking prices only, snippet only. Dealer US$750 not converted (no rate used); aud_price shows low end of used asks."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$275.00",
+   "currency": "AUD",
+   "aud_price": 275,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237148467815",
+   "same_item": "yes",
+   "note": "Kelly Dandenong Worlds Finest axe 4.5lb, made in Australia, Tassie pattern, 32 bids, with handle apparently",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$271.00",
+   "currency": "AUD",
+   "aud_price": 271,
+   "date": "2026-10-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117472565837",
+   "same_item": "yes",
+   "note": "Kelly Dandenong Worlds Finest 4lb axe head, Canada True Temper, 27 bids, head only",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$107.06",
+   "currency": "AUD",
+   "aud_price": 107.06,
+   "date": "2026-10-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/960077671023",
+   "same_item": "yes",
+   "note": "Kelly 4.5lb Worlds Finest Dandenong, made Canada True Temper, 4 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$184.65",
+   "currency": "AUD",
+   "aud_price": 184.65,
+   "date": "2026-10-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/188992763843",
+   "same_item": "yes",
+   "note": "Kelly (5lb?) Worlds Finest Dandenong head, True Temper made in Canada, 28 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.00",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-10-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/206628142615",
+   "same_item": "partial",
+   "note": "Kelly Worlds Finest Dandenong 4lb head, made in Australia, BIN, probably poor or bargain condition",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$456.50",
+   "currency": "AUD",
+   "aud_price": 456.5,
+   "date": "2026-10-20",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/206622771447",
+   "same_item": "partial",
+   "note": "Kelly Dandenong Tasmanian pattern head, True Temper 4.5lb, 31 bids; top end, good condition collector pattern",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) kelly axe, dandenong, axe worlds finest; work/comps.py kelly axe, dandenong axe, axe --min-price 80; Gowans API kelly axe (only past hit: $40 mixed lot; a 'KELLY AXE & HATCHET' lot created 2026-11-01 is from the current/upcoming sale so skipped); WebSearch Kelly Dandenong axe sold auction price (eBay/PicClick snippets only, no auction house results). eBay sold listings would settle it. Generic tool, stopped at limited searches. Local Armitage comps: Kelly axes $90-290 hammer, median about $110; the one explicit Dandenong sold $260.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline) kelly axe, dandenong, axe worlds finest; work/comps.py kelly axe, dandenong axe, axe --min-price 80; Gowans API kelly axe (only past hit: $40 mixed lot; a 'KELLY AXE & HATCHET' lot created 2026-11-01 is from the current/upcoming sale so skipped); WebSearch Kelly Dandenong axe sold auction price (eBay/PicClick snippets only, no auction house results). eBay sold listings would settle it. Generic tool, stopped at limited searches. Local Armitage comps: Kelly axes $90-290 hammer, median about $110; the one explicit Dandenong sold $260. | chrome: eBay AU sold: kelly dandenong axe (error), kelly worlds finest axe (52 results, Kelly heads A$60-456, Tassie pattern up to A$1,300)",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: Kelly Dandenong axe (also 'Kelly Worlds Finest axe head'), last 12 months, used/polished heads",
  "rate_note": "All AUD, no conversion except noted.",
- "viewing_check": "Check the head weight/size marking (2lb, 4.5lb), any Tasmanian pattern stamp, degree of pitting and whether the poll and edge are intact or ground down; handle crack or replacement. Polishing lowers collector appeal."
+ "viewing_check": "Read the head stamps (Dandenong, Made in Australia vs Canada True Temper), weigh it, identify the pattern (Tasmanian pattern is the premium one), check for cracks and eye damage, handle fit; heavy buffing may cut value for collectors.",
+ "chrome_done": true
 }

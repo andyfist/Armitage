@@ -1,7 +1,7 @@
 {
  "cdid": 3112405,
  "lot": 1684,
- "identification": "Tray of about 13 old wooden planes: roughly 9 beech moulding/rebate planes, a wedge-arm plough plane with brass thumbscrew and depth stop (fence arms tied with string), a long jointer/fore plane with closed tote and inset striking button, and a coffin smoother. No maker stamps seen in photos (toes and ends not shown). Photos checked on contact sheet.",
+ "identification": "Tray of about 13 old wooden planes: beech moulding planes, wedge-arm plough plane with brass thumbscrew, long jointer with closed tote, coffin smoother; no maker stamps seen.",
  "entries": [
   {
    "kind": "SOLD",
@@ -145,11 +145,36 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=molding+planes",
    "same_item": "close",
    "note": "Cheapest recent box of moulding planes, shows downside. Page opened: no, Gowans API JSON record seen; AUD so no conversion; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-08-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168622823545",
+   "same_item": "partial",
+   "note": "Single Mathieson wooden plough plane with brass depth stop, similar to the plough plane in the lot",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-10-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336783090709",
+   "same_item": "partial",
+   "note": "Single W Greenslade (Bristol) wooden plough plane, Best Offer accepted",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for wooden plough plane, plough plane, moulding planes, wood planes; Gowans API for wooden planes, plough plane, jointer plane, moulding/woodworking/wood planes; WebSearch site:armitage.bidsonline.com.au found no past plane lots. No SOLD price seen outside Gowans (no UNSOLD or ASKING gathered). 13 Gowans SOLD entries kept of about 17 hits. Observed range: ordinary unmarked boxes of about 12 planes $55-170 hammer; named-maker or strong boxes $230-360 hammer. Median about $170-230. eBay sold prices for antique wooden plough plane and moulding plane sets would settle it better.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for wooden plough plane, plough plane, moulding planes, wood planes; Gowans API for wooden planes, plough plane, jointer plane, moulding/woodworking/wood planes; WebSearch site:armitage.bidsonline.com.au found no past plane lots. No SOLD price seen outside Gowans (no UNSOLD or ASKING gathered). 13 Gowans SOLD entries kept of about 17 hits. Observed range: ordinary unmarked boxes of about 12 planes $55-170 hammer; named-maker or strong boxes $230-360 hammer. Median about $170-230. eBay sold prices for antique wooden plough plane and moulding plane sets would settle it better. | chrome: eBay AU sold: 'wooden plough plane' (only 2 results); 'wooden planes job lot moulding' (error page) | chrome: eBay AU sold: 'wooden plough plane' (only 2 results); 'wooden planes job lot moulding' (error page)",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold/completed listings: 'antique wooden plough plane' and 'wooden moulding planes lot' (Australia), last 90 days",
- "viewing_check": "Check toes and heels of every moulding plane and the plough plane and jointer for maker stamps (Moseley, Mathieson, Greenslade, Sorby, Marples, Varvill etc, or Tasmanian makers/owner names); check plough plane for boxwood or rosewood and complete fence arms and nuts; look for cracks, worm, and irons present in all.",
- "rate_note": "All entries AUD, no conversion."
+ "viewing_check": "Look for maker stamps on toe/heel (Mathieson, Moseley, Varvill, Greenslade, Marples etc. add value), cracks, intact wedges/irons, complete plough fence arms/skates.",
+ "rate_note": "All entries AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112459,
  "lot": 1739,
- "identification": "Set of eight wood lathe turning chisels and gouges with beech handles and ferrules, blades stamped CHINA, in a card tray. Not woodworking bench chisels. Budget import set, little used.",
+ "identification": "Set of eight lathe turning chisels/gouges with beech handles and ferrules, blades stamped CHINA, in a card tray; wood lathe tools not bench chisels.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,10 +79,59 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2448015&chid=23723&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Marples set, better brand. Local database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.60",
+   "currency": "AUD",
+   "aud_price": 47.6,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/311673699077",
+   "same_item": "yes",
+   "note": "8pc wood lathe chisel set, Buy It Now, new budget import set",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$15.80",
+   "currency": "AUD",
+   "aud_price": 15.8,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/278151734744",
+   "same_item": "partial",
+   "note": "Lathe wood turning chisel set (count not checked), low end",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.15",
+   "currency": "AUD",
+   "aud_price": 59.15,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117490909351",
+   "same_item": "partial",
+   "note": "8 Disston lathe turning chisels, USA made, 2 bids; better brand",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$160.10",
+   "currency": "AUD",
+   "aud_price": 160.1,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158361946513",
+   "same_item": "no",
+   "note": "Marples 8 woodturning chisel set, premium UK brand, not comparable",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) x3 with turning/lathe/chisels/wood words; Gowans API searches 'lathe chisels' and 'turning chisels'. No web search done: item is generic budget import tools. eBay sold prices for 'chinese 8 piece wood turning chisel set' would settle it but are low value.",
+ "searches_tried": "comps.py (pipeline and work) x3 with turning/lathe/chisels/wood words; Gowans API searches 'lathe chisels' and 'turning chisels'. No web search done: item is generic budget import tools. eBay sold prices for 'chinese 8 piece wood turning chisel set' would settle it but are low value. | chrome: eBay AU sold: '8 piece wood turning chisel set' (error page); 'wood turning chisel set'",
  "needs_chrome": false,
- "viewing_check": "Check whether blades are HSS or plain carbon steel and whether any handle or blade shows a maker's mark other than CHINA; confirm all eight pieces are present and edges are not chipped.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check blade condition, handles cracks, that all 8 are there. Budget Chinese sets sell about A$16-48 on eBay, lot hammer already $15.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

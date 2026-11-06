@@ -1,6 +1,70 @@
-{"cdid":3111072,"lot":810,"identification":"Kamikoto (Kensei/Senshi style) two-knife set, chef/slicer plus utility knife, ash wood box, COA, ash knife rest. Heavily marketed US direct-to-consumer brand.","entries":[
-{"kind":"SOLD","price":"US$86 hammer (12% premium extra)","currency":"USD","aud_price":123,"date":"2026-04-07","venue":"Sound Estate Company (US)","url":"https://soundestatecompany.com/auctions/106094","same_item":"close","note":"Page opened. 9.5 inch Kamikoto boxed set, never used, fitted wooden case, no stand mentioned. Rate used 1 USD = 1.43 AUD (from eBay AU conversion seen)."},
-{"kind":"SOLD","price":"US$500 hammer (premium extra)","currency":"USD","aud_price":715,"date":"2023-05-20","venue":"Brunk Auctions (US)","url":"https://live.brunkauctions.com/online-auctions/brunk/kamikoto-kanpeki-knife-set-4828716","same_item":"close","note":"Page opened. Kanpeki 3-knife set, worn, estimate 100-300, 10 bids. Outlier, old, US estate sale, different set; do not rely on it. Rate 1.43."},
-{"kind":"ASKING","price":"AU$117.77 to AU$312.49 plus postage","currency":"AUD","aud_price":118,"date":"live, seen 2026-11-06","venue":"eBay AU product page (new sets, various lines)","url":"https://www.ebay.com.au/p/27034903663","same_item":"category guide","note":"Page opened via fetch summary. Mostly new Kanpeki/Kanepki/Senshi sets, asking prices, not paid. Range low end AU$118."}],
-"searches_tried":"Local comps.py (pipeline errored, work/comps.py kamikoto: no sales found), Gowans API kamikoto: no results; WebSearch for Kamikoto auction sold, site:armitage (nothing), Kamikoto AU second hand; fetched Sound Estate, Brunk, eBay AU product page. eBay sold listings for 'Kamikoto Kensei' / 'Kamikoto knife set' would settle it.",
-"needs_chrome":true,"chrome_hint":"eBay AU sold and completed: Kamikoto knife set (also Kensei, Senshi, Kanpeki)","rate_note":"1 USD = 1.43 AUD, taken from the eBay AU conversion on the page seen","viewing_check":"Check the box contents are complete (both knives, rest, COA), blade condition and chips, and the model name on the certificate or blade (Kensei, Senshi, Kanpeki) to match comps."}
+{
+ "cdid": 3111072,
+ "lot": 810,
+ "identification": "Kamikoto cased two-knife set (chef/slicer plus utility) in ash box with certificate of authenticity and ash knife rest/stand",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "US$86 hammer (12% premium extra)",
+   "currency": "USD",
+   "aud_price": 123,
+   "date": "2026-04-07",
+   "venue": "Sound Estate Company (US)",
+   "url": "https://soundestatecompany.com/auctions/106094",
+   "same_item": "close",
+   "note": "Page opened. 9.5 inch Kamikoto boxed set, never used, fitted wooden case, no stand mentioned. Rate used 1 USD = 1.43 AUD (from eBay AU conversion seen)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$500 hammer (premium extra)",
+   "currency": "USD",
+   "aud_price": 715,
+   "date": "2023-05-20",
+   "venue": "Brunk Auctions (US)",
+   "url": "https://live.brunkauctions.com/online-auctions/brunk/kamikoto-kanpeki-knife-set-4828716",
+   "same_item": "close",
+   "note": "Page opened. Kanpeki 3-knife set, worn, estimate 100-300, 10 bids. Outlier, old, US estate sale, different set; do not rely on it. Rate 1.43."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$117.77 to AU$312.49 plus postage",
+   "currency": "AUD",
+   "aud_price": 118,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay AU product page (new sets, various lines)",
+   "url": "https://www.ebay.com.au/p/27034903663",
+   "same_item": "category guide",
+   "note": "Page opened via fetch summary. Mostly new Kanpeki/Kanepki/Senshi sets, asking prices, not paid. Range low end AU$118."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.70",
+   "currency": "AUD",
+   "aud_price": 159.7,
+   "date": "2026-10-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267573494562",
+   "same_item": "partial",
+   "note": "Pre-owned Kamikoto Japanese handcrafted kitchen knives, set size and box not confirmed; price includes A$9.70 buyer protection fee",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84.91",
+   "currency": "AUD",
+   "aud_price": 84.91,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298027088078",
+   "same_item": "partial",
+   "note": "eBay AU converted, listed from Canada. Brand new Kanpeki 3-knife set in wood box, different model",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline errored, work/comps.py kamikoto: no sales found), Gowans API kamikoto: no results; WebSearch for Kamikoto auction sold, site:armitage (nothing), Kamikoto AU second hand; fetched Sound Estate, Brunk, eBay AU product page. eBay sold listings for 'Kamikoto Kensei' / 'Kamikoto knife set' would settle it. | chrome: eBay AU sold: kamikoto knife (10 results, mostly whetstones/rolls); kamikoto knife set wooden box stand (0) | chrome: eBay AU sold: kamikoto knife (10 results, mostly whetstones/rolls); kamikoto knife set wooden box stand (0)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold and completed: Kamikoto knife set (also Kensei, Senshi, Kanpeki)",
+ "rate_note": "1 USD = 1.43 AUD, taken from the eBay AU conversion on the page seen",
+ "viewing_check": "Check blades for chips/rust and that both knives are genuine Kamikoto (stamped logo), box, COA and stand all present.",
+ "chrome_done": true
+}

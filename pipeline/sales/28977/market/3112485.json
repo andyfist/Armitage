@@ -1,6 +1,81 @@
-{"cdid":3112485,"lot":1457,"identification":"Modern reproduction steel armour set: pair of articulated finger gauntlets with leather glove liners, barbute (Italian) style helmet with leather liner, almond/eye-shaped shield with central boss. Thin-gauge (likely 16-18g) re-enactment or decorative grade. No maker's marks visible in the photos. Light rust on helmet and gauntlets, heavy rust on shield.","entries":[
-{"kind":"SOLD","price":"$120 hammer (13 bids, premium extra)","currency":"AUD","aud_price":120,"date":"2026-08-09 (listing date, sale about a week later)","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 429952, REPRODUCTION KNIGHTS HELMET & SHIELD)","same_item":"close","note":"From the Gowans API and local comps database, no description or photos checked, so condition unknown. Helmet and shield only, no gauntlets. Same Tasmanian buyer pool, best local comp. Shows 13 bids of interest."},
-{"kind":"SOLD","price":"$140 hammer","currency":"AUD","aud_price":140,"date":"2026-02-15 (listing date)","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=helmet (REPRODUCTION ROMAN HELMET)","same_item":"category guide","note":"API result, single reproduction helmet only. Category guide for reproduction helmets locally. Similar: REPRODUCTION SPARTAN STYLE HELMET $130 (2026-05-24)."},
-{"kind":"ASKING","price":"USD 129.95 (new 18g barbute with liner)","currency":"USD","aud_price":198,"date":"live, seen 2026-11-06","venue":"IMA-USA (retail)","url":"https://www.ima-usa.com/products/medieval-north-italian-barbute-18g-steel-with-leather-liner","same_item":"category guide","note":"Snippet only, not verified. New retail for the helmet alone, before shipping and GST. Rate used 1 USD = 1.52 AUD (assumed, not checked)."},
-{"kind":"ASKING","price":"AUD 319.99 (Hourglass Gauntlets 1350-1410, 1.6mm, sold out)","currency":"AUD","aud_price":319.99,"date":"live, seen 2026-11-06","venue":"Burgschneider (en-au store)","url":"https://burgschneider.com/en-au/collections/platearmor-arms-hands-legs?page=2","same_item":"category guide","note":"Page opened. Higher-grade new gauntlets, well above this lot's likely quality. Shows new gauntlets alone retail for several hundred dollars."}
-],"searches_tried":"comps.py (pipeline and work) on armour/gauntlets/helmet/barbute/knights: no armour set hits, only Masonic gauntlets. Gowans API: armour, helmet, gauntlet, armor, medieval, knights helmet, shield (found $120 and $140 comps). WebSearch site:armitage.bidsonline.com.au found nothing. WebSearch/WebFetch for reproduction barbute and gauntlet retail. Carters armour page returned 429. eBay sold prices (closed to us) would settle it best.","needs_chrome":true,"chrome_hint":"eBay.com.au sold listings: medieval gauntlets helmet shield reproduction armour set, also 'barbute helmet 18 gauge' sold","rate_note":"USD to AUD at 1.52, assumed.","viewing_check":"Look for maker stamps or etched marks inside the helmet and gauntlets (Denix, Marto, Windlass, Deepeeka or similar), steel thickness, whether the helmet and gauntlets are riveted solid steel or thin decorative, and the extent of rust pitting on the shield. Check that everything is complete and the liners are sound."}
+{
+ "cdid": 3112485,
+ "lot": 1457,
+ "identification": "Modern reproduction steel armour: pair of articulated gauntlets, barbute-style helmet, almond shield with boss; surface rust on shield and helmet",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$120 hammer (13 bids, premium extra)",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-08-09 (listing date, sale about a week later)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 429952, REPRODUCTION KNIGHTS HELMET & SHIELD)",
+   "same_item": "close",
+   "note": "From the Gowans API and local comps database, no description or photos checked, so condition unknown. Helmet and shield only, no gauntlets. Same Tasmanian buyer pool, best local comp. Shows 13 bids of interest."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$140 hammer",
+   "currency": "AUD",
+   "aud_price": 140,
+   "date": "2026-02-15 (listing date)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=helmet (REPRODUCTION ROMAN HELMET)",
+   "same_item": "category guide",
+   "note": "API result, single reproduction helmet only. Category guide for reproduction helmets locally. Similar: REPRODUCTION SPARTAN STYLE HELMET $130 (2026-05-24)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 129.95 (new 18g barbute with liner)",
+   "currency": "USD",
+   "aud_price": 198,
+   "date": "live, seen 2026-11-06",
+   "venue": "IMA-USA (retail)",
+   "url": "https://www.ima-usa.com/products/medieval-north-italian-barbute-18g-steel-with-leather-liner",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. New retail for the helmet alone, before shipping and GST. Rate used 1 USD = 1.52 AUD (assumed, not checked)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AUD 319.99 (Hourglass Gauntlets 1350-1410, 1.6mm, sold out)",
+   "currency": "AUD",
+   "aud_price": 319.99,
+   "date": "live, seen 2026-11-06",
+   "venue": "Burgschneider (en-au store)",
+   "url": "https://burgschneider.com/en-au/collections/platearmor-arms-hands-legs?page=2",
+   "same_item": "category guide",
+   "note": "Page opened. Higher-grade new gauntlets, well above this lot's likely quality. Shows new gauntlets alone retail for several hundred dollars."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$136.86",
+   "currency": "AUD",
+   "aud_price": 136.86,
+   "date": "2026-09-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128056038282",
+   "same_item": "partial",
+   "note": "Gothic steel gauntlets pair only; eBay AU converted, listed from US; likely new",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$111.08",
+   "currency": "AUD",
+   "aud_price": 111.08,
+   "date": "2026-10-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/800626803336",
+   "same_item": "partial",
+   "note": "Gothic steel gauntlets pair only; eBay AU converted, listed from US",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) on armour/gauntlets/helmet/barbute/knights: no armour set hits, only Masonic gauntlets. Gowans API: armour, helmet, gauntlet, armor, medieval, knights helmet, shield (found $120 and $140 comps). WebSearch site:armitage.bidsonline.com.au found nothing. WebSearch/WebFetch for reproduction barbute and gauntlet retail. Carters armour page returned 429. eBay sold prices (closed to us) would settle it best. | chrome: eBay AU sold: medieval armour helmet gauntlets shield set (error page), medieval gauntlets armour. No sold full set found.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: medieval gauntlets helmet shield reproduction armour set, also 'barbute helmet 18 gauge' sold",
+ "rate_note": "USD to AUD at 1.52, assumed.",
+ "viewing_check": "Check steel gauge (thin vs 16-18g), rivets, leather liners, rust pitting; any maker stamps.",
+ "chrome_done": true
+}

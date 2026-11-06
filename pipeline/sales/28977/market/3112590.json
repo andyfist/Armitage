@@ -1,7 +1,7 @@
 {
  "cdid": 3112590,
  "lot": 1563,
- "identification": "Eight South Australian embossed plates: TWO-737 (centre crease), RWY-834 x2, SLD-926, RWV-199, RDL-509, RAL-973 (aluminium), and one older orange on black SA 440-217 numeric plate (rusty). Mostly 1960s-70s era letter-number issues, worn; no registration rights. Not single-digit or low-number heritage plates.",
+ "identification": "Eight worn South Australian embossed plates (TWO-737, RWY-834 x2, SLD-926, RWV-199, RDL-509, RAL-973 aluminium, orange-on-black 440-217), no heritage/low numbers",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,60 @@
    "url": "https://www.ebay.com.au/itm/235594591817",
    "same_item": "close",
    "note": "Single embossed SA plates; snippet only, asking prices."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.23",
+   "currency": "AUD",
+   "aud_price": 51.23,
+   "date": "2026-10-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/136819007189",
+   "same_item": "partial",
+   "note": "Single genuine used SA plate; eBay AU converted, listed from overseas probably",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-10-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/317166319229",
+   "same_item": "partial",
+   "note": "Single SA numeric plate 132-199 (older numeric style, like the 440-217 plate)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.97",
+   "currency": "AUD",
+   "aud_price": 32.97,
+   "date": "2026-10-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318835296656",
+   "same_item": "partial",
+   "note": "Single SA Adelaide plate",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$12",
+   "currency": "AUD",
+   "aud_price": 12,
+   "date": "2026-10-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/235675721766",
+   "same_item": "partial",
+   "note": "Vintage SA collector plate, single, low end",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py and work/comps.py (number plates, licence plates; mostly irrelevant book hits); Gowans API number plate(s), vintage plates, pair of plates; WebSearch SA number plates sold (only registration-right plates SA 1, 8, 55 at $100k+ which are not comparable), vintage SA plate asking prices, site:armitage (nothing). eBay sold prices would settle it (closed to us).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py and work/comps.py (number plates, licence plates; mostly irrelevant book hits); Gowans API number plate(s), vintage plates, pair of plates; WebSearch SA number plates sold (only registration-right plates SA 1, 8, 55 at $100k+ which are not comparable), vintage SA plate asking prices, site:armitage (nothing). eBay sold prices would settle it (closed to us). | chrome: eBay AU sold: south australian number plates (10 rows, all singles). Lot-of-plates search not run due to throttling. | chrome: eBay AU sold: south australian number plates (10 rows, all singles). Lot-of-plates search not run due to throttling.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: south australian number plates vintage pair; also 'SA number plates lot' sold",
- "viewing_check": "Check whether any plate is an older low-number or desirable combination (e.g. 440-217 date and format), paint and rust condition, and whether RWY-834 pair are consecutive issue. Otherwise nothing.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check the older numeric 440-217 plate (orange on black) is a genuine early issue and not repainted; check rust and bends. Single SA plates sell about A$12-60 each on eBay, so 8 plates have a wide range.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

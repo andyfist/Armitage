@@ -1,7 +1,7 @@
 {
  "cdid": 3111182,
  "lot": 920,
- "identification": "Album sheet of 27 Australian pre-decimal shillings: about 10 Coat of Arms type (George V and early, sterling .925, 1910-1945) and 17 ram head type (1946-1963, .500 silver, except any 1945 or earlier). Circulated, mostly VF or worse; no key dates identified from photo.",
+ "identification": "Album sheet of 27 Australian shillings: about 10 coat-of-arms (sterling) and 17 ram head (.500), circulated.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,48 @@
    "url": "https://api.gold-api.com/price/XAG",
    "same_item": "category guide",
    "note": "Calculation, not a sale. Assumed AUD/USD 0.66 (about 1.5 AUD per USD, not checked live). Sterling shilling 5.66 g x .925 = 0.168 oz; .500 shilling 0.091 oz. Wear ignored. Melt is a floor, dealers pay below spot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$65",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-10-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/206658706754",
+   "same_item": "partial",
+   "note": "5 x 1942/43 shillings 92.5% silver, 28.25g silver content (about A$13 per sterling shilling)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$160",
+   "currency": "AUD",
+   "aud_price": 159.7,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/880064740368",
+   "same_item": "partial",
+   "note": "Pre-decimal silver shilling lot 1948-1965 (ram type), coin count not confirmed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$54",
+   "currency": "AUD",
+   "aud_price": 53.7,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/377614554127",
+   "same_item": "partial",
+   "note": "Mixed sixpence and shilling silver lot, small",
+   "via": "chrome"
   }
  ],
  "rate_note": "Gowans prices are AUD hammer. Silver USD 51.50/oz at 2026-11-06 (gold-api.com); AUD rate assumed 0.66 USD, unchecked. Pattern: sheets and bags of mixed Australian shillings at Gowans mostly hammer $40-$130 with one outlier at $475; melt about $250 suggests the 27 coins are worth roughly $120-250 unless a key date shows.",
- "searches_tried": "comps.py (pipeline and work) x3; Gowans API searches 'shillings' and 'silver shillings'; one WebSearch for Australian shilling auction results (only overseas single coin hits, none used); Noble results via local DB. eBay sold for 'Australian shillings lot' would help but is closed to us. Armitage past results not searched.",
+ "searches_tried": "comps.py (pipeline and work) x3; Gowans API searches 'shillings' and 'silver shillings'; one WebSearch for Australian shilling auction results (only overseas single coin hits, none used); Noble results via local DB. eBay sold for 'Australian shillings lot' would help but is closed to us. Armitage past results not searched. | chrome: eBay AU sold: australian shillings silver lot coins sheet (AU only) | chrome: eBay AU sold: australian shillings silver lot coins sheet (AU only)",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Check the dates on the top two rows (Coat of Arms): look for 1912-H, 1913, 1915-H, 1916-M, 1919-1925 in any grade, and 1932 or 1933 key-type dates, and any 1931 or 1936 dates. Photograph the date side of each. Confirm the 17 ram heads are 1946 or later (.500) and none is the 1945 type (sterling)."
+ "viewing_check": "Count coins and sort by year: pre-1946 sterling vs ram type; look for key dates (1916M, 1923, 1924, 1932 etc.) and any with better grade.",
+ "chrome_done": true
 }

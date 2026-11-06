@@ -1,15 +1,125 @@
-{"cdid":3112866,"lot":2025,"identification":"Weber Q (Q2000 family, grey lid, two side tables, two knobs) on Weber Q cart stand with cast iron grill and hotplate. Cover not seen in photos.","entries":[
-{"kind":"SOLD","price":"$500 hammer","aud_price":500,"currency":"AUD (rate 1.0)","date":"2025-10-13","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/365171/","same_item":"close","note":"WEBER BBQ ON STAND, 24 bids, listed 2025-10-01 (sale about a week later). No description, model unknown; outlier high, premium extra. Page opened via API."},
-{"kind":"SOLD","price":"$200 hammer","aud_price":200,"currency":"AUD (rate 1.0)","date":"2026-03-23","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/399320/","same_item":"close","note":"WEBER BBQ & TROLLEY ETC, 22 bids. Local database tags as Baby Q type. Premium extra. Page opened via API."},
-{"kind":"SOLD","price":"$200 hammer","aud_price":200,"currency":"AUD (rate 1.0)","date":"2026-02-23","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/392738/","same_item":"close","note":"WEBER BBQ, 18 bids. Database tags as Baby Q type. Premium extra. Page opened via API."},
-{"kind":"SOLD","price":"$100 hammer","aud_price":100,"currency":"AUD (rate 1.0)","date":"2026-09-13","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/438287/","same_item":"close","note":"WEBER BBQ ON STAND 2 CARRY CASES & COVER, 16 bids. Most recent stand lot, tagged Baby Q type (smaller). Premium extra. Page opened via API."},
-{"kind":"SOLD","price":"$180 hammer","aud_price":180,"currency":"AUD (rate 1.0)","date":"2025-10-13","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/368078/","same_item":"yes","note":"WEBER BBQ WITH EXTRA HOSE, 12 bids. Premium extra. Page opened via API."},
-{"kind":"SOLD","price":"$90 hammer","aud_price":90,"currency":"AUD (rate 1.0)","date":"2026-03-23","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/399552/","same_item":"close","note":"WEBER BBQ, 7 bids, likely small Q without stand. Premium extra."},
-{"kind":"SOLD","price":"$210 hammer","aud_price":210,"currency":"AUD (rate 1.0)","date":"2026-02-05","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/389718/","same_item":"category guide","note":"PORTABLE WEBER BBQ & ACCESSORIES, 21 bids. Premium extra."},
-{"kind":"ASKING","price":"$350 and about $280-$385 range","aud_price":350,"currency":"AUD (rate 1.0)","date":"live, seen 2026-11-06","venue":"Gumtree (SA, WA, NSW sellers)","url":"https://www.gumtree.com.au/s-bbq/weber+q2000/k0c20067","same_item":"yes","note":"Used Q2000 with stand, asking about $280-$385 per search snippet; snippet only, not verified, dealer/private asking not price paid."}
-],
-"searches_tried":"comps.py (pipeline version crashed; work version run for 'weber q', 'weber stand', 'weber family'); Gowans API search 'weber q'; WebSearch site:armitage.bidsonline.com.au (nothing); WebSearch Gumtree Q2000 stand. eBay sold prices would settle it (eBay closed to us).",
-"needs_chrome":true,
-"chrome_hint":"eBay Australia sold listings: Weber Q2000 with stand (Australia only, sold)",
-"viewing_check":"Check model plate (Q2000 vs Q1200/Q3200), whether the cover and gas regulator are present, ignition works, burner and grill condition, no rust-through in the body or stand.",
-"rate_note":"AUD only, no conversion. Gowans hammer excludes premium."}
+{
+ "cdid": 3112866,
+ "lot": 2025,
+ "identification": "Weber Q (Q2000-type, silver/grey lid, two side tables) gas BBQ on Weber Q cart stand with Weber Q branded base; cover not seen",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$500 hammer",
+   "aud_price": 500,
+   "currency": "AUD (rate 1.0)",
+   "date": "2025-10-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/365171/",
+   "same_item": "close",
+   "note": "WEBER BBQ ON STAND, 24 bids, listed 2025-10-01 (sale about a week later). No description, model unknown; outlier high, premium extra. Page opened via API."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$200 hammer",
+   "aud_price": 200,
+   "currency": "AUD (rate 1.0)",
+   "date": "2026-03-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/399320/",
+   "same_item": "close",
+   "note": "WEBER BBQ & TROLLEY ETC, 22 bids. Local database tags as Baby Q type. Premium extra. Page opened via API."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$200 hammer",
+   "aud_price": 200,
+   "currency": "AUD (rate 1.0)",
+   "date": "2026-02-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/392738/",
+   "same_item": "close",
+   "note": "WEBER BBQ, 18 bids. Database tags as Baby Q type. Premium extra. Page opened via API."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "aud_price": 100,
+   "currency": "AUD (rate 1.0)",
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/438287/",
+   "same_item": "close",
+   "note": "WEBER BBQ ON STAND 2 CARRY CASES & COVER, 16 bids. Most recent stand lot, tagged Baby Q type (smaller). Premium extra. Page opened via API."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180 hammer",
+   "aud_price": 180,
+   "currency": "AUD (rate 1.0)",
+   "date": "2025-10-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/368078/",
+   "same_item": "yes",
+   "note": "WEBER BBQ WITH EXTRA HOSE, 12 bids. Premium extra. Page opened via API."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "aud_price": 90,
+   "currency": "AUD (rate 1.0)",
+   "date": "2026-03-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/399552/",
+   "same_item": "close",
+   "note": "WEBER BBQ, 7 bids, likely small Q without stand. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$210 hammer",
+   "aud_price": 210,
+   "currency": "AUD (rate 1.0)",
+   "date": "2026-02-05",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/389718/",
+   "same_item": "category guide",
+   "note": "PORTABLE WEBER BBQ & ACCESSORIES, 21 bids. Premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$350 and about $280-$385 range",
+   "aud_price": 350,
+   "currency": "AUD (rate 1.0)",
+   "date": "live, seen 2026-11-06",
+   "venue": "Gumtree (SA, WA, NSW sellers)",
+   "url": "https://www.gumtree.com.au/s-bbq/weber+q2000/k0c20067",
+   "same_item": "yes",
+   "note": "Used Q2000 with stand, asking about $280-$385 per search snippet; snippet only, not verified, dealer/private asking not price paid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$211.64",
+   "currency": "AUD",
+   "aud_price": 211.64,
+   "date": "2026-08-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/278230329011",
+   "same_item": "yes",
+   "note": "Weber Q 2000 gas grill with patio stand, griddle and accessories, best offer accepted",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$195.93",
+   "currency": "AUD",
+   "aud_price": 195.93,
+   "date": "2026-10-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168744424026",
+   "same_item": "partial",
+   "note": "Weber 6525 Q cart stand only (new open box) with adapter hose; stand alone",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed; work version run for 'weber q', 'weber stand', 'weber family'); Gowans API search 'weber q'; WebSearch site:armitage.bidsonline.com.au (nothing); WebSearch Gumtree Q2000 stand. eBay sold prices would settle it (eBay closed to us). | chrome: eBay AU sold: weber q2000 stand (2 matches, no more; Australia-only filter not applied) | chrome: eBay AU sold: weber q2000 stand (2 matches, no more; Australia-only filter not applied)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold listings: Weber Q2000 with stand (Australia only, sold)",
+ "viewing_check": "Check the lid, burners and igniter condition, rust on the firebox, gas regulator/hose, grills and that the cover and any gas bottle are included.",
+ "rate_note": "AUD only, no conversion. Gowans hammer excludes premium.",
+ "chrome_done": true
+}

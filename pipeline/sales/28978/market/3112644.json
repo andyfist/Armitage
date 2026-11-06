@@ -1,7 +1,7 @@
 {
  "cdid": 3112644,
  "lot": 1803,
- "identification": "Weber original kettle charcoal BBQ, 57cm, red enamel, wheeled tripod base, with cover and older Weber owner's guide (c. 1980s-90s). Not a gas model. Common item.",
+ "identification": "Older Weber 57cm red enamel kettle charcoal BBQ with wooden handles, wheeled tripod base and a cover; used.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,36 @@
    "url": "https://www.ebay.com/p/1104745928",
    "same_item": "category guide",
    "note": "Weber charcoal kettle 57cm, new retail; not comparable to a used faded one. Snippet only, unverified. URL is the search result for eBay, not necessarily this listing."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$106.70",
+   "currency": "AUD",
+   "aud_price": 106.7,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237159732526",
+   "same_item": "partial",
+   "note": "Weber Master Touch 57cm kettle, Best Offer accepted; newer model, likely pickup",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.70",
+   "currency": "AUD",
+   "aud_price": 159.7,
+   "date": "2026-09-07",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/800614639481",
+   "same_item": "partial",
+   "note": "Weber Original Premium kettle 57cm, Best Offer accepted; newer premium model",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for weber kettle, weber bbq, kettle bbq, weber charcoal, weber grill, charcoal bbq; Gowans API for weber kettle, weber charcoal; WebSearch site:armitage Weber kettle (nothing useful). Generic, widely sold item so stopped early. eBay AU sold listings for used Weber 57cm kettle Tasmania pickup would settle it.",
+ "searches_tried": "comps.py (pipeline and work) for weber kettle, weber bbq, kettle bbq, weber charcoal, weber grill, charcoal bbq; Gowans API for weber kettle, weber charcoal; WebSearch site:armitage Weber kettle (nothing useful). Generic, widely sold item so stopped early. eBay AU sold listings for used Weber 57cm kettle Tasmania pickup would settle it. | chrome: eBay AU sold: 'weber kettle 57cm charcoal' (Aus only; most results were covers/new)",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold items: Weber kettle 57cm charcoal used",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Check the grill and bowl for rust-through, handles intact, lid vent and damper working, wheels present, and whether the cover is included. Nothing else changes the value."
+ "viewing_check": "Check bowl for rust-through, lid fit, legs/wheels, grates and ash catcher. Older red kettles are bulky pickups; eBay comps are newer models.",
+ "chrome_done": true
 }

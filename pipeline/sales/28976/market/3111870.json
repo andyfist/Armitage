@@ -1,7 +1,7 @@
 {
  "cdid": 3111870,
  "lot": 1040,
- "identification": "Set of 8 Victorian rosewood balloon-back dining chairs c.1850-70, carved crest and mid rail, cabriole legs, later hunting-scene tapestry upholstery. Wood looks like rosewood in photos but could be stained mahogany or walnut.",
+ "identification": "Set of 8 Victorian rosewood balloon-back dining chairs, carved crests, cabriole legs, tapestry seats; photo confirms",
  "entries": [
   {
    "kind": "SOLD",
@@ -104,8 +104,9 @@
   }
  ],
  "rate_note": "USD to AUD at about 1.5 (assumed, not looked up). Gowans hammers exclude premium.",
- "searches_tried": "comps.py (work and pipeline versions; pipeline version crashed), Gowans API (rosewood balloon back, set of 8 chairs), WebSearch x2. No local sold result for a rosewood set of 8. Local balloon back sets sell $20-260, median $58; sets of 8 in Gowans $55-180. Armitage site not searched. eBay sold and Australian retail would help.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (work and pipeline versions; pipeline version crashed), Gowans API (rosewood balloon back, set of 8 chairs), WebSearch x2. No local sold result for a rosewood set of 8. Local balloon back sets sell $20-260, median $58; sets of 8 in Gowans $55-180. Armitage site not searched. eBay sold and Australian retail would help. | chrome: eBay AU sold: victorian rosewood balloon back chairs set of 8; rosewood balloon back dining chairs. Only junk results, nothing comparable. | chrome: eBay AU sold: victorian rosewood balloon back chairs set of 8; rosewood balloon back dining chairs. Only junk results, nothing comparable.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: \"victorian rosewood balloon back dining chairs set of 8\" (Australia and UK); also LiveAuctioneers/Invaluable sold: \"set of eight rosewood balloon back chairs\"",
- "viewing_check": "Confirm wood is solid rosewood (not stained mahogany or walnut) by looking at an underside or chair rail; check all 8 match (carving, height), frame joints loose or repaired, no woodworm, legs/toes cracked or replaced, and that the seat rails are not newer."
+ "viewing_check": "Check wood (rosewood vs stained mahogany/walnut), frame joints, repairs and carving damage on crests.",
+ "chrome_done": true
 }

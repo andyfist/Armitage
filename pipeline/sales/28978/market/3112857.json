@@ -1,11 +1,124 @@
-{"cdid":3112857,"lot":2016,"identification":"McMillan MC10 electric twin-cylinder V-block cast iron air compressor on horizontal tank with wheels, with long red air hose. Australian-made trade unit, older vintage, worn paint.","entries":[
-{"kind":"SOLD","price":"$220 hammer","currency":"AUD","aud_price":220,"date":"2026-06-28","venue":"Gowans Auctions, Hobart","url":"gowans lot id 420551 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=mcmillan+compressor)","same_item":"close","note":"MCMILLAN AIR COMPRESSOR & TUB OF ACCESSORIES, 2 bids, premium extra. Model and condition not stated; API record seen, no photos compared."},
-{"kind":"SOLD","price":"$230 hammer","currency":"AUD","aud_price":230,"date":"2026-07-19","venue":"Gowans Auctions, Hobart","url":"gowans lot id 425372","same_item":"category guide","note":"BOC AIR COMPRESSOR, 9 bids; size unknown."},
-{"kind":"SOLD","price":"$130 hammer","currency":"AUD","aud_price":130,"date":"2026-04-13","venue":"Gowans Auctions, Hobart","url":"gowans lot id 402541","same_item":"category guide","note":"2HP INGERSOLL RAND AIR COMPRESSOR, 8 bids."},
-{"kind":"SOLD","price":"$130 hammer","currency":"AUD","aud_price":130,"date":"2026-03-30","venue":"Gowans Auctions, Hobart","url":"gowans lot id 400826","same_item":"category guide","note":"COMPRESSOR & HOSE & FITTINGS, 6 bids."},
-{"kind":"SOLD","price":"$160 hammer","currency":"AUD","aud_price":160,"date":"2026-09-20","venue":"Gowans Auctions, Hobart","url":"gowans lot id 439837","same_item":"category guide","note":"AIR COMPRESSOR & SPRAYER, 5 bids."},
-{"kind":"SOLD","price":"$105 hammer","currency":"AUD","aud_price":105,"date":"2026-06-28","venue":"Gowans Auctions, Hobart","url":"gowans lot id 420555","same_item":"category guide","note":"2.5HP AIR COMPRESSOR, 7 bids."},
-{"kind":"SOLD","price":"$60 hammer","currency":"AUD","aud_price":60,"date":"2026-08-19","venue":"Armitage Auctions, Launceston","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3021085&chid=28449&category=ALL&style=group","same_item":"category guide","note":"Project Air twin cylinder electric compressor, going order, sale 28449 lot 1915. Lower-grade brand, local DB hit."},
-{"kind":"SOLD","price":"$50 hammer","currency":"AUD","aud_price":50,"date":"2026-05-03","venue":"Gowans Auctions, Hobart","url":"gowans lot id 407780","same_item":"category guide","note":"TRADE MASTER AIR COMPRESSOR & HOSE, 1 bid; low end for cheap brand."},
-{"kind":"ASKING","price":"AF12 new $1,799","currency":"AUD","aud_price":1799,"date":"live, seen 2026-11-06","venue":"Rosebud Mowers (retail)","url":"https://rosebudmowers.com.au/products/mcmillan-portable-2-2hp-single-phase-electric-air-compressor-af12","same_item":"category guide","note":"New McMillan portable 2.2hp electric; snippet only. Shows new price only, not used value."}
-],"searches_tried":"comps.py (pipeline and work) for mcmillan compressor, air compressor twin/min-price, compressor hose; Gowans API for mcmillan compressor and air compressor; WebSearch site:armitage.bidsonline McMillan compressor (nothing); WebSearch McMillan MC10 second hand price (no used prices). eBay and Gumtree sold/asking would help; no rate conversion needed (all AUD). Gowans hammer excludes premium.","needs_chrome":true,"chrome_hint":"eBay.com.au sold listings: McMillan compressor MC10 (and McMillan air compressor 2.5hp) used, sold items only","rate_note":"All AUD, no conversion.","viewing_check":"Photograph the maker's plate (model, HP, voltage, serial), the pump block cast number, tank rust and drain condition, and whether it runs and builds pressure to cutout; check the motor is single phase 240V and the hose ends are intact."}
+{
+ "cdid": 3112857,
+ "lot": 2016,
+ "identification": "McMillan MC10 two-cylinder V-block cast iron air compressor on horizontal red tank with wheel and single-phase motor, plus long red air hose; worn paint, working order unknown",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$220 hammer",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "2026-06-28",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 420551 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=mcmillan+compressor)",
+   "same_item": "close",
+   "note": "MCMILLAN AIR COMPRESSOR & TUB OF ACCESSORIES, 2 bids, premium extra. Model and condition not stated; API record seen, no photos compared."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230 hammer",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-07-19",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 425372",
+   "same_item": "category guide",
+   "note": "BOC AIR COMPRESSOR, 9 bids; size unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 402541",
+   "same_item": "category guide",
+   "note": "2HP INGERSOLL RAND AIR COMPRESSOR, 8 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 400826",
+   "same_item": "category guide",
+   "note": "COMPRESSOR & HOSE & FITTINGS, 6 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 439837",
+   "same_item": "category guide",
+   "note": "AIR COMPRESSOR & SPRAYER, 5 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-06-28",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 420555",
+   "same_item": "category guide",
+   "note": "2.5HP AIR COMPRESSOR, 7 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3021085&chid=28449&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Project Air twin cylinder electric compressor, going order, sale 28449 lot 1915. Lower-grade brand, local DB hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-05-03",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 407780",
+   "same_item": "category guide",
+   "note": "TRADE MASTER AIR COMPRESSOR & HOSE, 1 bid; low end for cheap brand."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AF12 new $1,799",
+   "currency": "AUD",
+   "aud_price": 1799,
+   "date": "live, seen 2026-11-06",
+   "venue": "Rosebud Mowers (retail)",
+   "url": "https://rosebudmowers.com.au/products/mcmillan-portable-2-2hp-single-phase-electric-air-compressor-af12",
+   "same_item": "category guide",
+   "note": "New McMillan portable 2.2hp electric; snippet only. Shows new price only, not used value."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$370.00",
+   "currency": "AUD",
+   "aud_price": 370,
+   "date": "2026-10-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/186386329111",
+   "same_item": "partial",
+   "note": "Pre-owned McMillan C12 2.2HP air compressor, BIN, different (larger) model, condition not checked",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for mcmillan compressor, air compressor twin/min-price, compressor hose; Gowans API for mcmillan compressor and air compressor; WebSearch site:armitage.bidsonline McMillan compressor (nothing); WebSearch McMillan MC10 second hand price (no used prices). eBay and Gumtree sold/asking would help; no rate conversion needed (all AUD). Gowans hammer excludes premium. | chrome: eBay AU sold: mcmillan air compressor (error), mcmillan compressor (only 1 relevant sold: C12 at A$370)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: McMillan compressor MC10 (and McMillan air compressor 2.5hp) used, sold items only",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Run it: check it builds pressure, tank for rust and drain, pressure switch, belt and motor noise, plus hose condition.",
+ "chrome_done": true
+}

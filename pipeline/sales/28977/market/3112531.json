@@ -1,7 +1,7 @@
 {
  "cdid": 3112531,
  "lot": 1503,
- "identification": "Tray of about 25 old wood carving gouges and chisels, makers unknown (not legible in photos), plus oilstone, small square, awl and a furniture repair booklet. Mixed handles, rusty blades. Photo contact sheet only looked at.",
+ "identification": "Tray of about 25 old carving gouges and chisels, mixed handles, makers not legible, plus oilstone, small square and a furniture repair booklet",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,60 @@
    "url": "https://vintagetoolshop.com.au/products/t10050-vintage-set-of-5x-carving-chisels",
    "same_item": "category guide",
    "note": "Page opened but price read from embedded data only, availability unclear; dealer retail for 5 only, so about $28 a tool retail. Not a price paid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$77.62",
+   "currency": "AUD",
+   "aud_price": 77.62,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/147651255053",
+   "same_item": "partial",
+   "note": "10 vintage carving gouges and chisels (Marples, Sorby, Ibbotson); smaller lot with named makers; eBay AU converted, origin not checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$63.17",
+   "currency": "AUD",
+   "aud_price": 63.17,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/147649155167",
+   "same_item": "partial",
+   "note": "9 vintage carving gouges, various makers",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$76.17",
+   "currency": "AUD",
+   "aud_price": 76.17,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/820210941863",
+   "same_item": "partial",
+   "note": "Set of 8 vintage carving chisels/gouges",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$21.33",
+   "currency": "AUD",
+   "aud_price": 21.33,
+   "date": "2026-10-31",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/366756012253",
+   "same_item": "partial",
+   "note": "Six vintage carving gouges mixed makers",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed with a data error; work/comps.py used for tray chisels, carving tools, chisels, carving gouges); Gowans API for carving tools, carving, gouge, carvers; WebSearch site:armitage (no Armitage results; returned dealer listings); vintagetoolshop page fetches. Rate: AUD only. eBay sold prices for 'vintage carving gouges lot Sheffield' would help but Armitage and Gowans results already give a fair band.",
+ "searches_tried": "comps.py (pipeline version crashed with a data error; work/comps.py used for tray chisels, carving tools, chisels, carving gouges); Gowans API for carving tools, carving, gouge, carvers; WebSearch site:armitage (no Armitage results; returned dealer listings); vintagetoolshop page fetches. Rate: AUD only. eBay sold prices for 'vintage carving gouges lot Sheffield' would help but Armitage and Gowans results already give a fair band. | chrome: eBay AU sold: vintage wood carving gouges chisels lot (Error Page); carving chisels gouges vintage (10 rows). | chrome: eBay AU sold: vintage wood carving gouges chisels lot (Error Page); carving chisels gouges vintage (10 rows).",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Look for blade maker stamps (Addis, Herring, Marples, Henry Taylor, Ward & Payne, I. Sorby) and count the gouges. Any Addis/Herring/Henry Taylor stamps, or boxed matched sets, lift value. Check for cracked handles and badly pitted blades.",
- "rate_note": "All AUD, no conversion. Gowans hammers exclude premium."
+ "viewing_check": "Check blade stamps for Sheffield makers (Addis, Marples, Herring Bros, Sorby, Ward & Payne), blade length remaining and rust or pitting; handle cracks. About 25 pieces beats these 6-10 piece lots on count.",
+ "rate_note": "All AUD, no conversion. Gowans hammers exclude premium.",
+ "chrome_done": true
 }

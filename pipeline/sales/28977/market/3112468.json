@@ -1,7 +1,7 @@
 {
  "cdid": 3112468,
  "lot": 1748,
- "identification": "Husqvarna K970 petrol power cutter (demo saw), 350mm diamond blade fitted plus spare blue blade; model plate K970 confirmed in photos. Heavily dusty, orange body worn, running condition unknown.",
+ "identification": "Husqvarna K970 petrol power cutter (model plate K970 visible) with 350mm diamond blade fitted, heavily dusty, orange body worn, condition and running unknown",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,36 @@
    "url": "https://bwmachinery.com.au/product/husqvarna-k970-seaford-store-only/",
    "same_item": "yes",
    "note": "New retail K970 16 inch, blades extra; snippet only. Shows how much a working used unit is worth against new."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$899.00",
+   "currency": "AUD",
+   "aud_price": 899,
+   "date": "2026-10-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158175558968",
+   "same_item": "yes",
+   "note": "Pre-owned Husqvarna K970 4.8kW concrete saw, titled 16in (400mm), BIN, condition and whether running not checked; well above the Found-so-far figures",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$2,344.54",
+   "currency": "AUD",
+   "aud_price": 2344.54,
+   "date": "2026-10-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/800724293510",
+   "same_item": "partial",
+   "note": "eBay AU converted, listed from United States. Brand new K970, best offer accepted, new-condition ceiling only",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on a data error; work/comps.py husqvarna k970 / saw / k760 / k770 / concrete saw / cut off saw); Gowans API husqvarna k970 (no results in output); WebSearch K970 Australia auction price and K970/K770/K760 auction sold. No Australian K970 auction result found. eBay AU sold K970 listings would settle it best. No Armitage lookups by design. Rate: USD 1 = AUD 1.52 assumed.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline version crashed on a data error; work/comps.py husqvarna k970 / saw / k760 / k770 / concrete saw / cut off saw); Gowans API husqvarna k970 (no results in output); WebSearch K970 Australia auction price and K970/K770/K760 auction sold. No Australian K970 auction result found. eBay AU sold K970 listings would settle it best. No Armitage lookups by design. Rate: USD 1 = AUD 1.52 assumed. | chrome: eBay AU sold: husqvarna k970 power cutter (60 results, mostly parts; one pre-owned whole saw at A$899, one new at A$2,345). Gumtree not tried. | chrome: eBay AU sold: husqvarna k970 power cutter (60 results, mostly parts; one pre-owned whole saw at A$899, one new at A$2,345). Gumtree not tried.",
+ "needs_chrome": false,
  "chrome_hint": "eBay.com.au: Husqvarna K970 power cutter, filters Sold items and Australia, last 90 days; also Gumtree K970 sold/used",
- "viewing_check": "Check if the engine turns over with compression (pull cord), seal condition, whether the starter, air filter and carburettor are intact, serial plate and model (MKII/MKIII), blade size, and the spare blade's condition. Photograph the plate.",
- "rate_note": "USD 1 = AUD 1.52 assumed"
+ "viewing_check": "Try pulling the cord for compression and spark, check blade guard, water kit, handle, and starter; look at dust ingress and any cracked housing. Check the blade size (350mm vs 400mm).",
+ "rate_note": "USD 1 = AUD 1.52 assumed",
+ "chrome_done": true
 }

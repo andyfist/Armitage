@@ -1,7 +1,67 @@
-{"cdid":3112691,"lot":1850,"identification":"Old timber crate (faint stencil, illegible) holding rusty handleless garden and hand tool heads: shovels, spade, pick/mattock, rake, trowel, two sledge hammer heads. No maker marks seen. Generic low-value scrap/garden lot.","entries":[
-{"kind":"SOLD","price":"$135","currency":"AUD","aud_price":135,"date":"2026-08-16","venue":"Gowans, Hobart (hammer)","url":"gowans id 431814","same_item":"close","note":"Basket of tool heads incl axe head, 9 bids; axe heads likely lift it. Local database only, page not opened."},
-{"kind":"SOLD","price":"$25","currency":"AUD","aud_price":25,"date":"2026-07-12","venue":"Gowans, Hobart (hammer)","url":"gowans id 423437","same_item":"close","note":"Qty hand tool heads and fire grates, 2 bids. Local database only."},
-{"kind":"SOLD","price":"$35","currency":"AUD","aud_price":35,"date":"2026-01-19","venue":"Gowans, Hobart (hammer)","url":"gowans id 384703","same_item":"close","note":"Assorted garden tool heads, 4 bids. Local database only."},
-{"kind":"SOLD","price":"$25","currency":"AUD","aud_price":25,"date":"2025-12-08","venue":"Gowans, Hobart (hammer)","url":"gowans id 381606","same_item":"close","note":"Vintage garden tools incl edger and axe heads, 3 bids. Local database only."},
-{"kind":"SOLD","price":"$35","currency":"AUD","aud_price":35,"date":"2025-10-06","venue":"Gowans, Hobart (hammer)","url":"gowans id 366558","same_item":"category guide","note":"Crate of assorted tools; general crate-of-tools level. API listing only."}
-],"searches_tried":"comps.py (pipeline) shovel head; work/comps.py tool heads, timber crate tools, shovel mattock pick, sledge hammer heads; Gowans API crate tools. No web search: clearly generic lot. eBay sold would not change the picture unless a stamped maker is found.","needs_chrome":false,"viewing_check":"Look at the shovel, pick and hammer heads for stamped makers (Brades, Elwell, Cyclone) and check the crate end stencil; otherwise nothing.","rate_note":"All AUD, no conversion."}
+{
+ "cdid": 3112691,
+ "lot": 1850,
+ "identification": "Old timber crate (stencil illegible) with rusty handleless garden and hand tool heads: shovels, spade, pick/mattock, rake, trowel, two sledge hammer heads.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$135",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2026-08-16",
+   "venue": "Gowans, Hobart (hammer)",
+   "url": "gowans id 431814",
+   "same_item": "close",
+   "note": "Basket of tool heads incl axe head, 9 bids; axe heads likely lift it. Local database only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-07-12",
+   "venue": "Gowans, Hobart (hammer)",
+   "url": "gowans id 423437",
+   "same_item": "close",
+   "note": "Qty hand tool heads and fire grates, 2 bids. Local database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-01-19",
+   "venue": "Gowans, Hobart (hammer)",
+   "url": "gowans id 384703",
+   "same_item": "close",
+   "note": "Assorted garden tool heads, 4 bids. Local database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2025-12-08",
+   "venue": "Gowans, Hobart (hammer)",
+   "url": "gowans id 381606",
+   "same_item": "close",
+   "note": "Vintage garden tools incl edger and axe heads, 3 bids. Local database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2025-10-06",
+   "venue": "Gowans, Hobart (hammer)",
+   "url": "gowans id 366558",
+   "same_item": "category guide",
+   "note": "Crate of assorted tools; general crate-of-tools level. API listing only."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline) shovel head; work/comps.py tool heads, timber crate tools, shovel mattock pick, sledge hammer heads; Gowans API crate tools. No web search: clearly generic lot. eBay sold would not change the picture unless a stamped maker is found. | chrome: eBay AU sold: antique tools job lot shovel sledge hammer heads (eBay Error Page, not retried, low-value lot). Nothing found.",
+ "needs_chrome": false,
+ "viewing_check": "Look for any maker-stamped heads (e.g. Wunderlich, Kelly, Spear and Jackson) and sound sledge heads; generic scrap otherwise.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}

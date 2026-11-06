@@ -1,7 +1,7 @@
 {
  "cdid": 3112794,
  "lot": 1953,
- "identification": "Large old copper wash copper or boiler insert, about 54 cm diameter, rolled rim, green patina. Decor, planter or scrap.",
+ "identification": "Large old copper wash copper/boiler insert, about 54cm dia, rolled rim, green/brown patina, no handles or lid.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,36 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440565/",
    "same_item": "close",
    "note": "'COPPER JARDINIERE/PLANTER', sale price from API (premium extra, rate 1.0). 5 bids. Snippet from comps database only. Gowans listing has no description, so size and type unknown. "
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$314.24",
+   "currency": "AUD",
+   "aud_price": 314.24,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/840038277033",
+   "same_item": "partial",
+   "note": "Antique solid copper tin-lined oval wash boiler tub, BIN; oval, likely overseas seller (eBay AU converted), size not checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$238.05",
+   "currency": "AUD",
+   "aud_price": 238.05,
+   "date": "2026-10-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/278326313382",
+   "same_item": "partial",
+   "note": "Antique Atlantic copper boiler wash tub with wooden handles; handled, likely overseas, size not checked",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version errored; work/comps.py used) for copper insert, wash copper, copper boiler, copper pot, copper planter; Gowans API on 5 lots; 1 WebSearch (no Australian sold wash copper results found; only overseas dealer listings, not recorded). Armitage site search not done. eBay sold prices for 'antique copper wash boiler' Australia would help.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline version errored; work/comps.py used) for copper insert, wash copper, copper boiler, copper pot, copper planter; Gowans API on 5 lots; 1 WebSearch (no Australian sold wash copper results found; only overseas dealer listings, not recorded). Armitage site search not done. eBay sold prices for 'antique copper wash boiler' Australia would help. | chrome: eBay AU sold: 'copper wash boiler' (error page); 'antique copper wash copper' | chrome: eBay AU sold: 'copper wash boiler' (error page); 'antique copper wash copper'",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: antique copper wash boiler OR copper wash copper large",
- "viewing_check": "Measure diameter and height, weigh if possible, check base and seam for holes or splits, any maker stamp or marks, whether it has handles. Weight sets scrap floor.",
- "rate_note": "AUD, no conversion; Gowans hammer, premium extra."
+ "viewing_check": "Check dents, holes, seam leaks, tin lining, weight (heavier gauge copper is worth more), any maker stamp. Display/planter value; both eBay comps had handles/features this one lacks.",
+ "rate_note": "AUD, no conversion; Gowans hammer, premium extra.",
+ "chrome_done": true
 }

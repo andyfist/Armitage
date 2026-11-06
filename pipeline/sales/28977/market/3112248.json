@@ -1,7 +1,7 @@
 {
  "cdid": 3112248,
  "lot": 1576,
- "identification": "Ring Floodlight Cam Pro (Wired), black, retail box with Ring-branded 'Floodlight Cam Pro / Wired' front. Looks new in box, shrink or seal not clearly visible in photos. Box is the newer Ring branding (2024+), so likely the current Ring Floodlight Cam Pro (2K/3D motion), not the 2021 Wired Pro.",
+ "identification": "Ring Floodlight Cam Pro (Wired), black, retail box, appears boxed/new",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,11 +46,48 @@
    "url": "https://www.techradar.com/reviews/ring-floodlight-cam-wired-pro",
    "same_item": "category guide",
    "note": "Snippet only. Old launch price of the earlier Wired Pro; current retail is far lower, so $400 RRP is outdated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$166.64",
+   "currency": "AUD",
+   "aud_price": 166.64,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128173299060",
+   "same_item": "yes",
+   "note": "Ring Floodlight Cam Wired Pro 2K, brand new (twin sale at same price 128166473433)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$206.32",
+   "currency": "AUD",
+   "aud_price": 206.32,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/278408549519",
+   "same_item": "yes",
+   "note": "Ring Floodlight Cam Wired Pro hardwired black 3D, brand new",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$157.12",
+   "currency": "AUD",
+   "aud_price": 157.12,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336846486573",
+   "same_item": "yes",
+   "note": "Ring Floodlight Cam Wired Pro, pre-owned",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for ring floodlight / ring camera / ring doorbell; Gowans API search 'ring floodlight' (one lot, the mixed lot above); WebSearch Ring Floodlight Cam Wired Pro price Australia; opened Ring AU product page. No Armitage past results searched. eBay sold prices (Ring Floodlight Cam Pro new, Australia) would settle resale and are closed to us.",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (pipeline and work) for ring floodlight / ring camera / ring doorbell; Gowans API search 'ring floodlight' (one lot, the mixed lot above); WebSearch Ring Floodlight Cam Wired Pro price Australia; opened Ring AU product page. No Armitage past results searched. eBay sold prices (Ring Floodlight Cam Pro new, Australia) would settle resale and are closed to us. | chrome: eBay AU sold: ring floodlight cam pro wired (57 matches, many new at A$165-270) | chrome: eBay AU sold: ring floodlight cam pro wired (57 matches, many new at A$165-270)",
+ "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: Ring Floodlight Cam Pro wired new sealed (filter Sold items, Australia); also check Amazon.com.au / Bunnings / JB Hi-Fi current price.",
- "viewing_check": "Check the model name and wiring spec on the box side or back (Floodlight Cam Pro vs Wired Pro, generation), whether the shrink wrap or tamper seal is intact, and the serial/UPC label. Open-box or returned units sell much lower.",
- "rate_note": "All prices already AUD, no conversion."
+ "viewing_check": "Check box seal/shrink intact, box says Wired Pro, and whether contents are present (open the lot if allowed); confirm 1st vs 2nd gen from the box.",
+ "rate_note": "All prices already AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112516,
  "lot": 1488,
- "identification": "Sidchrome (Australian made) 3/4 inch drive socket set in red steel case: large reversible ratchet, sliding T bar, two extensions, about 17 sockets (mostly 12 point chrome, big chunky sockets, one black impact socket, adaptor), ratchet head with Sidchrome oval logo. Incomplete, rusty case, one rusty socket, debris. Photo shows no model number.",
+ "identification": "Incomplete Sidchrome 3/4in drive socket set in red steel case: big ratchet, T-bar, 2 extensions, ~17 sockets incl. one impact; rusty case and debris",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,48 @@
    "url": "https://www.proxibid.com/3-4-Drive-Socket-Set/lotInformation/75508813",
    "same_item": "category guide",
    "note": "Generic 3/4 drive set with two ratchet handles, not Sidchrome; snippet only (page blocked)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$551.50",
+   "currency": "AUD",
+   "aud_price": 551.5,
+   "date": "2026-08-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298587133133",
+   "same_item": "partial",
+   "note": "Titled '3/4\" drive Sidchrome socket set'; contents/condition not checked (item page errored), likely a fuller set",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$182.85",
+   "currency": "AUD",
+   "aud_price": 182.85,
+   "date": "2026-10-20",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/313353498973",
+   "same_item": "partial",
+   "note": "Sidchrome 8 piece 3/4in drive AF impact socket set, sockets only",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$137.50",
+   "currency": "AUD",
+   "aud_price": 137.5,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257574532612",
+   "same_item": "partial",
+   "note": "Vintage Minimax (not Sidchrome) 3/4in drive AF 8 socket set 7/8 to 2in, Made in Australia",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline: crashed on a bad record; work/comps.py sidchrome socket set/ratchet/3/4, 14 Sidchrome sales median $72); Gowans API (sidchrome 3/4, ratchet, 3/4 drive socket set); WebSearch for sold Sidchrome 3/4 drive and Armitage site search (nothing); Gumtree and Proxibid fetch blocked. No Sidchrome 3/4 SOLD hammer found. eBay sold listings would settle it best. No FX needed, all AUD (Proxibid unsold has no price).",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline: crashed on a bad record; work/comps.py sidchrome socket set/ratchet/3/4, 14 Sidchrome sales median $72); Gowans API (sidchrome 3/4, ratchet, 3/4 drive socket set); WebSearch for sold Sidchrome 3/4 drive and Armitage site search (nothing); Gumtree and Proxibid fetch blocked. No Sidchrome 3/4 SOLD hammer found. eBay sold listings would settle it best. No FX needed, all AUD (Proxibid unsold has no price). | chrome: eBay AU sold: sidchrome 3/4 drive socket set (first attempts hit Error Page; item page for 298587133133 errored). Single search succeeded. | chrome: eBay AU sold: sidchrome 3/4 drive socket set (first attempts hit Error Page; item page for 298587133133 errored). Single search succeeded.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: Sidchrome 3/4 drive socket set (also 'Sidchrome 3/4 ratchet' and 'Sidchrome 3/4 T bar'), filter Sold items, Australia",
- "viewing_check": "Count sockets and sizes, check the ratchet works and reverses, look for cracks or rounded 12 point drives, check for any Sidchrome model numbers or Made in Australia stamps on sockets and ratchet; confirm the T bar and extensions are Sidchrome.",
- "rate_note": "All AUD, no conversion used."
+ "viewing_check": "Count sockets and sizes, check ratchet works in both directions, T-bar and extensions are Sidchrome stamped, and rust on sockets. A complete case would be worth more; this one has gaps and rust.",
+ "rate_note": "All AUD, no conversion used.",
+ "chrome_done": true
 }

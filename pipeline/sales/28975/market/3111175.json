@@ -1,7 +1,7 @@
 {
  "cdid": 3111175,
  "lot": 913,
- "identification": "Strand of about 40 baroque ripple-surface white cultured freshwater pearls (Edison-style), roughly 11-13mm, white metal clasp. Photo shows cream-white, good lustre, wrinkled surface. Almost certainly cultured, not natural; clasp unmarked in photo.",
+ "identification": "Strand of ~40 baroque ripple freshwater cultured pearls (Edison style), cream-white, silver-tone clasp; photo confirms",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,36 @@
    "url": "https://houseofpearls.com/products/11-13mm-edison-white-freshwater-pearl-strand-necklace-multiple-lengths",
    "same_item": "category guide",
    "note": "Rate 1.52. Snippet only. AAA/AAAA graded round Edison, retail; far above anything a lot-level used strand would fetch."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$63.47",
+   "currency": "AUD",
+   "aud_price": 63.47,
+   "date": "2026-09-02",
+   "venue": "eBay AU (converted, listed from China)",
+   "url": "https://www.ebay.com.au/itm/163996000036",
+   "same_item": "partial",
+   "note": "New 11-12mm white baroque Edison pearl necklace 18in; new, Chinese seller, 14k clasp not stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$63.30",
+   "currency": "AUD",
+   "aud_price": 63.3,
+   "date": "2026-10-25",
+   "venue": "eBay AU (converted, listed from China)",
+   "url": "https://www.ebay.com.au/itm/334911770974",
+   "same_item": "partial",
+   "note": "Same type of new 11-12mm white Edison strand",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline, errored on a None field; work/comps.py run for freshwater pearl necklace, baroque pearl, edison pearl, natural pearl necklace); Gowans API baroque/ripple/large pearl necklace; one WebSearch for Edison ripple 11-13mm strand. No Armitage past results or Edison-specific Australian sold results found. eBay sold listings for Edison ripple 11-13mm strands would settle it.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline, errored on a None field; work/comps.py run for freshwater pearl necklace, baroque pearl, edison pearl, natural pearl necklace); Gowans API baroque/ripple/large pearl necklace; one WebSearch for Edison ripple 11-13mm strand. No Armitage past results or Edison-specific Australian sold results found. eBay sold listings for Edison ripple 11-13mm strands would settle it. | chrome: eBay AU sold: edison pearl necklace baroque ripple; first query hit eBay error page | chrome: eBay AU sold: edison pearl necklace baroque ripple; first query hit eBay error page",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold items: Edison baroque ripple pearl necklace 11-13mm white freshwater strand (Australia and worldwide, sold only)",
- "viewing_check": "Clasp for any marks (925, 14k/18k gold, clasp stones), true size of pearls with calipers, drill hole and nacre thickness, uniformity of colour and lustre, any knots between pearls, thread condition. A gold clasp would add value; natural pearl claim can be ignored unless a certificate is present.",
- "rate_note": "1 USD = 1.52 AUD assumed, unverified"
+ "viewing_check": "Check clasp for a 925/9ct/14k stamp, strand length, lustre and drilling; confirm all pearls the same size.",
+ "rate_note": "1 USD = 1.52 AUD assumed, unverified",
+ "chrome_done": true
 }

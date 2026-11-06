@@ -1,8 +1,103 @@
-{"cdid":3112543,"lot":1516,"identification":"Pascall Old Oak Toffee Assortment tin (hinged, clasp lid, base embossed Pascall Claremont Tasmania, so Cadbury-Fry-Pascall factory, Tasmania, 1920s-50s), with about 24 small Australian/British tobacco, cigarette and polish tins (Capstan, Woodbine, Log Cabin, Erinmore, Nugget, Lucky Hit, BDV). Worn and rusty.","entries":[
-{"kind":"SOLD","price":"$180","aud_price":180,"currency":"AUD","date":"2026-05-31","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/413171/","same_item":"close","note":"Box of tobacco tins, hammer, premium extra, 5 bids. Top of the range for a box lot; comps.py result, id 413171. Lacks a Tasmanian Pascall tin."},
-{"kind":"SOLD","price":"$170","aud_price":170,"currency":"AUD","date":"2026-05-24","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/411446/","same_item":"close","note":"Box of asst tobacco tins etc, hammer, 13 bids. Same sale had $160, $160, $150, $127, $90 for similar boxes (ids 411345, 411466, 411536, 411550, 411943)."},
-{"kind":"SOLD","price":"$220","aud_price":220,"currency":"AUD","date":"2026-03-23","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/399416/","same_item":"close","note":"Box of tobacco tins etc, hammer, 5 bids, highest of 27 comps (median $45, range $10-$220, 2025-2026). Contents unknown, condition unknown."},
-{"kind":"SOLD","price":"$40","aud_price":40,"currency":"AUD","date":"2026-10-11","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/444217/","same_item":"close","note":"Qty of vintage tobacco tins, hammer, 7 bids. Typical low-end result for smaller groups."},
-{"kind":"SOLD","price":"$50","aud_price":50,"currency":"AUD","date":"2026-08-03","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/428065/","same_item":"close","note":"Box of tins mainly tobacco, hammer, 6 bids."},
-{"kind":"ASKING","price":"approx USD 315","aud_price":490,"currency":"USD","date":"live, seen 2026-11-06","venue":"eBay seller listing (nigelscott2)","url":"https://www.ebay.com/usr/nigelscott2","same_item":"category guide","note":"Snippet only, not verified. Pascall toffee tin in camera-figural shape c.1915, a much more desirable design than Old Oak; rate 1 USD = 1.55 AUD assumed. Asking only."}],
-"searches_tried":"comps.py (pipeline and work) for pascall, toffee tin, old oak, tobacco tins, capstan, log cabin, claremont: no Pascall Old Oak sale found, 27 Gowans tobacco tin lots found. Gowans API search pascall and pascall tin: no results. WebSearch for Pascall Claremont Old Oak sold and site:armitage.bidsonline.com.au: nothing useful. eBay sold prices and Worthpoint would settle the Pascall tin price (closed to us).","needs_chrome":true,"chrome_hint":"eBay sold listings: Pascall Old Oak toffee tin; also Pascall Claremont Tasmania tin","viewing_check":"Check for rust-through or dents on the Pascall tin and its lid; check whether tobacco tins are the scarcer types (Log Cabin, Nugget outfit, Lucky Hit flag tin) and their condition. Otherwise photos suffice.","rate_note":"AUD entries at 1.0; USD at 1.55 assumed."}
+{
+ "cdid": 3112543,
+ "lot": 1516,
+ "identification": "Pascall Old Oak Toffee Assortment tin (Claremont Tasmania) with about 24 small tobacco, cigarette, polish tins (Capstan, Woodbine, Log Cabin, Nugget, Lucky Hit, BDV etc), rusty/worn.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$180",
+   "aud_price": 180,
+   "currency": "AUD",
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/413171/",
+   "same_item": "close",
+   "note": "Box of tobacco tins, hammer, premium extra, 5 bids. Top of the range for a box lot; comps.py result, id 413171. Lacks a Tasmanian Pascall tin."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$170",
+   "aud_price": 170,
+   "currency": "AUD",
+   "date": "2026-05-24",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/411446/",
+   "same_item": "close",
+   "note": "Box of asst tobacco tins etc, hammer, 13 bids. Same sale had $160, $160, $150, $127, $90 for similar boxes (ids 411345, 411466, 411536, 411550, 411943)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$220",
+   "aud_price": 220,
+   "currency": "AUD",
+   "date": "2026-03-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/399416/",
+   "same_item": "close",
+   "note": "Box of tobacco tins etc, hammer, 5 bids, highest of 27 comps (median $45, range $10-$220, 2025-2026). Contents unknown, condition unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40",
+   "aud_price": 40,
+   "currency": "AUD",
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444217/",
+   "same_item": "close",
+   "note": "Qty of vintage tobacco tins, hammer, 7 bids. Typical low-end result for smaller groups."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50",
+   "aud_price": 50,
+   "currency": "AUD",
+   "date": "2026-08-03",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/428065/",
+   "same_item": "close",
+   "note": "Box of tins mainly tobacco, hammer, 6 bids."
+  },
+  {
+   "kind": "ASKING",
+   "price": "approx USD 315",
+   "aud_price": 490,
+   "currency": "USD",
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay seller listing (nigelscott2)",
+   "url": "https://www.ebay.com/usr/nigelscott2",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Pascall toffee tin in camera-figural shape c.1915, a much more desirable design than Old Oak; rate 1 USD = 1.55 AUD assumed. Asking only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$24.99",
+   "currency": "AUD",
+   "aud_price": 24.99,
+   "date": "2026-08-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318774715684",
+   "same_item": "partial",
+   "note": "Pascall sweets tin 1950s duck/drake, Claremont",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$22",
+   "currency": "AUD",
+   "aud_price": 22,
+   "date": "2026-08-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336736853136",
+   "same_item": "partial",
+   "note": "Pascall Claremont Tasmania tin 'Boy washing dog', single tin",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for pascall, toffee tin, old oak, tobacco tins, capstan, log cabin, claremont: no Pascall Old Oak sale found, 27 Gowans tobacco tin lots found. Gowans API search pascall and pascall tin: no results. WebSearch for Pascall Claremont Old Oak sold and site:armitage.bidsonline.com.au: nothing useful. eBay sold prices and Worthpoint would settle the Pascall tin price (closed to us). | chrome: eBay AU sold: 'pascall old oak toffee tin' (error page); 'pascall tin tasmania' (3 hits, low) | chrome: eBay AU sold: 'pascall old oak toffee tin' (error page); 'pascall tin tasmania' (3 hits, low)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold listings: Pascall Old Oak toffee tin; also Pascall Claremont Tasmania tin",
+ "viewing_check": "Check hinge/clasp on the Pascall tin and rust; the tobacco tins have value individually (Lucky Hit, Log Cabin, BDV, Nugget polishing outfit). Eyeball condition of each.",
+ "rate_note": "AUD entries at 1.0; USD at 1.55 assumed.",
+ "chrome_done": true
+}

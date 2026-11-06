@@ -1,7 +1,7 @@
 {
  "cdid": 3111088,
  "lot": 826,
- "identification": "Yamaha student Bb clarinet (likely YCL-20 or Y12/YCL-200 series, model unconfirmed) in hard case with reeds and a folding music stand. Black resin body, nickel keys, corks present.",
+ "identification": "Yamaha student Bb clarinet (model not visible), hard case, reeds, folding music stand",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,72 @@
    "url": "https://www.ozwinds.com.au/used-instruments/used-clarinets.html",
    "same_item": "category guide",
    "note": "Retail asks for a better Yamaha YCL-255, dealer or private, e.g. Ozwinds $650, Gumtree $350-$810. Snippet only, not verified. Not a price paid; auction clearing prices are far lower."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$157.77",
+   "currency": "AUD",
+   "aud_price": 157.77,
+   "date": "2026-10-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/840035776287",
+   "same_item": "yes",
+   "note": "Yamaha Bb clarinet in case with books and foldable music stand",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$155.50",
+   "currency": "AUD",
+   "aud_price": 155.5,
+   "date": "2026-10-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267807400177",
+   "same_item": "partial",
+   "note": "Yamaha 250 clarinet with case",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$119.50",
+   "currency": "AUD",
+   "aud_price": 119.5,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336835799289",
+   "same_item": "partial",
+   "note": "Yamaha C100 clarinet in original case",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$46.00",
+   "currency": "AUD",
+   "aud_price": 46,
+   "date": "2026-10-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267813314215",
+   "same_item": "partial",
+   "note": "Yamaha YCL-26 with case; low end",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.95",
+   "currency": "AUD",
+   "aud_price": 59.95,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/840036860300",
+   "same_item": "partial",
+   "note": "Yamaha YCL-23N with case and accessories",
+   "via": "chrome"
   }
  ],
  "rate_note": "All AUD, no conversion. Gowans hammer prices exclude premium.",
- "searches_tried": "comps.py (pipeline) crashed on a data error; work/comps.py for 'yamaha clarinet', 'clarinet', 'clarinet case', 'music stand' (--years 2); one WebSearch for used Yamaha student clarinet prices in Australia. Gowans API not queried beyond database. eBay sold prices would confirm but are not essential.",
+ "searches_tried": "comps.py (pipeline) crashed on a data error; work/comps.py for 'yamaha clarinet', 'clarinet', 'clarinet case', 'music stand' (--years 2); one WebSearch for used Yamaha student clarinet prices in Australia. Gowans API not queried beyond database. eBay sold prices would confirm but are not essential. | chrome: eBay AU sold: yamaha clarinet case (AU only; one error page first) | chrome: eBay AU sold: yamaha clarinet case (AU only; one error page first)",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold: Yamaha clarinet YCL-20 case (only if wanted)",
- "viewing_check": "Check the model stamp on the bell or barrel (YCL-20, 200, 255 or Y12), any cracks in the body or tenons, pads and corks, and that a mouthpiece is present."
+ "viewing_check": "Read model on barrel/bell and body; check for cracks in body, pads, corks, leaks, and that all pieces plus mouthpiece are present.",
+ "chrome_done": true
 }

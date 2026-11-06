@@ -1,7 +1,7 @@
 {
  "cdid": 3110956,
  "lot": 694,
- "identification": "Framed black and white etching of a stylised man's face with cigarette, marked AP at lower left, pencil signature lower right. Enlarged crop appears to show a stacked two-line signature (PRO over HART), the same layout seen on a Gowans A.P. Pro Hart etching, but resolution is too low to be sure. Image about 14 x 11 cm in a gilt frame with mat, under glass. Pencilled '5000/' beside it looks like a former price or stock mark. Subject is unusual for Pro Hart but he did make small figurative AP etchings, so a genuine Pro Hart is plausible, not proven.",
+ "identification": "Framed black and white etching of a man's face with cigarette, marked A/P and signed (Pro Hart style) lower right, gilt frame; '5000/' pencilled beside it",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,60 @@
    "url": "https://www.invaluable.com/artist/hart-pro-a2ba6hnohc/sold-at-auction-prices/?page=14",
    "same_item": "category guide",
    "note": "Snippet only, not verified. Aud_price is estimate midpoint, no conversion. Possible comparable of a figurative AP, not confirmed same series."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$200.00",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2026-10-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327395483629",
+   "same_item": "partial",
+   "note": "Pro Hart limited edition hand coloured etching 'Grasshopper' with COA; insect series, numbered edition",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$215.00",
+   "currency": "AUD",
+   "aud_price": 215,
+   "date": "2026-10-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327404450390",
+   "same_item": "partial",
+   "note": "Pro Hart limited edition drypoint etching 'Butterfly' with COA",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$212.70",
+   "currency": "AUD",
+   "aud_price": 212.7,
+   "date": "2026-09-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327335590388",
+   "same_item": "partial",
+   "note": "Pro Hart drypoint etching 'Butterfly' with COA",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.70",
+   "currency": "AUD",
+   "aud_price": 159.7,
+   "date": "2026-09-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327352698189",
+   "same_item": "partial",
+   "note": "Pro Hart spit bite etching, Prussian blue with plate tone",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for pro hart etching, pro hart proof, pro hart face cigarette, etching artist proof face man; two WebSearches (Pro Hart AP face cigarette; site:armitage Pro Hart AP); Invaluable artist pages 1,2,3,14 fetched but JSON parse gave nothing useful. No exact image match found. eBay sold listings would help (closed to us).",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for pro hart etching, pro hart proof, pro hart face cigarette, etching artist proof face man; two WebSearches (Pro Hart AP face cigarette; site:armitage Pro Hart AP); Invaluable artist pages 1,2,3,14 fetched but JSON parse gave nothing useful. No exact image match found. eBay sold listings would help (closed to us). | chrome: eBay AU sold: pro hart etching (AU only). No search for this face/cigarette subject specifically; Invaluable not searched.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: 'Pro Hart etching artist proof signed' and 'Pro Hart black white etching face'; also Invaluable Pro Hart 'The Big Man' artist proof result price.",
  "rate_note": "All prices AUD, no conversion.",
- "viewing_check": "Look at the signature under glass or out of the frame: is it stacked PRO / HART in pencil, and does it match known Pro Hart signatures? Check for plate title or edition number, any gallery label or certificate on the back, and the AP margin marking. If genuine, comparable small AP etchings hammer about $130-$250; if signature is not Pro Hart, it is a decorative print worth little."
+ "viewing_check": "Check signature in pencil, plate mark and paper, A/P marking, any COA or gallery label on back; the '5000/' pencil is likely an old price or stock note.",
+ "chrome_done": true
 }

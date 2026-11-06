@@ -1,7 +1,7 @@
 {
  "cdid": 3111020,
  "lot": 758,
- "identification": "Small Pro Hart (1928-2006) etching of bull ants on orange ground, image about 7x10cm, pencil signed lower right and numbered 8/60 lower left, in a black ornate resin frame. Title says artist's proof but the sheet is numbered 8/60, so it is a numbered edition impression, not an A/P. Same small insect-series etchings as the Gowans dragonfly and ant works. Signature looks consistent with Pro Hart's printed style but it is not independently authenticated; a reproduction of an etching is unlikely given the plate impression, but check at viewing.",
+ "identification": "Small framed Pro Hart etching of ants on orange ground, signed 'Pro Hart' lower right, numbered 8/60 (looks like 8/60), black ornate frame, catalogue says artist's proof",
  "entries": [
   {
    "kind": "SOLD",
@@ -156,11 +156,60 @@
    "url": "https://www.prohart.com.au/product/pro-hart-desert-ants-limited-edition-etching-framed/",
    "same_item": "category guide",
    "note": "Page opened. 'Desert Ants' framed 39x29cm hand-painted etching, edition 100, signed, out of stock. Larger and different work; retail ceiling only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$200.00",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2026-10-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327395483629",
+   "same_item": "partial",
+   "note": "Pro Hart limited edition hand coloured etching 'Grasshopper' with COA; insect series, numbered edition",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$215.00",
+   "currency": "AUD",
+   "aud_price": 215,
+   "date": "2026-10-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327404450390",
+   "same_item": "partial",
+   "note": "Pro Hart limited edition drypoint etching 'Butterfly' with COA",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$212.70",
+   "currency": "AUD",
+   "aud_price": 212.7,
+   "date": "2026-09-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327335590388",
+   "same_item": "partial",
+   "note": "Pro Hart drypoint etching 'Butterfly' with COA",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.70",
+   "currency": "AUD",
+   "aud_price": 159.7,
+   "date": "2026-09-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327352698189",
+   "same_item": "partial",
+   "note": "Pro Hart spit bite etching, Prussian blue with plate tone",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with 'pro hart ant etching', 'pro hart ants', 'pro hart etching', 'pro hart 8/60'; Gowans API 'pro hart ants' and 'pro hart ant etching' (no ant-titled hits in the filter); WebSearch for Pro Hart ants etching sold; opened Danielle Elizabeth, Etching House, prohart.com.au pages; Invaluable artist page fetched but JSON parse failed. No same-item Australian sold result for a signed numbered ant etching found. eBay sold listings would help: 'Pro Hart ants etching signed numbered' sold items.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) with 'pro hart ant etching', 'pro hart ants', 'pro hart etching', 'pro hart 8/60'; Gowans API 'pro hart ants' and 'pro hart ant etching' (no ant-titled hits in the filter); WebSearch for Pro Hart ants etching sold; opened Danielle Elizabeth, Etching House, prohart.com.au pages; Invaluable artist page fetched but JSON parse failed. No same-item Australian sold result for a signed numbered ant etching found. eBay sold listings would help: 'Pro Hart ants etching signed numbered' sold items. | chrome: eBay AU sold: pro hart etching signed numbered (empty), pro hart ants etching (empty), pro hart etching AU only (error pages first). Invaluable not searched. | chrome: eBay AU sold: pro hart etching signed numbered (empty), pro hart ants etching (empty), pro hart etching AU only (error pages first). Invaluable not searched.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: Pro Hart ants etching signed numbered; also Invaluable Pro Hart sold prices search 'ants etching'",
- "viewing_check": "Check the signature and number under the glass if possible (pencil, not printed), and for a plate mark and any hand colouring or foxing. Photograph the back and any label or certificate (Littlewood or publisher). Confirm 8/60 versus A/P.",
- "rate_note": "All prices AUD, no conversion needed."
+ "viewing_check": "Check signature and numbering in pencil, plate mark, COA/gallery label on back; whether edition number reads 8/60 and any A/P mark.",
+ "rate_note": "All prices AUD, no conversion needed.",
+ "chrome_done": true
 }

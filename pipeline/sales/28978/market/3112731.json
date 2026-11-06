@@ -1,7 +1,7 @@
 {
  "cdid": 3112731,
  "lot": 1890,
- "identification": "Approx 180 lm of Tasmanian oak architrave, 90 lm 65mm and 90 lm 85mm, strapped packs, appears unused, mixed lengths.",
+ "identification": "Approx 180 lineal metres of Tasmanian oak architrave (90 lm 65mm, 90 lm 85mm), strapped packs, appears unused, mixed lengths.",
  "entries": [
   {
    "kind": "ASKING",
@@ -59,9 +59,10 @@
    "note": "QTY OF ASST SKIRTING BOARDS; page opened (API). Also TAS OAK SKIRTING BOARDS $1 (2026-03-16) and hardwood skirting lengths $1 (2026-03-09): used mouldings are near worthless."
   }
  ],
- "searches_tried": "pipeline/comps.py (crashed with TypeError on a None field); work/comps.py architrave/oak moulding/lineal moulding (no hits); Gowans API for architrave, oak architrave, tasmanian oak, skirting, mouldings (no architrave sales; only loosely related timber); WebSearch for Tas oak architrave retail. Armitage site search not done. No exact SOLD comp for architrave found. eBay sold would help but not essential.",
+ "searches_tried": "pipeline/comps.py (crashed with TypeError on a None field); work/comps.py architrave/oak moulding/lineal moulding (no hits); Gowans API for architrave, oak architrave, tasmanian oak, skirting, mouldings (no architrave sales; only loosely related timber); WebSearch for Tas oak architrave retail. Armitage site search not done. No exact SOLD comp for architrave found. eBay sold would help but not essential. | chrome: eBay AU sold: tasmanian oak architrave and tasmanian oak timber lengths (both returned eBay error page, no results). Bulk timber is rarely sold on eBay; nothing recorded. | chrome: eBay AU sold: tasmanian oak architrave and tasmanian oak timber lengths (both returned eBay error page, no results). Bulk timber is rarely sold on eBay; nothing recorded.",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Check profile and thickness of the 65mm and 85mm packs, whether they are really unused (not stripped second-hand), amount of short offcuts, and actual total length; how easily it can be loaded.",
- "rate_note": "AUD only, no conversion."
+ "viewing_check": "Check lengths and profile, that the packs are Tasmanian oak (not pine/other), moisture or sun damage, how many packs there are and whether the lengths are usable. Bulk and transport (ute or trailer) matter.",
+ "rate_note": "AUD only, no conversion.",
+ "chrome_done": true
 }

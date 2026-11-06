@@ -1,7 +1,7 @@
 {
  "cdid": 3112871,
  "lot": 2030,
- "identification": "Triton Workcentre MK3 (2000 series) on folding wheeled stand with Ryobi 24T circular saw (photo shows a teal Ryobi saw), Triton protractor/mitre accessories, instruction pack and blades in a tub.",
+ "identification": "Triton Workcentre (2000/MK3 type) on folding wheeled stand, with a teal Ryobi circular saw and accessories in a tub.",
  "entries": [
   {
    "kind": "SOLD",
@@ -134,11 +134,48 @@
    "url": "https://www.cashconverters.com.au/shop/tools-motor-hardware/safety-gear-storage/workbenches-tool-cabinets/work-bench/039200493941",
    "same_item": "close",
    "note": "Triton Workcentre Mk3 orange work bench, good condition; snippet only, not verified; rate 1.0."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$122.60",
+   "currency": "AUD",
+   "aud_price": 122.6,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158303798675",
+   "same_item": "yes",
+   "note": "Triton Mk 3 Workcentre in working condition",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$127.90",
+   "currency": "AUD",
+   "aud_price": 127.9,
+   "date": "2026-09-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257755856983",
+   "same_item": "yes",
+   "note": "Triton WorkCentre including AEG saw and protractor",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$203.65",
+   "currency": "AUD",
+   "aud_price": 203.65,
+   "date": "2026-10-13",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298737321173",
+   "same_item": "partial",
+   "note": "Triton 2000 Workcentre with sliding extension table, router table, dust collection (more complete package)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py (errored, pipeline db broken); work comps.py triton workcentre and ryobi circular saw; Gowans API triton workcentre and triton mk3 (full lists, 11 past sales); WebSearch for second hand price Australia (forum chatter, Cash Converters snippet); WebSearch site:armitage.bidsonline.com.au (no hits). eBay sold would settle it. Gowans Triton hammers since Nov 2025: $25 to $400, median about $75; MK3 with saw about $160 at best; Ryobi saws alone $4 to $70.",
+ "searches_tried": "pipeline comps.py (errored, pipeline db broken); work comps.py triton workcentre and ryobi circular saw; Gowans API triton workcentre and triton mk3 (full lists, 11 past sales); WebSearch for second hand price Australia (forum chatter, Cash Converters snippet); WebSearch site:armitage.bidsonline.com.au (no hits). eBay sold would settle it. Gowans Triton hammers since Nov 2025: $25 to $400, median about $75; MK3 with saw about $160 at best; Ryobi saws alone $4 to $70. | chrome: eBay AU sold: triton workcentre (AU only, filtered to complete units over A$90) | chrome: eBay AU sold: triton workcentre (AU only, filtered to complete units over A$90)",
  "needs_chrome": false,
  "chrome_hint": "Optional: eBay AU sold listings 'Triton workcentre MK3'.",
- "viewing_check": "Check the saw runs and the blade guard, table top and fence are not warped or cracked, the stand locks, and which accessories (extension table, router adaptor, mitre) are really in the tub.",
- "rate_note": "All AUD, rate 1.0. Gowans hammers exclude premium."
+ "viewing_check": "Check the stand folds and locks, table flat, fence and protractor present, saw guard and mounting for the Ryobi saw, and that the saw fits the Triton bracket.",
+ "rate_note": "All AUD, rate 1.0. Gowans hammers exclude premium.",
+ "chrome_done": true
 }

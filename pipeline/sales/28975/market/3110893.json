@@ -1,7 +1,7 @@
 {
  "cdid": 3110893,
  "lot": 630,
- "identification": "John Campbell (Campbell Pottery, Launceston) small squat green/ochre drip-glaze vase, incised A302 / John Campbell / 1935. Base shows rough frit and uneven glaze at foot; title notes a base repair.",
+ "identification": "John Campbell (Launceston) squat green/ochre drip glaze vase, H 8cm, base repair noted",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,36 @@
    "url": "https://www.invaluable.com/artist/campbell-john-z1ge84kxrt/sold-at-auction-prices/",
    "same_item": "category guide",
    "note": "Large two-handled bulbous vase, older and bigger; from local comps DB, page not opened. Not comparable to small squat vase."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-08-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267758673839",
+   "same_item": "partial",
+   "note": "Vintage Australian Pottery John Campbell (Launceston), Buy It Now; form and condition not checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$69.60",
+   "currency": "AUD",
+   "aud_price": 69.6,
+   "date": "2026-10-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/287287314011",
+   "same_item": "partial",
+   "note": "John Campbell Launceston rare pink vase, different colour, likely undamaged",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py (john campbell vase), work/comps.py (campbell pottery; john campbell; campbell squat; campbell 1935; campbell repaired), Gowans API search 'john campbell vase' (26 lots since Oct 2025, none sold above $200, typical signed vase $55-80). No web search done; comps DB is deep for this maker. eBay sold prices not checked (blocked).",
+ "searches_tried": "pipeline/comps.py (john campbell vase), work/comps.py (campbell pottery; john campbell; campbell squat; campbell 1935; campbell repaired), Gowans API search 'john campbell vase' (26 lots since Oct 2025, none sold above $200, typical signed vase $55-80). No web search done; comps DB is deep for this maker. eBay sold prices not checked (blocked). | chrome: eBay AU sold: john campbell pottery launceston vase (3 matches); john campbell tasmania drip glaze vase signed (eBay error page, not retried) | chrome: eBay AU sold: john campbell pottery launceston vase (3 matches); john campbell tasmania drip glaze vase signed (eBay error page, not retried)",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Inspect the base and foot ring under light or UV for the repair extent, and any rim chips or hairlines. Confirm the incised signature and 1935 date.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Inspect the base repair extent and frit, confirm incised Campbell signature and date.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }
