@@ -62,7 +62,7 @@ def rows(source=None, category=None):
             if not os.path.exists(f):
                 continue
             for r in json.load(open(f)):
-                if r.get('item') and r.get('aud_hammer', 0) > 0 and r.get('match') in ('yes', 'close'):
+                if r.get('item') and (r.get('aud_hammer') or 0) > 0 and r.get('match') in ('yes', 'close'):
                     yield {'source': 'research', 'venue': r.get('venue') or 'earlier research', 'sale': '', 'lot': r.get('lot') or '',
                            'date': r.get('date') or '', 'text': f"{r['item']} {(r.get('note') or '')[:100]}", 'hammer': float(r['aud_hammer']),
                            'url': r.get('url') or '', 'match': r['match']}
