@@ -1,11 +1,128 @@
-{"cdid":3110977,"lot":715,"identification":"Whyte & Mackay 12 Years Old De Luxe blended Scotch, 1 litre, 75 Proof (UK proof, about 42.9% ABV), black and gold label, Glasgow, Estab. 1844. Likely 1970s to early 1980s bottling. Seal appears intact, fill base of neck.",
-"entries":[
-{"kind":"SOLD","price":"GBP 55","currency":"GBP","aud_price":110,"date":"2016-06-07","venue":"Whisky.Auction (UK online)","url":"https://whisky.auction/auctions/lot/7081/whyte-mackay-12-years-old","same_item":"category guide","note":"Page opened. W&M 12yo 1L 43% 22ct glazed Wade decanter, reserve not met noted but winning bid GBP 55; different presentation (decanter). Rate assumed 1 GBP = 2.0 AUD. Old and overseas."},
-{"kind":"SOLD","price":"GBP 65","currency":"GBP","aud_price":130,"date":"2016-06-07","venue":"Whisky.Auction (UK online)","url":"https://whisky.auction/auctions/lot/7082/whyte-mackay-12-year-old","same_item":"category guide","note":"Page opened. W&M 12yo Royal Wedding 1981, 75cl 43%. Commemorative edition, smaller bottle; not the same. Rate 2.0 assumed."},
-{"kind":"SOLD","price":"GBP 75","currency":"GBP","aud_price":150,"date":"2022-01-18","venue":"Whisky.Auction (UK online)","url":"https://whisky.auction/auctions/lot/123543/whyte-mackay-12-year-old","same_item":"category guide","note":"Page opened. W&M 12yo Royal Wedding 1981, 75cl 40%. Commemorative edition; upper end for any W&M 12yo seen. Rate 2.0 assumed."},
-{"kind":"SOLD","price":"GBP 30","currency":"GBP","aud_price":60,"date":"2012-12-07","venue":"Tennants (UK)","url":"https://auctions.tennants.co.uk/auction/lot/lot-428---whyte--mackay-pot-still-decanter-deluxe-12-year-old-blended-scotch-whisky-gilt-lustre-wade/?lot=1941041&so=0&st=&sto=0&au=13140&ef=&et=&ic=False&sd=1&pp=96&pn=5&g=1","same_item":"category guide","note":"Snippet only, not verified. Deluxe 12 Wade decanter, sold with two other bottles, estimate GBP 50-100. Old, low relevance."},
-{"kind":"SOLD","price":"GBP 28","currency":"GBP","aud_price":56,"date":"undated in snippet","venue":"Whisky Auctioneer (UK)","url":"https://whiskyauctioneer.com/lot/309592/whyte-and-mackay-12-year-old","same_item":"close","note":"Snippet only, not verified (site blocked direct fetch). 70cl 43% W&M 12yo, winning bid GBP 28. Rate 2.0 assumed."}],
-"searches_tried":"pipeline/comps.py crashed (NoneType error in script); work/comps.py (whyte, whisky 12 year, whyte & mackays) found no relevant W&M whisky; Gowans API search 'whyte mackay' returned nothing useful; WebSearch x3 (general, 75 proof/one litre, site:armitage.bidsonline) found no Armitage or Australian W&M 12yo results. No Australian sold comps found. eBay sold listings and Australian Whisky Auctions (blocked) would settle it best. Overall: ordinary W&M 12yo bottles sell around GBP 28-75 (AUD 55-150) overseas; no evidence a 75 proof 1L commands a collector premium.",
-"needs_chrome":true,"chrome_hint":"eBay AU sold listings: Whyte Mackay 12 year old 75 proof 1 litre (also try 'Whyte & Mackay De Luxe 12 1L 1970s')",
-"viewing_check":"Check the fill level, capsule/seal condition and label for any bottle date code or import stamp; confirm '75 Proof' and 'One Litre' on the label, and look for staining or leakage.",
-"rate_note":"1 GBP = 2.0 AUD assumed (approximate)"}
+{
+ "cdid": 3110977,
+ "lot": 715,
+ "identification": "Whyte & Mackay's 12 Year Old De Luxe blend, One Litre 75\u00b0 proof, black/gold label, 1970s, no box",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "GBP 55",
+   "currency": "GBP",
+   "aud_price": 110,
+   "date": "2016-06-07",
+   "venue": "Whisky.Auction (UK online)",
+   "url": "https://whisky.auction/auctions/lot/7081/whyte-mackay-12-years-old",
+   "same_item": "category guide",
+   "note": "Page opened. W&M 12yo 1L 43% 22ct glazed Wade decanter, reserve not met noted but winning bid GBP 55; different presentation (decanter). Rate assumed 1 GBP = 2.0 AUD. Old and overseas."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 65",
+   "currency": "GBP",
+   "aud_price": 130,
+   "date": "2016-06-07",
+   "venue": "Whisky.Auction (UK online)",
+   "url": "https://whisky.auction/auctions/lot/7082/whyte-mackay-12-year-old",
+   "same_item": "category guide",
+   "note": "Page opened. W&M 12yo Royal Wedding 1981, 75cl 43%. Commemorative edition, smaller bottle; not the same. Rate 2.0 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 75",
+   "currency": "GBP",
+   "aud_price": 150,
+   "date": "2022-01-18",
+   "venue": "Whisky.Auction (UK online)",
+   "url": "https://whisky.auction/auctions/lot/123543/whyte-mackay-12-year-old",
+   "same_item": "category guide",
+   "note": "Page opened. W&M 12yo Royal Wedding 1981, 75cl 40%. Commemorative edition; upper end for any W&M 12yo seen. Rate 2.0 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 30",
+   "currency": "GBP",
+   "aud_price": 60,
+   "date": "2012-12-07",
+   "venue": "Tennants (UK)",
+   "url": "https://auctions.tennants.co.uk/auction/lot/lot-428---whyte--mackay-pot-still-decanter-deluxe-12-year-old-blended-scotch-whisky-gilt-lustre-wade/?lot=1941041&so=0&st=&sto=0&au=13140&ef=&et=&ic=False&sd=1&pp=96&pn=5&g=1",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Deluxe 12 Wade decanter, sold with two other bottles, estimate GBP 50-100. Old, low relevance."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 28",
+   "currency": "GBP",
+   "aud_price": 56,
+   "date": "undated in snippet",
+   "venue": "Whisky Auctioneer (UK)",
+   "url": "https://whiskyauctioneer.com/lot/309592/whyte-and-mackay-12-year-old",
+   "same_item": "close",
+   "note": "Snippet only, not verified (site blocked direct fetch). 70cl 43% W&M 12yo, winning bid GBP 28. Rate 2.0 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-09-27",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-720005/whyte-mackay-12-year-old-1000ml",
+   "same_item": "close",
+   "note": "Same name and 1000ml but a later 43% bottling, not 75 proof. Hammer, excl. AWA buyer's premium. Same lot relisted many months before selling",
+   "via": "chrome"
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "A$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-07-26",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-700012/whyte-mackay-12-year-old-1000ml",
+   "same_item": "close",
+   "note": "Later 43% 1000ml, passed in",
+   "via": "chrome"
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "A$68",
+   "currency": "AUD",
+   "aud_price": 68,
+   "date": "2026-08-30",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-710006/whyte-mackay-12-year-old-1000ml",
+   "same_item": "close",
+   "note": "Later 43% 1000ml, passed in",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$115",
+   "currency": "AUD",
+   "aud_price": 115,
+   "date": "2023-07-30",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-250805/whyte-mackays-special-scotch-whisky-1969-bottling",
+   "same_item": "close",
+   "note": "Same era (1969 bottling) but 'Special' NAS 750ml 43%, not the 12yo litre",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "\u00a350",
+   "currency": "GBP",
+   "aud_price": 97.5,
+   "date": "2026-01",
+   "venue": "Scotch Whisky Auctions",
+   "url": "https://www.scotchwhiskyauctions.com/auctions/224-auction/855427-whyte--mackay-12-year-old-pot-still-decanter-1l/",
+   "same_item": "close",
+   "note": "W&M 12 1L but in the pot-still decanter, not this flat bottle; era not checked. Winning bid from results list, excl. buyer's premium. GBP at 1.95",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py crashed (NoneType error in script); work/comps.py (whyte, whisky 12 year, whyte & mackays) found no relevant W&M whisky; Gowans API search 'whyte mackay' returned nothing useful; WebSearch x3 (general, 75 proof/one litre, site:armitage.bidsonline) found no Armitage or Australian W&M 12yo results. No Australian sold comps found. eBay sold listings and Australian Whisky Auctions (blocked) would settle it best. Overall: ordinary W&M 12yo bottles sell around GBP 28-75 (AUD 55-150) overseas; no evidence a 75 proof 1L commands a collector premium. | chrome: AWA 'whyte' (all W&M lots); SWA 'whyte mackay 12' filtered proof/litre/1970s (only pot-still decanters); whiskyhunter needs login",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: Whyte Mackay 12 year old 75 proof 1 litre (also try 'Whyte & Mackay De Luxe 12 1L 1970s')",
+ "viewing_check": "Fill level (looks into the neck in the photo, good), screw cap tight, label wear. No box. Old blends like this trade on era more than name, so the 75 proof label is the selling point",
+ "rate_note": "1 GBP = 2.0 AUD assumed (approximate)",
+ "chrome_done": true
+}

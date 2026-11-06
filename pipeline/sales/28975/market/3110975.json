@@ -1,7 +1,7 @@
 {
  "cdid": 3110975,
  "lot": 713,
- "identification": "Cardhu 12 Year Old pure malt Highland, 750ml 43%, 'From the Guns of Strathspey' box, John Walker & Sons neck label. Photo confirms boxed bottle, fill at neck. This is the Walker-era (post-1985 DCL/UD) style, likely late 1980s. Not found as a named release online; closest comps are 75cl 43% Wax & Vitale Italian imports and 75cl 40% 1980s bottles.",
+ "identification": "Cardhu 12 Year Old Pure Malt, 750ml 43%, 1980s Australian-market bottle with matching box (John Walker & Sons)",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,96 @@
    "url": "https://whisky.auction/auctions/lot/199559/cardhu-12-year-old",
    "same_item": "category guide",
    "note": "Snippet only. Modern 70cl 40% Cardhu 12 for comparison, not the same item."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$175",
+   "currency": "AUD",
+   "aud_price": 175,
+   "date": "2026-08-30",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-710856/cardhu-pure-malt-12-year-old-1980s-bottling",
+   "same_item": "yes",
+   "note": "Pure Malt 12 1980s, 750ml 43%; box not checked. Hammer, excl. AWA 13% buyer's premium",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$160",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-08-30",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-710855/cardhu-pure-malt-12-year-old-1980s-bottling-1000ml",
+   "same_item": "close",
+   "note": "Same era, 1000ml",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$175",
+   "currency": "AUD",
+   "aud_price": 175,
+   "date": "2026-03-29",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-573257/cardhu-pure-malt-12-year-old-1980s-bottling",
+   "same_item": "close",
+   "note": "Same era, page lists 1000ml 43%",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$175",
+   "currency": "AUD",
+   "aud_price": 175,
+   "date": "2023-06-25",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-240410/cardhu-pure-malt-12-year-old-1980s-bottling",
+   "same_item": "close",
+   "note": "Same era, 700ml 43%",
+   "via": "chrome"
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "A$125",
+   "currency": "AUD",
+   "aud_price": 125,
+   "date": "2026-10-25",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-730755/cardhu-pure-malt-12-year-old-late-1980s-bottling-1000ml",
+   "same_item": "close",
+   "note": "Late 1980s 1000ml, passed in",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$220",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "2026-08-30",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-712146/cardhu-12-year-old-1970s-bottling",
+   "same_item": "close",
+   "note": "Earlier 1970s bottling, 750ml 40%",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$300",
+   "currency": "AUD",
+   "aud_price": 300,
+   "date": "2025-04-27",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-460888/cardhu-12-year-old-1970s-bottling",
+   "same_item": "close",
+   "note": "Earlier 1970s bottling, 750ml 40%",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for cardhu / pure malt: no Cardhu hits (comps.py pipeline errors with a NoneType bug). Gowans API cardhu: no lots. WebSearch x3 (SWA, whisky.auction, Italian/43%); opened 4 comp pages. No Armitage past results searched. eBay, Australian Whisky Auctions are closed to us; Australian prices for old Cardhu not found.",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (pipeline and work) for cardhu / pure malt: no Cardhu hits (comps.py pipeline errors with a NoneType bug). Gowans API cardhu: no lots. WebSearch x3 (SWA, whisky.auction, Italian/43%); opened 4 comp pages. No Armitage past results searched. eBay, Australian Whisky Auctions are closed to us; Australian prices for old Cardhu not found. | chrome: AWA 'cardhu' (all lots, picked Pure Malt 12 and 1970s 12)",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: Cardhu 12 year old 750ml 43% box; also Australian Whisky Auctions past results 'Cardhu 12 75cl'",
  "rate_note": "GBP1 = AUD2.00 assumed (approximate).",
- "viewing_check": "Check fill level (neck vs shoulder), label and capsule condition, any leakage, bottling code on the back label or glass, box condition. Confirm 43% 750ml and Walker neck label as photographed."
+ "viewing_check": "Fill level, wooden-topped stopper intact and not dried out, box matches and is clean (box helps)",
+ "chrome_done": true
 }

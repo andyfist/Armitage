@@ -8,6 +8,7 @@
   "fee": 0.15,
   "premium": 0.22,
   "months": 24,
+  "chrome_floor": 100,
   "top": 25,
   "ignore_bids": false
  },
@@ -15,8 +16,8 @@
  "candidates": 115,
  "counts": {
   "PASS": 12,
-  "CHROME": 32,
-  "FAIL": 57,
+  "CHROME": 27,
+  "FAIL": 62,
   "DROP": 2,
   "NOT RESEARCHED": 12
  },
@@ -1873,13 +1874,22 @@
    "current_bid": 55.0,
    "bid_count": 9,
    "close": "11/11/2026 3:56:00 PM ADST",
-   "identification": "Long John Finest Scotch Whisky, 750ml 37.5%, Long John International (MacDonald). Common 1980s-90s blend, drinking value only.",
+   "identification": "Long John Finest Scotch Whisky (MacDonald), 750ml, about 37.5% (label hard to read), late 1980s/1990s Australian market",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Long John Finest Scotch Whisky 750ml",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 39.0,
+     "date": "2021-11-07",
+     "venue": "Scotch Whisky Auctions",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/167-auction/503493-long-john-blend-75cl/",
+     "same_item": "close",
+     "note": "UK 75cl 40% Long John blend, label era not compared. Winning bid, excl. buyer's premium. GBP at 1.95. Older than 3 years; SWA has many Long John 75cl at \u00a315-30 2017-2021"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -1951,12 +1961,53 @@
    "current_bid": 80.0,
    "bid_count": 7,
    "close": "11/11/2026 3:56:40 PM ADST",
-   "identification": "Laphroaig 10 Years Old single Islay malt, 750ml, 43%, old-style label with 'Established 1815' (1980s era, not the 15 year old).",
+   "identification": "Laphroaig 10 Year Old, white label 'The most richly flavoured of all Scotch whiskies / Established 1815', 750ml 43%, cork with white capsule, no Royal Warrant visible: looks like the mid-late 1980s pre-warrant bottling",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Whisky Auctioneer / Whisky Hammer past results search: 'Laphroaig 10 Year Old 1980s 75cl 43% D. Johnston'; also eBay sold 'Laphroaig 10 year old 750ml 43% 1980s'",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 600.0,
+     "date": "2026-10-25",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-732980/laphroaig-10-year-old-pre-warrant-late-1980s-bottling-750ml",
+     "same_item": "yes",
+     "note": "Same label, 750ml 43%, cork stopper (AWA dates cork to post-1985, pre-1994 warrant). Hammer, excl. AWA 13% buyer's premium"
+    },
+    {
+     "aud_price": 690.0,
+     "date": "2026-05-31",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-590768/laphroaig-10-year-old-pre-warrant-late-1980s-bottling-750ml",
+     "same_item": "yes",
+     "note": "Pre-warrant late 1980s, 750ml 43%. Hammer, excl. buyer's premium"
+    },
+    {
+     "aud_price": 660.0,
+     "date": "2026-02-22",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-570659/laphroaig-10-year-old-pre-warrant-late-1980s-bottling",
+     "same_item": "close",
+     "note": "Pre-warrant late 1980s 750ml but listed at 40% (ours 43%). Hammer, excl. buyer's premium"
+    },
+    {
+     "aud_price": 630.0,
+     "date": "2025-03-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-450485/laphroaig-10-year-old-pre-warrant-late-1980s-bottling",
+     "same_item": "close",
+     "note": "Pre-warrant late 1980s 750ml, 40%. Hammer, excl. buyer's premium"
+    },
+    {
+     "aud_price": 370.0,
+     "date": "2025-05-25",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-471079/laphroaig-10-year-old-1990s-00s-750ml",
+     "same_item": "close",
+     "note": "Later era (late 1990s/early 2000s) 750ml 43%"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 660.0,
@@ -1973,6 +2024,14 @@
      "url": "https://whisky.auction/auctions/lot/152508/laphroaig-10-year-old",
      "same_item": "close",
      "note": "Page opened. Laphroaig 10 bottled late 1980s to early 1990s, 100cl (1 litre) 43%, pre Royal Warrant, with Ralph Steadman print. Different size, later era. AUD at assumed 2.00 per GBP."
+    },
+    {
+     "aud_price": 420.0,
+     "date": "2024-09-29",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-400366/laphroaig-10-year-old-mid-1990s-bottling-750ml",
+     "same_item": "close",
+     "note": "Later era: 1994+ with Royal Warrant, 750ml 43%. This is the price if ours turns out to carry the warrant"
     }
    ],
    "unsold": [],
@@ -1986,11 +2045,11 @@
      "note": "Snippet only (page behind bot check). Distillery bottling 1980-1986, 43%, 75cl. Current bid, not a result. AUD at assumed 2.00."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 630.0,
+   "net_resale": 535.5,
+   "max_hammer": 275,
+   "status": "PASS",
+   "why": "5 same-item SOLD price(s), median $630; less 15% fees = $536; less $200 profit, / 1.22 premium = max hammer $275",
    "priority": false
   },
   {
@@ -2003,11 +2062,11 @@
    "current_bid": 70.0,
    "bid_count": 6,
    "close": "11/11/2026 3:57:20 PM ADST",
-   "identification": "Cardhu 12 Year Old pure malt Highland, 750ml 43%, 'From the Guns of Strathspey' box, John Walker & Sons neck label. Photo confirms boxed bottle, fill at neck. This is the Walker-era (post-1985 DCL/UD) style, likely late 1980s. Not found as a named release online; closest comps are 75cl 43% Wax & Vitale Italian imports and 75cl 40% 1980s bottles.",
+   "identification": "Cardhu 12 Year Old Pure Malt, 750ml 43%, 1980s Australian-market bottle with matching box (John Walker & Sons)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: Cardhu 12 year old 750ml 43% box; also Australian Whisky Auctions past results 'Cardhu 12 75cl'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 130.0,
@@ -2016,6 +2075,46 @@
      "url": "https://www.scotchwhiskyauctions.com/auctions/222-the-173rd-auction/845227-cardhu-12-year-old-circa-1980s-75cl/",
      "same_item": "close",
      "note": "Page opened. Circa 1980s 75cl 40%, no fill or box stated, label condition caution. Rate 2.00. Premium status unstated. Lower end."
+    },
+    {
+     "aud_price": 175.0,
+     "date": "2026-08-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-710856/cardhu-pure-malt-12-year-old-1980s-bottling",
+     "same_item": "yes",
+     "note": "Pure Malt 12 1980s, 750ml 43%; box not checked. Hammer, excl. AWA 13% buyer's premium"
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2026-08-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-710855/cardhu-pure-malt-12-year-old-1980s-bottling-1000ml",
+     "same_item": "close",
+     "note": "Same era, 1000ml"
+    },
+    {
+     "aud_price": 175.0,
+     "date": "2026-03-29",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-573257/cardhu-pure-malt-12-year-old-1980s-bottling",
+     "same_item": "close",
+     "note": "Same era, page lists 1000ml 43%"
+    },
+    {
+     "aud_price": 220.0,
+     "date": "2026-08-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-712146/cardhu-12-year-old-1970s-bottling",
+     "same_item": "close",
+     "note": "Earlier 1970s bottling, 750ml 40%"
+    },
+    {
+     "aud_price": 300.0,
+     "date": "2025-04-27",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-460888/cardhu-12-year-old-1970s-bottling",
+     "same_item": "close",
+     "note": "Earlier 1970s bottling, 750ml 40%"
     }
    ],
    "sold_old": [
@@ -2042,15 +2141,32 @@
      "url": "https://www.just-whisky.co.uk/product/cardhu-12-years-old-1341379",
      "same_item": "close",
      "note": "Page opened. 1980s Wax & Vitale 75cl 43%, no reserve. Old (2016), UK, so weak for current value. Rate 2.00."
+    },
+    {
+     "aud_price": 175.0,
+     "date": "2023-06-25",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-240410/cardhu-pure-malt-12-year-old-1980s-bottling",
+     "same_item": "close",
+     "note": "Same era, 700ml 43%"
     }
    ],
-   "unsold": [],
+   "unsold": [
+    {
+     "aud_price": 125.0,
+     "date": "2026-10-25",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-730755/cardhu-pure-malt-12-year-old-late-1980s-bottling-1000ml",
+     "same_item": "close",
+     "note": "Late 1980s 1000ml, passed in"
+    }
+   ],
    "asking": [],
-   "resale": 130.0,
-   "net_resale": 110.5,
+   "resale": 175.0,
+   "net_resale": 148.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $70",
+   "why": "max hammer $0 from a median SOLD of $175 does not clear the current bid $70",
    "priority": false
   },
   {
@@ -2063,20 +2179,63 @@
    "current_bid": 65.0,
    "bid_count": 8,
    "close": "11/11/2026 3:58:00 PM ADST",
-   "identification": "Whyte & Mackay 12 Years Old De Luxe blended Scotch, 1 litre, 75 Proof (UK proof, about 42.9% ABV), black and gold label, Glasgow, Estab. 1844. Likely 1970s to early 1980s bottling. Seal appears intact, fill base of neck.",
+   "identification": "Whyte & Mackay's 12 Year Old De Luxe blend, One Litre 75\u00b0 proof, black/gold label, 1970s, no box",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Whyte Mackay 12 year old 75 proof 1 litre (also try 'Whyte & Mackay De Luxe 12 1L 1970s')",
-   "chrome_done": false,
-   "sold": [],
-   "sold_old": [],
-   "unsold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 70.0,
+     "date": "2026-09-27",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-720005/whyte-mackay-12-year-old-1000ml",
+     "same_item": "close",
+     "note": "Same name and 1000ml but a later 43% bottling, not 75 proof. Hammer, excl. AWA buyer's premium. Same lot relisted many months before selling"
+    },
+    {
+     "aud_price": 97.5,
+     "date": "2026-01",
+     "venue": "Scotch Whisky Auctions",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/224-auction/855427-whyte--mackay-12-year-old-pot-still-decanter-1l/",
+     "same_item": "close",
+     "note": "W&M 12 1L but in the pot-still decanter, not this flat bottle; era not checked. Winning bid from results list, excl. buyer's premium. GBP at 1.95"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 115.0,
+     "date": "2023-07-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-250805/whyte-mackays-special-scotch-whisky-1969-bottling",
+     "same_item": "close",
+     "note": "Same era (1969 bottling) but 'Special' NAS 750ml 43%, not the 12yo litre"
+    }
+   ],
+   "unsold": [
+    {
+     "aud_price": 60.0,
+     "date": "2026-07-26",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-700012/whyte-mackay-12-year-old-1000ml",
+     "same_item": "close",
+     "note": "Later 43% 1000ml, passed in"
+    },
+    {
+     "aud_price": 68.0,
+     "date": "2026-08-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-710006/whyte-mackay-12-year-old-1000ml",
+     "same_item": "close",
+     "note": "Later 43% 1000ml, passed in"
+    }
+   ],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 83.75,
+   "net_resale": 71.1875,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $84 does not clear the current bid $65",
    "priority": false
   },
   {
@@ -2089,13 +2248,39 @@
    "current_bid": 55.0,
    "bid_count": 8,
    "close": "11/11/2026 3:58:40 PM ADST",
-   "identification": "Two half-litre (50cl) bottles in a twin gift carton: Whyte & Mackay De Luxe blended Scotch and Dalmore 12 Years Old Pure Malt (older gold-label style).",
+   "identification": "Two half-litre bottles in a duty-free twin pack box: Dalmore 12 Year Old Pure Malt (Whyte & Mackay Distillers label, half litre 75\u00b0 proof, 1970s) and Whyte & Mackay De Luxe blend (half litre, same era)",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold (AU and UK): Dalmore 12 year old pure malt 75 proof 50cl OR 1970s; also whiskyauctioneer.com past results for 'Dalmore 12 Year Old 50cl 1970s' and whiskyhammer.com lot 6456 final price",
    "chrome_done": true,
-   "sold": [],
-   "sold_old": [],
+   "sold": [
+    {
+     "aud_price": 280.0,
+     "date": "2026-06-28",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-692002/dalmore-12-year-old-1980s-bottling",
+     "same_item": "close",
+     "note": "Dalmore 12 1980s, 700ml 43%: later era and bigger bottle. Hammer, excl. AWA buyer's premium"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 156.0,
+     "date": "2015-04-05",
+     "venue": "Scotch Whisky Auctions",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/85-auction/60848-dalmore-12-year-old-old-style-75-proof-05l/",
+     "same_item": "yes",
+     "note": "Dalmore 12 old style 75\u00b0 proof 0.5L, same as our Dalmore. Very old result (2015). Winning bid, excl. buyer's premium. GBP at 1.95"
+    },
+    {
+     "aud_price": 115.0,
+     "date": "2023-07-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-250805/whyte-mackays-special-scotch-whisky-1969-bottling",
+     "same_item": "close",
+     "note": "For the Whyte & Mackay half: 1969 'Special' 750ml 43%, different expression name and size"
+    }
+   ],
    "unsold": [
     {
      "aud_price": 1820.0,
@@ -2112,6 +2297,14 @@
      "url": "https://www.whiskyhammer.com/item/6456/Dalmore/Dalmore---12-Year-Old-Pure-Malt-1970s.html",
      "same_item": "close",
      "note": "Snippet only (page gave 403). Late 1970s Dalmore 12 Pure Malt, 75 proof, but 1 litre, not 50cl. Old and a litre; treat as a ceiling at best. Rate GBP1=AUD2.00 (assumed)."
+    },
+    {
+     "aud_price": 238.0,
+     "date": "2026-10-25",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-732780/dalmore-12-year-old-late-1970s-750ml",
+     "same_item": "close",
+     "note": "Dalmore 12 late 1970s but 750ml 40% (ours half litre 75 proof). Passed in at A$238"
     }
    ],
    "asking": [
@@ -2132,11 +2325,11 @@
      "note": "Snippet only. 750ml 1970s bottling, retail asking. Rate USD1=AUD1.53 (assumed)."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 280.0,
+   "net_resale": 238.0,
+   "max_hammer": 30,
+   "status": "FAIL",
+   "why": "max hammer $30 from a median SOLD of $280 does not clear the current bid $55",
    "priority": false
   },
   {
@@ -2149,7 +2342,7 @@
    "current_bid": 55.0,
    "bid_count": 7,
    "close": "11/11/2026 3:59:00 PM ADST",
-   "identification": "Highland Park 12 Year Old single malt, 750ml dumpy bottle in a silver-lined presentation box, label shows Highland Park Single Malt Scotch Whisky.",
+   "identification": "Highland Park 12 Year Old, early 1980s dumpy bottle, 750ml, 'Imported by Elders IXL Limited', James Grant & Co label, in black/gold hinged box",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Highland Park 12 dumpy 750ml Elders  ; also Australian Whisky Auctions past results Highland Park 12 1980s",
@@ -2186,6 +2379,14 @@
      "url": "https://live.whisky-onlineauctions.com/pages/product-history-page?mproduct=highland-park-12-year-old-1980s&mproductId=6909839638692&sort_by=1731843290",
      "same_item": "close",
      "note": "Page opened (history list). Highland Park 12 1980s distillery bottling (75cl per search snippet), condition and box not shown; UK online sale, buyer fees likely extra. Rate GBP1=AUD2.0 assumed. "
+    },
+    {
+     "aud_price": 250.0,
+     "date": "2026-04-26",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-580100/highland-park-12-year-old-1990s-bottling-1000ml",
+     "same_item": "close",
+     "note": "Later 1990s dumpy, 1L duty free, 43%"
     }
    ],
    "sold_old": [
@@ -2196,9 +2397,50 @@
      "url": "https://live.whisky-onlineauctions.com/pages/product-history-page?mproduct=highland-park-12-year-old-1980s&mproductId=6909839638692&sort_by=1731843290",
      "same_item": "close",
      "note": "Page opened (history list). Highland Park 12 1980s distillery bottling (75cl per search snippet), condition and box not shown; UK online sale, buyer fees likely extra. Rate GBP1=AUD2.0 assumed. "
+    },
+    {
+     "aud_price": 450.0,
+     "date": "2023-01-29",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-190870/highland-park-12-year-old-early-1980s-bottling",
+     "same_item": "yes",
+     "note": "Same dumpy, same Elders IXL Limited import label, 750ml 43%, same black box. Hammer, excl. AWA buyer's premium. Only sale of this bottling found, and just over 3 years old"
+    },
+    {
+     "aud_price": 250.0,
+     "date": "2024-10-27",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-410956/highland-park-12-year-old-1990s-bottling-1000ml",
+     "same_item": "close",
+     "note": "Later 1990s dumpy 1L"
+    },
+    {
+     "aud_price": 156.0,
+     "date": "2024-06-09",
+     "venue": "Scotch Whisky Auctions",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/204-auction/750946-highland-park-12-year-old-dumpy-bottle/",
+     "same_item": "close",
+     "note": "UK dumpy 70cl 40%, later and no Elders import label. Winning bid, excl. buyer's premium. GBP at 1.95"
+    },
+    {
+     "aud_price": 156.0,
+     "date": "2024-05-12",
+     "venue": "Scotch Whisky Auctions",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/203-auction/744571-highland-park-12-year-old-dumpy-bottle/",
+     "same_item": "close",
+     "note": "UK dumpy 70cl 40%. Winning bid, excl. buyer's premium. GBP at 1.95"
     }
    ],
-   "unsold": [],
+   "unsold": [
+    {
+     "aud_price": 138.0,
+     "date": "2026-03-29",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-571674/highland-park-12-year-old-1990s-bottling-1000ml",
+     "same_item": "close",
+     "note": "1990s 1L dumpy, passed in (also passed at A$185 Jan 2026 and A$200 Feb 2026)"
+    }
+   ],
    "asking": [
     {
      "aud_price": 339.99,
@@ -2217,11 +2459,11 @@
      "note": "Snippet only, unverified live bid for a 1980s 75cl 12yo. Rate 2.0."
     }
    ],
-   "resale": 320.0,
-   "net_resale": 272.0,
-   "max_hammer": 55,
-   "status": "PASS",
-   "why": "4 same-item SOLD price(s), median $320; less 15% fees = $272; less $200 profit, / 1.22 premium = max hammer $55",
+   "resale": 310.0,
+   "net_resale": 263.5,
+   "max_hammer": 50,
+   "status": "FAIL",
+   "why": "max hammer $50 from a median SOLD of $310 does not clear the current bid $55",
    "priority": false
   },
   {
@@ -2234,12 +2476,37 @@
    "current_bid": 40.0,
    "bid_count": 5,
    "close": "11/11/2026 4:00:20 PM ADST",
-   "identification": "The Famous Grouse Finest Scotch Whisky, Matthew Gloag & Son, 750ml 37.2%, Elders IXL Australian import, mid to late 1980s squat bottle. Common blend, no age statement.",
+   "identification": "The Famous Grouse Finest, 750ml 37.2%, 1980s, 'Imported by Elders IXL Wine & Spirits Pty Ltd, South Yarra'",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: famous grouse elders ixl 750ml",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 92.0,
+     "date": "2026-09-27",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-721999/famous-grouse-1980s-bottling-elders-ixl-wine-spirits-import",
+     "same_item": "yes",
+     "note": "Elders IXL import, 750ml 37.2%. Hammer, excl. AWA buyer's premium"
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2025-08-31",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-500749/famous-grouse-finest-scotch-whisky-1980s-bottling",
+     "same_item": "yes",
+     "note": "Elders IXL Wine & Spirits import per description, 750ml 37.2%"
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-06-28",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-690463/famous-grouse-finest-scotch-whisky-1980s-bottling",
+     "same_item": "close",
+     "note": "1980s bottled in Australia, 750ml, importer not stated"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 50.0,
@@ -2248,15 +2515,32 @@
      "url": "https://whisky.auction/auctions/lot/42432/famous-grouse",
      "same_item": "close",
      "note": "Page opened. 1980s 75cl 40% Famous Grouse, same maker; UK export strength, not the 37.2% Australian bottling. Old (2018). Rate 1 GBP = 2.0 AUD assumed."
+    },
+    {
+     "aud_price": 82.0,
+     "date": "2024-05-26",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-350829/famouse-grouse-1980s-bottling-elders-ixl-wine-spirits-import",
+     "same_item": "yes",
+     "note": "Elders IXL import, 750ml 37.2%"
     }
    ],
-   "unsold": [],
+   "unsold": [
+    {
+     "aud_price": 40.0,
+     "date": "2026-05-31",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-681326/famous-grouse-finest-scotch-whisky-1980s-bottling",
+     "same_item": "close",
+     "note": "1980s, passed in"
+    }
+   ],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 90.0,
+   "net_resale": 76.5,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -2401,12 +2685,29 @@
    "current_bid": 70.0,
    "bid_count": 6,
    "close": "11/11/2026 4:01:00 PM ADST",
-   "identification": "Knockando 1974 Pure Single Malt (Justerini & Brooks), 75cl in card box, amber colour, label looks clean",
+   "identification": "Knockando 1974 Pure Single Malt, Justerini & Brooks label, 75cl 43%, in cream/gilt box with distillery drawing (bottled c.1987)",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Knockando 1974 Justerini Brooks 75cl; also Scotch Whisky Auctions and Whisky Auctioneer past lots 'Knockando 1974'",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 200.0,
+     "date": "2026-09-27",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-720285/knockando-1975-season-1988-bottling",
+     "same_item": "close",
+     "note": "Next vintage (1975, 1988 season), 750ml 43%. Hammer, excl. AWA 13% buyer's premium (11% bank transfer)"
+    },
+    {
+     "aud_price": 255.0,
+     "date": "2026-05-31",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-681670/knockando-1976-season",
+     "same_item": "close",
+     "note": "1976 vintage, 750ml 43%. Hammer, excl. AWA buyer's premium"
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 128.0,
@@ -2415,6 +2716,30 @@
      "url": "https://whisky.auction/auctions/lot/18571/knockando-1974",
      "same_item": "yes",
      "note": "Page opened. Knockando 1974 bottled 1986 by J&B, 75cl 43%; label wear, fill base of neck (this lot is better: high fill, box). Did not meet reserve then sold in aftersale. Old (9 years) and UK. Rate used 1 GBP = 1.70 AUD (approx 2017 rate)."
+    },
+    {
+     "aud_price": 234.0,
+     "date": "2021-12-05",
+     "venue": "Scotch Whisky Auctions",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/169-auction/511871-knockando-1974-75cl/",
+     "same_item": "yes",
+     "note": "Knockando 1974, bottled 1987, 75cl 43% per lot page; box not compared. Winning bid, excl. SWA buyer's premium. GBP at 1.95 AUD. Older than 3 years"
+    },
+    {
+     "aud_price": 234.0,
+     "date": "2023-06-11",
+     "venue": "Scotch Whisky Auctions",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/189-auction/662264-knockando-1974-75cl-/",
+     "same_item": "close",
+     "note": "Same 1974 vintage bottled 1987 but 40% UK strength (ours 43%) and plain gold box (ours cream box with drawing). Winning bid, excl. buyer's premium. GBP at 1.95"
+    },
+    {
+     "aud_price": 331.5,
+     "date": "2022-04-10",
+     "venue": "Scotch Whisky Auctions",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/174-auction/546208-knockando-1974-75cl/",
+     "same_item": "close",
+     "note": "1974 bottled 1987, 75cl but 40% (ours 43%). Winning bid, excl. buyer's premium. GBP at 1.95"
     }
    ],
    "unsold": [
@@ -2425,6 +2750,30 @@
      "url": "https://www.invaluable.com/auction-lot/knockando-1974-justerini-brooks-1-bt-85-c-c6fdb370e3",
      "same_item": "yes",
      "note": "1974 J&B Knockando, boxed, 1 bottle, passed in. aud_price is the low estimate EUR100 at approx rate 1 EUR = 1.76 AUD (no bid price shown). Fill level not stated"
+    },
+    {
+     "aud_price": 150.0,
+     "date": "2026-08-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-710415/knockando-1975-season-1988-bottling",
+     "same_item": "close",
+     "note": "1975 Season, passed in (reserve not met)"
+    },
+    {
+     "aud_price": 175.0,
+     "date": "2026-07-26",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-700621/knockando-1975-season-1988-bottling",
+     "same_item": "close",
+     "note": "1975 Season, passed in"
+    },
+    {
+     "aud_price": 150.0,
+     "date": "2026-06-28",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-691683/knockando-1975-season-1988-bottling",
+     "same_item": "close",
+     "note": "1975 Season, passed in"
     }
    ],
    "asking": [
@@ -2445,11 +2794,11 @@
      "note": "Snippet only, price not seen on opened page. Knockando 13YO distilled 1974 bottled 1987, 43% 75cl. Dealer premium pricing. Rate 1 USD = 1.50 AUD."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 227.5,
+   "net_resale": 193.375,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $228 does not clear the current bid $70",
    "priority": false
   },
   {
@@ -7389,11 +7738,11 @@
    "current_bid": 25.0,
    "bid_count": 2,
    "close": "11/11/2026 5:31:00 PM ADST",
-   "identification": "Five old wine/spirit bottles plus a boxed Bisquit Fine Cognac VSOP gift pack with two balloon glasses: Wolf Blass 1983 Yellow Label Cabernet Sauvignon Shiraz, church-label vintage port, commemorative tawny port, Frascati, Yalumba Galway Pipe port in plastic wrap. Photo read only; fills and the commemorative label not legible.",
+   "identification": "Mixed lot: Wolf Blass 1983 Yellow Label Cabernet Sauvignon Shiraz, an Australian vintage port (castle/church label), an RAAF-style crested commemorative port, a Frascati-labelled bottle, Bisquit VSOP Cognac gift box with two glasses, Yalumba Galway Pipe port (in plastic)",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Bisquit VSOP cognac gift box two glasses",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 75.0,
@@ -7450,16 +7799,33 @@
      "url": "gowans lot id 391973 (1975 Wolf Blass Black Label Cab Sauv Shiraz)",
      "same_item": "close",
      "note": "Older Blass red; Yellow Label 1983 is lower tier, so likely less. Source: local results database (work/comps.py); premium extra, no rate needed."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2026-06-28",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-692263/bisquit-vsop-cognac-25-fluid-ounces",
+     "same_item": "close",
+     "note": "Bisquit VSOP only, older 25 fl oz 40% bottle, no gift box/glasses. Hammer, excl. AWA buyer's premium"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 72.0,
+     "date": "2023-04-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-221140/cognac-bisquit-vsop",
+     "same_item": "close",
+     "note": "Bisquit VSOP only, 700ml 40%"
+    }
+   ],
    "unsold": [],
    "asking": [],
-   "resale": 75.0,
-   "net_resale": 63.75,
+   "resale": 77.5,
+   "net_resale": 65.875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $78 does not clear the current bid $25",
    "priority": false
   }
  ]

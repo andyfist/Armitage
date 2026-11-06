@@ -1,6 +1,81 @@
-{"cdid":3110971,"lot":709,"identification":"Long John Finest Scotch Whisky, 750ml 37.5%, Long John International (MacDonald). Common 1980s-90s blend, drinking value only.","entries":[
-{"kind":"SOLD","price":"EUR 21.00","currency":"EUR","aud_price":37,"date":"2021-11","venue":"Irish Whiskey Auctions","url":"https://irishwhiskeyauctions.ie/views/product.php?id=65599035","same_item":"close","note":"1980s White Label bottle, two bids, guide EUR 40-60. Snippet only. Rate used 1 EUR = 1.75 AUD. Old and overseas."},
-{"kind":"SOLD","price":"GBP 12-15","currency":"GBP","aud_price":27,"date":"recent (undated)","venue":"Glenbotal (reporting UK/EU auction hammers)","url":"https://glenbotal.co.uk/bottle/long-john-finest-scotch-whisky-1980s/","same_item":"close","note":"1980s bottling, reported recent hammer range. Snippet only, unverified. Rate 1 GBP = 2.2 AUD, midpoint GBP 13.5 used."},
-{"kind":"ASKING","price":"EUR 34 or best offer","currency":"EUR","aud_price":60,"date":"live, seen 2026-11-06","venue":"eBay","url":"https://www.ebay.com/itm/292374019574","same_item":"close","note":"75cl 40% vintage 80/90s bottle. Snippet only. Asking, not paid. Rate 1.75."},
-{"kind":"ASKING","price":"GBP 79.95-85","currency":"GBP","aud_price":180,"date":"live, seen 2026-11-06","venue":"Glenbotal (UK retail)","url":"https://glenbotal.co.uk/bottle/long-john-finest-scotch-whisky-1980s/","same_item":"close","note":"Specialist retail, 1980s bottling. Snippet only. Aspirational retail, well above auction results. Rate 2.2."}
-],"searches_tried":"comps.py (pipeline: crashed on a null field; work: no relevant hits), Gowans API long john whisky (no results), WebSearch for Long John Finest 750ml sold price. Item is a common blend so stopped early. eBay sold listings would settle it (blocked here).","needs_chrome":false,"chrome_hint":"eBay sold: Long John Finest Scotch Whisky 750ml","rate_note":"1 EUR = 1.75 AUD, 1 GBP = 2.2 AUD (assumed)","viewing_check":"Fill level and seal in the neck, any tax strip or stamp, nothing else needed."}
+{
+ "cdid": 3110971,
+ "lot": 709,
+ "identification": "Long John Finest Scotch Whisky (MacDonald), 750ml, about 37.5% (label hard to read), late 1980s/1990s Australian market",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "EUR 21.00",
+   "currency": "EUR",
+   "aud_price": 37,
+   "date": "2021-11",
+   "venue": "Irish Whiskey Auctions",
+   "url": "https://irishwhiskeyauctions.ie/views/product.php?id=65599035",
+   "same_item": "close",
+   "note": "1980s White Label bottle, two bids, guide EUR 40-60. Snippet only. Rate used 1 EUR = 1.75 AUD. Old and overseas."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 12-15",
+   "currency": "GBP",
+   "aud_price": 27,
+   "date": "recent (undated)",
+   "venue": "Glenbotal (reporting UK/EU auction hammers)",
+   "url": "https://glenbotal.co.uk/bottle/long-john-finest-scotch-whisky-1980s/",
+   "same_item": "close",
+   "note": "1980s bottling, reported recent hammer range. Snippet only, unverified. Rate 1 GBP = 2.2 AUD, midpoint GBP 13.5 used."
+  },
+  {
+   "kind": "ASKING",
+   "price": "EUR 34 or best offer",
+   "currency": "EUR",
+   "aud_price": 60,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay",
+   "url": "https://www.ebay.com/itm/292374019574",
+   "same_item": "close",
+   "note": "75cl 40% vintage 80/90s bottle. Snippet only. Asking, not paid. Rate 1.75."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 79.95-85",
+   "currency": "GBP",
+   "aud_price": 180,
+   "date": "live, seen 2026-11-06",
+   "venue": "Glenbotal (UK retail)",
+   "url": "https://glenbotal.co.uk/bottle/long-john-finest-scotch-whisky-1980s/",
+   "same_item": "close",
+   "note": "Specialist retail, 1980s bottling. Snippet only. Aspirational retail, well above auction results. Rate 2.2."
+  },
+  {
+   "kind": "SOLD",
+   "price": "\u00a320",
+   "currency": "GBP",
+   "aud_price": 39,
+   "date": "2021-11-07",
+   "venue": "Scotch Whisky Auctions",
+   "url": "https://www.scotchwhiskyauctions.com/auctions/167-auction/503493-long-john-blend-75cl/",
+   "same_item": "close",
+   "note": "UK 75cl 40% Long John blend, label era not compared. Winning bid, excl. buyer's premium. GBP at 1.95. Older than 3 years; SWA has many Long John 75cl at \u00a315-30 2017-2021",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-08-30",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-712197/long-john-special-reserve",
+   "same_item": "no",
+   "note": "Different expression (Special Reserve, the premium Long John), shown only as a ceiling. Hammer, excl. AWA buyer's premium",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline: crashed on a null field; work: no relevant hits), Gowans API long john whisky (no results), WebSearch for Long John Finest 750ml sold price. Item is a common blend so stopped early. eBay sold listings would settle it (blocked here). | chrome: AWA 'long john' (only Special Reserve and ceramic pitchers); SWA 'long john' filtered 75cl/old; low-value bottle, expect A$30-60",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: Long John Finest Scotch Whisky 750ml",
+ "rate_note": "1 EUR = 1.75 AUD, 1 GBP = 2.2 AUD (assumed)",
+ "viewing_check": "Fill level, read the strength on the label (37.2/37.5% = Australian 1980s), screw cap seal",
+ "chrome_done": true
+}

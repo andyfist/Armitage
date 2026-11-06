@@ -1,7 +1,7 @@
 {
  "cdid": 3111256,
  "lot": 994,
- "identification": "Five old wine/spirit bottles plus a boxed Bisquit Fine Cognac VSOP gift pack with two balloon glasses: Wolf Blass 1983 Yellow Label Cabernet Sauvignon Shiraz, church-label vintage port, commemorative tawny port, Frascati, Yalumba Galway Pipe port in plastic wrap. Photo read only; fills and the commemorative label not legible.",
+ "identification": "Mixed lot: Wolf Blass 1983 Yellow Label Cabernet Sauvignon Shiraz, an Australian vintage port (castle/church label), an RAAF-style crested commemorative port, a Frascati-labelled bottle, Bisquit VSOP Cognac gift box with two glasses, Yalumba Galway Pipe port (in plastic)",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,36 @@
    "url": "gowans lot id 417948 (Bottle of Napoleon brandy)",
    "same_item": "category guide",
    "note": "Plain brandy, lower tier. Source: local results database (work/comps.py); premium extra, no rate needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-06-28",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-692263/bisquit-vsop-cognac-25-fluid-ounces",
+   "same_item": "close",
+   "note": "Bisquit VSOP only, older 25 fl oz 40% bottle, no gift box/glasses. Hammer, excl. AWA buyer's premium",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$72",
+   "currency": "AUD",
+   "aud_price": 72,
+   "date": "2023-04-30",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-221140/cognac-bisquit-vsop",
+   "same_item": "close",
+   "note": "Bisquit VSOP only, 700ml 40%",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py: Galway Pipe, Bisquit, Wolf Blass Yellow Label (no hits); Yalumba port, cognac, Wolf Blass, brandy, Hennessy (hits above). pipeline/comps.py crashes (TypeError on a null aud_hammer), not used. No web searches done; the lot is mixed and low value. Bisquit VSOP gift pack has no direct comp; eBay sold listings would settle it.",
+ "searches_tried": "work/comps.py: Galway Pipe, Bisquit, Wolf Blass Yellow Label (no hits); Yalumba port, cognac, Wolf Blass, brandy, Hennessy (hits above). pipeline/comps.py crashes (TypeError on a null aud_hammer), not used. No web searches done; the lot is mixed and low value. Bisquit VSOP gift pack has no direct comp; eBay sold listings would settle it. | chrome: AWA 'bisquit', 'galway' (0), 'wolf blass' (0); wine/port not checked elsewhere",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: Bisquit VSOP cognac gift box two glasses",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Check fill levels and capsules/corks on the ports and Blass, read the vintage and producer on the church-label port and the commemorative tawny, and confirm the Bisquit box is sealed with the bottle full. Nothing else needed."
+ "viewing_check": "The Bisquit VSOP gift set is the value here; the 1983 Wolf Blass red is likely past it. Check cognac fill and the port levels/corks",
+ "chrome_done": true
 }
