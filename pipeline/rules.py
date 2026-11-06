@@ -86,6 +86,11 @@ def priority_cdids(sale_dir):
     return {r['cdid'] for r in json.load(open(f)) if r.get('cls') == 'always_look' and is_priority(r.get('title'), r.get('description'))}
 
 
+# Every lot with photos gets the photo scan; the title pass is skipped (Andy, 6 Nov 2026: on the 11 Nov sale it
+# dropped 390 lots unseen). Set to False to bring the title pass back.
+PHOTO_SCAN_ALL = True
+
+
 def classify(title, description=''):
     text = f'{title or ""} {description or ""}'.lower()
     for reason, pat in ALWAYS_LOOK:  # a tool box with a heater in it is still a tool box

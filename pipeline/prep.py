@@ -267,9 +267,9 @@ def main():
     json.dump(cat, open(f'{D}/cat.json', 'w'), indent=1)
     wfargs = {
         'chid': chid, 'name': name, 'root': D, 'pipeline': os.path.join(ROOT, 'pipeline'),
-        'titleChunks': chunks, 'batch': BATCH, 'concurrency': 8, 'maxMarket': 200,
-        'alwaysLook': [{'cdid': r['cdid'], 'lot': r['lot'], 'title': r['title'], 'why': r['cls_reason']}
-                       for r in slim if r['cls'] == 'always_look' and r.get('state') == 'FETCHED'],
+        'titleChunks': 0 if rules.PHOTO_SCAN_ALL else chunks, 'batch': BATCH, 'concurrency': 8, 'maxMarket': 200,
+        'alwaysLook': [{'cdid': r['cdid'], 'lot': r['lot'], 'title': r['title'], 'why': r['cls_reason'] or 'photo-scan everything'}
+                       for r in slim if (r['cls'] == 'always_look' or (rules.PHOTO_SCAN_ALL and r['cls'] == 'title_pass')) and r.get('state') == 'FETCHED'],
         'priority': [r['cdid'] for r in slim if r['cls'] == 'always_look' and rules.is_priority(r.get('title'), r.get('description')) and r.get('state') == 'FETCHED'],
         'description': (f'Armitage Auctions (Invermay, Launceston) online auction, {name}: lots {cat["lot_min"]} to {cat["lot_max"]}, '
                         f'each lot closes at its own time from {cat["close_first"]} to {cat["close_last"]}'),

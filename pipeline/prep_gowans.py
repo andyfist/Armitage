@@ -163,9 +163,9 @@ def main():
     wfargs = {
         'chid': chid, 'name': name, 'root': D, 'pipeline': os.path.join(prep.ROOT, 'pipeline'),
         'venue': 'run by Gowans Auctions in Hobart, Tasmania',
-        'titleChunks': chunks, 'batch': prep.BATCH, 'concurrency': 8, 'maxMarket': 200,
-        'alwaysLook': [{'cdid': r['cdid'], 'lot': r['lot'], 'title': r['title'], 'why': r['cls_reason']}
-                       for r in slim if r['cls'] == 'always_look' and r['state'] == 'FETCHED'],
+        'titleChunks': 0 if rules.PHOTO_SCAN_ALL else chunks, 'batch': prep.BATCH, 'concurrency': 8, 'maxMarket': 200,
+        'alwaysLook': [{'cdid': r['cdid'], 'lot': r['lot'], 'title': r['title'], 'why': r['cls_reason'] or 'photo-scan everything'}
+                       for r in slim if (r['cls'] == 'always_look' or (rules.PHOTO_SCAN_ALL and r['cls'] == 'title_pass')) and r['state'] == 'FETCHED'],
         'priority': [r['cdid'] for r in slim if r['cls'] == 'always_look' and rules.is_priority(r.get('title'), r.get('description')) and r['state'] == 'FETCHED'],
         'description': (f'Gowans Auctions (Hobart, Tasmania) weekly auction {att["code"]}: lots {cat["lot_min"]} to {cat["lot_max"]}, '
                         f'absentee bidding closes {close}; the room auction starts at 10am the same morning. Buyer\'s premium about {PREMIUM}. '
