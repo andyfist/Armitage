@@ -1,0 +1,100 @@
+{
+ "cdid": 3111197,
+ "lot": 935,
+ "identification": "Sheet of 40 Australian florins, about half pre-1946 sterling (92.5%) and the rest 50% silver Elizabeth II, incl. two 1951 Jubilee and two 1954 Royal Visit. Photos confirm 40 circulated florins in an album sheet; no 1932/1933 or 1927 Canberra seen at this resolution. Melt estimate (not a price seen): roughly 20 sterling x 10.5g plus 20 x 5.7g = about 320g fine silver.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$260 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "2026-07-12",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/422567/",
+   "same_item": "close",
+   "note": "SHEET OF AUSTRALIAN FLORINS. Page opened (API JSON). Same title, 8 bids; no description or count saved, so sheet size and mix unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$530 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 530,
+   "date": "2026-03-09",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/394954/",
+   "same_item": "close",
+   "note": "SHEET OF AUSTRALIAN FLORINS. Page opened (API JSON). 11 bids; contents not recorded, possibly a richer mix."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$300 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 300,
+   "date": "2026-02-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/391795/",
+   "same_item": "close",
+   "note": "SHEET OF AUSTRALIAN FLORINS. Page opened (API JSON). 8 bids; contents not recorded."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$260 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "2026-02-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/391825/",
+   "same_item": "close",
+   "note": "SHEET OF AUSTRALIAN FLORINS. Page opened (API JSON). 8 bids; contents not recorded."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$350 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 350,
+   "date": "2026-05-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/408013/",
+   "same_item": "close",
+   "note": "SHEET OF 12 STERLING SILVER FLORINS. Page opened (API JSON). 12 coins only, all sterling, 9 bids; about $29 per coin, so 40 mixed coins at that rate is too high (half are 50% silver)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$190 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 190,
+   "date": "2026-05-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/408019/",
+   "same_item": "close",
+   "note": "SHEET OF 12 FLORINS. Page opened (API JSON). 12 coins, 7 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$470 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 470,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/414549/",
+   "same_item": "category guide",
+   "note": "BAG OF 1951 COMMEMORATIVE FLORINS 395.60g. Page opened (API JSON). Roughly 36 Jubilee florins (50% silver), 9 bids. Category guide, different content."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$300 hammer",
+   "currency": "AUD",
+   "aud_price": 300,
+   "date": "2026-07-28",
+   "venue": "Noble Numismatics, Sydney, Sale 142 lot 24",
+   "url": "https://www.noble.com.au/auctions/lot/?id=458010",
+   "same_item": "category guide",
+   "note": "Two sheets of pre-decimal coins, from local database; snippet only, not reopened. Different content."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with florins/sheet/silver; Gowans API search 'sheet florins' and individual lot pages. Not run: WebSearch, Noble/Armitage past results, spot price check (no live melt verified). Gowans sheet descriptions are empty so sheet sizes are unknown. eBay sold would help only marginally.",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Check dates and mintmarks on every florin for 1932 and 1933 (worth hundreds each), 1927 Canberra, 1934-35 Melbourne Centenary, and Perth/Melbourne varieties; count pre-1946 versus post-1946 coins. Photograph both sides of the sheet at high resolution.",
+ "rate_note": "All AUD, no conversion."
+}

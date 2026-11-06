@@ -1,0 +1,122 @@
+{
+ "cdid": 3111182,
+ "lot": 920,
+ "identification": "Album sheet of 27 Australian pre-decimal shillings: about 10 Coat of Arms type (George V and early, sterling .925, 1910-1945) and 17 ram head type (1946-1963, .500 silver, except any 1945 or earlier). Circulated, mostly VF or worse; no key dates identified from photo.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$475 hammer",
+   "currency": "AUD",
+   "aud_price": 475,
+   "date": "2026-02-23 (listed)",
+   "venue": "Gowans Auctions, Hobart: SHEET OF AUSTRALIAN SHILLINGS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/391831/",
+   "same_item": "yes",
+   "note": "Same title; no description, so count and dates unknown. Highest result for this title; likely carried better dates or more coins. Page opened (API record, no description or photos read). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120 hammer",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-10-18 (listed)",
+   "venue": "Gowans Auctions, Hobart: SHEET OF STERLING SILVER CARDED AUSTRALIAN SHILLINGS, SIXPENCES & THREEPENCES ETC",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/445087/",
+   "same_item": "close",
+   "note": "Mixed denominations, sterling; recent. Page opened (API record, no description or photos read). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-02-01 (listed)",
+   "venue": "Gowans Auctions, Hobart: BAG OF AUSTRALIAN SHILLINGS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/386946/",
+   "same_item": "close",
+   "note": "Loose bag, count unknown. Page opened (API record, no description or photos read). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-02-05 (listed)",
+   "venue": "Gowans Auctions, Hobart: BAG OF AUSTRALIAN SHILLINGS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/388538/",
+   "same_item": "close",
+   "note": "Loose bag, count unknown. Page opened (API record, no description or photos read). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-02-01 (listed)",
+   "venue": "Gowans Auctions, Hobart: BAG OF AUSTRALIAN SHILLINGS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/386947/",
+   "same_item": "close",
+   "note": "Loose bag, count unknown. Page opened (API record, no description or photos read). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-02-15 (listed)",
+   "venue": "Gowans Auctions, Hobart: BAG OF AUSTRALIAN SHILLINGS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/390122/",
+   "same_item": "close",
+   "note": "Loose bag, count unknown, low end. Page opened (API record, no description or photos read). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-04-26 (listed)",
+   "venue": "Gowans Auctions, Hobart: BOX OF SHILLINGS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/404650/",
+   "same_item": "close",
+   "note": "Count unknown. Page opened (API record, no description or photos read). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120 hammer",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2025-12-01 (listed)",
+   "venue": "Gowans Auctions, Hobart: BAG OF SHILLINGS - AUSTRALIAN & 3 FLORINS",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/378612/",
+   "same_item": "close",
+   "note": "Includes florins. Page opened (API record, no description or photos read). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$210 hammer (2 sheets, 20+ carded silver)",
+   "currency": "AUD",
+   "aud_price": 210,
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions (past results, local comps DB)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+coins+sheet",
+   "same_item": "close",
+   "note": "Two sheets of carded pre-decimal silver; from local comps.py output, not reopened. Local DB also lists similar 2-sheet lots at $55 to $130 (Mar to Jun 2026) and a Noble Sale 142 lot 24 at $300 (two sheets, guide)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "melt estimate only: about AUD 250 (10 sterling x ~$13, 17 at .500 x ~$7)",
+   "currency": "AUD",
+   "aud_price": 250,
+   "date": "live, seen 2026-11-06",
+   "venue": "Silver spot via api.gold-api.com XAG USD 51.50/oz",
+   "url": "https://api.gold-api.com/price/XAG",
+   "same_item": "category guide",
+   "note": "Calculation, not a sale. Assumed AUD/USD 0.66 (about 1.5 AUD per USD, not checked live). Sterling shilling 5.66 g x .925 = 0.168 oz; .500 shilling 0.091 oz. Wear ignored. Melt is a floor, dealers pay below spot."
+  }
+ ],
+ "rate_note": "Gowans prices are AUD hammer. Silver USD 51.50/oz at 2026-11-06 (gold-api.com); AUD rate assumed 0.66 USD, unchecked. Pattern: sheets and bags of mixed Australian shillings at Gowans mostly hammer $40-$130 with one outlier at $475; melt about $250 suggests the 27 coins are worth roughly $120-250 unless a key date shows.",
+ "searches_tried": "comps.py (pipeline and work) x3; Gowans API searches 'shillings' and 'silver shillings'; one WebSearch for Australian shilling auction results (only overseas single coin hits, none used); Noble results via local DB. eBay sold for 'Australian shillings lot' would help but is closed to us. Armitage past results not searched.",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Check the dates on the top two rows (Coat of Arms): look for 1912-H, 1913, 1915-H, 1916-M, 1919-1925 in any grade, and 1932 or 1933 key-type dates, and any 1931 or 1936 dates. Photograph the date side of each. Confirm the 17 ram heads are 1946 or later (.500) and none is the 1945 type (sterling)."
+}
