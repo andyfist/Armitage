@@ -1,5 +1,5 @@
 {
- "checked": "07/11/2026 07:41 AEDT",
+ "checked": "07/11/2026 07:49 AEDT",
  "closing_today": 0,
  "all_closed": false,
  "flagged": [
@@ -59,7 +59,7 @@
    "lot": 1833,
    "title": "GREEN PAINTED GARDEN BENCH SEA...",
    "category": "",
-   "status": "NOT SCANNED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 50.0,
    "bid_count": 5,
@@ -67,7 +67,7 @@
    "score": 1,
    "crowd": true,
    "leader": "81791 - Longford , TAS",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "81791 - Longford , TAS",
@@ -121,7 +121,7 @@
    "lot": 1957,
    "title": "3 PETROL MOTORS, INCLUDING VIL...",
    "category": "vague lot",
-   "status": "SKIPPED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 45.0,
    "bid_count": 8,
@@ -172,7 +172,7 @@
    "lot": 2029,
    "title": "OTTOBACK ELECTRIC WHEELCHAIR -...",
    "category": "",
-   "status": "NOT SCANNED",
+   "status": "CHROME",
    "max_hammer": 0,
    "current_bid": 45.0,
    "bid_count": 4,
@@ -230,11 +230,51 @@
    "why": "90573 - Newnham, TAS (seen in 132 sales); 294845 - Liffey, (seen in 2 sales); 142868 - Perth, (seen in 18 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   },
   {
+   "cdid": 3112887,
+   "lot": 2046,
+   "title": "CARAVAN TOW KIT INCLUDING HITC...",
+   "category": "",
+   "status": "EXCLUDED",
+   "max_hammer": 0,
+   "current_bid": 45.0,
+   "bid_count": 8,
+   "close": "11/11/2026 11:20:00 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "221336 - Rocherlea,",
+   "researched": false,
+   "bidders": [
+    {
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 4,
+     "top": 45.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    },
+    {
+     "who": "91957 - EXTON, TAS - AutoBid",
+     "no": "91957",
+     "town": "Exton",
+     "state": "TAS",
+     "n": 4,
+     "top": 40.0,
+     "tags": [
+      "seen in 127 sales"
+     ]
+    }
+   ],
+   "why": "221336 - Rocherlea, (seen in 24 sales); 91957 - EXTON, TAS - AutoBid (seen in 127 sales); 4 or more bidders"
+  },
+  {
    "cdid": 3112613,
    "lot": 1772,
    "title": "DAYTEK GARDEN WHEELBARROW",
    "category": "",
-   "status": "NOT SCANNED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 40.0,
    "bid_count": 8,
@@ -242,7 +282,7 @@
    "score": 1,
    "crowd": true,
    "leader": "298003 - Norwood,",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "298003 - Norwood,",
@@ -285,7 +325,7 @@
    "lot": 1842,
    "title": "TERRACOTTA STRAWBERRY PLANTER ...",
    "category": "",
-   "status": "NOT SCANNED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 40.0,
    "bid_count": 7,
@@ -293,7 +333,7 @@
    "score": 1,
    "crowd": true,
    "leader": "294845 - Liffey,",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "294845 - Liffey,",
@@ -358,7 +398,7 @@
    "lot": 1927,
    "title": "STAR PICKET RAMMER (TARGA)",
    "category": "",
-   "status": "NOT SCANNED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 40.0,
    "bid_count": 8,
@@ -431,7 +471,7 @@
    "lot": 2013,
    "title": "MACHT PETROL TILLER",
    "category": "",
-   "status": "NOT SCANNED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 40.0,
    "bid_count": 5,
@@ -439,7 +479,7 @@
    "score": 1,
    "crowd": true,
    "leader": "130698 - Longford,",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "130698 - Longford,",
@@ -504,7 +544,7 @@
    "lot": 1864,
    "title": "CAST METAL BIRD BATH H-54 CM",
    "category": "",
-   "status": "SKIPPED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 35.0,
    "bid_count": 6,
@@ -512,7 +552,7 @@
    "score": 1,
    "crowd": true,
    "leader": "81791 - Longford , TAS",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "81791 - Longford , TAS",
@@ -577,7 +617,7 @@
    "lot": 2009,
    "title": "MASPORT PETROL TILLER",
    "category": "",
-   "status": "NOT SCANNED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 35.0,
    "bid_count": 4,
@@ -585,7 +625,7 @@
    "score": 1,
    "crowd": true,
    "leader": "142868 - Perth,",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "142868 - Perth,",
@@ -639,7 +679,7 @@
    "lot": 2054,
    "title": "BUTTERFLY 3M X 3M GAZEBO",
    "category": "",
-   "status": "NOT SCANNED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 35.0,
    "bid_count": 4,
@@ -647,7 +687,7 @@
    "score": 1,
    "crowd": true,
    "leader": "248747 - Ravenswood,",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "248747 - Ravenswood,",
@@ -774,7 +814,7 @@
    "lot": 1791,
    "title": "RESIN LIONS HEAD FIGURE H-45 C...",
    "category": "",
-   "status": "NOT SCANNED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 25.0,
    "bid_count": 5,
@@ -782,7 +822,7 @@
    "score": 1,
    "crowd": true,
    "leader": "49763 - Newstead, TAS",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "49763 - Newstead, TAS",
@@ -836,7 +876,7 @@
    "lot": 1904,
    "title": "APPROX 1/2 DOZEN GARDEN TOOLS",
    "category": "",
-   "status": "SKIPPED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 25.0,
    "bid_count": 4,
@@ -898,7 +938,7 @@
    "lot": 1929,
    "title": "COPPER INSERT H-37 DIA-55 CM",
    "category": "",
-   "status": "SKIPPED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 25.0,
    "bid_count": 4,
@@ -906,7 +946,7 @@
    "score": 1,
    "crowd": true,
    "leader": "122213 - Westbury, TAS",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "122213 - Westbury, TAS",
@@ -960,7 +1000,7 @@
    "lot": 1942,
    "title": "9 GARDEN TOOLS",
    "category": "",
-   "status": "SKIPPED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 25.0,
    "bid_count": 4,
@@ -1022,7 +1062,7 @@
    "lot": 1963,
    "title": "CRATE WITH DRAG CHAINS & PULLE...",
    "category": "",
-   "status": "SKIPPED",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 25.0,
    "bid_count": 4,
@@ -1030,7 +1070,7 @@
    "score": 1,
    "crowd": true,
    "leader": "294845 - Liffey,",
-   "researched": false,
+   "researched": true,
    "bidders": [
     {
      "who": "294845 - Liffey,",
@@ -1143,19 +1183,10 @@
   }
  ],
  "to_research": [
-  3112674,
-  3112613,
-  3112683,
-  3112854,
-  3112705,
-  3112850,
-  3112895,
-  3112632,
-  3112770,
-  3112804
+  3112887
  ],
  "no_photos": [],
- "to_chrome": 0,
+ "to_chrome": 7,
  "bidders_known": 5040,
  "unknown_towns": [
   "Liffey",

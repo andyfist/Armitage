@@ -12,16 +12,126 @@
   "top": 25,
   "ignore_bids": false
  },
- "scanned": 297,
- "candidates": 40,
+ "scanned": 307,
+ "candidates": 50,
  "counts": {
-  "PASS": 6,
+  "PASS": 5,
   "CHROME": 7,
-  "FAIL": 27,
+  "FAIL": 38,
   "DROP": 0,
   "NOT RESEARCHED": 0
  },
  "lots": [
+  {
+   "cdid": 3112613,
+   "lot": 1772,
+   "title": "DAYTEK GARDEN WHEELBARROW",
+   "strength": 2,
+   "findings": "Generic galvanised-tray garden wheelbarrow with orange tubular frame, solid/pneumatic orange-rim wheel and rubber grips. No Daytek label visible in the photo.",
+   "condition": "Tray worn and dull, frame paint scuffed with some surface rust, usable.",
+   "current_bid": 40.0,
+   "bid_count": 8,
+   "close": "11/11/2026 9:48:40 PM ADST",
+   "identification": "Generic galvanised steel tub garden wheelbarrow with orange tubular frame and orange-rim pneumatic/solid wheel. No maker label visible; Daytek name unverified. Ordinary used item.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 50.0,
+     "date": "2026-08-19",
+     "venue": "Armitage Auctions, Launceston sale 28449 lot 1709",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020879&chid=28449&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "Orange metal tub wheelbarrow. Local database hit, page not opened. Hammer, premium extra."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-08-19",
+     "venue": "Armitage Auctions, Launceston sale 28449 lot 1745",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020915&chid=28449&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "Blue metal tub wheelbarrow. Local database hit, page not opened."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28715 lot 1969",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3069381&chid=28715&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Red Sherlock metal tub wheelbarrow, named brand, top of range. Local database hit, page not opened."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-09-13",
+     "venue": "Gowans Auctions, Hobart (lot id 438358)",
+     "url": "gowans lot id 438358",
+     "same_item": "close",
+     "note": "Plain WHEELBARROW, condition unknown. Local database hit, page not opened."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart (lot id 440019)",
+     "url": "gowans lot id 440019",
+     "same_item": "close",
+     "note": "Plain WHEELBARROW. Local database hit, page not opened."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart (lot id 440020)",
+     "url": "gowans lot id 440020",
+     "same_item": "close",
+     "note": "KELSO wheelbarrow. Local database hit, page not opened."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 55.0,
+   "net_resale": 46.75,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $40",
+   "priority": false
+  },
+  {
+   "cdid": 3112632,
+   "lot": 1791,
+   "title": "RESIN LIONS HEAD FIGURE H-45 C...",
+   "strength": 2,
+   "findings": "Cast resin lion's head wall mask, cream finish, modern garden decor. No maker mark visible; only a lot tag.",
+   "condition": "Small chips and brown marks to mane, general weathering.",
+   "current_bid": 25.0,
+   "bid_count": 5,
+   "close": "11/11/2026 9:55:00 PM ADST",
+   "identification": "Modern cast resin lion's head wall mask, cream finish, garden decor. No maker mark; lot tag only. Same product family as Armitage's earlier 'RESIN LION HEAD FIGURE H-36 CM'.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 45.0,
+     "date": "2026-07-29",
+     "venue": "Armitage Auctions, Launceston sale 28328 lot 1323",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2996918&chid=28328&category=ALL&style=group",
+     "same_item": "close",
+     "note": "From local comps database (not opened). Resin lion head figure H-36 cm, smaller than this H-45 lot; condition unknown. AUD so no conversion."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 45.0,
+   "net_resale": 38.25,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $25",
+   "priority": false
+  },
   {
    "cdid": 3112644,
    "lot": 1803,
@@ -29,8 +139,8 @@
    "strength": 4,
    "findings": "Weber kettle charcoal BBQ (approx 57cm) in red enamel with timber handles, lid thermometer and damper, open ash pan, wheeled tripod base with cover; comes with Weber 'The one. The only.' owner's operating guide, suggesting an older (c. 1980s-90s) example. Maker supported (spelt 'Webber' in title).",
    "condition": "Lid enamel faded and dirty, timber handles weathered, rust on handle brackets, ash pan dirty, grill used with charcoal remaining.",
-   "current_bid": 25.0,
-   "bid_count": 2,
+   "current_bid": 30.0,
+   "bid_count": 3,
    "close": "11/11/2026 9:59:00 PM ADST",
    "identification": "Older Weber 57cm red enamel kettle charcoal BBQ with wooden handles, wheeled tripod base and a cover; used.",
    "researched": true,
@@ -79,7 +189,7 @@
    "net_resale": 25.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $30 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $30 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -370,6 +480,92 @@
    "priority": false
   },
   {
+   "cdid": 3112674,
+   "lot": 1833,
+   "title": "GREEN PAINTED GARDEN BENCH SEA...",
+   "strength": 3,
+   "findings": "Slatted timber garden bench painted sage green, curved slat back and arms, modern mass-produced style (likely hardwood flat-pack). No maker plate visible.",
+   "condition": "Paint worn on seat and arms, appears sound.",
+   "current_bid": 50.0,
+   "bid_count": 5,
+   "close": "11/11/2026 10:09:00 PM ADST",
+   "identification": "Modern slatted timber (likely hardwood) three-seat garden bench painted sage green, curved slat back, worn paint. Generic mass-produced item, no maker seen.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 49.0,
+     "date": "2025-12-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 381746",
+     "same_item": "close",
+     "note": "TIMBER GARDEN BENCH SEAT; closest timber match, condition not seen. Local comps database result (not a web page opened); AUD so no conversion; premium extra."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 49.0,
+   "net_resale": 41.65,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $49 does not clear the current bid $50",
+   "priority": false
+  },
+  {
+   "cdid": 3112683,
+   "lot": 1842,
+   "title": "TERRACOTTA STRAWBERRY PLANTER ...",
+   "strength": 2,
+   "findings": "Terracotta strawberry planter with six side pockets, modern imported garden pot. No maker stamp visible.",
+   "condition": "Weathered with some staining and minor rim wear, no obvious cracks seen.",
+   "current_bid": 40.0,
+   "bid_count": 7,
+   "close": "11/11/2026 10:12:00 PM ADST",
+   "identification": "Modern imported terracotta strawberry planter, six side pockets, no maker stamp. Common garden centre item.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 55.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 444610",
+     "same_item": "yes",
+     "note": "TERRACOTTA STRAWBERRY POT; local database, page not opened; condition unknown."
+    },
+    {
+     "aud_price": 16.0,
+     "date": "2025-11-17",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 376098",
+     "same_item": "close",
+     "note": "POTTED STRAWBERRY (likely a planted pot); local database, page not opened."
+    },
+    {
+     "aud_price": 15.0,
+     "date": "2025-11-17",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 376111",
+     "same_item": "close",
+     "note": "POTTED STRAWBERRY; local database, page not opened."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 16.0,
+   "net_resale": 13.6,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $16 does not clear the current bid $40",
+   "priority": false
+  },
+  {
    "cdid": 3112691,
    "lot": 1850,
    "title": "TIMBER CRATE WITH VARIOUS TOOL...",
@@ -548,11 +744,11 @@
    "cdid": 3112695,
    "lot": 1854,
    "title": "VOLVO SIGN H-53 PER LETTER",
-   "strength": 5,
+   "strength": 6,
    "findings": "Complete set of five large blue 'VOLVO' dealership sign letters, about 53 cm high each, appear to be fabricated metal or acrylic channel letters with serif typeface (older Volvo dealer lettering). Automobilia/dealership signage has a collector and decorator market.",
    "condition": "Some scuffs and dirt, paint faded in places, otherwise complete; no lighting components visible.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 10:16:00 PM ADST",
    "identification": "Five large blue VOLVO dealership letters about 53 cm high, one letter's frame/backing visible (photo; V-O-L-V-O).",
    "researched": true,
@@ -586,8 +782,8 @@
    "strength": 1,
    "findings": "Five old long-handled garden tools: round-mouth shovel, three-tine claw cultivator, adze-style grubbing hoe, four-tine rake, and a pick/mattock. Timber handles. No maker's stamps visible at photo resolution.",
    "condition": "General rust and handle wear consistent with use; all have handles.",
-   "current_bid": 10.0,
-   "bid_count": 1,
+   "current_bid": 15.0,
+   "bid_count": 2,
    "close": "11/11/2026 10:17:40 PM ADST",
    "identification": "Five common old long-handled garden tools (round-mouth shovel, claw cultivator, grubbing hoe, rake, pick/mattock), timber handles, no visible maker marks. Generic.",
    "researched": true,
@@ -619,7 +815,90 @@
    "net_resale": 51.85,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $61 does not clear the current bid $10",
+   "why": "max hammer $0 from a median SOLD of $61 does not clear the current bid $15",
+   "priority": false
+  },
+  {
+   "cdid": 3112705,
+   "lot": 1864,
+   "title": "CAST METAL BIRD BATH H-54 CM",
+   "strength": 2,
+   "findings": "Cast metal pedestal bird bath with scalloped bowl and perched bird, verdigris-style painted finish. Modern reproduction cast iron/alloy garden piece, no foundry mark visible.",
+   "condition": "Bowl heavily rusted inside, paint flaking on base.",
+   "current_bid": 35.0,
+   "bid_count": 6,
+   "close": "11/11/2026 10:19:20 PM ADST",
+   "identification": "Modern reproduction cast iron/alloy pedestal bird bath, scalloped bowl with perched bird, painted verdigris finish; bowl rusted, flaking base. Generic garden ware, no maker.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 125.0,
+     "date": "2026-07-08",
+     "venue": "Armitage Auctions, Launceston sale 28169 lot 1848",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2973390&chid=28169&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Cast iron bird bath H-60 cm, condition unknown; closest comparable. Hammer, premium extra; local database record (no rate needed, AUD)."
+    },
+    {
+     "aud_price": 85.0,
+     "date": "2025-10-01",
+     "venue": "Armitage Auctions, Launceston sale 25745 lot 1830",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2656131&chid=25745&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Cast iron birdbath H-50 cm. Hammer, premium extra; local database record (no rate needed, AUD)."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/ (lot id 444795)",
+     "same_item": "close",
+     "note": "Cast iron bird bath, 32 bids; likely better quality/size. Hammer, premium extra; local database record (no rate needed, AUD)."
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/ (lot id 444683)",
+     "same_item": "close",
+     "note": "Cast bird bath, iron etc, 4 bids. Hammer, premium extra; local database record (no rate needed, AUD)."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-04-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/ (lot id 403989)",
+     "same_item": "close",
+     "note": "Cast iron bird bath and 1 other. Hammer, premium extra; local database record (no rate needed, AUD)."
+    },
+    {
+     "aud_price": 120.0,
+     "date": "2026-03-16",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/ (lot id 396941)",
+     "same_item": "close",
+     "note": "Cast iron bird bath. Hammer, premium extra; local database record (no rate needed, AUD)."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/ (lot id 425140)",
+     "same_item": "close",
+     "note": "Metal bird bath with planter base, 10 bids; weaker form. Hammer, premium extra; local database record (no rate needed, AUD)."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 120.0,
+   "net_resale": 102.0,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $120 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -629,8 +908,8 @@
    "strength": 5,
    "findings": "Pair of flared cast iron lattice basket-weave planters with ropework rim, pierced lattice body, bead band and small scroll feet, painted white over rust. Older Victorian-style garden basket form; no foundry mark visible in the photo. Could be period or later recast, cannot tell from one photo.",
    "condition": "Paint flaking, surface rust throughout, rims intact as far as visible, no obvious cracks or missing feet seen.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 100.0,
+   "bid_count": 1,
    "close": "11/11/2026 10:22:00 PM ADST",
    "identification": "Pair of white-painted cast iron lattice basket-weave planters with openwork rim, scroll feet, no foundry mark visible, rust under paint; about 36 cm high.",
    "researched": true,
@@ -673,8 +952,8 @@
    "strength": 5,
    "findings": "Two large mature Brunsvigia josephinae (Josephine's lily) bulbs, each roughly fist to melon sized, sitting high in black nursery pots with new leaf growth. This is a slow-growing collectable South African bulb; flowering-size bulbs take many years and trade among bulb collectors for substantial sums.",
    "condition": "Healthy-looking new leaves, bulb tunics intact; plant tag handwritten and illegible.",
-   "current_bid": 15.0,
-   "bid_count": 2,
+   "current_bid": 20.0,
+   "bid_count": 3,
    "close": "11/11/2026 10:23:20 PM ADST",
    "identification": "Two very large mature bulbs, appear to be Brunsvigia josephinae, in black nursery pots with leaves emerging; tag illegible",
    "researched": true,
@@ -723,7 +1002,7 @@
    "net_resale": 97.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $115 does not clear the current bid $15",
+   "why": "max hammer $0 from a median SOLD of $115 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -765,11 +1044,11 @@
    "cdid": 3112731,
    "lot": 1890,
    "title": "APPROX. 180 LM TAS OAK ARCHITR...",
-   "strength": 5,
+   "strength": 7,
    "findings": "Large strapped pack of Tasmanian oak architrave moulding. Labels read 'TOTAL APPROX 180 L/M ARCHITRAVE TAS OAK', 'APPROX 90.0 L/M 65mm ARCHITRAVE' and 'APPROX 90.0 L/M 85mm ARCHITRAVE', supporting the title.",
    "condition": "Appears unused, mixed lengths, some shorter pieces.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 50.0,
+   "bid_count": 1,
    "close": "11/11/2026 10:28:00 PM ADST",
    "identification": "Approx 180 lineal metres of Tasmanian oak architrave (90 lm 65mm, 90 lm 85mm), strapped packs, appears unused, mixed lengths.",
    "researched": true,
@@ -811,8 +1090,8 @@
    "strength": 6,
    "findings": "Large pack of Tasmanian oak tongue and groove lining on a pallet stencilled '...MA89 SU140 Batch R122'. Label reads 'APPROX 14.0 m/2 TAS OAK T&G LINING', matches title.",
    "condition": "Appears unused, mixed lengths, some shorter offcuts.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 50.0,
+   "bid_count": 1,
    "close": "11/11/2026 10:29:20 PM ADST",
    "identification": "Strapped pallet of new Tasmanian oak tongue and groove lining boards, approx 14 sqm, mixed lengths, some short, pallet marked batch R122",
    "researched": true,
@@ -871,8 +1150,8 @@
    "strength": 2,
    "findings": "Pallet of about 14 old garden tools: round and square mouth shovels, two bow rakes, garden fork, two hoes, a grubbing hoe/mattock style head, an axe-type head, loppers with yellow handles, a broom and a long handled spade. No maker's stamps legible in the photo (crop of heads checked).",
    "condition": "Heavily used, rusted heads, weathered handles.",
-   "current_bid": 20.0,
-   "bid_count": 3,
+   "current_bid": 25.0,
+   "bid_count": 4,
    "close": "11/11/2026 10:32:40 PM ADST",
    "identification": "Pallet of ~14 old generic garden tools (shovels, rakes, forks, hoes, axe/mattock heads, broom); no maker marks visible",
    "researched": true,
@@ -960,7 +1239,7 @@
    "net_resale": 38.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -1194,8 +1473,8 @@
    "strength": 2,
    "findings": "Star picket rammer/driver: steel tube with welded hexagonal handle frame. Weld-bead lettering on the tube reads TARGA 003 B, which is an owner or asset marking (Targa is a locality near Launceston), not a maker's stamp.",
    "condition": "Paint worn, surface rust at welds and base; functional.",
-   "current_bid": 35.0,
-   "bid_count": 7,
+   "current_bid": 40.0,
+   "bid_count": 8,
    "close": "11/11/2026 10:40:20 PM ADST",
    "identification": "Fabricated manual star picket rammer: steel tube with welded hexagonal handle, weld-bead lettering TARGA 003 B (owner marking), grey paint with surface rust",
    "researched": true,
@@ -1276,7 +1555,59 @@
    "net_resale": 51.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $35",
+   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $40",
+   "priority": false
+  },
+  {
+   "cdid": 3112770,
+   "lot": 1929,
+   "title": "COPPER INSERT H-37 DIA-55 CM",
+   "strength": 4,
+   "findings": "Large hand-riveted copper vessel, the insert from an old laundry copper/boiler: riveted vertical seam and riveted base seam, about 55 cm diameter. Genuine old copper, popular as a decorative planter or log bin. No maker stamp visible.",
+   "condition": "Heavy verdigris throughout, top rim folded and ragged/split in places, dents; base appears intact from inside.",
+   "current_bid": 25.0,
+   "bid_count": 4,
+   "close": "11/11/2026 10:41:00 PM ADST",
+   "identification": "Old hand-riveted copper laundry copper (boiler insert), about 55 cm, heavy verdigris, ragged rim; scrap/decorative planter or log bin value.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold listings: riveted copper laundry boiler planter log bin Australia",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 50.0,
+     "date": "2026-03-30",
+     "venue": "Gowans, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/401169/",
+     "same_item": "close",
+     "note": "COPPER BOILER, 2 bids; page opened (API); no description or photo comparison, condition unknown. Rate 1.0."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-07-05",
+     "venue": "Gowans, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/422159/",
+     "same_item": "close",
+     "note": "COPPER PLANTER, 7 bids; page opened (API); no description, form unknown. Rate 1.0."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 2291.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Pamono (antique dealer, 1890s riveted copper planter, about 41 cm)",
+     "url": "https://www.pamono.com.au/antique-riveted-copper-planter-1890s",
+     "same_item": "category guide",
+     "note": "snippet only, unverified; designer-dealer retail, restored condition, not comparable to a verdigris lot at auction."
+    }
+   ],
+   "resale": 50.0,
+   "net_resale": 42.5,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -1321,8 +1652,8 @@
    "strength": 5,
    "findings": "Large vintage industrial timber workshop cabinet with multiple drawers, card-holder label frames and metal pull handles, open pigeonhole section.",
    "condition": "Heavily weathered and stained, top worn, several drawers missing from the central section.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 30.0,
+   "bid_count": 1,
    "close": "11/11/2026 10:44:20 PM ADST",
    "identification": "Large vintage industrial hardwood workshop/shop counter cabinet, about 2.1m, mix of open bays and drawers with label holders and metal pulls, about 8 of 12 drawers present, heavily weathered.",
    "researched": true,
@@ -1364,8 +1695,8 @@
    "strength": 2,
    "findings": "Nine garden tools: a felling axe on a curved hickory-style handle, a long-handled spade, a slasher/brush hook, a yellow push (Dutch) hoe, a three-prong pitchfork, a bow rake, a cultivator fork and claw, and a draw hoe or edger. No maker stamps visible on the axe head at photo resolution.",
    "condition": "Old and rusty heads, weathered handles.",
-   "current_bid": 20.0,
-   "bid_count": 3,
+   "current_bid": 25.0,
+   "bid_count": 4,
    "close": "11/11/2026 10:45:20 PM ADST",
    "identification": "Nine ordinary rusty garden tools (rake, forks, slasher, spade, hoe, etc) plus one felling axe, head unmarked; photo confirms",
    "researched": true,
@@ -1437,7 +1768,7 @@
    "net_resale": 55.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -1447,8 +1778,8 @@
    "strength": 5,
    "findings": "Timber-bodied rack-and-pinion lifting jack (Trewhella-type 'wallaby' style, catalogued as Trewalla) with cast iron saddle, riveted iron side plate, ratchet pawl and crank handle with brass grip. Crops of both plates show no legible Trewhella casting or name, so the maker is not confirmed from photos.",
    "condition": "Weathered timber, surface rust on ironwork, appears complete with crank and pawl.",
-   "current_bid": 15.0,
-   "bid_count": 2,
+   "current_bid": 20.0,
+   "bid_count": 3,
    "close": "11/11/2026 10:45:40 PM ADST",
    "identification": "Timber-bodied rack-and-pinion jack of Trewhella (Trentham, Vic) wallaby type, cast iron saddle, riveted plate, pawl, brass-gripped crank. Maker not confirmed from photos. Common rural item, made in large numbers.",
    "researched": true,
@@ -1472,7 +1803,7 @@
    "net_resale": 46.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $15",
+   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -1482,8 +1813,8 @@
    "strength": 5,
    "findings": "Large heavy copper vessel (wash copper/boiler insert) about 54 cm diameter with rolled rim, hand-formed seam visible, green verdigris patina.",
    "condition": "Heavy verdigris and staining, rim dents and creasing, no obvious holes visible.",
-   "current_bid": 25.0,
-   "bid_count": 4,
+   "current_bid": 30.0,
+   "bid_count": 5,
    "close": "11/11/2026 10:49:00 PM ADST",
    "identification": "Large old copper wash copper/boiler insert, about 54cm dia, rolled rim, green/brown patina, no handles or lid.",
    "researched": true,
@@ -1555,7 +1886,7 @@
    "net_resale": 144.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -1678,14 +2009,105 @@
    "priority": false
   },
   {
+   "cdid": 3112804,
+   "lot": 1963,
+   "title": "CRATE WITH DRAG CHAINS & PULLE...",
+   "strength": 3,
+   "findings": "Milk crate of heavy steel chain (several lengths, galvanised and rusty) with grab hooks, a yellow chain shortener/grab hook, and an old cast iron/steel double-sheave snatch/pulley block with hook. No maker stamp legible on the pulley block.",
+   "condition": "Surface rust on pulley block and some chain, galvanised chain in fair order.",
+   "current_bid": 25.0,
+   "bid_count": 4,
+   "close": "11/11/2026 10:52:20 PM ADST",
+   "identification": "Milk crate of used steel chain (galvanised and rusty), grab hooks, yellow chain shortener hook, and a rusty double-sheave pulley/snatch block. Generic farm rigging, no maker visible.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 120.0,
+     "date": "2025-10-28",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/371632/",
+     "same_item": "close",
+     "note": "LENGTH OF CHAIN WITH HOOKS, 15 bids; single chain, top of chain range. Premium extra. From local comps database and Gowans API JSON (page opened via API for pulley lots, comps db for chain lots)."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2025-11-11",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/374869/",
+     "same_item": "close",
+     "note": "BOX OF MIXED CHAIN & HOOKS, 8 bids; closest to crate lot. Premium extra. From local comps database and Gowans API JSON (page opened via API for pulley lots, comps db for chain lots)."
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2026-01-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/385027/",
+     "same_item": "close",
+     "note": "LENGTH OF CHAIN & HOOKS, 4 bids. Premium extra. From local comps database and Gowans API JSON (page opened via API for pulley lots, comps db for chain lots)."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-01-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/385023/",
+     "same_item": "close",
+     "note": "BUCKET OF HOOKS & CHAINS, 3 bids; closest container lot. Premium extra. From local comps database and Gowans API JSON (page opened via API for pulley lots, comps db for chain lots)."
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2025-12-14",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/383557/",
+     "same_item": "close",
+     "note": "Asst metal pulleys & hooks, chain etc, 6 bids. Premium extra. From local comps database and Gowans API JSON (page opened via API for pulley lots, comps db for chain lots)."
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/400931/",
+     "same_item": "close",
+     "note": "PULLEY BLOCK, 1 bid. Premium extra. From local comps database and Gowans API JSON (page opened via API for pulley lots, comps db for chain lots)."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2025-11-10",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/373571/",
+     "same_item": "close",
+     "note": "2 PULLEY BLOCKS, 1 bid. Premium extra. From local comps database and Gowans API JSON (page opened via API for pulley lots, comps db for chain lots)."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-10-18",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/445970/",
+     "same_item": "close",
+     "note": "LARGE BLOCK PULLEY, 4 bids; recent and low. Premium extra. From local comps database and Gowans API JSON (page opened via API for pulley lots, comps db for chain lots)."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 65.0,
+   "net_resale": 55.25,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $25",
+   "priority": false
+  },
+  {
    "cdid": 3112815,
    "lot": 1974,
    "title": "PAINTED GALVINISED 3 SECTION F...",
    "strength": 5,
    "findings": "Galvanised three-compartment feed bin on castors with three hinged lids, painted mustard yellow over blue. Inside stamped LYSAGHT K QUEEN'S HEAD AUSTRALIA with the Queen's head trademark, so genuine vintage Australian Lysaght galvanised iron. Popular rustic/farmhouse decor piece.",
    "condition": "Paint heavily worn and flaking, some rust spots inside and on fittings, castors present.",
-   "current_bid": 80.0,
-   "bid_count": 12,
+   "current_bid": 85.0,
+   "bid_count": 13,
    "close": "11/11/2026 10:56:00 PM ADST",
    "identification": "Vintage galvanised iron three-section feed bin on castors, mustard paint over blue, worn; bulky (105x130x58cm), photo confirms",
    "researched": true,
@@ -1726,7 +2148,7 @@
    "net_resale": 76.925,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $80",
+   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $85",
    "priority": false
   },
   {
@@ -1796,8 +2218,8 @@
    "strength": 6,
    "findings": "Antique cast iron flywheel-driven pump, painted red with gold lining, cast lettering THE GOULDS MFG CO. on one side and NO 3 ROYAL on the other (Goulds Manufacturing Co, Seneca Falls NY). Spoked flywheel with handle boss, flanged air chamber on top, base plate.",
    "condition": "Repainted at some stage, paint worn, surface rust, appears complete; handle/crank pin present, working order unknown.",
-   "current_bid": 20.0,
-   "bid_count": 3,
+   "current_bid": 25.0,
+   "bid_count": 4,
    "close": "11/11/2026 11:03:40 PM ADST",
    "identification": "Goulds Mfg Co (Seneca Falls) flywheel-driven pump on cast base, red paint with gold lining, repainted, about 92 cm; lettering 'The Goulds Mfg Co' visible.",
    "researched": true,
@@ -1831,8 +2253,8 @@
    "strength": 5,
    "findings": "Leitner step-over electric bike with rear-rack battery, front basket, front suspension fork, disc brakes, rear rack bag, helmet, ST Li-ion battery charger. Battery health unknown.",
    "condition": "Used, appears complete and tidy; battery capacity untested.",
-   "current_bid": 30.0,
-   "bid_count": 2,
+   "current_bid": 40.0,
+   "bid_count": 3,
    "close": "11/11/2026 11:05:40 PM ADST",
    "identification": "Leitner step-over electric bike, black, rear-rack battery, disc brakes, helmet and rack bag (photo).",
    "researched": true,
@@ -1896,8 +2318,120 @@
    "resale": 292.5,
    "net_resale": 248.625,
    "max_hammer": 35,
-   "status": "PASS",
-   "why": "4 same-item SOLD price(s), median $292; less 15% fees = $249; less $200 profit, / 1.22 premium = max hammer $35",
+   "status": "FAIL",
+   "why": "max hammer $35 from a median SOLD of $292 does not clear the current bid $40",
+   "priority": false
+  },
+  {
+   "cdid": 3112850,
+   "lot": 2009,
+   "title": "MASPORT PETROL TILLER",
+   "strength": 3,
+   "findings": "Masport rear-tine style mini petrol tiller/cultivator, yellow frame, blue and white Masport decal, small petrol engine, on two wheels with tines on extension shaft.",
+   "condition": "Used, dirty, running condition unknown.",
+   "current_bid": 35.0,
+   "bid_count": 4,
+   "close": "11/11/2026 11:07:40 PM ADST",
+   "identification": "Masport petrol rear-tine mini tiller/cultivator (older yellow-frame model, likely a Home Gardener type), small Briggs-style engine, two wheels, tines on extension shaft. Running unknown.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: Masport tiller OR cultivator OR rotary hoe",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 110.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/401331/",
+     "same_item": "yes",
+     "note": "MASPORT HOME GARDENER ROTARY HOE, 9 bids, hammer, premium extra. Local database hit; condition not checked."
+    },
+    {
+     "aud_price": 105.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440010/",
+     "same_item": "close",
+     "note": "Honda F25F tiller, 7 bids, hammer. Newer, better-brand tiller. Local database hit."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/418902/",
+     "same_item": "close",
+     "note": "Howard Bullfinch rotary tiller, 7 bids, hammer. Local database hit."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 1249.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "BW Machinery (new)",
+     "url": "https://bwmachinery.com.au/?p=101645",
+     "same_item": "category guide",
+     "note": "New Masport 4 Way Home Gardener tiller 127cc Briggs. Snippet only. New retail, not comparable to a dirty used older unit."
+    }
+   ],
+   "resale": 110.0,
+   "net_resale": 93.5,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $35",
+   "priority": false
+  },
+  {
+   "cdid": 3112854,
+   "lot": 2013,
+   "title": "MACHT PETROL TILLER",
+   "strength": 2,
+   "findings": "Macht mini petrol tiller/cultivator, red frame, two-stroke style engine, Macht logo on tine guard. Budget brand.",
+   "condition": "Used, dirty, running condition unknown.",
+   "current_bid": 40.0,
+   "bid_count": 5,
+   "close": "11/11/2026 11:09:00 PM ADST",
+   "identification": "MachT (Macht) mini petrol tiller/cultivator, likely 52cc 2-stroke budget import, red frame, MachT logo on tine guard. Not a Honda/Husqvarna. Retailer listing exists on MyShopping.com.au (MachT 52cc mini tiller), price not seen.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay AU sold listings: MachT 52cc mini tiller cultivator",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 45.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart (lot id 415700, 6 bids)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cultivator&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "WALK BEHIND CULTIVATOR; API record via comps database, brand and condition not checked. Premium extra. AUD, no conversion."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 147.99,
+     "date": "live, seen 2026-11-06",
+     "venue": "eBay AU (new 52cc 2-stroke mini tiller)",
+     "url": "https://ebay.com/itm/404808349625",
+     "same_item": "category guide",
+     "note": "Snippet only. New generic import 52cc, new price; a used Macht would sell well below."
+    },
+    {
+     "aud_price": 215.6,
+     "date": "live, seen 2026-11-06",
+     "venue": "HR Sports (new 63cc tiller)",
+     "url": "https://www.hr-sports.com.au/outdoor-garden/garden-power-tools/cultivator/",
+     "same_item": "category guide",
+     "note": "Snippet only. New retail."
+    }
+   ],
+   "resale": 45.0,
+   "net_resale": 38.25,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -1907,8 +2441,8 @@
    "strength": 5,
    "findings": "McMillan MC10 electric twin-cylinder V-block air compressor on horizontal tank with wheels, plus long red air hose. McMillan is an Australian maker of trade compressors; pump block cast mark partly legible (CA-65 style number).",
    "condition": "Heavily worn paint, dusty, surface rust on tank; described as going order.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 30.0,
+   "bid_count": 3,
    "close": "11/11/2026 11:10:00 PM ADST",
    "identification": "McMillan MC10 two-cylinder V-block cast iron air compressor on horizontal red tank with wheel and single-phase motor, plus long red air hose; worn paint, working order unknown",
    "researched": true,
@@ -1941,7 +2475,7 @@
    "net_resale": 187.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $220 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $220 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -1951,8 +2485,8 @@
    "strength": 5,
    "findings": "British Seagull style outboard (classic long-shaft Seagull configuration: top fuel tank, exposed flywheel, alloy leg, bronze-coloured four-blade prop) mounted on a homemade drum/hand trolley. No maker's plate legible at this resolution, but form matches British Seagull. Seagulls have an active collector and restorer market.",
    "condition": "Weathered, tank grimy, running condition unknown, trolley rusty.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 11:10:20 PM ADST",
    "identification": "Seagull-style long-shaft outboard on a homemade drum/hand trolley; no plate legible; weathered",
    "researched": true,
@@ -2001,7 +2535,7 @@
    "net_resale": 127.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -2070,8 +2604,8 @@
    "strength": 6,
    "findings": "Nissan Generator NDG5B Brushless diesel generator, electric start with battery fitted, 3 x 15A outlets, in tubular roll frame. Supports title (Nissan diesel, 3 x 15A).",
    "condition": "Heavy surface rust on tank and frame, paint flaking; condition unknown per catalogue.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 70.0,
+   "bid_count": 2,
    "close": "11/11/2026 11:11:00 PM ADST",
    "identification": "Nissan Generator NDG5B Brushless diesel set, electric start, tubular frame, heavy rust on tank/frame (photo confirms badge).",
    "researched": true,
@@ -2272,8 +2806,8 @@
    "strength": 5,
    "findings": "Ottobock B600 power wheelchair (manual cover reads B600 and Otto Bock), Ottobock 24V/12A charger, headrest, elevating leg rests, front/rear lights. A B600 is a mid-range rehab power chair costing many thousands new; without batteries but otherwise complete with manual and charger.",
    "condition": "Used, tyres worn, no battery, untested.",
-   "current_bid": 30.0,
-   "bid_count": 1,
+   "current_bid": 45.0,
+   "bid_count": 4,
    "close": "11/11/2026 11:14:20 PM ADST",
    "identification": "Ottobock B600 rehab power wheelchair, blue frame, tilt/recline seat, headrest, elevating leg rests, with charger and manual, no batteries, untested, worn tyres",
    "researched": true,
@@ -2455,8 +2989,8 @@
    "strength": 5,
    "findings": "Large floor-standing cast iron band saw, green paint, enclosed steel base, tilting table, handwheel. No maker's plate legible; pencil writing on upper wheel cover reads roughly '4570 ... blade' (blade length note).",
    "condition": "Paint worn, rust on base and table edges, said to be going order.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 11:16:20 PM ADST",
    "identification": "Unbranded green painted floor-standing vertical band saw, enclosed steel base, tilting table, roughly 14 inch; no maker visible.",
    "researched": true,
@@ -2507,8 +3041,8 @@
    "strength": 5,
    "findings": "Aluminium checker plate ute-style tool box, 121 cm, lockable T-handle, with contents: orange Craftsman-style drill bit/driver set case, red ladybird-shaped item (child toy/helmet), timber boxes, leather tool pouch, hand plane or sander (orange/white), tape/rule and assorted sundries. Brands mostly not legible.",
    "condition": "Box in good order, minor scuffs; contents used.",
-   "current_bid": 20.0,
-   "bid_count": 2,
+   "current_bid": 25.0,
+   "bid_count": 3,
    "close": "11/11/2026 11:19:00 PM ADST",
    "identification": "Unbranded aluminium checker plate ute/trailer tool box about 121cm with T-handle lock, containing used tools and sundries; looks clean and near new in photo",
    "researched": true,
@@ -2581,7 +3115,7 @@
    "net_resale": 63.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -2665,6 +3199,49 @@
    "max_hammer": 0,
    "status": "FAIL",
    "why": "max hammer $0 from a median SOLD of $140 does not clear the current bid $0",
+   "priority": false
+  },
+  {
+   "cdid": 3112895,
+   "lot": 2054,
+   "title": "BUTTERFLY 3M X 3M GAZEBO",
+   "strength": 3,
+   "findings": "Boxed Butterfly Gazebo 3m x 3m, charcoal powder coated steel frame and 250g polyester canopy, 12 month warranty label, budget retail item (store brand).",
+   "condition": "Box worn and taped, contents unchecked.",
+   "current_bid": 35.0,
+   "bid_count": 4,
+   "close": "11/11/2026 11:22:40 PM ADST",
+   "identification": "Boxed Butterfly 3m x 3m gazebo, charcoal steel frame, 250D polyester canopy, UPF50+, 12 month warranty label (budget store-brand, Kmart/Big W type). Contents unchecked.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 65.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28714 lot 1644",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3069054&chid=28714&category=ALL&style=group",
+     "same_item": "close",
+     "note": "3M X 3M gazebo, local database hit, premium extra; condition not checked. No page opened, database record only."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-08-09",
+     "venue": "Gowans Auctions, Hobart (SCA gazebo 3m x 3m)",
+     "url": "gowans lot id 430163",
+     "same_item": "close",
+     "note": "7 bids, premium extra, database record only."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 47.5,
+   "net_resale": 40.375,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $48 does not clear the current bid $35",
    "priority": false
   }
  ]
