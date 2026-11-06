@@ -63,6 +63,8 @@ def main():
     ap.add_argument('--fee', type=float, default=0.15, help='selling fees as a fraction of the resale price (default 0.15)')
     ap.add_argument('--premium', type=float, default=0.22, help="Armitage buyer's premium incl. GST (default 0.22)")
     ap.add_argument('--months', type=int, default=24, help='only SOLD prices this recent count (default 24)')
+    ap.add_argument('--chrome-floor', type=float, default=100,
+                    help='also send to Chrome any lot whose evidence shows it could resell for this much or more (default 100; Andy, 6 Nov 2026)')
     ap.add_argument('--top', type=int, default=25, help='lots listed in the email (default 25)')
     ap.add_argument('--ignore-bids', action='store_true', help='judge the rule on the evidence alone, as if no bids had been placed (rehearsals on closed sales)')
     args = ap.parse_args()
@@ -139,7 +141,9 @@ def main():
 
     # browser research goes to every lot that passes or might pass, best prospects first;
     # a lot already researched in Chrome (chrome_import.py sets chrome_done) is not sent again
-    chrome = [x for x in lots if x['status'] in ('PASS', 'CHROME') and not x['chrome_done']]
+    def top_price(x):
+        return max([x['resale'] or 0] + [e['aud_price'] for k in ('sold', 'sold_old', 'unsold', 'asking') for e in x[k]])
+    chrome = [x for x in lots if (x['status'] in ('PASS', 'CHROME') or top_price(x) >= args.chrome_floor) and not x['chrome_done']]
     chrome.sort(key=lambda x: (not x['priority'], -(x['max_hammer'] or 0), -(x['strength'] or 0)))  # books first
     chrome_done = sum(1 for x in lots if x['chrome_done'])
     counts = {s: sum(1 for x in lots if x['status'] == s) for s in ('PASS', 'CHROME', 'FAIL', 'DROP', 'NOT RESEARCHED')}
@@ -174,7 +178,7 @@ def main():
         if len(passes) > args.top:
             lines.append(f"... and {len(passes) - args.top} more in assessment.json")
         lines.append('')
-    lines.append(f"Chrome list: {len(chrome)} lots in chrome_list.json ({'books first, then ' if first else ''}passes first, then lots with no sold price yet)."
+    lines.append(f"Chrome list: {len(chrome)} lots in chrome_list.json ({'books first, then ' if first else ''}passes first, then lots with no sold price yet, then any lot whose evidence reaches ${args.chrome_floor:,.0f})."
                  + (f" {chrome_done} lots already researched in Chrome." if chrome_done else ''))
     lines.append("Maximums are provisional until the Chrome research confirms them. Only a SOLD price with a link and a date sets a maximum.")
     text = '\n'.join(lines)
