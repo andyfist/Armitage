@@ -1,7 +1,7 @@
 {
  "cdid": 3111868,
  "lot": 1038,
- "identification": "Edwardian English oak two-part astragal glazed bookcase (geometric bars), two drawers, two panelled doors, plinth. Common type, 120x~210cm approx.",
+ "identification": "Edwardian oak two-part bookcase, geometric astragal glazed doors above, two drawers and two panelled doors below, plinth base",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,36 @@
    "url": "https://www.aaac.com.au/auction-lot/edwardian-oak-lawyers-bookcase-4-doors-2-sectio_54841799D7",
    "same_item": "category guide",
    "note": "Edwardian oak lawyers bookcase, 4 doors, 2 sections, glass fronted, smaller; snippet only, unverified. Gowans/Albion hammer, premium extra; AUD, rate 1."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$291.08",
+   "currency": "AUD",
+   "aud_price": 291.08,
+   "date": "2026-08-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/287488989916",
+   "same_item": "partial",
+   "note": "Antique oak narrow bookcase Arts & Crafts period, best offer accepted; narrower, pickup item",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$572.46",
+   "currency": "AUD",
+   "aud_price": 572.46,
+   "date": "2026-09-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407183147973",
+   "same_item": "partial",
+   "note": "Jaycee oak glazed display cabinet bookcase Tudor revival style, BIN; 1930s style, different",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py (oak bookcase, glazed, astragal, edwardian), Gowans API (glazed bookcase, 2 door glass, astragal), one WebSearch. Generic furniture so stopped early. eBay sold not needed.",
+ "searches_tried": "work/comps.py (oak bookcase, glazed, astragal, edwardian), Gowans API (glazed bookcase, 2 door glass, astragal), one WebSearch. Generic furniture so stopped early. eBay sold not needed. | chrome: eBay AU sold: edwardian oak glazed bookcase (only 2 relevant; large furniture rarely sold on eBay)",
  "needs_chrome": false,
- "viewing_check": "Check glass intact, back/shelf condition, any wood worm, and overall size; photos otherwise sufficient.",
+ "viewing_check": "Check it splits into two parts, glass and astragal bars intact, doors fit, drawer runners, woodworm, and back panels.",
  "rate_note": "All AUD, no conversion.",
- "chrome_hint": ""
+ "chrome_hint": "",
+ "chrome_done": true
 }

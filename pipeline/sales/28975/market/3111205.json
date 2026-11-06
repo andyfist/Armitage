@@ -1,7 +1,7 @@
 {
  "cdid": 3111205,
  "lot": 943,
- "identification": "Three silver-cased pocket watches, key-wind, Victorian English or Swiss, white enamel Roman dials; two hunter cases, one open face. Hallmarks not legible in photos; sterling not confirmed. Movements not seen.",
+ "identification": "Three silver-cased key-wind pocket watches (one open face, two full hunter), white enamel Roman dials, one cracked dial; hallmarks not read",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,36 @@
    "url": "https://www.lauritz.com/en/auction/three-pocket-watches-in-sterling-silver-cases-two-english-and-one-swiss-19th-century-3/6555550",
    "same_item": "close",
    "note": "Similar trio of sterling pocket watches (two English, one Swiss); snippet only, no price seen, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$125.00",
+   "currency": "AUD",
+   "aud_price": 125,
+   "date": "2026-09-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318600042271",
+   "same_item": "partial",
+   "note": "Single hallmarked sterling silver pocket watch (Stewart Dawson); single, not a lot of 3",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120.00",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-10-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128130459239",
+   "same_item": "partial",
+   "note": "Lot of 3 French 800 silver pocket watch cases, scrap/parts (lower grade silver, cases only)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for silver pocket watch, 3 pocket watches, fusee; Gowans API 3 pocket watches; one WebSearch for three sterling silver pocket watches. Gowans singles of sterling watches sell $60-$300 (median about $130); three-watch lots $40-$120. eBay sold would help but is closed to us.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for silver pocket watch, 3 pocket watches, fusee; Gowans API 3 pocket watches; one WebSearch for three sterling silver pocket watches. Gowans singles of sterling watches sell $60-$300 (median about $130); three-watch lots $40-$120. eBay sold would help but is closed to us. | chrome: eBay AU sold: job lot silver pocket watches hallmarked",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: 'job lot 3 silver pocket watches hallmarked' and 'antique silver hunter pocket watch key wind' Australia",
- "viewing_check": "Read hallmarks on case interiors (sterling vs .800/.935 Continental), maker names on movements, whether any is a fusee English lever, case weights, and if any run.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Look inside the hunter lids and case backs for hallmarks (Chester/Birmingham/London lion, 925, maker marks); check movements are present and match, glass and dial cracks (one dial cracked).",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

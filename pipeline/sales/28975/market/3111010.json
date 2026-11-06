@@ -1,7 +1,7 @@
 {
  "cdid": 3111010,
  "lot": 748,
- "identification": "John Campbell (Launceston, Tasmania) drip-glazed earthenware vase, 16 cm, base incised 'John Campbell 1932' in his usual script. Green and amber glaze, shouldered ovoid form, no damage visible in photos (glaze looks intact; rim and foot clean).",
+ "identification": "John Campbell (Launceston) green and amber drip-glaze squat shouldered vase, with painted/numbered 8 on body, glaze intact in photo",
  "entries": [
   {
    "kind": "SOLD",
@@ -145,11 +145,36 @@
    "url": "https://www.merchantofwelby.com.au/print/other-australiana/australian-pottery-vase-john-campbell-tasmania-2",
    "same_item": "close",
    "note": "Blue drip-glazed c1932 16cm vase signed and dated; snippet only, page blocked by bot check; no price verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$55.00",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-08-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267758673839",
+   "same_item": "yes",
+   "note": "Green glaze 20cm vase, BIN, slightly larger",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$69.60",
+   "currency": "AUD",
+   "aud_price": 69.6,
+   "date": "2026-10-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/287287314011",
+   "same_item": "partial",
+   "note": "Rare pink glaze vase No. 8, different colourway",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for john campbell, campbell vase, campbell tasmania; Gowans API john campbell 1932 (3 lots); WebSearch general (Carters, Merchant of Welby, AGSA, Invaluable pages found but Welby/Carters blocked by bot check, no prices). Armitage past results not searched. eBay sold would help but is closed to us.",
+ "searches_tried": "comps.py (pipeline and work) for john campbell, campbell vase, campbell tasmania; Gowans API john campbell 1932 (3 lots); WebSearch general (Carters, Merchant of Welby, AGSA, Invaluable pages found but Welby/Carters blocked by bot check, no prices). Armitage past results not searched. eBay sold would help but is closed to us. | chrome: eBay AU sold: john campbell vase launceston",
  "needs_chrome": false,
  "chrome_hint": "Optional: carters.com.au John Campbell vases archive for realised prices.",
  "rate_note": "All AUD, rate 1.0. Gowans prices are hammer, premium extra.",
- "viewing_check": "Check base for chips/glaze flakes, rim hairlines and a full clear signature and date; look for any repair under UV or by running a fingertip around the rim and foot."
+ "viewing_check": "Check base for incised John Campbell and date, hairlines or glaze chips at rim and foot.",
+ "chrome_done": true
 }

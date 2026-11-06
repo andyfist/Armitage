@@ -1,8 +1,115 @@
-{"cdid":3112497,"lot":1469,"identification":"Royal Automobile Club Associate car (bumper/radiator) badge, Queensland centre (RACQ), numbered 0842 on the base, with mounting bolt. Same type as Bonhams 1920s RACQ associate badges. Plating worn and toned, enamel centre intact.","entries":[
-{"kind":"SOLD","price":"$70 hammer","aud_price":70,"currency":"AUD","date":"2026-05-03","venue":"Gowans Auctions, Hobart (lot 406499, RAC CAR BADGE & 2 OTHERS)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=car%20badge&page%5Bnumber%5D=1","same_item":"close","note":"From local results database (3 bids). Associate badge plus 2 other badges, so the badge alone is worth less. Not opened; database record. Premium extra."},
-{"kind":"SOLD","price":"$90 hammer","aud_price":90,"currency":"AUD","date":"2026-04-26","venue":"Gowans Auctions, Hobart (lot 404725, RACT CAR BADGE)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=car%20badge&page%5Bnumber%5D=1","same_item":"close","note":"8 bids. Database matches it to an associate-style badge (RACV/RACT type, not Queensland). Not opened; database record. Premium extra."},
-{"kind":"SOLD","price":"$130 hammer","aud_price":130,"currency":"AUD","date":"2026-03-09","venue":"Gowans Auctions, Hobart (lot 395024, RAC TASMANIAN BADGE)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rac%20badge","same_item":"category guide","note":"9 bids. Tasmanian club badge, local demand; not the Queensland type. Database record only."},
-{"kind":"SOLD","price":"US$51 incl premium (database AUD $78)","aud_price":78,"currency":"USD","date":"2021-06","venue":"Bonhams Cars (UK), 1920s RACQ associate member's badge numbered A6929","url":"https://cars.bonhams.com/auction/27140/lot/71/a-royal-automobile-club-associate-members-badge-from-the-rac-of-queensland-1920s/","same_item":"yes","note":"Same Queensland associate type. Price from local database and search snippet; Bonhams page returned 403, so not opened. Rate about 1.53 AUD per USD as in database."},
-{"kind":"SOLD","price":"GBP 69 incl premium (database AUD $135)","aud_price":135,"currency":"GBP","date":"2003-11","venue":"Bonhams (Harrogate), RAC associate car badge with Queensland centre","url":"https://cars.bonhams.com/auction/10694/lot/28/an-rac-associate-car-badge-with-queensland-centre/","same_item":"yes","note":"Same type but 2003, old; database AUD figure used. Snippet and database only, page not opened."},
-{"kind":"ASKING","price":"GBP 180","aud_price":360,"currency":"GBP","date":"live, seen 2026-11-06","venue":"PreWarCar dealer listing, RACQ badge numbered A2023","url":"https://www.prewarcar.com/566235-rare-royal-automobile-club-australia-queensland-badge","same_item":"yes","note":"Page opened. Asking price only, condition not stated, UK dealer; rate 2.00 AUD per GBP assumed. Ceiling signal, not value."}
-],"searches_tried":"pipeline/comps.py (crashed on a data error, no output); work/comps.py (RACQ badge, RAC badge); Gowans API searches (RACQ, royal automobile club, car badge); WebSearch x2 (RACQ associate badge sold; numbered enamel bumper badge price); WebFetch of PreWarCar (ok) and Bonhams (403). eBay sold prices would settle it better. Rates used: 1.53 USD, 2.00 GBP (assumed).","needs_chrome":true,"chrome_hint":"eBay sold listings: Royal Automobile Club Queensland associate badge (also RACQ car badge, RAC of Queensland badge), Australia and UK, last 12 months","viewing_check":"Confirm the centre enamel is undamaged and the number 0842 is clearly stamped; check for any maker mark on the back and whether the bolt and fixing are original. Photos already show the enamel looks intact; the wear is plating only.","rate_note":"USD 1.53, GBP 2.00 AUD"}
+{
+ "cdid": 3112497,
+ "lot": 1469,
+ "identification": "Royal Automobile Club Associate car badge (RACQ enamel centre), numbered on base, with mounting bolt; plating worn, enamel intact.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "aud_price": 70,
+   "currency": "AUD",
+   "date": "2026-05-03",
+   "venue": "Gowans Auctions, Hobart (lot 406499, RAC CAR BADGE & 2 OTHERS)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=car%20badge&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "From local results database (3 bids). Associate badge plus 2 other badges, so the badge alone is worth less. Not opened; database record. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "aud_price": 90,
+   "currency": "AUD",
+   "date": "2026-04-26",
+   "venue": "Gowans Auctions, Hobart (lot 404725, RACT CAR BADGE)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=car%20badge&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "8 bids. Database matches it to an associate-style badge (RACV/RACT type, not Queensland). Not opened; database record. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "aud_price": 130,
+   "currency": "AUD",
+   "date": "2026-03-09",
+   "venue": "Gowans Auctions, Hobart (lot 395024, RAC TASMANIAN BADGE)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rac%20badge",
+   "same_item": "category guide",
+   "note": "9 bids. Tasmanian club badge, local demand; not the Queensland type. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$51 incl premium (database AUD $78)",
+   "aud_price": 78,
+   "currency": "USD",
+   "date": "2021-06",
+   "venue": "Bonhams Cars (UK), 1920s RACQ associate member's badge numbered A6929",
+   "url": "https://cars.bonhams.com/auction/27140/lot/71/a-royal-automobile-club-associate-members-badge-from-the-rac-of-queensland-1920s/",
+   "same_item": "yes",
+   "note": "Same Queensland associate type. Price from local database and search snippet; Bonhams page returned 403, so not opened. Rate about 1.53 AUD per USD as in database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 69 incl premium (database AUD $135)",
+   "aud_price": 135,
+   "currency": "GBP",
+   "date": "2003-11",
+   "venue": "Bonhams (Harrogate), RAC associate car badge with Queensland centre",
+   "url": "https://cars.bonhams.com/auction/10694/lot/28/an-rac-associate-car-badge-with-queensland-centre/",
+   "same_item": "yes",
+   "note": "Same type but 2003, old; database AUD figure used. Snippet and database only, page not opened."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 180",
+   "aud_price": 360,
+   "currency": "GBP",
+   "date": "live, seen 2026-11-06",
+   "venue": "PreWarCar dealer listing, RACQ badge numbered A2023",
+   "url": "https://www.prewarcar.com/566235-rare-royal-automobile-club-australia-queensland-badge",
+   "same_item": "yes",
+   "note": "Page opened. Asking price only, condition not stated, UK dealer; rate 2.00 AUD per GBP assumed. Ceiling signal, not value."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$318.70",
+   "currency": "AUD",
+   "aud_price": 318.7,
+   "date": "2026-08-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257669950123",
+   "same_item": "partial",
+   "note": "Rare RACQ Kookaburra car badge mascot, different (rarer) design",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$68",
+   "currency": "AUD",
+   "aud_price": 68.24,
+   "date": "2026-10-02",
+   "venue": "eBay AU (converted, listed from India)",
+   "url": "https://www.ebay.com.au/itm/185246354619",
+   "same_item": "partial",
+   "note": "RACQ car badge, Royal Automobile Club Queensland (title truncated, type not confirmed)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$43",
+   "currency": "AUD",
+   "aud_price": 43.1,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227496647718",
+   "same_item": "partial",
+   "note": "RACQ 50 years membership car badge, different type",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py (crashed on a data error, no output); work/comps.py (RACQ badge, RAC badge); Gowans API searches (RACQ, royal automobile club, car badge); WebSearch x2 (RACQ associate badge sold; numbered enamel bumper badge price); WebFetch of PreWarCar (ok) and Bonhams (403). eBay sold prices would settle it better. Rates used: 1.53 USD, 2.00 GBP (assumed). | chrome: eBay AU sold: royal automobile club queensland badge",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold listings: Royal Automobile Club Queensland associate badge (also RACQ car badge, RAC of Queensland badge), Australia and UK, last 12 months",
+ "viewing_check": "Confirm which club the enamel centre reads, the base number, bolt and no missing enamel; compare with RACQ associate badge types.",
+ "rate_note": "USD 1.53, GBP 2.00 AUD",
+ "chrome_done": true
+}

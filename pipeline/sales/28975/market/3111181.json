@@ -1,7 +1,7 @@
 {
  "cdid": 3111181,
  "lot": 919,
- "identification": "Album sheet of about 55-60 Australian pre-decimal silver sixpences and threepences (approx 35 sixpences, 20 threepences visible), Coat of Arms reverse, circulated; dates not legible so no key dates confirmed.",
+ "identification": "Album sheet of about 55-60 Australian pre-decimal silver sixpences and threepences, circulated, dates not legible",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,10 +101,59 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=threepence+sixpence",
    "same_item": "close",
    "note": "BAG OF SIXPENCE & THREEPENCE COINS. API result, page opened (JSON). Loose bag, count unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$58.16",
+   "currency": "AUD",
+   "aud_price": 58.16,
+   "date": "2026-10-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/840028918437",
+   "same_item": "partial",
+   "note": "Pre-decimal threepence and sixpence lot 1943 onward, 5 bids, much smaller lot (count not checked)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.70",
+   "currency": "AUD",
+   "aud_price": 53.7,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267825709713",
+   "same_item": "partial",
+   "note": "Small mixed sixpence/threepence lot, 1 bid, small quantity",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$191.65",
+   "currency": "AUD",
+   "aud_price": 191.65,
+   "date": "2026-10-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117477798655",
+   "same_item": "partial",
+   "note": "Silver bulk lot 4.2 oz of 50% florins, sixpence, threepence etc, 13 bids; includes larger coins",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$425",
+   "currency": "AUD",
+   "aud_price": 425,
+   "date": "2026-10-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/307146239732",
+   "same_item": "partial",
+   "note": "44 pre-decimal silver coins incl shillings, larger denominations, not like for like",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py (3 queries) and pipeline/comps.py (errored on a None price bug); Gowans API search 'threepence sixpence' (page opened). Web and Noble searches not run. eBay sold listings would help settle value but are closed to us. Melt is roughly $80-130 floor.",
+ "searches_tried": "work/comps.py (3 queries) and pipeline/comps.py (errored on a None price bug); Gowans API search 'threepence sixpence' (page opened). Web and Noble searches not run. eBay sold listings would help settle value but are closed to us. Melt is roughly $80-130 floor. | chrome: eBay AU sold: australian silver sixpence threepence lot (one error page first)",
  "needs_chrome": false,
- "viewing_check": "Read dates on the sixpences and threepences for key dates (e.g. 1923-ish, 1932, 1946-1950s scarce issues, 3d 1930s, 1943/44 varieties) and note sterling (pre-1946) versus .500 counts.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Count coins by denomination and check dates: 1946 and earlier are .925 silver, 1947-1963 are .500. Look for key dates (e.g. 1923, 1925, 1926 sixpence/threepence, 1930s lower mintage) and any slabs or uncirculated coins.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

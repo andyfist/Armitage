@@ -1,7 +1,7 @@
 {
  "cdid": 3111177,
  "lot": 915,
- "identification": "Two silver-cased key-wind pocket watches: a full hunter (lid open) with white enamel dial signed W. Ehrhardt(?) London, and an open-face with dial signed D./R. Kerman(?) Melbourne, plus a loose engraved case lid. Lot title says sterling silver but no hallmarks visible in the photo. Melbourne signature is probably a retailer name; no Kerman watchmaker found online. Sold as is, one bow broken or missing.",
+ "identification": "Two silver-cased key-wind pocket watches (full hunter with enamel dial signed W. Ehrhardt? London; second hunter signed H. Kerman? Melbourne) plus loose engraved case lid; sold as is",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,48 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pocket%20watch (lot id pair lot, lowest-end result, 4 bids; closest to a two-watch lot)",
    "same_item": "close",
    "note": "2 pocket watches incl continental silver; i390085; from local comps database, page not opened; AUD, no conversion"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$200",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2026-09-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/188613590151",
+   "same_item": "partial",
+   "note": "Single antique .925 silver key wind pocket watch, best offer accepted; one watch, condition/running unknown",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$329.89",
+   "currency": "AUD",
+   "aud_price": 329.89,
+   "date": "2026-08-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/358891754587",
+   "same_item": "partial",
+   "note": "1889 silver key wind full hunter gents watch, serviced, best offer accepted; one watch, likely working",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$357.09",
+   "currency": "AUD",
+   "aud_price": 357.09,
+   "date": "2026-09-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227452352042",
+   "same_item": "partial",
+   "note": "Sterling silver fusee pocket watch Birmingham, pair case, best offer accepted; fusee, different type",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on a None value; work version run for silver pocket watch, hunter pocket watch, pocket watch melbourne (no hits), pocket watches silver); Gowans API search for pocket watch silver melbourne (no results); WebSearch site:armitage (no Armitage hits, filter ignored); WebSearch Kerman Melbourne silver pocket watch (nothing on Kerman, only other Melbourne retailers). No ASKING or UNSOLD found. eBay sold prices for 'silver key wind pocket watch lot' or 'Kerman Melbourne pocket watch' would help but are closed to us.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline version crashed on a None value; work version run for silver pocket watch, hunter pocket watch, pocket watch melbourne (no hits), pocket watches silver); Gowans API search for pocket watch silver melbourne (no results); WebSearch site:armitage (no Armitage hits, filter ignored); WebSearch Kerman Melbourne silver pocket watch (nothing on Kerman, only other Melbourne retailers). No ASKING or UNSOLD found. eBay sold prices for 'silver key wind pocket watch lot' or 'Kerman Melbourne pocket watch' would help but are closed to us. | chrome: eBay AU sold: antique silver key wind pocket watch melbourne (results mostly working single watches; Kerman search not run in light mode)",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: 'antique silver key wind pocket watch Melbourne' and 'Kerman Melbourne pocket watch'",
- "viewing_check": "Look for hallmarks (lion passant, town mark, date letter, 925 or 935) on the case backs, inside the lids and on the loose case; confirm which case the loose lid belongs to; check the dial signature spelling (Kerman) and movement signatures; check whether either runs or winds; note the broken bow and any dents or cracks to the dials.",
- "rate_note": "All prices AUD hammer at Gowans, no conversion. Gowans premium extra."
+ "viewing_check": "Look for hallmarks inside the cases (Birmingham/London lion, 925/sterling), whether movements are present and complete, glass, and which watch has the broken bow. Case weight is the floor value.",
+ "rate_note": "All prices AUD hammer at Gowans, no conversion. Gowans premium extra.",
+ "chrome_done": true
 }

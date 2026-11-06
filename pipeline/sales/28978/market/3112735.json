@@ -1,7 +1,7 @@
 {
  "cdid": 3112735,
  "lot": 1894,
- "identification": "Pack of approx 14 sqm new Tasmanian oak tongue and groove lining on a pallet, hand-marked 'APPROX 14.0 m/2 TAS OAK T&G LINING'. Profile and grade not stated (could be 85x10 V-joint lining or heavier flooring-type T&G). Appears unused, mixed lengths with some short offcuts.",
+ "identification": "Strapped pallet of new Tasmanian oak tongue and groove lining boards, approx 14 sqm, mixed lengths, some short, pallet marked batch R122",
  "entries": [
   {
    "kind": "SOLD",
@@ -70,9 +70,10 @@
    "note": "Snippet only. Recycled 65x22 T&G flooring, thicker than lining; ceiling reference only."
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on a None value; work version gave 4 hits for tas oak T&G/lining); Gowans API searches (tasmanian oak lining, tongue and groove, tas oak t&g, oak vj) found no further sold lots; looked up two Gowans lots directly; one WebSearch for retail per-sqm pricing. Armitage past results not searched. eBay/Gumtree sold prices would help but eBay is closed to us. Rate: AUD only, no conversion.",
+ "searches_tried": "comps.py (pipeline version crashed on a None value; work version gave 4 hits for tas oak T&G/lining); Gowans API searches (tasmanian oak lining, tongue and groove, tas oak t&g, oak vj) found no further sold lots; looked up two Gowans lots directly; one WebSearch for retail per-sqm pricing. Armitage past results not searched. eBay/Gumtree sold prices would help but eBay is closed to us. Rate: AUD only, no conversion. | chrome: eBay AU sold 'tasmanian oak tongue groove lining' (AU only): all junk (furniture, router bits). Gumtree not searched (not reliably sold prices). No usable comps.",
  "needs_chrome": false,
- "viewing_check": "Check the profile and thickness (85x10 lining vs thicker flooring), grade (feature or utility), whether it is really 14 sqm (count boards, length mix), any end damage, moisture or staining, and how much is short offcut.",
+ "viewing_check": "Measure board width and thickness, read the profile and grade stamp, check lengths (how many full length vs offcuts), moisture or stain, and count boards to confirm area.",
  "rate_note": "All prices AUD, no conversion.",
- "chrome_hint": "Gumtree Tasmania: tasmanian oak tongue and groove lining, used or surplus, to see local asking prices"
+ "chrome_hint": "Gumtree Tasmania: tasmanian oak tongue and groove lining, used or surplus, to see local asking prices",
+ "chrome_done": true
 }

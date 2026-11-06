@@ -1,7 +1,7 @@
 {
  "cdid": 3112571,
  "lot": 1544,
- "identification": "British WWII Telephone Set F (Mk I/II style), bakelite body, twin bells, handset, in fitted wooden transit case with metal instruction plate. Common military signals item, made in large numbers (UK, Canada).",
+ "identification": "British WWII Telephone Set F in wooden transit case with instruction plate",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,10 +68,71 @@
    "url": "https://www.ebay.com/b/Field-Telephone-In-Collectible-Telephones-1940-1969/38038/bn_7022225331",
    "same_item": "yes",
    "note": "British Set F MKII, snippet only from category search, URL is the category page. Rate USD 1 = AUD 1.50 (assumed). Asking price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.70",
+   "currency": "AUD",
+   "aud_price": 159.7,
+   "date": "2026-10-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407205780554",
+   "same_item": "yes",
+   "note": "WW2 British Set F Mk II field phone with original wooden case",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.38",
+   "currency": "AUD",
+   "aud_price": 85.38,
+   "date": "2026-10-22",
+   "venue": "eBay AU (converted, listed from UK)",
+   "url": "https://www.ebay.com.au/itm/158357935076",
+   "same_item": "yes",
+   "note": "Set F Mk I wooden field telephone box case",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$77.62",
+   "currency": "AUD",
+   "aud_price": 77.62,
+   "date": "2026-09-06",
+   "venue": "eBay AU (converted, listed from UK)",
+   "url": "https://www.ebay.com.au/itm/820061219768",
+   "same_item": "yes",
+   "note": "Set F Mk1 with instruction sticker",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$22.55",
+   "currency": "AUD",
+   "aud_price": 22.55,
+   "date": "2026-08-23",
+   "venue": "eBay AU (converted, listed from UK)",
+   "url": "https://www.ebay.com.au/itm/267760639517",
+   "same_item": "yes",
+   "note": "Set F Mk1 box; low end, condition unknown",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$400.00",
+   "currency": "AUD",
+   "aud_price": 400,
+   "date": "2026-08-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/127791430973",
+   "same_item": "partial",
+   "note": "Authentic WWII Set F Mk I made 1942, probably display-grade; outlier high",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on a None value; work/comps.py with field telephone, telephone, bakelite telephone, military); Gowans API field telephone; WebSearch Telephone Set F sold auction; WebSearch site:armitage.bidsonline field telephone (nothing). Not tried: Invaluable/LiveAuctioneers results. eBay sold prices for Telephone Set F would settle it best. Evidence suggests a modest value around $60-160 hammer at Gowans.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline version crashed on a None value; work/comps.py with field telephone, telephone, bakelite telephone, military); Gowans API field telephone; WebSearch Telephone Set F sold auction; WebSearch site:armitage.bidsonline field telephone (nothing). Not tried: Invaluable/LiveAuctioneers results. eBay sold prices for Telephone Set F would settle it best. Evidence suggests a modest value around $60-160 hammer at Gowans. | chrome: eBay AU sold: telephone set f ww2 field telephone (first query hit error page)",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold/completed listings: WW2 British Army Field Telephone Set F in case (also 'Telephone Set F Mk II')",
- "viewing_check": "Check for War Department broad arrow, maker and date stamps on bakelite or case, whether the case is original with lid and cells compartment, complete handset and bells, and cord condition. Photograph markings."
+ "viewing_check": "Check the handset, bells, cord and case latches, and read the plate/Mk number.",
+ "chrome_done": true
 }

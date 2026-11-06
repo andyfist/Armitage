@@ -1,7 +1,7 @@
 {
  "cdid": 3111173,
  "lot": 911,
- "identification": "Eight Australian 1966 round 50c coins, 80% silver, about 10.6g fine silver each (about 85g total). Photo shows 8 coins, circulated bright, one with a brown/toned spot. No key varieties visible.",
+ "identification": "Eight Australian 1966 round 50c coins (80% silver), bright circulated to AU-ish, 6 round-reverse plus 2 obverse showing, one with brown spot",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,60 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/435462/",
    "same_item": "yes",
    "note": "Single 1966 round 50c, 12 bids; singles run $30-40 each. Hammer, premium extra. Local database record (lot id 435462), AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$234.65",
+   "currency": "AUD",
+   "aud_price": 234.65,
+   "date": "2026-10-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227578397082",
+   "same_item": "partial",
+   "note": "6 x 1966 round 50c, 19 bids, about A$39 per coin (8 coins at this rate about A$313)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$177.65",
+   "currency": "AUD",
+   "aud_price": 177.65,
+   "date": "2026-10-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/206614970885",
+   "same_item": "partial",
+   "note": "5 x 1966 round 50c, 5 bids, about A$35.5 per coin (8 coins about A$284)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$371.70",
+   "currency": "AUD",
+   "aud_price": 371.7,
+   "date": "2026-05-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257484816759",
+   "same_item": "partial",
+   "note": "9 coins 1966 round 50c, BIN, about A$41 per coin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$136.00",
+   "currency": "AUD",
+   "aud_price": 136,
+   "date": "2026-10-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/287658136224",
+   "same_item": "partial",
+   "note": "4 x 1966 round 50c described as not very nice, 33 bids, about A$34 per coin",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) with 1966 50c round silver; Gowans API searches for 5, 7, 8 and 10 round 1966 50c lots (no 7 or 8 coin lots found; closest are 5 and 6 coin lots). No web search: generic bullion-type coin. Melt value not checked live (about 85g fine silver, spot not looked up). eBay sold would add little.",
+ "searches_tried": "Local comps.py (pipeline and work) with 1966 50c round silver; Gowans API searches for 5, 7, 8 and 10 round 1966 50c lots (no 7 or 8 coin lots found; closest are 5 and 6 coin lots). No web search: generic bullion-type coin. Melt value not checked live (about 85g fine silver, spot not looked up). eBay sold would add little. | chrome: eBay AU sold: 1966 round 50c fifty cent coins lot (0); 1966 50c silver round fifty cent australia (60 results, singles A$35-89, multi-coin lots about A$34-41 per coin)",
  "needs_chrome": false,
  "chrome_hint": "",
  "rate_note": "All AUD, no conversion. Gowans hammer per coin: about $28-37 recently (Jun-Oct 2026), $41-47 in Jan-Mar 2026 when silver was firmer. Eight coins at $28-37 each implies roughly $225-300 hammer, likely a small volume discount on larger lots.",
- "viewing_check": "Check dates are all 1966 and the coins are the round 50c (not 1969 or later square-type or 1967+ cupronickel). Check the brown spot coin and for cleaning or damage; magnet test not needed."
+ "viewing_check": "Count coins (8) and confirm all are 1966 round 50c; check for cleaning/toning and any uncirculated pieces.",
+ "chrome_done": true
 }

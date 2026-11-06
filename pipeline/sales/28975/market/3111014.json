@@ -1,12 +1,91 @@
-{"cdid":3111014,"lot":752,"identification":"Kamikoto Kanpeki-style 3-knife set (slicer, nakiri, utility) in ash box with certificate; brand is US-marketed, blades reportedly made in China, so not true Japanese craft knives.","entries":[
-{"kind":"SOLD","price":"$155 final bid (12% premium extra)","currency":"USD","aud_price":236,"date":"2026-04-07","venue":"Sound Estate Company (US online)","url":"https://soundestatecompany.com/auctions/106104","same_item":"yes","note":"Page opened. Three-piece Kamikoto set in presentation box. Page says auction ended with highest bidder, does not state reserve met. Rate used 1 USD = 1.52 AUD (assumed). Hammer, premium extra."},
-{"kind":"SOLD","price":"$500 (excludes premium)","currency":"USD","aud_price":760,"date":"2023-05-20","venue":"Brunk Auctions (US)","url":"https://live.brunkauctions.com/online-auctions/brunk/kamikoto-kanpeki-knife-set-4828716","same_item":"close","note":"Page opened. Kanpeki set, estimate $100-300, sold $500. Old, US, outlier (probably competitive bidding); not a good guide for Launceston. Rate 1.52."},
-{"kind":"ASKING","price":"$40","currency":"USD","aud_price":61,"date":"2025-11-11","venue":"knife-market.com (Pcastillo)","url":"https://knife-market.com/listing/1muungcjvf-kamikoto-kanpeki-3-knife-set","same_item":"yes","note":"Page opened. Unused 3-knife Kanpeki set, listing no longer available, so not a confirmed sale. Rate 1.52."},
-{"kind":"ASKING","price":"about $126 plus about $43 postage","currency":"AUD","aud_price":126,"date":"live, seen 2026-11-06","venue":"eBay AU catalogue page","url":"https://www.ebay.com.au/p/27034903663","same_item":"close","note":"Snippet only, unverified. New-item price for Kamikoto Kanpeki set."},
-{"kind":"ASKING","price":"$288 (stated regular price $1,970)","currency":"USD","aud_price":438,"date":"seen 2026-11-06 (post date unknown)","venue":"Slickdeals","url":"https://slickdeals.net/f/13567804-kanpeki-knife-set-3-pc-288","same_item":"yes","note":"Snippet only, unverified, currency not stated. New deal price; shows inflated list price and discounting. Rate 1.52."},
-{"kind":"SOLD","price":"$140 hammer","currency":"AUD","aud_price":140,"date":"2025-11-24","venue":"Gowans Auctions, Hobart (KNIFE & BLOCK SET)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/ (gowans id 377189)","same_item":"category guide","note":"Local database only, unrelated knife block set, shows what a knife set can make in Tasmania. Japanese-style cooking knives at Gowans ranged $24-$230, median $60 (15 lots, singles, mostly unbranded)."}],
-"searches_tried":"comps.py (pipeline version crashed with a TypeError; work/comps.py: kamikoto, kamikato, knife set, chef knives, japanese knife) found no Kamikoto hit; Gowans API kamikoto returned nothing; WebSearch x4 (Kamikoto 3 piece price Australia, auction hammer, site:armitage.bidsonline kamikoto, used sold Australia) found no Armitage or Australian sold result. eBay sold prices would settle it (closed to us).",
-"needs_chrome":true,
-"chrome_hint":"eBay AU sold listings: Kamikoto Kanpeki knife set (also try Kamikoto 3 knife set ash box), sold items filter, last 90 days; also Gumtree AU.",
-"viewing_check":"Confirm all three knives and the certificate/card are in the box, check for scratches or chips on blades and handle wear, and note the model name on the card (Kanpeki vs another line).",
-"rate_note":"1 USD = 1.52 AUD assumed."}
+{
+ "cdid": 3111014,
+ "lot": 752,
+ "identification": "Kamikoto (Kanpeki-style) 3 knife set (slicer, nakiri, utility) in ash wood box with certificate",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$155 final bid (12% premium extra)",
+   "currency": "USD",
+   "aud_price": 236,
+   "date": "2026-04-07",
+   "venue": "Sound Estate Company (US online)",
+   "url": "https://soundestatecompany.com/auctions/106104",
+   "same_item": "yes",
+   "note": "Page opened. Three-piece Kamikoto set in presentation box. Page says auction ended with highest bidder, does not state reserve met. Rate used 1 USD = 1.52 AUD (assumed). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$500 (excludes premium)",
+   "currency": "USD",
+   "aud_price": 760,
+   "date": "2023-05-20",
+   "venue": "Brunk Auctions (US)",
+   "url": "https://live.brunkauctions.com/online-auctions/brunk/kamikoto-kanpeki-knife-set-4828716",
+   "same_item": "close",
+   "note": "Page opened. Kanpeki set, estimate $100-300, sold $500. Old, US, outlier (probably competitive bidding); not a good guide for Launceston. Rate 1.52."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$40",
+   "currency": "USD",
+   "aud_price": 61,
+   "date": "2025-11-11",
+   "venue": "knife-market.com (Pcastillo)",
+   "url": "https://knife-market.com/listing/1muungcjvf-kamikoto-kanpeki-3-knife-set",
+   "same_item": "yes",
+   "note": "Page opened. Unused 3-knife Kanpeki set, listing no longer available, so not a confirmed sale. Rate 1.52."
+  },
+  {
+   "kind": "ASKING",
+   "price": "about $126 plus about $43 postage",
+   "currency": "AUD",
+   "aud_price": 126,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay AU catalogue page",
+   "url": "https://www.ebay.com.au/p/27034903663",
+   "same_item": "close",
+   "note": "Snippet only, unverified. New-item price for Kamikoto Kanpeki set."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$288 (stated regular price $1,970)",
+   "currency": "USD",
+   "aud_price": 438,
+   "date": "seen 2026-11-06 (post date unknown)",
+   "venue": "Slickdeals",
+   "url": "https://slickdeals.net/f/13567804-kanpeki-knife-set-3-pc-288",
+   "same_item": "yes",
+   "note": "Snippet only, unverified, currency not stated. New deal price; shows inflated list price and discounting. Rate 1.52."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$140 hammer",
+   "currency": "AUD",
+   "aud_price": 140,
+   "date": "2025-11-24",
+   "venue": "Gowans Auctions, Hobart (KNIFE & BLOCK SET)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (gowans id 377189)",
+   "same_item": "category guide",
+   "note": "Local database only, unrelated knife block set, shows what a knife set can make in Tasmania. Japanese-style cooking knives at Gowans ranged $24-$230, median $60 (15 lots, singles, mostly unbranded)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84.91",
+   "currency": "AUD",
+   "aud_price": 84.91,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298027088078",
+   "same_item": "yes",
+   "note": "Kamikoto Kanpeki 3 knife set in wood box; condition not checked; only Kamikoto set sold on eBay AU in the filter window",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed with a TypeError; work/comps.py: kamikoto, kamikato, knife set, chef knives, japanese knife) found no Kamikoto hit; Gowans API kamikoto returned nothing; WebSearch x4 (Kamikoto 3 piece price Australia, auction hammer, site:armitage.bidsonline kamikoto, used sold Australia) found no Armitage or Australian sold result. eBay sold prices would settle it (closed to us). | chrome: eBay AU sold: kamikoto knife set (1 exact match, first attempt hit error page, retried OK)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: Kamikoto Kanpeki knife set (also try Kamikoto 3 knife set ash box), sold items filter, last 90 days; also Gumtree AU.",
+ "viewing_check": "Check blades are Kamikoto marked, box and certificate present, no chips or rust.",
+ "rate_note": "1 USD = 1.52 AUD assumed.",
+ "chrome_done": true
+}

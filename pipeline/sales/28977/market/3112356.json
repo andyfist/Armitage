@@ -1,7 +1,7 @@
 {
  "cdid": 3112356,
  "lot": 1452,
- "identification": "Five Ampol tins c.1950s-60s: SAE 50 one gallon motor oil, large and small Homogenised grease, multi-purpose grease, Jet-Lube Kopr-Kote. Common brand, rusty.",
+ "identification": "Five Ampol tins c.1950s-60s (1 gal SAE 50 motor oil, large and small homogenised grease, multi-purpose grease, Jet-Lube Kopr-Kote), rusty/worn.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,72 @@
    "url": "https://picclick.com.au/Ampol-Motor-Oil-1-4-Gallon-Oil-Tin-166243315615.html",
    "same_item": "category guide",
    "note": "Ampol 1/4 gallon SAE 50 oil tin; snippet only, listing did not sell at that price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-10-22",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336852042666",
+   "same_item": "partial",
+   "note": "Ampol Jet Lube 1lb Kopr-Kote tin, light blue; condition likely better than lot",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96.10",
+   "currency": "AUD",
+   "aud_price": 96.1,
+   "date": "2026-09-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227538235771",
+   "same_item": "partial",
+   "note": "Ampol multi-purpose 1lb grease tin red, BIN",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-10-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/126833646711",
+   "same_item": "partial",
+   "note": "Ampol grease tin 1lb multi purpose red, BIN",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.50",
+   "currency": "AUD",
+   "aud_price": 32.5,
+   "date": "2026-09-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117421844138",
+   "same_item": "partial",
+   "note": "Ampol 1lb grease tin red, low end (condition unknown)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$72.77",
+   "currency": "AUD",
+   "aud_price": 72.77,
+   "date": "2026-08-13",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128008318100",
+   "same_item": "partial",
+   "note": "Ampol 1lb grease tin, used, 14 bids",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (both DBs), Gowans API x3 (ampol tin/oil tin/grease), WebSearch Ampol SAE 50 gallon. No Armitage past-result search. eBay sold would settle single-tin values.",
+ "searches_tried": "comps.py (both DBs), Gowans API x3 (ampol tin/oil tin/grease), WebSearch Ampol SAE 50 gallon. No Armitage past-result search. eBay sold would settle single-tin values. | chrome: eBay AU sold: 'ampol tin'; 'ampol grease tin homogenised'",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Nothing essential; check rust-through or holes in the gallon tin and whether tins are full/sealed.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check tin condition (rust-through, label loss), the 1 gal motor oil tin and the Kopr-Kote tin are the better pieces; individual small tins in decent condition sell A$30-130 each on eBay.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

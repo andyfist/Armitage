@@ -1,11 +1,124 @@
-{"cdid":3112300,"lot":1628,"identification":"Mixed tray of about 9-10 used cricket bats (Gray-Nicolls, Kookaburra, adidas, Inyerza, SS) incl one full-size bat team-signed with a 'David Boon Testimonial Match' inscription, two used helmets and a bagged stumps/scorer set. Photos show worn modern bats; signatures on one bat only, names mostly illegible.","entries":[
-{"kind":"SOLD","price":"$230 hammer","currency":"AUD","aud_price":230,"date":"2026-10-11","venue":"Gowans Auctions, Hobart","url":"gowans id 444246","same_item":"close","note":"3 cricket bats, 12 bids. Local database hit, page not opened. Strong result, probably better bats than ours; premium extra."},
-{"kind":"SOLD","price":"$90 hammer","currency":"AUD","aud_price":90,"date":"2026-03-23","venue":"Gowans Auctions, Hobart","url":"gowans id 398685","same_item":"close","note":"Vintage cricket bats with signatures, 7 bids. Database/API hit, page not opened."},
-{"kind":"SOLD","price":"$44 hammer","currency":"AUD","aud_price":44,"date":"2026-08-03","venue":"Gowans Auctions, Hobart","url":"gowans id 428502","same_item":"close","note":"Bag of assorted cricket equipment incl bats, 3 bids. API hit; typical used-bat lot."},
-{"kind":"SOLD","price":"$40 hammer","currency":"AUD","aud_price":40,"date":"2026-09-20","venue":"Gowans Auctions, Hobart","url":"gowans id 439219","same_item":"close","note":"Basket of cricket bats etc, 2 bids. API hit."},
-{"kind":"SOLD","price":"$40 hammer","currency":"AUD","aud_price":40,"date":"2026-09-06","venue":"Gowans Auctions, Hobart","url":"gowans id 435851","same_item":"close","note":"Basket incl cricket bats etc, 1 bid. API hit."},
-{"kind":"SOLD","price":"$160 hammer","currency":"AUD","aud_price":160,"date":"2026-05-31","venue":"Gowans Auctions, Hobart","url":"gowans id 413504","same_item":"category guide","note":"Single signed Tasmanian cricket bat, 4 bids. Database hit; shows Tasmanian-signed bats can reach $160 but ours is team-signed with illegible names."},
-{"kind":"SOLD","price":"$70 hammer","currency":"AUD","aud_price":70,"date":"2026-07-05","venue":"Gowans Auctions, Hobart","url":"gowans id 421447","same_item":"category guide","note":"Signed Tasmanian cricket bat, 1 bid. Database hit."},
-{"kind":"SOLD","price":"$170 hammer","currency":"AUD","aud_price":170,"date":"2026-08-30","venue":"Gowans Auctions, Hobart","url":"gowans id 434409","same_item":"category guide","note":"Zimbabwe Test cricketers signed bat, 8 bids. Database hit; named stars, stronger than ours."},
-{"kind":"SOLD","price":"$20-30 hammer","currency":"AUD","aud_price":25,"date":"2026-08-16 / 2026-09-02","venue":"Gowans Auctions, Hobart","url":"gowans ids 430953, 435355","same_item":"category guide","note":"Tubs of cricket accessories incl a helmet: $20 and $30. Helmets add little."}],
-"searches_tried":"comps.py (pipeline, work) for david boon signed bat, signed cricket bat, cricket bats; Gowans API for cricket bats, cricket helmet, david boon. No web search done; lot is a mixed used-sports lot. eBay sold for 'David Boon testimonial signed bat' would settle the signed bat premium but is a minor part.","needs_chrome":false,"viewing_check":"Read the signatures on the Boon testimonial bat: any legible Tasmanian or Test names (Boon, Ponting, Bailey, Jamie Cox, Tim Paine) would lift value; check whether any other bats carry signatures. Check helmet and bat brands for any older Gray-Nicolls or Duncan Fearnley bats.","chrome_hint":"eBay sold: David Boon Testimonial signed cricket bat","rate_note":"All prices AUD, no conversion."}
+{
+ "cdid": 3112300,
+ "lot": 1628,
+ "identification": "Tray of ~9-10 used cricket bats (Gray-Nicolls, Kookaburra, adidas etc), one team-signed Boon Testimonial bat, 2 helmets, stumps bag",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$230 hammer",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 444246",
+   "same_item": "close",
+   "note": "3 cricket bats, 12 bids. Local database hit, page not opened. Strong result, probably better bats than ours; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-03-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 398685",
+   "same_item": "close",
+   "note": "Vintage cricket bats with signatures, 7 bids. Database/API hit, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$44 hammer",
+   "currency": "AUD",
+   "aud_price": 44,
+   "date": "2026-08-03",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 428502",
+   "same_item": "close",
+   "note": "Bag of assorted cricket equipment incl bats, 3 bids. API hit; typical used-bat lot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 439219",
+   "same_item": "close",
+   "note": "Basket of cricket bats etc, 2 bids. API hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 435851",
+   "same_item": "close",
+   "note": "Basket incl cricket bats etc, 1 bid. API hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 413504",
+   "same_item": "category guide",
+   "note": "Single signed Tasmanian cricket bat, 4 bids. Database hit; shows Tasmanian-signed bats can reach $160 but ours is team-signed with illegible names."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 421447",
+   "same_item": "category guide",
+   "note": "Signed Tasmanian cricket bat, 1 bid. Database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$170 hammer",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2026-08-30",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 434409",
+   "same_item": "category guide",
+   "note": "Zimbabwe Test cricketers signed bat, 8 bids. Database hit; named stars, stronger than ours."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20-30 hammer",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-08-16 / 2026-09-02",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans ids 430953, 435355",
+   "same_item": "category guide",
+   "note": "Tubs of cricket accessories incl a helmet: $20 and $30. Helmets add little."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$214.25",
+   "currency": "AUD",
+   "aud_price": 214.25,
+   "date": "2026-11-06",
+   "venue": "eBay AU (converted, listed from New Zealand)",
+   "url": "https://www.ebay.com.au/itm/920005145482",
+   "same_item": "partial",
+   "note": "Gray-Nicolls Ultimate 300 David Boon vintage player-model bat, not signed; different item, shows Boon name interest only",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline, work) for david boon signed bat, signed cricket bat, cricket bats; Gowans API for cricket bats, cricket helmet, david boon. No web search done; lot is a mixed used-sports lot. eBay sold for 'David Boon testimonial signed bat' would settle the signed bat premium but is a minor part. | chrome: eBay AU sold: david boon signed cricket bat (no testimonial team bat sold; rest memorabilia cards/prints)",
+ "needs_chrome": false,
+ "viewing_check": "Read the signatures on the Boon Testimonial bat; the rest are worn modern bats.",
+ "chrome_hint": "eBay sold: David Boon Testimonial signed cricket bat",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
+}

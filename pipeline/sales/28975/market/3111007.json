@@ -1,1 +1,58 @@
-{"cdid":3111007,"lot":745,"identification":"Kamikoto santoku (7 inch) chef's knife in ash gift box with certificate; marketing brand, blades reportedly made in China, retail inflated.","entries":[{"kind":"SOLD","price":"US$86.00 final bid (12% premium extra)","currency":"USD","aud_price":130,"date":"2026-04-07","venue":"Sound Estate Company (US)","url":"https://soundestatecompany.com/auctions/106094","same_item":"close","note":"Kamikoto 9.5in knife SET, never used, boxed; page opened. A set, so a single santoku is worth less. Rate 1 USD = 1.50 AUD assumed."},{"kind":"ASKING","price":"US$35 to US$69.99 new 7in santoku","currency":"USD","aud_price":53,"date":"live, seen 2026-11-06","venue":"eBay listings (via search summary)","url":"https://www.ebay.com/itm/163669829953","same_item":"category guide","note":"Snippet only, not verified; new unused Kamikoto santoku asks, low end used. Rate 1.50. Not the cited URL necessarily."}],"searches_tried":"comps.py (both) crashed on a None-type error, no local results; Gowans API kamikoto search empty; WebSearch for Kamikoto santoku sold and site:armitage (nothing); fetched one Sound Estate page; kamikoto.com URL 404. eBay sold listings (Kamikoto santoku) would settle it.","needs_chrome":true,"chrome_hint":"eBay sold/completed: Kamikoto santoku knife","viewing_check":"Check box, certificate and knife are present and unused; nothing else needed."}
+{
+ "cdid": 3111007,
+ "lot": 745,
+ "identification": "Kamikoto santoku chef's knife in gift box (photo not viewed)",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "US$86.00 final bid (12% premium extra)",
+   "currency": "USD",
+   "aud_price": 130,
+   "date": "2026-04-07",
+   "venue": "Sound Estate Company (US)",
+   "url": "https://soundestatecompany.com/auctions/106094",
+   "same_item": "close",
+   "note": "Kamikoto 9.5in knife SET, never used, boxed; page opened. A set, so a single santoku is worth less. Rate 1 USD = 1.50 AUD assumed."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$35 to US$69.99 new 7in santoku",
+   "currency": "USD",
+   "aud_price": 53,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay listings (via search summary)",
+   "url": "https://www.ebay.com/itm/163669829953",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified; new unused Kamikoto santoku asks, low end used. Rate 1.50. Not the cited URL necessarily."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$79.35",
+   "currency": "AUD",
+   "aud_price": 79.35,
+   "date": "2026-09-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/147385267446",
+   "same_item": "partial",
+   "note": "NEW Kamikoto 7in single bevel santoku; new vs used-in-box",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.70",
+   "currency": "AUD",
+   "aud_price": 159.7,
+   "date": "2026-10-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267573494562",
+   "same_item": "partial",
+   "note": "Kamikoto handcrafted kitchen knives, likely a set or different model, details unchecked",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (both) crashed on a None-type error, no local results; Gowans API kamikoto search empty; WebSearch for Kamikoto santoku sold and site:armitage (nothing); fetched one Sound Estate page; kamikoto.com URL 404. eBay sold listings (Kamikoto santoku) would settle it. | chrome: eBay AU sold: kamikoto santoku knife (2 Kamikoto rows only).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold/completed: Kamikoto santoku knife",
+ "viewing_check": "Check blade is a santoku with Kamikoto engraving, box and certificate present, and no chips or rust.",
+ "chrome_done": true
+}

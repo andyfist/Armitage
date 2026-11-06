@@ -15,11 +15,11 @@
  "scanned": 237,
  "candidates": 98,
  "counts": {
-  "PASS": 3,
+  "PASS": 4,
   "CHROME": 18,
-  "FAIL": 50,
-  "DROP": 1,
-  "NOT RESEARCHED": 26
+  "FAIL": 51,
+  "DROP": 16,
+  "NOT RESEARCHED": 9
  },
  "lots": [
   {
@@ -202,11 +202,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:48:40 PM ADST",
-   "identification": "Golden Fleece 1 Imp. gallon rectangular tin, ram logo, H.C. Sleigh Limited, labelled ALSO CHRYSLER M/S 3256 and AQ-ATF-1681-A Type A Suffix-A (automatic transmission fluid). Yellow over blue, top rusty and spotted, side labels bright.",
+   "identification": "Golden Fleece 1 Imp. gallon tin, ram logo, H.C. Sleigh, ATF-labelled, rusty top, bright side labels",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: golden fleece 1 gallon tin ATF OR transmission",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 260.0,
@@ -294,20 +294,53 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:49:00 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Kelly Worlds Finest Dandenong felling axe on long curved timber handle; head broad and buffed bright (cross-hatched grinding, pitted); catalogue says True Temper, possibly Canadian-made Kelly True Temper; pattern (Tasmanian vs other) and weight not confirmed from photo",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 275.0,
+     "date": "2026-11-02",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/237148467815",
+     "same_item": "yes",
+     "note": "Kelly Dandenong Worlds Finest axe 4.5lb, made in Australia, Tassie pattern, 32 bids, with handle apparently"
+    },
+    {
+     "aud_price": 271.0,
+     "date": "2026-10-28",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/117472565837",
+     "same_item": "yes",
+     "note": "Kelly Dandenong Worlds Finest 4lb axe head, Canada True Temper, 27 bids, head only"
+    },
+    {
+     "aud_price": 107.06,
+     "date": "2026-10-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/960077671023",
+     "same_item": "yes",
+     "note": "Kelly 4.5lb Worlds Finest Dandenong, made Canada True Temper, 4 bids"
+    },
+    {
+     "aud_price": 184.65,
+     "date": "2026-10-05",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/188992763843",
+     "same_item": "yes",
+     "note": "Kelly (5lb?) Worlds Finest Dandenong head, True Temper made in Canada, 28 bids"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 227.825,
+   "net_resale": 193.65124999999998,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $228 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -320,11 +353,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:51:00 PM ADST",
-   "identification": "Powell & Hanmer (Birmingham) nickel-plated carbide cycle/motorcycle lamp, early 20th century; model not identified (round badge worn). Common maker, widely made.",
+   "identification": "Nickel-plated carbide cycle/motorcycle lamp with green and red side jewels, probably Powell & Hanmer; model unidentified, looks complete and clean",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Powell Hanmer carbide lamp (and model name once identified, e.g. Panther, Revenge, Chieftain)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 60.0,
@@ -657,11 +690,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:55:00 PM ADST",
-   "identification": "Mobiloil 'A' (Vacuum Oil / Mobil Oil Australia) 1 pint embossed glass oil bottle with Pegasus tin pourer top. Common Australian garage automobilia, tin top rusty at spout with paint loss, bottle clean.",
+   "identification": "Mobiloil A 1 pint glass oil bottle with Pegasus tin pourer top; tin top rusty at spout with paint loss, bottle clean.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: mobiloil A pint oil bottle tin top pegasus",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 170.0,
@@ -694,16 +727,24 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/446952/",
      "same_item": "close",
      "note": "Possibly in the current or just-closed Gowans sale; unclear if a tin-top bottle. Hammer, premium extra. From local comps database (Gowans API record), title: MOBILOIL SPECIAL OIL BOTTLE. Page not opened; no rate needed (AUD)."
+    },
+    {
+     "aud_price": 183.5,
+     "date": "2026-10-05",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/377509541483",
+     "same_item": "yes",
+     "note": "1960s Mobil Oil Australia Mobiloil AF Pegasus tin top pint bottle (AF variant, condition not checked)"
     }
    ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 105.0,
-   "net_resale": 89.25,
+   "resale": 110.0,
+   "net_resale": 93.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -751,11 +792,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:57:00 PM ADST",
-   "identification": "Four unmarked planes: wooden plough plane with brass thumbscrews, fence and bundle of irons (maker unknown, possibly Marples/Mathieson type but unconfirmed); Bailey-pattern No.4-size iron smoother (maker unread, likely Stanley or a copy); wooden jack plane with tote; wooden panel/rebate plane with red paper label.",
+   "identification": "Four planes: wooden plough plane with brass thumbscrews, fence and irons; Bailey-pattern iron smoother (Stanley type, maker unread); wooden jack plane; wooden panel/rebate plane",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold: wooden plough plane irons",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 105.0,
@@ -835,11 +876,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:57:20 PM ADST",
-   "identification": "Three handmade sandstock bricks with finger-drawn marks: 'EAD'-style letters, a possible broad arrow (only one reads as an arrow, and it looks more like an upward stroke/spike than a clear broad arrow), and a zigzag 'WMVM' mark. Likely Tasmanian colonial-era bricks, ex Alanvale, Newnham. Marks may be brickmaker/finger marks rather than Government broad arrows.",
+   "identification": "Three handmade sandstock bricks with finger-drawn marks (EAD-like letters, a stroke/arrow, zigzag WMVM); finger/maker marks, broad arrow not clearly shown.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 100.0,
@@ -1049,11 +1090,11 @@
    "current_bid": 200.0,
    "bid_count": 1,
    "close": "11/11/2026 8:02:20 PM ADST",
-   "identification": "Stihl MS 391 Farm Boss chainsaw (64cc, 20in bar likely) with orange bar cover; badge legible in photos.",
+   "identification": "Stihl MS 391 Farm Boss chainsaw with Farm Boss bar and orange cover, appears used but clean",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold/completed: Stihl MS 391 chainsaw (also MS391 Farm Boss, used)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 160.0,
@@ -1125,11 +1166,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:02:40 PM ADST",
-   "identification": "Five Ampol tins c.1950s-60s: SAE 50 one gallon motor oil, large and small Homogenised grease, multi-purpose grease, Jet-Lube Kopr-Kote. Common brand, rusty.",
+   "identification": "Five Ampol tins c.1950s-60s (1 gal SAE 50 motor oil, large and small homogenised grease, multi-purpose grease, Jet-Lube Kopr-Kote), rusty/worn.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 55.0,
@@ -1193,11 +1234,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:03:20 PM ADST",
-   "identification": "Stihl MS 170 petrol chainsaw with 14in MiniBoss bar and Stihl bar cover. Photos confirm model decal; bar rusty, body clean.",
+   "identification": "Stihl MS 170 petrol chainsaw with 14in MiniBoss bar and Stihl orange bar cover; model decal visible, bar rusty, body clean",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 190.0,
@@ -1238,6 +1279,22 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=stihl+ms+170&page%5Bnumber%5D=1",
      "same_item": "close",
      "note": "STIHL MS 180 petrol chainsaw (lot 411036), slightly larger. Comps database only."
+    },
+    {
+     "aud_price": 102.5,
+     "date": "2026-11-05",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/860067547650",
+     "same_item": "yes",
+     "note": "Stihl MS170 16in petrol chainsaw, pre-owned, 21 bids, pick up welcome, started at $1"
+    },
+    {
+     "aud_price": 207.4,
+     "date": "2026-11-06",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/940029794815",
+     "same_item": "yes",
+     "note": "Stihl MS170 Chainsaw pre-owned, listing was Buy It Now or Best Offer, so actual accepted price may differ; condition not checked"
     }
    ],
    "sold_old": [],
@@ -1277,11 +1334,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:05:00 PM ADST",
-   "identification": "Two 5 lb grease tins: Mobilgrease (Vacuum Oil Company, Pegasus logo), heavily rusted with paint loss at base, and Golden Fleece 5 lb grease tin (ram in shield logo, blue/yellow), scuffed and faded. Both open-topped, no lids.",
+   "identification": "Two 5 lb grease tins: Mobilgrease (red/white, Pegasus, Vacuum Oil Company, rusty base) and Golden Fleece (ram logo, yellow/blue, scuffed), open-topped, no lids",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'Golden Fleece 5lb grease tin' and 'Mobilgrease 5lb tin Vacuum Oil'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 190.0,
@@ -1354,11 +1411,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:05:40 PM ADST",
-   "identification": "Eight South Australian plates: RDT-919 x2, URD-250 x2 (Festival State), RMD-578, RZF-705, SL-599 small, and black SA 132-495 (1930s-50s style embossed, six digits). Mostly ordinary 1960s-80s plates, not low-number or rights-bearing.",
+   "identification": "Eight South Australian plates: RDT-919 x2, URD-250 x2 (Festival State), RMD-578, RZF-705, small SL-599, and black-ground SA 132-495 numeric; all weathered, ordinary 1960s-80s style",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: vintage South Australian number plate black white SA; also 'SA number plates job lot'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 105.0,
@@ -1472,11 +1529,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:06:20 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Three 1 gallon oil tins: Shell X-100 Multigrade (yellow, good), Mobiloil A SAE 30 HD with Pegasus (Vacuum Oil Co, fair), and heavily rusted Ampol Motor Oil tin (poor)",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -1484,8 +1541,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -1498,11 +1555,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:06:40 PM ADST",
-   "identification": "Riveted copper and brass soda-acid style fire extinguisher, about 50cm, brass cap and handle, red hose, '1957' stamped on the base band (likely a test or date stamp). Simplex name not visible in photos; unbranded as pictured. Common decorator item.",
+   "identification": "Riveted copper and brass soda-acid fire extinguisher, ~50cm, red hose, bright polished copper; photo confirms no maker name visible",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: vintage copper brass fire extinguisher",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 200.0,
@@ -1624,11 +1681,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:07:40 PM ADST",
-   "identification": "Riveted copper and brass hand-pump/soda-acid style fire extinguisher with red hose, brass cap and nozzle, base stamped 1957. Simplex name not legible; Australian Simplex/Wormald type, polished decorator piece.",
+   "identification": "Polished riveted copper and brass soda-acid style fire extinguisher with red hose, brass cap and nozzle; Simplex name not seen in photo",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: vintage copper brass fire extinguisher Simplex",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 35.0,
@@ -1742,11 +1799,11 @@
    "current_bid": 30.0,
    "bid_count": 1,
    "close": "11/11/2026 8:08:20 PM ADST",
-   "identification": "Royal Automobile Club Associate car (bumper/radiator) badge, Queensland centre (RACQ), numbered 0842 on the base, with mounting bolt. Same type as Bonhams 1920s RACQ associate badges. Plating worn and toned, enamel centre intact.",
+   "identification": "Royal Automobile Club Associate car badge (RACQ enamel centre), numbered on base, with mounting bolt; plating worn, enamel intact.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Royal Automobile Club Queensland associate badge (also RACQ car badge, RAC of Queensland badge), Australia and UK, last 12 months",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 70.0,
@@ -1862,11 +1919,11 @@
    "current_bid": 50.0,
    "bid_count": 2,
    "close": "11/11/2026 8:10:00 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Four brass padlocks: Jacksons (Launceston) EBU, two Four Lever, one stamped 4 SRA NSW; two keys",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -1874,8 +1931,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -1888,11 +1945,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:12:00 PM ADST",
-   "identification": "17 hollowcast lead WWI-era khaki infantry (standing/kneeling/prone riflemen, 3 Vickers-style MG teams), unmarked in photos, Johillco/Britains/Crescent style. Likely 1920s-30s British. Common type, not rare sets; worn, bent rifles.",
+   "identification": "About 16-17 hollowcast lead WWI-style khaki infantry (standing, kneeling, prone riflemen and 3 machine gun teams), unmarked, Britains/Johillco style",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: johillco khaki soldiers lot; also hollowcast WW1 lead soldiers machine gun lot",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 125.0,
@@ -1932,11 +1989,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:12:40 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Square black-painted tin railway hand/signal lamp with oval lens (etched broad arrow-type mark) on round oval reservoir base; rusty, burner/fount missing, no maker visible",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -1944,8 +2001,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -2009,11 +2066,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:14:40 PM ADST",
-   "identification": "Sidchrome (Australian made) 3/4 inch drive socket set in red steel case: large reversible ratchet, sliding T bar, two extensions, about 17 sockets (mostly 12 point chrome, big chunky sockets, one black impact socket, adaptor), ratchet head with Sidchrome oval logo. Incomplete, rusty case, one rusty socket, debris. Photo shows no model number.",
+   "identification": "Incomplete Sidchrome 3/4in drive socket set in red steel case: big ratchet, T-bar, 2 extensions, ~17 sockets incl. one impact; rusty case and debris",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Sidchrome 3/4 drive socket set (also 'Sidchrome 3/4 ratchet' and 'Sidchrome 3/4 T bar'), filter Sold items, Australia",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 105.0,
@@ -2102,11 +2159,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:15:20 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Two single-bit felling axes on hickory-type handles, heads plain with no Plumb stamp visible in photo",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2114,8 +2171,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -2128,11 +2185,11 @@
    "current_bid": 20.0,
    "bid_count": 1,
    "close": "11/11/2026 8:15:40 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Conan the Barbarian Atlantean sword replica, about 103 cm, cast alloy guard and pommel with bearded face detail, leather-wrapped grip, etched fuller; maker mark not visible (Windlass, Marto or similar).",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2140,8 +2197,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -2154,11 +2211,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:16:00 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Copper box lantern with bevelled glass side panel, round hinged reflector door, mesh vents, likely railway/ship signal or carriage lamp c1890-1920; no maker plate seen.",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2166,8 +2223,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -2239,11 +2296,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:17:00 PM ADST",
-   "identification": "Two framed colour chromolithographs by A. Chevallier Tayler from 'The Empire's Cricketers' (1905, 48-print series): A.J. Hopkins and R.A. Duff (Australians), plus a small framed sepia Bradman photo print with facsimile signature. Photos show printed titles and plate signature; originals or later reproductions not settled.",
+   "identification": "Two framed colour prints after A. Chevallier Tayler (Empire's Cricketers: Duff and Hopkins, with printed plate title/signature) plus a small framed Bradman photo print. Prints appear modern framed in oak-stain frames, original vs reproduction unclear.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: \"Chevallier Tayler Empire's Cricketers\" lithograph; also Invaluable: Albert Chevallier Tayler sold-at-auction prices",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 55.0,
@@ -2316,11 +2373,11 @@
    "current_bid": 100.0,
    "bid_count": 1,
    "close": "11/11/2026 8:17:40 PM ADST",
-   "identification": "Cast iron farm/school bell, bell about 30cm across, on swivel yoke with wall bracket and crank arm, acorn finial. Looks like a US-style or modern reproduction farm bell, unmarked. Clean black paint suggests repainted.",
+   "identification": "Cast iron farm/school bell on swivel yoke with wall bracket, acorn finial, black paint (repainted look); photo consistent, bell about 30cm",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: cast iron farm bell yoke bracket",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 130.0,
@@ -2384,11 +2441,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:18:20 PM ADST",
-   "identification": "Shell X-100 Motor Oil 30 five gallon drum, mid-century Shell Australia style, dented, rusty top. Common-ish petroliana drum format; X-100 branding is popular but large drums sell well below small tins and pourers.",
+   "identification": "Shell X-100 Motor Oil 30, red five-gallon drum, dented, rusty top and rim.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Shell X-100 5 gallon drum / oil drum Shell 4 gallon",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 30.0,
@@ -2445,11 +2502,11 @@
    "current_bid": 20.0,
    "bid_count": 1,
    "close": "11/11/2026 8:19:40 PM ADST",
-   "identification": "Tray of about 25 old wood carving gouges and chisels, makers unknown (not legible in photos), plus oilstone, small square, awl and a furniture repair booklet. Mixed handles, rusty blades. Photo contact sheet only looked at.",
+   "identification": "Tray of about 25 old carving gouges and chisels, mixed handles, makers not legible, plus oilstone, small square and a furniture repair booklet",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 45.0,
@@ -2497,11 +2554,11 @@
    "current_bid": 20.0,
    "bid_count": 1,
    "close": "11/11/2026 8:20:00 PM ADST",
-   "identification": "Sidchrome 39 Piece Metric & A/F socket set, 1/4 and 3/8 drive, part 19100, red metal case with yellow insert. Appears nearly complete (all positions look filled in photo; ratchet, extension, spinner, spark plug socket, screwdriver present).",
+   "identification": "Sidchrome 39 piece Metric & A/F socket set, 1/4 and 3/8 drive, no. 19100, red metal case; all positions look filled",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: sidchrome 39 piece socket set 19100 (metal case), filter Sold items",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 120.0,
@@ -2542,6 +2599,14 @@
      "url": "gowans lot id 422184 (via work/comps.py, premium extra)",
      "same_item": "close",
      "note": "SIDCHROME SOCKET SET, 20 bids. Size unstated, lower end. Local database record, title only, not opened."
+    },
+    {
+     "aud_price": 135.0,
+     "date": "2026-10-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/168818507138",
+     "same_item": "yes",
+     "note": "Sidchrome SCMT19100 39 piece metric & AF set"
     }
    ],
    "sold_old": [
@@ -2573,11 +2638,11 @@
      "note": "Used well-worn 39 piece red set. Snippet only, unverified."
     }
    ],
-   "resale": 130.0,
-   "net_resale": 110.5,
+   "resale": 132.5,
+   "net_resale": 112.625,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $132 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -2642,11 +2707,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:21:00 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Two boxes: rusty old tins (Country Life tobacco, Aerogel/Kenneth-type small tins, enamel spouted can, red fuel can, varnish and oil tins) and a tray of scrap hardware; nothing rare visible.",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2654,8 +2719,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -2668,11 +2733,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:23:40 PM ADST",
-   "identification": "Pascall Old Oak Toffee Assortment tin (hinged, clasp lid, base embossed Pascall Claremont Tasmania, so Cadbury-Fry-Pascall factory, Tasmania, 1920s-50s), with about 24 small Australian/British tobacco, cigarette and polish tins (Capstan, Woodbine, Log Cabin, Erinmore, Nugget, Lucky Hit, BDV). Worn and rusty.",
+   "identification": "Pascall Old Oak Toffee Assortment tin (Claremont Tasmania) with about 24 small tobacco, cigarette, polish tins (Capstan, Woodbine, Log Cabin, Nugget, Lucky Hit, BDV etc), rusty/worn.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Pascall Old Oak toffee tin; also Pascall Claremont Tasmania tin",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 180.0,
@@ -2744,11 +2809,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:25:00 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Mitutoyo outside micrometer 2-3 inch (.001 in), ratchet, in fitted case with 2 inch setting standard, spanner and leaflet; not vernier calipers.",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2756,8 +2821,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -2881,11 +2946,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:26:00 PM ADST",
-   "identification": "Mini (souvenir) cricket bat signed by a Tasmanian squad, probably mid-1990s: Ricky Ponting (early, with numeral), Shaun Young, Dene Hills, probably Michael DiVenuto, others illegible (possibly David Boon). No COA.",
+   "identification": "Mini cricket bat with green grip signed by a Tasmanian squad (Ricky Ponting near the foot, Shaun Young, probably Dene Hills, others), signatures fairly bold, no COA",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'Tasmanian Tigers signed mini cricket bat Ponting'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 160.0,
@@ -2941,11 +3006,11 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 8:27:00 PM ADST",
-   "identification": "Mixed tray lot: about 60 Australian military and club badges (two Rising Sun general service hat badges, AASC, RAEME-type, corps badges, AUSTRALIA shoulder title, enamel RSL pins, poppy pins), boxed Timex calculator watch (Timex databank-style, 1980s-type), about 6 modern fashion quartz watches, small ladies watch, shell cameo pendant in box and gold-tone chain (probably plated). Mostly low-value; no precious metal seen.",
+   "identification": "Two trays: ~60 Australian military and club badges (Rising Sun, corps badges), boxed Timex calculator watch, several fashion quartz watches, cameo pendant in box, gold-tone chain",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 50.0,
@@ -3204,11 +3269,11 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 8:31:20 PM ADST",
-   "identification": "Eight Tasmanian number plates: DF 9641 pair and BB 7805 (Holiday Isle era, blue on white), WRH 765 pair (black on white/cream, rusted), WHA 583 pair (blue on white with year tab, heavy paint loss), AG 0432 (TAS, blue on cream). Ordinary registrations, no special or low numbers.",
+   "identification": "Eight Tasmanian plates: DF 9641 pair and BB 7805 (Holiday Isle blue on white), WRH 765 pair (black on cream, rusted, paint loss), WHA 583 pair (blue on white, 1941-style tab, heavy paint loss), AG 0432 (TAS blue on cream)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: old Tasmanian number plate pair (also 'Tasmania Holiday Isle number plate')",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 105.0,
@@ -3239,11 +3304,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:31:40 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Jack Eden (Surfabout photographer) signed limited edition print 'Butch Cooney, Newcastle Championships 1965', numbered 326/1000, Surfabout Revisited release, framed about 58x48cm.",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3251,8 +3316,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -3348,11 +3413,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:33:00 PM ADST",
-   "identification": "British WWII Telephone Set F (Mk I/II style), bakelite body, twin bells, handset, in fitted wooden transit case with metal instruction plate. Common military signals item, made in large numbers (UK, Canada).",
+   "identification": "British WWII Telephone Set F in wooden transit case with instruction plate",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed listings: WW2 British Army Field Telephone Set F in case (also 'Telephone Set F Mk II')",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 110.0,
@@ -3361,6 +3426,38 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=field+telephone&page%5Bnumber%5D=1",
      "same_item": "close",
      "note": "MILITARY FIELD TELEPHONE, lot id 365924, 3 bids; from local comps database and Gowans API record (page opened, no description text, model unconfirmed). Premium extra."
+    },
+    {
+     "aud_price": 159.7,
+     "date": "2026-10-03",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/407205780554",
+     "same_item": "yes",
+     "note": "WW2 British Set F Mk II field phone with original wooden case"
+    },
+    {
+     "aud_price": 85.38,
+     "date": "2026-10-22",
+     "venue": "eBay AU (converted, listed from UK)",
+     "url": "https://www.ebay.com.au/itm/158357935076",
+     "same_item": "yes",
+     "note": "Set F Mk I wooden field telephone box case"
+    },
+    {
+     "aud_price": 77.62,
+     "date": "2026-09-06",
+     "venue": "eBay AU (converted, listed from UK)",
+     "url": "https://www.ebay.com.au/itm/820061219768",
+     "same_item": "yes",
+     "note": "Set F Mk1 with instruction sticker"
+    },
+    {
+     "aud_price": 22.55,
+     "date": "2026-08-23",
+     "venue": "eBay AU (converted, listed from UK)",
+     "url": "https://www.ebay.com.au/itm/267760639517",
+     "same_item": "yes",
+     "note": "Set F Mk1 box; low end, condition unknown"
     }
    ],
    "sold_old": [],
@@ -3392,11 +3489,11 @@
      "note": "British Set F MKII, snippet only from category search, URL is the category page. Rate USD 1 = AUD 1.50 (assumed). Asking price only."
     }
    ],
-   "resale": 110.0,
-   "net_resale": 93.5,
+   "resale": 85.38,
+   "net_resale": 72.573,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $85 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -3409,11 +3506,11 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 8:34:00 PM ADST",
-   "identification": "Pair of 2R3027 black/silver embossed Tasmanian plates, single 3T3417 black plate, TAS WPF-576 white/blue plate (1970s style), plus modern Ford Falcon GT HO souvenir plate (worthless). Black plates heavily chipped and dented.",
+   "identification": "Four plates: pair of black/silver 2R3027, single black 3T3417, white/blue TAS WPF-576, plus modern Ford Falcon GT HO novelty plate; black plates chipped and dented.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: vintage Tasmania number plates pair black embossed 1950s",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 105.0,
@@ -3521,11 +3618,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:39:20 PM ADST",
-   "identification": "Eight South Australian embossed plates: TWO-737 (centre crease), RWY-834 x2, SLD-926, RWV-199, RDL-509, RAL-973 (aluminium), and one older orange on black SA 440-217 numeric plate (rusty). Mostly 1960s-70s era letter-number issues, worn; no registration rights. Not single-digit or low-number heritage plates.",
+   "identification": "Eight worn South Australian embossed plates (TWO-737, RWY-834 x2, SLD-926, RWV-199, RDL-509, RAL-973 aluminium, orange-on-black 440-217), no heritage/low numbers",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: south australian number plates vintage pair; also 'SA number plates lot' sold",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 105.0,
@@ -3623,11 +3720,11 @@
    "current_bid": 50.0,
    "bid_count": 1,
    "close": "11/11/2026 8:43:40 PM ADST",
-   "identification": "Ring Floodlight Cam Pro (Wired), black, retail box with Ring-branded 'Floodlight Cam Pro / Wired' front. Looks new in box, shrink or seal not clearly visible in photos. Box is the newer Ring branding (2024+), so likely the current Ring Floodlight Cam Pro (2K/3D motion), not the 2021 Wired Pro.",
+   "identification": "Ring Floodlight Cam Pro (Wired), black, retail box, appears boxed/new",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: Ring Floodlight Cam Pro wired new sealed (filter Sold items, Australia); also check Amazon.com.au / Bunnings / JB Hi-Fi current price.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 70.0,
@@ -3636,6 +3733,30 @@
      "url": "gowans id 422788",
      "same_item": "close",
      "note": "Lot of 2 Ring doorbells, a floodlight and a camera, 9 bids. Mixed lot, used condition unknown; floodlight camera is only part, so a weak lower guide. Local database hit."
+    },
+    {
+     "aud_price": 166.64,
+     "date": "2026-11-04",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/128173299060",
+     "same_item": "yes",
+     "note": "Ring Floodlight Cam Wired Pro 2K, brand new (twin sale at same price 128166473433)"
+    },
+    {
+     "aud_price": 206.32,
+     "date": "2026-11-05",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/278408549519",
+     "same_item": "yes",
+     "note": "Ring Floodlight Cam Wired Pro hardwired black 3D, brand new"
+    },
+    {
+     "aud_price": 157.12,
+     "date": "2026-11-03",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/336846486573",
+     "same_item": "yes",
+     "note": "Ring Floodlight Cam Wired Pro, pre-owned"
     }
    ],
    "sold_old": [],
@@ -3658,11 +3779,11 @@
      "note": "Snippet only. Old launch price of the earlier Wired Pro; current retail is far lower, so $400 RRP is outdated."
     }
    ],
-   "resale": 70.0,
-   "net_resale": 59.5,
+   "resale": 161.88,
+   "net_resale": 137.59799999999998,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $50",
+   "why": "max hammer $0 from a median SOLD of $162 does not clear the current bid $50",
    "priority": false
   },
   {
@@ -3727,11 +3848,11 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 8:45:00 PM ADST",
-   "identification": "Three used felt hats: Akubra Imperial Quality pure fur felt (fawn, plaited band, labels yellowed), Akubra Superfine Quality pure fur (brown, grosgrain band), Thomas Cook Boot & Clothing Co (brown with feather, gold horse label). Sizes not visible.",
+   "identification": "Three used felt hats: Akubra Imperial Quality fawn with plaited band, Akubra Superfine brown with grosgrain band, Thomas Cook brown with feather; sizes not visible.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Akubra Imperial Quality pure fur felt hat used",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 40.0,
@@ -3811,11 +3932,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:50:40 PM ADST",
-   "identification": "Eight Tasmanian steel number plates: three Holiday Isle era (1976-98) blue on grey/white plates (AU-8006, CK-0351, and a matched pair DC-9397), plus VA-5201 (TAS, blue, 1970s) and three older black-on-white TAS plates (WGD-408, WSK-624, WJV-989). Ordinary registrations, no low numbers or personalised plates. Heavy rust on three.",
+   "identification": "Eight old Tasmanian steel number plates (Holiday Isle era and older black-on-white), ordinary registrations, rust on some",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: tasmania holiday isle number plate (also: tas number plates lot, vintage tasmanian number plates)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 105.0,
@@ -3906,11 +4027,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:57:00 PM ADST",
-   "identification": "Dawn 5SP 5 inch (125mm) engineer's bench vice, Australian made cast iron, repainted green, timber jaw facings, slide appears complete.",
+   "identification": "Dawn 5SP 5 inch engineer's bench vice, Australian made, repainted green, timber jaw liners; photo shows DAWN and 5SP cast marks",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold: dawn 5sp vice",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 80.0,
@@ -4015,11 +4136,11 @@
    "current_bid": 30.0,
    "bid_count": 1,
    "close": "11/11/2026 8:57:40 PM ADST",
-   "identification": "Topcon RL-H4C rotating laser (discontinued, replaced by RL-H5A) with LS-80 receiver, bracket and hard case, plus a Pentax automatic (dumpy) level; orange case. Staff not seen.",
+   "identification": "Topcon RL-H4C rotating laser with LS-80 receiver, bracket and case, plus a Pentax-type automatic dumpy level, two cases (orange hard case, yellow Topcon case).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: Topcon RL-H4C laser level",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 70.0,
@@ -4028,6 +4149,30 @@
      "url": "gowans ids 441295, 423783, 422114, 415583, 405755, 394389, 381523",
      "same_item": "close",
      "note": "Dumpy levels alone, some with tripod/staff. Covers the Pentax half of the lot."
+    },
+    {
+     "aud_price": 799.0,
+     "date": "2026-09-28",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/398371604330",
+     "same_item": "yes",
+     "note": "Topcon RL-H4C red laser with LS-80L receiver, working"
+    },
+    {
+     "aud_price": 750.0,
+     "date": "2026-08-29",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/307043260863",
+     "same_item": "yes",
+     "note": "Topcon RL-H4C red laser with LS-80L receiver"
+    },
+    {
+     "aud_price": 766.52,
+     "date": "2026-08-16",
+     "venue": "eBay AU (converted, listed from United States)",
+     "url": "https://www.ebay.com.au/itm/236999298477",
+     "same_item": "yes",
+     "note": "RL-H4C laser level, receiver, charger, case"
     }
    ],
    "sold_old": [],
@@ -4067,11 +4212,11 @@
      "note": "New RL-H5A kit with LS-100D; snippet only. Ceiling for new."
     }
    ],
-   "resale": 70.0,
-   "net_resale": 59.5,
-   "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $30",
+   "resale": 758.26,
+   "net_resale": 644.521,
+   "max_hammer": 360,
+   "status": "PASS",
+   "why": "4 same-item SOLD price(s), median $758; less 15% fees = $645; less $200 profit, / 1.22 premium = max hammer $360",
    "priority": false
   },
   {
@@ -4084,11 +4229,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:58:00 PM ADST",
-   "identification": "Box lot of fishing tackle: about 8 boxed Rebel Naturalized minnow lures, a Fishcake lure, a tray with carded Ashley lure, Tassie-style devons, wobblers and spinners, a Daiwa reel box and spare spools, Intrepid Prince Regent box, and about 4 to 6 older spinning reels (Daiwa/Intrepid style, used and worn).",
+   "identification": "Box lot of fishing tackle: ~8 boxed Rebel minnow lures, Fishcake, Ashley lure, tackle tray of lures, Daiwa reel box, Intrepid Prince Regent boxed reel, ~4 used spinning reels, green spools",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: 'Rebel Naturalized lure boxed' and 'Ashley Tasmania lure' and 'Intrepid Prince Regent reel'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 210.0,
@@ -4167,11 +4312,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:58:40 PM ADST",
-   "identification": "Scalextric Formula One Pole Position set (C819 type, mid-1990s, Hornby era), Benetton, Williams and a third F1 car, Mobil lap counter/power base, 4 curved track, barriers, one visible controller. Photos show box with torn corners; completeness unverified.",
+   "identification": "Scalextric Formula One Pole Position set, Benetton and Williams-Renault cars on box art, mid-1990s Hornby era, box corners worn/torn, completeness unverified",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: scalextric formula one pole position set C819 (also eBay.co.uk sold)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 80.0,
@@ -4243,11 +4388,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:59:40 PM ADST",
-   "identification": "Eaglemoss/GE Fabbri 'The Official James Bond Car Collection' partwork, 1:43 diecast with magazines in sealed bags (issues 1 DB5, 22 Corvorado, 32 Mercedes 280SE etc.), about 35 per title, plus binder poster and loose Die Another Day Vanquish. Mass-produced, not Corgi.",
+   "identification": "Eaglemoss 'Official James Bond Car Collection' 1:43 diecast partwork, cars in sealed magazine bags and cases, plus loose Vanquish and binder poster; about 35 per title",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: James Bond Car Collection Eaglemoss 1:43 sealed magazine lot (Sold filter, Australia/UK, last 90 days)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 90.0,
@@ -4280,6 +4425,14 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/436134/",
      "same_item": "yes",
      "note": "10 cars, $5.50 a car. API confirmed sale_price 5500 cents this session. Premium extra."
+    },
+    {
+     "aud_price": 426.71,
+     "date": "2026-06-12",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/336572491561",
+     "same_item": "yes",
+     "note": "James Bond 007 lot of Eaglemoss magazines plus 37 diecast car models, best offer accepted; closest like-for-like count"
     }
    ],
    "sold_old": [
@@ -4319,11 +4472,11 @@
      "note": "Snippet only, not verified. Retail asking per single sealed car; 35 at that rate would be unrealistic at auction. Rate about 1 USD = 1.52 AUD."
     }
    ],
-   "resale": 72.5,
-   "net_resale": 61.625,
+   "resale": 90.0,
+   "net_resale": 76.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $72 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -4336,11 +4489,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:00:40 PM ADST",
-   "identification": "Two black bakelite PMG-style 300-series magneto (crank) telephones plus a twin-gong painted wall bell and a small bell. Untested, grimy. Magnetos are less common than rotary dial but Gowans pairs of plain 300-series phones made only $25-75 hammer.",
+   "identification": "Two black bakelite PMG 300-series telephones (one with magneto crank) plus a twin-gong wall bell and small bell; untested.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold items: PMG magneto crank bakelite telephone 300 series; also 'telephone wall bell twin gong'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 75.0,
@@ -4412,11 +4565,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:01:00 PM ADST",
-   "identification": "Mixed tray of about 9-10 used cricket bats (Gray-Nicolls, Kookaburra, adidas, Inyerza, SS) incl one full-size bat team-signed with a 'David Boon Testimonial Match' inscription, two used helmets and a bagged stumps/scorer set. Photos show worn modern bats; signatures on one bat only, names mostly illegible.",
+   "identification": "Tray of ~9-10 used cricket bats (Gray-Nicolls, Kookaburra, adidas etc), one team-signed Boon Testimonial bat, 2 helmets, stumps bag",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: David Boon Testimonial signed cricket bat",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 230.0,
@@ -4479,11 +4632,11 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 9:03:20 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Large Mobil 1 Formula 15W-50 'The World's Finest Engine Oil' printed panel sign (1 litre bottle graphic), flat printed, not enamel; some edge wear lower right.",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4491,8 +4644,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -4531,11 +4684,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:06:40 PM ADST",
-   "identification": "Used Australian stock saddle (poley knee pads, sheepskin-lined panel, girth), catalogued as Flinders Collection. Oval maker stamp on off-side flap illegible in photo. Maker unknown.",
+   "identification": "Used Australian leather stock saddle with poley knee pads, sheepskin-lined panels, girth; maker stamp unread, worn leather",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Australian stock saddle poley used (add maker name once read from flap stamp)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 110.0,
@@ -4584,6 +4737,22 @@
      "url": "https://www.gowansauctions.com.au/ (lot id 405745); LEATHER HORSE SADDLE",
      "same_item": "close",
      "note": "0 bids. Local database result, premium extra, no photo checked."
+    },
+    {
+     "aud_price": 179.84,
+     "date": "2026-09-13",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/176821859806",
+     "same_item": "yes",
+     "note": "16in Australian made stock saddle, condition not checked"
+    },
+    {
+     "aud_price": 277.74,
+     "date": "2026-09-22",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/257745950125",
+     "same_item": "yes",
+     "note": "Australian stock saddle brown and black, 16in"
     }
    ],
    "sold_old": [],
@@ -4598,11 +4767,11 @@
      "note": "Snippet only, not verified, named maker saddle in US market; rate about 1 USD = 1.54 AUD assumed."
     }
    ],
-   "resale": 65.0,
-   "net_resale": 55.25,
+   "resale": 115.0,
+   "net_resale": 97.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $115 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -4667,11 +4836,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:14:40 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Four boxes of built-up unboxed German-style HO buildings (Faller/Kibri/Vollmer type) with accessories tin and a Busch box; dusty, some damage.",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4679,8 +4848,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -4693,11 +4862,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:15:20 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Two boxes of mixed playworn diecast (Matchbox/Lesney Major Pack style transporter pieces, small trucks, tractor) plus advertising sundries (Sykes's Drench boxes, Hoffmann bearing boxes, Black Nugget tin, BOC sign, ashtray).",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4705,8 +4874,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -4719,20 +4888,61 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:16:40 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Tray of about 40-60 heavily playworn 1960s-70s Lesney/Matchbox diecast, Superfast and Regular Wheels, trucks, transporters, a Hot Wheels flame car, no boxes",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 58.2,
+     "date": "2026-10-03",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/278417230652",
+     "same_item": "yes",
+     "note": "Job lot of 56 vintage Matchbox/Lesney vehicles, playworn"
+    },
+    {
+     "aud_price": 78.07,
+     "date": "2026-10-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/237132216053",
+     "same_item": "yes",
+     "note": "30+ job lot of 50s-60s Lesney Matchbox and Moko cars/trucks"
+    },
+    {
+     "aud_price": 127.9,
+     "date": "2026-10-07",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/198694844484",
+     "same_item": "yes",
+     "note": "Mega vintage Matchbox Lesney Superfast bulk lot"
+    },
+    {
+     "aud_price": 145.54,
+     "date": "2026-10-22",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/327405289715",
+     "same_item": "yes",
+     "note": "Lesney Matchbox X24 job lot playworn unboxed"
+    },
+    {
+     "aud_price": 19.31,
+     "date": "2026-11-06",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/336869573685",
+     "same_item": "yes",
+     "note": "22 vintage Lesney Matchbox cars play worn, low end"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 78.07,
+   "net_resale": 66.3595,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $78 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -4745,11 +4955,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:17:20 PM ADST",
-   "identification": "Tray of about 20 antique beech moulding planes (hollows, rounds, snipe bills etc, unmarked in photos) plus a brass-mounted wedge-arm sliding-arm plough plane with brass depth stop and brass-ferruled arms. No makers stamps visible.",
+   "identification": "Tray of about 20 antique beech moulding planes plus a brass-mounted sliding-arm (wedge-arm) plough plane; no makers stamps seen in photo",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'wooden moulding planes lot' and 'sliding arm plough plane brass'; also Carters sold lots categories planes-moulding and planes-plough",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 350.0,
@@ -4806,16 +5016,48 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=molding+planes",
      "same_item": "close",
      "note": "Plain boxes of about 11-12 planes, low end."
+    },
+    {
+     "aud_price": 85.38,
+     "date": "2026-11-04",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/267815557219",
+     "same_item": "yes",
+     "note": "Collection of 12 vintage wooden moulding planes"
+    },
+    {
+     "aud_price": 44.63,
+     "date": "2026-11-02",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/377601156866",
+     "same_item": "yes",
+     "note": "19 vintage wooden moulding planes, various styles"
+    },
+    {
+     "aud_price": 64.04,
+     "date": "2026-11-05",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/227009500086",
+     "same_item": "yes",
+     "note": "10 vintage antique wooden moulding planes"
+    },
+    {
+     "aud_price": 13.56,
+     "date": "2026-11-06",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/377605783037",
+     "same_item": "yes",
+     "note": "9 antique wooden moulding planes, low end"
     }
    ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 230.0,
-   "net_resale": 195.5,
+   "resale": 95.0,
+   "net_resale": 80.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $230 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $95 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -4828,11 +5070,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:19:00 PM ADST",
-   "identification": "Tray of about 13 old wooden planes: roughly 9 beech moulding/rebate planes, a wedge-arm plough plane with brass thumbscrew and depth stop (fence arms tied with string), a long jointer/fore plane with closed tote and inset striking button, and a coffin smoother. No maker stamps seen in photos (toes and ends not shown). Photos checked on contact sheet.",
+   "identification": "Tray of about 13 old wooden planes: beech moulding planes, wedge-arm plough plane with brass thumbscrew, long jointer with closed tote, coffin smoother; no maker stamps seen.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed listings: 'antique wooden plough plane' and 'wooden moulding planes lot' (Australia), last 90 days",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 360.0,
@@ -5010,11 +5252,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:27:00 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Wooden Vacuum Oil Company Pty Ltd crate (stencil legible, Made in Australia) holding a Stanley hand drill, grease gun, spanners and wire; crate is the main interest",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5022,8 +5264,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -5103,11 +5345,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:29:20 PM ADST",
-   "identification": "Hornby Railways (Margate, c.1974-78) Australian-outline electric set with VR B-class diesel and blue passenger cars (Spirit of Progress / Inter-Capital style, catalogue R.159/R.572/R.773 family), boxed, worn; plus boxed Bachmann Yard Boss (US N-scale-type starter set) and boxed Hornby Operating Royal Mail Coach, transformer, buildings, scenery.",
+   "identification": "Boxed Hornby Railways electric set with blue VR diesel and passenger cars (Spirit of Progress style), boxed Bachmann Yard Boss set, plus box of Hornby accessories, transformer, buildings, catalogue",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Hornby Railways Victorian Railways B class electric train set R.773 OR R.159 OR Spirit of Progress OO HO; also Carters archive for lot 843344 'Three Hornby model Railway sets including R.773 Spirit of Progress' (signed-in price).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 120.0,
@@ -5132,6 +5374,14 @@
      "url": "gowans id 402044",
      "same_item": "close",
      "note": "HORNBY PART TRAIN SET, 3 bids, hammer. Database hit."
+    },
+    {
+     "aud_price": 324.3,
+     "date": "2026-10-20",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/206615332559",
+     "same_item": "yes",
+     "note": "Vintage Hornby Railways electric train set Spirit of Progress R773; condition/completeness not checked, this lot also has Bachmann set and extras"
     }
    ],
    "sold_old": [],
@@ -5146,11 +5396,11 @@
      "note": "Used Hornby Railways Freight Express set, not VR outline. Snippet only (page blocked by security check). Asking price."
     }
    ],
-   "resale": 120.0,
-   "net_resale": 102.0,
+   "resale": 130.0,
+   "net_resale": 110.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $120 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -5163,11 +5413,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:30:00 PM ADST",
-   "identification": "Two unmarked 19th century style wooden plough planes (brass-tipped arms, thumbscrews, one iron fitted), a rusty No 4 size bench plane (Bailey-pattern, maker not legible) and a cast spokeshave. Plough planes are plain beech types, not the ivory/rosewood/boxwood fancy kind.",
+   "identification": "Two unmarked beech wooden plough planes with brass-tipped arms, a Bailey-pattern No 4 style bench plane (rusty) and a cast spokeshave.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: 'wooden plough plane brass' and 'antique plough plane' (sold, completed items, Australia); also carters.com.au plough planes price guide",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 230.0,
@@ -5206,11 +5456,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:33:20 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Box of chrome bar spirit optics with glass domes (Bowkers Opal style) on clamp brackets, 4 spare glass domes, oak and silver plate biscuit barrel with shield",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5218,8 +5468,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -5232,11 +5482,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:33:40 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Two chrome-rimmed white/grey turbine-style 14in wheel covers with blue centre badge (badge looks like an A or similar, not clearly a Holden lion), plus a Cascade Premium Light bar runner and two used clay crucible cones; hubcaps rusty/scuffed",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5244,8 +5494,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -5384,11 +5634,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:40:00 PM ADST",
-   "identification": "Husqvarna K970 petrol power cutter (demo saw), 350mm diamond blade fitted plus spare blue blade; model plate K970 confirmed in photos. Heavily dusty, orange body worn, running condition unknown.",
+   "identification": "Husqvarna K970 petrol power cutter (model plate K970 visible) with 350mm diamond blade fitted, heavily dusty, orange body worn, condition and running unknown",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au: Husqvarna K970 power cutter, filters Sold items and Australia, last 90 days; also Gumtree K970 sold/used",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 280.0,
@@ -5429,6 +5679,14 @@
      "url": "gowans lot id 384705 (STIHL CONCRETE CUTTING SAW - AS IS)",
      "same_item": "close",
      "note": "Sold as is, 3 bids; low end for a dud. Database hit, not opened."
+    },
+    {
+     "aud_price": 899.0,
+     "date": "2026-10-08",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/158175558968",
+     "same_item": "yes",
+     "note": "Pre-owned Husqvarna K970 4.8kW concrete saw, titled 16in (400mm), BIN, condition and whether running not checked; well above the Found-so-far figures"
     }
    ],
    "sold_old": [],
@@ -5451,11 +5709,11 @@
      "note": "New retail K970 16 inch, blades extra; snippet only. Shows how much a working used unit is worth against new."
     }
    ],
-   "resale": 160.0,
-   "net_resale": 136.0,
+   "resale": 195.0,
+   "net_resale": 165.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $195 does not clear the current bid $0",
    "priority": false
   }
  ]

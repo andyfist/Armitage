@@ -1,7 +1,7 @@
 {
  "cdid": 3112482,
  "lot": 1454,
- "identification": "Stihl MS 170 petrol chainsaw with 14in MiniBoss bar and Stihl bar cover. Photos confirm model decal; bar rusty, body clean.",
+ "identification": "Stihl MS 170 petrol chainsaw with 14in MiniBoss bar and Stihl orange bar cover; model decal visible, bar rusty, body clean",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,48 @@
    "url": "https://www.gumtree.com.au/s-stihl+ms+170+chainsaw/k0",
    "same_item": "close",
    "note": "Used asking range, snippet only, not verified; e.g. $150 Brisbane, $200 Kilmore excellent. Aud_price is a representative midpoint-low."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$102.50",
+   "currency": "AUD",
+   "aud_price": 102.5,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/860067547650",
+   "same_item": "yes",
+   "note": "Stihl MS170 16in petrol chainsaw, pre-owned, 21 bids, pick up welcome, started at $1",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$207.40",
+   "currency": "AUD",
+   "aud_price": 207.4,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/940029794815",
+   "same_item": "yes",
+   "note": "Stihl MS170 Chainsaw pre-owned, listing was Buy It Now or Best Offer, so actual accepted price may differ; condition not checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$76.97",
+   "currency": "AUD",
+   "aud_price": 76.97,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/287695632079",
+   "same_item": "partial",
+   "note": "MS170 sold as parts only (does fire), Best Offer accepted",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version errored; work version used) for stihl 170, stihl chainsaw; Gowans API search stihl ms 170 / ms170; one WebSearch for retail and used prices. No Armitage lookups. eBay sold would help but is closed to us.",
+ "searches_tried": "comps.py (pipeline version errored; work version used) for stihl 170, stihl chainsaw; Gowans API search stihl ms 170 / ms170; one WebSearch for retail and used prices. No Armitage lookups. eBay sold would help but is closed to us. | chrome: eBay AU sold: stihl ms 170 chainsaw (60 matches, mostly parts, filtered to whole saws; the first two attempts hit error pages)",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Pull the cord to check compression and that it starts; check chain and bar condition and the rust extent. Photos do not show running.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Pull the cord for compression, check chain brake, bar condition and that the bar and cover go with it.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

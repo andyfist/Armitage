@@ -1,9 +1,126 @@
-{"cdid":3112760,"lot":1919,"identification":"Three green enamel industrial dome pendant shades (factory/warehouse style, likely mid-20th century, Thorlux/Benjamin type, no maker mark seen) with conduit fittings, one with old wiring. Photo shows glossy enamel with no obvious chips from outside; two shades look about 40cm diameter, one has a flatter wider rim.","entries":[
-{"kind":"SOLD","price":"$45 hammer","currency":"AUD","aud_price":45,"date":"2025-10-13","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=green+enamel+industrial (lot id 368018)","same_item":"yes","note":"3 GREEN ENAMEL INDUSTRIAL LIGHTS/SHADES & SPARE GLOBE, 3 bids, no description or photo checked; premium extra. Local database result. Closest match, a set of three at only $45 hammer."},
-{"kind":"SOLD","price":"$145 hammer","currency":"AUD","aud_price":145,"date":"2026-09-20","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=industrial+lights (lot id 439850)","same_item":"close","note":"3 LARGE INDUSTRIAL LIGHTS, 5 bids; colour/material not stated, local database result. Premium extra."},
-{"kind":"SOLD","price":"$160 hammer","currency":"AUD","aud_price":160,"date":"2026-03-23","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=industrial+light+shades (lot id 398821)","same_item":"close","note":"2 INDUSTRIAL LIGHT SHADES, 9 bids; type/colour not stated. Other pairs: $100 (2026-03-16, id 397810), $90 (2026-02-15, id 391221)."},
-{"kind":"SOLD","price":"$50 hammer","currency":"AUD","aud_price":50,"date":"2026-06-21","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=enamel+shades (lot id 418771)","same_item":"close","note":"2 ENAMEL INDUSTRIAL LIGHT SHADES, 3 bids. Another pair $50 (2026-06-14, id 417151, 0 bids); single $50 (2026-01-19, id 384418); single $40 (2026-01-26, id 386623). All local database, premium extra."},
-{"kind":"ASKING","price":"AU$148.04 or best offer (one shade)","currency":"AUD","aud_price":148.04,"date":"live, seen 2026-11-06","venue":"eBay Australia","url":"https://www.ebay.com.au/itm/222643673518","same_item":"category guide","note":"Factory green enamel shade pendant, snippet only. Asking price for a single, probably reproduction or new-old stock."},
-{"kind":"ASKING","price":"about AU$60 to AU$234 per shade","currency":"AUD","aud_price":60,"date":"live, seen 2026-11-06","venue":"Etsy Australia","url":"https://www.etsy.com/au/listing/4549346630/vintage-green-enamel-industrial-lamp","same_item":"category guide","note":"Snippet only (page returned 403). Retail asking prices for singles, not prices paid."}
-],
-"searches_tried":"comps.py (pipeline and work) with green enamel, enamel industrial shade, industrial light, factory pendant; Gowans API enamel shades / industrial lights; WebSearch for Australian auction results and site:armitage (nothing). No Armitage past results found. eBay sold listings would settle retail demand (closed to us). Rate: AUD only, no conversion.","needs_chrome":true,"chrome_hint":"eBay AU sold listings: vintage green enamel industrial factory light shade (set of 3 / pair)","viewing_check":"Check for chips or rust through the enamel on the rims and inside, cracks, dents, white interior condition, any maker stamp (Thorlux, Benjamin, Revo) inside the neck, and whether fittings are complete. Photograph the interiors."}
+{
+ "cdid": 3112760,
+ "lot": 1919,
+ "identification": "Three green enamel industrial dome pendant shades, two similar about 40cm, one flatter wider; conduit fittings, one with old wiring; glossy, no obvious chips.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2025-10-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=green+enamel+industrial (lot id 368018)",
+   "same_item": "yes",
+   "note": "3 GREEN ENAMEL INDUSTRIAL LIGHTS/SHADES & SPARE GLOBE, 3 bids, no description or photo checked; premium extra. Local database result. Closest match, a set of three at only $45 hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$145 hammer",
+   "currency": "AUD",
+   "aud_price": 145,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=industrial+lights (lot id 439850)",
+   "same_item": "close",
+   "note": "3 LARGE INDUSTRIAL LIGHTS, 5 bids; colour/material not stated, local database result. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-03-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=industrial+light+shades (lot id 398821)",
+   "same_item": "close",
+   "note": "2 INDUSTRIAL LIGHT SHADES, 9 bids; type/colour not stated. Other pairs: $100 (2026-03-16, id 397810), $90 (2026-02-15, id 391221)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-06-21",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=enamel+shades (lot id 418771)",
+   "same_item": "close",
+   "note": "2 ENAMEL INDUSTRIAL LIGHT SHADES, 3 bids. Another pair $50 (2026-06-14, id 417151, 0 bids); single $50 (2026-01-19, id 384418); single $40 (2026-01-26, id 386623). All local database, premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$148.04 or best offer (one shade)",
+   "currency": "AUD",
+   "aud_price": 148.04,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay Australia",
+   "url": "https://www.ebay.com.au/itm/222643673518",
+   "same_item": "category guide",
+   "note": "Factory green enamel shade pendant, snippet only. Asking price for a single, probably reproduction or new-old stock."
+  },
+  {
+   "kind": "ASKING",
+   "price": "about AU$60 to AU$234 per shade",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "live, seen 2026-11-06",
+   "venue": "Etsy Australia",
+   "url": "https://www.etsy.com/au/listing/4549346630/vintage-green-enamel-industrial-lamp",
+   "same_item": "category guide",
+   "note": "Snippet only (page returned 403). Retail asking prices for singles, not prices paid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$115",
+   "currency": "AUD",
+   "aud_price": 115,
+   "date": "2026-08-20",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318670416233",
+   "same_item": "partial",
+   "note": "Single vintage green enamel industrial light shade",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$105",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-08-20",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318670416184",
+   "same_item": "partial",
+   "note": "Single vintage green enamel industrial light shade",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$94.50",
+   "currency": "AUD",
+   "aud_price": 94.5,
+   "date": "2026-10-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257353319694",
+   "same_item": "partial",
+   "note": "Single vintage green enamel industrial shade (Mancave/workshop)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$260",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/406219468550",
+   "same_item": "partial",
+   "note": "Vintage green porcelain enamel Benjamin industrial shade, likely single or pair, branded",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with green enamel, enamel industrial shade, industrial light, factory pendant; Gowans API enamel shades / industrial lights; WebSearch for Australian auction results and site:armitage (nothing). No Armitage past results found. eBay sold listings would settle retail demand (closed to us). Rate: AUD only, no conversion. | chrome: eBay AU sold: vintage green enamel industrial light shade (AU only)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: vintage green enamel industrial factory light shade (set of 3 / pair)",
+ "viewing_check": "Look for maker stamps (Benjamin, Thorlux, Coolicon), chips and rust at rims and neck, size of each shade, gallery fittings.",
+ "chrome_done": true
+}

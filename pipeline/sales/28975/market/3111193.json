@@ -1,7 +1,7 @@
 {
  "cdid": 3111193,
  "lot": 931,
- "identification": "Six circulated Australian 1966 round 50c coins (80% silver, one-year type), one toned gold-brown; about 80g fine silver. Dates not visible but round type is 1966 only.",
+ "identification": "6 x Australian 1966 round 50c (80% silver) coins, circulated.",
  "entries": [
   {
    "kind": "SOLD",
@@ -134,11 +134,60 @@
    "url": "https://api.gold-api.com/price/XAG",
    "same_item": "category guide",
    "note": "Melt only, page opened. Rate 1 USD = 1.4376 AUD (open.er-api.com). About AUD 74/oz; 6 coins x 13.3g = 80g = 2.57oz, melt about AUD 190 before dealer discount. Floor, not a sale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$265.70",
+   "currency": "AUD",
+   "aud_price": 265.7,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/920107323758",
+   "same_item": "partial",
+   "note": "8 x 1966 round 50c coins, Buy It Now, listing condition not checked (about A$33 each)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80.20",
+   "currency": "AUD",
+   "aud_price": 80.2,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/960140089926",
+   "same_item": "partial",
+   "note": "2 x 1966 round 50c, 2 bids (A$40 each)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$35.68",
+   "currency": "AUD",
+   "aud_price": 35.68,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/960153914788",
+   "same_item": "partial",
+   "note": "single 1966 round 50c, BIN",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.90",
+   "currency": "AUD",
+   "aud_price": 42.9,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/256466366925",
+   "same_item": "partial",
+   "note": "single 1966 round 50c, BIN",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed; work version used, 12 hits), Gowans API detail for each hit, silver spot. Gowans per-coin hammer is steady at about $30-47; six-coin lot $280 in Feb, five-coin lots $170-200 so six coins likely about $200-240 hammer. No web search needed beyond this; eBay sold would add retail cross-check.",
+ "searches_tried": "comps.py (pipeline version crashed; work version used, 12 hits), Gowans API detail for each hit, silver spot. Gowans per-coin hammer is steady at about $30-47; six-coin lot $280 in Feb, five-coin lots $170-200 so six coins likely about $200-240 hammer. No web search needed beyond this; eBay sold would add retail cross-check. | chrome: eBay AU sold: '1966 round 50 cent coin australia' (error page), '1966 round fifty cent' (worked)",
  "needs_chrome": false,
  "chrome_hint": "",
  "rate_note": "USD to AUD 1.4376 (open.er-api.com, 2026-11-06); Gowans prices already AUD.",
- "viewing_check": "Check dates on obverse are all 1966 and none are worn flat or damaged; confirm all six are round 50c (not 1969+ dodecagonal) and the toned coin is not plated or cleaned."
+ "viewing_check": "Confirm all 6 are 1966 round type (not 1966 12-sided), condition and toning. Singles clear about A$35-47 each so six is roughly A$210-280 retail, in line with Gowans.",
+ "chrome_done": true
 }

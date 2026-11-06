@@ -1,9 +1,90 @@
-{"cdid":3111115,"lot":853,"identification":"Penfolds St Henri Shiraz 2006, single 750ml bottle, screwcap, red capsule, label clean, vendor sticker 4434/12. Langtons Classified Outstanding wine.","entries":[
-{"kind":"SOLD","price":"$100 hammer","currency":"AUD","aud_price":100,"date":"2026-09-27 (listed)","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=st+henri&page%5Bnumber%5D=1","same_item":"close","note":"Page opened (API). Local DB labelled it 2006 but the Gowans title reads 2017 vintage, 17 bids, so it is a different vintage; premium extra. Same Tasmanian buyer pool."},
-{"kind":"SOLD","price":"$515 (1.5L magnum, premium 15% extra)","currency":"AUD","aud_price":515,"date":"2023-11-21","venue":"Grays Online","url":"https://www.grays.com/lot/0057-10725451/private-cellar/www.penfolds.com","same_item":"close","note":"Page opened. 2006 vintage but a magnum (2 bottles equivalent, 140 bids), so roughly $250 per 750ml equivalent; magnums carry a premium. Old and not a like-for-like."},
-{"kind":"SOLD","price":"$72","currency":"AUD","aud_price":72,"date":"2015 (approx, undated)","venue":"Wickman auction history page","url":"https://wickman.net.au/wines/penfolds_st_henri.aspx","same_item":"yes","note":"Snippet only. Old, page now redirects. Not verified."},
-{"kind":"SOLD","price":"$56 current bid, 9 bids","currency":"AUD","aud_price":56,"date":"unknown","venue":"Grays Online","url":"https://www.grays.com/lot/0031-10730593/private-cellar/www.penfolds.com","same_item":"yes","note":"Snippet only. Final price and date not shown, treat as unverified low data point."},
-{"kind":"SOLD","price":"$130 (2004 vintage, single); $102 (2014)","currency":"AUD","aud_price":130,"date":"2025-04-29","venue":"Grays Online","url":"https://www.grays.com/lot/0026-10736704/private-cellar/www.penfolds.com","same_item":"category guide","note":"Snippet only, summary from search; other vintages, shows St Henri singles around $100-130 in 2025."},
-{"kind":"ASKING","price":"$159.99","currency":"AUD","aud_price":159.99,"date":"live, seen 2026-11-06","venue":"Nicks Wine Merchants","url":"https://www.nicks.com.au/products/2006-penfolds-st-henri-shiraz","same_item":"yes","note":"Snippet only (page 403). Retail ask for 2006, retail sits above auction hammer."},
-{"kind":"ASKING","price":"GBP 85 per bottle; GBP 1,317 per 6 (about GBP 220 each, trade)","currency":"GBP","aud_price":165,"date":"live, seen 2026-11-06","venue":"Squelch / Bordeaux Index","url":"https://bordeauxindex.com/fine-wine/australia/south_australia/pensh-2006","same_item":"yes","note":"Snippet only. Rate about 1 GBP = 1.95 AUD assumed for the GBP 85 figure; UK duty-paid, not comparable to Tasmanian hammer."}
-],"searches_tried":"comps.py (pipeline errored on a null row; work/comps.py returned 1 hit, a 2017 not 2006), Gowans API st henri and penfolds st henri, WebSearch x3 on 2006 St Henri auction results, fetched Grays lot, Nicks (403), Dan Murphys (no price), Wickman (redirect). Not tried: Langtons, wineowners direct, eBay/Wine-Searcher (closed). Wine-Searcher auction history would help settle it.","needs_chrome":true,"chrome_hint":"Wine-Searcher: Penfolds St Henri Shiraz 2006 750ml, Auction Prices tab (Australia, last 24 months); also eBay sold: Penfolds St Henri 2006","viewing_check":"Check fill level in the neck, capsule and label for stains or seepage, and any signs of storage damage; confirm vintage 2006 and screwcap on the back label. Photos otherwise look good.","rate_note":"AUD figures as shown; GBP at about 1.95 AUD."}
+{
+ "cdid": 3111115,
+ "lot": 853,
+ "identification": "Penfolds St Henri Shiraz 750ml, screwcap, red capsule; vintage on label hard to read in photo (looks like 2001 or 2006), vendor sticker 4434/12",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-09-27 (listed)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=st+henri&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Page opened (API). Local DB labelled it 2006 but the Gowans title reads 2017 vintage, 17 bids, so it is a different vintage; premium extra. Same Tasmanian buyer pool."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$515 (1.5L magnum, premium 15% extra)",
+   "currency": "AUD",
+   "aud_price": 515,
+   "date": "2023-11-21",
+   "venue": "Grays Online",
+   "url": "https://www.grays.com/lot/0057-10725451/private-cellar/www.penfolds.com",
+   "same_item": "close",
+   "note": "Page opened. 2006 vintage but a magnum (2 bottles equivalent, 140 bids), so roughly $250 per 750ml equivalent; magnums carry a premium. Old and not a like-for-like."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$72",
+   "currency": "AUD",
+   "aud_price": 72,
+   "date": "2015 (approx, undated)",
+   "venue": "Wickman auction history page",
+   "url": "https://wickman.net.au/wines/penfolds_st_henri.aspx",
+   "same_item": "yes",
+   "note": "Snippet only. Old, page now redirects. Not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$56 current bid, 9 bids",
+   "currency": "AUD",
+   "aud_price": 56,
+   "date": "unknown",
+   "venue": "Grays Online",
+   "url": "https://www.grays.com/lot/0031-10730593/private-cellar/www.penfolds.com",
+   "same_item": "yes",
+   "note": "Snippet only. Final price and date not shown, treat as unverified low data point."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 (2004 vintage, single); $102 (2014)",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2025-04-29",
+   "venue": "Grays Online",
+   "url": "https://www.grays.com/lot/0026-10736704/private-cellar/www.penfolds.com",
+   "same_item": "category guide",
+   "note": "Snippet only, summary from search; other vintages, shows St Henri singles around $100-130 in 2025."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$159.99",
+   "currency": "AUD",
+   "aud_price": 159.99,
+   "date": "live, seen 2026-11-06",
+   "venue": "Nicks Wine Merchants",
+   "url": "https://www.nicks.com.au/products/2006-penfolds-st-henri-shiraz",
+   "same_item": "yes",
+   "note": "Snippet only (page 403). Retail ask for 2006, retail sits above auction hammer."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 85 per bottle; GBP 1,317 per 6 (about GBP 220 each, trade)",
+   "currency": "GBP",
+   "aud_price": 165,
+   "date": "live, seen 2026-11-06",
+   "venue": "Squelch / Bordeaux Index",
+   "url": "https://bordeauxindex.com/fine-wine/australia/south_australia/pensh-2006",
+   "same_item": "yes",
+   "note": "Snippet only. Rate about 1 GBP = 1.95 AUD assumed for the GBP 85 figure; UK duty-paid, not comparable to Tasmanian hammer."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline errored on a null row; work/comps.py returned 1 hit, a 2017 not 2006), Gowans API st henri and penfolds st henri, WebSearch x3 on 2006 St Henri auction results, fetched Grays lot, Nicks (403), Dan Murphys (no price), Wickman (redirect). Not tried: Langtons, wineowners direct, eBay/Wine-Searcher (closed). Wine-Searcher auction history would help settle it. | chrome: eBay AU sold: penfolds st henri 2006 (only 1997 at A$222 BIN and empty boxes, no 2006 match); st henri shiraz 2006 (error page, not retried); Wine-Searcher not tried (light mode)",
+ "needs_chrome": false,
+ "chrome_hint": "Wine-Searcher: Penfolds St Henri Shiraz 2006 750ml, Auction Prices tab (Australia, last 24 months); also eBay sold: Penfolds St Henri 2006",
+ "viewing_check": "Read the vintage on the label carefully (photo looks like it could say 2001, not 2006); check fill level, label condition and capsule.",
+ "rate_note": "AUD figures as shown; GBP at about 1.95 AUD.",
+ "chrome_done": true
+}

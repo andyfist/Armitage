@@ -1,8 +1,104 @@
-{"cdid":3111150,"lot":888,"identification":"R. Andrew Mather, Family Draper, Hobart Town penny token, undated (c.1855-63), Andrews 357. Common Tasmanian tradesman's token; in about VF the type is a low-value piece.","entries":[
-{"kind":"SOLD","price":"$15 hammer","currency":"AUD","aud_price":15,"date":"2026-06-14","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/ (Gowans lot id 416131)","same_item":"yes","note":"HOBART TOWN TOKEN - R ANDREW MATHER, 5 bids; condition unknown; from local comps database, premium extra"},
-{"kind":"SOLD","price":"$90 hammer (H Lipscombe)","currency":"AUD","aud_price":90,"date":"2026-06-14","venue":"Gowans Auctions, Hobart","url":"Gowans lot id 416128","same_item":"category guide","note":"Different Hobart issuer, same sale; 7 bids"},
-{"kind":"SOLD","price":"$80-130 hammer (Hobart Town penny tokens, various)","currency":"AUD","aud_price":80,"date":"2025-10 to 2025-12","venue":"Gowans Auctions, Hobart","url":"Gowans ids 371805, 380223, 382275","same_item":"category guide","note":"Unnamed Hobart Town penny tokens; 29 Gowans token hits had median $55, range $5-130"},
-{"kind":"SOLD","price":"GBP 50 hammer each (3 Robert Andrew Mather pennies lots)","currency":"GBP","aud_price":96,"date":"2012-12-06","venue":"Noonans (UK)","url":"https://www.noonans.co.uk/auctions/archive/past-catalogues/264/catalogue/","same_item":"yes","note":"Snippet only; old, grade not seen; rate about 1.92 AUD/GBP at the time loosely, not verified"},
-{"kind":"ASKING","price":"AUD 240 (Jarvey penny, aVF)","currency":"AUD","aud_price":240,"date":"live, seen 2026-11-06","venue":"Colonial Collectables","url":"https://www.colonialcollectables.com/product/old-hobart-town-token/","same_item":"category guide","note":"Page opened; Jarvey not Mather, dealer asking, scarcer issuer"},
-{"kind":"ASKING","price":"USD 60-100 estimate (Mather, NGC AU-58)","currency":"USD","aud_price":110,"date":"2026-09-08","venue":"Stack's Bowers","url":"https://www.coinarchives.com/w/results.php?results=100&search=hobart","same_item":"close","note":"Snippet only; far higher grade (AU58) than this lot; estimate, the USD 140 figure was unlabelled; rate about 1.5 AUD/USD"}
-],"searches_tried":"comps.py (pipeline errored; work/comps.py worked) for Mather, Hobart token, Tasmania penny token; Gowans API search 'mather' (one hit); WebSearch x2 (Mather A.357 sold; Noble/Carters/Downies); WebFetch of Colonial Collectables. No Noble Mather result found. Noble archive or eBay sold (closed to us) would settle better.","needs_chrome":true,"chrome_hint":"eBay sold: 'R Andrew Mather penny token Hobart Town' and Noble Numismatics prices realised 'Mather penny'","viewing_check":"Check grade (wear on figure and ship), any dents or holes, and that the ticket matches the token; nothing else changes value much.","rate_note":"GBP 1=1.92 AUD loose, USD 1=1.5 AUD, unverified","chrome_hint_extra":""}
+{
+ "cdid": 3111150,
+ "lot": 888,
+ "identification": "R. Andrew Mather, Family Draper, Hobart Town copper penny token (Andrews/Renniks R351 style), in flip; grade looks about VF with chocolate patina",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$15 hammer",
+   "currency": "AUD",
+   "aud_price": 15,
+   "date": "2026-06-14",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (Gowans lot id 416131)",
+   "same_item": "yes",
+   "note": "HOBART TOWN TOKEN - R ANDREW MATHER, 5 bids; condition unknown; from local comps database, premium extra"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer (H Lipscombe)",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-06-14",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "Gowans lot id 416128",
+   "same_item": "category guide",
+   "note": "Different Hobart issuer, same sale; 7 bids"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80-130 hammer (Hobart Town penny tokens, various)",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2025-10 to 2025-12",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "Gowans ids 371805, 380223, 382275",
+   "same_item": "category guide",
+   "note": "Unnamed Hobart Town penny tokens; 29 Gowans token hits had median $55, range $5-130"
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 50 hammer each (3 Robert Andrew Mather pennies lots)",
+   "currency": "GBP",
+   "aud_price": 96,
+   "date": "2012-12-06",
+   "venue": "Noonans (UK)",
+   "url": "https://www.noonans.co.uk/auctions/archive/past-catalogues/264/catalogue/",
+   "same_item": "yes",
+   "note": "Snippet only; old, grade not seen; rate about 1.92 AUD/GBP at the time loosely, not verified"
+  },
+  {
+   "kind": "ASKING",
+   "price": "AUD 240 (Jarvey penny, aVF)",
+   "currency": "AUD",
+   "aud_price": 240,
+   "date": "live, seen 2026-11-06",
+   "venue": "Colonial Collectables",
+   "url": "https://www.colonialcollectables.com/product/old-hobart-town-token/",
+   "same_item": "category guide",
+   "note": "Page opened; Jarvey not Mather, dealer asking, scarcer issuer"
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 60-100 estimate (Mather, NGC AU-58)",
+   "currency": "USD",
+   "aud_price": 110,
+   "date": "2026-09-08",
+   "venue": "Stack's Bowers",
+   "url": "https://www.coinarchives.com/w/results.php?results=100&search=hobart",
+   "same_item": "close",
+   "note": "Snippet only; far higher grade (AU58) than this lot; estimate, the USD 140 figure was unlabelled; rate about 1.5 AUD/USD"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$21.89",
+   "currency": "AUD",
+   "aud_price": 21.89,
+   "date": "2026-09-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168324408211",
+   "same_item": "yes",
+   "note": "Circa 1855 Mather penny token; grade unknown",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90.00",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-09-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257410737525",
+   "same_item": "yes",
+   "note": "R. Andrew Mather penny token Hobart R351; grade not checked",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline errored; work/comps.py worked) for Mather, Hobart token, Tasmania penny token; Gowans API search 'mather' (one hit); WebSearch x2 (Mather A.357 sold; Noble/Carters/Downies); WebFetch of Colonial Collectables. No Noble Mather result found. Noble archive or eBay sold (closed to us) would settle better. | chrome: eBay AU sold: andrew mather penny token hobart (error page), mather hobart penny token. Noble Numismatics not searched (light mode).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: 'R Andrew Mather penny token Hobart Town' and Noble Numismatics prices realised 'Mather penny'",
+ "viewing_check": "Check grade (wear on lettering, edge knocks, cleaning, verdigris) and the reverse; confirm Mather undated type.",
+ "rate_note": "GBP 1=1.92 AUD loose, USD 1=1.5 AUD, unverified",
+ "chrome_hint_extra": "",
+ "chrome_done": true
+}

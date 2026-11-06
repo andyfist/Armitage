@@ -1,1 +1,82 @@
-{"cdid":3112797,"lot":1956,"identification":"Iketa DGN-198 silent-canopy diesel generator, 455cc air-cooled single cylinder (198-class engine), 6.2kW rated / 7.4kW peak, three phase plate, electric key start, 16L tank, 12V battery fitted. Generic import brand, no retail listing found.","entries":[{"kind":"SOLD","price":"$620 hammer (premium extra), 9 bids","currency":"AUD","aud_price":620,"date":"2026-05-31","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=diesel+generator (lot id 414264)","same_item":"close","note":"Dunlite 6.8KVA diesel generator, starts and runs but governor issue under load; similar size class, a known brand, working with a fault. Found in local database and Gowans API (API result opened). AUD, no conversion."},{"kind":"ASKING","price":"$1,536.36 ex GST (listing 'Portable Diesel Standby Generators 240V & 415V', Darra QLD)","currency":"AUD","aud_price":1536,"date":"live, seen 2026-11-06 (listed 24/06/2026)","venue":"Farmtender (dealer listing)","url":"https://www.farmtender.com.au/listing/machinery-equipment/generators--2/commodore-6-25kva-silent-diesel-generator-with-ats-and-remote","same_item":"category guide","note":"Page opened but the fetch returned a listing index, not the detail page, so spec and new/used status unverified. Likely a new dealer import unit; a dealer price, not a price paid."},{"kind":"ASKING","price":"$1,600 ex GST (7.5 KVA Dunlite generator, Dalton's Bridge VIC)","currency":"AUD","aud_price":1600,"date":"live, seen 2026-11-06 (listed 03/09/2026)","venue":"Farmtender (private/dealer listing)","url":"https://www.farmtender.com.au/listing/machinery-equipment/generators--2/commodore-6-25kva-silent-diesel-generator-with-ats-and-remote","same_item":"category guide","note":"Index page only; fuel type not stated, may be petrol. Asking price only, weak guide."}],"searches_tried":"comps.py pipeline (crashed on a None field) and work/comps.py (diesel generator, generator diesel, silent diesel, kva diesel, iketa: one hit only); Gowans API diesel generator (one sold hit); WebSearch for Iketa DGN-198 price, site:armitage diesel generator, 6kva silent diesel generator Australian auction hammer (no sold prices found); Commodore and Machines4U fetches (index only / 410). No Iketa retail listing found, so new price unknown. eBay sold prices (Iketa DGN-198, Iketa 6.2kW diesel generator) and Gumtree/Facebook would settle it better. Rate note: all AUD.","needs_chrome":true,"chrome_hint":"eBay Australia sold items: Iketa DGN-198 diesel generator; also 'silent diesel generator 6kva 3 phase' sold listings","rate_note":"All prices AUD, no conversion used.","viewing_check":"Start it and run under load if allowed; check hour meter reading, model/serial plate and fuel/oil condition, battery, any leaks or canopy damage; confirm whether three phase 415V outlet is present (panel shows 20A 5-pin outlet and 240V blanks)."}
+{
+ "cdid": 3112797,
+ "lot": 1956,
+ "identification": "Iketa DGN-198 silent-canopy diesel generator, three/single phase, electric start, on pallet; photo shows used condition with worn canopy paint",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$620 hammer (premium extra), 9 bids",
+   "currency": "AUD",
+   "aud_price": 620,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=diesel+generator (lot id 414264)",
+   "same_item": "close",
+   "note": "Dunlite 6.8KVA diesel generator, starts and runs but governor issue under load; similar size class, a known brand, working with a fault. Found in local database and Gowans API (API result opened). AUD, no conversion."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,536.36 ex GST (listing 'Portable Diesel Standby Generators 240V & 415V', Darra QLD)",
+   "currency": "AUD",
+   "aud_price": 1536,
+   "date": "live, seen 2026-11-06 (listed 24/06/2026)",
+   "venue": "Farmtender (dealer listing)",
+   "url": "https://www.farmtender.com.au/listing/machinery-equipment/generators--2/commodore-6-25kva-silent-diesel-generator-with-ats-and-remote",
+   "same_item": "category guide",
+   "note": "Page opened but the fetch returned a listing index, not the detail page, so spec and new/used status unverified. Likely a new dealer import unit; a dealer price, not a price paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,600 ex GST (7.5 KVA Dunlite generator, Dalton's Bridge VIC)",
+   "currency": "AUD",
+   "aud_price": 1600,
+   "date": "live, seen 2026-11-06 (listed 03/09/2026)",
+   "venue": "Farmtender (private/dealer listing)",
+   "url": "https://www.farmtender.com.au/listing/machinery-equipment/generators--2/commodore-6-25kva-silent-diesel-generator-with-ats-and-remote",
+   "same_item": "category guide",
+   "note": "Index page only; fuel type not stated, may be petrol. Asking price only, weak guide."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,749",
+   "currency": "AUD",
+   "aud_price": 1749,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/154923717516",
+   "same_item": "partial",
+   "note": "New 8500W silent diesel generator, electric key start, Buy It Now (struck-through list A$2,915); brand not confirmed Iketa, new and larger; category guide for a new price ceiling only",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,749",
+   "currency": "AUD",
+   "aud_price": 1749,
+   "date": "2026-10-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/154288574302",
+   "same_item": "partial",
+   "note": "New 9000W diesel generator key start, same seller style, new and larger",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$500",
+   "currency": "AUD",
+   "aud_price": 500,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/154166135481",
+   "same_item": "partial",
+   "note": "New IKETA 2500W petrol inverter generator (list A$831), different fuel and size, shows Iketa clearance prices on eBay AU",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py pipeline (crashed on a None field) and work/comps.py (diesel generator, generator diesel, silent diesel, kva diesel, iketa: one hit only); Gowans API diesel generator (one sold hit); WebSearch for Iketa DGN-198 price, site:armitage diesel generator, 6kva silent diesel generator Australian auction hammer (no sold prices found); Commodore and Machines4U fetches (index only / 410). No Iketa retail listing found, so new price unknown. eBay sold prices (Iketa DGN-198, Iketa 6.2kW diesel generator) and Gumtree/Facebook would settle it better. Rate note: all AUD. | chrome: eBay AU sold: iketa diesel generator (55 matches, mostly new units, read first 7; no used DGN-198 sold found). No LH_Complete used because of errors.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold items: Iketa DGN-198 diesel generator; also 'silent diesel generator 6kva 3 phase' sold listings",
+ "rate_note": "All prices AUD, no conversion used.",
+ "viewing_check": "Ask for a start and run test under load if possible; check hour meter, battery, oil leaks, canopy damage and which phase outputs work. Used 6kW-class diesel units appear to resell well above the current bid.",
+ "chrome_done": true
+}

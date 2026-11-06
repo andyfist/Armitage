@@ -1,7 +1,7 @@
 {
  "cdid": 3112314,
  "lot": 1408,
- "identification": "Golden Fleece 1 Imp. gallon rectangular tin, ram logo, H.C. Sleigh Limited, labelled ALSO CHRYSLER M/S 3256 and AQ-ATF-1681-A Type A Suffix-A (automatic transmission fluid). Yellow over blue, top rusty and spotted, side labels bright.",
+ "identification": "Golden Fleece 1 Imp. gallon tin, ram logo, H.C. Sleigh, ATF-labelled, rusty top, bright side labels",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,72 @@
    "url": "https://www.xxxxantiques.com.au/gallery/display/19329-golden-fleece-one-gallon-motor-oil-tin-",
    "same_item": "close",
    "note": "Page opened. Dealer asking price, not a price paid; design unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$73.00",
+   "currency": "AUD",
+   "aud_price": 73,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/307250834276",
+   "same_item": "partial",
+   "note": "Vintage H.C. Sleigh Golden Fleece Lubricants 1 gallon tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70.00",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-10-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227547140898",
+   "same_item": "partial",
+   "note": "Vintage Golden Fleece 1 gallon oil can",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.40",
+   "currency": "AUD",
+   "aud_price": 48.4,
+   "date": "2026-10-31",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/840054680986",
+   "same_item": "partial",
+   "note": "Golden Fleece vintage 1 gallon petroleum oil tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$127.90",
+   "currency": "AUD",
+   "aud_price": 127.9,
+   "date": "2026-10-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/960082103383",
+   "same_item": "partial",
+   "note": "Golden Fleece Supreme Motor Oil 1 gallon; oil not ATF",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$199.99",
+   "currency": "AUD",
+   "aud_price": 199.99,
+   "date": "2026-10-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298690983028",
+   "same_item": "partial",
+   "note": "Golden Fleece Multi-Compounded Motor Oil 1 Imp gallon; upper end, condition unknown",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed; work version run for golden fleece gallon/tin/oil), Gowans API search, 1 WebSearch, Burns PDF and two dealer pages opened. No hits for the ATF/Chrysler variant specifically. Rate: AUD only, no conversion. eBay sold listings would settle it.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline version crashed; work version run for golden fleece gallon/tin/oil), Gowans API search, 1 WebSearch, Burns PDF and two dealer pages opened. No hits for the ATF/Chrysler variant specifically. Rate: AUD only, no conversion. eBay sold listings would settle it. | chrome: eBay AU sold: golden fleece 1 gallon tin",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: golden fleece 1 gallon tin ATF OR transmission",
- "viewing_check": "Confirm the top condition, any dents or holes, and that the cap and label are intact. Plain gallon tins sell about $35-70 at Gowans with the occasional $260; ATF variant is probably common and low end.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Photograph all labels and the rust on the top; ATF labelled tins are common.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

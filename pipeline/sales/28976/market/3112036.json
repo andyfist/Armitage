@@ -1,7 +1,7 @@
 {
  "cdid": 3112036,
  "lot": 1206,
- "identification": "John Tallis / John Rapkin 'Van Diemen's Island or Tasmania', c.1851, steel engraving with Greek key border, Hobart Town vignette, thylacine vignette, coin inset. Framed under glass with red mount, timber frame. Photo shows a small price tag on the mount. Original vs facsimile cannot be told from photo.",
+ "identification": "Framed Tallis/Rapkin 'Van Diemen's Island' map, hand-coloured, Greek key border, vignettes; red mount, timber frame, price tag on mount; original vs reprint unknown",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,24 @@
    "url": "https://antiquarianprintshop.com/products/map-tasmania-tallis-1",
    "same_item": "category guide",
    "note": "Snippet only. Listed as REPRODUCTION of the Tallis map, so shows facsimiles exist and are retailed. Rate about 1.55."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$11.62",
+   "currency": "AUD",
+   "aud_price": 11.62,
+   "date": "2026-11-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/305874150828",
+   "same_item": "partial",
+   "note": "Tallis map Van Diemen's Land, described as a reprint, unframed; eBay AU converted, listed from UK",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on None; work/comps.py run for tallis, van diemen map); Gowans API search 'tallis'; WebSearch Tallis Rapkin sold; Invaluable Tallis artist page parsed. Not done: Armitage past results, eBay sold (blocked). Gowans Tallis framed maps sell $27 to $70 hammer, consistently labelled prints; a real original in the only dated sold comp made $180 (Theodore Bruce 2022). Value range roughly $30-70 if reproduction, $150-300 if original.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline version crashed on None; work/comps.py run for tallis, van diemen map); Gowans API search 'tallis'; WebSearch Tallis Rapkin sold; Invaluable Tallis artist page parsed. Not done: Armitage past results, eBay sold (blocked). Gowans Tallis framed maps sell $27 to $70 hammer, consistently labelled prints; a real original in the only dated sold comp made $180 (Theodore Bruce 2022). Value range roughly $30-70 if reproduction, $150-300 if original. | chrome: eBay AU sold: tallis van diemen's land map (1 result), tallis tasmania map antique (error page)",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: Tallis Rapkin Van Diemen's Land Tasmania map 1851 original (sold, completed items); also LiveAuctioneers/Invaluable sold: 'Tallis Van Diemen's Island or Tasmania'",
- "viewing_check": "Look at the map out of the frame if possible, or at least the margins: a genuine c.1851 steel engraving has a plate mark, slight toning and an 'Engraved by J. Rapkin' / 'John Tallis & Co' imprint; facsimiles usually have a flat printed dot or halftone pattern under a loupe (colour in dots), bright modern paper, and no plate mark. Check for a rear label or dealer ticket, and the foxing and verso text (originals often have text or a blank back). Note the sheet size (about 27 x 36 cm original).",
- "rate_note": "GBP 1 = AUD 1.95, USD 1 = AUD 1.55 approximate; AUD sales unconverted."
+ "viewing_check": "Check for Tallis print date/publisher imprint, paper age and plate mark (original steel engraving has a plate mark and aged paper; a reprint is smooth with printed dots). Look at the mount tag.",
+ "rate_note": "GBP 1 = AUD 1.95, USD 1 = AUD 1.55 approximate; AUD sales unconverted.",
+ "chrome_done": true
 }

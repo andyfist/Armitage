@@ -1,7 +1,7 @@
 {
  "cdid": 3111122,
  "lot": 860,
- "identification": "Penfolds St Henri Shiraz vintage 2006 (89% shiraz, 11% cabernet), single 750ml bottle, red capsule, label clean, fill looks good in photo, vendor sticker 4434/12 CK.",
+ "identification": "Single bottle Penfolds St Henri Shiraz 2006, per cloud research (photo not viewed)",
  "entries": [
   {
    "kind": "SOLD",
@@ -103,9 +103,10 @@
    "note": "Snippet only. Buy It Now style ask, well above others."
   }
  ],
- "searches_tried": "comps.py in pipeline (crashed on a null field) and work (St Henri hits); Gowans API st henri; WebSearch x2 (auction results and retail); opened Uniques and Antiques, Kent Street, Cellarit (Wickman and Nicks returned nothing to curl). Not checked: Langtons, Wine-Searcher and eBay sold (blocked), Armitage past lots. eBay sold and Wine-Searcher auction results would settle recent sold prices.",
- "needs_chrome": true,
+ "searches_tried": "comps.py in pipeline (crashed on a null field) and work (St Henri hits); Gowans API st henri; WebSearch x2 (auction results and retail); opened Uniques and Antiques, Kent Street, Cellarit (Wickman and Nicks returned nothing to curl). Not checked: Langtons, Wine-Searcher and eBay sold (blocked), Armitage past lots. eBay sold and Wine-Searcher auction results would settle recent sold prices. | chrome: eBay AU sold: penfolds st henri 2006 (only junk, no wine rows); Google for Wine-Searcher/Langtons (snippets only, no price visible); Langtons lot page was 404. Nothing new beyond Found so far.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: Penfolds St Henri 2006 750ml; Wine-Searcher auction results for 2006 Penfolds St Henri Shiraz; Langtons past auction results",
- "viewing_check": "Check fill level (into neck or high shoulder), label and capsule condition, any seepage, and storage. Single bottle, no box. Possible 2006 screwcap vs cork is not an issue; confirm vintage on label (photo reads 2006).",
- "rate_note": "USD to AUD about 1.5, approximate, not checked live. AUD entries unconverted."
+ "viewing_check": "Check fill level/ullage, label condition, capsule, storage staining.",
+ "rate_note": "USD to AUD about 1.5, approximate, not checked live. AUD entries unconverted.",
+ "chrome_done": true
 }

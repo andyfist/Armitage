@@ -1,9 +1,126 @@
-{"cdid":3112508,"lot":1480,"identification":"17 hollowcast lead WWI-era khaki infantry (standing/kneeling/prone riflemen, 3 Vickers-style MG teams), unmarked in photos, Johillco/Britains/Crescent style. Likely 1920s-30s British. Common type, not rare sets; worn, bent rifles.","entries":[
-{"kind":"SOLD","price":"$40 hammer","aud_price":40,"currency":"AUD","date":"2026-02-23","venue":"Gowans (Hobart)","url":"gowans id 392032","same_item":"category guide","note":"LEAD SOLDIERS & OTHER, 2 bids. Mixed, details unknown. From database."},
-{"kind":"SOLD","price":"$25 hammer","aud_price":25,"currency":"AUD","date":"2026-04-19","venue":"Gowans (Hobart)","url":"gowans id 403298","same_item":"category guide","note":"BOX OF LEAD SOLDIERS, 1 bid. Poor guide, undescribed."},
-{"kind":"SOLD","price":"$65 hammer","aud_price":65,"currency":"AUD","date":"2026-08-03","venue":"Gowans (Hobart)","url":"gowans id 427648","same_item":"category guide","note":"TUB OF ASST METAL TOY SOLDIERS & FIGURES, 4 bids."},
-{"kind":"SOLD","price":"$70 hammer","aud_price":70,"currency":"AUD","date":"2026-03-16","venue":"Gowans (Hobart)","url":"gowans id 396745","same_item":"category guide","note":"QTY OF LEAD FIGURES, 4 bids."},
-{"kind":"SOLD","price":"$125 hammer","aud_price":125,"currency":"AUD","date":"2026-09-06","venue":"Gowans (Hobart)","url":"gowans id 436186","same_item":"close","note":"VINTAGE BRITAINS METAL MODEL SOLDIERS IN BOXES, 6 bids. Boxed Britains, better than unmarked worn lot; upper bound."},
-{"kind":"SOLD","price":"GBP 40 winning bid","aud_price":80,"currency":"GBP","date":"unknown","venue":"C&T Auctions (UK)","url":"https://bid.candtauctions.co.uk/lot-details/index/catalog/32/lot/9523/Johillco-and-other-Wild-West-Khaki-troops-etc-Condition-Excellent-Fair-four-damaged-seven-repaintrd-45","same_item":"close","note":"45 Johillco and other khaki troops, some damaged/repainted. Snippet only (page 403, price from search summary, unverified, date unknown). Rate assumed GBP1=AUD2.0."},
-{"kind":"ASKING","price":"USD 25 start, USD 50-100 estimate","aud_price":75,"currency":"USD","date":"2024-12-13","venue":"Old Toy Soldier Auctions (OTSA 102)","url":"https://oldtoysoldierauctions.com/auction/229-otsa-102-the/lot-1387-johillco-pre/","same_item":"close","note":"Page opened. 9 Johillco pre-war khaki troops, excellent condition; estimate only, no result seen. Rate assumed USD1=AUD1.5 on midpoint."}],
-"searches_tried":"comps.py (pipeline errored on a None field; work/comps.py used) lead soldiers, toy soldiers, lead figures, hollowcast, johillco; Gowans API lead soldiers, britains soldiers, toy soldiers; WebSearch hollow cast khaki MG Johillco; site:gowans.bidsonline (no useful result). eBay sold would settle it (Johillco khaki / Britains hollowcast lot sold).","needs_chrome":true,"chrome_hint":"eBay sold: johillco khaki soldiers lot; also hollowcast WW1 lead soldiers machine gun lot","viewing_check":"Check underside of bases for maker marks (Johillco, Britains, Crescent, England), and whether MG teams are complete; count figures and check for repaint.","rate_note":"GBP1=AUD2.0, USD1=AUD1.5 assumed"}
+{
+ "cdid": 3112508,
+ "lot": 1480,
+ "identification": "About 16-17 hollowcast lead WWI-style khaki infantry (standing, kneeling, prone riflemen and 3 machine gun teams), unmarked, Britains/Johillco style",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "aud_price": 40,
+   "currency": "AUD",
+   "date": "2026-02-23",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 392032",
+   "same_item": "category guide",
+   "note": "LEAD SOLDIERS & OTHER, 2 bids. Mixed, details unknown. From database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25 hammer",
+   "aud_price": 25,
+   "currency": "AUD",
+   "date": "2026-04-19",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 403298",
+   "same_item": "category guide",
+   "note": "BOX OF LEAD SOLDIERS, 1 bid. Poor guide, undescribed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "aud_price": 65,
+   "currency": "AUD",
+   "date": "2026-08-03",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 427648",
+   "same_item": "category guide",
+   "note": "TUB OF ASST METAL TOY SOLDIERS & FIGURES, 4 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "aud_price": 70,
+   "currency": "AUD",
+   "date": "2026-03-16",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 396745",
+   "same_item": "category guide",
+   "note": "QTY OF LEAD FIGURES, 4 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$125 hammer",
+   "aud_price": 125,
+   "currency": "AUD",
+   "date": "2026-09-06",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 436186",
+   "same_item": "close",
+   "note": "VINTAGE BRITAINS METAL MODEL SOLDIERS IN BOXES, 6 bids. Boxed Britains, better than unmarked worn lot; upper bound."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 40 winning bid",
+   "aud_price": 80,
+   "currency": "GBP",
+   "date": "unknown",
+   "venue": "C&T Auctions (UK)",
+   "url": "https://bid.candtauctions.co.uk/lot-details/index/catalog/32/lot/9523/Johillco-and-other-Wild-West-Khaki-troops-etc-Condition-Excellent-Fair-four-damaged-seven-repaintrd-45",
+   "same_item": "close",
+   "note": "45 Johillco and other khaki troops, some damaged/repainted. Snippet only (page 403, price from search summary, unverified, date unknown). Rate assumed GBP1=AUD2.0."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 25 start, USD 50-100 estimate",
+   "aud_price": 75,
+   "currency": "USD",
+   "date": "2024-12-13",
+   "venue": "Old Toy Soldier Auctions (OTSA 102)",
+   "url": "https://oldtoysoldierauctions.com/auction/229-otsa-102-the/lot-1387-johillco-pre/",
+   "same_item": "close",
+   "note": "Page opened. 9 Johillco pre-war khaki troops, excellent condition; estimate only, no result seen. Rate assumed USD1=AUD1.5 on midpoint."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25.95",
+   "currency": "AUD",
+   "aud_price": 25.95,
+   "date": "2026-08-22",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/188763501754",
+   "same_item": "partial",
+   "note": "Vintage 1930-40s lot of 17 Britains & mixed lead soldiers (Royal Guards), BIN; different figures but same count",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25.95",
+   "currency": "AUD",
+   "aud_price": 25.95,
+   "date": "2026-10-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/188780585466",
+   "same_item": "partial",
+   "note": "Lot of 7 Britains/mixed WWI infantry lead soldiers, BIN",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80.20",
+   "currency": "AUD",
+   "aud_price": 80.2,
+   "date": "2026-10-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237092988768",
+   "same_item": "partial",
+   "note": "Vintage lead toy soldiers standing military figures lot of 8, BIN; maker unclear",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline errored on a None field; work/comps.py used) lead soldiers, toy soldiers, lead figures, hollowcast, johillco; Gowans API lead soldiers, britains soldiers, toy soldiers; WebSearch hollow cast khaki MG Johillco; site:gowans.bidsonline (no useful result). eBay sold would settle it (Johillco khaki / Britains hollowcast lot sold). | chrome: eBay AU sold: hollowcast lead soldiers khaki lot (Johillco-specific search not run; light mode)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: johillco khaki soldiers lot; also hollowcast WW1 lead soldiers machine gun lot",
+ "viewing_check": "Check the undersides and bases for Britains / Johillco / Crescent marks, paint loss, bent or missing rifles, and whether the machine gunners are complete.",
+ "rate_note": "GBP1=AUD2.0, USD1=AUD1.5 assumed",
+ "chrome_done": true
+}

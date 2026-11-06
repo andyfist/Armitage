@@ -1,7 +1,7 @@
 {
  "cdid": 3111019,
  "lot": 757,
- "identification": "Large green pressed glass footed centre bowl, ruffled rim, moulded radiating ribs, probably Czech/Bohemian 1930s-50s, possibly uranium (Vaseline) glass; unmarked.",
+ "identification": "Large green pressed glass centre bowl on round foot, ruffled/pinched rim with moulded radiating ribs, probably 1930s-50s, uranium content unconfirmed; looks undamaged in photo",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,24 @@
    "url": "https://www.20thcenturyglass.com/store/index.php?main_page=product_info&products_id=9349",
    "same_item": "category guide",
    "note": "Dealer ask, rate approx 2.0 AUD/GBP assumed; snippet only, unverified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$174.38",
+   "currency": "AUD",
+   "aud_price": 174.38,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336872539011",
+   "same_item": "category guide",
+   "note": "eBay AU converted, listed from United States. Antique Hobbs Brockunier vaseline uranium log dish, much older and different, shows top end only; ordinary 1930s Czech/Deco uranium footed bowls sold at A$16-53 (small sizes)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py: uranium glass, green glass bowl, ruffled glass bowl, bohemian glass bowl, uranium centre; pipeline/comps.py crashed (None error) so skipped. WebSearch site:gowans uranium ruffled bowl (nothing relevant), WebSearch Czech uranium ruffled footed centrepiece (Etsy AU and UK dealer asks only). No same-item sold result found. Comps are uranium glass lots at Gowans, typically $25-115 hammer, mostly multi-piece. eBay sold listings would help.",
- "needs_chrome": true,
+ "searches_tried": "work/comps.py: uranium glass, green glass bowl, ruffled glass bowl, bohemian glass bowl, uranium centre; pipeline/comps.py crashed (None error) so skipped. WebSearch site:gowans uranium ruffled bowl (nothing relevant), WebSearch Czech uranium ruffled footed centrepiece (Etsy AU and UK dealer asks only). No same-item sold result found. Comps are uranium glass lots at Gowans, typically $25-115 hammer, mostly multi-piece. eBay sold listings would help. | chrome: eBay AU sold: uranium glass green ruffled footed bowl (0, throttled/none); vintage green glass ruffled centre bowl footed (0); uranium glass bowl green (60, mostly small 1930s Deco bowls, no large ruffled match)",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: uranium glass ruffled footed bowl green; also vaseline glass ruffled centre bowl Czech",
  "rate_note": "GBP to AUD approx 2.0 assumed; AUD entries as shown.",
- "viewing_check": "Check base for a mould mark, label or Czech/Bohemia mark; check rim ruffles for chips or flea bites; UV torch to confirm uranium glow; measure width."
+ "viewing_check": "Test with UV torch for glow (uranium), check rim for chips/flea-bites and foot for cracks, measure 30cm diameter.",
+ "chrome_done": true
 }

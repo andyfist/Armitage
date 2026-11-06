@@ -1,10 +1,161 @@
-{"cdid":3112252,"lot":1580,"identification":"Three used felt hats: Akubra Imperial Quality pure fur felt (fawn, plaited band, labels yellowed), Akubra Superfine Quality pure fur (brown, grosgrain band), Thomas Cook Boot & Clothing Co (brown with feather, gold horse label). Sizes not visible.","entries":[
-{"kind":"SOLD","price":"$40","aud_price":40,"currency":"AUD","date":"2025-11-10","venue":"Gowans Auctions, Hobart","url":"gowans id 373768","same_item":"close","note":"2 HATS - AKUBRA & THOMAS COOK, 6 bids, hammer, premium extra. Local database, not opened."},
-{"kind":"SOLD","price":"$85","aud_price":85,"currency":"AUD","date":"2026-03-09","venue":"Gowans Auctions, Hobart","url":"gowans id 395915","same_item":"close","note":"3 HATS INCL AKUBRA, 5 bids, hammer. Local database."},
-{"kind":"SOLD","price":"$45","aud_price":45,"currency":"AUD","date":"2026-03-23","venue":"Gowans Auctions, Hobart","url":"gowans id 399167","same_item":"close","note":"3 HATS INCL AKUBRA, 2 bids, hammer. Local database."},
-{"kind":"SOLD","price":"$120","aud_price":120,"currency":"AUD","date":"2025-11-10","venue":"Gowans Auctions, Hobart","url":"gowans id 373987","same_item":"close","note":"3 FUR HATS, 4 bids, hammer. Brand unstated. Local database."},
-{"kind":"SOLD","price":"$60","aud_price":60,"currency":"AUD","date":"2026-06-28","venue":"Gowans Auctions, Hobart","url":"gowans id 419841","same_item":"close","note":"Single AKUBRA PURE FUR FELT HAT size 57, 11 bids, hammer. Local database."},
-{"kind":"SOLD","price":"$70","aud_price":70,"currency":"AUD","date":"2026-07-19","venue":"Gowans Auctions, Hobart","url":"gowans id 424909","same_item":"close","note":"Single Akubra Stylemaster, 6 bids, hammer. Local database."},
-{"kind":"SOLD","price":"$30-75 (24 Akubra lots)","aud_price":45,"currency":"AUD","date":"2025-10 to 2026-08","venue":"Gowans Auctions, Hobart","url":"python3 -I work/comps.py akubra","same_item":"category guide","note":"Single Akubra hats: median $45, range $9-$140 (5-hat lot), typical $30-75 hammer."},
-{"kind":"ASKING","price":"$44.95 USD (1 sold)","aud_price":69,"currency":"USD","date":"live, seen 2026-11-06","venue":"eBay via PicClick","url":"https://picclick.com/Authentic-Akubra-Imperial-Quality-Hat-Pure-Fur-Felt-163303092469.html","same_item":"close","note":"Imperial size 7 3/4; snippet only, rate 1 USD = 1.53 AUD assumed, final price unclear."}],
-"searches_tried":"comps.py (pipeline and work) for akubra, akubra imperial, akubra superfine, 3 hats, thomas cook; one WebSearch for Akubra Imperial sold (only eBay asking prices). Armitage past lots and Gowans API not separately searched. eBay sold prices would settle single-hat values.","needs_chrome":false,"chrome_hint":"eBay sold: Akubra Imperial Quality pure fur felt hat used","viewing_check":"Check sizes inside the sweatbands (larger or very small sizes sell poorer), felt condition, crown dents, band and any moth or sweat damage.","rate_note":"USD to AUD 1.53 assumed."}
+{
+ "cdid": 3112252,
+ "lot": 1580,
+ "identification": "Three used felt hats: Akubra Imperial Quality fawn with plaited band, Akubra Superfine brown with grosgrain band, Thomas Cook brown with feather; sizes not visible.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$40",
+   "aud_price": 40,
+   "currency": "AUD",
+   "date": "2025-11-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 373768",
+   "same_item": "close",
+   "note": "2 HATS - AKUBRA & THOMAS COOK, 6 bids, hammer, premium extra. Local database, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85",
+   "aud_price": 85,
+   "currency": "AUD",
+   "date": "2026-03-09",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 395915",
+   "same_item": "close",
+   "note": "3 HATS INCL AKUBRA, 5 bids, hammer. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2026-03-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 399167",
+   "same_item": "close",
+   "note": "3 HATS INCL AKUBRA, 2 bids, hammer. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120",
+   "aud_price": 120,
+   "currency": "AUD",
+   "date": "2025-11-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 373987",
+   "same_item": "close",
+   "note": "3 FUR HATS, 4 bids, hammer. Brand unstated. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "aud_price": 60,
+   "currency": "AUD",
+   "date": "2026-06-28",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 419841",
+   "same_item": "close",
+   "note": "Single AKUBRA PURE FUR FELT HAT size 57, 11 bids, hammer. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70",
+   "aud_price": 70,
+   "currency": "AUD",
+   "date": "2026-07-19",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 424909",
+   "same_item": "close",
+   "note": "Single Akubra Stylemaster, 6 bids, hammer. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30-75 (24 Akubra lots)",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2025-10 to 2026-08",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "python3 -I work/comps.py akubra",
+   "same_item": "category guide",
+   "note": "Single Akubra hats: median $45, range $9-$140 (5-hat lot), typical $30-75 hammer."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$44.95 USD (1 sold)",
+   "aud_price": 69,
+   "currency": "USD",
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay via PicClick",
+   "url": "https://picclick.com/Authentic-Akubra-Imperial-Quality-Hat-Pure-Fur-Felt-163303092469.html",
+   "same_item": "close",
+   "note": "Imperial size 7 3/4; snippet only, rate 1 USD = 1.53 AUD assumed, final price unclear."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$127.80",
+   "currency": "AUD",
+   "aud_price": 127.8,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117498903936",
+   "same_item": "partial",
+   "note": "Vintage Akubra Cattleman fawn Imperial Quality size 59, Best Offer accepted (single hat)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84",
+   "currency": "AUD",
+   "aud_price": 84,
+   "date": "2026-11-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267821397443",
+   "same_item": "partial",
+   "note": "Akubra Imperial Quality pure fur felt olive green size 60, 10 bids (single hat)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-11-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/880067331858",
+   "same_item": "partial",
+   "note": "Vintage 80s Akubra Stylemaster fedora pure fur felt, Best Offer accepted",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$67.03",
+   "currency": "AUD",
+   "aud_price": 67.03,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/800859631927",
+   "same_item": "partial",
+   "note": "Akubra Snowy River pure fur felt brown, single hat",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$35.35",
+   "currency": "AUD",
+   "aud_price": 35.35,
+   "date": "2026-10-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/840059081178",
+   "same_item": "partial",
+   "note": "Vintage Akubra Snowy River, 5 bids, low end (likely worn)",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for akubra, akubra imperial, akubra superfine, 3 hats, thomas cook; one WebSearch for Akubra Imperial sold (only eBay asking prices). Armitage past lots and Gowans API not separately searched. eBay sold prices would settle single-hat values. | chrome: eBay AU sold: 'akubra imperial quality hat' (error page); 'akubra hat used pure fur felt'",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: Akubra Imperial Quality pure fur felt hat used",
+ "viewing_check": "Check sizes (inside label), sweat band staining, brim crush/moth, and which Akubra models (Imperial, Cattleman, Snowy River) are more saleable. Single used Akubras sold A$35-205 on eBay, typically A$85-130.",
+ "rate_note": "USD to AUD 1.53 assumed.",
+ "chrome_done": true
+}

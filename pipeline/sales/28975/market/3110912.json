@@ -1,7 +1,7 @@
 {
  "cdid": 3110912,
  "lot": 650,
- "identification": "Squat vase with flared rim, brown/amber streaked glaze, William McHugh, Launceston, Tasmanian art pottery. Base mark reads 'W McHugh / Tasmania / 18'. The 18 is almost certainly the shape number (other McHugh pieces show 22, 60, 63, 98), not 1918, so the dated, early-piece claim in the title is doubtful. Crazed base glaze, brown glaze spots on base and inside, no chips or cracks seen.",
+ "identification": "Brown/amber streaked glaze squat vase with flared rim, McHugh Tasmania (W McHugh base mark), glossy, 13cm; photo consistent with catalogue.",
  "entries": [
   {
    "kind": "SOLD",
@@ -145,11 +145,60 @@
    "url": "https://www.thespeckledhenantiques.com/shop/p/australian-pottery-mchugu",
    "same_item": "category guide",
    "note": "Snippet only, unverified; price attribution from search summary. Asking price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.50",
+   "currency": "AUD",
+   "aud_price": 85.5,
+   "date": "2026-09-07",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227140429458",
+   "same_item": "partial",
+   "note": "Vintage mottled brown McHugh Tasmania pottery, same brown glaze family; size not checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95",
+   "currency": "AUD",
+   "aud_price": 95,
+   "date": "2026-10-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/840072374621",
+   "same_item": "partial",
+   "note": "McHugh vase signed to base, 12cm, Tasmania",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159",
+   "currency": "AUD",
+   "aud_price": 159,
+   "date": "2026-10-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237126965929",
+   "same_item": "partial",
+   "note": "Rare large Model 22 1930s McHugh emerald/choc glaze, 1 bid",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$477.70",
+   "currency": "AUD",
+   "aud_price": 477.7,
+   "date": "2026-10-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/307174790008",
+   "same_item": "partial",
+   "note": "McHugh Tasmania vase signed No.22 Art Deco, Best Offer accepted; size/condition not checked, upper end",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Armitage pipeline comps.py (errored on a null record), work/comps.py McHugh (30 Gowans sales, lowest $25, median $98), mchugh vase min 150 (8 sales, median $180), McHugh Tasmania pottery; Gowans API 'mchugh squat' and 'mchugh brown' (no matches); one WebSearch for McHugh signed vase shape numbers. Typical Gowans signed McHugh vase hammer is about $90-180, up to $350 for a chipped trough vase. Dated 1934/35 McHugh pieces are common. eBay sold would help but is closed to us. No FX needed, all AUD.",
- "needs_chrome": true,
+ "searches_tried": "Armitage pipeline comps.py (errored on a null record), work/comps.py McHugh (30 Gowans sales, lowest $25, median $98), mchugh vase min 150 (8 sales, median $180), McHugh Tasmania pottery; Gowans API 'mchugh squat' and 'mchugh brown' (no matches); one WebSearch for McHugh signed vase shape numbers. Typical Gowans signed McHugh vase hammer is about $90-180, up to $350 for a chipped trough vase. Dated 1934/35 McHugh pieces are common. eBay sold would help but is closed to us. No FX needed, all AUD. | chrome: eBay AU sold: 'mchugh tasmania vase'; 'mchugh large vase tasmania signed'",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: McHugh Tasmania vase brown glaze squat (Sold items filter)",
- "viewing_check": "Confirm the base number: is it 18 (shape number) or a 1918 date, and whether the first word is W or H McHugh. Check the rim and base edge for chips or hairlines, and the size (height and width) against the McHugh squat shapes.",
- "rate_note": "All prices AUD; Gowans hammer, premium extra."
+ "viewing_check": "Check base mark and size (13cm), any chips/cracks, rim hairlines. Brown glaze plain pieces sell modestly; colourful/rare shapes and large sizes fetch more.",
+ "rate_note": "All prices AUD; Gowans hammer, premium extra.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112438,
  "lot": 1718,
- "identification": "Two unmarked 19th century style wooden plough planes (brass-tipped arms, thumbscrews, one iron fitted), a rusty No 4 size bench plane (Bailey-pattern, maker not legible) and a cast spokeshave. Plough planes are plain beech types, not the ivory/rosewood/boxwood fancy kind.",
+ "identification": "Two unmarked beech wooden plough planes with brass-tipped arms, a Bailey-pattern No 4 style bench plane (rusty) and a cast spokeshave.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,36 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wood+planes",
    "same_item": "category guide",
    "note": "Local database; 3 bids; mixed moulding planes, shows general wooden plane level."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-08-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168622823545",
+   "same_item": "partial",
+   "note": "Single Mathieson wooden plough plane with brass depth stop",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-10-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336783090709",
+   "same_item": "partial",
+   "note": "Single W Greenslade wooden plough plane, Best Offer accepted",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on a None field; work version worked) with: plough plane, plough, wood plane, spokeshave, plough plane --min-price 100; Gowans API search 'plough'; WebSearch for AU plough plane sold prices (only asking prices/snippets; Carters price guide blocked by bot check, so not opened; no verified Australian sold comps found beyond Gowans). eBay sold prices would settle it: needs Chrome.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline version crashed on a None field; work version worked) with: plough plane, plough, wood plane, spokeshave, plough plane --min-price 100; Gowans API search 'plough'; WebSearch for AU plough plane sold prices (only asking prices/snippets; Carters price guide blocked by bot check, so not opened; no verified Australian sold comps found beyond Gowans). eBay sold prices would settle it: needs Chrome. | chrome: eBay AU sold: 'antique plough plane' and 'plough plane brass wooden vintage' (error pages), plus the 'wooden plough plane' result from lot 1684",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: 'wooden plough plane brass' and 'antique plough plane' (sold, completed items, Australia); also carters.com.au plough planes price guide",
- "viewing_check": "Look for maker stamps on the toes/heels of both plough planes (Mathieson, Marples, Preston, Sorby, Greaves, any Australian maker), brass arm and fence condition, number of irons, whether any have boxwood/ivory tips; also the lever cap or logo on the No 4 (Stanley, Record, Bailey) and whether the No 4 is cracked.",
- "rate_note": "All prices AUD already, no conversion."
+ "viewing_check": "Check plough planes for complete fence arms, skates, wedges, irons and maker stamps; bench plane for maker (Stanley/Record etc), cracks and missing parts.",
+ "rate_note": "All prices AUD already, no conversion.",
+ "chrome_done": true
 }

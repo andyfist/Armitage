@@ -1,7 +1,7 @@
 {
  "cdid": 3112532,
  "lot": 1504,
- "identification": "Sidchrome 39 Piece Metric & A/F socket set, 1/4 and 3/8 drive, part 19100, red metal case with yellow insert. Appears nearly complete (all positions look filled in photo; ratchet, extension, spinner, spark plug socket, screwdriver present).",
+ "identification": "Sidchrome 39 piece Metric & A/F socket set, 1/4 and 3/8 drive, no. 19100, red metal case; all positions look filled",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,36 @@
    "url": "https://www.cashconverters.com.au/shop/tools-motor-hardware/hand-tools/socket-sets/socket-set/045100320173",
    "same_item": "yes",
    "note": "Used well-worn 39 piece red set. Snippet only, unverified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$135.00",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2026-10-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168818507138",
+   "same_item": "yes",
+   "note": "Sidchrome SCMT19100 39 piece metric & AF set",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96.05",
+   "currency": "AUD",
+   "aud_price": 96.05,
+   "date": "2026-10-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/198735463907",
+   "same_item": "partial",
+   "note": "Sidchrome 39 piece set part no. 19105 (variant)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); used work/comps.py (sidchrome socket, 39, 19100, piece case), Gowans API (2 queries), WebSearch x3 (19100 sold; vintage red case; Armitage site, nothing indexed), WebFetch Evans Clarke. eBay sold prices would settle it better.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); used work/comps.py (sidchrome socket, 39, 19100, piece case), Gowans API (2 queries), WebSearch x3 (19100 sold; vintage red case; Armitage site, nothing indexed), WebFetch Evans Clarke. eBay sold prices would settle it better. | chrome: eBay AU sold: sidchrome 39 piece socket set",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: sidchrome 39 piece socket set 19100 (metal case), filter Sold items",
- "viewing_check": "Count every socket against the insert diagram (missing sockets cut value), check ratchet action, rust inside case, and screwdriver and spinner present. Note whether the base reads Made in Australia.",
- "rate_note": "All AUD, no conversion. Gowans hammer excludes premium."
+ "viewing_check": "Count sockets against the lid diagram, check the ratchet works, case latches and rust.",
+ "rate_note": "All AUD, no conversion. Gowans hammer excludes premium.",
+ "chrome_done": true
 }

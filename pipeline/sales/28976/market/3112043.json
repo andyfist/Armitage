@@ -1,7 +1,7 @@
 {
  "cdid": 3112043,
  "lot": 1215,
- "identification": "Yamaha Natural Sound stack: silver CD player with front USB (CD-S300 type, printed name partly legible) and a silver Natural Sound Stereo Receiver labelled 200 Watts (R-S300 type, likely R-S300; 200W total), pair of black Yamaha bookshelf speakers (probably NS-BP series piano black), both remotes. Film on CD top suggests little use. Model numbers still not clearly legible.",
+ "identification": "Yamaha Natural Sound silver stereo receiver (R-S300 type) and silver CD player with USB (CD-S300 type), pair of black Yamaha bookshelf speakers; model labels not legible in photo",
  "entries": [
   {
    "kind": "SOLD",
@@ -145,11 +145,24 @@
    "url": "https://au.yamaha.com/en/products/audio_visual/hifi/cd-s300/index.html",
    "same_item": "yes",
    "note": "New RRP, not a used value. Snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$330.00",
+   "currency": "AUD",
+   "aud_price": 330,
+   "date": "2026-10-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407074397699",
+   "same_item": "partial",
+   "note": "Yamaha R-S300 receiver alone, pre-owned with manual; receiver only, no CD player or speakers",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for yamaha amplifier, cd player, receiver, stereo, a-s300, cd-s300; Gowans API searches (no extra sold hits); WebSearch x3 for R-S300 and CD-S300 Australia; opened Reboot IT page. No Australian sold results for the exact models found. eBay sold listings (Australia, R-S300 and CD-S300) would settle it.",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (pipeline and work) for yamaha amplifier, cd player, receiver, stereo, a-s300, cd-s300; Gowans API searches (no extra sold hits); WebSearch x3 for R-S300 and CD-S300 Australia; opened Reboot IT page. No Australian sold results for the exact models found. eBay sold listings (Australia, R-S300 and CD-S300) would settle it. | chrome: eBay AU sold: yamaha r-s300 receiver (1 result), yamaha cd-s300 cd player (error page, skipped)",
+ "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed: Yamaha R-S300 ; Yamaha CD-S300 ; Yamaha NS-BP150 (or NS-BP200) speakers",
- "viewing_check": "Photograph model plates on back of the CD player and receiver (CD-S300 vs other, R-S300), speaker model labels (NS-BP series), confirm both power on, CD tray works, USB port, and that remotes match. Check for damage to speaker piano-black finish.",
- "rate_note": "All AUD, no conversion. Gowans hammers are before premium."
+ "viewing_check": "Read model numbers on front panels and rear labels (R-S300, CD-S300, NS-BP series); check power on, CD tray, remotes present, speaker cones and grilles.",
+ "rate_note": "All AUD, no conversion. Gowans hammers are before premium.",
+ "chrome_done": true
 }

@@ -1,10 +1,149 @@
-{"cdid":3112290,"lot":1618,"identification":"Topcon RL-H4C rotating laser (discontinued, replaced by RL-H5A) with LS-80 receiver, bracket and hard case, plus a Pentax automatic (dumpy) level; orange case. Staff not seen.","entries":[
-{"kind":"SOLD","price":"$130 hammer","aud_price":130,"currency":"AUD","date":"2026-09-20","venue":"Gowans (Hobart)","url":"gowans id 439835","same_item":"category guide","note":"Laser level kit, unbranded in title; local database hit. Much cheaper brand likely."},
-{"kind":"SOLD","price":"$65-115 hammer (7 lots, median $70)","aud_price":70,"currency":"AUD","date":"2025-12 to 2026-09","venue":"Gowans (Hobart)","url":"gowans ids 441295, 423783, 422114, 415583, 405755, 394389, 381523","same_item":"close","note":"Dumpy levels alone, some with tripod/staff. Covers the Pentax half of the lot."},
-{"kind":"SOLD","price":"$65 hammer","aud_price":65,"currency":"AUD","date":"2026-08-16","venue":"Gowans (Hobart)","url":"gowans id 431811","same_item":"category guide","note":"Warrior rotating laser with tripod; budget brand, below Topcon."},
-{"kind":"SOLD","price":"US$132","aud_price":203,"currency":"USD","date":"2025-09-02","venue":"Purple Wave (Kansas)","url":"https://www.purplewave.com/auction/250902/item/ED4438","same_item":"category guide","note":"Pentax AFL-240 auto level; snippet only. Rate 1 USD = 1.54 AUD assumed. Overseas, not RL-H4C."},
-{"kind":"ASKING","price":"$275 (was $595)","aud_price":275,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Cash Converters Ballarat","url":"https://www.cashconverters.com.au/shop/tools-motor-hardware/power-tools-industrial/laser-levels/laser-level/040800432224","same_item":"yes","note":"RL-H4C with case, functional, heavy wear; snippet only (page returned 404 when opened). Closest used comparison."},
-{"kind":"ASKING","price":"AU$764.11 (was 898.95)","aud_price":764,"currency":"AUD","date":"live, seen 2026-11-06","venue":"eBay (seller in Australia)","url":"https://www.ebay.de/itm/226881858710","same_item":"yes","note":"RL-H4C with LS-80X in hard case; snippet only; likely better condition, asking not paid."},
-{"kind":"ASKING","price":"$2,295 new kit","aud_price":2295,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Vek Tools","url":"https://vektools.com.au/products/topcon-red-beam-construction-laser-level-kit-with-mm-receiver-rlh5a-replaces-rlh4c-rlh5apremium","same_item":"category guide","note":"New RL-H5A kit with LS-100D; snippet only. Ceiling for new."},
-{"kind":"UNSOLD","price":"start SEK 1,900","aud_price":280,"currency":"SEK","date":"unknown","venue":"Machineryline (Sweden)","url":"https://machineryline.com/-/auction/measuring-tools/Topcon/RL-H4C-Rotationslaser--24101710512117313200","same_item":"yes","note":"Starting bid only, no result; snippet only. Rate 1 SEK = 0.15 AUD assumed."}],
-"searches_tried":"comps.py (pipeline, errored; work comps used: topcon, pentax, dumpy level, rotating laser, laser level), Gowans API (topcon, pentax, auto level, survey level), WebSearch x3 (RL-H4C sold/price, Pentax auto level sold). eBay sold prices would settle it: eBay.com.au sold, 'Topcon RL-H4C' and 'Topcon RL-H4C LS-80'.","needs_chrome":true,"chrome_hint":"eBay.com.au sold listings: Topcon RL-H4C laser level","viewing_check":"Check the laser powers on, self-levels and rotates, the dome/lens is unscratched, receiver beeps, battery compartment is clean; check for a staff in the cases; check the Pentax model number and that its bubble and focus work.","rate_note":"USD 1.54, SEK 0.15 AUD assumed"}
+{
+ "cdid": 3112290,
+ "lot": 1618,
+ "identification": "Topcon RL-H4C rotating laser with LS-80 receiver, bracket and case, plus a Pentax-type automatic dumpy level, two cases (orange hard case, yellow Topcon case).",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "aud_price": 130,
+   "currency": "AUD",
+   "date": "2026-09-20",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 439835",
+   "same_item": "category guide",
+   "note": "Laser level kit, unbranded in title; local database hit. Much cheaper brand likely."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65-115 hammer (7 lots, median $70)",
+   "aud_price": 70,
+   "currency": "AUD",
+   "date": "2025-12 to 2026-09",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans ids 441295, 423783, 422114, 415583, 405755, 394389, 381523",
+   "same_item": "close",
+   "note": "Dumpy levels alone, some with tripod/staff. Covers the Pentax half of the lot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "aud_price": 65,
+   "currency": "AUD",
+   "date": "2026-08-16",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 431811",
+   "same_item": "category guide",
+   "note": "Warrior rotating laser with tripod; budget brand, below Topcon."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$132",
+   "aud_price": 203,
+   "currency": "USD",
+   "date": "2025-09-02",
+   "venue": "Purple Wave (Kansas)",
+   "url": "https://www.purplewave.com/auction/250902/item/ED4438",
+   "same_item": "category guide",
+   "note": "Pentax AFL-240 auto level; snippet only. Rate 1 USD = 1.54 AUD assumed. Overseas, not RL-H4C."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$275 (was $595)",
+   "aud_price": 275,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Cash Converters Ballarat",
+   "url": "https://www.cashconverters.com.au/shop/tools-motor-hardware/power-tools-industrial/laser-levels/laser-level/040800432224",
+   "same_item": "yes",
+   "note": "RL-H4C with case, functional, heavy wear; snippet only (page returned 404 when opened). Closest used comparison."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$764.11 (was 898.95)",
+   "aud_price": 764,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay (seller in Australia)",
+   "url": "https://www.ebay.de/itm/226881858710",
+   "same_item": "yes",
+   "note": "RL-H4C with LS-80X in hard case; snippet only; likely better condition, asking not paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$2,295 new kit",
+   "aud_price": 2295,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Vek Tools",
+   "url": "https://vektools.com.au/products/topcon-red-beam-construction-laser-level-kit-with-mm-receiver-rlh5a-replaces-rlh4c-rlh5apremium",
+   "same_item": "category guide",
+   "note": "New RL-H5A kit with LS-100D; snippet only. Ceiling for new."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "start SEK 1,900",
+   "aud_price": 280,
+   "currency": "SEK",
+   "date": "unknown",
+   "venue": "Machineryline (Sweden)",
+   "url": "https://machineryline.com/-/auction/measuring-tools/Topcon/RL-H4C-Rotationslaser--24101710512117313200",
+   "same_item": "yes",
+   "note": "Starting bid only, no result; snippet only. Rate 1 SEK = 0.15 AUD assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$799",
+   "currency": "AUD",
+   "aud_price": 799,
+   "date": "2026-09-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/398371604330",
+   "same_item": "yes",
+   "note": "Topcon RL-H4C red laser with LS-80L receiver, working",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$750",
+   "currency": "AUD",
+   "aud_price": 750,
+   "date": "2026-08-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/307043260863",
+   "same_item": "yes",
+   "note": "Topcon RL-H4C red laser with LS-80L receiver",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$767",
+   "currency": "AUD",
+   "aud_price": 766.52,
+   "date": "2026-08-16",
+   "venue": "eBay AU (converted, listed from United States)",
+   "url": "https://www.ebay.com.au/itm/236999298477",
+   "same_item": "yes",
+   "note": "RL-H4C laser level, receiver, charger, case",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$119",
+   "currency": "AUD",
+   "aud_price": 119.03,
+   "date": "2026-08-28",
+   "venue": "eBay AU (converted, listed from United States)",
+   "url": "https://www.ebay.com.au/itm/127978394669",
+   "same_item": "partial",
+   "note": "RL-H4C for parts or repair; floor if the lot's laser is faulty",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline, errored; work comps used: topcon, pentax, dumpy level, rotating laser, laser level), Gowans API (topcon, pentax, auto level, survey level), WebSearch x3 (RL-H4C sold/price, Pentax auto level sold). eBay sold prices would settle it: eBay.com.au sold, 'Topcon RL-H4C' and 'Topcon RL-H4C LS-80'. | chrome: eBay AU sold: topcon rl-h4c (first attempts hit eBay Error Page, retried after wait)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: Topcon RL-H4C laser level",
+ "viewing_check": "Ask to power up the laser: check it self-levels and rotates, battery/charger present, LS-80 receiver works and has no cracked display, and note the dumpy level model. Note eBay prices are for working units; auction history at A$65-130 suggests it may be sold untested.",
+ "rate_note": "USD 1.54, SEK 0.15 AUD assumed",
+ "chrome_done": true
+}

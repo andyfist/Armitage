@@ -1,7 +1,80 @@
-{"cdid":3112825,"lot":1984,"identification":"Aluminium checker plate ute/trailer toolbox with gullwing lid and gas struts, two T-handle locks, blue badge reading KINCHROME (Kincrome). Size unknown, appears roughly 1m wide (smaller than the 1.5-1.8m gullwing boxes sold new). Minor corner mark.","entries":[
-{"kind":"SOLD","price":"$135 hammer","currency":"AUD","aud_price":135,"date":"2026-02-17","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au (gowans id 391581)","same_item":"close","note":"2 KINCROME UTE TOOL BOXES, so about $67 each; Kincrome brand but unknown type. From local comps DB, premium extra."},
-{"kind":"SOLD","price":"$90 hammer","currency":"AUD","aud_price":90,"date":"2026-08-30","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au (gowans id 435235)","same_item":"close","note":"Aluminium ute tray toolbox, 11 bids. Unbranded; premium extra. Local comps DB."},
-{"kind":"SOLD","price":"$40 hammer","currency":"AUD","aud_price":40,"date":"2026-03-16","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au (gowans id 397866)","same_item":"category guide","note":"Rhino checkerplate toolbox, 6 bids; likely smaller or poorer. Premium extra."},
-{"kind":"ASKING","price":"$450","currency":"AUD","aud_price":450,"date":"live, seen 2026-11-06","venue":"eBay AU (Korio new, 1600x550x440 gullwing)","url":"https://www.ebay.com.au/itm/184459860503","same_item":"category guide","note":"New, much larger. Snippet only, not verified."},
-{"kind":"ASKING","price":"$509","currency":"AUD","aud_price":509,"date":"live, seen 2026-11-06","venue":"Stonegate Industries (new 1780x500x500 gullwing)","url":"https://www.stonegateindustries.com.au/product/aluminium-gullwing-toolbox/","same_item":"category guide","note":"New retail, larger. Snippet only, not verified."}],
-"searches_tried":"comps.py (pipeline version crashed; work version) for kinchrome/checker plate/ute tool box/aluminium ute box; Gowans API search toolbox aluminium checker; one WebSearch for Kinchrome gullwing price (no Kinchrome-branded result). eBay sold would settle it. Armitage past results not searched.","needs_chrome":true,"chrome_hint":"eBay AU sold listings: kincrome aluminium checker plate ute tool box gullwing","viewing_check":"Measure length, width and height (value scales with size); check lid seals, struts, both keys and latches, dents, and the corner mark.","rate_note":"All AUD, no conversion."}
+{
+ "cdid": 3112825,
+ "lot": 1984,
+ "identification": "Aluminium checker plate gullwing ute toolbox with two T-handle locks and blue KINCROME badge; catalogue size H71 W121 D50 cm; looks clean and unmarked",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$135 hammer",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2026-02-17",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au (gowans id 391581)",
+   "same_item": "close",
+   "note": "2 KINCROME UTE TOOL BOXES, so about $67 each; Kincrome brand but unknown type. From local comps DB, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-08-30",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au (gowans id 435235)",
+   "same_item": "close",
+   "note": "Aluminium ute tray toolbox, 11 bids. Unbranded; premium extra. Local comps DB."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-03-16",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au (gowans id 397866)",
+   "same_item": "category guide",
+   "note": "Rhino checkerplate toolbox, 6 bids; likely smaller or poorer. Premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$450",
+   "currency": "AUD",
+   "aud_price": 450,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay AU (Korio new, 1600x550x440 gullwing)",
+   "url": "https://www.ebay.com.au/itm/184459860503",
+   "same_item": "category guide",
+   "note": "New, much larger. Snippet only, not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$509",
+   "currency": "AUD",
+   "aud_price": 509,
+   "date": "live, seen 2026-11-06",
+   "venue": "Stonegate Industries (new 1780x500x500 gullwing)",
+   "url": "https://www.stonegateindustries.com.au/product/aluminium-gullwing-toolbox/",
+   "same_item": "category guide",
+   "note": "New retail, larger. Snippet only, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$370.63",
+   "currency": "AUD",
+   "aud_price": 370.63,
+   "date": "2026-10-20",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/385721505221",
+   "same_item": "partial",
+   "note": "NEW Kincrome under-ute aluminium box (different type, brand new); category guide only",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed; work version) for kinchrome/checker plate/ute tool box/aluminium ute box; Gowans API search toolbox aluminium checker; one WebSearch for Kinchrome gullwing price (no Kinchrome-branded result). eBay sold would settle it. Armitage past results not searched. | chrome: eBay AU sold: kincrome aluminium checker plate tool box (error page), kincrome ute tool box. No used same-style sales found.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: kincrome aluminium checker plate ute tool box gullwing",
+ "viewing_check": "Measure it, check the keys work, lid struts/hinges, dents and any drilled mounting holes; confirm it is genuine Kincrome rather than a re-badge.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}

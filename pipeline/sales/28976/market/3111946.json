@@ -1,7 +1,7 @@
 {
  "cdid": 3111946,
  "lot": 1116,
- "identification": "Set of 8 William IV style bar-back dining chairs in blackwood or similar, turned front legs, recently reupholstered striped drop-in seats; photos show a uniform later reproduction finish. No maker marks seen.",
+ "identification": "Set of 8 William IV style bar-back dining chairs, reeded/turned front legs, striped drop-in seats, uniform reproduction-type finish",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,24 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=set%20of%208%20dining%20chairs&page%5Bnumber%5D=1 (lot id 368101)",
    "same_item": "category guide",
    "note": "Set of 6 blackwood dining room chairs, 3 bids. Page not opened; Gowans API record read (hammer, premium extra); AUD, no conversion. "
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$842.70",
+   "currency": "AUD",
+   "aud_price": 842.7,
+   "date": "2026-09-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/154737777806",
+   "same_item": "partial",
+   "note": "Set of 8 balloon-back upholstered dining chairs (different style, probably antique/Victorian, pickup-only furniture), condition unchecked",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with blackwood dining chairs, william iv chairs, bar back chairs, set of 8 dining chairs; Gowans API searches for set of 8 blackwood/dining chairs, william iv, bar back. No web search (generic furniture, stopped early). No Armitage past results checked. eBay sold not reachable.",
+ "searches_tried": "comps.py (pipeline and work) with blackwood dining chairs, william iv chairs, bar back chairs, set of 8 dining chairs; Gowans API searches for set of 8 blackwood/dining chairs, william iv, bar back. No web search (generic furniture, stopped early). No Armitage past results checked. eBay sold not reachable. | chrome: eBay AU sold (Australia only): set of 8 dining chairs blackwood william IV (2 rows, one junk flat-pack); set 8 bar back dining chairs mahogany OR blackwood OR cedar hit eBay Error Page, not retried.",
  "needs_chrome": false,
- "viewing_check": "Check underside of seat rails and frames for timber (blackwood vs mahogany/cedar), age of joinery (machine vs hand-cut, screws, corner blocks), any maker label, and that all 8 are sound with no loose joints or splits.",
+ "viewing_check": "Check timber (blackwood vs stained other), joints and rear legs for wobble or repairs, seat frames, and whether all 8 are matching with no carvers.",
  "rate_note": "All prices AUD, no conversion.",
- "chrome_hint": ""
+ "chrome_hint": "",
+ "chrome_done": true
 }

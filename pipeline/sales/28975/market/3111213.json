@@ -1,10 +1,148 @@
-{"cdid":3111213,"lot":951,"identification":"Australia 1991 $20 paper note, Fraser/Cole (R413), red serial B 000416, apparently a Note Printing Australia portfolio/special issue note in a holder with a handwritten dealer card (grade Uncirculated). Photos show a crisp note. Note: a search suggested NPA red-serial portfolio issues began 1993, so the card's 'special issue' claim is unverified.","entries":[
-{"kind":"SOLD","price":"$105","aud_price":105,"currency":"AUD","date":"2026-01-19","venue":"Gowans Auctions, Hobart (hammer, premium extra)","url":"gowans id 383839","same_item":"close","note":"2 x $20 Fraser/Cole in folder, vertical pair, 5 bids. Pair, so about $52 each. From local database."},
-{"kind":"SOLD","price":"$30","aud_price":30,"currency":"AUD","date":"2025-10-27","venue":"Gowans Auctions, Hobart (hammer)","url":"gowans id 370101","same_item":"close","note":"Single $20 Fraser/Cole, ordinary, 4 bids. Likely circulated."},
-{"kind":"SOLD","price":"$29","aud_price":29,"currency":"AUD","date":"2025-10-19","venue":"Gowans Auctions, Hobart (hammer)","url":"gowans id 368509","same_item":"close","note":"Single $20 Fraser/Cole, ordinary, 7 bids. Likely circulated."},
-{"kind":"SOLD","price":"$280","aud_price":280,"currency":"AUD","date":"Noble Sale 135 (date not seen)","venue":"Noble Numismatics","url":"https://www.noble.com.au/auctions/search/?sale=135&p=1&c=8990&g=6&e=1000&s=e1","same_item":"category guide","note":"R413 uncut sheet of four, serials ending 000565, UNC, in folder; estimate $120. Snippet only. Different item (uncut sheet of four) so only a loose guide for low serials."},
-{"kind":"SOLD","price":"$150","aud_price":150,"currency":"AUD","date":"2025-07-09","venue":"Sterling & Currency (dealer, last sold per page)","url":"https://www.sterlingcurrency.com.au/1991-20-note-aaa-serials-fraser-cole-r413a-uncircu~29593","same_item":"close","note":"AAA-serial UNC R413A, dealer-recorded sale. Snippet only, not verified, dealer retail not auction hammer."},
-{"kind":"ASKING","price":"$95","aud_price":95,"currency":"AUD","date":"live, seen 2026-11-06","venue":"The Purple Penny","url":"https://www.thepurplepenny.com/product/australia-1991-twenty-dollars-fraser-cole-npa-issue-uncirculated/","same_item":"close","note":"NPA issue UNC AAA note. Snippet only. Retail asking, closest to this lot."},
-{"kind":"ASKING","price":"$126.36","aud_price":126.36,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Downies","url":"https://www.downies.com/products/1991-20-r413-fraser-cole-banknote-uncirculated","same_item":"close","note":"Ordinary R413 UNC, marked discontinued. Snippet only."},
-{"kind":"ASKING","price":"$50-65","aud_price":57,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Sterling & Currency / Purple Penny","url":"https://www.sterlingcurrency.com.au/1991-20-note-fraser-cole-r413-uncirculated","same_item":"close","note":"Plain UNC R413 retail asking range. Snippet only."}
-],"searches_tried":"comps.py (pipeline and work) several word sets; Gowans API search; 3 WebSearches (low serial, NPA portfolio, Noble). No exact B 000416 result found. eBay sold listings (Fraser Cole 1991 $20 low serial / NPA) would help; no FX needed, all AUD.","needs_chrome":true,"chrome_hint":"eBay sold: 1991 $20 Fraser Cole R413 low serial OR NPA OR portfolio OR red serial","viewing_check":"Photograph the card and the serial: confirm red serial and prefix B, check for folds or corner bends, look for NPA portfolio folder markings or any certificate, since the special-issue claim is unverified."}
+{
+ "cdid": 3111213,
+ "lot": 951,
+ "identification": "1991 $20 Fraser/Cole (R413) UNC note, red serial B 000416 in holder, crisp",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$105",
+   "aud_price": 105,
+   "currency": "AUD",
+   "date": "2026-01-19",
+   "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+   "url": "gowans id 383839",
+   "same_item": "close",
+   "note": "2 x $20 Fraser/Cole in folder, vertical pair, 5 bids. Pair, so about $52 each. From local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30",
+   "aud_price": 30,
+   "currency": "AUD",
+   "date": "2025-10-27",
+   "venue": "Gowans Auctions, Hobart (hammer)",
+   "url": "gowans id 370101",
+   "same_item": "close",
+   "note": "Single $20 Fraser/Cole, ordinary, 4 bids. Likely circulated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$29",
+   "aud_price": 29,
+   "currency": "AUD",
+   "date": "2025-10-19",
+   "venue": "Gowans Auctions, Hobart (hammer)",
+   "url": "gowans id 368509",
+   "same_item": "close",
+   "note": "Single $20 Fraser/Cole, ordinary, 7 bids. Likely circulated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$280",
+   "aud_price": 280,
+   "currency": "AUD",
+   "date": "Noble Sale 135 (date not seen)",
+   "venue": "Noble Numismatics",
+   "url": "https://www.noble.com.au/auctions/search/?sale=135&p=1&c=8990&g=6&e=1000&s=e1",
+   "same_item": "category guide",
+   "note": "R413 uncut sheet of four, serials ending 000565, UNC, in folder; estimate $120. Snippet only. Different item (uncut sheet of four) so only a loose guide for low serials."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150",
+   "aud_price": 150,
+   "currency": "AUD",
+   "date": "2025-07-09",
+   "venue": "Sterling & Currency (dealer, last sold per page)",
+   "url": "https://www.sterlingcurrency.com.au/1991-20-note-aaa-serials-fraser-cole-r413a-uncircu~29593",
+   "same_item": "close",
+   "note": "AAA-serial UNC R413A, dealer-recorded sale. Snippet only, not verified, dealer retail not auction hammer."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$95",
+   "aud_price": 95,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "The Purple Penny",
+   "url": "https://www.thepurplepenny.com/product/australia-1991-twenty-dollars-fraser-cole-npa-issue-uncirculated/",
+   "same_item": "close",
+   "note": "NPA issue UNC AAA note. Snippet only. Retail asking, closest to this lot."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$126.36",
+   "aud_price": 126.36,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Downies",
+   "url": "https://www.downies.com/products/1991-20-r413-fraser-cole-banknote-uncirculated",
+   "same_item": "close",
+   "note": "Ordinary R413 UNC, marked discontinued. Snippet only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$50-65",
+   "aud_price": 57,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Sterling & Currency / Purple Penny",
+   "url": "https://www.sterlingcurrency.com.au/1991-20-note-fraser-cole-r413-uncirculated",
+   "same_item": "close",
+   "note": "Plain UNC R413 retail asking range. Snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$72.25",
+   "currency": "AUD",
+   "aud_price": 72.25,
+   "date": "2026-10-22",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/306847103292",
+   "same_item": "partial",
+   "note": "1991 $20 Fraser/Cole UNC, ordinary serial (listed A$85, sold A$72.25 apparently best offer)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336677576555",
+   "same_item": "partial",
+   "note": "1991 $20 Fraser/Cole A/UNC R413, ordinary serial",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$135",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2026-08-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336316858278",
+   "same_item": "partial",
+   "note": "1991 $20 Fraser/Cole UNC first prefix AAA, a special-serial note so a premium over ordinary",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$250",
+   "currency": "AUD",
+   "aud_price": 250,
+   "date": "2026-10-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/176417666335",
+   "same_item": "partial",
+   "note": "1993 Fraser/Cole $20 vertical PAIR with red serial (portfolio type, 1993 not 1991), indicates red-serial premium",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) several word sets; Gowans API search; 3 WebSearches (low serial, NPA portfolio, Noble). No exact B 000416 result found. eBay sold listings (Fraser Cole 1991 $20 low serial / NPA) would help; no FX needed, all AUD. | chrome: eBay AU sold: 1991 20 dollar note Fraser Cole uncirculated; 1991 20 fraser cole low serial OR red serial OR portfolio; australia 20 dollar banknote red serial low number Fraser Cole. No exact B000416 match.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: 1991 $20 Fraser Cole R413 low serial OR NPA OR portfolio OR red serial",
+ "viewing_check": "Check holder card, whether serial is red and note is truly uncirculated (no folds, corner bumps). 1991 red-serial B-prefix special issue claim unverified.",
+ "chrome_done": true
+}

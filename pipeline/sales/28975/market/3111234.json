@@ -1,7 +1,7 @@
 {
  "cdid": 3111234,
  "lot": 972,
- "identification": "Two English sterling silver full-hunter key-wind pocket watches, enamel dials, one without hands, one dial cracked/damaged area visible; makers and hallmark dates not legible in photos. Plain engine-turned cases.",
+ "identification": "Two sterling silver full-hunter key-wind pocket watches, white enamel dials, one dial without hands/centre; non-working as-is lot.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,48 @@
    "url": "https://www.gowansauctions.com.au (lot id 390085)",
    "same_item": "close",
    "note": "2 POCKET WATCHES INCL CONTINENTAL SILVER. Pair but one not English sterling, 4 bids. Gowans hammer, premium extra. From local results database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$392.90",
+   "currency": "AUD",
+   "aud_price": 392.9,
+   "date": "2026-10-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/137794882143",
+   "same_item": "partial",
+   "note": "Rotherhams London 1882 silver full hunter, Best Offer accepted; likely running, better quality",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$135.50",
+   "currency": "AUD",
+   "aud_price": 135.5,
+   "date": "2026-08-09",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267745232863",
+   "same_item": "partial",
+   "note": "Vintage sterling silver full hunter pocket watch, 2 bids, single working watch",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$204.65",
+   "currency": "AUD",
+   "aud_price": 204.65,
+   "date": "2026-08-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128032004713",
+   "same_item": "partial",
+   "note": "Sterling silver full hunter with chain, 3 bids, single watch",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) x4, Gowans API x4 (only 2 pocket watches lot found), WebSearch x1 (no priced same-item result), Carters price guide 429 rate-limited, Auction Rooms page had no price. eBay sold would settle it. Only 8 SOLD found; no UNSOLD or ASKING seen.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) x4, Gowans API x4 (only 2 pocket watches lot found), WebSearch x1 (no priced same-item result), Carters price guide 429 rate-limited, Auction Rooms page had no price. eBay sold would settle it. Only 8 SOLD found; no UNSOLD or ASKING seen. | chrome: eBay AU sold: 'sterling silver full hunter pocket watch key wind' (error page), 'sterling silver hunter pocket watch' (Australia only)",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: antique sterling silver full hunter key wind pocket watch (Australia, last 90 days)",
- "viewing_check": "Read the hallmarks inside the covers (assay office, date letter, maker) and the movement makers' names; check case weights, whether the movements are complete and the cases are sterling, and glass/dial damage. Heavier cases are worth more as scrap silver.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check hallmarks/maker names inside cases, silver weight (stamp 925/Birmingham/Chester), whether movements are present/complete, cracked dial. Singles sell about A$135-390 on eBay; as-is pair is probably nearer the lower end plus scrap value.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

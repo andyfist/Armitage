@@ -1,7 +1,7 @@
 {
  "cdid": 3112333,
  "lot": 1428,
- "identification": "Mobiloil 'A' (Vacuum Oil / Mobil Oil Australia) 1 pint embossed glass oil bottle with Pegasus tin pourer top. Common Australian garage automobilia, tin top rusty at spout with paint loss, bottle clean.",
+ "identification": "Mobiloil A 1 pint glass oil bottle with Pegasus tin pourer top; tin top rusty at spout with paint loss, bottle clean.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,36 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/413239/",
    "same_item": "category guide",
    "note": "Pint bottle with other brand pourer, same buyer pool. Hammer, premium extra. From local comps database (Gowans API record), title: ONE IMPERIAL PINT OIL BOTTLE WITH GOLDEN FLEECE METAL POURER. Page not opened; no rate needed (AUD)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$183.50",
+   "currency": "AUD",
+   "aud_price": 183.5,
+   "date": "2026-10-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/377509541483",
+   "same_item": "yes",
+   "note": "1960s Mobil Oil Australia Mobiloil AF Pegasus tin top pint bottle (AF variant, condition not checked)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$408.88",
+   "currency": "AUD",
+   "aud_price": 408.88,
+   "date": "2026-10-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128154726442",
+   "same_item": "partial",
+   "note": "Near mint Mobiloil ARCTIC Pegasus tin top pint bottle; scarcer Arctic grade and near mint, not comparable to a rusted Mobiloil A",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work) for mobiloil bottle, mobil oil bottle, oil bottle pourer, mobil tin top, mobiloil; pipeline comps.py (crashed on a data error); Gowans API search mobiloil; WebSearch site:armitage.bidsonline.com.au (no Armitage results, only eBay snippets). eBay sold listings would settle the pint Mobiloil A tin-top price better.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (work) for mobiloil bottle, mobil oil bottle, oil bottle pourer, mobil tin top, mobiloil; pipeline comps.py (crashed on a data error); Gowans API search mobiloil; WebSearch site:armitage.bidsonline.com.au (no Armitage results, only eBay snippets). eBay sold listings would settle the pint Mobiloil A tin-top price better. | chrome: eBay AU sold: mobiloil pint bottle tin top; mobil oil bottle tin top pegasus (AU only); eBay Error Page once, retried",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: mobiloil A pint oil bottle tin top pegasus",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Check the tin top for dents or holes, the thread fit, embossing on the bottle (pint, Mobil/Vacuum), and any chips on the bottle lip. Pegasus colour is bright, which is good."
+ "viewing_check": "Check tin top for paint loss and rust, any holes, bottle for embossing and chips, that top fits and is original.",
+ "chrome_done": true
 }
