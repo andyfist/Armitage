@@ -1,0 +1,67 @@
+{
+ "cdid": 3112556,
+ "lot": 1529,
+ "identification": "HP Laptop 15s-eq2021AU, ProdID 3N8L9PA#ABG, AMD Ryzen 5 5500U, 15.6in, originally 8GB RAM/512GB SSD Win 10 (about 2021). Silver, with charger, Asus carry bag and large-print USB keyboard.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-11-01 (listed)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hp+laptop&page%5Bnumber%5D=1 (lot id 448609)",
+   "same_item": "category guide",
+   "note": "HP ProBook 500GB Windows 11 laptop with charger, 10 bids. Different, business model, likely similar age or older. Premium extra. From API JSON (page opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-03-30 (listed)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hp+laptop&page%5Bnumber%5D=1 (lot id 400091)",
+   "same_item": "category guide",
+   "note": "HP laptop with charger and 2 cameras, 9 bids. Model and spec unknown, probably older. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-06-28 (listed)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=laptop&page%5Bnumber%5D=1 (lot id 419558)",
+   "same_item": "category guide",
+   "note": "Acer Aspire ES15 laptop and charger, factory reset, 4 bids. Older budget model. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-05-24 (listed)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=laptop&page%5Bnumber%5D=1 (lot id 411856)",
+   "same_item": "category guide",
+   "note": "Apple MacBook Pro and charger, 9 bids. Different brand, shows typical working-laptop range. Premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$390 (refurbished Grade B, 16GB/512GB, 12 month warranty), marked Sold Out",
+   "currency": "AUD (assumed)",
+   "aud_price": 390,
+   "date": "live, seen 2026-11-06",
+   "venue": "Australian Computer Traders",
+   "url": "https://www.australiancomputertraders.com.au/hp-laptop-15s-eq2021au-amd-ryzen-5-5500u-2.10ghz-1",
+   "same_item": "yes",
+   "note": "Same model, but refurbished with upgraded RAM and warranty, and sold out. Price came from a search snippet only (page opened but price not extracted); not verified. Dealer retail, well above auction value. No FX needed."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with hp/laptop/15s/ryzen: no same-model sale, only Gowans HP laptop sales above; Gowans API searches laptop, hp laptop, notebook computer, ryzen; WebSearch for HP 15s-eq2021AU price; WebSearch site:armitage.bidsonline.com.au HP laptop (nothing useful). eBay sold listings for 15s-eq2021AU would settle it best (blocked here).",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold listings: HP 15s-eq2021AU (also try 15s-eq2xxx Ryzen 5 5500U laptop), last 90 days, Australia",
+ "viewing_check": "Check RAM and SSD size (sticker/Settings), that it boots and the screen, battery and hinges are fine, keyboard and trackpad work, and that the large-print keyboard and Asus bag are included. Photograph the base sticker with serial and any scratches.",
+ "rate_note": "All AUD, no conversion. Gowans hammers exclude premium."
+}

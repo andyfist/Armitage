@@ -5,6 +5,28 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "A$90",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28712 lot 673",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067134&chid=28712&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Local database (comps.py). Dimple ceramic decanter of whisky 750ml, model not stated, hammer excl. premium. Comparable category."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28712 lot 679",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067140&chid=28712&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Local database. Dimple ceramic decanter of whisky 750ml, model not stated, hammer excl. premium."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$80",
    "currency": "AUD",
    "aud_price": 80,
@@ -12,8 +34,18 @@
    "venue": "Australian Whisky Auctions",
    "url": "https://www.australianwhiskyauctions.com.au/lot-730332/haig-dimple-1980s-bottling-750ml",
    "same_item": "close",
-   "note": "Same blend and era but standard glass pinch bottle, not the ceramic America's Cup decanter. Hammer, excl. AWA buyer's premium. Same bottle passed in at A$45 in Jul, Aug and Sep 2026",
-   "via": "chrome"
+   "note": "From earlier Chrome research (state/chrome_sold.json); standard glass Dimple bottle, not the ceramic decanter. Hammer excl. premium. Passed in at A$45 three times before."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60-70",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2025-12-14 to 2026-07-19",
+   "venue": "Gowans Hobart (lots 382537 $60, 424431 $70)",
+   "url": "gowans lot id 382537 and 424431",
+   "same_item": "category guide",
+   "note": "Local database. Ordinary Dimple bottles, not decanters. Hammer, premium extra. Shows the floor for Dimple whisky."
   },
   {
    "kind": "SOLD",
@@ -28,8 +60,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: AWA 'dimple' filtered america/cup/decanter/1987 (none), 'america' (none relevant); SWA 'dimple america' (0); eBay AU sold 'dimple america's cup decanter' (0)",
- "viewing_check": "Ceramic decanters hide the fill, so weigh it or gently shake to check contents, check cork/seal, chips or crazing on the ceramic, plastic case cracks",
+ "searches_tried": "comps.py (pipeline and work) with dimple/america's cup/decanter/haig: no exact America's Cup decanter sale. Gowans API dimple decanter (nothing usable). One WebSearch for the 1987 America's Cup Dimple decanter: only generic UK Dimple ceramic decanter lots seen as snippets, no prices verified, none for this model. eBay sold prices would settle it. | chrome: AWA 'dimple' filtered america/cup/decanter/1987 (none), 'america' (none relevant); SWA 'dimple america' (0); eBay AU sold 'dimple america's cup decanter' (0)",
  "needs_chrome": false,
+ "chrome_hint": "eBay AU sold/completed: \"Dimple America's Cup 1987 decanter\"; also \"Haig Dimple Fremantle 1987\"",
+ "viewing_check": "Ceramic decanters hide the fill, so weigh it or gently shake to check contents, check cork/seal, chips or crazing on the ceramic, plastic case cracks",
+ "rate_note": "All AUD, no conversion needed.",
  "chrome_done": true
 }

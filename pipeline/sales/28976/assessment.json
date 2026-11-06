@@ -8,19 +8,46 @@
   "fee": 0.15,
   "premium": 0.22,
   "months": 24,
+  "chrome_floor": 100,
   "top": 25,
   "ignore_bids": false
  },
- "scanned": 232,
- "candidates": 51,
+ "scanned": 346,
+ "candidates": 60,
  "counts": {
-  "PASS": 13,
-  "CHROME": 16,
-  "FAIL": 16,
+  "PASS": 12,
+  "CHROME": 20,
+  "FAIL": 24,
   "DROP": 3,
-  "NOT RESEARCHED": 3
+  "NOT RESEARCHED": 1
  },
  "lots": [
+  {
+   "cdid": 3111827,
+   "lot": 997,
+   "title": "MACROCARPA SEATED NATURAL TIMB...",
+   "strength": 5,
+   "findings": "Rustic armchair with natural branch frame (arms, legs, stretchers, back uprights) and a thick figured slab seat with burl and knot figure, three plain sawn back splats. No maker's mark or label seen. Well made bush furniture with decorative appeal.",
+   "condition": "Natural bark finish darkened and worn; seat has natural splits and a knot hole near the back; back splats paler than frame (possibly replaced or less weathered). Appears sound.",
+   "current_bid": 50.0,
+   "bid_count": 1,
+   "close": "11/11/2026 5:32:20 PM ADST",
+   "identification": "Rustic natural branch-frame armchair with figured (burl) slab seat, probably macrocarpa/cypress, three sawn back slats (paler, possibly replacement). Unmarked, Australian or NZ bush furniture, likely mid to late 20th century. No maker identified.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold: rustic tree branch armchair burl slab seat; also eBay AU sold: macrocarpa chair; Trade Me sold: macrocarpa armchair",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
+  },
   {
    "cdid": 3111829,
    "lot": 999,
@@ -90,14 +117,74 @@
    "priority": false
   },
   {
+   "cdid": 3111830,
+   "lot": 1000,
+   "title": "RYLLTON VINEY OIL 'DARK SEA, L...",
+   "strength": 6,
+   "findings": "Abstract coastal landscape in oils, aluminium float frame, large (92 x 65 cm). Back label hand-lettered 'RYLLTON VINEY / \"DARK SEA - LIGHT CLIFFS.\" / 2003.' Ryllton Viney is a known Tasmanian painter whose abstracted landscapes are collected locally. Title on label is 'Light Cliffs' (catalogue says 'Light Cliff').",
+   "condition": "Surface looks clean in photo; frame edges with minor scuffs. No obvious damage.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 5:33:20 PM ADST",
+   "identification": "Ryllton Viney (b.1944, Tasmanian) abstract coastal landscape in oils, 'Dark Sea - Light Cliffs', 2003, 92 x 65 cm, aluminium float frame, artist's hand-lettered back label. Label-based identification only; no front signature seen.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 190.0,
+     "date": "2026-09-09",
+     "venue": "Armitage Auctions Launceston sale 28588 lot 1054",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=&chid=28588 (lot 1054, via local comps.py)",
+     "same_item": "close",
+     "note": "Viney oil on canvas 2012, 137 x 122 cm, larger and later, dark religious/political series. Local database; page not opened. Hammer, premium extra."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-08-19",
+     "venue": "Armitage Auctions Launceston sale 28447 lot 1024",
+     "url": "https://armitage.bidsonline.com.au/ (sale 28447 lot 1024, via local comps.py)",
+     "same_item": "close",
+     "note": "Same 2012 Scotland canvas title as above (probably the same work resold), 137 x 122 cm. Page not opened."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2026-07-29",
+     "venue": "Armitage Auctions Launceston sale 28328 lot 974",
+     "url": "https://armitage.bidsonline.com.au/ (sale 28328 lot 974, via local comps.py)",
+     "same_item": "close",
+     "note": "Viney oil, enamel, acrylic, charcoal on canvas 'Legacy of Empire, Ruins & Fragments I', 152 x 92 cm. Gallery lists the pair at $5,500 each, so auction is a small fraction of retail. Page not opened."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 2500.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Madeline Gordon Gallery, Launceston",
+     "url": "https://madelinegordongallery.com.au/shop/",
+     "same_item": "category guide",
+     "note": "Recent retail for the artist's current large mixed-media/oil works. snippet only, not verified. Gallery prices, not paid prices."
+    }
+   ],
+   "resale": 160.0,
+   "net_resale": 136.0,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0",
+   "priority": false
+  },
+  {
    "cdid": 3111836,
    "lot": 1006,
    "title": "AUGUST SCHOLZ OIL ON CANVAS ON...",
    "strength": 6,
    "findings": "Kunstkammer-style still life: nautilus cup, Delft-type charger, grapes and pears, open book, silver goblet, Japanned cabinet, small bronze, landscape painting on wall, and a carved stone tablet inscribed in Gothic script 'herr MARKGRAF ALBERT...'. Signature faint lower right, reads approx 'August Scholz'. August Scholz (German, 1857-1923?) painted these antiquarian still lifes and they appear at European auctions; quality here looks competent. Heavy carved ebonised frame with gilt slip. Attribution unverified, could be follower or copy.",
    "condition": "Canvas laid on board per catalogue, some surface grime, no obvious losses visible at this resolution.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 100.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:35:20 PM ADST",
    "identification": "Framed oil on canvas, Dutch-style antiquarian still life (gilt nautilus cup, blue plate, grapes, pears, open book, glass, lacquer box) in a dark carved frame; signature not legible in photos, so artist unconfirmed",
    "researched": true,
@@ -139,6 +226,57 @@
    "max_hammer": 0,
    "status": "DROP",
    "why": "no sold evidence and a weak photo score",
+   "priority": false
+  },
+  {
+   "cdid": 3111839,
+   "lot": 1009,
+   "title": "LIMITED EDITION PRINT 'CATCH A...",
+   "strength": 4,
+   "findings": "Hand-coloured etching/aquatint of a couple dancing past city buildings, man reaching for a star. Pencil inscribed '28/135', title '\"Catch a falling Star\"', signed 'Sibley '08'. Style matches Irena Sibley, Australian printmaker. Large edition of 135.",
+   "condition": "Framed under glass, black frame; paper appears clean, no foxing visible.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 5:36:20 PM ADST",
+   "identification": "Irena Sibley (Australian, 1943-2009), 'Catch a Falling Star', hand-coloured print numbered 28/135, signed 'Sibley '08', framed under glass. Same title and edition as a Gowans lot sold Feb 2026.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 50.0,
+     "date": "2026-02-23",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 392082 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sibley)",
+     "same_item": "yes",
+     "note": "SIBLEY LTD EDN PRINT - CATCH A FALLING STAR - SIGNED LOWER RIGHT. Same title, likely a different copy of the edition. Condition not checked. From comps database and Gowans API listing (listing opened via API). Premium extra."
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2026-07-05",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 421259",
+     "same_item": "close",
+     "note": "Sibley artist's proof print signed 2008, different image. Shows demand for 2008 Sibley prints. Gowans API listing."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2026-07-12",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 422872",
+     "same_item": "close",
+     "note": "Sibley limited edition print, image not identified. Gowans API listing."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 50.0,
+   "net_resale": 42.5,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -281,8 +419,8 @@
    "strength": 4,
    "findings": "Framed pastel of misty bush with eucalypts and tussock grass, signed lower right, signature crop reads roughly 'Murray 99' (dated 1999), consistent with Des Murray, Tasmanian landscape pastellist. Competent, typical of his saleable misty bush scenes. Mount and timber/gilt frame.",
    "condition": "Appears good under glass; no visible foxing or damage in photo.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 50.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:37:40 PM ADST",
    "identification": "Framed pastel landscape of misty bush with eucalypts and a track through ferns and autumn tones, in a mahogany-coloured frame with cream mount, portrait format; only one photo",
    "researched": true,
@@ -455,8 +593,8 @@
    "strength": 5,
    "findings": "Victorian mahogany extension dining table with heavy turned legs on brass castors, rounded corners, winder mechanism, frieze shows winder handle slot. Extends to 222 cm.",
    "condition": "Top polished, good colour; some marks; leaves appear present.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 100.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:46:20 PM ADST",
    "identification": "Victorian mahogany (pine top per title) two leaf wind-out extension dining table, 222 x 122 cm extended, H 74, turned legs on brass castors, rounded corners. Photos show a polished top with good colour and the winder slot in the frieze; looks sound.",
    "researched": true,
@@ -528,7 +666,7 @@
    "net_resale": 161.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $190 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $190 does not clear the current bid $100",
    "priority": false
   },
   {
@@ -600,6 +738,83 @@
    "priority": false
   },
   {
+   "cdid": 3111876,
+   "lot": 1046,
+   "title": "LARGE PINE CUTLERY TRAY W-51 C...",
+   "strength": 4,
+   "findings": "Pine cutlery/knife tray with arched ends, central divider with cut handle and two side divisions, old green painted exterior and dark stained interior. Country kitchen piece, possibly 19th or early 20th century, no maker's mark.",
+   "condition": "Paint worn and scuffed, some chips to edges; appears structurally sound.",
+   "current_bid": 30.0,
+   "bid_count": 1,
+   "close": "11/11/2026 5:48:40 PM ADST",
+   "identification": "Large pine cutlery/knife tray with arched ends, central cut-handle divider, old green paint exterior, dark stained interior. Unmarked, probably late 19th to early 20th century Australian or English country kitchen piece.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 25.0,
+     "date": "2026-09-06",
+     "venue": "Gowans Auctions, Hobart: PINE CUTLERY TRAY (lot id 436246, 5 bids)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/436246/",
+     "same_item": "close",
+     "note": "Local database and Gowans API; page not opened by me. Plain pine, no painted finish shown; lower end."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2025-12-03",
+     "venue": "Armitage Auctions sale 26805 lot 33: Vintage Huon pine cutlery tray 31x21 cm",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2756155&chid=26805&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database record; smaller, Huon pine, unpainted."
+    },
+    {
+     "aud_price": 85.0,
+     "date": "2025-05-07",
+     "venue": "Armitage Auctions sale 23989 lot 769: Pine cutlery tray circa 1900 L-36 cm",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491020&chid=23989&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database record; circa 1900 pine, comparable age, unpainted."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2025-05-07",
+     "venue": "Armitage Auctions sale 23991 lot 1361: Pine cutlery tray L-30 W-23 cm",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491171&chid=23991&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database record; smaller pine tray."
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 140.0,
+     "date": "2016-10-17",
+     "venue": "Leski Auctions, Melbourne sale 225 lot 480: folkart cutlery tray, kauri pine, 19th century",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/225",
+     "same_item": "close",
+     "note": "Local database record; old, not recent, shows ceiling for good 19th century folk pieces in Australia."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 1220.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Avery Dash (US dealer): 19th century American green painted pine cutlery tray",
+     "url": "https://www.averydash.com/products/19th-century-american-green-painted-pine-cutlery-tray",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified; rate about 1 USD = 1.53 AUD assumed. US dealer retail for early American painted piece, not comparable to Australian auction hammer."
+    }
+   ],
+   "resale": 67.5,
+   "net_resale": 57.375,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $68 does not clear the current bid $30",
+   "priority": false
+  },
+  {
    "cdid": 3111877,
    "lot": 1047,
    "title": "LARGE HANDSTITCHED IRANIAN PUR...",
@@ -632,6 +847,50 @@
    "max_hammer": 250,
    "status": "PASS",
    "why": "1 same-item SOLD price(s), median $600; less 15% fees = $510; less $200 profit, / 1.22 premium = max hammer $250",
+   "priority": false
+  },
+  {
+   "cdid": 3111879,
+   "lot": 1049,
+   "title": "CAST METAL FOLDING FIRE SCREEN...",
+   "strength": 4,
+   "findings": "Five-panel folding fire screen in heavily ornate cast metal, gilt finish, with mesh backing; Renaissance revival scrolls, rosettes, urn and wheel motifs, on scroll feet. Victorian/French style, possibly antique cast iron or brass; no foundry mark visible.",
+   "condition": "Gilt finish rubbed in places; appears complete; one photo only so back and joints not seen.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 5:49:40 PM ADST",
+   "identification": "Five-panel folding fire screen, ornate cast gilt metal (iron or brass/spelter) with mesh backing, Renaissance revival style, late 19th to early 20th century probable. No maker mark seen. Material and age unconfirmed.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold: 'antique gilt cast iron folding fire screen' and 'ornate brass folding fireplace screen mesh'; also LiveAuctioneers 'gilt folding fire screen'",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 140.0,
+     "date": "2026-06-17",
+     "venue": "Armitage Auctions, Launceston sale 28012 lot 365 (FOLDING FIRESCREEN CIRCA 1915)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2947814&chid=28012&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database hammer, premium extra. Folding firescreen, not confirmed cast or gilt. Comes from comps.py output, not opened."
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 470.0,
+     "date": "2016-03",
+     "venue": "Bellmans, UK, French gilt brass and mesh four-panel fire screen, late 19th c",
+     "url": "https://app.bellmans.co.uk/en/auction/2016MAR/917-a-french-gilt-brass-and-mesh-four-panel-fire-screen-late-19th-century-with-gilt-bronze-foliate-decoration-to-the-surmounts-139cm-wide-overall-67cm",
+     "same_item": "close",
+     "note": "Page opened. Old (2016) and UK; finer gilt brass. Rate approx 1 GBP = 1.96 AUD assumed, not checked."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "resale": 140.0,
+   "net_resale": 119.0,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $140 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -741,8 +1000,8 @@
    "strength": 5,
    "findings": "Acrylic of Australian bush with kangaroos, spotted-tailed quolls, owl and sugar glider. Signed lower right 'M. McWILLIAMS 1997' in block letters. Michael McWilliams is a known Australian wildlife painter (his works were used for Australia Post stamps).",
    "condition": "Framed under glass, appears good.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 5000.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:51:40 PM ADST",
    "identification": "Portrait-format painting of kangaroos around a dead tree with spotted-tailed quolls in the foreground, bush at dusk; photo shows it unframed on white paper with a border, so it may be a print or a work on paper. Signed lower right per the brief.",
    "researched": true,
@@ -792,7 +1051,9 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=geoff%20dyer",
      "same_item": "close",
      "note": "Untitled watercolour and gouache, signed lower right, 69x55.5cm, 7 bids. Local database and Gowans API; hammer, premium extra. Most relevant local comp, same buyer pool, larger sheet than ours but sold only $500."
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 1500.0,
      "date": "unknown (undated in page data)",
@@ -802,7 +1063,6 @@
      "note": "Riverbank, watercolour and gouache on paper, 36x40cm framed, a near match in size and subject. Parsed from embedded page JSON (page opened); premium inclusion unknown; date and house not captured."
     }
    ],
-   "sold_old": [],
    "unsold": [
     {
      "aud_price": 700.0,
@@ -831,11 +1091,11 @@
      "note": "Tasmania Coastline I, watercolour 75x115cm. Snippet only; unclear if result or estimate. Not verified."
     }
    ],
-   "resale": 1000.0,
-   "net_resale": 850.0,
-   "max_hammer": 530,
+   "resale": 500.0,
+   "net_resale": 425.0,
+   "max_hammer": 180,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $1,000; less 15% fees = $850; less $200 profit, / 1.22 premium = max hammer $530",
+   "why": "1 same-item SOLD price(s), median $500; less 15% fees = $425; less $200 profit, / 1.22 premium = max hammer $180",
    "priority": false
   },
   {
@@ -845,8 +1105,8 @@
    "strength": 8,
    "findings": "Colonial Tasmanian oil of Mount Roland with timber farm buildings, cattle at a creek and gums in mist. Signed lower left 'Higgs' with date (part legible); back of canvas inscribed in old ink 'Mount Rolands by J. Higgs Jnr 1887'. Joshua Higgs Jnr was a 19th-century Tasmanian landscape painter. Period canvas and stretcher, later gilt frame.",
    "condition": "Canvas with some grime and craquelure; back canvas stained/foxed; no obvious tears visible.",
-   "current_bid": 500.0,
-   "bid_count": 1,
+   "current_bid": 600.0,
+   "bid_count": 3,
    "close": "11/11/2026 5:54:20 PM ADST",
    "identification": "Gilt-framed oil landscape, Mount Roland style mountain with farm buildings, cattle and gum trees, hazy blue ranges; consistent with a Tasmanian 1880s work.",
    "researched": true,
@@ -1087,8 +1347,8 @@
    "strength": 6,
    "findings": "Domed-top carved trunk with bold strapwork/cartouche carving to front and ends, iron hasp and iron end handles, end panels with remains of gilt or brass colour. Carving style suggests Iberian or Continental provincial work; timber and patina look genuinely old (17th/18th century plausible), interior plain with old surface.",
    "condition": "Dry worn top with wear and splits, losses to carving edges, old repairs possible; interior sound.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 80.0,
+   "bid_count": 1,
    "close": "11/11/2026 6:07:00 PM ADST",
    "identification": "Domed-top carved timber coffer about 96cm long, strapwork cartouche carving on the front, iron hasp, very worn old top; looks Iberian/Continental provincial.",
    "researched": true,
@@ -1281,8 +1541,8 @@
    "strength": 5,
    "findings": "Victorian/William IV style mahogany scroll-end chaise (single end sofa) with deep scroll arm, scrolled back rail, turned feet, upholstered in brown leather with loose buttoned seat cushion and close-nailed back.",
    "condition": "Leather worn, creased and scuffed with some marks; timber finish worn; frame looks sound.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 100.0,
+   "bid_count": 1,
    "close": "11/11/2026 6:11:20 PM ADST",
    "identification": "Victorian/William IV style scroll-end chaise, mahogany (possibly colonial cedar), brown leather, turned feet. Photos show worn leather, sound frame.",
    "researched": true,
@@ -1362,7 +1622,7 @@
    "net_resale": 110.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $100",
    "priority": false
   },
   {
@@ -1431,8 +1691,8 @@
    "strength": 6,
    "findings": "Majolica-style jardiniere modelled as a woven basket (yellow, amber and green glazes) clasped by a seated monkey in matt brown; matches known Bretby novelty monkey jardinieres. The Bretby stamp claimed in title is not shown in any photo (base not photographed); only lot tag 1118 and vendor tag read.",
    "condition": "No obvious chips or cracks visible; glaze crazing possible, base unseen.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 50.0,
+   "bid_count": 1,
    "close": "11/11/2026 6:12:40 PM ADST",
    "identification": "Bretby art pottery novelty jardiniere, a large woven-basket planter in yellow and green glazes with a brown monkey clasping it, 28 cm high.",
    "researched": true,
@@ -1552,8 +1812,8 @@
    "strength": 8,
    "findings": "Very long serving/hall table, about 3.36 m, single board-look top on a twin-section frieze with six drawers and turned knobs, eight heavy turned baluster legs. Timber colour and grain consistent with Australian red cedar; drawer linings appear softwood with traditional construction. Look is consistent with a Victorian period colonial piece, though the length suggests it may be a shop or institutional piece or possibly altered/joined. No maker's marks seen.",
    "condition": "Top has refinish with some surface marks and wear; drawers present and working; legs sound. Possibly a later-joined or extended frame given the twin sections.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 300.0,
+   "bid_count": 1,
    "close": "11/11/2026 6:16:40 PM ADST",
    "identification": "Very long Victorian-style cedar six-drawer table with turned legs, about 3.36 m, serving or shop table, polished top, looks sound.",
    "researched": true,
@@ -1585,8 +1845,8 @@
    "resale": 300.0,
    "net_resale": 255.0,
    "max_hammer": 45,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $300; less 15% fees = $255; less $200 profit, / 1.22 premium = max hammer $45",
+   "status": "FAIL",
+   "why": "max hammer $45 from a median SOLD of $300 does not clear the current bid $300",
    "priority": false
   },
   {
@@ -2134,15 +2394,15 @@
    "lot": 1179,
    "title": "FRAMED HAND DRAWN JEWELLERY DE...",
    "strength": 3,
-   "findings": "Companion sheet of original pencil jewellery designs: buckles (Schnalle), brooches, floral sprays, with German annotations and pattern numbers (approx 22xxx/23xxx range), c1900 German maker's pattern book. Typed label on mount illegible.",
-   "condition": "Toned paper, cleaner than lot 1178; ornate frame.",
+   "findings": "Framed original pencil pattern-book sheet of costume jewellery designs: buckles, brooches, sprays and bows, each in a ruled cell with a pattern number (e.g. 27324, 27325, 27326, 27377, 27382) and handwritten notes in German ('Schnalle', 'Brosche ... silber'), typical of a Gablonz/Bohemian or German paste jewellery maker's design archive c1900-1920s. Typed label on mount, not legible at photo resolution.",
+   "condition": "Paper toned, appears intact; framed under glass in ornate silvered frame.",
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:33:00 PM ADST",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Framed original pencil pattern-book sheet of paste/costume jewellery designs (buckles, brooches, sprays), numbered cells with German notes, probably Gablonz/Bohemian or German maker's archive, c1900-1925. Maker not identified.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold/completed: original jewellery design drawing pattern sheet Gablonz OR Bohemian OR antique buckle designs framed; also LiveAuctioneers/Invaluable: jewelry design drawings gouache sold",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
@@ -2151,8 +2411,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -2160,25 +2420,183 @@
    "lot": 1182,
    "title": "WYKEHAM PERRY OIL 'LANDSCAPE W...",
    "strength": 3,
-   "findings": "Small oil on board, gum trees with picnicking figures in a misty paddock. Signed lower left, reads as 'Ian(?) Wykeham Perry', consistent with the title. Gilt frame with velvet slip.",
-   "condition": "Appears sound, frame has minor wear.",
+   "findings": "Small oil on board/canvas of picnickers under gums, gilt frame with red velvet slip. Signed lower left, cropped and read as '[Lou?] Wykeham Perry', consistent with the catalogue attribution. Competent decorative Australian gum-tree landscape, 29 x 40 cm.",
+   "condition": "Appears clean, frame good, no visible damage in photos.",
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:34:00 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Wykeham Perry (1936-2021), Victorian decorative gum-tree landscape with picnickers, oil on canvas/board, 29 x 40 cm, gilt frame with red velvet slip, signed lower left. Subject type is his commonest.",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": false,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 110.0,
+     "date": "2026-05-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/411957/",
+     "same_item": "close",
+     "note": "Oil on canvas, sunlit gum trees with three picnickers, signed lower left; closest subject match. Local database record, page not opened."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/418181/",
+     "same_item": "close",
+     "note": "Oil on canvas picnic scene, signed lower left. Local database record, page not opened."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2026-01-21",
+     "venue": "Armitage Auctions, Launceston sale 27045 lot 819",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2787676&chid=27045&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Bush Picnic 26 x 34 cm. Local database record, page not opened."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions, Launceston sale 28840 lot 967",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089261&chid=28840&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "Landscape with Figures 29 x 40 cm, same size and title as this lot (may be the same painting re-offered); low end. Local database record, page not opened."
+    },
+    {
+     "aud_price": 135.0,
+     "date": "2026-07-08",
+     "venue": "Armitage Auctions, Launceston sale 28166 lot 675",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2972580&chid=28166&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Country Landscape oil on board 29 x 35 cm. Local database record, page not opened."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2026-03-04",
+     "venue": "Armitage Auctions, Launceston sale 27351 lot 1003",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2834776&chid=27351&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Australian River Landscape oil on board 29 x 39 cm. Local database record, page not opened."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2025-12-14",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/382574/",
+     "same_item": "close",
+     "note": "River scene oil on board 29 x 39 cm signed lower left. Local database record, page not opened."
+    },
+    {
+     "aud_price": 240.0,
+     "date": "2025-12-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/380677/",
+     "same_item": "close",
+     "note": "Streetscape oil on board 29 x 39.5 cm; top of the small-board range. Local database record, page not opened."
+    },
+    {
+     "aud_price": 120.0,
+     "date": "2026-06-17",
+     "venue": "Armitage Auctions, Launceston sale 28014 lot 1011",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2946958&chid=28014&category=ALL&style=group",
+     "same_item": "close",
+     "note": "In the Garden 33 x 46 cm. Local database record, page not opened."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [
+    {
+     "aud_price": 0.0,
+     "date": "2025-12 to 2026-08",
+     "venue": "Gowans Auctions, Hobart (lots 432585, 434163, 419645, 404783 and others)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry",
+     "same_item": "category guide",
+     "note": "About 8 of 18 Gowans Wykeham Perry lots since Dec 2025 had sale_price 0 (no sale), so roughly 40% pass in. Ceiling signal only. Page not opened, API listing."
+    }
+   ],
+   "asking": [
+    {
+     "aud_price": 500.0,
+     "date": "seen 2026-11-06",
+     "venue": "Auction listing via WebSearch snippet",
+     "url": "https://www.artrecord.com/index.cfm/artist/12709-perry-wykeham/medium/1-paintings/?order=7&io=1&count=50",
+     "same_item": "category guide",
+     "note": "Snippet only, unverified, much larger work; estimate not a price paid. Rate AUD only."
+    }
+   ],
+   "resale": 160.0,
+   "net_resale": 136.0,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0",
+   "priority": false
+  },
+  {
+   "cdid": 3112015,
+   "lot": 1185,
+   "title": "SIGNED OIL 'STILL LIFE' H-46 W...",
+   "strength": 3,
+   "findings": "Still life of white gardenias in a cream vase, oil on canvas in a gilt frame, mid 20th century style, well painted. Signature lower right cropped at 4x but photo is low resolution: reads roughly 'J... ...' with a second line possibly a date; not legible enough to identify the artist.",
+   "condition": "Frame gilt worn and chipped along lower edge; canvas appears sound, slight surface grime.",
+   "current_bid": 20.0,
+   "bid_count": 1,
+   "close": "11/11/2026 6:35:00 PM ADST",
+   "identification": "Unidentified signed still life of white gardenias in a cream vase, oil on canvas, gilt frame, about 46 x 55 cm. Signature lower right (two lines, second probably a date) is not legible even enlarged on the 800x600 photo; first word may start with J. Artist not identified.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 70.0,
+     "date": "2026-03-16",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "gowans id 396997",
+     "same_item": "close",
+     "note": "Gilt framed oil on canvas still life, unattributed; local database title only, not opened."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2025-10-27",
+     "venue": "Gowans Auctions, Hobart (hammer)",
+     "url": "gowans id 370582",
+     "same_item": "close",
+     "note": "Gilt framed still life oil by Alice Patterson; local database title only."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-03-01",
+     "venue": "Gowans Auctions, Hobart (hammer)",
+     "url": "gowans id 393744",
+     "same_item": "close",
+     "note": "Gilt framed still life oil, B Thia; local database title only."
+    },
+    {
+     "aud_price": 190.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart (hammer)",
+     "url": "gowans id 424476",
+     "same_item": "close",
+     "note": "Signed oil, flowers, 33x48 cm; 6 bids; local database title only."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2025-10-06",
+     "venue": "Gowans Auctions, Hobart (hammer)",
+     "url": "gowans id 365613",
+     "same_item": "close",
+     "note": "V Curtis oil on board flowers, signed and dated 1920; local database title only."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 90.0,
+   "net_resale": 76.5,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -2486,8 +2904,8 @@
    "strength": 5,
    "findings": "Small framed watercolour of a weatherboard cottage with hens and a river beyond, gilt frame with linen mount. Signed lower left 'W. Menzies Gibb', matching the title. This pairs well with lot 1197. William Menzies Gibb (1859-1931) is a recorded Melbourne watercolourist.",
    "condition": "Mount has some toning. Frame has wear and old price marks (155) on the mount. Glazed.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 10.0,
+   "bid_count": 1,
    "close": "11/11/2026 6:41:40 PM ADST",
    "identification": "Signed W. Menzies Gibb, watercolour 'Feeding the Hens', cottage with hens by a river, 23 x 21 cm, framed with linen mount. William Menzies Gibb (1859-1931), Scottish-born, worked in NZ and Australia, prolific, low-value watercolourist. Signature reads plausibly in photo 2 but not checked in detail.",
    "researched": true,
@@ -2537,7 +2955,7 @@
    "net_resale": 170.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $200 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $200 does not clear the current bid $10",
    "priority": false
   },
   {
@@ -2547,8 +2965,8 @@
    "strength": 6,
    "findings": "Hand-coloured steel engraved map 'Van Diemen's Island or Tasmania' in the John Tallis decorative style, with a Greek key border, a top vignette view (Hobart Town and Mount Wellington), a lower left vignette of buildings, a lower right vignette of a thylacine-like animal, and a coin inset. This matches the c.1851 Tallis/Rapkin map. At this resolution it cannot be confirmed whether it is an original 1850s engraving or a later facsimile. The paper tone and the light colouring look consistent with an original.",
    "condition": "Clean and evenly toned, no obvious tears. Framed under glass with a red mount. Not examined out of the frame.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 15.0,
+   "bid_count": 1,
    "close": "11/11/2026 6:42:00 PM ADST",
    "identification": "John Tallis / John Rapkin 'Van Diemen's Island or Tasmania', c.1851, steel engraving with Greek key border, Hobart Town vignette, thylacine vignette, coin inset. Framed under glass with red mount, timber frame. Photo shows a small price tag on the mount. Original vs facsimile cannot be told from photo.",
    "researched": true,
@@ -2630,7 +3048,7 @@
    "net_resale": 31.875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $38 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $38 does not clear the current bid $15",
    "priority": false
   },
   {
@@ -2846,6 +3264,92 @@
    "priority": false
   },
   {
+   "cdid": 3112045,
+   "lot": 1217,
+   "title": "LG CORDZERO HANDSTICK & POWER ...",
+   "strength": 7,
+   "findings": "LG CordZero A9T-MAX All-in-One Tower auto-emptying handstick plus power mop vacuum, model A9T-MAX.ECGRLAP, colour green, charging station VDS-ST2GU.ACGRLAP, made in Korea. Box still strapped, appears new. Current premium model with high retail (roughly $1000+ RRP).",
+   "condition": "Box strapped, minor scuffs and a small tear at box corner; contents not seen.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 6:45:00 PM ADST",
+   "identification": "LG CordZero A9T-MAX All-in-One Tower auto-emptying handstick plus power mop, green, model A9T-MAX.ECGRLAP with station VDS-ST2GU.ACGRLAP, made in Korea. Boxed, strapped, appears new; contents not seen.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed listings: LG CordZero A9T-MAX (also A9T-MAX tower new in box)",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 1499.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "CHOICE (product listing, retail price)",
+     "url": "https://www.choice.com.au/products/home-and-living/laundry-and-cleaning/vacuum-cleaners/lg-cordzero-a9t-max-with-all-in-one-tower",
+     "same_item": "yes",
+     "note": "AUD, no conversion. Page opened. Retail price listed, not a price paid; page undated. New, full warranty."
+    },
+    {
+     "aud_price": 795.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Factory Plus (factory seconds, beige)",
+     "url": "https://factoryplus.com.au/products/lg-a9t-max-factory-seconds",
+     "same_item": "close",
+     "note": "AUD. Page opened. Factory seconds or ex-display, possible damaged packaging, 12 month warranty; colour beige not green. Best guide to a discounted resale level, but still an asking price."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
+  },
+  {
+   "cdid": 3112060,
+   "lot": 1232,
+   "title": "SAMSUNG JUICER & ACCESSORIES &...",
+   "strength": 3,
+   "findings": "Juicer is a SAMSON (not Samsung as catalogued): cream Samson single-auger masticating juicer with three-button panel and gold oval Samson badge, plus bag of screens/parts. Also an Anko Gaming Microphone Set (boxed, mic, shock mount, boom arm, USB cable). Title mis-attributes the juicer brand.",
+   "condition": "Juicer shows general use, cream plastic discoloured slightly, parts bagged; completeness not verifiable. Mic set appears unused.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 6:50:00 PM ADST",
+   "identification": "Juicer is a Samson (badge reads Samson, not Samsung) cream single-auger masticating juicer, likely GB-9001/GB-9002 family (discontinued), plus bag of screens/parts; with a boxed Anko (Kmart) Gaming Microphone Set that looks unused.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed listings: Samson juicer GB-9001 OR GB-9002 OR masticating",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 120.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Gumtree Maryborough QLD",
+     "url": "https://www.gumtree.com.au/s-ad/maryborough/blenders-juicers-food-processors/samson-cold-press-masticating-juicer/1321150279",
+     "same_item": "close",
+     "note": "Used Samson cold press masticating juicer, model not stated. Snippet only, not verified, asking not paid."
+    },
+    {
+     "aud_price": 39.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Kmart Australia, Anko Professional Gaming Microphone",
+     "url": "https://www.kmart.com.au/product/42959540",
+     "same_item": "category guide",
+     "note": "New retail for similar Anko mic. Snippet only. Set in lot is boxed, likely new, worth maybe $15-30 used."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
+  },
+  {
    "cdid": 3112076,
    "lot": 1248,
    "title": "PEARL BORG 101 GUITAR AMP - PO...",
@@ -2895,8 +3399,8 @@
    "strength": 5,
    "findings": "Bang & Olufsen curved wall/table CD and radio unit with curved speaker grille front and top control strip. Strip reads BANG & OLUFSEN, STOP, LOAD, CD, RADIO, VOLUME; exact model number not legible. Catalogue says only the radio works, implying CD fault.",
    "condition": "Grille appears intact; CD function apparently not working; no remote shown.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 30.0,
+   "bid_count": 1,
    "close": "11/11/2026 7:09:40 PM ADST",
    "identification": "Black curved fabric-grille wall/shelf unit, consistent with a Bang & Olufsen BeoSound 1 CD/radio player; no remote or stand seen, working order unknown.",
    "researched": true,
@@ -2970,6 +3474,90 @@
    "max_hammer": 200,
    "status": "PASS",
    "why": "4 same-item SOLD price(s), median $527; less 15% fees = $448; less $200 profit, / 1.22 premium = max hammer $200",
+   "priority": false
+  },
+  {
+   "cdid": 3112157,
+   "lot": 1329,
+   "title": "SAECO AUTOMATIC COFFEE MAKER &...",
+   "strength": 5,
+   "findings": "Saeco bean-to-cup superautomatic espresso machine, silver/black, badge 'Bean Switcher' and model script on front (faint, appears to be a Moltio-type model), with steam wand. Box of accessories includes a Saeco boxed item, Breville boxed item, tin, milk jug and cups.",
+   "condition": "Power on only per title, brewing not tested; general use wear, drip tray present.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 7:22:20 PM ADST",
+   "identification": "Saeco/Philips Saeco bean-to-cup superautomatic with Bean Switcher badge (Moltio/Xelsis-type, model not confirmed), steam wand, plus box of accessories (Saeco and Breville boxed items, tin, milk jug, cups). Power on only, brewing untested.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: Saeco Moltio OR Xelsis bean switcher used, Australia, sold items",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 80.0,
+     "date": "2026-10-25 (listed; sold late Oct/early Nov 2026)",
+     "venue": "Gowans Auctions, Hobart lot 1566",
+     "url": "gowans lot id 447977",
+     "same_item": "close",
+     "note": "SAECO COFFEE MACHINE, 1 bid, no description or model; API result, premium extra. Likely the closest recent comp but model unknown."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-08-19",
+     "venue": "Armitage Auctions sale 28447 lot 1246",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020416&chid=28447&category=ALL&style=group",
+     "same_item": "close",
+     "note": "SAECO COFFEE MACHINE, local comps database, model unknown."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2025-10-13",
+     "venue": "Gowans Auctions, Hobart lot 1487",
+     "url": "gowans lot id 368168",
+     "same_item": "close",
+     "note": "SAECO COFFEE MACHINE, 1 bid, no description."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-07-29",
+     "venue": "Armitage Auctions sale 28328 lot 1240",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2996835&chid=28328&category=ALL&style=group",
+     "same_item": "close",
+     "note": "SAECO COFFEE MAKER, local database, model unknown."
+    },
+    {
+     "aud_price": 9.0,
+     "date": "2026-07-26",
+     "venue": "Gowans Auctions, Hobart lot 1338",
+     "url": "gowans lot id 426819",
+     "same_item": "close",
+     "note": "PHILIPS SAECO COFFEE MACHINE, 0 bids."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 80.0,
+     "date": "undated, seen 2026-11-06",
+     "venue": "Gumtree (North Ryde NSW), Saeco Minuto HD8762",
+     "url": "https://www.gumtree.com.au/s-home-garden/saeco+coffee+machine/k0c18397",
+     "same_item": "category guide",
+     "note": "Snippet only, different model, unverified."
+    },
+    {
+     "aud_price": 299.0,
+     "date": "2015-10",
+     "venue": "ProductReview owner, Moltio HD8768 at Myer",
+     "url": "https://www.productreview.com.au/listings/saeco-moltio",
+     "same_item": "category guide",
+     "note": "Snippet only; old new-price anecdote, not a used price."
+    }
+   ],
+   "resale": 35.0,
+   "net_resale": 29.75,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $35 does not clear the current bid $0",
    "priority": false
   },
   {
