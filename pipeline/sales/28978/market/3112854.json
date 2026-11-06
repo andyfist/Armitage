@@ -1,0 +1,78 @@
+{
+ "cdid": 3112854,
+ "lot": 2013,
+ "identification": "MachT (Macht) mini petrol tiller/cultivator, likely 52cc 2-stroke budget import, red frame, MachT logo on tine guard. Not a Honda/Husqvarna. Retailer listing exists on MyShopping.com.au (MachT 52cc mini tiller), price not seen.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions, Hobart (lot id 415700, 6 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cultivator&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "WALK BEHIND CULTIVATOR; API record via comps database, brand and condition not checked. Premium extra. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-06-21",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tiller&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "HOWARD BULLFINCH ROTARY TILLER, 7 bids; larger, better-brand machine, so ceiling for the category. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tiller&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "HONDA F25F TILLER, Honda 4-stroke mini tiller, 7 bids. Better brand than Macht. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230 hammer",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-03-09",
+   "venue": "Gowans Auctions, Hobart (lot id 396248, 3 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tiller&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "HUSQVARNA TILLER WITH HONDA MOTOR; premium machine, not comparable to Macht."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$147.99 or best offer",
+   "currency": "AUD",
+   "aud_price": 147.99,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay AU (new 52cc 2-stroke mini tiller)",
+   "url": "https://ebay.com/itm/404808349625",
+   "same_item": "category guide",
+   "note": "Snippet only. New generic import 52cc, new price; a used Macht would sell well below."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$215.60 from (RRP $382.95)",
+   "currency": "AUD",
+   "aud_price": 215.6,
+   "date": "live, seen 2026-11-06",
+   "venue": "HR Sports (new 63cc tiller)",
+   "url": "https://www.hr-sports.com.au/outdoor-garden/garden-power-tools/cultivator/",
+   "same_item": "category guide",
+   "note": "Snippet only. New retail."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for macht/tiller/cultivator; Gowans API for tiller, cultivator, macht; WebSearch for Macht mini tiller price and site:armitage petrol tiller (no Armitage past result found). eBay sold prices would settle it but are closed to us.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold listings: MachT 52cc mini tiller cultivator",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Pull the cord to see if it starts and has compression; check tines turn freely, engine size on the plate, and no seized or cracked parts."
+}
