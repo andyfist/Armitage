@@ -1,7 +1,7 @@
 {
  "cdid": 3111229,
  "lot": 967,
- "identification": "Mixed watch lot: Omega De Ville quartz gents (square cushion steel case, integrated bracelet, date; scratched, working order unknown), vintage gold-tone automatic on expanding band (dial worn, maker illegible), ladies gold-tone dress watch, fake Gucci Dive and fake Louis Vuitton watches, plus three cupro-nickel crowns (Churchill 1965, 1953 coronation, 1977 Jubilee). Value is almost all the Omega; crowns are common and worth a few dollars each.",
+ "identification": "Mixed lot of five wrist watches (Omega De Ville quartz gents with square cushion steel case and integrated bracelet, gold-tone automatic on expanding band, ladies gold-tone, fake Gucci dive and fake Louis Vuitton) plus three crowns.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,72 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=watches%20omega&page%5Bnumber%5D=1",
    "same_item": "category guide",
    "note": "14 bids; upper end of mixed bag results. Premium extra. Local database / Gowans API JSON, snippet only (no lot page opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$456.03",
+   "currency": "AUD",
+   "aud_price": 456.03,
+   "date": "2026-11-05",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/206669848181",
+   "same_item": "yes",
+   "note": "Omega DeVille quartz Cal.1342 with integral bracelet, 48 bids, working. Postage A$43. Likely better condition than the lot's scratched watch. (Comp is for the Omega only; the lot is a mixed watch and coin lot.)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$197.94",
+   "currency": "AUD",
+   "aud_price": 197.94,
+   "date": "2026-11-05",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/880042960181",
+   "same_item": "yes",
+   "note": "Omega De Ville dress watch quartz, spares or repairs, 25 bids. Closest to an unknown-working-order lot. (Comp is for the Omega only; the lot is a mixed watch and coin lot.)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$170.77",
+   "currency": "AUD",
+   "aud_price": 170.77,
+   "date": "2026-11-06",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/287690072897",
+   "same_item": "no",
+   "note": "Omega De Ville vintage gold tone, champagne dial, spares and repairs, 7 bids. Gold tone case rather than steel.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$220.03",
+   "currency": "AUD",
+   "aud_price": 220.03,
+   "date": "2026-11-06",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/336869440247",
+   "same_item": "no",
+   "note": "Omega Seamaster De Ville quartz, 10K gold filled, 35 bids. Gold filled case, not steel.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$442.79",
+   "currency": "AUD",
+   "aud_price": 442.79,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117500321332",
+   "same_item": "no",
+   "note": "Omega Seamaster De Ville quartz Cal.1342, parts only, 'project', best offer accepted so actual price is at or below A$442.79.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for omega de ville quartz, omega deville, watches omega, churchill crown, jubilee crown (no crown sales found except unrelated Noble Victorian silver crowns); Gowans API for omega quartz and omega de ville steel. Sold Gowans single De Ville quartz range $200-380 (median about $290 hammer); mixed lots with an Omega $185-500. No ASKING or UNSOLD entries gathered; eBay sold listings for Omega De Ville quartz square cushion (cal 1332 or similar) would settle it better. No web search done.",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (pipeline and work) for omega de ville quartz, omega deville, watches omega, churchill crown, jubilee crown (no crown sales found except unrelated Noble Victorian silver crowns); Gowans API for omega quartz and omega de ville steel. Sold Gowans single De Ville quartz range $200-380 (median about $290 hammer); mixed lots with an Omega $185-500. No ASKING or UNSOLD entries gathered; eBay sold listings for Omega De Ville quartz square cushion (cal 1332 or similar) would settle it better. No web search done. | chrome: eBay AU sold: omega de ville quartz watch mens (many recent sales, from about A$170 for spares to A$1,377 for a mint steel TV dial). One earlier query returned an eBay error page and was retried. Gowans comps already in the brief not repeated.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: Omega De Ville quartz gents steel square cushion bracelet date",
- "viewing_check": "Check the Omega caseback and dial for model/reference (De Ville, case number), whether it runs and the date changes, bracelet is original Omega with clasp mark, depth of scratches on crystal. Try to read the maker on the gold-tone automatic dial and caseback (a good Swiss name or gold-filled would add value). Confirm coins are cupro-nickel crowns.",
- "rate_note": "All prices already AUD, no conversion."
+ "viewing_check": "Check the Omega dial and caseback for the model and movement number (Cal. 1342 or 1378 type), whether it runs and the date changes, scratches on the crystal, bracelet length and clasp. Photograph the dial and caseback. The other watches add little; the two fakes are worth nothing.",
+ "rate_note": "All prices already AUD, no conversion.",
+ "chrome_done": true
 }

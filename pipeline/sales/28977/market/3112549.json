@@ -1,8 +1,102 @@
-{"cdid":3112549,"lot":1522,"identification":"Icom IC-A22E handheld VHF air band (108-136 MHz) NAV/COM transceiver, the European-spec twin of the IC-A22 (discontinued). Photos show the unit with long rubber antenna, wall charger, earpiece/headset cable and the IC-A22/IC-A22E instruction manual. No battery pack condition visible.","entries":[
-{"kind":"SOLD","price":"$65 hammer","aud_price":65,"currency":"AUD","date":"2026-05-10","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/lots/409167 (gowans id 409167, 2 bids)","same_item":"category guide","note":"ICOM 40 plus channel transceiver etc; a different, non-aviation Icom radio, so only a guide to Tasmanian demand for used Icom comms gear. From local comps database, page not opened. Premium extra."},
-{"kind":"SOLD","price":"$5 hammer","aud_price":5,"currency":"AUD","date":"2026-11-01","venue":"Gowans (Hobart)","url":"gowans id 448872 (api: gowansauctions.com.au/backend/api/v1/lots/, 1 bid)","same_item":"category guide","note":"ICOM transceiver IC-02A/AT/E with manual; old 2m ham handheld, much lower demand than air band. Seen via Gowans API record, page not opened. Premium extra."},
-{"kind":"SOLD","price":"US $75.00 (Best Offer accepted)","aud_price":115,"currency":"USD","date":"2026-10-23 (as reported by search summary)","venue":"eBay (US)","url":"https://www.ebay.com/itm/117290882611","same_item":"close","note":"Used IC-A22 (non-E) sold on accepted Best Offer. Snippet only, not verified; unclear whether complete with charger. Rate used USD 1 = AUD 1.53 (approximate, not checked)."},
-{"kind":"ASKING","price":"US $55.00","aud_price":84,"currency":"USD","date":"live, seen 2026-11-06","venue":"eBay (US)","url":"https://www.ebay.com/itm/287464725914","same_item":"close","note":"IC-A22 listed as parts/not working per search summary. Snippet only. Rate 1.53."},
-{"kind":"ASKING","price":"US $80.00","aud_price":122,"currency":"USD","date":"live, seen 2026-11-06 (out of stock)","venue":"BMI Surplus","url":"https://bmisurplus.com/products/icom-navicom-ic-a22-vhf-airband-transceiver/","same_item":"close","note":"IC-A22 untested, no antenna, clip, dock or manual, battery needs replacing. Snippet only (page text had no price when fetched). Rate 1.53. Lot is more complete than this."},
-{"kind":"ASKING","price":"US $149.95","aud_price":229,"currency":"USD","date":"live, seen 2026-11-06 (sold out)","venue":"ineedths.com","url":"https://ineedths.com/products/icom-ic-a22-vhf-air-band-transceiver-w-battery-handheld-aircraft-monitoring","same_item":"close","note":"IC-A22 with battery, dealer retail price, shown sold out. Page opened. Dealer asking price, not price paid. Rate 1.53."}
-],"searches_tried":"comps.py (pipeline version crashed on a None field; work/comps.py: icom a22e, icom transceiver); Gowans API: icom, airband, air+band, avionics (no air band hits); WebSearch: IC-A22E sold price, IC-A22 for sale Australia; fetched bmisurplus, ineedths, avionicslist pages. No Australian sold result for IC-A22/IC-A22E found. eBay sold listings (IC-A22E and IC-A22, Australia and worldwide) would settle value best. Rate: USD1=AUD1.53 assumed. Evidence suggests used complete units roughly AUD 100-200; blind-score range of $150-250 looks a bit high on this evidence.","needs_chrome":true,"chrome_hint":"eBay sold + completed: 'Icom IC-A22E' and 'Icom IC-A22' (ebay.com.au and ebay.com), last 90 days; note whether sold with charger/manual/battery","viewing_check":"Check it powers on and shows display, battery pack present and holds charge (A22 uses BP-224/BP-222 packs, which are costly to replace), antenna and charger model/plug (Japan/UK vs AU), TX works (if possible), cracks, and serial/model label on the back saying IC-A22E."}
+{
+ "cdid": 3112549,
+ "lot": 1522,
+ "identification": "Icom handheld VHF air band transceiver (IC-A22 / A22E family per manual in photo) with long antenna, wall charger and instruction manual; battery condition unseen.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "aud_price": 65,
+   "currency": "AUD",
+   "date": "2026-05-10",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/lots/409167 (gowans id 409167, 2 bids)",
+   "same_item": "category guide",
+   "note": "ICOM 40 plus channel transceiver etc; a different, non-aviation Icom radio, so only a guide to Tasmanian demand for used Icom comms gear. From local comps database, page not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$5 hammer",
+   "aud_price": 5,
+   "currency": "AUD",
+   "date": "2026-11-01",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 448872 (api: gowansauctions.com.au/backend/api/v1/lots/, 1 bid)",
+   "same_item": "category guide",
+   "note": "ICOM transceiver IC-02A/AT/E with manual; old 2m ham handheld, much lower demand than air band. Seen via Gowans API record, page not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US $75.00 (Best Offer accepted)",
+   "aud_price": 115,
+   "currency": "USD",
+   "date": "2026-10-23 (as reported by search summary)",
+   "venue": "eBay (US)",
+   "url": "https://www.ebay.com/itm/117290882611",
+   "same_item": "close",
+   "note": "Used IC-A22 (non-E) sold on accepted Best Offer. Snippet only, not verified; unclear whether complete with charger. Rate used USD 1 = AUD 1.53 (approximate, not checked)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US $55.00",
+   "aud_price": 84,
+   "currency": "USD",
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay (US)",
+   "url": "https://www.ebay.com/itm/287464725914",
+   "same_item": "close",
+   "note": "IC-A22 listed as parts/not working per search summary. Snippet only. Rate 1.53."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US $80.00",
+   "aud_price": 122,
+   "currency": "USD",
+   "date": "live, seen 2026-11-06 (out of stock)",
+   "venue": "BMI Surplus",
+   "url": "https://bmisurplus.com/products/icom-navicom-ic-a22-vhf-airband-transceiver/",
+   "same_item": "close",
+   "note": "IC-A22 untested, no antenna, clip, dock or manual, battery needs replacing. Snippet only (page text had no price when fetched). Rate 1.53. Lot is more complete than this."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US $149.95",
+   "aud_price": 229,
+   "currency": "USD",
+   "date": "live, seen 2026-11-06 (sold out)",
+   "venue": "ineedths.com",
+   "url": "https://ineedths.com/products/icom-ic-a22-vhf-air-band-transceiver-w-battery-handheld-aircraft-monitoring",
+   "same_item": "close",
+   "note": "IC-A22 with battery, dealer retail price, shown sold out. Page opened. Dealer asking price, not price paid. Rate 1.53."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$206.32",
+   "currency": "AUD",
+   "aud_price": 206.32,
+   "date": "2026-08-09",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/236973494373",
+   "same_item": "yes",
+   "note": "ICOM IC-A22 VHF air band radio, pre-owned, Buy It Now, US seller plus A$26.91 postage. Accessories included not checked.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$108.05",
+   "currency": "AUD",
+   "aud_price": 108.05,
+   "date": "2026-10-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227456928223",
+   "same_item": "yes",
+   "note": "ICOM Navicom IC-A22, works plugged in (battery likely poor), US seller, listed Buy It Now or best offer, so price at or below A$108.05.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed on a None field; work/comps.py: icom a22e, icom transceiver); Gowans API: icom, airband, air+band, avionics (no air band hits); WebSearch: IC-A22E sold price, IC-A22 for sale Australia; fetched bmisurplus, ineedths, avionicslist pages. No Australian sold result for IC-A22/IC-A22E found. eBay sold listings (IC-A22E and IC-A22, Australia and worldwide) would settle value best. Rate: USD1=AUD1.53 assumed. Evidence suggests used complete units roughly AUD 100-200; blind-score range of $150-250 looks a bit high on this evidence. | chrome: eBay AU sold: icom ic-a22 (blank, page did not load); eBay AU sold: icom a22 airband (2 IC-A22 comps above, plus IC-A25N at A$595 to A$633 and IC-A24 for parts A$127, not recorded); eBay US sold skipped, it asks for sign-in.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold + completed: 'Icom IC-A22E' and 'Icom IC-A22' (ebay.com.au and ebay.com), last 90 days; note whether sold with charger/manual/battery",
+ "viewing_check": "Check which model it is on the rear label (IC-A22 vs A22E), whether it powers on and holds a charge on the supplied charger, battery pack condition, antenna, belt clip and cracks. Photograph the label, display and the charger label.",
+ "chrome_done": true
+}

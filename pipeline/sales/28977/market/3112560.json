@@ -1,10 +1,172 @@
-{"cdid":3112560,"lot":1533,"identification":"Zenit Photosniper FS-12 kit: Zenit 12S body, Tair-3S 300mm f4.5, gunstock, case. Body shutter jammed.","entries":[
-{"kind":"SOLD","price":"GBP 112 incl premium","currency":"GBP","aud_price":224,"date":"2023-01-04","venue":"Flints Auctions (UK), Collectors Sale lot 178","url":"https://www.flintsauctions.com/auction/lot/178-a-zenith-photo-sniper-35mm-camera--lens-outfit/?lot=18887&sd=1","same_item":"close","note":"Page opened. Zenit-ES FS-3 outfit with Tair-3-PhS, Helios 44-2, case, working shutter. Rate 2.0 AUD/GBP. Includes premium, UK, older than 24 months; working body, so better than this lot."},
-{"kind":"SOLD","price":"GBP 112 (snippet, premium unknown)","currency":"GBP","aud_price":224,"date":"undated","venue":"Chiswick Auctions (UK) lot 241","url":"https://www.chiswickauctions.co.uk/auction/lot/241-zenit-es-photosniper-camera/?lot=223338&sd=1","same_item":"close","note":"Snippet only, page blocked, not verified. Zenit ES Photosniper with Tair-3-PhS. Rate 2.0."},
-{"kind":"SOLD","price":"USD 175","currency":"USD","aud_price":263,"date":"2012-09-11","venue":"eBay, FS 12C Zenit ES Tair 3S","url":"https://www.ebay.com/itm/190723864565","same_item":"close","note":"Snippet only via search summary, old (2012), not verified. Rate 1.5 AUD/USD."},
-{"kind":"SOLD","price":"GBP 105 (snippet)","currency":"GBP","aud_price":210,"date":"Sep 30, year not stated","venue":"eBay UK, FS-3 kit","url":"https://www.ebay.com/itm/376570164324","same_item":"close","note":"Snippet only, not verified. Zenit ES + Tair-3PhS. Rate 2.0."},
-{"kind":"SOLD","price":"AUD 160 hammer","currency":"AUD","aud_price":160,"date":"2026-07-19","venue":"Gowans Hobart, ZENIT 12XP CAMERA (id 424825)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=zenit&page%5Bnumber%5D=1","same_item":"category guide","note":"Body only, 7 bids, Tasmanian buyers; shows local interest in Zenit 12 bodies. Premium extra."},
-{"kind":"UNSOLD","price":"reserve not met","currency":"GBP","aud_price":0,"date":"unknown","venue":"Demode Antiques timed auction","url":"https://demodeantiques.com/shop/timedauction/zenit-photosniper-vintage-camera/","same_item":"close","note":"Snippet only. Kit with case did not reach reserve; no figure."},
-{"kind":"ASKING","price":"USD 380 (Ukraine seller, 12S/Tair-3S set)","currency":"USD","aud_price":570,"date":"live, seen 2026-11-06","venue":"eBay","url":"https://www.ebay.com/itm/236056482480","same_item":"yes","note":"Snippet only. Working-body dealer ask, not paid. Rate 1.5."},
-{"kind":"ASKING","price":"USD 210 to 294","currency":"USD","aud_price":380,"date":"live, seen 2026-11-06","venue":"Kamerastore","url":"https://kamerastore.com/en-us/products/zenit-photosniper-fs-12","same_item":"yes","note":"Snippet only. Dealer asks for tested FS-12 kits, mid about 250 USD. Rate 1.5."}],
-"searches_tried":"pipeline comps.py crashed (NoneType error); work/comps.py and Gowans API: no photosniper, only Zenit 12XP $160 and Zenit II $55. WebSearch x2 for FS-12/Tair-3S sold. eBay sold prices would settle it.","needs_chrome":true,"chrome_hint":"eBay sold items: Zenit photosniper FS-12 (also 'photosniper Tair-3S 300mm'), last 12 months, note working vs faulty","viewing_check":"Photograph the body serial and shutter (try winding, any film advance), confirm lens is Tair-3S 300mm with clean glass and no fungus, check the gunstock, filters, hood and manual are all present."}
+{
+ "cdid": 3112560,
+ "lot": 1533,
+ "identification": "Zenit Photosniper FS-12 kit in a black hard case: Zenit body, Tair-3S 300mm f/4.5 lens, gunstock, accessories and manual; shutter jammed per catalogue.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "GBP 112 incl premium",
+   "currency": "GBP",
+   "aud_price": 224,
+   "date": "2023-01-04",
+   "venue": "Flints Auctions (UK), Collectors Sale lot 178",
+   "url": "https://www.flintsauctions.com/auction/lot/178-a-zenith-photo-sniper-35mm-camera--lens-outfit/?lot=18887&sd=1",
+   "same_item": "close",
+   "note": "Page opened. Zenit-ES FS-3 outfit with Tair-3-PhS, Helios 44-2, case, working shutter. Rate 2.0 AUD/GBP. Includes premium, UK, older than 24 months; working body, so better than this lot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 112 (snippet, premium unknown)",
+   "currency": "GBP",
+   "aud_price": 224,
+   "date": "undated",
+   "venue": "Chiswick Auctions (UK) lot 241",
+   "url": "https://www.chiswickauctions.co.uk/auction/lot/241-zenit-es-photosniper-camera/?lot=223338&sd=1",
+   "same_item": "close",
+   "note": "Snippet only, page blocked, not verified. Zenit ES Photosniper with Tair-3-PhS. Rate 2.0."
+  },
+  {
+   "kind": "SOLD",
+   "price": "USD 175",
+   "currency": "USD",
+   "aud_price": 263,
+   "date": "2012-09-11",
+   "venue": "eBay, FS 12C Zenit ES Tair 3S",
+   "url": "https://www.ebay.com/itm/190723864565",
+   "same_item": "close",
+   "note": "Snippet only via search summary, old (2012), not verified. Rate 1.5 AUD/USD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 105 (snippet)",
+   "currency": "GBP",
+   "aud_price": 210,
+   "date": "Sep 30, year not stated",
+   "venue": "eBay UK, FS-3 kit",
+   "url": "https://www.ebay.com/itm/376570164324",
+   "same_item": "close",
+   "note": "Snippet only, not verified. Zenit ES + Tair-3PhS. Rate 2.0."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-07-19",
+   "venue": "Gowans Hobart, ZENIT 12XP CAMERA (id 424825)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=zenit&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Body only, 7 bids, Tasmanian buyers; shows local interest in Zenit 12 bodies. Premium extra."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "reserve not met",
+   "currency": "GBP",
+   "aud_price": 0,
+   "date": "unknown",
+   "venue": "Demode Antiques timed auction",
+   "url": "https://demodeantiques.com/shop/timedauction/zenit-photosniper-vintage-camera/",
+   "same_item": "close",
+   "note": "Snippet only. Kit with case did not reach reserve; no figure."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 380 (Ukraine seller, 12S/Tair-3S set)",
+   "currency": "USD",
+   "aud_price": 570,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay",
+   "url": "https://www.ebay.com/itm/236056482480",
+   "same_item": "yes",
+   "note": "Snippet only. Working-body dealer ask, not paid. Rate 1.5."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 210 to 294",
+   "currency": "USD",
+   "aud_price": 380,
+   "date": "live, seen 2026-11-06",
+   "venue": "Kamerastore",
+   "url": "https://kamerastore.com/en-us/products/zenit-photosniper-fs-12",
+   "same_item": "yes",
+   "note": "Snippet only. Dealer asks for tested FS-12 kits, mid about 250 USD. Rate 1.5."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$242.57",
+   "currency": "AUD",
+   "aud_price": 242.57,
+   "date": "2026-10-02",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/377525404141",
+   "same_item": "yes",
+   "note": "FS-12 Photosniper with Tair-3S 300mm and Helios 44M-7, 'full outfit', working status not stated. Best Offer listing, actual price may be lower. Postage about A$199.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$293.61",
+   "currency": "AUD",
+   "aud_price": 293.61,
+   "date": "2026-08-25",
+   "venue": "eBay AU (Poland seller)",
+   "url": "https://www.ebay.com.au/itm/389370460571",
+   "same_item": "yes",
+   "note": "FS 12 photo gun with Tair 4.5/300 lens. Best offer accepted, actual price below the shown A$293.61.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$200.00",
+   "currency": "AUD",
+   "aud_price": 200.0,
+   "date": "2026-08-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/358790907967",
+   "same_item": "yes",
+   "note": "Photosniper FS-12 kit, Tair 300mm f/4.5 plus Zenit 12S, pre-owned. Best Offer listing, so actual price may be lower.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$165.65",
+   "currency": "AUD",
+   "aud_price": 165.65,
+   "date": "2026-08-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227459597900",
+   "same_item": "yes",
+   "note": "FS-12S kit, Tair 300mm plus Zenit 12S, 2 bids. Postage A$21.52.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$127.87",
+   "currency": "AUD",
+   "aud_price": 127.87,
+   "date": "2026-09-30",
+   "venue": "eBay AU (France seller)",
+   "url": "https://www.ebay.com.au/itm/158321769566",
+   "same_item": "yes",
+   "note": "FS-12 Zenit-ES with Tair-3S 300mm, 1 bid. Postage A$56.65.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$571.35",
+   "currency": "AUD",
+   "aud_price": 571.35,
+   "date": "2026-08-12",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407039431759",
+   "same_item": "no",
+   "note": "FS-12 Zenit-ES set with Tair-3S, boxed, likely in better condition. Best offer accepted, actual price below the shown A$571.35.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline comps.py crashed (NoneType error); work/comps.py and Gowans API: no photosniper, only Zenit 12XP $160 and Zenit II $55. WebSearch x2 for FS-12/Tair-3S sold. eBay sold prices would settle it. | chrome: eBay AU sold: zenit photosniper FS-12 (many results, Aug to Nov 2026, working status mostly not stated). Lens is the main value, so a jammed body should matter less.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold items: Zenit photosniper FS-12 (also 'photosniper Tair-3S 300mm'), last 12 months, note working vs faulty",
+ "viewing_check": "Check the body number and that the body is a Zenit 12S or ES, the Tair-3S lens glass for fungus, haze and scratches, whether the focus and aperture rings move, the gunstock and rubber eyecup, and what else is in the case. Try the shutter by hand. Photograph the lens serial.",
+ "chrome_done": true
+}

@@ -1,7 +1,7 @@
 {
  "cdid": 3111884,
  "lot": 1054,
- "identification": "Kenneth Jack (1924-2006) style street scene, Elmore, Victoria, framed watercolour-like image with faint signature at lower right. Could be an original watercolour or a reproduction print (very even finish, no pencil edition number seen).",
+ "identification": "Framed pastel-like landscape of a country main street (Elmore), matted, looks like a printed reproduction after Kenneth Jack rather than an original.",
  "entries": [
   {
    "kind": "SOLD",
@@ -123,11 +123,36 @@
    "url": "gowans id 382750",
    "same_item": "category guide",
    "note": "Tasmanian print, Richmond Bridge, Kenneth Jack, hammer $25 (local database). Tasmanian room print price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.00",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-08-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327309569096",
+   "same_item": "no",
+   "note": "Kenneth Jack print 'Storm Aftermath in Terowie', different image, print. Listed A$85 with best offer option, true price may be lower.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$15.05",
+   "currency": "AUD",
+   "aud_price": 15.05,
+   "date": "2026-09-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267778234626",
+   "same_item": "no",
+   "note": "Kenneth Jack print 'Along the River Murray' 1983, framed, 5 bids, plus A$20 postage. Different image, print.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (both databases) for kenneth jack / elmore; Gowans API search kenneth jack; WebSearch Kenneth Jack watercolour sold; Invaluable artist page parsed (about 50 recent results). Not tried: Artrecord/AASD (hidden prices), eBay (closed). eBay sold listings for Kenneth Jack prints Elmore would help confirm print value. Rates: all AUD, no conversion. If a print: roughly $25-100. If a genuine original: roughly $280-600 typical, up to $1,600 for rare larger works; many originals pass in below $300.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (both databases) for kenneth jack / elmore; Gowans API search kenneth jack; WebSearch Kenneth Jack watercolour sold; Invaluable artist page parsed (about 50 recent results). Not tried: Artrecord/AASD (hidden prices), eBay (closed). eBay sold listings for Kenneth Jack prints Elmore would help confirm print value. Rates: all AUD, no conversion. If a print: roughly $25-100. If a genuine original: roughly $280-600 typical, up to $1,600 for rare larger works; many originals pass in below $300. | chrome: eBay AU sold: kenneth jack elmore (only prints of other scenes, A$15 to A$85). Invaluable/LiveAuctioneers not tried.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold listings: Kenneth Jack Elmore print; also Invaluable/LiveAuctioneers Kenneth Jack Elmore",
- "viewing_check": "Inspect under the glass or remove the backing if allowed: is the image printed (halftone dots or even ink dots under a loupe, no paper cockling or brush texture) or true watercolour? Read the signature at lower right, check for pencil edition number, title and signature below the image on the mount, and the backing label for gallery or publisher details. Photograph the signature and any labels.",
- "rate_note": "All results in AUD; no conversion needed (one Pasarel USD result omitted)."
+ "viewing_check": "Decide if it is an original or a print: look for pencil edition number, plate mark, dot pattern under magnification, and whether the paper is under glass. Photograph signature and any label on the back.",
+ "rate_note": "All results in AUD; no conversion needed (one Pasarel USD result omitted).",
+ "chrome_done": true
 }

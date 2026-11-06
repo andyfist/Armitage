@@ -1,9 +1,127 @@
-{"cdid":3111151,"lot":889,"identification":"1923 Australian George V halfpenny, Melbourne Mint, the key date. Date reads 1923 clearly in photo, brown, even wear, approx Fine. Authenticity (altered 1928/1925 date) not settled from photos.","entries":[
-{"kind":"ASKING","price":"$925","aud_price":925,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Sterling Currency (dealer)","url":"https://www.sterlingcurrency.com.au/1923-halfpenny-fine","same_item":"yes","note":"Fine, page opened. Dealer asking price, not a price paid."},
-{"kind":"ASKING","price":"$950 (snippet said last sold 29/12/2025)","aud_price":950,"currency":"AUD","date":"2025-12-29","venue":"Sterling Currency (dealer)","url":"https://www.sterlingcurrency.com.au/1923-halfpenny-fine","same_item":"yes","note":"Snippet only; the opened page showed no sold date, so treated as asking, unverified."},
-{"kind":"ASKING","price":"AUD 1,050","aud_price":1050,"currency":"AUD","date":"live, seen 2026-11-06","venue":"The Purple Penny (dealer)","url":"https://www.thepurplepenny.com/product/australia-1923-half-penny-fine-5/","same_item":"yes","note":"Fine, snippet only."},
-{"kind":"SOLD","price":"AU$625","aud_price":625,"currency":"AUD","date":"unknown","venue":"Roxburys (auction)","url":"https://bid.roxburys.com.au/lots/view/4-BAU9ST/george-v-halfpenny-1923-fine","same_item":"yes","note":"Fine, estimate $500-700. Snippet only, page opened but showed only blank template; date unknown, premium status unknown. Unverified."},
-{"kind":"UNSOLD","price":"estimate A$1,350-1,750, passed","aud_price":1350,"currency":"AUD","date":"2024-08","venue":"Smalls Auctions","url":"https://www.smallsauctions.com/auction-lot/australia-1923-halfpenny-very-fine_9a84f24bd4","same_item":"close","note":"Very Fine, passed in. Snippet only (page opened gave no lot details)."},
-{"kind":"SOLD","price":"US$648 (PCGS VF35)","aud_price":980,"currency":"USD","date":"2020-02","venue":"Goldberg Auctioneers via PCGS Auction Prices","url":"https://www.pcgs.com/auctionprices/item/1923-1-2d-km-22-bn/16590/5187341873885191095","same_item":"close","note":"Slabbed VF35, rate about 1.51 AUD per USD assumed. Snippet only, old, US venue. Unverified."}
-],
-"searches_tried":"comps.py pipeline (crashed on a None value), work/comps.py (no 1923 single halfpenny; only 1923 part sets that say NO 1923), Gowans API (nothing relevant), WebSearch x2 (Noble, dealer, auction results), fetched Sterling, Coinworks (only a $75k uncirculated), Roxburys, Smalls. No Armitage or Noble lot result found. eBay sold would help.","needs_chrome":true,"chrome_hint":"eBay sold items: \"1923 halfpenny australia\" Fine or VF; also Noble Numismatics prices realised 1923 halfpenny","rate_note":"USD at 1.51 AUD assumed; other prices AUD. Dealer retail runs roughly 925-1,150 for Fine to VF; auction hammer likely lower, around 500-700 for a genuine Fine.","viewing_check":"Check the 3 of the date for alteration (compare with 1928/1925 and 1913-1914 style); look at the reverse for matching wear and colour, weight about 9.6g, and any tooling or filing around the date. A genuine coin is clearly valuable; also check for holes and cleaning."}
+{
+ "cdid": 3111151,
+ "lot": 889,
+ "identification": "Australian George V halfpenny, brown, even wear, date at foot reads 192x (1923 per catalogue), 6 pearls and centre diamond variety noted.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "$925",
+   "aud_price": 925,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Sterling Currency (dealer)",
+   "url": "https://www.sterlingcurrency.com.au/1923-halfpenny-fine",
+   "same_item": "yes",
+   "note": "Fine, page opened. Dealer asking price, not a price paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$950 (snippet said last sold 29/12/2025)",
+   "aud_price": 950,
+   "currency": "AUD",
+   "date": "2025-12-29",
+   "venue": "Sterling Currency (dealer)",
+   "url": "https://www.sterlingcurrency.com.au/1923-halfpenny-fine",
+   "same_item": "yes",
+   "note": "Snippet only; the opened page showed no sold date, so treated as asking, unverified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AUD 1,050",
+   "aud_price": 1050,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "The Purple Penny (dealer)",
+   "url": "https://www.thepurplepenny.com/product/australia-1923-half-penny-fine-5/",
+   "same_item": "yes",
+   "note": "Fine, snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$625",
+   "aud_price": 625,
+   "currency": "AUD",
+   "date": "unknown",
+   "venue": "Roxburys (auction)",
+   "url": "https://bid.roxburys.com.au/lots/view/4-BAU9ST/george-v-halfpenny-1923-fine",
+   "same_item": "yes",
+   "note": "Fine, estimate $500-700. Snippet only, page opened but showed only blank template; date unknown, premium status unknown. Unverified."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "estimate A$1,350-1,750, passed",
+   "aud_price": 1350,
+   "currency": "AUD",
+   "date": "2024-08",
+   "venue": "Smalls Auctions",
+   "url": "https://www.smallsauctions.com/auction-lot/australia-1923-halfpenny-very-fine_9a84f24bd4",
+   "same_item": "close",
+   "note": "Very Fine, passed in. Snippet only (page opened gave no lot details)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$648 (PCGS VF35)",
+   "aud_price": 980,
+   "currency": "USD",
+   "date": "2020-02",
+   "venue": "Goldberg Auctioneers via PCGS Auction Prices",
+   "url": "https://www.pcgs.com/auctionprices/item/1923-1-2d-km-22-bn/16590/5187341873885191095",
+   "same_item": "close",
+   "note": "Slabbed VF35, rate about 1.51 AUD per USD assumed. Snippet only, old, US venue. Unverified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$950.00",
+   "currency": "AUD",
+   "aud_price": 950,
+   "date": "2026-10-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/188985210595",
+   "same_item": "yes",
+   "note": "1923 Australia George V halfpenny, Fine condition, ungraded, Buy It Now. Authenticity not independently checked.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,299.00",
+   "currency": "AUD",
+   "aud_price": 1299,
+   "date": "2026-10-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158255332474",
+   "same_item": "no",
+   "note": "1923 halfpenny PCGS VF35, slabbed, better grade than a Fine raw coin, Buy It Now.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$842.70",
+   "currency": "AUD",
+   "aud_price": 842.7,
+   "date": "2026-10-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318926619294",
+   "same_item": "no",
+   "note": "1923 halfpenny PCGS VF, slabbed. Best offer accepted, actual price below the shown A$842.70.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$650.00",
+   "currency": "AUD",
+   "aud_price": 650,
+   "date": "2026-10-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/820190963242",
+   "same_item": "no",
+   "note": "1923 halfpenny PCGS 'Damage, XF detail', slabbed and damaged. Best offer accepted, actual price below the shown A$650.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py pipeline (crashed on a None value), work/comps.py (no 1923 single halfpenny; only 1923 part sets that say NO 1923), Gowans API (nothing relevant), WebSearch x2 (Noble, dealer, auction results), fetched Sterling, Coinworks (only a $75k uncirculated), Roxburys, Smalls. No Armitage or Noble lot result found. eBay sold would help. | chrome: eBay AU sold: 1923 halfpenny australia (mostly A$12 to A$15 replica filler tokens); eBay AU sold: 1923 halfpenny genuine key date Fine/VF/graded with min A$60 (4 genuine comps above). Noble archive not tried.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold items: \"1923 halfpenny australia\" Fine or VF; also Noble Numismatics prices realised 1923 halfpenny",
+ "rate_note": "USD at 1.51 AUD assumed; other prices AUD. Dealer retail runs roughly 925-1,150 for Fine to VF; auction hammer likely lower, around 500-700 for a genuine Fine.",
+ "viewing_check": "The main risk is an altered date or a copy (eBay is full of 1923 'filler' tokens at A$12 to A$15). Check the date under magnification for tool marks or a different digit underneath, the edge, weight (about 5.7 g) and the fine detail of the pearls. Photograph the date and both faces in raw light. Compare with a known 1923.",
+ "chrome_done": true
+}

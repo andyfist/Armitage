@@ -1,7 +1,7 @@
 {
  "cdid": 3112312,
  "lot": 1406,
- "identification": "Wilesco D365 (earlier D36) 'Old Smokey' live steam roller, West Germany, green boiler, red canopy and spoked wheels, whistle, flywheel, chain steering. Photos show a partial yellow Wilesco decal on the smokebox; no box, no burner, tank or accessories visible; untested.",
+ "identification": "Wilesco D365 'Old Smokey' live steam roller, West Germany, green boiler, red canopy, red spoked wheels; no box or burner visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,96 @@
    "url": "https://bid.stroudauctions.co.uk/past-auctions/srstr10059/lot-details/55d14f5f-0ed4-47bc-a2d9-a76700cd16d2",
    "same_item": "yes",
    "note": "Snippet only (page empty). Appeared unsold at about \u00a3100 start. Ceiling signal only. Rate GBP 1 = AUD 2.05 on the top estimate."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$334.55",
+   "currency": "AUD",
+   "aud_price": 334.55,
+   "date": "2026-10-01",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/800738414859",
+   "same_item": "yes",
+   "note": "Wilesco Old Smokey, very good condition, listed with or best offer, price may be the listed price. Postage extra about A$65.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$339.60",
+   "currency": "AUD",
+   "aud_price": 339.6,
+   "date": "2026-10-21",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/336846985241",
+   "same_item": "yes",
+   "note": "Wilesco Old Smokey vintage green. Listing had Best Offer, so the actual price may be lower than shown. Postage estimate A$204.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$260.03",
+   "currency": "AUD",
+   "aud_price": 260.03,
+   "date": "2026-09-27",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/267785897373",
+   "same_item": "yes",
+   "note": "D365 Old Smokey, described as complete, 19 bids. Postage A$44.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$242.71",
+   "currency": "AUD",
+   "aud_price": 242.71,
+   "date": "2026-11-05",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/920105431961",
+   "same_item": "yes",
+   "note": "D365 Old Smoky 'barn find', best offer accepted, actual price below the shown A$242.71. Closest to this lot's untested, incomplete state.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$256.15",
+   "currency": "AUD",
+   "aud_price": 256.15,
+   "date": "2026-10-03",
+   "venue": "eBay AU (UK seller)",
+   "url": "https://www.ebay.com.au/itm/366706722147",
+   "same_item": "yes",
+   "note": "D365 Old Smokey 'for repair', Buy It Now. Postage A$39.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$239.95",
+   "currency": "AUD",
+   "aud_price": 239.95,
+   "date": "2026-09-16",
+   "venue": "eBay AU (AU stock)",
+   "url": "https://www.ebay.com.au/itm/188932541580",
+   "same_item": "yes",
+   "note": "D365 steam roller from an Australian seller, listed A$249.95, A$239.95 with coupon, Buy It Now. Sold price may differ slightly.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$361.25",
+   "currency": "AUD",
+   "aud_price": 361.25,
+   "date": "2026-10-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257782575356",
+   "same_item": "no",
+   "note": "D36 1966 with box, listed A$425, A$361.25 with coupon. Boxed, so better than this lot.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (TypeError on a None aud_hammer in its data); work/comps.py wilesco, old smokey, steam roller, steam: no Wilesco hits. Gowans API wilesco, old smokey, steam roller, live steam: no same-item results (only a boxed Mamod live steam train with tracks at $640 hammer, Nov 2025, a different maker and a boxed set). WebSearch x2 on Wilesco Old Smokey sold/Australia: no Australian result found. Opened Thomas Watson, fabtintoys, Invaluable (price hidden); Clevedon, LiveAuctioneers, Stroud, Etsy blocked. eBay sold prices (ebay.com.au) would settle it.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py crashed (TypeError on a None aud_hammer in its data); work/comps.py wilesco, old smokey, steam roller, steam: no Wilesco hits. Gowans API wilesco, old smokey, steam roller, live steam: no same-item results (only a boxed Mamod live steam train with tracks at $640 hammer, Nov 2025, a different maker and a boxed set). WebSearch x2 on Wilesco Old Smokey sold/Australia: no Australian result found. Opened Thomas Watson, fabtintoys, Invaluable (price hidden); Clevedon, LiveAuctioneers, Stroud, Etsy blocked. eBay sold prices (ebay.com.au) would settle it. | chrome: eBay AU sold: wilesco old smokey steam roller (many results, recent Aug to Nov 2026 sales). The brief's provisional max of $5 hammer looks far too low against these A$240 to A$340 sales, even allowing for missing parts.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU and eBay.com sold/completed listings: wilesco 'old smokey' OR D365 OR D36 steam roller, sold items, last 90 days; compare unboxed/untested against boxed.",
  "rate_note": "GBP 1 = AUD 2.05, USD 1 = AUD 1.52 (assumed approximate rates).",
- "viewing_check": "Check for a Wilesco stamp/decal and model number (D36/D365), that the burner, water tank, steering chain and canopy are intact, boiler for corrosion or dents, whether a burner/whistle/funnel is present, and any box or accessories. Photo the underside and boiler plate."
+ "viewing_check": "Check for burner, tank, funnel and chimney, steam pipe and whistle, flywheel and chain steering. Look at the Wilesco decal and the underside for the D365 or D36 mark. Look for rust, dents and missing parts. Photograph the underside.",
+ "chrome_done": true
 }

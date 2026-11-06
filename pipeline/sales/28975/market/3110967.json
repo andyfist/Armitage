@@ -1,7 +1,7 @@
 {
  "cdid": 3110967,
  "lot": 705,
- "identification": "Three bottles: Wolf Blass Yellow Label Oak Matured Cabernet Sauvignon Shiraz 1996 (mass-market range); Annie's Lane Copper Trail Shiraz 1999 (Clare Valley, multiple gold medal stickers); Freycinet Vineyard Pinot Noir 2003 (Tasmania, East Coast). Labels clean in photo.",
+ "identification": "Three bottles in a carton: Wolf Blass Yellow Label Cabernet Sauvignon Shiraz 1996, Annie's Lane Copper Trail Shiraz 1999, and Freycinet Vineyard Pinot Noir (vintage looks like 2003).",
  "entries": [
   {
    "kind": "ASKING",
@@ -46,11 +46,24 @@
    "url": "https://www.vivino.com/AU/en/annies-lane-copper-trail-clare-valley-shiraz/w/1379199",
    "same_item": "category guide",
    "note": "Snippet only; unverified. Not vintage-specific, aggregate of shop prices, likely inflated."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$81 per bottle (Wine-Searcher average, ex-tax)",
+   "currency": "AUD",
+   "aud_price": 81,
+   "date": "2021-09",
+   "venue": "Wine-Searcher",
+   "url": "https://www.wine-searcher.com/find/annies+lane+copper+trail+shiraz/1999/australia",
+   "same_item": "yes",
+   "note": "Annie's Lane Copper Trail Shiraz 1999 only. 'Most recent avg price' is from September 2021, a retail average not a sale, and is old. (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for copper trail, annie's lane, freycinet pinot, wolf blass: no sold hits (pipeline script errored on a None value). Gowans API for copper trail, annies lane, wolf blass yellow: nothing; freycinet only art and books. WebSearch for Copper Trail 1999 auction, Freycinet 2003 Pinot, Wolf Blass Yellow Label 1996 auction, site:armitage.bidsonline: no auction results. No SOLD or UNSOLD evidence found. Wine-Searcher closed to us. Wine auction results (Langtons, Wine Owners) not searched in depth; eBay sold would help little.",
+ "searches_tried": "Local comps.py (pipeline and work) for copper trail, annie's lane, freycinet pinot, wolf blass: no sold hits (pipeline script errored on a None value). Gowans API for copper trail, annies lane, wolf blass yellow: nothing; freycinet only art and books. WebSearch for Copper Trail 1999 auction, Freycinet 2003 Pinot, Wolf Blass Yellow Label 1996 auction, site:armitage.bidsonline: no auction results. No SOLD or UNSOLD evidence found. Wine-Searcher closed to us. Wine auction results (Langtons, Wine Owners) not searched in depth; eBay sold would help little. | chrome: Wine-Searcher find page for Annie's Lane Copper Trail 1999 (average price only, no auction history visible). Wolf Blass Yellow Label 1996 and Freycinet Pinot not searched (low value). Langtons not tried.",
  "needs_chrome": false,
  "chrome_hint": "Wine-Searcher auction history: annie's lane copper trail shiraz 1999; langtons.com.au past auction results 'Copper Trail'",
- "viewing_check": "Fill levels (into neck or above), label and capsule condition, cork seepage, any storage staining; confirm Freycinet is the Louis or Wineglass Bay label and bottle size. Value is modest either way.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check fill levels (ullage), capsules and corks for seepage, label condition, and confirm the Freycinet vintage and Copper Trail vintage. Storage history unknown, so assume drink-now risk.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3111157,
  "lot": 895,
- "identification": "1942 Commonwealth of Australia One Pound, George VI, Armitage/McFarlane, serial K/82 02122 with star after both numbers (R.30s star/replacement note, Renniks catalogue). Prefix K/82 is within the known K star range. Photos show a genuine-looking note; Fine to about VF with folds and light soiling, edges intact.",
+ "identification": "1942 Commonwealth One Pound, George VI, Armitage/McFarlane, serial K/82 02122 with star after both numbers (R.30s replacement note), looks circulated Fine to VF, handwritten 'VG/F' style tag in photo",
  "entries": [
   {
    "kind": "SOLD",
@@ -81,9 +81,10 @@
    "note": "Ordinary non-star 1942 pound, VF; snippet only. Category guide only."
   }
  ],
- "searches_tried": "pipeline comps.py crashed (NoneType error) so used work/comps.py (star note, one pound note, armitage mcfarlane, 1942) and the Gowans API (star note, armitage mcfarlane, one pound star, 1942 pound note); WebSearch x4 (K/82 star sold, R30S price, Renniks R30s, Noble star lots); opened Noble sale 142, 133 and 91 result pages. No dated Armitage site hit sought. eBay sold prices would help; Downies auction archive (JS page) not readable. Rate: AUD only, no conversion.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py crashed (NoneType error) so used work/comps.py (star note, one pound note, armitage mcfarlane, 1942) and the Gowans API (star note, armitage mcfarlane, one pound star, 1942 pound note); WebSearch x4 (K/82 star sold, R30S price, Renniks R30s, Noble star lots); opened Noble sale 142, 133 and 91 result pages. No dated Armitage site hit sought. eBay sold prices would help; Downies auction archive (JS page) not readable. Rate: AUD only, no conversion. | chrome: eBay AU sold: 1942 one pound star note Armitage McFarlane; one pound star note Armitage McFarlane R30s; R30s star note pound. Only ordinary R30/R30a notes appeared (A$15 to A$45), no star notes. noble.com.au search page errors (no search endpoint). Google AI overview only gave vague estimates, not recorded.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 1942 one pound star note Armitage McFarlane R30s; also Downies and Noble archive 'R.30s' realised results 2023-2026",
  "rate_note": "All prices AUD, no conversion.",
- "viewing_check": "Confirm the star printed after the serial on the note itself (both positions), check the serial and prefix K/82 against Renniks star lists, check for tears, pinholes, repairs, washing, and judge true grade (Fine vs VF). Photograph front and back close up."
+ "viewing_check": "Confirm the star after both serial numbers is on the note itself and matches the K/82 prefix, check folds, tears, pinholes, repairs and edge nicks, and photograph both sides in good light. Ordinary 1942 notes sell for only A$15 to A$45, so the whole value rests on the star being genuine.",
+ "chrome_done": true
 }

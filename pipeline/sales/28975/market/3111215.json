@@ -1,15 +1,102 @@
-{"cdid":3111215,"lot":953,"identification":"Commonwealth of Australia 1932 five pounds, Riddle/Sheehan, prefix Q/28 707951. Renniks R43 (the scan note's R45 is the 1939 Sheehan/McFarlane number). Photos show a circulated note with soiling and folds, roughly Fine to VF.",
-"entries":[
-{"kind":"SOLD","price":"$920 hammer (estimate $1,000)","currency":"AUD","aud_price":920,"date":"undated (Noble Sale 63)","venue":"Noble Numismatics Sale 63 lot 3186","url":"https://www.noble.com.au/auctions/lot/?id=90417","same_item":"yes","note":"Page opened. R43 Q/27 626663, cleaned and flattened, otherwise good VF. Better grade than lot 953 but cleaned. Old sale, date not on page. Premium extra."},
-{"kind":"SOLD","price":"$2,800 hammer (estimate $3,000)","currency":"AUD","aud_price":2800,"date":"undated (Noble Sale 110)","venue":"Noble Numismatics Sale 110 lot 2517","url":"https://www.noble.com.au/auctions/lot/?id=301246","same_item":"yes","note":"Page opened. R43 Q/28 879059, good VF. Clearly better grade than lot 953. Date not on page. Premium extra."},
-{"kind":"SOLD","price":"$420 hammer (estimate $1,000)","currency":"AUD","aud_price":420,"date":"undated","venue":"Noble Numismatics","url":"https://www.noble.com.au/auctions/lot/?id=51110","same_item":"yes","note":"Snippet only (search summary, lot id not confirmed by me). Reported as nearly VF with pinholes and creases, 1932 Riddle/Sheehan. Unverified; the closest grade comparison to lot 953 if correct."},
-{"kind":"SOLD","price":"$1,100 hammer ($1,311.75 with premium)","currency":"AUD","aud_price":1100,"date":"Nov 2015","venue":"Downies Auction 320","url":"snippet via WebSearch, Downies Sale 320, Nov 2015 (no link seen)","same_item":"yes","note":"Snippet only. VF, estimate $750. Old (2015), unverified."},
-{"kind":"ASKING","price":"$1,750 (listing shows sold 21/12/2022)","currency":"AUD","aud_price":1750,"date":"21/12/2022","venue":"Sterling Currency (dealer)","url":"https://sterlingcurrency.com.au/1932-five-pound-riddle-sheehan-r43-pcgs-vf25","same_item":"yes","note":"Page opened. 1932 R43 PCGS VF25 slabbed. Dealer retail price, not an auction hammer."},
-{"kind":"ASKING","price":"$950 (listing shows sold 16/10/2025)","currency":"AUD","aud_price":950,"date":"16/10/2025","venue":"Sterling Currency (dealer)","url":"https://www.sterlingcurrency.com.au/1933-five-pound-riddle-sheehan-r44a-fine","same_item":"close","note":"Page opened. 1933 R44A (same signatures, next year) Fine, intact. Dealer retail price. Best grade and date match for a Fine note."},
-{"kind":"ASKING","price":"$3,675 (listing shows sold 16/5/2023)","currency":"AUD","aud_price":3675,"date":"16/5/2023","venue":"Sterling Currency (dealer)","url":"https://www.sterlingcurrency.com.au/1932-five-pound-riddle-sheehan-r43-about-ef","same_item":"close","note":"Snippet only. About EF, far better than lot 953; shows the top of the range."}
-],
-"searches_tried":"comps.py in pipeline (crashed on a data bug), work/comps.py several word sets (no five-pound Riddle/Sheehan hits; only Gowans $180 for a Riddle/Heathershaw 1 pound plus Riddle/Sheehan 10 shilling pair, and $180 for Coombs/Wilson 5 and 10 pound notes, not comparable); WebSearch on Noble, Downies, Sterling Currency, and site:armitage (no Armitage pages returned). Did not search Gowans API separately. No recent (24 month) Australian auction result for a Fine/VF 1932 fiver found; Noble sale dates not shown. Noble archive search by R43 and a Noble prices-realised check for recent sales (Sale 100 onwards) plus eBay sold would settle it.",
-"rate_note":"All prices AUD, no conversion. Auction hammers exclude buyer premium.",
-"needs_chrome":true,
-"chrome_hint":"eBay sold listings: 1932 five pound Riddle Sheehan R43 ; and noble.com.au prices realised search 'Riddle/Sheehan (1932) R.43' for 2024-2026 sales, grade Fine to VF",
-"viewing_check":"Check the grade carefully: number of folds, pinholes, edge tears, repairs, cleaning or pressing, and confirm the signatures and prefix Q/28 (R43). Photograph both faces under good light. A true VF with no repairs is worth much more than a Fine with holes."}
+{
+ "cdid": 3111215,
+ "lot": 953,
+ "identification": "Commonwealth of Australia 1932 five pound note, Riddle/Sheehan, prefix Q/28 707951, circulated Fine to VF with folds and soiling.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$920 hammer (estimate $1,000)",
+   "currency": "AUD",
+   "aud_price": 920,
+   "date": "undated (Noble Sale 63)",
+   "venue": "Noble Numismatics Sale 63 lot 3186",
+   "url": "https://www.noble.com.au/auctions/lot/?id=90417",
+   "same_item": "yes",
+   "note": "Page opened. R43 Q/27 626663, cleaned and flattened, otherwise good VF. Better grade than lot 953 but cleaned. Old sale, date not on page. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$2,800 hammer (estimate $3,000)",
+   "currency": "AUD",
+   "aud_price": 2800,
+   "date": "undated (Noble Sale 110)",
+   "venue": "Noble Numismatics Sale 110 lot 2517",
+   "url": "https://www.noble.com.au/auctions/lot/?id=301246",
+   "same_item": "yes",
+   "note": "Page opened. R43 Q/28 879059, good VF. Clearly better grade than lot 953. Date not on page. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$420 hammer (estimate $1,000)",
+   "currency": "AUD",
+   "aud_price": 420,
+   "date": "undated",
+   "venue": "Noble Numismatics",
+   "url": "https://www.noble.com.au/auctions/lot/?id=51110",
+   "same_item": "yes",
+   "note": "Snippet only (search summary, lot id not confirmed by me). Reported as nearly VF with pinholes and creases, 1932 Riddle/Sheehan. Unverified; the closest grade comparison to lot 953 if correct."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$1,100 hammer ($1,311.75 with premium)",
+   "currency": "AUD",
+   "aud_price": 1100,
+   "date": "Nov 2015",
+   "venue": "Downies Auction 320",
+   "url": "snippet via WebSearch, Downies Sale 320, Nov 2015 (no link seen)",
+   "same_item": "yes",
+   "note": "Snippet only. VF, estimate $750. Old (2015), unverified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,750 (listing shows sold 21/12/2022)",
+   "currency": "AUD",
+   "aud_price": 1750,
+   "date": "21/12/2022",
+   "venue": "Sterling Currency (dealer)",
+   "url": "https://sterlingcurrency.com.au/1932-five-pound-riddle-sheehan-r43-pcgs-vf25",
+   "same_item": "yes",
+   "note": "Page opened. 1932 R43 PCGS VF25 slabbed. Dealer retail price, not an auction hammer."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$950 (listing shows sold 16/10/2025)",
+   "currency": "AUD",
+   "aud_price": 950,
+   "date": "16/10/2025",
+   "venue": "Sterling Currency (dealer)",
+   "url": "https://www.sterlingcurrency.com.au/1933-five-pound-riddle-sheehan-r44a-fine",
+   "same_item": "close",
+   "note": "Page opened. 1933 R44A (same signatures, next year) Fine, intact. Dealer retail price. Best grade and date match for a Fine note."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$3,675 (listing shows sold 16/5/2023)",
+   "currency": "AUD",
+   "aud_price": 3675,
+   "date": "16/5/2023",
+   "venue": "Sterling Currency (dealer)",
+   "url": "https://www.sterlingcurrency.com.au/1932-five-pound-riddle-sheehan-r43-about-ef",
+   "same_item": "close",
+   "note": "Snippet only. About EF, far better than lot 953; shows the top of the range."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$750",
+   "currency": "AUD",
+   "aud_price": 750,
+   "date": "2026-11-02",
+   "venue": "eBay AU (dilupot)",
+   "url": "https://www.ebay.com.au/itm/206655019991",
+   "same_item": "no",
+   "note": "Riddle/Sheehan five pound listed as R44a (not R43) in about EF condition, 42 bids, no reserve. Better grade than this lot, but shows live demand for the type.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py in pipeline (crashed on a data bug), work/comps.py several word sets (no five-pound Riddle/Sheehan hits; only Gowans $180 for a Riddle/Heathershaw 1 pound plus Riddle/Sheehan 10 shilling pair, and $180 for Coombs/Wilson 5 and 10 pound notes, not comparable); WebSearch on Noble, Downies, Sterling Currency, and site:armitage (no Armitage pages returned). Did not search Gowans API separately. No recent (24 month) Australian auction result for a Fine/VF 1932 fiver found; Noble sale dates not shown. Noble archive search by R43 and a Noble prices-realised check for recent sales (Sale 100 onwards) plus eBay sold would settle it. | chrome: eBay AU sold: 1932 five pound Riddle Sheehan; five pound Riddle Sheehan R43; Riddle Sheehan five pound R44. Most results were the common 1933 one pound R28, not comparable. Noble not searched.",
+ "rate_note": "All prices AUD, no conversion. Auction hammers exclude buyer premium.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold listings: 1932 five pound Riddle Sheehan R43 ; and noble.com.au prices realised search 'Riddle/Sheehan (1932) R.43' for 2024-2026 sales, grade Fine to VF",
+ "viewing_check": "Check grade carefully: folds, pinholes, tears, repairs, trimmed edges. Photograph the front and back, the serial and the signatures to confirm R43 versus other varieties.",
+ "chrome_done": true
+}

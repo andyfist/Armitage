@@ -1,7 +1,7 @@
 {
  "cdid": 3110903,
  "lot": 640,
- "identification": "Studio Anna (Australian slip-cast souvenir pottery, c1950s-60s) small round pin dish with sgraffito thylacine on dark ground, inscribed Hobart; worn paper label on base. Mass-produced tourist ware; thylacine subject lifts it above ordinary Studio Anna but no direct comparable found.",
+ "identification": "Studio Anna small round dish, dark glaze with sgraffito thylacine and 'Hobart' inscription, white rim",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,10 +68,47 @@
    "url": "https://reretro.wordpress.com/tag/studio-anna/",
    "same_item": "category guide",
    "note": "Ordinary Studio Anna pieces, no thylacine. Snippet only, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45.00",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/188888406002",
+   "same_item": "category guide",
+   "note": "Studio Anna hand painted koala small oval dish 11.5cm, listed A$45 or best offer so paid at most A$45. Same maker, common subject, not thylacine",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$30.00",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-09-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168162598207",
+   "same_item": "category guide",
+   "note": "Studio Anna wattle flowers pin dish, best offer accepted, actual price below A$30, plus A$11 postage. Same maker and type, ordinary subject",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.00",
+   "currency": "AUD",
+   "aud_price": 20,
+   "date": "2026-08-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/178317973372",
+   "same_item": "category guide",
+   "note": "Studio Anna NZ kiwi dish, Buy It Now, plus A$10 postage. Ordinary subject",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); work/comps.py thylacine dish and anna studio: no sales found. Gowans API: thylacine dish, anna studio, thylacine, studio anna, tasmanian tiger, thylacine pottery/ashtray/pin dish. WebSearch: Studio Anna thylacine sgraffito, site:armitage thylacine dish, Studio Anna thylacine sold, vintage thylacine souvenir pin dish, Studio Anna thylacine price. No same-item sale found. Carters and eBay blocked. eBay sold listings for 'Studio Anna thylacine' or 'Studio Anna Tasmania tiger' would settle it.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); work/comps.py thylacine dish and anna studio: no sales found. Gowans API: thylacine dish, anna studio, thylacine, studio anna, tasmanian tiger, thylacine pottery/ashtray/pin dish. WebSearch: Studio Anna thylacine sgraffito, site:armitage thylacine dish, Studio Anna thylacine sold, vintage thylacine souvenir pin dish, Studio Anna thylacine price. No same-item sale found. Carters and eBay blocked. eBay sold listings for 'Studio Anna thylacine' or 'Studio Anna Tasmania tiger' would settle it. | chrome: eBay AU sold: studio anna pin dish (three same-maker guides). Searches including 'thylacine' and 'tasmanian tiger' hit eBay error pages three times. Earlier Gowans comps not re-opened.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold/completed: Studio Anna thylacine dish; Studio Anna Tasmania tiger; vintage thylacine pin dish Hobart",
- "viewing_check": "Check the base label and incised script for maker (Studio Anna or other), confirm sgraffito is hand-cut rather than a transfer or moulded design, and look for chips or hairlines on the rim."
+ "viewing_check": "Check the base for the Studio Anna mark or paper label, chips on the rim, glaze crazing and hairlines. The thylacine drawing is clear and crisp in the photo, so look for any wear to the sgraffito. Thylacine subject is the premium; earlier Gowans comps ranged A$20 to A$260.",
+ "chrome_done": true
 }

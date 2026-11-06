@@ -1,9 +1,150 @@
-{"cdid":3111172,"lot":910,"identification":"TAG Heuer Formula 1 Calibre 7 GMT (WAZ211A.BA0875, 'Batman' blue/black bezel), 41mm steel, automatic, with box. Photos show correct caseback layout.","entries":[
-{"kind":"SOLD","price":"$750 hammer (premium extra)","currency":"AUD","aud_price":750,"date":"2026-10-04","venue":"Gowans (Hobart)","url":"gowans id 441817","same_item":"close","note":"Title only 'TAG HEUER WATCH - FORMULA 1', 24 bids; model/reference not stated so may be a quartz or non-GMT Formula 1. Database hit (not opened). Hammer, premium extra."},
-{"kind":"SOLD","price":"USD 1,167 (Chrono24 secondary market sale, removed after 28 days)","currency":"USD","aud_price":1750,"date":"2025-06","venue":"Chrono24 (via aggregator)","url":"https://watchcharts.com/watch_model/16861-tag-heuer-formula-1-calibre-7-gmt-41-waz211a/overview","same_item":"yes","note":"Snippet only. Retail dealer-platform sale, not auction; condition unknown. Rate USD 1 = AUD 1.50 assumed."},
-{"kind":"SOLD","price":"USD 1,556 (Chrono24 sale)","currency":"USD","aud_price":2334,"date":"2024-04","venue":"Chrono24 (via aggregator)","url":"https://watchcharts.com/watch_model/16861-tag-heuer-formula-1-calibre-7-gmt-41-waz211a/overview","same_item":"yes","note":"Snippet only. Older, probably full set/better condition. Rate 1.50 assumed."},
-{"kind":"ASKING","price":"WatchCharts pre-owned estimate USD 1,197","currency":"USD","aud_price":1796,"date":"live, seen 2026-11-06 (as of 2026-09-28)","venue":"WatchCharts","url":"https://watchcharts.com/watch_model/16861-tag-heuer-formula-1-calibre-7-gmt-41-waz211a/overview","same_item":"yes","note":"Snippet only (page returned 403). Market index, not a sale."},
-{"kind":"ASKING","price":"AU$1,300 to AU$2,519 pre-owned range","currency":"AUD","aud_price":1850,"date":"live, seen 2026-11-06","venue":"Chrono24 Australia / eBay AU (used examples about AU$1,622 to 1,850)","url":"https://www.chrono24.com.au/tagheuer/tag-heuer-formula-1-calibre-7-gmt--id3044679.htm","same_item":"yes","note":"Snippet only. Dealer asks, usually above what sells; aud_price is a mid figure."},
-{"kind":"ASKING","price":"USD 1,995 / GBP 1,395 dealer pre-owned","currency":"USD","aud_price":2990,"date":"live, seen 2026-11-06","venue":"Right Time; Mappin & Webb","url":"https://www.mappinandwebb.com/Pre+Owned-TAG-Heuer-Formula-1-41mm-Stainless-Steel-WAZ211A.BA0875/p/406802127490","same_item":"yes","note":"Snippet only. Dealer retail with warranty, high end. USD rate 1.50."},
-{"kind":"UNSOLD","price":"Grailzee auction ended, reserve not met (price not shown)","currency":"USD","aud_price":0,"date":"unknown","venue":"Grailzee","url":"https://grailzee.com/products/tag-heuer-formula-1-calibre-7-gmt-automatic-41-waz211a-ba0875","same_item":"yes","note":"Snippet only, no figure."}],
-"searches_tried":"pipeline comps.py (crashed on a None value), work/comps.py (tag heuer, formula, gmt, calibre 7), Gowans API tag heuer, WebSearch armitage past results (nothing), WAZ211A sold auction, WAZ211A pre-owned price, Australia auction 2026. WatchCharts fetch 403. No Australian auction hammer for the GMT reference found. eBay sold listings (WAZ211A.BA0875 sold, Australia) would settle it best.","needs_chrome":true,"chrome_hint":"eBay.com.au sold and completed listings: TAG Heuer WAZ211A.BA0875 (also Formula 1 Calibre 7 GMT), last 90 days","rate_note":"USD 1 = AUD 1.50 assumed; GBP 1 = AUD 1.95 assumed.","viewing_check":"Check the caseback reference reads WAZ211A and the serial; confirm it is a genuine GMT (24h hand moves independently, date changes), winds and runs, rotating bezel clicks, bracelet length and clasp, and whether box has papers/card."}
+{
+ "cdid": 3111172,
+ "lot": 910,
+ "identification": "TAG Heuer Formula 1 Calibre 7 GMT (WAZ211A, blue/black 'Batman' bezel) steel automatic, in cream box/cushion",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$750 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 750,
+   "date": "2026-10-04",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 441817",
+   "same_item": "close",
+   "note": "Title only 'TAG HEUER WATCH - FORMULA 1', 24 bids; model/reference not stated so may be a quartz or non-GMT Formula 1. Database hit (not opened). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "USD 1,167 (Chrono24 secondary market sale, removed after 28 days)",
+   "currency": "USD",
+   "aud_price": 1750,
+   "date": "2025-06",
+   "venue": "Chrono24 (via aggregator)",
+   "url": "https://watchcharts.com/watch_model/16861-tag-heuer-formula-1-calibre-7-gmt-41-waz211a/overview",
+   "same_item": "yes",
+   "note": "Snippet only. Retail dealer-platform sale, not auction; condition unknown. Rate USD 1 = AUD 1.50 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "USD 1,556 (Chrono24 sale)",
+   "currency": "USD",
+   "aud_price": 2334,
+   "date": "2024-04",
+   "venue": "Chrono24 (via aggregator)",
+   "url": "https://watchcharts.com/watch_model/16861-tag-heuer-formula-1-calibre-7-gmt-41-waz211a/overview",
+   "same_item": "yes",
+   "note": "Snippet only. Older, probably full set/better condition. Rate 1.50 assumed."
+  },
+  {
+   "kind": "ASKING",
+   "price": "WatchCharts pre-owned estimate USD 1,197",
+   "currency": "USD",
+   "aud_price": 1796,
+   "date": "live, seen 2026-11-06 (as of 2026-09-28)",
+   "venue": "WatchCharts",
+   "url": "https://watchcharts.com/watch_model/16861-tag-heuer-formula-1-calibre-7-gmt-41-waz211a/overview",
+   "same_item": "yes",
+   "note": "Snippet only (page returned 403). Market index, not a sale."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$1,300 to AU$2,519 pre-owned range",
+   "currency": "AUD",
+   "aud_price": 1850,
+   "date": "live, seen 2026-11-06",
+   "venue": "Chrono24 Australia / eBay AU (used examples about AU$1,622 to 1,850)",
+   "url": "https://www.chrono24.com.au/tagheuer/tag-heuer-formula-1-calibre-7-gmt--id3044679.htm",
+   "same_item": "yes",
+   "note": "Snippet only. Dealer asks, usually above what sells; aud_price is a mid figure."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 1,995 / GBP 1,395 dealer pre-owned",
+   "currency": "USD",
+   "aud_price": 2990,
+   "date": "live, seen 2026-11-06",
+   "venue": "Right Time; Mappin & Webb",
+   "url": "https://www.mappinandwebb.com/Pre+Owned-TAG-Heuer-Formula-1-41mm-Stainless-Steel-WAZ211A.BA0875/p/406802127490",
+   "same_item": "yes",
+   "note": "Snippet only. Dealer retail with warranty, high end. USD rate 1.50."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "Grailzee auction ended, reserve not met (price not shown)",
+   "currency": "USD",
+   "aud_price": 0,
+   "date": "unknown",
+   "venue": "Grailzee",
+   "url": "https://grailzee.com/products/tag-heuer-formula-1-calibre-7-gmt-automatic-41-waz211a-ba0875",
+   "same_item": "yes",
+   "note": "Snippet only, no figure."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,664.10",
+   "currency": "AUD",
+   "aud_price": 1664.1,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/306981093156",
+   "same_item": "yes",
+   "note": "WAZ211A Batman 41mm; best offer accepted, actual price below shown A$1,664.10 (list A$1,849). Retail seller, likely serviced/checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,918.92",
+   "currency": "AUD",
+   "aud_price": 1918.92,
+   "date": "2026-10-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/326422117273",
+   "same_item": "yes",
+   "note": "WAZ211A.BA0875 used, Buy It Now, plus A$81 delivery",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$2,004.04",
+   "currency": "AUD",
+   "aud_price": 2004.04,
+   "date": "2026-10-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318848263964",
+   "same_item": "yes",
+   "note": "WAZ211A with box; best offer accepted, actual price below the shown A$2,004.04",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$3,166.21",
+   "currency": "AUD",
+   "aud_price": 3166.21,
+   "date": "2026-10-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298633347993",
+   "same_item": "yes",
+   "note": "WAZ211A.BA0875 with box and manual; best offer accepted, actual price below shown A$3,166.21 (high outlier)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$2,272.40",
+   "currency": "AUD",
+   "aud_price": 2272.4,
+   "date": "2026-09-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/147594465337",
+   "same_item": "yes",
+   "note": "Calibre 7 GMT 41mm steel black dial; plus A$154 delivery",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline comps.py (crashed on a None value), work/comps.py (tag heuer, formula, gmt, calibre 7), Gowans API tag heuer, WebSearch armitage past results (nothing), WAZ211A sold auction, WAZ211A pre-owned price, Australia auction 2026. WatchCharts fetch 403. No Australian auction hammer for the GMT reference found. eBay sold listings (WAZ211A.BA0875 sold, Australia) would settle it best. | chrome: eBay AU sold: tag heuer WAZ211A (5 comps used). Other sources not needed. Earlier Gowans A$750 comp not re-checked.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold and completed listings: TAG Heuer WAZ211A.BA0875 (also Formula 1 Calibre 7 GMT), last 90 days",
+ "rate_note": "USD 1 = AUD 1.50 assumed; GBP 1 = AUD 1.95 assumed.",
+ "viewing_check": "Check bezel (blue/black) alignment and scratches, crystal, bracelet stretch and clasp, caseback serial and ref WAZ211A, whether it runs and GMT hand works, date change, and whether box, papers and extra links are present. Photograph caseback and clasp.",
+ "chrome_done": true
+}

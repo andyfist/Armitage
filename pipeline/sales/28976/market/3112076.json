@@ -1,6 +1,56 @@
-{"cdid":3112076,"lot":1248,"identification":"Pearl Vorg 101 (panel reads VORG 101, not Borg): Japanese-made Pearl solid-state 2-channel combo with spring reverb, probably 2x12 on castors. Vorg was a Pearl brand name; sources place Vorg/Pearl amps in the 1970s to early 1980s. Search found sources calling the Vorg 101 solid state, not valve. Worn tolex, grubby grille.","entries":[
-{"kind":"ASKING","price":"US$1,195.99 (after $644 discount shown)","currency":"USD","aud_price":1794,"date":"live, seen 2026-11-06","venue":"Reverb (US retail)","url":"https://reverb.com/item/52751233-super-rare-pearl-pft101-duo-reverb-1980-twin-reverb-clone-black-tolex-natural-relic-100-watts-solid-state-mij-made-in-japan","same_item":"close","note":"Pearl PFT101 Duo Reverb, early 1980s, 2x12 100W solid state Japan Twin Reverb clone. Snippet only (page 403). Rate used 1 USD = 1.50 AUD (assumed). Asking price only; US retail with shipping issues for a heavy combo."},
-{"kind":"SOLD","price":"A$420 hammer","currency":"AUD","aud_price":420,"date":"2025-11-10","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=valve+amplifier (gowans id 374015)","same_item":"category guide","note":"Marshall valve amplifier, 20 bids. Different brand, well-known name; local database result, premium extra. Shows ceiling for a strong-brand guitar amp locally."},
-{"kind":"SOLD","price":"A$160-170 hammer","currency":"AUD","aud_price":165,"date":"2026-05-17 and 2026-06-14","venue":"Gowans Auctions, Hobart","url":"gowans id 409776 and 416343","same_item":"category guide","note":"Vox MV50 clean type guitar amps, modern small amps, 13 and 7 bids. Local database result. Low-end guide only."},
-{"kind":"ASKING","price":"not shown","currency":"AUD","aud_price":0,"date":"seen 2026-11-06","venue":"guitar-list.com listing 'Vintage Pearl Vorg 101' solid state, Made in Japan","url":"https://www.guitar-list.com/node/42424","same_item":"yes","note":"Snippet only, page 403, no price seen. Confirms model exists as a solid-state amp."}],
-"searches_tried":"comps.py (pipeline version crashes with TypeError; work version: pearl amp, guitar amp, amplifier); Gowans API pearl amp; WebSearch: Pearl Vorg 101, vintage Pearl guitar amp auction, site:armitage.bidsonline guitar amp, Pearl Vorg amp price sold, Vorg 101 reverb/gumtree. No Vorg 101 sold price found anywhere. No Armitage past results found. eBay sold listings (Pearl Vorg, Pearl amp 1970s Japan) and Reverb sold would settle it. Rate: USD 1.50 assumed.","needs_chrome":true,"chrome_hint":"eBay sold/completed items: 'Pearl Vorg 101 amp' and 'Pearl Sunflower amp'; also Reverb sold: 'Pearl Vorg'","viewing_check":"Photograph rear panel (model/serial label, valve vs solid state, speaker model and number), test both channels and reverb for noise, check speaker cones and power lead; confirm it is a 2x12 and working."}
+{
+ "cdid": 3112076,
+ "lot": 1248,
+ "identification": "Pearl (Vorg 101) guitar combo amp, 2x12 with spring reverb, on castors, black tolex and silver-grey grille, worn and dusty",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "US$1,195.99 (after $644 discount shown)",
+   "currency": "USD",
+   "aud_price": 1794,
+   "date": "live, seen 2026-11-06",
+   "venue": "Reverb (US retail)",
+   "url": "https://reverb.com/item/52751233-super-rare-pearl-pft101-duo-reverb-1980-twin-reverb-clone-black-tolex-natural-relic-100-watts-solid-state-mij-made-in-japan",
+   "same_item": "close",
+   "note": "Pearl PFT101 Duo Reverb, early 1980s, 2x12 100W solid state Japan Twin Reverb clone. Snippet only (page 403). Rate used 1 USD = 1.50 AUD (assumed). Asking price only; US retail with shipping issues for a heavy combo."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$420 hammer",
+   "currency": "AUD",
+   "aud_price": 420,
+   "date": "2025-11-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=valve+amplifier (gowans id 374015)",
+   "same_item": "category guide",
+   "note": "Marshall valve amplifier, 20 bids. Different brand, well-known name; local database result, premium extra. Shows ceiling for a strong-brand guitar amp locally."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$160-170 hammer",
+   "currency": "AUD",
+   "aud_price": 165,
+   "date": "2026-05-17 and 2026-06-14",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 409776 and 416343",
+   "same_item": "category guide",
+   "note": "Vox MV50 clean type guitar amps, modern small amps, 13 and 7 bids. Local database result. Low-end guide only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "not shown",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "seen 2026-11-06",
+   "venue": "guitar-list.com listing 'Vintage Pearl Vorg 101' solid state, Made in Japan",
+   "url": "https://www.guitar-list.com/node/42424",
+   "same_item": "yes",
+   "note": "Snippet only, page 403, no price seen. Confirms model exists as a solid-state amp."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashes with TypeError; work version: pearl amp, guitar amp, amplifier); Gowans API pearl amp; WebSearch: Pearl Vorg 101, vintage Pearl guitar amp auction, site:armitage.bidsonline guitar amp, Pearl Vorg amp price sold, Vorg 101 reverb/gumtree. No Vorg 101 sold price found anywhere. No Armitage past results found. eBay sold listings (Pearl Vorg, Pearl amp 1970s Japan) and Reverb sold would settle it. Rate: USD 1.50 assumed. | chrome: eBay AU sold: pearl vorg amp and pearl vorg 101 (error page twice), vorg guitar amplifier (nothing relevant). Reverb sold: pearl vorg (only a Vorg Echo Orbit tape echo, different item, not recorded). Earlier Gowans comps (A$420 and A$165) not re-opened.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold/completed items: 'Pearl Vorg 101 amp' and 'Pearl Sunflower amp'; also Reverb sold: 'Pearl Vorg'",
+ "viewing_check": "Photograph the control panel and the back label (model, serial, voltage). Check it powers on in both channels, crackle in the pots, reverb works, speakers are not torn or buzzing, and whether it is solid state. Look at tolex damage and whether the footswitch and power cord are present. Australian mains voltage matters for a Japanese import.",
+ "chrome_done": true
+}

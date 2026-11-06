@@ -1,8 +1,78 @@
-{"cdid":3111960,"lot":1130,"identification":"Very long (about 3.36 m) Victorian-style cedar six-drawer table, probably a shop, institutional or serving table, possibly joined from two sections. No exact comparable found in any database.","entries":[
-{"kind":"SOLD","price":"$300 hammer","currency":"AUD","aud_price":300,"date":"2026-06-04","venue":"Leonard Joel, Hawthorn (via Invaluable, lot 1235)","url":"https://www.invaluable.com/auction-lot/a-victorian-australian-cedar-writing-table-the-to-1235-c-7d9f7e8549","same_item":"close","note":"Local comps database; Late Victorian Australian cedar four-drawer writing table. Page not opened. Closest in drawer count but much smaller. Premium inclusion unknown."},
-{"kind":"SOLD","price":"$570 hammer","currency":"AUD","aud_price":570,"date":"2026-05-17","venue":"Gowans, Hobart (lot id 410186, 13 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cedar+6+drawer","same_item":"category guide","note":"Cedar book press on 6 drawer stand. Not a table; shows six-drawer cedar pieces can reach $500+. From local database, not opened."},
-{"kind":"SOLD","price":"$330 hammer","currency":"AUD","aud_price":330,"date":"2026-02-01","venue":"Gowans, Hobart (lot id 387598, 10 bids)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cedar+table+drawers","same_item":"category guide","note":"19th century cedar single drawer hall table with 2 false drawers, blackwood turned legs. Far smaller. Re-confirmed via Gowans API."},
-{"kind":"SOLD","price":"$290 hammer","currency":"AUD","aud_price":290,"date":"2025-11-03","venue":"Gowans, Hobart (lot id 372288, 5 bids)","url":"gowans id 372288","same_item":"category guide","note":"Cedar 2 drawer hall table. Small. Local database only."},
-{"kind":"SOLD","price":"$230 hammer","currency":"AUD","aud_price":230,"date":"2026-05-03","venue":"Gowans, Hobart (lot id 406835, 8 bids)","url":"gowans id 406835","same_item":"category guide","note":"Cedar 2 drawer hall table on stretcher base. Small. Local database only."},
-{"kind":"ASKING","price":"$395","currency":"AUD","aud_price":395,"date":"live, seen 2026-11-06","venue":"Nostalgia Antiques","url":"https://www.nostalgiaantiques.com.au/p/antique-australian-cedar-hall-table/","same_item":"category guide","note":"Snippet only. c1890 cedar hall table, 88 cm, one drawer. Dealer asking, not a sale; shows small cedar hall tables are cheap."}
-],"searches_tried":"pipeline/comps.py crashed (TypeError on null aud_hammer), so used work/comps.py with cedar server, cedar 6 drawer, long cedar table, cedar counter, cedar drawer table; Gowans API for cedar table drawers, long cedar table, cedar server, cedar sideboard, shop counter; WebSearch site:armitage.bidsonline (nothing relevant), long cedar six drawer sold, antique cedar long hall table. Carters price guide fetch hit HTTP 429. No sold comp for a 3 m plus cedar table exists; small cedar hall tables make $230-330 hammer at Gowans, so length is a niche factor. Mixed value: scarce size but limited buyers.","needs_chrome":true,"chrome_hint":"Carters price guide: Australian cedar tables colonial and hall (carters.com.au/index.cfm/index/1163-tables-purpose-or-type-hall/ and 10484); also LiveAuctioneers/Invaluable search 'cedar six drawer table 3m' and eBay sold 'long cedar shop counter drawers'","viewing_check":"Check whether the top is one board or two joined and whether the frieze has a join or differing timber mid-length; look at drawer dovetails, runners and cedar vs mahogany; underside for saw marks, old shop labels or institutional stamps; confirm length and that all legs match. Photograph top underside and a drawer interior."}
+{
+ "cdid": 3111960,
+ "lot": 1130,
+ "identification": "Very long Victorian-style cedar six-drawer table with turned legs, about 3.36 m, serving or shop table, polished top, looks sound.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$300 hammer",
+   "currency": "AUD",
+   "aud_price": 300,
+   "date": "2026-06-04",
+   "venue": "Leonard Joel, Hawthorn (via Invaluable, lot 1235)",
+   "url": "https://www.invaluable.com/auction-lot/a-victorian-australian-cedar-writing-table-the-to-1235-c-7d9f7e8549",
+   "same_item": "close",
+   "note": "Local comps database; Late Victorian Australian cedar four-drawer writing table. Page not opened. Closest in drawer count but much smaller. Premium inclusion unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$570 hammer",
+   "currency": "AUD",
+   "aud_price": 570,
+   "date": "2026-05-17",
+   "venue": "Gowans, Hobart (lot id 410186, 13 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cedar+6+drawer",
+   "same_item": "category guide",
+   "note": "Cedar book press on 6 drawer stand. Not a table; shows six-drawer cedar pieces can reach $500+. From local database, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$330 hammer",
+   "currency": "AUD",
+   "aud_price": 330,
+   "date": "2026-02-01",
+   "venue": "Gowans, Hobart (lot id 387598, 10 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cedar+table+drawers",
+   "same_item": "category guide",
+   "note": "19th century cedar single drawer hall table with 2 false drawers, blackwood turned legs. Far smaller. Re-confirmed via Gowans API."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$290 hammer",
+   "currency": "AUD",
+   "aud_price": 290,
+   "date": "2025-11-03",
+   "venue": "Gowans, Hobart (lot id 372288, 5 bids)",
+   "url": "gowans id 372288",
+   "same_item": "category guide",
+   "note": "Cedar 2 drawer hall table. Small. Local database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230 hammer",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-05-03",
+   "venue": "Gowans, Hobart (lot id 406835, 8 bids)",
+   "url": "gowans id 406835",
+   "same_item": "category guide",
+   "note": "Cedar 2 drawer hall table on stretcher base. Small. Local database only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$395",
+   "currency": "AUD",
+   "aud_price": 395,
+   "date": "live, seen 2026-11-06",
+   "venue": "Nostalgia Antiques",
+   "url": "https://www.nostalgiaantiques.com.au/p/antique-australian-cedar-hall-table/",
+   "same_item": "category guide",
+   "note": "Snippet only. c1890 cedar hall table, 88 cm, one drawer. Dealer asking, not a sale; shows small cedar hall tables are cheap."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py crashed (TypeError on null aud_hammer), so used work/comps.py with cedar server, cedar 6 drawer, long cedar table, cedar counter, cedar drawer table; Gowans API for cedar table drawers, long cedar table, cedar server, cedar sideboard, shop counter; WebSearch site:armitage.bidsonline (nothing relevant), long cedar six drawer sold, antique cedar long hall table. Carters price guide fetch hit HTTP 429. No sold comp for a 3 m plus cedar table exists; small cedar hall tables make $230-330 hammer at Gowans, so length is a niche factor. Mixed value: scarce size but limited buyers. | chrome: eBay AU sold: cedar shop counter drawers long table (only dolls house results). Furniture is not well covered by eBay sold. Carters, Invaluable and LiveAuctioneers not tried.",
+ "needs_chrome": false,
+ "chrome_hint": "Carters price guide: Australian cedar tables colonial and hall (carters.com.au/index.cfm/index/1163-tables-purpose-or-type-hall/ and 10484); also LiveAuctioneers/Invaluable search 'cedar six drawer table 3m' and eBay sold 'long cedar shop counter drawers'",
+ "viewing_check": "Check for joins in the top or frame (two sections), cedar versus stained pine, drawer construction (dovetails), leg splits and repairs, top condition and whether it comes apart for transport. Photograph the underside and drawer interiors.",
+ "chrome_done": true
+}

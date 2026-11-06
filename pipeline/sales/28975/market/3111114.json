@@ -1,1 +1,68 @@
-{"cdid":3111114,"lot":852,"identification":"Penfolds RWT (Red Winemaking Tradition) Shiraz 2002, Barossa Valley, 750ml, bottle no. 22464. Label clean, red capsule intact, fill into neck per photos. Single bottle.","entries":[{"kind":"ASKING","price":"$215.00","aud_price":215,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Cellarit (Australian retail)","url":"https://www.cellarit.com.au/wine-41042-penfolds-rwt-barossa-valley-shiraz-2002.aspx","same_item":"yes","note":"Page opened, price in page title, 'in stock'. Retail asking price, storage provenance unknown. AUD so no conversion."},{"kind":"ASKING","price":"$389 each","aud_price":389,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Midday Somewhere (price aggregator)","url":"https://www.middaysomewhere.com.au/prices/5256/penfolds-rwt-shiraz","same_item":"yes","note":"Page opened. Retailer name hidden, 'price consistently high'. Top-end retail asking, not a price paid."},{"kind":"ASKING","price":"US$99.99 (sold out)","aud_price":155,"currency":"USD","date":"seen 2026-11-06","venue":"US retailer (search snippet)","url":"https://www.benchmarkwineandspirits.com/products/22077","same_item":"yes","note":"Snippet only, unverified, listed sold out. Rate used 1 USD = 1.55 AUD (assumed)."},{"kind":"ASKING","price":"Avg US$/AUD 125 ex-tax","aud_price":125,"currency":"AUD","date":"seen 2026-11-06","venue":"Wine-Searcher average (search snippet)","url":"https://www.wine-searcher.com/find/penfolds+r+w+t+bin+798+sra+barossa+valley+south+australia/2002","same_item":"yes","note":"Snippet only, unverified, currency unclear, average of mixed listings."}],"searches_tried":"comps.py pipeline and work (penfolds rwt, rwt 2002): no same-item sold hits (only a 2004 RWT on WinBid at $124 US auction, different vintage, not counted; Gowans Bin 389 2004 $120 hammer, different wine). Gowans API search rwt and penfolds rwt: no results. WebSearch generic auction sold and site:armitage.bidsonline: no RWT 2002 results. Retail pages fetched. No Langtons/Wine Owners fetched. eBay and Wine-Searcher closed; Wine-Searcher auction history and Langtons past results would settle it, so Chrome check would help. No SOLD or UNSOLD evidence found. Retail asking range roughly $215-389 for this vintage.","needs_chrome":true,"chrome_hint":"Langtons auction results search 'Penfolds RWT 2002' (and Wine-Searcher auction prices 2002 RWT, last 24 months)","viewing_check":"Check fill level (into neck or lower), label scuffs or stains, capsule and cork condition, and confirm bottle number and vintage on the label; also note storage condition (wine stored upright or in box)."}
+{
+ "cdid": 3111114,
+ "lot": 852,
+ "identification": "Single bottle Penfolds RWT (Bin 798) Barossa Valley Shiraz 2002, red capsule, label looks clean",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "$215.00",
+   "aud_price": 215,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Cellarit (Australian retail)",
+   "url": "https://www.cellarit.com.au/wine-41042-penfolds-rwt-barossa-valley-shiraz-2002.aspx",
+   "same_item": "yes",
+   "note": "Page opened, price in page title, 'in stock'. Retail asking price, storage provenance unknown. AUD so no conversion."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$389 each",
+   "aud_price": 389,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Midday Somewhere (price aggregator)",
+   "url": "https://www.middaysomewhere.com.au/prices/5256/penfolds-rwt-shiraz",
+   "same_item": "yes",
+   "note": "Page opened. Retailer name hidden, 'price consistently high'. Top-end retail asking, not a price paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$99.99 (sold out)",
+   "aud_price": 155,
+   "currency": "USD",
+   "date": "seen 2026-11-06",
+   "venue": "US retailer (search snippet)",
+   "url": "https://www.benchmarkwineandspirits.com/products/22077",
+   "same_item": "yes",
+   "note": "Snippet only, unverified, listed sold out. Rate used 1 USD = 1.55 AUD (assumed)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "Avg US$/AUD 125 ex-tax",
+   "aud_price": 125,
+   "currency": "AUD",
+   "date": "seen 2026-11-06",
+   "venue": "Wine-Searcher average (search snippet)",
+   "url": "https://www.wine-searcher.com/find/penfolds+r+w+t+bin+798+sra+barossa+valley+south+australia/2002",
+   "same_item": "yes",
+   "note": "Snippet only, unverified, currency unclear, average of mixed listings."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$250 avg per bottle; featured offer A$179.54 ex-tax",
+   "currency": "AUD",
+   "aud_price": 179.54,
+   "date": "2026-11-06",
+   "venue": "Wine-Searcher (retail offers)",
+   "url": "https://www.wine-searcher.com/find/penfolds+rwt+shiraz+barossa/2002/australia",
+   "same_item": "yes",
+   "note": "Aggregator average A$250 ex-tax; lowest featured retail offer from a provenance-guaranteed dealer A$179.54 ex-tax. Asking prices, not prices paid. Provenance of the Armitage bottle unknown (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py pipeline and work (penfolds rwt, rwt 2002): no same-item sold hits (only a 2004 RWT on WinBid at $124 US auction, different vintage, not counted; Gowans Bin 389 2004 $120 hammer, different wine). Gowans API search rwt and penfolds rwt: no results. WebSearch generic auction sold and site:armitage.bidsonline: no RWT 2002 results. Retail pages fetched. No Langtons/Wine Owners fetched. eBay and Wine-Searcher closed; Wine-Searcher auction history and Langtons past results would settle it, so Chrome check would help. No SOLD or UNSOLD evidence found. Retail asking range roughly $215-389 for this vintage. | chrome: Wine-Searcher product page for 2002 RWT (average and retail offers; no auction results visible without PRO). Langtons and eBay not tried (eBay restricts alcohol sold listings).",
+ "needs_chrome": false,
+ "chrome_hint": "Langtons auction results search 'Penfolds RWT 2002' (and Wine-Searcher auction prices 2002 RWT, last 24 months)",
+ "viewing_check": "Check fill level (into neck or lower), label stains or tears, capsule and cork condition and any seepage, and that the vintage reads 2002 on the front label. Photograph the shoulder and cork.",
+ "chrome_done": true
+}

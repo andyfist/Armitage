@@ -1,7 +1,92 @@
-{"cdid":3111156,"lot":894,"identification":"Four 1910 Edward VII Australian silver coins (florin, shilling, sixpence, threepence) in flips, first-year Commonwealth silver type set. Florin date 1910 legible; others reverses only. Likely a circulation-strike set (not the 1910 Royal Mint presentation set, which is cased and specimen quality). Bright, possibly cleaned, about VF-EF.","entries":[
-{"kind":"SOLD","price":"$135 hammer","currency":"AUD","aud_price":135,"date":"2026-06-14","venue":"Gowans Auctions, Hobart (lot 416295)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/416295/","same_item":"category guide","note":"Single 1910 threepence NGC MS63, 6 bids. Far better grade, one coin only. Page not opened (local database result). Shows MS threepence alone is worth around $135."},
-{"kind":"SOLD","price":"$12 hammer","currency":"AUD","aud_price":12,"date":"2025-12-01","venue":"Gowans Auctions, Hobart (lot 378603)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/378603/","same_item":"category guide","note":"Sheet of mixed coins including a 1910 threepence, 1 bid. Likely worn, low end. Local database result."},
-{"kind":"UNSOLD","price":"none found","currency":"AUD","aud_price":0,"date":"n/a","venue":"n/a","url":"n/a","same_item":"category guide","note":"No unsold results found."},
-{"kind":"ASKING","price":"760 GBP result against estimate 500-700 GBP (unclear if hammer or bid)","currency":"GBP","aud_price":1500,"date":"unknown, seen 2026-11-06","venue":"1818 Auctioneers (UK)","url":"https://auctions.1818auctioneers.co.uk/past-auctions/sr1810854/lot-details/dc6a8f9d-3d27-4548-8e9c-b00e00b608f2","same_item":"close","note":"Same four-coin 1910 set but described as uncirculated. Snippet only (page returned 403), unverified; treat as not a confirmed price paid. Rate about 1 GBP = 2.0 AUD (assumed). Much better grade than this lot."},
-{"kind":"SOLD","price":"individual coins: 1910 shilling NGC MS64 US$264 (Heritage Mar 2019); 1910 florin AU55 US$372 (Sep 2024); florin MS64 US$1980 (Dec 2022)","currency":"USD","aud_price":570,"date":"2024-09-16","venue":"PCGS auction prices / Heritage","url":"https://www.pcgs.com/auctionprices/item/1910-shil/17771/5690466638542955578","same_item":"category guide","note":"Snippet only, graded slabbed coins, higher grade. AUD figure is the AU55 florin at about 1 USD = 1.53 AUD (assumed). Shows a circulated-grade 1910 florin alone is worth a few hundred dollars in AU grade; VF-EF cleaned will be well below."}
-],"searches_tried":"pipeline comps.py (crashed on a null field); work/comps.py (florin 1910, threepence 1910, type set, coin set silver); Gowans API (1910 florin, shilling, sixpence, edward vii silver, type set); 2 WebSearches (1910 four-coin set results; Noble Numismatics). No direct Armitage or Noble sold result for a matched 1910 four-coin set found. Noble Auction 122 (Nov 2019) mixed lot with 1910 set noted by snippet but price not tied. eBay sold would help settle it.","needs_chrome":true,"chrome_hint":"eBay sold: 1910 Australia florin shilling sixpence threepence set; also noble.com.au prices realised, auction 122 (Nov 2019), search 1910 florin","rate_note":"1 GBP = 2.0 AUD, 1 USD = 1.53 AUD (approximate, assumed)","viewing_check":"Photograph obverses of all four coins (Edward VII portrait, wear on hair and crown), check for cleaning hairlines, rim damage and the date on each coin, and check the dealer ticket 7700/2. Confirm all four are 1910 and not mixed dates."}
+{
+ "cdid": 3111156,
+ "lot": 894,
+ "identification": "Four silver Australian coins in plastic flips (florin, shilling, sixpence, threepence), catalogue says 1910; florin looks bright, possibly cleaned.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$135 hammer",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2026-06-14",
+   "venue": "Gowans Auctions, Hobart (lot 416295)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/416295/",
+   "same_item": "category guide",
+   "note": "Single 1910 threepence NGC MS63, 6 bids. Far better grade, one coin only. Page not opened (local database result). Shows MS threepence alone is worth around $135."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$12 hammer",
+   "currency": "AUD",
+   "aud_price": 12,
+   "date": "2025-12-01",
+   "venue": "Gowans Auctions, Hobart (lot 378603)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/378603/",
+   "same_item": "category guide",
+   "note": "Sheet of mixed coins including a 1910 threepence, 1 bid. Likely worn, low end. Local database result."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "none found",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "n/a",
+   "venue": "n/a",
+   "url": "n/a",
+   "same_item": "category guide",
+   "note": "No unsold results found."
+  },
+  {
+   "kind": "ASKING",
+   "price": "760 GBP result against estimate 500-700 GBP (unclear if hammer or bid)",
+   "currency": "GBP",
+   "aud_price": 1500,
+   "date": "unknown, seen 2026-11-06",
+   "venue": "1818 Auctioneers (UK)",
+   "url": "https://auctions.1818auctioneers.co.uk/past-auctions/sr1810854/lot-details/dc6a8f9d-3d27-4548-8e9c-b00e00b608f2",
+   "same_item": "close",
+   "note": "Same four-coin 1910 set but described as uncirculated. Snippet only (page returned 403), unverified; treat as not a confirmed price paid. Rate about 1 GBP = 2.0 AUD (assumed). Much better grade than this lot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "individual coins: 1910 shilling NGC MS64 US$264 (Heritage Mar 2019); 1910 florin AU55 US$372 (Sep 2024); florin MS64 US$1980 (Dec 2022)",
+   "currency": "USD",
+   "aud_price": 570,
+   "date": "2024-09-16",
+   "venue": "PCGS auction prices / Heritage",
+   "url": "https://www.pcgs.com/auctionprices/item/1910-shil/17771/5690466638542955578",
+   "same_item": "category guide",
+   "note": "Snippet only, graded slabbed coins, higher grade. AUD figure is the AU55 florin at about 1 USD = 1.53 AUD (assumed). Shows a circulated-grade 1910 florin alone is worth a few hundred dollars in AU grade; VF-EF cleaned will be well below."
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$78.00",
+   "currency": "AUD",
+   "aud_price": 78,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/880084683534",
+   "same_item": "no",
+   "note": "1910 Australian florin alone, best offer accepted so price at or below A$78. Grade not checked.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$75.00",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-09-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/137398491108",
+   "same_item": "no",
+   "note": "1910 threepence, sixpence and shilling trio, listed by Downies. The florin is the missing coin. Grade not checked.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline comps.py (crashed on a null field); work/comps.py (florin 1910, threepence 1910, type set, coin set silver); Gowans API (1910 florin, shilling, sixpence, edward vii silver, type set); 2 WebSearches (1910 four-coin set results; Noble Numismatics). No direct Armitage or Noble sold result for a matched 1910 four-coin set found. Noble Auction 122 (Nov 2019) mixed lot with 1910 set noted by snippet but price not tied. eBay sold would help settle it. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: 1910 Australia florin shilling sixpence threepence set; also noble.com.au prices realised, auction 122 (Nov 2019), search 1910 florin",
+ "rate_note": "1 GBP = 2.0 AUD, 1 USD = 1.53 AUD (approximate, assumed)",
+ "viewing_check": "Check every coin date (only the florin is confirmed 1910 in the photo), look for cleaning or hairlines, wear on the florin and shilling, and that each is genuine silver. Photograph both sides of each coin out of the flips if allowed.",
+ "chrome_done": true
+}

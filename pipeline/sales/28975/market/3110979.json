@@ -1,6 +1,57 @@
-{"cdid":3110979,"lot":717,"identification":"Two 50cl (half litre) bottles in a shared gift box: Whyte & Mackay De Luxe blended Scotch and Dalmore 12 Years Old Pure Malt Scotch Whisky (Whyte & Mackay Distillers Ltd label, 75 proof, so 1970s). Dalmore 12 is the only part with real value; the De Luxe blend is minor. Photo shows fills into the neck, caps intact.","entries":[
-{"kind":"UNSOLD","price":"GBP 910 winning bid, reserve not met, 39 bids","aud_price":1820,"currency":"GBP","date":"unknown (snippet)","venue":"Whisky Auctioneer","url":"https://whiskyauctioneer.com/lot/288215/dalmore-12-year-old-mackenzie-brothers-1970s","same_item":"close","note":"Snippet only. Mackenzie Brothers 1970s 75cl 43%, an earlier and stronger bottling, not a 50cl 75 proof W&M one. Ceiling signal only. Rate used GBP1=AUD2.00 (assumed)."},
-{"kind":"UNSOLD","price":"GBP 370 last bid (final outcome unclear)","aud_price":740,"currency":"GBP","date":"2017-10-29","venue":"Whisky Hammer","url":"https://www.whiskyhammer.com/item/6456/Dalmore/Dalmore---12-Year-Old-Pure-Malt-1970s.html","same_item":"close","note":"Snippet only (page gave 403). Late 1970s Dalmore 12 Pure Malt, 75 proof, but 1 litre, not 50cl. Old and a litre; treat as a ceiling at best. Rate GBP1=AUD2.00 (assumed)."},
-{"kind":"ASKING","price":"GBP 2000","aud_price":4000,"currency":"GBP","date":"live, seen 2026-11-06 (snippet)","venue":"The Whisky Exchange","url":"https://www.thewhiskyexchange.com/p/22618/dalmore-12-year-old-bot1970s","same_item":"category guide","note":"Snippet only. 1970s 75cl 43% bottling, a dealer asking price, not a price paid. Rate 2.00 assumed."},
-{"kind":"ASKING","price":"USD 999","aud_price":1530,"currency":"USD","date":"live, seen 2026-11-06 (snippet)","venue":"Flask Fine Wines","url":"https://flaskfinewines.com/products/dalmore-12-year-old-1970s","same_item":"category guide","note":"Snippet only. 750ml 1970s bottling, retail asking. Rate USD1=AUD1.53 (assumed)."}
-],"searches_tried":"pipeline/comps.py (errored on a None price bug) and work/comps.py (dalmore, whyte mackay: no hits); Gowans API dalmore/whyte mackay (no lots); WebSearch site:armitage.bidsonline (none); two web searches for 1970s Dalmore 12 75 proof 50cl. whiskyauctioneer and whiskyhammer pages blocked (403). No verified SOLD 50cl 75 proof result found. eBay sold listings (Dalmore 12 75 proof 50cl, W&M) and Whisky Auctioneer past results would settle it.","needs_chrome":true,"chrome_hint":"eBay sold (AU and UK): Dalmore 12 year old pure malt 75 proof 50cl OR 1970s; also whiskyauctioneer.com past results for 'Dalmore 12 Year Old 50cl 1970s' and whiskyhammer.com lot 6456 final price","viewing_check":"Check fill level (neck vs shoulder), capsule and label condition, strength on the label (75 proof / 43%) and bottle size 50cl/26 2/3 fl oz, plus box condition. Photograph back labels.","rate_note":"GBP1=AUD2.00, USD1=AUD1.53, assumed, not looked up."}
+{
+ "cdid": 3110979,
+ "lot": 717,
+ "identification": "Two half-litre (50cl) bottles in a twin gift carton: Whyte & Mackay De Luxe blended Scotch and Dalmore 12 Years Old Pure Malt (older gold-label style).",
+ "entries": [
+  {
+   "kind": "UNSOLD",
+   "price": "GBP 910 winning bid, reserve not met, 39 bids",
+   "aud_price": 1820,
+   "currency": "GBP",
+   "date": "unknown (snippet)",
+   "venue": "Whisky Auctioneer",
+   "url": "https://whiskyauctioneer.com/lot/288215/dalmore-12-year-old-mackenzie-brothers-1970s",
+   "same_item": "close",
+   "note": "Snippet only. Mackenzie Brothers 1970s 75cl 43%, an earlier and stronger bottling, not a 50cl 75 proof W&M one. Ceiling signal only. Rate used GBP1=AUD2.00 (assumed)."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "GBP 370 last bid (final outcome unclear)",
+   "aud_price": 740,
+   "currency": "GBP",
+   "date": "2017-10-29",
+   "venue": "Whisky Hammer",
+   "url": "https://www.whiskyhammer.com/item/6456/Dalmore/Dalmore---12-Year-Old-Pure-Malt-1970s.html",
+   "same_item": "close",
+   "note": "Snippet only (page gave 403). Late 1970s Dalmore 12 Pure Malt, 75 proof, but 1 litre, not 50cl. Old and a litre; treat as a ceiling at best. Rate GBP1=AUD2.00 (assumed)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 2000",
+   "aud_price": 4000,
+   "currency": "GBP",
+   "date": "live, seen 2026-11-06 (snippet)",
+   "venue": "The Whisky Exchange",
+   "url": "https://www.thewhiskyexchange.com/p/22618/dalmore-12-year-old-bot1970s",
+   "same_item": "category guide",
+   "note": "Snippet only. 1970s 75cl 43% bottling, a dealer asking price, not a price paid. Rate 2.00 assumed."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 999",
+   "aud_price": 1530,
+   "currency": "USD",
+   "date": "live, seen 2026-11-06 (snippet)",
+   "venue": "Flask Fine Wines",
+   "url": "https://flaskfinewines.com/products/dalmore-12-year-old-1970s",
+   "same_item": "category guide",
+   "note": "Snippet only. 750ml 1970s bottling, retail asking. Rate USD1=AUD1.53 (assumed)."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py (errored on a None price bug) and work/comps.py (dalmore, whyte mackay: no hits); Gowans API dalmore/whyte mackay (no lots); WebSearch site:armitage.bidsonline (none); two web searches for 1970s Dalmore 12 75 proof 50cl. whiskyauctioneer and whiskyhammer pages blocked (403). No verified SOLD 50cl 75 proof result found. eBay sold listings (Dalmore 12 75 proof 50cl, W&M) and Whisky Auctioneer past results would settle it. | chrome: eBay AU sold 'dalmore 12 year old pure malt 50cl' (only modern 700ml and unrelated bottles); ebay.com worldwide needs sign-in, skipped; whiskyauctioneer search for another lot returned nothing, no further sites tried.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold (AU and UK): Dalmore 12 year old pure malt 75 proof 50cl OR 1970s; also whiskyauctioneer.com past results for 'Dalmore 12 Year Old 50cl 1970s' and whiskyhammer.com lot 6456 final price",
+ "viewing_check": "Photograph fill levels, labels, strength and size statement (proof or %), capsules and the box. Dalmore 12 pure malt of this era is the part with value; check for label damage and ullage.",
+ "rate_note": "GBP1=AUD2.00, USD1=AUD1.53, assumed, not looked up.",
+ "chrome_done": true
+}

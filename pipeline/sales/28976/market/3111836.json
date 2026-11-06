@@ -1,1 +1,36 @@
-{"cdid":3111836,"lot":1006,"identification":"Kunstkammer-style antiquarian still life, oil on canvas, signature faint lower right read as August Scholz but possibly another name (the last letters look like '...ter', so Schluter is worth checking). Unverified, could be a later decorative copy.","entries":[],"searches_tried":"Local comps.py (pipeline version crashed on a data error; work/comps.py for 'scholz' and 'still life oil' found no sales); Gowans API search 'scholz' returned nothing; 5 WebSearches (Scholz still life auction, Stillleben German, Invaluable artist page, nautilus cup) found no August Scholz sold records anywhere. An appraisily auto profile for August Schluter (German, 1858-1928) shows median about USD 150, range 45 to 500, snippet only, unverified and a different name. eBay sold listings could not be checked.","needs_chrome":true,"chrome_hint":"eBay sold: 'antiquarian still life oil nautilus cup signed' and 'August Scholz oil painting'; Invaluable/LiveAuctioneers: 'August Scholz' and 'August Schluter still life'","viewing_check":"Photograph the signature lower right at close range (Scholz or Schluter, any date), the back of the canvas and stretcher for labels or gallery stamps, and check the canvas is not laid on board over a print; look for paint losses and craquelure."}
+{
+ "cdid": 3111836,
+ "lot": 1006,
+ "identification": "Framed oil on canvas, Dutch-style antiquarian still life (gilt nautilus cup, blue plate, grapes, pears, open book, glass, lacquer box) in a dark carved frame; signature not legible in photos, so artist unconfirmed",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "<=A$125.00",
+   "currency": "AUD",
+   "aud_price": 125,
+   "date": "2026-08-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327328625539",
+   "same_item": "category guide",
+   "note": "Vintage signed floral still life oil, gold frame, listed A$125 or best offer, so price paid is at most A$125. Floral not a Kunstkammer scene, different artist, only a decorative-market guide",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$99.95",
+   "currency": "AUD",
+   "aud_price": 99.95,
+   "date": "2026-08-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/327280319990",
+   "same_item": "category guide",
+   "note": "Original vintage still life oil, signed, framed, listed A$99.95 or best offer, so paid at most this. Different subject and artist, decorative guide only",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline version crashed on a data error; work/comps.py for 'scholz' and 'still life oil' found no sales); Gowans API search 'scholz' returned nothing; 5 WebSearches (Scholz still life auction, Stillleben German, Invaluable artist page, nautilus cup) found no August Scholz sold records anywhere. An appraisily auto profile for August Schluter (German, 1858-1928) shows median about USD 150, range 45 to 500, snippet only, unverified and a different name. eBay sold listings could not be checked. | chrome: eBay AU sold: august scholz oil painting (nothing for the artist), nautilus still life oil painting (floral decorative comps only). Invaluable and LiveAuctioneers not tried. One eBay search hit a transient error page.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: 'antiquarian still life oil nautilus cup signed' and 'August Scholz oil painting'; Invaluable/LiveAuctioneers: 'August Scholz' and 'August Schluter still life'",
+ "viewing_check": "Photograph the signature up close (Scholz, Schluter or other) and any label or inscription on the back. Check it is genuinely oil on canvas laid on board, not a print, plus craquelure, retouching and frame condition. Dutch-style painting quality (detail in the cup and glass) matters most to value.",
+ "chrome_done": true
+}

@@ -1,7 +1,7 @@
 {
  "cdid": 3111197,
  "lot": 935,
- "identification": "Sheet of 40 Australian florins, about half pre-1946 sterling (92.5%) and the rest 50% silver Elizabeth II, incl. two 1951 Jubilee and two 1954 Royal Visit. Photos confirm 40 circulated florins in an album sheet; no 1932/1933 or 1927 Canberra seen at this resolution. Melt estimate (not a price seen): roughly 20 sterling x 10.5g plus 20 x 5.7g = about 320g fine silver.",
+ "identification": "Album sheet of 40 circulated Australian florins, mix of pre-1946 sterling (.925) and 1946-63 50% silver, incl. 1951 Jubilee; no key dates seen.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,72 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=458010",
    "same_item": "category guide",
    "note": "Two sheets of pre-decimal coins, from local database; snippet only, not reopened. Different content."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$239.99",
+   "currency": "AUD",
+   "aud_price": 239.99,
+   "date": "2026-10-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/366743914712",
+   "same_item": "category guide",
+   "note": "Bulk lot of 15 Australian silver florins, Buy It Now, about A$16 a coin. Mix of years not stated. Pro rata for 40 coins is about A$640.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$990.00",
+   "currency": "AUD",
+   "aud_price": 990,
+   "date": "2026-10-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/366705208157",
+   "same_item": "category guide",
+   "note": "Bulk lot of 60 Australian silver florins, Buy It Now, about A$16.50 a coin. Pro rata for 40 coins is about A$660.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$899.90",
+   "currency": "AUD",
+   "aud_price": 899.9,
+   "date": "2026-09-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158290645478",
+   "same_item": "category guide",
+   "note": "30 pre-decimal .925 florins (sterling only, about 10 oz silver), Buy It Now. Higher grade of metal than half this lot.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$177.53",
+   "currency": "AUD",
+   "aud_price": 177.53,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237152048188",
+   "same_item": "category guide",
+   "note": "Lot of 10 pre-decimal florins, 8 bids, auction. About A$17.75 a coin.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$110.87",
+   "currency": "AUD",
+   "aud_price": 110.87,
+   "date": "2026-09-07",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168657311040",
+   "same_item": "category guide",
+   "note": "Lot of 9 florins (7 x 1958, 2 x 1901/1951 Jubilee), 11 bids, high grade. About A$12 a coin.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with florins/sheet/silver; Gowans API search 'sheet florins' and individual lot pages. Not run: WebSearch, Noble/Armitage past results, spot price check (no live melt verified). Gowans sheet descriptions are empty so sheet sizes are unknown. eBay sold would help only marginally.",
+ "searches_tried": "comps.py (pipeline and work) with florins/sheet/silver; Gowans API search 'sheet florins' and individual lot pages. Not run: WebSearch, Noble/Armitage past results, spot price check (no live melt verified). Gowans sheet descriptions are empty so sheet sizes are unknown. eBay sold would help only marginally. | chrome: eBay AU sold: sheet of 40 australian florins silver (0 exact, used the fewer-words results). Melt value alone is roughly A$600+; the cloud provisional maximum of A$30 looks far too low if these eBay bulk-lot prices are typical. Gowans comps in the brief already cover Hobart results.",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Check dates and mintmarks on every florin for 1932 and 1933 (worth hundreds each), 1927 Canberra, 1934-35 Melbourne Centenary, and Perth/Melbourne varieties; count pre-1946 versus post-1946 coins. Photograph both sides of the sheet at high resolution.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Count the coins and sort sterling (pre-1946, bigger, heavier) from 50% silver (1946 on). Look for 1932, 1933 or 1927 Canberra florins, or any 1934-35 Centenary (sold A$255-530 each on eBay in Sept/Oct 2026). Check coins are not holed or cleaned.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

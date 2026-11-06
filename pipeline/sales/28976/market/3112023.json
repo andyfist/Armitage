@@ -1,7 +1,7 @@
 {
  "cdid": 3112023,
  "lot": 1193,
- "identification": "Oil on board, 'Get a Move On Cook', H35 x W75 cm, stockmen and cook at a night campfire, signed lower right with a loose cursive signature consistent with Keith Naughton (1925-2019) but not clearly legible in photos. Silver and gilt frame with cream mount. NOTE: the same title, size and framing appeared earlier as Armitage sale 28840 lot 1108 (cdid 3089401), so this looks like a relist; the outcome there was not found.",
+ "identification": "Framed oil on board of stockmen and a cook at a night campfire, loose impressionist style, gilt-edged panel in silver frame with cream mount; consistent with Keith Naughton 'Get a Move On Cook'",
  "entries": [
   {
    "kind": "SOLD",
@@ -81,9 +81,10 @@
    "note": "'Outstation Camp Fire', oil on board 39 x 49 cm, est 300-500. Closest subject (campfire). Ceiling signal. Database entry."
   }
  ],
- "searches_tried": "comps.py in both pipeline and work databases (naughton; pipeline version crashed on a None row, work version worked); Invaluable Naughton artist page fetched; Gowans API search 'naughton' (no hits); WebSearch for the title and campfire (nothing); WebSearch site:armitage.bidsonline.com.au (no Armitage results surfaced); no exact-title sale found anywhere. Not searched: Artrecord (paywalled prices). eBay sold would help for retail comparison.",
- "needs_chrome": true,
+ "searches_tried": "comps.py in both pipeline and work databases (naughton; pipeline version crashed on a None row, work version worked); Invaluable Naughton artist page fetched; Gowans API search 'naughton' (no hits); WebSearch for the title and campfire (nothing); WebSearch site:armitage.bidsonline.com.au (no Armitage results surfaced); no exact-title sale found anywhere. Not searched: Artrecord (paywalled prices). eBay sold would help for retail comparison. | chrome: eBay AU sold: Keith Naughton oil painting stockmen (no Naughton results, only unrelated artists). Google for the exact title returned only Armitage pages, no realised price. Invaluable artist page not reachable by guessed URL. No new evidence beyond the Lawsons results already listed.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: Keith Naughton oil painting stockmen campfire; also Art Record Keith Naughton auction results for 'Get a Move On Cook'",
- "viewing_check": "Photograph the lower right signature close up to confirm it reads Naughton, check the back for a title label or gallery stamp, and confirm medium (board or canvas) and any scratches or retouching. Also check whether it is the same painting as Armitage sale 28840 lot 1108.",
- "rate_note": "All prices AUD, no conversion. Gowans/Lawsons hammers exclude premium."
+ "viewing_check": "Photograph the signature lower right up close to confirm it reads Naughton, check the verso for title label or gallery stickers, and look for old lot labels from the earlier Armitage sale 28840 lot 1108 (a likely relist that may not have sold).",
+ "rate_note": "All prices AUD, no conversion. Gowans/Lawsons hammers exclude premium.",
+ "chrome_done": true
 }

@@ -1,9 +1,91 @@
-{"cdid":3112418,"lot":1697,"identification":"Duravit Vero washbasin 0453600000 (600x470 mm, three tap holes) per sticker 'WT VERO 045360 00 00'. Note: the photo shows a high backsplash, unlike current Vero catalogue images, so the match to 0453600000 rests on the label only. Appears unused.","entries":[
-{"kind":"SOLD","price":"$90 hammer","aud_price":90,"currency":"AUD","date":"2026-03-09 (listing date)","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wall%20basin&page%5Bnumber%5D=1","same_item":"category guide","note":"CAROMA WALL BASIN, 1 bid, lot id 396210. Different maker, wall basin; premium extra. API page opened."},
-{"kind":"SOLD","price":"$240 hammer","aud_price":240,"currency":"AUD","date":"2025-11-17 (listing date)","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wall%20basin&page%5Bnumber%5D=1","same_item":"category guide","note":"2 WALL BASIN/LAVATORY (two items), 3 bids, lot id 376320, so about $120 each. Premium extra. API page opened."},
-{"kind":"SOLD","price":"$105 hammer","aud_price":105,"currency":"AUD","date":"2026-06-08 (listing date)","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=semi%20inset%20basin&page%5Bnumber%5D=1","same_item":"category guide","note":"SEMI INSET BASIN - MATT WHITE, 2 bids, lot id 415611. Found via local comps database, not re-opened. Premium extra."},
-{"kind":"ASKING","price":"$612 sale (reg $721)","aud_price":612,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Elite Bathware (Australia)","url":"https://elitebathware.com.au/products/vero-wall-basin-470x600","same_item":"close","note":"Duravit Vero wall basin 470x600, code 0454600000 (one tap hole, with overflow), new retail. Snippet only, not verified. Sister model to 045360."},
-{"kind":"ASKING","price":"$1,099","aud_price":1099,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Cass Brothers (Australia)","url":"https://www.cassbrothers.com.au/products/duravit-vero-air-furniture-washbasin-600-x-470mm-1th-alpine-white","same_item":"category guide","note":"Vero Air furniture washbasin 600x470, new retail. Different model (Air). Snippet only."},
-{"kind":"ASKING","price":"USD 775","aud_price":1160,"currency":"USD","date":"live, seen 2026-11-06 (rate assumed 1.50, not verified)","venue":"QualityBath (US)","url":"https://www.qualitybath.com/duravit-0453600000-vero-washbasin-for-metal-console-legs-23-5-8-w-product-183286.htm","same_item":"yes","note":"Exact catalogue no. 0453600000, new retail, noted as discontinued. Snippet only (page fetch did not show price). Retail ceiling, not a resale value."}
-],
-"searches_tried":"comps.py pipeline version crashed (TypeError); work/comps.py for duravit, duravit vero, basin, washbasin; Gowans API for duravit (no hits) and wall basin; WebSearch for Duravit Vero 045360 price and Australian Vero 600x470; QualityBath fetch. No past auction result for a Duravit Vero basin found. Did not search armitage.bidsonline site. eBay sold prices for 'Duravit Vero 0453600000' would help settle used and new-old-stock resale.","needs_chrome":true,"chrome_hint":"eBay sold listings: Duravit Vero 0453600000 OR 045360 washbasin","rate_note":"USD to AUD assumed 1.50 (unverified); AUD and Gowans prices are as shown.","viewing_check":"Check the Duravit sticker and model label, whether the basin has a high backsplash (differs from catalogue Vero), back and underside for cracks, chips or hairlines, glaze condition, and that it is actually unused. Photograph the back."}
+{
+ "cdid": 3112418,
+ "lot": 1697,
+ "identification": "White porcelain wall basin with high backsplash and three tap holes, Duravit sticker, looks unused; about 59 x 44 cm.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "aud_price": 90,
+   "currency": "AUD",
+   "date": "2026-03-09 (listing date)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wall%20basin&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "CAROMA WALL BASIN, 1 bid, lot id 396210. Different maker, wall basin; premium extra. API page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$240 hammer",
+   "aud_price": 240,
+   "currency": "AUD",
+   "date": "2025-11-17 (listing date)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wall%20basin&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "2 WALL BASIN/LAVATORY (two items), 3 bids, lot id 376320, so about $120 each. Premium extra. API page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "aud_price": 105,
+   "currency": "AUD",
+   "date": "2026-06-08 (listing date)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=semi%20inset%20basin&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "SEMI INSET BASIN - MATT WHITE, 2 bids, lot id 415611. Found via local comps database, not re-opened. Premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$612 sale (reg $721)",
+   "aud_price": 612,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Elite Bathware (Australia)",
+   "url": "https://elitebathware.com.au/products/vero-wall-basin-470x600",
+   "same_item": "close",
+   "note": "Duravit Vero wall basin 470x600, code 0454600000 (one tap hole, with overflow), new retail. Snippet only, not verified. Sister model to 045360."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,099",
+   "aud_price": 1099,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Cass Brothers (Australia)",
+   "url": "https://www.cassbrothers.com.au/products/duravit-vero-air-furniture-washbasin-600-x-470mm-1th-alpine-white",
+   "same_item": "category guide",
+   "note": "Vero Air furniture washbasin 600x470, new retail. Different model (Air). Snippet only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 775",
+   "aud_price": 1160,
+   "currency": "USD",
+   "date": "live, seen 2026-11-06 (rate assumed 1.50, not verified)",
+   "venue": "QualityBath (US)",
+   "url": "https://www.qualitybath.com/duravit-0453600000-vero-washbasin-for-metal-console-legs-23-5-8-w-product-183286.htm",
+   "same_item": "yes",
+   "note": "Exact catalogue no. 0453600000, new retail, noted as discontinued. Snippet only (page fetch did not show price). Retail ceiling, not a resale value."
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$253.86",
+   "currency": "AUD",
+   "aud_price": 253.86,
+   "date": "2026-07-13",
+   "venue": "eBay AU (US seller)",
+   "url": "https://www.ebay.com.au/itm/297860020134",
+   "same_item": "category guide",
+   "note": "Duravit 070350 Vero wall-mount sink, new, much smaller (about 50 x 25 cm) and a different model. Best offer accepted, actual price below the shown A$253.86. Postage A$306.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py pipeline version crashed (TypeError); work/comps.py for duravit, duravit vero, basin, washbasin; Gowans API for duravit (no hits) and wall basin; WebSearch for Duravit Vero 045360 price and Australian Vero 600x470; QualityBath fetch. No past auction result for a Duravit Vero basin found. Did not search armitage.bidsonline site. eBay sold prices for 'Duravit Vero 0453600000' would help settle used and new-old-stock resale. | chrome: eBay AU sold: duravit vero washbasin 600 (no same-model sale); duravit 0453600000 (eBay error page). Heavy item with high postage, so local pick-up value is the relevant comp, which the Gowans sales already cover.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold listings: Duravit Vero 0453600000 OR 045360 washbasin",
+ "rate_note": "USD to AUD assumed 1.50 (unverified); AUD and Gowans prices are as shown.",
+ "viewing_check": "Check the sticker model number (WT VERO 045360), tap hole count, chips or cracks on the rim and backsplash, and whether wall fixings or the waste are included. Photograph the sticker close up.",
+ "chrome_done": true
+}

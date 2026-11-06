@@ -1,9 +1,67 @@
-{"cdid":3111893,"lot":1063,"identification":"Oil on canvas, Mount Roland with farm buildings, cattle and gums, signed Higgs and dated, verso inscribed 'Mount Roland by J. Higgs Jnr 1887'. Joshua Higgs Jnr (1843-1903, working Tasmania). Attribution rests on the verso inscription and signature; AASD/Invaluable sometimes confuse Jnr and Snr.","entries":[
-{"kind":"UNSOLD","price":"AUD 850 last bid, passed in (est 2,500-3,500)","currency":"AUD","aud_price":850,"date":"2026-09-02","venue":"Lawsons","url":"https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref F4E37EC567)","same_item":"close","note":"Joshua Higgs Jnr, Near Brown Bluff, River Tamar, 1898, oil on canvas 19 x 45.5 cm (small). Passed in at 850 bid. Page opened (Invaluable embedded JSON); AUD, premium treatment unknown. Smaller and later than Mount Roland, similar artist."},
-{"kind":"UNSOLD","price":"AUD 1,300 last bid, passed in (est 2,500-3,500)","currency":"AUD","aud_price":1300,"date":"2026-02-11","venue":"Lawsons","url":"https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref 86CF20F501)","same_item":"close","note":"Same Brown Bluff painting, first offering, passed in at 1,300 bid. Page opened. Shows the market would not meet 2,500 for a small Higgs Jnr; ceiling signal only."},
-{"kind":"SOLD","price":"AUD 5,040 (pair)","currency":"AUD","aud_price":5040,"date":"2011-08-28","venue":"Leonard Joel","url":"https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref 1AB3000DB6)","same_item":"category guide","note":"Pair, Dragons Reef Tamar River and Lake McKenzie, Higgs Jnr; est 1,500-2,000. Old (15 years), a pair, likely includes premium (not stated). Page opened."},
-{"kind":"SOLD","price":"AUD 5,400","currency":"AUD","aud_price":5400,"date":"2008-08-24","venue":"Leonard Joel","url":"https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref 8TT04M7JGN)","same_item":"category guide","note":"Joshua Higgs, Risdon Ferry River Derwent, est 2,000-3,000; 18 years old, attribution Snr/Jnr unclear. Page opened. Dated evidence only."},
-{"kind":"SOLD","price":"AUD 900","currency":"AUD","aud_price":900,"date":"2012-06-24","venue":"Leonard Joel","url":"https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref D1E77E3BD0)","same_item":"category guide","note":"Higgs River Scene 1890 watercolour, est 800-1,200. Watercolour, not comparable to oil. Page opened."}
-],
-"searches_tried":"pipeline/comps.py crashed (NoneType bug) and work/comps.py returned no Higgs/Mount Roland hits; Gowans API search 'Higgs' returned nothing; WebSearch x2 (Higgs Jnr auction, Mount Roland); Invaluable artist page parsed; AASD page blocked by bot check. Armitage past-result and Lawsons/Leonard Joel site searches not run. No eBay or LiveAuctioneers; no Mount Roland Higgs result found. Recent market looks soft: small Higgs Jnr failed twice in 2026 at 850-1,300.",
-"needs_chrome":true,"chrome_hint":"AASD https://www.aasd.com.au/artist/6038-joshua-higgs-junior/works-in-past-sales/ and artrecord/askart Joshua Higgs auction records; Invaluable 'Joshua Higgs Mount Roland' results","viewing_check":"Photograph the front signature and date at lower left under raking light, the verso inscription, and check for relining, flaking, overpaint and retouching under UV if possible; measure size (larger is worth more)."}
+{
+ "cdid": 3111893,
+ "lot": 1063,
+ "identification": "Gilt-framed oil landscape, Mount Roland style mountain with farm buildings, cattle and gum trees, hazy blue ranges; consistent with a Tasmanian 1880s work.",
+ "entries": [
+  {
+   "kind": "UNSOLD",
+   "price": "AUD 850 last bid, passed in (est 2,500-3,500)",
+   "currency": "AUD",
+   "aud_price": 850,
+   "date": "2026-09-02",
+   "venue": "Lawsons",
+   "url": "https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref F4E37EC567)",
+   "same_item": "close",
+   "note": "Joshua Higgs Jnr, Near Brown Bluff, River Tamar, 1898, oil on canvas 19 x 45.5 cm (small). Passed in at 850 bid. Page opened (Invaluable embedded JSON); AUD, premium treatment unknown. Smaller and later than Mount Roland, similar artist."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "AUD 1,300 last bid, passed in (est 2,500-3,500)",
+   "currency": "AUD",
+   "aud_price": 1300,
+   "date": "2026-02-11",
+   "venue": "Lawsons",
+   "url": "https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref 86CF20F501)",
+   "same_item": "close",
+   "note": "Same Brown Bluff painting, first offering, passed in at 1,300 bid. Page opened. Shows the market would not meet 2,500 for a small Higgs Jnr; ceiling signal only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 5,040 (pair)",
+   "currency": "AUD",
+   "aud_price": 5040,
+   "date": "2011-08-28",
+   "venue": "Leonard Joel",
+   "url": "https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref 1AB3000DB6)",
+   "same_item": "category guide",
+   "note": "Pair, Dragons Reef Tamar River and Lake McKenzie, Higgs Jnr; est 1,500-2,000. Old (15 years), a pair, likely includes premium (not stated). Page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 5,400",
+   "currency": "AUD",
+   "aud_price": 5400,
+   "date": "2008-08-24",
+   "venue": "Leonard Joel",
+   "url": "https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref 8TT04M7JGN)",
+   "same_item": "category guide",
+   "note": "Joshua Higgs, Risdon Ferry River Derwent, est 2,000-3,000; 18 years old, attribution Snr/Jnr unclear. Page opened. Dated evidence only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 900",
+   "currency": "AUD",
+   "aud_price": 900,
+   "date": "2012-06-24",
+   "venue": "Leonard Joel",
+   "url": "https://www.invaluable.com/artist/higgs-joshua-ti7vo11b3q/sold-at-auction-prices/ (lot ref D1E77E3BD0)",
+   "same_item": "category guide",
+   "note": "Higgs River Scene 1890 watercolour, est 800-1,200. Watercolour, not comparable to oil. Page opened."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py crashed (NoneType bug) and work/comps.py returned no Higgs/Mount Roland hits; Gowans API search 'Higgs' returned nothing; WebSearch x2 (Higgs Jnr auction, Mount Roland); Invaluable artist page parsed; AASD page blocked by bot check. Armitage past-result and Lawsons/Leonard Joel site searches not run. No eBay or LiveAuctioneers; no Mount Roland Higgs result found. Recent market looks soft: small Higgs Jnr failed twice in 2026 at 850-1,300. | chrome: AASD past sales page for Joshua Higgs Jr: blocked by a browser check, skipped. Invaluable search 'joshua higgs': 7 past lots, incl. Near Brown Bluff, River Tamar 1898 oil sold at Lawsons (Sep 2026) and again Feb 2026 (Jr. Australia 1843-1903), but prices are behind a subscription, so nothing recorded. Other past lots there are Leonard Joel 2008 to 2012 (too old). Invaluable 'joshua higgs mount roland': 0 items.",
+ "needs_chrome": false,
+ "chrome_hint": "AASD https://www.aasd.com.au/artist/6038-joshua-higgs-junior/works-in-past-sales/ and artrecord/askart Joshua Higgs auction records; Invaluable 'Joshua Higgs Mount Roland' results",
+ "viewing_check": "Photograph the signature and date on the front and the verso inscription 'Mount Roland by J. Higgs Jnr 1887' (Jnr, not Snr). Check for retouching, relining and craquelure under light, and the frame condition. Check for a gallery or auction label on the back.",
+ "chrome_done": true
+}

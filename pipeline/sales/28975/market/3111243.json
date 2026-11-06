@@ -1,5 +1,82 @@
-{"cdid":3111243,"lot":981,"identification":"Four bottles Henschke Keyneton Estate Shiraz Cabernet Malbec 1998 (Eden Valley/Barossa), labels clean, capsules intact in photo. Fill levels not checkable from photo.","entries":[
-{"kind":"ASKING","price":"$148.00","currency":"AUD","aud_price":148,"date":"live, seen 2026-11-06","venue":"Cellarit","url":"https://www.cellarit.com.au/wine-29544-henschke-keyneton-estate-shiraz-cabernet-malbec-1998.aspx","same_item":"yes","note":"Page opened (price in title only); search summary said this stock has label and capsule damage and a $129.90 single-bottle option, snippet only. Retail asking, not a price paid. Lot labels look cleaner."},
-{"kind":"ASKING","price":"$89.90","currency":"AUD","aud_price":89.9,"date":"undated, seen 2026-11-06","venue":"WineWatcher (Cellarit listing, back label condition)","url":"https://winewatcher.com.au/product/Henschke-Keyneton-Estate-Cabernet-Shiraz-Malbec.html","same_item":"yes","note":"Page opened. Older tracker price for a back-label-condition bottle, may no longer be available. Asking only."},
-{"kind":"ASKING","price":"$63 current bid (estimate $70-85), single bottle","currency":"AUD","aud_price":63,"date":"undated snippet","venue":"Langtons auction","url":"https://www.langtons.com.au/auctions/featured-wine-brands/australia/henschke-","same_item":"yes","note":"Snippet only, unverified, possibly stale. Live auction estimate and bid, not a result."}],
-"searches_tried":"comps.py (pipeline version crashed on a None; work/comps.py henschke keyneton and henschke 1998: no Keyneton hits, only an unrelated Henry's Seven magnum $80 Gowans Sept 2026); Gowans API henschke keyneton: no results; WebSearch Keyneton 1998 price; opened Cellarit and WineWatcher. No SOLD result found. eBay sold and Wine-Searcher auction averages would help. Rough read: retail asking $90-150 a bottle, auction likely about $50-70 a bottle.","needs_chrome":true,"chrome_hint":"Langtons and Wine-Searcher auction results for 'Henschke Keyneton Estate Shiraz Cabernet Malbec 1998'; eBay sold listings same words","viewing_check":"Fill level in the neck of each bottle, label and capsule condition, any seepage, and cork condition.","rate_note":"All AUD, no conversion."}
+{
+ "cdid": 3111243,
+ "lot": 981,
+ "identification": "Four bottles of Henschke Keyneton Estate Shiraz Cabernet Malbec (vintage 1998 per catalogue), black labels and capsules look clean in the photo.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "$148.00",
+   "currency": "AUD",
+   "aud_price": 148,
+   "date": "live, seen 2026-11-06",
+   "venue": "Cellarit",
+   "url": "https://www.cellarit.com.au/wine-29544-henschke-keyneton-estate-shiraz-cabernet-malbec-1998.aspx",
+   "same_item": "yes",
+   "note": "Page opened (price in title only); search summary said this stock has label and capsule damage and a $129.90 single-bottle option, snippet only. Retail asking, not a price paid. Lot labels look cleaner."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$89.90",
+   "currency": "AUD",
+   "aud_price": 89.9,
+   "date": "undated, seen 2026-11-06",
+   "venue": "WineWatcher (Cellarit listing, back label condition)",
+   "url": "https://winewatcher.com.au/product/Henschke-Keyneton-Estate-Cabernet-Shiraz-Malbec.html",
+   "same_item": "yes",
+   "note": "Page opened. Older tracker price for a back-label-condition bottle, may no longer be available. Asking only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$63 current bid (estimate $70-85), single bottle",
+   "currency": "AUD",
+   "aud_price": 63,
+   "date": "undated snippet",
+   "venue": "Langtons auction",
+   "url": "https://www.langtons.com.au/auctions/featured-wine-brands/australia/henschke-",
+   "same_item": "yes",
+   "note": "Snippet only, unverified, possibly stale. Live auction estimate and bid, not a result."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$129.90 a bottle",
+   "currency": "AUD",
+   "aud_price": 129.9,
+   "date": "2026-11-06",
+   "venue": "Cellarit via Wine-Searcher",
+   "url": "https://www.wine-searcher.com/find/henschke+keyneton+euphonium+red+blend+barossa+south+australia/1998/australia",
+   "same_item": "yes",
+   "note": "Cellarit (Sydney) retail listing seen on Wine-Searcher, 1998 Keyneton Estate Shiraz Cabernet Malbec, clean. Ask, not a sale. Wine-Searcher shows average price A$129 a bottle for the 1998. (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$148.00 a bottle",
+   "currency": "AUD",
+   "aud_price": 148,
+   "date": "2026-11-06",
+   "venue": "Cellarit via Wine-Searcher",
+   "url": "https://www.wine-searcher.com/find/henschke+keyneton+euphonium+red+blend+barossa+south+australia/1998/australia",
+   "same_item": "yes",
+   "note": "Cellarit listings with label slightly cellar damaged (one also with damaged capsule). Ask, not a sale. (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$63.00 a bottle",
+   "currency": "AUD",
+   "aud_price": 63,
+   "date": "2026-11-06",
+   "venue": "Langtons via Wine-Searcher",
+   "url": "https://www.wine-searcher.com/find/henschke+keyneton+euphonium+red+blend+barossa+south+australia/1998/australia",
+   "same_item": "yes",
+   "note": "Langtons continuous auction listing shown on Wine-Searcher, price shown is a current bid/start, plus 18% buyer premium. Not a result. (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed on a None; work/comps.py henschke keyneton and henschke 1998: no Keyneton hits, only an unrelated Henry's Seven magnum $80 Gowans Sept 2026); Gowans API henschke keyneton: no results; WebSearch Keyneton 1998 price; opened Cellarit and WineWatcher. No SOLD result found. eBay sold and Wine-Searcher auction averages would help. Rough read: retail asking $90-150 a bottle, auction likely about $50-70 a bottle. | chrome: eBay AU sold: henschke keyneton estate 1998 (nothing relevant). Wine-Searcher page for the 1998 (asking prices only, no sold results visible). Langtons results not opened separately. No SOLD evidence found, so no maximum bid can be set from this.",
+ "needs_chrome": false,
+ "chrome_hint": "Langtons and Wine-Searcher auction results for 'Henschke Keyneton Estate Shiraz Cabernet Malbec 1998'; eBay sold listings same words",
+ "viewing_check": "Check fill levels (all four bottles at the neck or high shoulder), label condition and capsule/cork seepage, and confirm the vintage on the label. Photograph each bottle.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}

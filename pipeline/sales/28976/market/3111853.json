@@ -1,1 +1,81 @@
-{"cdid":3111853,"lot":1023,"identification":"Alison Cooper-White (Launceston/Evandale area Tasmanian artist), acrylic on burl slab, 'Thylacine', 60 x 57 cm, unsigned in photos. A modest living regional artist, not an established name.","entries":[{"kind":"ASKING","price":"$150 AUD (Two Ravens on Huon Pine); $160 (Sheep on Huon); $120 (Sheep in Oval)","currency":"AUD","aud_price":150,"date":"live, seen 2026-11-06","venue":"alisoncooperwhite.com (artist's own site)","url":"https://alisoncooperwhite.com/","same_item":"close","note":"Page opened. Artist's own asking prices for small paintings on recycled or Huon pine wood. Smaller than lot; no thylacine or burl listed. Shows her wood works ask $120-160 at retail; the lot is larger."},{"kind":"SOLD","price":"$240 hammer","currency":"AUD","aud_price":240,"date":"2026-07-26","venue":"Gowans Auctions, Hobart (lot 426048)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine+print","same_item":"category guide","note":"Via local comps database. Framed Gould/Richter thylacine print, not original art; shows thylacine premium for prints ($60-240). Hammer, premium extra."},{"kind":"SOLD","price":"$75 hammer","currency":"AUD","aud_price":75,"date":"2026-05-17","venue":"Gowans Auctions, Hobart (lot id 409939)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine","same_item":"category guide","note":"Via local comps database. Bill Flowers signed oil on board, quoll vs thylacine, 7 bids. Closest original thylacine painting comp; a signed oil by a minor local artist."},{"kind":"SOLD","price":"$45 hammer","currency":"AUD","aud_price":45,"date":"2026-01-19","venue":"Gowans Auctions, Hobart (lot id 384373)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian+tiger","same_item":"category guide","note":"Via local comps database. Paper mache thylacine by Tasmanian artist Lindsay Arnold, 2 bids. Weak demand for minor local decorative thylacine objects."}],"searches_tried":"pipeline and work comps.py (thylacine painting, cooper-white, thylacine burl, tasmanian tiger): no Cooper-White or burl thylacine sales. Gowans API (alison cooper-white, thylacine burl, thylacine painting): no results. WebSearch x2 (artist name plus thylacine burl; thylacine painting burl sold auction): no auction record for the artist. Fetched artist site (page opened); bluethumb blocked by Cloudflare. eBay sold would help for unsigned decorative thylacine on wood, but no artist sales record exists so unlikely to settle it.","needs_chrome":false,"chrome_hint":"","viewing_check":"Read the handwritten card beside it and check the back and lower edge for a signature, date or title; confirm it is acrylic painted directly on the burl and the finish is intact. A confirmed Cooper-White signature adds little; main value is decorative.","rate_note":"All AUD, no conversion."}
+{
+ "cdid": 3111853,
+ "lot": 1023,
+ "identification": "Acrylic painting of a curled-up thylacine in a round inset on a natural-edge burl slab, about 60 x 57 cm, attributed to Alison Cooper-White; no signature visible in photo 1.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "$150 AUD (Two Ravens on Huon Pine); $160 (Sheep on Huon); $120 (Sheep in Oval)",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "live, seen 2026-11-06",
+   "venue": "alisoncooperwhite.com (artist's own site)",
+   "url": "https://alisoncooperwhite.com/",
+   "same_item": "close",
+   "note": "Page opened. Artist's own asking prices for small paintings on recycled or Huon pine wood. Smaller than lot; no thylacine or burl listed. Shows her wood works ask $120-160 at retail; the lot is larger."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$240 hammer",
+   "currency": "AUD",
+   "aud_price": 240,
+   "date": "2026-07-26",
+   "venue": "Gowans Auctions, Hobart (lot 426048)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine+print",
+   "same_item": "category guide",
+   "note": "Via local comps database. Framed Gould/Richter thylacine print, not original art; shows thylacine premium for prints ($60-240). Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Hobart (lot id 409939)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine",
+   "same_item": "category guide",
+   "note": "Via local comps database. Bill Flowers signed oil on board, quoll vs thylacine, 7 bids. Closest original thylacine painting comp; a signed oil by a minor local artist."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-01-19",
+   "venue": "Gowans Auctions, Hobart (lot id 384373)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian+tiger",
+   "same_item": "category guide",
+   "note": "Via local comps database. Paper mache thylacine by Tasmanian artist Lindsay Arnold, 2 bids. Weak demand for minor local decorative thylacine objects."
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$350.00",
+   "currency": "AUD",
+   "aud_price": 350.0,
+   "date": "2026-09-12",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128056985416",
+   "same_item": "category guide",
+   "note": "Different artist, signed 12x16 inch thylacine acrylic on canvas, new. Best offer accepted, actual price below the shown A$350. Shows what a thylacine original sells for online.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$195.00",
+   "currency": "AUD",
+   "aud_price": 195.0,
+   "date": "2026-08-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128046847321",
+   "same_item": "category guide",
+   "note": "Different artist, signed 9x12 inch thylacine acrylic on canvas. Best offer accepted, actual price below the shown A$195.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline and work comps.py (thylacine painting, cooper-white, thylacine burl, tasmanian tiger): no Cooper-White or burl thylacine sales. Gowans API (alison cooper-white, thylacine burl, thylacine painting): no results. WebSearch x2 (artist name plus thylacine burl; thylacine painting burl sold auction): no auction record for the artist. Fetched artist site (page opened); bluethumb blocked by Cloudflare. eBay sold would help for unsigned decorative thylacine on wood, but no artist sales record exists so unlikely to settle it. | chrome: eBay AU sold: alison cooper-white (eBay error page); thylacine burl painting tasmanian tiger (no Cooper-White or burl sales, only other thylacine paintings). Gowans sales in the brief not repeated.",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Look for a signature or label on the front and back, the condition of the burl (cracks, splits, dryness), how it hangs, and whether the paint is raised or flaking. Photograph the back for any artist label.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}

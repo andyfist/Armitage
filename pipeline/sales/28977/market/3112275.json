@@ -1,8 +1,138 @@
-{"cdid":3112275,"lot":1603,"identification":"Glass hip flask with leather-covered upper body and hallmarked silver bayonet cap by James Dixon & Sons, Sheffield (J.D&S), plus fillers (ebonised stand, brass finial, broken ivory/bone stick handle, bone disc). Value rests on the Dixon flask; cap is dented with worn marks. Sterling or plated not confirmed from photos.","entries":[
-{"kind":"SOLD","price":"$35 hammer","currency":"AUD","aud_price":35,"date":"2025-12-08","venue":"Gowans (Hobart)","url":"gowans id 380547","same_item":"category guide","note":"Silver plated hip flask, 2 bids. Plain plated, no known Dixon. Floor for a generic flask. Database hit, premium extra."},
-{"kind":"SOLD","price":"$65 hammer","currency":"AUD","aud_price":65,"date":"2026-05-31","venue":"Gowans (Hobart)","url":"gowans id 413487","same_item":"category guide","note":"Mixed collectables lot including hip flasks, 5 bids. Shows local bidding for flask mixed lots only."},
-{"kind":"SOLD","price":"GBP 192 inc (unverified)","currency":"GBP","aud_price":394,"date":"unknown","venue":"Bonhams (UK)","url":"https://www.bonhams.com/auction/11733/lot/217/a-silver-hip-flask-by-james-dixon-and-son-sheffield-1935/","same_item":"close","note":"Silver flask by James Dixon & Son, Sheffield 1935, crocodile leather upper. Snippet only (page blocked by bot check); price attribution ambiguous and probably includes premium. Rate GBP 1 = AUD 2.05 assumed. Presumably a good-condition piece, so a ceiling for this dented one."},
-{"kind":"ASKING","price":"US$500 (ended, 0 bids)","currency":"USD","aud_price":750,"date":"seen in search 2026-11-06","venue":"eBay listing","url":"https://www.ebay.com/itm/205824649412","same_item":"close","note":"Art Deco sterling Dixon flask. Snippet only, not a sale (0 bids, relisted). Rate USD 1 = AUD 1.50 assumed."},
-{"kind":"ASKING","price":"GBP 395","currency":"GBP","aud_price":810,"date":"live/expired, seen 2026-11-06","venue":"Pushkin's (UK dealer)","url":"https://pushkins.com/british-archive/p/antique-20thc-silver-plated-leather-hip-flask-james-dixon-sons-c1900","same_item":"category guide","note":"Dixon glass and crocodile leather flask c.1900 but silver plated, not sterling. Snippet only, retail ask."},
-{"kind":"ASKING","price":"USD 400 starting bid","currency":"USD","aud_price":600,"date":"live, seen 2026-11-06","venue":"Antique Arena via LiveAuctioneers (page listing)","url":"https://www.liveauctioneers.com/price-result/james-dixon-and-sons-sheffield-silver-plated-hip-flask/","same_item":"close","note":"Edwardian sterling Dixon flask c.1910, starting bid only, condition unknown. Page opened; a live opening bid, not a price paid. Rate USD 1 = AUD 1.50."}],
-"searches_tried":"comps.py in pipeline and work (hip flask, dixon, flask sterling): only Gowans plated flask $35 and mixed lots $65-75 as comparables. Gowans API hip flask: all plated/pewter/mixed, none Dixon sterling. WebSearch Dixon sterling leather flask. Opened ifranks (retail, flask+box set GBP 2,675, different item) and LiveAuctioneers; Bonhams and Chorleys blocked by bot check. eBay sold listings would settle it (closed to us). No Armitage page or price consulted.","needs_chrome":true,"chrome_hint":"eBay sold/completed: James Dixon Sons sterling silver leather hip flask Sheffield; also Bonhams lot 11733/217 result","viewing_check":"Read the cap hallmarks with a loupe: sterling lion passant and town/date letter versus plated EPNS marks; weigh the cap if possible. Check dent severity, whether the cap hinge and glass body are intact, and whether the leather is real crocodile. Confirm the stick handle is ivory or bone (and import/export restrictions)."}
+{
+ "cdid": 3112275,
+ "lot": 1603,
+ "identification": "Glass hip flask with tan leather-covered body and silver-coloured bayonet cap (James Dixon & Sons per brief), lot also includes a round ebonised stand, a brass finial and a broken ivory/bone handle.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2025-12-08",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 380547",
+   "same_item": "category guide",
+   "note": "Silver plated hip flask, 2 bids. Plain plated, no known Dixon. Floor for a generic flask. Database hit, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-05-31",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans id 413487",
+   "same_item": "category guide",
+   "note": "Mixed collectables lot including hip flasks, 5 bids. Shows local bidding for flask mixed lots only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 192 inc (unverified)",
+   "currency": "GBP",
+   "aud_price": 394,
+   "date": "unknown",
+   "venue": "Bonhams (UK)",
+   "url": "https://www.bonhams.com/auction/11733/lot/217/a-silver-hip-flask-by-james-dixon-and-son-sheffield-1935/",
+   "same_item": "close",
+   "note": "Silver flask by James Dixon & Son, Sheffield 1935, crocodile leather upper. Snippet only (page blocked by bot check); price attribution ambiguous and probably includes premium. Rate GBP 1 = AUD 2.05 assumed. Presumably a good-condition piece, so a ceiling for this dented one."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$500 (ended, 0 bids)",
+   "currency": "USD",
+   "aud_price": 750,
+   "date": "seen in search 2026-11-06",
+   "venue": "eBay listing",
+   "url": "https://www.ebay.com/itm/205824649412",
+   "same_item": "close",
+   "note": "Art Deco sterling Dixon flask. Snippet only, not a sale (0 bids, relisted). Rate USD 1 = AUD 1.50 assumed."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 395",
+   "currency": "GBP",
+   "aud_price": 810,
+   "date": "live/expired, seen 2026-11-06",
+   "venue": "Pushkin's (UK dealer)",
+   "url": "https://pushkins.com/british-archive/p/antique-20thc-silver-plated-leather-hip-flask-james-dixon-sons-c1900",
+   "same_item": "category guide",
+   "note": "Dixon glass and crocodile leather flask c.1900 but silver plated, not sterling. Snippet only, retail ask."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 400 starting bid",
+   "currency": "USD",
+   "aud_price": 600,
+   "date": "live, seen 2026-11-06",
+   "venue": "Antique Arena via LiveAuctioneers (page listing)",
+   "url": "https://www.liveauctioneers.com/price-result/james-dixon-and-sons-sheffield-silver-plated-hip-flask/",
+   "same_item": "close",
+   "note": "Edwardian sterling Dixon flask c.1910, starting bid only, condition unknown. Page opened; a live opening bid, not a price paid. Rate USD 1 = AUD 1.50."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$194.06",
+   "currency": "AUD",
+   "aud_price": 194.06,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318728911051",
+   "same_item": "category guide",
+   "note": "James Dixon & Sons silver plate 1/8 pint leather hip flask, UK seller, sold at listed price (Best Offer was allowed). Silver plate, not sterling, condition described as top quality.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$266.83 or less",
+   "currency": "AUD",
+   "aud_price": 266.83,
+   "date": "2026-10-31",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/297885122902",
+   "same_item": "category guide",
+   "note": "Antique James Dixon & Sons gentleman's hip flask, early 1900s. Best offer accepted, actual price below the shown A$266.83. Type of metal not stated.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$164.95",
+   "currency": "AUD",
+   "aud_price": 164.95,
+   "date": "2026-10-22",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298282191828",
+   "same_item": "category guide",
+   "note": "James Dixon & Sons tan leather hip flask, 1920s, 6 oz. Sold at listed price (Best Offer was allowed).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$64.04",
+   "currency": "AUD",
+   "aud_price": 64.04,
+   "date": "2026-10-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318253934958",
+   "same_item": "category guide",
+   "note": "James Dixon & Sons leather and silver plated hip flask c1900, Buy It Now. Condition not checked.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.69",
+   "currency": "AUD",
+   "aud_price": 42.69,
+   "date": "2026-10-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257793932902",
+   "same_item": "category guide",
+   "note": "James Dixon & Son leather and pewter 1/8 pint hip flask, 11cm, sold at listed price. Smaller and pewter.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py in pipeline and work (hip flask, dixon, flask sterling): only Gowans plated flask $35 and mixed lots $65-75 as comparables. Gowans API hip flask: all plated/pewter/mixed, none Dixon sterling. WebSearch Dixon sterling leather flask. Opened ifranks (retail, flask+box set GBP 2,675, different item) and LiveAuctioneers; Bonhams and Chorleys blocked by bot check. eBay sold listings would settle it (closed to us). No Armitage page or price consulted. | chrome: eBay AU sold: james dixon sons hip flask leather (5 same-maker comps above, mostly UK sellers, mix of plate and unstated metal). Bonhams result in the brief not opened. Postage from the UK is extra on these so local prices may differ.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold/completed: James Dixon Sons sterling silver leather hip flask Sheffield; also Bonhams lot 11733/217 result",
+ "viewing_check": "Check the cap hallmarks (sterling lion/anchor/Sheffield date letter vs EPNS or plain plate), the Dixon mark on the cap or base, size, dents, glass chips or cracks, and leather condition. Hallmarked sterling is worth considerably more than plate. The ivory/bone handle piece is broken and filler only.",
+ "chrome_done": true
+}

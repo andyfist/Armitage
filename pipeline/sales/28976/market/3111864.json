@@ -1,7 +1,7 @@
 {
  "cdid": 3111864,
  "lot": 1034,
- "identification": "New contemporary hand-knotted abstract designer carpet, wool pile with tencel (silk-like) highlights, Jaipur, 396 x 295 cm. Description says documentation of authenticity included. Maker not identified; photos show no label. Looks new.",
+ "identification": "Large contemporary abstract rug in grey-green with pink/rust distressed patterning (Galaxy/overdyed look), about 396x295 cm, appears new.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,36 @@
    "url": "https://www.jaipurrugs.com/au/abstract-rugs",
    "same_item": "category guide",
    "note": "Snippet only: abstract rugs in wool and bamboo silk or viscose; no price or size seen. US page showed Entropy wool/silk 8x10 ft at USD 5,760 (snippet only, not verified, not converted). Retail guide only, not a price paid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,309.88",
+   "currency": "AUD",
+   "aud_price": 1309.88,
+   "date": "2026-08-12",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227469521089",
+   "same_item": "category guide",
+   "note": "Vintage worn hand made Oriental wool carpet 372x287 cm, blue, pre-owned, from a UK seller. Similar size only; traditional and vintage, not a new contemporary design.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,503.93",
+   "currency": "AUD",
+   "aud_price": 1503.93,
+   "date": "2026-10-09",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/358895542576",
+   "same_item": "category guide",
+   "note": "Vintage worn hand made Oriental wool carpet 387x298 cm, blue, Buy It Now, UK seller. Size guide only.",
+   "via": "chrome"
   }
  ],
  "rate_note": "All comps AUD, no conversion. USD retail snippet not converted.",
- "searches_tried": "work/comps.py: designer carpet, tencel, silk carpet, contemporary carpet, wool silk rug (none); jaipur (2 hits, one same-origin); carpet, rug, hand knotted, indian rug, modern rug (traditional/Afghan comps). pipeline/comps.py crashed (TypeError on None aud_hammer). Gowans API: contemporary carpet, contemporary rug, designer rug, silk carpet, wool silk rug, modern carpet (no relevant sold lots). WebSearch site:armitage.bidsonline.com.au (nothing relevant), WebSearch Jaipur Rugs tencel pricing (retail snippet only). No same-item sold comp found. Local note: database flags 'inlaid + origin' at $1,050 median in 12 of 13 sales (lot record cls_reason), but those are mostly traditional rugs. eBay sold prices for 'jaipur rugs wool tencel 3x4' or similar new contemporary rugs would help.",
- "needs_chrome": true,
+ "searches_tried": "work/comps.py: designer carpet, tencel, silk carpet, contemporary carpet, wool silk rug (none); jaipur (2 hits, one same-origin); carpet, rug, hand knotted, indian rug, modern rug (traditional/Afghan comps). pipeline/comps.py crashed (TypeError on None aud_hammer). Gowans API: contemporary carpet, contemporary rug, designer rug, silk carpet, wool silk rug, modern carpet (no relevant sold lots). WebSearch site:armitage.bidsonline.com.au (nothing relevant), WebSearch Jaipur Rugs tencel pricing (retail snippet only). No same-item sold comp found. Local note: database flags 'inlaid + origin' at $1,050 median in 12 of 13 sales (lot record cls_reason), but those are mostly traditional rugs. eBay sold prices for 'jaipur rugs wool tencel 3x4' or similar new contemporary rugs would help. | chrome: eBay AU sold: hand knotted wool tencel rug 300x400 (0 results over A$300); eBay AU sold: hand knotted modern wool silk rug large contemporary over A$400 (only vintage traditional carpets, no Jaipur or Galaxy match). Invaluable/LiveAuctioneers not tried.",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: 'hand knotted wool tencel rug 300x400' and 'Jaipur Rugs contemporary rug 10x13'; also invaluable.com/liveauctioneers 'contemporary hand knotted wool silk rug 396 x 295'",
- "viewing_check": "Look for a label or the documentation sheet (#389) naming maker and knot count, confirm fibre (wool and tencel versus viscose), check the back for hand-knotted knots versus tufted, and check for stains, pile shedding or sun fade. Measure it to confirm 396 x 295 cm."
+ "viewing_check": "Check it is hand knotted (look at the back for knots, not a tufted or machine back), pile height, the tencel highlights for wear or shedding, any labels or the authenticity document. Photograph the back and corners. Measure it.",
+ "chrome_done": true
 }

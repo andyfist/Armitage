@@ -1,7 +1,7 @@
 {
  "cdid": 3111158,
  "lot": 896,
- "identification": "Pair of rose gold chain-link cufflinks, engraved round discs (WT/WF monogram), ball-ended bars. Photo 2 shows small stamps on a disc back and bar end, partly legible; 9ct likely but not confirmed. Weight unknown (est 4-6 g).",
+ "identification": "Pair of rose gold chain-link cufflinks with engraved round discs (WT/WF monogram) and ball-ended bars, catalogued 9ct.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,60 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/391733/",
    "same_item": "yes",
    "note": "Small damaged pair; from local comps database, not re-opened. Local results database entry; title PAIR OF 9CT GOLD CUFFLINKS - 2.3GM - SOME DAMAGE, 9 bids; no photo comparison, condition not stated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$297.50 (best offer accepted, actual price at or below)",
+   "currency": "AUD",
+   "aud_price": 297.5,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/880073647101",
+   "same_item": "no",
+   "note": "Marked 9ct Art Deco machined cufflinks, 5.5 g. Best offer accepted, actual price below the shown AU$297.50. Likely heavier than this pair.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$371.70 (best offer accepted, actual price at or below)",
+   "currency": "AUD",
+   "aud_price": 371.7,
+   "date": "2026-10-12",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407282680066",
+   "same_item": "no",
+   "note": "9ct rectangle chain link cufflinks, 5 g. Best offer accepted, actual price below the shown AU$371.70. Different face shape.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$352.21",
+   "currency": "AUD",
+   "aud_price": 352.21,
+   "date": "2026-09-23",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/127974688447",
+   "same_item": "no",
+   "note": "Hallmarked 9ct oval cufflinks, 3.73 g, from UK. Listing shows 'or Best Offer' so final price may be lower. Retail sale to buyer, not auction.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$334.47",
+   "currency": "AUD",
+   "aud_price": 334.47,
+   "date": "2026-09-12",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257710490886",
+   "same_item": "category guide",
+   "note": "9ct chain-link monogrammed cufflinks, 4.5 g, from UK. Closest match. Listing shows 'or Best Offer' so final price may be lower. (Reviewer: downgraded to category guide, different model/item, not the same piece type confirmed.)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed with a TypeError; work version used) with 'gold cufflinks' and '9ct cufflinks'; Gowans API lot checks for 5 sold lots and a 9ct cufflinks chain search. No web searches done. Gowans hammers for plain 9ct cufflinks run about $4 to $7 per gram hammer ($180 to $400 across 3.6 to 6.4 g). Gowans in the room next door sells similar pairs weekly. eBay sold would not materially add.",
+ "searches_tried": "comps.py (pipeline version crashed with a TypeError; work version used) with 'gold cufflinks' and '9ct cufflinks'; Gowans API lot checks for 5 sold lots and a 9ct cufflinks chain search. No web searches done. Gowans hammers for plain 9ct cufflinks run about $4 to $7 per gram hammer ($180 to $400 across 3.6 to 6.4 g). Gowans in the room next door sells similar pairs weekly. eBay sold would not materially add. | chrome: eBay AU sold '9ct gold cufflinks pair monogram'. Terapeak, LiveAuctioneers, Invaluable not tried.",
  "needs_chrome": false,
  "chrome_hint": "",
  "rate_note": "All prices AUD, no conversion. Gowans hammer excludes buyer premium.",
- "viewing_check": "Photograph the stamp on disc backs and bar ends (9ct/375 or other) and weigh the pair if possible; confirm it is solid gold not rolled gold."
+ "viewing_check": "Photograph the hallmark/stamp on each disc and bar to confirm 9ct, ask for the weight (value is mostly gold weight), check chain links and ball ends for wear or repair.",
+ "chrome_done": true
 }

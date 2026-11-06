@@ -1,7 +1,7 @@
 {
  "cdid": 3111877,
  "lot": 1047,
- "identification": "Persian Mir/Saraband (Sarouk-Mir) style rug, ivory field of rows of small boteh, multiple red/navy borders, fringed, about 325x215cm. Photos show a genuine hand-knotted look (visible knot structure at corner, uneven edge), some fading. No label.",
+ "identification": "Large Persian Mir/Saraband style hand-knotted wool rug, ivory field of small boteh rows, red and navy borders, fringed, about 325x215cm, some fading.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,36 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/389577/",
    "same_item": "category guide",
    "note": "PERSIAN KASHAN FLOOR RUG approx 4X3M, 8 bids. Larger, low result, probably worn or not fine. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,261.72",
+   "currency": "AUD",
+   "aud_price": 1261.72,
+   "date": "2026-08-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227218384238",
+   "same_item": "category guide",
+   "note": "7x10ft ivory hand-knotted oriental rug, not Mir/Saraband, US-based seller (postage about A$323 extra). Smaller than lot. Shows retail eBay level only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$633.24",
+   "currency": "AUD",
+   "aud_price": 633.24,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/158062783052",
+   "same_item": "category guide",
+   "note": "Afghan Khal Muhammadi 7x5ft hand-knotted wool, best offer accepted (price shown). Much smaller, different type.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for persian rug, mir rug, boteh, saraband, sarouk, iranian rug, hand knotted rug; Gowans API (mir, saraband); one WebSearch for Mir/Saraband 325x215 sold: found only unrelated or priceless lots (LiveAuctioneers Saraband est $400-600, price not visible; Rippon Boswell Sarough 385x263 EUR 2,500 hammer, 2016, different size and old, not used). No exact Mir/Saraband Tasmanian result. eBay sold listings would help.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for persian rug, mir rug, boteh, saraband, sarouk, iranian rug, hand knotted rug; Gowans API (mir, saraband); one WebSearch for Mir/Saraband 325x215 sold: found only unrelated or priceless lots (LiveAuctioneers Saraband est $400-600, price not visible; Rippon Boswell Sarough 385x263 EUR 2,500 hammer, 2016, different size and old, not used). No exact Mir/Saraband Tasmanian result. eBay sold listings would help. | chrome: eBay AU sold: persian mir saraband rug large (0 exact matches, only machine-made rugs); eBay AU sold: hand knotted mir saraband wool rug 10x7 (only non-Mir comps, US sellers). LiveAuctioneers sold search did not load, skipped. Cloud Gowans comps ($330-$600 hammer 2026) are the best guide.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: persian mir saraband rug 10x7 (and LiveAuctioneers price-result: Persian Saraband carpet)",
- "viewing_check": "Turn the rug over: check knots on the back (hand-knotted, even density) and foundation (cotton vs wool); look for a label or tag; check for moth damage, wear to pile, stains, odour and sun-faded patches; measure.",
- "rate_note": "All AUD, no conversion. Gowans prices are hammer, premium extra. Comps are Gowans room-size Persian rugs 285-320cm long: machine/flatweave types $300-570, genuine hand-knotted pure wool types $600-1,250."
+ "viewing_check": "Check for a knotted back (count knots, fringe is warp not sewn on), wear to pile and edges, moth damage, repairs, dye run and odours. Photograph the back and the certificate. Measure it; 325x215cm is a good room size.",
+ "rate_note": "All AUD, no conversion. Gowans prices are hammer, premium extra. Comps are Gowans room-size Persian rugs 285-320cm long: machine/flatweave types $300-570, genuine hand-knotted pure wool types $600-1,250.",
+ "chrome_done": true
 }

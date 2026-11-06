@@ -1,1 +1,69 @@
-{"cdid":3110968,"lot":706,"identification":"Photo shows two bottles of Penfolds Yattarna Chardonnay 1998 plus one Penfolds Bin 51 Eden Valley Riesling (three bottles, not 'Yatala'). Correction to scan note: 1998 is not the first vintage; Yattarna launched with the 1995 vintage (first commercial release in 1998). Per Oliver's Wines, a 97 point vintage (reviewer score).","entries":[{"kind":"ASKING","price":"AU$199.64","aud_price":199.64,"currency":"AUD","date":"live, seen 2026-11-06 (search snippet)","venue":"eBay AU listing, Penfolds Yattarna Chardonnay 1998 750ml","url":"https://www.ebay.com.au/itm/355217772495","same_item":"yes","note":"Snippet only, not verified. Described as new, single bottle. Retail asking price, not a price paid. Fill and storage unknown."},{"kind":"SOLD","price":"AU$77 closing bid per bottle (estimate $85-110), buyer's premium added on top","aud_price":77,"currency":"AUD","date":"closed, date not seen","venue":"Langtons","url":"https://www.langtons.com.au/auc-var-27338161.html","same_item":"close","note":"Snippet only, unverified (I could not open the page; whether the lot sold is not confirmed). 2000 vintage Yattarna, minor label stains. Different vintage, so a rough guide only."},{"kind":"ASKING","price":"AU$180 to $220 per bottle current release","aud_price":180,"currency":"AUD","date":"live, seen 2026-11-06 (snippets)","venue":"Platinum PWS / Campbell Mattinson (2024 price rise to $220)","url":"https://www.platinumpws.com/products/penfolds-yattarna-chardonnay-750ml","same_item":"category guide","note":"Snippet only. Current-release retail, not the 1998 vintage."},{"kind":"ASKING","price":"out of stock, no price shown","aud_price":0,"currency":"AUD","date":"seen 2026-11-06","venue":"Oliver's Wines","url":"https://olivers-wines.com.au/shop/penfolds-yattarna-chardonnay-1998/","same_item":"yes","note":"Page opened. No price; 1998 listed with 97 point score, peak window 2006-2010, cork. Confirms the wine was a top vintage but aged white, so fill and cork condition matter a lot."}],"searches_tried":"pipeline comps.py crashed on a None value in the DB (yattarna 1998); work/comps.py yattarna, yatarna, penfolds chardonnay, penfolds bin 51 riesling: only an empty Gowans pine box ($14). Gowans API yattarna: same. WebSearch x5 (1998 Yattarna auction sold, Langtons/Wine Owners/Grays/Leonard Joel, Tasmania/Victoria 2025, Langtons result, site:armitage.bidsonline.com.au): no 1998 sold result found. Langtons page curl returned nothing. No SOLD hammer for the 1998 vintage was found. eBay sold prices (1998 Yattarna) and Wine-Searcher/Langtons archives would settle it.","needs_chrome":true,"chrome_hint":"eBay AU sold listings: Penfolds Yattarna Chardonnay 1998; Langtons past auction results 'Yattarna 1998'; Wine-Searcher auction history Yattarna 1998","viewing_check":"Check fill level (shoulder or lower, ullage) and cork condition on both Yattarna bottles, capsule and label condition, and confirm the vintage is 1998 on both (photo shows 1998). Note Bin 51 Riesling vintage (small, low value). Confirm the count is three bottles.","rate_note":"All figures already AUD, no conversion."}
+{
+ "cdid": 3110968,
+ "lot": 706,
+ "identification": "Boxed trio: two bottles of Penfolds Yattarna Chardonnay (vintage not legible in photo, cloud scan says 1998) and one Penfolds Bin 51 Eden Valley Riesling. Catalogue 'Yatala' is a misspelling",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "AU$199.64",
+   "aud_price": 199.64,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06 (search snippet)",
+   "venue": "eBay AU listing, Penfolds Yattarna Chardonnay 1998 750ml",
+   "url": "https://www.ebay.com.au/itm/355217772495",
+   "same_item": "yes",
+   "note": "Snippet only, not verified. Described as new, single bottle. Retail asking price, not a price paid. Fill and storage unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$77 closing bid per bottle (estimate $85-110), buyer's premium added on top",
+   "aud_price": 77,
+   "currency": "AUD",
+   "date": "closed, date not seen",
+   "venue": "Langtons",
+   "url": "https://www.langtons.com.au/auc-var-27338161.html",
+   "same_item": "close",
+   "note": "Snippet only, unverified (I could not open the page; whether the lot sold is not confirmed). 2000 vintage Yattarna, minor label stains. Different vintage, so a rough guide only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$180 to $220 per bottle current release",
+   "aud_price": 180,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06 (snippets)",
+   "venue": "Platinum PWS / Campbell Mattinson (2024 price rise to $220)",
+   "url": "https://www.platinumpws.com/products/penfolds-yattarna-chardonnay-750ml",
+   "same_item": "category guide",
+   "note": "Snippet only. Current-release retail, not the 1998 vintage."
+  },
+  {
+   "kind": "ASKING",
+   "price": "out of stock, no price shown",
+   "aud_price": 0,
+   "currency": "AUD",
+   "date": "seen 2026-11-06",
+   "venue": "Oliver's Wines",
+   "url": "https://olivers-wines.com.au/shop/penfolds-yattarna-chardonnay-1998/",
+   "same_item": "yes",
+   "note": "Page opened. No price; 1998 listed with 97 point score, peak window 2006-2010, cork. Confirms the wine was a top vintage but aged white, so fill and cork condition matter a lot."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$181 avg per bottle",
+   "currency": "AUD",
+   "aud_price": 181,
+   "date": "2026-03",
+   "venue": "Wine-Searcher (aggregator average, ex-tax)",
+   "url": "https://www.wine-searcher.com/find/penfolds+yattarna+chardonnay/1998/australia",
+   "same_item": "yes",
+   "note": "Most recent average price for 1998 Penfolds Yattarna Bin 144 Chardonnay, from March 2026. Retail average, not a price paid, and no auction results shown without a subscription. Vintage on the lot needs confirming (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline comps.py crashed on a None value in the DB (yattarna 1998); work/comps.py yattarna, yatarna, penfolds chardonnay, penfolds bin 51 riesling: only an empty Gowans pine box ($14). Gowans API yattarna: same. WebSearch x5 (1998 Yattarna auction sold, Langtons/Wine Owners/Grays/Leonard Joel, Tasmania/Victoria 2025, Langtons result, site:armitage.bidsonline.com.au): no 1998 sold result found. Langtons page curl returned nothing. No SOLD hammer for the 1998 vintage was found. eBay sold prices (1998 Yattarna) and Wine-Searcher/Langtons archives would settle it. | chrome: eBay AU sold: penfolds yattarna chardonnay 1998 and 'bottle' (only an empty box sold). Wine-Searcher product page (average only, vintage price list not shown without PRO). Langtons not tried.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: Penfolds Yattarna Chardonnay 1998; Langtons past auction results 'Yattarna 1998'; Wine-Searcher auction history Yattarna 1998",
+ "viewing_check": "Read the vintage on both Yattarna labels and the Bin 51 vintage. Check fill levels (shoulder or better), label condition, capsule and cork for seepage, and that the bottles are Yattarna Bin 144. Photograph each label and the neck.",
+ "rate_note": "All figures already AUD, no conversion.",
+ "chrome_done": true
+}

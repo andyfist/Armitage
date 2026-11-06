@@ -1,15 +1,114 @@
-{"cdid":3111116,"lot":854,"identification":"Henschke Hill of Grace Shiraz 1994, Eden Valley, 750ml, in original black Henschke presentation box. Labels and box confirmed in photos (Henschke Vintage Hill of Grace 1994 box). Highly rated vintage (Langton's 98 LPB, 95 CM, 94 JH per Langtons listing).",
-"entries":[
-{"kind":"ASKING","price":"Estimate $730-$750, current bid $670 (Langtons lot 56, just below base of neck, 1 bottle)","currency":"AUD","aud_price":670,"date":"live, seen 2026-11-06","venue":"Langtons","url":"https://www.langtons.com.au/auctions/featured-wine-brands/australia/henschke-","same_item":"yes","note":"Page opened. Live estimate and current bid, not a price paid. Langtons buyer premium extra. Fill just below base of neck (similar to this lot), no box mentioned. Closes 8 Nov 2026. A second 1994 bottle (base of neck, minor label damage) at the same estimate and $670 bid closes 17 Nov. Rate: AUD, no conversion."},
-{"kind":"SOLD","price":"$400 (latest sale 28 Dec 2025)","currency":"USD (assumed)","aud_price":600,"date":"2025-12-28","venue":"WineBid","url":"https://www.winebid.com/BuyWine/Item/Auction/2002/1994-Henschke-Hill-of-Grace-Shiraz","same_item":"close","note":"Snippet only, unverified (page returned 403 to curl). Currency not shown; assumed USD at 1 USD = 1.50 AUD. Condition, fill and box unknown, US market so may include premium. Treat as a low reference."},
-{"kind":"SOLD","price":"GBP 300 winning bid","currency":"GBP","aud_price":600,"date":"unknown","venue":"Wine Auctioneer (UK)","url":"https://wineauctioneer.com/lot/8014/henschke-hill-grace-1994-eden-valley","same_item":"close","note":"Snippet only, unverified (403). Undated, so weak. Rate assumed 1 GBP = 2.00 AUD. Condition and box unknown."},
-{"kind":"ASKING","price":"$1,180 (was $1,300), 750ml in original presentation box","currency":"AUD","aud_price":1180,"date":"live, seen 2026-11-06","venue":"JC Fine Wines (retail)","url":"https://www.jcfinewines.au/collections/henschke-hill-of-grace","same_item":"yes","note":"Snippet only, unverified. Retail asking price for same bottle with box; a ceiling, not a value."},
-{"kind":"ASKING","price":"$310-$380 estimate for 1994 bottle (Dec 2024 guide)","currency":"AUD","aud_price":345,"date":"2024-12","venue":"Wickman price guide","url":"https://www.wickman.net.au/wines/henschke-hill-of-grace.aspx","same_item":"category guide","note":"Snippet only. Historical estimate table, old, not actual sales; looks low against current Langtons estimates. Midpoint used."},
-{"kind":"ASKING","price":"$763-$965 valuation","currency":"AUD","aud_price":864,"date":"live, seen 2026-11-06","venue":"Sterling Wine valuation","url":"https://www.sterlingwine.com.au/Valuation_HENSCHKE_Hill_of_Grace.php","same_item":"category guide","note":"Snippet only. Insurance-style valuation, not a sale price."},
-{"kind":"ASKING","price":"$1,817-$1,935 retail listings","currency":"AUD","aud_price":1817,"date":"live, seen 2026-11-06","venue":"Cellarlink Auctions (retail)","url":"https://www.cellarlinkauctions.com/collections/henschke","same_item":"close","note":"Snippet only. Unclear if same bottling/condition. Retail asking, ignore for value."}
-],
-"searches_tried":"Local comps.py (pipeline version crashed on a data error; work version returned no sales for henschke / hill of grace); Gowans API search 'hill of grace' returned nothing; WebSearch x5 (general sold price, Langtons result, Armitage past lots, passed-in, Tasmanian houses); opened Langtons page (ok), winebid/wineauctioneer/wickman blocked. No Tasmanian or Armitage past result found. eBay sold listings and Wine-Searcher would settle it (eBay.com.au sold 1994 Hill of Grace 750ml); also Langtons past results and Wine Owners.",
-"needs_chrome":true,
-"chrome_hint":"eBay.com.au sold listings: '1994 Henschke Hill of Grace' 750ml, plus Langtons past results (Hill of Grace 1994) and Wine-Searcher auction history for 1994 Hill of Grace.",
-"viewing_check":"Check fill level (photos say base of neck; confirm not lower), label stains or tears, capsule and cork condition, any seepage; confirm bottle is 750ml and the box is the genuine Henschke 1994 box. Photograph neck and back label.",
-"rate_note":"USD at 1.50 and GBP at 2.00 assumed, not looked up."}
+{
+ "cdid": 3111116,
+ "lot": 854,
+ "identification": "Henschke Hill of Grace Shiraz 1994, Eden Valley, 750ml, black label, with the original black Henschke 'Vintage Hill of Grace 1994' box beside it.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "Estimate $730-$750, current bid $670 (Langtons lot 56, just below base of neck, 1 bottle)",
+   "currency": "AUD",
+   "aud_price": 670,
+   "date": "live, seen 2026-11-06",
+   "venue": "Langtons",
+   "url": "https://www.langtons.com.au/auctions/featured-wine-brands/australia/henschke-",
+   "same_item": "yes",
+   "note": "Page opened. Live estimate and current bid, not a price paid. Langtons buyer premium extra. Fill just below base of neck (similar to this lot), no box mentioned. Closes 8 Nov 2026. A second 1994 bottle (base of neck, minor label damage) at the same estimate and $670 bid closes 17 Nov. Rate: AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$400 (latest sale 28 Dec 2025)",
+   "currency": "USD (assumed)",
+   "aud_price": 600,
+   "date": "2025-12-28",
+   "venue": "WineBid",
+   "url": "https://www.winebid.com/BuyWine/Item/Auction/2002/1994-Henschke-Hill-of-Grace-Shiraz",
+   "same_item": "close",
+   "note": "Snippet only, unverified (page returned 403 to curl). Currency not shown; assumed USD at 1 USD = 1.50 AUD. Condition, fill and box unknown, US market so may include premium. Treat as a low reference."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 300 winning bid",
+   "currency": "GBP",
+   "aud_price": 600,
+   "date": "unknown",
+   "venue": "Wine Auctioneer (UK)",
+   "url": "https://wineauctioneer.com/lot/8014/henschke-hill-grace-1994-eden-valley",
+   "same_item": "close",
+   "note": "Snippet only, unverified (403). Undated, so weak. Rate assumed 1 GBP = 2.00 AUD. Condition and box unknown."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,180 (was $1,300), 750ml in original presentation box",
+   "currency": "AUD",
+   "aud_price": 1180,
+   "date": "live, seen 2026-11-06",
+   "venue": "JC Fine Wines (retail)",
+   "url": "https://www.jcfinewines.au/collections/henschke-hill-of-grace",
+   "same_item": "yes",
+   "note": "Snippet only, unverified. Retail asking price for same bottle with box; a ceiling, not a value."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$310-$380 estimate for 1994 bottle (Dec 2024 guide)",
+   "currency": "AUD",
+   "aud_price": 345,
+   "date": "2024-12",
+   "venue": "Wickman price guide",
+   "url": "https://www.wickman.net.au/wines/henschke-hill-of-grace.aspx",
+   "same_item": "category guide",
+   "note": "Snippet only. Historical estimate table, old, not actual sales; looks low against current Langtons estimates. Midpoint used."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$763-$965 valuation",
+   "currency": "AUD",
+   "aud_price": 864,
+   "date": "live, seen 2026-11-06",
+   "venue": "Sterling Wine valuation",
+   "url": "https://www.sterlingwine.com.au/Valuation_HENSCHKE_Hill_of_Grace.php",
+   "same_item": "category guide",
+   "note": "Snippet only. Insurance-style valuation, not a sale price."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,817-$1,935 retail listings",
+   "currency": "AUD",
+   "aud_price": 1817,
+   "date": "live, seen 2026-11-06",
+   "venue": "Cellarlink Auctions (retail)",
+   "url": "https://www.cellarlinkauctions.com/collections/henschke",
+   "same_item": "close",
+   "note": "Snippet only. Unclear if same bottling/condition. Retail asking, ignore for value."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$670",
+   "currency": "AUD",
+   "aud_price": 670,
+   "date": "2026-11-06",
+   "venue": "Langtons Continuous Auction (via Wine-Searcher)",
+   "url": "https://www.wine-searcher.com/find/henschke+hill+of+grace+shiraz+eden+valley+south+australia+australia/1994",
+   "same_item": "yes",
+   "note": "Live Langtons continuous auction price for a 1994 bottle, buyer's premium 18% on top. Wine-Searcher page, not the Langtons lot page. Not a sold price. (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$1,239",
+   "currency": "AUD",
+   "aud_price": 1239,
+   "date": "2026-10-31",
+   "venue": "Wine-Searcher global average (ex-tax)",
+   "url": "https://www.wine-searcher.com/find/henschke+hill+of+grace+shiraz+eden+valley+south+australia+australia/1994",
+   "same_item": "yes",
+   "note": "Most recent global average retail asking price per 750ml as at October 2026. Dealer asking, includes provenance-premium stock, so well above auction. (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline version crashed on a data error; work version returned no sales for henschke / hill of grace); Gowans API search 'hill of grace' returned nothing; WebSearch x5 (general sold price, Langtons result, Armitage past lots, passed-in, Tasmanian houses); opened Langtons page (ok), winebid/wineauctioneer/wickman blocked. No Tasmanian or Armitage past result found. eBay sold listings and Wine-Searcher would settle it (eBay.com.au sold 1994 Hill of Grace 750ml); also Langtons past results and Wine Owners. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: '1994 Henschke Hill of Grace' 750ml, plus Langtons past results (Hill of Grace 1994) and Wine-Searcher auction history for 1994 Hill of Grace.",
+ "viewing_check": "Check fill level (base of neck or better), label and capsule condition, any seepage or crust at the cork, cork height, and the vintage on the label. Confirm the box is the matching 1994 box. Photograph the shoulder and the back label.",
+ "rate_note": "USD at 1.50 and GBP at 2.00 assumed, not looked up.",
+ "chrome_done": true
+}

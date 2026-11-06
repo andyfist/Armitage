@@ -15,9 +15,9 @@
  "candidates": 98,
  "counts": {
   "PASS": 3,
-  "CHROME": 21,
-  "FAIL": 48,
-  "DROP": 0,
+  "CHROME": 18,
+  "FAIL": 50,
+  "DROP": 1,
   "NOT RESEARCHED": 26
  },
  "lots": [
@@ -31,11 +31,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:47:00 PM ADST",
-   "identification": "Blue and white vitreous enamel advertising sign 'LEADING NEWSPAPER. THE DAILY TELEGRAPH. TASMANIA.', MADE IN ENGLAND lower right. Launceston Daily Telegraph (1883-1928) so pre-1928. Genuine enamel on iron. Large loss and rust top right with jagged edge, edge and fixing-hole chips, reverse heavily rusted, face bright. About 3:1 landscape format.",
+   "identification": "Blue and white vitreous enamel sign 'LEADING NEWSPAPER. THE DAILY TELEGRAPH. TASMANIA.', small 'Made in England' mark lower right, landscape about 3.5:1, rust loss and jagged break at top right corner, otherwise bright face",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: 'enamel sign Tasmania newspaper' and 'Daily Telegraph Launceston enamel sign'; also Invaluable/LiveAuctioneers 'Examiner Launceston enamel sign', 'Tasmanian News enamel sign'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -44,7 +44,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; strong photo score",
+   "priority": false
   },
   {
    "cdid": 3112312,
@@ -56,11 +57,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:48:00 PM ADST",
-   "identification": "Wilesco D365 (earlier D36) 'Old Smokey' live steam roller, West Germany, green boiler, red canopy and spoked wheels, whistle, flywheel, chain steering. Photos show a partial yellow Wilesco decal on the smokebox; no box, no burner, tank or accessories visible; untested.",
+   "identification": "Wilesco D365 'Old Smokey' live steam roller, West Germany, green boiler, red canopy, red spoked wheels; no box or burner visible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and eBay.com sold/completed listings: wilesco 'old smokey' OR D365 OR D36 steam roller, sold items, last 90 days; compare unboxed/untested against boxed.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 246.0,
@@ -69,6 +70,54 @@
      "url": "https://www.thomaswatson.com/lot/wilesco-old-smokey-d36-steam-roller-with-box-as-new",
      "same_item": "yes",
      "note": "Page opened. Boxed, 'as new' D36, so better than this lot (no box, untested). Rate used GBP 1 = AUD 2.05. Sale date not shown."
+    },
+    {
+     "aud_price": 334.55,
+     "date": "2026-10-01",
+     "venue": "eBay AU (UK seller)",
+     "url": "https://www.ebay.com.au/itm/800738414859",
+     "same_item": "yes",
+     "note": "Wilesco Old Smokey, very good condition, listed with or best offer, price may be the listed price. Postage extra about A$65."
+    },
+    {
+     "aud_price": 339.6,
+     "date": "2026-10-21",
+     "venue": "eBay AU (UK seller)",
+     "url": "https://www.ebay.com.au/itm/336846985241",
+     "same_item": "yes",
+     "note": "Wilesco Old Smokey vintage green. Listing had Best Offer, so the actual price may be lower than shown. Postage estimate A$204."
+    },
+    {
+     "aud_price": 260.03,
+     "date": "2026-09-27",
+     "venue": "eBay AU (UK seller)",
+     "url": "https://www.ebay.com.au/itm/267785897373",
+     "same_item": "yes",
+     "note": "D365 Old Smokey, described as complete, 19 bids. Postage A$44."
+    },
+    {
+     "aud_price": 242.71,
+     "date": "2026-11-05",
+     "venue": "eBay AU (UK seller)",
+     "url": "https://www.ebay.com.au/itm/920105431961",
+     "same_item": "yes",
+     "note": "D365 Old Smoky 'barn find', best offer accepted, actual price below the shown A$242.71. Closest to this lot's untested, incomplete state."
+    },
+    {
+     "aud_price": 256.15,
+     "date": "2026-10-03",
+     "venue": "eBay AU (UK seller)",
+     "url": "https://www.ebay.com.au/itm/366706722147",
+     "same_item": "yes",
+     "note": "D365 Old Smokey 'for repair', Buy It Now. Postage A$39."
+    },
+    {
+     "aud_price": 239.95,
+     "date": "2026-09-16",
+     "venue": "eBay AU (AU stock)",
+     "url": "https://www.ebay.com.au/itm/188932541580",
+     "same_item": "yes",
+     "note": "D365 steam roller from an Australian seller, listed A$249.95, A$239.95 with coupon, Buy It Now. Sold price may differ slightly."
     }
    ],
    "sold_old": [
@@ -92,11 +141,12 @@
     }
    ],
    "asking": [],
-   "resale": 246.0,
-   "net_resale": 209.1,
-   "max_hammer": 5,
+   "resale": 256.15,
+   "net_resale": 217.72749999999996,
+   "max_hammer": 10,
    "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $246; less 15% fees = $209; less $200 profit, / 1.22 premium = max hammer $5"
+   "why": "7 same-item SOLD price(s), median $256; less 15% fees = $218; less $200 profit, / 1.22 premium = max hammer $10",
+   "priority": false
   },
   {
    "cdid": 3112313,
@@ -108,11 +158,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:48:20 PM ADST",
-   "identification": "Bushells BLUE LABEL 'The Tea of Flavor' vitreous enamel sign, blue ground, white and orange lettering, about 46 x 31 cm judging by photos, four fixing holes, chips incl. large chip on B, reverse rusted. Lot is a landscape single-sided sign of the same layout as the Lawsons comp.",
+   "identification": "Bushells BLUE LABEL 'The Tea of Flavor' vitreous enamel advertising sign, blue ground with white and orange lettering, landscape, edge chips and a large chip on the B.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: Bushells Blue Label enamel sign; also Carters Bushells price guide page and Lawsons lot 1197 for premium status",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -138,7 +188,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112314,
@@ -229,7 +280,8 @@
    "net_resale": 51.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112315,
@@ -254,7 +306,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112321,
@@ -313,7 +366,8 @@
    "net_resale": 51.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112322,
@@ -325,11 +379,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:51:20 PM ADST",
-   "identification": "Green vitreous enamel sign 'BP AUSTRALIA LTD.' with yellow serif lettering, faint 'INCORPORATED IN VICTORIA' line; an office or depot company name sign, not a forecourt pump or Motor Spirit advertising sign. Faded lower line, chips at holes, rusty reverse. Roughly 45 x 35 cm judging by photos (unverified).",
+   "identification": "Green vitreous enamel company name sign 'BP AUSTRALIA LTD.' in yellow serif capitals, portrait format, two fixing holes at top, faint extra line at bottom (Incorporated in Victoria), looks clean on the face with slight edge wear",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold items: \"BP Australia Ltd\" enamel sign; also \"BP enamel sign green\" sold",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -347,7 +401,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112323,
@@ -359,11 +414,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:51:40 PM ADST",
-   "identification": "Joseph Lucas 'King of the Road' oil side lamp, black japanned with brass bezels, plate 'No 43x' (432 or 443), Birmingham, c1905-1915. Common maker, common model range, worn paint and rust, lenses present, burner/reflector status unknown.",
+   "identification": "Early Lucas 'King of the Road' black japanned oil side lamp with brass bezels, rust and worn paint, about 30 cm high with a loop handle; lenses present.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed items: Lucas 'King of the Road' side lamp (try also 'Lucas 443 lamp', 'Lucas 432 lamp', 'Lucas KOTR oil side lamp'), Australia and UK, last 12 months",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [
@@ -398,7 +453,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112324,
@@ -465,7 +521,8 @@
    "net_resale": 26.775,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $32 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $32 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112325,
@@ -477,11 +534,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:52:20 PM ADST",
-   "identification": "Keen's Genuine Tasmanian Curry Powder 4 oz canister, Keen's Curry Powder Co., Kingston, Brown's River; purple and gold paper label citing the 1866-7 Intercolonial Exhibition medal; reverse recipe panel mentions Keen's Tasmanian Sauce. Probably early 20th century (before the 1954 sale to Reckitt & Colman); the 1866-7 date on the label is the medal, not the tin's date. Torn label, rust at rims.",
+   "identification": "Keen's Genuine Tasmanian Curry Powder tin (Keen's Curry Powder Co, Browns River, Kingston), dark blue and gold lithographed label, small cylindrical canister about 8cm.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'Keens curry tin' and 'Keen's Tasmanian curry powder tin Kingston Brown's River' (sold items, last 12 months); also Trade Me completed and Invaluable/LiveAuctioneers 'Keen's curry tin'.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -489,8 +546,9 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
+   "priority": false
   },
   {
    "cdid": 3112326,
@@ -502,11 +560,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:52:40 PM ADST",
-   "identification": "Floor-standing black-painted timber bank of 21 post office boxes (numbered about 148 to 168) with cast bronze/brass doors each cast 'C of A' (Commonwealth of Australia), 18 small, 2 medium, 1 large, keys and brass tags in many. Photos confirm the C of A casting, number plates, heavy verdigris, keys in many doors and open doors showing the box interiors. Genuine ex-Australia Post style fit-out. Each door fronts its own compartment.",
+   "identification": "Floor-standing black timber bank of 21 locking post office boxes with cast bronze C of A doors, keys in many, heavy verdigris.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed listings: 'post office box doors brass' and 'Commonwealth of Australia post office boxes bank'; also LiveAuctioneers/Invaluable 'post office boxes brass doors Australia'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 500.0,
@@ -541,7 +599,8 @@
    "net_resale": 425.0,
    "max_hammer": 180,
    "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $500; less 15% fees = $425; less $200 profit, / 1.22 premium = max hammer $180"
+   "why": "1 same-item SOLD price(s), median $500; less 15% fees = $425; less $200 profit, / 1.22 premium = max hammer $180",
+   "priority": false
   },
   {
    "cdid": 3112332,
@@ -553,11 +612,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:54:40 PM ADST",
-   "identification": "Japanese tin litho battery-operated remote-control Climbing Fireman (type made by TPS, Sonsco and similar makers, c1960s); figure with hook climbs a rope/ladder via wired battery box. Unmarked in photos.",
+   "identification": "Japanese battery-operated remote-control fireman toy in red uniform and helmet, wired to a blue battery control box (climbing fireman type), unmarked in photo",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: tin battery operated climbing fireman Japan TPS Sonsco remote control",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [
     {
@@ -584,7 +643,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112333,
@@ -642,7 +702,8 @@
    "net_resale": 89.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112338,
@@ -654,11 +715,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:56:40 PM ADST",
-   "identification": "Classic Carlectables 1:18 Marcos Ambrose 2003 Championship Series winning Stone Brothers Racing BA Falcon #4 Pirtek, edition of 3500 with certificate, plus SPP Motorsport framed tribute (photos, plaque), numbered 8 of 100, certificate signed by an SPP representative (not by Ambrose). Model out of box.",
+   "identification": "1:18 diecast Marcos Ambrose Stone Brothers Racing Pirtek Ford Falcon with a framed photo montage tribute and certificate of authenticity.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed: 'Carlectables 1:18 Ambrose 2003 Pirtek BA Falcon' and 'SPP Motorsport Marcos Ambrose framed'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -676,7 +737,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112339,
@@ -759,7 +821,8 @@
    "net_resale": 34.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $40 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $40 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112340,
@@ -842,7 +905,8 @@
    "net_resale": 10.625,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $12 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $12 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112347,
@@ -876,7 +940,8 @@
    "net_resale": 54.4,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $64 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $64 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112350,
@@ -888,11 +953,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:00:40 PM ADST",
-   "identification": "Cyclops (Australian) pressed steel ute/tray-back pedal car, red, ribbed grille, white disc wheels with chrome script 'Cyclops' hubcaps (confirmed in photo 7), later Repco novelty stickers, timber rear step possibly replaced. Complete with pedals.",
+   "identification": "Red pressed-steel Cyclops pedal car, ute/tray-back style, white disc wheels with chrome hubcaps, timber rear step, later stickers.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: cyclops pedal car ute (Sold items filter)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 260.0,
@@ -944,7 +1009,8 @@
    "net_resale": 221.0,
    "max_hammer": 15,
    "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $260; less 15% fees = $221; less $200 profit, / 1.22 premium = max hammer $15"
+   "why": "3 same-item SOLD price(s), median $260; less 15% fees = $221; less $200 profit, / 1.22 premium = max hammer $15",
+   "priority": false
   },
   {
    "cdid": 3112354,
@@ -969,7 +1035,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112355,
@@ -1044,7 +1111,8 @@
    "net_resale": 178.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $210 does not clear the current bid $200"
+   "why": "max hammer $0 from a median SOLD of $210 does not clear the current bid $200",
+   "priority": false
   },
   {
    "cdid": 3112356,
@@ -1111,7 +1179,8 @@
    "net_resale": 46.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112482,
@@ -1194,7 +1263,8 @@
    "net_resale": 157.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $185 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $185 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112487,
@@ -1269,7 +1339,8 @@
    "net_resale": 123.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $145 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $145 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112489,
@@ -1360,7 +1431,8 @@
    "net_resale": 38.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112490,
@@ -1385,7 +1457,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112491,
@@ -1410,7 +1483,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112492,
@@ -1509,7 +1583,8 @@
    "net_resale": 93.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112493,
@@ -1534,7 +1609,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112495,
@@ -1625,7 +1701,8 @@
    "net_resale": 93.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112496,
@@ -1650,7 +1727,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112497,
@@ -1718,7 +1796,8 @@
    "net_resale": 68.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $30"
+   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $30",
+   "priority": false
   },
   {
    "cdid": 3112501,
@@ -1768,7 +1847,8 @@
    "net_resale": 59.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112502,
@@ -1793,7 +1873,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112508,
@@ -1836,7 +1917,8 @@
    "net_resale": 106.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $125 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $125 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112510,
@@ -1861,7 +1943,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112513,
@@ -1873,11 +1956,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:13:40 PM ADST",
-   "identification": "Atlas Copco pneumatic D-handle chipping hammer (small, yellow label '105' possibly stroke/size or model code, not legible) with one point and one flat chisel spare plus fitted point. Used, bits worn, working order unknown.",
+   "identification": "Atlas Copco pneumatic D-handle chipping hammer with a fitted point chisel plus a spare point and a flat chisel",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed: Atlas Copco chipping hammer (also try 'Atlas Copco air hammer chisel used'); also Gumtree Atlas Copco hammer",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -1911,7 +1994,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112516,
@@ -2003,7 +2087,8 @@
    "net_resale": 89.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112518,
@@ -2028,7 +2113,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112519,
@@ -2053,7 +2139,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112520,
@@ -2078,7 +2165,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112521,
@@ -2090,11 +2178,11 @@
    "current_bid": 20.0,
    "bid_count": 1,
    "close": "11/11/2026 8:16:20 PM ADST",
-   "identification": "Dexter (Dexter-Russell) carbon steel meat cleaver, wooden handle with three brass rivets, pitted and rusty; plus a stainless steel chain mesh butcher's apron with straps, maker unknown, apparently intact.",
+   "identification": "Dexter carbon steel meat cleaver with wooden handle (pitted and rusty) together with a stainless steel chain mesh butcher's apron with straps.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold and completed: 'chain mail butcher apron stainless' and 'vintage Dexter cleaver'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2136,7 +2224,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112523,
@@ -2212,7 +2301,8 @@
    "net_resale": 46.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112525,
@@ -2279,7 +2369,8 @@
    "net_resale": 42.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $100"
+   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $100",
+   "priority": false
   },
   {
    "cdid": 3112527,
@@ -2339,7 +2430,8 @@
    "net_resale": 110.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112531,
@@ -2390,7 +2482,8 @@
    "net_resale": 48.875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $58 does not clear the current bid $20"
+   "why": "max hammer $0 from a median SOLD of $58 does not clear the current bid $20",
+   "priority": false
   },
   {
    "cdid": 3112532,
@@ -2482,7 +2575,8 @@
    "net_resale": 110.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $20"
+   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $20",
+   "priority": false
   },
   {
    "cdid": 3112533,
@@ -2494,11 +2588,11 @@
    "current_bid": 20.0,
    "bid_count": 1,
    "close": "11/11/2026 8:20:20 PM ADST",
-   "identification": "Large die-cut corflute Michelin Man (Bibendum) pointing stand-up with tyre, about 139 cm, tyre dealer point-of-sale, probably 1980s-90s. Modern plastic board, not early.",
+   "identification": "Die-cut Michelin Man (Bibendum) standing pointing beside a tyre on a blue Michelin base, tyre dealer display, on a corflute/board backing.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: michelin man cardboard OR corflute display standup (Australia and US), last 12 months",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [
     {
@@ -2533,7 +2627,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112535,
@@ -2558,7 +2653,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112543,
@@ -2633,7 +2729,8 @@
    "net_resale": 144.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112547,
@@ -2658,7 +2755,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112548,
@@ -2670,11 +2768,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:25:20 PM ADST",
-   "identification": "Five Trax 1:43 Australian club/anniversary models in perspex cases: FJ panel van TAA Fly 2018, FJ panel van Ansett ANA 2017 Club Member, EJ panel van Trax Club 2015 (BC15 membership van), Holden wagon Happy Birthday, Falcon ute Happy Birthday with parcels. No boxes seen.",
+   "identification": "Five Trax 1:43 Australian club/member models in perspex display cases: panel vans (green, white, blue), a cream wagon and a pale blue ute with parcels; no boxes shown.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: \"Trax club member 2017 Ansett ANA panel van\" and \"Trax BC15 club 2015 EJ panel van\", \"Trax Happy Birthday Falcon ute\"",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2700,7 +2798,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112549,
@@ -2712,12 +2811,29 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:25:40 PM ADST",
-   "identification": "Icom IC-A22E handheld VHF air band (108-136 MHz) NAV/COM transceiver, the European-spec twin of the IC-A22 (discontinued). Photos show the unit with long rubber antenna, wall charger, earpiece/headset cable and the IC-A22/IC-A22E instruction manual. No battery pack condition visible.",
+   "identification": "Icom handheld VHF air band transceiver (IC-A22 / A22E family per manual in photo) with long antenna, wall charger and instruction manual; battery condition unseen.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold + completed: 'Icom IC-A22E' and 'Icom IC-A22' (ebay.com.au and ebay.com), last 90 days; note whether sold with charger/manual/battery",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 206.32,
+     "date": "2026-08-09",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/236973494373",
+     "same_item": "yes",
+     "note": "ICOM IC-A22 VHF air band radio, pre-owned, Buy It Now, US seller plus A$26.91 postage. Accessories included not checked."
+    },
+    {
+     "aud_price": 108.05,
+     "date": "2026-10-06",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/227456928223",
+     "same_item": "yes",
+     "note": "ICOM Navicom IC-A22, works plugged in (battery likely poor), US seller, listed Buy It Now or best offer, so price at or below A$108.05."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2746,11 +2862,12 @@
      "note": "IC-A22 with battery, dealer retail price, shown sold out. Page opened. Dealer asking price, not price paid. Rate 1.53."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 157.185,
+   "net_resale": 133.60725,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $157 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112550,
@@ -2809,7 +2926,8 @@
    "net_resale": 59.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112553,
@@ -2891,7 +3009,8 @@
    "net_resale": 46.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $10"
+   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $10",
+   "priority": false
   },
   {
    "cdid": 3112560,
@@ -2903,12 +3022,53 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:29:20 PM ADST",
-   "identification": "Zenit Photosniper FS-12 kit: Zenit 12S body, Tair-3S 300mm f4.5, gunstock, case. Body shutter jammed.",
+   "identification": "Zenit Photosniper FS-12 kit in a black hard case: Zenit body, Tair-3S 300mm f/4.5 lens, gunstock, accessories and manual; shutter jammed per catalogue.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold items: Zenit photosniper FS-12 (also 'photosniper Tair-3S 300mm'), last 12 months, note working vs faulty",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 242.57,
+     "date": "2026-10-02",
+     "venue": "eBay AU (UK seller)",
+     "url": "https://www.ebay.com.au/itm/377525404141",
+     "same_item": "yes",
+     "note": "FS-12 Photosniper with Tair-3S 300mm and Helios 44M-7, 'full outfit', working status not stated. Best Offer listing, actual price may be lower. Postage about A$199."
+    },
+    {
+     "aud_price": 293.61,
+     "date": "2026-08-25",
+     "venue": "eBay AU (Poland seller)",
+     "url": "https://www.ebay.com.au/itm/389370460571",
+     "same_item": "yes",
+     "note": "FS 12 photo gun with Tair 4.5/300 lens. Best offer accepted, actual price below the shown A$293.61."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2026-08-18",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/358790907967",
+     "same_item": "yes",
+     "note": "Photosniper FS-12 kit, Tair 300mm f/4.5 plus Zenit 12S, pre-owned. Best Offer listing, so actual price may be lower."
+    },
+    {
+     "aud_price": 165.65,
+     "date": "2026-08-10",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/227459597900",
+     "same_item": "yes",
+     "note": "FS-12S kit, Tair 300mm plus Zenit 12S, 2 bids. Postage A$21.52."
+    },
+    {
+     "aud_price": 127.87,
+     "date": "2026-09-30",
+     "venue": "eBay AU (France seller)",
+     "url": "https://www.ebay.com.au/itm/158321769566",
+     "same_item": "yes",
+     "note": "FS-12 Zenit-ES with Tair-3S 300mm, 1 bid. Postage A$56.65."
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 224.0,
@@ -2947,11 +3107,12 @@
      "note": "Snippet only. Dealer asks for tested FS-12 kits, mid about 250 USD. Rate 1.5."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 200.0,
+   "net_resale": 170.0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $200 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112562,
@@ -2963,11 +3124,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:30:00 PM ADST",
-   "identification": "Framed display: red Squier (Fender) Stratocaster-style guitar with about 4 faint signatures on scratchplate (claimed U2), Joshua Tree LP and sleeve, band photo, two plaques. Helping Hand Group (Mascot NSW charity auctions) COA no. 16575, which guarantees the autograph but is not a third-party authenticator (not JSA, PSA, Beckett or REAL). Entry-level Squier guitar, so value is almost all in the signatures, which are unverified.",
+   "identification": "Large framed display: red Stratocaster-style electric guitar (Squier type) with faint signatures on the scratchplate, a U2 Joshua Tree LP and sleeve, a band photo and two plaques on blue mount in a silver frame",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: 'U2 signed guitar framed' and 'Helping Hand Group signed guitar framed certificate'; also Carters McCartney Squier lot price realised",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2985,7 +3146,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112565,
@@ -2997,11 +3159,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:31:00 PM ADST",
-   "identification": "Philips P55 (CC908) combined black-and-white TV, AM/FM radio and clock-alarm, Philips Australia, c.1978-1980; photos show brown/cream case, small CRT, red LED clock, with original P55 booklet. Not tested in photos.",
+   "identification": "Philips P55 style combined small black-and-white TV, AM/FM radio and LED clock-alarm, cream and brown case with telescopic aerial, c.1978-80.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed listings: Philips P55 TV clock radio; also 'Philips P55 CC908'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3027,7 +3189,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112566,
@@ -3061,7 +3224,8 @@
    "net_resale": 89.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $10"
+   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $10",
+   "priority": false
   },
   {
    "cdid": 3112567,
@@ -3086,7 +3250,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112569,
@@ -3168,7 +3333,8 @@
    "net_resale": 46.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112571,
@@ -3228,7 +3394,8 @@
    "net_resale": 93.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112574,
@@ -3270,7 +3437,8 @@
    "net_resale": 57.375,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $68 does not clear the current bid $10"
+   "why": "max hammer $0 from a median SOLD of $68 does not clear the current bid $10",
+   "priority": false
   },
   {
    "cdid": 3112579,
@@ -3282,11 +3450,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:35:40 PM ADST",
-   "identification": "Ferris Bros (Sydney) 'Stereophonic Master Unit' portable car radiogram (1960s in-car/portable record player, Gram/Portable, Volume, Tone, Pull Lamp) plus a Ferris portable car radio with state-labelled dial. Exact radiogram model not found in any source; Ferris is known to have made a four-speed record player that turned a car radio into a portable radiogram (snippet only).",
+   "identification": "Two vintage Ferris items: a silver/grey valve car radio on top and a larger Ferris portable car radiogram/master unit with woven grille and gold dial below.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Ferris portable car radiogram; Ferris Stereophonic Master Unit; Ferris record player car",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3312,7 +3480,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112587,
@@ -3337,7 +3506,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112590,
@@ -3412,7 +3582,8 @@
    "net_resale": 38.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112247,
@@ -3437,7 +3608,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112248,
@@ -3488,7 +3660,8 @@
    "net_resale": 59.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $50"
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $50",
+   "priority": false
   },
   {
    "cdid": 3112249,
@@ -3513,7 +3686,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112250,
@@ -3538,7 +3712,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112252,
@@ -3621,7 +3796,8 @@
    "net_resale": 55.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $10"
+   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $10",
+   "priority": false
   },
   {
    "cdid": 3112269,
@@ -3664,7 +3840,8 @@
    "net_resale": 89.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112275,
@@ -3676,11 +3853,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:52:40 PM ADST",
-   "identification": "Glass hip flask with leather-covered upper body and hallmarked silver bayonet cap by James Dixon & Sons, Sheffield (J.D&S), plus fillers (ebonised stand, brass finial, broken ivory/bone stick handle, bone disc). Value rests on the Dixon flask; cap is dented with worn marks. Sterling or plated not confirmed from photos.",
+   "identification": "Glass hip flask with tan leather-covered body and silver-coloured bayonet cap (James Dixon & Sons per brief), lot also includes a round ebonised stand, a brass finial and a broken ivory/bone handle.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: James Dixon Sons sterling silver leather hip flask Sheffield; also Bonhams lot 11733/217 result",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3714,7 +3891,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112288,
@@ -3822,7 +4000,8 @@
    "net_resale": 53.125,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $62 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $62 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112290,
@@ -3890,7 +4069,8 @@
    "net_resale": 59.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $30"
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $30",
+   "priority": false
   },
   {
    "cdid": 3112291,
@@ -3972,7 +4152,8 @@
    "net_resale": 153.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $180 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $180 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112293,
@@ -4047,7 +4228,8 @@
    "net_resale": 68.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112296,
@@ -4139,7 +4321,8 @@
    "net_resale": 61.625,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $72 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $72 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112299,
@@ -4214,7 +4397,8 @@
    "net_resale": 34.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $40 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $40 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112300,
@@ -4280,7 +4464,8 @@
    "net_resale": 37.4,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $44 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $44 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112358,
@@ -4305,7 +4490,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112359,
@@ -4330,7 +4516,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112368,
@@ -4413,7 +4600,8 @@
    "net_resale": 55.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112383,
@@ -4425,11 +4613,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:11:40 PM ADST",
-   "identification": "Pre-war/post-war Meccano Hornby O gauge clockwork accessories, not Triang: 2 x boxed A2 curved rails (12 per box, 2ft radius), 1 x boxed B1 straight rails (45080), 1 x boxed No.1 Level Crossing. Red boxes, Made in England by Meccano Limited Liverpool. Box style suggests late 1940s-50s.",
+   "identification": "Four red Meccano Hornby O gauge clockwork boxes: two boxed curved rails, one boxed straight rails, and one boxed No.1 level crossing (green crossing with yellow road), all in old red boxes",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and UK sold items: 'Hornby O gauge boxed curved rails A2' and 'Hornby O gauge No.1 level crossing boxed', plus 'Hornby O gauge track lot'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [
@@ -4464,7 +4652,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112392,
@@ -4489,7 +4678,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112394,
@@ -4514,7 +4704,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112398,
@@ -4539,7 +4730,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112400,
@@ -4621,7 +4813,8 @@
    "net_resale": 195.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $230 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $230 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112405,
@@ -4751,7 +4944,8 @@
    "net_resale": 195.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $230 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $230 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112418,
@@ -4763,11 +4957,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:23:20 PM ADST",
-   "identification": "Duravit Vero washbasin 0453600000 (600x470 mm, three tap holes) per sticker 'WT VERO 045360 00 00'. Note: the photo shows a high backsplash, unlike current Vero catalogue images, so the match to 0453600000 rests on the label only. Appears unused.",
+   "identification": "White porcelain wall basin with high backsplash and three tap holes, Duravit sticker, looks unused; about 59 x 44 cm.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Duravit Vero 0453600000 OR 045360 washbasin",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4801,7 +4995,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112429,
@@ -4826,7 +5021,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112434,
@@ -4892,7 +5088,8 @@
    "net_resale": 29.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $35 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $35 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112436,
@@ -4951,7 +5148,8 @@
    "net_resale": 102.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $120 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $120 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112438,
@@ -4993,7 +5191,8 @@
    "net_resale": 142.375,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $168 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $168 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112448,
@@ -5018,7 +5217,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112449,
@@ -5043,7 +5243,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112466,
@@ -5055,11 +5256,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 9:39:20 PM ADST",
-   "identification": "Finished OO gauge scenic layout on a single large baseboard (roughly 8 x 4 ft judging by photos), painted backscene, double oval plus station throat and sidings, Metcalfe-style card kit town, church, station with canopies, goods shed, water tower. No locos or stock visible. Wiring and controller not shown.",
+   "identification": "Finished OO gauge scenic model railway layout on one large baseboard (about 8x4 ft), double oval with station, sidings, card-kit town and backscene; no locos or rolling stock seen.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold items: 'OO gauge model railway layout' and 'model railway layout baseboard scenic' (Sold items filter, Australia only); also eBay UK sold 'OO gauge layout scenic' for a GBP guide",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5101,7 +5302,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112467,
@@ -5113,11 +5315,11 @@
    "current_bid": 100.0,
    "bid_count": 1,
    "close": "11/11/2026 9:39:40 PM ADST",
-   "identification": "Pair of SAAS (Super Cheap Auto house brand) dual-recline sports bucket seats, black cloth with mesh centre, embroidered SAAS headrest logo. Photos show them clean and near new (a tag or plastic tie still on the seat base). Looks like the SAAS GT or similar dual-recline retail seat, about $350-530 each new. No sliders or rails visible.",
+   "identification": "Pair of black cloth SAAS reclining sports bucket seats with embroidered SAAS headrest logos, look clean and near new, no rails or sliders visible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: saas dual recline sports seats pair used; also saas GT seat used sold",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5167,7 +5369,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112468,
@@ -5250,7 +5453,8 @@
    "net_resale": 136.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0",
+   "priority": false
   }
  ]
 }

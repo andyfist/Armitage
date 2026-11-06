@@ -1,7 +1,7 @@
 {
  "cdid": 3112309,
  "lot": 1403,
- "identification": "Blue and white vitreous enamel advertising sign 'LEADING NEWSPAPER. THE DAILY TELEGRAPH. TASMANIA.', MADE IN ENGLAND lower right. Launceston Daily Telegraph (1883-1928) so pre-1928. Genuine enamel on iron. Large loss and rust top right with jagged edge, edge and fixing-hole chips, reverse heavily rusted, face bright. About 3:1 landscape format.",
+ "identification": "Blue and white vitreous enamel sign 'LEADING NEWSPAPER. THE DAILY TELEGRAPH. TASMANIA.', small 'Made in England' mark lower right, landscape about 3.5:1, rust loss and jagged break at top right corner, otherwise bright face",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,11 +46,36 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/266372/",
    "same_item": "category guide",
    "note": "RARE SHELL MOTOR OIL ENAMEL SIGN, hammer, 0 bids listed (likely a data quirk). Petrol signs are a far stronger collecting category than newspaper signs; upper-bound only, not comparable."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84.61",
+   "currency": "AUD",
+   "aud_price": 84.61,
+   "date": "2026-09-23",
+   "venue": "eBay AU (UK seller, 2 bids)",
+   "url": "https://www.ebay.com.au/itm/257745889247",
+   "same_item": "category guide",
+   "note": "1950s UK Daily Telegraph stockists enamel sign, 20 x 4.5 in, similar size and format but UK paper, not Tasmanian and later date. Price excludes about A$192 postage estimate.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$112.55",
+   "currency": "AUD",
+   "aud_price": 112.55,
+   "date": "2026-08-30",
+   "venue": "eBay AU (UK seller, 9 bids)",
+   "url": "https://www.ebay.com.au/itm/257697723592",
+   "same_item": "category guide",
+   "note": "Same type of 1950s UK Daily Telegraph stockists enamel sign, 20 x 4.5 in. Not Tasmanian. Excludes about A$193 postage estimate.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on a data error; work/comps.py run for 'enamel sign', 'telegraph', 'enamel sign tasmania/newspaper'); Gowans API for enamel sign, daily telegraph, tasmanian enamel; WebSearch for Launceston Daily Telegraph enamel sign, Tasmanian newspaper enamel sign prices, site:armitage.bidsonline.com.au. No sale of this sign or any Tasmanian newspaper enamel sign found. A Millers Auction Co 'Daily Telegraph newspaper porcelain sign' (Jan 2025, current bid $35) was snippet only and is a different (non-Tasmanian) sign, so not entered. Rate: all AUD, no conversion. eBay sold listings would settle category pricing.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline version crashed on a data error; work/comps.py run for 'enamel sign', 'telegraph', 'enamel sign tasmania/newspaper'); Gowans API for enamel sign, daily telegraph, tasmanian enamel; WebSearch for Launceston Daily Telegraph enamel sign, Tasmanian newspaper enamel sign prices, site:armitage.bidsonline.com.au. No sale of this sign or any Tasmanian newspaper enamel sign found. A Millers Auction Co 'Daily Telegraph newspaper porcelain sign' (Jan 2025, current bid $35) was snippet only and is a different (non-Tasmanian) sign, so not entered. Rate: all AUD, no conversion. eBay sold listings would settle category pricing. | chrome: eBay AU sold: enamel sign Tasmania newspaper (UK newspaper signs A$23 to A$556, mostly different papers); Daily Telegraph enamel sign Launceston OR Tasmania (UK Daily Telegraph signs above). No Tasmanian Daily Telegraph sign found sold. Invaluable and LiveAuctioneers not tried for this lot.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: 'enamel sign Tasmania newspaper' and 'Daily Telegraph Launceston enamel sign'; also Invaluable/LiveAuctioneers 'Examiner Launceston enamel sign', 'Tasmanian News enamel sign'",
- "viewing_check": "Measure the sign, confirm it is true vitreous enamel (not tin), check for any maker mark on the reverse or edge, and photograph the top-right loss close up to see how much face lettering is affected and whether the rest is stable.",
- "rate_note": "All AUD."
+ "viewing_check": "Check the size of the break top right and how much face enamel is lost, edge chips and fixing holes, and the rust on the back. Look for any Tasmania-specific maker mark. Photograph the 'Made in England' mark and the reverse. Possible Tasmanian collector premium over UK signs, but the Gowans results (A$40 to A$130 recent, A$2,860 in 2024) are very mixed, so check what that A$2,860 piece was.",
+ "rate_note": "All AUD.",
+ "chrome_done": true
 }

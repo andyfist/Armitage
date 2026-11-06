@@ -1,7 +1,80 @@
-{"cdid":3112467,"lot":1747,"identification":"Pair of SAAS (Super Cheap Auto house brand) dual-recline sports bucket seats, black cloth with mesh centre, embroidered SAAS headrest logo. Photos show them clean and near new (a tag or plastic tie still on the seat base). Looks like the SAAS GT or similar dual-recline retail seat, about $350-530 each new. No sliders or rails visible.","entries":[
-{"kind":"ASKING","price":"$359.00 each","currency":"AUD","aud_price":359,"date":"live, seen 2026-11-06","venue":"SAAS Automotive (shopsaas.com), GT Seat Dual Recline Black/Black D2001","url":"https://www.shopsaas.com/saas-saas-gt-seat-dual-recline-blackblack-d2001","same_item":"close","note":"Page opened but several prices shown (339, 189, 359, 169, 139); the $359 figure comes from the search snippet, so treat as unverified. New retail, per seat, so a pair is about $720 new. AUD, no conversion."},
-{"kind":"ASKING","price":"$527.85 each","currency":"AUD","aud_price":528,"date":"live, seen 2026-11-06","venue":"Autobox, SAAS 4x4 Sports Seat black cloth/PU dual recliner","url":"https://www.autobox.com.au/saas-4x4-sports-seat-black","same_item":"category guide","note":"Page opened, price confirmed. New retail per seat, higher spec (PU trim, ADR compliant). AUD."},
-{"kind":"ASKING","price":"$489.50 each","currency":"AUD","aud_price":490,"date":"live, seen 2026-11-06","venue":"eBay AU, SAAS GT Seat dual recline D2001","url":"https://www.ebay.com.au/itm/124796413999","same_item":"close","note":"Snippet only, not verified. New retail per seat."},
-{"kind":"ASKING","price":"$450 for pair (red, advertised, marked sold)","currency":"AUD","aud_price":450,"date":"2006","venue":"SAU Community forum, pair of SAAS racing seats and harness","url":"https://www.sau.com.au/forums/topic/137172-pair-of-saas-racing-seats-and-harness/","same_item":"category guide","note":"Snippet only, old (2006), asking price only, final price not shown. Not a reliable current comp."},
-{"kind":"ASKING","price":"$250 to $500 per pair","currency":"AUD","aud_price":375,"date":"live, seen 2026-11-06","venue":"Gumtree AU private listings (pairs of bucket/race seats)","url":"https://www.gumtree.com.au/s-other-parts-accessories/saas+seats/k0c18478","same_item":"category guide","note":"Snippet only. Private asking prices for used pairs, mixed types; midpoint of $250 and $500 used for aud_price. Asking, not paid."}],
-"searches_tried":"pipeline/comps.py (crashed with a None error), work/comps.py saas, car seats, sports seat (only an unrelated Gowans SAAS steering wheel lot at $2); Gowans API saas seat, bucket seats, car seats (no car seat lots); WebSearch SAAS reclining seat prices, used SAAS pairs sold auction (no sold results found); opened shopsaas, autobox, carbids pages (carbids lot result not shown). No SOLD or UNSOLD comps found. eBay sold listings for used SAAS pairs would settle it.","needs_chrome":true,"chrome_hint":"eBay AU sold listings: saas dual recline sports seats pair used; also saas GT seat used sold","viewing_check":"Check for sliders/rails or mounting brackets, model label or tag on the seat base (GT, 4x4, Vortek), any wear or stains on the cushions, working recline levers, and whether the ADR compliance label is present.","rate_note":"All prices AUD, no conversion needed."}
+{
+ "cdid": 3112467,
+ "lot": 1747,
+ "identification": "Pair of black cloth SAAS reclining sports bucket seats with embroidered SAAS headrest logos, look clean and near new, no rails or sliders visible.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "$359.00 each",
+   "currency": "AUD",
+   "aud_price": 359,
+   "date": "live, seen 2026-11-06",
+   "venue": "SAAS Automotive (shopsaas.com), GT Seat Dual Recline Black/Black D2001",
+   "url": "https://www.shopsaas.com/saas-saas-gt-seat-dual-recline-blackblack-d2001",
+   "same_item": "close",
+   "note": "Page opened but several prices shown (339, 189, 359, 169, 139); the $359 figure comes from the search snippet, so treat as unverified. New retail, per seat, so a pair is about $720 new. AUD, no conversion."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$527.85 each",
+   "currency": "AUD",
+   "aud_price": 528,
+   "date": "live, seen 2026-11-06",
+   "venue": "Autobox, SAAS 4x4 Sports Seat black cloth/PU dual recliner",
+   "url": "https://www.autobox.com.au/saas-4x4-sports-seat-black",
+   "same_item": "category guide",
+   "note": "Page opened, price confirmed. New retail per seat, higher spec (PU trim, ADR compliant). AUD."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$489.50 each",
+   "currency": "AUD",
+   "aud_price": 490,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay AU, SAAS GT Seat dual recline D2001",
+   "url": "https://www.ebay.com.au/itm/124796413999",
+   "same_item": "close",
+   "note": "Snippet only, not verified. New retail per seat."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$450 for pair (red, advertised, marked sold)",
+   "currency": "AUD",
+   "aud_price": 450,
+   "date": "2006",
+   "venue": "SAU Community forum, pair of SAAS racing seats and harness",
+   "url": "https://www.sau.com.au/forums/topic/137172-pair-of-saas-racing-seats-and-harness/",
+   "same_item": "category guide",
+   "note": "Snippet only, old (2006), asking price only, final price not shown. Not a reliable current comp."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$250 to $500 per pair",
+   "currency": "AUD",
+   "aud_price": 375,
+   "date": "live, seen 2026-11-06",
+   "venue": "Gumtree AU private listings (pairs of bucket/race seats)",
+   "url": "https://www.gumtree.com.au/s-other-parts-accessories/saas+seats/k0c18478",
+   "same_item": "category guide",
+   "note": "Snippet only. Private asking prices for used pairs, mixed types; midpoint of $250 and $500 used for aud_price. Asking, not paid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$602.95 (plus A$405 delivery)",
+   "currency": "AUD",
+   "aud_price": 602.95,
+   "date": "2026-08-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/133195934508",
+   "same_item": "category guide",
+   "note": "SAAS Kombat Black Dual Recline X2 pair, brand NEW from a dealer. Model may differ from the Armitage seats and these are new, not used. Gives the new-price ceiling.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py (crashed with a None error), work/comps.py saas, car seats, sports seat (only an unrelated Gowans SAAS steering wheel lot at $2); Gowans API saas seat, bucket seats, car seats (no car seat lots); WebSearch SAAS reclining seat prices, used SAAS pairs sold auction (no sold results found); opened shopsaas, autobox, carbids pages (carbids lot result not shown). No SOLD or UNSOLD comps found. eBay sold listings for used SAAS pairs would settle it. | chrome: eBay AU sold 'saas bucket seats pair' (one new SAAS pair sold; others other brands); 'saas dual recline seats used' hit an eBay error page. No used SAAS sold price seen.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: saas dual recline sports seats pair used; also saas GT seat used sold",
+ "viewing_check": "Read the model name on the label or tag, check for sliders or mounting brackets (without them they need rails fitted), the recline levers on both sides, tears, stains, and whether tags or packaging are still on. Photograph the label.",
+ "rate_note": "All prices AUD, no conversion needed.",
+ "chrome_done": true
+}

@@ -1,7 +1,7 @@
 {
  "cdid": 3112521,
  "lot": 1493,
- "identification": "Dexter (Dexter-Russell) carbon steel meat cleaver, wooden handle with three brass rivets, pitted and rusty; plus a stainless steel chain mesh butcher's apron with straps, maker unknown, apparently intact.",
+ "identification": "Dexter carbon steel meat cleaver with wooden handle (pitted and rusty) together with a stainless steel chain mesh butcher's apron with straps.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,36 @@
    "url": "https://www.etsy.com/au/market/butcher_chainmail",
    "same_item": "close",
    "note": "Snippet only. Vintage stainless chainmail butcher apron and glove set, aimed at costume buyers."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$79.35",
+   "currency": "AUD",
+   "aud_price": 79.35,
+   "date": "2026-10-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/206612870116",
+   "same_item": "category guide",
+   "note": "Vintage Dexter 5387 7in butcher cleaver, carbon steel, wood handle, marked, Buy It Now, US seller, postage A$38.65 extra. Cleaver only, and likely in better condition than the lot.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$38.09",
+   "currency": "AUD",
+   "aud_price": 38.09,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/860021365864",
+   "same_item": "category guide",
+   "note": "Vintage Dexter Chinese chef cleaver 7in, high carbon steel, wood handle, Buy It Now, US seller, postage A$59.39 extra. Cleaver only.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps (pipeline and work) for dexter cleaver, chain mail, mesh apron, butcher apron: only generic Gowans cleaver hits (pipeline comps.py crashed on a data error). Gowans API for chain mail, mesh apron, butcher apron, chainmail, dexter: no apron sales. WebSearch for armitage past results, chain mail apron auction, Dexter cleaver sold. No SOLD apron result found anywhere. eBay sold prices for used chain mesh aprons and Dexter cleavers would settle it.",
- "needs_chrome": true,
+ "searches_tried": "Local comps (pipeline and work) for dexter cleaver, chain mail, mesh apron, butcher apron: only generic Gowans cleaver hits (pipeline comps.py crashed on a data error). Gowans API for chain mail, mesh apron, butcher apron, chainmail, dexter: no apron sales. WebSearch for armitage past results, chain mail apron auction, Dexter cleaver sold. No SOLD apron result found anywhere. eBay sold prices for used chain mesh aprons and Dexter cleavers would settle it. | chrome: eBay AU sold: dexter cleaver (cleavers A$14-$151, the cheapest ones are poor condition or mixed lots). eBay AU sold: chain mail butcher apron, butcher chainmail apron stainless (eBay error page both times, no apron comps). Apron value not established. Cloud Gowans comps ($35-$115) remain the best guide.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold and completed: 'chain mail butcher apron stainless' and 'vintage Dexter cleaver'",
- "viewing_check": "Apron size and weight, whether rings are welded, any maker tag or rust or broken rings; cleaver handle stamp (Dexter-Russell model number) and blade depth of pitting.",
- "rate_note": "USD to AUD at 1.5 assumed."
+ "viewing_check": "Check the cleaver blade for the Dexter or Dexter-Russell stamp, depth of pitting and rust, cracks, and whether the handle is tight. For the apron, check whether the mesh is intact (no broken or missing rings), the rings are stainless, the straps and clips are sound, and the size. Photograph the maker tag on the apron if any.",
+ "rate_note": "USD to AUD at 1.5 assumed.",
+ "chrome_done": true
 }

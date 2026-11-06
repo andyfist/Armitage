@@ -1,8 +1,103 @@
-{"cdid":3110944,"lot":682,"identification":"Two Christofle silver plated bowls (larger and smaller), swirled lobed sides, reeded rim, Christofle France lozenge mark. Plated, probably mid 20th century. Model name not identified.","entries":[
-{"kind":"SOLD","price":"$70","currency":"AUD","aud_price":70,"date":"2026-07-26","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/ (gowans id 425854)","same_item":"category guide","note":"French silver plated ladle, Christofle, 1 bid; hammer, premium extra. Different item, shows small Christofle plated pieces fetch about $50-90 locally. Database hit, page not opened."},
-{"kind":"SOLD","price":"$90","currency":"AUD","aud_price":90,"date":"2026-09-20","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/ (gowans id 438746)","same_item":"category guide","note":"Christofle Paris blue bird figure, 6 bids; hammer. Different item. Database hit."},
-{"kind":"SOLD","price":"$200","currency":"AUD","aud_price":200,"date":"2026-08-30","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/ (gowans id 433926)","same_item":"category guide","note":"2 Christofle bird figures, 14 bids; hammer. Collector figures, stronger than bowls. Database hit."},
-{"kind":"SOLD","price":"$360","currency":"AUD","aud_price":360,"date":"2026-11-01","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/ (listing seen via API)","same_item":"category guide","note":"2 trays of Christofle plated cutlery, 7 bids; hammer. Cutlery sets, not bowls. Seen in Gowans API search."},
-{"kind":"SOLD","price":"EUR 320","currency":"EUR","aud_price":560,"date":"unknown","venue":"Catawiki","url":"https://www.catawiki.com/en/l/99751734-christofle-luc-lanel-centrepiece-ondulation-line-silverplated-footed-bowl","same_item":"close","note":"Luc Lanel Ondulation footed bowl c1935, 24 cm, a designer line so likely worth more than these. Snippet only, not verified, final bid per search summary; rate EUR 1 = AUD 1.75 approx."},
-{"kind":"SOLD","price":"US$199","currency":"USD","aud_price":300,"date":"unknown","venue":"eBay","url":"unknown","same_item":"close","note":"Pair of Christofle Torsades swirl bowls, eBay, per search summary only; no URL seen. Snippet only, not verified; rate USD 1 = AUD 1.52 approx."}
-],"searches_tried":"pipeline comps.py (crashed on a null field), work/comps.py christofle, christofle silver, christofle plate, silver plated bowl; Gowans API christofle; WebSearch christofle swirl bowl sold, site:armitage christofle (no Armitage results), christofle pair bowl Carters/Leonard Joel/Lawsons. Catawiki fetch 403. eBay sold prices for 'Christofle bowl swirl' and 'Christofle Torsades bowl' would settle it; no solid same-model Australian result found.","needs_chrome":true,"chrome_hint":"eBay sold items: Christofle silver plated bowl swirl France (also try Torsades, Ondulation); check Invaluable/LiveAuctioneers Christofle plated bowl results","rate_note":"USD 1 = AUD 1.52, EUR 1 = AUD 1.75, approximate","viewing_check":"Check bowl diameters, whether the pair is a matching set (they look like two sizes), model name or number on the base stamps, any plate wear or dents."}
+{
+ "cdid": 3110944,
+ "lot": 682,
+ "identification": "Two Christofle silver plated bowls, a larger (17cm) and smaller (11cm), swirled lobed sides and reeded rim, one with a swing tag.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$70",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-07-26",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/ (gowans id 425854)",
+   "same_item": "category guide",
+   "note": "French silver plated ladle, Christofle, 1 bid; hammer, premium extra. Different item, shows small Christofle plated pieces fetch about $50-90 locally. Database hit, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-09-20",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/ (gowans id 438746)",
+   "same_item": "category guide",
+   "note": "Christofle Paris blue bird figure, 6 bids; hammer. Different item. Database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$200",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2026-08-30",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/ (gowans id 433926)",
+   "same_item": "category guide",
+   "note": "2 Christofle bird figures, 14 bids; hammer. Collector figures, stronger than bowls. Database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$360",
+   "currency": "AUD",
+   "aud_price": 360,
+   "date": "2026-11-01",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/ (listing seen via API)",
+   "same_item": "category guide",
+   "note": "2 trays of Christofle plated cutlery, 7 bids; hammer. Cutlery sets, not bowls. Seen in Gowans API search."
+  },
+  {
+   "kind": "SOLD",
+   "price": "EUR 320",
+   "currency": "EUR",
+   "aud_price": 560,
+   "date": "unknown",
+   "venue": "Catawiki",
+   "url": "https://www.catawiki.com/en/l/99751734-christofle-luc-lanel-centrepiece-ondulation-line-silverplated-footed-bowl",
+   "same_item": "close",
+   "note": "Luc Lanel Ondulation footed bowl c1935, 24 cm, a designer line so likely worth more than these. Snippet only, not verified, final bid per search summary; rate EUR 1 = AUD 1.75 approx."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$199",
+   "currency": "USD",
+   "aud_price": 300,
+   "date": "unknown",
+   "venue": "eBay",
+   "url": "unknown",
+   "same_item": "close",
+   "note": "Pair of Christofle Torsades swirl bowls, eBay, per search summary only; no URL seen. Snippet only, not verified; rate USD 1 = AUD 1.52 approx."
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$285.67",
+   "currency": "AUD",
+   "aud_price": 285.67,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237095596359",
+   "same_item": "category guide",
+   "note": "Christofle set of a pair of bowls, pre-owned, best offer accepted so actual price below the shown A$285.67; seller in Argentina, postage A$55.55 extra. Pattern and size not stated, may differ.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$39.68",
+   "currency": "AUD",
+   "aud_price": 39.68,
+   "date": "2026-11-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/880069276754",
+   "same_item": "category guide",
+   "note": "Vintage Christofle silver plated bowl 5.5 inch, listed 'or Best Offer' so the price paid may be below A$39.68; seller in the US, postage A$41.62 extra. Single small bowl, similar to the 11cm one.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline comps.py (crashed on a null field), work/comps.py christofle, christofle silver, christofle plate, silver plated bowl; Gowans API christofle; WebSearch christofle swirl bowl sold, site:armitage christofle (no Armitage results), christofle pair bowl Carters/Leonard Joel/Lawsons. Catawiki fetch 403. eBay sold prices for 'Christofle bowl swirl' and 'Christofle Torsades bowl' would settle it; no solid same-model Australian result found. | chrome: eBay AU sold: christofle silver plated bowl and christofle bowl silver plated swirl (eBay error page, no results); eBay AU sold: christofle bowl (worked, results above, mostly overseas sellers). LiveAuctioneers/Invaluable not tried. Cloud Gowans comps ($70-$360) remain the best Hobart guide.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold items: Christofle silver plated bowl swirl France (also try Torsades, Ondulation); check Invaluable/LiveAuctioneers Christofle plated bowl results",
+ "rate_note": "USD 1 = AUD 1.52, EUR 1 = AUD 1.75, approximate",
+ "viewing_check": "Check the Christofle lozenge mark and country on the base of each bowl, wear through the plating (brassing at the rim and high points), dents, deep scratches and monogram or engraving. Photograph the marks. Check they are a matching pattern.",
+ "chrome_done": true
+}

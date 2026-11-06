@@ -1,7 +1,7 @@
 {
  "cdid": 3112326,
  "lot": 1421,
- "identification": "Floor-standing black-painted timber bank of 21 post office boxes (numbered about 148 to 168) with cast bronze/brass doors each cast 'C of A' (Commonwealth of Australia), 18 small, 2 medium, 1 large, keys and brass tags in many. Photos confirm the C of A casting, number plates, heavy verdigris, keys in many doors and open doors showing the box interiors. Genuine ex-Australia Post style fit-out. Each door fronts its own compartment.",
+ "identification": "Floor-standing black timber bank of 21 locking post office boxes with cast bronze C of A doors, keys in many, heavy verdigris.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,24 @@
    "url": "https://www.etsy.com/au/market/post_office_box_doors",
    "same_item": "category guide",
    "note": "Snippet only, not verified. US-style doors, mostly single doors sold as coin banks. aud_price shown is the example listing at AU$74.32. Times 21 would be an upper theoretical figure but a retail door price does not apply to an auction bank."
+  },
+  {
+   "kind": "SOLD",
+   "price": "<=A$9.99",
+   "currency": "AUD",
+   "aud_price": 9.99,
+   "date": "2026-09-11",
+   "venue": "eBay AU (deloriskrumpy)",
+   "url": "https://www.ebay.com.au/itm/267678299137",
+   "same_item": "category guide",
+   "note": "Single vintage COA Commonwealth of Australia private box door, 1970s PMG. Best offer accepted, actual price below the shown A$9.99. One loose door only, no cabinet.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py: post office, pigeon hole, letter box, mail box, PO box, C of A, brass door. pipeline/comps.py crashed (TypeError on a null aud_hammer) so was not usable. Gowans API: post office box, pigeon holes, mail boxes, huon pine post office shelves. WebSearch: C of A bank post office boxes auction sold; antique PO boxes brass doors for sale Australia; Australia Post box doors dealer/auction; site:armitage.bidsonline.com.au post office boxes; vintage PO box cabinet sold Australia. No Australian sold result found for a full bank of C of A doors. eBay Australia sold listings for 'post office box doors' and 'C of A post office box' would settle it best.",
- "needs_chrome": true,
+ "searches_tried": "work/comps.py: post office, pigeon hole, letter box, mail box, PO box, C of A, brass door. pipeline/comps.py crashed (TypeError on a null aud_hammer) so was not usable. Gowans API: post office box, pigeon holes, mail boxes, huon pine post office shelves. WebSearch: C of A bank post office boxes auction sold; antique PO boxes brass doors for sale Australia; Australia Post box doors dealer/auction; site:armitage.bidsonline.com.au post office boxes; vintage PO box cabinet sold Australia. No Australian sold result found for a full bank of C of A doors. eBay Australia sold listings for 'post office box doors' and 'C of A post office box' would settle it best. | chrome: eBay AU sold: post office boxes brass doors (all US doors, not comparable); australia post office boxes bank vintage timber brass doors keys (one COA door). No Australian bank-of-boxes sale found. Invaluable/LiveAuctioneers not tried.",
+ "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed listings: 'post office box doors brass' and 'Commonwealth of Australia post office boxes bank'; also LiveAuctioneers/Invaluable 'post office boxes brass doors Australia'",
- "viewing_check": "Count the doors and confirm all are cast C of A bronze/brass (not a mix of replacements). Check how many keys are present and whether the locks work. Check the case for damage, and photograph the rear and the weight/size to judge freight and handling. Look for any maker mark or Post Office plaque on the frame.",
- "rate_note": "USD to AUD 1.55 assumed for the one US asking price."
+ "viewing_check": "Check every door opens and locks, number of keys present, whether the C of A castings are on all doors, rot or borer in the timber carcass, and the overall weight and size for removal. Photograph the back and the base.",
+ "rate_note": "USD to AUD 1.55 assumed for the one US asking price.",
+ "chrome_done": true
 }

@@ -1,6 +1,81 @@
-{"cdid":3111120,"lot":858,"identification":"Penfolds RWT Shiraz 2002, Barossa Valley, 750ml, bottle no. 22666. Single bottle, label clean, red capsule intact, fill looks high in the photos.","entries":[
-{"kind":"ASKING","price":"$260.00","currency":"AUD","aud_price":260,"date":"live, seen 2026-11-06","venue":"Canterbury Wines","url":"https://canterburywines.au/products/penfolds-rwt-shiraz-2002","same_item":"yes","note":"Page opened. Retail sale price for 2002 RWT. Retail asking, not a price paid; storage provenance unknown."},
-{"kind":"ASKING","price":"$215.00","currency":"AUD","aud_price":215,"date":"live, seen 2026-11-06","venue":"Cellarit","url":"https://www.cellarit.com.au/wine-41042-penfolds-rwt-barossa-valley-shiraz-2002.aspx","same_item":"yes","note":"Page opened, price from page title. Lowest retail ask found; marked in stock."},
-{"kind":"ASKING","price":"$255.00 (was $450)","currency":"AUD","aud_price":255,"date":"live, seen 2026-11-06","venue":"JC Fine Wines","url":"https://www.jcfinewines.au/products/2002-penfolds-rwt-bin-798-shiraz-750ml","same_item":"yes","note":"Snippet only, not verified. Sale price against a $450 regular price."},
-{"kind":"ASKING","price":"$265.00","currency":"AUD","aud_price":265,"date":"live, seen 2026-11-06","venue":"eVINO","url":"https://evino.com.au/product/2002-penfolds-rwt-shiraz/","same_item":"yes","note":"Snippet only, not verified. Retail, 3 in stock per snippet."}
-],"searches_tried":"pipeline/comps.py crashed (None error) for two word sets; work/comps.py: only a 2004 RWT at WineBid (US$124, 2025-12-07, different vintage, not used) and no 2002 hits; Gowans API search 'penfolds rwt' returned no lots; WebSearch for 2002 RWT auction price (no hammer found, only retail and a forum anecdote of $46 all in for an unnamed RWT vintage, unusable), 2002 RWT Australian retail, site:armitage past RWT (none). Not tried: Langtons, Wine-Searcher (blocked). No SOLD result found for the 2002 vintage. eBay sold and Langtons/Wine-Searcher auction history would settle it. Retail asks are A$215 to A$265, and auction hammer is normally well below retail.","needs_chrome":true,"chrome_hint":"Langtons auction results and eBay sold listings: 'Penfolds RWT 2002 Shiraz' (also Wine-Searcher auction history 2002 RWT Bin 798)","viewing_check":"Check fill level (base of neck or high shoulder), label and capsule condition, any seepage or cork lift, and note bottle number 22666 against the photo.","rate_note":"All prices AUD, no conversion needed."}
+{
+ "cdid": 3111120,
+ "lot": 858,
+ "identification": "Penfolds RWT (Bin 798) Barossa Valley Shiraz 2002, 750ml, red capsule, cream label, single bottle with level looking high in the photo.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "$260.00",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "live, seen 2026-11-06",
+   "venue": "Canterbury Wines",
+   "url": "https://canterburywines.au/products/penfolds-rwt-shiraz-2002",
+   "same_item": "yes",
+   "note": "Page opened. Retail sale price for 2002 RWT. Retail asking, not a price paid; storage provenance unknown."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$215.00",
+   "currency": "AUD",
+   "aud_price": 215,
+   "date": "live, seen 2026-11-06",
+   "venue": "Cellarit",
+   "url": "https://www.cellarit.com.au/wine-41042-penfolds-rwt-barossa-valley-shiraz-2002.aspx",
+   "same_item": "yes",
+   "note": "Page opened, price from page title. Lowest retail ask found; marked in stock."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$255.00 (was $450)",
+   "currency": "AUD",
+   "aud_price": 255,
+   "date": "live, seen 2026-11-06",
+   "venue": "JC Fine Wines",
+   "url": "https://www.jcfinewines.au/products/2002-penfolds-rwt-bin-798-shiraz-750ml",
+   "same_item": "yes",
+   "note": "Snippet only, not verified. Sale price against a $450 regular price."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$265.00",
+   "currency": "AUD",
+   "aud_price": 265,
+   "date": "live, seen 2026-11-06",
+   "venue": "eVINO",
+   "url": "https://evino.com.au/product/2002-penfolds-rwt-shiraz/",
+   "same_item": "yes",
+   "note": "Snippet only, not verified. Retail, 3 in stock per snippet."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$240.46",
+   "currency": "AUD",
+   "aud_price": 240.46,
+   "date": "2026-09-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/357988827761",
+   "same_item": "category guide",
+   "note": "1997 RWT Bin 798, not 2002, Buy It Now, plus A$20 delivery. Another 1997 bottle sold the same day for A$211.99 (https://www.ebay.com.au/itm/317780865156). Shows the level eBay buyers pay for older RWT.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$179.54",
+   "currency": "AUD",
+   "aud_price": 179.54,
+   "date": "2026-11-06",
+   "venue": "Wine-Searcher (Benchmark Wine Group, Canada, ex sales tax)",
+   "url": "https://www.wine-searcher.com/find/penfolds+rwt+bin+798+shiraz+barossa+valley+south+australia+australia/2002",
+   "same_item": "yes",
+   "note": "Live retail asking for a 2002 bottle with a provenance guarantee, in Canada, price converted by Wine-Searcher. Another listing on the page asks A$350.47 per bottle (pre-arrival case of 6). Not sold prices. (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py crashed (None error) for two word sets; work/comps.py: only a 2004 RWT at WineBid (US$124, 2025-12-07, different vintage, not used) and no 2002 hits; Gowans API search 'penfolds rwt' returned no lots; WebSearch for 2002 RWT auction price (no hammer found, only retail and a forum anecdote of $46 all in for an unnamed RWT vintage, unusable), 2002 RWT Australian retail, site:armitage past RWT (none). Not tried: Langtons, Wine-Searcher (blocked). No SOLD result found for the 2002 vintage. eBay sold and Langtons/Wine-Searcher auction history would settle it. Retail asks are A$215 to A$265, and auction hammer is normally well below retail. | chrome: eBay AU sold: penfolds rwt 2002 (no 2002 bottle sold, only 1997 and 2014 RWT bottles and empty boxes). Wine-Searcher 2002 RWT page (asking only). Langtons not searched. No sold evidence for the actual vintage found.",
+ "needs_chrome": false,
+ "chrome_hint": "Langtons auction results and eBay sold listings: 'Penfolds RWT 2002 Shiraz' (also Wine-Searcher auction history 2002 RWT Bin 798)",
+ "viewing_check": "Check fill level (should be in the neck), label scuffs and staining, capsule and cork condition, any seepage, and the bottle number on the back label. Photograph the shoulder and the back label.",
+ "rate_note": "All prices AUD, no conversion needed.",
+ "chrome_done": true
+}

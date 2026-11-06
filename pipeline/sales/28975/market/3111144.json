@@ -1,7 +1,7 @@
 {
  "cdid": 3111144,
  "lot": 882,
- "identification": "Handcrafted yellow gold gents ring, openwork floral/leaf cast shoulders, large dark green cabochon (catalogue: tourmaline), acid tests 15ct, no stamp visible, in a blue ring box. No weight given in the catalogue; looks like roughly 5 to 9 g total with the stone. Stone is probably tourmaline (green tourmaline cabochons are low value, tens of dollars) so value is mostly gold plus handmade appeal.",
+ "identification": "Handcrafted yellow gold gents ring with openwork cast shoulders and a large dark green cabochon (catalogued tourmaline), in a blue box.",
  "entries": [
   {
    "kind": "SOLD",
@@ -114,9 +114,10 @@
    "note": "Antique 15ct gold wedding band. Snippet only (WebSearch summary), not verified; unclear whether premium is included. Plain band, scrap reference only."
   }
  ],
- "searches_tried": "Local comps (work/comps.py): gold gents ring 15ct; 15ct gents ring; cabochon gold ring; tourmaline ring; 15ct signet; 15ct ring. pipeline/comps.py crashed (TypeError) for one query and returned only Noble/Smith & Singer unrelated hits. Gowans API: gents gold ring tourmaline, gold ring green stone, 15ct gents ring (about 15 sold green stone gold rings found, 9 listed). WebSearch: 15ct gold gents ring tourmaline cabochon sold Australia (no direct match; Carters price guide and Lawsons snippets only). goldprice.org returned 403, so no melt figure seen. No comparable gents 15ct handcrafted tourmaline ring SOLD found. eBay sold would help for design/stone context but is not essential; no UNSOLD or ASKING entries recorded (the retail listings seen were snippets of different rings, not compared).",
+ "searches_tried": "Local comps (work/comps.py): gold gents ring 15ct; 15ct gents ring; cabochon gold ring; tourmaline ring; 15ct signet; 15ct ring. pipeline/comps.py crashed (TypeError) for one query and returned only Noble/Smith & Singer unrelated hits. Gowans API: gents gold ring tourmaline, gold ring green stone, 15ct gents ring (about 15 sold green stone gold rings found, 9 listed). WebSearch: 15ct gold gents ring tourmaline cabochon sold Australia (no direct match; Carters price guide and Lawsons snippets only). goldprice.org returned 403, so no melt figure seen. No comparable gents 15ct handcrafted tourmaline ring SOLD found. eBay sold would help for design/stone context but is not essential; no UNSOLD or ASKING entries recorded (the retail listings seen were snippets of different rings, not compared). | chrome: eBay AU sold '15ct gold gents ring tourmaline' (no same-item results; only unrelated 9ct/15ct rings). Weight drives value, none given.",
  "needs_chrome": false,
  "chrome_hint": "Optional: eBay sold, 'vintage 15ct gold gents ring green tourmaline cabochon', Australia, to see handcrafted gents rings. Main driver is weight.",
  "rate_note": "All prices are AUD, no conversion needed. Gowans prices are hammer, buyer premium extra.",
- "viewing_check": "Weigh the ring (grams is the key number, ask to have it weighed on the scale), look inside the band for any stamp (15, 625, 9, 375, 18, 750) and a maker's mark, check the stone for chips or whether it is glass/jade/nephrite, and note the ring size."
+ "viewing_check": "Ask for or take the weight, look for a carat stamp inside the band, check the stone for chips and whether it is set in gold claws, measure ring size.",
+ "chrome_done": true
 }
