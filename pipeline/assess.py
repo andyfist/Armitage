@@ -8,7 +8,7 @@ on 21 Oct 2026: a lot only gets a maximum bid if there is a SOLD price with a li
 date behind it, and that bid must still leave at least $200 net profit after the buyer's
 premium and the selling fees.
 
-  net resale  = median same-item SOLD price (AUD, last --months) x (1 - fee)
+  net resale  = median same-item SOLD price (AUD, dated within the last --months) x (1 - fee)
   max hammer  = (net resale - profit) / (1 + premium), rounded down to $5
 
 Writes assessment.json, chrome_list.json (lots for the browser research on the home
@@ -37,7 +37,7 @@ def money(s):
 def entry_date(text):
     """Best-effort date from the free text researchers write ('Nov 2025', '2025-11-03', '3 Nov 2025', 'live, seen 21 Oct 2026')."""
     t = str(text or '')
-    m = re.search(r'(20\d\d)-(\d\d)(?:-(\d\d))?', t)
+    m = re.search(r'(20\d\d)-(0[1-9]|1[0-2])(?:-(\d\d))?(?!\d)', t)
     if m:
         return datetime.date(int(m.group(1)), int(m.group(2)), int(m.group(3) or 1))
     m = re.search(r'(\d{1,2})?[ /]?([A-Za-z]{3})[a-z]*\.? ?(20\d\d)', t)
@@ -109,7 +109,8 @@ def main():
             rec = {'aud_price': price, 'date': e.get('date'), 'venue': e.get('venue'), 'url': e.get('url'), 'same_item': same, 'note': e.get('note', '')}
             if e.get('kind') == 'SOLD' and price > 0 and e.get('url') and same in ('yes', 'close') and 'snippet only' not in str(e.get('note', '')).lower():
                 d = entry_date(e.get('date'))
-                (out['sold'] if (d is None or d >= cutoff) else out['sold_old']).append(rec)
+                # an undated sale is treated as old: it can send a lot to Chrome but never sets a maximum
+                (out['sold'] if (d is not None and d >= cutoff) else out['sold_old']).append(rec)
             elif e.get('kind') == 'UNSOLD':
                 out['unsold'].append(rec)
             elif e.get('kind') == 'ASKING':
