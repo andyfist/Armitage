@@ -1,0 +1,89 @@
+{
+ "cdid": 3112438,
+ "lot": 1718,
+ "identification": "Two unmarked 19th century style wooden plough planes (brass-tipped arms, thumbscrews, one iron fitted), a rusty No 4 size bench plane (Bailey-pattern, maker not legible) and a cast spokeshave. Plough planes are plain beech types, not the ivory/rosewood/boxwood fancy kind.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$230 hammer",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions, lot 401103 SASH FILLISTER PLANE & PLOUGH PLANE",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=plough%20plane",
+   "same_item": "close",
+   "note": "Local database / Gowans API; 4 bids; two planes, one plough; premium extra; condition unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105 hammer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-05-24",
+   "venue": "Gowans Auctions, lot 412168 STANLEY PLOUGH PLANE",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=plough%20plane",
+   "same_item": "close",
+   "note": "Gowans API; 6 bids; Stanley metal plough, not wooden; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-10-11",
+   "venue": "Gowans lot 443975 2 VINTAGE WOODEN PLANES",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wood+planes",
+   "same_item": "category guide",
+   "note": "Local database; 1 bid; plain wooden planes, low end."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-10-04",
+   "venue": "Gowans lot 442953 2 WOOD PLANES",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wood+planes",
+   "same_item": "category guide",
+   "note": "Local database; 2 bids; plain wooden planes."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-05-31",
+   "venue": "Gowans lot 413943 2 WOODWORKING PLANES BAILEY NO.5 & NO.4",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=woodworking+planes",
+   "same_item": "category guide",
+   "note": "Local database; 2 bids; two Bailey iron bench planes, comparable to the No 4 in this lot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70-100 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-01-19 to 2026-03-23",
+   "venue": "Gowans, spokeshave lots 384468, 390406, 399358",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=spokeshave",
+   "same_item": "category guide",
+   "note": "Local database; spokeshave groups of several (4 spokeshaves $75; $70; $100 with Stanley 180). A single plain cast spokeshave is worth little."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$95 hammer",
+   "currency": "AUD",
+   "aud_price": 95,
+   "date": "2026-09-13",
+   "venue": "Gowans lot 438044 BOX OF 12 ASST WOOD PLANES",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wood+planes",
+   "same_item": "category guide",
+   "note": "Local database; 3 bids; mixed moulding planes, shows general wooden plane level."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed on a None field; work version worked) with: plough plane, plough, wood plane, spokeshave, plough plane --min-price 100; Gowans API search 'plough'; WebSearch for AU plough plane sold prices (only asking prices/snippets; Carters price guide blocked by bot check, so not opened; no verified Australian sold comps found beyond Gowans). eBay sold prices would settle it: needs Chrome.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: 'wooden plough plane brass' and 'antique plough plane' (sold, completed items, Australia); also carters.com.au plough planes price guide",
+ "viewing_check": "Look for maker stamps on the toes/heels of both plough planes (Mathieson, Marples, Preston, Sorby, Greaves, any Australian maker), brass arm and fence condition, number of irons, whether any have boxwood/ivory tips; also the lever cap or logo on the No 4 (Stanley, Record, Bailey) and whether the No 4 is cracked.",
+ "rate_note": "All prices AUD already, no conversion."
+}
