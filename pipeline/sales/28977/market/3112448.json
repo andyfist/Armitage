@@ -5,6 +5,72 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "GBP 13.00",
+   "currency": "GBP",
+   "aud_price": 25,
+   "date": "2025-03-23",
+   "venue": "Badgers Auctions (UK)",
+   "url": "https://badgersauctions.com/product/large-set-of-bar-optics/",
+   "same_item": "close",
+   "note": "Page opened. Large set of stainless steel optics, no brackets; 3 bids. Rate 1 GBP = 1.95 AUD (approx). Buyer fees extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 45",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 437254",
+   "same_item": "category guide",
+   "note": "Hammer, from local database. Mixed china lot incl a biscuit barrel; only a guide for the barrel."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 20",
+   "currency": "AUD",
+   "aud_price": 20,
+   "date": "2026-08-30",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 434268",
+   "same_item": "category guide",
+   "note": "Hammer. 6 inverted spirit dispensers (modern bar type), 3 bids."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2025-11-03",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 372502",
+   "same_item": "category guide",
+   "note": "Hammer. Playboy wall mounted double spirit dispenser; retro bar item, not same."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 75",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2025-10-27",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 370777",
+   "same_item": "category guide",
+   "note": "Hammer. Wooden biscuit barrel with Hodgman club association; premium for provenance, not comparable."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "AUD 100-150 estimate, passed",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-06",
+   "venue": "Amanda Addams Auctions (Vic)",
+   "url": "https://www.invaluable.com/auction-lot/antique-oak-biscuit-barrel-with-original-white-ce-222-c-196b8e407b",
+   "same_item": "close",
+   "note": "Snippet only, not verified. Antique oak biscuit barrel with ceramic liner passed in; ceiling signal."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$31.92",
    "currency": "AUD",
    "aud_price": 31.92,
@@ -28,8 +94,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: vintage chrome bar spirit optic",
- "viewing_check": "Look for Bowkers Opal markings on the optics, whether each has its glass dome, and the biscuit barrel lid and liner and silver plate wear.",
+ "searches_tried": "comps.py (optic, bar optic, pub optic, chrome tap, spirit optic, spirit dispenser, biscuit barrel); Gowans API optic spirit (nothing); WebSearch vintage chrome bar optics sold, site:armitage spirit optics (nothing), oak silver plate biscuit barrel Australia. No vintage chrome optic sold comps found. eBay sold listings would settle the optics. | chrome: eBay AU sold: vintage chrome bar spirit optic",
  "needs_chrome": false,
+ "chrome_hint": "eBay sold/completed: vintage chrome bar optic spirit measure sight glass (UK and AU), also vintage pub optic bracket",
+ "viewing_check": "Look for Bowkers Opal markings on the optics, whether each has its glass dome, and the biscuit barrel lid and liner and silver plate wear.",
+ "rate_note": "1 GBP = 1.95 AUD approx.",
  "chrome_done": true
 }

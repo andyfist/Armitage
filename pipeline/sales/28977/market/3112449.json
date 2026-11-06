@@ -2,9 +2,77 @@
  "cdid": 3112449,
  "lot": 1729,
  "identification": "Two chrome-rimmed white/grey turbine-style 14in wheel covers with blue centre badge (badge looks like an A or similar, not clearly a Holden lion), plus a Cascade Premium Light bar runner and two used clay crucible cones; hubcaps rusty/scuffed",
- "entries": [],
- "searches_tried": " | chrome: eBay AU sold: holden hub caps wheel covers (eBay error page, throttled). Nothing found.",
- "viewing_check": "Read the centre badge on the hubcaps to confirm make and model (Holden or other) and check for dents, cracks and broken clips.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2025-11-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 374333",
+   "same_item": "close",
+   "note": "4 Holden HZ Premier hubcaps, hammer, premium extra. Set of 4 vs pair here. Local DB, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 400765",
+   "same_item": "category guide",
+   "note": "Set of Holden Kingswood hubcaps, hammer. Local DB, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2025-09-10",
+   "venue": "Armitage Auctions, Launceston sale 25573 lot 1444",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2617607&chid=25573&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "5 vintage Holden hubcaps (Kingswood HJ HQ HX, FX), hammer. Local DB."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20",
+   "currency": "AUD",
+   "aud_price": 20,
+   "date": "2026-03-25",
+   "venue": "Armitage Auctions, Launceston sale 27487 lot 1649",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2858566&chid=27487&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Tray of insulators, Holden hubcaps, reels; mixed. Local DB."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$290 Buy It Now",
+   "currency": "AUD",
+   "aud_price": 290,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay via PicClick",
+   "url": "https://picclick.com.au/Holden-Hubcaps-Trims-Hj-Hx-Hz-Kingswood-193711316343.html",
+   "same_item": "category guide",
+   "note": "Mixed set Hj/Hx/Hz hubcaps and trims; snippet only; reportedly unsold. Asking, not paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$100",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "live, seen 2026-11-06",
+   "venue": "Just Parts",
+   "url": "https://www.justparts.com.au/parts-for-sale/hz-premier-hubcaps/JPM3458555",
+   "same_item": "close",
+   "note": "HZ Premier hubcaps; snippet only; asking."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for holden hubcap(s), cascade bar mat (no sold); one WebSearch for HZ Premier turbine hubcaps (asking only). Hubcaps' sold results at Tasmanian rooms are $20-$60 for sets of 4-5. eBay sold would settle it but low value; Cascade mat and crucibles negligible. | chrome: eBay AU sold: holden hub caps wheel covers (eBay error page, throttled). Nothing found.",
  "needs_chrome": false,
+ "viewing_check": "Read the centre badge on the hubcaps to confirm make and model (Holden or other) and check for dents, cracks and broken clips.",
+ "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

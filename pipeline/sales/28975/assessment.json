@@ -12,14 +12,14 @@
   "top": 25,
   "ignore_bids": false
  },
- "scanned": 337,
- "candidates": 115,
+ "scanned": 405,
+ "candidates": 132,
  "counts": {
   "PASS": 11,
-  "CHROME": 27,
-  "FAIL": 66,
-  "DROP": 9,
-  "NOT RESEARCHED": 2
+  "CHROME": 34,
+  "FAIL": 81,
+  "DROP": 5,
+  "NOT RESEARCHED": 1
  },
  "lots": [
   {
@@ -29,8 +29,8 @@
    "strength": 5,
    "findings": "Squat Campbell-type green/ochre drip glaze vase. Base incised 'A302 / John Campbell / 1935.' (Campbell Pottery, Launceston). Signature and date support the title.",
    "condition": "Title notes a repair to base; base glaze edge shows rough frit and uneven glaze, repair not clearly visible in photos. No other obvious damage.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 10.0,
+   "bid_count": 1,
    "close": "11/11/2026 3:30:00 PM ADST",
    "identification": "John Campbell (Launceston) squat green/ochre drip glaze vase, H 8cm, base repair noted",
    "researched": true,
@@ -118,7 +118,7 @@
    "net_resale": 55.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $10",
    "priority": false
   },
   {
@@ -126,25 +126,50 @@
    "lot": 632,
    "title": "FIGURE OF A KNEELING WATER CAR...",
    "strength": 4,
-   "findings": "Black painted kneeling/seated African woman water carrier with black and white striped vessel on head, raffia skirt, brass wire hoop earring and necklace. Style of mid-century Austrian figures (Leopold Anzengruber type) but no mark seen, so attribution unconfirmed.",
-   "condition": "Coating issues as stated: black paint flaking and loss to back of waist and lower body, scuffs to legs.",
+   "findings": "Mid-century kneeling African water carrier figure in black glaze with black and white striped pot, red lips, wire hoop earrings and grass skirt. Style strongly matches Austrian (Leopold Anzengruber / Vienna) 1950s figures, but no maker's mark visible in the photos so attribution unconfirmed.",
+   "condition": "Coating wear and losses on lower back and hip as stated; grass skirt original-looking but fragile.",
    "current_bid": 30.0,
    "bid_count": 1,
    "close": "11/11/2026 3:30:40 PM ADST",
    "identification": "Mid-century black glazed ceramic kneeling African water carrier, striped bowl on head, raffia skirt and chain; Anzengruber-style (Vienna 1950s) but unmarked, coating losses.",
    "researched": true,
    "needs_chrome": false,
-   "chrome_hint": "",
+   "chrome_hint": "eBay sold: Anzengruber African figure kneeling bowl; also LiveAuctioneers price guide Leopold Anzengruber",
    "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 384.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Etsy",
+     "url": "https://www.etsy.com/listing/1176433210/vintage-1950s-anzengruber-austria",
+     "same_item": "category guide",
+     "note": "Genuine Anzengruber mother and child, 1950s. Snippet only. Asking price, marked sold per snippet but unverified."
+    },
+    {
+     "aud_price": 165.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Etsy",
+     "url": "https://www.etsy.com/ca/market/leopold_anzengruber",
+     "same_item": "category guide",
+     "note": "Anzengruber female drummer. Snippet only. Asking price."
+    },
+    {
+     "aud_price": 1064.0,
+     "date": "2021-11-07",
+     "venue": "Amanda Addams Auctions",
+     "url": "https://www.invaluable.com/artist/anzengruber-leopold-owf9ea2lkl/sold-at-auction-prices/",
+     "same_item": "category guide",
+     "note": "Marked 1951 Anzengruber standing Nubian with bowl overhead, model 12, 35 cm. Estimate only, old, snippet only. Mid-point AUD only, rate 1 USD = 1.52 AUD."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -154,8 +179,8 @@
    "strength": 7,
    "findings": "Double handled green drip glaze vase, 18 cm. Base incised 'D.L.H' (decorator/thrower initials), 'John Campbell', date that reads '1835' (almost certainly 1935 with a looped 9) and 'Tasmania'. Signature supports the title. Largest and best of the Campbell pieces in this batch.",
    "condition": "No obvious chips or cracks seen; base edge glaze frit as made.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 50.0,
+   "bid_count": 1,
    "close": "11/11/2026 3:31:00 PM ADST",
    "identification": "John Campbell (Launceston) green drip glaze two-handled vase, ~18cm, signed base; good condition in photo",
    "researched": true,
@@ -245,7 +270,7 @@
    "net_resale": 93.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $50",
    "priority": false
   },
   {
@@ -253,25 +278,42 @@
    "lot": 635,
    "title": "SIGNED MINIATURE JOHN CAMPBELL...",
    "strength": 5,
-   "findings": "Miniature brown/treacle glaze wall pocket. Back impressed/incised 'Campbell' with '1935'(partly legible) and 'TAS' or similar and 'MD' style initials; partly obscured by glaze. Supports John Campbell attribution.",
-   "condition": "No visible damage; glaze runs over marks.",
-   "current_bid": 15.0,
-   "bid_count": 1,
+   "findings": "Miniature John Campbell (Launceston, Tasmania) wall pocket in mottled brown and amber glaze. Back incised 'J Campbell' (partly obscured by glaze), 'Tas', and 'M I D' or similar code. Signature supports the John Campbell claim.",
+   "condition": "No obvious chips or cracks seen; some glaze pooling and unglazed patches to back as made.",
+   "current_bid": 20.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:31:40 PM ADST",
    "identification": "Small John Campbell glazed wall pocket, mottled brown/amber, c.11cm; signature not seen in photo (hanging string on)",
    "researched": true,
    "needs_chrome": false,
-   "chrome_hint": "",
+   "chrome_hint": "eBay Australia sold listings: John Campbell Tasmania pottery wall pocket",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 320.0,
+     "date": "2026-05-30",
+     "venue": "Leski Auctions, Melbourne sale 650 lot 28",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/650",
+     "same_item": "close",
+     "note": "From local comps database (page not opened by me). Wall pocket with applied map of Tasmania, incised J. Campbell Tasmania, 16cm. Decorated and larger, so stronger than this plain miniature. Melbourne room."
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2026-02-11",
+     "venue": "Armitage Auctions sale 27194 lot 603",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2810154&chid=27194&category=ALL&style=group",
+     "same_item": "close",
+     "note": "From local comps database. Signed small dish in form of Tasmania, 10cm. Small signed piece, same room."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 197.5,
+   "net_resale": 167.875,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $198 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -281,8 +323,8 @@
    "strength": 5,
    "findings": "Ochre drip glaze ovoid vase. Base incised 'McHugh / Tasmania / 10' with a smaller incised mark above (possibly 'Rup' or initials). Supports McHugh (Launceston) attribution.",
    "condition": "Small dark spot on body front (glaze speck or fleck); no chips seen.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 20.0,
+   "bid_count": 1,
    "close": "11/11/2026 3:32:20 PM ADST",
    "identification": "H. McHugh Tasmania ochre/amber drip-glaze ovoid vase, base marked McHugh Tasmania 10, glaze clean, tiny dark speck on front",
    "researched": true,
@@ -403,7 +445,7 @@
    "net_resale": 108.375,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $128 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $128 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -413,8 +455,8 @@
    "strength": 5,
    "findings": "Waisted vase in uncommon red/crimson drip glaze over white. Base incised 'Campbell' in an oval-style signature with partial 'Tasmania' and a number above, partly obscured by glaze. Red glaze is less usual for Campbell than green.",
    "condition": "Tiny chip to rim per title, not clearly visible; base has glaze skips.",
-   "current_bid": 10.0,
-   "bid_count": 1,
+   "current_bid": 30.0,
+   "bid_count": 5,
    "close": "11/11/2026 3:33:00 PM ADST",
    "identification": "John Campbell waisted vase, red/crimson drip glaze, tiny rim chip, ~12cm",
    "researched": true,
@@ -494,7 +536,7 @@
    "net_resale": 48.875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $58 does not clear the current bid $10",
+   "why": "max hammer $0 from a median SOLD of $58 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -504,8 +546,8 @@
    "strength": 4,
    "findings": "Small round dish with sgraffito thylacine on dark ground, inscribed 'Hobart'. Base has faint incised script and a worn paper label reading in part 'Hand Painted ... Studio ...' (Anna Studio). Thylacine souvenir ware has a Tasmaniana collector market.",
    "condition": "Some dirt/wear to foot rim; no chips seen.",
-   "current_bid": 20.0,
-   "bid_count": 3,
+   "current_bid": 25.0,
+   "bid_count": 4,
    "close": "11/11/2026 3:33:20 PM ADST",
    "identification": "Studio Anna small round dish, dark glaze with sgraffito thylacine and 'Hobart' inscription, white rim",
    "researched": true,
@@ -547,8 +589,8 @@
    "strength": 5,
    "findings": "Treacle/amber drip glaze baluster vase. Base incised 'McHugh / Tasmania / 1935 / 30'. Dated McHugh piece supports title.",
    "condition": "No visible damage.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:33:40 PM ADST",
    "identification": "H McHugh Tasmania baluster vase, amber/brown drip glaze, incised McHugh Tasmania 1935, ~13cm, no visible damage",
    "researched": true,
@@ -661,44 +703,69 @@
    "net_resale": 80.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $95 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $95 does not clear the current bid $25",
    "priority": false
   },
   {
    "cdid": 3110905,
    "lot": 642,
    "title": "ROYAL DOULTON FIGURE OF A HORS...",
-   "strength": 4,
-   "findings": "Palomino Arab-type standing horse with white mane and tail. Model and colourway look like Beswick (later Royal Doulton/Beswick) Arab horse rather than a Doulton HN horse; base not photographed so mark unconfirmed.",
-   "condition": "No visible damage; legs and ears appear intact.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "strength": 3,
+   "findings": "Palomino glazed standing horse with white mane and tail; form looks like the Beswick Arab 'Xayal' model rather than a Royal Doulton-branded figure (Beswick was owned by Royal Doulton). Base mark not photographed, so maker claim unchecked.",
+   "condition": "No visible damage in single photo; ears and legs appear intact.",
+   "current_bid": 20.0,
+   "bid_count": 1,
    "close": "11/11/2026 3:34:00 PM ADST",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Likely Beswick palomino gloss Arab horse (Xayal shape, model 1265, made 1961-1989), about 16cm high. Maker unconfirmed as base mark not photographed; the lot title says Royal Doulton but the form is Beswick. Standard colourway, no damage visible.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: Beswick palomino Arab horse Xayal 1265 gloss",
    "chrome_done": false,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 70.0,
+     "date": "2026-06-21",
+     "venue": "Gowans (Hobart), BESWICK HORSE FIGURE, 4 bids",
+     "url": "gowans id 417748",
+     "same_item": "close",
+     "note": "Hammer, premium extra. From local comps database, listing not opened; colour and model not stated."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2025-10-19",
+     "venue": "Gowans (Hobart), BESWICK HORSE FIGURE, 2 bids",
+     "url": "gowans id 368758",
+     "same_item": "close",
+     "note": "Hammer, premium extra. Local database, not opened; colour unknown."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-05-03",
+     "venue": "Gowans (Hobart), ROYAL DOULTON HORSE FIGURE, 4 bids",
+     "url": "gowans id 406528",
+     "same_item": "close",
+     "note": "Hammer, premium extra. Same loose title style as this lot; may be a different model. Local database only."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 70.0,
+   "net_resale": 59.5,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $20",
    "priority": false
   },
   {
    "cdid": 3110906,
    "lot": 643,
    "title": "SMALL SIGNED JOHN CAMPBELL VAS...",
-   "strength": 5,
-   "findings": "Small green drip glaze vase. Base incised 'B.23. / John Campbell. / 1936.(or 1935) / TAS.' Supports title.",
-   "condition": "Base edge glaze frit and small glaze skip; no obvious chips.",
-   "current_bid": 10.0,
-   "bid_count": 1,
+   "strength": 6,
+   "findings": "Small John Campbell vase in green and amber drip glaze. Base incised 'B.23.' (glaze code), 'John Campbell.', '1935.', 'TAS.' Signature and date support title; 1930s dated pieces are the desirable period.",
+   "condition": "Some glaze rubbing and grit on foot rim; small glaze run on base; no cracks seen.",
+   "current_bid": 15.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:34:20 PM ADST",
    "identification": "Small John Campbell (Launceston) green/amber drip glaze squat vase, signed base, c1935; small posy-size.",
    "researched": true,
@@ -706,6 +773,94 @@
    "chrome_hint": "",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 100.0,
+     "date": "2025-11-10",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 373645",
+     "same_item": "yes",
+     "note": "JOHN CAMPBELL TASMANIA 35 SIGNED VASE, 8 bids. Same date, same maker. Local database record; page not opened. Condition not stated. No premium in hammer."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 414811",
+     "same_item": "yes",
+     "note": "JOHN CAMPBELL TASMANIAN 1935 SIGNED VASE, 8 bids. Closest match, dated 1935. Local database record, page not opened."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-05-10",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 408134",
+     "same_item": "yes",
+     "note": "Signed vase 1932, 9 bids. Local database record, page not opened."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-05-03",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 406721",
+     "same_item": "yes",
+     "note": "Green vase signed 1931, 11 bids. Local database record, page not opened."
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2025-12-02",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 380069",
+     "same_item": "yes",
+     "note": "Vase 1933 green glaze, 9 bids. Local database record, page not opened."
+    },
+    {
+     "aud_price": 120.0,
+     "date": "2026-04-13",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 401687",
+     "same_item": "yes",
+     "note": "Blue vase signed and dated 1931, 4 bids. Local database record, page not opened."
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 417992",
+     "same_item": "close",
+     "note": "1932 vase with base chip, 6 bids. Local database record, page not opened."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-09-09",
+     "venue": "Armitage Auctions, Launceston sale 28587 lot 682",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3044552&chid=28587&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "Glazed green and yellow signed vase H-14 cm. Closing bid from local database (22% premium extra). Page not opened."
+    },
+    {
+     "aud_price": 140.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28712 lot 709",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067170&chid=28712&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Unusual signed vase H-19 cm, larger. Local database record, page not opened."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2026-05-30",
+     "venue": "Leski Auctions, Melbourne sale 650 lot 26",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/650",
+     "same_item": "close",
+     "note": "Blue and green vase, John Campbell 1934, 10cm high. Similar size, Melbourne room. Local database record, page not opened."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-04-15",
+     "venue": "Armitage Auctions, Launceston sale 27620 lots 675, 687, 697",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2880513&chid=27620&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Three small undated signed vases 10-12 cm at $40, $35, $50. Floor for small plain pieces. Page not opened."
+    },
     {
      "aud_price": 45.0,
      "date": "2026-10-31",
@@ -718,11 +873,11 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 45.0,
-   "net_resale": 38.25,
+   "resale": 80.0,
+   "net_resale": 68.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $10",
+   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $15",
    "priority": false
   },
   {
@@ -732,8 +887,8 @@
    "strength": 6,
    "findings": "Fan-shaped wall pocket vase with hanging hole, banded green/turquoise and orange-brown drip glaze typical of John Campbell Pottery, Launceston. Incised script signature on the back face near the hanging hole, partly obscured by glaze; reads as a looped 'J' / 'Campbell'-style script with 'Tas' trailing; not fully legible but consistent with Campbell incised marks. Tasmanian pottery with local collector market.",
    "condition": "No obvious chips or cracks visible; glaze pooling and small glaze bubbles/kiln grit on reverse are firing features. Lot tag tied through hanging hole.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:35:20 PM ADST",
    "identification": "Fan-shaped drip-glaze wall pocket, green/orange banded, consistent with John Campbell (Launceston) but signature not confirmed from photo",
    "researched": true,
@@ -814,7 +969,7 @@
    "net_resale": 93.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -824,8 +979,8 @@
    "strength": 5,
    "findings": "Red cased ovoid studio glass vase. Base engraved 'ANDREW LAVERY 2000' (last digit possibly 9 but most likely 2000). Old gallery price sticker '$780' and stock sticker 'FL 104'. Signature supports the attribution. Andrew Lavery is an established Australian studio glass artist.",
    "condition": "Appears clean, no chips seen; stickers on base.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 15.0,
+   "bid_count": 1,
    "close": "11/11/2026 3:36:00 PM ADST",
    "identification": "Red translucent blown glass ovoid (squat sphere) studio vase with a small neck opening and a clear foot, apparently signed on the base 'Andrew Lavery 2000'; no damage visible in photo 1",
    "researched": true,
@@ -850,8 +1005,8 @@
    "strength": 6,
    "findings": "Squat vase in brown/amber streaked glaze. Base hand-signed in slip 'W McHugh / Tasmania / 18' (dated 1918), William McHugh, Launceston (Tasmanian Potteries era). Early dated McHugh is sought after by Tasmanian pottery collectors. Signature supports the title.",
    "condition": "Crazing to base glaze, small brown glaze spot on base, light staining inside; no chips or cracks visible on rim or body.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 50.0,
+   "bid_count": 1,
    "close": "11/11/2026 3:36:20 PM ADST",
    "identification": "Brown/amber streaked glaze squat vase with flared rim, McHugh Tasmania (W McHugh base mark), glossy, 13cm; photo consistent with catalogue.",
    "researched": true,
@@ -956,7 +1111,67 @@
    "net_resale": 140.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $165 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $165 does not clear the current bid $50",
+   "priority": false
+  },
+  {
+   "cdid": 3110913,
+   "lot": 651,
+   "title": "DECORATIVE PIERCED BRASS & ETC...",
+   "strength": 5,
+   "findings": "Tall pierced cast brass banquet/parlour oil lamp with twisted column, scrolling cast foot, and frosted pink etched and gilt glass shade with clear chimney. Style is American late Victorian (c1890-1910, Bradley & Hubbard / Miller type) and may be earlier than the c1920 claimed. No maker's mark on burner legible in photos.",
+   "condition": "Patinated brass, some dirt and wear to finish; shade appears intact; gilt on shade worn in places.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 3:36:40 PM ADST",
+   "identification": "American-style late Victorian pierced brass banquet/parlour lamp, twisted column, cast foot, frosted pink etched and gilt shade, chimney; unmarked.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold: Bradley Hubbard pierced brass banquet lamp pink etched shade; LiveAuctioneers Bradley & Hubbard price guide, filter banquet",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 110.0,
+     "date": "2025-04-16",
+     "venue": "Armitage Auctions, Launceston sale 23842 lot 688",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2470242&chid=23842&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Antique brass based electrified uranium glass banquet lamp and shade, 65cm. Local comps database; electrified so less desirable."
+    },
+    {
+     "aud_price": 320.0,
+     "date": "2026-09-09",
+     "venue": "Armitage Auctions, Launceston sale 28587 lot 603",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3044475&chid=28587&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Large duplex brass and overlay glass oil lamp 67cm; local comps database. Different type, bigger duplex burner."
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 160.0,
+     "date": "2020-06-13",
+     "venue": "Leski Auctions, Melbourne sale 524 lot 523",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/524",
+     "same_item": "yes",
+     "note": "Miller parlour lamp, gilt metal and glass, 19th c, 85cm. Closest type, but old (2020). Local comps database."
+    },
+    {
+     "aud_price": 320.0,
+     "date": "2021-05-29",
+     "venue": "Leski Auctions, Melbourne sale 551 lot 669",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/551",
+     "same_item": "close",
+     "note": "Antique banquet lamp, cast metal base, faceted crystal font, original acid etch shade; better quality font, old sale."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "resale": 215.0,
+   "net_resale": 182.75,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $215 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -966,8 +1181,8 @@
    "strength": 5,
    "findings": "Circular pastel or watercolour portrait miniature of a young woman with pearl earring, gilt slip in turned mahogany frame. Verso has partial blue and gilt trade label 'Doni ... / H.T. COSTANTINI / ...' (Costantini, likely Florence or Rome dealer/framer). Unsigned on visible front. Pleasing quality, plausibly 19th century.",
    "condition": "Backing taped with old black tape, label torn/partial, frame with minor knocks; image appears clean.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 50.0,
+   "bid_count": 1,
    "close": "11/11/2026 3:37:40 PM ADST",
    "identification": "Circular pastel or watercolour portrait miniature of a young woman with dark curled hair and a drop earring, gilt slip, deep turned mahogany frame (about 10 cm image); verso has a trade label reading 'Done by H.T. Costantini' per the cloud notes",
    "researched": true,
@@ -1006,37 +1221,63 @@
    "cdid": 3110918,
    "lot": 656,
    "title": "SIGNED McHUGH POTTERY CREAM JU...",
-   "strength": 5,
-   "findings": "Small cream jug in blue with yellow drip glaze, handle in amber/yellow. Base incised 'W McHugh / Tasmania' (no date visible). Supports title. William McHugh Tasmanian pottery.",
-   "condition": "Blue glaze flecks on white rim, light staining inside base; no chips clearly visible.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "strength": 4,
+   "findings": "Blue drip glazed cream jug with yellow streaks. Base incised 'W McHugh Tasmania' (William McHugh, Launceston). Signature supports title.",
+   "condition": "Glaze chips and flakes around the rim and spout; minor glaze flecks; base shows crazing.",
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:38:20 PM ADST",
    "identification": "William McHugh (Launceston) blue drip glaze cream jug, base incised W McHugh Tasmania, rim/spout chipping",
    "researched": true,
    "needs_chrome": false,
-   "chrome_hint": "",
+   "chrome_hint": "eBay sold: McHugh Tasmania jug",
    "chrome_done": true,
-   "sold": [],
-   "sold_old": [],
+   "sold": [
+    {
+     "aud_price": 105.0,
+     "date": "2026-08-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 434088 (API search 'mchugh jug')",
+     "same_item": "close",
+     "note": "Signed McHugh glazed jug, small chip to rim, 1 bid. Closest recent comparable; premium extra. Local database hit, page not opened. No FX needed (AUD)."
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 320.0,
+     "date": "2022-06-25",
+     "venue": "Leski Auctions, Melbourne sale 573 lot 277",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/573",
+     "same_item": "close",
+     "note": "Green glazed McHugh cream jug, 10cm, undamaged as far as described; older sale, Melbourne, strong. Local database hit, page not opened. No FX needed (AUD)."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2020-11-28",
+     "venue": "Leski Auctions, Melbourne sale 530 lot 47",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/530",
+     "same_item": "close",
+     "note": "Green glazed McHugh cream jug 8cm; old sale. Local database hit, page not opened. No FX needed (AUD)."
+    }
+   ],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 105.0,
+   "net_resale": 89.25,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $25",
    "priority": false
   },
   {
    "cdid": 3110923,
    "lot": 661,
    "title": "SMALL McHUGH DRIP GLAZED VASE ...",
-   "strength": 5,
-   "findings": "Small vase in amber/brown drip glaze. Base incised 'W McHugh / Tasmania' with date numerals reading '9.34' over '25' (possibly a pattern/date code). Supports the McHugh attribution.",
-   "condition": "Small chip or glaze loss to foot rim edge near signature; otherwise sound.",
-   "current_bid": 10.0,
-   "bid_count": 1,
+   "strength": 6,
+   "findings": "Small brown and amber drip glazed vase. Base incised 'W McHugh Tasmania' with date reading '1924' (or similar) and '26' glaze number. Signature supports McHugh attribution; dated 1920s piece.",
+   "condition": "Small glaze chip at foot rim area; otherwise appears sound.",
+   "current_bid": 15.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:40:00 PM ADST",
    "identification": "Small brown/amber drip glaze McHugh (Launceston) squat vase, H 8cm, incised H. McHugh Tasmania",
    "researched": true,
@@ -1044,6 +1285,78 @@
    "chrome_hint": "",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 15.0,
+     "date": "2026-07-08",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2972517&chid=28166&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Small signed McHugh squat vase H-7 CM, closest in size (local comps db, hammer, 22% premium extra; page not opened)"
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2026-07-08",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2972513&chid=28166&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Signed McHugh glazed vase H-12 CM (local comps db, hammer, 22% premium extra; page not opened)"
+    },
+    {
+     "aud_price": 25.0,
+     "date": "2026-05-06",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2901834&chid=27761&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Signed McHugh drip glazed vase H-13 CM (local comps db, hammer, 22% premium extra; page not opened)"
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-04-15",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2880517&chid=27620&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Signed McHugh drip glazed vase H-13 CM (local comps db, hammer, 22% premium extra; page not opened)"
+    },
+    {
+     "aud_price": 95.0,
+     "date": "2026-05-27",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2925258&chid=27891&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Signed McHugh drip glazed vase H-13 CM (local comps db, hammer, 22% premium extra; page not opened)"
+    },
+    {
+     "aud_price": 20.0,
+     "date": "2026-09-09",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3044487&chid=28587&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Signed miniature McHugh vase 1934 H-8 CM, same height and a dated piece (local comps db, hammer, 22% premium extra; page not opened)"
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-04-15",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2880402&chid=27620&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Unusual signed miniature McHugh vase H-11 CM, the high end for small (local comps db, hammer, 22% premium extra; page not opened)"
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-03-23",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 398218",
+     "same_item": "close",
+     "note": "McHugh Tasmania signed vase 11CM H, 1 bid (local comps db, page not opened)"
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2025-11-10",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 373647",
+     "same_item": "close",
+     "note": "McHugh Tasmania 1934 signed vase, 5 bids (local comps db, page not opened)"
+    },
     {
      "aud_price": 48.0,
      "date": "2026-10-25",
@@ -1056,11 +1369,11 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 48.0,
-   "net_resale": 40.8,
+   "resale": 37.5,
+   "net_resale": 31.875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $48 does not clear the current bid $10",
+   "why": "max hammer $0 from a median SOLD of $38 does not clear the current bid $15",
    "priority": false
   },
   {
@@ -1070,8 +1383,8 @@
    "strength": 5,
    "findings": "Tapering vase with streaky amber/brown glaze. Base incised 'W McHugh Tasmania H2' (or similar), consistent with McHugh Pottery, Tasmania, a collectable Tasmanian maker with local demand.",
    "condition": "Small glaze chips/flakes near base footrim; otherwise good.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:45:00 PM ADST",
    "identification": "H McHugh Tasmania tapering vase, streaky amber/brown drip glaze, signed base, ~13cm",
    "researched": true,
@@ -1159,7 +1472,7 @@
    "net_resale": 110.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -1278,8 +1591,8 @@
    "strength": 5,
    "findings": "Warren R. Dawson, A Leechbook or Collection of Medical Recipes of the Fifteenth Century, Macmillan and Co., London 1934, published for the Royal Society of Literature. Title page dated 1934 with no later printing noted, so first edition claim is supported. Original dust jacket present but in three pieces (vendor note says all pieces present). Specialist history of medicine title with a steady collector market.",
    "condition": "Dust jacket torn into pieces and browned; cloth binding appears sound, spine lettering gilt; light toning.",
-   "current_bid": 15.0,
-   "bid_count": 1,
+   "current_bid": 20.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:46:00 PM ADST",
    "identification": "A Leechbook or Collection of Medical Recipes of the Fifteenth Century, W. R. Dawson, Macmillan 1934, cloth with a torn and browned dust jacket partly detached.",
    "researched": true,
@@ -1320,7 +1633,7 @@
    "max_hammer": 0,
    "status": "CHROME",
    "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
-   "priority": false
+   "priority": true
   },
   {
    "cdid": 3110942,
@@ -1442,8 +1755,8 @@
    "strength": 4,
    "findings": "Kamikoto cleaver (nakiri/chuka style) with black handle, steel bolster, Damascus-pattern etched blade, in branded ash box with Certificate of Authenticity and product card. Box lid has kamikoto logo. Kamikoto is a heavily marketed brand with inflated list prices; secondhand values are modest.",
    "condition": "Appears unused or lightly used, box and paperwork present, no visible damage.",
-   "current_bid": 40.0,
-   "bid_count": 5,
+   "current_bid": 85.0,
+   "bid_count": 11,
    "close": "11/11/2026 3:48:00 PM ADST",
    "identification": "Kamikoto Chuka Bocho Chinese-style cleaver in wooden presentation box with certificate of authenticity and card, appears complete",
    "researched": true,
@@ -1500,7 +1813,7 @@
    "net_resale": 160.803,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $189 does not clear the current bid $40",
+   "why": "max hammer $0 from a median SOLD of $189 does not clear the current bid $85",
    "priority": false
   },
   {
@@ -1510,8 +1823,8 @@
    "strength": 3,
    "findings": "Victorian or Edwardian style brass postal scale on shaped oak plinth with round and square pans and three brass weights in recesses, one stamped 2oz. No maker's name seen on the beam or base.",
    "condition": "Brass dulled and tarnished, some rust/corrosion on the iron parts, base with light wear. Weight set may be incomplete.",
-   "current_bid": 30.0,
-   "bid_count": 4,
+   "current_bid": 35.0,
+   "bid_count": 5,
    "close": "11/11/2026 3:48:40 PM ADST",
    "identification": "Victorian/Edwardian brass postal scale on shaped oak plinth, round and square pans, three brass weights, unmarked",
    "researched": true,
@@ -1576,7 +1889,7 @@
    "net_resale": 29.6905,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $35 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $35 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -1619,25 +1932,91 @@
    "lot": 694,
    "title": "PRO HART ARTIST'S PROOF H-19 W...",
    "strength": 3,
-   "findings": "Framed intaglio etching of a stylised man's head (cigarette in hand), pencil 'AP' lower left and a small pencil signature lower right that is too blurred to confirm as Pro Hart. Subject and line style are not typical Pro Hart; attribution unconfirmed from photos. Paper label/number '5000' on mount.",
-   "condition": "Framed and mounted under glass; no obvious damage visible, mount looks clean.",
+   "findings": "Framed black and white etching of a stylised man's face with cigarette; lower margin pencilled 'AP' left and small signature right that is not legible at this resolution, so Pro Hart signature cannot be confirmed. Subject is atypical of Pro Hart's usual work; be sceptical.",
+   "condition": "Framed and mounted under glass; no visible foxing in photos.",
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 3:51:00 PM ADST",
    "identification": "Framed black and white etching of a man's face with cigarette, marked A/P and signed (Pro Hart style) lower right, gilt frame; '5000/' pencilled beside it",
    "researched": true,
    "needs_chrome": false,
-   "chrome_hint": "",
+   "chrome_hint": "eBay sold: 'Pro Hart etching artist proof signed' and 'Pro Hart black white etching face'; also Invaluable Pro Hart 'The Big Man' artist proof result price.",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 230.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions, Hobart (lot id 418178)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pro+hart&page%5Bnumber%5D=1 (lot id 418178)",
+     "same_item": "close",
+     "note": "Small Pro Hart etching of dragonfly marked A.P. and signed PRO HART stacked in pencil; hand-coloured, so a better subject than lot 694. Premium extra. From local comps database, listing text seen, page not opened."
+    },
+    {
+     "aud_price": 220.0,
+     "date": "2026-08-30",
+     "venue": "Gowans Auctions, Hobart (lot id 434140)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pro+hart&page%5Bnumber%5D=1 (lot id 434140)",
+     "same_item": "close",
+     "note": "Pro Hart artist proof small hand-coloured etching, 7+ bids. Local database; page not opened."
+    },
+    {
+     "aud_price": 210.0,
+     "date": "2026-08-03",
+     "venue": "Gowans Auctions, Hobart (lot id 427670)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pro+hart&page%5Bnumber%5D=1 (lot id 427670)",
+     "same_item": "close",
+     "note": "Pro Hart artist proof small hand-coloured etching. Local database."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2026-07-26",
+     "venue": "Gowans Auctions, Hobart (lot id 426024)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pro+hart&page%5Bnumber%5D=1 (lot id 426024)",
+     "same_item": "close",
+     "note": "Pro Hart artist proof small etching. Local database."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-01-19",
+     "venue": "Gowans Auctions, Hobart (lot id 384144)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pro+hart&page%5Bnumber%5D=1 (lot id 384144)",
+     "same_item": "close",
+     "note": "Lowest Gowans AP small Pro Hart etching in database; bar scene. Local database."
+    },
+    {
+     "aud_price": 150.0,
+     "date": "2026-09-09",
+     "venue": "Armitage Auctions sale 28588 lot 1016",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045737&chid=28588&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Pro Hart etching 'Sleeping Miner' H-20 W-15 cm, similar size to lot 694. Armitage own past result via local database; 22% premium extra."
+    },
+    {
+     "aud_price": 150.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions sale 28712 lot 660",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067121&chid=28712&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Framed Pro Hart etching 'Ants' H-16 W-13 cm. Local database."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "asking": [
+    {
+     "aud_price": 150.0,
+     "date": "seen 2026-11-06",
+     "venue": "Invaluable search snippet, Pro Hart 'The Big Man' etching ed. artist proof 15 x 10 cm",
+     "url": "https://www.invaluable.com/artist/hart-pro-a2ba6hnohc/sold-at-auction-prices/?page=14",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified. Aud_price is estimate midpoint, no conversion. Possible comparable of a figurative AP, not confirmed same series."
+    }
+   ],
+   "resale": 180.0,
+   "net_resale": 153.0,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $180 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -1682,8 +2061,8 @@
    "strength": 4,
    "findings": "Oil on board, Cradle Mountain and Dove Lake, signed lower left 'O.G. GARNER'. Supports title (Olga Garner, Tasmanian landscape painter). Decorative but competent.",
    "condition": "Linen slip and gilt frame, paint surface looks sound, no visible damage.",
-   "current_bid": 50.0,
-   "bid_count": 1,
+   "current_bid": 60.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:51:40 PM ADST",
    "identification": "Olga Claire Garner (b.1943, NSW-born, Tasmanian landscape painter), oil on board, Cradle Mountain and Dove Lake, 19x24 cm, signed lower left (reads O.C. GARNER), linen slip and gilt frame. Small decorative piece.",
    "researched": true,
@@ -1707,7 +2086,7 @@
    "net_resale": 63.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $50",
+   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $60",
    "priority": false
   },
   {
@@ -1760,8 +2139,8 @@
    "strength": 5,
    "findings": "Three bottles: Wolf Blass Yellow Label 1996 Cabernet Sauvignon Shiraz; Annie's Lane Copper Trail Shiraz 1999 (Clare Valley flagship, gold medal stickers); Freycinet Vineyard 2003 Pinot Noir (Tasmania).",
    "condition": "Labels clean, capsules intact, fills appear into neck where visible.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 3:54:40 PM ADST",
    "identification": "Three bottles in a carton: Wolf Blass Yellow Label Cabernet Sauvignon Shiraz 1996, Annie's Lane Copper Trail Shiraz 1999, and Freycinet Vineyard Pinot Noir (vintage looks like 2003).",
    "researched": true,
@@ -1880,6 +2259,57 @@
    "priority": false
   },
   {
+   "cdid": 3110969,
+   "lot": 707,
+   "title": "DECANTER OF DIMPLE 'AMERICA'S ...",
+   "strength": 3,
+   "findings": "Haig Dimple ceramic souvenir decanter for the America's Cup, Fremantle Western Australia 1987, with yacht and nation flags; reverse Dimple crest; in original clear 'Souvenir Decanter' display box with 'Superior de luxe Scotch Whisky' band and tag. Sealed, contents presumed. 1987 bottling.",
+   "condition": "Box and decanter appear clean; fill not visible through ceramic; capsule intact.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 3:55:20 PM ADST",
+   "identification": "Haig Dimple 'Superior De Luxe' white ceramic souvenir decanter, 'Fremantle Western Australia 1987' America's Cup, in clear plastic case with swing tag",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay AU sold/completed: \"Dimple America's Cup 1987 decanter\"; also \"Haig Dimple Fremantle 1987\"",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 90.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28712 lot 673",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067134&chid=28712&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database (comps.py). Dimple ceramic decanter of whisky 750ml, model not stated, hammer excl. premium. Comparable category."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28712 lot 679",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067140&chid=28712&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database. Dimple ceramic decanter of whisky 750ml, model not stated, hammer excl. premium."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-10-25",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-730332/haig-dimple-1980s-bottling-750ml",
+     "same_item": "close",
+     "note": "From earlier Chrome research (state/chrome_sold.json); standard glass Dimple bottle, not the ceramic decanter. Hammer excl. premium. Passed in at A$45 three times before."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 80.0,
+   "net_resale": 68.0,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $0",
+   "priority": false
+  },
+  {
    "cdid": 3110970,
    "lot": 708,
    "title": "2 LARGE GLAZED MOORCROFT VASES...",
@@ -1936,18 +2366,26 @@
    "lot": 709,
    "title": "750ML BOTTLE OF LONG JOHN WHIS...",
    "strength": 2,
-   "findings": "Long John Finest Scotch Whisky, Long John International (MacDonald), 750ml 37.5% alc/vol, Product of Scotland. Metric 750ml / 37.5% label suggests 1980s-90s blend, not an old-proof bottling.",
-   "condition": "Seal intact, fill level high in the neck, label clean.",
+   "findings": "Long John (MacDonald) Finest Scotch Whisky, 750ml, 37.5% alc/vol. Metric 750ml with % ABV suggests 1980s-1990s bottling for export.",
+   "condition": "Good high fill to neck; labels clean; screw cap intact.",
    "current_bid": 55.0,
    "bid_count": 9,
    "close": "11/11/2026 3:56:00 PM ADST",
    "identification": "Long John Finest Scotch Whisky (MacDonald), 750ml, about 37.5% (label hard to read), late 1980s/1990s Australian market",
    "researched": true,
    "needs_chrome": false,
-   "chrome_hint": "eBay sold: Long John Finest Scotch Whisky 750ml",
+   "chrome_hint": "eBay.com.au sold listings: Long John Finest Scotch Whisky 750ml MacDonald",
    "chrome_done": true,
    "sold": [],
    "sold_old": [
+    {
+     "aud_price": 40.0,
+     "date": "2021-11-07",
+     "venue": "Scotch Whisky Auctions (125th Auction), lot 125-01623",
+     "url": "https://www.scotchwhiskyauctions.com/auctions/167-auction/503493-long-john-blend-75cl/",
+     "same_item": "close",
+     "note": "Page opened. 75cl Long John blend, UK market. Local DB lists same URL as A$39 hammer (2021-11-07). Rate used GBP 1 = AUD 2.00 (assumed). UK buyer premium and shipping make this a UK-room price; old."
+    },
     {
      "aud_price": 39.0,
      "date": "2021-11-07",
@@ -1958,24 +2396,7 @@
     }
    ],
    "unsold": [],
-   "asking": [
-    {
-     "aud_price": 60.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "eBay",
-     "url": "https://www.ebay.com/itm/292374019574",
-     "same_item": "close",
-     "note": "75cl 40% vintage 80/90s bottle. Snippet only. Asking, not paid. Rate 1.75."
-    },
-    {
-     "aud_price": 180.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Glenbotal (UK retail)",
-     "url": "https://glenbotal.co.uk/bottle/long-john-finest-scotch-whisky-1980s/",
-     "same_item": "close",
-     "note": "Specialist retail, 1980s bottling. Snippet only. Aspirational retail, well above auction results. Rate 2.2."
-    }
-   ],
+   "asking": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -1990,8 +2411,8 @@
    "strength": 6,
    "findings": "Royal Doulton Lambeth stoneware ovoid vase with tube-lined/slip chrysanthemum flowers and foliage on mottled green-blue ground. Base: impressed Royal Doulton lion-and-crown roundel mark (Lambeth, about 1902-1922), impressed pattern number 8243, painted assistant/decorator monogram, further incised letters. Supports Doulton maker claim; it is Lambeth art stoneware, not just a glazed vase.",
    "condition": "No obvious chips seen in the photos; minor glaze specks/wear to footrim.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 15.0,
+   "bid_count": 1,
    "close": "11/11/2026 3:56:20 PM ADST",
    "identification": "Royal Doulton Lambeth stoneware ovoid vase, about 29cm, tube-lined chrysanthemums on mottled green-blue ground, impressed lion-and-crown Royal Doulton mark (c.1902-1922), pattern no. 8243, decorator monogram. Appears Lambeth art stoneware, mid-range decorator ware, not obviously a named top artist (Barlow, Butler, Simmance) piece without reading the monogram.",
    "researched": true,
@@ -2015,7 +2436,7 @@
    "net_resale": 51.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $15",
    "priority": false
   },
   {
@@ -2241,24 +2662,24 @@
    "lot": 715,
    "title": "1L BOTTLE WHYTE & MACKAYS 12YO...",
    "strength": 5,
-   "findings": "Whyte & Mackay Twelve Years Old De Luxe Scotch Whisky, One Litre, 75 Proof, Glasgow, Estab. 1844, gold on black label. The proof-strength marking indicates an older bottling, about 1970s to early 1980s, which collectors pay more for than current stock.",
-   "condition": "Seal appears intact, fill level at the base of the neck, label clean with light rubbing.",
+   "findings": "Whyte & Mackay's Twelve Years Old De Luxe Scotch Whisky, One Litre, 75 Proof, Glasgow. Old UK proof labelling dates the bottling to before about 1980, a 1970s bottling.",
+   "condition": "Fill to upper shoulder/base of neck, good for age; label has scuffs and some loss on edges; cap intact.",
    "current_bid": 65.0,
    "bid_count": 8,
    "close": "11/11/2026 3:58:00 PM ADST",
    "identification": "Whyte & Mackay's 12 Year Old De Luxe blend, One Litre 75\u00b0 proof, black/gold label, 1970s, no box",
    "researched": true,
    "needs_chrome": false,
-   "chrome_hint": "eBay AU sold listings: Whyte Mackay 12 year old 75 proof 1 litre (also try 'Whyte & Mackay De Luxe 12 1L 1970s')",
+   "chrome_hint": "eBay sold listings: Whyte & Mackay 12 year old De Luxe 75 proof 1 litre; also australianwhiskyauctions.com.au past results for Whyte & Mackay 12",
    "chrome_done": true,
    "sold": [
     {
      "aud_price": 70.0,
      "date": "2026-09-27",
-     "venue": "Australian Whisky Auctions",
+     "venue": "Australian Whisky Auctions lot 715 (local comps database)",
      "url": "https://www.australianwhiskyauctions.com.au/lot-720005/whyte-mackay-12-year-old-1000ml",
      "same_item": "close",
-     "note": "Same name and 1000ml but a later 43% bottling, not 75 proof. Hammer, excl. AWA buyer's premium. Same lot relisted many months before selling"
+     "note": "From local database, page not opened by me. Database describes it as same name and 1000ml but a later 43% bottling, so slightly newer than this lot. Hammer, premium not included. Best same-item price seen."
     },
     {
      "aud_price": 97.5,
@@ -2534,10 +2955,111 @@
    "priority": false
   },
   {
+   "cdid": 3110982,
+   "lot": 720,
+   "title": "BELLS WHISKY COMMEMORATIVE BEL...",
+   "strength": 2,
+   "findings": "Bell's Scotch Whisky ceramic bell decanter in original box: 'From the House of Bell's specially selected Scotch Whisky to commemorate the 60th birthday of Her Majesty Queen Elizabeth II 21st April 1986'. Arthur Bell & Sons plc. Bottled 1986, so pre-1990 whisky. Size and strength not visible.",
+   "condition": "Box has some wear and light marks; decanter looks clean with gilt bands intact; seal and fill level cannot be seen through the box.",
+   "current_bid": 20.0,
+   "bid_count": 1,
+   "close": "11/11/2026 3:59:40 PM ADST",
+   "identification": "Bell's Wade ceramic bell decanter for Queen Elizabeth II's 60th birthday, 21 April 1986, boxed (750ml 43% per AWA listings of the same)",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay Australia sold listings: Bell's decanter Queen Elizabeth 60th birthday 1986 Wade (check Sold Items filter)",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 95.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions sale 28839 lot 682",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088127&chid=28839&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Bells 750ml whisky decanter and contents, model not stated (may not be the Queen 60th). Local database, hammer, premium extra. Same room, recent."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2025-06-18",
+     "venue": "Armitage Auctions sale 24216 lot 572",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2535199&chid=24216&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Commemorative Bells decanter (unopened) plus a crystal decanter, so Bells part worth less than $45. Local database."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2025-03-18",
+     "venue": "whisky.auction (UK online), lot 200053",
+     "url": "https://whisky.auction/auctions/lot/200053/bell-s-ceramic-decanter",
+     "same_item": "yes",
+     "note": "Same decanter, 75cl 43%. Page opened. Rate GBP1 = A$2.00 assumed. Same status caveat; before premium and VAT. UK price, not delivered to Tasmania."
+    },
+    {
+     "aud_price": 92.0,
+     "date": "2026-05-31",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-682621/bells-ceramic-60th-birthday-of-queen-elizabeth",
+     "same_item": "yes",
+     "note": "Same decanter, 750ml 43%. Hammer, excl. AWA buyer's premium"
+    },
+    {
+     "aud_price": 66.0,
+     "date": "2025-03-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-450783/bells-ceramic-60th-birthday-of-queen-elizabeth",
+     "same_item": "yes",
+     "note": "No reserve"
+    },
+    {
+     "aud_price": 82.0,
+     "date": "2025-01-26",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-430640/bells-ceramic-60th-birthday-of-queen-elizabeth",
+     "same_item": "yes",
+     "note": "No reserve"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 48.0,
+     "date": "2024-02-13",
+     "venue": "whisky.auction (UK online), lot 178280",
+     "url": "https://whisky.auction/auctions/lot/178280/bell-s-ceramic-decanter",
+     "same_item": "yes",
+     "note": "Queen Elizabeth II 60th, 75cl 43%, 1986. Page opened. Rate GBP1 = A$2.00 assumed. Page also shows 'Reserve Not met / Sold in Aftersale' template text, so final status slightly unclear; premium and UK VAT not included. Fill level not checked."
+    },
+    {
+     "aud_price": 88.0,
+     "date": "2024-10-27",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-411243/bells-ceramic-60th-birthday-of-queen-elizabeth",
+     "same_item": "yes",
+     "note": "No reserve"
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Just Whisky",
+     "url": "https://www.just-whisky.co.uk/product/bells-decanter-queens-60th-birthday-1346939",
+     "same_item": "yes",
+     "note": "Snippet only, no price seen. Retail asking, not a price paid."
+    }
+   ],
+   "resale": 74.0,
+   "net_resale": 62.9,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $74 does not clear the current bid $20",
+   "priority": false
+  },
+  {
    "cdid": 3110984,
    "lot": 722,
    "title": "750ML BOTTLE OF FAMOUS GROUSE ...",
-   "strength": 2,
+   "strength": 3,
    "findings": "The Famous Grouse Finest Scotch Whisky, Matthew Gloag & Son Ltd Perth, 750ml 37.2% alc/vol, imported by Elders IXL Wine & Spirits Pty Ltd, South Yarra Victoria. Elders IXL import dates it to the mid to late 1980s. Older squat bottle shape.",
    "condition": "Seal intact, fill high in neck, label with minor edge wear and slight discolouration.",
    "current_bid": 40.0,
@@ -2546,7 +3068,7 @@
    "identification": "The Famous Grouse Finest, 750ml 37.2%, 1980s, 'Imported by Elders IXL Wine & Spirits Pty Ltd, South Yarra'",
    "researched": true,
    "needs_chrome": false,
-   "chrome_hint": "eBay Australia sold listings: famous grouse elders ixl 750ml",
+   "chrome_hint": "Australian Whisky Auctions past results and eBay sold: 'Famous Grouse 750ml 37.2% Elders IXL'",
    "chrome_done": true,
    "sold": [
     {
@@ -2555,7 +3077,15 @@
      "venue": "Australian Whisky Auctions",
      "url": "https://www.australianwhiskyauctions.com.au/lot-721999/famous-grouse-1980s-bottling-elders-ixl-wine-spirits-import",
      "same_item": "yes",
-     "note": "Elders IXL import, 750ml 37.2%. Hammer, excl. AWA buyer's premium"
+     "note": "From local comps database (earlier research), hammer, premium not included. Page not opened by me (Cloudflare block). Condition unknown."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-06-28",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-690463/famous-grouse-finest-scotch-whisky-1980s-bottling",
+     "same_item": "yes",
+     "note": "Local comps database, 1980s bottled in Australia 750ml. Page not opened by me."
     },
     {
      "aud_price": 90.0,
@@ -2563,33 +3093,17 @@
      "venue": "Australian Whisky Auctions",
      "url": "https://www.australianwhiskyauctions.com.au/lot-500749/famous-grouse-finest-scotch-whisky-1980s-bottling",
      "same_item": "yes",
-     "note": "Elders IXL Wine & Spirits import per description, 750ml 37.2%"
-    },
-    {
-     "aud_price": 80.0,
-     "date": "2026-06-28",
-     "venue": "Australian Whisky Auctions",
-     "url": "https://www.australianwhiskyauctions.com.au/lot-690463/famous-grouse-finest-scotch-whisky-1980s-bottling",
-     "same_item": "close",
-     "note": "1980s bottled in Australia, 750ml, importer not stated"
+     "note": "Local comps database, Elders IXL import. Page not opened by me."
     }
    ],
    "sold_old": [
-    {
-     "aud_price": 50.0,
-     "date": "2018-10-09",
-     "venue": "Whisky.Auction (UK)",
-     "url": "https://whisky.auction/auctions/lot/42432/famous-grouse",
-     "same_item": "close",
-     "note": "Page opened. 1980s 75cl 40% Famous Grouse, same maker; UK export strength, not the 37.2% Australian bottling. Old (2018). Rate 1 GBP = 2.0 AUD assumed."
-    },
     {
      "aud_price": 82.0,
      "date": "2024-05-26",
      "venue": "Australian Whisky Auctions",
      "url": "https://www.australianwhiskyauctions.com.au/lot-350829/famouse-grouse-1980s-bottling-elders-ixl-wine-spirits-import",
      "same_item": "yes",
-     "note": "Elders IXL import, 750ml 37.2%"
+     "note": "Local comps database, Elders IXL 750ml 37.2%. Page not opened by me."
     }
    ],
    "unsold": [
@@ -2617,8 +3131,8 @@
    "strength": 6,
    "findings": "John Campbell Tasmanian pottery vase with streaky green, amber and brown drip glaze. Base incised 'John Campbell Tasmania' script signature and '2.S.' Genuine Launceston pottery mark consistent with the Campbell pottery (1930s-50s).",
    "condition": "No damage seen; some glaze grit/kiln flecks on base.",
-   "current_bid": 25.0,
-   "bid_count": 1,
+   "current_bid": 30.0,
+   "bid_count": 2,
    "close": "11/11/2026 4:00:40 PM ADST",
    "identification": "John Campbell (Launceston) drip-glaze squat vase, green/amber streaks, applied shoulder band; signature not visible in photo",
    "researched": true,
@@ -2747,7 +3261,7 @@
    "net_resale": 55.530499999999996,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -2877,14 +3391,58 @@
    "priority": false
   },
   {
+   "cdid": 3110988,
+   "lot": 726,
+   "title": "750ML BOTTLE OF HIGHLAND BREEZ...",
+   "strength": 2,
+   "findings": "Highland Breeze 8 year old Finest Quality Scotch Whisky, 750ml, 37% alc/vol, Product of Scotland, imported by Chateau (?) of 5 Waldheim Rd Bayswater, barcode present. Minor import label; 37% and 750ml suggest late 1980s to 1990s bottling.",
+   "condition": "Label clean; fill good into the neck; cap intact.",
+   "current_bid": 35.0,
+   "bid_count": 4,
+   "close": "11/11/2026 4:01:40 PM ADST",
+   "identification": "Highland Breeze 8 Year Old 'Finest Quality Scotch Whisky' blend, 750ml, about 37%, Australian import (importer address in Bayswater)",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 50.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions, Launceston sale 28839 lot 714",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088158&chid=28839&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "From local comps database (not opened). 750ml bottle Highland Breeze whisky, same brand, 15 days ago; hammer, premium extra. Age and condition not stated, so may be a different bottling."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 16.5,
+     "date": "live, seen 2026-11-06",
+     "venue": "Total Wine (US retail)",
+     "url": "https://www.totalwine.com/spirits/scotch/blended-scotch/highland-breeze-finest-old-scotch-whisky/p/109456750",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified. Current 40% no-age Highland Breeze, 750ml, not the 8yo 37% bottling. Rate 1 USD = 1.50 AUD (assumed). Shows brand is a cheap blend."
+    }
+   ],
+   "resale": 50.0,
+   "net_resale": 42.5,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $35",
+   "priority": false
+  },
+  {
    "cdid": 3110989,
    "lot": 727,
    "title": "LARGE SIGNED McHUGH WAISTED VA...",
    "strength": 5,
    "findings": "Waisted cylinder vase in amber/cream streaky drip glaze, incised base 'H McHugh Tasmania 3' (Harold McHugh, Tasmanian art pottery, 1930s-40s). Signature consistent with genuine McHugh incised marks. Good size at 22cm and a local Tasmanian collector market.",
    "condition": "Small hairline as stated (not clearly visible); small chips/flakes to the foot rim edge visible in base photo; crazing to base glaze.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 25.0,
+   "bid_count": 1,
    "close": "11/11/2026 4:02:00 PM ADST",
    "identification": "Large McHugh Tasmania waisted vase H-22cm, amber/cream drip glaze, signed, small hairline stated.",
    "researched": true,
@@ -3021,7 +3579,109 @@
    "net_resale": 114.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $135 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $135 does not clear the current bid $25",
+   "priority": false
+  },
+  {
+   "cdid": 3110990,
+   "lot": 728,
+   "title": "750ML BOTTLE OF STRADIVARI LIQ...",
+   "strength": 2,
+   "findings": "Stradivari Liqueur, Product of Italy, Marsala-based liqueur (brandy, aromatics, caramel listed), 28% alc/vol (partly legible), 750ML, black label with gilt crest and swing tag medallion. 750ML and label style suggest 1970s to 1980s.",
+   "condition": "Label good; neck foil intact; fill looks full.",
+   "current_bid": 30.0,
+   "bid_count": 2,
+   "close": "11/11/2026 4:02:20 PM ADST",
+   "identification": "Stradivari Liqueur, Product of Italy, 750ml, faceted bottle with black/gold label and neck tag",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay Australia sold items: Stradivari liqueur 750ml Italy; also ALLBIDS lot 1669022 result (signed-in).",
+   "chrome_done": true,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
+   "priority": false
+  },
+  {
+   "cdid": 3110992,
+   "lot": 730,
+   "title": "BELLS COMMEMORATIVE WHISKY BEL...",
+   "strength": 2,
+   "findings": "Bell's Scotch Whisky ceramic bell decanter in original box commemorating the Marriage of HRH Prince Andrew with Miss Sarah Ferguson, 23rd July 1986. Arthur Bell & Sons plc. Bottled 1986.",
+   "condition": "Box worn with an open flap and some marks; decanter gilt bands intact; seal and fill not visible.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 4:03:00 PM ADST",
+   "identification": "Bell's Wade ceramic bell decanter for the marriage of Prince Andrew and Sarah Ferguson, 23 July 1986, boxed",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 52.0,
+     "date": "2026-05-31",
+     "venue": "Australian Whisky Auctions lot 730",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-682384/bells-ceramic-marriage-of-andrew-sarah",
+     "same_item": "yes",
+     "note": "From local results database (earlier research); page not opened by me. Boxed, same decanter."
+    },
+    {
+     "aud_price": 62.0,
+     "date": "2025-03-30",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-450784/bells-ceramic-marriage-of-andrew-sarah",
+     "same_item": "yes",
+     "note": "Local database; boxed 750ml 43%, no reserve. Page not opened."
+    },
+    {
+     "aud_price": 72.0,
+     "date": "2025-01-26",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-430639/bells-ceramic-marriage-of-andrew-sarah",
+     "same_item": "yes",
+     "note": "Local database; boxed, no reserve. Page not opened."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28712 lot 683",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067144&chid=28712&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database. 1986 750ml Bell's commemorating a Royal Wedding (likely this same Andrew/Sarah issue). Same buyer pool."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28712 lot 675",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067136&chid=28712&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database. 1981 Charles and Diana Bell's decanter, sister issue."
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 98.0,
+     "date": "2024-10-27",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-411240/bells-ceramic-marriage-of-andrew-sarah",
+     "same_item": "yes",
+     "note": "Local database; boxed, no reserve. Older and highest; trend since is downward. Page not opened."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "resale": 52.0,
+   "net_resale": 44.199999999999996,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $52 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -3031,8 +3691,8 @@
    "strength": 5,
    "findings": "Flower bowl and matching domed frog in brown/amber/cream mottled drip glaze, incised base 'H McHugh Tasmania 1935 55'. Harold McHugh Tasmanian art pottery, dated 1935, complete with its frog.",
    "condition": "Small glaze nicks to foot rim and a few glaze spots on base; bowl and frog appear otherwise sound.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 40.0,
+   "bid_count": 1,
    "close": "11/11/2026 4:04:40 PM ADST",
    "identification": "Harold McHugh (Tasmanian art pottery) flower bowl with domed frog, brown/amber drip glaze, signed H McHugh Tasmania 1935 55 in incised hand on base. Photos confirm signature, date and frog present.",
    "researched": true,
@@ -3081,7 +3741,7 @@
    "net_resale": 38.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -3099,15 +3759,24 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 195.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28712 lot 723",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067184&chid=28712&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "Framed Pro Hart etching 'The Trapper' 12x12cm, from local comps database (not opened). Signature and COA status unknown. Closest same-title comp."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 195.0,
+   "net_resale": 165.75,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $195 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -3117,8 +3786,8 @@
    "strength": 4,
    "findings": "Brown and cream drip glazed ovoid vase. Base incised in script 'M McHugh / Tasmania / 10', consistent with McHugh Pottery, Launceston (Maude McHugh signature). Genuine Tasmanian art pottery with collector interest.",
    "condition": "Hairline crack clearly visible running across the base to the foot rim, as catalogued; glaze crazing to base; small glaze nicks at foot rim.",
-   "current_bid": 10.0,
-   "bid_count": 1,
+   "current_bid": 15.0,
+   "bid_count": 2,
    "close": "11/11/2026 4:07:00 PM ADST",
    "identification": "McHugh Pottery (Launceston) brown/cream drip glaze ovoid vase, incised M McHugh Tasmania 10, c1930s; base hairline crack.",
    "researched": true,
@@ -3215,7 +3884,100 @@
    "net_resale": 89.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $10",
+   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $15",
+   "priority": false
+  },
+  {
+   "cdid": 3111006,
+   "lot": 744,
+   "title": "750ML BOTTLE OF JOHNNY WALKER ...",
+   "strength": 3,
+   "findings": "Johnnie Walker Swing Superior Old Scotch Whisky, rocking bottle with gilt medallion label 'Johnnie Walker & Sons Ltd', gilt capsule, with the older brown and gold photographic box. Box and medallion style suggest 1970s to 1980s bottling. Size and strength not legible in photo.",
+   "condition": "Box worn with scuffs and losses to the print; bottle and medallion good; fill good to the shoulder/neck.",
+   "current_bid": 60.0,
+   "bid_count": 3,
+   "close": "11/11/2026 4:07:40 PM ADST",
+   "identification": "Johnnie Walker Swing, gold metal-look medallion label, dark brown box with gold ring showing the bottle; looks late 1970s/1980s, size and strength not readable in the photo",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold listings: Johnnie Walker Swing 750ml box",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 92.0,
+     "date": "2026-10-25",
+     "venue": "Australian Whisky Auctions (from local comps database)",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-732241/johnnie-walker-swing",
+     "same_item": "close",
+     "note": "Database hammer, premium not included. Page not opened (site 403). Database text oddly repeats this lot's description, so box/fill/size unverified; undated bottling."
+    },
+    {
+     "aud_price": 76.0,
+     "date": "2026-09-27",
+     "venue": "Australian Whisky Auctions (from local comps database)",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-720281/johnnie-walker-swing",
+     "same_item": "close",
+     "note": "Database hammer, premium not included. Page not opened (site 403). Database text oddly repeats this lot's description, so box/fill/size unverified; undated bottling."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2026-07-26",
+     "venue": "Australian Whisky Auctions (from local comps database)",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-700723/johnnie-walker-swing-circa-1960s",
+     "same_item": "close",
+     "note": "Database hammer, premium not included. Page not opened (site 403). Database text oddly repeats this lot's description, so box/fill/size unverified; titled circa 1960s, so older, likely not comparable."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2026-06-28",
+     "venue": "Australian Whisky Auctions (from local comps database)",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-691291/johnnie-walker-swing-1990s-bottling",
+     "same_item": "close",
+     "note": "Database hammer, premium not included. Page not opened (site 403). Database text oddly repeats this lot's description, so box/fill/size unverified; titled 1990s bottling."
+    },
+    {
+     "aud_price": 135.0,
+     "date": "2026-05-31",
+     "venue": "Australian Whisky Auctions (from local comps database)",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-682361/johnnie-walker-swing-circa-1980s",
+     "same_item": "close",
+     "note": "Database hammer, premium not included. Page not opened (site 403). Database text oddly repeats this lot's description, so box/fill/size unverified; titled circa 1980s, closest era."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions, Launceston sale 28839 lot 730",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088174&chid=28839&category=ALL&style=group",
+     "same_item": "close",
+     "note": "750ml Johnny Walker Swing, local database hammer (premium extra). Box and condition not known; page not opened."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [
+    {
+     "aud_price": 145.0,
+     "date": "2026-10-25",
+     "venue": "Australian Whisky Auctions",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-730245/johnnie-walker-swing-circa-1980s",
+     "same_item": "close",
+     "note": "Circa 1980s, passed in"
+    }
+   ],
+   "asking": [
+    {
+     "aud_price": 385.0,
+     "date": "live, seen 2026-11-06 (snippet)",
+     "venue": "Wine-Searcher listing '1980s Bottling 750ml'",
+     "url": "https://www.wine-searcher.com/find/johnny+walker+swing+blend+scotch+whisky+scotland",
+     "same_item": "close",
+     "note": "Snippet only, not verified; retail asking, 750ml 1980s. Rate approx 1 USD = A$1.54 (assumed)."
+    }
+   ],
+   "resale": 115.0,
+   "net_resale": 97.75,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $115 does not clear the current bid $60",
    "priority": false
   },
   {
@@ -3225,8 +3987,8 @@
    "strength": 4,
    "findings": "Kamikoto santoku style chef's knife with Damascus-pattern blade, black handle, in branded ash box with Certificate of Authenticity, product card and black sleeve. Kamikoto is a marketing brand with inflated retail prices.",
    "condition": "Appears unused, complete with paperwork.",
-   "current_bid": 35.0,
-   "bid_count": 4,
+   "current_bid": 45.0,
+   "bid_count": 6,
    "close": "11/11/2026 4:08:00 PM ADST",
    "identification": "Kamikoto santoku chef's knife in gift box (photo not viewed)",
    "researched": true,
@@ -3259,7 +4021,7 @@
    "net_resale": 110.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $35",
+   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $45",
    "priority": false
   },
   {
@@ -3269,8 +4031,8 @@
    "strength": 3,
    "findings": "Hinged box with figured blackwood (tiger-stripe) lid panel hand painted with a Tasmanian tiger (thylacine), framed by mitred border, on ebonised bracket feet. Modern Tasmanian craft work; no maker's mark seen in photos.",
    "condition": "Lid panel has a split/gap along the upper edge visible inside and out; light wear.",
-   "current_bid": 60.0,
-   "bid_count": 1,
+   "current_bid": 80.0,
+   "bid_count": 3,
    "close": "11/11/2026 4:08:40 PM ADST",
    "identification": null,
    "researched": false,
@@ -3295,8 +4057,8 @@
    "strength": 6,
    "findings": "Green and amber drip glazed vase, base incised 'John Campbell 1932'. John Campbell, Launceston (Tasmania) art potter; dated 1932 example from his independent period is collectable. Signature looks consistent with his incised script.",
    "condition": "No visible chips or cracks in the photos; base clean.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 40.0,
+   "bid_count": 1,
    "close": "11/11/2026 4:09:00 PM ADST",
    "identification": "John Campbell (Launceston) green and amber drip-glaze squat shouldered vase, with painted/numbered 8 on body, glaze intact in photo",
    "researched": true,
@@ -3418,7 +4180,7 @@
    "net_resale": 68.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -3530,14 +4292,99 @@
    "priority": false
   },
   {
+   "cdid": 3111012,
+   "lot": 750,
+   "title": "750ML BOTTLE OF WHITE HORSE 'A...",
+   "strength": 3,
+   "findings": "White Horse America's Cup Scotch Whisky, Limited Edition Special Blend, 750ml, 40% alc/vol, Bottled in Scotland, with neck collar promotion for a holiday in Perth to see the America's Cup. Made for the 1986-87 America's Cup defence in Fremantle.",
+   "condition": "Label clean; fill good into the neck; neck collar detached but present.",
+   "current_bid": 25.0,
+   "bid_count": 2,
+   "close": "11/11/2026 4:09:40 PM ADST",
+   "identification": "White Horse America's Cup 1987 Limited Edition blend, 750ml 40%, with the America's Cup neck collar/leaflet",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay Australia sold items: White Horse America's Cup 1987 whisky 750ml",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 65.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28712 lot 686",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067147&chid=28712&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "750ml White Horse America's Cup; local database record, page not opened; condition not known. Hammer, premium extra."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2026-05-31",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 413272",
+     "same_item": "yes",
+     "note": "1987 America's Cup White Horse bottle; local database record, 5 bids at the Gowans sale; premium extra."
+    },
+    {
+     "aud_price": 125.0,
+     "date": "2026-04-26",
+     "venue": "Australian Whisky Auctions (via local comps database, not opened)",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-581462/white-horse-1987-americas-cup",
+     "same_item": "yes",
+     "note": "750ml 40%, with neck collar/leaflet, same as this lot; local database, page not opened."
+    },
+    {
+     "aud_price": 105.0,
+     "date": "2025-01-26",
+     "venue": "Australian Whisky Auctions (via local comps database, not opened)",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-430629/white-horse-americas-cup-1987-limited-edition-blend",
+     "same_item": "yes",
+     "note": "750ml 40%, with collar/leaflet, no reserve; local database, page not opened."
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2024-11-24",
+     "venue": "Australian Whisky Auctions (via local comps database, not opened)",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-420559/white-horse-americas-cup-1987-limited-edition-blend",
+     "same_item": "yes",
+     "note": "750ml 40%; local database, page not opened."
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 160.0,
+     "date": "2024-10-27",
+     "venue": "Australian Whisky Auctions (via local comps database, not opened)",
+     "url": "https://www.australianwhiskyauctions.com.au/lot-411235/white-horse-1987-americas-cup",
+     "same_item": "yes",
+     "note": "750ml 40%, no reserve, with collar/leaflet; local database, page not opened. Top of range."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 200.0,
+     "date": "seen 2026-11-06",
+     "venue": "My Bottle Shop (retail)",
+     "url": "https://www.mybottleshop.au/catalog/product/view/id/28684/s/white-horse-america-s-cup-scotch-whisky-1987-perth-edition-750ml/",
+     "same_item": "yes",
+     "note": "1987 Perth Edition 750ml; snippet only; retail asking price, shown sold out, not a price paid."
+    }
+   ],
+   "resale": 100.0,
+   "net_resale": 85.0,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $100 does not clear the current bid $25",
+   "priority": false
+  },
+  {
    "cdid": 3111014,
    "lot": 752,
    "title": "CASED SET 3 KAMIKATO CHEF'S KN...",
    "strength": 5,
    "findings": "Kamikoto three-knife set (slicer/yanagi style, nakiri, utility) in branded ash box with Certificate of Authenticity and card; title spells it 'Kamikato'. Blades etched kamikoto. Full set boxed has better resale than singles but brand retail prices are inflated.",
    "condition": "Appears unused, box and certificate present, no visible damage.",
-   "current_bid": 80.0,
-   "bid_count": 6,
+   "current_bid": 140.0,
+   "bid_count": 12,
    "close": "11/11/2026 4:10:20 PM ADST",
    "identification": "Kamikoto (Kanpeki-style) 3 knife set (slicer, nakiri, utility) in ash wood box with certificate",
    "researched": true,
@@ -3603,7 +4450,7 @@
    "net_resale": 136.38674999999998,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $80",
+   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $140",
    "priority": false
   },
   {
@@ -3683,8 +4530,8 @@
    "strength": 3,
    "findings": "Large green glass footed centre bowl with ruffled rim and moulded radiating ribs, likely Czech/Bohemian mid-century pressed glass. Uranium content claimed but not confirmable without UV light; colour is consistent. No maker's mark seen.",
    "condition": "No visible chips or cracks in photos; light surface wear.",
-   "current_bid": 30.0,
-   "bid_count": 4,
+   "current_bid": 35.0,
+   "bid_count": 5,
    "close": "11/11/2026 4:12:00 PM ADST",
    "identification": "Large green pressed glass centre bowl on round foot, ruffled/pinched rim with moulded radiating ribs, probably 1930s-50s, uranium content unconfirmed; looks undamaged in photo",
    "researched": true,
@@ -3725,7 +4572,7 @@
    "net_resale": 85.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $100 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $100 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -3873,11 +4720,11 @@
    "cdid": 3111033,
    "lot": 771,
    "title": "2 SIGNED McHUGH POTTERY VASES ...",
-   "strength": 3,
+   "strength": 4,
    "findings": "Two Maude McHugh Tasmanian pottery vases, blue glaze (larger with white drip neck, smaller with blue and amber splash). Bases incised 'M McHugh Tasmania' with star, larger numbered approx 324, smaller numbered. Collectable Tasmanian maker with local following.",
    "condition": "Damaged: chips to foot rim of larger vase and glaze loss on its body, small chip to rim of smaller vase.",
-   "current_bid": 10.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 4,
    "close": "11/11/2026 4:16:40 PM ADST",
    "identification": "Two signed H. McHugh (Launceston) cobalt blue art pottery vases, larger with white streaked rim (~17cm), smaller blue with yellow/orange drip (~11cm); both chipped/glaze loss per catalogue",
    "researched": true,
@@ -3885,6 +4732,30 @@
    "chrome_hint": "",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 310.0,
+     "date": "2026-10-25",
+     "venue": "Gowans Auctions, Hobart (lot 446825)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=McHugh&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "H McHUGH COBALT BLUE DECORATED VASE WITH PIE CRUST EDGE, some damage on rim. Closest comp: cobalt, damaged, 6 bids. AUD, no FX. Hammer, premium extra. Local database/API result, page not opened."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2025-11-29",
+     "venue": "Leski Auctions, Melbourne sale 640 lot 1256",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/640",
+     "same_item": "close",
+     "note": "Two McHugh vases blue and brown with yellow highlights, 12cm and 9.5cm, signed. Pair comp for the small one. AUD, no FX. Hammer, premium extra. Local database/API result, page not opened."
+    },
+    {
+     "aud_price": 85.0,
+     "date": "2026-05-06",
+     "venue": "Armitage Auctions, Launceston sale 27761 lot 743",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2901846&chid=27761&category=ALL&style=group",
+     "same_item": "close",
+     "note": "2 signed pottery vases McHugh and Campbell, 13 and 10cm. Small pair. AUD, no FX. Hammer, premium extra. Local database/API result, page not opened."
+    },
     {
      "aud_price": 19.5,
      "date": "2026-10-10",
@@ -3894,14 +4765,23 @@
      "note": "1935 McHugh model 5 blue/yellow, A/F (as found), 2 bids; closest to damaged condition, single vase"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 360.0,
+     "date": "2024-05-25",
+     "venue": "Leski Auctions, Melbourne sale 613 lot 36",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/613",
+     "same_item": "close",
+     "note": "Two blue and yellow vases 10cm and 13cm, condition not stated. Older and Melbourne. AUD, no FX. Hammer, premium extra. Local database/API result, page not opened."
+    }
+   ],
    "unsold": [],
    "asking": [],
-   "resale": 19.5,
-   "net_resale": 16.575,
+   "resale": 92.5,
+   "net_resale": 78.625,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $20 does not clear the current bid $10",
+   "why": "max hammer $0 from a median SOLD of $92 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -3911,8 +4791,8 @@
    "strength": 4,
    "findings": "Oil of dusk river scene with dead trees and bush silhouettes, in the tonalist manner associated with Ernest Christmas. No signature visible anywhere on the face, including the cropped lower edge; attribution is the cataloguer's only. Back not photographed.",
    "condition": "Surface looks sound in photo, some dark varnish; gilt frame with grey slip, minor wear.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 70.0,
+   "bid_count": 2,
    "close": "11/11/2026 4:24:00 PM ADST",
    "identification": "Small oil on board/canvas of a dusk river with dead gum trees, yellow sky over blue hills, in a gilt frame with grey slip. Unsigned in photo; tonalist style, Christmas attribution unproven.",
    "researched": true,
@@ -4039,8 +4919,8 @@
    "strength": 5,
    "findings": "Kamikoto (branded kamikoto with Japanese characters) two-knife set in ash wood presentation box with certificate of authenticity and branded ash knife stand; looks like a chef's knife and a smaller utility knife, blade etching reads Kamikoto faintly. Kamikoto is a heavily marketed brand with inflated list prices; resale is modest.",
    "condition": "Appears unused or lightly used, boxed with paperwork and card.",
-   "current_bid": 50.0,
-   "bid_count": 5,
+   "current_bid": 60.0,
+   "bid_count": 7,
    "close": "11/11/2026 4:29:40 PM ADST",
    "identification": "Kamikoto cased two-knife set (chef/slicer plus utility) in ash box with certificate of authenticity and ash knife rest/stand",
    "researched": true,
@@ -4082,7 +4962,7 @@
    "net_resale": 104.55,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $123 does not clear the current bid $50",
+   "why": "max hammer $0 from a median SOLD of $123 does not clear the current bid $60",
    "priority": false
   },
   {
@@ -4133,25 +5013,101 @@
    "lot": 813,
    "title": "SIGNED KEVIN MURRAY COMMEMORAT...",
    "strength": 3,
-   "findings": "Framed signed photograph of Kevin Murray, Fitzroy, plaque: Born 18/6/1938, Games 333, Goals 51, 1969 Brownlow Medallist, Lions Best & Fairest 9 times. Signed in blue ink. Memorabilia Magic (Boronia) COA numbered 18162, framed picture. Signature is on a reproduction photo; COA from a dealer, not independent.",
-   "condition": "Frame good.",
+   "findings": "Framed signed photograph of Kevin Murray (Fitzroy) with plaque: born 18/6/1938, games 333, goals 51, 1969 Brownlow Medallist, Lions best and fairest 9 times. Signature in blue ink upper left. Memorabilia Magic (Boronia) certificate of authenticity no. 18162.",
+   "condition": "Good, frame and mount clean.",
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 4:30:40 PM ADST",
    "identification": "Framed small sepia photo of Kevin Murray (Fitzroy, 1969 Brownlow) hand-signed in blue ink, blue mount with brass plaque, gilt frame, Memorabilia Magic COA",
    "researched": true,
    "needs_chrome": false,
-   "chrome_hint": "",
+   "chrome_hint": "eBay AU sold listings: Kevin Murray Fitzroy signed framed photo",
    "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 50.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Memorabilia Warehouse",
+     "url": "https://memorabiliawarehouse.com.au/products/legends-of-afl-vfl-kevin-murray-signed-and-framed-photo",
+     "same_item": "close",
+     "note": "Page opened. Signed and framed Murray photo, retail asking, similar low-tier product."
+    },
+    {
+     "aud_price": 149.0,
+     "date": "expired, seen 2026-11-06",
+     "venue": "Magical Memorabilia",
+     "url": "https://magicalmemorabilia.com.au/memorabilia/product/kevin-murray/",
+     "same_item": "close",
+     "note": "Page opened: shows out of stock. Price from search snippet only, not verified on page. Dealer asking, not a sale."
+    },
+    {
+     "aud_price": 599.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/174787399536",
+     "same_item": "category guide",
+     "note": "Snippet only. Murray and Quinlan Fitzroy Team of the Century print, larger and different item."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
+  },
+  {
+   "cdid": 3111079,
+   "lot": 817,
+   "title": "3 LIBERTY SHIRTS SIZE 42",
+   "strength": 5,
+   "findings": "Three Liberty London men's shirts with Liberty neck labels and purple swing tags, apparently new: one William Morris Lodden print, one blue/red koi fish print, one red floral boxed. Size 42 per catalogue (one tag shows 42).",
+   "condition": "New with tags, one boxed.",
+   "current_bid": 40.0,
+   "bid_count": 2,
+   "close": "11/11/2026 4:32:00 PM ADST",
+   "identification": "Three men's Liberty London print shirts (short sleeve, Liberty labels, tags), Lodden William Morris print, koi fish print, red floral, apparently new with tags, size 42.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay.com.au sold and completed: \"Liberty London men's shirt\" (also \"Liberty Tana Lawn men's shirt new with tags\", and \"Liberty Lodden shirt\"), Australia and UK sold items, last 90 days",
+   "chrome_done": true,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 175.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Liberty London (US site), Lodden Fitted Shirt, long sleeve, out of stock",
+     "url": "https://www.libertylondon.com/us/lodden-fitted-shirt-000757129.html",
+     "same_item": "close",
+     "note": "Page opened. Same Lodden print but long sleeve fitted women's/fitted cut, new retail sale price. AUD at 1 USD = 1.52 AUD (assumed rate). Retail ceiling only, not a price paid."
+    },
+    {
+     "aud_price": 123.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Liberty London UK, Phoebe Tana Lawn casual classic slim fit shirt",
+     "url": "https://www.libertylondon.com/uk/phoebe-tana-lawn\u2122-cotton-casual-classic-slim-fit-shirt-R265209006.html",
+     "same_item": "category guide",
+     "note": "Snippet only. Different print, shows Liberty's own marked-down new price for a men's Tana Lawn shirt. AUD at 1 GBP = 2.05 AUD (assumed rate). Not verified."
+    },
+    {
+     "aud_price": 185.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Liberty London UK, Lasenby Wiltshire Bud Tana Lawn casual shirt",
+     "url": "https://www.libertylondon.com/uk/lasenby-wiltshire-bud-tana-lawn%E2%84%A2-cotton-casual-shirt-000796768.html",
+     "same_item": "category guide",
+     "note": "Snippet only. Different print, Liberty sale price. AUD at 2.05. Not verified."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -4215,6 +5171,91 @@
    "priority": false
   },
   {
+   "cdid": 3111081,
+   "lot": 819,
+   "title": "2 NOVELTY LIQUEUR DECANTERS, 1...",
+   "strength": 4,
+   "findings": "Two ceramic horse-form liqueur decanters (black and white) with Gori & Gori (Florence, Italy) paper labels; contents as is. Typical 1960s-70s Italian novelty liqueur bottles.",
+   "condition": "White horse has chipped/flaked ears and loss to glaze; labels torn and stained; one closure missing/blue disc; contents level unknown.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 4:32:40 PM ADST",
+   "identification": "Two ceramic horse-form liqueur decanters (black, white) with Gori & Gori Florence paper labels; white one chipped (photo).",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold listings: Gori Gori horse decanter ceramic Italy",
+   "chrome_done": true,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
+   "priority": false
+  },
+  {
+   "cdid": 3111084,
+   "lot": 822,
+   "title": "2 LIBERTY SHIRTS",
+   "strength": 4,
+   "findings": "Two Liberty London shirts with neck labels and purple tags: one Wiltshire berry print (tag price reads about 1?0.00 GBP), one burgundy Ianthe art nouveau print boxed in purple Liberty box, both apparently new.",
+   "condition": "New with tags, one boxed.",
+   "current_bid": 20.0,
+   "bid_count": 1,
+   "close": "11/11/2026 4:33:40 PM ADST",
+   "identification": "Two new-with-tags men's Liberty London Tana Lawn cotton shirts (Wiltshire berry print and Ianthe art nouveau print, burgundy), one in purple Liberty box; sizes not legible.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold + completed: 'Liberty London mens shirt Tana Lawn Ianthe' and 'Liberty of London mens shirt Wiltshire', AU and UK, new with tags",
+   "chrome_done": true,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Lyst (Liberty button-down cotton shirts)",
+     "url": "https://www.lyst.com/shop/mens-liberty-casual-shirts/",
+     "same_item": "category guide",
+     "note": "snippet only. Not the Wiltshire or Ianthe prints; currency not confirmed so aud_price left 0. Retail guide only."
+    },
+    {
+     "aud_price": 199.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Studio Suits, Liberty London shirts collection",
+     "url": "https://www.studiosuits.com/collections/liberty-london-shirts",
+     "same_item": "category guide",
+     "note": "page opened (curl); retail price for a different Liberty shirt, currency assumed AUD, no rate used. Shows new retail around $199."
+    },
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "eBay",
+     "url": "https://www.ebay.com/shop/liberty-of-london-mens-shirt?_nkw=liberty+of+london+mens+shirt",
+     "same_item": "close",
+     "note": "snippet only, not verified, used and co-branded; low end of secondhand asking."
+    },
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Everards Clothing",
+     "url": "https://everardsclothing.com/product/liberty-of-london-print-shirt-red-floral/",
+     "same_item": "category guide",
+     "note": "snippet only, not verified; different print."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
+  },
+  {
    "cdid": 3111085,
    "lot": 823,
    "title": "ASSORTMENT OF EARLY AUSTRALIAN...",
@@ -4264,8 +5305,8 @@
    "strength": 4,
    "findings": "Yamaha student clarinet (black resin body, nickel keys) in hard case with reeds, plus folding music stand. Model number not legible in photo.",
    "condition": "Looks complete, corks present.",
-   "current_bid": 30.0,
-   "bid_count": 2,
+   "current_bid": 35.0,
+   "bid_count": 3,
    "close": "11/11/2026 4:35:00 PM ADST",
    "identification": "Yamaha student Bb clarinet (model not visible), hard case, reeds, folding music stand",
    "researched": true,
@@ -4346,7 +5387,102 @@
    "net_resale": 63.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $35",
+   "priority": false
+  },
+  {
+   "cdid": 3111105,
+   "lot": 843,
+   "title": "CONTINENTAL CHERUB CENTRE BOWL...",
+   "strength": 5,
+   "findings": "Bohemian porcelain centrepiece in the Royal Dux style: three cherubs supporting a basket-weave bowl applied with yellow and pink roses, ivory and green glazes with gilt highlights. No base shown, so no Royal Dux pink triangle or other mark seen; attribution unconfirmed (copies common).",
+   "condition": "Title says some damage; small dark spot/chip inside bowl, applied flowers and leaves may have losses, not clearly visible. Gilding wear.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 4:40:40 PM ADST",
+   "identification": "Three-cherub porcelain pedestal centrepiece bowl with applied pink and yellow roses, unmarked in photos, Bohemian/German Dresden-style (comparable Von Schierholz type), 41 cm, damage noted",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold items: Royal Dux style three cherub centrepiece roses bowl; also LiveAuctioneers/Invaluable past results for 'Royal Dux cherub centrepiece' and Carters archive 'Dresden style encrusted flower figural centrepiece'.",
+   "chrome_done": true,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [
+    {
+     "aud_price": 0.0,
+     "date": "unknown",
+     "venue": "Fieldings",
+     "url": "https://fieldingsauctioneers.co.uk/lot/229065",
+     "same_item": "close",
+     "note": "Page opened but no price shown. Unmarked 20th century Dresden-type table centre, three cherubs among encrusted flowers, 46 cm. Marked S/D (sold) in snippet; hammer unknown. Listed here only because no price; not a value."
+    }
+   ],
+   "asking": [],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
+  },
+  {
+   "cdid": 3111106,
+   "lot": 844,
+   "title": "1.5L BOTTLE POOLEY COOINDA VAL...",
+   "strength": 5,
+   "findings": "Magnum (1.5L) Pooley Cooinda Vale Single Vineyard Pinot Noir, Coal River Valley Tasmania, vintage on label appears 2017 (partly legible), numbered 55/72 per title, in branded Pooley pine presentation box with straw.",
+   "condition": "Capsule intact, label clean, fill appears good (dark bottle). Box good.",
+   "current_bid": 30.0,
+   "bid_count": 1,
+   "close": "11/11/2026 4:41:00 PM ADST",
+   "identification": "Pooley Cooinda Vale 2017 Single Vineyard Pinot Noir, 1.5L magnum in Pooley wooden presentation box (photo).",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "Langtons past auction results: Pooley Cooinda Vale magnum 1.5L; also eBay sold: Pooley Cooinda Vale magnum 1.5L pinot noir",
+   "chrome_done": true,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [
+    {
+     "aud_price": 72.0,
+     "date": "2024-11-24",
+     "venue": "Langtons",
+     "url": "https://langtons.com.au/p/pooley-cooinda-vale-oronsay-pinot-noir--coal-river-valley--tasmania-2021-bottle/auc-var-25639769.html",
+     "same_item": "category guide",
+     "note": "Snippet only. Single 750ml 2021 Oronsay (different wine), unclear whether sold. Not verified."
+    }
+   ],
+   "asking": [
+    {
+     "aud_price": 179.99,
+     "date": "live, seen 2026-11-06",
+     "venue": "Kent Street Cellars (retail)",
+     "url": "https://kentstreetcellars.com.au/products/pooley-cooinda-vale-pinot-noir-2021-1-5l",
+     "same_item": "close",
+     "note": "Page opened. 2021 Cooinda Vale 1.5L magnum, retail, no box mentioned, not numbered. Different vintage, current retail only."
+    },
+    {
+     "aud_price": 129.99,
+     "date": "live, seen 2026-11-06",
+     "venue": "Kent Street Cellars (retail)",
+     "url": "https://kentstreetcellars.com.au/products/bubb-pooley-pinot-noir-2024-1-5l",
+     "same_item": "category guide",
+     "note": "Page opened. Bubb + Pooley 2024 magnum, a cheaper blend, not the single vineyard wine."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Langtons / Different Drop / Museum Wine Shop (retail)",
+     "url": "https://www.langtons.com.au/p/pooley-cooinda-vale-pinot-noir--tasmania-2024-bottle/67682-2024-1.html",
+     "same_item": "category guide",
+     "note": "Snippet only. Current 2024 Cooinda Vale standard bottle retail, unverified."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -4933,14 +6069,118 @@
    "priority": false
   },
   {
+   "cdid": 3111124,
+   "lot": 862,
+   "title": "LARGE JARDINIERE ON STAND DEPI...",
+   "strength": 5,
+   "findings": "Art Nouveau majolica jardiniere on pedestal stand, cobalt ground with moulded pink flowerheads, brown scrolls and green whiplash motifs, total H 98 cm. Probably English or Continental c1900-1910; no maker's mark visible (base not photographed).",
+   "condition": "Possible hairline crack running across a pink flower near the rim (left side of close-up); glaze wear at rim. Stand looks intact.",
+   "current_bid": 50.0,
+   "bid_count": 1,
+   "close": "11/11/2026 4:47:00 PM ADST",
+   "identification": "Large cobalt Art Nouveau majolica jardiniere on pedestal, pink flowerheads, green scrolls, c1900-10, unmarked, appears in good condition in photo",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold items: art nouveau majolica jardiniere stand cobalt; LiveAuctioneers price results: art nouveau majolica jardiniere with pedestal",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 260.0,
+     "date": "2026-08-23",
+     "venue": "Gowans Auctions, Hobart (17 bids)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/432830",
+     "same_item": "close",
+     "note": "LARGE ART NOUVEAU MAJOLICA GLAZED JARDINIERE, title only (no stand mentioned, size and condition not read). Gowans API record opened, no rate needed. Premium extra."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 260.0,
+   "net_resale": 221.0,
+   "max_hammer": 15,
+   "status": "FAIL",
+   "why": "max hammer $15 from a median SOLD of $260 does not clear the current bid $50",
+   "priority": false
+  },
+  {
+   "cdid": 3111125,
+   "lot": 863,
+   "title": "2 LIBERTY SHIRTS SIZE 16.5",
+   "strength": 5,
+   "findings": "Two Liberty London men's shirts, new with Liberty purple swing tags and returns tag, in Liberty box; one in Hera peacock feather print (blue), one in a William Morris style floral and bird print (purple). Collar labels Liberty London, size 16.5.",
+   "condition": "New with tags.",
+   "current_bid": 20.0,
+   "bid_count": 1,
+   "close": "11/11/2026 4:47:20 PM ADST",
+   "identification": "Two new-with-tags Liberty London men's Tana Lawn shirts, size 16.5 (Hera peacock blue and a Morris-style bird/floral purple), in Liberty box.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay AU sold listings: \"Liberty London men's shirt Tana Lawn 16.5\" and \"Liberty London Hera shirt mens\", sold filter; also Depop/Vestiaire",
+   "chrome_done": true,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 372.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Liberty London (US site), retail",
+     "url": "https://www.libertylondon.com/us/classic-fit-tana-lawn%E2%84%A2-cotton-shirt-in-poppy-forest-000859474.html",
+     "same_item": "category guide",
+     "note": "Page opened. Current men's Classic Fit Tana Lawn shirt, different print, full retail. AUD at assumed 1 USD = 1.52 AUD. Retail ceiling only, not a resale price."
+    },
+    {
+     "aud_price": 229.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Liberty London (US site), retail sale",
+     "url": "https://www.libertylondon.com/us/queen-hera-tana-lawn%E2%84%A2-cotton-fitted-shirt%C2%A0-000854253.html",
+     "same_item": "category guide",
+     "note": "Snippet only. Queen Hera print (peacock family), women's fitted shirt, not men's. AUD at 1.52. Shows Hera shirts discount at Liberty."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
+  },
+  {
+   "cdid": 3111128,
+   "lot": 866,
+   "title": "2 LIBERTY SHIRTS SIZE 16.5",
+   "strength": 5,
+   "findings": "Two Liberty London men's shirts, new with tags, one in a red paisley Liberty print, one in a blue and pink small floral print, in Liberty boxes. Size 16.5 per title.",
+   "condition": "New with tags.",
+   "current_bid": 30.0,
+   "bid_count": 1,
+   "close": "11/11/2026 4:48:20 PM ADST",
+   "identification": null,
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
+   "priority": false
+  },
+  {
    "cdid": 3111129,
    "lot": 867,
    "title": "MAHOGANY & BRASS INLAID DROP D...",
    "strength": 6,
    "findings": "Mahogany drop dial wall clock with brass line and roundel inlay, carved ear pieces, glazed pendulum window, painted dial signed Kelling London, single winding hole (likely single fusee timepiece). Dial signature may be later repaint.",
    "condition": "No pendulum (as stated), movement not shown, dial clean (possibly restored), case with general wear.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 60.0,
+   "bid_count": 1,
    "close": "11/11/2026 4:48:40 PM ADST",
    "identification": "English mahogany brass-inlaid drop dial wall clock, ~12in dial signed Kelling London, no pendulum",
    "researched": true,
@@ -4989,7 +6229,7 @@
    "net_resale": 192.72050000000002,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $227 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $227 does not clear the current bid $60",
    "priority": false
   },
   {
@@ -4999,8 +6239,8 @@
    "strength": 3,
    "findings": "Taxidermy rock ptarmigan in white winter plumage with red eye combs (male), mounted on a natural branch base. Good quality mount. Overseas game bird, not a protected Australian species.",
    "condition": "Plumage clean, some feathers slightly ruffled at the tail and breast; no obvious losses.",
-   "current_bid": 80.0,
-   "bid_count": 4,
+   "current_bid": 90.0,
+   "bid_count": 5,
    "close": "11/11/2026 4:49:00 PM ADST",
    "identification": "Taxidermy rock ptarmigan in white winter plumage on a driftwood branch base, unsigned (photo).",
    "researched": true,
@@ -5077,8 +6317,8 @@
    "strength": 5,
    "findings": "Glazed mahogany cased analytical/chemical balance with brass beam and rider, plaque: Made by August Sauter, Ebingen, Germany for Elliotts & Australian Drug Ltd, Sydney. Two boxed weight sets: one Oertling London England fitted mahogany box with brass weights, fractional weights and tweezers; a second mahogany box of mixed brass/plated and fractional weights.",
    "condition": "Case and glass appear intact, sliding front, pans present; weights sets largely complete with some spaces empty.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 150.0,
+   "bid_count": 6,
    "close": "11/11/2026 4:49:40 PM ADST",
    "identification": "Mahogany glazed chemical balance (Sauter-type) with Oertling boxed brass weights and a second weights box, as per cloud ID; photo consistent (beam, pans, two weight boxes)",
    "researched": true,
@@ -5111,7 +6351,7 @@
    "net_resale": 32.3,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $38 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $38 does not clear the current bid $150",
    "priority": false
   },
   {
@@ -5263,8 +6503,8 @@
    "strength": 6,
    "findings": "Yellow gold multi band (sectional, Beirut style) textured ring set with rubies or red stones, sapphires, emeralds, turquoise and a pearl. Acid tested 18ct per catalogue; no stamp visible. Multiple bands give more weight than a single band.",
    "condition": "All stones appear present.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 100.0,
+   "bid_count": 1,
    "close": "11/11/2026 4:54:00 PM ADST",
    "identification": "Yellow gold sectional (harem style) ring of three textured bands set with small coloured stones (pink, blue, green, turquoise, one clear/pearl) in a blue ring box with tag; small light ring",
    "researched": true,
@@ -5289,8 +6529,8 @@
    "strength": 5,
    "findings": "R. Andrew Mather, Family Draper and Hobart Town tradesman's penny token, undated, reverse Tasmania with standing figure (Britannia type) and ship. Old collector's ticket reads: Australia Tasmania R. Andrew Mather Hobart Town merchant token penny undated, reference A.357, grading Very Fine or better, tradesmen's tokens VF or better are difficult to find. Genuine Tasmanian colonial token, collectable.",
    "condition": "Brown patina, some toning spots and light wear on high points; looks around VF, in flip with old ticket.",
-   "current_bid": 40.0,
-   "bid_count": 1,
+   "current_bid": 50.0,
+   "bid_count": 2,
    "close": "11/11/2026 4:55:40 PM ADST",
    "identification": "R. Andrew Mather, Family Draper, Hobart Town copper penny token (Andrews/Renniks R351 style), in flip; grade looks about VF with chocolate patina",
    "researched": true,
@@ -5347,7 +6587,7 @@
    "net_resale": 18.6065,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $22 does not clear the current bid $40",
+   "why": "max hammer $0 from a median SOLD of $22 does not clear the current bid $50",
    "priority": false
   },
   {
@@ -5682,8 +6922,8 @@
    "strength": 4,
    "findings": "Embossed vesta case, hammered ground with repousse scroll and flower panels, vacant cartouche, suspension ring, striker on base. Hallmark row on lid edge seen but too small and blurred to read; Victorian date and sterling not confirmable from photos.",
    "condition": "Light wear and tarnish, hinge and lid appear intact; no obvious dents.",
-   "current_bid": 25.0,
-   "bid_count": 1,
+   "current_bid": 35.0,
+   "bid_count": 3,
    "close": "11/11/2026 5:00:20 PM ADST",
    "identification": "Sterling silver vesta case, hammered ground with repousse floral scroll shield and vacant cartouche, pendant ring, hallmarks not legible in photo (probably Birmingham c1890-1910)",
    "researched": true,
@@ -5772,7 +7012,7 @@
    "net_resale": 63.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -5782,8 +7022,8 @@
    "strength": 4,
    "findings": "Four Australian pre-decimal silver coins: 1915 florin, 1921 shilling, 1918 sixpence, 1918(?) threepence. The 1915 florin is a scarcer date; there appears to be a small mark below the date that could be the H (Heaton) mint mark (1915H is the scarcer variety) but the photo is not sharp enough to confirm. Florin about Fine to VF.",
    "condition": "Florin moderate wear about F-VF; shilling F-VF; sixpence heavily worn (Good); threepence about VF.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 40.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:00:40 PM ADST",
    "identification": "Four Australian pre-decimal silver coins: 1915 florin (George V, mint mark unconfirmed), 1921 shilling, 1918 sixpence, 1918 threepence. Only the florin matters. Photo is 800x600 and the enlarged crop shows a tiny blob below the date between the 1 and 5 that could be an H, but it is not resolvable. Plain 1915 (London) florin is worth about melt to modest dollars; 1915H is scarcer and worth roughly $50 to $90 in F to VF.",
    "researched": true,
@@ -5816,7 +7056,7 @@
    "net_resale": 59.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -5826,8 +7066,8 @@
    "strength": 6,
    "findings": "Yellow gold ring with large oval faceted pale blue stone in multi-claw basket setting, in box. Stone likely synthetic spinel or blue topaz. No hallmark visible in photos; 9ct is from acid test per title.",
    "condition": "Good, stone looks clean, no visible chips.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 150.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:01:20 PM ADST",
    "identification": "Unmarked yellow gold (acid tests 9ct) dress ring, large oval pale blue faceted stone (likely synthetic spinel), claw set, boxed.",
    "researched": true,
@@ -5899,7 +7139,7 @@
    "net_resale": 161.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $190 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $190 does not clear the current bid $150",
    "priority": false
   },
   {
@@ -6061,8 +7301,8 @@
    "strength": 5,
    "findings": "Eight 1966 round 50c coins (80% silver, about 10.6g fine silver each, about 85g fine silver in total). Mostly bright EF-UNC with circulation marks.",
    "condition": "Light circulation, one coin has a brown spot.",
-   "current_bid": 110.0,
-   "bid_count": 2,
+   "current_bid": 120.0,
+   "bid_count": 3,
    "close": "11/11/2026 5:03:20 PM ADST",
    "identification": "Eight Australian 1966 round 50c coins (80% silver), bright circulated to AU-ish, 6 round-reverse plus 2 obverse showing, one with brown spot",
    "researched": true,
@@ -6150,7 +7390,7 @@
    "net_resale": 144.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $110",
+   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $120",
    "priority": false
   },
   {
@@ -6160,8 +7400,8 @@
    "strength": 4,
    "findings": "Royal Australian Mint 2010 $1 Fine Silver Proof Coin, Year of the Tiger, Lunar Series, in capsule with card and red box. Specs card: fine silver 99.9%, 11.66 grams, 25.00mm, proof, mintage 10,000.",
    "condition": "Appears as issued.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 25.0,
+   "bid_count": 3,
    "close": "11/11/2026 5:03:40 PM ADST",
    "identification": "Royal Australian Mint 2010 $1 Year of the Tiger fine silver proof (99.9%, 11.66 g, 25 mm), Lunar Series II, in capsule with card and red box. Dealer pages quote mintage 10,000 limit (Wynyard says only 3,900 actually struck). Photos show card and capsule, no certificate number visible. Not the 1 oz Perth Mint bullion tiger.",
    "researched": true,
@@ -6210,7 +7450,7 @@
    "net_resale": 51.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -6220,8 +7460,8 @@
    "strength": 4,
    "findings": "Strand of about 40 large baroque ripple-surface white pearls, roughly 11-13mm, about 45-50cm long, white metal clasp. These look like cultured freshwater (Edison or Kasumi-like style), not natural pearls despite the title.",
    "condition": "Good lustre, some surface irregularities typical of baroque pearls.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 40.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:04:00 PM ADST",
    "identification": "Strand of ~40 baroque ripple freshwater cultured pearls (Edison style), cream-white, silver-tone clasp; photo confirms",
    "researched": true,
@@ -6278,7 +7518,7 @@
    "net_resale": 76.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -6288,8 +7528,8 @@
    "strength": 4,
    "findings": "Two silver-cased pocket watches. One hunter or full-case with white enamel dial signed W. Ehrhardt (?) London, Roman numerals, subsidiary seconds, gilt hands. Second open-face key-wind with dial signed R. Kerman (?) Melbourne, Roman numerals, subsidiary seconds. A loose engraved silver case back/lid also in photo. No hallmarks or movements photographed.",
    "condition": "As is: one bow missing/broken, dials with light wear and hairlines possible, working unknown, case back separated.",
-   "current_bid": 30.0,
-   "bid_count": 1,
+   "current_bid": 35.0,
+   "bid_count": 2,
    "close": "11/11/2026 5:04:40 PM ADST",
    "identification": "Two silver-cased key-wind pocket watches (full hunter with enamel dial signed W. Ehrhardt? London; second hunter signed H. Kerman? Melbourne) plus loose engraved case lid; sold as is",
    "researched": true,
@@ -6353,7 +7593,7 @@
    "net_resale": 97.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $115 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $115 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -6363,8 +7603,8 @@
    "strength": 5,
    "findings": "Four wristwatches: Citizen automatic-style steel watch with silver baton dial, caseback reads CITIZEN WATCH CO, stainless steel, antimagnetic, water proof (serial not legible); a gold-tone dress watch with champagne dial (maker not legible); a gold-tone white-dial dress watch; a gold-tone quartz-style watch with champagne dial and script signature (illegible, looks like a fashion brand). Plus a loaded silver-coloured charm bracelet with roughly 25 charms (dice, keys, sombrero with gold-tone rim, penny-farthing, basket, boot, kangaroo, flamingo, house, pendant medallions) and several loose charms incl. a yellow-metal ingot-style charm. No hallmarks legible at photo resolution, silver content of bracelet assumed not confirmed.",
    "condition": "Watches with worn straps, running state unknown; charm bracelet with general wear, some loose charms detached.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 20.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:05:00 PM ADST",
    "identification": "Mixed lot: four vintage wristwatches (Citizen steel, three gold-tone dress watches) plus charm bracelet and loose charms",
    "researched": true,
@@ -6404,7 +7644,7 @@
    "net_resale": 110.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -6621,8 +7861,8 @@
    "strength": 5,
    "findings": "Omega De Ville quartz ladies watch: white dial with Roman numerals and Omega logo, round steel case with gold-tone crown, caseback with the De Ville Quartz cityscape medallion. Genuine Omega appearance, likely 1980s-90s.",
    "condition": "Clean dial, black lizard-pattern strap; running and battery not confirmed; light case wear.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 10.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:09:00 PM ADST",
    "identification": "Omega De Ville quartz ladies, white Roman dial, steel case with gold crown, black lizard strap; looks genuine, running unknown",
    "researched": true,
@@ -6703,7 +7943,7 @@
    "net_resale": 153.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $180 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $180 does not clear the current bid $10",
    "priority": false
   },
   {
@@ -6713,8 +7953,8 @@
    "strength": 4,
    "findings": "Silver open-face pocket watch, white enamel dial signed Kendal & Dent (London retailer), Roman numerals, subsidiary seconds, engine-turned case back with vacant shield cartouche, stem wind crown. Hallmarks not shown, sterling per catalogue.",
    "condition": "Dial with light hairlines possible, minute hand looks bent or misaligned, case wear; running not confirmed.",
-   "current_bid": 40.0,
-   "bid_count": 1,
+   "current_bid": 50.0,
+   "bid_count": 2,
    "close": "11/11/2026 5:09:40 PM ADST",
    "identification": "Open-face silver pocket watch, white enamel dial signed Kendal & Dent, Roman numerals, subsidiary seconds; minute hand drooping, case rubbed.",
    "researched": true,
@@ -6812,7 +8052,7 @@
    "net_resale": 109.429,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $129 does not clear the current bid $40",
+   "why": "max hammer $0 from a median SOLD of $129 does not clear the current bid $50",
    "priority": false
   },
   {
@@ -6822,8 +8062,8 @@
    "strength": 5,
    "findings": "Six round Australian 50 cent coins, Coat of Arms reverse, consistent with 1966 (80% silver, about 13.3g fine silver each, about 80g silver in total). Dates are on the obverse, which is not shown, so the 1966 claim cannot be checked but the round 50c was only issued in 1966.",
    "condition": "Circulated; one coin heavily toned gold-brown; light wear and marks.",
-   "current_bid": 80.0,
-   "bid_count": 1,
+   "current_bid": 110.0,
+   "bid_count": 4,
    "close": "11/11/2026 5:10:00 PM ADST",
    "identification": "6 x Australian 1966 round 50c (80% silver) coins, circulated.",
    "researched": true,
@@ -6936,7 +8176,7 @@
    "net_resale": 144.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $80",
+   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $110",
    "priority": false
   },
   {
@@ -6946,8 +8186,8 @@
    "strength": 4,
    "findings": "Two silver full hunter or open-faced pocket watches with enamel Roman dials and subsidiary seconds. Inside case lid of the right watch shows a small hallmark cartouche (not legible at this resolution). Left dial has a small maker's line near VI, not legible. Backs engine turned with vacant cartouches. Likely Victorian/Edwardian English or Swiss silver key-wind or lever watches.",
    "condition": "As is: one bow missing its ring on the right watch; dial wear and hairlines; left dial looks chipped near seconds; not known to run.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 5:10:20 PM ADST",
    "identification": "Two hallmarked silver full-hunter key-wind pocket watches (enamel Roman dials, one with subsidiary seconds), dial damage, one bow missing, not running",
    "researched": true,
@@ -7027,7 +8267,7 @@
    "net_resale": 72.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $85 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $85 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -7037,8 +8277,8 @@
    "strength": 5,
    "findings": "Eight round Australian 50 cent coins, Coat of Arms reverse, bright and lightly circulated to near uncirculated. 1966 round 50c are 80% silver, about 13.3g fine silver each, about 106g total. Obverses not shown.",
    "condition": "Bright, light contact marks only.",
-   "current_bid": 100.0,
-   "bid_count": 1,
+   "current_bid": 130.0,
+   "bid_count": 4,
    "close": "11/11/2026 5:10:40 PM ADST",
    "identification": "Eight Australian round 1966 50c silver coins, reverse Coat of Arms, bright with light wear (photo shows reverses only)",
    "researched": true,
@@ -7110,7 +8350,7 @@
    "net_resale": 144.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $100",
+   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $130",
    "priority": false
   },
   {
@@ -7195,8 +8435,8 @@
    "strength": 5,
    "findings": "Three silver pocket watches, enamel Roman dials, two with subsidiary seconds; one open face, two hunter-style with hinged covers; engine-turned and engraved backs with vacant cartouches. Hallmark cartouche visible in one case lid, not legible. Likely Victorian English or Swiss fob/pocket watches.",
    "condition": "As is: dials worn and crazed, one dial hairlines; hands missing on one seconds dial; running not known.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 5:14:00 PM ADST",
    "identification": "Three silver-cased key-wind pocket watches (one open face, two full hunter), white enamel Roman dials, one cracked dial; hallmarks not read",
    "researched": true,
@@ -7237,7 +8477,7 @@
    "net_resale": 68.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -7558,26 +8798,35 @@
    "cdid": 3111214,
    "lot": 952,
    "title": "NSW RAILWAYS & TRAMWAYS WWI 19...",
-   "strength": 5,
-   "findings": "NSW Railways and Tramways War Fund 'Australia Day 30th July 1915' special donation acknowledgement card, signed for C. A. Hodgson Hon. Sec., printed by Railway Printing Office, made out to Mr T. Buell(?). About 135 x 108 mm.",
-   "condition": "Good, light toning, edges brown-stained mount.",
+   "strength": 4,
+   "findings": "NSW Railways and Tramways War Fund Australia Day 30th July 1915 special donation acknowledgement card, Australia map with Red Ensign, signed C.A. Hodgson Hon. Sec., donor name handwritten (Mr ? Cuell/Buell), Railway Printing Office imprint. Approx 135x108 mm, on dealer album page.",
+   "condition": "Good, slight toning, mounted in sleeve.",
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:17:00 PM ADST",
    "identification": "NSW Railways & Tramways War Fund, Australia Day 30 July 1915 acknowledgement card, 135x108mm, signed C.A. Hodgson, Railway Printing Office, appears uncirculated.",
    "researched": true,
    "needs_chrome": false,
-   "chrome_hint": "",
+   "chrome_hint": "eBay sold: \"Australia Day 1915 Railways Tramways War Fund\" and \"NSW Railways Tramways War Fund donation card\"; also Trove/Delcampe",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 100.0,
+     "date": "2025-04-16",
+     "venue": "Armitage Auctions, Launceston sale 23842 lot 752",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2470306&chid=23842&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "From local comps database, page not opened. Titled NSW RAILWAYS & TRAMWAYS WWI 1915 SPECIAL DONATION CERTIFICATE; condition not known. Same item type, likely same dealer. AUD, no conversion."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 100.0,
+   "net_resale": 85.0,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $100 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -7655,8 +8904,8 @@
    "strength": 6,
    "findings": "Omega De Ville quartz gents watch with integrated steel bracelet and date (square cushion case), a vintage gold-tone automatic gents watch with expanding band (dial worn, maker not fully legible), ladies gold-tone dress watch, fake Gucci Dive and fake Louis Vuitton watches. Also 3 crowns: Churchill 1965 crown, 1953 coronation crown, 1977 Silver Jubilee crown (cupro-nickel).",
    "condition": "Omega crystal and bracelet scratched, working state unknown; gold-tone automatic dial heavily worn; Gucci/LV are copies.",
-   "current_bid": 10.0,
-   "bid_count": 1,
+   "current_bid": 20.0,
+   "bid_count": 3,
    "close": "11/11/2026 5:22:00 PM ADST",
    "identification": "Mixed lot of five wrist watches (Omega De Ville quartz gents with square cushion steel case and integrated bracelet, gold-tone automatic on expanding band, ladies gold-tone, fake Gucci dive and fake Louis Vuitton) plus three crowns.",
    "researched": true,
@@ -7698,8 +8947,8 @@
    "strength": 6,
    "findings": "Two English full hunter silver-cased key-wind pocket watches, enamel dials with Roman numerals and subsidiary seconds, engine-turned cases with cartouches. Inner covers show English hallmarks (lion and leopard/date punches), one sponsor mark 'AB' with case number 118x, other with crest-like mark and number 1035x. Sterling claim supported by hallmarks.",
    "condition": "As is: one watch missing hands, cases worn and dented slightly, running state unknown.",
-   "current_bid": 20.0,
-   "bid_count": 2,
+   "current_bid": 25.0,
+   "bid_count": 3,
    "close": "11/11/2026 5:23:40 PM ADST",
    "identification": "Two sterling silver full-hunter key-wind pocket watches, white enamel dials, one dial without hands/centre; non-working as-is lot.",
    "researched": true,
@@ -7779,7 +9028,7 @@
    "net_resale": 80.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $95 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $95 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -7789,8 +9038,8 @@
    "strength": 5,
    "findings": "About 60 pairs of stud and drop earrings still on jeweller's shop cards, mostly gold coloured with some white stones, plus bagged earrings and a carded tennis-style bracelet. Looks like old jewellery shop stock; if 9ct gold, total gold weight could be worth real money. Carat stamps not legible at this resolution.",
    "condition": "New old stock, unworn appearance.",
-   "current_bid": 10.0,
-   "bid_count": 1,
+   "current_bid": 15.0,
+   "bid_count": 2,
    "close": "11/11/2026 5:24:40 PM ADST",
    "identification": "About 60 pairs of stud and drop earrings on jeweller's cards, bagged earrings and a carded tennis-style bracelet. Carat marks not legible at 800x600 (one photo only). Gold-coloured studs look like typical small gold/gold-plated shop stock; white-stone ones likely CZ or silver.",
    "researched": true,
@@ -7822,7 +9071,91 @@
    "net_resale": 63.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $10",
+   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $15",
+   "priority": false
+  },
+  {
+   "cdid": 3111240,
+   "lot": 978,
+   "title": "6 BOTTLES OF MIXED SHIRAZ",
+   "strength": 5,
+   "findings": "Six 750ml reds: two Penfolds Kalimna Shiraz Bin 28 (older cream label style with red foil capsule and cork, vintage not legible in photo, likely 1990s), Miranda Barossa Old Vine Shiraz Grenache (vintage illegible, possibly 1990s), Forty's Fool (WA), Certain Views Shiraz (Orange, 2004 or similar), Road to Robe 2001 Shiraz. The two Bin 28 carry most of the value; older Bin 28 vintages sell around $40-80 a bottle on secondary market.",
+   "condition": "One Kalimna label heavily wine/water stained at lower left; fills look into neck on all bottles; capsules intact; storage history unknown.",
+   "current_bid": 30.0,
+   "bid_count": 1,
+   "close": "11/11/2026 5:25:40 PM ADST",
+   "identification": "Six bottles Australian shiraz: 2 x Penfolds Kalimna Shiraz Bin 28 (one label stained), Miranda Barossa Old Vine Shiraz Grenache, Forty Fool, Certain Views Shiraz 2004, Road to Robe 2001 Shiraz",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay sold: Penfolds Kalimna Bin 28 Shiraz 1990s bottle; secondary check on Wine-Searcher average prices for the vintage once known.",
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 100.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions sale 28839 lot 829",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088273&chid=28839&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Single 1978 Kalimna Bin 28 (much older than likely 1990s lots here). Local comps DB hit, not opened. Hammer, 22% premium extra."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions sale 28712 lot 814",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067275&chid=28712&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Single 1978 Bin 28. Comps DB, not opened."
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2026-07-29",
+     "venue": "Armitage Auctions sale 28327 lot 692",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2995894&chid=28327&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Single 1978 Bin 28. Comps DB."
+    },
+    {
+     "aud_price": 20.0,
+     "date": "2026-07-08",
+     "venue": "Armitage Auctions sale 28166 lot 856",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2972761&chid=28166&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Single 1978 Bin 28, low end of range (perhaps condition). Comps DB."
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 36.7,
+     "date": "2023-05-29",
+     "venue": "Leski Auctions sale 607 lot 1511",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/607",
+     "same_item": "close",
+     "note": "12 x 1996 Bin 28 in original box, about $37 a bottle, well stored boxed stock. Older sale (2023). Comps DB."
+    },
+    {
+     "aud_price": 63.0,
+     "date": "2023-05-29",
+     "venue": "Leski Auctions sale 607 lot 1536",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/607",
+     "same_item": "close",
+     "note": "6 x 1998 Bin 28 in box, about $63 a bottle. 2023. Comps DB."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2023-05-29",
+     "venue": "Leski Auctions sale 607 lot 1512",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/607",
+     "same_item": "close",
+     "note": "4 x 1996 Bin 28 in box, $35 a bottle. 2023. Comps DB."
+    }
+   ],
+   "unsold": [],
+   "asking": [],
+   "resale": 60.0,
+   "net_resale": 51.0,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -7907,8 +9240,8 @@
    "strength": 5,
    "findings": "Wolf Blass 1983 Yellow Label Cabernet Sauvignon Shiraz; a vintage port with church label; a commemorative RAAF/training group tawny port; Frascati (Italian white, old); Yalumba Galway Pipe port (in plastic wrap); Bisquit Fine Cognac VSOP gift box with two brandy balloon glasses.",
    "condition": "Old bottles, fills not easily checked; Frascati likely oxidised; Bisquit box shows wear, appears sealed.",
-   "current_bid": 25.0,
-   "bid_count": 2,
+   "current_bid": 30.0,
+   "bid_count": 3,
    "close": "11/11/2026 5:31:00 PM ADST",
    "identification": "Mixed lot: Wolf Blass 1983 Yellow Label Cabernet Sauvignon Shiraz, an Australian vintage port (castle/church label), an RAAF-style crested commemorative port, a Frascati-labelled bottle, Bisquit VSOP Cognac gift box with two glasses, Yalumba Galway Pipe port (in plastic)",
    "researched": true,
@@ -7997,7 +9330,7 @@
    "net_resale": 65.875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $78 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $78 does not clear the current bid $30",
    "priority": false
   }
  ]

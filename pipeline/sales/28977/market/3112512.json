@@ -2,9 +2,52 @@
  "cdid": 3112512,
  "lot": 1484,
  "identification": "Bench-mounted lever rack-and-ratchet clamp, galvanised cast legs, black cast jaw, wooden-handled lever, unmarked (photo).",
- "entries": [],
- "searches_tried": " | chrome: eBay AU sold: bench ratchet rack clamp cast iron (nothing); vintage bench clamp lever ratchet joinery (only a US vise A$231.57 not comparable, not recorded)",
- "viewing_check": "Look for any maker casting marks, check the ratchet engages and holds, rack teeth wear, length of rack and jaw capacity.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "aud_price": 40,
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28714 lot 1586 (BENCH CLAMP MULTI-TOOL)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3068997&chid=28714&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Local database only, not opened. Different bench clamp, AUD, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "aud_price": 30,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart lot 421930 (VINTAGE CLAMP/ VICE, 0 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=vintage%20clamp",
+   "same_item": "category guide",
+   "note": "Local database only, not opened. Generic vintage clamp/vice, no competition."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$95 hammer",
+   "aud_price": 95,
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart lot 433275 (MARPLES cast iron mitre clamp, 10 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=marples%20mitre%20clamp",
+   "same_item": "category guide",
+   "note": "Local database only, not opened. Named maker, better than this lot; upper bound for a good clamp."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AUD 209",
+   "aud_price": 209,
+   "date": "live, seen 2026-11-06",
+   "venue": "Carbatec Bessey hold-down ratchet clamp",
+   "url": "https://www.carbatec.com.au/products/hold-down-work-bench-clamp-lever-handle",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. New dog-hole hold-down clamp, different item."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) ratchet clamp, bench clamp, ratchet vice, clamp, cast iron vice, ratchet; Gowans API ratchet clamp (no matching titles); WebSearch for vintage bench ratchet rack clamp and site:armitage ratchet clamp bench (no same-item results). No maker so no exact comp found. eBay sold (Chrome) could help but is low value. | chrome: eBay AU sold: bench ratchet rack clamp cast iron (nothing); vintage bench clamp lever ratchet joinery (only a US vise A$231.57 not comparable, not recorded)",
  "needs_chrome": false,
+ "chrome_hint": "eBay sold: bench ratchet rack clamp cast iron lever",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Look for any maker casting marks, check the ratchet engages and holds, rack teeth wear, length of rack and jaw capacity.",
  "chrome_done": true
 }

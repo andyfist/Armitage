@@ -5,84 +5,47 @@
  "entries": [
   {
    "kind": "SOLD",
-   "price": "GBP 25 (winning bid, premium/VAT unclear)",
-   "currency": "GBP",
-   "aud_price": 50,
-   "date": "2018-10-09",
-   "venue": "Whisky.Auction (UK)",
-   "url": "https://whisky.auction/auctions/lot/42432/famous-grouse",
-   "same_item": "close",
-   "note": "Page opened. 1980s 75cl 40% Famous Grouse, same maker; UK export strength, not the 37.2% Australian bottling. Old (2018). Rate 1 GBP = 2.0 AUD assumed."
-  },
-  {
-   "kind": "SOLD",
-   "price": "GBP 110 (Royal Doulton decanter)",
-   "currency": "GBP",
-   "aud_price": 220,
-   "date": "2022-09-13",
-   "venue": "Whisky.Auction (UK)",
-   "url": "https://whisky.auction/auctions/lot/138235/famous-grouse",
-   "same_item": "category guide",
-   "note": "Page opened. Decanter variant, not comparable to a plain bottle; shown only to mark the ceiling for the brand. Rate 2.0 assumed."
-  },
-  {
-   "kind": "SOLD",
-   "price": "GBP 14 (per search snippet)",
-   "currency": "GBP",
-   "aud_price": 28,
-   "date": "2016-04",
-   "venue": "Whisky.Auction (UK)",
-   "url": "https://whisky.auction/auctions/lot/6270/famous-grouse",
-   "same_item": "close",
-   "note": "Snippet only, unverified. Another 1980s 75cl bottle. Rate 2.0 assumed."
-  },
-  {
-   "kind": "SOLD",
-   "price": "A$92",
+   "price": "$92 hammer",
    "currency": "AUD",
    "aud_price": 92,
    "date": "2026-09-27",
    "venue": "Australian Whisky Auctions",
    "url": "https://www.australianwhiskyauctions.com.au/lot-721999/famous-grouse-1980s-bottling-elders-ixl-wine-spirits-import",
    "same_item": "yes",
-   "note": "Elders IXL import, 750ml 37.2%. Hammer, excl. AWA buyer's premium",
-   "via": "chrome"
+   "note": "From local comps database (earlier research), hammer, premium not included. Page not opened by me (Cloudflare block). Condition unknown."
   },
   {
    "kind": "SOLD",
-   "price": "A$90",
+   "price": "$80 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-06-28",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-690463/famous-grouse-finest-scotch-whisky-1980s-bottling",
+   "same_item": "yes",
+   "note": "Local comps database, 1980s bottled in Australia 750ml. Page not opened by me."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
    "currency": "AUD",
    "aud_price": 90,
    "date": "2025-08-31",
    "venue": "Australian Whisky Auctions",
    "url": "https://www.australianwhiskyauctions.com.au/lot-500749/famous-grouse-finest-scotch-whisky-1980s-bottling",
    "same_item": "yes",
-   "note": "Elders IXL Wine & Spirits import per description, 750ml 37.2%",
-   "via": "chrome"
+   "note": "Local comps database, Elders IXL import. Page not opened by me."
   },
   {
    "kind": "SOLD",
-   "price": "A$82",
+   "price": "$82 hammer",
    "currency": "AUD",
    "aud_price": 82,
    "date": "2024-05-26",
    "venue": "Australian Whisky Auctions",
    "url": "https://www.australianwhiskyauctions.com.au/lot-350829/famouse-grouse-1980s-bottling-elders-ixl-wine-spirits-import",
    "same_item": "yes",
-   "note": "Elders IXL import, 750ml 37.2%",
-   "via": "chrome"
-  },
-  {
-   "kind": "SOLD",
-   "price": "A$80",
-   "currency": "AUD",
-   "aud_price": 80,
-   "date": "2026-06-28",
-   "venue": "Australian Whisky Auctions",
-   "url": "https://www.australianwhiskyauctions.com.au/lot-690463/famous-grouse-finest-scotch-whisky-1980s-bottling",
-   "same_item": "close",
-   "note": "1980s bottled in Australia, 750ml, importer not stated",
-   "via": "chrome"
+   "note": "Local comps database, Elders IXL 750ml 37.2%. Page not opened by me."
   },
   {
    "kind": "UNSOLD",
@@ -97,10 +60,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py (crashed on a data error), work/comps.py famous grouse / grouse / scotch whisky (no Famous Grouse bottle hits, only unrelated grouse boxes); Gowans API for famous grouse and grouse whisky (no whisky lots); one WebSearch, two whisky.auction pages opened. No Australian results found. eBay sold listings would settle it (blocked here). | chrome: AWA 'famous grouse' filtered 1980s/750/Elders",
+ "searches_tried": "pipeline comps.py 'famous grouse' (4 AWA hits); work comps.py 'famous grouse whisky' and 'grouse' (only unrelated Gowans grouse boxes); Gowans API 'famous grouse' (nothing relevant); WebSearch for Elders IXL 37.2% (only UK 1980s bottlings, e.g. 75cl 40% sold GBP 14 to 25 at Whisky.Auction, snippet only, different item); direct fetch of AWA pages blocked by Cloudflare. No Armitage past results search done. eBay sold prices would help confirm. Rate: not applicable, all AUD. Note the four AWA records in the database were all tagged 'lot 722' in the title, which looks odd, so treat as moderately reliable until confirmed. | chrome: AWA 'famous grouse' filtered 1980s/750/Elders | chrome: AWA 'famous grouse' filtered 1980s/750/Elders",
  "needs_chrome": false,
- "chrome_hint": "eBay Australia sold listings: famous grouse elders ixl 750ml",
- "rate_note": "GBP to AUD 2.0 assumed, not looked up.",
+ "chrome_hint": "Australian Whisky Auctions past results and eBay sold: 'Famous Grouse 750ml 37.2% Elders IXL'",
+ "rate_note": "All AUD, no conversion",
  "viewing_check": "Fill level, screw cap seal, label scuffs",
  "chrome_done": true
 }

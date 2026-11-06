@@ -5,6 +5,61 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "GBP 350 (reading of page, unlabelled)",
+   "currency": "GBP",
+   "aud_price": 700,
+   "date": "2010-10-13",
+   "venue": "Woolley and Wallis",
+   "url": "https://www.woolleyandwallis.co.uk/departments/20th-century-design/pg121010-2/view-lot/938",
+   "same_item": "close",
+   "note": "Snippet only, unverified. Search summary referred to lot 954 of the 14 Oct 2009 sale (url https://www.woolleyandwallis.co.uk/departments/20th-century-design/pg131009-2/view-lot/954): marked Royal Dux maiden and two cherubs holding bowl, est GBP 200-300. Old, UK, possibly includes premium. Rate GBP1=AUD2.0 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 260",
+   "currency": "GBP",
+   "aud_price": 520,
+   "date": "unknown",
+   "venue": "Thomas Watson",
+   "url": "https://thomaswatson.com/lot/a-large-royal-dux-centrepiece-no-1520-modelled-with-a-maiden-seated-upon-the-edge-of-a-shell-form-bowl-raised-on-a-naturalistic-base-with-a-second-figure-of-a-maiden-picked-out-in-characteristic-palette-applied-pink-triangle-mark-early-20th-century-4",
+   "same_item": "category guide",
+   "note": "Snippet only, unverified. Genuine pink triangle Royal Dux no. 1520 with maidens and shell, not cherubs. Shows a marked piece is worth several hundred. Rate 2.0 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 90",
+   "currency": "GBP",
+   "aud_price": 180,
+   "date": "unknown",
+   "venue": "Denhams",
+   "url": "https://denhams.com/antique-auction/june-2003/ceramic-glass-pottery",
+   "same_item": "category guide",
+   "note": "Snippet only, unverified. Royal Dux centrepiece of boy above fish pond, not cherubs; old sale. Low end for a smaller marked piece."
+  },
+  {
+   "kind": "SOLD",
+   "price": "price hidden (subscriber only)",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "unknown",
+   "venue": "Carters (Australia)",
+   "url": "https://carters.com.au/index.cfm/item/1008988-an-amphora-cherub-decorated-comport-19-cm-high",
+   "same_item": "category guide",
+   "note": "Snippet only. Amphora cherub comport 19 cm, price not visible. No value used."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "no result shown",
+   "currency": "GBP",
+   "aud_price": 0,
+   "date": "unknown",
+   "venue": "Fieldings",
+   "url": "https://fieldingsauctioneers.co.uk/lot/229065",
+   "same_item": "close",
+   "note": "Page opened but no price shown. Unmarked 20th century Dresden-type table centre, three cherubs among encrusted flowers, 46 cm. Marked S/D (sold) in snippet; hammer unknown. Listed here only because no price; not a value."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$198.38",
    "currency": "AUD",
    "aud_price": 198.38,
@@ -52,8 +107,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold 'cherub centrepiece bowl porcelain roses three cherubs' (all AU+overseas, filtered to cherub/putti titles). Not tried: LiveAuctioneers, Carters archive.",
- "viewing_check": "Turn it over and photograph any base mark or incised mould number (Royal Dux pink triangle, Von Schierholz, Sitzendorf). List all damage: chipped roses and fingers are common, cracks to the stem or bowl matter most. Check height and that the bowl sits properly.",
+ "searches_tried": "Local comps.py (pipeline and work) with royal dux, cherub, bohemian, centrepiece, comport: no hits. Gowans API royal dux cherub: no results. WebSearch x4 (Royal Dux three cherub centrepiece sold; site gowans; Dresden style three cherub centre; Bohemian Amphora cherub centrepiece Australia). Carters page returned 429. No verified Australian sold price found. eBay sold listings would settle it (Royal Dux style cherub centrepiece); not reachable. | chrome: eBay AU sold 'cherub centrepiece bowl porcelain roses three cherubs' (all AU+overseas, filtered to cherub/putti titles). Not tried: LiveAuctioneers, Carters archive.",
  "needs_chrome": false,
+ "chrome_hint": "eBay sold items: Royal Dux style three cherub centrepiece roses bowl; also LiveAuctioneers/Invaluable past results for 'Royal Dux cherub centrepiece' and Carters archive 'Dresden style encrusted flower figural centrepiece'.",
+ "viewing_check": "Turn it over and photograph any base mark or incised mould number (Royal Dux pink triangle, Von Schierholz, Sitzendorf). List all damage: chipped roses and fingers are common, cracks to the stem or bowl matter most. Check height and that the bowl sits properly.",
+ "rate_note": "GBP to AUD 2.0 assumed, not verified.",
  "chrome_done": true
 }

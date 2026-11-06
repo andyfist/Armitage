@@ -2,9 +2,23 @@
  "cdid": 3111214,
  "lot": 952,
  "identification": "NSW Railways & Tramways War Fund, Australia Day 30 July 1915 acknowledgement card, 135x108mm, signed C.A. Hodgson, Railway Printing Office, appears uncirculated.",
- "entries": [],
- "searches_tried": " | chrome: eBay AU sold: 'railways tramways war fund 1915', 'australia day 1915 donation card' (both eBay error pages, no data); no further sites tried in light mode",
- "viewing_check": "Check for tears, folds, adhesive/backing residue (appears mounted on brown card) and the donor name.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2025-04-16",
+   "venue": "Armitage Auctions, Launceston sale 23842 lot 752",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2470306&chid=23842&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "From local comps database, page not opened. Titled NSW RAILWAYS & TRAMWAYS WWI 1915 SPECIAL DONATION CERTIFICATE; condition not known. Same item type, likely same dealer. AUD, no conversion."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with several word sets: 1 same-item sold hit. Gowans API (3 queries): nothing relevant. WebSearch x3 (including site:armitage): no sales or asking prices found for this card, only AWM/museum items on Australia Day 1915. eBay sold prices (Australia Day 1915 railways tramways war fund card) would help and are closed to us. | chrome: eBay AU sold: 'railways tramways war fund 1915', 'australia day 1915 donation card' (both eBay error pages, no data); no further sites tried in light mode",
  "needs_chrome": false,
+ "chrome_hint": "eBay sold: \"Australia Day 1915 Railways Tramways War Fund\" and \"NSW Railways Tramways War Fund donation card\"; also Trove/Delcampe",
+ "viewing_check": "Check for tears, folds, adhesive/backing residue (appears mounted on brown card) and the donor name.",
+ "rate_note": "All prices AUD, no conversion.",
  "chrome_done": true
 }

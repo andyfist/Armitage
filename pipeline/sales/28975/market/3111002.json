@@ -5,6 +5,105 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "$195 hammer",
+   "aud_price": 195,
+   "currency": "AUD",
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28712 lot 723",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067184&chid=28712&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Framed Pro Hart etching 'The Trapper' 12x12cm, from local comps database (not opened). Signature and COA status unknown. Closest same-title comp."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150 hammer",
+   "aud_price": 150,
+   "currency": "AUD",
+   "date": "2026-09-23",
+   "venue": "Lawsons (Sydney) via Invaluable",
+   "url": "https://www.invaluable.com/auction-lot/pro-hart-australia-1928-2006-crib-time-etching-ed-8153-c-1c0b7853e6",
+   "same_item": "close",
+   "note": "Small Pro Hart hand-coloured etching (title 'Crib Time' in URL; database description mentions Trapper, may be a shared template). From comps database, snippet only, premium inclusion unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$400 hammer",
+   "aud_price": 400,
+   "currency": "AUD",
+   "date": "2026-08-15",
+   "venue": "Aalders Auctions via Invaluable",
+   "url": "https://www.invaluable.com/auction-lot/kevin-charles-pro-hart-1928-2006-474-c-fecad61809",
+   "same_item": "close",
+   "note": "Pro Hart hand-coloured etching lot 474, from comps database, snippet only. Likely signed edition; outlier high. Another Aalders lot 473 made $240."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180 hammer",
+   "aud_price": 180,
+   "currency": "AUD",
+   "date": "2026-07-27",
+   "venue": "Davidson Auctions via Invaluable",
+   "url": "https://www.invaluable.com/auction-lot/hart-pro-1928-2006-waltzing-matilda-1977-82-etchi-1003-c-233c5a1851",
+   "same_item": "close",
+   "note": "Pro Hart hand-coloured etching (Waltzing Matilda series 1977-82 in URL). Comps database, snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$170 hammer",
+   "aud_price": 170,
+   "currency": "AUD",
+   "date": "2025-12-03",
+   "venue": "Lawsons (Sydney) via Invaluable",
+   "url": "https://www.invaluable.com/auction-lot/pro-hart-australia-1928-2006-yard-scene-handcolou-8191-c-cdd7e5a333",
+   "same_item": "close",
+   "note": "Small hand-coloured Pro Hart etching, yard scene. Comps database, snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "aud_price": 100,
+   "currency": "AUD",
+   "date": "2025-12-03",
+   "venue": "Lawsons (Sydney) via Invaluable",
+   "url": "https://www.invaluable.com/auction-lot/pro-hart-australia-1928-2006-dragonfly-1982-handc-8163-c-7d36c794f2",
+   "same_item": "close",
+   "note": "Small hand-coloured Pro Hart dragonfly etching 1982. Comps database, snippet only. Low end of range."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "aud_price": 80,
+   "currency": "AUD",
+   "date": "2026-09-23",
+   "venue": "Lawsons (Sydney) lot 8159 via Invaluable",
+   "url": "https://www.invaluable.com/auction-lot/pro-hart-australia-1928-2006-mineshaft-hand-colou-8159-c-a5baae681a",
+   "same_item": "category guide",
+   "note": "Pro Hart hand-coloured etching, pub scene. Comps database, snippet only. Shows floor for small unsigned or minor prints."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150 hammer",
+   "aud_price": 150,
+   "currency": "AUD",
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions sale 28712 lot 660",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067121&chid=28712&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Framed Pro Hart etching 'Ants' 16x13cm. Comps database, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150-$290 hammer (8 sales, median $195)",
+   "aud_price": 195,
+   "currency": "AUD",
+   "date": "2026-01 to 2026-08",
+   "venue": "Gowans Auctions, Hobart (e.g. lot ids 434140, 384071, 391927)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pro+hart&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Small Lytlewode-type Pro Hart hand coloured etchings, mostly pencil-signed APs, PPs or numbered editions, $130-$330. Signed, so this lot (unsigned) should sit below them. Comps database, not opened."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$200",
    "currency": "AUD",
    "aud_price": 200,
@@ -40,8 +139,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: pro hart trapper etching (no Trapper sold; only other Pro Hart small etchings)",
- "viewing_check": "Check whether it is signed in pencil (listing says unsigned), the COA and edition/proof marking, and foxing or mat burn under the glass. Plate is only about 12 cm square.",
+ "searches_tried": "comps.py (pipeline) 'pro hart etching'; work/comps.py 'pro hart lytlewode', 'pro hart etching --years 3', 'pro hart trapper'; pipeline comps 'trapper pro hart'. No live web search done (low-value item). eBay sold would show unsigned Lytlewode proofs but is closed to us. | chrome: eBay AU sold: pro hart trapper etching (no Trapper sold; only other Pro Hart small etchings)",
  "needs_chrome": false,
+ "viewing_check": "Check whether it is signed in pencil (listing says unsigned), the COA and edition/proof marking, and foxing or mat burn under the glass. Plate is only about 12 cm square.",
+ "rate_note": "All AUD, no conversion. Hammer prices, premium extra.",
+ "chrome_hint": "",
  "chrome_done": true
 }

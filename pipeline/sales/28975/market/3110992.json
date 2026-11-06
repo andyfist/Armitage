@@ -5,55 +5,119 @@
  "entries": [
   {
    "kind": "SOLD",
-   "price": "A$52",
-   "currency": "AUD",
+   "price": "A$52 hammer, excl. AWA fees",
    "aud_price": 52,
+   "currency": "AUD",
    "date": "2026-05-31",
-   "venue": "Australian Whisky Auctions",
+   "venue": "Australian Whisky Auctions lot 730",
    "url": "https://www.australianwhiskyauctions.com.au/lot-682384/bells-ceramic-marriage-of-andrew-sarah",
    "same_item": "yes",
-   "note": "Same decanter. Hammer, excl. AWA buyer's premium",
-   "via": "chrome"
+   "note": "From local results database (earlier research); page not opened by me. Boxed, same decanter."
   },
   {
    "kind": "SOLD",
-   "price": "A$62",
-   "currency": "AUD",
+   "price": "A$62 hammer",
    "aud_price": 62,
+   "currency": "AUD",
    "date": "2025-03-30",
    "venue": "Australian Whisky Auctions",
    "url": "https://www.australianwhiskyauctions.com.au/lot-450784/bells-ceramic-marriage-of-andrew-sarah",
    "same_item": "yes",
-   "note": "750ml 43%, no reserve",
-   "via": "chrome"
+   "note": "Local database; boxed 750ml 43%, no reserve. Page not opened."
   },
   {
    "kind": "SOLD",
-   "price": "A$72",
-   "currency": "AUD",
+   "price": "A$72 hammer",
    "aud_price": 72,
+   "currency": "AUD",
    "date": "2025-01-26",
    "venue": "Australian Whisky Auctions",
    "url": "https://www.australianwhiskyauctions.com.au/lot-430639/bells-ceramic-marriage-of-andrew-sarah",
    "same_item": "yes",
-   "note": "750ml 43%, no reserve",
-   "via": "chrome"
+   "note": "Local database; boxed, no reserve. Page not opened."
   },
   {
    "kind": "SOLD",
-   "price": "A$98",
-   "currency": "AUD",
+   "price": "A$98 hammer",
    "aud_price": 98,
+   "currency": "AUD",
    "date": "2024-10-27",
    "venue": "Australian Whisky Auctions",
    "url": "https://www.australianwhiskyauctions.com.au/lot-411240/bells-ceramic-marriage-of-andrew-sarah",
    "same_item": "yes",
-   "note": "750ml 43%, no reserve",
-   "via": "chrome"
+   "note": "Local database; boxed, no reserve. Older and highest; trend since is downward. Page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40 hammer",
+   "aud_price": 40,
+   "currency": "AUD",
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28712 lot 683",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067144&chid=28712&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Local database. 1986 750ml Bell's commemorating a Royal Wedding (likely this same Andrew/Sarah issue). Same buyer pool."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45 hammer",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28712 lot 675",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067136&chid=28712&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Local database. 1981 Charles and Diana Bell's decanter, sister issue."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95 hammer",
+   "aud_price": 95,
+   "currency": "AUD",
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions sale 28839 lot 682",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088127&chid=28839&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Local database. Bells 750ml decanter and contents, unspecified model; may be a different, scarcer issue."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45 hammer",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2025-06-18",
+   "venue": "Armitage Auctions sale 24216 lot 572",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2535199&chid=24216&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Local database. Commemorative Bells decanter unopened, with a crystal decanter."
+  },
+  {
+   "kind": "SOLD",
+   "price": "EUR 35",
+   "aud_price": 61,
+   "currency": "EUR",
+   "date": "unknown (search snippet)",
+   "venue": "Catawiki",
+   "url": "https://www.catawiki.com/en/l/95444017-bell-s-decanter-marriage-of-prince-andrew-with-miss-sarah-ferguson-1986-75cl",
+   "same_item": "yes",
+   "note": "Snippet only, not verified; rate 1 EUR = about 1.75 AUD. Sealed example; overseas, premium status unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 24",
+   "aud_price": 47,
+   "currency": "GBP",
+   "date": "2023 (search snippet)",
+   "venue": "Whisky.Auction lot 160847",
+   "url": "https://whisky.auction/auctions/lot/160847/bell-s-ceramic-decanter",
+   "same_item": "close",
+   "note": "Snippet only, not verified; rate 1 GBP = about 1.95 AUD. Overseas, a few years old."
   }
  ],
- "searches_tried": " | chrome: AWA 'bell' filtered decanter/1986/queen/andrew",
- "viewing_check": "Weigh or shake for contents, seal/stopper, box wear",
+ "searches_tried": "comps.py (pipeline and work) with 'bells royal wedding', 'bells decanter', 'prince andrew ferguson'; WebSearch for Bell's Wade decanter Andrew Ferguson sold. eBay sold prices (closed to us) would settle it best but this is a low-value common item. AWA is closed to us, so AWA prices come from the local database only. | chrome: AWA 'bell' filtered decanter/1986/queen/andrew | chrome: AWA 'bell' filtered decanter/1986/queen/andrew",
  "needs_chrome": false,
+ "chrome_hint": "",
+ "rate_note": "EUR 1 = A$1.75, GBP 1 = A$1.95 (approximate, not live).",
+ "viewing_check": "Weigh or shake for contents, seal/stopper, box wear",
  "chrome_done": true
 }

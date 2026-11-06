@@ -5,6 +5,93 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "$370 final bid (premium unknown)",
+   "aud_price": 370,
+   "date": "2021-01-20",
+   "venue": "Evans Clarke (Biddingonline), Woodville North SA, sale 41950 lot 24",
+   "url": "https://www.evansclarke.com.au/detail.aspx?id=1555161",
+   "same_item": "yes",
+   "note": "Page opened, bid history shows 68 bids. Condition not stated. Old (nearly 6 years), outside 24 month window. Premium not stated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$99",
+   "currency": "AUD",
+   "aud_price": 99,
+   "date": "2023-06-20",
+   "venue": "Grays, Keysborough VIC",
+   "url": "https://www.grays.com/lot/0084-3025651/power-tools/p-makita-ls1214-mitre-saw-p",
+   "same_item": "yes",
+   "note": "Snippet only (page would not load), unverified. Used, as-is, 20% premium reportedly extra. Old, outside 24 months."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$187.50",
+   "currency": "AUD",
+   "aud_price": 187.5,
+   "date": "2021-06-10",
+   "venue": "eBay AU, Kilsyth VIC",
+   "url": "https://www.ebay.com.au/itm/184868708696",
+   "same_item": "yes",
+   "note": "Snippet only, unverified. 19 bids. Old."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$60",
+   "currency": "USD",
+   "aud_price": 92,
+   "date": "2023",
+   "venue": "Machinerymax, California",
+   "url": "https://machinerymax.com/Event/LotDetails/57222552/Makita-LS1214-Miter-Saw",
+   "same_item": "close",
+   "note": "Snippet only, unverified. 110V US unit. Rate about 1.53 AUD per USD."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$350",
+   "currency": "AUD",
+   "aud_price": 350,
+   "date": "live, seen 2026-11-06 (dated 06/04/2026)",
+   "venue": "Gumtree, Coopers Plains QLD",
+   "url": "https://www.gumtree.com.au/s-power-tools/makita+ls1214/k0c20093",
+   "same_item": "yes",
+   "note": "Snippet only. Asking price, private seller, LS1214 305mm 1650W."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$99 negotiable",
+   "currency": "AUD",
+   "aud_price": 99,
+   "date": "live, seen 2026-11-06",
+   "venue": "Gumtree, Berwick VIC",
+   "url": "https://www.gumtree.com.au/s-power-tools/makita+ls1214/k0c20093",
+   "same_item": "yes",
+   "note": "Snippet only. Missing dust bag and back plate, as-is. Lot 1749 is more complete."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,500 or best offer",
+   "currency": "AUD",
+   "aud_price": 1500,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay AU, Seaford VIC",
+   "url": "https://www.ebay.com.au/itm/136364918827",
+   "same_item": "yes",
+   "note": "Snippet only. Near-new claim, optimistic ask, ignore as value."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25 to $230 hammer (older LS1013 255mm type, not same model)",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2025-11 to 2026-10",
+   "venue": "Gowans Auctions, Moonah (local DB, median of 8)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=makita+mitre+saw",
+   "same_item": "category guide",
+   "note": "Local database, hammer, premium extra. Titles loose; Tasmanian slide mitre saws of mixed type. Recent: MAKITA COMPOUND MITRE SAW $55 (2026-10-04), MITRE SAW $230 (2025-12-01), $25 (2026-08-16), $80 (2025-11-03). Tasmanian buyers pay well below mainland asking."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$559.00",
    "currency": "AUD",
    "aud_price": 559,
@@ -16,8 +103,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: makita ls1214 (parts only, no whole saw in last months), makita ls1214 saw (parts, LS1040 10in at A$186.20 not recorded), makita 305mm slide compound mitre saw (one useful). eBay returned error pages for several attempts (throttled). Google: only the Evans Clarke A$370 (already in Found so far) and an undated Gumtree asking A$550 with no listing URL.",
- "viewing_check": "Check the model plate says LS1214 and Made in Japan, 240V; check slide rails for play, base/bevel lock, blade runout, brushes, and that the dust bag and clamp are present. Plug in and run if allowed.",
+ "searches_tried": "comps.py (pipeline and work) on makita LS1214 / slide mitre / 305mm; Gowans API makita ls1214, mitre saw, slide compound; WebSearch LS1214 sold auction and used for sale Australia; fetched Evans Clarke (opened), Grays and HiBid (blocked/not loaded). No Armitage lookups. eBay sold listings would settle recent mainland price. | chrome: eBay AU sold: makita ls1214 (parts only, no whole saw in last months), makita ls1214 saw (parts, LS1040 10in at A$186.20 not recorded), makita 305mm slide compound mitre saw (one useful). eBay returned error pages for several attempts (throttled). Google: only the Evans Clarke A$370 (already in Found so far) and an undated Gumtree asking A$550 with no listing URL.",
  "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: Makita LS1214 mitre saw (Sold items, Australia); also Grays closed lots makita ls1214",
+ "viewing_check": "Check the model plate says LS1214 and Made in Japan, 240V; check slide rails for play, base/bevel lock, blade runout, brushes, and that the dust bag and clamp are present. Plug in and run if allowed.",
+ "rate_note": "USD to AUD at about 1.53; AUD entries as printed.",
  "chrome_done": true
 }

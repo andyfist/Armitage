@@ -2,9 +2,100 @@
  "cdid": 3112798,
  "lot": 1957,
  "identification": "Three small engines: rusty green Villiers stationary engine, red/white Honda G-series-style horizontal 4-stroke, and a third small horizontal engine with cooling fan flywheel (Briggs/Tecumseh-style); condition unknown",
- "entries": [],
- "searches_tried": " | chrome: eBay AU sold: villiers engine (60 matches, all parts, manuals, merchandise from UK, no complete engines sold); Honda G150/G200 not searched. Nothing usable.",
- "viewing_check": "Turn each engine over by hand for seizure, check for cracked castings and missing parts; the Honda-style engine is the most useful one.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$50",
+   "currency": "AUD",
+   "aud_price": 50.0,
+   "date": "2026-09-09",
+   "venue": "Armitage Auctions, Launceston sale 28589 lot 1706",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045296&chid=28589&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Villiers petrol engine, hammer from local comps database (not opened); closest comp, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25",
+   "currency": "AUD",
+   "aud_price": 25.0,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 400994 https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=petrol+motor&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Villiers petrol motor & grinder, 1 bid; hammer from API/comps db (premium extra)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20",
+   "currency": "AUD",
+   "aud_price": 20.0,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 413921",
+   "same_item": "close",
+   "note": "Villiers concrete vibrator, needs fuel tap, 1 bid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$135",
+   "currency": "AUD",
+   "aud_price": 135.0,
+   "date": "2025-11-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 375009",
+   "same_item": "close",
+   "note": "Honda GX110 petrol motor with pulleys, 4 bids; newer, likely working, better than lot's Honda."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20",
+   "currency": "AUD",
+   "aud_price": 20.0,
+   "date": "2025-10-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 368181",
+   "same_item": "close",
+   "note": "Honda GX270 petrol motor, 2 bids; low result."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40",
+   "currency": "AUD",
+   "aud_price": 40.0,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 400995",
+   "same_item": "category guide",
+   "note": "Clinton 7HP petrol motor, 1 bid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$9",
+   "currency": "AUD",
+   "aud_price": 9.0,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 439841",
+   "same_item": "category guide",
+   "note": "Kawasaki 3.3HP petrol motor, 0 bids; small Japanese engine floor."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85",
+   "currency": "AUD",
+   "aud_price": 85.0,
+   "date": "2026-08-16",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 431883",
+   "same_item": "category guide",
+   "note": "Moffat Virtue stationary engine, 1 bid; older collector-type engine."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) villiers engine, stationary engine, honda engine, petrol motor; Gowans API villiers, stationary engine, honda engine, petrol motor; WebSearch Villiers stationary engine sold Australia (no usable Australian Villiers price; snippet noted UK Starmaker motorcycle engine, not comparable); WebSearch site:armitage Villiers (nothing). eBay sold prices not reachable. | chrome: eBay AU sold: villiers engine (60 matches, all parts, manuals, merchandise from UK, no complete engines sold); Honda G150/G200 not searched. Nothing usable.",
  "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold listings: Villiers stationary engine Mk12 OR Mk15 OR Mk25 ; and Honda G150 OR G200 engine used",
+ "viewing_check": "Turn each engine over by hand for seizure, check for cracked castings and missing parts; the Honda-style engine is the most useful one.",
+ "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

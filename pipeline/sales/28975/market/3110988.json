@@ -2,9 +2,34 @@
  "cdid": 3110988,
  "lot": 726,
  "identification": "Highland Breeze 8 Year Old 'Finest Quality Scotch Whisky' blend, 750ml, about 37%, Australian import (importer address in Bayswater)",
- "entries": [],
- "searches_tried": " | chrome: AWA 'highland breeze' (0); SWA 'highland breeze' (0); no sales found",
- "viewing_check": "Low-value supermarket-era blend; only worth a token bid. Check fill and seal",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions, Launceston sale 28839 lot 714",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088158&chid=28839&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "From local comps database (not opened). 750ml bottle Highland Breeze whisky, same brand, 15 days ago; hammer, premium extra. Age and condition not stated, so may be a different bottling."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$10.99",
+   "currency": "USD",
+   "aud_price": 16.5,
+   "date": "live, seen 2026-11-06",
+   "venue": "Total Wine (US retail)",
+   "url": "https://www.totalwine.com/spirits/scotch/blended-scotch/highland-breeze-finest-old-scotch-whisky/p/109456750",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. Current 40% no-age Highland Breeze, 750ml, not the 8yo 37% bottling. Rate 1 USD = 1.50 AUD (assumed). Shows brand is a cheap blend."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for highland breeze, blended scotch, scotch 8 year; Gowans API highland breeze (no hits); WebSearch general and site:armitage (nothing further); Whiskybase page (no price data). eBay sold prices would help but eBay is closed to us. | chrome: AWA 'highland breeze' (0); SWA 'highland breeze' (0); no sales found | chrome: AWA 'highland breeze' (0); SWA 'highland breeze' (0); no sales found",
  "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Low-value supermarket-era blend; only worth a token bid. Check fill and seal",
+ "rate_note": "USD to AUD 1.50 assumed.",
  "chrome_done": true
 }

@@ -5,6 +5,83 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "$135 hammer",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2026-05-17",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/ (lot id 410810) SET OF LATHE CHISELS - WOOD",
+   "same_item": "close",
+   "note": "12 bids; brand unknown, may be a better brand than Chinese. Local database/API result, page not opened; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-07-12",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/ (lot id 423671) SET OF 8 CHISELS",
+   "same_item": "close",
+   "note": "4 bids; title loose, may not be turning tools. Local database/API result, page not opened; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-06-14",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/ (lot id 417240) WOOD TURNING CHISELS",
+   "same_item": "category guide",
+   "note": "6 bids; brand and count unknown. Local database/API result, page not opened; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$54 hammer",
+   "currency": "AUD",
+   "aud_price": 54,
+   "date": "2026-09-27",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/ (lot id 441136) BASKET OF WOOD TURNING CHISELS",
+   "same_item": "category guide",
+   "note": "2 bids; mixed basket. Local database/API result, page not opened; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$9 hammer",
+   "currency": "AUD",
+   "aud_price": 9,
+   "date": "2026-09-06",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/ (lot id 435708) QTY OF WOOD TURNING CHISELS",
+   "same_item": "category guide",
+   "note": "0 bids per API field, sold at $9; low end for a plain quantity. Local database/API result, page not opened; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85 hammer",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2025-07-30",
+   "venue": "Armitage Auctions, Launceston sale 25274 lot 1618",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2582771&chid=25274&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Marples set, a better brand than unbranded CHINA; upper comparison. Local database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2025-03-26",
+   "venue": "Armitage Auctions, Launceston sale 23723 lot 1678",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2448015&chid=23723&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Marples set, better brand. Local database, page not opened."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$47.60",
    "currency": "AUD",
    "aud_price": 47.6,
@@ -52,8 +129,9 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: '8 piece wood turning chisel set' (error page); 'wood turning chisel set'",
- "viewing_check": "Check blade condition, handles cracks, that all 8 are there. Budget Chinese sets sell about A$16-48 on eBay, lot hammer already $15.",
+ "searches_tried": "comps.py (pipeline and work) x3 with turning/lathe/chisels/wood words; Gowans API searches 'lathe chisels' and 'turning chisels'. No web search done: item is generic budget import tools. eBay sold prices for 'chinese 8 piece wood turning chisel set' would settle it but are low value. | chrome: eBay AU sold: '8 piece wood turning chisel set' (error page); 'wood turning chisel set'",
  "needs_chrome": false,
+ "viewing_check": "Check blade condition, handles cracks, that all 8 are there. Budget Chinese sets sell about A$16-48 on eBay, lot hammer already $15.",
+ "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

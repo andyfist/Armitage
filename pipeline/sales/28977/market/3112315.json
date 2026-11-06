@@ -5,6 +5,127 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "$260 hammer",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "2026-02-11",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2810648&chid=27196&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Sale 27196 lot 1474 KELLY (DANDENONG) AXE. Database hit, page not opened; condition unknown. Best direct comp. Hammer, 22% premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-03-04",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2835265&chid=27352&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Sale 27352 lot 1493 KELLY AXE. Database hit; maker/stamp variant and condition unknown. Hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$170 hammer",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2025-06-18",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2535826&chid=24218&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Sale 24218 lot 1653 KELLY AXE. Database hit; condition unknown. Hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2025-07-09",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2560139&chid=25107&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Sale 25107 lot 1666 KELLY AXE. Database hit; condition unknown. Hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$290 hammer",
+   "currency": "AUD",
+   "aud_price": 290,
+   "date": "2026-05-27",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2925617&chid=27893&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Sale 27893 lot 1439 KELLY 2 KG AXE stamped TASMANIAN PATENT. Likely better pattern/size than this one. Database hit. Hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$220 hammer",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "2026-07-29",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997086&chid=28329&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Sale 28329 lot 1433 TASMANIAN PATTERN KELLY AXE HEAD (head only). Database hit. Hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2025-12-08",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 381365",
+   "same_item": "category guide",
+   "note": "2 axes, Hytest Craftsmen & Kelly, one bid. Mixed lot, weak comp. Hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$275 (1 bid)",
+   "currency": "AUD",
+   "aud_price": 275,
+   "date": "2026-04",
+   "venue": "eBay AU (via search summary)",
+   "url": "https://www.ebay.com/itm/236710500752",
+   "same_item": "close",
+   "note": "Used Kelly Worlds Finest Dandenong axe head, ended April 2026. Snippet only, not verified (eBay closed to us); buyer pool is national and postage-inclusive."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$232.50 (23 bids)",
+   "currency": "AUD",
+   "aud_price": 232.5,
+   "date": "2026-01",
+   "venue": "eBay (via search summary)",
+   "url": "https://www.ebay.com/itm/177765236273",
+   "same_item": "close",
+   "note": "Vintage Kelly Dandenong Tasmanian pattern axe, described as tidy and solid. Snippet only, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$569",
+   "currency": "AUD",
+   "aud_price": 569,
+   "date": "2026-03",
+   "venue": "eBay AU (via search summary)",
+   "url": "https://www.ebay.com.au/itm/388537650343",
+   "same_item": "category guide",
+   "note": "New old stock 2kg Kelly Dandenong, unused. Not comparable to a buffed, pitted used head. Snippet only, not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$200-475 used; US$750 dealer",
+   "currency": "AUD/USD",
+   "aud_price": 200,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay listings / Stumptown Axes",
+   "url": "https://stumptownaxes.com/products/kelly-world-s-finest-dandenong",
+   "same_item": "category guide",
+   "note": "Asking prices only, snippet only. Dealer US$750 not converted (no rate used); aud_price shows low end of used asks."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$275.00",
    "currency": "AUD",
    "aud_price": 275,
@@ -76,8 +197,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: kelly dandenong axe (error), kelly worlds finest axe (52 results, Kelly heads A$60-456, Tassie pattern up to A$1,300)",
- "viewing_check": "Read the head stamps (Dandenong, Made in Australia vs Canada True Temper), weigh it, identify the pattern (Tasmanian pattern is the premium one), check for cracks and eye damage, handle fit; heavy buffing may cut value for collectors.",
+ "searches_tried": "comps.py (pipeline) kelly axe, dandenong, axe worlds finest; work/comps.py kelly axe, dandenong axe, axe --min-price 80; Gowans API kelly axe (only past hit: $40 mixed lot; a 'KELLY AXE & HATCHET' lot created 2026-11-01 is from the current/upcoming sale so skipped); WebSearch Kelly Dandenong axe sold auction price (eBay/PicClick snippets only, no auction house results). eBay sold listings would settle it. Generic tool, stopped at limited searches. Local Armitage comps: Kelly axes $90-290 hammer, median about $110; the one explicit Dandenong sold $260. | chrome: eBay AU sold: kelly dandenong axe (error), kelly worlds finest axe (52 results, Kelly heads A$60-456, Tassie pattern up to A$1,300)",
  "needs_chrome": false,
+ "chrome_hint": "eBay AU sold+completed: Kelly Dandenong axe (also 'Kelly Worlds Finest axe head'), last 12 months, used/polished heads",
+ "rate_note": "All AUD, no conversion except noted.",
+ "viewing_check": "Read the head stamps (Dandenong, Made in Australia vs Canada True Temper), weigh it, identify the pattern (Tasmanian pattern is the premium one), check for cracks and eye damage, handle fit; heavy buffing may cut value for collectors.",
  "chrome_done": true
 }

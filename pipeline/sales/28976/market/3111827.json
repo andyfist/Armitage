@@ -2,9 +2,34 @@
  "cdid": 3111827,
  "lot": 997,
  "identification": "Rustic natural branch-frame armchair with figured burl slab seat (macrocarpa/cypress per cloud research), three sawn back slats possibly replacement, unmarked Australian/NZ bush furniture.",
- "entries": [],
- "searches_tried": " | chrome: eBay AU sold: rustic branch armchair burl seat (error page); rustic tree branch armchair (junk hardware only); macrocarpa chair and macrocarpa armchair (eBay error page, no results). Trade Me not tried (login/time).",
- "viewing_check": "Check joints and whether the branch frame is sound, borer/rot, the seat slab for cracks, and whether the back slats are replacements. Sit-test for wobble.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer (set of 5 rustic chairs, Gowans)",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2025-12-14",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans id 383351",
+   "same_item": "category guide",
+   "note": "Weak comp: set of 5 generic rustic chairs, not branch-frame or burl. Local database; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer (slab of macrocarpa, ~2.5 m, Gowans)",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2025-11-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa",
+   "same_item": "category guide",
+   "note": "Raw timber only, shows macrocarpa slab raw material value. Not a chair. Premium extra."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with macrocarpa armchair, macrocarpa chair, rustic chair burl, branch chair, burl seat, slab seat; Gowans API macrocarpa chair and rustic armchair (no chair hits); WebSearch rustic macrocarpa armchair slab seat auction; WebSearch site:armitage.bidsonline.com.au rustic chair natural branch (no relevant past lot); 1stdibs branch chair pages found by search but prices not retrievable by curl (snippet only, no prices seen). No same-item sold comp found. eBay sold listings and 1stdibs/LiveAuctioneers results would settle it better. | chrome: eBay AU sold: rustic branch armchair burl seat (error page); rustic tree branch armchair (junk hardware only); macrocarpa chair and macrocarpa armchair (eBay error page, no results). Trade Me not tried (login/time).",
  "needs_chrome": false,
+ "chrome_hint": "eBay sold: rustic tree branch armchair burl slab seat; also eBay AU sold: macrocarpa chair; Trade Me sold: macrocarpa armchair",
+ "viewing_check": "Check joints and whether the branch frame is sound, borer/rot, the seat slab for cracks, and whether the back slats are replacements. Sit-test for wobble.",
+ "rate_note": "All AUD, no conversion needed.",
  "chrome_done": true
 }

@@ -2,9 +2,67 @@
  "cdid": 3112371,
  "lot": 1648,
  "identification": "Fiskars X-series splitting axe (orange/black composite handle, X27-style size) plus 24-30in bolt cutters, both rusty",
- "entries": [],
- "searches_tried": " | chrome: eBay AU sold: fiskars x25 splitting axe; fiskars splitting axe; fiskars x27 axe (all three hit eBay Error Page after long waits, no data).",
- "viewing_check": "Check axe model on the head (X25/X27/X21), head rust and handle cracks; bolt cutters jaw alignment and cutting edge.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-03-04",
+   "venue": "Armitage Auctions, Launceston sale 27352 lot 1682",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2835171&chid=27352&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "FISKARS AXE/LOG SPLITTER, from local comps database (page not opened). Hammer, premium extra. Condition unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer (7 bids)",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-08-16",
+   "venue": "Gowans Hobart lot 431834 LARGE BOLT CUTTERS",
+   "url": "gowans id 431834",
+   "same_item": "close",
+   "note": "From comps database. Large bolt cutters alone; generic."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$15 hammer (4 bids)",
+   "currency": "AUD",
+   "aud_price": 15,
+   "date": "2026-08-09",
+   "venue": "Gowans Hobart lot 430024 HEAVY DUTY BOLT CUTTERS",
+   "url": "gowans id 430024",
+   "same_item": "close",
+   "note": "From comps database. Other bolt cutter hammers 2025-26 ranged $15 to $35 (median $25), one $80 with other tools."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$157.97 (currency unlabelled)",
+   "currency": "AUD",
+   "aud_price": 157.97,
+   "date": "live, seen 2026-11-06",
+   "venue": "Amazon.com.au Fiskars X27 search",
+   "url": "https://www.amazon.com.au/fiskars-x27/s?k=fiskars+x27",
+   "same_item": "close",
+   "note": "Snippet only, unverified. New retail X27 36 inch; this lot is used and rusty, so far below."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$129 / $99 / $173.90 (old Bunnings and Mitre 10 reports)",
+   "currency": "AUD",
+   "aud_price": 129,
+   "date": "2013 to 2017",
+   "venue": "OzBargain and ProductReview",
+   "url": "https://www.ozbargain.com.au/node/107223",
+   "same_item": "close",
+   "note": "Snippet only, years old, new retail."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for fiskars axe, splitting axe, axe, bolt cutters; Gowans API for fiskars, splitting axe, splitting maul (no same-item sold except tool tubs); WebSearch Fiskars X27 price Australia. eBay sold prices (closed) would settle it but low value item. | chrome: eBay AU sold: fiskars x25 splitting axe; fiskars splitting axe; fiskars x27 axe (all three hit eBay Error Page after long waits, no data).",
  "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Check axe model on the head (X25/X27/X21), head rust and handle cracks; bolt cutters jaw alignment and cutting edge.",
+ "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

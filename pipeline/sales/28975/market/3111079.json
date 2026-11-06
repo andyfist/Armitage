@@ -4,6 +4,39 @@
  "identification": "Three men's Liberty London print shirts (short sleeve, Liberty labels, tags), Lodden William Morris print, koi fish print, red floral, apparently new with tags, size 42.",
  "entries": [
   {
+   "kind": "ASKING",
+   "price": "USD 115 (reduced from USD 190)",
+   "currency": "USD",
+   "aud_price": 175,
+   "date": "live, seen 2026-11-06",
+   "venue": "Liberty London (US site), Lodden Fitted Shirt, long sleeve, out of stock",
+   "url": "https://www.libertylondon.com/us/lodden-fitted-shirt-000757129.html",
+   "same_item": "close",
+   "note": "Page opened. Same Lodden print but long sleeve fitted women's/fitted cut, new retail sale price. AUD at 1 USD = 1.52 AUD (assumed rate). Retail ceiling only, not a price paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 60 (reduced from GBP 175)",
+   "currency": "GBP",
+   "aud_price": 123,
+   "date": "live, seen 2026-11-06",
+   "venue": "Liberty London UK, Phoebe Tana Lawn casual classic slim fit shirt",
+   "url": "https://www.libertylondon.com/uk/phoebe-tana-lawn\u2122-cotton-casual-classic-slim-fit-shirt-R265209006.html",
+   "same_item": "category guide",
+   "note": "Snippet only. Different print, shows Liberty's own marked-down new price for a men's Tana Lawn shirt. AUD at 1 GBP = 2.05 AUD (assumed rate). Not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 90 (reduced from GBP 175)",
+   "currency": "GBP",
+   "aud_price": 185,
+   "date": "live, seen 2026-11-06",
+   "venue": "Liberty London UK, Lasenby Wiltshire Bud Tana Lawn casual shirt",
+   "url": "https://www.libertylondon.com/uk/lasenby-wiltshire-bud-tana-lawn%E2%84%A2-cotton-casual-shirt-000796768.html",
+   "same_item": "category guide",
+   "note": "Snippet only. Different print, Liberty sale price. AUD at 2.05. Not verified."
+  },
+  {
    "kind": "SOLD",
    "price": "A$140.88",
    "currency": "AUD",
@@ -52,8 +85,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: liberty london mens shirt (mostly J Crew/Onia/Uniqlo collabs, ignored); liberty tana lawn mens shirt short sleeve; liberty london shirt new with tags mens size 42. Lodden and koi prints not found specifically.",
- "viewing_check": "Confirm all three are genuine Liberty-labelled and unworn with tags, actual size on neck labels, and any marks or fold damage. Single genuine Liberty shirts sell roughly A$50-140, so three is a bundle of that.",
+ "searches_tried": "comps.py (pipeline and work) liberty shirt, liberty, liberty london: no same-item hits (only unrelated Liberty lots). Gowans API liberty shirt: no hits. WebSearch: Liberty Lodden men's shirt price; Liberty Tana Lawn men's shirt auction sold; site:armitage.bidsonline.com.au Liberty shirt (nothing); Liberty London shirt new with tags eBay AU (only ebay.de snippets). WebFetch Liberty Lodden page. No Australian auction SOLD found. Search summaries mention eBay.de sold results for used or new Liberty Tana Lawn shirts around GBP 45 (about AUD 90) and a men's floral polo USD 50, but no item URLs were given, so they are not recorded as entries. Indicative only: resale for a single shirt is about AUD 50 to 100, so the three plausibly total AUD 150 to 250 if genuinely new. eBay sold listings would settle it. Note the labels may be Liberty Fabrics-licensed ranges rather than Liberty London main line; check. | chrome: eBay AU sold: liberty london mens shirt (mostly J Crew/Onia/Uniqlo collabs, ignored); liberty tana lawn mens shirt short sleeve; liberty london shirt new with tags mens size 42. Lodden and koi prints not found specifically.",
  "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold and completed: \"Liberty London men's shirt\" (also \"Liberty Tana Lawn men's shirt new with tags\", and \"Liberty Lodden shirt\"), Australia and UK sold items, last 90 days",
+ "viewing_check": "Confirm all three are genuine Liberty-labelled and unworn with tags, actual size on neck labels, and any marks or fold damage. Single genuine Liberty shirts sell roughly A$50-140, so three is a bundle of that.",
+ "rate_note": "1 USD = 1.52 AUD and 1 GBP = 2.05 AUD, approximate assumed rates.",
  "chrome_done": true
 }

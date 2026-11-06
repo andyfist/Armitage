@@ -5,6 +5,105 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "$95 hammer",
+   "currency": "AUD",
+   "aud_price": 95,
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions sale 28839 lot 682",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088127&chid=28839&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Bells 750ml whisky decanter and contents, model not stated (may not be the Queen 60th). Local database, hammer, premium extra. Same room, recent."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2025-06-18",
+   "venue": "Armitage Auctions sale 24216 lot 572",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2535199&chid=24216&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Commemorative Bells decanter (unopened) plus a crystal decanter, so Bells part worth less than $45. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2025-06-18",
+   "venue": "Armitage Auctions sale 24216 lot 599",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2535224&chid=24216&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Set of 4 graduated Bells Old Scotch decanters, unopened; about $25 each, different series. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions, Hobart, lot id 415014",
+   "url": "gowans lot id 415014",
+   "same_item": "category guide",
+   "note": "4 Bells decanters plus bottle, all empty; about $10 each. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$12 hammer",
+   "currency": "AUD",
+   "aud_price": 12,
+   "date": "2025-10-06",
+   "venue": "Gowans Auctions, Hobart, lot id 366071",
+   "url": "gowans lot id 366071",
+   "same_item": "category guide",
+   "note": "Mixed lot with tankard, character jug and a Bells decanter. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 24 winning bid",
+   "currency": "GBP",
+   "aud_price": 48,
+   "date": "2024-02-13",
+   "venue": "whisky.auction (UK online), lot 178280",
+   "url": "https://whisky.auction/auctions/lot/178280/bell-s-ceramic-decanter",
+   "same_item": "yes",
+   "note": "Queen Elizabeth II 60th, 75cl 43%, 1986. Page opened. Rate GBP1 = A$2.00 assumed. Page also shows 'Reserve Not met / Sold in Aftersale' template text, so final status slightly unclear; premium and UK VAT not included. Fill level not checked."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 30 winning bid",
+   "currency": "GBP",
+   "aud_price": 60,
+   "date": "2025-03-18",
+   "venue": "whisky.auction (UK online), lot 200053",
+   "url": "https://whisky.auction/auctions/lot/200053/bell-s-ceramic-decanter",
+   "same_item": "yes",
+   "note": "Same decanter, 75cl 43%. Page opened. Rate GBP1 = A$2.00 assumed. Same status caveat; before premium and VAT. UK price, not delivered to Tasmania."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 18 hammer (3 decanters)",
+   "currency": "GBP",
+   "aud_price": 36,
+   "date": "2023",
+   "venue": "Easy Live Auction (UK), lot of three Bells commemoratives",
+   "url": "https://www.easyliveauction.com/catalogue/lot/b0f2134687c1fed1df136f5b28140817/0af8d24542e81eb9357e7ef448a6646f/general-antiques-interiors/",
+   "same_item": "close",
+   "note": "Snippet only, unverified. Three full decanters including this one for GBP18 (about A$2 to A$12 each)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "retail listing, price not seen",
+   "currency": "GBP",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-06",
+   "venue": "Just Whisky",
+   "url": "https://www.just-whisky.co.uk/product/bells-decanter-queens-60th-birthday-1346939",
+   "same_item": "yes",
+   "note": "Snippet only, no price seen. Retail asking, not a price paid."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$92",
    "currency": "AUD",
    "aud_price": 92,
@@ -52,8 +151,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: AWA 'bell' filtered decanter/1986/queen/andrew",
- "viewing_check": "Can't see the fill in a ceramic decanter, so weigh it against lot 730 or give a gentle shake; check seal/stopper, box condition",
+ "searches_tried": "comps.py (pipeline and work) with bells whisky decanter, bells whisky, bells commemorative decanter, bells queen; Gowans API search 'bells decanter'; WebSearch for 1986 Queen 60th Bell's sold; opened two whisky.auction lots and Highland Whisky Auctions lot page (no price shown, needs script). eBay sold would show typical UK/AU prices. Did not search Armitage lot pages or estimate. | chrome: AWA 'bell' filtered decanter/1986/queen/andrew | chrome: AWA 'bell' filtered decanter/1986/queen/andrew",
  "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold listings: Bell's decanter Queen Elizabeth 60th birthday 1986 Wade (check Sold Items filter)",
+ "rate_note": "GBP1 = A$2.00 assumed",
+ "viewing_check": "Can't see the fill in a ceramic decanter, so weigh it against lot 730 or give a gentle shake; check seal/stopper, box condition",
  "chrome_done": true
 }

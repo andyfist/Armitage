@@ -5,6 +5,127 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "$90",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-04-19",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 403410",
+   "same_item": "close",
+   "note": "Austramax (Australian Coleman) pressure kerosene lantern in wooden box with accessories, 4 bids; boxed and complete so better than this lot. Hammer, premium extra. Local DB hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 436137",
+   "same_item": "close",
+   "note": "Tilley lamp, coffee pot and carriage lamp, 4 bids. Multi-item lot. Hammer. Local DB."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$110",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-02-01",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 387322",
+   "same_item": "category guide",
+   "note": "Copper Tilley-Hendon lamp, 2 bids; better model than this one. Hammer. Local DB."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$7",
+   "currency": "AUD",
+   "aud_price": 7,
+   "date": "2025-10-06",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 366228",
+   "same_item": "close",
+   "note": "Vintage Tilley storm lantern, 0 bids, likely poor. Hammer. Local DB."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2025-06-18",
+   "venue": "Armitage Auctions, Launceston sale 24218 lot 1451",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2535626&chid=24218&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Brass based Tilley lamp. Hammer, 22% premium extra. Local DB."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$110",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-02-11",
+   "venue": "Armitage Auctions, Launceston sale 27196 lot 1496",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2810670&chid=27196&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Box lot: Tilley lamp, insect sprayer etc. Hammer. Local DB."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-09-07",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 436924",
+   "same_item": "category guide",
+   "note": "Brass kerosene lantern, 5 bids. Hammer. Local DB via Gowans API."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-01-19",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 384415",
+   "same_item": "category guide",
+   "note": "Brass kerosene lantern, 11 bids, brass so stronger than glass lamp. Hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2025-12-08",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 381466",
+   "same_item": "category guide",
+   "note": "Vintage kerosene lantern in box, 0 bids. Hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-03-09",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 395081",
+   "same_item": "category guide",
+   "note": "Late 19th century wall mounted lamp bracket, 1 bid; older and likely better quality than this steel bracket. Hammer."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "live, seen 2026-11-06",
+   "venue": "napoleonexhibit.com listing (Austramax Model 2/300)",
+   "url": "https://napoleonexhibit.com/store/Austramax-Model-2-300-Kerosene-Pressure-Lantern-Made-In-Australia-Coleman-Old_206445844516.html",
+   "same_item": "close",
+   "note": "Dealer ask for Australian-made Coleman Austramax, small crack in glass. Snippet only, not verified, currency assumed AUD."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$122.60",
    "currency": "AUD",
    "aud_price": 122.6,
@@ -40,8 +161,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: coleman austramax pressure lantern (one error page first); Kosmos wall lamp not searched",
- "viewing_check": "Read the fount stamp for Coleman / Austramax / Tilley and model number, check the globe is present and unbroken, pump and generator, and that the wall lamp bracket and burner are original.",
+ "searches_tried": "comps.py (work and pipeline) for kosmos lamp, tilley lantern, pressure lantern, tilley lamp; Gowans API for tilley lamp, kerosene lantern, wall lamp; WebSearch for Coleman Australia lantern and Kosmos wall lamp (no Australian sold results). eBay AU sold listings for 'Coleman Austramax pressure lantern' and 'Kosmos wall bracket oil lamp' would settle it. | chrome: eBay AU sold: coleman austramax pressure lantern (one error page first); Kosmos wall lamp not searched",
  "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: Coleman Austramax 2/300 pressure lantern; and Kosmos wall bracket kerosene lamp",
+ "rate_note": "All AUD hammer, no conversion. Premium extra on Gowans/Armitage.",
+ "viewing_check": "Read the fount stamp for Coleman / Austramax / Tilley and model number, check the globe is present and unbroken, pump and generator, and that the wall lamp bracket and burner are original.",
  "chrome_done": true
 }

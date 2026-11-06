@@ -5,6 +5,83 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-08-30",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hand%20tools",
+   "same_item": "close",
+   "note": "BOX OF ASST HAND TOOLS, lot 435132, 5 bids; similar generic box. Premium extra; AUD, no conversion. Local database/API result (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hand%20tools",
+   "same_item": "close",
+   "note": "BOX OF ASST HAND TOOLS, lot 421836, 3 bids. Premium extra; AUD, no conversion. Local database/API result (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$125 hammer",
+   "currency": "AUD",
+   "aud_price": 125,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=vintage%20tools",
+   "same_item": "close",
+   "note": "BOX OF VINTAGE TOOLS & HAND PLANES, lot 414066, 4 bids; top of generic range. Premium extra; AUD, no conversion. Local database/API result (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25 hammer",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2025-11-18",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=vintage%20tools",
+   "same_item": "close",
+   "note": "BOX OF VINTAGE TOOLS INCL HAND PLANES & GLUE POT, lot 376666, 2 bids. Premium extra; AUD, no conversion. Local database/API result (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2025-10-28",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tools",
+   "same_item": "close",
+   "note": "BOX OF ASST TOOLS INCL HAND PLANES, lot 371630, 10 bids. Premium extra; AUD, no conversion. Local database/API result (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-04-26",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wire%20strainer",
+   "same_item": "category guide",
+   "note": "BOX WITH WIRE STRAINER, TRENCH ART & OTHERS, lot 405966, 3 bids. Premium extra; AUD, no conversion. Local database/API result (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$16 hammer",
+   "currency": "AUD",
+   "aud_price": 16,
+   "date": "2025-10-27",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=stanley%20plane",
+   "same_item": "category guide",
+   "note": "Single Stanley No.4 plane, lot 371494; unmarked plane in this lot likely similar or less. Premium extra; AUD, no conversion. Local database/API result (page not opened)."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$90.80",
    "currency": "AUD",
    "aud_price": 90.8,
@@ -28,8 +105,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: job lot vintage hand tools box (AU only), no same-item box lots found",
- "viewing_check": "Check the plane maker and number (Stanley Bailey / Record) on the lever cap and sole, and any Sorby chisels or older boxwood tools in the pile.",
+ "searches_tried": "comps.py (pipeline and work) for sorby turning tool, bench plane, box hand tools; Gowans API for sorby (no sold hits), wire strainer, stanley plane. Generic lot so stopped early; no web search. eBay sold would only help for a single Sorby tool (about one tool's worth). | chrome: eBay AU sold: job lot vintage hand tools box (AU only), no same-item box lots found",
  "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Check the plane maker and number (Stanley Bailey / Record) on the lever cap and sole, and any Sorby chisels or older boxwood tools in the pile.",
+ "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

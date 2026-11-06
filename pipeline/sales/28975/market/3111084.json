@@ -4,6 +4,50 @@
  "identification": "Two new-with-tags men's Liberty London Tana Lawn cotton shirts (Wiltshire berry print and Ianthe art nouveau print, burgundy), one in purple Liberty box; sizes not legible.",
  "entries": [
   {
+   "kind": "ASKING",
+   "price": "$245 (many colourways, some marked down to $135 or $77)",
+   "currency": "USD (unconfirmed)",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-06",
+   "venue": "Lyst (Liberty button-down cotton shirts)",
+   "url": "https://www.lyst.com/shop/mens-liberty-casual-shirts/",
+   "same_item": "category guide",
+   "note": "snippet only. Not the Wiltshire or Ianthe prints; currency not confirmed so aud_price left 0. Retail guide only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$199 (Liberty Safari Stamp Linen Shirt, regular price)",
+   "currency": "unconfirmed (likely AUD)",
+   "aud_price": 199,
+   "date": "live, seen 2026-11-06",
+   "venue": "Studio Suits, Liberty London shirts collection",
+   "url": "https://www.studiosuits.com/collections/liberty-london-shirts",
+   "same_item": "category guide",
+   "note": "page opened (curl); retail price for a different Liberty shirt, currency assumed AUD, no rate used. Shows new retail around $199."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$35 (pre-owned Bensimon x Liberty Wiltshire floral shirt, size L)",
+   "currency": "USD (unconfirmed)",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay",
+   "url": "https://www.ebay.com/shop/liberty-of-london-mens-shirt?_nkw=liberty+of+london+mens+shirt",
+   "same_item": "close",
+   "note": "snippet only, not verified, used and co-branded; low end of secondhand asking."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$225 reduced to $115 (Liberty print shirt, red floral, size 17)",
+   "currency": "unconfirmed",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-06",
+   "venue": "Everards Clothing",
+   "url": "https://everardsclothing.com/product/liberty-of-london-print-shirt-red-floral/",
+   "same_item": "category guide",
+   "note": "snippet only, not verified; different print."
+  },
+  {
    "kind": "SOLD",
    "price": "A$71.78",
    "currency": "AUD",
@@ -16,8 +60,9 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: liberty london mens shirt ianthe (1 relevant); liberty of london mens shirt wiltshire (only women's or fabric, ladies Wiltshire shirts A$55-87, not same). No sold comp for new men's Wiltshire.",
- "viewing_check": "Read the size labels and tags, confirm Liberty London brand label, confirm both are new with tags and unmarked.",
+ "searches_tried": "comps.py (pipeline and work) for liberty shirt / liberty london / liberty tana lawn: no sales. Gowans API search 'liberty' and 'liberty shirt': no clothing lots, only unrelated items. WebSearch for Wiltshire and Ianthe Liberty men's shirts: only retail and eBay/Etsy listings, no sold prices. Armitage site search not run. eBay sold listings would settle value: Chrome step needed. | chrome: eBay AU sold: liberty london mens shirt ianthe (1 relevant); liberty of london mens shirt wiltshire (only women's or fabric, ladies Wiltshire shirts A$55-87, not same). No sold comp for new men's Wiltshire.",
  "needs_chrome": false,
+ "chrome_hint": "eBay sold + completed: 'Liberty London mens shirt Tana Lawn Ianthe' and 'Liberty of London mens shirt Wiltshire', AU and UK, new with tags",
+ "viewing_check": "Read the size labels and tags, confirm Liberty London brand label, confirm both are new with tags and unmarked.",
  "chrome_done": true
 }

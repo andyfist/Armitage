@@ -5,55 +5,97 @@
  "entries": [
   {
    "kind": "SOLD",
-   "price": "A$125",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28712 lot 686",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067147&chid=28712&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "750ml White Horse America's Cup; local database record, page not opened; condition not known. Hammer, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 413272",
+   "same_item": "yes",
+   "note": "1987 America's Cup White Horse bottle; local database record, 5 bids at the Gowans sale; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$125 hammer",
    "currency": "AUD",
    "aud_price": 125,
    "date": "2026-04-26",
-   "venue": "Australian Whisky Auctions",
+   "venue": "Australian Whisky Auctions (via local comps database, not opened)",
    "url": "https://www.australianwhiskyauctions.com.au/lot-581462/white-horse-1987-americas-cup",
    "same_item": "yes",
-   "note": "Same bottle, 750ml 40%. Hammer, excl. AWA buyer's premium",
-   "via": "chrome"
+   "note": "750ml 40%, with neck collar/leaflet, same as this lot; local database, page not opened."
   },
   {
    "kind": "SOLD",
-   "price": "A$105",
+   "price": "$105 hammer",
    "currency": "AUD",
    "aud_price": 105,
    "date": "2025-01-26",
-   "venue": "Australian Whisky Auctions",
+   "venue": "Australian Whisky Auctions (via local comps database, not opened)",
    "url": "https://www.australianwhiskyauctions.com.au/lot-430629/white-horse-americas-cup-1987-limited-edition-blend",
    "same_item": "yes",
-   "note": "750ml 40%, no reserve",
-   "via": "chrome"
+   "note": "750ml 40%, with collar/leaflet, no reserve; local database, page not opened."
   },
   {
    "kind": "SOLD",
-   "price": "A$75",
+   "price": "$75 hammer",
    "currency": "AUD",
    "aud_price": 75,
    "date": "2024-11-24",
-   "venue": "Australian Whisky Auctions",
+   "venue": "Australian Whisky Auctions (via local comps database, not opened)",
    "url": "https://www.australianwhiskyauctions.com.au/lot-420559/white-horse-americas-cup-1987-limited-edition-blend",
    "same_item": "yes",
-   "note": "750ml 40%",
-   "via": "chrome"
+   "note": "750ml 40%; local database, page not opened."
   },
   {
    "kind": "SOLD",
-   "price": "A$160",
+   "price": "$160 hammer",
    "currency": "AUD",
    "aud_price": 160,
    "date": "2024-10-27",
-   "venue": "Australian Whisky Auctions",
+   "venue": "Australian Whisky Auctions (via local comps database, not opened)",
    "url": "https://www.australianwhiskyauctions.com.au/lot-411235/white-horse-1987-americas-cup",
    "same_item": "yes",
-   "note": "750ml 40%, no reserve",
-   "via": "chrome"
+   "note": "750ml 40%, no reserve, with collar/leaflet; local database, page not opened. Top of range."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$185 (2 x 750ml, aged 12 years version)",
+   "currency": "AUD",
+   "aud_price": 185,
+   "date": "2022-08",
+   "venue": "Grays Online",
+   "url": "https://www.grays.com/lot/0003-10713471/private-cellar/white-horse-america-s-cup-scotch-whiskey-aged-12-years-2-x750ml",
+   "same_item": "close",
+   "note": "Two bottles in one lot, so about $92 each; snippet only, not verified, premium status unknown."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$200 (was $250), sold out",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "seen 2026-11-06",
+   "venue": "My Bottle Shop (retail)",
+   "url": "https://www.mybottleshop.au/catalog/product/view/id/28684/s/white-horse-america-s-cup-scotch-whisky-1987-perth-edition-750ml/",
+   "same_item": "yes",
+   "note": "1987 Perth Edition 750ml; snippet only; retail asking price, shown sold out, not a price paid."
   }
  ],
- "searches_tried": " | chrome: AWA 'white horse' filtered america/cup/1987",
- "viewing_check": "Fill level, screw cap seal, whether the collar/leaflet is complete",
+ "searches_tried": "Local comps.py (pipeline and work) with white horse/america/cup words; one WebSearch for sold results. Did not reach Australian Whisky Auctions, eBay (403). eBay sold listings would help settle the range. | chrome: AWA 'white horse' filtered america/cup/1987 | chrome: AWA 'white horse' filtered america/cup/1987",
  "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold items: White Horse America's Cup 1987 whisky 750ml",
+ "viewing_check": "Fill level, screw cap seal, whether the collar/leaflet is complete",
+ "rate_note": "All AUD; no conversion needed. GBP results seen only as snippets and excluded.",
  "chrome_done": true
 }

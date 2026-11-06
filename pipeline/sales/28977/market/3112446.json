@@ -5,6 +5,105 @@
  "entries": [
   {
    "kind": "SOLD",
+   "price": "$10 hammer",
+   "aud_price": 10,
+   "currency": "AUD",
+   "date": "2026-09-20",
+   "venue": "Gowans Hobart",
+   "url": "gowans lot id 439815",
+   "same_item": "close",
+   "note": "Makita hammer drill in case; local DB only, no page opened. Low end."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "aud_price": 65,
+   "currency": "AUD",
+   "date": "2026-05-24",
+   "venue": "Gowans Hobart",
+   "url": "gowans lot id 412432",
+   "same_item": "close",
+   "note": "Makita hammer drill and drill bits, 8 bids; closest comp to drill plus bits. Local DB only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "aud_price": 70,
+   "currency": "AUD",
+   "date": "2025-12-14",
+   "venue": "Gowans Hobart",
+   "url": "gowans lot id 383532",
+   "same_item": "close",
+   "note": "Metabo and Makita hammer drills (two drills). Local DB only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$27 hammer",
+   "aud_price": 27,
+   "currency": "AUD",
+   "date": "2026-01-26",
+   "venue": "Gowans Hobart",
+   "url": "gowans lot id 386552",
+   "same_item": "close",
+   "note": "Ozito grinder in case, 3 bids. Local DB only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20 hammer",
+   "aud_price": 20,
+   "currency": "AUD",
+   "date": "2025-05-07",
+   "venue": "Armitage Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491331&chid=23991&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Ozito 9-inch grinder and Makita roofing drill, sale 23991 lot 1627. Local DB only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "aud_price": 100,
+   "currency": "AUD",
+   "date": "2026-07-26",
+   "venue": "Gowans Hobart",
+   "url": "gowans lot id 427007",
+   "same_item": "category guide",
+   "note": "Case of Rockwell drill bits, 15 bids; bit sets can sell well. Local DB only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2025-10-13",
+   "venue": "Gowans Hobart",
+   "url": "gowans lot id 367169",
+   "same_item": "category guide",
+   "note": "2 cased sets masonry bits. Local DB only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$38.90",
+   "aud_price": 38.9,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Bunnings Australia",
+   "url": "https://www.bunnings.com.au/ozito-100mm-4-850w-angle-grinder_p6290579",
+   "same_item": "close",
+   "note": "New Ozito 100mm 850W grinder retail; snippet only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$199",
+   "aud_price": 199,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Bunnings Australia",
+   "url": "https://www.bunnings.com.au/makita-680w-13mm-hammer-drill_p6240083",
+   "same_item": "close",
+   "note": "New Makita HP1640KSP retail with bit set; snippet only. Used units on eBay AU reported about $70 (snippet only, unverified)."
+  },
+  {
+   "kind": "SOLD",
    "price": "A$99.95",
    "currency": "AUD",
    "aud_price": 99.95,
@@ -52,8 +151,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": " | chrome: eBay AU sold: makita hp1640 hammer drill (6 matches); did not search Ozito grinder or bit sets",
- "viewing_check": "Read the Makita model number on the drill plate, confirm it runs, hammer action works and the handle and chuck key are present; check grinder is genuinely new with guard and handle.",
+ "searches_tried": "comps.py (work and pipeline) for ozito angle grinder, makita hammer drill, ozito grinder, drill bits case; Gowans API search ozito angle grinder; WebSearch Ozito 100mm grinder price; WebSearch Makita HP1640 price. No AUD rate needed. eBay sold prices for used Makita HP1640 would settle drill value. | chrome: eBay AU sold: makita hp1640 hammer drill (6 matches); did not search Ozito grinder or bit sets",
  "needs_chrome": false,
+ "chrome_hint": "eBay AU sold: Makita HP1640 hammer drill used",
+ "viewing_check": "Read the Makita model number on the drill plate, confirm it runs, hammer action works and the handle and chuck key are present; check grinder is genuinely new with guard and handle.",
+ "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }
