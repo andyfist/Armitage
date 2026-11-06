@@ -1,7 +1,7 @@
 {
  "cdid": 3112290,
  "lot": 1618,
- "identification": "Topcon RL-H4C rotating laser with LS-80 receiver, bracket and case, plus a Pentax-type automatic dumpy level, two cases (orange hard case, yellow Topcon case).",
+ "identification": "Topcon RL-H4C rotating laser with LS-80 receiver, bracket and case, plus automatic dumpy level in cases",
  "entries": [
   {
    "kind": "SOLD",
@@ -140,10 +140,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline, errored; work comps used: topcon, pentax, dumpy level, rotating laser, laser level), Gowans API (topcon, pentax, auto level, survey level), WebSearch x3 (RL-H4C sold/price, Pentax auto level sold). eBay sold prices would settle it: eBay.com.au sold, 'Topcon RL-H4C' and 'Topcon RL-H4C LS-80'. | chrome: eBay AU sold: topcon rl-h4c (first attempts hit eBay Error Page, retried after wait) | chrome: eBay AU sold: topcon rl-h4c (first attempts hit eBay Error Page, retried after wait)",
+ "searches_tried": "comps.py (pipeline, errored; work comps used: topcon, pentax, dumpy level, rotating laser, laser level), Gowans API (topcon, pentax, auto level, survey level), WebSearch x3 (RL-H4C sold/price, Pentax auto level sold). eBay sold prices would settle it: eBay.com.au sold, 'Topcon RL-H4C' and 'Topcon RL-H4C LS-80'. | chrome: eBay AU sold: topcon rl-h4c (first attempts hit eBay Error Page, retried after wait) | chrome: eBay AU sold: topcon rl-h4c (first attempts hit eBay Error Page, retried after wait) | chrome: Two WebSearches (Topcon RL-H4C / RL-H5A with LS-80 sold at Lloyds, GraysOnline, Pickles). Results were retail pages (H5A new kits, US/EU shops) and eBay, nothing from the named auction houses with a visible sold price. Machineryline result was already in earlier rounds.",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: Topcon RL-H4C laser level",
- "viewing_check": "Ask to power up the laser: check it self-levels and rotates, battery/charger present, LS-80 receiver works and has no cracked display, and note the dumpy level model. Note eBay prices are for working units; auction history at A$65-130 suggests it may be sold untested.",
+ "viewing_check": "Power it on: does it self-level and rotate, does the receiver beep, battery compartment corrosion, case contents. Check the dumpy level lens, bubble and clamps. Value is mainly the RL-H4C kit.",
  "rate_note": "USD 1.54, SEK 0.15 AUD assumed",
  "chrome_done": true
 }

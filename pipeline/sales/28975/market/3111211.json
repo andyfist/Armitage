@@ -1,7 +1,7 @@
 {
  "cdid": 3111211,
  "lot": 949,
- "identification": "Commonwealth 1949 ten pound note, KGVI, Coombs/Watt, prefix V/17 604818 (R60); looks bright, light handling, about VF to EF",
+ "identification": "1949 Commonwealth Ten Pounds Coombs/Watt V/17 604818 (R60)",
  "entries": [
   {
    "kind": "SOLD",
@@ -151,12 +151,24 @@
    "same_item": "partial",
    "note": "first prefix R60F, scarcer prefix, premium",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$250 (Noble prices realised)",
+   "currency": "AUD",
+   "aud_price": 250,
+   "date": "date not shown on page (Noble Sale 89, old sale, well over 24 months)",
+   "venue": "Noble Numismatics Sale 89",
+   "url": "https://www.noble.com.au/auctions/lot/?id=200234",
+   "same_item": "partial",
+   "note": "1949 Coombs/Watt V/17 881488 R60, nearly fine (lower grade than VF-EF Armitage lot); est $120. Old result, file as older evidence.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py (ten pound, banknote coombs, 10 pound, ten pounds, R59, \u00a310 note; pipeline/comps.py crashed with a TypeError); Gowans API 'ten pound note' and lot 401464; WebSearch for Coombs Watt 1949 ten pound sold (x2); opened Sterling & Currency, Bradford Coins, Invaluable lot. No Noble or Downies result found. eBay sold listings would help: search 'Coombs Watt ten pound R60 VF' with Sold Items filter. | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode) | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode)",
+ "searches_tried": "work/comps.py (ten pound, banknote coombs, 10 pound, ten pounds, R59, \u00a310 note; pipeline/comps.py crashed with a TypeError); Gowans API 'ten pound note' and lot 401464; WebSearch for Coombs Watt 1949 ten pound sold (x2); opened Sterling & Currency, Bradford Coins, Invaluable lot. No Noble or Downies result found. eBay sold listings would help: search 'Coombs Watt ten pound R60 VF' with Sold Items filter. | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode) | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode) | chrome: WebSearch Coombs/Watt R60 prices realised; read Sterling & Currency pages (R60 fine, about Unc; page text showed no price for those items, only an unrelated item), Noble Sale 89 and 130 pages.",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold items: 1949 Coombs Watt ten pound R60 (also Noble Numismatics and Downies archives for 1949 R60 VF)",
  "rate_note": "All prices AUD, no conversion needed.",
- "viewing_check": "Check corners, folds (hold to light), pinholes, paper crispness and any pressing to grade VF vs EF. Compare with the dealer label.",
+ "viewing_check": "Grade (VF vs EF) and folds/pinholes; recent Gowans results $51-$130 in earlier rounds suggest low hammer.",
  "chrome_done": true
 }

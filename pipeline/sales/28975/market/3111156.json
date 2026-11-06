@@ -1,7 +1,7 @@
 {
  "cdid": 3111156,
  "lot": 894,
- "identification": "Four silver Australian coins in plastic flips (florin, shilling, sixpence, threepence), catalogue says 1910; florin looks bright, possibly cleaned.",
+ "identification": "Four silver Australian coins in flips (florin, shilling, sixpence, threepence), catalogued 1910",
  "entries": [
   {
    "kind": "SOLD",
@@ -83,10 +83,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py (crashed on a null field); work/comps.py (florin 1910, threepence 1910, type set, coin set silver); Gowans API (1910 florin, shilling, sixpence, edward vii silver, type set); 2 WebSearches (1910 four-coin set results; Noble Numismatics). No direct Armitage or Noble sold result for a matched 1910 four-coin set found. Noble Auction 122 (Nov 2019) mixed lot with 1910 set noted by snippet but price not tied. eBay sold would help settle it. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried.",
+ "searches_tried": "pipeline comps.py (crashed on a null field); work/comps.py (florin 1910, threepence 1910, type set, coin set silver); Gowans API (1910 florin, shilling, sixpence, edward vii silver, type set); 2 WebSearches (1910 four-coin set results; Noble Numismatics). No direct Armitage or Noble sold result for a matched 1910 four-coin set found. Noble Auction 122 (Nov 2019) mixed lot with 1910 set noted by snippet but price not tied. eBay sold would help settle it. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: WebSearch for Noble 1910 florin/shilling/sixpence/threepence sets; read 5 Noble lot pages from the results, none was a 1910 Edward VII four-coin set. Nothing comparable found.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: 1910 Australia florin shilling sixpence threepence set; also noble.com.au prices realised, auction 122 (Nov 2019), search 1910 florin",
  "rate_note": "1 GBP = 2.0 AUD, 1 USD = 1.53 AUD (approximate, assumed)",
- "viewing_check": "Check every coin date (only the florin is confirmed 1910 in the photo), look for cleaning or hairlines, wear on the florin and shilling, and that each is genuine silver. Photograph both sides of each coin out of the flips if allowed.",
+ "viewing_check": "Confirm dates and whether 1910 Edward VII (not 1910 George V) on each coin; check for cleaning on florin.",
  "chrome_done": true
 }
