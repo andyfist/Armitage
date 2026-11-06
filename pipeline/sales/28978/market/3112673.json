@@ -1,7 +1,7 @@
 {
  "cdid": 3112673,
  "lot": 1832,
- "identification": "Three grey vitreous enamel industrial dome light shades, ~40cm, UK style (Benjamin/Thorlux type), one with a small rim label; fittings mostly absent",
+ "identification": "Three grey vitreous enamel industrial dome light shades, ~40cm, UK style (Benjamin/Thorlux type), one with a small rim label; fittings mostly absent (from earlier research; photos not re-checked this pass)",
  "entries": [
   {
    "kind": "SOLD",
@@ -125,12 +125,25 @@
    "same_item": "partial",
    "note": "Pair green enamel bell shades 23cm (small); eBay AU converted, listed from UK",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$49.99",
+   "currency": "AUD",
+   "aud_price": 49.99,
+   "date": "2026-08-20",
+   "venue": "eBay AU (Terapeak sold data)",
+   "url": "https://www.ebay.com.au/itm/235091891834",
+   "same_item": "close",
+   "note": "Grey enamel industrial vintage shade (single); Buy It Now; item price excl. postage",
+   "same_item_raw": "close",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work) for industrial light, enamel shade, benjamin light, factory light; Gowans API enamel industrial light; one WebSearch for grey enamel Benjamin Thorlux Australia. Pipeline comps.py crashed on a data error. Did not run further web searches. Gowans bare enamel shades mostly sell $35-50 each-lot, three large ones $145 once; UK retail asking is high but restored. eBay sold (Australia) would settle resale. | chrome: eBay AU sold: grey enamel industrial pendant light shade (error), enamel industrial light shade vintage and variant (error x2), industrial enamel pendant light. No grey 40cm sold comps found. | chrome: eBay AU sold: grey enamel industrial pendant light shade (error), enamel industrial light shade vintage and variant (error x2), industrial enamel pendant light. No grey 40cm sold comps found.",
+ "searches_tried": "comps.py (work) for industrial light, enamel shade, benjamin light, factory light; Gowans API enamel industrial light; one WebSearch for grey enamel Benjamin Thorlux Australia. Pipeline comps.py crashed on a data error. Did not run further web searches. Gowans bare enamel shades mostly sell $35-50 each-lot, three large ones $145 once; UK retail asking is high but restored. eBay sold (Australia) would settle resale. | chrome: eBay AU sold: grey enamel industrial pendant light shade (error), enamel industrial light shade vintage and variant (error x2), industrial enamel pendant light. No grey 40cm sold comps found. | chrome: eBay AU sold: grey enamel industrial pendant light shade (error), enamel industrial light shade vintage and variant (error x2), industrial enamel pendant light. No grey 40cm sold comps found. | chrome: Terapeak eBay AU sold, last 2 years: 'grey enamel industrial light shade' (min $40)",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: vintage grey enamel industrial pendant light shade Benjamin OR Thorlux (Sold items, last 90 days)",
- "viewing_check": "Read the rim label for the maker, check for chips and rust at the rim and neck, that all three match in size and colour.",
+ "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
  "rate_note": "GBP 2.0 and EUR 1.75 to AUD assumed, not checked.",
  "chrome_done": true
 }

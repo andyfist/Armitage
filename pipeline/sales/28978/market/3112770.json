@@ -1,8 +1,79 @@
-{"cdid":3112770,"lot":1929,"identification":"Old hand-riveted copper laundry copper (boiler insert), about 55 cm, heavy verdigris, ragged rim; scrap/decorative planter or log bin value.","entries":[
-{"kind":"SOLD","price":"$50 hammer","aud_price":50,"currency":"AUD","date":"2026-03-30","venue":"Gowans, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/401169/","same_item":"close","note":"COPPER BOILER, 2 bids; page opened (API); no description or photo comparison, condition unknown. Rate 1.0."},
-{"kind":"SOLD","price":"$50 hammer","aud_price":50,"currency":"AUD","date":"2026-07-05","venue":"Gowans, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/422159/","same_item":"close","note":"COPPER PLANTER, 7 bids; page opened (API); no description, form unknown. Rate 1.0."},
-{"kind":"SOLD","price":"$35 hammer","aud_price":35,"currency":"AUD","date":"2026-09-27","venue":"Gowans, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/440565/","same_item":"category guide","note":"COPPER JARDINIERE/PLANTER, 5 bids; page opened (API); likely smaller/different form. Rate 1.0."},
-{"kind":"SOLD","price":"$200 hammer","aud_price":200,"currency":"AUD","date":"2026-02-05","venue":"Gowans, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/389788/","same_item":"category guide","note":"LARGE COPPER PLANTER & SUCCULENT, 11 bids; page opened (API); includes a plant, no description so size and style unknown, likely a better presented piece."},
-{"kind":"SOLD","price":"$90 hammer","aud_price":90,"currency":"AUD","date":"2025-09-28","venue":"Gowans, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/364536/","same_item":"category guide","note":"COPPER PLANTER & TRICYCLE, 4 bids; combined lot, listing only."},
-{"kind":"ASKING","price":"A$2,291 approx","aud_price":2291,"currency":"AUD","date":"live, seen 2026-11-06","venue":"Pamono (antique dealer, 1890s riveted copper planter, about 41 cm)","url":"https://www.pamono.com.au/antique-riveted-copper-planter-1890s","same_item":"category guide","note":"snippet only, unverified; designer-dealer retail, restored condition, not comparable to a verdigris lot at auction."}],
-"searches_tried":"comps.py (pipeline and work) copper, riveted, laundry copper, copper boiler; Gowans API for copper planter/tub/bin/wash/pot; WebSearch riveted copper laundry insert planter. No Armitage site search done. eBay sold prices (riveted copper log tub / planter) would help.","needs_chrome":true,"chrome_hint":"eBay sold listings: riveted copper laundry boiler planter log bin Australia","viewing_check":"Check the base and seams for holes or splits, whether the rim is repairable, thickness of the copper, and any maker stamp; confirm diameter and height.","rate_note":"AUD only, rate 1.0"}
+{
+ "cdid": 3112770,
+ "lot": 1929,
+ "identification": "Old hand-riveted copper laundry copper (boiler insert), about 55 cm, heavy verdigris, ragged rim; scrap/decorative planter or log bin value. (from earlier research; photos not re-checked this pass)",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "aud_price": 50,
+   "currency": "AUD",
+   "date": "2026-03-30",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/401169/",
+   "same_item": "close",
+   "note": "COPPER BOILER, 2 bids; page opened (API); no description or photo comparison, condition unknown. Rate 1.0."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "aud_price": 50,
+   "currency": "AUD",
+   "date": "2026-07-05",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/422159/",
+   "same_item": "close",
+   "note": "COPPER PLANTER, 7 bids; page opened (API); no description, form unknown. Rate 1.0."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer",
+   "aud_price": 35,
+   "currency": "AUD",
+   "date": "2026-09-27",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440565/",
+   "same_item": "category guide",
+   "note": "COPPER JARDINIERE/PLANTER, 5 bids; page opened (API); likely smaller/different form. Rate 1.0."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$200 hammer",
+   "aud_price": 200,
+   "currency": "AUD",
+   "date": "2026-02-05",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/389788/",
+   "same_item": "category guide",
+   "note": "LARGE COPPER PLANTER & SUCCULENT, 11 bids; page opened (API); includes a plant, no description so size and style unknown, likely a better presented piece."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "aud_price": 90,
+   "currency": "AUD",
+   "date": "2025-09-28",
+   "venue": "Gowans, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/364536/",
+   "same_item": "category guide",
+   "note": "COPPER PLANTER & TRICYCLE, 4 bids; combined lot, listing only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$2,291 approx",
+   "aud_price": 2291,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-06",
+   "venue": "Pamono (antique dealer, 1890s riveted copper planter, about 41 cm)",
+   "url": "https://www.pamono.com.au/antique-riveted-copper-planter-1890s",
+   "same_item": "category guide",
+   "note": "snippet only, unverified; designer-dealer retail, restored condition, not comparable to a verdigris lot at auction."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) copper, riveted, laundry copper, copper boiler; Gowans API for copper planter/tub/bin/wash/pot; WebSearch riveted copper laundry insert planter. No Armitage site search done. eBay sold prices (riveted copper log tub / planter) would help. | chrome: Terapeak eBay AU sold, last 2 years: 'copper boiler laundry copper' (min $30)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold listings: riveted copper laundry boiler planter log bin Australia",
+ "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "rate_note": "AUD only, rate 1.0",
+ "chrome_done": true
+}

@@ -1,7 +1,7 @@
 {
  "cdid": 3111142,
  "lot": 880,
- "identification": "Tall black-framed Oscar Piastri McLaren montage: three colour photos, three small portrait photos, a small card and a brass-look plaque; looks like a mass-produced commemorative frame.",
+ "identification": "Tall black-framed Oscar Piastri McLaren montage: three colour photos, three small portrait photos, a small card and a brass-look plaque; looks like a mass-produced commemorative frame. (from earlier research; photos not re-checked this pass)",
  "entries": [
   {
    "kind": "SOLD",
@@ -93,12 +93,38 @@
    "same_item": "category guide",
    "note": "Piastri first win limited edition signed and framed, new, best offer accepted so price below A$134.99.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$82.33",
+   "currency": "AUD",
+   "aud_price": 82.33,
+   "date": "2026-11-03",
+   "venue": "eBay AU (Terapeak sold data)",
+   "url": "https://www.ebay.com.au/itm/186667373377",
+   "same_item": "close",
+   "note": "Oscar Piastri 1st win McLaren signed-print frame; Buy It Now; item price excl. postage",
+   "same_item_raw": "close",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$125.90",
+   "currency": "AUD",
+   "aud_price": 125.9,
+   "date": "2026-10-30",
+   "venue": "eBay AU (Terapeak sold data)",
+   "url": "https://www.ebay.com.au/itm/116311725251",
+   "same_item": "close",
+   "note": "Oscar Piastri 1st win F1 McLaren framed; Buy It Now; item price excl. postage",
+   "same_item_raw": "close",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py in pipeline (crashed with a TypeError) and work/comps.py (no sales found for piastri); Gowans API for piastri, oscar piastri, formula 1 signed, f1 signed framed (no hits); WebSearch for signed 2021 Topps Piastri, framed montage, site:armitage.bidsonline.com.au (no past results). No same-item framed montage comps found. eBay sold prices for unsigned framed F1 driver montages would help but are not essential. | chrome: eBay AU sold: oscar piastri framed signed (A$90 to A$135 new framed signed items); eBay AU sold: oscar piastri framed montage topps card plaque (only graded cards, not framed). No identical montage sale found. | chrome: eBay AU sold: oscar piastri framed signed (A$90 to A$135 new framed signed items); eBay AU sold: oscar piastri framed montage topps card plaque (only graded cards, not framed). No identical montage sale found. | chrome: eBay AU sold: oscar piastri framed signed (A$90 to A$135 new framed signed items); eBay AU sold: oscar piastri framed montage topps card plaque (only graded cards, not framed). No identical montage sale found.",
+ "searches_tried": "comps.py in pipeline (crashed with a TypeError) and work/comps.py (no sales found for piastri); Gowans API for piastri, oscar piastri, formula 1 signed, f1 signed framed (no hits); WebSearch for signed 2021 Topps Piastri, framed montage, site:armitage.bidsonline.com.au (no past results). No same-item framed montage comps found. eBay sold prices for unsigned framed F1 driver montages would help but are not essential. | chrome: eBay AU sold: oscar piastri framed signed (A$90 to A$135 new framed signed items); eBay AU sold: oscar piastri framed montage topps card plaque (only graded cards, not framed). No identical montage sale found. | chrome: eBay AU sold: oscar piastri framed signed (A$90 to A$135 new framed signed items); eBay AU sold: oscar piastri framed montage topps card plaque (only graded cards, not framed). No identical montage sale found. | chrome: eBay AU sold: oscar piastri framed signed (A$90 to A$135 new framed signed items); eBay AU sold: oscar piastri framed montage topps card plaque (only graded cards, not framed). No identical montage sale found. | chrome: Terapeak eBay AU sold, last 2 years: 'oscar piastri framed' (min $50)",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: oscar piastri framed photo montage",
  "rate_note": "USD 1 = AUD 1.55, GBP 1 = AUD 1.92 (assumed)",
- "viewing_check": "The signature is the whole value question. Look for a COA or hologram on the back, whether the signature is ink on the card or a printed copy (look for dot pattern), and what the plaque says (commemorative vs signed). Photograph the card, plaque and back of frame.",
+ "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
  "chrome_done": true
 }

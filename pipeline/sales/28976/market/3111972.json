@@ -1,1 +1,45 @@
-{"cdid":3111972,"lot":1142,"identification":"Late Victorian/Edwardian English flow blue transfer-printed toilet set (ewer, basin, lidded soap dish), floral with gilt; 'Primula' per title; maker unconfirmed, no backstamp photographed. Common class of ware.","entries":[{"kind":"SOLD","price":"$35","currency":"AUD","aud_price":35,"date":"2026-09-27","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/440869/","same_item":"category guide","note":"Wagner & Ryder wash jug basin set, 1 bid; hammer, premium extra. Local database; page not opened. Not flow blue, category guide only."},{"kind":"SOLD","price":"$45","currency":"AUD","aud_price":45,"date":"2026-08-09","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/429505/","same_item":"category guide","note":"White Victorian jug and basin, 4 bids; hammer. Local database; plain, not flow blue."},{"kind":"SOLD","price":"GBP 50","currency":"GBP","aud_price":98,"date":"2024-02","venue":"Clevedon Salerooms (UK)","url":"https://www.clevedonsalerooms.com/auction/lot/311-wedgwood--co-nancy-pattern-flow-blue-and-white-jug-and-basin/?lot=35185&sd=1","same_item":"close","note":"Wedgwood & Co 'Nancy' flow blue jug and basin; snippet only, page would not open, so unverified; premium status unknown. Rate about 1 GBP = 1.95 AUD."}],"searches_tried":"comps.py (pipeline and work) for flow blue toilet set, primula blue white, flow blue jug basin, toilet set, jug basin; Gowans API (returned nothing); 2 WebSearches (Primula flow blue set sold; site:armitage flow blue jug basin); one WebFetch (Clevedon, failed). eBay sold would settle it (closed to us).","needs_chrome":true,"chrome_hint":"eBay sold: flow blue jug basin set Australia; also LiveAuctioneers 'flow blue wash set Primula'","viewing_check":"Turn over ewer and basin for a backstamp (maker, registration diamond or pattern name), check lid rim and handle for chips, hairlines or restoration, and confirm the soap dish lid belongs to the set."}
+{
+ "cdid": 3111972,
+ "lot": 1142,
+ "identification": "Late Victorian/Edwardian English flow blue transfer-printed toilet set (ewer, basin, lidded soap dish), floral with gilt; 'Primula' per title; maker unconfirmed, no backstamp photographed. Common class of ware. (from earlier research; photos not re-checked this pass)",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-09-27",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440869/",
+   "same_item": "category guide",
+   "note": "Wagner & Ryder wash jug basin set, 1 bid; hammer, premium extra. Local database; page not opened. Not flow blue, category guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-08-09",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/429505/",
+   "same_item": "category guide",
+   "note": "White Victorian jug and basin, 4 bids; hammer. Local database; plain, not flow blue."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 50",
+   "currency": "GBP",
+   "aud_price": 98,
+   "date": "2024-02",
+   "venue": "Clevedon Salerooms (UK)",
+   "url": "https://www.clevedonsalerooms.com/auction/lot/311-wedgwood--co-nancy-pattern-flow-blue-and-white-jug-and-basin/?lot=35185&sd=1",
+   "same_item": "close",
+   "note": "Wedgwood & Co 'Nancy' flow blue jug and basin; snippet only, page would not open, so unverified; premium status unknown. Rate about 1 GBP = 1.95 AUD."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for flow blue toilet set, primula blue white, flow blue jug basin, toilet set, jug basin; Gowans API (returned nothing); 2 WebSearches (Primula flow blue set sold; site:armitage flow blue jug basin); one WebFetch (Clevedon, failed). eBay sold would settle it (closed to us). | chrome: Terapeak eBay AU sold, last 2 years: 'flow blue jug basin set' (min $40) - no matching sales",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: flow blue jug basin set Australia; also LiveAuctioneers 'flow blue wash set Primula'",
+ "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "chrome_done": true
+}

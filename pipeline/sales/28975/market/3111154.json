@@ -1,7 +1,7 @@
 {
  "cdid": 3111154,
  "lot": 892,
- "identification": "Pair of ~12mm dark grey-green Tahitian-type round pearls on articulated white metal bar drops with small stones, butterfly backs; metal not hallmark-verified in photo",
+ "identification": "Pair of approx 12mm dark grey Tahitian-type pearls on white metal articulated bar drops set with small white stones, butterfly backs",
  "entries": [
   {
    "kind": "SOLD",
@@ -104,12 +104,38 @@
    "same_item": "partial",
    "note": "14k white gold diamond and Tahitian pearl hook earrings; different style",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$1,875",
+   "currency": "USD",
+   "aud_price": 2869,
+   "date": "2026",
+   "venue": "LiveAuctioneers (Harbor Diamonds)",
+   "url": "https://www.liveauctioneers.com/item/245873010",
+   "same_item": "partial",
+   "note": "18K white gold Tahitian pearl and diamond drops; diamond weight not checked. This house sells many pieces like this and its prices run high [larger diamonds, 18K, high-priced US house: not like-for-like with unmarked white-metal drops]",
+   "same_item_raw": "close",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$1,950",
+   "currency": "USD",
+   "aud_price": 2984,
+   "date": "2026",
+   "venue": "LiveAuctioneers (Harbor Diamonds)",
+   "url": "https://www.liveauctioneers.com/item/245152660",
+   "same_item": "partial",
+   "note": "Same type; same caution [larger diamonds, 18K, high-priced US house: not like-for-like with unmarked white-metal drops]",
+   "same_item_raw": "close",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work) for tahitian pearl earrings, black pearl earrings, tahitian pearl 18ct; pipeline comps.py errored (TypeError); Gowans API for 4 query variants (2 sold hits); WebSearch x2 (retail only, no Australian auction results for 18ct Tahitian pearl drops); WebFetch Everts and Stelios. eBay sold listings would settle it best; no Armitage past-result search done. Rate is assumed, not looked up. | chrome: eBay AU sold: tahitian pearl earrings gold (several error pages from throttling; 18ct-specific query errored); Australia-only filter not applied | chrome: eBay AU sold: tahitian pearl earrings gold (several error pages from throttling; 18ct-specific query errored); Australia-only filter not applied",
+ "searches_tried": "comps.py (work) for tahitian pearl earrings, black pearl earrings, tahitian pearl 18ct; pipeline comps.py errored (TypeError); Gowans API for 4 query variants (2 sold hits); WebSearch x2 (retail only, no Australian auction results for 18ct Tahitian pearl drops); WebFetch Everts and Stelios. eBay sold listings would settle it best; no Armitage past-result search done. Rate is assumed, not looked up. | chrome: eBay AU sold: tahitian pearl earrings gold (several error pages from throttling; 18ct-specific query errored); Australia-only filter not applied | chrome: eBay AU sold: tahitian pearl earrings gold (several error pages from throttling; 18ct-specific query errored); Australia-only filter not applied | chrome: eBay sold AU and worldwide 'tahitian pearl ... earrings 18ct' (no hits); LiveAuctioneers 'tahitian pearl diamond drop earrings 18k white gold'; Terapeak eBay AU sold, last 2 years: 'tahitian pearl earrings 18ct' (min $100) - no matching sales",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: Tahitian pearl 18ct white gold diamond drop earrings 12mm, Australia, sold items",
- "viewing_check": "Look for 750 or 18K stamp on the posts and backs, test pearl size (12mm) and surface lustre/blemishes, check whether the white stones are diamonds, and weigh if possible.",
+ "viewing_check": "Confirm the 750/18K stamp and whether the white stones are diamonds; the US results are bigger-diamond pieces from a high-priced house.",
  "rate_note": "USD to AUD about 1.52 assumed; AUD entries unchanged.",
  "note": "Local Tasmanian sold evidence is thin: genuine Tahitian pearl pairs have sold $55 to $100 hammer, but those were smaller or on 9ct. A 12mm pair in 18ct with diamonds would plausibly sit above that, but no sold comp confirms it.",
  "chrome_done": true

@@ -1,7 +1,7 @@
 {
  "cdid": 3111931,
  "lot": 1101,
- "identification": "18th C style carved oak domed coffer 96 cm",
+ "identification": "Continental carved dome-top trunk with scrolled cartouche carving on front and ends, 96cm; looks provincial 18th-19th C, original dome lid with batten",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,12 +79,38 @@
    "url": "https://lolofrenchantiques.com/products/early-18th-century-spanish-carved-oak-gothic-style-coffer-or-chest",
    "same_item": "close",
    "note": "Snippet only. US dealer retail for early 18th century Spanish carved oak coffers (Fireside $4,450). Rate used about 1 USD = 1.52 AUD, rounded. Likely better quality and restored; retail ceiling only, not realistic for a worn auction lot here."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$300",
+   "currency": "USD",
+   "aud_price": 459,
+   "date": "2023",
+   "venue": "LiveAuctioneers",
+   "url": "https://www.liveauctioneers.com/item/157944171",
+   "same_item": "close",
+   "note": "'Large Continental oak dome-top coffer, 18th C'; outside 24 months. USD->AUD 1.53",
+   "same_item_raw": "close",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$275",
+   "currency": "USD",
+   "aud_price": 421,
+   "date": "2024",
+   "venue": "LiveAuctioneers (Thomaston ME)",
+   "url": "https://www.liveauctioneers.com/item/188868900",
+   "same_item": "close",
+   "note": "'Early Continental oak trunk'; plainer",
+   "same_item_raw": "close",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py (coffer, trunk, chest carved; pipeline/comps.py crashed on a None value); Gowans API (carved oak coffer, antique carved coffer, oak dome top chest, spanish chest) with no same-item hits; 2 WebSearches (carved oak domed coffer Spanish; Australian auction carved domed trunk) gave only dealer asking prices. No Armitage past-result search done. eBay sold and Carters/the-saleroom/Invaluable results would settle it better. | chrome: eBay AU sold: antique spanish carved chest domed top (only small trinket boxes and revival chests at A$38-320, not comparable); one eBay search errored. Invaluable, LiveAuctioneers and carters not tried. No comps recorded. | chrome: eBay AU sold: antique spanish carved chest domed top (only small trinket boxes and revival chests at A$38-320, not comparable); one eBay search errored. Invaluable, LiveAuctioneers and carters not tried. No comps recorded. | chrome: eBay AU sold: antique spanish carved chest domed top (only small trinket boxes and revival chests at A$38-320, not comparable); one eBay search errored. Invaluable, LiveAuctioneers and carters not tried. No comps recorded. | chrome: Not searched.",
+ "searches_tried": "work/comps.py (coffer, trunk, chest carved; pipeline/comps.py crashed on a None value); Gowans API (carved oak coffer, antique carved coffer, oak dome top chest, spanish chest) with no same-item hits; 2 WebSearches (carved oak domed coffer Spanish; Australian auction carved domed trunk) gave only dealer asking prices. No Armitage past-result search done. eBay sold and Carters/the-saleroom/Invaluable results would settle it better. | chrome: eBay AU sold: antique spanish carved chest domed top (only small trinket boxes and revival chests at A$38-320, not comparable); one eBay search errored. Invaluable, LiveAuctioneers and carters not tried. No comps recorded. | chrome: eBay AU sold: antique spanish carved chest domed top (only small trinket boxes and revival chests at A$38-320, not comparable); one eBay search errored. Invaluable, LiveAuctioneers and carters not tried. No comps recorded. | chrome: eBay AU sold: antique spanish carved chest domed top (only small trinket boxes and revival chests at A$38-320, not comparable); one eBay search errored. Invaluable, LiveAuctioneers and carters not tried. No comps recorded. | chrome: Not searched. | chrome: LiveAuctioneers 'carved oak dome top coffer'; Terapeak eBay AU sold, last 2 years: 'antique carved oak coffer' (min $100) - no matching sales",
  "needs_chrome": false,
  "chrome_hint": "Invaluable or LiveAuctioneers sold: 'Spanish carved oak dome top coffer 18th century' ; also carters.com.au price guide 'oak trunks' dome-top carved front; eBay sold 'antique Spanish carved chest dome top'",
  "rate_note": "1 USD = about 1.52 AUD (approximate, not checked live).",
- "viewing_check": "Check age of carving and top.",
+ "viewing_check": "Check the carving is integral (not applied), any woodworm and the base boards.",
  "chrome_done": true
 }

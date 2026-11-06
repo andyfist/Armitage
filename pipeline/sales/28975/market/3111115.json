@@ -1,7 +1,7 @@
 {
  "cdid": 3111115,
  "lot": 853,
- "identification": "Penfolds St Henri Shiraz 750ml, screwcap, red capsule; vintage on label hard to read in photo (looks like 2001 or 2006), vendor sticker 4434/12",
+ "identification": "Penfolds St Henri Shiraz 750ml, screwcap, red capsule; vintage on label hard to read in photo (looks like 2001 or 2006), vendor sticker 4434/12 (from earlier research; photos not re-checked this pass)",
  "entries": [
   {
    "kind": "SOLD",
@@ -81,10 +81,10 @@
    "note": "Snippet only. Rate about 1 GBP = 1.95 AUD assumed for the GBP 85 figure; UK duty-paid, not comparable to Tasmanian hammer."
   }
  ],
- "searches_tried": "comps.py (pipeline errored on a null row; work/comps.py returned 1 hit, a 2017 not 2006), Gowans API st henri and penfolds st henri, WebSearch x3 on 2006 St Henri auction results, fetched Grays lot, Nicks (403), Dan Murphys (no price), Wickman (redirect). Not tried: Langtons, wineowners direct, eBay/Wine-Searcher (closed). Wine-Searcher auction history would help settle it. | chrome: eBay AU sold: penfolds st henri 2006 (only 1997 at A$222 BIN and empty boxes, no 2006 match); st henri shiraz 2006 (error page, not retried); Wine-Searcher not tried (light mode) | chrome: eBay AU sold: penfolds st henri 2006 (only 1997 at A$222 BIN and empty boxes, no 2006 match); st henri shiraz 2006 (error page, not retried); Wine-Searcher not tried (light mode)",
+ "searches_tried": "comps.py (pipeline errored on a null row; work/comps.py returned 1 hit, a 2017 not 2006), Gowans API st henri and penfolds st henri, WebSearch x3 on 2006 St Henri auction results, fetched Grays lot, Nicks (403), Dan Murphys (no price), Wickman (redirect). Not tried: Langtons, wineowners direct, eBay/Wine-Searcher (closed). Wine-Searcher auction history would help settle it. | chrome: eBay AU sold: penfolds st henri 2006 (only 1997 at A$222 BIN and empty boxes, no 2006 match); st henri shiraz 2006 (error page, not retried); Wine-Searcher not tried (light mode) | chrome: eBay AU sold: penfolds st henri 2006 (only 1997 at A$222 BIN and empty boxes, no 2006 match); st henri shiraz 2006 (error page, not retried); Wine-Searcher not tried (light mode) | chrome: Terapeak eBay AU sold, last 2 years: 'penfolds st henri 2001'",
  "needs_chrome": false,
  "chrome_hint": "Wine-Searcher: Penfolds St Henri Shiraz 2006 750ml, Auction Prices tab (Australia, last 24 months); also eBay sold: Penfolds St Henri 2006",
- "viewing_check": "Read the vintage on the label carefully (photo looks like it could say 2001, not 2006); check fill level, label condition and capsule.",
+ "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
  "rate_note": "AUD figures as shown; GBP at about 1.95 AUD.",
  "chrome_done": true
 }

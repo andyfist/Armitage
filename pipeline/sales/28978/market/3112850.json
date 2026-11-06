@@ -1,7 +1,67 @@
-{"cdid":3112850,"lot":2009,"identification":"Masport petrol rear-tine mini tiller/cultivator (older yellow-frame model, likely a Home Gardener type), small Briggs-style engine, two wheels, tines on extension shaft. Running unknown.","entries":[
-{"kind":"SOLD","price":"$110","currency":"AUD","aud_price":110,"date":"2026-03-30","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/401331/","same_item":"yes","note":"MASPORT HOME GARDENER ROTARY HOE, 9 bids, hammer, premium extra. Local database hit; condition not checked."},
-{"kind":"SOLD","price":"$105","currency":"AUD","aud_price":105,"date":"2026-09-20","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/440010/","same_item":"close","note":"Honda F25F tiller, 7 bids, hammer. Newer, better-brand tiller. Local database hit."},
-{"kind":"SOLD","price":"$130","currency":"AUD","aud_price":130,"date":"2026-06-21","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/418902/","same_item":"close","note":"Howard Bullfinch rotary tiller, 7 bids, hammer. Local database hit."},
-{"kind":"SOLD","price":"$230","currency":"AUD","aud_price":230,"date":"2026-03-09","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/396248/","same_item":"category guide","note":"Husqvarna tiller with Honda motor, 3 bids, hammer. Better machine."},
-{"kind":"ASKING","price":"$1,249 sale / $1,379 regular","currency":"AUD","aud_price":1249,"date":"live, seen 2026-11-06","venue":"BW Machinery (new)","url":"https://bwmachinery.com.au/?p=101645","same_item":"category guide","note":"New Masport 4 Way Home Gardener tiller 127cc Briggs. Snippet only. New retail, not comparable to a dirty used older unit."}
-],"searches_tried":"comps.py (pipeline and work) masport/tiller; Gowans API masport tiller, rotary hoe, cultivator, petrol tiller (only the one Masport hoe hit); WebSearch Masport tiller second hand (new retail only); site:armitage search (nothing useful). eBay sold would settle it but is blocked. AUD only, no conversion.","needs_chrome":true,"chrome_hint":"eBay.com.au sold listings: Masport tiller OR cultivator OR rotary hoe","viewing_check":"Check the engine pulls over and has compression, the tines turn, any maker plate or model number, and whether the engine is Briggs & Stratton. Seized or no compression makes it scrap-level."}
+{
+ "cdid": 3112850,
+ "lot": 2009,
+ "identification": "Masport petrol rear-tine mini tiller/cultivator (older yellow-frame model, likely a Home Gardener type), small Briggs-style engine, two wheels, tines on extension shaft. Running unknown. (from earlier research; photos not re-checked this pass)",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$110",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/401331/",
+   "same_item": "yes",
+   "note": "MASPORT HOME GARDENER ROTARY HOE, 9 bids, hammer, premium extra. Local database hit; condition not checked."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440010/",
+   "same_item": "close",
+   "note": "Honda F25F tiller, 7 bids, hammer. Newer, better-brand tiller. Local database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-06-21",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/418902/",
+   "same_item": "close",
+   "note": "Howard Bullfinch rotary tiller, 7 bids, hammer. Local database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-03-09",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/396248/",
+   "same_item": "category guide",
+   "note": "Husqvarna tiller with Honda motor, 3 bids, hammer. Better machine."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,249 sale / $1,379 regular",
+   "currency": "AUD",
+   "aud_price": 1249,
+   "date": "live, seen 2026-11-06",
+   "venue": "BW Machinery (new)",
+   "url": "https://bwmachinery.com.au/?p=101645",
+   "same_item": "category guide",
+   "note": "New Masport 4 Way Home Gardener tiller 127cc Briggs. Snippet only. New retail, not comparable to a dirty used older unit."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) masport/tiller; Gowans API masport tiller, rotary hoe, cultivator, petrol tiller (only the one Masport hoe hit); WebSearch Masport tiller second hand (new retail only); site:armitage search (nothing useful). eBay sold would settle it but is blocked. AUD only, no conversion. | chrome: Terapeak eBay AU sold, last 2 years: 'masport tiller' (min $50)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: Masport tiller OR cultivator OR rotary hoe",
+ "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "chrome_done": true
+}

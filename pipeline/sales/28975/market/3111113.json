@@ -1,9 +1,90 @@
-{"cdid":3111113,"lot":851,"identification":"Kamikoto Toishi two-sided white whetstone (appears to be the 1000/3000 grit) on bamboo base, in original brown carton with leaflet, looks unused. Brand is a direct-to-consumer knife marketer, not a traditional stone maker.","entries":[
-{"kind":"SOLD","price":"$75 hammer","currency":"AUD","aud_price":75,"date":"2026-01-19","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/ gowans id 384747","same_item":"category guide","note":"JAPANESE ARTIFICIAL WHETSTONE, 4 bids; unbranded detail unknown, premium extra. From local comps database, not opened."},
-{"kind":"SOLD","price":"$70 hammer","currency":"AUD","aud_price":70,"date":"2026-09-06","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/ gowans id 435923","same_item":"category guide","note":"JAPANESE SHARPENING STONES, 2 bids, premium extra. Local database, not opened."},
-{"kind":"SOLD","price":"$80 hammer","currency":"AUD","aud_price":80,"date":"2026-01-19","venue":"Gowans (Hobart)","url":"https://www.gowansauctions.com.au/ gowans id 384755","same_item":"category guide","note":"2 artificial and 2 natural toishi whetstones, 4 stones, so one stone is worth less. Local database."},
-{"kind":"SOLD","price":"$85 hammer","currency":"AUD","aud_price":85,"date":"2026-11-04","venue":"eBay AU (via local comps database)","url":"https://www.ebay.com.au/itm/298027088078","same_item":"category guide","note":"Kamikoto Kanpeki-style 3 knife set in box, different product, shows Kamikoto branded goods sell cheaply. Local database, not opened."},
-{"kind":"SOLD","price":"US$32.00","currency":"USD","aud_price":49,"date":"unknown (undated in snippet)","venue":"eBay Germany","url":"https://www.ebay.de/itm/391336565587","same_item":"close","note":"Kamikoto Toishi stone, 3000 grit single, shown as sold price; snippet only, unverified, and the listing identity is uncertain. Rate used USD 1 = AUD 1.52 (assumed)."},
-{"kind":"ASKING","price":"US$49.99","currency":"USD","aud_price":76,"date":"live, seen 2026-11-06","venue":"eBay Germany","url":"https://www.ebay.de/itm/397189073062","same_item":"yes","note":"Kamikoto white 1000/3000 stone, used-market asking price; snippet only, unverified. Rate USD 1 = AUD 1.52 (assumed)."},
-{"kind":"ASKING","price":"EUR 206.01","currency":"EUR","aud_price":360,"date":"live, seen 2026-11-06","venue":"Desertcart","url":"https://www.desertcart.gr/products/46474626-kamikototoishi-sharpening-whetstone-1000-3000.md","same_item":"yes","note":"New retail via a marketplace reseller, inflated; snippet only. Rate EUR 1 = AUD 1.75 (assumed). Kamikoto own site price not checked."}
-],"searches_tried":"comps.py (pipeline and work) for kamikoto, whetstone, sharpening stone, japanese whetstone; Gowans API search kamikoto (no Kamikoto hits, only generic stones); WebSearch for Kamikoto Toishi price and site:armitage.bidsonline.com.au Kamikoto (no past Armitage results). eBay AU sold listings for 'Kamikoto Toishi whetstone' would settle it (eBay blocked to us).","needs_chrome":true,"chrome_hint":"eBay AU sold and completed: Kamikoto Toishi whetstone 1000/3000","viewing_check":"Confirm the box is sealed, the stone is the 1000/3000 two-sided type (grit printed on the stone or leaflet), and that the leaflet and bamboo base are present and unmarked.","rate_note":"USD 1 = AUD 1.52, EUR 1 = AUD 1.75, assumed, not looked up."}
+{
+ "cdid": 3111113,
+ "lot": 851,
+ "identification": "Kamikoto Toishi two-sided white whetstone (appears to be the 1000/3000 grit) on bamboo base, in original brown carton with leaflet, looks unused. Brand is a direct-to-consumer knife marketer, not a traditional stone maker. (from earlier research; photos not re-checked this pass)",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-01-19",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/ gowans id 384747",
+   "same_item": "category guide",
+   "note": "JAPANESE ARTIFICIAL WHETSTONE, 4 bids; unbranded detail unknown, premium extra. From local comps database, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-09-06",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/ gowans id 435923",
+   "same_item": "category guide",
+   "note": "JAPANESE SHARPENING STONES, 2 bids, premium extra. Local database, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-01-19",
+   "venue": "Gowans (Hobart)",
+   "url": "https://www.gowansauctions.com.au/ gowans id 384755",
+   "same_item": "category guide",
+   "note": "2 artificial and 2 natural toishi whetstones, 4 stones, so one stone is worth less. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85 hammer",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-11-04",
+   "venue": "eBay AU (via local comps database)",
+   "url": "https://www.ebay.com.au/itm/298027088078",
+   "same_item": "category guide",
+   "note": "Kamikoto Kanpeki-style 3 knife set in box, different product, shows Kamikoto branded goods sell cheaply. Local database, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$32.00",
+   "currency": "USD",
+   "aud_price": 49,
+   "date": "unknown (undated in snippet)",
+   "venue": "eBay Germany",
+   "url": "https://www.ebay.de/itm/391336565587",
+   "same_item": "close",
+   "note": "Kamikoto Toishi stone, 3000 grit single, shown as sold price; snippet only, unverified, and the listing identity is uncertain. Rate used USD 1 = AUD 1.52 (assumed)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$49.99",
+   "currency": "USD",
+   "aud_price": 76,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay Germany",
+   "url": "https://www.ebay.de/itm/397189073062",
+   "same_item": "yes",
+   "note": "Kamikoto white 1000/3000 stone, used-market asking price; snippet only, unverified. Rate USD 1 = AUD 1.52 (assumed)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "EUR 206.01",
+   "currency": "EUR",
+   "aud_price": 360,
+   "date": "live, seen 2026-11-06",
+   "venue": "Desertcart",
+   "url": "https://www.desertcart.gr/products/46474626-kamikototoishi-sharpening-whetstone-1000-3000.md",
+   "same_item": "yes",
+   "note": "New retail via a marketplace reseller, inflated; snippet only. Rate EUR 1 = AUD 1.75 (assumed). Kamikoto own site price not checked."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for kamikoto, whetstone, sharpening stone, japanese whetstone; Gowans API search kamikoto (no Kamikoto hits, only generic stones); WebSearch for Kamikoto Toishi price and site:armitage.bidsonline.com.au Kamikoto (no past Armitage results). eBay AU sold listings for 'Kamikoto Toishi whetstone' would settle it (eBay blocked to us). | chrome: Terapeak eBay AU sold, last 2 years: 'kamikoto toishi whetstone' (min $20)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold and completed: Kamikoto Toishi whetstone 1000/3000",
+ "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "rate_note": "USD 1 = AUD 1.52, EUR 1 = AUD 1.75, assumed, not looked up.",
+ "chrome_done": true
+}

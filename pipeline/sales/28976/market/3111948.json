@@ -1,7 +1,7 @@
 {
  "cdid": 3111948,
  "lot": 1118,
- "identification": "Bretby art pottery novelty jardiniere, a large woven-basket planter in yellow and green glazes with a brown monkey clasping it, 28 cm high.",
+ "identification": "Bretby majolica jardiniere: large woven basket (yellow/orange/green) clasped by a seated brown monkey, 28cm",
  "entries": [
   {
    "kind": "SOLD",
@@ -81,12 +81,64 @@
    "same_item": "category guide",
    "note": "Antique Bretby majolica jardiniere, floral, registered design number, from UK. Listing shows 'or Best Offer' so final price may be lower. No monkey.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$150",
+   "currency": "USD",
+   "aud_price": 230,
+   "date": "2023",
+   "venue": "LiveAuctioneers (Litchfield CT)",
+   "url": "https://www.liveauctioneers.com/item/150511623",
+   "same_item": "close",
+   "note": "Bretby (attributed) pottery monkey jardiniere; outside 24 months",
+   "same_item_raw": "close",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "CA$160",
+   "currency": "CAD",
+   "aud_price": 176,
+   "date": "2023",
+   "venue": "LiveAuctioneers (Montreal)",
+   "url": "https://www.liveauctioneers.com/item/148264063",
+   "same_item": "close",
+   "note": "Large Bretby majolica figural monkey jardiniere; outside 24 months. CAD->AUD 1.10",
+   "same_item_raw": "close",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$600",
+   "currency": "USD",
+   "aud_price": 918,
+   "date": "2021",
+   "venue": "LiveAuctioneers (Pasadena)",
+   "url": "https://www.liveauctioneers.com/item/96151530",
+   "same_item": "yes",
+   "note": "Bretby 'Monkey & Basket' planter c.1900, the same model; outside 24 months",
+   "same_item_raw": "yes",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 55",
+   "currency": "GBP",
+   "aud_price": 110,
+   "date": "2024",
+   "venue": "LiveAuctioneers (Selborne, Hampshire)",
+   "url": "https://www.liveauctioneers.com/item/191321786",
+   "same_item": "no",
+   "note": "Bretby monkey triple vase, different model. GBP->AUD 2.0",
+   "same_item_raw": "no",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (TypeError); work/comps.py bretby and monkey jardiniere: no Bretby or monkey jardiniere hits. Gowans API for monkey, majolica monkey, bretby: no relevant Bretby (nearest Art Nouveau majolica jardiniere $260 hammer, 17 bids, Aug 2026, different item). WebSearch x3 (Bretby monkey jardiniere sold; Bretby majolica monkey basket hammer; site:armitage Bretby: nothing). No Australian Bretby monkey result found. eBay sold prices (Bretby monkey jardiniere / planter) would settle it. | chrome: eBay AU sold 'bretby monkey jardiniere' and 'bretby monkey' (no same-model sale). LiveAuctioneers and Invaluable not tried. | chrome: eBay AU sold 'bretby monkey jardiniere' and 'bretby monkey' (no same-model sale). LiveAuctioneers and Invaluable not tried. | chrome: eBay AU sold 'bretby monkey jardiniere' and 'bretby monkey' (no same-model sale). LiveAuctioneers and Invaluable not tried.",
+ "searches_tried": "pipeline/comps.py crashed (TypeError); work/comps.py bretby and monkey jardiniere: no Bretby or monkey jardiniere hits. Gowans API for monkey, majolica monkey, bretby: no relevant Bretby (nearest Art Nouveau majolica jardiniere $260 hammer, 17 bids, Aug 2026, different item). WebSearch x3 (Bretby monkey jardiniere sold; Bretby majolica monkey basket hammer; site:armitage Bretby: nothing). No Australian Bretby monkey result found. eBay sold prices (Bretby monkey jardiniere / planter) would settle it. | chrome: eBay AU sold 'bretby monkey jardiniere' and 'bretby monkey' (no same-model sale). LiveAuctioneers and Invaluable not tried. | chrome: eBay AU sold 'bretby monkey jardiniere' and 'bretby monkey' (no same-model sale). LiveAuctioneers and Invaluable not tried. | chrome: eBay AU sold 'bretby monkey jardiniere' and 'bretby monkey' (no same-model sale). LiveAuctioneers and Invaluable not tried. | chrome: eBay sold 'bretby monkey', 'bretby' worldwide; LiveAuctioneers 'bretby monkey'; Terapeak eBay AU sold, last 2 years: 'bretby jardiniere' - no matching sales",
  "needs_chrome": false,
  "chrome_hint": "eBay sold listings: Bretby monkey basket jardiniere (also 'Bretby 1251 monkey'); also LiveAuctioneers/Invaluable 'Bretby monkey jardiniere' sold",
- "viewing_check": "Look for the impressed Bretby mark and model number on the base, check the monkey's arms, tail and basket rim for restoration, chips and crazing, and photograph any glaze loss. Condition matters a lot for a large figural piece.",
+ "viewing_check": "Check base for impressed Bretby mark and model number; inspect monkey's arm/hand and basket rim for restoration.",
  "rate_note": "GBP to AUD 2.05 assumed, approximate and unchecked.",
  "chrome_done": true
 }

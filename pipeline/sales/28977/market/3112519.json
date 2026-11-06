@@ -1,7 +1,7 @@
 {
  "cdid": 3112519,
  "lot": 1491,
- "identification": "Conan the Barbarian Atlantean sword replica, about 103 cm, cast alloy guard and pommel with bearded face detail, leather-wrapped grip, etched fuller; maker mark not visible (Windlass, Marto or similar).",
+ "identification": "Conan the Barbarian Atlantean sword replica, about 103 cm, cast alloy guard and pommel with bearded face detail, leather-wrapped grip, etched fuller; maker mark not visible (Windlass, Marto or similar). (from earlier research; photos not re-checked this pass)",
  "entries": [
   {
    "kind": "ASKING",
@@ -48,12 +48,38 @@
    "same_item": "partial",
    "note": "Conan The Destroyer Atlantean sword with wall plaque, brand new, BIN. Maker not confirmed, new with plaque.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$155.63",
+   "currency": "AUD",
+   "aud_price": 155.63,
+   "date": "2026-07-01",
+   "venue": "eBay AU (Terapeak sold data)",
+   "url": "https://www.ebay.com.au/itm/292224092401",
+   "same_item": "yes",
+   "note": "Conan the Destroyer Atlantean sword replica; Buy It Now; item price excl. postage",
+   "same_item_raw": "yes",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$146.00",
+   "currency": "AUD",
+   "aud_price": 146.0,
+   "date": "2026-08-13",
+   "venue": "eBay AU (Terapeak sold data)",
+   "url": "https://www.ebay.com.au/itm/175981239342",
+   "same_item": "yes",
+   "note": "Conan Atlantean sword replica; Buy It Now; item price excl. postage",
+   "same_item_raw": "yes",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for 'conan sword', 'atlantean sword', 'decorative sword': no hits. Gowans API for conan/atlantean/barbarian: no matching lots. WebSearch x3 (UC1230 sold, Marto price Australia, Australian auction results): only retail listings and screen-used prop sales (Heritage $192,000 2017, PropStore $176,400 2025, not comparable). No SOLD replica results found. eBay sold listings would settle it (eBay closed to us). | chrome: eBay AU sold: conan atlantean sword (cheap handmade Pakistan/US listings plus Marto at A$37-52, not recorded as unclear), atlantean sword conan, windlass atlantean sword. Several attempts returned eBay error pages (throttling). Handmade Damascus/full tang listings A$190-250 ignored as different build.",
+ "searches_tried": "comps.py (pipeline and work) for 'conan sword', 'atlantean sword', 'decorative sword': no hits. Gowans API for conan/atlantean/barbarian: no matching lots. WebSearch x3 (UC1230 sold, Marto price Australia, Australian auction results): only retail listings and screen-used prop sales (Heritage $192,000 2017, PropStore $176,400 2025, not comparable). No SOLD replica results found. eBay sold listings would settle it (eBay closed to us). | chrome: eBay AU sold: conan atlantean sword (cheap handmade Pakistan/US listings plus Marto at A$37-52, not recorded as unclear), atlantean sword conan, windlass atlantean sword. Several attempts returned eBay error pages (throttling). Handmade Damascus/full tang listings A$190-250 ignored as different build. | chrome: Terapeak eBay AU sold, last 2 years: 'conan atlantean sword' (min $50)",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'Conan Atlantean sword' (also 'Windlass Atlantean', 'Marto Atlantean', 'United Cutlery Conan'), filter Sold items, Australia",
- "viewing_check": "Look for a maker stamp or ricasso mark (Windlass, Marto, United Cutlery, Valyrian), measure overall length, check for looseness at the guard and pommel, a tang nut, and any rust or pitting on the blade.",
+ "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
  "rate_note": "USD to AUD 1.54 approximate, not looked up",
  "chrome_done": true
 }

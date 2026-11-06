@@ -1,7 +1,7 @@
 {
  "cdid": 3112036,
  "lot": 1206,
- "identification": "Framed Tallis Van Diemen's Island map",
+ "identification": "Framed Tallis map of Van Diemen's Island, 36x28cm",
  "entries": [
   {
    "kind": "SOLD",
@@ -102,12 +102,38 @@
    "same_item": "partial",
    "note": "Tallis map Van Diemen's Land, described as a reprint, unframed; eBay AU converted, listed from UK",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$10",
+   "currency": "USD",
+   "aud_price": 15,
+   "date": "2022",
+   "venue": "LiveAuctioneers",
+   "url": "https://www.liveauctioneers.com/item/135636764",
+   "same_item": "yes",
+   "note": "Tallis 1852 Van Diemens map; outside 24 months",
+   "same_item_raw": "yes",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$50",
+   "currency": "USD",
+   "aud_price": 77,
+   "date": "2021",
+   "venue": "LiveAuctioneers",
+   "url": "https://www.liveauctioneers.com/item/100443696",
+   "same_item": "yes",
+   "note": "Same map; outside 24 months",
+   "same_item_raw": "yes",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on None; work/comps.py run for tallis, van diemen map); Gowans API search 'tallis'; WebSearch Tallis Rapkin sold; Invaluable Tallis artist page parsed. Not done: Armitage past results, eBay sold (blocked). Gowans Tallis framed maps sell $27 to $70 hammer, consistently labelled prints; a real original in the only dated sold comp made $180 (Theodore Bruce 2022). Value range roughly $30-70 if reproduction, $150-300 if original. | chrome: eBay AU sold: tallis van diemen's land map (1 result), tallis tasmania map antique (error page) | chrome: eBay AU sold: tallis van diemen's land map (1 result), tallis tasmania map antique (error page) | chrome: WebSearch (general, plus auction-domain filtered) on lot terms returned only generic or unrelated pages; Carters blocked by MeshAuth browser check (skipped); Gowans site search 404; Leski flipbook/search page text read failed; the-saleroom search and price-guide pages rendered no results. Not all lots individually searched: lot-level searches were attempted for Telegraph sign, Keen's tin, Bushells, BP and Porter book, Moorcroft only.",
+ "searches_tried": "comps.py (pipeline version crashed on None; work/comps.py run for tallis, van diemen map); Gowans API search 'tallis'; WebSearch Tallis Rapkin sold; Invaluable Tallis artist page parsed. Not done: Armitage past results, eBay sold (blocked). Gowans Tallis framed maps sell $27 to $70 hammer, consistently labelled prints; a real original in the only dated sold comp made $180 (Theodore Bruce 2022). Value range roughly $30-70 if reproduction, $150-300 if original. | chrome: eBay AU sold: tallis van diemen's land map (1 result), tallis tasmania map antique (error page) | chrome: eBay AU sold: tallis van diemen's land map (1 result), tallis tasmania map antique (error page) | chrome: WebSearch (general, plus auction-domain filtered) on lot terms returned only generic or unrelated pages; Carters blocked by MeshAuth browser check (skipped); Gowans site search 404; Leski flipbook/search page text read failed; the-saleroom search and price-guide pages rendered no results. Not all lots individually searched: lot-level searches were attempted for Telegraph sign, Keen's tin, Bushells, BP and Porter book, Moorcroft only. | chrome: eBay sold 'tallis van diemen' (only unrelated cheap items); LiveAuctioneers 'tallis van diemen'; Terapeak eBay AU sold, last 2 years: 'tallis van diemen'",
  "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: Tallis Rapkin Van Diemen's Land Tasmania map 1851 original (sold, completed items); also LiveAuctioneers/Invaluable sold: 'Tallis Van Diemen's Island or Tasmania'",
- "viewing_check": "No new evidence found this round; rely on earlier findings.",
+ "viewing_check": "Check whether it's an original 1850s steel engraving (plate mark, hand colour, paper) or a modern reproduction.",
  "rate_note": "GBP 1 = AUD 1.95, USD 1 = AUD 1.55 approximate; AUD sales unconverted.",
  "chrome_done": true
 }

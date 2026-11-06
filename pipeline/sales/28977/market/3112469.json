@@ -1,7 +1,7 @@
 {
  "cdid": 3112469,
  "lot": 1749,
- "identification": "Makita LS1214 305mm (12in) sliding compound mitre saw, older Japan-built, used, with dust bag, clamp and spare blade.",
+ "identification": "Makita LS1214 305mm slide compound mitre saw",
  "entries": [
   {
    "kind": "SOLD",
@@ -103,10 +103,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) on makita LS1214 / slide mitre / 305mm; Gowans API makita ls1214, mitre saw, slide compound; WebSearch LS1214 sold auction and used for sale Australia; fetched Evans Clarke (opened), Grays and HiBid (blocked/not loaded). No Armitage lookups. eBay sold listings would settle recent mainland price. | chrome: eBay AU sold: makita ls1214 (parts only, no whole saw in last months), makita ls1214 saw (parts, LS1040 10in at A$186.20 not recorded), makita 305mm slide compound mitre saw (one useful). eBay returned error pages for several attempts (throttled). Google: only the Evans Clarke A$370 (already in Found so far) and an undated Gumtree asking A$550 with no listing URL.",
+ "searches_tried": "comps.py (pipeline and work) on makita LS1214 / slide mitre / 305mm; Gowans API makita ls1214, mitre saw, slide compound; WebSearch LS1214 sold auction and used for sale Australia; fetched Evans Clarke (opened), Grays and HiBid (blocked/not loaded). No Armitage lookups. eBay sold listings would settle recent mainland price. | chrome: eBay AU sold: makita ls1214 (parts only, no whole saw in last months), makita ls1214 saw (parts, LS1040 10in at A$186.20 not recorded), makita 305mm slide compound mitre saw (one useful). eBay returned error pages for several attempts (throttled). Google: only the Evans Clarke A$370 (already in Found so far) and an undated Gumtree asking A$550 with no listing URL. | chrome: eBay sold AU 'makita ls1214'; Terapeak eBay AU sold, last 2 years: 'makita ls1214' (min $100)",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: Makita LS1214 mitre saw (Sold items, Australia); also Grays closed lots makita ls1214",
- "viewing_check": "Check the model plate says LS1214 and Made in Japan, 240V; check slide rails for play, base/bevel lock, blade runout, brushes, and that the dust bag and clamp are present. Plug in and run if allowed.",
+ "viewing_check": "No complete saws sold on eBay AU in the last 90 days (parts only).",
  "rate_note": "USD to AUD at about 1.53; AUD entries as printed.",
  "chrome_done": true
 }

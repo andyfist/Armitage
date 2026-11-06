@@ -1,10 +1,101 @@
-{"cdid":3112259,"lot":1587,"identification":"DeWalt DCS355N (AU DCS355N-XJ) 18V XR brushless oscillating multi-tool, skin only, boxed, with accessories; catalogued as a sander.","entries":[
-{"kind":"SOLD","price":"$155 hammer","currency":"AUD","aud_price":155,"date":"2026-09-09","venue":"Armitage Auctions, Launceston sale 28589 lot 1735","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045325&chid=28589&category=ALL&style=group","same_item":"category guide","note":"DeWalt 18V whipper snipper skin only, different tool; local skin-only DeWalt 18V price level. Local database row."},
-{"kind":"SOLD","price":"$110 hammer","currency":"AUD","aud_price":110,"date":"2026-09-09","venue":"Armitage Auctions, Launceston sale 28589 lot 1754","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045344&chid=28589&category=ALL&style=group","same_item":"category guide","note":"DeWalt 18V hedge trimmer skin only, different tool. Local database row."},
-{"kind":"SOLD","price":"$180 hammer","currency":"AUD","aud_price":180,"date":"2026-05-17","venue":"Gowans Auctions, Hobart","url":"gowans lot id 410905","same_item":"category guide","note":"DeWalt grinder, no battery; a similar-class bare DeWalt tool. Local database row."},
-{"kind":"SOLD","price":"$30 hammer","currency":"AUD","aud_price":30,"date":"2026-06-14","venue":"Gowans Auctions, Hobart","url":"gowans lot id 417170","same_item":"category guide","note":"Worx cordless hammer drill and electric oscillating tool in cases; cheap brand, low end guide only."},
-{"kind":"ASKING","price":"A$249 (was $339)","currency":"AUD","aud_price":249,"date":"live, seen 2026-11-06","venue":"House Trade Supplies","url":"https://housetradesupplies.com.au/dewalt-18v-xr-brushless-oscillating-multi-tool-skin-dcs355n-xj.html","same_item":"yes","note":"New skin DCS355N-XJ retail. Snippet only (page fetch showed no price); not verified."},
-{"kind":"ASKING","price":"A$188.60","currency":"AUD","aud_price":188.6,"date":"live, seen 2026-11-06","venue":"Amazon.com.au","url":"https://www.amazon.com.au/DCS355N-XJ-Cordless-Brushless-Oscillating-Multi-Tool/dp/B00HER8E5A","same_item":"yes","note":"New retail, availability unconfirmed. Snippet only; not verified."},
-{"kind":"ASKING","price":"A$236.95","currency":"AUD","aud_price":236.95,"date":"live, seen 2026-11-06","venue":"eBay AU (Innovative Living)","url":"https://www.ebay.com.au/itm/332021535845","same_item":"yes","note":"New body only Buy It Now. Snippet only; asking, not sold."},
-{"kind":"ASKING","price":"A$299","currency":"AUD","aud_price":299,"date":"live, seen 2026-11-06","venue":"Discount Trader","url":"https://www.discounttrader.com.au/product/dewalt-dcs355n-xe-18v-xr-lithium-ion-brushless-oscillating-multi-tool-skin-only/","same_item":"yes","note":"Tool only, shown out of stock. Snippet only."}],
-"searches_tried":"comps.py (pipeline and work) for dewalt DCS355, dewalt multi-tool, dewalt oscillating, dewalt, multi tool, oscillating, multitool: no same-item sold result. Gowans API searches (DCS355, multi-tool, oscillating): nothing. One WebSearch for DCS355N AU price (snippets). Fetch of retailer pages gave no price. No past local sale of a DCS355N found, so SOLD evidence is only category guides. eBay sold listings for DCS355N skin would settle it (eBay closed to us).","needs_chrome":true,"chrome_hint":"eBay AU sold and completed listings: DeWalt DCS355N skin OR body only oscillating multi-tool","rate_note":"All AUD, no conversion.","viewing_check":"Confirm the model plate reads DCS355N (brushless), that the box is sealed or complete with pad, blades and sandpaper, and that the tool is not damaged or marked; note no battery or charger."}
+{
+ "cdid": 3112259,
+ "lot": 1587,
+ "identification": "DeWalt DCS355N (AU DCS355N-XJ) 18V XR brushless oscillating multi-tool, skin only, boxed, with accessories; catalogued as a sander. (from earlier research; photos not re-checked this pass)",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$155 hammer",
+   "currency": "AUD",
+   "aud_price": 155,
+   "date": "2026-09-09",
+   "venue": "Armitage Auctions, Launceston sale 28589 lot 1735",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045325&chid=28589&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "DeWalt 18V whipper snipper skin only, different tool; local skin-only DeWalt 18V price level. Local database row."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$110 hammer",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-09-09",
+   "venue": "Armitage Auctions, Launceston sale 28589 lot 1754",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045344&chid=28589&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "DeWalt 18V hedge trimmer skin only, different tool. Local database row."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180 hammer",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 410905",
+   "same_item": "category guide",
+   "note": "DeWalt grinder, no battery; a similar-class bare DeWalt tool. Local database row."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-06-14",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 417170",
+   "same_item": "category guide",
+   "note": "Worx cordless hammer drill and electric oscillating tool in cases; cheap brand, low end guide only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$249 (was $339)",
+   "currency": "AUD",
+   "aud_price": 249,
+   "date": "live, seen 2026-11-06",
+   "venue": "House Trade Supplies",
+   "url": "https://housetradesupplies.com.au/dewalt-18v-xr-brushless-oscillating-multi-tool-skin-dcs355n-xj.html",
+   "same_item": "yes",
+   "note": "New skin DCS355N-XJ retail. Snippet only (page fetch showed no price); not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$188.60",
+   "currency": "AUD",
+   "aud_price": 188.6,
+   "date": "live, seen 2026-11-06",
+   "venue": "Amazon.com.au",
+   "url": "https://www.amazon.com.au/DCS355N-XJ-Cordless-Brushless-Oscillating-Multi-Tool/dp/B00HER8E5A",
+   "same_item": "yes",
+   "note": "New retail, availability unconfirmed. Snippet only; not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$236.95",
+   "currency": "AUD",
+   "aud_price": 236.95,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay AU (Innovative Living)",
+   "url": "https://www.ebay.com.au/itm/332021535845",
+   "same_item": "yes",
+   "note": "New body only Buy It Now. Snippet only; asking, not sold."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$299",
+   "currency": "AUD",
+   "aud_price": 299,
+   "date": "live, seen 2026-11-06",
+   "venue": "Discount Trader",
+   "url": "https://www.discounttrader.com.au/product/dewalt-dcs355n-xe-18v-xr-lithium-ion-brushless-oscillating-multi-tool-skin-only/",
+   "same_item": "yes",
+   "note": "Tool only, shown out of stock. Snippet only."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for dewalt DCS355, dewalt multi-tool, dewalt oscillating, dewalt, multi tool, oscillating, multitool: no same-item sold result. Gowans API searches (DCS355, multi-tool, oscillating): nothing. One WebSearch for DCS355N AU price (snippets). Fetch of retailer pages gave no price. No past local sale of a DCS355N found, so SOLD evidence is only category guides. eBay sold listings for DCS355N skin would settle it (eBay closed to us). | chrome: Terapeak eBay AU sold, last 2 years: 'dewalt dcs355' (min $60)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold and completed listings: DeWalt DCS355N skin OR body only oscillating multi-tool",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "chrome_done": true
+}

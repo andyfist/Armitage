@@ -1,7 +1,7 @@
 {
  "cdid": 3112467,
  "lot": 1747,
- "identification": "Pair of black cloth SAAS reclining sports bucket seats with embroidered SAAS headrest logos, look clean and near new, no rails or sliders visible.",
+ "identification": "Pair of SAAS cloth reclining sports seats",
  "entries": [
   {
    "kind": "ASKING",
@@ -69,12 +69,38 @@
    "same_item": "category guide",
    "note": "SAAS Kombat Black Dual Recline X2 pair, brand NEW from a dealer. Model may differ from the Armitage seats and these are new, not used. Gives the new-price ceiling.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$567.95",
+   "currency": "AUD",
+   "date": "2026-08-23",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/174057480187",
+   "same_item": "no",
+   "note": "SAAS Mach II fixed back pair, new, different model",
+   "aud_price": 567.95,
+   "same_item_raw": "no",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$307.54",
+   "currency": "AUD",
+   "aud_price": 307.54,
+   "date": "2026-07-27",
+   "venue": "eBay AU (Terapeak sold data)",
+   "url": "https://www.ebay.com.au/itm/134811348677",
+   "same_item": "close",
+   "note": "1 x SAAS seat fixed back (single); Buy It Now; item price excl. postage",
+   "same_item_raw": "close",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py (crashed with a None error), work/comps.py saas, car seats, sports seat (only an unrelated Gowans SAAS steering wheel lot at $2); Gowans API saas seat, bucket seats, car seats (no car seat lots); WebSearch SAAS reclining seat prices, used SAAS pairs sold auction (no sold results found); opened shopsaas, autobox, carbids pages (carbids lot result not shown). No SOLD or UNSOLD comps found. eBay sold listings for used SAAS pairs would settle it. | chrome: eBay AU sold 'saas bucket seats pair' (one new SAAS pair sold; others other brands); 'saas dual recline seats used' hit an eBay error page. No used SAAS sold price seen. | chrome: eBay AU sold 'saas bucket seats pair' (one new SAAS pair sold; others other brands); 'saas dual recline seats used' hit an eBay error page. No used SAAS sold price seen. | chrome: eBay AU sold 'saas bucket seats pair' (one new SAAS pair sold; others other brands); 'saas dual recline seats used' hit an eBay error page. No used SAAS sold price seen.",
+ "searches_tried": "pipeline/comps.py (crashed with a None error), work/comps.py saas, car seats, sports seat (only an unrelated Gowans SAAS steering wheel lot at $2); Gowans API saas seat, bucket seats, car seats (no car seat lots); WebSearch SAAS reclining seat prices, used SAAS pairs sold auction (no sold results found); opened shopsaas, autobox, carbids pages (carbids lot result not shown). No SOLD or UNSOLD comps found. eBay sold listings for used SAAS pairs would settle it. | chrome: eBay AU sold 'saas bucket seats pair' (one new SAAS pair sold; others other brands); 'saas dual recline seats used' hit an eBay error page. No used SAAS sold price seen. | chrome: eBay AU sold 'saas bucket seats pair' (one new SAAS pair sold; others other brands); 'saas dual recline seats used' hit an eBay error page. No used SAAS sold price seen. | chrome: eBay AU sold 'saas bucket seats pair' (one new SAAS pair sold; others other brands); 'saas dual recline seats used' hit an eBay error page. No used SAAS sold price seen. | chrome: eBay sold AU 'saas seats pair'; Terapeak eBay AU sold, last 2 years: 'saas seats' (min $150)",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: saas dual recline sports seats pair used; also saas GT seat used sold",
- "viewing_check": "Read the model name on the label or tag, check for sliders or mounting brackets (without them they need rails fitted), the recline levers on both sides, tears, stains, and whether tags or packaging are still on. Photograph the label.",
+ "viewing_check": "Identify the model on the seat tag; check recline mechanisms and bolster wear.",
  "rate_note": "All prices AUD, no conversion needed.",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112463,
  "lot": 1743,
- "identification": "ITM 16mm 12-speed floor-standing pedestal drill press, blue head cover and base, 240V motor, appears complete",
+ "identification": "ITM 16mm 12-speed floor-standing pedestal drill press, blue head cover and base, 240V motor, appears complete (from earlier research; photos not re-checked this pass)",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,12 +68,25 @@
    "url": "https://housetradesupplies.com.au/itm-pedestal-floor-drill-press-16-speed-td1316f.html",
    "same_item": "close",
    "note": "New retail for the related 16 speed ITM model; TD131GF 12 speed not found. Snippet only, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$554.58",
+   "currency": "AUD",
+   "aud_price": 554.58,
+   "date": "2025-04-07",
+   "venue": "eBay AU (Terapeak sold data)",
+   "url": "https://www.ebay.com.au/itm/256520409894",
+   "same_item": "yes",
+   "note": "ITM pedestal floor drill press 16mm; Buy It Now; item price excl. postage",
+   "same_item_raw": "yes",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with several word sets; Gowans API pedestal drill and ITM drill; WebSearch Armitage site (nothing); WebSearch ITM TD131GF retail. eBay sold prices would help but not essential. | chrome: eBay AU sold: itm pedestal drill press 16mm, ITM pedestal drill, itm drill press pedestal (all returned eBay error pages after 6-30s waits). Nothing found.",
+ "searches_tried": "comps.py (pipeline and work) with several word sets; Gowans API pedestal drill and ITM drill; WebSearch Armitage site (nothing); WebSearch ITM TD131GF retail. eBay sold prices would help but not essential. | chrome: eBay AU sold: itm pedestal drill press 16mm, ITM pedestal drill, itm drill press pedestal (all returned eBay error pages after 6-30s waits). Nothing found. | chrome: Terapeak eBay AU sold, last 2 years: 'itm pedestal drill' (min $100)",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: ITM pedestal drill press 16mm",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Check model plate (TD131GF), chuck and quill run-out, table lock and column rack, run it, and note missing chuck key or guard.",
+ "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
  "chrome_done": true
 }

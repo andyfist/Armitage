@@ -1,7 +1,7 @@
 {
  "cdid": 3111116,
  "lot": 854,
- "identification": "Henschke Hill of Grace Shiraz 1994, Eden Valley, 750ml, black label, with the original black Henschke 'Vintage Hill of Grace 1994' box beside it.",
+ "identification": "Henschke Hill of Grace 1994, 750ml, with 1994 box",
  "entries": [
   {
    "kind": "ASKING",
@@ -103,12 +103,38 @@
    "same_item": "yes",
    "note": "Most recent global average retail asking price per 750ml as at October 2026. Dealer asking, includes provenance-premium stock, so well above auction. (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "EUR 300",
+   "currency": "EUR",
+   "aud_price": 525,
+   "date": "2021",
+   "venue": "LiveAuctioneers (European house)",
+   "url": "https://www.liveauctioneers.com/item/111607678",
+   "same_item": "yes",
+   "note": "Outside the 24-month window, so can't set a max; shows the European auction level. EUR->AUD 1.75",
+   "same_item_raw": "yes",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "EUR 190-225",
+   "currency": "EUR",
+   "aud_price": 333,
+   "date": "2021",
+   "venue": "LiveAuctioneers (same house, 3 single bottles)",
+   "url": "https://www.liveauctioneers.com/item/106185185",
+   "same_item": "yes",
+   "note": "Outside 24 months; lots 106185185/6/7 sold EUR 200, 225, 190",
+   "same_item_raw": "yes",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline version crashed on a data error; work version returned no sales for henschke / hill of grace); Gowans API search 'hill of grace' returned nothing; WebSearch x5 (general sold price, Langtons result, Armitage past lots, passed-in, Tasmanian houses); opened Langtons page (ok), winebid/wineauctioneer/wickman blocked. No Tasmanian or Armitage past result found. eBay sold listings and Wine-Searcher would settle it (eBay.com.au sold 1994 Hill of Grace 750ml); also Langtons past results and Wine Owners. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence.",
+ "searches_tried": "Local comps.py (pipeline version crashed on a data error; work version returned no sales for henschke / hill of grace); Gowans API search 'hill of grace' returned nothing; WebSearch x5 (general sold price, Langtons result, Armitage past lots, passed-in, Tasmanian houses); opened Langtons page (ok), winebid/wineauctioneer/wickman blocked. No Tasmanian or Armitage past result found. eBay sold listings and Wine-Searcher would settle it (eBay.com.au sold 1994 Hill of Grace 750ml); also Langtons past results and Wine Owners. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay sold 'henschke hill of grace' worldwide (only 2021 vintage); LiveAuctioneers 'hill of grace 1994'; Terapeak eBay AU sold, last 2 years: 'hill of grace 1994'",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: '1994 Henschke Hill of Grace' 750ml, plus Langtons past results (Hill of Grace 1994) and Wine-Searcher auction history for 1994 Hill of Grace.",
- "viewing_check": "Check fill level (base of neck or better), label and capsule condition, any seepage or crust at the cork, cork height, and the vintage on the label. Confirm the box is the matching 1994 box. Photograph the shoulder and the back label.",
+ "viewing_check": "Fill level and cork. No sales of this vintage inside 24 months found on eBay or LiveAuctioneers; Langtons is the market that matters (not signed in).",
  "rate_note": "USD at 1.50 and GBP at 2.00 assumed, not looked up.",
  "chrome_done": true
 }
