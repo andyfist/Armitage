@@ -1,7 +1,7 @@
 {
  "cdid": 3111213,
  "lot": 951,
- "identification": "1991 $20 Fraser/Cole (R413) UNC note, red serial B 000416 in holder, crisp",
+ "identification": "$20 Fraser/Cole paper note with RED serial B 000416, UNC in holder. This is the 1993 NPA/APT portfolio issue (red serials), not a standard 1991 R.413 circulating note.",
  "entries": [
   {
    "kind": "SOLD",
@@ -138,11 +138,76 @@
    "same_item": "partial",
    "note": "1993 Fraser/Cole $20 vertical PAIR with red serial (portfolio type, 1993 not 1991), indicates red-serial premium",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-03",
+   "venue": "Noble Sale 141, lot (80th Anniversary $20)",
+   "url": "https://www.noble.com.au/auctions/lot/?id=441436",
+   "same_item": "no",
+   "note": "1993 80th Anniversary red serial M 000518 in folder, UNC. Different red-serial issue. Noble Prices Realised figure; check whether it includes the buyer's premium.",
+   "same_item_raw": "no (category guide)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$119.99",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-10-14",
+   "venue": "eBay AU 267796797993",
+   "url": "https://www.ebay.com.au/itm/267796797993",
+   "same_item": "no",
+   "note": "1993 red serial $20 folder M 004878, 80th Anniversary issue; best offer accepted. eBay AU sold; grade is the seller's own unless graded; postage extra.",
+   "same_item_raw": "no (category guide)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$179.18",
+   "currency": "AUD",
+   "aud_price": 179,
+   "date": "2026-04-03",
+   "venue": "eBay AU 188213927463 (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/188213927463",
+   "same_item": "no",
+   "note": "1993 $20 red serial in NPA special folder. Our lot is a note in a holder; check whether the folder is present. eBay AU via Terapeak (Seller Hub Research, 3-year window); avg sold price, postage excluded; grade is the seller's own unless graded.",
+   "same_item_raw": "no (category guide)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.11",
+   "currency": "AUD",
+   "aud_price": 159,
+   "date": "2025-08-18",
+   "venue": "eBay AU 277313782075 (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/277313782075",
+   "same_item": "no",
+   "note": "1993 $20 red serial in NPA special folder, auction. eBay AU via Terapeak (Seller Hub Research, 3-year window); avg sold price, postage excluded; grade is the seller's own unless graded.",
+   "same_item_raw": "no (category guide)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$179.68",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-01-25",
+   "venue": "eBay AU 277650674834 (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/277650674834",
+   "same_item": "no",
+   "note": "1993 $20 red serial in NPA special folder, auction. eBay AU via Terapeak (Seller Hub Research, 3-year window); avg sold price, postage excluded; grade is the seller's own unless graded.",
+   "same_item_raw": "no (category guide)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) several word sets; Gowans API search; 3 WebSearches (low serial, NPA portfolio, Noble). No exact B 000416 result found. eBay sold listings (Fraser Cole 1991 $20 low serial / NPA) would help; no FX needed, all AUD. | chrome: eBay AU sold: 1991 20 dollar note Fraser Cole uncirculated; 1991 20 fraser cole low serial OR red serial OR portfolio; australia 20 dollar banknote red serial low number Fraser Cole. No exact B000416 match. | chrome: eBay AU sold: 1991 20 dollar note Fraser Cole uncirculated; 1991 20 fraser cole low serial OR red serial OR portfolio; australia 20 dollar banknote red serial low number Fraser Cole. No exact B000416 match.",
+ "searches_tried": "comps.py (pipeline and work) several word sets; Gowans API search; 3 WebSearches (low serial, NPA portfolio, Noble). No exact B 000416 result found. eBay sold listings (Fraser Cole 1991 $20 low serial / NPA) would help; no FX needed, all AUD. | chrome: eBay AU sold: 1991 20 dollar note Fraser Cole uncirculated; 1991 20 fraser cole low serial OR red serial OR portfolio; australia 20 dollar banknote red serial low number Fraser Cole. No exact B000416 match. | chrome: eBay AU sold: 1991 20 dollar note Fraser Cole uncirculated; 1991 20 fraser cole low serial OR red serial OR portfolio; australia 20 dollar banknote red serial low number Fraser Cole. No exact B000416 match. | chrome: Noble 'Twenty dollars Fraser Cole'. eBay AU sold '$20 fraser cole red serial'. Terapeak (3 years) also searched.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: 1991 $20 Fraser Cole R413 low serial OR NPA OR portfolio OR red serial",
- "viewing_check": "Check holder card, whether serial is red and note is truly uncirculated (no folds, corner bumps). 1991 red-serial B-prefix special issue claim unverified.",
+ "viewing_check": "Confirm it is the portfolio note (red serial) and whether any folder/portfolio comes with it. The same note made only A$50 at Noble in 2024, so a low serial adds little. On eBay the same red-serial note sells for A$160-180 when it is in its NPA folder.",
  "chrome_done": true
 }

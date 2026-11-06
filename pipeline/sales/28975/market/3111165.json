@@ -1,11 +1,100 @@
-{"cdid":3111165,"lot":903,"identification":"Four Australian pre-decimal silver coins: 1915 florin (George V, mint mark unconfirmed), 1921 shilling, 1918 sixpence, 1918 threepence. Only the florin matters. Photo is 800x600 and the enlarged crop shows a tiny blob below the date between the 1 and 5 that could be an H, but it is not resolvable. Plain 1915 (London) florin is worth about melt to modest dollars; 1915H is scarcer and worth roughly $50 to $90 in F to VF.","entries":[
-{"kind":"SOLD","price":"$70 hammer","currency":"AUD","aud_price":70,"date":"2025-05-28","venue":"Armitage Auctions, Launceston sale 24110 lot 866","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2513058&chid=24110&category=ALL&style=group","same_item":"close","note":"7 florins (3 x 1921, 3 x 1915, 1 x 1933), mint marks not stated. From local database, not opened. Suggests plain-ish 1915 florins are low value."},
-{"kind":"SOLD","price":"$200 hammer","currency":"AUD","aud_price":200,"date":"2024-11-25","venue":"Noble Numismatics sale 137 lot 332","url":"https://www.noble.com.au/auctions/lot/?id=423903","same_item":"category guide","note":"Mixed lot: 2 crowns 1937, florins 1915H and 1935, 10 shillings, sixpences. Includes a 1915H florin among many coins; can't isolate its share. Local database, not opened."},
-{"kind":"SOLD","price":"$160 hammer","currency":"AUD","aud_price":160,"date":"2024-07-29","venue":"Noble Numismatics sale 136 lot 380","url":"https://www.noble.com.au/auctions/lot/?id=420609","same_item":"category guide","note":"Crown 1937, florins 1915, 1916M, 1917M (2), 1927 Canberra, plus others. Plain 1915 in a mixed lot. Local database, not opened."},
-{"kind":"SOLD","price":"$360 hammer","currency":"AUD","aud_price":360,"date":"2024-07-29","venue":"Noble Numismatics sale 136 lot 389","url":"https://www.noble.com.au/auctions/lot/?id=420618","same_item":"category guide","note":"Run of florins incl 1915 and 1915H plus sixpences; multi-coin lot, not comparable per coin. Local database."},
-{"kind":"SOLD","price":"$40 hammer","currency":"AUD","aud_price":40,"date":"2026-08-16","venue":"Gowans Auctions, Hobart lot 430638 (4 brilliant silver pre-decimal coins)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+coins&page%5Bnumber%5D=1","same_item":"category guide","note":"Small lot of 4 silver pre-decimal coins, 6 bids; shows the going rate for generic worn silver in the Tasmanian room. Local database."},
-{"kind":"SOLD","price":"$80","currency":"AUD","aud_price":80,"date":"2019-08-30","venue":"Sterling & Currency (Perth dealer) 1915-H Florin Fine, last sold","url":"https://www.sterlingcurrency.com.au/1915-h-florin-fine","same_item":"yes","note":"Dealer's recorded sale of a Fine 1915H florin; seen in search snippet only, old (2019), unverified."},
-{"kind":"SOLD","price":"$46.34","currency":"AUD","aud_price":46.34,"date":"2019-04","venue":"PCGS Auction Prices, 1915 H florin PCGS F12 (eBay)","url":"https://www.pcgs.com/auctionprices/item/1915-h-florin/17895/-8020710089268397403","same_item":"yes","note":"F12 graded, snippet only, old (2019), unverified."},
-{"kind":"ASKING","price":"$47.60 (F12), $83.60 (VF20)","currency":"AUD","aud_price":83.6,"date":"live, seen 2026-11-06","venue":"Coins and Australia price guide, 1915 H florin","url":"https://www.coinsandaustralia.com/coins-prices-value.php?coin=florin-1915&years=florin-1911-1936&cat=pre-decimal","same_item":"category guide","note":"Guide values, snippet only (site blocked page fetch). Not a price paid."}
-],
-"searches_tried":"pipeline/comps.py (crashed on a null in the database; --source noble worked) and work/comps.py with florin, 1915, 1915H, silver florin, pre-decimal silver; one WebSearch for 1915H florin prices; fetched Sterling & Currency pages (prices not shown in text); coinsandaustralia blocked. Realistic whole-lot value if plain 1915: roughly melt, about $40 to $70 hammer; if 1915H confirmed: about $80 to $130. eBay sold listings and Noble/Downies archives for 1915H Fine/VF would tighten this. Rate AUD only, no conversion.","needs_chrome":true,"chrome_hint":"eBay sold: Australia 1915H florin (also 'Heaton' florin 1915), Fine to VF, last 12 months; Noble Numismatics archive: 'florin 1915H' VF","viewing_check":"Look under the date on the florin reverse for a small H (1915H) with a loupe; plain 1915 has none. Also check florin grade and whether the sixpence and threepence dates are 1918 (no premium either way)."}
+{
+ "cdid": 3111165,
+ "lot": 903,
+ "identification": "Four pre-decimal silver coins: 1915 florin, 1921 shilling, 1918 sixpence, 1918 threepence. Zoomed photo shows a small mark below the date of the florin that could be the H mint mark; not resolvable.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2025-05-28",
+   "venue": "Armitage Auctions, Launceston sale 24110 lot 866",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2513058&chid=24110&category=ALL&style=group",
+   "same_item": "close",
+   "note": "7 florins (3 x 1921, 3 x 1915, 1 x 1933), mint marks not stated. From local database, not opened. Suggests plain-ish 1915 florins are low value."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$200 hammer",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2024-11-25",
+   "venue": "Noble Numismatics sale 137 lot 332",
+   "url": "https://www.noble.com.au/auctions/lot/?id=423903",
+   "same_item": "category guide",
+   "note": "Mixed lot: 2 crowns 1937, florins 1915H and 1935, 10 shillings, sixpences. Includes a 1915H florin among many coins; can't isolate its share. Local database, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2024-07-29",
+   "venue": "Noble Numismatics sale 136 lot 380",
+   "url": "https://www.noble.com.au/auctions/lot/?id=420609",
+   "same_item": "category guide",
+   "note": "Crown 1937, florins 1915, 1916M, 1917M (2), 1927 Canberra, plus others. Plain 1915 in a mixed lot. Local database, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$360 hammer",
+   "currency": "AUD",
+   "aud_price": 360,
+   "date": "2024-07-29",
+   "venue": "Noble Numismatics sale 136 lot 389",
+   "url": "https://www.noble.com.au/auctions/lot/?id=420618",
+   "same_item": "category guide",
+   "note": "Run of florins incl 1915 and 1915H plus sixpences; multi-coin lot, not comparable per coin. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-08-16",
+   "venue": "Gowans Auctions, Hobart lot 430638 (4 brilliant silver pre-decimal coins)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+coins&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Small lot of 4 silver pre-decimal coins, 6 bids; shows the going rate for generic worn silver in the Tasmanian room. Local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2019-08-30",
+   "venue": "Sterling & Currency (Perth dealer) 1915-H Florin Fine, last sold",
+   "url": "https://www.sterlingcurrency.com.au/1915-h-florin-fine",
+   "same_item": "yes",
+   "note": "Dealer's recorded sale of a Fine 1915H florin; seen in search snippet only, old (2019), unverified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$46.34",
+   "currency": "AUD",
+   "aud_price": 46.34,
+   "date": "2019-04",
+   "venue": "PCGS Auction Prices, 1915 H florin PCGS F12 (eBay)",
+   "url": "https://www.pcgs.com/auctionprices/item/1915-h-florin/17895/-8020710089268397403",
+   "same_item": "yes",
+   "note": "F12 graded, snippet only, old (2019), unverified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$47.60 (F12), $83.60 (VF20)",
+   "currency": "AUD",
+   "aud_price": 83.6,
+   "date": "live, seen 2026-11-06",
+   "venue": "Coins and Australia price guide, 1915 H florin",
+   "url": "https://www.coinsandaustralia.com/coins-prices-value.php?coin=florin-1915&years=florin-1911-1936&cat=pre-decimal",
+   "same_item": "category guide",
+   "note": "Guide values, snippet only (site blocked page fetch). Not a price paid."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py (crashed on a null in the database; --source noble worked) and work/comps.py with florin, 1915, 1915H, silver florin, pre-decimal silver; one WebSearch for 1915H florin prices; fetched Sterling & Currency pages (prices not shown in text); coinsandaustralia blocked. Realistic whole-lot value if plain 1915: roughly melt, about $40 to $70 hammer; if 1915H confirmed: about $80 to $130. eBay sold listings and Noble/Downies archives for 1915H Fine/VF would tighten this. Rate AUD only, no conversion. | chrome: Photo zoom only; no price searches.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: Australia 1915H florin (also 'Heaton' florin 1915), Fine to VF, last 12 months; Noble Numismatics archive: 'florin 1915H' VF",
+ "viewing_check": "Loupe the area under the florin date for an H (1915H is the scarcer coin). Otherwise the lot is roughly silver value.",
+ "chrome_done": true
+}

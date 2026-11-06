@@ -1,7 +1,7 @@
 {
  "cdid": 3111209,
  "lot": 947,
- "identification": "Eight Australian 1954 Royal Visit florins (50% silver, 11.31g each), all dates visible, circulated, roughly Fine to VF, no key date. About 45g fine silver. Common coin.",
+ "identification": "Eight 1954 Royal Visit florins, circulated, 50% silver (about 45 g fine silver).",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,38 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=457987",
    "same_item": "category guide",
    "note": "Four florins incl 1927 Canberra and two 1951 Jubilee plus one 1954 RV, GVF-EF; mixed, one key coin. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$198.92",
+   "currency": "AUD",
+   "aud_price": 199,
+   "date": "2026-08-19",
+   "venue": "eBay AU 407152716060",
+   "url": "https://www.ebay.com.au/itm/407152716060",
+   "same_item": "yes",
+   "note": "8 x 1954 florins, Buy It Now; grade not stated. eBay AU sold; grade is the seller's own unless graded; postage extra.",
+   "same_item_raw": "yes",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$149.10",
+   "currency": "AUD",
+   "aud_price": 149,
+   "date": "2026-09-18",
+   "venue": "eBay AU 168693078169",
+   "url": "https://www.ebay.com.au/itm/168693078169",
+   "same_item": "no",
+   "note": "10 x 1954 florins. eBay AU sold; grade is the seller's own unless graded; postage extra.",
+   "same_item_raw": "no (10 coins)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py (1954 florin royal visit) and work comps.py (1954 florin); read photos. No web search needed: item is a common circulated bulk lot with ample Gowans and Noble comps. Melt about 45g fine silver (price not checked this run). eBay sold would add little.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py (1954 florin royal visit) and work comps.py (1954 florin); read photos. No web search needed: item is a common circulated bulk lot with ample Gowans and Noble comps. Melt about 45g fine silver (price not checked this run). eBay sold would add little. | chrome: eBay AU sold '8 x 1954 florins'.",
+ "needs_chrome": false,
  "chrome_hint": " Bidder signal: 266642 - Howrah, (coins and banknotes specialist, seen in 12 sales); 175518 - George town , (seen in 37 sales). Look harder for sold prices of this exact item.",
  "rate_note": "All prices AUD, rate 1.0. Gowans hammer, premium extra.",
- "viewing_check": "nothing beyond a glance for cleaning, damage or an odd one (1954 is common; no rare variety). Check all eight really are 1954 Royal Visit and not mixed dates."
+ "viewing_check": "Nothing beyond counting the coins.",
+ "chrome_done": true
 }
