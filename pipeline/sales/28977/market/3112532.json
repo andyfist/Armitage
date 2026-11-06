@@ -1,0 +1,122 @@
+{
+ "cdid": 3112532,
+ "lot": 1504,
+ "identification": "Sidchrome 39 Piece Metric & A/F socket set, 1/4 and 3/8 drive, part 19100, red metal case with yellow insert. Appears nearly complete (all positions look filled in photo; ratchet, extension, spinner, spark plug socket, screwdriver present).",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$120 hammer",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 410219 (via work/comps.py, premium extra)",
+   "same_item": "close",
+   "note": "SIDCHROME 37 PIECE METRIC & AF SOCKET SET, 29 bids. Closest comp: similar size set, condition unknown. Local database record, title only, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 410222 (via work/comps.py, premium extra)",
+   "same_item": "close",
+   "note": "SIDCHROME 60 PIECE METRIC & A/F SOCKET SET, 28 bids. Larger set, upper end. Local database record, title only, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 410883 (via work/comps.py, premium extra)",
+   "same_item": "close",
+   "note": "SIDCHROME SOCKET SET, 26 bids. Size unstated. Local database record, title only, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150 hammer",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2025-12-01",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 379458 (via work/comps.py, premium extra)",
+   "same_item": "close",
+   "note": "SIDCHROME SOCKET SET, 19 bids. Size unstated. Local database record, title only, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 422184 (via work/comps.py, premium extra)",
+   "same_item": "close",
+   "note": "SIDCHROME SOCKET SET, 20 bids. Size unstated, lower end. Local database record, title only, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 415788 (via work/comps.py, premium extra)",
+   "same_item": "category guide",
+   "note": "SIDCHROME SOCKET SET & IGNITION SPANNER SET, 8 bids. Likely smaller or incomplete. Local database record, title only, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2025-12-01",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 379447 (via work/comps.py, premium extra)",
+   "same_item": "category guide",
+   "note": "SIDCHROME SOCKET SET, 6 bids. Low end, probably incomplete. Local database record, title only, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 final bid",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2021-10-19",
+   "venue": "Evans Clarke (SA), sale 43296 lot 44",
+   "url": "https://www.evansclarke.com.au/detail.aspx?id=1601871",
+   "same_item": "close",
+   "note": "Sidchrome 39 Piece SCMT19100, sold as is, 24 bids. Page opened. Likely the modern version of same set; 5 years old; premium status unknown."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$49 to $49.95 new",
+   "currency": "AUD",
+   "aud_price": 49.95,
+   "date": "live, seen 2026-11-06",
+   "venue": "Bunnings (Jan 2024 OzBargain) / Total Tools",
+   "url": "https://www.ozbargain.com.au/node/816398",
+   "same_item": "category guide",
+   "note": "Current new SCMT19100 retail, a price ceiling for plain used examples. Snippet only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$99",
+   "currency": "AUD",
+   "aud_price": 99,
+   "date": "live, seen 2026-11-06",
+   "venue": "Cash Converters",
+   "url": "https://www.cashconverters.com.au/shop/tools-motor-hardware/hand-tools/socket-sets/socket-set/045100320173",
+   "same_item": "yes",
+   "note": "Used well-worn 39 piece red set. Snippet only, unverified."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); used work/comps.py (sidchrome socket, 39, 19100, piece case), Gowans API (2 queries), WebSearch x3 (19100 sold; vintage red case; Armitage site, nothing indexed), WebFetch Evans Clarke. eBay sold prices would settle it better.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold listings: sidchrome 39 piece socket set 19100 (metal case), filter Sold items",
+ "viewing_check": "Count every socket against the insert diagram (missing sockets cut value), check ratchet action, rust inside case, and screwdriver and spinner present. Note whether the base reads Made in Australia.",
+ "rate_note": "All AUD, no conversion. Gowans hammer excludes premium."
+}
