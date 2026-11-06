@@ -1,0 +1,110 @@
+{
+ "cdid": 3111181,
+ "lot": 919,
+ "identification": "Album sheet of about 55-60 Australian pre-decimal silver sixpences and threepences (approx 35 sixpences, 20 threepences visible), Coat of Arms reverse, circulated; dates not legible so no key dates confirmed.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$230 hammer",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions, Hobart (premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=threepence+sixpence",
+   "same_item": "close",
+   "note": "QTY OF AUSTRALIAN PRE-DECIMAL THREEPENCES & SIXPENCES (id 414600, 9 bids). API result, page opened (JSON). Loose quantity, similar mix; closest on content."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$320 hammer",
+   "currency": "AUD",
+   "aud_price": 320,
+   "date": "2026-03-09",
+   "venue": "Gowans Auctions, Hobart (premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=threepence+sixpence",
+   "same_item": "close",
+   "note": "THREEPENCE/SIXPENCE ALBUM INCL COINS (7 bids). API result, page opened (JSON). Album, may include better dates; high outlier."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120 hammer",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-10-18",
+   "venue": "Gowans Auctions, Hobart (premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=threepence+sixpence",
+   "same_item": "close",
+   "note": "SHEET OF STERLING SILVER CARDED AUSTRALIAN SHILLINGS, SIXPENCES & THREEPENCES. API result, page opened (JSON). Sheet, similar type."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-06-21",
+   "venue": "Gowans Auctions, Hobart (premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+coins+sheet",
+   "same_item": "close",
+   "note": "SHEET OF AUSTRALIAN SILVER COINS (id 417728, 11 bids). API result, page opened (JSON). Sheet, size unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$210 hammer",
+   "currency": "AUD",
+   "aud_price": 210,
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions, Hobart (premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+coins+sheet",
+   "same_item": "close",
+   "note": "SHEET OF MOUNTED AUSTRALIAN SILVER COINS (id 390152, 8 bids). API result, page opened (JSON). Sheet, content unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$170 hammer",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2026-01-26",
+   "venue": "Gowans Auctions, Hobart (premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+coins+sheet",
+   "same_item": "close",
+   "note": "SHEET OF MOUNTED AUSTRALIAN SILVER COINS (id 385409, 11 bids). API result, page opened (JSON). Sheet, content unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$110 hammer",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-03-30",
+   "venue": "Gowans Auctions, Hobart (premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=silver+coins+sheet",
+   "same_item": "close",
+   "note": "SHEET OF PRE-DECIMAL SILVER COINS (id 399944, 9 bids). API result, page opened (JSON). Sheet, content unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions, Hobart (premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=threepence+sixpence",
+   "same_item": "close",
+   "note": "QTY OF THREEPENCE & SIXPENCE - MIXED YEARS. API result, page opened (JSON). Loose lot, count unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-07-12",
+   "venue": "Gowans Auctions, Hobart (premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=threepence+sixpence",
+   "same_item": "close",
+   "note": "BAG OF SIXPENCE & THREEPENCE COINS. API result, page opened (JSON). Loose bag, count unknown."
+  }
+ ],
+ "searches_tried": "work/comps.py (3 queries) and pipeline/comps.py (errored on a None price bug); Gowans API search 'threepence sixpence' (page opened). Web and Noble searches not run. eBay sold listings would help settle value but are closed to us. Melt is roughly $80-130 floor.",
+ "needs_chrome": false,
+ "viewing_check": "Read dates on the sixpences and threepences for key dates (e.g. 1923-ish, 1932, 1946-1950s scarce issues, 3d 1930s, 1943/44 varieties) and note sterling (pre-1946) versus .500 counts.",
+ "rate_note": "All prices AUD, no conversion."
+}

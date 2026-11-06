@@ -1,0 +1,78 @@
+{
+ "cdid": 3112321,
+ "lot": 1416,
+ "identification": "Powell & Hanmer (Birmingham) nickel-plated carbide cycle/motorcycle lamp, early 20th century; model not identified (round badge worn). Common maker, widely made.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-09-27",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (id 440851)",
+   "same_item": "close",
+   "note": "1930S BICYCLE CARBIDE LAMP, 4 bids, maker not stated; API result, premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2025-10-19",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (id 368647)",
+   "same_item": "close",
+   "note": "LARGE CARBIDE LAMP, 3 bids; API result, maker unknown."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$29 hammer",
+   "currency": "AUD",
+   "aud_price": 29,
+   "date": "2026-03-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (id 398840)",
+   "same_item": "category guide",
+   "note": "CARBIDE LANTERN, 0 bids listed; weaker category guide."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 125 (dealer, marked sold)",
+   "currency": "GBP",
+   "aud_price": 250,
+   "date": "undated, seen 2026-11-06",
+   "venue": "Antiques Atlas dealer listing",
+   "url": "https://www.antiques-atlas.com/antique/powell__hanmer__chieftain_carbide_bicycle_lamp_a176/as563a176",
+   "same_item": "close",
+   "note": "Page opened. Chieftain model, small tank dent. Dealer retail marked Sold, final price may differ; really a retail guide, not auction. Rate GBP 1 = AUD 2.00 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 45 hammer (lot of four lamps incl P&H New Sultan)",
+   "currency": "GBP",
+   "aud_price": 90,
+   "date": "unknown",
+   "venue": "Fieldings Auctioneers UK, lot 770",
+   "url": "https://fieldingsauctioneers.co.uk/lot/225850",
+   "same_item": "category guide",
+   "note": "Snippet only via search summary; mixed lot, not verified. Rate 2.00 assumed."
+  },
+  {
+   "kind": "ASKING",
+   "price": "Donley estimate USD 150-200 (group with a carbide lamp)",
+   "currency": "USD",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-06",
+   "venue": "Donley Auctions",
+   "url": "https://bid.donleyauctions.com/auction/269-october-fall-classic/lot-1086-powell-hanmer/",
+   "same_item": "category guide",
+   "note": "Snippet only, estimate for a group, unverified, not used for value."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline: carbide lamp, 3 Gowans hits; work/comps.py powell hanmer: none); Gowans API carbide and powell hanmer; WebSearch P&H carbide sold, site:armitage.bidsonline (no hits), P&H motorcycle lamp for sale; opened Antiques Atlas, Country Home Antiques (sold, no price shown), Fieldings page (useless). eBay sold prices (Powell Hanmer carbide lamp) would settle it better. Local evidence suggests roughly $30-60 hammer for common carbide lamps.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay sold listings: Powell Hanmer carbide lamp (and model name once identified, e.g. Panther, Revenge, Chieftain)",
+ "viewing_check": "Read the worn round badge and any model name or patent marks on the lamp body, check the lens and burner are present, and look for dents or holes in the tank.",
+ "rate_note": "GBP 1 = AUD 2.00 assumed (not fetched)"
+}

@@ -1,0 +1,67 @@
+{
+ "cdid": 3110955,
+ "lot": 693,
+ "identification": "Oak serving tray (about 53 x 36 cm) with moulded rim, hand painted with a realistic seated thylacine seen from behind. Lot title attributes it to Alison Cooper-White; no signature visible in the single photo and the back is not shown. I could not find any artist of that name linked to thylacine art on the web, so the attribution is unverified. Closest known name is a Tasmanian 'Alison Cooper' who painted a table centre at Gowans.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart (lot 413428, 3 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=alison+cooper",
+   "same_item": "close",
+   "note": "Vintage octagonal glass topped table with centre painting by local artist Alison Cooper. Same or similar local artist, different object, decorative furniture. Premium extra. API record opened, price in cents (5500). Shows low value for this artist's work."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Hobart (lot 409939, 7 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine+oil",
+   "same_item": "category guide",
+   "note": "Bill Flowers oil on board, spotted quoll vs thylacine, signed. Signed Tasmanian wildlife painting, thylacine-adjacent subject. Premium extra. API record opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-01-19",
+   "venue": "Gowans Auctions, Hobart (lot 384373, 2 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian+tiger",
+   "same_item": "category guide",
+   "note": "Paper mache Tasmanian tiger by Tasmanian artist Lindsay Arnold. Local handmade thylacine craft, low price. Premium extra. Local database result."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$260 hammer",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions, Hobart (lot 390652, 6 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine",
+   "same_item": "category guide",
+   "note": "Large rusted cut-steel thylacine garden figure. Decorative thylacine object, not a painting. Premium extra. Local database result."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 to $240 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2025-11 to 2026-09",
+   "venue": "Gowans Auctions, Hobart (many lots)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine+print",
+   "same_item": "category guide",
+   "note": "Framed Gould/Richter and 1950s-60s thylacine prints, typically $50-$240 hammer, median about $100. Mass-produced prints, a ceiling reference for casual thylacine decor, not a comparable. Local database results."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py crashed (TypeError on a null field in its data) so used work/comps.py: thylacine, tasmanian tiger, thylacine tray, cooper white (nothing), alison cooper (one hit). Gowans API: cooper-white (0), alison cooper (1), thylacine tray/painting/hand painted (0), thylacine oil (1). WebSearch x4: Alison Cooper-White thylacine; hand painted thylacine oak tray auction; site:armitage Alison Cooper thylacine; Alison Cooper Tasmanian artist Launceston; Cooper-White thylacine oak tray. No artist found, no comparable painted thylacine tray sold. The pipeline note 'alison + cooper median $480' is a word-pair artefact from unrelated William T Cooper bird books and Carl Cooper pottery, ignore. eBay sold for 'thylacine painted tray' would help.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: 'thylacine painted tray' and 'Tasmanian tiger painted wood tray'; also Trove/Google Images for 'Alison Cooper-White' thylacine",
+ "viewing_check": "Look at and photograph the back and edges of the tray and the painting for a signature, initials, label or date (Cooper-White or similar). Check whether the thylacine is painted directly on the oak or on an applied panel, and the quality of the paint work. Check the price sticker on the front.",
+ "rate_note": "All prices AUD, no conversion needed. Gowans hammers exclude buyer's premium."
+}

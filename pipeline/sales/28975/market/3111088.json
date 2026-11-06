@@ -1,0 +1,100 @@
+{
+ "cdid": 3111088,
+ "lot": 826,
+ "identification": "Yamaha student Bb clarinet (likely YCL-20 or Y12/YCL-200 series, model unconfirmed) in hard case with reeds and a folding music stand. Black resin body, nickel keys, corks present.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-05-03",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/406696/",
+   "same_item": "yes",
+   "note": "YAMAHA CASED CLARINET, 9 bids. Local database result, page not opened; best same-item result."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/442503/",
+   "same_item": "yes",
+   "note": "YAMAHA CLARINET Y12, 7 bids. Local database result, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-08-16",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/430997/",
+   "same_item": "yes",
+   "note": "YAMAHA CLARINET, 5 bids. Local database result, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437512/",
+   "same_item": "yes",
+   "note": "YAMAHA CLARINET, 2 bids. Local database result, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/438844/",
+   "same_item": "close",
+   "note": "BUNDY CLARINET IN CASE, 0 bids. Local database result, other student brand; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/409786/",
+   "same_item": "close",
+   "note": "CLARINET IN CASE, 3 bids. Local database result, brand unstated; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$2 to $9 hammer",
+   "currency": "AUD",
+   "aud_price": 5,
+   "date": "2026-07/08",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/427946/",
+   "same_item": "category guide",
+   "note": "Plain music stands sell for almost nothing at Gowans (lots 427946, 426340). Local database; page not opened."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$350 to $810 (used YCL-255)",
+   "currency": "AUD",
+   "aud_price": 450,
+   "date": "live, seen 2026-11-06",
+   "venue": "Gumtree / Ozwinds (search results)",
+   "url": "https://www.ozwinds.com.au/used-instruments/used-clarinets.html",
+   "same_item": "category guide",
+   "note": "Retail asks for a better Yamaha YCL-255, dealer or private, e.g. Ozwinds $650, Gumtree $350-$810. Snippet only, not verified. Not a price paid; auction clearing prices are far lower."
+  }
+ ],
+ "rate_note": "All AUD, no conversion. Gowans hammer prices exclude premium.",
+ "searches_tried": "comps.py (pipeline) crashed on a data error; work/comps.py for 'yamaha clarinet', 'clarinet', 'clarinet case', 'music stand' (--years 2); one WebSearch for used Yamaha student clarinet prices in Australia. Gowans API not queried beyond database. eBay sold prices would confirm but are not essential.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold: Yamaha clarinet YCL-20 case (only if wanted)",
+ "viewing_check": "Check the model stamp on the bell or barrel (YCL-20, 200, 255 or Y12), any cracks in the body or tenons, pads and corks, and that a mouthpiece is present."
+}

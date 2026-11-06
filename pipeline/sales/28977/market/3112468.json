@@ -1,0 +1,100 @@
+{
+ "cdid": 3112468,
+ "lot": 1748,
+ "identification": "Husqvarna K970 petrol power cutter (demo saw), 350mm diamond blade fitted plus spare blue blade; model plate K970 confirmed in photos. Heavily dusty, orange body worn, running condition unknown.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$280 hammer",
+   "currency": "AUD",
+   "aud_price": 280,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Moonah (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=makita%20concrete%20saw&page%5Bnumber%5D=1 (lot id 422209)",
+   "same_item": "close",
+   "note": "Makita MAKITA CONCRETE SAW petrol cut-off saw, 15 bids; local database hit, not opened. Lesser brand than Husqvarna; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230 hammer",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-07-19",
+   "venue": "Gowans Auctions, Moonah (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=stihl%20concrete%20saw&page%5Bnumber%5D=1 (lot id 425318)",
+   "same_item": "close",
+   "note": "Stihl concrete saw, 9 bids; local database hit, not opened. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150 hammer",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Moonah (Hobart)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=makita%20concrete%20saw&page%5Bnumber%5D=1 (lot id 422210)",
+   "same_item": "close",
+   "note": "Makita concrete saw, 17 bids; database hit, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Moonah (Hobart)",
+   "url": "gowans lot id 444801 (MAKITA CONCRETE SAW)",
+   "same_item": "close",
+   "note": "10 bids; database hit, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-01-19",
+   "venue": "Gowans Auctions, Moonah (Hobart)",
+   "url": "gowans lot id 384705 (STIHL CONCRETE CUTTING SAW - AS IS)",
+   "same_item": "close",
+   "note": "Sold as is, 3 bids; low end for a dud. Database hit, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "USD 275",
+   "currency": "USD",
+   "aud_price": 420,
+   "date": "2024-10-19",
+   "venue": "Corpus Christi fleet auction (USA), Husqvarna K770",
+   "url": "https://www.tractorhouse.com/listings/auction-results/husqvarna/k770/other-items/40000",
+   "same_item": "close",
+   "note": "K770 (smaller sibling of K970), snippet only via search summary, unverified. Rate assumed 1 USD = 1.52 AUD; US price may include fees."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$599 to $1,395, one at $999 negotiable",
+   "currency": "AUD",
+   "aud_price": 999,
+   "date": "live, seen 2026-11-06",
+   "venue": "Gumtree Australia used K970 listings",
+   "url": "https://www.gumtree.com.au/s-power-tools/husqvarna+k970/k0c20093",
+   "same_item": "yes",
+   "note": "Snippet only (page returned 403). Private asking prices for working used units, not prices paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$2,199 to $2,529 new",
+   "currency": "AUD",
+   "aud_price": 2249,
+   "date": "live, seen 2026-11-06",
+   "venue": "BW Machinery, Vetner, Toolkit Depot (retail)",
+   "url": "https://bwmachinery.com.au/product/husqvarna-k970-seaford-store-only/",
+   "same_item": "yes",
+   "note": "New retail K970 16 inch, blades extra; snippet only. Shows how much a working used unit is worth against new."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed on a data error; work/comps.py husqvarna k970 / saw / k760 / k770 / concrete saw / cut off saw); Gowans API husqvarna k970 (no results in output); WebSearch K970 Australia auction price and K970/K770/K760 auction sold. No Australian K970 auction result found. eBay AU sold K970 listings would settle it best. No Armitage lookups by design. Rate: USD 1 = AUD 1.52 assumed.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay.com.au: Husqvarna K970 power cutter, filters Sold items and Australia, last 90 days; also Gumtree K970 sold/used",
+ "viewing_check": "Check if the engine turns over with compression (pull cord), seal condition, whether the starter, air filter and carburettor are intact, serial plate and model (MKII/MKIII), blade size, and the spare blade's condition. Photograph the plate.",
+ "rate_note": "USD 1 = AUD 1.52 assumed"
+}

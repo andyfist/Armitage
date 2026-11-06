@@ -1,0 +1,111 @@
+{
+ "cdid": 3111122,
+ "lot": 860,
+ "identification": "Penfolds St Henri Shiraz vintage 2006 (89% shiraz, 11% cabernet), single 750ml bottle, red capsule, label clean, fill looks good in photo, vendor sticker 4434/12 CK.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-09-27",
+   "venue": "Gowans Auctions, Hobart (lot id 440458, 17 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=st+henri&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Page opened (API). Single bottle St Henri Shiraz. Gowans live title says VINTAGE 2017 but the local results database recorded it as 2006 screwcap, so vintage is uncertain. Hammer, premium extra. Same buyer pool as Armitage."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2022-07-29",
+   "venue": "Theodore Bruce, Stanmore (lot 244)",
+   "url": "https://www.theodorebruceauctions.com.au/auction-lot/penfolds-st-henri-shiraz-2001-750-ml_B104A4BA10",
+   "same_item": "close",
+   "note": "From local comps database, not reopened. 2002 vintage single bottle, older sale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2024-11-21",
+   "venue": "Theodore Bruce, Stanmore",
+   "url": "https://www.theodorebruceauctions.com.au/auction-lot/a-750ml-bottle-of-penfolds-st-henri-claret-speci_670489DAD9",
+   "same_item": "close",
+   "note": "From local comps database, not reopened. 2002 vintage single bottle (database tagged guide)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$72",
+   "currency": "AUD",
+   "aud_price": 72,
+   "date": "2015",
+   "venue": "Wickman's Australian auction guide (average of Australian auction results)",
+   "url": "https://www.wickman.net.au/wines/penfolds_st_henri.aspx",
+   "same_item": "yes",
+   "note": "Snippet only, not verified. 2006 bottle, 2015 result, very old."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$60-100 estimate (start $50), 2 bottles",
+   "currency": "USD",
+   "aud_price": 135,
+   "date": "2025-06-09",
+   "venue": "Uniques and Antiques, NYC (lot 55)",
+   "url": "https://www.uniquesandantiques.com/auction/313-fine-and-rare/lot-55-2-pcs/",
+   "same_item": "yes",
+   "note": "Page opened. Estimate for a pair, result not shown. AUD at about 1.5 per USD, midpoint of estimate for 2 bottles, approximate rate not checked."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$129.99",
+   "currency": "AUD",
+   "aud_price": 129.99,
+   "date": "live, seen 2026-11-06",
+   "venue": "Kent Street Cellars",
+   "url": "https://kentstreetcellars.com.au/collections/shiraz/products/penfolds-st-henri-shiraz-2006",
+   "same_item": "yes",
+   "note": "Page opened. Retail ask, 2006 St Henri, stock status not confirmed. Retail includes retailer margin."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$179.00",
+   "currency": "AUD",
+   "aud_price": 179,
+   "date": "live, seen 2026-11-06",
+   "venue": "Cellarit",
+   "url": "https://www.cellarit.com.au/wine-60082-penfolds-st-henri-shiraz-2006.aspx",
+   "same_item": "yes",
+   "note": "Page opened (title and price). Retail ask, shown in stock."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$159.99",
+   "currency": "AUD",
+   "aud_price": 159.99,
+   "date": "live, seen 2026-11-06",
+   "venue": "Nicks Wine Merchants",
+   "url": "https://www.nicks.com.au/products/2006-penfolds-st-henri-shiraz",
+   "same_item": "yes",
+   "note": "Snippet only. Retail ask."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$239.20",
+   "currency": "AUD",
+   "aud_price": 239.2,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay Australia",
+   "url": "https://www.ebay.com.au/itm/355913169077",
+   "same_item": "yes",
+   "note": "Snippet only. Buy It Now style ask, well above others."
+  }
+ ],
+ "searches_tried": "comps.py in pipeline (crashed on a null field) and work (St Henri hits); Gowans API st henri; WebSearch x2 (auction results and retail); opened Uniques and Antiques, Kent Street, Cellarit (Wickman and Nicks returned nothing to curl). Not checked: Langtons, Wine-Searcher and eBay sold (blocked), Armitage past lots. eBay sold and Wine-Searcher auction results would settle recent sold prices.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold listings: Penfolds St Henri 2006 750ml; Wine-Searcher auction results for 2006 Penfolds St Henri Shiraz; Langtons past auction results",
+ "viewing_check": "Check fill level (into neck or high shoulder), label and capsule condition, any seepage, and storage. Single bottle, no box. Possible 2006 screwcap vs cork is not an issue; confirm vintage on label (photo reads 2006).",
+ "rate_note": "USD to AUD about 1.5, approximate, not checked live. AUD entries unconverted."
+}

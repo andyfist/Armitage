@@ -1,0 +1,78 @@
+{
+ "cdid": 3111864,
+ "lot": 1034,
+ "identification": "New contemporary hand-knotted abstract designer carpet, wool pile with tencel (silk-like) highlights, Jaipur, 396 x 295 cm. Description says documentation of authenticity included. Maker not identified; photos show no label. Looks new.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$1600 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 1600,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rug&page%5Bnumber%5D=4",
+   "same_item": "category guide",
+   "note": "Gowans lot 413299: large room size handmade Persian Kashmar rug 390 x 315 cm, 5 bids. Traditional, not contemporary, but similar size; shows ceiling for large wool carpets at Hobart. From local results database (snippet only, page not opened); AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$1250 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 1250,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian%20vis&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "Gowans lot 414885: pure wool hand-knotted Persian Vis rug 320 x 220 cm, 14 bids. Traditional design. From local results database (snippet only, page not opened); AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$800 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 800,
+   "date": "2026-07-19",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian+nain",
+   "same_item": "category guide",
+   "note": "Gowans lot 424506: Persian Nain vintage silk inlaid rug 310 x 202 cm, 13 bids. Closest in being silk-inlaid, but smaller and Persian. From local results database (snippet only, page not opened); AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-08-09",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=jaipur",
+   "same_item": "close",
+   "note": "Gowans lot 429342: Jaipur modern rug 143 x 237 cm, 6 bids. Same origin and modern style but small and no silk mentioned; floor signal. From local results database (snippet only, page not opened); AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$630 hammer (premium extra)",
+   "currency": "AUD",
+   "aud_price": 630,
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=afghan+chobi",
+   "same_item": "category guide",
+   "note": "Gowans lot 432598: modern Afghan chobi 297 x 238 cm. Modern hand-knotted wool, similar size band, plain design; typical modern wool rug level $330-630. From local results database (snippet only, page not opened); AUD so no conversion."
+  },
+  {
+   "kind": "ASKING",
+   "price": "not shown in snippet",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-06",
+   "venue": "Jaipur Rugs Australia (retail)",
+   "url": "https://www.jaipurrugs.com/au/abstract-rugs",
+   "same_item": "category guide",
+   "note": "Snippet only: abstract rugs in wool and bamboo silk or viscose; no price or size seen. US page showed Entropy wool/silk 8x10 ft at USD 5,760 (snippet only, not verified, not converted). Retail guide only, not a price paid."
+  }
+ ],
+ "rate_note": "All comps AUD, no conversion. USD retail snippet not converted.",
+ "searches_tried": "work/comps.py: designer carpet, tencel, silk carpet, contemporary carpet, wool silk rug (none); jaipur (2 hits, one same-origin); carpet, rug, hand knotted, indian rug, modern rug (traditional/Afghan comps). pipeline/comps.py crashed (TypeError on None aud_hammer). Gowans API: contemporary carpet, contemporary rug, designer rug, silk carpet, wool silk rug, modern carpet (no relevant sold lots). WebSearch site:armitage.bidsonline.com.au (nothing relevant), WebSearch Jaipur Rugs tencel pricing (retail snippet only). No same-item sold comp found. Local note: database flags 'inlaid + origin' at $1,050 median in 12 of 13 sales (lot record cls_reason), but those are mostly traditional rugs. eBay sold prices for 'jaipur rugs wool tencel 3x4' or similar new contemporary rugs would help.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: 'hand knotted wool tencel rug 300x400' and 'Jaipur Rugs contemporary rug 10x13'; also invaluable.com/liveauctioneers 'contemporary hand knotted wool silk rug 396 x 295'",
+ "viewing_check": "Look for a label or the documentation sheet (#389) naming maker and knot count, confirm fibre (wool and tencel versus viscose), check the back for hand-knotted knots versus tufted, and check for stains, pile shedding or sun fade. Measure it to confirm 396 x 295 cm."
+}

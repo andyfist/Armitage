@@ -1,0 +1,100 @@
+{
+ "cdid": 3112036,
+ "lot": 1206,
+ "identification": "John Tallis / John Rapkin 'Van Diemen's Island or Tasmania', c.1851, steel engraving with Greek key border, Hobart Town vignette, thylacine vignette, coin inset. Framed under glass with red mount, timber frame. Photo shows a small price tag on the mount. Original vs facsimile cannot be told from photo.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-03-01",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Gowans lot 393643, 'JOHN TALLIS FRAMED MAP PRINT - VAN DIEMENS ISLAND C1851'. 11 bids, framed. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$27 hammer",
+   "currency": "AUD",
+   "aud_price": 27,
+   "date": "2026-03-09",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Gowans lot 395188, 'TALLIS VDL MAP - FRAMED'. 5 bids. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Gowans lot 414857, '2 FRAMED TASMANIAN MAPS - JOHN TALLIS MAP - TAS GOV MAP - IN 1 FRAME'. 4 bids, two maps in one frame. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Gowans lot 435794, 'JOHN TALLIS GOLD FRAMED MAP PRINT - VAN DIEMEN'S ISLAND'. 7 bids, framed. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180 (priceResult; premium inclusion unstated)",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2022-08-08",
+   "venue": "Theodore Bruce Auctioneers & Valuers (via Invaluable)",
+   "url": "https://www.invaluable.com/artist/tallis-john-118e755wjg/sold-at-auction-prices/",
+   "same_item": "yes",
+   "note": "Lot 510, TALLIS Van Dieman's Island or Tasmania, c.1851 handcoloured engraved map by J.Rapkin, est $300-400, 3 bids, matt burn, 36 x 25 cm sheet, framed 55 x 44 cm. Genuine period map, sold under low estimate. Page opened (Invaluable artist page parsed). Older than 24 months. Closest hard comp for an original."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 155",
+   "currency": "GBP",
+   "aud_price": 300,
+   "date": "live, seen 2026-11-06",
+   "venue": "Welland Antique Maps (UK dealer)",
+   "url": "https://www.wellandantiquemaps.co.uk/product/van-diemens-island-or-tasmania-by-j-rapkin-j-tallis-c-1849-2/",
+   "same_item": "yes",
+   "note": "Snippet only. Original steel engraving, original outline colour, later vignette/border colour. Rate used about 1 GBP = 1.95 AUD (approximate, not checked). Dealer asking, not a price paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 325",
+   "currency": "USD",
+   "aud_price": 500,
+   "date": "live, seen 2026-11-06",
+   "venue": "Classical Images",
+   "url": "https://www.classicalimages.com/products/1851-john-tallis-beautiful-antique-map-of-van-diemens-land-or-tasmania-australia",
+   "same_item": "yes",
+   "note": "Snippet only. Hand-coloured 1851 map. Rate about 1 USD = 1.55 AUD (approximate). Dealer asking."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 120",
+   "currency": "USD",
+   "aud_price": 185,
+   "date": "live, seen 2026-11-06",
+   "venue": "Antiquarian Print Shop",
+   "url": "https://antiquarianprintshop.com/products/map-tasmania-tallis-1",
+   "same_item": "category guide",
+   "note": "Snippet only. Listed as REPRODUCTION of the Tallis map, so shows facsimiles exist and are retailed. Rate about 1.55."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version crashed on None; work/comps.py run for tallis, van diemen map); Gowans API search 'tallis'; WebSearch Tallis Rapkin sold; Invaluable Tallis artist page parsed. Not done: Armitage past results, eBay sold (blocked). Gowans Tallis framed maps sell $27 to $70 hammer, consistently labelled prints; a real original in the only dated sold comp made $180 (Theodore Bruce 2022). Value range roughly $30-70 if reproduction, $150-300 if original.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: Tallis Rapkin Van Diemen's Land Tasmania map 1851 original (sold, completed items); also LiveAuctioneers/Invaluable sold: 'Tallis Van Diemen's Island or Tasmania'",
+ "viewing_check": "Look at the map out of the frame if possible, or at least the margins: a genuine c.1851 steel engraving has a plate mark, slight toning and an 'Engraved by J. Rapkin' / 'John Tallis & Co' imprint; facsimiles usually have a flat printed dot or halftone pattern under a loupe (colour in dots), bright modern paper, and no plate mark. Check for a rear label or dealer ticket, and the foxing and verso text (originals often have text or a blank back). Note the sheet size (about 27 x 36 cm original).",
+ "rate_note": "GBP 1 = AUD 1.95, USD 1 = AUD 1.55 approximate; AUD sales unconverted."
+}

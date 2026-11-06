@@ -1,0 +1,111 @@
+{
+ "cdid": 3112299,
+ "lot": 1627,
+ "identification": "Two black bakelite PMG-style 300-series magneto (crank) telephones plus a twin-gong painted wall bell and a small bell. Untested, grimy. Magnetos are less common than rotary dial but Gowans pairs of plain 300-series phones made only $25-75 hammer.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2025-11-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=telephones&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "2 VINTAGE TELEPHONES & ADDRESS BOOK (lot 373940). Standard 300-series rotary phones, not confirmed magneto; the best pair comparison. Premium extra. From local comps database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-07-14",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=bakelite+telephone&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "3 VINTAGE BAKELITE TELEPHONES (lot 423989). Three phones, rotary 300 series. Premium extra. From local comps database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25 hammer",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-03-01",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=telephones&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "2 VINTAGE TELEPHONES (lot 394159). Pair of phones, low result. Premium extra. From local comps database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2025-10-19",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=telephone&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "AUS P.M.G. WALL MOUNT TELEPHONE - NO EARPIECE (lot 368846). Incomplete PMG phone. Premium extra. From local comps database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wall+bell&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "CAST WALL MOUNT DOORBELL (lot 432411, 16 bids). Strong bidding on a cast bell; the lot's gong bell is a different, painted type. Premium extra. From local comps database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-04-26",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wall+bell&page%5Bnumber%5D=1",
+   "same_item": "category guide",
+   "note": "CAST WALL MOUNT BELL (lot 404773). Single bell. Premium extra. From local comps database, page not opened."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$85 Buy It Now and AU$125 or best offer",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay Australia (via search summary)",
+   "url": "https://www.ebay.com.au/shop/phone-pmg?_nkw=phone+pmg",
+   "same_item": "close",
+   "note": "Crank-magneto bakelite phones incl. a 1950s PMG 334MT; asking prices, snippet only, not verified. Mid-point used as aud_price."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$448.50 or best offer",
+   "currency": "AUD",
+   "aud_price": 448.5,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay UK (via search summary)",
+   "url": "https://www.ebay.co.uk/itm/126111960626",
+   "same_item": "category guide",
+   "note": "PMG wooden wall magneto set with wall bells and battery; different, earlier style. Snippet only, not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$17 to $1,952 (Carters auction range on 18 bakelite phones)",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "undated",
+   "venue": "Carters price guide (via search summary)",
+   "url": "https://www.carters.com.au/index.cfm/index/1425-telephones-bakelite/",
+   "same_item": "category guide",
+   "note": "Whole bakelite phone category, not magneto; snippet only, page blocked by bot check. Not usable as a price."
+  }
+ ],
+ "searches_tried": "work/comps.py: bakelite telephone, magneto, crank telephone, wall bell, telephone bell, fire bell, gong (pipeline/comps.py crashed on a None value). WebSearch: Armitage past results (nothing relevant), bakelite magneto PMG auction price, PMG magneto wall bell. Carters and vintagephones blocked by bot check. No verified sold price for a magneto crank phone found. eBay sold listings would settle it.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold items: PMG magneto crank bakelite telephone 300 series; also 'telephone wall bell twin gong'",
+ "viewing_check": "Check makers marks and dates under the phones and on the dial label (PMG, Ericsson, STC); confirm both are genuine magneto with generator and handsets match; check for cracks, missing parts and whether bells carry maker plates.",
+ "rate_note": "All AUD, no conversion needed."
+}

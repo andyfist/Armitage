@@ -1,0 +1,78 @@
+{
+ "cdid": 3112513,
+ "lot": 1485,
+ "identification": "Atlas Copco pneumatic D-handle chipping hammer (small, yellow label '105' possibly stroke/size or model code, not legible) with one point and one flat chisel spare plus fitted point. Used, bits worn, working order unknown.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$155 hammer (Gowans, 10 bids)",
+   "currency": "AUD",
+   "aud_price": 155,
+   "date": "2026-03-24",
+   "venue": "Gowans Auctions, Hobart (lot GIANTZ JH168A JACK HAMMER, id 399643)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/399643/",
+   "same_item": "category guide",
+   "note": "Electric jackhammer, different brand and type; hammer price, premium extra. Seen via Gowans API search; only category guide for a used breaker."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer (5 bids)",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2025-12-08",
+   "venue": "Gowans Auctions, Hobart (4 JACK HAMMER ATTACHMENTS, id 381401)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/381401/",
+   "same_item": "category guide",
+   "note": "Bits/attachments only, no tool. Premium extra. Gives a floor for loose bits."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85 hammer (5 bids)",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart (AIR DIE GRINDER, DESCALER & ANGLE DRIVE KIT, id 443073)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/443073/",
+   "same_item": "category guide",
+   "note": "Mixed air tool kit, not a chipping hammer; premium extra. Local air tool demand guide only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$125 to $555 (used/refurb Atlas Copco hammers, eBay)",
+   "currency": "AUD/USD mixed",
+   "aud_price": 300,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay search results (via WebSearch)",
+   "url": "https://www.ebay.com/sch/i.html?_nkw=atlas+copco+hammers",
+   "same_item": "close",
+   "note": "Snippet only, not verified, unclear currency; asking prices, midpoint shown loosely. Includes refurbished RRD57-11 type units and a used RRF31-04 at $555 or offer."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,077 new (TEX03PS 4kg chipping hammer)",
+   "currency": "AUD",
+   "aud_price": 1077,
+   "date": "live, seen 2026-11-06",
+   "venue": "Sydney Tools",
+   "url": "https://sydneytools.com.au/category/by-brand/atlas-copco/air-hammers-chisels",
+   "same_item": "category guide",
+   "note": "Snippet only. New current-model retail; an old used unit with worn bits is far below this."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$915 new (12.0mm D-handle chipping hammer 8425020630)",
+   "currency": "AUD",
+   "aud_price": 915,
+   "date": "live, seen 2026-11-06",
+   "venue": "Total Tools",
+   "url": "https://www.totaltools.com.au/180857-atlas-copco-12-0mm-d-handle-chipping-hammer-8425020630",
+   "same_item": "category guide",
+   "note": "Snippet only. New D-handle Atlas Copco, similar style to the lot."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline version errored; work version: atlas copco, air hammer, pneumatic hammer, chipping, scaler, rock drill, atlas, jackhammer): no Atlas Copco air hammer sales. Gowans API: atlas copco (none), air hammer, jack hammer. WebSearch: Atlas Copco chipping hammer sold, Atlas Copco air chipping hammer Australia, site:armitage air hammer (nothing). No true SOLD same-item comp found. eBay sold listings for used Atlas Copco chipping hammer would settle it.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay.com.au sold and completed: Atlas Copco chipping hammer (also try 'Atlas Copco air hammer chisel used'); also Gumtree Atlas Copco hammer",
+ "rate_note": "All AUD, no conversion applied except eBay snippet currency unknown.",
+ "viewing_check": "Read the model plate and the '105' label, check chuck fit (hex size), play in the bush, and ask if it was tested on air; check the Atlas Copco model (TEX/RRD/RRF) number."
+}

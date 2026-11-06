@@ -1,0 +1,67 @@
+{
+ "cdid": 3111237,
+ "lot": 975,
+ "identification": "About 60 pairs of stud and drop earrings on jeweller's cards, bagged earrings and a carded tennis-style bracelet. Carat marks not legible at 800x600 (one photo only). Gold-coloured studs look like typical small gold/gold-plated shop stock; white-stone ones likely CZ or silver.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437035/",
+   "same_item": "close",
+   "note": "BAG OF EARRINGS INCL 9CT GOLD ETC, mixed bag with some 9ct; gives the ceiling for a mixed earring lot with a little gold. (local comps database; page not opened; rate AUD native)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-06-28",
+   "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/419203/",
+   "same_item": "close",
+   "note": "5 ASST EARRINGS INCL 9CT & 10CT GOLD, 1.4GM total; mixed lot. (local comps database; page not opened; rate AUD native)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-03-23",
+   "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/398113/",
+   "same_item": "category guide",
+   "note": "3 pairs of earrings incl 9ct gold; shows mixed-lot pricing. (local comps database; page not opened; rate AUD native)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-05-10",
+   "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/408099/",
+   "same_item": "category guide",
+   "note": "Gold plated silver Italian tennis bracelet, comparable only to the carded bracelet if plated/silver. (local comps database; page not opened; rate AUD native)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120 hammer",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437001/",
+   "same_item": "category guide",
+   "note": "Single pair 9ct gold earrings 1.4gm; scale if many carded pairs prove to be 9ct (each pair roughly $55 to $140 for 1 to 2gm). (local comps database; page not opened; rate AUD native)"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py (errored on a None price bug), work/comps.py: 9ct earrings, earrings collection, earrings cards, tennis bracelet; Gowans API: jeweller shop stock earrings, lot of earrings new, earrings costume. No Gowans sale found for a big lot of carded shop-stock earrings. No web search run (generic costume/shop-stock lot, evidence is thin either way). eBay sold would help but is closed to us.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay sold: 'job lot carded earrings new old stock jewellery shop' and 'wholesale lot gold plated stud earrings cards'",
+ "viewing_check": "Pick up several cards and read the stamps on the backs/posts: 9ct, 375, 'GP', 'RGP', 'sterling', 925. Check the card printing for a stated metal and carat. Weigh a few pairs. If most are 375, tally the pairs and weigh; if plated or CZ costume, value is low. Also check the tennis bracelet's clasp for a 925 or 375 stamp and whether stones are CZ.",
+ "rate_note": "All AUD, no conversion."
+}

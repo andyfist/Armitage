@@ -1,0 +1,67 @@
+{
+ "cdid": 3112326,
+ "lot": 1421,
+ "identification": "Floor-standing black-painted timber bank of 21 post office boxes (numbered about 148 to 168) with cast bronze/brass doors each cast 'C of A' (Commonwealth of Australia), 18 small, 2 medium, 1 large, keys and brass tags in many. Photos confirm the C of A casting, number plates, heavy verdigris, keys in many doors and open doors showing the box interiors. Genuine ex-Australia Post style fit-out. Each door fronts its own compartment.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$500 hammer",
+   "currency": "AUD",
+   "aud_price": 500,
+   "date": "2026-03-30 (Gowans listing date; sale about a week later)",
+   "venue": "Gowans Auctions, Hobart: 2 DOOR POST OFFICE BOX - ORIGINALLY FROM FITZGERALDS IN HOBART (7 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/400390/",
+   "same_item": "close",
+   "note": "Closest local comp: a post office box unit, only 2 doors, from a Hobart shop. Sold $500 hammer on 7 bids, which suggests strong local demand per unit, but a 21-door bank is far larger and heavier and the doors are not necessarily the same C of A type. Description blank, so the type and condition are unknown. Page opened via API (search result data). Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180 hammer",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-07-15 (Gowans listing date)",
+   "venue": "Gowans Auctions, Hobart: HUON PINE POST OFFICE SHELVES (12 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/424044/",
+   "same_item": "category guide",
+   "note": "Post office fit-out timber shelving, not brass doors. Shows post office memorabilia attracts bidders (12 bids). Titles only, no condition. Premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$210 hammer",
+   "currency": "AUD",
+   "aud_price": 210,
+   "date": "2026-09-27 (Gowans listing date)",
+   "venue": "Gowans Auctions, Hobart: PINE PIGEON HOLES (14 bids)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/441011/",
+   "same_item": "category guide",
+   "note": "Plain pine pigeon hole unit, no brass doors. Shows the floor for a decorative multi-compartment timber unit, roughly $35 to $240 across 16 Gowans results since Oct 2025 (median $118). Lacks the cast C of A doors so this is a low guide only. Premium extra."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$799.99",
+   "currency": "USD",
+   "aud_price": 1240,
+   "date": "live, seen 2026-11-06 (search snippet)",
+   "venue": "eBay (US listing for antique US post office box cabinet with brass doors)",
+   "url": "https://www.ebay.com/b/Antique-Mailbox-In-other-Collectible-Still-Piggy-Banks/886/bn_7022969117",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified, and unclear whether it sold. US-style cabinet, retail asking price. Rate used 1 USD = 1.55 AUD (assumed, not checked). The URL is the search results page the snippet came from, not the specific listing."
+  },
+  {
+   "kind": "ASKING",
+   "price": "about AU$21 to AU$185 per loose door",
+   "currency": "AUD",
+   "aud_price": 74,
+   "date": "live, seen 2026-11-06 (search snippet)",
+   "venue": "Etsy Australia, post office box doors",
+   "url": "https://www.etsy.com/au/market/post_office_box_doors",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. US-style doors, mostly single doors sold as coin banks. aud_price shown is the example listing at AU$74.32. Times 21 would be an upper theoretical figure but a retail door price does not apply to an auction bank."
+  }
+ ],
+ "searches_tried": "work/comps.py: post office, pigeon hole, letter box, mail box, PO box, C of A, brass door. pipeline/comps.py crashed (TypeError on a null aud_hammer) so was not usable. Gowans API: post office box, pigeon holes, mail boxes, huon pine post office shelves. WebSearch: C of A bank post office boxes auction sold; antique PO boxes brass doors for sale Australia; Australia Post box doors dealer/auction; site:armitage.bidsonline.com.au post office boxes; vintage PO box cabinet sold Australia. No Australian sold result found for a full bank of C of A doors. eBay Australia sold listings for 'post office box doors' and 'C of A post office box' would settle it best.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay.com.au sold and completed listings: 'post office box doors brass' and 'Commonwealth of Australia post office boxes bank'; also LiveAuctioneers/Invaluable 'post office boxes brass doors Australia'",
+ "viewing_check": "Count the doors and confirm all are cast C of A bronze/brass (not a mix of replacements). Check how many keys are present and whether the locks work. Check the case for damage, and photograph the rear and the weight/size to judge freight and handling. Look for any maker mark or Post Office plaque on the frame.",
+ "rate_note": "USD to AUD 1.55 assumed for the one US asking price."
+}

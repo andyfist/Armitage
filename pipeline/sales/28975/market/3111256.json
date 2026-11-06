@@ -1,0 +1,111 @@
+{
+ "cdid": 3111256,
+ "lot": 994,
+ "identification": "Five old wine/spirit bottles plus a boxed Bisquit Fine Cognac VSOP gift pack with two balloon glasses: Wolf Blass 1983 Yellow Label Cabernet Sauvignon Shiraz, church-label vintage port, commemorative tawny port, Frascati, Yalumba Galway Pipe port in plastic wrap. Photo read only; fills and the commemorative label not legible.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$75 hammer",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-08-17",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "gowans lot id 432068 (6 bottles Yalumba horse racing port 1976-81)",
+   "same_item": "close",
+   "note": "Six bottles of Yalumba racing ports, so about $12 a bottle; the lot has one Galway Pipe. Source: local results database (work/comps.py); premium extra, no rate needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-06-08",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "gowans lot id 414825 (3 bottles Yalumba port 1977-79)",
+   "same_item": "close",
+   "note": "About $18 a bottle. Source: local results database (work/comps.py); premium extra, no rate needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-08-09",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "gowans lot id 429201 (Bottle of Hennessy cognac)",
+   "same_item": "close",
+   "note": "Single Hennessy cognac, 14 bids; stronger brand than Bisquit. Source: local results database (work/comps.py); premium extra, no rate needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-05-24",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "gowans lot id 411399 (Boxed bottle Hennessy cognac)",
+   "same_item": "close",
+   "note": "Boxed cognac, 10 bids; good comparison for a boxed Bisquit VSOP. Source: local results database (work/comps.py); premium extra, no rate needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "gowans lot id 409819 (Boxed bottle Hennessy cognac)",
+   "same_item": "close",
+   "note": "Boxed cognac, 7 bids. Source: local results database (work/comps.py); premium extra, no rate needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-07-19",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "gowans lot id 424438 (Bottle Hennessy VSOP & 1 other)",
+   "same_item": "close",
+   "note": "VSOP plus one other bottle. Source: local results database (work/comps.py); premium extra, no rate needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-02-23",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "gowans lot id 391973 (1975 Wolf Blass Black Label Cab Sauv Shiraz)",
+   "same_item": "close",
+   "note": "Older Blass red; Yellow Label 1983 is lower tier, so likely less. Source: local results database (work/comps.py); premium extra, no rate needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "gowans lot id 436231 (3 Wolf Blass Gold Label wines)",
+   "same_item": "category guide",
+   "note": "Three bottles, about $20 each. Source: local results database (work/comps.py); premium extra, no rate needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 hammer",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-06-21",
+   "venue": "Gowans Auctions (Hobart)",
+   "url": "gowans lot id 417948 (Bottle of Napoleon brandy)",
+   "same_item": "category guide",
+   "note": "Plain brandy, lower tier. Source: local results database (work/comps.py); premium extra, no rate needed."
+  }
+ ],
+ "searches_tried": "work/comps.py: Galway Pipe, Bisquit, Wolf Blass Yellow Label (no hits); Yalumba port, cognac, Wolf Blass, brandy, Hennessy (hits above). pipeline/comps.py crashes (TypeError on a null aud_hammer), not used. No web searches done; the lot is mixed and low value. Bisquit VSOP gift pack has no direct comp; eBay sold listings would settle it.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold: Bisquit VSOP cognac gift box two glasses",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Check fill levels and capsules/corks on the ports and Blass, read the vintage and producer on the church-label port and the commemorative tawny, and confirm the Bisquit box is sealed with the bottle full. Nothing else needed."
+}
