@@ -1,0 +1,111 @@
+{
+ "cdid": 3112844,
+ "lot": 2003,
+ "identification": "Leitner step-over e-bike (older model), rear-rack battery, front fork, disc brakes, helmet, rack bag, ST Li-ion charger. Model not identifiable from photos.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$255 hammer",
+   "currency": "AUD",
+   "aud_price": 255,
+   "date": "2026-05-10",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans lot id 409352 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
+   "same_item": "close",
+   "note": "Electric assisted push bike, key and charger. Gowans listing date approx; hammer, premium extra. Closest in kind (complete, charger). Page opened (API/database)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$360 hammer",
+   "currency": "AUD",
+   "aud_price": 360,
+   "date": "2026-02-17",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans lot id 391598 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
+   "same_item": "close",
+   "note": "Everfit electric bike, as is, 5 bids. Database record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$330 hammer",
+   "currency": "AUD",
+   "aud_price": 330,
+   "date": "2026-02-15",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans lot id 391391 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
+   "same_item": "close",
+   "note": "V Moto electric bike, charger and key, 11 bids. Database record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-01-26",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans lot id 386576 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
+   "same_item": "category guide",
+   "note": "Earth electric bike needing new battery, 5 bids. Floor for battery-dead bikes."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$220 hammer",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "2026-08-03",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans lot id 428680 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
+   "same_item": "close",
+   "note": "V Moto Traveller e-bike, key, manual, charger, as is, 5 bids. API record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$210 hammer",
+   "currency": "AUD",
+   "aud_price": 210,
+   "date": "2026-10-11",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans lot id 444584 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
+   "same_item": "category guide",
+   "note": "Folding Ryder e-bike, 8 bids. API record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$190 hammer",
+   "currency": "AUD",
+   "aud_price": 190,
+   "date": "2026-07-05",
+   "venue": "Gowans (Hobart)",
+   "url": "gowans lot id 421885 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
+   "same_item": "category guide",
+   "note": "Folding e-bike, battery not charging, 5 bids. API record."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$500 to $1,100 used (Leitner)",
+   "currency": "AUD",
+   "aud_price": 500,
+   "date": "live, seen 2026-11-06",
+   "venue": "Gumtree Leitner listings (via WebSearch summary)",
+   "url": "https://www.gumtree.com.au/s-bicycles/leitner+electric+bike/k0c18560",
+   "same_item": "close",
+   "note": "Snippet only, not verified. Folding Leitner $500 QLD, ladies Leitner $500 NSW, Libelle with charger and helmet $800 ACT, others to $1,100. Retail asking, not paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,299 to $2,599 new",
+   "currency": "AUD",
+   "aud_price": 1400,
+   "date": "live, seen 2026-11-06",
+   "venue": "leitner.com.au / ebikefinder.au",
+   "url": "https://ebikefinder.au/brands/leitner",
+   "same_item": "category guide",
+   "note": "Snippet only. New retail for Leitner range; the lot looks like an older step-over model, so well below this."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline errored, work/comps.py used: 4 e-bike sales $130-$360, no Leitner); Gowans API for leitner, e-bike, ebike, electric bicycle; WebSearch Leitner used price; WebSearch site:armitage (no e-bike past results). eBay sold listings would help: not accessible. Gowans lot URLs not given by API, so API search URL cited.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: Leitner electric bike (also used Leitner e-bike)",
+ "viewing_check": "Battery: check it holds charge/shows charge lights, key present, model name and age on frame/battery label, brakes and tyres.",
+ "rate_note": "All AUD, no conversion needed."
+}
