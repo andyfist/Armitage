@@ -63,11 +63,16 @@ ALWAYS_LOOK = [
 # (not the maps, stamps and postcards in "books and paper"). Set PRIORITY to None to treat every lot the same.
 PRIORITY = (r'\b(\w*books?|novels?|hardcovers?|hardbacks?|paperbacks?|bibles?|encyclop\w+|annuals?|almanacs?|bibliograph\w*|'
             r'1st ed\w*|first ed\w*|signed copy|volumes?|vols?\b|atlas|folio|manuscripts?|diary|diaries)\b')
-NOT_PRIORITY = r'\b(macbook|chromebook|notebook (computer|pc)|laptop|map drawers?|plan drawers?)\b'
+NOT_PRIORITY = (r'\b(macbook|chromebook|notebook (computer|pc)|laptop|map drawers?|plan drawers?|book ?cases?|book ?shel\w*|'
+                r'book ?ends?|book ?match\w*|book cover|with (a |its |the )?(instruction |service )?book|atlas copco)\b')
 
 
 def is_priority(title, description=''):
-    text = f'{title or ""} {description or ""}'.lower()
+    """Judged on the title only, as descriptions mention books in passing (a rug's 'book cover design', a radio 'with
+    book'). Armitage cuts long titles with '...', so then the description's first sentence stands in for the title."""
+    text = (title or '').lower()
+    if text.endswith('...') and description:
+        text = re.split(r'\. ', description, maxsplit=1)[0].lower()
     return bool(PRIORITY and re.search(PRIORITY, text) and not re.search(NOT_PRIORITY, text))
 
 
