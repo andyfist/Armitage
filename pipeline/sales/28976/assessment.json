@@ -8,6 +8,7 @@
   "fee": 0.15,
   "premium": 0.22,
   "months": 24,
+  "chrome_floor": 100,
   "top": 25,
   "ignore_bids": false
  },
@@ -792,7 +793,9 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=geoff%20dyer",
      "same_item": "close",
      "note": "Untitled watercolour and gouache, signed lower right, 69x55.5cm, 7 bids. Local database and Gowans API; hammer, premium extra. Most relevant local comp, same buyer pool, larger sheet than ours but sold only $500."
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 1500.0,
      "date": "unknown (undated in page data)",
@@ -802,7 +805,6 @@
      "note": "Riverbank, watercolour and gouache on paper, 36x40cm framed, a near match in size and subject. Parsed from embedded page JSON (page opened); premium inclusion unknown; date and house not captured."
     }
    ],
-   "sold_old": [],
    "unsold": [
     {
      "aud_price": 700.0,
@@ -831,11 +833,11 @@
      "note": "Tasmania Coastline I, watercolour 75x115cm. Snippet only; unclear if result or estimate. Not verified."
     }
    ],
-   "resale": 1000.0,
-   "net_resale": 850.0,
-   "max_hammer": 530,
+   "resale": 500.0,
+   "net_resale": 425.0,
+   "max_hammer": 180,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $1,000; less 15% fees = $850; less $200 profit, / 1.22 premium = max hammer $530",
+   "why": "1 same-item SOLD price(s), median $500; less 15% fees = $425; less $200 profit, / 1.22 premium = max hammer $180",
    "priority": false
   },
   {

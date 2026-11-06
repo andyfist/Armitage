@@ -15,8 +15,8 @@
  "scanned": 337,
  "candidates": 115,
  "counts": {
-  "PASS": 12,
-  "CHROME": 27,
+  "PASS": 11,
+  "CHROME": 28,
   "FAIL": 62,
   "DROP": 2,
   "NOT RESEARCHED": 12
@@ -5424,14 +5424,6 @@
      "note": "1942 Armitage/McFarlane 1 pound star K/75 03355* (R.30s). Folds, creases, centrefold, crisp original VF. Estimate $3,000. Page opened. Noble realised figures are normally hammer; premium extra (not confirmed on page). Better grade than lot 895 (Fine to VF) but best recent guide."
     },
     {
-     "aud_price": 7200.0,
-     "date": "Noble Sale 91 (old sale, date not shown)",
-     "venue": "Noble Numismatics Sale 91, lot 3303",
-     "url": "https://www.noble.com.au/auctions/search/?sale=91&p=1&c=3777",
-     "same_item": "close",
-     "note": "1942 Armitage/McFarlane 1 pound star K/58 03537* (R.30bs, light green reverse variant), 2mm tear, flattened fine or better. Estimate $6,000. Page opened. Old sale and different variety, likely too dated to rely on; shows upper range."
-    },
-    {
      "aud_price": 500.0,
      "date": "2025-06-05",
      "venue": "Gowans Auctions Hobart, lot 6 (339274)",
@@ -5448,6 +5440,14 @@
      "url": "https://noble.com.au/auctions/search/?sale=133&s=e2&p=1&c=8626",
      "same_item": "yes",
      "note": "1942 Armitage/McFarlane 1 pound star K/42 02122* (R.30s). Flattened, four pin holes, otherwise fine. Estimate $2,000. Page opened. Closest to lot 895 in grade (fine) though older and pin holes. Same last five digits as lot 895 by coincidence, different prefix (K/42 vs K/82)."
+    },
+    {
+     "aud_price": 7200.0,
+     "date": "Noble Sale 91 (old sale, date not shown)",
+     "venue": "Noble Numismatics Sale 91, lot 3303",
+     "url": "https://www.noble.com.au/auctions/search/?sale=91&p=1&c=3777",
+     "same_item": "close",
+     "note": "1942 Armitage/McFarlane 1 pound star K/58 03537* (R.30bs, light green reverse variant), 2mm tear, flattened fine or better. Estimate $6,000. Page opened. Old sale and different variety, likely too dated to rely on; shows upper range."
     }
    ],
    "unsold": [],
@@ -5461,11 +5461,11 @@
      "note": "Ordinary non-star 1942 pound, VF; snippet only. Category guide only."
     }
    ],
-   "resale": 3800.0,
-   "net_resale": 3230.0,
-   "max_hammer": 2480,
+   "resale": 2150.0,
+   "net_resale": 1827.5,
+   "max_hammer": 1330,
    "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $3,800; less 15% fees = $3,230; less $200 profit, / 1.22 premium = max hammer $2,480",
+   "why": "2 same-item SOLD price(s), median $2,150; less 15% fees = $1,828; less $200 profit, / 1.22 premium = max hammer $1,330",
    "priority": false
   },
   {
@@ -7423,7 +7423,8 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold listings: 1932 five pound Riddle Sheehan R43 ; and noble.com.au prices realised search 'Riddle/Sheehan (1932) R.43' for 2024-2026 sales, grade Fine to VF",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 920.0,
      "date": "undated (Noble Sale 63)",
@@ -7441,7 +7442,6 @@
      "note": "Page opened. R43 Q/28 879059, good VF. Clearly better grade than lot 953. Date not on page. Premium extra."
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -7469,11 +7469,11 @@
      "note": "Snippet only. About EF, far better than lot 953; shows the top of the range."
     }
    ],
-   "resale": 1860.0,
-   "net_resale": 1581.0,
-   "max_hammer": 1130,
-   "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $1,860; less 15% fees = $1,581; less $200 profit, / 1.22 premium = max hammer $1,130",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {

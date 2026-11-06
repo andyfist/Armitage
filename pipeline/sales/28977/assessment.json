@@ -8,6 +8,7 @@
   "fee": 0.15,
   "premium": 0.22,
   "months": 24,
+  "chrome_floor": 100,
   "top": 25,
   "ignore_bids": false
  },
@@ -1299,14 +1300,6 @@
      "note": "Lot 1041 Golden Fleece 5LB grease tin; page opened (PDF), date not printed. Condition unknown."
     },
     {
-     "aud_price": 150.0,
-     "date": "undated (Burns & Co)",
-     "venue": "Burns & Co Auctions (hammer, premium not incl.)",
-     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Print-Results.pdf",
-     "same_item": "close",
-     "note": "Lot 1039 Golden Fleece Cinemascope 5LB grease tin; page opened. Different, more sought design."
-    },
-    {
      "aud_price": 140.0,
      "date": "3 Jun 2025",
      "venue": "Burns & Co Auctions (hammer, premium not incl.)",
@@ -1315,7 +1308,16 @@
      "note": "Lot 93 Mobilgrease Vacuum Oil Company 1LB grease tin (smaller size, Mobil one in lot 1459 is 5 lb); page opened."
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 150.0,
+     "date": "undated (Burns & Co)",
+     "venue": "Burns & Co Auctions (hammer, premium not incl.)",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Print-Results.pdf",
+     "same_item": "close",
+     "note": "Lot 1039 Golden Fleece Cinemascope 5LB grease tin; page opened. Different, more sought design."
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -1335,11 +1337,11 @@
      "note": "Cinemascope 5lb tin asking; snippet only, not verified."
     }
    ],
-   "resale": 145.0,
-   "net_resale": 123.25,
+   "resale": 140.0,
+   "net_resale": 119.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $145 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $140 does not clear the current bid $0",
    "priority": false
   },
   {

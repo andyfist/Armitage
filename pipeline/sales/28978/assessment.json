@@ -8,6 +8,7 @@
   "fee": 0.15,
   "premium": 0.22,
   "months": 24,
+  "chrome_floor": 100,
   "top": 25,
   "ignore_bids": false
  },
@@ -110,7 +111,8 @@
    "net_resale": 59.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $10"
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $10",
+   "priority": false
   },
   {
    "cdid": 3112662,
@@ -160,7 +162,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
   },
   {
    "cdid": 3112672,
@@ -185,7 +188,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112673,
@@ -276,7 +280,8 @@
    "net_resale": 42.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112694,
@@ -383,7 +388,8 @@
    "net_resale": 59.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112695,
@@ -417,7 +423,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
   },
   {
    "cdid": 3112713,
@@ -442,7 +449,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "NOT RESEARCHED",
-   "why": "no market file"
+   "why": "no market file",
+   "priority": false
   },
   {
    "cdid": 3112731,
@@ -484,7 +492,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only"
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
   },
   {
    "cdid": 3112735,
@@ -543,7 +552,8 @@
    "net_resale": 297.5,
    "max_hammer": 75,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $350; less 15% fees = $298; less $200 profit, / 1.22 premium = max hammer $75"
+   "why": "2 same-item SOLD price(s), median $350; less 15% fees = $298; less $200 profit, / 1.22 premium = max hammer $75",
+   "priority": false
   },
   {
    "cdid": 3112760,
@@ -618,7 +628,8 @@
    "net_resale": 82.875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $98 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $98 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112764,
@@ -741,7 +752,8 @@
    "net_resale": 42.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112780,
@@ -783,7 +795,8 @@
    "net_resale": 354.875,
    "max_hammer": 125,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $418; less 15% fees = $355; less $200 profit, / 1.22 premium = max hammer $125"
+   "why": "2 same-item SOLD price(s), median $418; less 15% fees = $355; less $200 profit, / 1.22 premium = max hammer $125",
+   "priority": false
   },
   {
    "cdid": 3112784,
@@ -817,7 +830,8 @@
    "net_resale": 46.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $10"
+   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $10",
+   "priority": false
   },
   {
    "cdid": 3112794,
@@ -899,7 +913,8 @@
    "net_resale": 144.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $15"
+   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $15",
+   "priority": false
   },
   {
    "cdid": 3112797,
@@ -950,7 +965,8 @@
    "net_resale": 527.0,
    "max_hammer": 265,
    "status": "FAIL",
-   "why": "max hammer $265 from a median SOLD of $620 does not clear the current bid $500"
+   "why": "max hammer $265 from a median SOLD of $620 does not clear the current bid $500",
+   "priority": false
   },
   {
    "cdid": 3112815,
@@ -1001,7 +1017,8 @@
    "net_resale": 76.925,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112825,
@@ -1060,7 +1077,8 @@
    "net_resale": 95.625,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $112 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $112 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112838,
@@ -1094,7 +1112,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
   },
   {
    "cdid": 3112844,
@@ -1169,7 +1188,8 @@
    "net_resale": 248.625,
    "max_hammer": 35,
    "status": "PASS",
-   "why": "4 same-item SOLD price(s), median $292; less 15% fees = $249; less $200 profit, / 1.22 premium = max hammer $35"
+   "why": "4 same-item SOLD price(s), median $292; less 15% fees = $249; less $200 profit, / 1.22 premium = max hammer $35",
+   "priority": false
   },
   {
    "cdid": 3112858,
@@ -1228,7 +1248,8 @@
    "net_resale": 127.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112859,
@@ -1286,7 +1307,8 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites"
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
   },
   {
    "cdid": 3112860,
@@ -1320,7 +1342,8 @@
    "net_resale": 527.0,
    "max_hammer": 265,
    "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $620; less 15% fees = $527; less $200 profit, / 1.22 premium = max hammer $265"
+   "why": "1 same-item SOLD price(s), median $620; less 15% fees = $527; less $200 profit, / 1.22 premium = max hammer $265",
+   "priority": false
   },
   {
    "cdid": 3112866,
@@ -1403,7 +1426,8 @@
    "net_resale": 161.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $190 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $190 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112871,
@@ -1526,7 +1550,8 @@
    "net_resale": 63.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $0"
+   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $0",
+   "priority": false
   },
   {
    "cdid": 3112876,
@@ -1577,7 +1602,8 @@
    "net_resale": 437.75,
    "max_hammer": 190,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $515; less 15% fees = $438; less $200 profit, / 1.22 premium = max hammer $190"
+   "why": "2 same-item SOLD price(s), median $515; less 15% fees = $438; less $200 profit, / 1.22 premium = max hammer $190",
+   "priority": false
   }
  ]
 }
