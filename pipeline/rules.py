@@ -31,7 +31,8 @@ VALUE_WORDS = (r'\b(huon|blackwood|cedar|colonial|georgian|regency|victorian|edw
 # Lots that always get the photo scan. The 21 Oct 2026 sale showed why: four axe lots (a Hytest Racer
 # head among them) were passed over until a bidder from Bouvard, WA started on them.
 ALWAYS_LOOK = [
-    ('books and paper', r'\b(books?|volumes?|vols?\b|atlas|folio|manuscripts?|letters|diary|diaries|journals?|maps?|etchings?|'
+    ('books and paper', r'\b(\w*books?|novels?|hardcovers?|hardbacks?|paperbacks?|bibles?|encyclop\w+|annuals?|almanacs?|'
+                        r'bibliograph\w*|1st ed\w*|first ed\w*|signed copy|volumes?|vols?\b|atlas|folio|manuscripts?|letters|diary|diaries|journals?|maps?|etchings?|'
                         r'engravings?|lithographs?|posters?|lobby cards?|ephemera|postcards?|stamps?|comics?)\b'),
     ('coins and banknotes', r'\b(coins?|bank ?notes?|sovereigns?|florins?|shillings?|pennies|penny|tokens?|medallions?|'
                             r'proof|uncirculated|mint set|bullion|ingot)\b'),
@@ -54,6 +55,35 @@ ALWAYS_LOOK = [
                                    r'lps?\b|78s\b|radiogram|gramophone)\b'),
     ('vague lot', r'\b(box(es)? of|bulk|sundry|sundries|unknown|unmarked|unsigned|as found)\b'),
 ]
+
+
+# Lots that come first in every stage: all of them are photo-scanned in smaller batches, every candidate
+# among them gets the cloud price research whatever its score, and they head the emails, the Chrome brief
+# and the viewing list. Andy, 5 Nov 2026: "focus on the books and scan every title". Only real books count
+# (not the maps, stamps and postcards in "books and paper"). Set PRIORITY to None to treat every lot the same.
+PRIORITY = (r'\b(\w*books?|novels?|hardcovers?|hardbacks?|paperbacks?|bibles?|encyclop\w+|annuals?|almanacs?|bibliograph\w*|'
+            r'1st ed\w*|first ed\w*|signed copy|volumes?|vols?\b|atlas|folio|manuscripts?|diary|diaries)\b')
+NOT_PRIORITY = (r'\b(macbook|chromebook|notebook (computer|pc)|laptop|map drawers?|plan drawers?|book ?cases?|book ?shel\w*|'
+                r'book ?ends?|book ?match\w*|book cover|with (a |its |the )?(instruction |service )?book|atlas copco)\b')
+
+
+def is_priority(title, description=''):
+    """Judged on the title only, as descriptions mention books in passing (a rug's 'book cover design', a radio 'with
+    book'). Armitage cuts long titles with '...', so then the description's first sentence stands in for the title."""
+    text = (title or '').lower()
+    if text.endswith('...') and description:
+        text = re.split(r'\. ', description, maxsplit=1)[0].lower()
+    return bool(PRIORITY and re.search(PRIORITY, text) and not re.search(NOT_PRIORITY, text))
+
+
+def priority_cdids(sale_dir):
+    """cdids of the sale's priority (book) lots that go to the photo scan, from its lots.json (written by prep)."""
+    import json
+    import os
+    f = os.path.join(sale_dir, 'lots.json')
+    if not os.path.exists(f):
+        return set()
+    return {r['cdid'] for r in json.load(open(f)) if r.get('cls') == 'always_look' and is_priority(r.get('title'), r.get('description'))}
 
 
 def classify(title, description=''):

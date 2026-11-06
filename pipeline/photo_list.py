@@ -2,7 +2,7 @@
 """Usage: python3 pipeline/photo_list.py <chid>
 
 Writes pipeline/sales/<chid>/photo_list.md, the list Andy takes to the viewing: one line
-per lot worth bidding on or still undecided, in lot order, with exactly what to look at or
+per lot worth bidding on or still undecided, books first and then in lot order, with exactly what to look at or
 photograph (from the researchers' viewing_check and the scan's condition notes), the
 provisional maximum and the closing time. Prints the email that points Andy to it and
 tells him how to send the photos back (a new chat in the project).
@@ -37,8 +37,8 @@ def main():
         cond = (x.get('condition') or '').strip()
         rows.append({'lot': x['lot'], 'cdid': x['cdid'], 'title': x['title'], 'status': x['status'], 'max': x.get('max_hammer') or 0,
                      'bid': x.get('current_bid') or 0, 'close': x.get('close') or '', 'check': check, 'condition': cond,
-                     'what': (x.get('identification') or '')[:160]})
-    rows.sort(key=lambda r: (r['lot'] or 0))
+                     'what': (x.get('identification') or '')[:160], 'book': bool(x.get('priority'))})
+    rows.sort(key=lambda r: (not r['book'], r['lot'] or 0))  # books first (rules.PRIORITY), then lot order
     need_photo = [r for r in rows if r['check']]
 
     out = [f"# {'' if chid.startswith('gowans') else 'Armitage '}{cat['name']}: viewing list", '',
@@ -51,7 +51,7 @@ def main():
     for r in rows:
         what = r['what'] or r['title']
         check = r['check'] or ('general condition: ' + r['condition'] if r['condition'] else 'general condition and completeness')
-        out.append(f"| {r['lot']} | {what} | {check} | {'$' + format(r['max'], ',') if r['max'] else 'none yet'} | ${r['bid']:,.0f} | {r['close']} |")
+        out.append(f"| {r['lot']}{' (book)' if r['book'] else ''} | {what} | {check} | {'$' + format(r['max'], ',') if r['max'] else 'none yet'} | ${r['bid']:,.0f} | {r['close']} |")
     out += ['', 'Lot pages: https://www.gowansauctions.com.au/' if chid.startswith('gowans') else f"Lot pages: {BASE}/catalogue-group.aspx?chid={chid}"]
     path = os.path.join(D, 'photo_list.md')
     open(path, 'w').write('\n'.join(out) + '\n')

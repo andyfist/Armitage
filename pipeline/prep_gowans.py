@@ -166,6 +166,7 @@ def main():
         'titleChunks': chunks, 'batch': prep.BATCH, 'concurrency': 8, 'maxMarket': 200,
         'alwaysLook': [{'cdid': r['cdid'], 'lot': r['lot'], 'title': r['title'], 'why': r['cls_reason']}
                        for r in slim if r['cls'] == 'always_look' and r['state'] == 'FETCHED'],
+        'priority': [r['cdid'] for r in slim if r['cls'] == 'always_look' and rules.is_priority(r.get('title'), r.get('description')) and r['state'] == 'FETCHED'],
         'description': (f'Gowans Auctions (Hobart, Tasmania) weekly auction {att["code"]}: lots {cat["lot_min"]} to {cat["lot_max"]}, '
                         f'absentee bidding closes {close}; the room auction starts at 10am the same morning. Buyer\'s premium about {PREMIUM}. '
                         'Gowans lots have few words and usually one or two photos, so treat the photos as the main evidence'),
