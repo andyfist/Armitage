@@ -1,8 +1,8 @@
 # Armitage 11 Nov 2026: price research beyond eBay
 
-For a Claude session on the home computer, using Claude in Chrome (your own signed-in browser). **Run it on Sonnet.** Lots close Wednesday 11 Nov 2026 from 3:30pm to 11:26pm (Hobart time, ADST). Buyer's premium 22%. 322 lots in 13 groups: every lot the eBay rounds searched. Each group starts with its priority lots (59 in all, the ones most likely to change a maximum bid), then the rest in lot order. Work the priority lots of every group first, then go back for the rest. It is fine to stop part way and hand back what is done; save the file as you go.
+For a Claude session on the home computer, using Claude in Chrome (your own signed-in browser). **Run it on Sonnet.** Lots close Wednesday 11 Nov 2026 from 3:30pm to 11:26pm (Hobart time, ADST). Buyer's premium 22%. 381 lots in 14 groups: every lot the eBay rounds searched, plus a last group of 59 lots picked because Andy may find them cool or interesting. Each price group starts with its priority lots (59 in all, the ones most likely to change a maximum bid), then the rest in lot order. Order of work: the priority lots of every group, then the cool and interesting group, then the rest. It is fine to stop part way and hand back what is done; save the file as you go.
 
-Two Chrome rounds have already searched eBay for these lots. **Do not repeat eBay.** This round is for auction house results, specialist dealers and price databases, where most of these items really trade. Each group below names the sources to use.
+Two Chrome rounds have already searched eBay for the price groups. **Do not repeat eBay for those.** This round is for auction house results, specialist dealers and price databases, where most of these items really trade. Each group below names the sources to use. The cool and interesting lots have not been searched anywhere yet, so eBay sold results are fine for them too.
 
 ## Rules
 
@@ -22,7 +22,8 @@ Save one file named `chrome_results_armitage_11nov_broad.json`: a JSON list, one
  "entries": [{"kind": "SOLD", "price": "A$450 hammer", "currency": "AUD", "aud_price": 450,
               "date": "2026-03-14", "venue": "Leski Auctions", "url": "https://...",
               "same_item": "yes", "note": "same edition, better condition"}],
- "viewing_check": "what Andy should look at", "searches_tried": "sources and terms used"}
+ "viewing_check": "what Andy should look at", "searches_tried": "sources and terms used",
+ "story": "cool and interesting lots only: what it is, its history, source URL"}
 ```
 Then tell Andy where the file is so he can upload it to the project. `pipeline/chrome_import.py` merges it and the bid check runs again.
 
@@ -2975,3 +2976,538 @@ Then tell Andy where the file is so he can upload it to the project. `pipeline/c
 **Found so far:** 2 sold: $180 Gowans Auctions, Hobart 2026-03-09; $1 Gowans Auctions, Hobart 2026-03-23 | 1 asking: $950 Elite Floats Australia live, seen 2026-11-06
 **Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636670_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636670_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636670_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1636670_4.jpg)
 **Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112815&chid=28978&category=ALL&style=group
+
+## Cool and interesting (59 lots)
+
+**Sources:** Whatever suits the item: the auction houses above, museum and collection pages (TMAG, Libraries Tasmania, Museums Victoria, Trove for old newspaper mentions), maker histories, collectors' society pages and specialist dealers. These lots are here because Andy may find them interesting, not only for profit: **first find out what it is and its story** (maker, date, where it was used, anything Tasmanian about it), then price it the usual way. Put the story in a "story" field (two or three sentences, with the source URL) alongside identification.
+
+### Lot 832 (chid 28975, cdid 3111094): FRAMED VINTAGE PHOTOGRAPH OF E...
+
+**Status:** not researched yet. Closes 11/11/2026 4:37:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** FRAMED VINTAGE PHOTOGRAPH OF ESKLEIGH HOMESTEAD PERTH (AS IS) H-13 W-19 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635137_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111094&chid=28975&category=ALL&style=group
+
+### Lot 693 (chid 28975, cdid 3110955): ALISON COOPER-WHITE THYLACINE ...
+
+**Status:** fails the $200 rule on current evidence (resale about $55); current bid $0 (0 bids). Closes 11/11/2026 3:50:40 PM ADST.
+**What it is:** Oak serving tray (about 53 x 36 cm) with moulded rim, hand painted with a realistic seated thylacine seen from behind. Lot title attributes it to Alison Cooper-White; no signature visible in the single photo and the back is not shown. I could not find any artist of that name linked to thylacine art on the web, so the attribution is unverified. Closest known name is a Tasmanian 'Alison Cooper' who painted a table centre at Gowans.
+**Catalogue says:** ALISON COOPER-WHITE THYLACINE PAINTED TRAY H-53 W-36 CM
+**Found so far:** 1 sold: $55 Gowans Auctions, Hobart (lot 413428, 3 bids) 2026-05-31
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1634998_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110955&chid=28975&category=ALL&style=group
+
+### Lot 747 (chid 28975, cdid 3111009): BLACKWOOD JEWELLERY BOX WITH H...
+
+**Status:** no usable sold price yet; current bid $60 (1 bids). Closes 11/11/2026 4:08:40 PM ADST.
+**What it is:** Hinged box with figured blackwood (tiger-stripe) lid panel hand painted with a Tasmanian tiger (thylacine), framed by mitred border, on ebonised bracket feet. Modern Tasmanian craft work; no maker's mark seen in photos.
+**Catalogue says:** BLACKWOOD JEWELLERY BOX WITH HANDPAINTED TASMANIAN TIGER H-9 W-22 D-16 CM
+**Found so far:** nothing found yet
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635052_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635052_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635052_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1635052_4.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111009&chid=28975&category=ALL&style=group
+
+### Lot 1199 (chid 28976, cdid 3112029): BIRDSEYE HUON PINE FRAMED BARM...
+
+**Status:** not researched yet. Closes 11/11/2026 6:39:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** BIRDSEYE HUON PINE FRAMED BARMOETER H-61 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635884_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635884_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635884_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112029&chid=28976&category=ALL&style=group
+
+### Lot 785 (chid 28975, cdid 3111047): RAE SAXON WATERCOLOUR 'TASMANI...
+
+**Status:** not researched yet. Closes 11/11/2026 4:21:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** RAE SAXON WATERCOLOUR 'TASMANIAN LANDSCAPE' H-26 W-35 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635090_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635090_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111047&chid=28975&category=ALL&style=group
+
+### Lot 791 (chid 28975, cdid 3111053): JANET MORLEY OIL 'KING RIVER T...
+
+**Status:** not researched yet. Closes 11/11/2026 4:23:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** JANET MORLEY OIL 'KING RIVER TASMANIA' H-16 W-21 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635096_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111053&chid=28975&category=ALL&style=group
+
+### Lot 1442 (chid 28977, cdid 3112347): MOUNTED TAXIDERMY WILD BROWN T...
+
+**Status:** fails the $200 rule on current evidence (resale about $64); current bid $0 (0 bids). Closes 11/11/2026 7:59:40 PM ADST.
+**What it is:** Mounted wild brown trout (skin mount), about 64 cm, on natural-edge bark slab backing. No taxidermist label seen. Looks like a modern (late 20th century) hobby or local mount, not antique cased work.
+**Catalogue says:** MOUNTED TAXIDERMY WILD BROWN TROUT L-64 CM
+**Found so far:** 1 sold: $64 Haywards, NZ, lot 0773 2026-06 (sale 11-16 June 2026)
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636202_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636202_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112347&chid=28977&category=ALL&style=group
+
+### Lot 1100 (chid 28976, cdid 3111930): PINE RAILWAY BENCH SEAT C1920 ...
+
+**Status:** not researched yet. Closes 11/11/2026 6:06:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** PINE RAILWAY BENCH SEAT C1920 L-148 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635785_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635785_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111930&chid=28976&category=ALL&style=group
+
+### Lot 1053 (chid 28976, cdid 3111883): SIGNED OIL PAINTING 'OLD RAILW...
+
+**Status:** not researched yet. Closes 11/11/2026 5:51:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** SIGNED OIL PAINTING 'OLD RAILWAY STOP; H-40 W-60 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635738_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635738_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111883&chid=28976&category=ALL&style=group
+
+### Lot 969 (chid 28975, cdid 3111231): COMMEMORATIVE COLLECTIONS - AN...
+
+**Status:** not researched yet. Closes 11/11/2026 5:22:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** COMMEMORATIVE COLLECTIONS - ANZACS & VIETNAM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635274_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635274_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635274_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1635274_4.jpg) [5](https://armitage.bidsonline.com.au/images/products/1635274_5.jpg) [6](https://armitage.bidsonline.com.au/images/products/1635274_6.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111231&chid=28975&category=ALL&style=group
+
+### Lot 830 (chid 28975, cdid 3111092): FOLDERS OF PRINTS & MILITARY P...
+
+**Status:** not researched yet. Closes 11/11/2026 4:36:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** FOLDERS OF PRINTS & MILITARY PUBLICATIONS
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635135_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111092&chid=28975&category=ALL&style=group
+
+### Lot 1550 (chid 28977, cdid 3112577): FRAMED ROYAL AUSTRALIAN NAVY B...
+
+**Status:** not researched yet. Closes 11/11/2026 8:35:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** FRAMED ROYAL AUSTRALIAN NAVY BADGE PRINT H-66 W-43 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636432_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636432_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636432_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112577&chid=28977&category=ALL&style=group
+
+### Lot 1395 (chid 28976, cdid 3112223): 3 FRAMED MILITARY AIRCRAFT PRI...
+
+**Status:** not researched yet. Closes 11/11/2026 7:44:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** 3 FRAMED MILITARY AIRCRAFT PRINTS H-56 W-75 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636078_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636078_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636078_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1636078_4.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112223&chid=28976&category=ALL&style=group
+
+### Lot 1426 (chid 28977, cdid 3112331): DINKY ARMY HOVERCRAFT TANK & C...
+
+**Status:** not researched yet. Closes 11/11/2026 7:54:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** DINKY ARMY HOVERCRAFT TANK & CANON
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636186_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636186_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636186_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112331&chid=28977&category=ALL&style=group
+
+### Lot 1430 (chid 28977, cdid 3112335): 3 DINKY TOY ARMY TANKS
+
+**Status:** not researched yet. Closes 11/11/2026 7:55:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** 3 DINKY TOY ARMY TANKS
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636190_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636190_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636190_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112335&chid=28977&category=ALL&style=group
+
+### Lot 1404 (chid 28977, cdid 3112310): VINTAGE RAILWAY SIGNAL LAMP H-...
+
+**Status:** not researched yet. Closes 11/11/2026 7:47:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** VINTAGE RAILWAY SIGNAL LAMP H-34 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636165_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636165_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636165_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1636165_4.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112310&chid=28977&category=ALL&style=group
+
+### Lot 1410 (chid 28977, cdid 3112316): ANTIQUE BULLS EYE POLICEMANS L...
+
+**Status:** not researched yet. Closes 11/11/2026 7:49:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** ANTIQUE BULLS EYE POLICEMANS LANTERN H-15 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636171_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636171_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636171_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112316&chid=28977&category=ALL&style=group
+
+### Lot 1412 (chid 28977, cdid 3112318): VINTAGE RAILWAY LANTERN H-16 L...
+
+**Status:** not researched yet. Closes 11/11/2026 7:50:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** VINTAGE RAILWAY LANTERN H-16 L-15 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636173_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636173_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636173_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1636173_4.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112318&chid=28977&category=ALL&style=group
+
+### Lot 1486 (chid 28977, cdid 3112514): 2 VINTAGE BRASS CAR HORNS - IN...
+
+**Status:** not researched yet. Closes 11/11/2026 8:14:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** 2 VINTAGE BRASS CAR HORNS - INCOMPLETE
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636369_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112514&chid=28977&category=ALL&style=group
+
+### Lot 1447 (chid 28977, cdid 3112351): GERMAN MADE MAGIC LANTERN PROJ...
+
+**Status:** not researched yet. Closes 11/11/2026 8:01:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** GERMAN MADE MAGIC LANTERN PROJECTOR & VINTAGE CAMERAS
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636206_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636206_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636206_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1636206_4.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112351&chid=28977&category=ALL&style=group
+
+### Lot 1541 (chid 28977, cdid 3112568): 3 VINTAGE CAMERAS
+
+**Status:** not researched yet. Closes 11/11/2026 8:32:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** 3 VINTAGE CAMERAS
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636423_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636423_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636423_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1636423_4.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112568&chid=28977&category=ALL&style=group
+
+### Lot 1542 (chid 28977, cdid 3112569): KREISLER BAKELITE MANTEL RADIO...
+
+**Status:** fails the $200 rule on current evidence (resale about $55); current bid $0 (0 bids). Closes 11/11/2026 8:32:20 PM ADST.
+**What it is:** Brown bakelite Australian mantel radio, dial badge reads KRIESLER (photo looks like KRIESLER, 1940s style with state station dial and shortwave 16-50m), four knobs, cloth grille, grey 3-pin plug. Common model, not tested.
+**Catalogue says:** KREISLER BAKELITE MANTEL RADIO - NOT TESTED
+**Found so far:** 7 sold: $55 Gowans (Hobart) 2026-06-28; $60 Gowans (Hobart) 2026-04-26; $80 Gowans (Hobart) 2026-03-16; $30 Gowans (Hobart) 2025-12-14 (+3 more)
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636424_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636424_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636424_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112569&chid=28977&category=ALL&style=group
+
+### Lot 1532 (chid 28977, cdid 3112559): TIMBER & BRASS SHIPS WHEEL DIA...
+
+**Status:** not researched yet. Closes 11/11/2026 8:29:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** TIMBER & BRASS SHIPS WHEEL DIA-91 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636414_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636414_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112559&chid=28977&category=ALL&style=group
+
+### Lot 1188 (chid 28976, cdid 3112018): LARGE GILT FRAMED NAUTICAL PRINT 'R...
+
+**Status:** not researched yet. Closes 11/11/2026 6:36:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** LARGE GILT FRAMED NAUTICAL PRINT 'RUNNING HOME' H-42 W-54 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635873_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112018&chid=28976&category=ALL&style=group
+
+### Lot 1537 (chid 28977, cdid 3112564): COLLECTION OF POLISHED STONES ...
+
+**Status:** not researched yet. Closes 11/11/2026 8:30:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** COLLECTION OF POLISHED STONES & MINERALS
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636419_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112564&chid=28977&category=ALL&style=group
+
+### Lot 1707 (chid 28977, cdid 3112428): 2 BOXES OF SHELLS, CRYSTALS, R...
+
+**Status:** not researched yet. Closes 11/11/2026 9:26:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** 2 BOXES OF SHELLS, CRYSTALS, ROCKS ETC
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636283_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636283_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636283_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112428&chid=28977&category=ALL&style=group
+
+### Lot 1429 (chid 28977, cdid 3112334): W. APPELT SODA WATER CODD BOTT...
+
+**Status:** not researched yet. Closes 11/11/2026 7:55:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** W. APPELT SODA WATER CODD BOTTLE, NURIOOPTA, SOUTH AUSTRALIA - CHIP TO TOP
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636189_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636189_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636189_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1636189_4.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112334&chid=28977&category=ALL&style=group
+
+### Lot 1438 (chid 28977, cdid 3112343): STONEWARE BOTLE IN WICKER CASI...
+
+**Status:** not researched yet. Closes 11/11/2026 7:58:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** STONEWARE BOTLE IN WICKER CASING H-40 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636198_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636198_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112343&chid=28977&category=ALL&style=group
+
+### Lot 1439 (chid 28977, cdid 3112344): 1950'S SHARPE BROS. STONEWARE ...
+
+**Status:** not researched yet. Closes 11/11/2026 7:58:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** 1950'S SHARPE BROS. STONEWARE BOTTLE
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636199_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636199_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636199_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112344&chid=28977&category=ALL&style=group
+
+### Lot 1512 (chid 28977, cdid 3112539): BOX & CRATE OF OLD BOTTLES
+
+**Status:** not researched yet. Closes 11/11/2026 8:22:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** BOX & CRATE OF OLD BOTTLES
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636394_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636394_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112539&chid=28977&category=ALL&style=group
+
+### Lot 1732 (chid 28977, cdid 3112452): TUB OF VARIOUS BOTTLES INCLUDI...
+
+**Status:** not researched yet. Closes 11/11/2026 9:34:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** TUB OF VARIOUS BOTTLES INCLUDING GINGER BEER
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636307_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636307_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112452&chid=28977&category=ALL&style=group
+
+### Lot 655 (chid 28975, cdid 3110917): EARLY GLASS SCHWEPPES ADVERTIS...
+
+**Status:** not researched yet. Closes 11/11/2026 3:38:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** EARLY GLASS SCHWEPPES ADVERTISING MATCH STRIKER H-5 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1634960_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110917&chid=28975&category=ALL&style=group
+
+### Lot 848 (chid 28975, cdid 3111110): STONEWARE ABBOTTS PART WATER F...
+
+**Status:** not researched yet. Closes 11/11/2026 4:42:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** STONEWARE ABBOTTS PART WATER FILTER H-37 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635153_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635153_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635153_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111110&chid=28975&category=ALL&style=group
+
+### Lot 918 (chid 28975, cdid 3111180): GROUP OF 18TH & 19TH CENTURY E...
+
+**Status:** not researched yet. Closes 11/11/2026 5:05:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** GROUP OF 18TH & 19TH CENTURY ENGLISH COINS
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635223_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635223_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635223_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111180&chid=28975&category=ALL&style=group
+
+### Lot 936 (chid 28975, cdid 3111198): GROUP ENGLISH SILVER COINS
+
+**Status:** not researched yet. Closes 11/11/2026 5:11:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** GROUP ENGLISH SILVER COINS
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635241_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111198&chid=28975&category=ALL&style=group
+
+### Lot 970 (chid 28975, cdid 3111232): COLLECTION OF SHIPWRECK COINS
+
+**Status:** not researched yet. Closes 11/11/2026 5:23:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** COLLECTION OF SHIPWRECK COINS
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635275_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635275_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635275_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111232&chid=28975&category=ALL&style=group
+
+### Lot 823 (chid 28975, cdid 3111085): ASSORTMENT OF EARLY AUSTRALIAN...
+
+**Status:** fails the $200 rule on current evidence (resale about $25); current bid $20 (1 bids). Closes 11/11/2026 4:34:00 PM ADST.
+**What it is:** Lot of used early Australian stamps in two stock books and loose stock pages: Kangaroo and Map issues (blue, chestnut, violet, green, grey, olive) plus many hundreds of used KGV heads (green, red, pink, orange, violet) including blocks and multiples. Photos show mostly common values; no single high-value stamp identifiable at contact-sheet resolution.
+**Catalogue says:** ASSORTMENT OF EARLY AUSTRALIAN STAMPS
+**Found so far:** 2 sold: $25 Gowans Auctions, Hobart 2025-12-08; $25 Gowans Auctions, Hobart 2026-01-19
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635128_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635128_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111085&chid=28975&category=ALL&style=group
+
+### Lot 1064 (chid 28976, cdid 3111894): MID-VICTORIAN CEDAR CHIFFONIER...
+
+**Status:** not researched yet. Closes 11/11/2026 5:54:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** MID-VICTORIAN CEDAR CHIFFONIER WITH INVERTED SHIELD PANELS C1850 H-120 W-117 D-48 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635749_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635749_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111894&chid=28976&category=ALL&style=group
+
+### Lot 1071 (chid 28976, cdid 3111901): MAHOGANY PANELLED LIBRARY BOOK...
+
+**Status:** not researched yet. Closes 11/11/2026 5:57:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** MAHOGANY PANELLED LIBRARY BOOKCASE C1890 H-220 W-117 D-41 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635756_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635756_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635756_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1635756_4.jpg) [5](https://armitage.bidsonline.com.au/images/products/1635756_5.jpg) [6](https://armitage.bidsonline.com.au/images/products/1635756_6.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111901&chid=28976&category=ALL&style=group
+
+### Lot 1091 (chid 28976, cdid 3111921): GEORGIAN MAHOGANY DROPSIDE TAB...
+
+**Status:** not researched yet. Closes 11/11/2026 6:03:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** GEORGIAN MAHOGANY DROPSIDE TABLE ON TAPERED LEGS WITH DRAWER H-72 W-126 D-102 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635776_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635776_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635776_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111921&chid=28976&category=ALL&style=group
+
+### Lot 1001 (chid 28976, cdid 3111831): GEORGIAN MAHOGANY UPHOLSTERED ...
+
+**Status:** not researched yet. Closes 11/11/2026 5:33:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** GEORGIAN MAHOGANY UPHOLSTERED RAIL BACK SIDE CHAIR
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635686_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635686_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111831&chid=28976&category=ALL&style=group
+
+### Lot 1092 (chid 28976, cdid 3111922): LARGE VICTORIAN CAST IRON BOOT...
+
+**Status:** not researched yet. Closes 11/11/2026 6:04:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** LARGE VICTORIAN CAST IRON BOOT SCRAPER C1870
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635777_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635777_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111922&chid=28976&category=ALL&style=group
+
+### Lot 1509 (chid 28977, cdid 3112536): PAINTED CAST IRON WEATHER VANE...
+
+**Status:** not researched yet. Closes 11/11/2026 8:21:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** PAINTED CAST IRON WEATHER VANE FEATURING A COCKERAL
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636391_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636391_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112536&chid=28977&category=ALL&style=group
+
+### Lot 1588 (chid 28977, cdid 3112260): CAST IRON COIN BANK
+
+**Status:** not researched yet. Closes 11/11/2026 8:47:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** CAST IRON COIN BANK
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636115_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636115_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112260&chid=28977&category=ALL&style=group
+
+### Lot 834 (chid 28975, cdid 3111096): BRONZE SCULPTURE SIGNED L'B DI...
+
+**Status:** not researched yet. Closes 11/11/2026 4:37:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** BRONZE SCULPTURE SIGNED L'B DIABOLO H-40 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635139_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635139_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111096&chid=28975&category=ALL&style=group
+
+### Lot 909 (chid 28975, cdid 3111171): CARVED NETSUKE SKULL - SIGNED
+
+**Status:** not researched yet. Closes 11/11/2026 5:02:40 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** CARVED NETSUKE SKULL - SIGNED
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635214_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635214_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635214_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1635214_4.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111171&chid=28975&category=ALL&style=group
+
+### Lot 806 (chid 28975, cdid 3111068): LARGE BRASS CHINESE DRAGON L-6...
+
+**Status:** not researched yet. Closes 11/11/2026 4:28:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** LARGE BRASS CHINESE DRAGON L-60 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635111_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635111_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111068&chid=28975&category=ALL&style=group
+
+### Lot 764 (chid 28975, cdid 3111026): PAIR OF CHINESE CLOISONNE VASE...
+
+**Status:** not researched yet. Closes 11/11/2026 4:14:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** PAIR OF CHINESE CLOISONNE VASES WITH SOME DENTING H-17 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635069_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111026&chid=28975&category=ALL&style=group
+
+### Lot 667 (chid 28975, cdid 3110929): PAIR OF FINE VICTORIAN HAND PA...
+
+**Status:** not researched yet. Closes 11/11/2026 3:42:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** PAIR OF FINE VICTORIAN HAND PAINTED OVERLAY GLASS VASES, 1 REPAIRED H-33 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1634972_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1634972_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1634972_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1634972_4.jpg) [5](https://armitage.bidsonline.com.au/images/products/1634972_5.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110929&chid=28975&category=ALL&style=group
+
+### Lot 1203 (chid 28976, cdid 3112033): VICTORIAN FRAMED ENGRAVING 'WA...
+
+**Status:** not researched yet. Closes 11/11/2026 6:41:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** VICTORIAN FRAMED ENGRAVING 'WATCHING THE FLOCK' H-55 W-86 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635888_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112033&chid=28976&category=ALL&style=group
+
+### Lot 1129 (chid 28976, cdid 3111959): GROUP OF 6 SIGNED LIMITED EDIT...
+
+**Status:** not researched yet. Closes 11/11/2026 6:16:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** GROUP OF 6 SIGNED LIMITED EDITION SMALL ETCHINGS
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635814_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635814_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635814_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1635814_4.jpg) [5](https://armitage.bidsonline.com.au/images/products/1635814_5.jpg) [6](https://armitage.bidsonline.com.au/images/products/1635814_6.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111959&chid=28976&category=ALL&style=group
+
+### Lot 1020 (chid 28976, cdid 3111850): UNFRAMED ABORIGINAL ACRYLIC ON...
+
+**Status:** not researched yet. Closes 11/11/2026 5:40:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** UNFRAMED ABORIGINAL ACRYLIC ON CANVAS 'PLATYPUS' H-35 W-45 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635705_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635705_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111850&chid=28976&category=ALL&style=group
+
+### Lot 1021 (chid 28976, cdid 3111851): UNFRAMED ABORIGINAL ACRYLIC ON...
+
+**Status:** not researched yet. Closes 11/11/2026 5:40:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** UNFRAMED ABORIGINAL ACRYLIC ON CANVAS 'TURTLE & SERPENT' H-32 W-42 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635706_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635706_2.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111851&chid=28976&category=ALL&style=group
+
+### Lot 664 (chid 28975, cdid 3110926): SIGNED GLEN CAMPBELL STUDIO PO...
+
+**Status:** not researched yet. Closes 11/11/2026 3:41:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** SIGNED GLEN CAMPBELL STUDIO POTTERY BOWL DIA-24 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1634969_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1634969_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1634969_3.jpg) [4](https://armitage.bidsonline.com.au/images/products/1634969_4.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110926&chid=28975&category=ALL&style=group
+
+### Lot 871 (chid 28975, cdid 3111133): TAXIDERMY MOUNTED HAZEL GROUSE...
+
+**Status:** not researched yet. Closes 11/11/2026 4:50:00 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** TAXIDERMY MOUNTED HAZEL GROUSE H-26 CM
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635176_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1635176_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1635176_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111133&chid=28975&category=ALL&style=group
+
+### Lot 929 (chid 28975, cdid 3111191): VINTAGE GOLD PART SPECTACLES, ...
+
+**Status:** not researched yet. Closes 11/11/2026 5:09:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** VINTAGE GOLD PART SPECTACLES, ACID TEST 9CT BUT MAY BE PLATED & CORKSCREW HANDLE
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1635234_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111191&chid=28975&category=ALL&style=group
+
+### Lot 1441 (chid 28977, cdid 3112346): VINTAGE RAPIER BLADE FISHING R...
+
+**Status:** not researched yet. Closes 11/11/2026 7:59:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** VINTAGE RAPIER BLADE FISHING ROD
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636201_1.jpg) [2](https://armitage.bidsonline.com.au/images/products/1636201_2.jpg) [3](https://armitage.bidsonline.com.au/images/products/1636201_3.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112346&chid=28977&category=ALL&style=group
+
+### Lot 1706 (chid 28977, cdid 3112427): 3 VINTAGE IRONS INCLUDING CHIN...
+
+**Status:** not researched yet. Closes 11/11/2026 9:26:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** 3 VINTAGE IRONS INCLUDING CHINESE SLEEVE IRON
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636282_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112427&chid=28977&category=ALL&style=group
+
+### Lot 1709 (chid 28977, cdid 3112430): OLD IRONS INCLUDING CHINESE PA...
+
+**Status:** not researched yet. Closes 11/11/2026 9:27:20 PM ADST.
+**What it is:** not identified yet: see the catalogue line and photos
+**Catalogue says:** OLD IRONS INCLUDING CHINESE PAN IRON
+**Found so far:** nothing yet: new to this round
+**Photos:** [1](https://armitage.bidsonline.com.au/images/products/1636285_1.jpg)
+**Lot page (read only):** https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112430&chid=28977&category=ALL&style=group
