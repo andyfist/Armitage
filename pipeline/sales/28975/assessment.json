@@ -18,8 +18,8 @@
   "PASS": 11,
   "CHROME": 35,
   "FAIL": 92,
-  "DROP": 5,
-  "NOT RESEARCHED": 1
+  "DROP": 6,
+  "NOT RESEARCHED": 0
  },
  "lots": [
   {
@@ -1962,11 +1962,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 3:50:40 PM ADST",
-   "identification": "Oak serving tray (about 53 x 36 cm) with moulded rim, hand painted with a realistic seated thylacine seen from behind. Lot title attributes it to Alison Cooper-White; no signature visible in the single photo and the back is not shown. I could not find any artist of that name linked to thylacine art on the web, so the attribution is unverified. Closest known name is a Tasmanian 'Alison Cooper' who painted a table centre at Gowans.",
+   "identification": "Oak serving tray with hand-painted thylacine, attributed in title to Alison Cooper-White (unverified)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: 'thylacine painted tray' and 'Tasmanian tiger painted wood tray'; also Trove/Google Images for 'Alison Cooper-White' thylacine",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 55.0,
@@ -4237,11 +4237,11 @@
    "current_bid": 80.0,
    "bid_count": 3,
    "close": "11/11/2026 4:08:40 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Modern Tasmanian blackwood jewellery box with hand-painted thylacine on lid, maker unknown",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4249,8 +4249,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -5604,11 +5604,11 @@
    "current_bid": 20.0,
    "bid_count": 1,
    "close": "11/11/2026 4:34:00 PM ADST",
-   "identification": "Lot of used early Australian stamps in two stock books and loose stock pages: Kangaroo and Map issues (blue, chestnut, violet, green, grey, olive) plus many hundreds of used KGV heads (green, red, pink, orange, violet) including blocks and multiples. Photos show mostly common values; no single high-value stamp identifiable at contact-sheet resolution.",
+   "identification": "Lot of used early Australian stamps in stock books: Kangaroo and Map issues and many used KGV heads (per brief; pre-existing pricing of A$25 at Gowans Hobart Dec 2025 and Jan 2026 not re-verified by me)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: Australia used Kangaroo stamps lot collection stock book; also KGV head used collection lot",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 25.0,
