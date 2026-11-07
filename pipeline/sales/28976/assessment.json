@@ -1,7 +1,7 @@
 {
  "chid": "28976",
  "name": "ONLINE AUCTION 11TH NOVEMBER LOTS 996 - 1398",
- "assessed": "2026-11-06",
+ "assessed": "2026-11-07",
  "rule": {
   "chid": "28976",
   "profit": 200,
@@ -15,10 +15,10 @@
  "scanned": 354,
  "candidates": 68,
  "counts": {
-  "PASS": 12,
-  "CHROME": 16,
-  "FAIL": 33,
-  "DROP": 6,
+  "PASS": 5,
+  "CHROME": 52,
+  "FAIL": 7,
+  "DROP": 3,
   "NOT RESEARCHED": 1
  },
  "lots": [
@@ -41,11 +41,29 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
+   "paid": [
+    {
+     "aud_price": 80.0,
+     "date": "2025-12-14",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 383351",
+     "same_item": "category guide",
+     "note": "Weak comp: set of 5 generic rustic chairs, not branch-frame or burl. Local database; premium extra."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2025-11-11",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=macrocarpa",
+     "same_item": "category guide",
+     "note": "Raw timber only, shows macrocarpa slab raw material value. Not a chair. Premium extra."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -63,32 +81,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold items: 'Persian Senneh rug 220x115' and 'Persian Kurdish village rug 7x4' (Australia); also Invaluable/LiveAuctioneers 'Senneh rug' sold results, Australian houses, last 24 months.",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 330.0,
-     "date": "2025-11-17",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "Hand-knotted Persian Kurdish village rug (Kolyai), size not checked. Premium extra. Local database record, page not opened by me. Same Kurdish village class, decent comparison."
-    },
-    {
-     "aud_price": 260.0,
-     "date": "2025-12-08",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "Persian Kurdish village rug (Kolyai). Premium extra. Local database record, page not opened by me. Same class, one of the lower results."
-    },
-    {
-     "aud_price": 170.0,
-     "date": "2026-05-24",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "Persian Kurdish village rug (Kolyai). Premium extra. Local database record, page not opened by me. Low end of the village rug range."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -109,11 +102,61 @@
      "note": "Takpood Senneh, c1965, 150x115. Snippet only, not verified. Dealer-style estimate, very likely far above what a plain village Senneh makes in Tasmania; treat as ceiling-type noise."
     }
    ],
-   "resale": 260.0,
-   "net_resale": 221.0,
-   "max_hammer": 15,
-   "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $260; less 15% fees = $221; less $200 profit, / 1.22 premium = max hammer $15",
+   "paid": [
+    {
+     "aud_price": 330.0,
+     "date": "2025-11-17",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Hand-knotted Persian Kurdish village rug (Kolyai), size not checked. Premium extra. Local database record, page not opened by me. Same Kurdish village class, decent comparison."
+    },
+    {
+     "aud_price": 260.0,
+     "date": "2025-12-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Persian Kurdish village rug (Kolyai). Premium extra. Local database record, page not opened by me. Same class, one of the lower results."
+    },
+    {
+     "aud_price": 320.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Persian Kurdish village rug (Kolyai), 305x115 runner. Premium extra. Local database record, page not opened by me. Runner, so somewhat less useful."
+    },
+    {
+     "aud_price": 170.0,
+     "date": "2026-05-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Persian Kurdish village rug (Kolyai). Premium extra. Local database record, page not opened by me. Low end of the village rug range."
+    },
+    {
+     "aud_price": 400.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "PERSIAN RUG 230x170 cm, 9 bids. Grade unstated. Premium extra. Local database record, page not opened by me. Larger, similar generic Persian; no Senneh named."
+    },
+    {
+     "aud_price": 300.0,
+     "date": "2026-09-06",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Hand knotted Persian Baluchi rug 175x100, 5 bids. Premium extra. Local database record, page not opened by me. Tribal Baluchi, smaller, category guide only."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -131,7 +174,20 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 2500.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Madeline Gordon Gallery, Launceston",
+     "url": "https://madelinegordongallery.com.au/shop/",
+     "same_item": "category guide",
+     "note": "Recent retail for the artist's current large mixed-media/oil works. snippet only, not verified. Gallery prices, not paid prices."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 190.0,
      "date": "2026-09-09",
@@ -155,25 +211,29 @@
      "url": "https://armitage.bidsonline.com.au/ (sale 28328 lot 974, via local comps.py)",
      "same_item": "close",
      "note": "Viney oil, enamel, acrylic, charcoal on canvas 'Legacy of Empire, Ruins & Fragments I', 152 x 92 cm. Gallery lists the pair at $5,500 each, so auction is a small fraction of retail. Page not opened."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
+    },
     {
-     "aud_price": 2500.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Madeline Gordon Gallery, Launceston",
-     "url": "https://madelinegordongallery.com.au/shop/",
+     "aud_price": 195.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions sale 28840 lots 1018 and 1019",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089311&chid=28840&category=ALL&style=group",
      "same_item": "category guide",
-     "note": "Recent retail for the artist's current large mixed-media/oil works. snippet only, not verified. Gallery prices, not paid prices."
+     "note": "Large mixed media on canvas works, 137 x 122 and 183 x 122 cm. aud_price is the midpoint. Local database; page not opened. Another 'Impenetrable Wall' canvas made $50 (lot 962)."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-07 to 2026-10",
+     "venue": "Armitage Auctions Launceston (many lots, local comps.py)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089256&chid=28840&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Mostly small studies and groups; top single lot was $510 (not itemised in output). Shows Viney sells cheaply at Armitage, many lots from one estate/bulk clearance, so supply is high."
     }
    ],
-   "resale": 160.0,
-   "net_resale": 136.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -195,6 +255,7 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -221,11 +282,37 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
+   "paid": [
+    {
+     "aud_price": 130.0,
+     "date": "2026-03-01 (listing date)",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=landscape+oil",
+     "same_item": "category guide",
+     "note": "FRAMED OIL - IMPRESSIONIST LANDSCAPE, unsigned-style generic lot; JSON API result, page opened; premium extra."
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2026-08-03 (listing date)",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oil+painting+framed+landscape+signed",
+     "same_item": "category guide",
+     "note": "FRAMED OIL PAINTING - LANDSCAPE - UNSIGNED - NO GLASS; page opened (API); premium extra."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-01 to 2026-05",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=landscape+oil",
+     "same_item": "category guide",
+     "note": "Several signed or initialled amateur landscape oils (Freeland $65, Burggraf $110, MH $120, Inman $70); range only, signed minor artists, API opened."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -243,7 +330,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 50.0,
      "date": "2026-02-23",
@@ -269,14 +360,11 @@
      "note": "Sibley limited edition print, image not identified. Gowans API listing."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 50.0,
-   "net_resale": 42.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -405,6 +493,7 @@
      "note": "David Rose Hibiscus, print, signed and numbered 31/80, sheet 760 x 560mm, undated. Retail dealer asking price. Page opened."
     }
    ],
+   "paid": [],
    "resale": 325.0,
    "net_resale": 276.25,
    "max_hammer": 60,
@@ -431,6 +520,7 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -466,6 +556,7 @@
    ],
    "unsold": [],
    "asking": [],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -499,6 +590,32 @@
      "url": "https://alisoncooperwhite.com/",
      "same_item": "close",
      "note": "Page opened. Artist's own asking prices for small paintings on recycled or Huon pine wood. Smaller than lot; no thylacine or burl listed. Shows her wood works ask $120-160 at retail; the lot is larger."
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 240.0,
+     "date": "2026-07-26",
+     "venue": "Gowans Auctions, Hobart (lot 426048)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine+print",
+     "same_item": "category guide",
+     "note": "Via local comps database. Framed Gould/Richter thylacine print, not original art; shows thylacine premium for prints ($60-240). Hammer, premium extra."
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2026-05-17",
+     "venue": "Gowans Auctions, Hobart (lot id 409939)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=thylacine",
+     "same_item": "category guide",
+     "note": "Via local comps database. Bill Flowers signed oil on board, quoll vs thylacine, 7 bids. Closest original thylacine painting comp; a signed oil by a minor local artist."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-01-19",
+     "venue": "Gowans Auctions, Hobart (lot id 384373)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian+tiger",
+     "same_item": "category guide",
+     "note": "Via local comps database. Paper mache thylacine by Tasmanian artist Lindsay Arnold, 2 bids. Weak demand for minor local decorative thylacine objects."
     }
    ],
    "resale": 0,
@@ -536,6 +653,48 @@
      "note": "Snippet only: abstract rugs in wool and bamboo silk or viscose; no price or size seen. US page showed Entropy wool/silk 8x10 ft at USD 5,760 (snippet only, not verified, not converted). Retail guide only, not a price paid."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 1600.0,
+     "date": "2026-05-31",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rug&page%5Bnumber%5D=4",
+     "same_item": "category guide",
+     "note": "Gowans lot 413299: large room size handmade Persian Kashmar rug 390 x 315 cm, 5 bids. Traditional, not contemporary, but similar size; shows ceiling for large wool carpets at Hobart. From local results database (snippet only, page not opened); AUD so no conversion."
+    },
+    {
+     "aud_price": 1250.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian%20vis&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Gowans lot 414885: pure wool hand-knotted Persian Vis rug 320 x 220 cm, 14 bids. Traditional design. From local results database (snippet only, page not opened); AUD so no conversion."
+    },
+    {
+     "aud_price": 800.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian+nain",
+     "same_item": "category guide",
+     "note": "Gowans lot 424506: Persian Nain vintage silk inlaid rug 310 x 202 cm, 13 bids. Closest in being silk-inlaid, but smaller and Persian. From local results database (snippet only, page not opened); AUD so no conversion."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-08-09",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=jaipur",
+     "same_item": "close",
+     "note": "Gowans lot 429342: Jaipur modern rug 143 x 237 cm, 6 bids. Same origin and modern style but small and no silk mentioned; floor signal. From local results database (snippet only, page not opened); AUD so no conversion."
+    },
+    {
+     "aud_price": 630.0,
+     "date": "2026-08-23",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=afghan+chobi",
+     "same_item": "category guide",
+     "note": "Gowans lot 432598: modern Afghan chobi 297 x 238 cm. Modern hand-knotted wool, similar size band, plain design; typical modern wool rug level $330-630. From local results database (snippet only, page not opened); AUD so no conversion."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -558,7 +717,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 250.0,
      "date": "2026-01-19",
@@ -568,22 +731,51 @@
      "note": "8 door astragal glass bookcase, replaced shelves, one door detached; 2 bids. Larger, flawed. API record. Gowans/Albion hammer, premium extra; AUD, rate 1."
     },
     {
+     "aud_price": 160.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/418110/",
+     "same_item": "category guide",
+     "note": "2 door glass front bookcase/display, small Art Deco style; 5 bids. Gowans/Albion hammer, premium extra; AUD, rate 1."
+    },
+    {
      "aud_price": 120.0,
      "date": "2026-08-30",
      "venue": "Gowans Hobart",
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/434493/",
      "same_item": "close",
      "note": "2 door glass top bookcase on 2 door base, mismatched; 5 bids. Gowans/Albion hammer, premium extra; AUD, rate 1."
+    },
+    {
+     "aud_price": 420.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Moonah",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/442151/",
+     "same_item": "category guide",
+     "note": "19th C cedar and mahogany 4 door glass top bookcase, some damage; older and better timber. Gowans/Albion hammer, premium extra; AUD, rate 1."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2026-07-26",
+     "venue": "Gowans Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/426342/",
+     "same_item": "category guide",
+     "note": "Plain oak bookcase, 23 bids; shows demand for oak bookcases but not glazed. Gowans/Albion hammer, premium extra; AUD, rate 1."
+    },
+    {
+     "aud_price": 300.0,
+     "date": "2026-02-01",
+     "venue": "Gowans Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/388297/",
+     "same_item": "category guide",
+     "note": "Oak 2 door bookcase, 8 bids. Gowans/Albion hammer, premium extra; AUD, rate 1."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 185.0,
-   "net_resale": 157.25,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $185 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -601,7 +793,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 260.0,
      "date": "2026-08-30",
@@ -657,16 +853,21 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=extension+dining+table&page%5Bnumber%5D=1 (lot id 369239)",
      "same_item": "close",
      "note": "19th c extension table on reeded legs and castors, 2 bids; low end. Page opened (API JSON), premium extra, AUD so no rate."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart, lot id 440830",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=extension+dining+table&page%5Bnumber%5D=1 (lot id 440830)",
+     "same_item": "category guide",
+     "note": "Twin pedestal mahogany extension table, 1 leaf, 1 bid; different style, low end. Page opened (API JSON), premium extra, AUD so no rate."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 190.0,
-   "net_resale": 161.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $190 does not clear the current bid $100",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -684,24 +885,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold: \"victorian rosewood balloon back dining chairs set of 8\" (Australia and UK); also LiveAuctioneers/Invaluable sold: \"set of eight rosewood balloon back chairs\"",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 260.0,
-     "date": "2026-09-06",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=balloon+back+dining+chairs (lot id 436196)",
-     "same_item": "close",
-     "note": "5 cedar 19th C balloon backs, 7 bids, hammer, premium extra. Set of 5 not 8, cedar. Local comps database row, page not opened."
-    },
-    {
-     "aud_price": 180.0,
-     "date": "2025-11-03",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=balloon+back+dining+chairs (lot id 372475)",
-     "same_item": "close",
-     "note": "Set of 4 19th C balloon back, 4 bids. Hammer. Database row only."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -730,11 +914,53 @@
      "note": "Dealer retail, set of 8 rosewood c.1860, listed sold. Snippet only. Retail, not a price paid at auction. Rate USD1=AUD1.5."
     }
    ],
-   "resale": 220.0,
-   "net_resale": 187.0,
+   "paid": [
+    {
+     "aud_price": 260.0,
+     "date": "2026-09-06",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=balloon+back+dining+chairs (lot id 436196)",
+     "same_item": "close",
+     "note": "5 cedar 19th C balloon backs, 7 bids, hammer, premium extra. Set of 5 not 8, cedar. Local comps database row, page not opened."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2025-11-03",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=balloon+back+dining+chairs (lot id 372475)",
+     "same_item": "close",
+     "note": "Set of 4 19th C balloon back, 4 bids. Hammer. Database row only."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2026-08-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=edwardian+dining+chairs (lot id 434542)",
+     "same_item": "category guide",
+     "note": "Set of 8 Edwardian chairs, 3 bids. Hammer. Much lower quality."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-04-26",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=balloon+back+chairs (lot id 405613)",
+     "same_item": "category guide",
+     "note": "Set of 8 reeded leg balloon backs leather, 2 bids. Hammer, plain reproduction-type. Shows how low plain sets of 8 sell."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-02-05",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=balloon+back+chairs (lot id 388992)",
+     "same_item": "category guide",
+     "note": "Set of 6 Victorian mahogany balloon back, some damage. Hammer."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $220 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -752,24 +978,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold items: \"Liberty Bell\" banjolin OR \"banjo mandolin\" OR \"mandolin banjo\" British, sold listings, last 90 days; also Reverb sold 'banjolin'",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 60.0,
-     "date": "2025-11-24",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 377598, BANJO MANDOLIN)",
-     "same_item": "close",
-     "note": "Local database / Gowans API; maker and condition not stated in title. Premium extra. Same type of instrument, so a floor-ish guide."
-    },
-    {
-     "aud_price": 20.0,
-     "date": "2025-11-24",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 377246, CASED MANDOLIN - NO STRINGS OR BRIDGE - BANJO STYLE)",
-     "same_item": "close",
-     "note": "Incomplete (no strings or bridge), cased. Premium extra. Weaker than this lot."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -790,11 +999,29 @@
      "note": "Snippet only; page fetch failed (503). Estimate, not a result; condition unknown, may be a better instrument. Treat as unreliable and likely high for this lot."
     }
    ],
-   "resale": 40.0,
-   "net_resale": 34.0,
+   "paid": [
+    {
+     "aud_price": 60.0,
+     "date": "2025-11-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 377598, BANJO MANDOLIN)",
+     "same_item": "close",
+     "note": "Local database / Gowans API; maker and condition not stated in title. Premium extra. Same type of instrument, so a floor-ish guide."
+    },
+    {
+     "aud_price": 20.0,
+     "date": "2025-11-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 377246, CASED MANDOLIN - NO STRINGS OR BRIDGE - BANJO STYLE)",
+     "same_item": "close",
+     "note": "Incomplete (no strings or bridge), cased. Premium extra. Weaker than this lot."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $40 does not clear the current bid $30",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -812,7 +1039,29 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
+    {
+     "aud_price": 140.0,
+     "date": "2016-10-17",
+     "venue": "Leski Auctions, Melbourne sale 225 lot 480: folkart cutlery tray, kauri pine, 19th century",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/225",
+     "same_item": "close",
+     "note": "Local database record; old, not recent, shows ceiling for good 19th century folk pieces in Australia."
+    }
+   ],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 1220.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Avery Dash (US dealer): 19th century American green painted pine cutlery tray",
+     "url": "https://www.averydash.com/products/19th-century-american-green-painted-pine-cutlery-tray",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified; rate about 1 USD = 1.53 AUD assumed. US dealer retail for early American painted piece, not comparable to Australian auction hammer."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 25.0,
      "date": "2026-09-06",
@@ -844,34 +1093,21 @@
      "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491171&chid=23991&category=ALL&style=group",
      "same_item": "close",
      "note": "Local database record; smaller pine tray."
-    }
-   ],
-   "sold_old": [
+    },
     {
-     "aud_price": 140.0,
-     "date": "2016-10-17",
-     "venue": "Leski Auctions, Melbourne sale 225 lot 480: folkart cutlery tray, kauri pine, 19th century",
-     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/225",
-     "same_item": "close",
-     "note": "Local database record; old, not recent, shows ceiling for good 19th century folk pieces in Australia."
-    }
-   ],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 1220.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Avery Dash (US dealer): 19th century American green painted pine cutlery tray",
-     "url": "https://www.averydash.com/products/19th-century-american-green-painted-pine-cutlery-tray",
+     "aud_price": 25.0,
+     "date": "2025-06-18",
+     "venue": "Armitage Auctions sale 24218 lot 1527: Pine cutlery tray, Sandpiper",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2535702&chid=24218&category=ALL&style=group",
      "same_item": "category guide",
-     "note": "Snippet only, not verified; rate about 1 USD = 1.53 AUD assumed. US dealer retail for early American painted piece, not comparable to Australian auction hammer."
+     "note": "Local database record; mixed lot, low end."
     }
    ],
-   "resale": 67.5,
-   "net_resale": 57.375,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $68 does not clear the current bid $50",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -889,7 +1125,11 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold: persian mir saraband rug 10x7 (and LiveAuctioneers price-result: Persian Saraband carpet)",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 600.0,
      "date": "2026-07-19",
@@ -897,16 +1137,85 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/424512/",
      "same_item": "close",
      "note": "PERSIAN RUG - 290CM X 198CM, 8 bids. Similar room size Persian rug, condition unknown. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+    },
+    {
+     "aud_price": 460.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/400229/",
+     "same_item": "category guide",
+     "note": "PERSIAN STYLE FLOOR RUG 290X195CM, 7 bids. Persian style, possibly machine made. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+    },
+    {
+     "aud_price": 570.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/400231/",
+     "same_item": "category guide",
+     "note": "PERSIAN STYLE FLOOR RUG 310X220CM, 6 bids. Persian style, possibly machine made. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+    },
+    {
+     "aud_price": 330.0,
+     "date": "2026-08-03",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/427701/",
+     "same_item": "category guide",
+     "note": "PERSIAN SOMAK 297X200CM, 8 bids. Flatweave, different type, same size. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+    },
+    {
+     "aud_price": 340.0,
+     "date": "2026-08-16",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/430940/",
+     "same_item": "category guide",
+     "note": "PERSIAN OVER DYE 285X199CM, 1 bid. Overdyed, one bid only. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+    },
+    {
+     "aud_price": 340.0,
+     "date": "2026-04-13",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/401756/",
+     "same_item": "category guide",
+     "note": "PERSIAN SOMAK 305X184CM, 3 bids. Flatweave. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+    },
+    {
+     "aud_price": 1250.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/414885/",
+     "same_item": "category guide",
+     "note": "PURE WOOL HAND KNOTTED PERSIAN VIS RUG 320X220CM, 14 bids. Described as pure wool hand knotted, strong bidding; upper end. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+    },
+    {
+     "aud_price": 900.0,
+     "date": "2026-02-01",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/387265/",
+     "same_item": "category guide",
+     "note": "LAMBSWOOL HAND KNOTTED PERSIAN SABZEVAR RUG 300X200CM, 6 bids. Hand knotted, upper end. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+    },
+    {
+     "aud_price": 740.0,
+     "date": "2026-03-09",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/395207/",
+     "same_item": "category guide",
+     "note": "LARGE PERSIAN FLOOR RUG 390X300CM, 2 bids. Larger. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
+    },
+    {
+     "aud_price": 300.0,
+     "date": "2026-02-05",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/389577/",
+     "same_item": "category guide",
+     "note": "PERSIAN KASHAN FLOOR RUG approx 4X3M, 8 bids. Larger, low result, probably worn or not fine. Source: local results database (Gowans API record), not a Mir rug itself; page not opened by me."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 600.0,
-   "net_resale": 510.0,
-   "max_hammer": 250,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $600; less 15% fees = $510; less $200 profit, / 1.22 premium = max hammer $250",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -924,16 +1233,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold: 'antique gilt cast iron folding fire screen' and 'ornate brass folding fireplace screen mesh'; also LiveAuctioneers 'gilt folding fire screen'",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 140.0,
-     "date": "2026-06-17",
-     "venue": "Armitage Auctions, Launceston sale 28012 lot 365 (FOLDING FIRESCREEN CIRCA 1915)",
-     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2947814&chid=28012&category=ALL&style=group",
-     "same_item": "close",
-     "note": "Local database hammer, premium extra. Folding firescreen, not confirmed cast or gilt. Comes from comps.py output, not opened."
-    }
-   ],
+   "sold": [],
    "sold_old": [
     {
      "aud_price": 470.0,
@@ -946,11 +1246,53 @@
    ],
    "unsold": [],
    "asking": [],
-   "resale": 140.0,
-   "net_resale": 119.0,
+   "paid": [
+    {
+     "aud_price": 140.0,
+     "date": "2026-06-17",
+     "venue": "Armitage Auctions, Launceston sale 28012 lot 365 (FOLDING FIRESCREEN CIRCA 1915)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2947814&chid=28012&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database hammer, premium extra. Folding firescreen, not confirmed cast or gilt. Comes from comps.py output, not opened."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2025-05-07",
+     "venue": "Armitage Auctions, Launceston sale 23992 lot 1750",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491547&chid=23992&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Metal folding firescreen, plain description, hammer from local database."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2025-10-01",
+     "venue": "Armitage Auctions, Launceston sale 25745 lot 1960",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2656261&chid=25745&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Folding metal firescreen H-84 cm, smaller; hammer from local database."
+    },
+    {
+     "aud_price": 85.0,
+     "date": "2026-05-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 412070",
+     "same_item": "category guide",
+     "note": "CAST FIRESCREEN & FIRESIDE SET, 11 bids, hammer from local database."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2026-01-26",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 385924",
+     "same_item": "category guide",
+     "note": "BRASS PEACOCK FIRE SCREEN, 4 bids; decorative brass single screen, hammer from local database."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $140 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1046,6 +1388,16 @@
     }
    ],
    "asking": [],
+   "paid": [
+    {
+     "aud_price": 25.0,
+     "date": "2025-12-14",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 382750",
+     "same_item": "category guide",
+     "note": "Tasmanian print, Richmond Bridge, Kenneth Jack, hammer $25 (local database). Tasmanian room print price."
+    }
+   ],
    "resale": 320.0,
    "net_resale": 272.0,
    "max_hammer": 55,
@@ -1081,6 +1433,24 @@
      "note": "AASD lists 1997 small acrylics but prices hidden; artrecord returned 429. No price entry. Aggregator snippet: 45 works offered since 1999, 82% sold, recent paintings average about $13,673 (snippet only, unverified)."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 14000.0,
+     "date": "2024-07-04",
+     "venue": "Gowans, Hobart",
+     "url": "gowans id 266371",
+     "same_item": "category guide",
+     "note": "Michael McWilliams oil on canvas 'Dry Lunch'. From local db, not opened. Mature signature oil, far above this lot's likely level."
+    },
+    {
+     "aud_price": 8150.0,
+     "date": "2024-07-11",
+     "venue": "Gowans, Hobart",
+     "url": "gowans id 268026",
+     "same_item": "category guide",
+     "note": "McWilliams oil on pine box. From local db, not opened. Different, more typical work."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -1103,16 +1473,7 @@
    "needs_chrome": false,
    "chrome_hint": "Invaluable or LiveAuctioneers: 'Geoffrey Dyer watercolour gouache' sold results 2024-2026, filter works on paper under 45cm; also eBay sold 'Geoff Dyer watercolour'",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 500.0,
-     "date": "2026-10-04 (listing date)",
-     "venue": "Gowans Auctions, Hobart (gowans id 442159)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=geoff%20dyer",
-     "same_item": "close",
-     "note": "Untitled watercolour and gouache, signed lower right, 69x55.5cm, 7 bids. Local database and Gowans API; hammer, premium extra. Most relevant local comp, same buyer pool, larger sheet than ours but sold only $500."
-    }
-   ],
+   "sold": [],
    "sold_old": [
     {
      "aud_price": 1500.0,
@@ -1151,11 +1512,29 @@
      "note": "Tasmania Coastline I, watercolour 75x115cm. Snippet only; unclear if result or estimate. Not verified."
     }
    ],
-   "resale": 500.0,
-   "net_resale": 425.0,
-   "max_hammer": 180,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $500; less 15% fees = $425; less $200 profit, / 1.22 premium = max hammer $180",
+   "paid": [
+    {
+     "aud_price": 500.0,
+     "date": "2026-10-04 (listing date)",
+     "venue": "Gowans Auctions, Hobart (gowans id 442159)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=geoff%20dyer",
+     "same_item": "close",
+     "note": "Untitled watercolour and gouache, signed lower right, 69x55.5cm, 7 bids. Local database and Gowans API; hammer, premium extra. Most relevant local comp, same buyer pool, larger sheet than ours but sold only $500."
+    },
+    {
+     "aud_price": 7000.0,
+     "date": "2024-12-12",
+     "venue": "Gowans Auctions, Hobart (gowans id 305213)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=geoff%20dyer",
+     "same_item": "category guide",
+     "note": "East Coast Series gouache 54x75.5cm with Queensland collection provenance, 0 bids recorded so hammer may be a recorded post-sale or private figure. Not a good comp for a small loose study; treat as an outlier."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1194,6 +1573,7 @@
     }
    ],
    "asking": [],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -1229,6 +1609,7 @@
      "note": "page opened; same artist, same 183 x 123 cm size and media, no price shown. Gallery retail would be well above auction value."
     }
    ],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -1251,7 +1632,20 @@
    "needs_chrome": false,
    "chrome_hint": "Carters Price Guide https://www.carters.com.au/index.cfm/index/1169-tables-purpose-or-type-pembroke/ then filter for cedar, and eBay Australia sold: 'cedar pembroke table colonial'",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Carters Price Guide",
+     "url": "https://www.carters.com.au/index.cfm/index/1169-tables-purpose-or-type-pembroke/",
+     "same_item": "category guide",
+     "note": "Snippet only (page fetch 429). Lists an early string-inlaid cedar Pembroke c1835, no price seen. Not verified."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 240.0,
      "date": "listed 2026-10-25 (sold about a week later)",
@@ -1275,25 +1669,45 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/380858/",
      "same_item": "close",
      "note": "Dropside table with side drawer, 3 bids. Via Gowans API; condition not checked."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
+    },
     {
-     "aud_price": 0.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Carters Price Guide",
-     "url": "https://www.carters.com.au/index.cfm/index/1169-tables-purpose-or-type-pembroke/",
+     "aud_price": 150.0,
+     "date": "listed 2026-09-27",
+     "venue": "Gowans Auctions, Hobart (premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/441490/",
      "same_item": "category guide",
-     "note": "Snippet only (page fetch 429). Lists an early string-inlaid cedar Pembroke c1835, no price seen. Not verified."
+     "note": "Colonial cedar table base on turned legs, 4 bids. Shows cedar colonial table demand at about $150."
+    },
+    {
+     "aud_price": 330.0,
+     "date": "listed 2026-02-01",
+     "venue": "Gowans Auctions, Hobart (premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/387598/",
+     "same_item": "category guide",
+     "note": "19th century cedar single drawer hall table on blackwood turned legs, 10 bids. Top of the common cedar small-table range."
+    },
+    {
+     "aud_price": 220.0,
+     "date": "listed 2026-02-01",
+     "venue": "Gowans Auctions, Hobart (premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/387585/",
+     "same_item": "category guide",
+     "note": "19th century cedar side table on turned legs, 4 bids."
+    },
+    {
+     "aud_price": 270.0,
+     "date": "listed 2026-07-05",
+     "venue": "Gowans Auctions, Hobart (premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/421276/",
+     "same_item": "category guide",
+     "note": "Colonial cedar console table attributed to Debney, Adelaide, 5 bids."
     }
    ],
-   "resale": 240.0,
-   "net_resale": 204.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $240 does not clear the current bid $150",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1324,6 +1738,64 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
+   "paid": [
+    {
+     "aud_price": 190.0,
+     "date": "2025-07-30",
+     "venue": "Armitage Auctions, Launceston sale 25272 lot 955",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2583233&chid=25272&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Very large old wicker clothes basket H-70 cm, larger than ours; local comps database, snippet only (listing title and hammer). Upper end."
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2026-01-21",
+     "venue": "Armitage Auctions, Launceston sale 27044 lot 554",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2789758&chid=27044&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Wicker laundry basket H-58 cm; comps database, snippet only."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 444416",
+     "same_item": "close",
+     "note": "Large wicker basket; comps database, snippet only."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 418114",
+     "same_item": "close",
+     "note": "Wicker laundry basket with lid 560 x 500 mm, 8 bids; comps database, snippet only."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-08-31",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 435309",
+     "same_item": "close",
+     "note": "Cane laundry basket with lid, 10 bids; comps database, snippet only."
+    },
+    {
+     "aud_price": 25.0,
+     "date": "2026-04-13",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 402800",
+     "same_item": "close",
+     "note": "Cane laundry basket, 3 bids; low end; comps database, snippet only."
+    },
+    {
+     "aud_price": 25.0,
+     "date": "2026-03-25",
+     "venue": "Armitage Auctions, Launceston sale 27486 lot 1134",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2857898&chid=27486&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Wicker clothes basket H-68 cm; comps database, snippet only."
+    }
+   ],
    "resale": 179.29,
    "net_resale": 152.3965,
    "max_hammer": 0,
@@ -1384,6 +1856,16 @@
      "note": "Snippet only, result not seen, 12 years old. 18/19th c Dutch colonial chest with brass mounts on bun feet. Midpoint shown."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 150.0,
+     "date": "June-Aug 2026",
+     "venue": "Gowans Auctions, Hobart (comps.py)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=camphorwood+chest&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Camphorwood chests (ids 430246, 422224, 418663), 6-11 bids each, hammer, premium extra. Plain storage chests, no pierced brass; local floor for a big timber chest."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -1406,7 +1888,20 @@
    "needs_chrome": true,
    "chrome_hint": "eBay sold listings: antique oak pressed back swivel office chair Australia; also Carters/LiveAuctioneers 'pressed back swivel armchair'",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "EBTH",
+     "url": "https://www.ebth.com/items/11023030-late-victorian-oak-pressed-back-swivel-office-armchair-circa-1900",
+     "same_item": "yes",
+     "note": "Same form (late Victorian oak pressed back swivel office armchair c1900) but price not shown in snippet; snippet only. Check sold price on Chrome."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 260.0,
      "date": "2026-09-06",
@@ -1414,6 +1909,22 @@
      "url": "Gowans lot id 436068 (BUTTON BACK SWIVEL OFFICE CHAIR)",
      "same_item": "close",
      "note": "14 bids; no description or photo seen, likely a button-back leather office chair, not pressed back. Best upper marker. Local database hit, page not opened; premium extra."
+    },
+    {
+     "aud_price": 220.0,
+     "date": "2026-08-03",
+     "venue": "Gowans (Hobart)",
+     "url": "Gowans lot id 427826 (OAK CAPTAINS CHAIR)",
+     "same_item": "category guide",
+     "note": "16 bids; oak captain's (smoker's bow) chair, different type but same buyer pool. Local database hit, page not opened; premium extra."
+    },
+    {
+     "aud_price": 120.0,
+     "date": "2026-02-15",
+     "venue": "Gowans (Hobart)",
+     "url": "Gowans lot id 390662 (OAK CAPTAINS CHAIR)",
+     "same_item": "category guide",
+     "note": "7 bids. Local database hit, page not opened; premium extra."
     },
     {
      "aud_price": 80.0,
@@ -1430,25 +1941,29 @@
      "url": "Gowans lot id 440729 (WOODEN SWIVEL OFFICE ARMCHAIR)",
      "same_item": "close",
      "note": "4 bids; wooden swivel office armchair, likely plainer. Local database hit, page not opened; premium extra."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
+    },
     {
-     "aud_price": 0.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "EBTH",
-     "url": "https://www.ebth.com/items/11023030-late-victorian-oak-pressed-back-swivel-office-armchair-circa-1900",
-     "same_item": "yes",
-     "note": "Same form (late Victorian oak pressed back swivel office armchair c1900) but price not shown in snippet; snippet only. Check sold price on Chrome."
+     "aud_price": 170.0,
+     "date": "2026-05-17",
+     "venue": "Gowans (Hobart)",
+     "url": "Gowans lot id 410402 (2 OAK PRESSED BACK CHAIRS)",
+     "same_item": "category guide",
+     "note": "8 bids; pair, so about $85 each; pressed back dining chairs. Local database hit, page not opened; premium extra."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-10-04",
+     "venue": "Gowans (Hobart)",
+     "url": "Gowans lot id 442392 (PRESSED BACK ROCKING CHAIR)",
+     "same_item": "category guide",
+     "note": "2 bids. Local database hit, page not opened; premium extra."
     }
    ],
-   "resale": 80.0,
-   "net_resale": 68.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $55",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -1486,6 +2001,40 @@
      "url": "https://www.carters.com.au/index.cfm/index/11112-urns-planters-and-jardinieres-cast-iron/",
      "same_item": "close",
      "note": "Very similar form and plinth decoration but larger. Snippet only; Carters blocked or rate-limited (429), no price seen. Worth a Chrome check."
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 380.0,
+     "date": "2026-04-19",
+     "venue": "Gowans Auctions, Hobart (gowans lot 404337)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/404337/",
+     "same_item": "category guide",
+     "note": "Large FIBREGLASS garden urn, 6 bids, hammer, premium extra. Not cast iron, shows local demand for big urns. From comps database."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2025-12-08",
+     "venue": "Gowans Auctions, Hobart (pair of cast planters, lot 380728)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/380728/",
+     "same_item": "category guide",
+     "note": "Pair of cast planters, 6 bids, hammer. Material and size unclear; API list result, page not opened."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-06-28",
+     "venue": "Gowans Auctions, Hobart (cast iron planter, lot 419484)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/419484/",
+     "same_item": "category guide",
+     "note": "Single cast iron planter, 12 bids, hammer; probably much smaller than this urn."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2025-12-09",
+     "venue": "Gowans Auctions, Hobart (concrete urn & ornaments, lot 382018)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/382018/",
+     "same_item": "category guide",
+     "note": "Concrete, low end of Hobart urn results; concrete urns typically $25-90."
     }
    ],
    "resale": 0,
@@ -1548,6 +2097,48 @@
      "note": "Snippet only. US dealer retail for early 18th century Spanish carved oak coffers (Fireside $4,450). Rate used about 1 USD = 1.52 AUD, rounded. Likely better quality and restored; retail ceiling only, not realistic for a worn auction lot here."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 570.0,
+     "date": "2026-08-23",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 432828 (https://www.gowansauctions.com.au/backend/api/v1/lots/432828/)",
+     "same_item": "category guide",
+     "note": "TIMBER TRUNK, 8 bids, hammer, premium extra. No description or photos checked, so age and carving unknown; weak comp only. API record opened."
+    },
+    {
+     "aud_price": 620.0,
+     "date": "2026-07-19",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 424793 (https://www.gowansauctions.com.au/backend/api/v1/lots/424793/)",
+     "same_item": "category guide",
+     "note": "OAK LIFT-TOP TRUNK, 10 bids, hammer. No description, so carving and age unknown. Upper end of Gowans oak trunk results."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2026-08-09",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 430298 (https://www.gowansauctions.com.au/backend/api/v1/lots/430298/)",
+     "same_item": "category guide",
+     "note": "WOODEN OAK TRUNK, 12 bids, hammer. Probably plain or later; shows the low end for oak trunks."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2026-06-21",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 418663",
+     "same_item": "category guide",
+     "note": "CARVED CAMPHORWOOD CHEST, 7 bids, hammer. Common Asian camphorwood, far less old than this lot; floor for a carved chest."
+    },
+    {
+     "aud_price": 270.0,
+     "date": "2026-04-19",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 403425",
+     "same_item": "category guide",
+     "note": "19TH CENTURY PAINTED TURKISH PINE TRUNK, 6 bids, hammer. Old Continental/Near East trunk, plainer than this lot."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -1570,7 +2161,28 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Persian Kolyai Koliai Kurdish rug 280 x 155 OR 3m; also Invaluable: Kolyai rug sold Australia 2025-2026",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 1599.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Shoparug (dealer)",
+     "url": "https://www.shoparug.com.au/products/nomadic-persian-koliai-rug",
+     "same_item": "yes",
+     "note": "Vintage Kurdish Koliai 295x155, retail with invented gallery value $4,900; page opened. Asking only, not a price paid."
+    },
+    {
+     "aud_price": 1799.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "RugMaster (dealer)",
+     "url": "https://www.rugmaster.com.au/product/3x1-5m-persian-koliai-kurdish-runner-rug/",
+     "same_item": "yes",
+     "note": "Koliai 295x150, page opened; retail asking with discount coupon banner, inflated. Not a price paid."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 330.0,
      "date": "2025-11-17",
@@ -1626,33 +2238,29 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=zabul&lot=409952",
      "same_item": "close",
      "note": "Zabul 275x150 hand-knotted, almost identical size but different, probably better, type. Premium extra; AUD so no conversion. Local comps database record, page not opened."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 1599.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Shoparug (dealer)",
-     "url": "https://www.shoparug.com.au/products/nomadic-persian-koliai-rug",
-     "same_item": "yes",
-     "note": "Vintage Kurdish Koliai 295x155, retail with invented gallery value $4,900; page opened. Asking only, not a price paid."
     },
     {
-     "aud_price": 1799.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "RugMaster (dealer)",
-     "url": "https://www.rugmaster.com.au/product/3x1-5m-persian-koliai-kurdish-runner-rug/",
-     "same_item": "yes",
-     "note": "Koliai 295x150, page opened; retail asking with discount coupon banner, inflated. Not a price paid."
+     "aud_price": 420.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Hobart, id 400224",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian%20somak&lot=400224",
+     "same_item": "category guide",
+     "note": "Persian Somak (flatweave) 280x184, size guide only. Premium extra; AUD so no conversion. Local comps database record, page not opened."
+    },
+    {
+     "aud_price": 700.0,
+     "date": "2026-02-01",
+     "venue": "Gowans Hobart, id 387268 (9 bids)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian%20rug&lot=387268",
+     "same_item": "category guide",
+     "note": "Hand knotted Persian floor rug 285x185, larger, upper end for a 280 size; condition unknown. Premium extra; AUD so no conversion. Local comps database record, page not opened."
     }
    ],
-   "resale": 320.0,
-   "net_resale": 272.0,
-   "max_hammer": 55,
-   "status": "PASS",
-   "why": "7 same-item SOLD price(s), median $320; less 15% fees = $272; less $200 profit, / 1.22 premium = max hammer $55",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1670,7 +2278,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 300.0,
      "date": "2026-02-05",
@@ -1694,16 +2306,37 @@
      "url": "gowans id 424506",
      "same_item": "close",
      "note": "Persian Nain vintage silk inlaid 310x202 cm, 13 bids; finer Nain with silk, likely better than this lot. Premium extra."
+    },
+    {
+     "aud_price": 330.0,
+     "date": "2026-08-03",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 427701",
+     "same_item": "category guide",
+     "note": "Persian Somak 297x200 cm, 8 bids; flatweave, different type but similar size."
+    },
+    {
+     "aud_price": 340.0,
+     "date": "2026-08-16",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 430940",
+     "same_item": "category guide",
+     "note": "Persian over-dye 285x199 cm, 1 bid; overdyed, weak competition."
+    },
+    {
+     "aud_price": 400.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 424513",
+     "same_item": "category guide",
+     "note": "Persian rug 230x170 cm, 9 bids; smaller."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 600.0,
-   "net_resale": 510.0,
-   "max_hammer": 250,
-   "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $600; less 15% fees = $510; less $200 profit, / 1.22 premium = max hammer $250",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1721,7 +2354,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 280.0,
      "date": "2026-08-30",
@@ -1787,14 +2424,11 @@
      "note": "Edwardian chaise lounge, 4 bids. Gowans API JSON opened (no conversion, AUD)."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 130.0,
-   "net_resale": 110.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $100",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1812,7 +2446,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 180.0,
      "date": "2026-05-03",
@@ -1830,6 +2468,30 @@
      "note": "Set of 8 Edwardian dining chairs, 3 bids; timber not stated. Page not opened; Gowans API record read (hammer, premium extra); AUD, no conversion. "
     },
     {
+     "aud_price": 120.0,
+     "date": "2026-07-26",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=set%20of%208%20dining%20chairs&page%5Bnumber%5D=1 (lot id 426442)",
+     "same_item": "category guide",
+     "note": "Set of 8 dining chairs, unspecified style, 3 bids. Page not opened; Gowans API record read (hammer, premium extra); AUD, no conversion. "
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-04-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=set%20of%208%20dining%20chairs&page%5Bnumber%5D=1 (lot id 403636)",
+     "same_item": "category guide",
+     "note": "Set of 8 dining chairs, unspecified, 6 bids. Page not opened; Gowans API record read (hammer, premium extra); AUD, no conversion. "
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-08-23",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=set%20of%208%20dining%20chairs&page%5Bnumber%5D=1 (lot id 432970)",
+     "same_item": "category guide",
+     "note": "Set of 8 reproduction dining chairs, 2 bids. Page not opened; Gowans API record read (hammer, premium extra); AUD, no conversion. "
+    },
+    {
      "aud_price": 165.0,
      "date": "2026-03-16",
      "venue": "Gowans Auctions, Hobart",
@@ -1844,16 +2506,29 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=set%20of%208%20dining%20chairs&page%5Bnumber%5D=1 (lot id 418281)",
      "same_item": "close",
      "note": "Set of 4 blackwood Pipers Truline dining chairs, 7 bids. Page not opened; Gowans API record read (hammer, premium extra); AUD, no conversion. "
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=set%20of%208%20dining%20chairs&page%5Bnumber%5D=1 (lot id 444183)",
+     "same_item": "category guide",
+     "note": "Set of 4 blackwood dining chairs, 5 bids. Page not opened; Gowans API record read (hammer, premium extra); AUD, no conversion. "
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2025-10-13",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=set%20of%208%20dining%20chairs&page%5Bnumber%5D=1 (lot id 368101)",
+     "same_item": "category guide",
+     "note": "Set of 6 blackwood dining room chairs, 3 bids. Page not opened; Gowans API record read (hammer, premium extra); AUD, no conversion. "
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 172.5,
-   "net_resale": 146.625,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $172 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1925,6 +2600,7 @@
      "note": "Page opened. Bretby monkey and walnuts centrepiece dish, c1890, sunburst mark, excellent. Different, more desirable form at dealer retail; an asking price, not a price paid."
     }
    ],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -1947,16 +2623,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold items: oak ice chest (also 'timber ice box' and 'Glacier De Luxe ice chest'), Australia only, sold filter",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 25.0,
-     "date": "2025-10-19",
-     "venue": "Gowans (Hobart)",
-     "url": "gowans id 369505 (comps database)",
-     "same_item": "close",
-     "note": "Titled VINTAGE ICE CHEST, 2 bids. Condition unknown, likely plain/unrestored. Premium extra. Database row only."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [
     {
@@ -1994,11 +2661,45 @@
      "note": "Page opened. Vintage oak two-compartment ice chest 102 x 61 x 41.5 cm, good original condition, sold out. No price visible, so no value taken."
     }
    ],
-   "resale": 25.0,
-   "net_resale": 21.25,
+   "paid": [
+    {
+     "aud_price": 25.0,
+     "date": "2025-10-19",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 369505 (comps database)",
+     "same_item": "close",
+     "note": "Titled VINTAGE ICE CHEST, 2 bids. Condition unknown, likely plain/unrestored. Premium extra. Database row only."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-02-01",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 388105 (comps database)",
+     "same_item": "category guide",
+     "note": "EVAKOOL ICE BOX, 6 bids. Evakool is a later portable cooler, not a timber cork-packed chest. Premium extra. Database row only."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-06-14",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 417404 (comps database)",
+     "same_item": "category guide",
+     "note": "REJUVEN8 ICE CHEST & METAL LIGHT FITTING, 3 bids; lot combined with a light fitting, unclear type. Premium extra."
+    },
+    {
+     "aud_price": 15.0,
+     "date": "2025-12-03",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 380204 (comps database)",
+     "same_item": "category guide",
+     "note": "WHITE ICE BOX, 1 bid; probably a modern or enamel box, not comparable. Premium extra."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $25 does not clear the current bid $40",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2038,6 +2739,40 @@
      "note": "Snippet only. c1890 cedar hall table, 88 cm, one drawer. Dealer asking, not a sale; shows small cedar hall tables are cheap."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 570.0,
+     "date": "2026-05-17",
+     "venue": "Gowans, Hobart (lot id 410186, 13 bids)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cedar+6+drawer",
+     "same_item": "category guide",
+     "note": "Cedar book press on 6 drawer stand. Not a table; shows six-drawer cedar pieces can reach $500+. From local database, not opened."
+    },
+    {
+     "aud_price": 330.0,
+     "date": "2026-02-01",
+     "venue": "Gowans, Hobart (lot id 387598, 10 bids)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cedar+table+drawers",
+     "same_item": "category guide",
+     "note": "19th century cedar single drawer hall table with 2 false drawers, blackwood turned legs. Far smaller. Re-confirmed via Gowans API."
+    },
+    {
+     "aud_price": 290.0,
+     "date": "2025-11-03",
+     "venue": "Gowans, Hobart (lot id 372288, 5 bids)",
+     "url": "gowans id 372288",
+     "same_item": "category guide",
+     "note": "Cedar 2 drawer hall table. Small. Local database only."
+    },
+    {
+     "aud_price": 230.0,
+     "date": "2026-05-03",
+     "venue": "Gowans, Hobart (lot id 406835, 8 bids)",
+     "url": "gowans id 406835",
+     "same_item": "category guide",
+     "note": "Cedar 2 drawer hall table on stretcher base. Small. Local database only."
+    }
+   ],
    "resale": 300.0,
    "net_resale": 255.0,
    "max_hammer": 45,
@@ -2060,7 +2795,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 88674 - Gormanston, NSW (interstate, seen in 46 sales). Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 45.0,
      "date": "2026-08-09 sale (listing created)",
@@ -2078,14 +2817,11 @@
      "note": "Named maker set, 1 bid; page opened via API; premium extra."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 40.0,
-   "net_resale": 34.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $40 does not clear the current bid $10",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -2103,24 +2839,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'bamboo silk rug hand knotted wool 360x270' and 'jaipur rug wool bamboo silk 3.6 x 2.7'; also Invaluable/LiveAuctioneers 'wool bamboo silk hand knotted rug 12x9' sold in Australia",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 130.0,
-     "date": "2026-08-09 (listed)",
-     "venue": "Gowans Auctions, Hobart, lot 429342 JAIPUR MODERN RUG 143X237CM",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=jaipur",
-     "same_item": "close",
-     "note": "From local database / Gowans API (page not opened). Jaipur modern rug, much smaller (3.4 sq m vs about 9.9 sq m). 6 bids. Premium extra. Rate: AUD."
-    },
-    {
-     "aud_price": 420.0,
-     "date": "2026-09-06",
-     "venue": "Gowans Auctions, new hand-knotted Serapi Heriz wool carpet 368x276cm",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rug&page%5Bnumber%5D=6",
-     "same_item": "close",
-     "note": "Local database. Same size (368x276) new hand-knotted wool carpet; same carpet re-sold 31 May $1,600 and 8 Jun $1,250 (hammer, premium extra), so a new room-size hand-knotted carpet can reach well above $400 at Hobart. Traditional design, not bamboo silk."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [
     {
@@ -2150,11 +2869,53 @@
      "note": "Snippet only, not verified. Asking prices, used rugs, usually negotiated down a lot."
     }
    ],
-   "resale": 275.0,
-   "net_resale": 233.75,
-   "max_hammer": 25,
-   "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $275; less 15% fees = $234; less $200 profit, / 1.22 premium = max hammer $25",
+   "paid": [
+    {
+     "aud_price": 130.0,
+     "date": "2026-08-09 (listed)",
+     "venue": "Gowans Auctions, Hobart, lot 429342 JAIPUR MODERN RUG 143X237CM",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=jaipur",
+     "same_item": "close",
+     "note": "From local database / Gowans API (page not opened). Jaipur modern rug, much smaller (3.4 sq m vs about 9.9 sq m). 6 bids. Premium extra. Rate: AUD."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2026-04-13 (listed)",
+     "venue": "Gowans Auctions, lot 401758 INDIAN MODERN RUG 230x160",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=modern+rug",
+     "same_item": "category guide",
+     "note": "Gowans API. Small Indian modern rug, 1 bid. Premium extra."
+    },
+    {
+     "aud_price": 150.0,
+     "date": "2026-10-11 (listed)",
+     "venue": "Gowans Auctions, lot 444013 MODERN TURKISH RUG 160x230",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=modern+rug",
+     "same_item": "category guide",
+     "note": "Gowans API. Small modern machine/hand rug, 3 bids. Premium extra."
+    },
+    {
+     "aud_price": 630.0,
+     "date": "2026-08-23",
+     "venue": "Gowans Auctions, lot 432598 AFGHAN CHOBI 297x238cm",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=afghan+chobi&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Local database. Hand-knotted Afghan chobi, similar size, wool, not decorator silk. Chobi range for 2.4-3 m rugs $330-$630. Premium extra."
+    },
+    {
+     "aud_price": 420.0,
+     "date": "2026-09-06",
+     "venue": "Gowans Auctions, new hand-knotted Serapi Heriz wool carpet 368x276cm",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=rug&page%5Bnumber%5D=6",
+     "same_item": "close",
+     "note": "Local database. Same size (368x276) new hand-knotted wool carpet; same carpet re-sold 31 May $1,600 and 8 Jun $1,250 (hammer, premium extra), so a new room-size hand-knotted carpet can reach well above $400 at Hobart. Traditional design, not bamboo silk."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2176,11 +2937,29 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
+   "paid": [
+    {
+     "aud_price": 35.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440869/",
+     "same_item": "category guide",
+     "note": "Wagner & Ryder wash jug basin set, 1 bid; hammer, premium extra. Local database; page not opened. Not flow blue, category guide only."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-08-09",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/429505/",
+     "same_item": "category guide",
+     "note": "White Victorian jug and basin, 4 bids; hammer. Local database; plain, not flow blue."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -2198,7 +2977,20 @@
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: \"set of 5 elm beech kitchen chairs\" and \"antique elm beech lathe back chairs set\"",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "loveantiques.com UK dealer aggregator (beech and elm category)",
+     "url": "https://www.loveantiques.com/antique-chairs/beech-and-elm",
+     "same_item": "category guide",
+     "note": "Snippet-level category page, UK retail asking, not a price paid; page opened but individual set prices not verified. Not applicable to Tasmanian hammer values."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 115.0,
      "date": "2025-12-02",
@@ -2232,23 +3024,11 @@
      "note": "6 assorted oak cottage chairs with rattan seats, 2 damaged. Seven bids, different pattern and damaged. Page opened: no, API/comps database record."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 0.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "loveantiques.com UK dealer aggregator (beech and elm category)",
-     "url": "https://www.loveantiques.com/antique-chairs/beech-and-elm",
-     "same_item": "category guide",
-     "note": "Snippet-level category page, UK retail asking, not a price paid; page opened but individual set prices not verified. Not applicable to Tasmanian hammer values."
-    }
-   ],
-   "resale": 137.5,
-   "net_resale": 116.875,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $138 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2266,7 +3046,20 @@
    "needs_chrome": false,
    "chrome_hint": "Carters price guide: https://www.carters.com.au/index.cfm/index/12011-tables-large-dining-extending-australian-incl-cedar/ (sold cedar extension tables with 2+ leaves, note size and year)",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 1200.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Gumtree Tasmania",
+     "url": "https://www.gumtree.com.au/s-dining-tables/tas/dining+table/k0c20080l3008843",
+     "same_item": "category guide",
+     "note": "Snippet only, unverified, different form (oval). Private asking price, not a price paid."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 250.0,
      "date": "2026-10-04",
@@ -2332,23 +3125,11 @@
      "note": "Low end of group, local database record, page not opened."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 1200.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Gumtree Tasmania",
-     "url": "https://www.gumtree.com.au/s-dining-tables/tas/dining+table/k0c20080l3008843",
-     "same_item": "category guide",
-     "note": "Snippet only, unverified, different form (oval). Private asking price, not a price paid."
-    }
-   ],
-   "resale": 200.0,
-   "net_resale": 170.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $200 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2366,7 +3147,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 260.0,
      "date": "2025-11-17",
@@ -2432,14 +3217,11 @@
      "note": "ROUND PEDESTAL TABLE ON CLAW FEET & CASTERS. 5 bids. Premium 19.8% extra. Date is listing date (sale about a week later). Seen via local comps database/Gowans API."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 72.5,
-   "net_resale": 61.625,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $72 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -2457,7 +3239,28 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 2250.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Gumtree listing (round cedar table, lion claw feet, 74 cm dia)",
+     "url": "https://www.gumtree.com.au/s-antiques/antique+cedar+dining+table/k0c20038",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified; much smaller table, retail ask."
+    },
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Carters price guide, Australian cedar dining tables",
+     "url": "https://www.carters.com.au/index.cfm/index/10477-tables-material-australian-cedar/",
+     "same_item": "category guide",
+     "note": "Snippet only; very broad range, not specific."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 625.0,
      "date": "2026-06-21",
@@ -2515,31 +3318,11 @@
      "note": "Gowans 19th c cedar tilt-top table on pedestal and tripod, top blistered, 1 bid; weak condition, low end. Seen via Gowans API search."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 2250.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Gumtree listing (round cedar table, lion claw feet, 74 cm dia)",
-     "url": "https://www.gumtree.com.au/s-antiques/antique+cedar+dining+table/k0c20038",
-     "same_item": "category guide",
-     "note": "Snippet only, not verified; much smaller table, retail ask."
-    },
-    {
-     "aud_price": 0.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Carters price guide, Australian cedar dining tables",
-     "url": "https://www.carters.com.au/index.cfm/index/10477-tables-material-australian-cedar/",
-     "same_item": "category guide",
-     "note": "Snippet only; very broad range, not specific."
-    }
-   ],
-   "resale": 260.0,
-   "net_resale": 221.0,
-   "max_hammer": 15,
-   "status": "PASS",
-   "why": "7 same-item SOLD price(s), median $260; less 15% fees = $221; less $200 profit, / 1.22 premium = max hammer $15",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2561,6 +3344,7 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -2584,22 +3368,6 @@
    "chrome_hint": "eBay sold: Persian Mashad Kashan carpet 390x300 room size; and Carters price guide 'Mashhad 393 x 300' result",
    "chrome_done": true,
    "sold": [
-    {
-     "aud_price": 300.0,
-     "date": "2026-02-05",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "gowans lot id 389577 (local comps db)",
-     "same_item": "close",
-     "note": "Persian Kashan floor rug approx 4m x 3m, 8 bids. Same size and style. Local db only, page not opened; condition unknown. Premium extra. Best like-for-like."
-    },
-    {
-     "aud_price": 1600.0,
-     "date": "2026-05-31",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "gowans lot id 413299 (local comps db)",
-     "same_item": "close",
-     "note": "Large room size handmade Persian Kashmar rug 390x315 cm, 5 bids. Same size, Khorasan weave, but likely clean and better condition. Local db only, page not opened. Premium extra."
-    },
     {
      "aud_price": 650.0,
      "date": "2025-01-30",
@@ -2638,6 +3406,40 @@
      "note": "Wool hand-knotted Mashad 390x300 cm, retail ask, condition unknown. Snippet only. Ceiling for a clean piece, not a price paid."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 300.0,
+     "date": "2026-02-05",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 389577 (local comps db)",
+     "same_item": "close",
+     "note": "Persian Kashan floor rug approx 4m x 3m, 8 bids. Same size and style. Local db only, page not opened; condition unknown. Premium extra. Best like-for-like."
+    },
+    {
+     "aud_price": 1600.0,
+     "date": "2026-05-31",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 413299 (local comps db)",
+     "same_item": "close",
+     "note": "Large room size handmade Persian Kashmar rug 390x315 cm, 5 bids. Same size, Khorasan weave, but likely clean and better condition. Local db only, page not opened. Premium extra."
+    },
+    {
+     "aud_price": 1250.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 414885 (local comps db)",
+     "same_item": "category guide",
+     "note": "Pure wool hand-knotted Persian Vis rug 320x220 cm, 14 bids. Smaller, different weave, shows strong prices for clean pieces. Local db only."
+    },
+    {
+     "aud_price": 600.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 424512 (local comps db)",
+     "same_item": "category guide",
+     "note": "Persian rug 290x198 cm, 8 bids. Smaller. Local db only."
+    }
+   ],
    "resale": 650.0,
    "net_resale": 552.5,
    "max_hammer": 285,
@@ -2664,6 +3466,7 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -2690,6 +3493,7 @@
    "sold_old": [],
    "unsold": [],
    "asking": [],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -2712,7 +3516,29 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [
+    {
+     "aud_price": 0.0,
+     "date": "2025-12 to 2026-08",
+     "venue": "Gowans Auctions, Hobart (lots 432585, 434163, 419645, 404783 and others)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry",
+     "same_item": "category guide",
+     "note": "About 8 of 18 Gowans Wykeham Perry lots since Dec 2025 had sale_price 0 (no sale), so roughly 40% pass in. Ceiling signal only. Page not opened, API listing."
+    }
+   ],
+   "asking": [
+    {
+     "aud_price": 500.0,
+     "date": "seen 2026-11-06",
+     "venue": "Auction listing via WebSearch snippet",
+     "url": "https://www.artrecord.com/index.cfm/artist/12709-perry-wykeham/medium/1-paintings/?order=7&io=1&count=50",
+     "same_item": "category guide",
+     "note": "Snippet only, unverified, much larger work; estimate not a price paid. Rate AUD only."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 110.0,
      "date": "2026-05-24",
@@ -2784,34 +3610,21 @@
      "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2946958&chid=28014&category=ALL&style=group",
      "same_item": "close",
      "note": "In the Garden 33 x 46 cm. Local database record, page not opened."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [
+    },
     {
-     "aud_price": 0.0,
-     "date": "2025-12 to 2026-08",
-     "venue": "Gowans Auctions, Hobart (lots 432585, 434163, 419645, 404783 and others)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wykeham+perry",
+     "aud_price": 70.0,
+     "date": "2026-05-03",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/406602/",
      "same_item": "category guide",
-     "note": "About 8 of 18 Gowans Wykeham Perry lots since Dec 2025 had sale_price 0 (no sale), so roughly 40% pass in. Ceiling signal only. Page not opened, API listing."
+     "note": "Plain oil on board, low end. Local database record, page not opened."
     }
    ],
-   "asking": [
-    {
-     "aud_price": 500.0,
-     "date": "seen 2026-11-06",
-     "venue": "Auction listing via WebSearch snippet",
-     "url": "https://www.artrecord.com/index.cfm/artist/12709-perry-wykeham/medium/1-paintings/?order=7&io=1&count=50",
-     "same_item": "category guide",
-     "note": "Snippet only, unverified, much larger work; estimate not a price paid. Rate AUD only."
-    }
-   ],
-   "resale": 160.0,
-   "net_resale": 136.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2829,7 +3642,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 70.0,
      "date": "2026-03-16",
@@ -2871,14 +3688,11 @@
      "note": "V Curtis oil on board flowers, signed and dated 1920; local database title only."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 90.0,
-   "net_resale": 76.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -2951,6 +3765,7 @@
     }
    ],
    "asking": [],
+   "paid": [],
    "resale": 5508.0,
    "net_resale": 4681.8,
    "max_hammer": 3670,
@@ -2973,7 +3788,20 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 1450.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Islington Antiques and Interiors",
+     "url": "https://www.islingtonantiques.com.au/product/victorian-mahogany-chiffonier-sideboard/",
+     "same_item": "close",
+     "note": "Page opened. Flame mahogany Victorian chiffonier c1880s, heavily carved back, excellent original condition, 1190W x 1340H. Page also shows Sold category yet InStock, so status unclear. Dealer retail, not a price paid."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 250.0,
      "date": "2025-12-14",
@@ -3031,23 +3859,11 @@
      "note": "19th c cedar palladium back chiffonier. Local DB."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 1450.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Islington Antiques and Interiors",
-     "url": "https://www.islingtonantiques.com.au/product/victorian-mahogany-chiffonier-sideboard/",
-     "same_item": "close",
-     "note": "Page opened. Flame mahogany Victorian chiffonier c1880s, heavily carved back, excellent original condition, 1190W x 1340H. Page also shows Sold category yet InStock, so status unclear. Dealer retail, not a price paid."
-    }
-   ],
-   "resale": 230.0,
-   "net_resale": 195.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $230 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -3111,6 +3927,7 @@
     }
    ],
    "asking": [],
+   "paid": [],
    "resale": 600.0,
    "net_resale": 510.0,
    "max_hammer": 250,
@@ -3146,6 +3963,7 @@
    ],
    "unsold": [],
    "asking": [],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -3189,6 +4007,7 @@
      "note": "Page opened but showed no price; $300 is snippet only and unverified. Different format (canvas, set of ten). Larger works on canvas shown at $2,500 to $5,500 (snippet only)."
     }
    ],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -3250,6 +4069,7 @@
      "note": "Snippet only, result not shown, date unknown. Estimate only."
     }
    ],
+   "paid": [],
    "resale": 200.0,
    "net_resale": 170.0,
    "max_hammer": 0,
@@ -3272,40 +4092,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: Tallis Rapkin Van Diemen's Land Tasmania map 1851 original (sold, completed items); also LiveAuctioneers/Invaluable sold: 'Tallis Van Diemen's Island or Tasmania'",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 70.0,
-     "date": "2026-03-01",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "Gowans lot 393643, 'JOHN TALLIS FRAMED MAP PRINT - VAN DIEMENS ISLAND C1851'. 11 bids, framed. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
-    },
-    {
-     "aud_price": 27.0,
-     "date": "2026-03-09",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "Gowans lot 395188, 'TALLIS VDL MAP - FRAMED'. 5 bids. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
-    },
-    {
-     "aud_price": 30.0,
-     "date": "2026-06-08",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "Gowans lot 414857, '2 FRAMED TASMANIAN MAPS - JOHN TALLIS MAP - TAS GOV MAP - IN 1 FRAME'. 4 bids, two maps in one frame. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
-    },
-    {
-     "aud_price": 45.0,
-     "date": "2026-09-06",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "Gowans lot 435794, 'JOHN TALLIS GOLD FRAMED MAP PRINT - VAN DIEMEN'S ISLAND'. 7 bids, framed. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
-    }
-   ],
+   "sold": [],
    "sold_old": [
     {
      "aud_price": 180.0,
@@ -3359,11 +4146,45 @@
      "note": "Snippet only. Listed as REPRODUCTION of the Tallis map, so shows facsimiles exist and are retailed. Rate about 1.55."
     }
    ],
-   "resale": 37.5,
-   "net_resale": 31.875,
+   "paid": [
+    {
+     "aud_price": 70.0,
+     "date": "2026-03-01",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot 393643, 'JOHN TALLIS FRAMED MAP PRINT - VAN DIEMENS ISLAND C1851'. 11 bids, framed. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
+    },
+    {
+     "aud_price": 27.0,
+     "date": "2026-03-09",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot 395188, 'TALLIS VDL MAP - FRAMED'. 5 bids. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot 414857, '2 FRAMED TASMANIAN MAPS - JOHN TALLIS MAP - TAS GOV MAP - IN 1 FRAME'. 4 bids, two maps in one frame. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-09-06",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tallis&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot 435794, 'JOHN TALLIS GOLD FRAMED MAP PRINT - VAN DIEMEN'S ISLAND'. 7 bids, framed. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $38 does not clear the current bid $15",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -3403,6 +4224,7 @@
      "note": "page opened, no price or result shown. Framed, 42.5 x 86 in panel, slight dye bleed. Useful only as dating comparison: framed Iban pua sold as 20th century."
     }
    ],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -3425,7 +4247,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 142868 - Perth, (seen in 18 sales); 58485 - Rowella, TAS (seen in 108 sales); 59421 - Mole creek, TAS - AutoBid (seen in 25 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 65.0,
      "date": "2026-10-21",
@@ -3481,16 +4307,21 @@
      "url": "gowans lot id 383301",
      "same_item": "close",
      "note": "Digital food dehydrator, 2 bids. Local database hit, page not opened. Hammer, premium extra. AUD so no conversion."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2025-10-06",
+     "venue": "Gowans Auctions, Hobart lot 366583",
+     "url": "gowans lot id 366583",
+     "same_item": "category guide",
+     "note": "Dehydrator plus garden shears, 5 bids. Local database hit, page not opened. Hammer, premium extra. AUD so no conversion."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 65.0,
-   "net_resale": 55.25,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $35",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -3509,30 +4340,6 @@
    "chrome_hint": "eBay.com.au sold and completed: Yamaha R-S300 ; Yamaha CD-S300 ; Yamaha NS-BP150 (or NS-BP200) speakers",
    "chrome_done": true,
    "sold": [
-    {
-     "aud_price": 175.0,
-     "date": "2025-11-17",
-     "venue": "Gowans, Hobart (id 376193)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha (gowans id 376193)",
-     "same_item": "close",
-     "note": "2 Yamaha receivers and a CD player, 8 bids. Local database hit, premium extra, no URL page opened."
-    },
-    {
-     "aud_price": 130.0,
-     "date": "2026-09-20",
-     "venue": "Gowans, Hobart (id 439771)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha (gowans id 439771)",
-     "same_item": "close",
-     "note": "Yamaha CD player plus Sherwood amp with speakers, 6 bids. Database hit."
-    },
-    {
-     "aud_price": 95.0,
-     "date": "2026-08-03",
-     "venue": "Gowans, Hobart (id 427746)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha (gowans id 427746)",
-     "same_item": "close",
-     "note": "Yamaha CD player with remote, 9 bids. Model not stated."
-    },
     {
      "aud_price": 385.85,
      "date": "2026-06-07",
@@ -3594,11 +4401,69 @@
      "note": "New RRP, not a used value. Snippet only."
     }
    ],
-   "resale": 152.5,
-   "net_resale": 129.625,
-   "max_hammer": 0,
+   "paid": [
+    {
+     "aud_price": 175.0,
+     "date": "2025-11-17",
+     "venue": "Gowans, Hobart (id 376193)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha (gowans id 376193)",
+     "same_item": "close",
+     "note": "2 Yamaha receivers and a CD player, 8 bids. Local database hit, premium extra, no URL page opened."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-09-20",
+     "venue": "Gowans, Hobart (id 439771)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha (gowans id 439771)",
+     "same_item": "close",
+     "note": "Yamaha CD player plus Sherwood amp with speakers, 6 bids. Database hit."
+    },
+    {
+     "aud_price": 95.0,
+     "date": "2026-08-03",
+     "venue": "Gowans, Hobart (id 427746)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha (gowans id 427746)",
+     "same_item": "close",
+     "note": "Yamaha CD player with remote, 9 bids. Model not stated."
+    },
+    {
+     "aud_price": 190.0,
+     "date": "2026-03-16",
+     "venue": "Gowans, Hobart (id 397426)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha (gowans id 397426)",
+     "same_item": "category guide",
+     "note": "Yamaha CX-630 stereo amp, instructions and remote. Older separate, not S300."
+    },
+    {
+     "aud_price": 230.0,
+     "date": "2026-04-26",
+     "venue": "Gowans, Hobart (id 405828)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha (gowans id 405828)",
+     "same_item": "category guide",
+     "note": "Yamaha RX-V685 AV receiver, 6 bids. Better AV unit, top of local Yamaha receiver range."
+    },
+    {
+     "aud_price": 150.0,
+     "date": "2026-03-30",
+     "venue": "Gowans, Hobart (lot 401073)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha%20surround",
+     "same_item": "category guide",
+     "note": "Yamaha 5.1 home theatre package with Natural Sound AV receiver."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-09-06",
+     "venue": "Gowans, Hobart (id 436724)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=yamaha (gowans id 436724)",
+     "same_item": "category guide",
+     "note": "Yamaha stereo system, NA plug, remotes. Low end, older gear."
+    }
+   ],
+   "resale": 385.85,
+   "net_resale": 327.9725,
+   "max_hammer": 100,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $152 does not clear the current bid $120",
+   "why": "max hammer $100 from a median SOLD of $386 does not clear the current bid $120",
    "priority": false
   },
   {
@@ -3616,24 +4481,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Westinghouse WVE614SC oven; also Westinghouse ceramic cooktop WHC643BC (Sold items, Australia). Also Facebook Marketplace / Gumtree Tasmania for used wall ovens.",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 180.0,
-     "date": "2026-07-05",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au/ (gowans id 422034)",
-     "same_item": "close",
-     "note": "Westinghouse 110cm elevated oven with separate grill and 4 zone cooktop WDE132WC-L, in box, 2 bids. Different model, similar pairing. Premium extra. Local database result."
-    },
-    {
-     "aud_price": 65.0,
-     "date": "2025-11-24",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au/ (gowans id 378232)",
-     "same_item": "close",
-     "note": "Westinghouse induction cooktop, 4 bids. Cooktop only, condition unknown. Premium extra. Local database result."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -3662,11 +4510,29 @@
      "note": "Page opened. WVE614SC listed as not available, so likely a discontinued model. No price shown."
     }
    ],
-   "resale": 122.5,
-   "net_resale": 104.125,
+   "paid": [
+    {
+     "aud_price": 180.0,
+     "date": "2026-07-05",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/ (gowans id 422034)",
+     "same_item": "close",
+     "note": "Westinghouse 110cm elevated oven with separate grill and 4 zone cooktop WDE132WC-L, in box, 2 bids. Different model, similar pairing. Premium extra. Local database result."
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2025-11-24",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/ (gowans id 378232)",
+     "same_item": "close",
+     "note": "Westinghouse induction cooktop, 4 bids. Cooktop only, condition unknown. Premium extra. Local database result."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $122 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -3705,6 +4571,7 @@
      "note": "AUD. Page opened. Factory seconds or ex-display, possible damaged packaging, 12 month warranty; colour beige not green. Best guide to a discounted resale level, but still an asking price."
     }
    ],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -3773,6 +4640,24 @@
      "note": "New retail for similar Anko mic. Snippet only. Set in lot is boxed, likely new, worth maybe $15-30 used."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 7.0,
+     "date": "2026-02-23",
+     "venue": "Gowans Auctions, Hobart (FRETTA SLOW MASTICATING JUICER)",
+     "url": "gowans lot id 392396",
+     "same_item": "category guide",
+     "note": "Hammer, premium extra. Different brand, cheap slow juicer; local database hit."
+    },
+    {
+     "aud_price": 125.0,
+     "date": "2025-10-13",
+     "venue": "Gowans Auctions, Hobart (SANTOS INDUSTRIAL JUICER)",
+     "url": "gowans lot id 368188",
+     "same_item": "category guide",
+     "note": "Hammer, 2 bids. Santos is a premium brand, upper bound for category only."
+    }
+   ],
    "resale": 87.29,
    "net_resale": 74.1965,
    "max_hammer": 0,
@@ -3816,6 +4701,24 @@
      "note": "Snippet only, page 403, no price seen. Confirms model exists as a solid-state amp."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 420.0,
+     "date": "2025-11-10",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=valve+amplifier (gowans id 374015)",
+     "same_item": "category guide",
+     "note": "Marshall valve amplifier, 20 bids. Different brand, well-known name; local database result, premium extra. Shows ceiling for a strong-brand guitar amp locally."
+    },
+    {
+     "aud_price": 165.0,
+     "date": "2026-05-17 and 2026-06-14",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 409776 and 416343",
+     "same_item": "category guide",
+     "note": "Vox MV50 clean type guitar amps, modern small amps, 13 and 7 bids. Local database result. Low-end guide only."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -3838,7 +4741,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 47604 - Riverside, TAS (seen in 137 sales); 142868 - Perth, (seen in 18 sales); 122213 - Westbury, TAS (seen in 140 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 65.0,
      "date": "2026-07-29",
@@ -3846,16 +4753,29 @@
      "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2996880&chid=28328&category=ALL&style=group",
      "same_item": "close",
      "note": "Local database hit: RESIN FIGURE OF A PARROT H-41 CM, near identical title and size. Page not opened, database record. Premium extra. AUD, no conversion."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-07-12",
+     "venue": "Gowans Auctions, Hobart (lot id 422711)",
+     "url": "gowans id 422711",
+     "same_item": "category guide",
+     "note": "PARROT FIGURE, 2 bids; material and size unknown. Database record only. Premium extra."
+    },
+    {
+     "aud_price": 20.0,
+     "date": "2026-07-05",
+     "venue": "Gowans Auctions, Hobart (lot id 421122)",
+     "url": "gowans id 421122",
+     "same_item": "category guide",
+     "note": "METAL PARROT FIGURE, 3 bids; different material. Database record only. Premium extra."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 65.0,
-   "net_resale": 55.25,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -3873,7 +4793,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 47753 - South Launceston , TAS (seen in 75 sales); 78443 - Claremont, TAS (seen in 84 sales); 135397 - Longford, TAS (seen in 126 sales); 49344 - Loira, TAS (seen in 68 sales); 47666 - Ulverstone , TAS (seen in 98 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 105.0,
      "date": "2026-08-19",
@@ -3897,16 +4821,21 @@
      "url": "gowans lot id 385826",
      "same_item": "close",
      "note": "Greyhound figure, 8 bids. Database record only."
+    },
+    {
+     "aud_price": 150.0,
+     "date": "2026-07-29",
+     "venue": "Armitage Auctions sale 28328 lot 1368",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2996963&chid=28328&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Silver painted greyhound figure H-74 cm, larger. Database record only."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 90.0,
-   "net_resale": 76.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $45",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -3986,6 +4915,32 @@
      "note": "Snippet only, unverified, sold status unclear so treated as asking. Rate assumed 1 USD = 1.53 AUD. Same condition as lot (as is, no remote). Suggests faulty units trade around USD 110 to 200 (about AUD 170 to 305) before Australian shipping."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 340.0,
+     "date": "2026-06-08",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 415161",
+     "same_item": "category guide",
+     "note": "Beocenter 2200 with pair of speakers; different B&O model, working system. Local database hit, not page opened."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2025-12-01",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 379010",
+     "same_item": "category guide",
+     "note": "Beocenter 2200 with manual; different B&O model. Local database hit."
+    },
+    {
+     "aud_price": 105.0,
+     "date": "2026-05-03",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 407314",
+     "same_item": "category guide",
+     "note": "Beocenter 2200 as is; faulty-ish B&O hi-fi, closest condition guide. Local database hit."
+    }
+   ],
    "resale": 526.905,
    "net_resale": 447.86924999999997,
    "max_hammer": 200,
@@ -4008,7 +4963,28 @@
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: Saeco Moltio OR Xelsis bean switcher used, Australia, sold items",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 80.0,
+     "date": "undated, seen 2026-11-06",
+     "venue": "Gumtree (North Ryde NSW), Saeco Minuto HD8762",
+     "url": "https://www.gumtree.com.au/s-home-garden/saeco+coffee+machine/k0c18397",
+     "same_item": "category guide",
+     "note": "Snippet only, different model, unverified."
+    },
+    {
+     "aud_price": 299.0,
+     "date": "2015-10",
+     "venue": "ProductReview owner, Moltio HD8768 at Myer",
+     "url": "https://www.productreview.com.au/listings/saeco-moltio",
+     "same_item": "category guide",
+     "note": "Snippet only; old new-price anecdote, not a used price."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 80.0,
      "date": "2026-10-25 (listed; sold late Oct/early Nov 2026)",
@@ -4050,31 +5026,11 @@
      "note": "PHILIPS SAECO COFFEE MACHINE, 0 bids."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 80.0,
-     "date": "undated, seen 2026-11-06",
-     "venue": "Gumtree (North Ryde NSW), Saeco Minuto HD8762",
-     "url": "https://www.gumtree.com.au/s-home-garden/saeco+coffee+machine/k0c18397",
-     "same_item": "category guide",
-     "note": "Snippet only, different model, unverified."
-    },
-    {
-     "aud_price": 299.0,
-     "date": "2015-10",
-     "venue": "ProductReview owner, Moltio HD8768 at Myer",
-     "url": "https://www.productreview.com.au/listings/saeco-moltio",
-     "same_item": "category guide",
-     "note": "Snippet only; old new-price anecdote, not a used price."
-    }
-   ],
-   "resale": 35.0,
-   "net_resale": 29.75,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $35 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -4093,22 +5049,6 @@
    "chrome_hint": "eBay sold listings: Sony TC-630 (with speakers) and Sony TC-630 no power cord / for parts, last 90 days, Australia and US",
    "chrome_done": true,
    "sold": [
-    {
-     "aud_price": 55.0,
-     "date": "2026-02-15",
-     "venue": "Gowans (Hobart)",
-     "url": "gowans id 391317",
-     "same_item": "close",
-     "note": "SONY STEREO TAPE RECORDER & REEL-TO-REEL - AS IS, 3 bids. Model unknown, as-is. Local database hit; premium extra."
-    },
-    {
-     "aud_price": 40.0,
-     "date": "2025-11-10",
-     "venue": "Gowans (Hobart)",
-     "url": "gowans id 374785",
-     "same_item": "close",
-     "note": "SONY REEL TO REEL ETC, 2 bids. Model unknown. Local database hit; premium extra."
-    },
     {
      "aud_price": 69.99,
      "date": "2026-11-01",
@@ -4146,11 +5086,53 @@
      "note": "Page opened: powered on but untested, corroded areas, stains. No sold price shown. aud_price 0 means unknown."
     }
    ],
-   "resale": 55.0,
-   "net_resale": 46.75,
+   "paid": [
+    {
+     "aud_price": 55.0,
+     "date": "2026-02-15",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 391317",
+     "same_item": "close",
+     "note": "SONY STEREO TAPE RECORDER & REEL-TO-REEL - AS IS, 3 bids. Model unknown, as-is. Local database hit; premium extra."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2025-11-10",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 374785",
+     "same_item": "close",
+     "note": "SONY REEL TO REEL ETC, 2 bids. Model unknown. Local database hit; premium extra."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2026-03-01",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 393752",
+     "same_item": "category guide",
+     "note": "Akai 1730D surround reel deck with 22 tapes, 8 bids. Better deck, category guide only."
+    },
+    {
+     "aud_price": 120.0,
+     "date": "2026-06-28",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 419796",
+     "same_item": "category guide",
+     "note": "Tandberg reel to reel player and tapes, 2 bids. Category guide only."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2025-12-08",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 381375",
+     "same_item": "category guide",
+     "note": "National 4 track solid state reel to reel recorder, 3 bids."
+    }
+   ],
+   "resale": 69.99,
+   "net_resale": 59.491499999999995,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0",
    "priority": false
   }
  ]

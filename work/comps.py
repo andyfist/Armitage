@@ -2,7 +2,9 @@
 """Usage: python3 -I comps.py <words> [--years N] [--min-price N]
 Looks up sold prices for an item in the results database: gowans_all.json (every Gowans lot since mid-2024, hammer = sale_price/100)
 and aba_lots.json (every Australian Book Auctions lot, sales 100 to 119, with hammer) and sold_db.json (every sold comp the agents found, with URL and date). Prints each hit and the lowest, median and highest hammer.
-Hammer prices exclude the buyer's premium. Gowans titles are loose, so read the titles before trusting a number."""
+Hammer prices exclude the buyer's premium. Gowans titles are loose, so read the titles before trusting a number.
+Gowans and Armitage results are NOT resale comps (Andy, 7 Nov 2026: neither is a competitive auction). They are printed
+as "paid locally", a guide to what we might have to pay, and left out of the lowest/median/highest."""
 import json, os, re, sys, statistics, datetime
 W = os.path.dirname(os.path.abspath(__file__))
 args = sys.argv[1:]; years = 10; floor = 0
@@ -30,8 +32,12 @@ if os.path.exists(A):
             m = re.match(r'(\w+) (\d{4})', r['date'] or ''); ds = f"{m.group(2)}-{mon.get(m.group(1), '01')}" if m else f"sale {r['sale']}"
             if not m or ds >= cut[:7]: hits.append((ds, r['hammer'], f"Australian Book Auctions Sale {r['sale']} lot {r['lot']}: {r['text'][:90]}", r['price_url']))
 hits.sort(reverse=True)
-for h in hits[:40]: print(h[0], f"${h[1]:,.0f}", h[2], h[3])
-if hits:
-    p = sorted(h[1] for h in hits)
-    print(f"\n{len(hits)} sales, lowest ${p[0]:,.0f}, median ${statistics.median(p):,.0f}, highest ${p[-1]:,.0f} (hammer, premium extra)")
-else: print('no sales found')
+local = lambda h: any(r in f"{h[2]} {h[3]}".lower() for r in ('gowans', 'armitage'))
+for h in hits[:40]: print(h[0], f"${h[1]:,.0f}", h[2], h[3], '  [paid locally: what we might pay, NOT a resale price]' if local(h) else '')
+paid = sorted(h[1] for h in hits if local(h))
+if paid:
+    print(f"\n{len(paid)} Gowans/Armitage results, median ${statistics.median(paid):,.0f}: a guide to what we might pay, never a resale comp")
+p = sorted(h[1] for h in hits if not local(h))
+if p:
+    print(f"\n{len(p)} resale comps, lowest ${p[0]:,.0f}, median ${statistics.median(p):,.0f}, highest ${p[-1]:,.0f} (hammer, premium extra)")
+else: print('no resale comps found' + (' (the Gowans/Armitage results above only show what we might pay)' if paid else ''))

@@ -12,7 +12,9 @@ Sources, all hammer prices with the buyer's premium not included:
   work/sold_db.json and pipeline/state/chrome_sold.json   sold comps found by earlier research, with URL
 
 The market researchers in pipeline/wf_funnel.js run this before they search the web; a
-same-item hit here is a SOLD price like any other.
+same-item hit here is a SOLD price like any other, EXCEPT Armitage and Gowans results. Those
+are not competitive auctions (Andy, 7 Nov 2026), so their hammer prices only show what we
+might have to pay: they are printed as "paid locally" and left out of the low/median/high.
 """
 import argparse
 import json
@@ -68,6 +70,12 @@ def rows(source=None, category=None):
                            'url': r.get('url') or '', 'match': r['match']}
 
 
+def is_local_room(h):
+    """Armitage or Gowans: a guide to what we might pay, never a resale comp."""
+    text = f"{h['source']} {h.get('venue') or ''} {h.get('url') or ''}".lower()
+    return 'armitage' in text or 'gowans' in text
+
+
 def search(words, source=None, category=None, min_hammer=0):
     words = [w.lower() for w in words]
     hits = [r for r in rows(source, category) if r['hammer'] >= min_hammer and all(w in r['text'].lower() for w in words)]
@@ -85,19 +93,26 @@ def main():
     ap.add_argument('--json', action='store_true', help='JSON instead of text')
     a = ap.parse_args()
     hits = search(a.words, a.source, a.category, a.min)
-    prices = [h['hammer'] for h in hits]
-    summary = {'words': a.words, 'hits': len(hits), 'low': min(prices) if prices else 0, 'median': statistics.median(prices) if prices else 0,
+    for h in hits:
+        h['guide_only'] = is_local_room(h)
+    prices = [h['hammer'] for h in hits if not h['guide_only']]
+    paid = [h['hammer'] for h in hits if h['guide_only']]
+    summary = {'words': a.words, 'hits': len(prices), 'local_paid_hits': len(paid),
+               'local_paid_median': statistics.median(paid) if paid else 0, 'low': min(prices) if prices else 0, 'median': statistics.median(prices) if prices else 0,
                'high': max(prices) if prices else 0, 'note': 'hammer prices, buyer\'s premium not included'}
     if a.json:
         print(json.dumps({'summary': summary, 'hits': hits[:a.limit]}, indent=1))
         return
     for h in hits[:a.limit]:
         ref = h['venue'] + (f" sale {h['sale']}" if h['sale'] else '') + (f" lot {h['lot']}" if h['lot'] else '')
-        print(f"{str(h['date'])[:10]:10}  ${h['hammer']:>8,.0f}  {ref}: {h['text'][:140]}  {h['url']}")
-    if hits:
-        print(f"\n{len(hits)} sold hits: low ${summary['low']:,.0f}, median ${summary['median']:,.0f}, high ${summary['high']:,.0f} ({summary['note']})")
+        tag = '  [paid locally: what we might pay, NOT a resale price]' if h['guide_only'] else ''
+        print(f"{str(h['date'])[:10]:10}  ${h['hammer']:>8,.0f}  {ref}: {h['text'][:140]}  {h['url']}{tag}")
+    if paid:
+        print(f"\n{len(paid)} Armitage/Gowans results (median ${summary['local_paid_median']:,.0f}): a guide to what we might pay, never a resale comp")
+    if prices:
+        print(f"\n{len(prices)} sold hits: low ${summary['low']:,.0f}, median ${summary['median']:,.0f}, high ${summary['high']:,.0f} ({summary['note']})")
     else:
-        print('nothing sold with all those words in any local database')
+        print('no resale comps with all those words in any local database' + (' (Armitage/Gowans results above are a guide to cost only)' if paid else ''))
 
 
 if __name__ == '__main__':
