@@ -12,12 +12,12 @@
   "top": 25,
   "ignore_bids": false
  },
- "scanned": 307,
- "candidates": 50,
+ "scanned": 317,
+ "candidates": 60,
  "counts": {
   "PASS": 1,
-  "CHROME": 43,
-  "FAIL": 6,
+  "CHROME": 52,
+  "FAIL": 7,
   "DROP": 0,
   "NOT RESEARCHED": 0
  },
@@ -26,7 +26,7 @@
    "cdid": 3112613,
    "lot": 1772,
    "title": "DAYTEK GARDEN WHEELBARROW",
-   "strength": 2,
+   "strength": 4,
    "findings": "Generic galvanised-tray garden wheelbarrow with orange tubular frame, solid/pneumatic orange-rim wheel and rubber grips. No Daytek label visible in the photo.",
    "condition": "Tray worn and dull, frame paint scuffed with some surface rust, usable.",
    "current_bid": 40.0,
@@ -99,10 +99,79 @@
    "priority": false
   },
   {
+   "cdid": 3112614,
+   "lot": 1773,
+   "title": "ORNAMENTAL BIRD CAGE H-167 CM",
+   "strength": 3,
+   "findings": "Tall modern decorative wrought/steel rod bird cage on scroll feet with finial top, about 167 cm as claimed. Garden ornament, not a functional antique aviary. No maker marks seen.",
+   "condition": "Surface rust throughout, appears structurally intact.",
+   "current_bid": 50.0,
+   "bid_count": 9,
+   "close": "11/11/2026 9:49:00 PM ADST",
+   "identification": "Tall modern decorative steel rod garden birdcage, about 167 cm, scroll feet, finial top, rusty. Garden ornament, not an antique aviary. No maker.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: large wrought iron bird cage garden ornament 160cm",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 164.95,
+     "date": "live, seen 2026-11-07",
+     "venue": "Bunnings Warehouse",
+     "url": "https://www.bunnings.com.au/i-pet-bird-cage-160cm-large-aviary_p0662290",
+     "same_item": "category guide",
+     "note": "Snippet only, price not verified. New functional cage, ceiling on what a buyer would pay for something similar."
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 245.0,
+     "date": "2026-06-17",
+     "venue": "Armitage Auctions, Launceston sale 28016 lot 1743",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2946807&chid=28016&category=ALL&style=group",
+     "same_item": "close",
+     "note": "VERY LARGE ARCH TOP BIRD CAGE H-164 W-104 D-72 CM, similar height. Paid locally, not a resale price. Local database record only."
+    },
+    {
+     "aud_price": 95.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28715 lot 1759",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3069172&chid=28715&category=ALL&style=group",
+     "same_item": "close",
+     "note": "DECORATIVE BIRD CAGE H-104 CM, smaller. Paid locally, not a resale price. Local database record only."
+    },
+    {
+     "aud_price": 250.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions, Launceston sale 28842 lot 1826",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088996&chid=28842&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "ORNAMENTAL METAL BIRD CAGE H-62 CM, small, likely a better or antique style. Paid locally, not a resale price."
+    },
+    {
+     "aud_price": 10.0,
+     "date": "2026-06-14",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 417443",
+     "same_item": "category guide",
+     "note": "LARGE 2 PART BIRDCAGE ON WHEELS, 1 bid. Other Gowans cages $2 to $60. Paid locally, not a resale price."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
+  },
+  {
    "cdid": 3112632,
    "lot": 1791,
    "title": "RESIN LIONS HEAD FIGURE H-45 C...",
-   "strength": 2,
+   "strength": 4,
    "findings": "Cast resin lion's head wall mask, cream finish, modern garden decor. No maker mark visible; only a lot tag.",
    "condition": "Small chips and brown marks to mane, general weathering.",
    "current_bid": 25.0,
@@ -141,8 +210,8 @@
    "strength": 4,
    "findings": "Weber kettle charcoal BBQ (approx 57cm) in red enamel with timber handles, lid thermometer and damper, open ash pan, wheeled tripod base with cover; comes with Weber 'The one. The only.' owner's operating guide, suggesting an older (c. 1980s-90s) example. Maker supported (spelt 'Webber' in title).",
    "condition": "Lid enamel faded and dirty, timber handles weathered, rust on handle brackets, ash pan dirty, grill used with charcoal remaining.",
-   "current_bid": 30.0,
-   "bid_count": 3,
+   "current_bid": 40.0,
+   "bid_count": 4,
    "close": "11/11/2026 9:59:00 PM ADST",
    "identification": "Older Weber 57cm red enamel kettle charcoal BBQ with wooden handles, wheeled tripod base and a cover; used.",
    "researched": true,
@@ -357,6 +426,91 @@
    "priority": false
   },
   {
+   "cdid": 3112671,
+   "lot": 1830,
+   "title": "COPPER INSERT WITH DRAINAGE HO...",
+   "strength": 3,
+   "findings": "Large copper tub or boiler insert with rolled rim, tinned or lined white interior, central drainage hole drilled in base (converted to planter). Paper lot tag only, no maker stamp seen.",
+   "condition": "Heavy tarnish and verdigris, interior staining and water in base, drainage hole is a later alteration reducing antique value.",
+   "current_bid": 30.0,
+   "bid_count": 5,
+   "close": "11/11/2026 10:08:00 PM ADST",
+   "identification": "Large plain copper boiler/tub (about 40 cm class, rolled rim, tinned interior), unmarked, later drilled drain hole for use as a planter. Decorative/scrap value only.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: copper boiler planter large; also copper tub copper boiler sold",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 400.0,
+     "date": "live, seen 2026-11-07",
+     "venue": "Smiths Vintage, Swanage UK via Antiques Atlas",
+     "url": "https://www.antiques-atlas.com/antique/large_antique_copper_planter/as897a782",
+     "same_item": "category guide",
+     "note": "Page opened. Copper planter on a cast iron base, rated very good, no splits; not comparable in form or condition. AUD figure uses an assumed rate of about 2.0 AUD per GBP, not verified. Dealer asking, not a price paid."
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 35.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans lot id 440565",
+     "same_item": "close",
+     "note": "Copper jardiniere/planter, 5 bids. Local room, shows what we might pay only. Local database hit."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-07-05",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans lot id 422159",
+     "same_item": "close",
+     "note": "Copper planter, 7 bids. Local room, not resale."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2026-02-05",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans lot id 389788",
+     "same_item": "category guide",
+     "note": "Large copper planter with succulent, 11 bids; planting included. Local room, not resale."
+    },
+    {
+     "aud_price": 225.0,
+     "date": "2026-05-27",
+     "venue": "Armitage Auctions, Launceston (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2927124&chid=27890&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Heavy copper boiler 34x23x20cm, intact. Local room, not resale."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2025-10-22",
+     "venue": "Armitage Auctions, Launceston (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2672188&chid=26384&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Old copper boiler as-is. Local room, not resale."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans lot id 401169",
+     "same_item": "close",
+     "note": "Copper boiler. Local room, not resale."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
+  },
+  {
    "cdid": 3112672,
    "lot": 1831,
    "title": "CAST IRON GARDEN 2 TIER FOUNTA...",
@@ -547,7 +701,7 @@
    "cdid": 3112674,
    "lot": 1833,
    "title": "GREEN PAINTED GARDEN BENCH SEA...",
-   "strength": 3,
+   "strength": 4,
    "findings": "Slatted timber garden bench painted sage green, curved slat back and arms, modern mass-produced style (likely hardwood flat-pack). No maker plate visible.",
    "condition": "Paint worn on seat and arms, appears sound.",
    "current_bid": 55.0,
@@ -623,7 +777,7 @@
    "cdid": 3112683,
    "lot": 1842,
    "title": "TERRACOTTA STRAWBERRY PLANTER ...",
-   "strength": 2,
+   "strength": 4,
    "findings": "Terracotta strawberry planter with six side pockets, modern imported garden pot. No maker stamp visible.",
    "condition": "Weathered with some staining and minor rim wear, no obvious cracks seen.",
    "current_bid": 45.0,
@@ -669,6 +823,50 @@
    "max_hammer": 0,
    "status": "CHROME",
    "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
+  },
+  {
+   "cdid": 3112687,
+   "lot": 1846,
+   "title": "2 GREEN GLAZED PLANTERS H-34 C...",
+   "strength": 2,
+   "findings": "Pair of modern tapered square green glazed ceramic planters, about 34 cm. Mass-produced imported garden pots, no maker marks visible.",
+   "condition": "Appear sound, light surface dirt.",
+   "current_bid": 25.0,
+   "bid_count": 4,
+   "close": "11/11/2026 10:13:20 PM ADST",
+   "identification": "Pair of modern tapered square green glazed ceramic planters, about 34 cm high. Mass-produced imported garden pots, no maker marks visible in photo.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
+    {
+     "aud_price": 85.0,
+     "date": "2026-03-25",
+     "venue": "Armitage Auctions, Launceston sale 27488 lot 1760 (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2858677&chid=27488&category=ALL&style=group",
+     "same_item": "close",
+     "note": "2 low green glazed planters H-14 cm, smaller. Local room, shows cost only, not resale. Local database record only."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2026-08-19",
+     "venue": "Armitage Auctions, Launceston sale 28449 lot 1816 (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020986&chid=28449&category=ALL&style=group",
+     "same_item": "close",
+     "note": "3 green glazed planters with plants. Local room, cost guide only. Local database record only."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -974,7 +1172,7 @@
    "cdid": 3112705,
    "lot": 1864,
    "title": "CAST METAL BIRD BATH H-54 CM",
-   "strength": 2,
+   "strength": 4,
    "findings": "Cast metal pedestal bird bath with scalloped bowl and perched bird, verdigris-style painted finish. Modern reproduction cast iron/alloy garden piece, no foundry mark visible.",
    "condition": "Bowl heavily rusted inside, paint flaking on base.",
    "current_bid": 40.0,
@@ -1847,7 +2045,7 @@
    "cdid": 3112770,
    "lot": 1929,
    "title": "COPPER INSERT H-37 DIA-55 CM",
-   "strength": 4,
+   "strength": 5,
    "findings": "Large hand-riveted copper vessel, the insert from an old laundry copper/boiler: riveted vertical seam and riveted base seam, about 55 cm diameter. Genuine old copper, popular as a decorative planter or log bin. No maker stamp visible.",
    "condition": "Heavy verdigris throughout, top rim folded and ragged/split in places, dents; base appears intact from inside.",
    "current_bid": 35.0,
@@ -2406,14 +2604,59 @@
    "priority": false
   },
   {
+   "cdid": 3112803,
+   "lot": 1962,
+   "title": "4 GARDEN RAKES, INCLUDING BRAD...",
+   "strength": 2,
+   "findings": "Four vintage forged steel garden rakes on timber handles, one with shaped wooden handle and tanged heads. Title claims one by Brades (Brades of Oldbury, a known English edge-tool maker); no stamp legible in photos at this resolution, so maker claim not confirmed.",
+   "condition": "Rusted heads, weathered handles, all tines appear present.",
+   "current_bid": 25.0,
+   "bid_count": 4,
+   "close": "11/11/2026 10:52:00 PM ADST",
+   "identification": "Four vintage forged steel garden rakes (bow/tanged heads, timber handles); Brades claim unconfirmed, no stamp legible. Common old tools, low value.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay AU sold: Brades rake OR Brades garden tool (only worth it if a stamp is confirmed)",
+   "chrome_done": false,
+   "sold": [
+    {
+     "aud_price": 12.0,
+     "date": "2025-09-28",
+     "venue": "Badgers Auctions (UK)",
+     "url": "https://badgersauctions.com/product/bundle-of-garden-rakes/",
+     "same_item": "close",
+     "note": "Page opened. Three vintage rakes, rusty, wooden handles, single bidder. Rate assumed 1 GBP = 2.0 AUD (approximate, not looked up)."
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
+    {
+     "aud_price": 45.0,
+     "date": "2026-08-23",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans id 433459",
+     "same_item": "category guide",
+     "note": "Paid locally, not resale. Mixed tool lot, 4 bids. Comp database only."
+    }
+   ],
+   "resale": 12.0,
+   "net_resale": 10.2,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $12 does not clear the current bid $25",
+   "priority": false
+  },
+  {
    "cdid": 3112804,
    "lot": 1963,
    "title": "CRATE WITH DRAG CHAINS & PULLE...",
-   "strength": 3,
+   "strength": 4,
    "findings": "Milk crate of heavy steel chain (several lengths, galvanised and rusty) with grab hooks, a yellow chain shortener/grab hook, and an old cast iron/steel double-sheave snatch/pulley block with hook. No maker stamp legible on the pulley block.",
    "condition": "Surface rust on pulley block and some chain, galvanised chain in fair order.",
-   "current_bid": 25.0,
-   "bid_count": 4,
+   "current_bid": 30.0,
+   "bid_count": 5,
    "close": "11/11/2026 10:52:20 PM ADST",
    "identification": "Milk crate of used steel chain (galvanised and rusty), grab hooks, yellow chain shortener hook, and a rusty double-sheave pulley/snatch block. Generic farm rigging, no maker visible.",
    "researched": true,
@@ -2495,6 +2738,82 @@
    "max_hammer": 0,
    "status": "CHROME",
    "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
+  },
+  {
+   "cdid": 3112808,
+   "lot": 1967,
+   "title": "3 GARDEN FORKS",
+   "strength": 2,
+   "findings": "Three vintage garden forks: two D-handle digging forks and one long-handled hay or manure fork with ferrule. No maker stamps visible.",
+   "condition": "Rusted tines, worn handles, one handle with wire repair or tie at D grip.",
+   "current_bid": 25.0,
+   "bid_count": 4,
+   "close": "11/11/2026 10:53:40 PM ADST",
+   "identification": "Three common vintage garden forks: two D-handle digging forks and one long-handled hay or manure fork. No maker marks visible in the photo. Generic farm and garden tools.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
+    {
+     "aud_price": 55.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3068947&chid=28714&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Vintage Parkes garden fork, single, named maker. Local room, not a resale price. Database hit, page not opened."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-09-13",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans lot id 438151",
+     "same_item": "close",
+     "note": "Garden fork, shovel and spade lot, 7 bids. Local room, not resale. Database hit."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2025-12-03",
+     "venue": "Armitage Auctions, Launceston (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2754753&chid=26809&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "Bundle of garden forks. Local room, not resale. Database hit."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2025-09-28",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans lot id 364662",
+     "same_item": "yes",
+     "note": "2 garden forks, 7 bids. Local room, not resale. Database hit."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2025-09-10",
+     "venue": "Armitage Auctions, Launceston (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2617986&chid=25574&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "2 garden forks made in England. Local room, not resale. Database hit."
+    },
+    {
+     "aud_price": 140.0,
+     "date": "2026-07-08",
+     "venue": "Armitage Auctions, Launceston (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2973020&chid=28168&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Single small Spear & Jackson fork, named maker, unusual. Upper end only for a named good-condition piece. Not resale."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -2583,6 +2902,74 @@
    "priority": false
   },
   {
+   "cdid": 3112823,
+   "lot": 1982,
+   "title": "TIMBER PLANT STAND H-76 W-80 D...",
+   "strength": 2,
+   "findings": "Modern grey-stained softwood raised planter box/plant stand with slatted lower shelf and slatted base. Flat-pack style, no maker marks.",
+   "condition": "Good, light weathering.",
+   "current_bid": 25.0,
+   "bid_count": 4,
+   "close": "11/11/2026 10:58:40 PM ADST",
+   "identification": "Modern grey-stained softwood raised planter box / plant stand with slatted lower shelf, flat-pack garden furniture, no maker marks. Generic item.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
+    {
+     "aud_price": 100.0,
+     "date": "2026-08-30",
+     "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+     "url": "gowans lot id 434317",
+     "same_item": "close",
+     "note": "TIMBER PLANT STAND 85cm H, 5 bids. Local database hit, not opened. Local room, shows cost only."
+    },
+    {
+     "aud_price": 115.0,
+     "date": "2026-04-26",
+     "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+     "url": "gowans lot id 405093",
+     "same_item": "close",
+     "note": "TIMBER POT PLANT STAND, 5 bids. Local database hit, not opened."
+    },
+    {
+     "aud_price": 79.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+     "url": "gowans lot id 400336",
+     "same_item": "close",
+     "note": "TIMBER POT PLANT STAND, 10 bids. Local database hit, not opened."
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+     "url": "gowans lot id 400288",
+     "same_item": "close",
+     "note": "TIMBER POT PLANT STAND, 9 bids. Local database hit, not opened."
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2025-10-27",
+     "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+     "url": "gowans lot id 370596",
+     "same_item": "close",
+     "note": "TIMBER PLANT STAND, 11 bids. Local database hit, not opened."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "priority": false
+  },
+  {
    "cdid": 3112825,
    "lot": 1984,
    "title": "KINCHROME CHECKER PLATE TOOL B...",
@@ -2666,6 +3053,59 @@
    "max_hammer": 40,
    "status": "FAIL",
    "why": "max hammer $40 from a median SOLD of $293 does not clear the current bid $100",
+   "priority": false
+  },
+  {
+   "cdid": 3112828,
+   "lot": 1987,
+   "title": "SCOTTS SEED SPREADER",
+   "strength": 1,
+   "findings": "Scotts EasyGreen push rotary seed and fertiliser spreader, green hopper, modern plastic.",
+   "condition": "Appears complete and in usable order, used.",
+   "current_bid": 25.0,
+   "bid_count": 4,
+   "close": "11/11/2026 11:00:20 PM ADST",
+   "identification": "Scotts EasyGreen push rotary seed and fertiliser spreader, green plastic hopper, two wheels. Common modern garden item, retails new at roughly $70-$115.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "eBay AU sold: Scotts EasyGreen spreader",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 95.88,
+     "date": "live, seen 2026-11-07",
+     "venue": "Bunnings Warehouse (new retail)",
+     "url": "https://www.bunnings.com.au/scotts-easygreen-broadcast-fertiliser-spreader_p3351694",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified. New retail of EasyGreen broadcast spreader; other retailers showed $69 to $113 new."
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 35.0,
+     "date": "2026-09-09",
+     "venue": "Armitage Auctions, Launceston sale 28590 lot 1982",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045576&chid=28590&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "Paid locally, not a resale price. Scotts lawn spreader, from local database."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2025-07-30",
+     "venue": "Armitage Auctions, Launceston sale 25275 lot 1853",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2583004&chid=25275&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "Paid locally, not a resale price. Scotts seed spreader, from local database."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2842,7 +3282,7 @@
    "cdid": 3112850,
    "lot": 2009,
    "title": "MASPORT PETROL TILLER",
-   "strength": 3,
+   "strength": 4,
    "findings": "Masport rear-tine style mini petrol tiller/cultivator, yellow frame, blue and white Masport decal, small petrol engine, on two wheels with tines on extension shaft.",
    "condition": "Used, dirty, running condition unknown.",
    "current_bid": 40.0,
@@ -2908,10 +3348,87 @@
    "priority": false
   },
   {
+   "cdid": 3112851,
+   "lot": 2010,
+   "title": "RYOBI ELECTRIC GARDEN SHREDDER",
+   "strength": 4,
+   "findings": "Ryobi electric garden shredder with collection bin and wheeled stand; rating badge on hopper reads about 2400W.",
+   "condition": "Appears complete, clean, used.",
+   "current_bid": 55.0,
+   "bid_count": 8,
+   "close": "11/11/2026 11:08:00 PM ADST",
+   "identification": "Ryobi 2400W electric crushing/impact garden shredder with wheeled stand and collection bin, likely RSH2445-series (current Bunnings model RSH2445S, 45mm cut). Exact model not confirmed from photo.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed listings: Ryobi 2400W shredder (also RSH2445, RSH2400R), Australia",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 499.0,
+     "date": "live, seen 2026-11-07",
+     "venue": "Ryobi Australia",
+     "url": "https://www.ryobi.com.au/products/details/2400w-crushing-shredder-rsh2445s",
+     "same_item": "close",
+     "note": "Page opened. New RSH2445S, 2400W, 45mm, 55L bin. Rated 4.8 from 255 reviews. Lot is used and may be an older model."
+    },
+    {
+     "aud_price": 328.0,
+     "date": "undated, seen 2026-11-07",
+     "venue": "OzBargain",
+     "url": "https://www.ozbargain.com.au/node/907084",
+     "same_item": "close",
+     "note": "Snippet only. New discounted price. Snippet also says used units sell on marketplace for $300 or more, unverified."
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 70.0,
+     "date": "2026-03-04",
+     "venue": "Armitage Auctions, Launceston sale 27353 lot 2093 (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2835797&chid=27353&category=ALL&style=group",
+     "same_item": "yes",
+     "note": "Electric Ryobi garden shredder, going order. Local room, cost guide only, not resale. AUD."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2025-04-16",
+     "venue": "Armitage Auctions, Launceston sale 23849 lot 1626 (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2471424&chid=23849&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Ryobi 36V battery shredder, no battery. Different (cordless) model. Local room, cost guide only."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2025-12-03",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans id 380196",
+     "same_item": "close",
+     "note": "Electric Ryobi mulcher, 8 bids. Local room, cost guide only."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2025-12-08",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans id 381593",
+     "same_item": "close",
+     "note": "Ryobi mulcher, 2 bids. Local room, cost guide only."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
+  },
+  {
    "cdid": 3112854,
    "lot": 2013,
    "title": "MACHT PETROL TILLER",
-   "strength": 2,
+   "strength": 4,
    "findings": "Macht mini petrol tiller/cultivator, red frame, two-stroke style engine, Macht logo on tine guard. Budget brand.",
    "condition": "Used, dirty, running condition unknown.",
    "current_bid": 50.0,
@@ -3783,14 +4300,99 @@
    "priority": false
   },
   {
+   "cdid": 3112880,
+   "lot": 2039,
+   "title": "TROLLEY JACK, AIR COMPRESSOR, ...",
+   "strength": 5,
+   "findings": "Red painted low-profile trolley jack, small direct-drive air compressor on horizontal tank with regulator and gauges, and a pedestal tyre bead breaker. No brand legible on badges at this resolution. Title says going order.",
+   "condition": "Freshly painted red overall (possibly repainted), compressor shroud worn.",
+   "current_bid": 25.0,
+   "bid_count": 4,
+   "close": "11/11/2026 11:17:40 PM ADST",
+   "identification": "Unbranded red repainted low-profile trolley jack, small direct-drive compressor on horizontal tank, and pedestal manual tyre bead breaker. Generic workshop items, no collectable value.",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 129.0,
+     "date": "live, seen 2026-11-07",
+     "venue": "Ozanda (new retail)",
+     "url": "https://ozanda.com.au/product/manual-tyre-bead-breaker-tire-changer-atv-van-truck-manual-tool-38-42/",
+     "same_item": "category guide",
+     "note": "New manual bead breaker. Snippet only, not verified. New price, not used value."
+    },
+    {
+     "aud_price": 212.5,
+     "date": "live, seen 2026-11-07",
+     "venue": "a2zmart (new retail)",
+     "url": "https://a2zmart.com.au/products/unimac-24l-2-0hp-air-compressor-direct-drive-2-couplers-for-airtools-tyre-inflation-portable-electric",
+     "same_item": "category guide",
+     "note": "New Unimac 24L direct drive compressor. Snippet only, not verified. New price; this unit is a used, worn, horizontal tank type."
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 95.0,
+     "date": "2026-09-13",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 438506",
+     "same_item": "close",
+     "note": "2500kg trolley jack. Paid locally, not a resale price. Local database hit."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-03-25",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2858938&chid=27488&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Red trolley jack, sale 27488 lot 2021. Paid locally, not a resale price."
+    },
+    {
+     "aud_price": 105.0,
+     "date": "2026-06-28",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 420555",
+     "same_item": "close",
+     "note": "2.5HP air compressor, 7 bids. Paid locally, not a resale price."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-08-09",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 430144",
+     "same_item": "category guide",
+     "note": "Ozito 24L compressor, 3 bids. Paid locally, not a resale price."
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-07-26",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 426862",
+     "same_item": "category guide",
+     "note": "Air compressor tank with trolley. Paid locally, not a resale price."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
+  },
+  {
    "cdid": 3112884,
    "lot": 2043,
    "title": "CHECKER PLATE TOOL BOX WITH TO...",
    "strength": 5,
    "findings": "Aluminium checker plate ute-style tool box, 121 cm, lockable T-handle, with contents: orange Craftsman-style drill bit/driver set case, red ladybird-shaped item (child toy/helmet), timber boxes, leather tool pouch, hand plane or sander (orange/white), tape/rule and assorted sundries. Brands mostly not legible.",
    "condition": "Box in good order, minor scuffs; contents used.",
-   "current_bid": 35.0,
-   "bid_count": 5,
+   "current_bid": 45.0,
+   "bid_count": 7,
    "close": "11/11/2026 11:19:00 PM ADST",
    "identification": "Unbranded aluminium checker plate ute/trailer tool box about 121cm with T-handle lock, containing used tools and sundries; looks clean and near new in photo",
    "researched": true,
@@ -3881,6 +4483,67 @@
    "max_hammer": 0,
    "status": "CHROME",
    "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
+  },
+  {
+   "cdid": 3112887,
+   "lot": 2046,
+   "title": "CARAVAN TOW KIT INCLUDING HITC...",
+   "strength": 5,
+   "findings": "Caravan weight distribution hitch kit: receiver shank with head, two spring bars with chains, and two frame brackets. Brand not visible (style similar to Hayman Reese type). Such kits are sought by caravan owners.",
+   "condition": "Black paint wear and surface rust, appears complete for main parts.",
+   "current_bid": 45.0,
+   "bid_count": 8,
+   "close": "11/11/2026 11:20:00 PM ADST",
+   "identification": "Caravan weight distribution hitch kit, round spring bars with chains, head, shank and two frame brackets. Looks Hayman Reese style (Classic round bar), brand and rating not confirmed. Black paint, rusty, appears complete.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: hayman reese weight distribution hitch (also Gumtree used listings for 600lb/800lb classic kit)",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 768.0,
+     "date": "live, seen 2026-11-07",
+     "venue": "mytuff4x4.com.au",
+     "url": "https://mytuff4x4.com.au/products/hayman-reese-weight-distribution-hitch-600lb-275kg-with-30inch-round-bars-32mm-head-no-shank-76003h-ns",
+     "same_item": "category guide",
+     "note": "New retail, snippet only (price came via a search summary), unverified. Brand new Hayman Reese, so a ceiling only."
+    },
+    {
+     "aud_price": 716.22,
+     "date": "live, seen 2026-11-07",
+     "venue": "carasel.com.au",
+     "url": "https://www.carasel.com.au/weight-distribution-hitch-800lb-28-trun-s-bar-w-ca",
+     "same_item": "category guide",
+     "note": "New retail, snippet only, unverified; URL is the 800lb 28in listing, price was quoted for the 78003H-NS variant so may not match this page."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "undated",
+     "venue": "rme4x4.com forum classified",
+     "url": "https://rme4x4.com/threads/soldequalizer-weight-distribution-hitch.116275/post-1123420",
+     "same_item": "category guide",
+     "note": "Used private asking price, different brand, snippet only, undated, unverified."
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 55.0,
+     "date": "2025-10-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 371405",
+     "same_item": "yes",
+     "note": "HAYMAN REESE TOWING - WEIGHT DISTRIBUTION HITCH; local room, paid locally, a cost guide only, not resale. Local database hit, condition unknown, 1 bid."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -3987,7 +4650,7 @@
    "cdid": 3112895,
    "lot": 2054,
    "title": "BUTTERFLY 3M X 3M GAZEBO",
-   "strength": 3,
+   "strength": 4,
    "findings": "Boxed Butterfly Gazebo 3m x 3m, charcoal powder coated steel frame and 250g polyester canopy, 12 month warranty label, budget retail item (store brand).",
    "condition": "Box worn and taped, contents unchecked.",
    "current_bid": 50.0,
