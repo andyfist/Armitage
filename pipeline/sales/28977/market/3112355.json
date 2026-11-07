@@ -1,7 +1,7 @@
 {
  "cdid": 3112355,
  "lot": 1451,
- "identification": "Stihl MS 391 Farm Boss chainsaw, used, clean",
+ "identification": "Stihl MS 391 chainsaw with a Stihl 'Farm Boss' bar and chain and orange scabbard; used, tidy, some oil and sawdust grime around the clutch cover; bar length not readable in the photos",
  "entries": [
   {
    "kind": "SOLD",
@@ -124,12 +124,54 @@
    "same_item": "partial",
    "note": "Stihl MS 391 petrol chainsaw, pre-owned, listing gives no condition detail seen; far above Gowans $160-320 results, may include extras or be a tested/serviced saw. Only whole-saw sale found; other results were parts.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$793.52 (eBay conversion from USD)",
+   "currency": "USD",
+   "aud_price": 793.52,
+   "date": "2026-11-06",
+   "venue": "eBay (US seller)",
+   "url": "https://www.ebay.com.au/itm/137537388661",
+   "size_cm": null,
+   "same_item": "close",
+   "note": "'Stihl MS391 Chains Saw 25\" Bar'. From the sold card; the item page would not load, so condition not checked and USD figure not seen. 25 in bar.",
+   "same_item_raw": "close",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$440.05 (eBay conversion from USD)",
+   "currency": "USD",
+   "aud_price": 440.05,
+   "date": "2026-11-06",
+   "venue": "eBay (US seller), auction",
+   "url": "https://www.ebay.com.au/itm/117493109312",
+   "size_cm": null,
+   "same_item": "partial",
+   "note": "'STIHL MS391 64cc Gas-Powered Chainsaw W/20\" Bar & Chain PARTS REPAIR'. Sold as parts or repair, 20 in bar, 11 bids. From the sold card, not opened.",
+   "same_item_raw": "partial",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$995",
+   "currency": "AUD",
+   "aud_price": 995,
+   "date": "2026-06-10",
+   "venue": "Gumtree (Cash Converters Ballarat, VIC)",
+   "url": "https://www.gumtree.com.au/web/listing/garden-tools/1342731466",
+   "size_cm": null,
+   "same_item": "close",
+   "note": "'Stihl MS391 Chainsaw 2-Stroke'. 'Working condition, well used', blade cover, 90-day warranty. Bar length not stated. Date is the listing date.",
+   "same_item_raw": "close",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py x3 (pipeline and work; stihl ms391, stihl 391, farm boss, stihl 390/362/261/039); Gowans API search stihl 391 (no MS 391 sold since Jul 2024, no hits); WebSearch for MS 391 auction results (retail/Gumtree only); WebSearch site:armitage (nothing useful); opened OzBargain. eBay sold would settle it (blocked here). | chrome: eBay AU sold: stihl ms 391 (all parts), stihl ms391 chainsaw AU only; several eBay error pages from throttling | chrome: eBay AU sold: stihl ms 391 (all parts), stihl ms391 chainsaw AU only; several eBay error pages from throttling | chrome: eBay sold AU 'stihl ms391', 'stihl ms 391 chainsaw'; Terapeak eBay AU sold, last 2 years: 'stihl ms391' (min $250); rerun with fixed filter",
+ "searches_tried": "comps.py x3 (pipeline and work; stihl ms391, stihl 391, farm boss, stihl 390/362/261/039); Gowans API search stihl 391 (no MS 391 sold since Jul 2024, no hits); WebSearch for MS 391 auction results (retail/Gumtree only); WebSearch site:armitage (nothing useful); opened OzBargain. eBay sold would settle it (blocked here). | chrome: eBay AU sold: stihl ms 391 (all parts), stihl ms391 chainsaw AU only; several eBay error pages from throttling | chrome: eBay AU sold: stihl ms 391 (all parts), stihl ms391 chainsaw AU only; several eBay error pages from throttling | chrome: eBay sold AU 'stihl ms391', 'stihl ms 391 chainsaw'; Terapeak eBay AU sold, last 2 years: 'stihl ms391' (min $250); rerun with fixed filter | chrome: eBay AU sold 'stihl ms391' (mostly parts); eBay AU sold 'stihl 391 chainsaw'; eBay AU sold 'stihl 391' Australia-only over A$300; eBay AU sold 'stihl ms391' Australia-only over A$300; Gumtree 'stihl ms391'; WebSearch 'MS391 Stihl chainsaw auction sold Australia 2026' (TractorHouse results need a login: https://www.tractorhouse.com/listing/auction-results/253346027/stihl-ms-391-chainsaws). Three other eBay searches returned eBay error pages.",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold/completed: Stihl MS 391 chainsaw (also MS391 Farm Boss, used)",
- "viewing_check": "Pull for compression and check bar/chain wear.",
+ "viewing_check": "eBay AU shows no other Australian sale of a whole MS 391 in the last 90 days, and the already-found A$850 sale (188962931032, Windsor NSW) was 'Best Offer accepted' with the A$850 struck through, so the real price is hidden and was at or below A$850. Check it starts and idles, the chain brake works, bar length (stamped on the bar tail) and chain condition, and look at the clutch and sprocket area where the grime is.",
  "rate_note": "All AUD, no conversion. Gowans hammers exclude premium. No MS 391 SOLD comp found; closest are used Stihl saws at Gowans, typically $110-320 hammer, MS 390 $160. Scan note of $250-400 resale is a private-sale figure and untested by auction evidence; used-saw asking prices on Gumtree are $750-1,000.",
  "chrome_done": true
 }

@@ -15,8 +15,8 @@
  "scanned": 354,
  "candidates": 68,
  "counts": {
-  "PASS": 5,
-  "CHROME": 52,
+  "PASS": 7,
+  "CHROME": 50,
   "FAIL": 7,
   "DROP": 3,
   "NOT RESEARCHED": 1
@@ -169,7 +169,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:33:20 PM ADST",
-   "identification": "Large abstract coastal landscape oil, black/cream/ochre, aluminium frame; attributed Ryllton Viney 'Dark Sea - Light Cliffs' 2003 from back label (no signature seen) (from earlier research; photos not re-checked this pass)",
+   "identification": "Large portrait-format abstract coastal landscape attributed to Ryllton Viney: ochre horizon over a black sea band and cream cliff forms, brushed aluminium frame. Back label handwritten 'RYLLTON VINEY / \"DARK SEA - LIGHT CLIFFS.\" / 2003.' on a brown board backing, with a large handwritten mark beside it. No signature visible on the front in the online photos (both lower corners checked).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -185,6 +185,14 @@
      "url": "https://madelinegordongallery.com.au/shop/",
      "same_item": "category guide",
      "note": "Recent retail for the artist's current large mixed-media/oil works. snippet only, not verified. Gallery prices, not paid prices."
+    },
+    {
+     "aud_price": 0.0,
+     "date": "2026-11-07",
+     "venue": "Madeline Gordon Gallery, Launceston (website)",
+     "url": "https://madelinegordongallery.com.au/shop/a-quiet-moment-of-surrender/",
+     "same_item": "category",
+     "note": "'A Quiet Moment of Surrender', Ryllton Viney, acrylic and sand on canvas, a current work. This page and the gallery's other Viney listings (To Rearrange is to Redefine I and II 120 x 100, The Legacy of Empire 152 x 92, Before the Light Fades 100 x 100, In the Eye of the Storm 92 x 76, The Road We Travel 152 x 92, The Silence of Winter I 137 x 121) show no price online, so the known A$2,500 snippet could not be confirmed."
     }
    ],
    "paid": [
@@ -1597,12 +1605,21 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:53:20 PM ADST",
-   "identification": "Geoff Dyer watercolour gouache Still Water Study 31x39cm",
+   "identification": "Geoff Dyer watercolour and gouache: misty river or estuary scene with moored boats and jetty forms in greys, olive and ochre, white gouache highlights and drips; cream mat, thin gilt metal frame; faint pencil signature lower right that looks like 'Dyer 81' but is not legible at photo resolution",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Invaluable or LiveAuctioneers: 'Geoffrey Dyer watercolour gouache' sold results 2024-2026, filter works on paper under 45cm; also eBay sold 'Geoff Dyer watercolour'",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 1500.0,
+     "date": "2026-10-28",
+     "venue": "Lawsons (sale 'Fine Art: Company Collection, Melbourne') via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/geoffrey-dyer-1947-2020-riverbank-watercolour-and-5107-c-be7e8d647d",
+     "same_item": "close",
+     "note": "Updates a known entry. 'GEOFFREY DYER, (1947 - 2020), Riverbank, watercolour and gouache on paper', signed lower right, provenance private collection Melbourne, sale 'Fine Art: Company Collection, Melbourne', est A$2,000-3,000. Same medium, almost the same size, riverbank subject, year not stated. Page's current bid also shows A$1,500; lot terms list a 30% buyer's premium; page does not say whether the sold figure includes it. Re-checked 7 Nov 2026: the logged-out page text shows 'Sold: Log in to view'; the A$1,500 figure comes from data embedded in the page (the same figure an earlier pass found). Sale date, house, size, estimate and the 30% premium confirmed on the page."
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 1500.0,
@@ -1629,6 +1646,38 @@
      "url": "https://www.invaluable.com/artist/dyer-geoffrey-pu03gey9xt/sold-at-auction-prices/",
      "same_item": "category guide",
      "note": "Study for Hill at Iron Ore Creek (No.13), watercolour and gouache, passed in. Page opened. Small study, close in type."
+    },
+    {
+     "aud_price": 0.0,
+     "date": "2026-07-02",
+     "venue": "Leonard Joel (Melbourne) via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/geoffrey-dyer-abstract-4120-c-20939bfe52",
+     "same_item": "close",
+     "note": "'GEOFFREY DYER, (ABSTRACT), MIXED MEDIA ON PAPER, SIGNED LOWER RIGHT, 40 X 36CM', est A$1,000-1,500, 0 bids. Same size class and a work on paper, but abstract rather than a landscape. Shows where demand stopped for a small Dyer on paper in mid 2026. Lot terms list 27% premium."
+    },
+    {
+     "aud_price": 1500.0,
+     "date": "2026-10-28",
+     "venue": "Lawsons (sale 'Fine Art: Company Collection, Melbourne') via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/geoffrey-dyer-1947-2020-valley-landscape-watercol-5042-c-0d21960c78",
+     "same_item": "category",
+     "note": "Updates a known entry: the lot page shows this passed (isLotSold false, sold amount 0), so the earlier 'SOLD A$1,400' reading was wrong. 'GEOFFREY DYER, (1947 - 2020), Valley Landscape, watercolour and gouache on paper', est A$4,000-6,000, same sale as Riverbank."
+    },
+    {
+     "aud_price": 0.0,
+     "date": "2026-10-11",
+     "venue": "Davidson Auctions (Sydney) via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/dyer-geoffrey-1947-2020-clear-morning-w-clr-57x76-30-c-e5beae1e9a",
+     "same_item": "category",
+     "note": "'DYER Geoffrey (1947-2020), Clear Morning, W/Clr, 57x76cm (sheet)', unframed, Estate Late Geoffrey Dyer, est A$700-1,100, 0 bids. Also passed at Davidson on 26 Jul 2026."
+    },
+    {
+     "aud_price": 0.0,
+     "date": "2026-08-13",
+     "venue": "Leonard Joel (Melbourne) via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/geoffrey-dyer-abstract-jungle-scene-4027-c-bb5635d5c4",
+     "same_item": "category",
+     "note": "'GEOFFREY DYER, (ABSTRACT JUNGLE SCENE), MIXED MEDIA ON PAPER', est A$800-1,200, 0 bids. Invaluable data shows the same work also passed on 25 Jun, 2 Jul and 6 Aug 2026."
     }
    ],
    "asking": [
@@ -1659,11 +1708,11 @@
      "note": "East Coast Series gouache 54x75.5cm with Queensland collection provenance, 0 bids recorded so hammer may be a recorded post-sale or private figure. Not a good comp for a small loose study; treat as an outlier."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 1500.0,
+   "net_resale": 1275.0,
+   "max_hammer": 880,
+   "status": "PASS",
+   "why": "1 same-item SOLD price(s), median $1,500; less 15% fees = $1,275; less $200 profit, / 1.22 premium = max hammer $880",
    "priority": false
   },
   {
@@ -3640,12 +3689,53 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:34:00 PM ADST",
-   "identification": "Wykeham Perry style gum-tree landscape with three picnickers, oil, gilt frame with red velvet slip, signed lower left. (from earlier research; photos not re-checked this pass)",
+   "identification": "Oil, gum-tree landscape with three picnickers (a standing man and two seated figures in white with sun hats) under tall white-trunked gums, soft green and blue tones; ornate gilt frame with red velvet slip; dark cursive signature lower left that reads like 'Wykeham Perry'",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 350.0,
+     "date": "2025-08-06",
+     "venue": "Lawsons (Sydney) via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/wykeham-perry-australia-1936-2021-untitled-cottage-8103-c-b64469e873",
+     "same_item": "close",
+     "note": "'WYKEHAM PERRY, Australia (1936 - 2021), Untitled (Cottage Scene), oil on canvas board', signed lower left: Wykeham Perry, est A$200-300. Same size and medium; subject is a red-roofed cottage with two figures in a garden, not gums and picnickers. 30% premium in lot terms; page does not say whether included."
+    },
+    {
+     "aud_price": 340.0,
+     "date": "2026-05-13",
+     "venue": "Woodlands Auctions via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/wykeham-perry-oil-on-board-coastal-scene-39cm-x-29-194-c-da13e9f261",
+     "same_item": "close",
+     "note": "'Wykeham Perry, oil on board, Coastal Scene, 39cm x 29cm', est A$300-500. Same size; coastal subject. Invaluable data shows a second Woodlands Perry, 'Fishing in the River', also at A$340 that day (lot page not opened). 25% premium in lot terms; page does not say whether included."
+    },
+    {
+     "aud_price": 260.0,
+     "date": "2025-07-23",
+     "venue": "Lawsons (Sydney) via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/wykeham-perry-australia-1936-2021-untitled-couples-5141-c-7c24132820",
+     "same_item": "close",
+     "note": "'WYKEHAM PERRY, Australia (1936-2021), Untitled (Couples stroll), oil on canvas board', signed lower right, est A$200-300. Similar size, figures in a landscape. 30% premium in lot terms; page does not say whether included."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2026-05-13",
+     "venue": "Leski Auctions (Melbourne) via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/wykeham-perry-1936-2021-a-picnic-group-oil-on-canv-404-c-5fa86374ad",
+     "same_item": "close",
+     "note": "'WYKEHAM PERRY (1936-2021), A Picnic Group, oil on canvas board, signed lower left', est A$150-250. Same subject, a little larger. Invaluable data shows the same title passed in at Leski on 30 Nov 2025 before this sale. 24.5% premium in lot terms; page does not say whether included."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-08-09",
+     "venue": "Amanda Addams Auctions via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/wykeham-perry-australian-1936-2021-river-scene-oil-198-c-7c12398c44",
+     "same_item": "close",
+     "note": "'Wykeham Perry (Australian 1936-2021) \"River Scene\" oil', est A$200-300. Same size; river subject. The page shows a sold figure of A$90 while its current-bid field shows A$160 with 0 bids; recorded as the sold figure shown. 26.4% premium in lot terms."
+    }
+   ],
    "sold_old": [],
    "unsold": [
     {
@@ -3665,6 +3755,14 @@
      "url": "https://www.artrecord.com/index.cfm/artist/12709-perry-wykeham/medium/1-paintings/?order=7&io=1&count=50",
      "same_item": "category guide",
      "note": "Snippet only, unverified, much larger work; estimate not a price paid. Rate AUD only."
+    },
+    {
+     "aud_price": 399.0,
+     "date": "2026-11-07",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/205390429497",
+     "same_item": "category",
+     "note": "'Wykeham Perry Australian Artist-Near Mansfield, Vic-1988-Oil-Signed-Framed', oil on canvas panel, signed and dated 1988. Fixed-price listing shown as active when read by cloud fetch (Chrome got an eBay error page); listing last updated 31 Oct 2025. Not a sale."
     }
    ],
    "paid": [
@@ -3749,11 +3847,11 @@
      "note": "Plain oil on board, low end. Local database record, page not opened."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 260.0,
+   "net_resale": 221.0,
+   "max_hammer": 15,
+   "status": "PASS",
+   "why": "5 same-item SOLD price(s), median $260; less 15% fees = $221; less $200 profit, / 1.22 premium = max hammer $15",
    "priority": false
   },
   {

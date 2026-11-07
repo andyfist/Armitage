@@ -15,9 +15,9 @@
  "scanned": 417,
  "candidates": 144,
  "counts": {
-  "PASS": 12,
-  "CHROME": 81,
-  "FAIL": 46,
+  "PASS": 13,
+  "CHROME": 76,
+  "FAIL": 50,
   "DROP": 5,
   "NOT RESEARCHED": 0
  },
@@ -184,12 +184,53 @@
    "current_bid": 50.0,
    "bid_count": 1,
    "close": "11/11/2026 3:31:00 PM ADST",
-   "identification": "John Campbell double handled vase",
+   "identification": "John Campbell (Launceston, Tasmania) squat globular two-handled vase with an incised shoulder band, green drip glaze over amber-yellow, amber interior. Base incised 'John Campbell / 1935 / Tasmania' with a cursive code above (reads like '2.L.H' or '2.L.A'). No chips or cracks visible in the three photos.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 200.0,
+     "date": "2025-05-24",
+     "venue": "Leski Auctions, Melbourne (Sale 517 lot 258)",
+     "url": "https://auctions.leski.com.au/lot-details/index/catalog/637/lot/224238",
+     "same_item": "close",
+     "note": "JOHN CAMPBELL green and yellow glazed pottery vase with two handles, incised \"John Campbell, Tasmania\", 18cm high, 23cm wide. Estimate $150-250. Photo shows the same squat two-handled form with green drip over amber. Not described as dated. Leski's printed results say hammer only."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2025-11-29",
+     "venue": "Leski Auctions, Melbourne (Sale 525 lot 1263)",
+     "url": "https://auctions.leski.com.au/lot-details/index/catalog/640/lot/231569",
+     "same_item": "close",
+     "note": "JOHN CAMPBELL two handled green glazed pottery vase, incised \"John Campbell, Tasmania\", 19cm high, 25cm wide. Estimate $200-300. Photo shows the same form, all-over green drip. Not dated."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2025-11-29",
+     "venue": "Leski Auctions, Melbourne (Sale 525 lot 1252)",
+     "url": "https://auctions.leski.com.au/lot-details/index/catalog/640/lot/225201",
+     "same_item": "close",
+     "note": "JOHN CAMPBELL blue glazed two handled pottery vase, incised \"John Campbell, Tasmania\", 18cm high, 24cm wide. Estimate $250-350. Blue glaze instead of green/amber; not dated."
+    },
+    {
+     "aud_price": 260.0,
+     "date": "2025-11-29",
+     "venue": "Leski Auctions, Melbourne (Sale 525 lot 1253)",
+     "url": "https://auctions.leski.com.au/lot-details/index/catalog/640/lot/227431",
+     "same_item": "close",
+     "note": "JOHN CAMPBELL green glazed two handled pottery vase, incised \"John Campbell, 1933\", 22.5cm high, 28cm wide. Estimate $300-500. Dated like this lot but larger; same family of form."
+    },
+    {
+     "aud_price": 260.0,
+     "date": "2024-12-07",
+     "venue": "Leski Auctions, Melbourne (Sale 513 lot 699)",
+     "url": "https://auctions.leski.com.au/lot-details/index/catalog/623/lot/219761",
+     "same_item": "close",
+     "note": "JOHN CAMPBELL blue glazed pottery two handled vase, incised \"John Campbell, 1934\", 15.5cm high. Estimate $150-250. Dated, smaller, blue glaze; shape not checked."
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 320.0,
@@ -277,11 +318,11 @@
      "note": "8 bids; likely smaller. Lower end of the range. Premium extra. Page opened via API; AUD, no conversion."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 200.0,
+   "net_resale": 170.0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $200 does not clear the current bid $50",
    "priority": false
   },
   {
@@ -294,7 +335,7 @@
    "current_bid": 30.0,
    "bid_count": 4,
    "close": "11/11/2026 3:31:40 PM ADST",
-   "identification": "Small John Campbell glazed wall pocket, mottled brown/amber, c.11cm; signature not seen in photo (hanging string on)",
+   "identification": "Small John Campbell fan/shield-shaped wall pocket with a hanging hole, streaky mottled brown, caramel and amber glaze. Back incised '...Campbell / Tas' with 'MID' (or 'M.L.D.') below; a pale unglazed spot near the bottom of the back.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: John Campbell Tasmania pottery wall pocket",
@@ -311,7 +352,16 @@
    ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "2026-11-21",
+     "venue": "Leski Auctions, Melbourne (Sale 536 lot 29, upcoming)",
+     "url": "https://auctions.leski.com.au/lot-details/index/catalog/660/lot/230821",
+     "same_item": "partial",
+     "note": "JOHN CAMPBELL pottery wall pocket with koala decoration, incised \"John Campbell, Tasmania\", 18cm high. Larger and has applied koala decoration, which this lot doesn't."
+    }
+   ],
    "paid": [
     {
      "aud_price": 75.0,
@@ -1025,7 +1075,7 @@
    "current_bid": 30.0,
    "bid_count": 3,
    "close": "11/11/2026 3:35:20 PM ADST",
-   "identification": "John Campbell wall vase",
+   "identification": "John Campbell flared fan-shaped wall vase (wall pocket) with flat back and hanging hole, speckled turquoise-green glaze with amber/orange bands, amber interior. Back incised with a cursive 'JC' monogram (possibly with 'Tas'), no date seen; pale patches on the back near the left edge.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Carters price guide https://www.carters.com.au/index.cfm/index/3845-campbell-john-australia-ceramics-wall-pockets-wall-vases/ (sold wall pocket prices with dates); also eBay sold: john campbell tasmania wall pocket",
@@ -1041,6 +1091,14 @@
      "url": "https://www.islingtonantiques.com.au/product/australian-pottery-john-campbell-vase/",
      "same_item": "category guide",
      "note": "Page opened. Small 125 mm dated 1935 drip-glaze vase, good condition. Dealer asking price, not price paid; moved to Sold category so actual price unknown."
+    },
+    {
+     "aud_price": 0.0,
+     "date": "2026-11-21",
+     "venue": "Leski Auctions, Melbourne (Sale 536 lot 29, upcoming)",
+     "url": "https://auctions.leski.com.au/lot-details/index/catalog/660/lot/230821",
+     "same_item": "partial",
+     "note": "JOHN CAMPBELL pottery wall pocket with koala decoration, incised \"John Campbell, Tasmania\", 18cm high. Similar size; applied koala decoration makes it a better piece than this lot."
     }
    ],
    "paid": [
@@ -3098,15 +3156,32 @@
    "current_bid": 15.0,
    "bid_count": 1,
    "close": "11/11/2026 3:56:20 PM ADST",
-   "identification": "Royal Doulton Lambeth stoneware ovoid vase, about 29cm, tube-lined chrysanthemums on mottled green-blue ground, impressed lion-and-crown Royal Doulton mark (c.1902-1922), pattern no. 8243, decorator monogram. Appears Lambeth art stoneware, mid-range decorator ware, not obviously a named top artist (Barlow, Butler, Simmance) piece without reading the monogram.",
+   "identification": "Royal Doulton Lambeth stoneware vase, shouldered ovoid body with flared cylindrical neck, tube-lined white chrysanthemums with amber-brown leaves on a mottled grey-green to blue ground with white dot clusters and brown bands. Base has the impressed lion-crown-circle Royal Doulton mark (1902-1922 type) and impressed 8243, plus a small painted dark blue/black mark beside the lion and faint incised characters (perhaps 'C' or 'O' and '7'). Neither mark is legible enough at the photo's 450x600 px to name a decorator, and no incised senior-artist monogram (ES, FAB, MVM, BHB, FEB) can be seen.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: Royal Doulton Lambeth stoneware vase tube lined 8243; also the-saleroom price guide 'doulton lambeth stoneware vase'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 62.1,
+     "date": "2026-10-18",
+     "venue": "eBay (UK seller, shown on eBay AU)",
+     "url": "https://www.ebay.com.au/itm/358844976565",
+     "same_item": "partial",
+     "note": "Royal Doulton Lambeth Stoneware Vase MB Bowden Art Nouveau 27cm 1920s. eBay's sold search listed it as 'Sold 18 Oct 2026', but the item page says the seller ended it because the item was no longer available, so a sale is not confirmed. Assistant-decorated (Maud Bowden) vase of similar size and era; decoration not checked."
+    },
+    {
+     "aud_price": 0.0,
+     "date": "2026-03-18",
+     "venue": "Irita Marriott Auctioneers (UK)",
+     "url": "https://www.iritamarriottauctioneers.co.uk/catalogue/lot/acd75feef52683a6abed932876209bce/ac869eb6fd0ab6f5ae3773f46ee09093/march-two-day-antique-and-collectors-auction-lot-45/",
+     "same_item": "partial",
+     "note": "Lot 45: A pair of Doulton Lambeth drip glazed vases, tube lined floral decoration with flowers and fruit, impressed marks, approx 30cm high. Same size and type of ware, not chrysanthemums, a pair; whether it sold is not shown."
+    }
+   ],
    "paid": [
     {
      "aud_price": 60.0,
@@ -3137,7 +3212,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -6413,14 +6488,23 @@
    "current_bid": 15.0,
    "bid_count": 1,
    "close": "11/11/2026 4:32:20 PM ADST",
-   "identification": "Large green hand-blown art glass platter ~55cm, white feather pattern, engraved Matthew Larwood (JamFactory)",
+   "identification": "Large green hand-blown art glass platter, about 55 cm, white and pale green pulled-feather (combed) pattern spiralling from the centre; base engraved 'Matthew Larwood' in script with a small engraved leaf mark",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Matthew Larwood platter; also carters.com.au Larwood price guide page",
    "chrome_done": true,
    "sold": [],
    "sold_old": [],
-   "unsold": [],
+   "unsold": [
+    {
+     "aud_price": 0.0,
+     "date": "2025-02-23",
+     "venue": "Theodore Bruce via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/matthew-larwood-australia-blue-speckled-bowl-jam--129-c-3ee4b55b12",
+     "same_item": "category",
+     "note": "'Matthew Larwood, Australia, Blue Speckled Bowl (Jam Factory Studio), Art Glass', est A$200-300, 0 bids."
+    }
+   ],
    "asking": [
     {
      "aud_price": 380.0,
@@ -9608,12 +9692,29 @@
    "current_bid": 35.0,
    "bid_count": 2,
    "close": "11/11/2026 5:04:40 PM ADST",
-   "identification": "Two silver-cased key-wind pocket watches (full hunter with enamel dial signed W. Ehrhardt? London; second hunter signed H. Kerman? Melbourne) plus loose engraved case lid; sold as is",
+   "identification": "Two silver-cased pocket watches and a loose case cover: a full hunter with a white enamel Roman dial and subsidiary seconds, dial signed W. EHRHARDT, LONDON as far as the photo shows, with no bow; and a second watch shown without a front cover, white enamel Roman dial with subsidiary seconds and blued hands, dial apparently signed H. KERMAN, MELBOURNE (not fully legible), yellow-metal bow. The loose cover has an engraved crest or monogram cartouche. Hallmarks not visible.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: 'antique silver key wind pocket watch Melbourne' and 'Kerman Melbourne pocket watch'",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 320.0,
+     "date": "2026-10-20",
+     "venue": "eBay AU (Australian seller)",
+     "url": "https://www.ebay.com.au/itm/168782061308",
+     "same_item": "close",
+     "note": "Antique Pocket Watch W Ehrhardt London Full Hunter Key Wind St.Sil & Gol... (title cut off in results): key-wind full hunter in sterling repousse cases with London hallmarks, fusee movement, described as in remarkable working order; dents, dial hairline near 9, chip by the hands, glass missing. Same maker as the lot's first watch; differs: working, decorative repousse case, single watch."
+    },
+    {
+     "aud_price": 126.0,
+     "date": "2025-06-25",
+     "venue": "Ewbank's (UK), via LiveAuctioneers",
+     "url": "https://www.liveauctioneers.com/item/209628583",
+     "same_item": "close",
+     "note": "Two silver pocket watches, one J.W. Benson and a J.B. Yabsley hallmarked 1884, with an empty silver pocket watch case, two keys and a gilt-metal half hunter; silver watches and case gross 193.4 g; Benson dial cracked; movements untested; estimate GBP 80-120, sold under estimate. Similar make-up to this lot (two silver watches plus a loose case part); case styles not stated. AUD approx at 1.94 (Nov 2026 rate)."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -9667,11 +9768,11 @@
      "note": "2 pocket watches incl continental silver; i390085; from local comps database, page not opened; AUD, no conversion"
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 223.0,
+   "net_resale": 189.54999999999998,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $223 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -10163,12 +10264,37 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 5:09:00 PM ADST",
-   "identification": "Omega De Ville quartz ladies, white Roman dial, steel case with gold crown, black lizard strap; looks genuine, running unknown (from earlier research; photos not re-checked this pass)",
+   "identification": "Omega De Ville Quartz ladies wristwatch: caseback medallion with the city-skyline emblem reads 'De Ville Quartz'; round steel case with a gold-coloured crown and what may be a gold-toned bezel ring (unclear in photo 3); white dial with Omega logo and black Roman numerals, dark hands (any De Ville text on the dial is not legible); black lizard-grain strap with a steel-coloured buckle. Size and running not shown.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Omega De Ville quartz ladies stainless steel Roman dial (Australia and worldwide)",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 555.0,
+     "date": "2026-10-31",
+     "venue": "eBay (seller in Japan, shown on eBay AU)",
+     "url": "https://www.ebay.com.au/itm/880054830214",
+     "same_item": "close",
+     "note": "VINTAGE Omega De Ville 595.1111 Cal.1470 White Roman Quartz Women Watch JAPAN. Steel case with gold bezel and gold crown, white dial with black Roman numerals and De Ville text, black leather strap, described as near mint. Same look as the lot if its bezel is gold-toned; condition far better than an untested lot. Sold at the listed price (card says 'or Best Offer', not 'Best Offer accepted'); no premium. AUD is eBay's conversion (about 1.443 per USD)."
+    },
+    {
+     "aud_price": 95.0,
+     "date": "2026-09-30",
+     "venue": "eBay (shown on eBay AU)",
+     "url": "https://www.ebay.com.au/itm/227541429602",
+     "same_item": "close",
+     "note": "Vintage Omega De Ville Ladies Watch Quartz White Roman Dial repair/parts Watch. Head only, no strap; steel case, white dial with black Roman numerals and Omega logo, Swiss Made; steel crown (the lot's crown is gold-coloured); sold for repair or parts. AUD approx at 1.443 (eBay's USD conversion this week)."
+    },
+    {
+     "aud_price": 505.0,
+     "date": "2025-07-29",
+     "venue": "Sterling Vault Auctioneers, Worthing UK, via LiveAuctioneers",
+     "url": "https://www.liveauctioneers.com/item/211594433",
+     "same_item": "close",
+     "note": "Ladies Omega De Ville Quartz, ref 795.1111: 23mm stainless steel, white dial with black Roman numerals, Omega-signed crown, on an Omega bead-of-rice steel bracelet, running; estimate GBP 250-350. Differs: all steel (steel bezel and crown) and on the Omega bracelet, not a strap. AUD approx at 1.94 (eBay's Nov 2026 GBP conversion, not the 2025 rate)."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -10239,11 +10365,11 @@
      "note": "'OMEGA LADIES WATCH', 3 bids; low outlier, probably faulty or poor. Local database result, page not opened."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 505.0,
+   "net_resale": 429.25,
+   "max_hammer": 185,
+   "status": "PASS",
+   "why": "3 same-item SOLD price(s), median $505; less 15% fees = $429; less $200 profit, / 1.22 premium = max hammer $185",
    "priority": false
   },
   {
@@ -10753,12 +10879,21 @@
    "current_bid": 25.0,
    "bid_count": 2,
    "close": "11/11/2026 5:14:00 PM ADST",
-   "identification": "Three silver-cased key-wind pocket watches (one open face, two full hunter), white enamel Roman dials, one cracked dial; hallmarks not read",
+   "identification": "Three silver-cased pocket watches: one open face and two full hunters, all with white enamel dials and black Roman numerals; the hunters have subsidiary seconds, one hunter has damage around the seconds dial and no bow, and the open-face dial is stained; engraved foliate backs with vacant cartouches. Small marks show inside the hunter covers but are not legible in the photos, so sterling isn't confirmed; movements not shown.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: 'job lot 3 silver pocket watches hallmarked' and 'antique silver hunter pocket watch key wind' Australia",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 254.0,
+     "date": "2026-11-05",
+     "venue": "eBay (UK seller The Jewellers Loupe, shown on eBay AU)",
+     "url": "https://www.ebay.com.au/itm/860089352441",
+     "same_item": "close",
+     "note": "3 Antique Sterling Silver Pocket Watches Job Lot Non Working Spares Repair: three sterling open-face watches (John Myers & Co London, Waltham USA, J.W. Benson London), all non-working, dial hairlines, combined gross weight approx 301 g. Differs: open faces rather than two hunters; winding type not stated. AUD is eBay's conversion (about 1.94 per GBP)."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -10829,11 +10964,11 @@
      "note": "STERLING SILVER POCKET WATCH. Hammer, premium extra. Local database / Gowans API; no AUD conversion needed. Single. Page opened: no (database line only)."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 254.0,
+   "net_resale": 215.9,
+   "max_hammer": 10,
+   "status": "FAIL",
+   "why": "max hammer $10 from a median SOLD of $254 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -12159,12 +12294,21 @@
    "current_bid": 25.0,
    "bid_count": 3,
    "close": "11/11/2026 5:23:40 PM ADST",
-   "identification": "Two sterling silver full-hunter key-wind pocket watches, white enamel dials, one dial without hands/centre; non-working as-is lot.",
+   "identification": "Two silver full-hunter pocket watches: one with a white enamel Roman dial, subsidiary seconds and gilt hands, engine-turned back with a vacant cartouche; the other with a white enamel Roman dial missing all its hands and damaged at the seconds dial, plain back with a small cartouche. Inside the covers are small hallmark-type punches, a sponsor's mark in a rectangle and case numbers, none legible in the photos.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: antique sterling silver full hunter key wind pocket watch (Australia, last 90 days)",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 126.0,
+     "date": "2025-06-25",
+     "venue": "Ewbank's (UK), via LiveAuctioneers",
+     "url": "https://www.liveauctioneers.com/item/209628583",
+     "same_item": "close",
+     "note": "Two silver pocket watches, one J.W. Benson and a J.B. Yabsley hallmarked 1884, with an empty silver case, two keys and a gilt-metal half hunter; silver watches and case gross 193.4 g; Benson dial cracked; movements untested; estimate GBP 80-120, sold under estimate. Case styles not stated. AUD approx at 1.94 (Nov 2026 rate). Also listed under lot 915."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -12234,11 +12378,11 @@
      "note": "2 POCKET WATCHES INCL CONTINENTAL SILVER. Pair but one not English sterling, 4 bids. Gowans hammer, premium extra. From local results database, page not opened."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 126.0,
+   "net_resale": 107.1,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $126 does not clear the current bid $25",
    "priority": false
   },
   {

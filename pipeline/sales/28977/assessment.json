@@ -15,9 +15,9 @@
  "scanned": 392,
  "candidates": 139,
  "counts": {
-  "PASS": 7,
-  "CHROME": 103,
-  "FAIL": 29,
+  "PASS": 9,
+  "CHROME": 98,
+  "FAIL": 32,
   "DROP": 0,
   "NOT RESEARCHED": 0
  },
@@ -154,12 +154,37 @@
    "current_bid": 45.0,
    "bid_count": 4,
    "close": "11/11/2026 7:47:40 PM ADST",
-   "identification": "Golden Fleece Supra Heavy Duty Hydraulic Brake Fluid SAE 70-R-3, 1 Imp Pint tin (H.C. Sleigh), yellow/blue graphics bright, surface rust to top and cap",
+   "identification": "Golden Fleece Supra Heavy Duty Hydraulic Brake Fluid S.A.E. 70-R-3, 1 Imp. Pint rectangular tin, H.C. Sleigh Limited, ram logo; yellow over blue, colours bright; surface rust on the top, screw cap and base rim, light speckled wear on the back panel; no dents visible in the three photos.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Golden Fleece Supra brake fluid tin",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 450.0,
+     "date": "2025-09-11",
+     "venue": "Burns & Co, Next Level Collectors Auction, lot 79",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Next-Level-Collectors-Auction-2.pdf",
+     "same_item": "yes",
+     "note": "'GOLDEN FLEECE SUPRA HEAVY DUTY HYDRAULIC BRAKE FLUID 1 Pint Tin'. Hammer; the PDF says buyers premium not included. Condition not stated. Next Level is Burns & Co's top collector sale. Re-checked 7 Nov 2026 on the PDF: 'Next Level Collectors Auction', 'Thursday 11th September 2025', '*Buyers premium not incl.', lot 79 SOLD $450."
+    },
+    {
+     "aud_price": 325.0,
+     "date": "2025-06-03",
+     "venue": "Burns & Co, Single Vendor Livestream Collectors Auction, lot 73",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/RESULTS-Single-Vendor-Livestream-Collectors-Auction.pdf",
+     "same_item": "yes",
+     "note": "'GOLDEN FLEECE SUPRA HEAVY DUTY HYDRAULIC BRAKE FLUID 1 Pint Tin'. Condition not stated. This PDF doesn't mention buyer's premium (Burns & Co's other results PDFs say premium not included)."
+    },
+    {
+     "aud_price": 210.0,
+     "date": "2025-10-21",
+     "venue": "Burns & Co, Next Level Collectors Auction, lot 1090",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Next-Level-Collectors-Auction-4.pdf",
+     "same_item": "yes",
+     "note": "'GOLDEN FLEECE SUPRA HEAVY DUTY HYDRAULIC BRAKE FLUID 1 PINT TIN'. Hammer; buyers premium not included. Condition not stated."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -197,11 +222,11 @@
      "note": "Plain Golden Fleece 1 gallon tins sold $35 to $70 hammer; lots with rarer small tins $240 to $310. Gallon oil tins, not this item; database titles only."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "resale": 325.0,
+   "net_resale": 276.25,
+   "max_hammer": 60,
+   "status": "PASS",
+   "why": "3 same-item SOLD price(s), median $325; less 15% fees = $276; less $200 profit, / 1.22 premium = max hammer $60",
    "priority": false
   },
   {
@@ -369,7 +394,7 @@
    "current_bid": 60.0,
    "bid_count": 3,
    "close": "11/11/2026 7:48:40 PM ADST",
-   "identification": "Golden Fleece 1 Imp. gallon tin, ram logo, H.C. Sleigh, ATF-labelled, rusty top, bright side labels",
+   "identification": "Golden Fleece 1 Imp. gallon rectangular tin, H.C. Sleigh Limited, ram standing on a red-outlined 'Golden Fleece' panel, yellow over blue, printed 'Also Chrysler M/S 3256' with a yellow label 'AQ-ATF-1681-A Type A Suffix-A' (automatic transmission fluid); screw cap and wire handle present; rusty top and cap, scattered scratches and small paint chips on the yellow side, faint marks on the blue; no dents visible.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold: golden fleece 1 gallon tin ATF OR transmission",
@@ -382,9 +407,42 @@
      "url": "https://burnsandcoauctions.com.au/wp-content/uploads/RESULTS-Single-Vendor-Livestream-Collectors-Auction.pdf",
      "same_item": "close",
      "note": "Lot 56 Golden Fleece 1 gallon tin; page opened (results PDF). Unclear whether premium included; condition unknown. Other Burns tins (Hex $450, Cinemascope $635) are scarcer designs."
+    },
+    {
+     "aud_price": 190.0,
+     "date": "2025-09-11",
+     "venue": "Burns & Co, Next Level Collectors Auction, lot 5",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Next-Level-Collectors-Auction-2.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE 1 GALLON TIN'. Design and product (ATF or oil) not stated; condition not stated. Hammer; buyers premium not included."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2025-08-27",
+     "venue": "Burns & Co, Next Level Collectors Auction, lot 2695",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Next-Level-Collectors-Auction-1.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE 1 GALLON TIN'. Design and product not stated. Hammer; buyers premium not included."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2026-03-03",
+     "venue": "Burns & Co, Dealers & Collectors Auction Part 2, lot 788",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Part-2-Results-Dealers-Collectors-TOL.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE 1 GALLON TIN'. Design and product not stated. Hammer; buyers premium not included."
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 100.0,
+     "date": null,
+     "venue": "Burns & Co, results PDF with no date, lot 1277",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Print-Results-2.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE 1 GALLON'. No date, title or premium note printed on the PDF, so it can't set a max or be confirmed as within 24 months."
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -446,11 +504,11 @@
      "note": "Gallon tin, no top (damaged); 2 bids. Premium extra. Title only, no condition seen (API opened, title listing)."
     }
    ],
-   "resale": 260.0,
-   "net_resale": 221.0,
-   "max_hammer": 15,
+   "resale": 160.0,
+   "net_resale": 136.0,
+   "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $15 from a median SOLD of $260 does not clear the current bid $60",
+   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $60",
    "priority": false
   },
   {
@@ -589,12 +647,37 @@
    "current_bid": 40.0,
    "bid_count": 3,
    "close": "11/11/2026 7:49:40 PM ADST",
-   "identification": "Golden Fleece Supra Heavy Duty Hydraulic Brake Fluid 1 Imp. Pint tin, H.C. Sleigh, rusty cap, scuffs",
+   "identification": "Golden Fleece Supra Heavy Duty Hydraulic Brake Fluid S.A.E. 70-R-3, 1 Imp. Pint tin, H.C. Sleigh Limited, same type as lot 1405 but in worse condition: rusty cap and top, scuffs and scratches across the yellow front, a rust spot and paint loss over the small print on the back yellow panel; no dents visible in the two photos.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold/completed: Golden Fleece Supra brake fluid tin pint",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 450.0,
+     "date": "2025-09-11",
+     "venue": "Burns & Co, Next Level Collectors Auction, lot 79",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Next-Level-Collectors-Auction-2.pdf",
+     "same_item": "yes",
+     "note": "Same sale as listed under lot 1405. 'GOLDEN FLEECE SUPRA HEAVY DUTY HYDRAULIC BRAKE FLUID 1 Pint Tin'. Hammer; buyers premium not included. Condition not stated. Re-checked 7 Nov 2026 on the PDF: 'Next Level Collectors Auction', 'Thursday 11th September 2025', '*Buyers premium not incl.', lot 79 SOLD $450."
+    },
+    {
+     "aud_price": 325.0,
+     "date": "2025-06-03",
+     "venue": "Burns & Co, Single Vendor Livestream Collectors Auction, lot 73",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/RESULTS-Single-Vendor-Livestream-Collectors-Auction.pdf",
+     "same_item": "yes",
+     "note": "Same sale as listed under lot 1405. Condition not stated; PDF doesn't mention premium."
+    },
+    {
+     "aud_price": 210.0,
+     "date": "2025-10-21",
+     "venue": "Burns & Co, Next Level Collectors Auction, lot 1090",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Next-Level-Collectors-Auction-4.pdf",
+     "same_item": "yes",
+     "note": "Same sale as listed under lot 1405. Hammer; buyers premium not included. Condition not stated."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -665,11 +748,11 @@
      "note": "Golden Fleece 1 gallon oil tin. Database only."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 325.0,
+   "net_resale": 276.25,
+   "max_hammer": 60,
+   "status": "PASS",
+   "why": "3 same-item SOLD price(s), median $325; less 15% fees = $276; less $200 profit, / 1.22 premium = max hammer $60",
    "priority": false
   },
   {
@@ -1955,12 +2038,69 @@
    "current_bid": 35.0,
    "bid_count": 2,
    "close": "11/11/2026 8:02:00 PM ADST",
-   "identification": "Mixed petroliana: Golden Fleece 1 lb grease tin, two glass oil bottles with plastic pourer tops (red with cork; BP Super MS 20/30 white), loose BP ISCO red pourer top, Goodyear car type cured back patch tin, plastic Golden Fleece Gear Oil HV90 5 L container. Common, low-value items; no metal H.C. Sleigh Golden Fleece pourer visible.",
+   "identification": "Mixed petroliana: Golden Fleece 1 lb grease tin (ram over 'Golden Fleece' panel, yellow over blue, 'Contents 1 lb net', blank label panel), worn with scratches and rust, dark rusty top; a taller and a shorter plain glass oil bottle, one with a red plastic pourer and cork, one with a white BP Super MS 20/30 plastic pourer; a loose red BP ISCO plastic pourer; a Goodyear 'Car Type Cured Back' 1 lb tin (made in Australia), rusty with torn label; a dirty Golden Fleece Gear Oil HV90 5 litre plastic container. No metal H.C. Sleigh pourer; no embossing legible on the bottles in the photos.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 106.5,
+     "date": "2026-09-22",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/327358229316",
+     "same_item": "close",
+     "note": "'VINTAGE GOLDEN FLEECE 1 POUND GREASE TIN H C SLEIGH SNOW WHITE GREASE', 3 bids. Thumbnail shows the same ram-over-panel yellow/blue 1 lb design with a 'Snow White' label; looks cleaner than this tin."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-03-03",
+     "venue": "Burns & Co, Dealers & Collectors Auction Part 2, lot 735",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Part-2-Results-Dealers-Collectors-TOL.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE 1LB GREASE TIN'. Design not stated. Hammer; buyers premium not included."
+    },
+    {
+     "aud_price": 140.0,
+     "date": "2026-03-03",
+     "venue": "Burns & Co, Dealers & Collectors Auction Part 2, lot 771",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Part-2-Results-Dealers-Collectors-TOL.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE 1LB GREASE TIN'. Design not stated. Hammer; buyers premium not included. Same sale also had GF Duo 1lb tins at A$50 to A$100 (lots 738, 773, 775, 777, 780) and CinemaScope 1lb tins at A$80 to A$90."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2025-08-19",
+     "venue": "Burns & Co, Livestream Collectors Auction Part 2, lot 2448",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Part-2-Results-Livestream-Collectors-Auction.pdf",
+     "same_item": "close",
+     "note": "'2 X GOLDEN FLEECE 1LB GREASE TINS' for A$100 the pair. Design not stated. Hammer; buyers premium not included."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2025-06-03",
+     "venue": "Burns & Co, Single Vendor Livestream Collectors Auction, lot 16",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/RESULTS-Single-Vendor-Livestream-Collectors-Auction.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE 1LB GREASE TIN'. Same sale: lot 40 A$140 and lot 91 A$130, same description. Design and condition not stated; PDF doesn't mention premium."
+    },
+    {
+     "aud_price": 250.0,
+     "date": "2025-09-11",
+     "venue": "Burns & Co, Next Level Collectors Auction, lot 29",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Next-Level-Collectors-Auction-2.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE 1LB GREASE TIN' at the premium Next Level sale. Design not stated. Hammer; buyers premium not included."
+    },
+    {
+     "aud_price": 79.99,
+     "date": "2026-09-09",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/168665437162",
+     "same_item": "close",
+     "note": "For the two bottles: 'Vintage BP Glass Motor Oil Bottles x2 1 Pint & 1 Quart With Plastic Pourer Tops', Buy It Now. Thumbnail shows a pint with a grey-blue pourer and a quart with a white pourer; similar pair to this lot's."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -2014,11 +2154,11 @@
      "note": "Pint bottle with H.C. Sleigh Golden Fleece tin top; metal top, scarcer than anything in this lot. Local comps DB only."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 106.5,
+   "net_resale": 90.52499999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $106 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -2031,12 +2171,21 @@
    "current_bid": 275.0,
    "bid_count": 4,
    "close": "11/11/2026 8:02:20 PM ADST",
-   "identification": "Stihl MS 391 Farm Boss chainsaw, used, clean",
+   "identification": "Stihl MS 391 chainsaw with a Stihl 'Farm Boss' bar and chain and orange scabbard; used, tidy, some oil and sawdust grime around the clutch cover; bar length not readable in the photos",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold/completed: Stihl MS 391 chainsaw (also MS391 Farm Boss, used)",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 793.52,
+     "date": "2026-11-06",
+     "venue": "eBay (US seller)",
+     "url": "https://www.ebay.com.au/itm/137537388661",
+     "same_item": "close",
+     "note": "'Stihl MS391 Chains Saw 25\" Bar'. From the sold card; the item page would not load, so condition not checked and USD figure not seen. 25 in bar."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2063,6 +2212,14 @@
      "url": "https://www.gumtree.com.au/s-stihl+ms391/k0",
      "same_item": "yes",
      "note": "Used MS 391 asking prices (e.g. TAS 12 month old saw $900, $949 Vic); snippet only, unverified, asking not paid; mostly near-new or tested saws."
+    },
+    {
+     "aud_price": 995.0,
+     "date": "2026-06-10",
+     "venue": "Gumtree (Cash Converters Ballarat, VIC)",
+     "url": "https://www.gumtree.com.au/web/listing/garden-tools/1342731466",
+     "same_item": "close",
+     "note": "'Stihl MS391 Chainsaw 2-Stroke'. 'Working condition, well used', blade cover, 90-day warranty. Bar length not stated. Date is the listing date."
     }
    ],
    "paid": [
@@ -2123,11 +2280,11 @@
      "note": "STIHL CHAINSAW MS462C; Gowans hammer, premium extra; local comps database (not opened). Much bigger professional saw, 41 bids; not comparable but shows strong demand for working pro saws."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 793.52,
+   "net_resale": 674.492,
+   "max_hammer": 385,
+   "status": "PASS",
+   "why": "1 same-item SOLD price(s), median $794; less 15% fees = $674; less $200 profit, / 1.22 premium = max hammer $385",
    "priority": false
   },
   {
@@ -2533,7 +2690,7 @@
    "current_bid": 30.0,
    "bid_count": 1,
    "close": "11/11/2026 8:05:00 PM ADST",
-   "identification": "Two 5 lb grease tins: Mobilgrease (red/white, Pegasus, Vacuum Oil Company, rusty base) and Golden Fleece (ram logo, yellow/blue, scuffed), open-topped, no lids",
+   "identification": "Two 5 lb grease tins: Mobilgrease (white with red Pegasus, red base band with an '...Oil Company' maker line, heavy rust spotting on the white body and along the red band) and Golden Fleece (ram inside a dark blue rounded shield, the logo an eBay seller called the 'duo logo'; yellow over blue-green with a blank yellow label, 'Contents 5 lbs net'; scuffed and faded, little visible rust). The single photo doesn't show whether lids are present.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'Golden Fleece 5lb grease tin' and 'Mobilgrease 5lb tin Vacuum Oil'",
@@ -2562,6 +2719,38 @@
      "url": "https://burnsandcoauctions.com.au/wp-content/uploads/RESULTS-Single-Vendor-Livestream-Collectors-Auction.pdf",
      "same_item": "close",
      "note": "Lot 93 Mobilgrease Vacuum Oil Company 1LB grease tin (smaller size, Mobil one in lot 1459 is 5 lb); page opened."
+    },
+    {
+     "aud_price": 140.0,
+     "date": "2026-03-03",
+     "venue": "Burns & Co, Dealers & Collectors Auction Part 2, lot 787",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Part-2-Results-Dealers-Collectors-TOL.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE DUO 5LB GREASE TIN'. Matches if Burns & Co's 'Duo' means this ram-in-shield logo (not shown in the PDF). Hammer; buyers premium not included. Condition not stated."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-03-03",
+     "venue": "Burns & Co, Dealers & Collectors Auction Part 2, lot 789",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Part-2-Results-Dealers-Collectors-TOL.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE DUO 5LB GREASE TIN'. Hammer; buyers premium not included."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-03-03",
+     "venue": "Burns & Co, Dealers & Collectors Auction Part 2, lot 792",
+     "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Part-2-Results-Dealers-Collectors-TOL.pdf",
+     "same_item": "close",
+     "note": "'GOLDEN FLEECE DUO 5LB GREASE TIN'. Hammer; buyers premium not included."
+    },
+    {
+     "aud_price": 27.0,
+     "date": "2026-11-01",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/336865383075",
+     "same_item": "close",
+     "note": "For the Mobil tin: 'Scarce Early Pegasus Australian Vacuum Oil Co Five Pound Chassis Grease Tin', 1 bid. Same maker, era and size; label says chassis grease; photo not checked (item page and thumbnail wouldn't load)."
     }
    ],
    "sold_old": [
@@ -2635,11 +2824,11 @@
      "note": "Shell grease tin, 2 bids; local result."
     }
    ],
-   "resale": 140.0,
-   "net_resale": 119.0,
+   "resale": 135.0,
+   "net_resale": 114.75,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $140 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $135 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -3981,7 +4170,7 @@
    "current_bid": 30.0,
    "bid_count": 1,
    "close": "11/11/2026 8:14:40 PM ADST",
-   "identification": "Incomplete Sidchrome 3/4in drive socket set in red steel case: big ratchet, T-bar, 2 extensions, ~17 sockets incl. one impact; rusty case and debris (from earlier research; photos not re-checked this pass)",
+   "identification": "Part Sidchrome 3/4 in drive socket set in a red steel case: large ratchet, sliding T-bar, long and short extensions, about 15 sockets (6 and 12 point, one black impact deep socket) and what looks like a reducer or adaptor; a loose bolt; case rusty with pine-needle debris",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Sidchrome 3/4 drive socket set (also 'Sidchrome 3/4 ratchet' and 'Sidchrome 3/4 T bar'), filter Sold items, Australia",
@@ -4229,7 +4418,7 @@
    "current_bid": 60.0,
    "bid_count": 1,
    "close": "11/11/2026 8:16:00 PM ADST",
-   "identification": "Copper box lantern with bevelled glass side panel, round hinged reflector door, mesh vents, likely railway/ship signal or carriage lamp c1890-1920; no maker plate seen.",
+   "identification": "Copper and brass box oil lantern: clear bevelled glass on three sides, a round hinged door on the fourth side with a polished reflector on its inner face, a small wick burner inside with an external brass wick-winder knob, pierced mesh vent bands top and bottom, flat overhanging top with three brass knobs, small feet. No lens or signalling shutter, and no maker's plate, broad-arrow or railway stamp visible in the five photos.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: copper brass lantern bevelled glass round reflector door oil burner (also 'copper signal lamp bevelled glass')",
@@ -4991,7 +5180,7 @@
    "current_bid": 35.0,
    "bid_count": 4,
    "close": "11/11/2026 8:23:40 PM ADST",
-   "identification": "Pascall Old Oak Toffee Assortment tin (Claremont Tasmania) with about 24 small tobacco, cigarette, polish tins (Capstan, Woodbine, Log Cabin, Nugget, Lucky Hit, BDV etc), rusty/worn. (from earlier research; photos not re-checked this pass)",
+   "identification": "Pascall 'Old Oak Toffee Assortment' hinged tin with brass hasp, green woodgrain and strapwork pattern, pictorial lid heavily worn, base embossed 'Pascall Claremont Tasmania' with a small rust spot; with about 24 small tins, mostly worn or rusty: Wills's Woodbine fine cut (at least 2), Capstan Navy Cut cigarettes, Capstan ready rubbed, Log Cabin (2 flat, 1 round), Murray's Erinmore Flake, BDV medium fine cut, Lucky Hit (Union Jack lid), Havelock, a white 'De Luxe' tin, Melanyl marking ink, a large Nugget Tan Boot Polishing Outfit tin, a small blue polar bear tin and several round and plain tins. I couldn't identify any tin in the photos that matched the higher-priced single tins in the search results.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Pascall Old Oak toffee tin; also Pascall Claremont Tasmania tin",
@@ -8281,7 +8470,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 8:59:40 PM ADST",
-   "identification": "Eaglemoss 'Official James Bond Car Collection' 1:43 partwork cars still in sealed magazine packs, about 35, plus a cased Aston Martin V12 Vanquish (Die Another Day)",
+   "identification": "GE Fabbri/Eaglemoss 'The James Bond Car Collection' 1:43 partwork, UK edition (GBP 7.99 cover price, jamesbondcars.co.uk flyer): two trays of cars still sealed in their magazine blister packs, plus the issue 1 magazine with a cased silver Aston Martin (looks like the DB5) out of its pack, a cased Aston Martin V12 Vanquish (Die Another Day) out of its pack, and the shop header card",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold items: James Bond Car Collection Eaglemoss 1:43 sealed magazine lot (Sold filter, Australia/UK, last 90 days)",
@@ -8302,6 +8491,14 @@
      "url": "https://www.ebay.com.au/itm/235910710883",
      "same_item": "close",
      "note": "Complete 64-car James Bond collection, more cars than this lot"
+    },
+    {
+     "aud_price": 380.0,
+     "date": "2026-10-17",
+     "venue": "eBay (UK seller, Craigavon), seen on eBay AU",
+     "url": "https://www.ebay.com.au/itm/880003760443",
+     "same_item": "close",
+     "note": "'Job Lot 44x James Bond 007 Car Collection 1:43 Diecast Models GE Fabbri Cased'. 44 cased cars, no magazines mentioned. GBP 192.98 (about A$374 at eBay's conversion, roughly 1.94 AUD/GBP) is struck through; the accepted offer isn't shown, so the price paid was at or below this. Differs: cased, not sealed in magazine packs; UK sale. [converted at GBP 1 = AUD 1.97]"
     }
    ],
    "sold_old": [
@@ -8375,11 +8572,11 @@
      "note": "10 cars, $5.50 a car. API confirmed sale_price 5500 cents this session. Premium extra."
     }
    ],
-   "resale": 608.705,
-   "net_resale": 517.39925,
-   "max_hammer": 260,
+   "resale": 426.71,
+   "net_resale": 362.70349999999996,
+   "max_hammer": 130,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $609; less 15% fees = $517; less $200 profit, / 1.22 premium = max hammer $260",
+   "why": "3 same-item SOLD price(s), median $427; less 15% fees = $363; less $200 profit, / 1.22 premium = max hammer $130",
    "priority": false
   },
   {
@@ -9630,12 +9827,21 @@
    "current_bid": 30.0,
    "bid_count": 1,
    "close": "11/11/2026 9:19:00 PM ADST",
-   "identification": "Tray of about 13 old wooden planes: beech moulding planes, wedge-arm plough plane with brass thumbscrew, long jointer with closed tote, coffin smoother; no maker stamps seen.",
+   "identification": "Tray of about 12-13 old wooden planes: a long closed-tote try or jointer plane with a round metal strike button near the toe, a coffin smoother with double iron, a wedge-arm plough plane with brass depth-stop thumbscrew, iron skate and a bundle of spare irons tied on, and about 9 beech moulding and rebate planes (front one a skew rebate); no maker stamps visible in the photos",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold/completed listings: 'antique wooden plough plane' and 'wooden moulding planes lot' (Australia), last 90 days",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 149.99,
+     "date": "2026-09-09",
+     "venue": "eBay AU (Australian seller)",
+     "url": "https://www.ebay.com.au/itm/168657649896",
+     "same_item": "close",
+     "note": "'Vintage Wooden Wood Planes x 11. tools, workshop, garage, shed, woodwo...'. Box of 11 wooden planes. From the sold card; the item page would not load, so the mix of plane types, makers and condition is not checked. No accepted offer shown."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -9745,11 +9951,11 @@
      "note": "Cheapest recent box of moulding planes, shows downside. Page opened: no, Gowans API JSON record seen; AUD so no conversion; premium extra."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 149.99,
+   "net_resale": 127.4915,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -10087,7 +10293,7 @@
    "current_bid": 25.0,
    "bid_count": 2,
    "close": "11/11/2026 9:29:20 PM ADST",
-   "identification": "Boxed Hornby Railways electric set with blue VR diesel and passenger cars (Spirit of Progress style), boxed Bachmann Yard Boss set, plus box of Hornby accessories, transformer, buildings, catalogue",
+   "identification": "Boxed Hornby Railways (Australian range) electric train set: VR blue and gold diesel with three VR blue passenger cars, consistent with the Spirit of Progress set (R.572 in 1976, R.773 in 1977-78 per hornbyguide.com, with a VR B class diesel and passenger, dining and baggage cars); the set number is not visible in any photo. Plus a boxed Bachmann 'The Yard Boss' N scale set (tray shows tank car, boxcar, flat car, caboose, track and power pack; no locomotive visible), and a tray of Hornby extras: boxed Operating Royal Mail Coach, loose mail coach, controller/transformer, tunnel portal, station buildings, track and trees",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Hornby Railways Victorian Railways B class electric train set R.773 OR R.159 OR Spirit of Progress OO HO; also Carters archive for lot 843344 'Three Hornby model Railway sets including R.773 Spirit of Progress' (signed-in price).",
@@ -10100,6 +10306,14 @@
      "url": "https://www.ebay.com.au/itm/206615332559",
      "same_item": "yes",
      "note": "Vintage Hornby Railways electric train set Spirit of Progress R773; condition/completeness not checked, this lot also has Bachmann set and extras"
+    },
+    {
+     "aud_price": 79.34,
+     "date": "2026-10-30",
+     "venue": "eBay (US seller, Indianapolis)",
+     "url": "https://www.ebay.com.au/itm/940050105791",
+     "same_item": "close",
+     "note": "'Bachman Electrical Train Set Yard Boss Untested Vintage N Scale'. Same box design as the lot, appears complete, untested. AUD is eBay's conversion (about 1.44 AUD/USD, approximate). Postage to Australia quoted at US$58.53. The lot's set seems to be missing its loco."
     }
    ],
    "sold_old": [],
@@ -10156,11 +10370,11 @@
      "note": "Bachmann Old Timer train set, hammer. Guide for Bachmann set value."
     }
    ],
-   "resale": 324.3,
-   "net_resale": 275.65500000000003,
-   "max_hammer": 60,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $324; less 15% fees = $276; less $200 profit, / 1.22 premium = max hammer $60",
+   "resale": 201.82,
+   "net_resale": 171.547,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $202 does not clear the current bid $25",
    "priority": false
   },
   {
