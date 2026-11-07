@@ -1,7 +1,7 @@
 {
  "chid": "28978",
  "name": "ONLINE AUCTION 11TH NOVEMBER LOTS 1761 - 2065",
- "assessed": "2026-11-06",
+ "assessed": "2026-11-07",
  "rule": {
   "chid": "28978",
   "profit": 200,
@@ -15,9 +15,9 @@
  "scanned": 307,
  "candidates": 50,
  "counts": {
-  "PASS": 6,
-  "CHROME": 7,
-  "FAIL": 37,
+  "PASS": 2,
+  "CHROME": 43,
+  "FAIL": 5,
   "DROP": 0,
   "NOT RESEARCHED": 0
  },
@@ -37,7 +37,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 298003 - Norwood, (seen in 3 sales); 142868 - Perth, (seen in 18 sales); 47501 - St Leonards , TAS (seen in 109 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 50.0,
      "date": "2026-08-19",
@@ -87,14 +91,11 @@
      "note": "KELSO wheelbarrow. Local database hit, page not opened."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 55.0,
-   "net_resale": 46.75,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $40",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -112,7 +113,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 49763 - Newstead, TAS (seen in 64 sales); 49344 - Loira, TAS (seen in 68 sales); 81576 - Moltema, TAS - AutoBid (seen in 61 sales); 47703 - Longford, TAS (seen in 35 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 45.0,
      "date": "2026-07-29",
@@ -122,14 +127,11 @@
      "note": "From local comps database (not opened). Resin lion head figure H-36 cm, smaller than this H-45 lot; condition unknown. AUD so no conversion."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 45.0,
-   "net_resale": 38.25,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -147,7 +149,20 @@
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold items: Weber kettle 57cm charcoal used",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 375.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "TradeProHardware via eBay (Newcastle NSW)",
+     "url": "https://www.ebay.com/p/1104745928",
+     "same_item": "category guide",
+     "note": "Weber charcoal kettle 57cm, new retail; not comparable to a used faded one. Snippet only, unverified. URL is the search result for eBay, not necessarily this listing."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 80.0,
      "date": "2026-03-30",
@@ -171,25 +186,29 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/396184/",
      "same_item": "close",
      "note": "WEBER CHARCOAL GRILL, 1 bid. Probably a charcoal Weber, condition unknown. Database record."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
+    },
     {
-     "aud_price": 375.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "TradeProHardware via eBay (Newcastle NSW)",
-     "url": "https://www.ebay.com/p/1104745928",
+     "aud_price": 35.0,
+     "date": "2025-10-01",
+     "venue": "Armitage Auctions, Launceston sale 25745 lot 1974",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2656275&chid=25745&category=ALL&style=group",
      "same_item": "category guide",
-     "note": "Weber charcoal kettle 57cm, new retail; not comparable to a used faded one. Snippet only, unverified. URL is the search result for eBay, not necessarily this listing."
+     "note": "Unbranded KETTLE BBQ WITH CHARCOAL; shows generic charcoal kettle level. Database record."
+    },
+    {
+     "aud_price": 115.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions, Launceston sale 28842 lot 1808",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088978&chid=28842&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Beefeater kettle BBQ on stand, different brand and probably gas; upper bound for a kettle on stand. Database record."
     }
    ],
-   "resale": 30.0,
-   "net_resale": 25.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $30 does not clear the current bid $30",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -207,7 +226,28 @@
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold: vintage red enamel industrial light shades set of 4",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 57.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Snakehead Vintage",
+     "url": "https://www.snakeheadvintage.com/red-porcelain-enamel-shade-12-rounded-industrial-metal/",
+     "same_item": "close",
+     "note": "snippet only; single shade, likely better condition; rate about 0.65 USD to AUD (assumed)."
+    },
+    {
+     "aud_price": 216.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Etsy Australia",
+     "url": "https://www.etsy.com/au/market/vintage_enamel_light_fixture",
+     "same_item": "category guide",
+     "note": "snippet only; single retail pendants, dealer asking, not price paid."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 160.0,
      "date": "2026-03-23",
@@ -257,31 +297,11 @@
      "note": "2 INDUSTRIAL LIGHT SHADES, 2 bids; premium extra."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 57.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Snakehead Vintage",
-     "url": "https://www.snakeheadvintage.com/red-porcelain-enamel-shade-12-rounded-industrial-metal/",
-     "same_item": "close",
-     "note": "snippet only; single shade, likely better condition; rate about 0.65 USD to AUD (assumed)."
-    },
-    {
-     "aud_price": 216.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Etsy Australia",
-     "url": "https://www.etsy.com/au/market/vintage_enamel_light_fixture",
-     "same_item": "category guide",
-     "note": "snippet only; single retail pendants, dealer asking, not price paid."
-    }
-   ],
-   "resale": 70.0,
-   "net_resale": 59.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $10",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -328,6 +348,7 @@
      "note": "Snippet only, not verified. Rate 1 USD = 1.50 AUD (low end shown). Salesman sample, rarer than a cot."
     }
    ],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -350,16 +371,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold: cast iron 2 tier garden fountain (Australia, sold items); also Lawsons/Invaluable 'cast iron two tier fountain'",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 2030.0,
-     "date": "2025-04-16",
-     "venue": "Armitage Auctions, Launceston sale 23845 lot 1695 (hammer, from comps.py)",
-     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2471586&chid=23845&category=ALL&style=group",
-     "same_item": "close",
-     "note": "3 tier cast iron Georgian-manner fountain, over 8 ft, much larger and grander than this 150 cm 2 tier; upper bound only. Database record, page not opened."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -380,11 +392,45 @@
      "note": "Dealer asking, snippet only, unverified."
     }
    ],
-   "resale": 2030.0,
-   "net_resale": 1725.5,
-   "max_hammer": 1250,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $2,030; less 15% fees = $1,726; less $200 profit, / 1.22 premium = max hammer $1,250",
+   "paid": [
+    {
+     "aud_price": 2030.0,
+     "date": "2025-04-16",
+     "venue": "Armitage Auctions, Launceston sale 23845 lot 1695 (hammer, from comps.py)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2471586&chid=23845&category=ALL&style=group",
+     "same_item": "close",
+     "note": "3 tier cast iron Georgian-manner fountain, over 8 ft, much larger and grander than this 150 cm 2 tier; upper bound only. Database record, page not opened."
+    },
+    {
+     "aud_price": 155.0,
+     "date": "2026-02-23",
+     "venue": "Gowans Auctions, Hobart (hammer)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=garden+fountain",
+     "same_item": "category guide",
+     "note": "STONE GARDEN FOUNTAIN, 4 bids; stone not cast iron, size unknown. API record seen."
+    },
+    {
+     "aud_price": 430.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart (hammer)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=fountain",
+     "same_item": "category guide",
+     "note": "LARGE CONCRETE WATER FOUNTAIN, 0 bids recorded (odd); concrete not iron. API record seen."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2026-06-14",
+     "venue": "Gowans Auctions, Hobart (hammer)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=garden+fountain",
+     "same_item": "category guide",
+     "note": "GARDEN ORNAMENT/FOUNTAIN, small by the price. API record seen."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -403,54 +449,6 @@
    "chrome_hint": "eBay AU sold listings: vintage grey enamel industrial pendant light shade Benjamin OR Thorlux (Sold items, last 90 days)",
    "chrome_done": true,
    "sold": [
-    {
-     "aud_price": 145.0,
-     "date": "2026-09-20",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au/ (lot id 439850)",
-     "same_item": "close",
-     "note": "3 LARGE INDUSTRIAL LIGHTS, 5 bids. Closest match to this lot (three large lights); condition unknown. Page not opened; from local comps database (premium extra)."
-    },
-    {
-     "aud_price": 50.0,
-     "date": "2026-06-21",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au/ (lot id 418771)",
-     "same_item": "close",
-     "note": "2 enamel industrial light shades, 3 bids. Page not opened; from local comps database (premium extra)."
-    },
-    {
-     "aud_price": 50.0,
-     "date": "2026-06-14",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au/ (lot id 417151)",
-     "same_item": "close",
-     "note": "2 enamel industrial light shades, 0 bids. Page not opened; from local comps database (premium extra)."
-    },
-    {
-     "aud_price": 40.0,
-     "date": "2026-02-01",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au/ (lot id 388054)",
-     "same_item": "close",
-     "note": "2 large vintage industrial enamel lights, 2 bids. Page not opened; from local comps database (premium extra)."
-    },
-    {
-     "aud_price": 45.0,
-     "date": "2025-10-13",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au/ (lot id 368018)",
-     "same_item": "close",
-     "note": "3 green enamel industrial lights/shades plus globe, 3 bids; same layout of three, different colour. Page not opened; from local comps database (premium extra)."
-    },
-    {
-     "aud_price": 50.0,
-     "date": "2026-01-19",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au/ (lot id 384418)",
-     "same_item": "close",
-     "note": "Single industrial enamel light shade, 2 bids. Page not opened; from local comps database (premium extra)."
-    },
     {
      "aud_price": 49.99,
      "date": "2026-08-20",
@@ -480,8 +478,66 @@
      "note": "Single 35 cm grey Thorlux, complete. Snippet only. Rate assumed 1 EUR = 1.75 AUD, not checked. Retail."
     }
    ],
-   "resale": 50.0,
-   "net_resale": 42.5,
+   "paid": [
+    {
+     "aud_price": 145.0,
+     "date": "2026-09-20",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/ (lot id 439850)",
+     "same_item": "close",
+     "note": "3 LARGE INDUSTRIAL LIGHTS, 5 bids. Closest match to this lot (three large lights); condition unknown. Page not opened; from local comps database (premium extra)."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-06-21",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/ (lot id 418771)",
+     "same_item": "close",
+     "note": "2 enamel industrial light shades, 3 bids. Page not opened; from local comps database (premium extra)."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-06-14",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/ (lot id 417151)",
+     "same_item": "close",
+     "note": "2 enamel industrial light shades, 0 bids. Page not opened; from local comps database (premium extra)."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2026-03-23",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/ (lot id 398821)",
+     "same_item": "category guide",
+     "note": "2 industrial light shades, 9 bids; best result in the set, type unknown. Page not opened; from local comps database (premium extra)."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-02-01",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/ (lot id 388054)",
+     "same_item": "close",
+     "note": "2 large vintage industrial enamel lights, 2 bids. Page not opened; from local comps database (premium extra)."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2025-10-13",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/ (lot id 368018)",
+     "same_item": "close",
+     "note": "3 green enamel industrial lights/shades plus globe, 3 bids; same layout of three, different colour. Page not opened; from local comps database (premium extra)."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-01-19",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/ (lot id 384418)",
+     "same_item": "close",
+     "note": "Single industrial enamel light shade, 2 bids. Page not opened; from local comps database (premium extra)."
+    }
+   ],
+   "resale": 49.99,
+   "net_resale": 42.4915,
    "max_hammer": 0,
    "status": "FAIL",
    "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $0",
@@ -502,7 +558,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 81791 - Longford , TAS (seen in 65 sales); 294845 - Liffey, (seen in 2 sales); 49344 - Loira, TAS (seen in 68 sales); 58593 - WEST LAUNCESTON, TAS (seen in 33 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 49.0,
      "date": "2025-12-08",
@@ -510,16 +570,53 @@
      "url": "gowans lot id 381746",
      "same_item": "close",
      "note": "TIMBER GARDEN BENCH SEAT; closest timber match, condition not seen. Local comps database result (not a web page opened); AUD so no conversion; premium extra."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-04-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 404458",
+     "same_item": "category guide",
+     "note": "GARDEN BENCH SEAT, material not stated. Local comps database result (not a web page opened); AUD so no conversion; premium extra."
+    },
+    {
+     "aud_price": 25.0,
+     "date": "2026-05-17",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 410924",
+     "same_item": "category guide",
+     "note": "Bench with aluminium ends; low end. Local comps database result (not a web page opened); AUD so no conversion; premium extra."
+    },
+    {
+     "aud_price": 10.0,
+     "date": "2026-05-10",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 408952",
+     "same_item": "category guide",
+     "note": "GARDEN BENCH SEAT; bottom of range, likely poor. Local comps database result (not a web page opened); AUD so no conversion; premium extra."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2025-10-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 371122",
+     "same_item": "category guide",
+     "note": "GARDEN BENCH SEAT; material not stated. Local comps database result (not a web page opened); AUD so no conversion; premium extra."
+    },
+    {
+     "aud_price": 155.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 415637",
+     "same_item": "category guide",
+     "note": "OUTDOOR GARDEN BENCH SEAT; upper end, material not stated. Local comps database result (not a web page opened); AUD so no conversion; premium extra."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 49.0,
-   "net_resale": 41.65,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $49 does not clear the current bid $50",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -537,7 +634,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 294845 - Liffey, (seen in 2 sales); 81791 - Longford , TAS (seen in 65 sales); 168091 - Newnham, (seen in 4 sales); 56993 - Queenstown , TAS (seen in 90 sales); 289732 - Bicheno, (seen in 13 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 55.0,
      "date": "2026-10-11",
@@ -563,14 +664,11 @@
      "note": "POTTED STRAWBERRY; local database, page not opened."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 16.0,
-   "net_resale": 13.6,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $16 does not clear the current bid $40",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -588,7 +686,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 135.0,
      "date": "2026-08-16",
@@ -620,16 +722,21 @@
      "url": "gowans id 381606",
      "same_item": "close",
      "note": "Vintage garden tools incl edger and axe heads, 3 bids. Local database only."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2025-10-06",
+     "venue": "Gowans, Hobart (hammer)",
+     "url": "gowans id 366558",
+     "same_item": "category guide",
+     "note": "Crate of assorted tools; general crate-of-tools level. API listing only."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 30.0,
-   "net_resale": 25.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $30 does not clear the current bid $10",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -648,6 +755,36 @@
    "chrome_hint": "eBay Australia sold listings: pair green enamel industrial light shades (also: vintage green enamel factory pendant pair, Thorlux, Benjamin)",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 97.03,
+     "date": "2026-10-02",
+     "venue": "eBay AU (converted, listed from UK)",
+     "url": "https://www.ebay.com.au/itm/178348627102",
+     "same_item": "yes",
+     "note": "Two vintage industrial green enamel shades, pair, 11in"
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 80.9,
+     "date": "live, seen 2026-11-06",
+     "venue": "Etsy Australia (dealer)",
+     "url": "https://www.etsy.com/au/market/green_factory_light_vintage",
+     "same_item": "close",
+     "note": "Set of 2 vintage green enamel industrial pendant shades; snippet only via WebSearch, not verified. Asking price only."
+    },
+    {
+     "aud_price": 191.06,
+     "date": "live, seen 2026-11-06",
+     "venue": "Etsy Australia (dealer)",
+     "url": "https://www.etsy.com/au/market/green_factory_light_vintage",
+     "same_item": "close",
+     "note": "Pair of vintage green porcelain enamel 12 inch industrial shades; snippet only, not verified. Asking price only."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 160.0,
      "date": "2026-03-23",
@@ -711,41 +848,13 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=industrial+light&page%5Bnumber%5D=1 (lot id 439850)",
      "same_item": "close",
      "note": "3 LARGE INDUSTRIAL LIGHTS, 5 bids; three large lights, finish unknown. Title only, no photos checked; Gowans API, rate 1.0."
-    },
-    {
-     "aud_price": 97.03,
-     "date": "2026-10-02",
-     "venue": "eBay AU (converted, listed from UK)",
-     "url": "https://www.ebay.com.au/itm/178348627102",
-     "same_item": "yes",
-     "note": "Two vintage industrial green enamel shades, pair, 11in"
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 80.9,
-     "date": "live, seen 2026-11-06",
-     "venue": "Etsy Australia (dealer)",
-     "url": "https://www.etsy.com/au/market/green_factory_light_vintage",
-     "same_item": "close",
-     "note": "Set of 2 vintage green enamel industrial pendant shades; snippet only via WebSearch, not verified. Asking price only."
-    },
-    {
-     "aud_price": 191.06,
-     "date": "live, seen 2026-11-06",
-     "venue": "Etsy Australia (dealer)",
-     "url": "https://www.etsy.com/au/market/green_factory_light_vintage",
-     "same_item": "close",
-     "note": "Pair of vintage green porcelain enamel 12 inch industrial shades; snippet only, not verified. Asking price only."
-    }
-   ],
-   "resale": 90.0,
-   "net_resale": 76.5,
+   "resale": 97.03,
+   "net_resale": 82.4755,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $97 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -776,6 +885,16 @@
     }
    ],
    "asking": [],
+   "paid": [
+    {
+     "aud_price": 55.0,
+     "date": "2025-09-28",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=volvo%20penta%20sign (lot id 364731)",
+     "same_item": "category guide",
+     "note": "VOLVO PENTA SIGN, 5 bids. Marine engine sign, not dealership letters. Local database hit, hammer, premium extra."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -798,7 +917,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 57.0,
      "date": "2026-09-27",
@@ -814,16 +937,37 @@
      "url": "gowans lot id 434774",
      "same_item": "close",
      "note": "3 Tasmanian timber handled garden tools, 6 bids. Local database."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions, Launceston sale 28842 lot 1887",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089057&chid=28842&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "4 garden tools and a seeder. Local database."
+    },
+    {
+     "aud_price": 15.0,
+     "date": "2026-10-21",
+     "venue": "Armitage Auctions, Launceston sale 28842 lot 1861",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089031&chid=28842&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "3 garden tools. Local database."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28715 lot 1859",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3069272&chid=28715&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Quantity of garden tools. Local database."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 61.0,
-   "net_resale": 51.85,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $61 does not clear the current bid $15",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -841,7 +985,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 81791 - Longford , TAS (seen in 65 sales); 135397 - Longford, TAS (seen in 126 sales); 142868 - Perth, (seen in 18 sales); 221336 - Rocherlea, (seen in 24 sales); 248847 - Lilydale, (seen in 21 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 125.0,
      "date": "2026-07-08",
@@ -899,14 +1047,11 @@
      "note": "Metal bird bath with planter base, 10 bids; weaker form. Hammer, premium extra; local database record (no rate needed, AUD)."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 120.0,
-   "net_resale": 102.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $120 does not clear the current bid $35",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -946,6 +1091,56 @@
      "note": "Page opened, no price visible. Taller tripod-leg form, refinished, dealer attribution; not comparable in price terms."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 260.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions sale 28713 lot 1040",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3068461&chid=28713&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Local comps DB. Pair of cast iron planters H-23 cm, form not known. Not opened; database line only. Premium extra."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-07-29",
+     "venue": "Armitage Auctions sale 28330 lot 1773",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997366&chid=28330&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Pair of oval cast iron planters, plain form. Database line only."
+    },
+    {
+     "aud_price": 580.0,
+     "date": "2025-05-28",
+     "venue": "Armitage Auctions sale 24114 lot 1856",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2513658&chid=24114&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Pair of cast iron planters, no description, may be larger or more ornate. Over 12 months old. Database line only."
+    },
+    {
+     "aud_price": 850.0,
+     "date": "2025-04-16",
+     "venue": "Armitage Auctions sale 23845 lot 1726",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2471654&chid=23845&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Pair of green cast iron planters L-68 W-44, a larger trough type; upper end only. Database line only."
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-03-25",
+     "venue": "Armitage Auctions sale 27488 lot 1883",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2858800&chid=27488&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Pair of black painted cast iron planters, small trough form. Database line only."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-06-28",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 419484",
+     "same_item": "category guide",
+     "note": "Single cast iron planter, 12 bids. Database line only, premium extra."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -968,24 +1163,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Brunsvigia josephinae bulb, Australia",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 130.0,
-     "date": "2026-06-21 listing (sold ~late June 2026)",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=josephine (lot id 418941)",
-     "same_item": "yes",
-     "note": "3 JOSEPHINE LILIES, 3 pots. Photo not viewed, size unknown. Per bulb about $43. API JSON opened. No exchange rate needed."
-    },
-    {
-     "aud_price": 100.0,
-     "date": "2026-06-21 listing (sold ~late June 2026)",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=josephine (lot id 418945)",
-     "same_item": "yes",
-     "note": "4 JOSEPHINE LILIES. Per bulb about $25. Size unknown. API JSON opened."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -1006,11 +1184,29 @@
      "note": "Snippet only. Rate used 1 USD = 1.52 AUD (approximate). Smaller 5 year bulb than these."
     }
    ],
-   "resale": 115.0,
-   "net_resale": 97.75,
+   "paid": [
+    {
+     "aud_price": 130.0,
+     "date": "2026-06-21 listing (sold ~late June 2026)",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=josephine (lot id 418941)",
+     "same_item": "yes",
+     "note": "3 JOSEPHINE LILIES, 3 pots. Photo not viewed, size unknown. Per bulb about $43. API JSON opened. No exchange rate needed."
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2026-06-21 listing (sold ~late June 2026)",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=josephine (lot id 418945)",
+     "same_item": "yes",
+     "note": "4 JOSEPHINE LILIES. Per bulb about $25. Size unknown. API JSON opened."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $115 does not clear the current bid $20",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1028,7 +1224,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 75.0,
      "date": "2026-10-04",
@@ -1036,16 +1236,29 @@
      "url": "gowans id 442850",
      "same_item": "close",
      "note": "7 pipe clamps, 3 bids; DB result only, not opened. Seven clamps so about $11 each."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-07-26",
+     "venue": "Gowans (hammer, premium extra)",
+     "url": "gowans id 426583",
+     "same_item": "category guide",
+     "note": "2 T-bar clamps, 8 bids; API result. Heavier sash type, likely longer."
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2026-05-17",
+     "venue": "Gowans (hammer, premium extra)",
+     "url": "gowans id 410655",
+     "same_item": "category guide",
+     "note": "Box of brass pipe clamps, 4 bids; API result."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 75.0,
-   "net_resale": 63.75,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $10",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1084,6 +1297,32 @@
      "note": "snippet only. New retail select grade; lot is mixed lengths with short pieces so worth less."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 10.0,
+     "date": "2026-06-08 (listing date)",
+     "venue": "Gowans Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian%20oak",
+     "same_item": "category guide",
+     "note": "QTY OF TASMANIAN OAK FLOOR BOARDS, 1 bid; page opened (API). Different product, shows timber lots sell low."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2025-10-19 (listing date)",
+     "venue": "Gowans Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tasmanian%20oak",
+     "same_item": "category guide",
+     "note": "2 TASMANIAN OAK BOARDS, 0 bids recorded; page opened (API). Milled boards, not mouldings."
+    },
+    {
+     "aud_price": 20.0,
+     "date": "2026-06-21 (listing date)",
+     "venue": "Gowans Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=skirting",
+     "same_item": "category guide",
+     "note": "QTY OF ASST SKIRTING BOARDS; page opened (API). Also TAS OAK SKIRTING BOARDS $1 (2026-03-16) and hardwood skirting lengths $1 (2026-03-09): used mouldings are near worthless."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -1106,24 +1345,7 @@
    "needs_chrome": false,
    "chrome_hint": "Gumtree Tasmania: tasmanian oak tongue and groove lining, used or surplus, to see local asking prices",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 400.0,
-     "date": "2025-12-03",
-     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=floor+boards&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "From local comps DB: strapped pack of Tas oak T&G lining boards, marked. Pack size in sqm not seen, so per-sqm unknown. Not opened by me (DB entry only)."
-    },
-    {
-     "aud_price": 300.0,
-     "date": "2025-10-01",
-     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oak+flooring&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "From local comps DB: strapped pack of Tas oak T&G lining boards, marked. Pack size not seen. DB entry only."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -1144,11 +1366,45 @@
      "note": "Snippet only. Recycled 65x22 T&G flooring, thicker than lining; ceiling reference only."
     }
    ],
-   "resale": 350.0,
-   "net_resale": 297.5,
-   "max_hammer": 75,
-   "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $350; less 15% fees = $298; less $200 profit, / 1.22 premium = max hammer $75",
+   "paid": [
+    {
+     "aud_price": 400.0,
+     "date": "2025-12-03",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=floor+boards&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "From local comps DB: strapped pack of Tas oak T&G lining boards, marked. Pack size in sqm not seen, so per-sqm unknown. Not opened by me (DB entry only)."
+    },
+    {
+     "aud_price": 300.0,
+     "date": "2025-10-01",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oak+flooring&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "From local comps DB: strapped pack of Tas oak T&G lining boards, marked. Pack size not seen. DB entry only."
+    },
+    {
+     "aud_price": 25.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/415797/",
+     "same_item": "category guide",
+     "note": "Page opened (API): titled 'Heritage Tasmanian oak floor boards', 1 bid, no description. Likely small or old boards; weak comp."
+    },
+    {
+     "aud_price": 10.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/415795/",
+     "same_item": "category guide",
+     "note": "Page opened (API): 'Qty of Tasmanian oak floor boards', 1 bid, no description. Small lot; weak comp."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1166,7 +1422,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 45.0,
      "date": "2026-08-23",
@@ -1216,6 +1476,14 @@
      "note": "Qty of assorted garden tools, 9 bids; upper end of typical. Local comps database, no page opened."
     },
     {
+     "aud_price": 290.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 441405",
+     "same_item": "category guide",
+     "note": "Qty of assorted garden tools, 14 bids; outlier, likely contained something better than plain tools. Local comps database, no page opened."
+    },
+    {
      "aud_price": 45.0,
      "date": "2026-09-30",
      "venue": "Armitage Auctions, Launceston",
@@ -1240,14 +1508,11 @@
      "note": "Quantity of garden tools; high result, contents unknown. Local comps database, no page opened."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 45.0,
-   "net_resale": 38.25,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1265,7 +1530,28 @@
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: vintage green enamel industrial factory light shade (set of 3 / pair)",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 148.04,
+     "date": "live, seen 2026-11-06",
+     "venue": "eBay Australia",
+     "url": "https://www.ebay.com.au/itm/222643673518",
+     "same_item": "category guide",
+     "note": "Factory green enamel shade pendant, snippet only. Asking price for a single, probably reproduction or new-old stock."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Etsy Australia",
+     "url": "https://www.etsy.com/au/listing/4549346630/vintage-green-enamel-industrial-lamp",
+     "same_item": "category guide",
+     "note": "Snippet only (page returned 403). Retail asking prices for singles, not prices paid."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 45.0,
      "date": "2025-10-13",
@@ -1299,31 +1585,11 @@
      "note": "2 ENAMEL INDUSTRIAL LIGHT SHADES, 3 bids. Another pair $50 (2026-06-14, id 417151, 0 bids); single $50 (2026-01-19, id 384418); single $40 (2026-01-26, id 386623). All local database, premium extra."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 148.04,
-     "date": "live, seen 2026-11-06",
-     "venue": "eBay Australia",
-     "url": "https://www.ebay.com.au/itm/222643673518",
-     "same_item": "category guide",
-     "note": "Factory green enamel shade pendant, snippet only. Asking price for a single, probably reproduction or new-old stock."
-    },
-    {
-     "aud_price": 60.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Etsy Australia",
-     "url": "https://www.etsy.com/au/listing/4549346630/vintage-green-enamel-industrial-lamp",
-     "same_item": "category guide",
-     "note": "Snippet only (page returned 403). Retail asking prices for singles, not prices paid."
-    }
-   ],
-   "resale": 97.5,
-   "net_resale": 82.875,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $98 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1342,6 +1608,60 @@
    "chrome_hint": "",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 149.42,
+     "date": "2026-11-03",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/137859343801",
+     "same_item": "yes",
+     "note": "2 vintage green enamel factory pendant lamp lights; eBay AU converted, probably listed from overseas"
+    },
+    {
+     "aud_price": 79.34,
+     "date": "2026-11-04",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/377460729906",
+     "same_item": "yes",
+     "note": "2 vintage industrial enamel light shades, USA machine age; eBay AU converted, from USA"
+    },
+    {
+     "aud_price": 49.89,
+     "date": "2026-11-06",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/227587308865",
+     "same_item": "yes",
+     "note": "Pair green enamel metal bell pendant shades, 23(cm?) size, smaller"
+    },
+    {
+     "aud_price": 61.15,
+     "date": "2026-08-20",
+     "venue": "eBay AU (Terapeak sold data)",
+     "url": "https://www.ebay.com.au/itm/198442815178",
+     "same_item": "close",
+     "note": "Coolicon The Standard vintage green enamel shade; Buy It Now; item price excl. postage"
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 695.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Scout House (dealer)",
+     "url": "https://www.scouthouse.com.au/products/light-green-enamel-vintage-industrial-pendant-light",
+     "same_item": "category guide",
+     "note": "Single light green enamel pendant with cast-iron gallery, restored dealer retail. Snippet only, not verified; asking price, not a price paid."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Etsy Australia",
+     "url": "https://www.etsy.com/au/market/green_factory_light_vintage",
+     "same_item": "category guide",
+     "note": "Range of single green factory shades from search snippet; asking prices, retail markup. Snippet only, not verified."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 50.0,
      "date": "2026-06-21",
@@ -1421,65 +1741,13 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=enamel%20industrial%20light%20shade#lot-391221",
      "same_item": "close",
      "note": "2 industrial light shades, 2 bids; type unknown. Premium extra; rate 1:1 AUD. Local comps database, not page opened."
-    },
-    {
-     "aud_price": 149.42,
-     "date": "2026-11-03",
-     "venue": "eBay AU",
-     "url": "https://www.ebay.com.au/itm/137859343801",
-     "same_item": "yes",
-     "note": "2 vintage green enamel factory pendant lamp lights; eBay AU converted, probably listed from overseas"
-    },
-    {
-     "aud_price": 79.34,
-     "date": "2026-11-04",
-     "venue": "eBay AU",
-     "url": "https://www.ebay.com.au/itm/377460729906",
-     "same_item": "yes",
-     "note": "2 vintage industrial enamel light shades, USA machine age; eBay AU converted, from USA"
-    },
-    {
-     "aud_price": 49.89,
-     "date": "2026-11-06",
-     "venue": "eBay AU",
-     "url": "https://www.ebay.com.au/itm/227587308865",
-     "same_item": "yes",
-     "note": "Pair green enamel metal bell pendant shades, 23(cm?) size, smaller"
-    },
-    {
-     "aud_price": 61.15,
-     "date": "2026-08-20",
-     "venue": "eBay AU (Terapeak sold data)",
-     "url": "https://www.ebay.com.au/itm/198442815178",
-     "same_item": "close",
-     "note": "Coolicon The Standard vintage green enamel shade; Buy It Now; item price excl. postage"
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 695.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Scout House (dealer)",
-     "url": "https://www.scouthouse.com.au/products/light-green-enamel-vintage-industrial-pendant-light",
-     "same_item": "category guide",
-     "note": "Single light green enamel pendant with cast-iron gallery, restored dealer retail. Snippet only, not verified; asking price, not a price paid."
-    },
-    {
-     "aud_price": 60.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Etsy Australia",
-     "url": "https://www.etsy.com/au/market/green_factory_light_vintage",
-     "same_item": "category guide",
-     "note": "Range of single green factory shades from search snippet; asking prices, retail markup. Snippet only, not verified."
-    }
-   ],
-   "resale": 50.0,
-   "net_resale": 42.5,
+   "resale": 70.245,
+   "net_resale": 59.70825,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -1497,7 +1765,20 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 50.0,
+     "date": "2025-09 (snippet)",
+     "venue": "Gumtree, West Ulverstone TAS",
+     "url": "https://www.gumtree.com.au/s-star+picket+driver/k0",
+     "same_item": "close",
+     "note": "Snippet only, not verified; used manual driver, asking price."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 75.0,
      "date": "2026-10-21",
@@ -1555,23 +1836,11 @@
      "note": "Multi-item lots (driver plus puller or other tools), so overstate a single rammer. Median $105."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 50.0,
-     "date": "2025-09 (snippet)",
-     "venue": "Gumtree, West Ulverstone TAS",
-     "url": "https://www.gumtree.com.au/s-star+picket+driver/k0",
-     "same_item": "close",
-     "note": "Snippet only, not verified; used manual driver, asking price."
-    }
-   ],
-   "resale": 60.0,
-   "net_resale": 51.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $40",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1589,7 +1858,20 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold listings: riveted copper laundry boiler planter log bin Australia",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 2291.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Pamono (antique dealer, 1890s riveted copper planter, about 41 cm)",
+     "url": "https://www.pamono.com.au/antique-riveted-copper-planter-1890s",
+     "same_item": "category guide",
+     "note": "snippet only, unverified; designer-dealer retail, restored condition, not comparable to a verdigris lot at auction."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 50.0,
      "date": "2026-03-30",
@@ -1605,25 +1887,37 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/422159/",
      "same_item": "close",
      "note": "COPPER PLANTER, 7 bids; page opened (API); no description, form unknown. Rate 1.0."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
+    },
     {
-     "aud_price": 2291.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Pamono (antique dealer, 1890s riveted copper planter, about 41 cm)",
-     "url": "https://www.pamono.com.au/antique-riveted-copper-planter-1890s",
+     "aud_price": 35.0,
+     "date": "2026-09-27",
+     "venue": "Gowans, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440565/",
      "same_item": "category guide",
-     "note": "snippet only, unverified; designer-dealer retail, restored condition, not comparable to a verdigris lot at auction."
+     "note": "COPPER JARDINIERE/PLANTER, 5 bids; page opened (API); likely smaller/different form. Rate 1.0."
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2026-02-05",
+     "venue": "Gowans, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/389788/",
+     "same_item": "category guide",
+     "note": "LARGE COPPER PLANTER & SUCCULENT, 11 bids; page opened (API); includes a plant, no description so size and style unknown, likely a better presented piece."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2025-09-28",
+     "venue": "Gowans, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/364536/",
+     "same_item": "category guide",
+     "note": "COPPER PLANTER & TRICYCLE, 4 bids; combined lot, listing only."
     }
    ],
-   "resale": 50.0,
-   "net_resale": 42.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1641,7 +1935,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 20.0,
      "date": "2026-05-03",
@@ -1649,16 +1947,21 @@
      "url": "gowans id 407360",
      "same_item": "close",
      "note": "CADDY OF ASST TOOLS, 3 bids. Local database hit, similar generic tool caddy."
+    },
+    {
+     "aud_price": 2.0,
+     "date": "2026-11-01",
+     "venue": "Gowans (Hobart), hammer, premium extra",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tool+caddy",
+     "same_item": "category guide",
+     "note": "CARPENTERS TOOLBOX WITH INSERT & LARGE TOOL CADDY, 0 bids. Weak comparison, API result only; it may be from the current sale, so treat as unreliable."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 20.0,
-   "net_resale": 17.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $20 does not clear the current bid $15",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1676,7 +1979,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 360.0,
      "date": "2026-09-13 (listing date)",
@@ -1692,16 +1999,45 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/397649/",
      "same_item": "close",
      "note": "18 DRAWER WORKSHOP DRAWERS, 10 bids. Hammer, premium extra. API opened; complete bank, condition unknown."
+    },
+    {
+     "aud_price": 380.0,
+     "date": "2026-10-04 (listing date)",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/443052/",
+     "same_item": "category guide",
+     "note": "18 DRAWER METAL WORKSHOP CABINET, 8 bids. Metal not timber, complete. Hammer, premium extra. API opened."
+    },
+    {
+     "aud_price": 170.0,
+     "date": "2026-06-28 (listing date)",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/419658/",
+     "same_item": "category guide",
+     "note": "PIGEONHOLE SIDE CABINET, 19 bids. Hammer, premium extra. Not industrial; shows pigeonhole furniture draws bids but modest money. API opened."
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-09-27 (listing date)",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/441225/",
+     "same_item": "category guide",
+     "note": "PINE WORKBENCH, 2 bids. Hammer, premium extra. Plain bench, low-end marker. API opened."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-09-13 (listing date)",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437642/",
+     "same_item": "category guide",
+     "note": "WOODEN INDEX CATALOG DRAWERS CABINET, 6 bids. Hammer, premium extra. Smaller, API opened."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 417.5,
-   "net_resale": 354.875,
-   "max_hammer": 125,
-   "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $418; less 15% fees = $355; less $200 profit, / 1.22 premium = max hammer $125",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1719,7 +2055,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 25.0,
      "date": "2026-10-11",
@@ -1775,16 +2115,21 @@
      "url": "gowans lot id 364733",
      "same_item": "close",
      "note": "Crates and garden tools incl axe head"
+    },
+    {
+     "aud_price": 35.0,
+     "date": "2026-08 to 2026-10",
+     "venue": "Gowans Auctions, Hobart (hammer)",
+     "url": "gowans lot ids 442901, 442908, 433239, 431518",
+     "same_item": "category guide",
+     "note": "Single unbranded or common-brand axes (Plumb $40, German $35, 2 axes $45, shovels and axe $45). Branded Plumb/Hults Bruk/Collins reached $170-$320 only when named"
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 65.0,
-   "net_resale": 55.25,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1802,7 +2147,11 @@
    "needs_chrome": true,
    "chrome_hint": "eBay.com.au sold and completed: 'Trewhella jack' and 'wooden wallaby jack'; also AuctionsPlus prices if signed in",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 55.0,
      "date": "2026-09-20",
@@ -1810,16 +2159,21 @@
      "url": "gowans id 439635 (Gowans lot: TREWHELLA JACK, METAL WEDGES, PINCH BAR ETC)",
      "same_item": "close",
      "note": "Database hit, 1 bid, a jack plus wedges and pinch bar group, premium extra. Metal Trewhella jack type likely, not confirmed timber. Not opened."
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 442854 (CAST IRON STUMP JACK)",
+     "same_item": "category guide",
+     "note": "Cast iron stump jack, 4 bids, database hit only. Related category guide, premium extra."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 55.0,
-   "net_resale": 46.75,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $20",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -1837,7 +2191,11 @@
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: antique copper wash boiler OR copper wash copper large",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 330.0,
      "date": "2026-04-19",
@@ -1895,14 +2253,11 @@
      "note": "'COPPER JARDINIERE/PLANTER', sale price from API (premium extra, rate 1.0). 5 bids. Snippet from comps database only. Gowans listing has no description, so size and type unknown. "
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 170.0,
-   "net_resale": 144.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $30",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1920,16 +2275,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold items: Iketa DGN-198 diesel generator; also 'silent diesel generator 6kva 3 phase' sold listings",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 620.0,
-     "date": "2026-05-31",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=diesel+generator (lot id 414264)",
-     "same_item": "close",
-     "note": "Dunlite 6.8KVA diesel generator, starts and runs but governor issue under load; similar size class, a known brand, working with a fault. Found in local database and Gowans API (API result opened). AUD, no conversion."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -1950,11 +2296,21 @@
      "note": "Index page only; fuel type not stated, may be petrol. Asking price only, weak guide."
     }
    ],
-   "resale": 620.0,
-   "net_resale": 527.0,
-   "max_hammer": 265,
-   "status": "FAIL",
-   "why": "max hammer $265 from a median SOLD of $620 does not clear the current bid $500",
+   "paid": [
+    {
+     "aud_price": 620.0,
+     "date": "2026-05-31",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=diesel+generator (lot id 414264)",
+     "same_item": "close",
+     "note": "Dunlite 6.8KVA diesel generator, starts and runs but governor issue under load; similar size class, a known brand, working with a fault. Found in local database and Gowans API (API result opened). AUD, no conversion."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1972,7 +2328,11 @@
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: Villiers stationary engine Mk12 OR Mk15 OR Mk25 ; and Honda G150 OR G200 engine used",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 50.0,
      "date": "2026-09-09",
@@ -2012,16 +2372,37 @@
      "url": "gowans id 368181",
      "same_item": "close",
      "note": "Honda GX270 petrol motor, 2 bids; low result."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 400995",
+     "same_item": "category guide",
+     "note": "Clinton 7HP petrol motor, 1 bid."
+    },
+    {
+     "aud_price": 9.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 439841",
+     "same_item": "category guide",
+     "note": "Kawasaki 3.3HP petrol motor, 0 bids; small Japanese engine floor."
+    },
+    {
+     "aud_price": 85.0,
+     "date": "2026-08-16",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans id 431883",
+     "same_item": "category guide",
+     "note": "Moffat Virtue stationary engine, 1 bid; older collector-type engine."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 25.0,
-   "net_resale": 21.25,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $25 does not clear the current bid $45",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -2039,7 +2420,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 294845 - Liffey, (seen in 2 sales); 142868 - Perth, (seen in 18 sales); 58556 - Launceston, TAS (seen in 54 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 120.0,
      "date": "2025-10-28",
@@ -2105,14 +2490,11 @@
      "note": "LARGE BLOCK PULLEY, 4 bids; recent and low. Premium extra. From local comps database and Gowans API JSON (page opened via API for pulley lots, comps db for chain lots)."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 65.0,
-   "net_resale": 55.25,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -2130,7 +2512,20 @@
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold: vintage galvanised feed bin castors; also 'Lysaght Queens Head bin' and 'three compartment galvanised bin' (sold items only)",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 950.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Elite Floats Australia",
+     "url": "https://elitefloatsaustralia.com.au/product/three-compartment-feed-bin/",
+     "same_item": "category guide",
+     "note": "New galvanised 3-compartment feed bin 1150x750x750mm, not vintage, no castors mentioned; listing possibly stale. Snippet only."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 180.0,
      "date": "2026-03-09",
@@ -2146,25 +2541,45 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/399437/",
      "same_item": "close",
      "note": "GALVANISED FEED BIN, TUB OF HARDWARE ETC, 0 bids; mixed lot, floor result. Premium extra. Gowans API record (page opened via API)."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
+    },
     {
-     "aud_price": 950.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Elite Floats Australia",
-     "url": "https://elitefloatsaustralia.com.au/product/three-compartment-feed-bin/",
+     "aud_price": 160.0,
+     "date": "2026-08-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/435053/",
      "same_item": "category guide",
-     "note": "New galvanised 3-compartment feed bin 1150x750x750mm, not vintage, no castors mentioned; listing possibly stale. Snippet only."
+     "note": "PINE FEED BIN, 6 bids; timber, category guide. Premium extra. Gowans API record (page opened via API)."
+    },
+    {
+     "aud_price": 120.0,
+     "date": "2025-12-14",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/383254/",
+     "same_item": "category guide",
+     "note": "WOODEN FEED BIN, 6 bids; timber, category guide. Premium extra. Gowans API record (page opened via API)."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2025-12-01",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/379327/",
+     "same_item": "category guide",
+     "note": "OAK FEED BIN, 5 bids; category guide. Premium extra. Gowans API record (page opened via API)."
+    },
+    {
+     "aud_price": 10.0,
+     "date": "2025-11-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/377787/",
+     "same_item": "category guide",
+     "note": "LIFT TOP GRAIN BIN, 0 bids; category guide. Premium extra. Gowans API record (page opened via API)."
     }
    ],
-   "resale": 90.5,
-   "net_resale": 76.925,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $90 does not clear the current bid $85",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2183,22 +2598,6 @@
    "chrome_hint": "eBay AU sold listings: kincrome aluminium checker plate ute tool box gullwing",
    "chrome_done": true,
    "sold": [
-    {
-     "aud_price": 135.0,
-     "date": "2026-02-17",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au (gowans id 391581)",
-     "same_item": "close",
-     "note": "2 KINCROME UTE TOOL BOXES, so about $67 each; Kincrome brand but unknown type. From local comps DB, premium extra."
-    },
-    {
-     "aud_price": 90.0,
-     "date": "2026-08-30",
-     "venue": "Gowans (Hobart)",
-     "url": "https://www.gowansauctions.com.au (gowans id 435235)",
-     "same_item": "close",
-     "note": "Aluminium ute tray toolbox, 11 bids. Unbranded; premium extra. Local comps DB."
-    },
     {
      "aud_price": 314.82,
      "date": "2025-03-28",
@@ -2236,11 +2635,37 @@
      "note": "New retail, larger. Snippet only, not verified."
     }
    ],
-   "resale": 202.81,
-   "net_resale": 172.3885,
-   "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $203 does not clear the current bid $0",
+   "paid": [
+    {
+     "aud_price": 135.0,
+     "date": "2026-02-17",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au (gowans id 391581)",
+     "same_item": "close",
+     "note": "2 KINCROME UTE TOOL BOXES, so about $67 each; Kincrome brand but unknown type. From local comps DB, premium extra."
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-08-30",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au (gowans id 435235)",
+     "same_item": "close",
+     "note": "Aluminium ute tray toolbox, 11 bids. Unbranded; premium extra. Local comps DB."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-03-16",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au (gowans id 397866)",
+     "same_item": "category guide",
+     "note": "Rhino checkerplate toolbox, 6 bids; likely smaller or poorer. Premium extra."
+    }
+   ],
+   "resale": 292.72,
+   "net_resale": 248.812,
+   "max_hammer": 40,
+   "status": "PASS",
+   "why": "2 same-item SOLD price(s), median $293; less 15% fees = $249; less $200 profit, / 1.22 premium = max hammer $40",
    "priority": false
   },
   {
@@ -2271,6 +2696,40 @@
      "note": "New ornamental reproduction of 1848 Goulds pitcher pump. Page opened. Not antique; shows decorative demand only."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 330.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "gowans id 444498",
+     "same_item": "category guide",
+     "note": "CAST IRON WATER HAND PUMP, 7 bids. Plain hand pump, not flywheel Goulds; from local results database; page not opened."
+    },
+    {
+     "aud_price": 320.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "gowans id 444811",
+     "same_item": "category guide",
+     "note": "Cast iron water pump with half wine barrel display, 4 bids. Decorative lot; page not opened."
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-04-26",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "gowans id 405983",
+     "same_item": "category guide",
+     "note": "ANTIQUE PORTABLE WATER PUMP - AS IS, 5 bids. Weak comparable; page not opened."
+    },
+    {
+     "aud_price": 115.0,
+     "date": "2026-04-13",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "gowans id 402313",
+     "same_item": "category guide",
+     "note": "WATER PUMP WHEEL, 2 bids. Vague; page not opened."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -2293,7 +2752,28 @@
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: Leitner electric bike (also used Leitner e-bike)",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 500.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Gumtree Leitner listings (via WebSearch summary)",
+     "url": "https://www.gumtree.com.au/s-bicycles/leitner+electric+bike/k0c18560",
+     "same_item": "close",
+     "note": "Snippet only, not verified. Folding Leitner $500 QLD, ladies Leitner $500 NSW, Libelle with charger and helmet $800 ACT, others to $1,100. Retail asking, not paid."
+    },
+    {
+     "aud_price": 1400.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "leitner.com.au / ebikefinder.au",
+     "url": "https://ebikefinder.au/brands/leitner",
+     "same_item": "category guide",
+     "note": "Snippet only. New retail for Leitner range; the lot looks like an older step-over model, so well below this."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 255.0,
      "date": "2026-05-10",
@@ -2319,39 +2799,43 @@
      "note": "V Moto electric bike, charger and key, 11 bids. Database record."
     },
     {
+     "aud_price": 130.0,
+     "date": "2026-01-26",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans lot id 386576 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
+     "same_item": "category guide",
+     "note": "Earth electric bike needing new battery, 5 bids. Floor for battery-dead bikes."
+    },
+    {
      "aud_price": 220.0,
      "date": "2026-08-03",
      "venue": "Gowans (Hobart)",
      "url": "gowans lot id 428680 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
      "same_item": "close",
      "note": "V Moto Traveller e-bike, key, manual, charger, as is, 5 bids. API record."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 500.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Gumtree Leitner listings (via WebSearch summary)",
-     "url": "https://www.gumtree.com.au/s-bicycles/leitner+electric+bike/k0c18560",
-     "same_item": "close",
-     "note": "Snippet only, not verified. Folding Leitner $500 QLD, ladies Leitner $500 NSW, Libelle with charger and helmet $800 ACT, others to $1,100. Retail asking, not paid."
     },
     {
-     "aud_price": 1400.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "leitner.com.au / ebikefinder.au",
-     "url": "https://ebikefinder.au/brands/leitner",
+     "aud_price": 210.0,
+     "date": "2026-10-11",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans lot id 444584 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
      "same_item": "category guide",
-     "note": "Snippet only. New retail for Leitner range; the lot looks like an older step-over model, so well below this."
+     "note": "Folding Ryder e-bike, 8 bids. API record."
+    },
+    {
+     "aud_price": 190.0,
+     "date": "2026-07-05",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans lot id 421885 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=e-bike)",
+     "same_item": "category guide",
+     "note": "Folding e-bike, battery not charging, 5 bids. API record."
     }
    ],
-   "resale": 292.5,
-   "net_resale": 248.625,
-   "max_hammer": 35,
-   "status": "FAIL",
-   "why": "max hammer $35 from a median SOLD of $292 does not clear the current bid $40",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2369,7 +2853,20 @@
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: Masport tiller OR cultivator OR rotary hoe",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 1249.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "BW Machinery (new)",
+     "url": "https://bwmachinery.com.au/?p=101645",
+     "same_item": "category guide",
+     "note": "New Masport 4 Way Home Gardener tiller 127cc Briggs. Snippet only. New retail, not comparable to a dirty used older unit."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 110.0,
      "date": "2026-03-30",
@@ -2393,25 +2890,21 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/418902/",
      "same_item": "close",
      "note": "Howard Bullfinch rotary tiller, 7 bids, hammer. Local database hit."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
+    },
     {
-     "aud_price": 1249.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "BW Machinery (new)",
-     "url": "https://bwmachinery.com.au/?p=101645",
+     "aud_price": 230.0,
+     "date": "2026-03-09",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/396248/",
      "same_item": "category guide",
-     "note": "New Masport 4 Way Home Gardener tiller 127cc Briggs. Snippet only. New retail, not comparable to a dirty used older unit."
+     "note": "Husqvarna tiller with Honda motor, 3 bids, hammer. Better machine."
     }
    ],
-   "resale": 110.0,
-   "net_resale": 93.5,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $35",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2429,16 +2922,7 @@
    "needs_chrome": true,
    "chrome_hint": "eBay AU sold listings: MachT 52cc mini tiller cultivator",
    "chrome_done": false,
-   "sold": [
-    {
-     "aud_price": 45.0,
-     "date": "2026-06-08",
-     "venue": "Gowans Auctions, Hobart (lot id 415700, 6 bids)",
-     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cultivator&page%5Bnumber%5D=1",
-     "same_item": "close",
-     "note": "WALK BEHIND CULTIVATOR; API record via comps database, brand and condition not checked. Premium extra. AUD, no conversion."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2459,11 +2943,45 @@
      "note": "Snippet only. New retail."
     }
    ],
-   "resale": 45.0,
-   "net_resale": 38.25,
+   "paid": [
+    {
+     "aud_price": 45.0,
+     "date": "2026-06-08",
+     "venue": "Gowans Auctions, Hobart (lot id 415700, 6 bids)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=cultivator&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "WALK BEHIND CULTIVATOR; API record via comps database, brand and condition not checked. Premium extra. AUD, no conversion."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tiller&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "HOWARD BULLFINCH ROTARY TILLER, 7 bids; larger, better-brand machine, so ceiling for the category. Premium extra."
+    },
+    {
+     "aud_price": 105.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tiller&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "HONDA F25F TILLER, Honda 4-stroke mini tiller, 7 bids. Better brand than Macht. Premium extra."
+    },
+    {
+     "aud_price": 230.0,
+     "date": "2026-03-09",
+     "venue": "Gowans Auctions, Hobart (lot id 396248, 3 bids)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tiller&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "HUSQVARNA TILLER WITH HONDA MOTOR; premium machine, not comparable to Macht."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $40",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -2482,14 +3000,6 @@
    "chrome_hint": "eBay.com.au sold listings: McMillan compressor MC10 (and McMillan air compressor 2.5hp) used, sold items only",
    "chrome_done": true,
    "sold": [
-    {
-     "aud_price": 220.0,
-     "date": "2026-06-28",
-     "venue": "Gowans Auctions, Hobart",
-     "url": "gowans lot id 420551 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=mcmillan+compressor)",
-     "same_item": "close",
-     "note": "MCMILLAN AIR COMPRESSOR & TUB OF ACCESSORIES, 2 bids, premium extra. Model and condition not stated; API record seen, no photos compared."
-    },
     {
      "aud_price": 370.53,
      "date": "2026-10-05",
@@ -2511,11 +3021,77 @@
      "note": "New McMillan portable 2.2hp electric; snippet only. Shows new price only, not used value."
     }
    ],
-   "resale": 295.265,
-   "net_resale": 250.97525,
-   "max_hammer": 40,
+   "paid": [
+    {
+     "aud_price": 220.0,
+     "date": "2026-06-28",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 420551 (https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=mcmillan+compressor)",
+     "same_item": "close",
+     "note": "MCMILLAN AIR COMPRESSOR & TUB OF ACCESSORIES, 2 bids, premium extra. Model and condition not stated; API record seen, no photos compared."
+    },
+    {
+     "aud_price": 230.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 425372",
+     "same_item": "category guide",
+     "note": "BOC AIR COMPRESSOR, 9 bids; size unknown."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-04-13",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 402541",
+     "same_item": "category guide",
+     "note": "2HP INGERSOLL RAND AIR COMPRESSOR, 8 bids."
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-03-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 400826",
+     "same_item": "category guide",
+     "note": "COMPRESSOR & HOSE & FITTINGS, 6 bids."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 439837",
+     "same_item": "category guide",
+     "note": "AIR COMPRESSOR & SPRAYER, 5 bids."
+    },
+    {
+     "aud_price": 105.0,
+     "date": "2026-06-28",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 420555",
+     "same_item": "category guide",
+     "note": "2.5HP AIR COMPRESSOR, 7 bids."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-08-19",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3021085&chid=28449&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Project Air twin cylinder electric compressor, going order, sale 28449 lot 1915. Lower-grade brand, local DB hit."
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-05-03",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 407780",
+     "same_item": "category guide",
+     "note": "TRADE MASTER AIR COMPRESSOR & HOSE, 1 bid; low end for cheap brand."
+    }
+   ],
+   "resale": 370.53,
+   "net_resale": 314.9505,
+   "max_hammer": 90,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $295; less 15% fees = $251; less $200 profit, / 1.22 premium = max hammer $40",
+   "why": "1 same-item SOLD price(s), median $371; less 15% fees = $315; less $200 profit, / 1.22 premium = max hammer $90",
    "priority": false
   },
   {
@@ -2533,16 +3109,7 @@
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'British Seagull outboard' (Sold items filter), compare untested/unrestored long-shaft units.",
    "chrome_done": true,
-   "sold": [
-    {
-     "aud_price": 150.0,
-     "date": "2026-08-09",
-     "venue": "Gowans (Hobart)",
-     "url": "gowans lot id 430203",
-     "same_item": "close",
-     "note": "Two Seagull outboards, one not working, 3 bids; so about $75 each. Hammer, premium extra. Local database result, page not opened."
-    }
-   ],
+   "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2571,11 +3138,21 @@
      "note": "Classified asking prices; snippet only, not verified."
     }
    ],
-   "resale": 150.0,
-   "net_resale": 127.5,
+   "paid": [
+    {
+     "aud_price": 150.0,
+     "date": "2026-08-09",
+     "venue": "Gowans (Hobart)",
+     "url": "gowans lot id 430203",
+     "same_item": "close",
+     "note": "Two Seagull outboards, one not working, 3 bids; so about $75 each. Hammer, premium extra. Local database result, page not opened."
+    }
+   ],
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2630,6 +3207,24 @@
      "note": "snippet only. New single pan retail, shows the new value is high so a used twin bank has solid trade appeal. Rate: AUD, no conversion."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 100.0,
+     "date": "2026-08-23",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 433454)",
+     "same_item": "category guide",
+     "note": "ROBAND BENCHTOP DEEP FRYER & NELSON BUG ZAPPER, small benchtop unit, not commercial floor-standing; premium extra. API results seen, not an Armitage page."
+    },
+    {
+     "aud_price": 46.0,
+     "date": "2026-08-30",
+     "venue": "Gowans (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/ (lot id 434783)",
+     "same_item": "category guide",
+     "note": "Domestic deep fryer in a mixed lot; irrelevant to commercial value except as a floor for small units."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -2652,7 +3247,11 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold/completed listings: Nissan NDG5B generator; also Nissan NDG5A / NDG3 diesel generator; Gumtree and Facebook Marketplace for 'Nissan diesel generator'",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 620.0,
      "date": "2026-05-31",
@@ -2660,16 +3259,21 @@
      "url": "https://www.gowansauctions.com.au (Gowans lot id 414264)",
      "same_item": "close",
      "note": "Dunlite 6.8kVA diesel generator, starts and runs, governor issue under load, 9 bids. Larger and known running, so a ceiling for this lot. From local comps database; page not opened."
+    },
+    {
+     "aud_price": 150.0,
+     "date": "2026-03-01 (listing date)",
+     "venue": "Gowans Auctions, Hobart (hammer, premium extra)",
+     "url": "https://www.gowansauctions.com.au (Gowans lot id 394762)",
+     "same_item": "category guide",
+     "note": "Single cylinder Yanmar diesel motor with clutch, as is, 2 bids. Engine only, not a generator; shows low end for a rough small diesel. Page not opened."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 620.0,
-   "net_resale": 527.0,
-   "max_hammer": 265,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $620; less 15% fees = $527; less $200 profit, / 1.22 premium = max hammer $265",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -2687,7 +3291,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 30.0,
      "date": "2026-10-04",
@@ -2737,14 +3345,11 @@
      "note": "2 SLEDGE HAMMERS & A PINCH BAR; local database"
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 37.5,
-   "net_resale": 31.875,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $38 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -2763,6 +3368,28 @@
    "chrome_hint": "eBay Australia sold listings: Weber Q2000 with stand (Australia only, sold)",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 211.64,
+     "date": "2026-08-24",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/278230329011",
+     "same_item": "yes",
+     "note": "Weber Q 2000 gas grill with patio stand, griddle and accessories, best offer accepted"
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 350.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Gumtree (SA, WA, NSW sellers)",
+     "url": "https://www.gumtree.com.au/s-bbq/weber+q2000/k0c20067",
+     "same_item": "yes",
+     "note": "Used Q2000 with stand, asking about $280-$385 per search snippet; snippet only, not verified, dealer/private asking not price paid."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 500.0,
      "date": "2025-10-13",
@@ -2812,31 +3439,19 @@
      "note": "WEBER BBQ, 7 bids, likely small Q without stand. Premium extra."
     },
     {
-     "aud_price": 211.64,
-     "date": "2026-08-24",
-     "venue": "eBay AU",
-     "url": "https://www.ebay.com.au/itm/278230329011",
-     "same_item": "yes",
-     "note": "Weber Q 2000 gas grill with patio stand, griddle and accessories, best offer accepted"
+     "aud_price": 210.0,
+     "date": "2026-02-05",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/389718/",
+     "same_item": "category guide",
+     "note": "PORTABLE WEBER BBQ & ACCESSORIES, 21 bids. Premium extra."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 350.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Gumtree (SA, WA, NSW sellers)",
-     "url": "https://www.gumtree.com.au/s-bbq/weber+q2000/k0c20067",
-     "same_item": "yes",
-     "note": "Used Q2000 with stand, asking about $280-$385 per search snippet; snippet only, not verified, dealer/private asking not price paid."
-    }
-   ],
-   "resale": 200.0,
-   "net_resale": 170.0,
+   "resale": 211.64,
+   "net_resale": 179.89399999999998,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $200 does not clear the current bid $100",
+   "why": "max hammer $0 from a median SOLD of $212 does not clear the current bid $100",
    "priority": false
   },
   {
@@ -2875,6 +3490,56 @@
      "note": "Page opened. Prices mostly USD 40 to 75, one USD 250; no condition or dates shown, likely parts or controllers rather than whole chairs. AUD at assumed 1.50 (USD 250 = about AUD 375). Weak evidence: indicates B600 parts have a low but real market."
     }
    ],
+   "paid": [
+    {
+     "aud_price": 45.0,
+     "date": "2026-09-30",
+     "venue": "Armitage Auctions, Launceston sale 28713 lot 1221",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3068629&chid=28713&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "As-is electric wheelchair, brand unknown. Local database, not opened. Floor for a non-working chair."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 441461",
+     "same_item": "category guide",
+     "note": "Electric wheelchair, plain title. Local database/Gowans API."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-03-23",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 399482",
+     "same_item": "category guide",
+     "note": "Jazzy 626 reclining mobility chair, dual controls, charger in office. Gowans API."
+    },
+    {
+     "aud_price": 280.0,
+     "date": "2025-08-20",
+     "venue": "Armitage Auctions, Launceston sale 25444 lot 1197",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2603373&chid=25444&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Shoprider P424L electric wheelchair, likely going. Lower-spec chair."
+    },
+    {
+     "aud_price": 310.0,
+     "date": "2025-05-07",
+     "venue": "Armitage Auctions, Launceston sale 23990 lot 1092",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491871&chid=23990&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Pride iGo, going order. Working chair, so not comparable to a no-battery untested one."
+    },
+    {
+     "aud_price": 1000.0,
+     "date": "2026-07-29",
+     "venue": "Armitage Auctions, Launceston sale 28328 lot 1197",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2996792&chid=28328&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "As new Quantum J623, charger, new $9450. Top of range, working and near new; ceiling for the category."
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
@@ -2898,6 +3563,36 @@
    "chrome_hint": "Optional: eBay AU sold listings 'Triton workcentre MK3'.",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 122.6,
+     "date": "2026-10-25",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/158303798675",
+     "same_item": "yes",
+     "note": "Triton Mk 3 Workcentre in working condition"
+    },
+    {
+     "aud_price": 127.9,
+     "date": "2026-09-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/257755856983",
+     "same_item": "yes",
+     "note": "Triton WorkCentre including AEG saw and protractor"
+    }
+   ],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 159.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Cash Converters Capalaba (via search result)",
+     "url": "https://www.cashconverters.com.au/shop/tools-motor-hardware/safety-gear-storage/workbenches-tool-cabinets/work-bench/039200493941",
+     "same_item": "close",
+     "note": "Triton Workcentre Mk3 orange work bench, good condition; snippet only, not verified; rate 1.0."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 160.0,
      "date": "2026-09-27 (listed)",
@@ -2985,41 +3680,13 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/380108",
      "same_item": "close",
      "note": "Triton MK3 bench and accessories incl Makita saw, 1 bid. Hammer, premium extra; Gowans API record via comps database (rate 1.0)."
-    },
-    {
-     "aud_price": 122.6,
-     "date": "2026-10-25",
-     "venue": "eBay AU",
-     "url": "https://www.ebay.com.au/itm/158303798675",
-     "same_item": "yes",
-     "note": "Triton Mk 3 Workcentre in working condition"
-    },
-    {
-     "aud_price": 127.9,
-     "date": "2026-09-27",
-     "venue": "eBay AU",
-     "url": "https://www.ebay.com.au/itm/257755856983",
-     "same_item": "yes",
-     "note": "Triton WorkCentre including AEG saw and protractor"
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 159.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Cash Converters Capalaba (via search result)",
-     "url": "https://www.cashconverters.com.au/shop/tools-motor-hardware/safety-gear-storage/workbenches-tool-cabinets/work-bench/039200493941",
-     "same_item": "close",
-     "note": "Triton Workcentre Mk3 orange work bench, good condition; snippet only, not verified; rate 1.0."
-    }
-   ],
-   "resale": 80.0,
-   "net_resale": 68.0,
+   "resale": 125.25,
+   "net_resale": 106.46249999999999,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $80 does not clear the current bid $100",
+   "why": "max hammer $0 from a median SOLD of $125 does not clear the current bid $100",
    "priority": false
   },
   {
@@ -3037,7 +3704,20 @@
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: vintage cast iron band saw floor standing 14 inch (and Gumtree Tasmania band saw sold/asking)",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 422.45,
+     "date": "live, seen 2026-11-06",
+     "venue": "eBay Australia (Crescent Machine Co. vintage cast iron vertical bandsaw)",
+     "url": "https://www.ebay.com.au/shop/used-table-saws",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified; retail ask, not a price paid."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 630.0,
      "date": "2026-07-19",
@@ -3053,25 +3733,53 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=band%20saw&page%5Bnumber%5D=1 (lot id 417331)",
      "same_item": "close",
      "note": "WOOD CUTTING BAND SAW MODEL MJ343B with spare blades, 7 bids; modern Sher-type floor saw, newer than this lot. Hammer, premium extra. Gowans API record, no description or photo read, so condition unknown."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
+    },
     {
-     "aud_price": 422.45,
-     "date": "live, seen 2026-11-06",
-     "venue": "eBay Australia (Crescent Machine Co. vintage cast iron vertical bandsaw)",
-     "url": "https://www.ebay.com.au/shop/used-table-saws",
+     "aud_price": 320.0,
+     "date": "2026-05-17",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=band%20saw&page%5Bnumber%5D=1 (lot id 410842)",
      "same_item": "category guide",
-     "note": "Snippet only, not verified; retail ask, not a price paid."
+     "note": "REXON 1HP 2 SPEED BAND SAW, 16 bids; likely smaller bench/stand saw. Hammer, premium extra. Gowans API record, no description or photo read, so condition unknown."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=band%20saw&page%5Bnumber%5D=1 (lot id 439842)",
+     "same_item": "category guide",
+     "note": "GARRICK BANDSAW, 5 bids; size unknown. Hammer, premium extra. Gowans API record, no description or photo read, so condition unknown."
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2026-04-26",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=band%20saw&page%5Bnumber%5D=1 (lot id 405650)",
+     "same_item": "category guide",
+     "note": "MEAT BANDSAW, 8 bids; different type (butcher). Hammer, premium extra. Gowans API record, no description or photo read, so condition unknown."
+    },
+    {
+     "aud_price": 85.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=band%20saw&page%5Bnumber%5D=1 (lot id 425359)",
+     "same_item": "category guide",
+     "note": "BAND SAW, 4 bids; plain title, likely small. Hammer, premium extra. Gowans API record, no description or photo read, so condition unknown."
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2026-11-01",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=band%20saw&page%5Bnumber%5D=1 (lot id 449471)",
+     "same_item": "category guide",
+     "note": "FERREX BAND SAW, 3 bids; small DIY brand. Hammer, premium extra. Gowans API record, no description or photo read, so condition unknown."
     }
    ],
-   "resale": 515.0,
-   "net_resale": 437.75,
-   "max_hammer": 190,
-   "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $515; less 15% fees = $438; less $200 profit, / 1.22 premium = max hammer $190",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -3089,7 +3797,28 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 350.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Superior Trailer Parts, 1210x450x480mm XL checker plate box",
+     "url": "https://superiortrailerparts.com.au/ute-canopy-toolboxes/toolboxes-toolboxes/",
+     "same_item": "category guide",
+     "note": "New retail, same size class; snippet only, not verified. Ours is used and unbranded."
+    },
+    {
+     "aud_price": 349.0,
+     "date": "live, seen 2026-11-06",
+     "venue": "Big Man Trailer 1200x400x400 box",
+     "url": "https://bigmantrailer.com.au/trailer-parts/trailer-tool-boxes/",
+     "same_item": "category guide",
+     "note": "New retail; snippet only, not verified."
+    }
+   ],
+   "paid": [
     {
      "aud_price": 110.0,
      "date": "2025-10-01",
@@ -3129,33 +3858,29 @@
      "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020913&chid=28449&category=ALL&style=group",
      "same_item": "close",
      "note": "Checker plate tool box 145 wide but shallow (56x35). Local database; page not opened."
-    }
-   ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [
-    {
-     "aud_price": 350.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Superior Trailer Parts, 1210x450x480mm XL checker plate box",
-     "url": "https://superiortrailerparts.com.au/ute-canopy-toolboxes/toolboxes-toolboxes/",
-     "same_item": "category guide",
-     "note": "New retail, same size class; snippet only, not verified. Ours is used and unbranded."
     },
     {
-     "aud_price": 349.0,
-     "date": "live, seen 2026-11-06",
-     "venue": "Big Man Trailer 1200x400x400 box",
-     "url": "https://bigmantrailer.com.au/trailer-parts/trailer-tool-boxes/",
+     "aud_price": 90.0,
+     "date": "2026-08-30",
+     "venue": "Gowans Auctions, Hobart (lot id 435235)",
+     "url": "gowans lot id 435235",
      "same_item": "category guide",
-     "note": "New retail; snippet only, not verified."
+     "note": "Aluminium ute tray toolbox, 11 bids. Local database; page not opened. Hammer, premium extra."
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-03-16",
+     "venue": "Gowans Auctions, Hobart (lot id 397866)",
+     "url": "gowans lot id 397866",
+     "same_item": "category guide",
+     "note": "Rhino checkerplate toolbox, 6 bids. Local database; page not opened."
     }
    ],
-   "resale": 75.0,
-   "net_resale": 63.75,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -3173,7 +3898,11 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 85.0,
      "date": "2026-08-19",
@@ -3229,16 +3958,29 @@
      "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/387960/",
      "same_item": "close",
      "note": "Timber work bench with vice, 3 bids. Hammer, premium extra, AUD so no conversion. Local comps database only, page not opened."
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart lot id 441225",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/441225/",
+     "same_item": "category guide",
+     "note": "Pine workbench, no vice, 2 bids. Hammer, premium extra, AUD so no conversion. Local comps database only, page not opened."
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2026-06-14",
+     "venue": "Gowans Auctions, Hobart lot id 417051",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/417051/",
+     "same_item": "category guide",
+     "note": "Loose bench vice alone, 15 bids. Typical loose vice $35-100 (Dawn/Record/large up to $155). Hammer, premium extra, AUD so no conversion. Local comps database only, page not opened."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 140.0,
-   "net_resale": 119.0,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $140 does not clear the current bid $0",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -3256,7 +3998,11 @@
    "needs_chrome": true,
    "chrome_hint": " Bidder signal: 248747 - Ravenswood, (seen in 16 sales); 58556 - Launceston, TAS (seen in 54 sales); 221336 - Rocherlea, (seen in 24 sales); 289732 - Bicheno, (seen in 13 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
-   "sold": [
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [],
+   "paid": [
     {
      "aud_price": 65.0,
      "date": "2026-09-30",
@@ -3272,16 +4018,45 @@
      "url": "gowans lot id 430163",
      "same_item": "close",
      "note": "7 bids, premium extra, database record only."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-09-13",
+     "venue": "Gowans Auctions, Hobart (3x3 Spinifex gazebo and 3 camp chairs)",
+     "url": "gowans lot id 438123",
+     "same_item": "category guide",
+     "note": "Includes chairs, so gazebo alone worth less. Database record only."
+    },
+    {
+     "aud_price": 10.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions, Hobart (gazebo boxed)",
+     "url": "gowans lot id 418728",
+     "same_item": "category guide",
+     "note": "Boxed gazebo, low end. Database record only."
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2025-11-12",
+     "venue": "Armitage Auctions sale 26635 lot 524 (2.7x2.7m gazebo as new)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2731681&chid=26635&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Database record only."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart (fold out gazebo)",
+     "url": "gowans lot id 444440",
+     "same_item": "category guide",
+     "note": "Database record only."
     }
    ],
-   "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "resale": 47.5,
-   "net_resale": 40.375,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $48 does not clear the current bid $35",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   }
  ]

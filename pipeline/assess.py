@@ -8,6 +8,10 @@ on 21 Oct 2026: a lot only gets a maximum bid if there is a SOLD price with a li
 date behind it, and that bid must still leave at least $200 net profit after the buyer's
 premium and the selling fees.
 
+Armitage and Gowans past results never count as a resale price (Andy, 7 Nov 2026: they are
+not competitive auctions). They are kept as 'paid', a guide to what we might have to pay,
+and a lot with nothing else goes to the Chrome research instead of passing.
+
   net resale  = median same-item SOLD price (AUD, dated within the last --months) x (1 - fee)
   max hammer  = (net resale - profit) / (1 + premium), rounded down to $5
 
@@ -50,6 +54,15 @@ def entry_date(text):
     if m:
         return datetime.date(int(m.group(1)), 6, 30)
     return None
+
+
+LOCAL_ROOMS = ('armitage', 'gowans')
+
+
+def is_local_room(e):
+    """A result from Armitage or Gowans: a guide to what we might pay, never a resale comp (Andy, 7 Nov 2026)."""
+    url, venue = str(e.get('url') or '').lower(), str(e.get('venue') or '').lower()
+    return any(r in url or venue.startswith(r) for r in LOCAL_ROOMS)
 
 
 def round_down5(x):
@@ -101,13 +114,15 @@ def main():
                'condition': c.get('condition'), 'current_bid': current, 'bid_count': b.get('bid_count'), 'close': b.get('close'),
                'identification': (m or {}).get('identification'), 'researched': m is not None, 'needs_chrome': bool((m or {}).get('needs_chrome')),
                'chrome_hint': (m or {}).get('chrome_hint', ''), 'chrome_done': bool((m or {}).get('chrome_done')),
-               'sold': [], 'sold_old': [], 'unsold': [], 'asking': [], 'resale': 0,
+               'sold': [], 'sold_old': [], 'unsold': [], 'asking': [], 'paid': [], 'resale': 0,
                'net_resale': 0, 'max_hammer': 0, 'status': '', 'why': '', 'priority': cdid in first}
         for e in (m or {}).get('entries', []):
             price = float(e.get('aud_price') or 0)
             same = str(e.get('same_item', '')).lower()
             rec = {'aud_price': price, 'date': e.get('date'), 'venue': e.get('venue'), 'url': e.get('url'), 'same_item': same, 'note': e.get('note', '')}
-            if e.get('kind') == 'SOLD' and price > 0 and e.get('url') and same in ('yes', 'close') and 'snippet only' not in str(e.get('note', '')).lower():
+            if e.get('kind') == 'SOLD' and price > 0 and is_local_room(e):
+                out['paid'].append(rec)
+            elif e.get('kind') == 'SOLD' and price > 0 and e.get('url') and same in ('yes', 'close') and 'snippet only' not in str(e.get('note', '')).lower():
                 d = entry_date(e.get('date'))
                 # an undated sale is treated as old: it can send a lot to Chrome but never sets a maximum
                 (out['sold'] if (d is not None and d >= cutoff) else out['sold_old']).append(rec)
@@ -130,10 +145,11 @@ def main():
         elif m is None:
             out['status'] = 'NOT RESEARCHED'
             out['why'] = 'no market file'
-        elif out['sold_old'] or out['asking'] or out['unsold'] or out['needs_chrome'] or (out['strength'] or 0) >= 6 or out['priority']:
+        elif out['sold_old'] or out['asking'] or out['unsold'] or out['paid'] or out['needs_chrome'] or (out['strength'] or 0) >= 6 or out['priority']:
             out['status'] = 'CHROME'
             out['why'] = 'no recent same-item SOLD price in the cloud sources; ' + ('researcher asked for eBay/signed-in sites' if out['needs_chrome'] else
                          'older sold, asking or unsold evidence only' if (out['sold_old'] or out['asking'] or out['unsold']) else
+                         'only Armitage or Gowans results, which show what we might pay, not what it resells for' if out['paid'] else
                          'strong photo score' if (out['strength'] or 0) >= 6 else 'priority category (books): every candidate gets the Chrome research')
         else:
             out['status'] = 'DROP'
@@ -143,7 +159,7 @@ def main():
     # browser research goes to every lot that passes or might pass, best prospects first;
     # a lot already researched in Chrome (chrome_import.py sets chrome_done) is not sent again
     def top_price(x):
-        return max([x['resale'] or 0] + [e['aud_price'] for k in ('sold', 'sold_old', 'unsold', 'asking') for e in x[k]])
+        return max([x['resale'] or 0] + [e['aud_price'] for k in ('sold', 'sold_old', 'unsold', 'asking', 'paid') for e in x[k]])
     chrome = [x for x in lots if (x['status'] in ('PASS', 'CHROME') or top_price(x) >= args.chrome_floor) and not x['chrome_done']]
     chrome.sort(key=lambda x: (not x['priority'], -(x['max_hammer'] or 0), -(x['strength'] or 0)))  # books first
     chrome_done = sum(1 for x in lots if x['chrome_done'])
@@ -181,7 +197,8 @@ def main():
         lines.append('')
     lines.append(f"Chrome list: {len(chrome)} lots in chrome_list.json ({'books first, then ' if first else ''}passes first, then lots with no sold price yet, then any lot whose evidence reaches ${args.chrome_floor:,.0f})."
                  + (f" {chrome_done} lots already researched in Chrome." if chrome_done else ''))
-    lines.append("Maximums are provisional until the Chrome research confirms them. Only a SOLD price with a link and a date sets a maximum.")
+    lines.append("Maximums are provisional until the Chrome research confirms them. Only a SOLD price with a link and a date sets a maximum, "
+                 "and Armitage or Gowans results never do: they only show what we might have to pay.")
     text = '\n'.join(lines)
     open(os.path.join(D, 'assessment_email.txt'), 'w').write(text + '\n')
     print(text)
