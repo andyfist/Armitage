@@ -1,0 +1,40 @@
+{
+ "chid": "28975",
+ "name": "ONLINE AUCTION 11TH NOVEMBER LOTS 630 - 994",
+ "root": "/home/user/Armitage/pipeline/sales/28975",
+ "pipeline": "/home/user/Armitage/pipeline",
+ "titleChunks": 0,
+ "batch": 15,
+ "concurrency": 8,
+ "maxMarket": 200,
+ "alwaysLook": [
+  {
+   "cdid": 3110976,
+   "lot": 714,
+   "title": "STERLING SILVER MOUNTED CRYSTA...",
+   "why": "bidder signal: 48583 - Trevallyn, TAS (seen in 24 sales); 48872 - Hadspen, TAS (seen in 134 sales); 142954 - Perth, (seen in 28 sales); 79616 - Evandale, TAS (seen in 92 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3111238,
+   "lot": 976,
+   "title": "VARIOUS AUSTRALIAN & WORLD COI...",
+   "why": "bidder signal: 272140 - Scottsdale , (usually bids on coins and banknotes, seen in 5 sales); 136699 - Prospect Vale , (seen in 50 sales); 122213 - Westbury, TAS (seen in 140 sales); 175518 - George town , (seen in 37 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3111091,
+   "lot": 829,
+   "title": "3 BOOKS INCLUDING EROTIC",
+   "why": "bidder signal: 172008 - Perth, (seen in 54 sales); 56993 - Queenstown , TAS (seen in 90 sales); 58689 - Dilston, TAS (seen in 102 sales); 47979 - young town, TAS (seen in 51 sales); 4 or more bidders"
+  }
+ ],
+ "priority": [
+  3110941,
+  3110966,
+  3111089,
+  3111091,
+  3111102
+ ],
+ "description": "Armitage Auctions (Invermay, Launceston) online auction, ONLINE AUCTION 11TH NOVEMBER LOTS 630 - 994: lots 630 to 994, each lot closes at its own time from 11/11/2026 3:30:00 PM ADST to 11/11/2026 5:31:00 PM ADST",
+ "minStrength": 1,
+ "tagPrefix": "bid080728-"
+}
