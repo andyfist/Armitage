@@ -7,7 +7,7 @@
   "profit": 200,
   "fee": 0.15,
   "premium": 0.22,
-  "months": 120,
+  "months": 24,
   "chrome_floor": 100,
   "top": 25,
   "ignore_bids": false
@@ -15,9 +15,9 @@
  "scanned": 366,
  "candidates": 81,
  "counts": {
-  "PASS": 11,
-  "CHROME": 42,
-  "FAIL": 24,
+  "PASS": 8,
+  "CHROME": 48,
+  "FAIL": 21,
   "DROP": 4,
   "NOT RESEARCHED": 0
  },
@@ -605,8 +605,8 @@
    "strength": 5,
    "findings": "Painted thylacine curled in a roundel on a polished burl slab with natural bark edge. Well painted. Auction tag beside it; small handwritten card not legible in crop. No signature seen in photos. Thylacine subject has a dedicated Tasmanian collector following.",
    "condition": "Good; natural bark edge, finish intact.",
-   "current_bid": 310.0,
-   "bid_count": 4,
+   "current_bid": 330.0,
+   "bid_count": 5,
    "close": "11/11/2026 5:41:00 PM ADST",
    "identification": "Alison Cooper-White acrylic painting of a thylacine curled up on a round slab of burl wood, wall hanging, signed; 3 photos viewed. Cooper-White is a Tasmanian artist selling on Bluethumb and her own site.",
    "researched": true,
@@ -1004,8 +1004,8 @@
    "strength": 4,
    "findings": "8-string mandolin-banjo (banjolin), not a standard 5-string banjo: 8 tuners, resonator rim with slotted flange, decorated painted/printed vellum head, tailpiece. Headstock stamped in gilt with lion trade mark 'BRITISH MADE' over 'LIBERTY-BELL No 330'. Liberty Bell was a British-made brand of banjos and banjo-mandolins, c.1920s-30s. Fitted case included.",
    "condition": "Case badly torn and worn, lining loose; strings old and loose; headstock and neck finish worn; vellum head intact but aged; tasselled cord attached.",
-   "current_bid": 35.0,
-   "bid_count": 5,
+   "current_bid": 40.0,
+   "bid_count": 6,
    "close": "11/11/2026 5:48:00 PM ADST",
    "identification": "Cased Liberty Bell banjo-mandolin (banjolin), eight-string with skin head, resonator-less, in a blue case; 4 photos viewed incl. headstock stamped logo. Liberty Bell banjolins also appear at UK auction (Murray's, Isle of Man, 12 Sep 2020, cased Liberty Bell banjolin, price not shown).",
    "researched": true,
@@ -1081,7 +1081,7 @@
    "net_resale": 219.27450000000002,
    "max_hammer": 15,
    "status": "FAIL",
-   "why": "max hammer $15 from a median SOLD of $258 does not clear the current bid $35",
+   "why": "max hammer $15 from a median SOLD of $258 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -1177,8 +1177,8 @@
    "strength": 6,
    "findings": "Persian Mir/Saraband type rug: ivory field with all-over rows of small boteh (paisley) motifs, multiple red and navy guard borders, hand-knotted appearance with fringe. No label or certificate shown in photos. Size claimed 325 x 215.",
    "condition": "Some fading as stated, general light wear, fringes present, no obvious holes in photos.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 280.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:49:00 PM ADST",
    "identification": "Large handstitched Iranian pure wool floor rug 325x215 cm with certificate of authenticity, some fading; 3 photos viewed.",
    "researched": true,
@@ -1285,8 +1285,8 @@
    "strength": 4,
    "findings": "Five-panel folding fire screen in heavily ornate cast metal, gilt finish, with mesh backing; Renaissance revival scrolls, rosettes, urn and wheel motifs, on scroll feet. Victorian/French style, possibly antique cast iron or brass; no foundry mark visible.",
    "condition": "Gilt finish rubbed in places; appears complete; one photo only so back and joints not seen.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 5:49:40 PM ADST",
    "identification": "Cast metal (brass-coloured) ornate folding fire screen, four panels, filigree scroll. Seen in 1 photo. Armitage est $40-80, bid $25.",
    "researched": true,
@@ -2012,7 +2012,9 @@
      "url": "https://www.ebay.com.au/itm/177866258579",
      "same_item": "close",
      "note": "Large vintage cane/wicker laundry basket"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 19.16,
      "date": "2023-12-10",
@@ -2022,7 +2024,6 @@
      "note": "Large vintage cane laundry basket"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -2083,11 +2084,11 @@
      "note": "Wicker clothes basket H-68 cm; comps database, snippet only."
     }
    ],
-   "resale": 50.33,
-   "net_resale": 42.780499999999996,
+   "resale": 114.81,
+   "net_resale": 97.5885,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $90",
+   "why": "max hammer $0 from a median SOLD of $115 does not clear the current bid $90",
    "priority": false
   },
   {
@@ -2355,7 +2356,8 @@
    "needs_chrome": false,
    "chrome_hint": "Invaluable or LiveAuctioneers sold: 'Spanish carved oak dome top coffer 18th century' ; also carters.com.au price guide 'oak trunks' dome-top carved front; eBay sold 'antique Spanish carved chest dome top'",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 459.0,
      "date": "2023",
@@ -2373,7 +2375,6 @@
      "note": "'Early Continental oak trunk'; plainer"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -2435,11 +2436,11 @@
      "note": "19TH CENTURY PAINTED TURKISH PINE TRUNK, 6 bids, hammer. Old Continental/Near East trunk, plainer than this lot."
     }
    ],
-   "resale": 440.0,
-   "net_resale": 374.0,
-   "max_hammer": 140,
-   "status": "FAIL",
-   "why": "max hammer $140 from a median SOLD of $440 does not clear the current bid $150",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2844,6 +2845,16 @@
    "chrome_done": true,
    "sold": [
     {
+     "aud_price": 185.42,
+     "date": "8 Dec 2024",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235853226916",
+     "same_item": "yes",
+     "note": "Bretby monkey jardiniere Victorian, good condition, fixed price (UK Terapeak, converted to AU$)"
+    }
+   ],
+   "sold_old": [
+    {
      "aud_price": 133.0,
      "date": "2021-10-06",
      "venue": "Burstow and Hewett, Homes & Interiors, lot 33",
@@ -2874,17 +2885,8 @@
      "url": "https://www.liveauctioneers.com/item/96151530",
      "same_item": "yes",
      "note": "Bretby 'Monkey & Basket' planter c.1900, the same model; outside 24 months"
-    },
-    {
-     "aud_price": 185.42,
-     "date": "8 Dec 2024",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/235853226916",
-     "same_item": "yes",
-     "note": "Bretby monkey jardiniere Victorian, good condition, fixed price (UK Terapeak, converted to AU$)"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -2987,7 +2989,8 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 189.22,
      "date": "19 Nov 2023",
@@ -2997,7 +3000,6 @@
      "note": "Australian antique hardwood meat safe, auction"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -3043,11 +3045,11 @@
      "note": "SMALL PINE & OAK 2 DOOR FOOD SAFE c1910; local room, not resale. Database hit only."
     }
    ],
-   "resale": 189.22,
-   "net_resale": 160.837,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $189 does not clear the current bid $150",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -3065,7 +3067,8 @@
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold items: oak ice chest (also 'timber ice box' and 'Glacier De Luxe ice chest'), Australia only, sold filter",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 147.72,
      "date": "20 Sept 2024",
@@ -3075,7 +3078,6 @@
      "note": "Antique silky oak Mawson ice chest 1920s"
     }
    ],
-   "sold_old": [],
    "unsold": [
     {
      "aud_price": 0.0,
@@ -3146,11 +3148,11 @@
      "note": "WHITE ICE BOX, 1 bid; probably a modern or enamel box, not comparable. Premium extra."
     }
    ],
-   "resale": 147.72,
-   "net_resale": 125.562,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $148 does not clear the current bid $50",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -3522,7 +3524,9 @@
      "url": "https://www.ebay.com.au/itm/227011997858",
      "same_item": "close",
      "note": "Antique cedar one leaf extension table plus chairs"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 988.21,
      "date": "31 Aug 2024",
@@ -3532,7 +3536,6 @@
      "note": "Cedar extension dining table c1900"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -3610,11 +3613,11 @@
      "note": "Low end of group, local database record, page not opened."
     }
    ],
-   "resale": 463.33,
-   "net_resale": 393.8305,
-   "max_hammer": 155,
+   "resale": 329.7,
+   "net_resale": 280.245,
+   "max_hammer": 65,
    "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $463; less 15% fees = $394; less $200 profit, / 1.22 premium = max hammer $155",
+   "why": "2 same-item SOLD price(s), median $330; less 15% fees = $280; less $200 profit, / 1.22 premium = max hammer $65",
    "priority": false
   },
   {
@@ -3716,8 +3719,8 @@
    "strength": 6,
    "findings": "Colonial-style rustic farmhouse kitchen table: single-board style rectangular top with rounded corners and moulded edge, plain apron (no drawer visible), four turned legs with ring turnings. Base retains old dark paint/grime, untouched patina. Top shows a pronounced open grain more like Baltic pine or Oregon than typical fine-grained kauri, so the 'kauri' claim is not clearly supported. No maker's marks, labels or stamps visible. Size 157 x 84 cm is a useful dining/kitchen size; untouched primitive tables of this type sell to the decorator market and typically make $250-500 in Australia.",
    "condition": "Heavy wear and staining to the top (dark water marks, red stain, scratches), apron has split/cracked paint and a loose or patched board on one side, old paint flaking on legs, leg feet worn. Appears structurally complete; would need cleaning or restoration.",
-   "current_bid": 35.0,
-   "bid_count": 4,
+   "current_bid": 40.0,
+   "bid_count": 5,
    "close": "11/11/2026 6:24:20 PM ADST",
    "identification": "Rustic kauri pine top farmhouse table 157x84, grey-painted turned legs.",
    "researched": true,
@@ -3733,6 +3736,16 @@
      "same_item": "close",
      "note": "Baltic pine and blackwood scullery table, square legs, drawer; from local comps database, hammer excl premium; page not opened; similar size/type, neater condition."
     },
+    {
+     "aud_price": 145.7,
+     "date": "11 Dec 2025",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157531823319",
+     "same_item": "close",
+     "note": "Rustic pine farmhouse dining table"
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 300.0,
      "date": "2021-11-27",
@@ -3756,17 +3769,8 @@
      "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/573",
      "same_item": "close",
      "note": "Baltic pine Barossa scullery table 137cm; page not opened."
-    },
-    {
-     "aud_price": 145.7,
-     "date": "11 Dec 2025",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/157531823319",
-     "same_item": "close",
-     "note": "Rustic pine farmhouse dining table"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -3811,11 +3815,11 @@
      "note": "Blackwood and kauri pine kitchen table, 8 bids; paid locally, not resale."
     }
    ],
-   "resale": 300.0,
-   "net_resale": 255.0,
-   "max_hammer": 45,
-   "status": "PASS",
-   "why": "5 same-item SOLD price(s), median $300; less 15% fees = $255; less $200 profit, / 1.22 premium = max hammer $45",
+   "resale": 232.85,
+   "net_resale": 197.92249999999999,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $233 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -4056,8 +4060,8 @@
    "strength": 4,
    "findings": "Original pencil design sheet with German annotations (Fingerring, Armreifen/bracelets, gold, Brosche), numbered pattern numbers around 30587-30612, likely from a German (possibly Pforzheim) jewellery maker's pattern book c1900. Typed explanatory label on mount illegible at photo resolution. Ornate silver-painted frame.",
    "condition": "Foxing and a large tan stain to lower right of sheet, some toning.",
-   "current_bid": 30.0,
-   "bid_count": 2,
+   "current_bid": 40.0,
+   "bid_count": 4,
    "close": "11/11/2026 6:32:40 PM ADST",
    "identification": "Framed hand-drawn jewellery design sheet c1900, black/gilt frame, pencil/ink designs of rings, brooches and pendants on a single sheet (2 photos viewed, with caption label). Lot 1179 is the pair.",
    "researched": true,
@@ -4083,8 +4087,8 @@
    "strength": 3,
    "findings": "Framed original pencil pattern-book sheet of costume jewellery designs: buckles, brooches, sprays and bows, each in a ruled cell with a pattern number (e.g. 27324, 27325, 27326, 27377, 27382) and handwritten notes in German ('Schnalle', 'Brosche ... silber'), typical of a Gablonz/Bohemian or German paste jewellery maker's design archive c1900-1920s. Typed label on mount, not legible at photo resolution.",
    "condition": "Paper toned, appears intact; framed under glass in ornate silvered frame.",
-   "current_bid": 30.0,
-   "bid_count": 2,
+   "current_bid": 40.0,
+   "bid_count": 4,
    "close": "11/11/2026 6:33:00 PM ADST",
    "identification": "Second framed hand-drawn jewellery design sheet c1900, same frame as lot 1178, designs of clasps, buckles and fittings (2 photos viewed).",
    "researched": true,
@@ -4120,20 +4124,22 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 235.34,
-     "date": "2024-04-15",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/154803356259",
-     "same_item": "close",
-     "note": "Vintage carved gilt wood oval bevelled mirror"
-    },
-    {
      "aud_price": 139.98,
      "date": "2025-07-22",
      "venue": "eBay AU (Terapeak)",
      "url": "https://www.ebay.com.au/itm/256939152680",
      "same_item": "close",
      "note": "Ornate gold gilt bevelled mirror, medium"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 235.34,
+     "date": "2024-04-15",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/154803356259",
+     "same_item": "close",
+     "note": "Vintage carved gilt wood oval bevelled mirror"
     },
     {
      "aud_price": 85.38,
@@ -4144,7 +4150,6 @@
      "note": "Overmantel mirror, aged silver gilt frame"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -4269,22 +4274,6 @@
      "note": "'Wykeham Perry (Australian 1936-2021) \"River Scene\" oil', est A$200-300. Same size; river subject. The page shows a sold figure of A$90 while its current-bid field shows A$160 with 0 bids; recorded as the sold figure shown. 26.4% premium in lot terms."
     },
     {
-     "aud_price": 337.09,
-     "date": "2024-08-21",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/166341406386",
-     "same_item": "close",
-     "note": "Wykeham Perry oil, dealer fixed price"
-    },
-    {
-     "aud_price": 333.93,
-     "date": "2024-09-10",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/166919804927",
-     "same_item": "close",
-     "note": "Wykeham Perry oil"
-    },
-    {
      "aud_price": 279.7,
      "date": "2025-04-26",
      "venue": "eBay AU (Terapeak)",
@@ -4315,6 +4304,24 @@
      "url": "https://www.ebay.com.au/itm/186964312519",
      "same_item": "close",
      "note": "Wykeham Perry Perfect Day, signed oil on canvas"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 337.09,
+     "date": "2024-08-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/166341406386",
+     "same_item": "close",
+     "note": "Wykeham Perry oil, dealer fixed price"
+    },
+    {
+     "aud_price": 333.93,
+     "date": "2024-09-10",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/166919804927",
+     "same_item": "close",
+     "note": "Wykeham Perry oil"
     },
     {
      "aud_price": 211.81,
@@ -4341,7 +4348,6 @@
      "note": "Wykeham Perry oil"
     }
    ],
-   "sold_old": [],
    "unsold": [
     {
      "aud_price": 0.0,
@@ -4452,11 +4458,11 @@
      "note": "Plain oil on board, low end. Local database record, page not opened."
     }
    ],
-   "resale": 302.75,
-   "net_resale": 257.3375,
-   "max_hammer": 45,
+   "resale": 325.8,
+   "net_resale": 276.93,
+   "max_hammer": 60,
    "status": "PASS",
-   "why": "14 same-item SOLD price(s), median $303; less 15% fees = $257; less $200 profit, / 1.22 premium = max hammer $45",
+   "why": "9 same-item SOLD price(s), median $326; less 15% fees = $277; less $200 profit, / 1.22 premium = max hammer $60",
    "priority": false
   },
   {
@@ -4474,7 +4480,8 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 91.01,
      "date": "2023-12-15",
@@ -4484,7 +4491,6 @@
      "note": "Vintage signed oil still life flowers in ornate gilt frame"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -4529,11 +4535,11 @@
      "note": "V Curtis oil on board flowers, signed and dated 1920; local database title only."
     }
    ],
-   "resale": 91.01,
-   "net_resale": 77.3585,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $91 does not clear the current bid $30",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -4553,20 +4559,22 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 20000.0,
-     "date": "2024-08-15",
-     "venue": "Lawsons",
-     "url": "https://www.invaluable.com/artist/battarbee-rex-ux8w1y8jga/sold-at-auction-prices/",
-     "same_item": "close",
-     "note": "'Arunta Tribal Elder', 1942, watercolour, signed and dated. Figure portrait, the closest subject match; earlier date and likely larger/finer than lot. Only 1 of the portrait results with a price; strong. Source: Invaluable artist results page, page opened (curl), JSON parsed. Invaluable does not say if premium is included."
-    },
-    {
      "aud_price": 5508.0,
      "date": "2026-06-08",
      "venue": "LiveAuctioneers (Larchmont NY)",
      "url": "https://www.liveauctioneers.com/item/232884589",
      "same_item": "close",
      "note": "'Mount Hermannsburg' 1946 watercolour, sight 37x48cm. Landscape, not a portrait. USD->AUD at 1.53 (assumed rate)"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 20000.0,
+     "date": "2024-08-15",
+     "venue": "Lawsons",
+     "url": "https://www.invaluable.com/artist/battarbee-rex-ux8w1y8jga/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "'Arunta Tribal Elder', 1942, watercolour, signed and dated. Figure portrait, the closest subject match; earlier date and likely larger/finer than lot. Only 1 of the portrait results with a price; strong. Source: Invaluable artist results page, page opened (curl), JSON parsed. Invaluable does not say if premium is included."
     },
     {
      "aud_price": 7500.0,
@@ -4585,7 +4593,6 @@
      "note": "Arunta Tribal Elder, 1942, watercolour 34x47 cm. Listed as sold but Invaluable hides the price; estimate shown only, so no price can be recorded"
     }
    ],
-   "sold_old": [],
    "unsold": [
     {
      "aud_price": 1500.0,
@@ -4671,11 +4678,11 @@
     }
    ],
    "paid": [],
-   "resale": 6504.0,
-   "net_resale": 5528.4,
-   "max_hammer": 4365,
+   "resale": 5508.0,
+   "net_resale": 4681.8,
+   "max_hammer": 3670,
    "status": "PASS",
-   "why": "4 same-item SOLD price(s), median $6,504; less 15% fees = $5,528; less $200 profit, / 1.22 premium = max hammer $4,365",
+   "why": "1 same-item SOLD price(s), median $5,508; less 15% fees = $4,682; less $200 profit, / 1.22 premium = max hammer $3,670",
    "priority": false
   },
   {
@@ -4693,7 +4700,8 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 312.57,
      "date": "2024-05-05",
@@ -4719,7 +4727,6 @@
      "note": "Victorian mahogany chiffonier very good"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -4789,11 +4796,11 @@
      "note": "19th c cedar palladium back chiffonier. Local DB."
     }
    ],
-   "resale": 312.57,
-   "net_resale": 265.6845,
-   "max_hammer": 50,
-   "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $313; less 15% fees = $266; less $200 profit, / 1.22 premium = max hammer $50",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -4837,14 +4844,6 @@
      "note": "The Fossicker, Opalton, Qld, est 300-500. Sold on the fourth try after passing in at 170, 325, 240. Database entry. AUD, rate 1.0. Invaluable does not say if premium is included."
     },
     {
-     "aud_price": 625.17,
-     "date": "2023-12-13",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/255758662295",
-     "same_item": "close",
-     "note": "Keith Naughton oil, Stockmen in Camp Kimberley"
-    },
-    {
      "aud_price": 736.1,
      "date": "2025-03-17",
      "venue": "eBay AU (Terapeak)",
@@ -4869,7 +4868,16 @@
      "note": "Keith Naughton Turkeys Nest, auction"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 625.17,
+     "date": "2023-12-13",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/255758662295",
+     "same_item": "close",
+     "note": "Keith Naughton oil, Stockmen in Camp Kimberley"
+    }
+   ],
    "unsold": [
     {
      "aud_price": 325.0,
@@ -4907,11 +4915,11 @@
     }
    ],
    "paid": [],
-   "resale": 600.0,
-   "net_resale": 510.0,
-   "max_hammer": 250,
+   "resale": 476.925,
+   "net_resale": 405.38625,
+   "max_hammer": 165,
    "status": "PASS",
-   "why": "7 same-item SOLD price(s), median $600; less 15% fees = $510; less $200 profit, / 1.22 premium = max hammer $250",
+   "why": "6 same-item SOLD price(s), median $477; less 15% fees = $405; less $200 profit, / 1.22 premium = max hammer $165",
    "priority": false
   },
   {
@@ -5025,7 +5033,9 @@
      "url": "https://www.houseofhuia.co.nz/auctions/123/catalogue/0034",
      "same_item": "close",
      "note": "Seen on the 'other items' list of the opened lot 34 page. Rate 0.89 assumed. Size and condition unknown."
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 120.0,
      "date": "2021-03-20",
@@ -5035,7 +5045,6 @@
      "note": "Page opened (parsed JSON), outside 24 months. NZ river landscape watercolour. Invaluable does not say if premium is included."
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -5048,11 +5057,11 @@
     }
    ],
    "paid": [],
-   "resale": 151.0,
-   "net_resale": 128.35,
+   "resale": 200.0,
+   "net_resale": 170.0,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $151 does not clear the current bid $10",
+   "why": "max hammer $0 from a median SOLD of $200 does not clear the current bid $10",
    "priority": false
   },
   {
@@ -5062,8 +5071,8 @@
    "strength": 6,
    "findings": "Hand-coloured steel engraved map 'Van Diemen's Island or Tasmania' in the John Tallis decorative style, with a Greek key border, a top vignette view (Hobart Town and Mount Wellington), a lower left vignette of buildings, a lower right vignette of a thylacine-like animal, and a coin inset. This matches the c.1851 Tallis/Rapkin map. At this resolution it cannot be confirmed whether it is an original 1850s engraving or a later facsimile. The paper tone and the light colouring look consistent with an original.",
    "condition": "Clean and evenly toned, no obvious tears. Framed under glass with a red mount. Not examined out of the frame.",
-   "current_bid": 15.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 3,
    "close": "11/11/2026 6:42:00 PM ADST",
    "identification": "Framed Tallis map of Van Diemen's Land (Tasmania), 36 x 28 cm, burgundy mount, wooden frame (1 photo viewed). John Tallis map, c1851 steel engraving with vignettes.",
    "researched": true,
@@ -5071,6 +5080,16 @@
    "chrome_hint": "eBay Australia sold listings: Tallis Rapkin Van Diemen's Land Tasmania map 1851 original (sold, completed items); also LiveAuctioneers/Invaluable sold: 'Tallis Van Diemen's Island or Tasmania'",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 65.2,
+     "date": "2026-01-25",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/168078857751",
+     "same_item": "close",
+     "note": "Van Diemens Land Tasmania map 1851 framed J Tallis, antique-style print"
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 180.0,
      "date": "2022-08-08",
@@ -5094,17 +5113,8 @@
      "url": "https://www.liveauctioneers.com/item/100443696",
      "same_item": "yes",
      "note": "Same map; outside 24 months"
-    },
-    {
-     "aud_price": 65.2,
-     "date": "2026-01-25",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/168078857751",
-     "same_item": "close",
-     "note": "Van Diemens Land Tasmania map 1851 framed J Tallis, antique-style print"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -5166,11 +5176,11 @@
      "note": "Gowans lot 435794, 'JOHN TALLIS GOLD FRAMED MAP PRINT - VAN DIEMEN'S ISLAND'. 7 bids, framed. Page not opened; seen in Gowans API/results database (price is hammer, premium extra). Titled 'print', so likely a later reproduction or unverified. Rate: AUD, none needed."
     }
    ],
-   "resale": 71.1,
-   "net_resale": 60.434999999999995,
+   "resale": 65.2,
+   "net_resale": 55.42,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $71 does not clear the current bid $15",
+   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -5188,7 +5198,8 @@
    "needs_chrome": false,
    "chrome_hint": "LiveAuctioneers price results: 'pua kumbu' and 'Iban ikat textile' sold, plus eBay sold listings 'Iban pua kumbu framed'",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 2945.0,
      "date": "2022-07-15",
@@ -5198,7 +5209,6 @@
      "note": "page opened. Full-size Iban pua blanket 100.75 x 37 in, light staining, pulled threads, estimate USD 400-600. Much larger, unframed, so likely well above our panel. Rate used USD1=AUD1.55 (assumed). Old sale, US venue."
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -5211,11 +5221,11 @@
     }
    ],
    "paid": [],
-   "resale": 2945.0,
-   "net_resale": 2503.25,
-   "max_hammer": 1885,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $2,945; less 15% fees = $2,503; less $200 profit, / 1.22 premium = max hammer $1,885",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -5317,8 +5327,8 @@
    "strength": 4,
    "findings": "Boxed Stirling (Aldi house brand) 25L air fryer oven with 10 inch pizza stone, model/code 19775 on box.",
    "condition": "Box sealed with tape, appears unopened; box edges scuffed.",
-   "current_bid": 40.0,
-   "bid_count": 5,
+   "current_bid": 45.0,
+   "bid_count": 7,
    "close": "11/11/2026 6:43:20 PM ADST",
    "identification": "Stirling 25L air fryer oven with 10 inch pizza stone, boxed, 2 photos.",
    "researched": true,
@@ -5511,8 +5521,8 @@
    "strength": 6,
    "findings": "Westinghouse stainless built-in electric wall oven, model WVE614SC per the title, with the accessories still taped in their carton inside, so it looks unused. Also a Westinghouse black ceramic glass 4-zone electric cooktop with knobs. Rating plates are visible but not legible.",
    "condition": "Oven appears new and unused. Cooktop glass is clean with no visible chips. Not tested.",
-   "current_bid": 60.0,
-   "bid_count": 2,
+   "current_bid": 70.0,
+   "bid_count": 3,
    "close": "11/11/2026 6:44:40 PM ADST",
    "identification": "Westinghouse built-in wall oven WVE614SC (stainless, black glass) with a ceramic hotplate/cooktop, described as unused, not tested (3 photos viewed).",
    "researched": true,
@@ -5580,8 +5590,8 @@
    "strength": 7,
    "findings": "LG CordZero A9T-MAX All-in-One Tower auto-emptying handstick plus power mop vacuum, model A9T-MAX.ECGRLAP, colour green, charging station VDS-ST2GU.ACGRLAP, made in Korea. Box still strapped, appears new. Current premium model with high retail (roughly $1000+ RRP).",
    "condition": "Box strapped, minor scuffs and a small tear at box corner; contents not seen.",
-   "current_bid": 200.0,
-   "bid_count": 5,
+   "current_bid": 210.0,
+   "bid_count": 6,
    "close": "11/11/2026 6:45:00 PM ADST",
    "identification": "LG CordZero A9T-MAX with All-in-One auto-emptying tower, handstick vacuum and power mop, forest green, new in box (3 photos viewed; box label A9T-MAX ECGRLAP GREEN).",
    "researched": true,
@@ -5726,8 +5736,8 @@
    "strength": 4,
    "findings": "Two modern aluminium tray-top walker trolleys with brakes, one with instruction sheet; auction tags attached.",
    "condition": "Appear used but complete, wheels and brakes present.",
-   "current_bid": 65.0,
-   "bid_count": 12,
+   "current_bid": 75.0,
+   "bid_count": 14,
    "close": "11/11/2026 6:50:40 PM ADST",
    "identification": "Two walker trolleys with beige trays, hand brakes, swivel wheels, 1 photo.",
    "researched": true,
@@ -5779,8 +5789,8 @@
    "strength": 4,
    "findings": "Hisense approx 32 inch smart TV shown powered on displaying ABC News, with Hisense remote (Netflix, YouTube, Stan, etc buttons).",
    "condition": "Working per photo; no visible screen damage.",
-   "current_bid": 75.0,
-   "bid_count": 12,
+   "current_bid": 80.0,
+   "bid_count": 13,
    "close": "11/11/2026 6:52:20 PM ADST",
    "identification": "Hisense approx 32 inch smart TV, picture on, with remote (low value)",
    "researched": true,
@@ -5866,20 +5876,22 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 191.24,
-     "date": "2024-11-01",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/116337067943",
-     "same_item": "close",
-     "note": "Horn sewing machine cabinet, free postage"
-    },
-    {
      "aud_price": 114.13,
      "date": "2025-11-04",
      "venue": "eBay AU (Terapeak)",
      "url": "https://www.ebay.com.au/itm/116855506014",
      "same_item": "close",
      "note": "Horn Sovereign sewing/craft cabinet, excellent used"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 191.24,
+     "date": "2024-11-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116337067943",
+     "same_item": "close",
+     "note": "Horn sewing machine cabinet, free postage"
     },
     {
      "aud_price": 146.98,
@@ -5890,7 +5902,6 @@
      "note": "Horn sewing machine cabinet"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -5936,11 +5947,11 @@
      "note": "Timber veneer sewing cabinet. Paid locally, not a resale price. From local comps database, page not opened."
     }
    ],
-   "resale": 146.98,
-   "net_resale": 124.93299999999999,
+   "resale": 114.13,
+   "net_resale": 97.0105,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $147 does not clear the current bid $105",
+   "why": "max hammer $0 from a median SOLD of $114 does not clear the current bid $105",
    "priority": false
   },
   {
@@ -6020,8 +6031,8 @@
    "strength": 4,
    "findings": "Modern decorative chrome spotlight-style lamp on timber tripod, catalogued as replica; not a genuine theatre or film light.",
    "condition": "Appears clean and complete; working per catalogue.",
-   "current_bid": 25.0,
-   "bid_count": 4,
+   "current_bid": 35.0,
+   "bid_count": 6,
    "close": "11/11/2026 6:59:20 PM ADST",
    "identification": "Modern replica search light lamp. Est 20-30, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: metal searchlight-style head on a wooden tripod, standing on a white board.",
    "researched": true,
@@ -6071,7 +6082,7 @@
    "net_resale": 70.35875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $83 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $83 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -6142,8 +6153,8 @@
    "strength": 4,
    "findings": "Modern bronze-effect resin seated greyhound/whippet figure, decorative.",
    "condition": "Appears undamaged.",
-   "current_bid": 105.0,
-   "bid_count": 12,
+   "current_bid": 110.0,
+   "bid_count": 13,
    "close": "11/11/2026 7:07:00 PM ADST",
    "identification": "Bronze-effect resin seated greyhound figure, two photos (low value)",
    "researched": true,
@@ -6268,14 +6279,6 @@
      "note": "Beosound 1 single CD player and radio, rare petrol green"
     },
     {
-     "aud_price": 434.02,
-     "date": "2024-08-17",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/126569676484",
-     "same_item": "close",
-     "note": "Beosound 1 CD/AM/FM, working, hardly used"
-    },
-    {
      "aud_price": 831.78,
      "date": "2025-02-17",
      "venue": "eBay AU (Terapeak)",
@@ -6300,14 +6303,6 @@
      "note": "Beosound 1 CD"
     },
     {
-     "aud_price": 592.8,
-     "date": "2024-07-14",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/285956161997",
-     "same_item": "close",
-     "note": "Beosound 1 CD player/AM/FM radio, auction"
-    },
-    {
      "aud_price": 941.55,
      "date": "2026-09-10",
      "venue": "eBay AU (Terapeak)",
@@ -6316,7 +6311,24 @@
      "note": "Beosound 1 CD player/radio"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 434.02,
+     "date": "2024-08-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126569676484",
+     "same_item": "close",
+     "note": "Beosound 1 CD/AM/FM, working, hardly used"
+    },
+    {
+     "aud_price": 592.8,
+     "date": "2024-07-14",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/285956161997",
+     "same_item": "close",
+     "note": "Beosound 1 CD player/AM/FM radio, auction"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -6374,7 +6386,7 @@
    "net_resale": 492.388,
    "max_hammer": 235,
    "status": "PASS",
-   "why": "13 same-item SOLD price(s), median $579; less 15% fees = $492; less $200 profit, / 1.22 premium = max hammer $235",
+   "why": "11 same-item SOLD price(s), median $579; less 15% fees = $492; less $200 profit, / 1.22 premium = max hammer $235",
    "priority": false
   },
   {
@@ -6746,20 +6758,22 @@
      "note": "Sony TC-630 Stereo Center, not tested; speakers not confirmed"
     },
     {
-     "aud_price": 121.05,
-     "date": "2024-08-30",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/116300721444",
-     "same_item": "yes",
-     "note": "Sony TC-630 reel to reel, no spec given, 5 bids"
-    },
-    {
      "aud_price": 71.45,
      "date": "2026-11-01",
      "venue": "eBay AU (Terapeak)",
      "url": "https://www.ebay.com.au/itm/128155171495",
      "same_item": "yes",
      "note": "Sony TC-630 tapecorder auction"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 121.05,
+     "date": "2024-08-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116300721444",
+     "same_item": "yes",
+     "note": "Sony TC-630 reel to reel, no spec given, 5 bids"
     },
     {
      "aud_price": 54.85,
@@ -6770,7 +6784,6 @@
      "note": "Sony TC-630 three-head, 6 bids"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {

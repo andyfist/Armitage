@@ -7,7 +7,7 @@
   "profit": 200,
   "fee": 0.15,
   "premium": 0.22,
-  "months": 120,
+  "months": 24,
   "chrome_floor": 100,
   "top": 25,
   "ignore_bids": false
@@ -15,9 +15,9 @@
  "scanned": 416,
  "candidates": 164,
  "counts": {
-  "PASS": 11,
-  "CHROME": 60,
-  "FAIL": 93,
+  "PASS": 9,
+  "CHROME": 65,
+  "FAIL": 90,
   "DROP": 0,
   "NOT RESEARCHED": 0
  },
@@ -47,14 +47,6 @@
      "note": "1927/28 Capitol AB tourer, ex-Australia RHD, recently restored to a high standard, green over black. Result on the Classic Valuer page; premium status not stated. About A$27k at roughly A$1=GBP0.50, not looked up. [converted at GBP 1.97]"
     },
     {
-     "aud_price": 53900.0,
-     "date": "2022-01-31",
-     "venue": "Bring a Trailer lot 64703",
-     "url": "https://bringatrailer.com/listing/1927-chevolet-capital-3/",
-     "same_item": "close",
-     "note": "1927 Capitol tourer, US car, repainted 2004, replacement engine, 3-speed. Older than 24 months so context only. Includes BaT buyer fee? not stated. [converted at USD 1.54]"
-    },
-    {
      "aud_price": 9504.0,
      "date": "2026-06-20",
      "venue": "Anglia Car Auctions (UK), lot 842",
@@ -71,6 +63,14 @@
      "url": "https://auctions.shannons.com.au/auctions/2008-melbourne-international-motorshow-auction/G03CNC871D210JAX",
      "same_item": "close",
      "note": "head start item; 2008 so very old"
+    },
+    {
+     "aud_price": 53900.0,
+     "date": "2022-01-31",
+     "venue": "Bring a Trailer lot 64703",
+     "url": "https://bringatrailer.com/listing/1927-chevolet-capital-3/",
+     "same_item": "close",
+     "note": "1927 Capitol tourer, US car, repainted 2004, replacement engine, 3-speed. Older than 24 months so context only. Includes BaT buyer fee? not stated. [converted at USD 1.54]"
     }
    ],
    "unsold": [
@@ -151,11 +151,11 @@
      "note": "From local comps database (not opened). C1928 Chevrolet 4 door soft top tourer with extra parts, described as for restoration, so a project; lower end of range. This lot is restored and claimed running, so should be well above it."
     }
    ],
-   "resale": 26918.08,
-   "net_resale": 22880.368000000002,
-   "max_hammer": 18590,
+   "resale": 18211.04,
+   "net_resale": 15479.384,
+   "max_hammer": 12520,
    "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $26,918; less 15% fees = $22,880; less $200 profit, / 1.22 premium = max hammer $18,590",
+   "why": "2 same-item SOLD price(s), median $18,211; less 15% fees = $15,479; less $200 profit, / 1.22 premium = max hammer $12,520",
    "priority": false
   },
   {
@@ -225,8 +225,8 @@
    "strength": 2,
    "findings": "Golden Fleece Supra Heavy Duty Hydraulic Brake Fluid SAE 70-R-3, 1 Imp. Pint tin, H. C. Sleigh Limited, ram logo. Pre-metric (imperial pint) so pre about 1974.",
    "condition": "Surface rust to top and screw cap, scratches and spotting, colour good.",
-   "current_bid": 130.0,
-   "bid_count": 15,
+   "current_bid": 140.0,
+   "bid_count": 17,
    "close": "11/11/2026 7:47:40 PM ADST",
    "identification": "Golden Fleece Supra Heavy Duty hydraulic brake fluid tin, 1 imperial pint, SAE 70-R-3, by H C Sleigh Ltd (3 photos). Yellow and blue with lamb logo.",
    "researched": true,
@@ -257,7 +257,9 @@
      "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Next-Level-Collectors-Auction-4.pdf",
      "same_item": "yes",
      "note": "'GOLDEN FLEECE SUPRA HEAVY DUTY HYDRAULIC BRAKE FLUID 1 PINT TIN'. Hammer; buyers premium not included. Condition not stated."
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 52.67,
      "date": "2024-01-26",
@@ -267,7 +269,6 @@
      "note": "Golden Fleece Supra heavy duty hydraulic brake fluid 1 imp pint tin, same tin"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -304,11 +305,11 @@
      "note": "Plain Golden Fleece 1 gallon tins sold $35 to $70 hammer; lots with rarer small tins $240 to $310. Gallon oil tins, not this item; database titles only."
     }
    ],
-   "resale": 267.5,
-   "net_resale": 227.375,
-   "max_hammer": 20,
+   "resale": 325.0,
+   "net_resale": 276.25,
+   "max_hammer": 60,
    "status": "FAIL",
-   "why": "max hammer $20 from a median SOLD of $268 does not clear the current bid $130",
+   "why": "max hammer $60 from a median SOLD of $325 does not clear the current bid $140",
    "priority": false
   },
   {
@@ -334,14 +335,6 @@
      "url": "https://www.thomaswatson.com/lot/wilesco-old-smokey-d36-steam-roller-with-box-as-new",
      "same_item": "yes",
      "note": "Page opened. Boxed, 'as new' D36, so better than this lot (no box, untested). Rate used GBP 1 = AUD 2.05. Sale date not shown."
-    },
-    {
-     "aud_price": 456.0,
-     "date": "04/2023",
-     "venue": "eBay sold listing, shown on fabtintoys price guide ('WILESCO D 365 Old Smokey Green Red Steam')",
-     "url": "https://www.fabtintoys.com/wilesco/",
-     "same_item": "yes",
-     "note": "Page opened, but it is an aggregated eBay sold figure with no listing detail, so condition, box and extras unknown (likely complete set). Treat as upper outlier. Rate USD 1 = AUD 1.52."
     },
     {
      "aud_price": 334.55,
@@ -512,14 +505,6 @@
      "note": "Wilesco D365 green, auction"
     },
     {
-     "aud_price": 284.48,
-     "date": "2024-11-11",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/356215935003",
-     "same_item": "close",
-     "note": "Wilesco D36 Old Smokey, condition not stated"
-    },
-    {
      "aud_price": 467.74,
      "date": "2026-01-24",
      "venue": "eBay AU (Terapeak)",
@@ -536,7 +521,24 @@
      "note": "Old Smokey D36 'ready to run' fixed price"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 456.0,
+     "date": "04/2023",
+     "venue": "eBay sold listing, shown on fabtintoys price guide ('WILESCO D 365 Old Smokey Green Red Steam')",
+     "url": "https://www.fabtintoys.com/wilesco/",
+     "same_item": "yes",
+     "note": "Page opened, but it is an aggregated eBay sold figure with no listing detail, so condition, box and extras unknown (likely complete set). Treat as upper outlier. Rate USD 1 = AUD 1.52."
+    },
+    {
+     "aud_price": 284.48,
+     "date": "2024-11-11",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/356215935003",
+     "same_item": "close",
+     "note": "Wilesco D36 Old Smokey, condition not stated"
+    }
+   ],
    "unsold": [
     {
      "aud_price": 164.0,
@@ -549,8 +551,8 @@
    ],
    "asking": [],
    "paid": [],
-   "resale": 260.28999999999996,
-   "net_resale": 221.24649999999997,
+   "resale": 259.585,
+   "net_resale": 220.64724999999999,
    "max_hammer": 15,
    "status": "FAIL",
    "why": "max hammer $15 from a median SOLD of $260 does not clear the current bid $120",
@@ -563,8 +565,8 @@
    "strength": 6,
    "findings": "Vitreous enamel sign 'Bushells BLUE LABEL The Tea of Flavor', blue ground, white and orange lettering. Genuine enamel on iron with four fixing holes. No maker's name seen.",
    "condition": "Chips and rust spots across face including a large chip on the B, edge chipping, reverse rusted.",
-   "current_bid": 210.0,
-   "bid_count": 15,
+   "current_bid": 250.0,
+   "bid_count": 19,
    "close": "11/11/2026 7:48:20 PM ADST",
    "identification": "Vintage enamel Bushells 'Blue Label Tea, The Tea of Flavor' advertising sign, blue/white/orange, 30.5x45.5 cm, some chips and rust, blank black back (4 photos).",
    "researched": true,
@@ -639,7 +641,7 @@
    "net_resale": 292.58275000000003,
    "max_hammer": 75,
    "status": "FAIL",
-   "why": "max hammer $75 from a median SOLD of $344 does not clear the current bid $210",
+   "why": "max hammer $75 from a median SOLD of $344 does not clear the current bid $250",
    "priority": false
   },
   {
@@ -649,8 +651,8 @@
    "strength": 4,
    "findings": "Golden Fleece 1 Imp. Gallon tin with ram logo, 'ALSO CHRYSLER M/S 3256', 'AQ-ATF-1681-A TYPE A SUFFIX-A' (automatic transmission fluid, not engine oil), H.C. Sleigh Limited.",
    "condition": "Scratches, spotting and rust to top, general wear, label colours still bright.",
-   "current_bid": 130.0,
-   "bid_count": 12,
+   "current_bid": 140.0,
+   "bid_count": 13,
    "close": "11/11/2026 7:48:40 PM ADST",
    "identification": "Golden Fleece 1 gallon oil tin, yellow/blue with lamb logo and 'H C Sleigh' details (2 photos).",
    "researched": true,
@@ -691,22 +693,6 @@
      "note": "'GOLDEN FLEECE 1 GALLON TIN'. Design and product not stated. Hammer; buyers premium not included."
     },
     {
-     "aud_price": 150.59,
-     "date": "2024-04-08",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/116130352476",
-     "same_item": "close",
-     "note": "Vintage GF 1 gallon Duo 30/40 motor oil tin, auction 2 bids"
-    },
-    {
-     "aud_price": 172.54,
-     "date": "2024-07-17",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/116254988293",
-     "same_item": "close",
-     "note": "GF Ram on Bone 1 imp gallon tin"
-    },
-    {
      "aud_price": 114.59,
      "date": "2026-04-24",
      "venue": "eBay AU (Terapeak)",
@@ -731,6 +717,22 @@
      "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Print-Results-2.pdf",
      "same_item": "close",
      "note": "'GOLDEN FLEECE 1 GALLON'. No date, title or premium note printed on the PDF, so it can't set a max or be confirmed as within 24 months."
+    },
+    {
+     "aud_price": 150.59,
+     "date": "2024-04-08",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116130352476",
+     "same_item": "close",
+     "note": "Vintage GF 1 gallon Duo 30/40 motor oil tin, auction 2 bids"
+    },
+    {
+     "aud_price": 172.54,
+     "date": "2024-07-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116254988293",
+     "same_item": "close",
+     "note": "GF Ram on Bone 1 imp gallon tin"
     }
    ],
    "unsold": [],
@@ -794,11 +796,11 @@
      "note": "Gallon tin, no top (damaged); 2 bids. Premium extra. Title only, no condition seen (API opened, title listing)."
     }
    ],
-   "resale": 140.29500000000002,
-   "net_resale": 119.25075000000001,
+   "resale": 122.295,
+   "net_resale": 103.95075,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $140 does not clear the current bid $130",
+   "why": "max hammer $0 from a median SOLD of $122 does not clear the current bid $140",
    "priority": false
   },
   {
@@ -808,8 +810,8 @@
    "strength": 3,
    "findings": "Kelly axe head stamped WORLDS FINEST / KELLY (oval) / DANDENONG, Victorian made, fitted to a timber handle. Title says Kelly True Temper but stamp reads Kelly Dandenong.",
    "condition": "Head polished/buffed, cross-hatched grind marks, some pitting; handle sound with string tied round it.",
-   "current_bid": 70.0,
-   "bid_count": 3,
+   "current_bid": 90.0,
+   "bid_count": 5,
    "close": "11/11/2026 7:49:00 PM ADST",
    "identification": "Kelly True Temper axe, polished head with oval 'Kelly/Perfect' type stamp, aged timber handle (3 photos). Likely the Kelly Works/Kelly Perfect (USA) pattern.",
    "researched": true,
@@ -940,7 +942,7 @@
    "net_resale": 155.822,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $183 does not clear the current bid $70",
+   "why": "max hammer $0 from a median SOLD of $183 does not clear the current bid $90",
    "priority": false
   },
   {
@@ -950,8 +952,8 @@
    "strength": 2,
    "findings": "Second Golden Fleece Supra Heavy Duty Hydraulic Brake Fluid 1 Imp. Pint tin, H.C. Sleigh Limited. Pre-metric.",
    "condition": "Rust to top and cap, scuffs and small dents, some paint loss on side.",
-   "current_bid": 105.0,
-   "bid_count": 13,
+   "current_bid": 115.0,
+   "bid_count": 15,
    "close": "11/11/2026 7:49:40 PM ADST",
    "identification": "Golden Fleece Supra Heavy Duty hydraulic brake fluid tin, 1 imperial pint (2 photos). Same as lot 1405.",
    "researched": true,
@@ -982,7 +984,9 @@
      "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Results-Next-Level-Collectors-Auction-4.pdf",
      "same_item": "yes",
      "note": "Same sale as listed under lot 1405. Hammer; buyers premium not included. Condition not stated."
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 52.67,
      "date": "2024-01-26",
@@ -992,7 +996,6 @@
      "note": "Golden Fleece Supra heavy duty hydraulic brake fluid 1 imp pint tin"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -1062,11 +1065,11 @@
      "note": "Golden Fleece 1 gallon oil tin. Database only."
     }
    ],
-   "resale": 267.5,
-   "net_resale": 227.375,
-   "max_hammer": 20,
+   "resale": 325.0,
+   "net_resale": 276.25,
+   "max_hammer": 60,
    "status": "FAIL",
-   "why": "max hammer $20 from a median SOLD of $268 does not clear the current bid $105",
+   "why": "max hammer $60 from a median SOLD of $325 does not clear the current bid $115",
    "priority": false
   },
   {
@@ -1076,8 +1079,8 @@
    "strength": 4,
    "findings": "Cast iron reclining rabbit holding a flower-shaped dish, rust-brown painted finish. No maker's mark visible. Modern decorative garden/giftware casting.",
    "condition": "Good, surface rust patina as made, no breaks seen.",
-   "current_bid": 35.0,
-   "bid_count": 7,
+   "current_bid": 45.0,
+   "bid_count": 9,
    "close": "11/11/2026 7:50:20 PM ADST",
    "identification": "Small cast iron rabbit float vase; modern giftware. Est 20-40, bid 45. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: dark cast iron rabbit with leaf-shaped dish on its back; modern giftware, low value.",
    "researched": true,
@@ -1153,7 +1156,8 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 82.74,
      "date": "2018-10-09",
@@ -1171,7 +1175,6 @@
      "note": "head start item; 2018-10-09, old [converted at GBP 1.97]"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -1200,11 +1203,11 @@
      "note": "Stoneware wine barrel, 1 bid, via Gowans API (opened). Little detail on size or condition."
     }
    ],
-   "resale": 82.74,
-   "net_resale": 70.329,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $83 does not clear the current bid $70",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1292,8 +1295,8 @@
    "strength": 5,
    "findings": "Green vitreous enamel sign 'BP AUSTRALIA LTD.' with yellow serif lettering, faint lower line 'INCORPORATED IN VICTORIA', likely an office or depot company sign.",
    "condition": "Faded bottom lettering, small chips at holes and edges, reverse with rust spots.",
-   "current_bid": 190.0,
-   "bid_count": 6,
+   "current_bid": 210.0,
+   "bid_count": 8,
    "close": "11/11/2026 7:51:20 PM ADST",
    "identification": "Vintage enamel 'BP Australia Ltd' sign, green with gold-yellow lettering, 54x39 cm, plain black back with hole marks (4 photos). Likely a service-station/company name plate; condition looks excellent.",
    "researched": true,
@@ -1377,7 +1380,9 @@
      "url": "https://www.ebay.com.au/itm/377536923706",
      "same_item": "yes",
      "note": "Lucas No.624 King of the Road brass oil lamp c1900, listed AF; different number but same KOTR family, condition worse or similar"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 47.96,
      "date": "2024-01-30",
@@ -1387,7 +1392,6 @@
      "note": "Antique Jos Lucas Ltd King of the Road No.723 car/carriage lamp"
     }
    ],
-   "sold_old": [],
    "unsold": [
     {
      "aud_price": 160.0,
@@ -1426,11 +1430,11 @@
      "note": "From local comps database; title only, maker unknown, probably not Lucas. Hammer, premium extra. Low-end Tasmanian reference."
     }
    ],
-   "resale": 66.745,
-   "net_resale": 56.733250000000005,
+   "resale": 85.53,
+   "net_resale": 72.7005,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $67 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $86 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -1440,8 +1444,8 @@
    "strength": 5,
    "findings": "Castrol Wakefield Motor Oil 1 gallon rectangular tin, grade 1080X panel. Side panel reads 'By appointment purveyors of motor lubricants to the late King George VI', 'C.C. Wakefield & Co Ltd', 'The All British Firm' with royal arms, so early 1950s (1952-53). Original brass-type cap and pourer present.",
    "condition": "Surface scratching, paint loss and staining, rust spotting on base edges and lid; no dents obvious; original cap present.",
-   "current_bid": 25.0,
-   "bid_count": 2,
+   "current_bid": 30.0,
+   "bid_count": 3,
    "close": "11/11/2026 7:52:00 PM ADST",
    "identification": "Castrol Wakefield 1 gallon tin, c.1952 King George VI warrant panel. Est 30-60, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: green/white Castrol Wakefield 1 gallon tin, rust at edges.",
    "researched": true,
@@ -1496,7 +1500,9 @@
      "url": "https://www.ebay.com.au/itm/257799256405",
      "same_item": "close",
      "note": "Castrol Wakefield vintage imp gallon empty oil can. poorer condition likely"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 67.63,
      "date": "2024-10-25",
@@ -1522,7 +1528,6 @@
      "note": "Castrol Wakefield 1 imperial gallon"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -1576,11 +1581,11 @@
      "note": "Multi-tin lots including Castrol/BP; not single-tin evidence."
     }
    ],
-   "resale": 90.69,
-   "net_resale": 77.0865,
+   "resale": 102.75,
+   "net_resale": 87.33749999999999,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $91 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $103 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -1590,8 +1595,8 @@
    "strength": 6,
    "findings": "Keen's Genuine Tasmanian Curry Powder lidded canister, paper label in purple and gold: 'Manufactured at Kingston, Brown's River', 'Medal awarded to J. Keen, Intercolonial Exhibition 1866-7', 'Manufactured by Keen's Curry Powder Co.', 'Nett 4 oz' (reads '4 OZ NETT' on side), recipe panel on reverse mentions Keen's Tasmanian Sauce. Tasmaniana advertising tin, well regarded by Tasmanian collectors.",
    "condition": "Label tears and splits along seams, some loss and scuffing at lower edge, rust to base rim and lid edge; lid present.",
-   "current_bid": 35.0,
-   "bid_count": 4,
+   "current_bid": 45.0,
+   "bid_count": 6,
    "close": "11/11/2026 7:52:20 PM ADST",
    "identification": "Keen's Genuine Tasmanian Curry Powder lidded tin canister, navy/gold with prize medals, 8 cm, 'Browns River, Kingston' (4 photos). Keen's Curry was made in Tasmania from 1860s; early tins are Tasmanian collectables.",
    "researched": true,
@@ -1805,14 +1810,6 @@
      "note": "Trax Falcon XK panel van Esso Top Gear silver. item price as shown, postage not included unless stated"
     },
     {
-     "aud_price": 34.31,
-     "date": "2024-07-07",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/186496851282",
-     "same_item": "close",
-     "note": "TR29 Ford Falcon XK, boxed model, single"
-    },
-    {
      "aud_price": 27.92,
      "date": "2025-05-10",
      "venue": "eBay AU (Terapeak)",
@@ -1851,6 +1848,16 @@
      "url": "https://www.ebay.com.au/itm/205888142873",
      "same_item": "close",
      "note": "TR27C Ford XK Falcon, boxed model, single"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 34.31,
+     "date": "2024-07-07",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/186496851282",
+     "same_item": "close",
+     "note": "TR29 Ford Falcon XK, boxed model, single"
     },
     {
      "aud_price": 47.11,
@@ -1869,7 +1876,6 @@
      "note": "TR30D Top Gear 1:43, boxed model, single"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -1923,11 +1929,11 @@
      "note": "Local room, cost guide only."
     }
    ],
-   "resale": 31.64,
-   "net_resale": 26.894,
+   "resale": 28.55,
+   "net_resale": 24.2675,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $32 does not clear the current bid $55",
+   "why": "max hammer $0 from a median SOLD of $29 does not clear the current bid $55",
    "priority": false
   },
   {
@@ -1945,7 +1951,8 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold: tin battery operated climbing fireman Japan TPS Sonsco remote control",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 38.0,
      "date": "2018-06-20",
@@ -1955,7 +1962,6 @@
      "note": "Boxed Sonsco Japan climbing fireman, tested and did not work, light scuffs. Page opened; price from search summary. Rate 1 USD = 1.50 AUD. Old and boxed, ours unboxed."
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -1977,11 +1983,11 @@
      "note": "Boxes of tin toys $42-$120, tin horse wind-up Japan $200 (2026-07-05), 3 vintage tin toys $85. No battery fireman found. Hammer, premium extra."
     }
    ],
-   "resale": 38.0,
-   "net_resale": 32.3,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $38 does not clear the current bid $35",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2009,14 +2015,6 @@
      "note": "1960s Mobil Oil Australia Mobiloil AF Pegasus tin top pint bottle (AF variant, condition not checked)"
     },
     {
-     "aud_price": 99.81,
-     "date": "2023-12-30",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/116024606665",
-     "same_item": "close",
-     "note": "Vintage Mobil Oil A tin bottle top"
-    },
-    {
      "aud_price": 16.44,
      "date": "2025-02-14",
      "venue": "eBay AU (Terapeak)",
@@ -2025,7 +2023,16 @@
      "note": "Mobil oil bottle tin top, low"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 99.81,
+     "date": "2023-12-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116024606665",
+     "same_item": "close",
+     "note": "Vintage Mobil Oil A tin bottle top"
+    }
+   ],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -2078,8 +2085,8 @@
      "note": "Pint bottle with other brand pourer, same buyer pool. Hammer, premium extra. From local comps database (Gowans API record), title: ONE IMPERIAL PINT OIL BOTTLE WITH GOLDEN FLEECE METAL POURER. Page not opened; no rate needed (AUD)."
     }
    ],
-   "resale": 99.81,
-   "net_resale": 84.8385,
+   "resale": 99.97,
+   "net_resale": 84.97449999999999,
    "max_hammer": 0,
    "status": "FAIL",
    "why": "max hammer $0 from a median SOLD of $100 does not clear the current bid $50",
@@ -2092,8 +2099,8 @@
    "strength": 5,
    "findings": "Classic Carlectables 1:18 Marcos Ambrose 2003 Championship Series winning Stone Brothers Racing BA Falcon #4 Pirtek, limited edition of 3500 with certificate (number handwritten, faint). Plus SPP Motorsport framed tribute (photos and plaque 'Marcos Ambrose') certificate numbered 8 of 100, signed by SPP authorised representative (not a driver signature). Model not in box in photos.",
    "condition": "Model appears clean; outer box not shown; frame good.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 150.0,
+   "bid_count": 1,
    "close": "11/11/2026 7:56:40 PM ADST",
    "identification": "1:18 Classic Carlectables diecast Marcos Ambrose / Stone Brothers Racing Pirtek Ford BA Falcon (blue, car number 4), displayed with a framed tribute montage of photos and a Classic Carlectables Certificate of Authenticity, plus a second SBR Limited Edition certificate (5 photos viewed). Googled: Pirtek 2003-04 BA Falcon 1:18 is a standard Classic Carlectables release (2003 ATCC / 2004 championship).",
    "researched": true,
@@ -2150,14 +2157,6 @@
      "note": "titled 2003 Year Car No.4, likely same casting; model alone"
     },
     {
-     "aud_price": 221.58,
-     "date": "2024-01-03",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/115992788222",
-     "same_item": "close",
-     "note": "Classic Carlectables Marcus Ambrose 2003 model (listing may be car only)"
-    },
-    {
      "aud_price": 215.16,
      "date": "2025-10-11",
      "venue": "eBay AU (Terapeak)",
@@ -2166,7 +2165,16 @@
      "note": "1:18 Ford BA Falcon Stone Brothers Racing"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 221.58,
+     "date": "2024-01-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/115992788222",
+     "same_item": "close",
+     "note": "Classic Carlectables Marcus Ambrose 2003 model (listing may be car only)"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -2179,11 +2187,11 @@
     }
    ],
    "paid": [],
-   "resale": 272.59000000000003,
-   "net_resale": 231.7015,
+   "resale": 275.24,
+   "net_resale": 233.954,
    "max_hammer": 25,
-   "status": "PASS",
-   "why": "8 same-item SOLD price(s), median $273; less 15% fees = $232; less $200 profit, / 1.22 premium = max hammer $25",
+   "status": "FAIL",
+   "why": "max hammer $25 from a median SOLD of $275 does not clear the current bid $150",
    "priority": false
   },
   {
@@ -2286,8 +2294,8 @@
    "strength": 5,
    "findings": "Three handmade sandstock bricks with finger-drawn marks: one incised with what looks like 'EAD' (or similar letters), one with a broad arrow (Government) mark, one with a 'WMVM'-style zigzag mark. Catalogue provenance: ex Alanvale, Newnham (Launceston). Only one brick clearly shows a broad arrow; the others carry other convict or maker marks.",
    "condition": "Weathered, chipped edges and corners, mortar residue; one brick has a cracked surface.",
-   "current_bid": 25.0,
-   "bid_count": 2,
+   "current_bid": 30.0,
+   "bid_count": 3,
    "close": "11/11/2026 7:57:20 PM ADST",
    "identification": "Three clay convict bricks with impressed marks (one reads W broad arrow, others with 'N' or arrow marks), ex-Alanvale Newnham (Launceston, Tas) per the title (3 photos viewed). Heavy.",
    "researched": true,
@@ -2423,8 +2431,8 @@
    "strength": 6,
    "findings": "Not a motor oil tin: an embossed SHELL MOTOR SPIRIT 2 gallon type running board petrol can, red, strap handle, embossed brass Shell cap.",
    "condition": "Red paint worn and chipped, top heavily worn with rust; cap present.",
-   "current_bid": 20.0,
-   "bid_count": 3,
+   "current_bid": 25.0,
+   "bid_count": 4,
    "close": "11/11/2026 7:58:00 PM ADST",
    "identification": "Shell 2-gallon petrol can, red, with running board clip/strap and cap (2 photos viewed). Paint heavily worn, rusty. Title says motor oil tin; it looks like a Shell Motor Spirit running board can.",
    "researched": true,
@@ -2432,22 +2440,6 @@
    "chrome_hint": "eBay.com.au sold/completed: Shell Motor Spirit 2 gallon petrol can brass cap (also Shell running board can)",
    "chrome_done": true,
    "sold": [
-    {
-     "aud_price": 80.47,
-     "date": "2024-01-21",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/166521873133",
-     "same_item": "close",
-     "note": "Shell running board 2 gallons embossed"
-    },
-    {
-     "aud_price": 92.25,
-     "date": "2024-05-05",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/235074634641",
-     "same_item": "close",
-     "note": "Shell Motor Spirit running board 2 gal"
-    },
     {
      "aud_price": 87.63,
      "date": "2025-06-13",
@@ -2481,7 +2473,24 @@
      "note": "Shell Motor Spirit 2 gal, low end poor condition"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 80.47,
+     "date": "2024-01-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/166521873133",
+     "same_item": "close",
+     "note": "Shell running board 2 gallons embossed"
+    },
+    {
+     "aud_price": 92.25,
+     "date": "2024-05-05",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235074634641",
+     "same_item": "close",
+     "note": "Shell Motor Spirit running board 2 gal"
+    }
+   ],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -2514,7 +2523,7 @@
    "net_resale": 74.868,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $88 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $88 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -2635,20 +2644,22 @@
      "note": "Vintage Ampol one gallon tin"
     },
     {
-     "aud_price": 137.42,
-     "date": "2024-10-07",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/116321605907",
-     "same_item": "close",
-     "note": "Vintage Ampol one gallon tin"
-    },
-    {
      "aud_price": 98.5,
      "date": "2025-11-09",
      "venue": "eBay AU (Terapeak)",
      "url": "https://www.ebay.com.au/itm/127465208133",
      "same_item": "close",
      "note": "Ampol motor oil 1 gallon tin"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 137.42,
+     "date": "2024-10-07",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116321605907",
+     "same_item": "close",
+     "note": "Vintage Ampol one gallon tin"
     },
     {
      "aud_price": 26.51,
@@ -2659,7 +2670,6 @@
      "note": "Ampol motor oil tin 1 gallon, likely poor"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -2766,7 +2776,9 @@
      "url": "https://www.ebay.com.au/itm/236275674796",
      "same_item": "close",
      "note": "Vintage pressed steel pedal car Cyclops"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 384.05,
      "date": "2023-12-06",
@@ -2800,7 +2812,6 @@
      "note": "Cyclops pedal car 1950s"
     }
    ],
-   "sold_old": [],
    "unsold": [
     {
      "aud_price": 0.0,
@@ -2847,11 +2858,11 @@
      "note": "Gowans API; CYCLOPS PEDAL CAR, 7 bids; ute/tray-back body, same style; hammer, premium extra."
     }
    ],
-   "resale": 384.05,
-   "net_resale": 326.4425,
-   "max_hammer": 100,
+   "resale": 400.22,
+   "net_resale": 340.187,
+   "max_hammer": 110,
    "status": "FAIL",
-   "why": "max hammer $100 from a median SOLD of $384 does not clear the current bid $250",
+   "why": "max hammer $110 from a median SOLD of $400 does not clear the current bid $250",
    "priority": false
   },
   {
@@ -2870,6 +2881,16 @@
    "chrome_hint": "eBay sold: Mobiloil A SAE 30 gallon tin Vacuum Oil Company Pty Ltd; Wakefield Castrol gallon tin Australia",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 53.44,
+     "date": "2026-05-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157861769239",
+     "same_item": "close",
+     "note": "Two one gallon oil tins Castrol Wakefield & COR"
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 94.81,
      "date": "2024-01-27",
@@ -2895,14 +2916,6 @@
      "note": "Wakefield Castrol 1 gal"
     },
     {
-     "aud_price": 53.44,
-     "date": "2026-05-03",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/157861769239",
-     "same_item": "close",
-     "note": "Two one gallon oil tins Castrol Wakefield & COR"
-    },
-    {
      "aud_price": 41.18,
      "date": "2024-01-27",
      "venue": "eBay AU (Terapeak)",
@@ -2919,7 +2932,6 @@
      "note": "Mobiloil Pegasus Arctic 1 gal tin"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -2989,11 +3001,11 @@
      "note": "Mixed lots, not the Mobiloil A gallon; indicates low Mobil tin value locally."
     }
    ],
-   "resale": 65.88,
-   "net_resale": 55.998,
+   "resale": 53.44,
+   "net_resale": 45.424,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $66 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $53 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -3264,14 +3276,6 @@
      "note": "Stihl MS391 Farm Boss 2 stroke petrol chainsaw 20 in, condition not stated (may be new)"
     },
     {
-     "aud_price": 852.58,
-     "date": "2024-03-05",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/176221005430",
-     "same_item": "yes",
-     "note": "Stihl MS391 Farm Boss petrol chainsaw"
-    },
-    {
      "aud_price": 766.54,
      "date": "2026-09-29",
      "venue": "eBay AU (Terapeak)",
@@ -3288,7 +3292,16 @@
      "note": "Listing titled 'stihl chainsaws used MS 391 for sale', auction format, condition not specified (date read as 1 May 2026)"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 852.58,
+     "date": "2024-03-05",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176221005430",
+     "same_item": "yes",
+     "note": "Stihl MS391 Farm Boss petrol chainsaw"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -3382,11 +3395,11 @@
      "note": "STIHL CHAINSAW MS462C; Gowans hammer, premium extra; local comps database (not opened). Much bigger professional saw, 41 bids; not comparable but shows strong demand for working pro saws."
     }
    ],
-   "resale": 793.52,
-   "net_resale": 674.492,
-   "max_hammer": 385,
+   "resale": 780.03,
+   "net_resale": 663.0255,
+   "max_hammer": 375,
    "status": "PASS",
-   "why": "5 same-item SOLD price(s), median $794; less 15% fees = $674; less $200 profit, / 1.22 premium = max hammer $385",
+   "why": "4 same-item SOLD price(s), median $780; less 15% fees = $663; less $200 profit, / 1.22 premium = max hammer $375",
    "priority": false
   },
   {
@@ -3545,7 +3558,9 @@
      "url": "https://www.ebay.com.au/itm/168195205207",
      "same_item": "close",
      "note": "Vintage BP Australia 1 gallon tin"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 49.72,
      "date": "2024-10-01",
@@ -3555,7 +3570,6 @@
      "note": "BP Energol 1 gallon gear oil tin"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -3734,6 +3748,16 @@
    "chrome_done": true,
    "sold": [
     {
+     "aud_price": 9.27,
+     "date": "2025-02-08",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256707076368",
+     "same_item": "close",
+     "note": "Ampol Hamburger-style grease tin, later type"
+    }
+   ],
+   "sold_old": [
+    {
      "aud_price": 28.87,
      "date": "2024-04-17",
      "venue": "eBay AU (Terapeak)",
@@ -3748,17 +3772,8 @@
      "url": "https://www.ebay.com.au/itm/126194160843",
      "same_item": "close",
      "note": "Ampol grease tin 5lb"
-    },
-    {
-     "aud_price": 9.27,
-     "date": "2025-02-08",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/256707076368",
-     "same_item": "close",
-     "note": "Ampol Hamburger-style grease tin, later type"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -3812,11 +3827,11 @@
      "note": "2 AMPOL TINS, 0 bids on record; type unspecified; local database hit"
     }
    ],
-   "resale": 28.87,
-   "net_resale": 24.5395,
+   "resale": 9.27,
+   "net_resale": 7.879499999999999,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $29 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $9 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -3961,14 +3976,6 @@
      "note": "Golden Fleece 5 lb Australian grease tin strong colours"
     },
     {
-     "aud_price": 343.71,
-     "date": "2024-08-30",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/126595520544",
-     "same_item": "close",
-     "note": "Clean Golden Fleece Duo 5LB grease tin"
-    },
-    {
      "aud_price": 281.01,
      "date": "2026-01-17",
      "venue": "eBay AU (Terapeak)",
@@ -3985,14 +3992,6 @@
      "note": "Golden Fleece 5Lb grease tin vintage collectible"
     },
     {
-     "aud_price": 97.38,
-     "date": "2024-07-22",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/126572654436",
-     "same_item": "close",
-     "note": "Vintage Golden Fleece 5lb grease tin"
-    },
-    {
      "aud_price": 58.37,
      "date": "2026-01-10",
      "venue": "eBay AU (Terapeak)",
@@ -4001,28 +4000,12 @@
      "note": "Mobilgrease Gargoyle 5Lb grease tin"
     },
     {
-     "aud_price": 96.51,
-     "date": "2024-01-13",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/305352971469",
-     "same_item": "close",
-     "note": "Mobilgrease 5lb chassis high pressure grease tin"
-    },
-    {
      "aud_price": 22.39,
      "date": "2026-06-02",
      "venue": "eBay AU (Terapeak)",
      "url": "https://www.ebay.com.au/itm/377211245966",
      "same_item": "close",
      "note": "Mobil Pegasus Mobilgrease 5LB tin, poor"
-    },
-    {
-     "aud_price": 251.4,
-     "date": "2024-02-11",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/166592172657",
-     "same_item": "close",
-     "note": "Golden Fleece HEX 5 lb tin, condition not stated"
     },
     {
      "aud_price": 103.0,
@@ -4065,6 +4048,38 @@
      "url": "https://burnsandcoauctions.com.au/wp-content/uploads/Print-Results.pdf",
      "same_item": "close",
      "note": "Lot 1039 Golden Fleece Cinemascope 5LB grease tin; page opened. Different, more sought design."
+    },
+    {
+     "aud_price": 343.71,
+     "date": "2024-08-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126595520544",
+     "same_item": "close",
+     "note": "Clean Golden Fleece Duo 5LB grease tin"
+    },
+    {
+     "aud_price": 97.38,
+     "date": "2024-07-22",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126572654436",
+     "same_item": "close",
+     "note": "Vintage Golden Fleece 5lb grease tin"
+    },
+    {
+     "aud_price": 96.51,
+     "date": "2024-01-13",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/305352971469",
+     "same_item": "close",
+     "note": "Mobilgrease 5lb chassis high pressure grease tin"
+    },
+    {
+     "aud_price": 251.4,
+     "date": "2024-02-11",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/166592172657",
+     "same_item": "close",
+     "note": "Golden Fleece HEX 5 lb tin, condition not stated"
     }
    ],
    "unsold": [],
@@ -4380,7 +4395,9 @@
      "url": "https://www.ebay.com.au/itm/168266353480",
      "same_item": "close",
      "note": "Vintage Shell X100 1 gallon tin"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 84.53,
      "date": "2024-08-03",
@@ -4406,7 +4423,6 @@
      "note": "Shell X100 1 gallon oil tin, poor"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -4492,11 +4508,11 @@
      "note": "Mobiloil / Vacuum Oil garage lots, mixed contents; weak guide only."
     }
    ],
-   "resale": 84.77000000000001,
-   "net_resale": 72.0545,
+   "resale": 104.03,
+   "net_resale": 88.4255,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $85 does not clear the current bid $85",
+   "why": "max hammer $0 from a median SOLD of $104 does not clear the current bid $85",
    "priority": false
   },
   {
@@ -4562,7 +4578,9 @@
      "url": "https://www.ebay.com.au/itm/167812701475",
      "same_item": "close",
      "note": "Large Simplex copper brass"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 48.57,
      "date": "2024-04-04",
@@ -4572,7 +4590,6 @@
      "note": "Simplex Pyrofoam 1948 copper & brass"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -4650,11 +4667,11 @@
      "note": "Brass and copper fire extinguisher, 5 bids."
     }
    ],
-   "resale": 95.39,
-   "net_resale": 81.0815,
+   "resale": 95.86,
+   "net_resale": 81.481,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $95 does not clear the current bid $65",
+   "why": "max hammer $0 from a median SOLD of $96 does not clear the current bid $65",
    "priority": false
   },
   {
@@ -4664,8 +4681,8 @@
    "strength": 4,
    "findings": "Tray of oil cans (pump oiler, copper-base oilers, red and blue oilers), Carbon tin, 'Wayfarer Road Liner' aluminium badge plate, RACT (Royal Automobile Club of Tasmania) crowned grille badge, Bedford griffin grille badge, Ford oval badges (one on teal mount), Toyota badge, cast pipe fittings.",
    "condition": "Oilers rusted and worn; badges with wear, Bedford badge dented.",
-   "current_bid": 25.0,
-   "bid_count": 4,
+   "current_bid": 30.0,
+   "bid_count": 5,
    "close": "11/11/2026 8:07:00 PM ADST",
    "identification": "Tray of oilers, RACT-style grille badge, Bedford badge, caravan plate. Est 30-50, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: tray with oilers, a Ford oval badge, Toyota-style badge, Bedford-style grille badge and a few small plates; badge type not readable.",
    "researched": true,
@@ -5013,22 +5030,6 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 78.0,
-     "date": "2021-06",
-     "venue": "Bonhams Cars (UK), 1920s RACQ associate member's badge numbered A6929",
-     "url": "https://cars.bonhams.com/auction/27140/lot/71/a-royal-automobile-club-associate-members-badge-from-the-rac-of-queensland-1920s/",
-     "same_item": "yes",
-     "note": "Same Queensland associate type. Price from local database and search snippet; Bonhams page returned 403, so not opened. Rate about 1.53 AUD per USD as in database."
-    },
-    {
-     "aud_price": 72.88,
-     "date": "2024-06-30",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/256478107483",
-     "same_item": "close",
-     "note": "RACQ Royal Automobile Club of Queensland car bumper badge"
-    },
-    {
      "aud_price": 61.44,
      "date": "2026-08-06",
      "venue": "eBay AU (Terapeak)",
@@ -5047,12 +5048,28 @@
    ],
    "sold_old": [
     {
+     "aud_price": 78.0,
+     "date": "2021-06",
+     "venue": "Bonhams Cars (UK), 1920s RACQ associate member's badge numbered A6929",
+     "url": "https://cars.bonhams.com/auction/27140/lot/71/a-royal-automobile-club-associate-members-badge-from-the-rac-of-queensland-1920s/",
+     "same_item": "yes",
+     "note": "Same Queensland associate type. Price from local database and search snippet; Bonhams page returned 403, so not opened. Rate about 1.53 AUD per USD as in database."
+    },
+    {
      "aud_price": 135.0,
      "date": "2003-11",
      "venue": "Bonhams (Harrogate), RAC associate car badge with Queensland centre",
      "url": "https://cars.bonhams.com/auction/10694/lot/28/an-rac-associate-car-badge-with-queensland-centre/",
      "same_item": "yes",
      "note": "Same type but 2003, old; database AUD figure used. Snippet and database only, page not opened."
+    },
+    {
+     "aud_price": 72.88,
+     "date": "2024-06-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256478107483",
+     "same_item": "close",
+     "note": "RACQ Royal Automobile Club of Queensland car bumper badge"
     }
    ],
    "unsold": [],
@@ -5092,11 +5109,11 @@
      "note": "9 bids. Tasmanian club badge, local demand; not the Queensland type. Database record only."
     }
    ],
-   "resale": 67.16,
-   "net_resale": 57.086,
+   "resale": 53.28,
+   "net_resale": 45.288,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $67 does not clear the current bid $35",
+   "why": "max hammer $0 from a median SOLD of $53 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -5154,7 +5171,9 @@
      "url": "https://www.ebay.com.au/itm/224984148345",
      "same_item": "close",
      "note": "First Blood III Rambo Stallone hunting knife bowie"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 64.3,
      "date": "2024-05-04",
@@ -5172,7 +5191,6 @@
      "note": "Rambo 3 hunting knife with leather sheath"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -5209,11 +5227,11 @@
     }
    ],
    "paid": [],
-   "resale": 75.18,
-   "net_resale": 63.903000000000006,
+   "resale": 88.42,
+   "net_resale": 75.157,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $45",
+   "why": "max hammer $0 from a median SOLD of $88 does not clear the current bid $45",
    "priority": false
   },
   {
@@ -5318,6 +5336,24 @@
    "chrome_done": true,
    "sold": [
     {
+     "aud_price": 60.1,
+     "date": "2026-03-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157723215913",
+     "same_item": "close",
+     "note": "Jackson's four lever gaol padlock solid brass, no key"
+    },
+    {
+     "aud_price": 40.88,
+     "date": "2026-09-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/198673907587",
+     "same_item": "close",
+     "note": "Jacksons four lever brass padlock"
+    }
+   ],
+   "sold_old": [
+    {
      "aud_price": 120.15,
      "date": "2024-07-26",
      "venue": "eBay AU (Terapeak)",
@@ -5342,22 +5378,6 @@
      "note": "Jacksons four lever brass padlock and key"
     },
     {
-     "aud_price": 60.1,
-     "date": "2026-03-28",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/157723215913",
-     "same_item": "close",
-     "note": "Jackson's four lever gaol padlock solid brass, no key"
-    },
-    {
-     "aud_price": 40.88,
-     "date": "2026-09-29",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/198673907587",
-     "same_item": "close",
-     "note": "Jacksons four lever brass padlock"
-    },
-    {
      "aud_price": 33.65,
      "date": "2024-06-17",
      "venue": "eBay AU (Terapeak)",
@@ -5366,7 +5386,6 @@
      "note": "Jacksons brass lock four lever thick brass"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -5436,11 +5455,11 @@
      "note": "Single vintage brass padlock, no key, 2 bids."
     }
    ],
-   "resale": 61.435,
-   "net_resale": 52.21975,
+   "resale": 50.49,
+   "net_resale": 42.9165,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $61 does not clear the current bid $70",
+   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $70",
    "priority": false
   },
   {
@@ -6045,7 +6064,9 @@
      "url": "https://www.ebay.com.au/itm/175981239342",
      "same_item": "close",
      "note": "Atlantean sword with wall plaque, 9 sold, avg"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 134.86,
      "date": "2024-05-15",
@@ -6055,7 +6076,6 @@
      "note": "Conan the Barbarian Atlantean sword, 1 sold"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -6076,11 +6096,11 @@
     }
    ],
    "paid": [],
-   "resale": 146.0,
-   "net_resale": 124.1,
+   "resale": 149.75,
+   "net_resale": 127.2875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $146 does not clear the current bid $35",
+   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -6190,7 +6210,9 @@
      "url": "https://www.ebay.com.au/itm/227331299414",
      "same_item": "close",
      "note": "Stainless chainmail butcher's apron; likely new"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 71.54,
      "date": "2024-08-08",
@@ -6200,7 +6222,6 @@
      "note": "Chain mail butchers apron and glove, auction"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -6262,11 +6283,11 @@
      "note": "Local comps database, 5 bids, different brand. Premium extra."
     }
    ],
-   "resale": 87.5,
-   "net_resale": 74.375,
+   "resale": 102.565,
+   "net_resale": 87.18025,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $88 does not clear the current bid $35",
+   "why": "max hammer $0 from a median SOLD of $103 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -6286,14 +6307,6 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 300.0,
-     "date": "2019-06-04",
-     "venue": "Graham Budd Auctions",
-     "url": "https://grahambuddauctions.co.uk/auctions/past-auctions/2019-06-04-sporting-memorabilia-3rd-4th-june-2019-94b2d3e2-b1f7-4988-877e-678f876916cb/121",
-     "same_item": "close",
-     "note": "Page opened. Collection of seventeen Chevallier Tayler chromolithographs of cricketers c1905 (Laver, Darling, Jones etc). Roughly AUD 18 each at GBP1=AUD2.00 (assumed rate). Old sale, bulk lot; buyer premium not confirmed."
-    },
-    {
      "aud_price": 130.54,
      "date": "2026-08-08",
      "venue": "eBay AU (Terapeak)",
@@ -6310,7 +6323,16 @@
      "note": "4 prints 1905 (Grace, Rhodes etc) Chevallier Tayler, eBay UK"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 300.0,
+     "date": "2019-06-04",
+     "venue": "Graham Budd Auctions",
+     "url": "https://grahambuddauctions.co.uk/auctions/past-auctions/2019-06-04-sporting-memorabilia-3rd-4th-june-2019-94b2d3e2-b1f7-4988-877e-678f876916cb/121",
+     "same_item": "close",
+     "note": "Page opened. Collection of seventeen Chevallier Tayler chromolithographs of cricketers c1905 (Laver, Darling, Jones etc). Roughly AUD 18 each at GBP1=AUD2.00 (assumed rate). Old sale, bulk lot; buyer premium not confirmed."
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -6356,11 +6378,11 @@
      "note": "Local comps.py: framed Bradman prints with printed signature sold $20, $55, $80 (median $55, 7 lots incl. bat replicas). Relevant to the small Bradman photo only. Premium extra."
     }
    ],
-   "resale": 300.0,
-   "net_resale": 255.0,
-   "max_hammer": 45,
+   "resale": 335.14,
+   "net_resale": 284.86899999999997,
+   "max_hammer": 65,
    "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $300; less 15% fees = $255; less $200 profit, / 1.22 premium = max hammer $45",
+   "why": "2 same-item SOLD price(s), median $335; less 15% fees = $285; less $200 profit, / 1.22 premium = max hammer $65",
    "priority": false
   },
   {
@@ -6644,8 +6666,8 @@
    "strength": 5,
    "findings": "Sidchrome 39 Piece Metric & A/F Socket Set, 1/4 and 3/8 drive, part no. 19100, in red metal case with printed yellow insert. Ratchet, extensions, spinner handle, spark plug socket and screwdriver present; sockets appear to fill nearly every position.",
    "condition": "Light wear, case lid scuffed; appears near complete (count every socket against insert to confirm).",
-   "current_bid": 50.0,
-   "bid_count": 7,
+   "current_bid": 60.0,
+   "bid_count": 9,
    "close": "11/11/2026 8:20:00 PM ADST",
    "identification": "Sidchrome 39 piece metric and A/F socket set in red metal case, 1/4 and 3/8 drive (1 photo viewed). ",
    "researched": true,
@@ -6654,20 +6676,30 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 70.0,
-     "date": "2021-10-19",
-     "venue": "Evans Clarke (SA), sale 43296 lot 44",
-     "url": "https://www.evansclarke.com.au/detail.aspx?id=1601871",
-     "same_item": "close",
-     "note": "Sidchrome 39 Piece SCMT19100, sold as is, 24 bids. Page opened. Likely the modern version of same set; 5 years old; premium status unknown."
-    },
-    {
      "aud_price": 135.0,
      "date": "2026-10-27",
      "venue": "eBay AU",
      "url": "https://www.ebay.com.au/itm/168818507138",
      "same_item": "yes",
      "note": "Sidchrome SCMT19100 39 piece metric & AF set"
+    },
+    {
+     "aud_price": 76.6,
+     "date": "2025-03-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/186988995327",
+     "same_item": "close",
+     "note": "SCMT19100 auction, 16 bids"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 70.0,
+     "date": "2021-10-19",
+     "venue": "Evans Clarke (SA), sale 43296 lot 44",
+     "url": "https://www.evansclarke.com.au/detail.aspx?id=1601871",
+     "same_item": "close",
+     "note": "Sidchrome 39 Piece SCMT19100, sold as is, 24 bids. Page opened. Likely the modern version of same set; 5 years old; premium status unknown."
     },
     {
      "aud_price": 93.12,
@@ -6700,17 +6732,8 @@
      "url": "https://www.ebay.com.au/itm/176627977079",
      "same_item": "close",
      "note": "39pc auction"
-    },
-    {
-     "aud_price": 76.6,
-     "date": "2025-03-09",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/186988995327",
-     "same_item": "close",
-     "note": "SCMT19100 auction, 16 bids"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -6796,11 +6819,11 @@
      "note": "SIDCHROME SOCKET SET, 6 bids. Low end, probably incomplete. Local database record, title only, not opened."
     }
    ],
-   "resale": 93.12,
-   "net_resale": 79.152,
+   "resale": 105.8,
+   "net_resale": 89.92999999999999,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $93 does not clear the current bid $50",
+   "why": "max hammer $0 from a median SOLD of $106 does not clear the current bid $60",
    "priority": false
   },
   {
@@ -6810,8 +6833,8 @@
    "strength": 4,
    "findings": "Large Michelin Man (Bibendum) die-cut corflute display sign, figure pointing beside a tyre, MICHELIN in yellow on blue base, about 139 cm tall. Likely a tyre dealer point-of-sale stand-up, probably 1980s-90s.",
    "condition": "Generally clean; minor edge scuffs; corflute so not as valuable as tin or enamel.",
-   "current_bid": 40.0,
-   "bid_count": 5,
+   "current_bid": 55.0,
+   "bid_count": 8,
    "close": "11/11/2026 8:20:20 PM ADST",
    "identification": "Vintage corflute cut-out sign of the Michelin Man leaning on a tyre, H-139 cm (1 photo viewed). ",
    "researched": true,
@@ -6819,14 +6842,6 @@
    "chrome_hint": "eBay sold: michelin man cardboard OR corflute display standup (Australia and US), last 12 months",
    "chrome_done": true,
    "sold": [
-    {
-     "aud_price": 84.0,
-     "date": "2024-06-25",
-     "venue": "H. Barry Smith / Southern Tire Service auction (US)",
-     "url": "https://bids.hbarrysmith.com/auctions/38619/lot/5767510-michelin-tire-man-cardboard-cutout-66h-x-35w",
-     "same_item": "close",
-     "note": "Page opened. 66 x 35 in cardboard cutout, 19 bids. AUD at about 1.53 per USD (assumed rate)."
-    },
     {
      "aud_price": 43.64,
      "date": "2026-07-25",
@@ -6836,7 +6851,16 @@
      "note": "Michelin Man tyres rustic tin sign (repro-type); Buy It Now; item price excl. postage"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 84.0,
+     "date": "2024-06-25",
+     "venue": "H. Barry Smith / Southern Tire Service auction (US)",
+     "url": "https://bids.hbarrysmith.com/auctions/38619/lot/5767510-michelin-tire-man-cardboard-cutout-66h-x-35w",
+     "same_item": "close",
+     "note": "Page opened. 66 x 35 in cardboard cutout, 19 bids. AUD at about 1.53 per USD (assumed rate)."
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -6874,11 +6898,11 @@
      "note": "Reproduction cast Michelin signs. Not the same item, shows the floor for Michelin decor locally."
     }
    ],
-   "resale": 63.82,
-   "net_resale": 54.247,
+   "resale": 43.64,
+   "net_resale": 37.094,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $64 does not clear the current bid $40",
+   "why": "max hammer $0 from a median SOLD of $44 does not clear the current bid $55",
    "priority": false
   },
   {
@@ -7116,7 +7140,8 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Pascall Old Oak toffee tin; also Pascall Claremont Tasmania tin",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 14.74,
      "date": "2024-10-12",
@@ -7142,7 +7167,6 @@
      "note": "Pascall toffees tin Claremont Tasmania"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -7196,11 +7220,11 @@
      "note": "Box of tins mainly tobacco, hammer, 6 bids."
     }
    ],
-   "resale": 12.38,
-   "net_resale": 10.523,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $12 does not clear the current bid $40",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -7210,8 +7234,8 @@
    "strength": 3,
    "findings": "Crate of hand tools: modern axe with yellow/black handle label (reads like Chopmaster or similar import brand), hammers, adjustable spanners, open-end spanners, pliers, multigrips, side cutters, grinding disc, punches.",
    "condition": "Used, axe head rusty; tools general wear.",
-   "current_bid": 30.0,
-   "bid_count": 4,
+   "current_bid": 40.0,
+   "bid_count": 6,
    "close": "11/11/2026 8:24:00 PM ADST",
    "identification": "Crate of mixed hand tools and axe. Est 20-50, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: blue crate of mixed hand tools with an axe, spanners, pliers.",
    "researched": true,
@@ -7310,7 +7334,9 @@
      "url": "https://www.ebay.com.au/itm/156644409797",
      "same_item": "close",
      "note": "Vintage Mitutoyo 0-1in micrometer"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 22.99,
      "date": "2024-09-07",
@@ -7320,7 +7346,6 @@
      "note": "Vintage Mitutoyo micrometer in case, as found"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -7382,11 +7407,11 @@
      "note": "Digital and Mitutoyo calipers, 26 bids. Calipers not a micrometer; shows Mitutoyo demand."
     }
    ],
-   "resale": 36.26,
-   "net_resale": 30.820999999999998,
+   "resale": 39.33,
+   "net_resale": 33.430499999999995,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $36 does not clear the current bid $15",
+   "why": "max hammer $0 from a median SOLD of $39 does not clear the current bid $15",
    "priority": false
   },
   {
@@ -7444,7 +7469,9 @@
      "url": "https://www.ebay.com.au/itm/127824848918",
      "same_item": "close",
      "note": "Trax member specials, auction 19 bids"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 38.63,
      "date": "2024-10-25",
@@ -7470,7 +7497,6 @@
      "note": "Trax FC wagon member model 2015 in display case"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -7532,11 +7558,11 @@
      "note": "BOXED TRAX FJ HOLDEN 40TH ANNIVERSARY 3 MODEL SET & SIKU (6 bids). Boxed set of three Trax plus a Siku. Local database result (comps.py), page not opened by me."
     }
    ],
-   "resale": 39.225,
-   "net_resale": 33.34125,
+   "resale": 39.82,
+   "net_resale": 33.847,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $39 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $40 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -7760,14 +7786,6 @@
      "note": "Stanley No.151 flat spokeshave, 4 sold avg"
     },
     {
-     "aud_price": 44.0,
-     "date": "2024-10-20",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/116349364690",
-     "same_item": "close",
-     "note": "Lot of two Stanley 151 spokeshaves, 4 sold avg"
-    },
-    {
      "aud_price": 49.0,
      "date": "2026-06-02",
      "venue": "eBay AU (Terapeak)",
@@ -7776,7 +7794,16 @@
      "note": "Stanley 151 flat spokeshave, 5 sold avg (probably new)"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 44.0,
+     "date": "2024-10-20",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116349364690",
+     "same_item": "close",
+     "note": "Lot of two Stanley 151 spokeshaves, 4 sold avg"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -7862,11 +7889,11 @@
      "note": "CARPENTERS TOOLBOX INCL BRACE & BITS PLANES ETC. Local comps database hit (not opened). Toolbox lot, 4 bids."
     }
    ],
-   "resale": 49.0,
-   "net_resale": 41.65,
+   "resale": 55.17,
+   "net_resale": 46.8945,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $49 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $55 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -8155,14 +8182,6 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 224.0,
-     "date": "2023-01-04",
-     "venue": "Flints Auctions (UK), Collectors Sale lot 178",
-     "url": "https://www.flintsauctions.com/auction/lot/178-a-zenith-photo-sniper-35mm-camera--lens-outfit/?lot=18887&sd=1",
-     "same_item": "close",
-     "note": "Page opened. Zenit-ES FS-3 outfit with Tair-3-PhS, Helios 44-2, case, working shutter. Rate 2.0 AUD/GBP. Includes premium, UK, older than 24 months; working body, so better than this lot."
-    },
-    {
      "aud_price": 242.57,
      "date": "2026-10-02",
      "venue": "eBay AU (UK seller)",
@@ -8275,14 +8294,6 @@
      "note": "Zenit Photosniper FS-12 complete kit with Tair-3S"
     },
     {
-     "aud_price": 379.83,
-     "date": "2024-04-29",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/226105956867",
-     "same_item": "close",
-     "note": "Zenit Photosniper FS-12 camera gun, auction"
-    },
-    {
      "aud_price": 605.82,
      "date": "2026-02-06",
      "venue": "eBay AU (Terapeak)",
@@ -8291,7 +8302,24 @@
      "note": "Photosniper complete kit lens filters, metal case"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 224.0,
+     "date": "2023-01-04",
+     "venue": "Flints Auctions (UK), Collectors Sale lot 178",
+     "url": "https://www.flintsauctions.com/auction/lot/178-a-zenith-photo-sniper-35mm-camera--lens-outfit/?lot=18887&sd=1",
+     "same_item": "close",
+     "note": "Page opened. Zenit-ES FS-3 outfit with Tair-3-PhS, Helios 44-2, case, working shutter. Rate 2.0 AUD/GBP. Includes premium, UK, older than 24 months; working body, so better than this lot."
+    },
+    {
+     "aud_price": 379.83,
+     "date": "2024-04-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/226105956867",
+     "same_item": "close",
+     "note": "Zenit Photosniper FS-12 camera gun, auction"
+    }
+   ],
    "unsold": [
     {
      "aud_price": 0.0,
@@ -8389,8 +8417,8 @@
    "strength": 4,
    "findings": "Philips P55 combination black and white TV, clock-alarm and AM-FM radio, 1970s, with original instruction booklet. Retro space-age collectible.",
    "condition": "Powers on per title; case yellowed, light wear.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 8:31:00 PM ADST",
    "identification": "Vintage Philips P55 combo portable TV, clock, AM/FM radio in cream/brown case with manual (4 photos viewed). Power on. ",
    "researched": true,
@@ -8453,7 +8481,9 @@
      "url": "https://www.ebay.com.au/itm/235998835866",
      "same_item": "close",
      "note": "P55 CC908 rare vintage"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 79.21,
      "date": "2023-12-25",
@@ -8463,7 +8493,6 @@
      "note": "Vintage Philips P55 tested working, auction"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -8484,11 +8513,11 @@
     }
    ],
    "paid": [],
-   "resale": 117.55499999999999,
-   "net_resale": 99.92174999999999,
+   "resale": 137.01,
+   "net_resale": 116.45849999999999,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $118 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $137 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -8498,8 +8527,8 @@
    "strength": 4,
    "findings": "Eight Tasmanian plates, mostly pairs: DF 9641 pair and BB 7805 'Tasmania - Holiday Isle', WRH 765 pair black on white 'TAS', WHA 583 pair 'TAS' with year (appears 1961?), AG 0432 'TAS'.",
    "condition": "WRH and WHA pairs rusted and paint loss; others fair.",
-   "current_bid": 25.0,
-   "bid_count": 4,
+   "current_bid": 45.0,
+   "bid_count": 9,
    "close": "11/11/2026 8:31:20 PM ADST",
    "identification": "Tray of 8 old Tasmanian licence plates (pairs DF-9641, WRH-765, WHA-583, plus BB-7805, AG-0432; Holiday Isle series) (1 photo viewed). ",
    "researched": true,
@@ -8524,14 +8553,6 @@
      "note": "2 original enamel Tasmania plates with rego papers, auction"
     },
     {
-     "aud_price": 48.04,
-     "date": "2024-01-25",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/166551140022",
-     "same_item": "close",
-     "note": "Pair of vintage Tasmania number plates"
-    },
-    {
      "aud_price": 28.66,
      "date": "2026-10-31",
      "venue": "eBay AU (Terapeak)",
@@ -8548,7 +8569,16 @@
      "note": "Vintage Tasmania plate"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 48.04,
+     "date": "2024-01-25",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/166551140022",
+     "same_item": "close",
+     "note": "Pair of vintage Tasmania number plates"
+    }
+   ],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -8585,11 +8615,11 @@
      "note": "Pair of Victorian number plates, 4 bids. Ordinary pair."
     }
    ],
-   "resale": 48.04,
-   "net_resale": 40.833999999999996,
+   "resale": 48.135,
+   "net_resale": 40.91475,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $48 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $48 does not clear the current bid $45",
    "priority": false
   },
   {
@@ -8653,28 +8683,12 @@
      "note": "Kreisler bakelite radio working"
     },
     {
-     "aud_price": 132.85,
-     "date": "2023-12-21",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/395072355895",
-     "same_item": "close",
-     "note": "Kreisler 11-28 valve shortwave bakelite"
-    },
-    {
      "aud_price": 91.02,
      "date": "2026-09-20",
      "venue": "eBay AU (Terapeak)",
      "url": "https://www.ebay.com.au/itm/318846221309",
      "same_item": "close",
      "note": "c1960 Kreisler model 1181 valve radio"
-    },
-    {
-     "aud_price": 100.45,
-     "date": "2024-01-08",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/256361502358",
-     "same_item": "close",
-     "note": "Kreisler beehive bakelite radio, auction 7 bids"
     },
     {
      "aud_price": 46.4,
@@ -8685,14 +8699,6 @@
      "note": "Kreisler beehive bakelite, parts or repair"
     },
     {
-     "aud_price": 40.39,
-     "date": "2023-12-22",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/395072336225",
-     "same_item": "close",
-     "note": "Kreisler beehive bakelite art deco"
-    },
-    {
      "aud_price": 29.04,
      "date": "2025-11-21",
      "venue": "eBay AU (Terapeak)",
@@ -8701,7 +8707,32 @@
      "note": "1960s bakelite Kreisler valve radio, auction"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 132.85,
+     "date": "2023-12-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/395072355895",
+     "same_item": "close",
+     "note": "Kreisler 11-28 valve shortwave bakelite"
+    },
+    {
+     "aud_price": 100.45,
+     "date": "2024-01-08",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256361502358",
+     "same_item": "close",
+     "note": "Kreisler beehive bakelite radio, auction 7 bids"
+    },
+    {
+     "aud_price": 40.39,
+     "date": "2023-12-22",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/395072336225",
+     "same_item": "close",
+     "note": "Kreisler beehive bakelite art deco"
+    }
+   ],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -8762,11 +8793,11 @@
      "note": "KRIESLER BAKELITE RADIO NO CORD, hammer. Poor-end comparison."
     }
    ],
-   "resale": 91.02,
-   "net_resale": 77.36699999999999,
+   "resale": 68.71,
+   "net_resale": 58.403499999999994,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $91 does not clear the current bid $35",
+   "why": "max hammer $0 from a median SOLD of $69 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -9250,8 +9281,8 @@
    "strength": 4,
    "findings": "Two 'Atlanta' chrome gooseneck kitchen mixer taps (German-labelled boxes 'Sp\u00fcltischarmatur - Chrom'), one box marked 'with fittings', one tap shown new in bubble wrap. Budget import brand.",
    "condition": "Appear new in boxes, boxes worn.",
-   "current_bid": 25.0,
-   "bid_count": 4,
+   "current_bid": 30.0,
+   "bid_count": 5,
    "close": "11/11/2026 8:37:20 PM ADST",
    "identification": "Two boxed ATLANTA chrome swivel mixer taps (German box, 'Spuletischarmatur', Lidl-type budget brand), one marked 'with fittings'",
    "researched": true,
@@ -9414,20 +9445,22 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 44.57,
-     "date": "2023-12-28",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/256242661025",
-     "same_item": "close",
-     "note": "Vintage original four-digit South Australia plate"
-    },
-    {
      "aud_price": 23.4,
      "date": "2026-01-10",
      "venue": "eBay AU (Terapeak)",
      "url": "https://www.ebay.com.au/itm/227143352815",
      "same_item": "close",
      "note": "SA vintage original tin plate"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 44.57,
+     "date": "2023-12-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256242661025",
+     "same_item": "close",
+     "note": "Vintage original four-digit South Australia plate"
     },
     {
      "aud_price": 12.4,
@@ -9438,7 +9471,6 @@
      "note": "Original South Australia plate, auction 8 bids"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -9634,15 +9666,16 @@
    "strength": 4,
    "findings": "Five bats: one older bat with shield decal and green script maker transfer (partly illegible, oiled darkened blade, wrapped string handle, probably mid-20th century club bat, unsigned); Gray-Nicolls Fusion; a red-sticker bat with Kapt Walker/ similar faded branding; Kookaburra; Gunn & Moore (GM) Autograph Original. No player signatures seen.",
    "condition": "Used, heavy wear, edge damage and grime, one toe taped, grips worn.",
-   "current_bid": 70.0,
-   "bid_count": 14,
+   "current_bid": 75.0,
+   "bid_count": 15,
    "close": "11/11/2026 8:42:40 PM ADST",
    "identification": "5 used cricket bats: Gray-Nicolls Fusion, Kookaburra, Gunn & Moore, an older unmarked club bat, one other",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'used cricket bat Gray-Nicolls Gunn Moore Kookaburra' and 'vintage cricket bat' (older bat maker transfer)",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 33.0,
      "date": "2023-12-15",
@@ -9652,7 +9685,6 @@
      "note": "Vintage Gunn & Moore Autograph cricket bat, auction (same model as one lot bat, condition unknown)"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -9713,11 +9745,11 @@
      "note": "Basket of cricket bats etc, hammer; paid locally, not resale."
     }
    ],
-   "resale": 33.0,
-   "net_resale": 28.05,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $33 does not clear the current bid $70",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -9853,7 +9885,9 @@
      "url": "https://www.ebay.com.au/itm/237072507568",
      "same_item": "close",
      "note": "Wakefield Castrol motor oil 1 imperial gallon"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 90.0,
      "date": "2023-11-25",
@@ -9871,7 +9905,6 @@
      "note": "Wakefield Castrol Motor Oil 1 imp gallon tin"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -9949,11 +9982,11 @@
      "note": "Neptune and Castrol 1 gallon oil tins; Neptune is the more valuable tin; closing price as listed. (AUD, rate 1.0; from local comps database, not page opened)"
     }
    ],
-   "resale": 110.0,
-   "net_resale": 93.5,
+   "resale": 119.0,
+   "net_resale": 101.14999999999999,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $40",
+   "why": "max hammer $0 from a median SOLD of $119 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -10107,6 +10140,16 @@
    "chrome_done": true,
    "sold": [
     {
+     "aud_price": 25.0,
+     "date": "2026-07-10",
+     "venue": "eBay AU (Terapeak 3 yr)",
+     "url": "https://www.ebay.com.au/itm/117276450971",
+     "same_item": "close",
+     "note": "AWA Radiola transistor radio"
+    }
+   ],
+   "sold_old": [
+    {
      "aud_price": 75.0,
      "date": "2024-02-10",
      "venue": "eBay AU (Terapeak 3 yr)",
@@ -10121,14 +10164,6 @@
      "url": "https://www.ebay.com.au/itm/116334741819",
      "same_item": "close",
      "note": "AWA Radiola Transistor 8"
-    },
-    {
-     "aud_price": 25.0,
-     "date": "2026-07-10",
-     "venue": "eBay AU (Terapeak 3 yr)",
-     "url": "https://www.ebay.com.au/itm/117276450971",
-     "same_item": "close",
-     "note": "AWA Radiola transistor radio"
     },
     {
      "aud_price": 68.0,
@@ -10155,7 +10190,6 @@
      "note": "Kriesler retro vintage transistor radio, untested"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -10240,11 +10274,11 @@
      "note": "AWA Radiola bakelite, low end. Hammer, premium extra; local database listing only (page not opened)."
     }
    ],
-   "resale": 52.0,
-   "net_resale": 44.199999999999996,
+   "resale": 25.0,
+   "net_resale": 21.25,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $52 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $25 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -10254,8 +10288,8 @@
    "strength": 2,
    "findings": "Three Caltex tins: Caltex RPM Motor Oil SAE 30, Caltex Custom Five Star Motor Oil 30-40 5 litre, Caltex RPM Motor Oil Multigrade 20-40.",
    "condition": "Paint loss, rust and scratches.",
-   "current_bid": 55.0,
-   "bid_count": 10,
+   "current_bid": 60.0,
+   "bid_count": 11,
    "close": "11/11/2026 8:44:20 PM ADST",
    "identification": "3 vintage oil tins (2 Caltex RPM Motor Oil 2-gallon-style red/white tins, 1 blue/white tin with tag). Photo seen (1 image). Low value; no 10-yr check (under $100).",
    "researched": true,
@@ -10330,7 +10364,7 @@
    "net_resale": 38.641,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $55",
+   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $60",
    "priority": false
   },
   {
@@ -10372,7 +10406,9 @@
      "url": "https://www.ebay.com.au/itm/175751302634",
      "same_item": "yes",
      "note": "Wltoys XK A280 P51 RTF"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 136.42,
      "date": "2024-02-18",
@@ -10382,7 +10418,6 @@
      "note": "XK-A280 brushless RTF"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -10436,11 +10471,11 @@
      "note": "RC plane and kinetics in case; weak comparison; local room."
     }
    ],
-   "resale": 154.935,
-   "net_resale": 131.69475,
+   "resale": 159.41,
+   "net_resale": 135.4985,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $155 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $159 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -10450,8 +10485,8 @@
    "strength": 4,
    "findings": "Three felt hats: Akubra Imperial Quality pure fur felt, Akubra Superfine Quality pure fur, Thomas Cook Boot & Clothing Co Australia.",
    "condition": "Used, minor sweat staining to labels.",
-   "current_bid": 30.0,
-   "bid_count": 5,
+   "current_bid": 40.0,
+   "bid_count": 7,
    "close": "11/11/2026 8:45:00 PM ADST",
    "identification": "3 felt hats: 2 Akubra (one with 'Imperial Quality Pure Fur Felt' label, one 'Superfine Quality' Australian manufacture label) and 1 Thomas Cook (Australia) hat. All 4 photos viewed.",
    "researched": true,
@@ -10459,6 +10494,24 @@
    "chrome_hint": "eBay sold: Akubra Imperial Quality pure fur felt hat used",
    "chrome_done": true,
    "sold": [
+    {
+     "aud_price": 94.92,
+     "date": "2026-11-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/117498903936",
+     "same_item": "close",
+     "note": "Vintage Akubra Cattleman Imperial Quality size 59"
+    },
+    {
+     "aud_price": 40.24,
+     "date": "2025-03-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176946544824",
+     "same_item": "close",
+     "note": "Akubra Imperial Quality size 56"
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 95.58,
      "date": "2024-03-23",
@@ -10476,31 +10529,14 @@
      "note": "Vintage Akubra Imperial Quality pure fur felt"
     },
     {
-     "aud_price": 94.92,
-     "date": "2026-11-03",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/117498903936",
-     "same_item": "close",
-     "note": "Vintage Akubra Cattleman Imperial Quality size 59"
-    },
-    {
      "aud_price": 57.76,
      "date": "2024-03-09",
      "venue": "eBay AU (Terapeak)",
      "url": "https://www.ebay.com.au/itm/176266065641",
      "same_item": "close",
      "note": "Akubra Imperial Quality Bowen River size 59"
-    },
-    {
-     "aud_price": 40.24,
-     "date": "2025-03-30",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/176946544824",
-     "same_item": "close",
-     "note": "Akubra Imperial Quality size 56"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -10570,11 +10606,11 @@
      "note": "Single Akubra hats: median $45, range $9-$140 (5-hat lot), typical $30-75 hammer."
     }
    ],
-   "resale": 94.92,
-   "net_resale": 80.682,
+   "resale": 67.58,
+   "net_resale": 57.443,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $95 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $68 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -10618,6 +10654,16 @@
      "note": "DCS355 skin only"
     },
     {
+     "aud_price": 117.33,
+     "date": "2025-01-04",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116436543779",
+     "same_item": "yes",
+     "note": "Auction, new DCS355-XE skin"
+    }
+   ],
+   "sold_old": [
+    {
      "aud_price": 131.99,
      "date": "2024-04-27",
      "venue": "eBay AU (Terapeak)",
@@ -10632,17 +10678,8 @@
      "url": "https://www.ebay.com.au/itm/186283075271",
      "same_item": "yes",
      "note": "DCS355-XE skin only"
-    },
-    {
-     "aud_price": 117.33,
-     "date": "2025-01-04",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/116436543779",
-     "same_item": "yes",
-     "note": "Auction, new DCS355-XE skin"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -10881,8 +10918,8 @@
    "strength": 4,
    "findings": "Glass hip flask with leather-covered upper body and hallmarked silver bayonet cap. Cap marks read J.D&S (James Dixon & Sons, Sheffield) plus further hallmark punches (lion/town/date letter, partly worn). Also an ebonised display stand, a brass pear-shaped finial or weight, a curved pale stick handle (looks like ivory or bone, broken) and a small turned bone/ivory disc. Title understates the silver-capped Dixon flask.",
    "condition": "Silver cap dented and worn, hallmarks partly rubbed; leather intact; stick handle broken at both ends.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 10.0,
+   "bid_count": 1,
    "close": "11/11/2026 8:52:40 PM ADST",
    "identification": "Leather-covered glass hip flask with hallmarked silver hinged cap (hallmarks too worn to read in photo), plus a bone or ivory curved handle, a brass pear-shaped weight, a small bone ring and a black wooden display stand. Both photos viewed.",
    "researched": true,
@@ -10945,7 +10982,9 @@
      "url": "https://www.ebay.com.au/itm/389371622219",
      "same_item": "close",
      "note": "Sterling silver and glass hip flask, Mappin & Webb c.1900s"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 84.61,
      "date": "2024-04-28",
@@ -10955,7 +10994,6 @@
      "note": "Glass hip flask with sterling silver lid"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -11001,11 +11039,11 @@
      "note": "Mixed collectables lot including hip flasks, 5 bids. Shows local bidding for flask mixed lots only."
     }
    ],
-   "resale": 126.78999999999999,
-   "net_resale": 107.77149999999999,
+   "resale": 168.97,
+   "net_resale": 143.62449999999998,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $127 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $169 does not clear the current bid $10",
    "priority": false
   },
   {
@@ -11093,8 +11131,8 @@
    "strength": 4,
    "findings": "Bianco Pumpz stainless steel jet pump with pressure controller and gauge. Plate: Model BIA-INOX60S2MPCX, 240V 50Hz 4A, P2 600W, Qmax 57 L/min, Hmax 42 m, IPX4, distributed by White International Pty Ltd, made in China.",
    "condition": "Used, some cable wear and dust; working order not shown.",
-   "current_bid": 30.0,
-   "bid_count": 4,
+   "current_bid": 35.0,
+   "bid_count": 5,
    "close": "11/11/2026 8:55:20 PM ADST",
    "identification": "Bianco Pumpz stainless jet pump with pressure controller, model BIA-INOX60S2MPCX, 600W, 240V (label photo read)",
    "researched": true,
@@ -11133,7 +11171,9 @@
      "url": "https://www.ebay.com.au/itm/164387237817",
      "same_item": "close",
      "note": "INOX60S2NXT variant"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 289.32,
      "date": "2024-06-02",
@@ -11151,7 +11191,6 @@
      "note": "INOX45S2NXT pre-owned, older than 24 months"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -11205,11 +11244,11 @@
      "note": "Stainless jet pump and cover, 1 bid, other brand. Paid locally, not resale."
     }
    ],
-   "resale": 351.63,
-   "net_resale": 298.8855,
-   "max_hammer": 80,
+   "resale": 395.92999999999995,
+   "net_resale": 336.54049999999995,
+   "max_hammer": 110,
    "status": "PASS",
-   "why": "6 same-item SOLD price(s), median $352; less 15% fees = $299; less $200 profit, / 1.22 premium = max hammer $80",
+   "why": "4 same-item SOLD price(s), median $396; less 15% fees = $337; less $200 profit, / 1.22 premium = max hammer $110",
    "priority": false
   },
   {
@@ -11261,14 +11300,6 @@
      "note": "4x antique wooden moulding planes, auction"
     },
     {
-     "aud_price": 26.0,
-     "date": "2024-08-15",
-     "venue": "eBay AU (Terapeak 3 yr)",
-     "url": "https://www.ebay.com.au/itm/145917294064",
-     "same_item": "close",
-     "note": "5 antique wooden moulding planes, bodies only, auction"
-    },
-    {
      "aud_price": 10.0,
      "date": "2026-03-29",
      "venue": "eBay AU (Terapeak 3 yr)",
@@ -11277,7 +11308,16 @@
      "note": "Set of 4 vintage wooden timber moulding planes, auction"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 26.0,
+     "date": "2024-08-15",
+     "venue": "eBay AU (Terapeak 3 yr)",
+     "url": "https://www.ebay.com.au/itm/145917294064",
+     "same_item": "close",
+     "note": "5 antique wooden moulding planes, bodies only, auction"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -11371,11 +11411,11 @@
      "note": "Larger boxes with ploughs and named makers (Moseley $360). Upper bound; not like-for-like with five unmarked planes."
     }
    ],
-   "resale": 50.38,
-   "net_resale": 42.823,
+   "resale": 74.76,
+   "net_resale": 63.546,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -11480,14 +11520,6 @@
      "note": "Dawn 5SP 5in"
     },
     {
-     "aud_price": 120.75,
-     "date": "2024-03-11",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/256360153087",
-     "same_item": "close",
-     "note": "Dawn 5SP 5in"
-    },
-    {
      "aud_price": 80.26,
      "date": "2026-04-05",
      "venue": "eBay AU (Terapeak)",
@@ -11496,7 +11528,16 @@
      "note": "Vintage Dawn 5in quick release"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 120.75,
+     "date": "2024-03-11",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256360153087",
+     "same_item": "close",
+     "note": "Dawn 5SP 5in"
+    }
+   ],
    "unsold": [
     {
      "aud_price": 150.0,
@@ -11583,11 +11624,11 @@
      "note": "LARGE DAWN VICE, 5 bids."
     }
    ],
-   "resale": 126.285,
-   "net_resale": 107.34224999999999,
+   "resale": 131.82,
+   "net_resale": 112.047,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $126 does not clear the current bid $45",
+   "why": "max hammer $0 from a median SOLD of $132 does not clear the current bid $45",
    "priority": false
   },
   {
@@ -11669,7 +11710,9 @@
      "url": "https://www.ebay.com.au/itm/256842750552",
      "same_item": "yes",
      "note": "RL-H4C with receiver"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 593.74,
      "date": "2024-11-02",
@@ -11695,7 +11738,6 @@
      "note": "RL-H4C kit"
     }
    ],
-   "sold_old": [],
    "unsold": [
     {
      "aud_price": 280.0,
@@ -11758,11 +11800,11 @@
      "note": "Warrior rotating laser with tripod; budget brand, below Topcon."
     }
    ],
-   "resale": 646.88,
-   "net_resale": 549.848,
-   "max_hammer": 285,
+   "resale": 750.1949999999999,
+   "net_resale": 637.6657499999999,
+   "max_hammer": 355,
    "status": "PASS",
-   "why": "11 same-item SOLD price(s), median $647; less 15% fees = $550; less $200 profit, / 1.22 premium = max hammer $285",
+   "why": "8 same-item SOLD price(s), median $750; less 15% fees = $638; less $200 profit, / 1.22 premium = max hammer $355",
    "priority": false
   },
   {
@@ -11914,14 +11956,6 @@
      "note": "Matchbox 1920 Mack AC fire engine"
     },
     {
-     "aud_price": 32.9,
-     "date": "2024-05-15",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/155939803705",
-     "same_item": "close",
-     "note": "Y30 1920 Mack kit"
-    },
-    {
      "aud_price": 20.52,
      "date": "2026-01-23",
      "venue": "eBay AU (Terapeak)",
@@ -11946,7 +11980,16 @@
      "note": "Y30 1920 Mack Acorn Storage"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 32.9,
+     "date": "2024-05-15",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/155939803705",
+     "same_item": "close",
+     "note": "Y30 1920 Mack kit"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -11984,11 +12027,11 @@
      "note": "Paid locally, hammer, gowans id 370325, 2 boxed Yesteryear vehicles (about A$27 each). Not a resale price."
     }
    ],
-   "resale": 20.52,
-   "net_resale": 17.442,
+   "resale": 16.165,
+   "net_resale": 13.74025,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $21 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $16 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -12008,20 +12051,22 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 165.58,
-     "date": "2024-10-18",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/176630269689",
-     "same_item": "close",
-     "note": "Vintage 90s Scalextric F1 Silverstone set"
-    },
-    {
      "aud_price": 94.37,
      "date": "2024-12-05",
      "venue": "eBay AU (Terapeak)",
      "url": "https://www.ebay.com.au/itm/167141101205",
      "same_item": "close",
      "note": "Formula One Scalextric set auction"
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 165.58,
+     "date": "2024-10-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176630269689",
+     "same_item": "close",
+     "note": "Vintage 90s Scalextric F1 Silverstone set"
     },
     {
      "aud_price": 75.69,
@@ -12032,7 +12077,6 @@
      "note": "Vintage Monaco GP F1 boxed"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -12110,22 +12154,6 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 1170.0,
-     "date": "2022-04-04",
-     "venue": "Wotton Auction Rooms UK lot 81",
-     "url": "https://www.wottonauctionrooms.co.uk/catalogue/lot/1021af063c611d3b2b5cc0255cbcd09d/788167bda1bc670dc0c9849c1459e149/three-day-sale-viewing-on-friday-1st-april-lot-81/",
-     "same_item": "close",
-     "note": "From local database (shown as $600 hammer, currency/rate as stored, treat as unverified; likely a large run or complete set). Old and UK, outlier, do not rely on it."
-    },
-    {
-     "aud_price": 60.0,
-     "date": "2018-02-24",
-     "venue": "Theodore Bruce, Leichhardt NSW via Invaluable",
-     "url": "https://www.invaluable.com/auction-lot/a-collection-of-ge-fabbri-ltd-james-bond-007-mode-3598-c-559470e83b",
-     "same_item": "close",
-     "note": "13 cars, about $4.60 each. Old; from local database, page not opened."
-    },
-    {
      "aud_price": 426.71,
      "date": "2026-06-12",
      "venue": "eBay AU",
@@ -12166,7 +12194,24 @@
      "note": "70x Fabbri diecast 007 collection lot"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 1170.0,
+     "date": "2022-04-04",
+     "venue": "Wotton Auction Rooms UK lot 81",
+     "url": "https://www.wottonauctionrooms.co.uk/catalogue/lot/1021af063c611d3b2b5cc0255cbcd09d/788167bda1bc670dc0c9849c1459e149/three-day-sale-viewing-on-friday-1st-april-lot-81/",
+     "same_item": "close",
+     "note": "From local database (shown as $600 hammer, currency/rate as stored, treat as unverified; likely a large run or complete set). Old and UK, outlier, do not rely on it."
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2018-02-24",
+     "venue": "Theodore Bruce, Leichhardt NSW via Invaluable",
+     "url": "https://www.invaluable.com/auction-lot/a-collection-of-ge-fabbri-ltd-james-bond-007-mode-3598-c-559470e83b",
+     "same_item": "close",
+     "note": "13 cars, about $4.60 each. Old; from local database, page not opened."
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -12224,7 +12269,7 @@
    "net_resale": 397.681,
    "max_hammer": 160,
    "status": "PASS",
-   "why": "7 same-item SOLD price(s), median $468; less 15% fees = $398; less $200 profit, / 1.22 premium = max hammer $160",
+   "why": "5 same-item SOLD price(s), median $468; less 15% fees = $398; less $200 profit, / 1.22 premium = max hammer $160",
    "priority": false
   },
   {
@@ -12384,8 +12429,8 @@
    "strength": 4,
    "findings": "About 9-10 bats incl Gray-Nicolls, Kookaburra, adidas, Incrza, SS; full-size signed bat inscribed at toe 'David Boon Testimonial Match' with about 10-12 team signatures (individual names mostly illegible). Two helmets (green and navy) and a bagged stumps/scorer set.",
    "condition": "Bats used and worn, grips worn; signatures faded but visible; helmets used.",
-   "current_bid": 15.0,
-   "bid_count": 2,
+   "current_bid": 20.0,
+   "bid_count": 3,
    "close": "11/11/2026 9:01:00 PM ADST",
    "identification": "Tray of cricket bats (Gray-Nicolls and others) including a team-signed bat (the lot says David Boon testimonial match bat), 2 cricket helmets (green and navy), pads/guards in a bag. All 3 photos viewed.",
    "researched": true,
@@ -12484,8 +12529,8 @@
    "strength": 4,
    "findings": "Bundle of about ten fishing rods: older bamboo/cane rod, red and green solid glass rods, graphite rods, a pistol-grip baitcaster rod; reels include a gold sidecast surf reel (Alvey-type, no mark legible), an old small alloy baitcasting/centrepin reel, a closed-face spincast reel and a blue spinning reel.",
    "condition": "Used, worn grips and tangled line; no damage obvious.",
-   "current_bid": 25.0,
-   "bid_count": 4,
+   "current_bid": 30.0,
+   "bid_count": 5,
    "close": "11/11/2026 9:02:20 PM ADST",
    "identification": "Bundle of about 10 fishing rods and reels, makers not legible",
    "researched": true,
@@ -12763,8 +12808,8 @@
    "strength": 4,
    "findings": "Youth compound bow in lime green and black (Barnett youth type, logo not legible in photo), two arrows in a black fabric quiver.",
    "condition": "Appears complete with string; light use.",
-   "current_bid": 30.0,
-   "bid_count": 5,
+   "current_bid": 35.0,
+   "bid_count": 6,
    "close": "11/11/2026 9:04:00 PM ADST",
    "identification": "Barnett youth compound bow, green, with quiver and 2 arrows (1 photo seen). Likely Barnett Banshee/Vortex junior type.",
    "researched": true,
@@ -12772,14 +12817,6 @@
    "chrome_hint": "eBay Australia sold listings: Barnett youth compound bow",
    "chrome_done": true,
    "sold": [
-    {
-     "aud_price": 57.05,
-     "date": "2024-07-31",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/285975060686",
-     "same_item": "close",
-     "note": "Barnett Banshee Junior compound bow"
-    },
     {
      "aud_price": 75.29,
      "date": "2026-04-02",
@@ -12797,7 +12834,16 @@
      "note": "Barnett Tomcat compound youth bow, used"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 57.05,
+     "date": "2024-07-31",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/285975060686",
+     "same_item": "close",
+     "note": "Barnett Banshee Junior compound bow"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -12827,11 +12873,11 @@
      "note": "Mixed multi-bow lot, not comparable; paid locally."
     }
    ],
-   "resale": 57.05,
-   "net_resale": 48.4925,
+   "resale": 64.99000000000001,
+   "net_resale": 55.24150000000001,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $57 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -12954,7 +13000,9 @@
      "url": "https://www.ebay.com.au/itm/318335704130",
      "same_item": "close",
      "note": "Australian stock saddle, brown leather, fully furnished"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 173.45,
      "date": "2024-03-15",
@@ -12964,7 +13012,6 @@
      "note": "Vintage old leather Australian stock saddle"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -13034,11 +13081,11 @@
      "note": "0 bids. Local database result, premium extra, no photo checked."
     }
    ],
-   "resale": 193.615,
-   "net_resale": 164.57275,
+   "resale": 207.39,
+   "net_resale": 176.2815,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $194 does not clear the current bid $20",
+   "why": "max hammer $0 from a median SOLD of $207 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -13048,8 +13095,8 @@
    "strength": 3,
    "findings": "Fiskars X-series long splitting axe (black composite handle with orange grip, model number printed on handle not legible, likely X25/X27 size) plus a pair of generic bolt cutters with red/black grips.",
    "condition": "Axe head with surface rust on edge, handle sound; bolt cutters with rusty jaws.",
-   "current_bid": 40.0,
-   "bid_count": 6,
+   "current_bid": 45.0,
+   "bid_count": 7,
    "close": "11/11/2026 9:07:40 PM ADST",
    "identification": "Fiskars orange splitting axe (X-series, long handle) and a set of red/black bolt cutters. 1 photo viewed.",
    "researched": true,
@@ -13082,6 +13129,16 @@
      "note": "Fiskars 770mm X25"
     },
     {
+     "aud_price": 89.67,
+     "date": "2025-04-13",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/185021016398",
+     "same_item": "close",
+     "note": "Fiskars X25 XL"
+    }
+   ],
+   "sold_old": [
+    {
      "aud_price": 152.23,
      "date": "2024-10-15",
      "venue": "eBay AU (Terapeak)",
@@ -13096,17 +13153,8 @@
      "url": "https://www.ebay.com.au/itm/266280082382",
      "same_item": "close",
      "note": "Fiskars X25 XL"
-    },
-    {
-     "aud_price": 89.67,
-     "date": "2025-04-13",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/185021016398",
-     "same_item": "close",
-     "note": "Fiskars X25 XL"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -13152,11 +13200,11 @@
      "note": "From comps database. Other bolt cutter hammers 2025-26 ranged $15 to $35 (median $25), one $80 with other tools."
     }
    ],
-   "resale": 158.925,
-   "net_resale": 135.08625,
+   "resale": 170.24,
+   "net_resale": 144.704,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $159 does not clear the current bid $40",
+   "why": "max hammer $0 from a median SOLD of $170 does not clear the current bid $45",
    "priority": false
   },
   {
@@ -13166,8 +13214,8 @@
    "strength": 4,
    "findings": "Stihl FS 85 Pro brushcutter with bike handle, harness, guard and trimmer head, plus green fuel can. Older professional model.",
    "condition": "Used, dirty, fuel tank yellowed; running condition unknown.",
-   "current_bid": 70.0,
-   "bid_count": 4,
+   "current_bid": 80.0,
+   "bid_count": 5,
    "close": "11/11/2026 9:09:20 PM ADST",
    "identification": "Stihl FS 85 Pro brushcutter with harness and fuel can, used",
    "researched": true,
@@ -13315,7 +13363,9 @@
      "url": "https://www.ebay.com.au/itm/127463895972",
      "same_item": "close",
      "note": "Vintage 3-rail O gauge track"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 57.3,
      "date": "2023-12-13",
@@ -13341,7 +13391,6 @@
      "note": "Bulk lot of 44 Hornby O gauge track"
     }
    ],
-   "sold_old": [],
    "unsold": [
     {
      "aud_price": 55.0,
@@ -13388,11 +13437,11 @@
      "note": "Tub of train tracks and Hornby carriage etc, 5 bids. Mixed, loose; weak comparison. Local database hit."
     }
    ],
-   "resale": 36.614999999999995,
-   "net_resale": 31.122749999999996,
+   "resale": 38.5,
+   "net_resale": 32.725,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $37 does not clear the current bid $15",
+   "why": "max hammer $0 from a median SOLD of $38 does not clear the current bid $15",
    "priority": false
   },
   {
@@ -14242,8 +14291,8 @@
    "strength": 6,
    "findings": "Bromic Oxyset portable brazing and welding kit: red Bromic carry case, two Bromic oxygen cylinders, two Bernzomatic MAP-Pro 400g fuel cylinders (Bromic distributed), twin hoses with flashback arrestors, Bromic welding torch with tip, spark lighter, spanner, goggles. Plus boxed items labelled Propane and Oxygen (appear to be spare cylinders or fittings) and two small boxed Propane and Oxygen parts. Kit looks complete and unused.",
    "condition": "Appears new and unused; cylinders presumably full but fill not verifiable.",
-   "current_bid": 45.0,
-   "bid_count": 8,
+   "current_bid": 50.0,
+   "bid_count": 9,
    "close": "11/11/2026 9:21:00 PM ADST",
    "identification": "Bromic Oxyset mobile brazing and welding system (red case, 2 small gas bottles oxygen and propane, hoses, torch, spare boxed cylinders). All 5 photos viewed.",
    "researched": true,
@@ -14333,7 +14382,7 @@
    "net_resale": 223.83475,
    "max_hammer": 15,
    "status": "FAIL",
-   "why": "max hammer $15 from a median SOLD of $263 does not clear the current bid $45",
+   "why": "max hammer $15 from a median SOLD of $263 does not clear the current bid $50",
    "priority": false
   },
   {
@@ -14489,7 +14538,8 @@
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed listings: Waratah Thumpa post driver ; also eBay 'pneumatic star post driver' sold, and Gumtree 'Waratah post driver'",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 750.0,
      "date": "2023-11-10",
@@ -14499,7 +14549,6 @@
      "note": "Used Waratah Thumpa pneumatic post driver, bidding closed at $750 (page shows start 10/11/2023); buyer's premium not stated on page"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -14537,11 +14586,11 @@
      "note": "Star picket puller and post driver set, type unclear. Local room, not a resale price. Database only."
     }
    ],
-   "resale": 750.0,
-   "net_resale": 637.5,
-   "max_hammer": 355,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $750; less 15% fees = $638; less $200 profit, / 1.22 premium = max hammer $355",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -14661,7 +14710,9 @@
      "url": "https://www.ebay.com.au/itm/127828605915",
      "same_item": "close",
      "note": "Shell 2T Two Stroke Oil 1 gallon tin"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 119.79,
      "date": "2023-11-26",
@@ -14679,7 +14730,6 @@
      "note": "Shell 2T 1 gallon tin with embossed cap, original"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -14756,11 +14806,11 @@
      "note": "Database hit, not opened. Caltex tins sell cheaply."
     }
    ],
-   "resale": 83.355,
-   "net_resale": 70.85175,
+   "resale": 39.695,
+   "net_resale": 33.74075,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $83 does not clear the current bid $35",
+   "why": "max hammer $0 from a median SOLD of $40 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -14938,14 +14988,6 @@
      "note": "'Bachman Electrical Train Set Yard Boss Untested Vintage N Scale'. Same box design as the lot, appears complete, untested. AUD is eBay's conversion (about 1.44 AUD/USD, approximate). Postage to Australia quoted at US$58.53. The lot's set seems to be missing its loco."
     },
     {
-     "aud_price": 225.43,
-     "date": "2023-11-30",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/395031405514",
-     "same_item": "close",
-     "note": "Hornby Railways vintage Southern Aurora NSW passenger train set 42202, complete boxed"
-    },
-    {
      "aud_price": 118.65,
      "date": "2025-03-22",
      "venue": "eBay AU (Terapeak)",
@@ -14970,7 +15012,16 @@
      "note": "Hornby Railways Southern Aurora electric train set"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 225.43,
+     "date": "2023-11-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/395031405514",
+     "same_item": "close",
+     "note": "Hornby Railways vintage Southern Aurora NSW passenger train set 42202, complete boxed"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -15024,11 +15075,11 @@
      "note": "Bachmann Old Timer train set, hammer. Guide for Bachmann set value."
     }
    ],
-   "resale": 111.345,
-   "net_resale": 94.64325,
+   "resale": 104.04,
+   "net_resale": 88.434,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $111 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $104 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -15122,8 +15173,8 @@
    "strength": 4,
    "findings": "Six boxed 1:24 diecast: Maisto Harley-Davidson H-D Custom pickup, Welly 1936 Ford Deluxe Cabriolet, Welly 1953 Chevrolet 3100 pickup, three Woolworths 100 year 'Limited Edition' 1930, 1940, 1970 trucks. Mass-produced budget diecast.",
    "condition": "Boxed, appear new.",
-   "current_bid": 30.0,
-   "bid_count": 4,
+   "current_bid": 40.0,
+   "bid_count": 7,
    "close": "11/11/2026 9:31:20 PM ADST",
    "identification": "Six boxed 1:24 budget diecast models (Maisto, Welly, Woolworths 100 year trucks)",
    "researched": true,
@@ -15229,7 +15280,7 @@
    "net_resale": 28.05,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $33 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $33 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -16153,7 +16204,9 @@
      "url": "https://www.ebay.com.au/itm/265952009459",
      "same_item": "close",
      "note": "Ozito 24L/1.5HP air compressor"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 154.0,
      "date": "2024-04-11",
@@ -16171,7 +16224,6 @@
      "note": "Ozito 24L silent air compressor 1.5HP oil-free"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -16241,11 +16293,11 @@
      "note": "Ozito jigsaw, spray gun with accessories and laser level mixed lot; not the same kit. Gowans API."
     }
    ],
-   "resale": 109.0,
-   "net_resale": 92.64999999999999,
+   "resale": 52.5,
+   "net_resale": 44.625,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $109 does not clear the current bid $50",
+   "why": "max hammer $0 from a median SOLD of $52 does not clear the current bid $50",
    "priority": false
   },
   {
@@ -16443,14 +16495,6 @@
      "note": "Used K970 ring saw variant, not the standard cutter"
     },
     {
-     "aud_price": 324.3,
-     "date": "2024-02-15",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/156049581454",
-     "same_item": "close",
-     "note": "Husqvarna K970 III 14 inch concrete saw, pre-owned"
-    },
-    {
      "aud_price": 312.38,
      "date": "2025-08-28",
      "venue": "eBay AU (Terapeak)",
@@ -16491,7 +16535,16 @@
      "note": "K970 MKIII 16 in 967348101 saw, fixed price, condition not read"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 324.3,
+     "date": "2024-02-15",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156049581454",
+     "same_item": "close",
+     "note": "Husqvarna K970 III 14 inch concrete saw, pre-owned"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -16553,11 +16606,11 @@
      "note": "Sold as is, 3 bids; low end for a dud. Database hit, not opened."
     }
    ],
-   "resale": 539.14,
-   "net_resale": 458.26899999999995,
-   "max_hammer": 210,
+   "resale": 583.21,
+   "net_resale": 495.7285,
+   "max_hammer": 240,
    "status": "PASS",
-   "why": "9 same-item SOLD price(s), median $539; less 15% fees = $458; less $200 profit, / 1.22 premium = max hammer $210",
+   "why": "8 same-item SOLD price(s), median $583; less 15% fees = $496; less $200 profit, / 1.22 premium = max hammer $240",
    "priority": false
   },
   {
@@ -16577,22 +16630,6 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 370.0,
-     "date": "2021-01-20",
-     "venue": "Evans Clarke (Biddingonline), Woodville North SA, sale 41950 lot 24",
-     "url": "https://www.evansclarke.com.au/detail.aspx?id=1555161",
-     "same_item": "yes",
-     "note": "Page opened, bid history shows 68 bids. Condition not stated. Old (nearly 6 years), outside 24 month window. Premium not stated."
-    },
-    {
-     "aud_price": 578.52,
-     "date": "2024-11-06",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/135301326422",
-     "same_item": "yes",
-     "note": "Makita 305mm sliding mitre saw LS1214, used"
-    },
-    {
      "aud_price": 396.28,
      "date": "2024-12-17",
      "venue": "eBay AU (Terapeak)",
@@ -16609,7 +16646,24 @@
      "note": "Makita LS1216 1650W 305mm dual-bevel slide mitre saw (newer model)"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 370.0,
+     "date": "2021-01-20",
+     "venue": "Evans Clarke (Biddingonline), Woodville North SA, sale 41950 lot 24",
+     "url": "https://www.evansclarke.com.au/detail.aspx?id=1555161",
+     "same_item": "yes",
+     "note": "Page opened, bid history shows 68 bids. Condition not stated. Old (nearly 6 years), outside 24 month window. Premium not stated."
+    },
+    {
+     "aud_price": 578.52,
+     "date": "2024-11-06",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/135301326422",
+     "same_item": "yes",
+     "note": "Makita 305mm sliding mitre saw LS1214, used"
+    }
+   ],
    "unsold": [],
    "asking": [
     {

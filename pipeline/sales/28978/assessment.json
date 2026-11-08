@@ -7,7 +7,7 @@
   "profit": 200,
   "fee": 0.15,
   "premium": 0.22,
-  "months": 120,
+  "months": 24,
   "chrome_floor": 100,
   "top": 25,
   "ignore_bids": false
@@ -16,8 +16,8 @@
  "candidates": 75,
  "counts": {
   "PASS": 4,
-  "CHROME": 47,
-  "FAIL": 22,
+  "CHROME": 50,
+  "FAIL": 19,
   "DROP": 2,
   "NOT RESEARCHED": 0
  },
@@ -37,7 +37,8 @@
    "needs_chrome": false,
    "chrome_hint": " Bidder signal: 298003 - Norwood, (seen in 3 sales); 142868 - Perth, (seen in 18 sales); 47501 - St Leonards , TAS (seen in 109 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 47.74,
      "date": "2023-11-23",
@@ -47,7 +48,6 @@
      "note": "Daytek galvanized wheelbarrow"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -100,11 +100,11 @@
      "note": "KELSO wheelbarrow. Local database hit, page not opened."
     }
    ],
-   "resale": 47.74,
-   "net_resale": 40.579,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $48 does not clear the current bid $40",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -723,8 +723,8 @@
    "strength": 6,
    "findings": "Two-tier cast iron garden fountain, about 150 cm, with scalloped bowls, baluster column and square plinth base. Style suggests modern reproduction casting; no foundry mark visible.",
    "condition": "Surface rust throughout, appears complete, plumbing not seen.",
-   "current_bid": 320.0,
-   "bid_count": 2,
+   "current_bid": 360.0,
+   "bid_count": 4,
    "close": "11/11/2026 10:08:20 PM ADST",
    "identification": "Rust/brown two tier garden fountain with pedestal base (cast iron per title), 2 photos (seen in all photos; no marks visible)",
    "researched": true,
@@ -824,7 +824,9 @@
      "url": "https://www.ebay.com.au/itm/167599689828",
      "same_item": "close",
      "note": "vintage industrial enamel grey pendant light shade"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 38.63,
      "date": "2024-08-18",
@@ -834,7 +836,6 @@
      "note": "vintage grey enamel light shade"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -912,11 +913,11 @@
      "note": "Single industrial enamel light shade, 2 bids. Page not opened; from local comps database (premium extra)."
     }
    ],
-   "resale": 49.99,
-   "net_resale": 42.4915,
+   "resale": 52.96,
+   "net_resale": 45.016,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $53 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -1053,7 +1054,9 @@
      "url": "https://www.ebay.com.au/itm/235236123194",
      "same_item": "close",
      "note": "vidaXL umbrella base cast iron heavy duty"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 47.0,
      "date": "2023-12-08",
@@ -1063,7 +1066,6 @@
      "note": "Round cast iron umbrella base heavy duty"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -1116,11 +1118,11 @@
      "note": "Sale 27353 lot 1891, upper end of range; local database, page not opened."
     }
    ],
-   "resale": 65.26,
-   "net_resale": 55.471000000000004,
+   "resale": 78.95,
+   "net_resale": 67.1075,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $55",
+   "why": "max hammer $0 from a median SOLD of $79 does not clear the current bid $55",
    "priority": false
   },
   {
@@ -1372,6 +1374,16 @@
      "note": "Two vintage industrial green enamel shades, pair, 11in"
     },
     {
+     "aud_price": 47.29,
+     "date": "2024-11-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176378429704",
+     "same_item": "close",
+     "note": "Large vintage green/white enamel shade, 1 shade."
+    }
+   ],
+   "sold_old": [
+    {
      "aud_price": 137.57,
      "date": "2024-02-13",
      "venue": "eBay AU (Terapeak)",
@@ -1418,17 +1430,8 @@
      "url": "https://www.ebay.com.au/itm/156208339162",
      "same_item": "close",
      "note": "Large vintage industrial green/white enamel shade, 1 shade."
-    },
-    {
-     "aud_price": 47.29,
-     "date": "2024-11-30",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/176378429704",
-     "same_item": "close",
-     "note": "Large vintage green/white enamel shade, 1 shade."
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -1514,11 +1517,11 @@
      "note": "3 LARGE INDUSTRIAL LIGHTS, 5 bids; three large lights, finish unknown. Title only, no photos checked; Gowans API, rate 1.0."
     }
    ],
-   "resale": 130.45499999999998,
-   "net_resale": 110.88674999999998,
+   "resale": 72.16,
+   "net_resale": 61.336,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $130 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $72 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -1528,8 +1531,8 @@
    "strength": 6,
    "findings": "Complete set of five large blue 'VOLVO' dealership sign letters, about 53 cm high each, appear to be fabricated metal or acrylic channel letters with serif typeface (older Volvo dealer lettering). Automobilia/dealership signage has a collector and decorator market.",
    "condition": "Some scuffs and dirt, paint faded in places, otherwise complete; no lighting components visible.",
-   "current_bid": 30.0,
-   "bid_count": 3,
+   "current_bid": 35.0,
+   "bid_count": 4,
    "close": "11/11/2026 10:16:00 PM ADST",
    "identification": "Volvo dealership sign: blue metal letters V-O-L-V-O, 53 cm high, sold per letter (1 photo viewed). Bid is per letter.",
    "researched": true,
@@ -1855,8 +1858,8 @@
    "strength": 1,
    "findings": "Terracotta strawberry pot with side planting pockets, on matching saucer. Generic modern garden pottery, no maker's stamp visible.",
    "condition": "Weathered surface, some soil staining to base and saucer; no obvious chips or cracks visible.",
-   "current_bid": 25.0,
-   "bid_count": 4,
+   "current_bid": 45.0,
+   "bid_count": 9,
    "close": "11/11/2026 10:22:20 PM ADST",
    "identification": "Terracotta strawberry planter on a saucer, about 36 cm; photo seen.",
    "researched": true,
@@ -2368,6 +2371,16 @@
    "chrome_done": true,
    "sold": [
     {
+     "aud_price": 47.29,
+     "date": "2024-11-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176378429704",
+     "same_item": "close",
+     "note": "Large vintage green/white enamel shade."
+    }
+   ],
+   "sold_old": [
+    {
      "aud_price": 137.57,
      "date": "2024-02-13",
      "venue": "eBay AU (Terapeak)",
@@ -2398,17 +2411,8 @@
      "url": "https://www.ebay.com.au/itm/156208339162",
      "same_item": "close",
      "note": "Large vintage green/white enamel shade."
-    },
-    {
-     "aud_price": 47.29,
-     "date": "2024-11-30",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/176378429704",
-     "same_item": "close",
-     "note": "Large vintage green/white enamel shade."
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -2462,11 +2466,11 @@
      "note": "2 ENAMEL INDUSTRIAL LIGHT SHADES, 3 bids. Another pair $50 (2026-06-14, id 417151, 0 bids); single $50 (2026-01-19, id 384418); single $40 (2026-01-26, id 386623). All local database, premium extra."
     }
    ],
-   "resale": 137.57,
-   "net_resale": 116.93449999999999,
+   "resale": 47.29,
+   "net_resale": 40.1965,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $138 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $47 does not clear the current bid $0",
    "priority": false
   },
   {
@@ -2516,7 +2520,9 @@
      "url": "https://www.ebay.com.au/itm/198442815178",
      "same_item": "close",
      "note": "Coolicon The Standard vintage green enamel shade; Buy It Now; item price excl. postage"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 137.57,
      "date": "2024-02-13",
@@ -2550,7 +2556,6 @@
      "note": "Large vintage shade, 1 shade."
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -2652,11 +2657,11 @@
      "note": "2 industrial light shades, 2 bids; type unknown. Premium extra; rate 1:1 AUD. Local comps database, not page opened."
     }
    ],
-   "resale": 75.695,
-   "net_resale": 64.34074999999999,
+   "resale": 70.245,
+   "net_resale": 59.70825,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $76 does not clear the current bid $30",
+   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -3414,7 +3419,9 @@
      "url": "https://www.ebay.com.au/itm/133251690472",
      "same_item": "close",
      "note": "GENPOWER diesel generator 3/single phase, max 7 kW rated 5 kW, 420cc. slightly smaller, likely new"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 1489.16,
      "date": "2024-01-09",
@@ -3424,7 +3431,6 @@
      "note": "3 Phase 6.7 kVA 10 HP diesel silent"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -3454,11 +3460,11 @@
      "note": "Dunlite 6.8KVA diesel generator, starts and runs but governor issue under load; similar size class, a known brand, working with a fault. Found in local database and Gowans API (API result opened). AUD, no conversion."
     }
    ],
-   "resale": 1542.825,
-   "net_resale": 1311.40125,
-   "max_hammer": 910,
+   "resale": 1596.49,
+   "net_resale": 1357.0165,
+   "max_hammer": 945,
    "status": "PASS",
-   "why": "2 same-item SOLD price(s), median $1,543; less 15% fees = $1,311; less $200 profit, / 1.22 premium = max hammer $910",
+   "why": "1 same-item SOLD price(s), median $1,596; less 15% fees = $1,357; less $200 profit, / 1.22 premium = max hammer $945",
    "priority": false
   },
   {
@@ -4159,8 +4165,8 @@
    "strength": 4,
    "findings": "Large timber-pole market umbrella with cream canvas canopy, timber ribs and finial, on square steel base plate. No brand label visible.",
    "condition": "Canopy appears clean and opens fully; base rusty; pulley cord present.",
-   "current_bid": 80.0,
-   "bid_count": 10,
+   "current_bid": 85.0,
+   "bid_count": 11,
    "close": "11/11/2026 11:04:00 PM ADST",
    "identification": "Large cream canvas market umbrella with timber pole and finial on a square steel base (rusty). Photos seen (2 images). Low value.",
    "researched": true,
@@ -4262,7 +4268,8 @@
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: Leitner electric bike (also used Leitner e-bike)",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 965.66,
      "date": "2024-06-25",
@@ -4288,7 +4295,6 @@
      "note": "Leitner Cruiser eBike well maintained"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -4366,11 +4372,11 @@
      "note": "Folding e-bike, battery not charging, 5 bids. API record."
     }
    ],
-   "resale": 713.09,
-   "net_resale": 606.1265,
-   "max_hammer": 330,
-   "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $713; less 15% fees = $606; less $200 profit, / 1.22 premium = max hammer $330",
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -4416,8 +4422,8 @@
    "strength": 4,
    "findings": "Masport rear-tine style mini petrol tiller/cultivator, yellow frame, blue and white Masport decal, small petrol engine, on two wheels with tines on extension shaft.",
    "condition": "Used, dirty, running condition unknown.",
-   "current_bid": 65.0,
-   "bid_count": 12,
+   "current_bid": 80.0,
+   "bid_count": 16,
    "close": "11/11/2026 11:07:40 PM ADST",
    "identification": "Masport yellow petrol tiller/rotary hoe, 1 photo. Bid $80 already above estimate.",
    "researched": true,
@@ -4484,7 +4490,7 @@
    "net_resale": 86.5215,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $102 does not clear the current bid $65",
+   "why": "max hammer $0 from a median SOLD of $102 does not clear the current bid $80",
    "priority": false
   },
   {
@@ -4665,8 +4671,8 @@
    "strength": 5,
    "findings": "McMillan MC10 electric twin-cylinder V-block air compressor on horizontal tank with wheels, plus long red air hose. McMillan is an Australian maker of trade compressors; pump block cast mark partly legible (CA-65 style number).",
    "condition": "Heavily worn paint, dusty, surface rust on tank; described as going order.",
-   "current_bid": 30.0,
-   "bid_count": 3,
+   "current_bid": 35.0,
+   "bid_count": 4,
    "close": "11/11/2026 11:10:00 PM ADST",
    "identification": "McMillan air compressor (red, belt drive twin-cylinder, model 'NC10' on tank, with hose), described as going order. 2 photos viewed.",
    "researched": true,
@@ -4689,7 +4695,9 @@
      "url": "https://www.ebay.com.au/itm/157576322162",
      "same_item": "close",
      "note": "McMillan air compressor (Terapeak row, no further detail)"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 97.18,
      "date": "2024-06-30",
@@ -4699,7 +4707,6 @@
      "note": "Air Compressor, McMillan (no detail)"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -4777,11 +4784,11 @@
      "note": "TRADE MASTER AIR COMPRESSOR & HOSE, 1 bid; low end for cheap brand."
     }
    ],
-   "resale": 309.08,
-   "net_resale": 262.71799999999996,
-   "max_hammer": 50,
+   "resale": 339.80499999999995,
+   "net_resale": 288.83424999999994,
+   "max_hammer": 70,
    "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $309; less 15% fees = $263; less $200 profit, / 1.22 premium = max hammer $50",
+   "why": "2 same-item SOLD price(s), median $340; less 15% fees = $289; less $200 profit, / 1.22 premium = max hammer $70",
    "priority": false
   },
   {
@@ -4815,7 +4822,9 @@
      "url": "https://www.ebay.com.au/itm/315971098232",
      "same_item": "close",
      "note": "Old vintage antique British Seagull outboard motor"
-    },
+    }
+   ],
+   "sold_old": [
     {
      "aud_price": 193.22,
      "date": "2024-10-26",
@@ -4857,7 +4866,6 @@
      "note": "British Seagull Silver Century outboard motor"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -4895,11 +4903,11 @@
      "note": "Two Seagull outboards, one not working, 3 bids; so about $75 each. Hammer, premium extra. Local database result, page not opened."
     }
    ],
-   "resale": 256.37,
-   "net_resale": 217.9145,
-   "max_hammer": 10,
-   "status": "FAIL",
-   "why": "max hammer $10 from a median SOLD of $256 does not clear the current bid $35",
+   "resale": 307.64,
+   "net_resale": 261.49399999999997,
+   "max_hammer": 50,
+   "status": "PASS",
+   "why": "2 same-item SOLD price(s), median $308; less 15% fees = $261; less $200 profit, / 1.22 premium = max hammer $50",
    "priority": false
   },
   {
@@ -5132,22 +5140,6 @@
      "note": "Weber Family Q LPG Q3100 Classic"
     },
     {
-     "aud_price": 194.28,
-     "date": "2024-05-17",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/226079155301",
-     "same_item": "close",
-     "note": "Weber Family Q Black Q3100"
-    },
-    {
-     "aud_price": 177.7,
-     "date": "2024-09-03",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/225967303294",
-     "same_item": "close",
-     "note": "Weber Family Q Black Q31xx"
-    },
-    {
      "aud_price": 162.83,
      "date": "2024-12-30",
      "venue": "eBay AU (Terapeak)",
@@ -5164,7 +5156,24 @@
      "note": "Weber Q 2000 portable gas BBQ with stand"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 194.28,
+     "date": "2024-05-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/226079155301",
+     "same_item": "close",
+     "note": "Weber Family Q Black Q3100"
+    },
+    {
+     "aud_price": 177.7,
+     "date": "2024-09-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/225967303294",
+     "same_item": "close",
+     "note": "Weber Family Q Black Q31xx"
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -5234,11 +5243,11 @@
      "note": "PORTABLE WEBER BBQ & ACCESSORIES, 21 bids. Premium extra."
     }
    ],
-   "resale": 185.99,
-   "net_resale": 158.0915,
+   "resale": 187.235,
+   "net_resale": 159.14975,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $186 does not clear the current bid $100",
+   "why": "max hammer $0 from a median SOLD of $187 does not clear the current bid $100",
    "priority": false
   },
   {
@@ -5491,7 +5500,8 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [
+   "sold": [],
+   "sold_old": [
     {
      "aud_price": 44.77,
      "date": "2023-11-26",
@@ -5501,7 +5511,6 @@
      "note": "New Little Blokes child's metal toy wheelbarrow"
     }
    ],
-   "sold_old": [],
    "unsold": [],
    "asking": [
     {
@@ -5531,11 +5540,11 @@
      "note": "Ten child's wheelbarrow lots (plastic, timber, metal). Local rooms, cost guide only, not resale. From local database, pages not opened"
     }
    ],
-   "resale": 44.77,
-   "net_resale": 38.054500000000004,
+   "resale": 0,
+   "net_resale": 0,
    "max_hammer": 0,
-   "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $45 does not clear the current bid $25",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -5545,8 +5554,8 @@
    "strength": 5,
    "findings": "Large floor-standing cast iron band saw, green paint, enclosed steel base, tilting table, handwheel. No maker's plate legible; pencil writing on upper wheel cover reads roughly '4570 ... blade' (blade length note).",
    "condition": "Paint worn, rust on base and table edges, said to be going order.",
-   "current_bid": 30.0,
-   "bid_count": 3,
+   "current_bid": 35.0,
+   "bid_count": 4,
    "close": "11/11/2026 11:16:20 PM ADST",
    "identification": "Large electric band saw, green cast frame on stand (vintage, maker not visible), going order. 2 photos viewed.",
    "researched": true,
@@ -5723,8 +5732,8 @@
    "strength": 5,
    "findings": "Aluminium checker plate ute-style tool box, 121 cm, lockable T-handle, with contents: orange Craftsman-style drill bit/driver set case, red ladybird-shaped item (child toy/helmet), timber boxes, leather tool pouch, hand plane or sander (orange/white), tape/rule and assorted sundries. Brands mostly not legible.",
    "condition": "Box in good order, minor scuffs; contents used.",
-   "current_bid": 45.0,
-   "bid_count": 7,
+   "current_bid": 60.0,
+   "bid_count": 11,
    "close": "11/11/2026 11:19:00 PM ADST",
    "identification": "Aluminium checker plate (diamond plate) tool box with tools and sundries, H-35 W-121 D-41 cm. 2 photos viewed (box plus some hand tools inside).",
    "researched": true,
@@ -6004,14 +6013,6 @@
    "chrome_done": true,
    "sold": [
     {
-     "aud_price": 256.26,
-     "date": "2024-08-18",
-     "venue": "eBay AU (Terapeak)",
-     "url": "https://www.ebay.com.au/itm/285906130021",
-     "same_item": "close",
-     "note": "Wallaroo 3x3m Butterfly Steel Gazebo charcoal, new; older than 24 months"
-    },
-    {
      "aud_price": 228.18,
      "date": "2024-12-19",
      "venue": "eBay AU (Terapeak)",
@@ -6020,7 +6021,16 @@
      "note": "Wallaroo Butterfly Shed Steel Gazebo charcoal, new"
     }
    ],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 256.26,
+     "date": "2024-08-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/285906130021",
+     "same_item": "close",
+     "note": "Wallaroo 3x3m Butterfly Steel Gazebo charcoal, new; older than 24 months"
+    }
+   ],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -6073,11 +6083,11 @@
      "note": "Database record only."
     }
    ],
-   "resale": 242.22,
-   "net_resale": 205.887,
+   "resale": 228.18,
+   "net_resale": 193.953,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $242 does not clear the current bid $50",
+   "why": "max hammer $0 from a median SOLD of $228 does not clear the current bid $50",
    "priority": false
   }
  ]
