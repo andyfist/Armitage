@@ -5,10 +5,16 @@ Merges the lot records of one scan batch (pipeline/sales/<chid>/lots/<cdid>.json
 scan agent's observations (obs/<tag>.json, keyed by cdid) into scans/<tag>.json and prints
 the batch summary as JSON. A lot counts as SCANNED only when photos_viewed equals its
 photo_count; only SCANNED lots may be CANDIDATE or SKIP.
+
+It also lists the skipped lots that name a brand or a model ("products"), for the new-price
+check (pipeline/new_price.py, Andy 8 Nov 2026).
 """
 import json
 import os
 import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import rules  # noqa: E402
 
 D, tag, ids = sys.argv[1], sys.argv[2], sys.argv[3:]
 obs_file = os.path.join(D, 'obs', f'{tag}.json')
@@ -40,5 +46,7 @@ os.makedirs(os.path.join(D, 'scans'), exist_ok=True)
 json.dump(out, open(os.path.join(D, 'scans', f'{tag}.json'), 'w'), indent=1)
 cands = [{k: x.get(k) for k in ('cdid', 'lot', 'title', 'reason', 'strength', 'findings', 'condition')} for x in out if x.get('verdict') == 'CANDIDATE']
 interest = [{'cdid': x['cdid'], 'lot': x.get('lot'), **x['interest']} for x in out if isinstance(x.get('interest'), dict)]
+products = [{'cdid': x['cdid'], 'lot': x.get('lot'), 'title': x.get('title'), 'product': x.get('product') or '', 'findings': (x.get('findings') or '')[:300]}
+            for x in out if x.get('verdict') == 'SKIP' and (x.get('product') or rules.looks_branded(f"{x.get('title') or ''} {x.get('description') or ''} {x.get('findings') or ''} {x.get('marks_read') or ''}"))]
 print(json.dumps({'counts': counts, 'unscanned': [{'cdid': x['cdid'], 'reason': x.get('reason')} for x in out if x['state'] == 'UNSCANNED'],
-                  'candidates': cands, 'interest': interest}))
+                  'candidates': cands, 'interest': interest, 'products': products}))

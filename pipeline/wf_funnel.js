@@ -9,6 +9,7 @@ export const meta = {
     { title: 'Titles', detail: 'title and description pass, 100 lots per agent; always-look categories skip this' },
     { title: 'Scan', detail: 'photo scan of the kept lots, batches of 15, photos already downloaded' },
     { title: 'Retry', detail: 'rerun unscanned lots once' },
+    { title: 'New price', detail: 'new retail price for skipped lots that name a brand or model, 25 per agent' },
     { title: 'Rescore', detail: 'blind rescoring of candidates, 10 per agent' },
     { title: 'Market', detail: 'sold, unsold and asking evidence per candidate, one agent per lot' },
   ],
@@ -101,6 +102,7 @@ const SCAN_SCHEMA = {
       strength: { type: 'number' }, reason: { type: 'string' }, findings: { type: 'string' }, condition: { type: 'string' } },
       required: ['cdid', 'lot', 'title', 'strength', 'reason'] } },
     interest: { type: 'array', items: { type: 'object', properties: { cdid: { type: 'number' }, lot: { type: 'number' }, kind: { type: 'string' }, note: { type: 'string' } }, required: ['cdid', 'lot', 'kind', 'note'] } },
+    products: { type: 'array', items: { type: 'object', properties: { cdid: { type: 'number' }, lot: { type: 'number' }, title: { type: 'string' }, product: { type: 'string' }, findings: { type: 'string' } }, required: ['cdid'] } },
   },
   required: ['counts', 'unscanned', 'candidates', 'interest'],
 }
@@ -115,9 +117,9 @@ These are book and paper lots, Andy's top priority for this sale, so this batch 
 1. ${retryList ? '(retry run, skip this step)' : `If ${W}/scans/${b.tag}.json already exists, a previous run finished this batch: run "python3 -I ${P}/merge_scan.py ${W} ${b.tag} ${ids}" and return its printed JSON as your result. Stop.`}
 2. The data is ALREADY prepared. Do not fetch anything and do not contact Armitage. Read ${W}/lots/<cdid>.json for each cdid: title (the catalogue title, which often claims weights, carat, sizes and makers; treat those as claims to check against the photos), description, lot (number), lot_label, photo_count, state and sheet (the contact sheet path). Original full-size photos are at ${W}/photos/<cdid>_<n>.jpg. A lot whose state is not FETCHED has no photos: leave it out of your observations.
 3. View EVERY lot's contact sheet (state FETCHED) with the Read tool, several per turn. Look at every photo. Where a photo shows writing, marks, labels, hallmarks, assay or carat stamps, signatures, maker's stamps, serial numbers or dials, crop that area from the full-size original with Pillow, enlarge 2-3x, save under ${W}/crops/ and Read it. Read everything legible: brands, maker's marks, hallmarks (silver and gold), signatures, labels, dates, case backs, movement markings, stamps, edition numbers.
-4. ${retryList ? 'READ the existing' : 'Write'} ${W}/obs/${b.tag}.json ${retryList ? '(a JSON object keyed by cdid), then add or replace only the entries for the retried cdids and write it back.' : ': a JSON object keyed by cdid (string).'} Each entry covers one lot you viewed: photos_viewed (integer count of photos you actually looked at, must equal that lot's photo_count or the lot will be treated as UNSCANNED), findings (what the photos show that the title does not, incl. every mark read and whether a claimed weight, carat or maker is supported), condition (damage, wear, repairs, missing parts, fill level for bottles), verdict ("CANDIDATE" or "SKIP"), reason (one line), strength (1 to 10 for candidates, based ONLY on what the item is and its likely real market value: 9-10 likely over $500, 7-8 about $200-500, 5-6 about $80-200, 3-4 about $30-80, 1-2 under $30), marks_read (short string). The estimate, current bid and bid count have been removed from your data on purpose: score only on what the item is. Be honest: only claim photos_viewed for photos you really looked at.
-   CANDIDATE if the photos suggest the lot is under-described or mis-attributed, is by a known collectable maker or artist, has readable hallmarks or a maker's mark that adds value, is gold or silver with a weight that makes it worth real money, is a tool, axe, instrument or collectable with a maker's stamp or a competition or specialist market, or could plausibly resell for $250 or more. Be sceptical of attributions and signatures (fakes and copies are common). For books and boxes of books apply the BOOK RULE: CANDIDATE when a readable title is one whose first edition (or the edition seen) can sell for hundreds, and list those titles in findings; SKIP boxes that hold only titles whose firsts are worth little, saying so. ${BOOKS} Never SKIP as common an axe or hand tool, petroliana (oil and grease tins, signs, pumps, badges) or a whisky or spirits bottle from before about 1990 (proof strengths, 75cl and other old sizes, old importer labels): mark these CANDIDATE with strength at least 4 and say what dates the bottling or the maker. Otherwise SKIP with a one-line reason. Also, for any whisky, spirits or wine lot or any watch or watch movement lot (candidate or not) add "interest": {"kind":"whisky"|"wine"|"watch","note":"..."} to that lot's obs entry.
-5. Run: python3 -I ${P}/merge_scan.py ${W} ${b.tag} ${ids}   It prints JSON with counts, unscanned, candidates and interest. Your final result must be exactly that object.`
+4. ${retryList ? 'READ the existing' : 'Write'} ${W}/obs/${b.tag}.json ${retryList ? '(a JSON object keyed by cdid), then add or replace only the entries for the retried cdids and write it back.' : ': a JSON object keyed by cdid (string).'} Each entry covers one lot you viewed: photos_viewed (integer count of photos you actually looked at, must equal that lot's photo_count or the lot will be treated as UNSCANNED), findings (what the photos show that the title does not, incl. every mark read and whether a claimed weight, carat or maker is supported), condition (damage, wear, repairs, missing parts, fill level for bottles), verdict ("CANDIDATE" or "SKIP"), reason (one line), strength (1 to 10 for candidates, based ONLY on what the item is and its likely real market value: 9-10 likely over $500, 7-8 about $200-500, 5-6 about $80-200, 3-4 about $30-80, 1-2 under $30), marks_read (short string), product (for any modern manufactured product, such as tools, power tools, machinery, farm and building equipment, electronics, audio, cameras, appliances and instruments: brand plus model name, model number or product code exactly as read, e.g. "Waratah Thumpa 222689"; empty for anything else). The estimate, current bid and bid count have been removed from your data on purpose: score only on what the item is. Be honest: only claim photos_viewed for photos you really looked at.
+   CANDIDATE if the photos suggest the lot is under-described or mis-attributed, is by a known collectable maker or artist, has readable hallmarks or a maker's mark that adds value, is gold or silver with a weight that makes it worth real money, is a tool, axe, instrument or collectable with a maker's stamp or a competition or specialist market, or could plausibly resell for $250 or more. Be sceptical of attributions and signatures (fakes and copies are common). For books and boxes of books apply the BOOK RULE: CANDIDATE when a readable title is one whose first edition (or the edition seen) can sell for hundreds, and list those titles in findings; SKIP boxes that hold only titles whose firsts are worth little, saying so. ${BOOKS} Never SKIP as common an axe or hand tool, petroliana (oil and grease tins, signs, pumps, badges) or a whisky or spirits bottle from before about 1990 (proof strengths, 75cl and other old sizes, old importer labels): mark these CANDIDATE with strength at least 4 and say what dates the bottling or the maker. Do not SKIP a branded modern product as "modern, low resale" on a guess: some cost thousands new (a Waratah Thumpa post driver is about $2,700), so fill in product and a new-price check looks it up. Otherwise SKIP with a one-line reason. Also, for any whisky, spirits or wine lot or any watch or watch movement lot (candidate or not) add "interest": {"kind":"whisky"|"wine"|"watch","note":"..."} to that lot's obs entry.
+5. Run: python3 -I ${P}/merge_scan.py ${W} ${b.tag} ${ids}   It prints JSON with counts, unscanned, candidates, interest and products. Your final result must be exactly that object.`
 }
 
 phase('Scan')
@@ -140,6 +142,36 @@ const allInterest = ok.flatMap(x => x.res.interest || [])
 const allUnscanned = ok.flatMap(x => x.res.unscanned || [])
 log(`Scan done: ${allCands.length} candidates, ${allUnscanned.length} unscanned lots, ${BATCHES.length - ok.length} batches with no result`)
 
+// ---------- 2b. new-price check (Andy, 8 Nov 2026): skipped lots that name a brand or model get their new retail price
+// looked up; NEWPRICE_FLOOR or more turns them into candidates (pipeline/new_price.py). A new price never sets a maximum.
+const NEWPRICE_FLOOR = args.newPriceFloor || 500
+const NEWPRICE_CHUNK = args.newPriceChunk || 25
+const candIds = new Set(allCands.map(c => c.cdid))
+const productSeen = new Set()
+const allProducts = ok.flatMap(x => x.res.products || []).filter(p => {
+  if (candIds.has(p.cdid) || productSeen.has(p.cdid)) return false
+  productSeen.add(p.cdid)
+  return true
+})
+const NP_SCHEMA = { type: 'object', properties: { checked: { type: 'array', items: { type: 'object', properties: {
+  cdid: { type: 'number' }, lot: { type: 'number' }, product: { type: 'string' }, new_price_aud: { type: 'number' },
+  retailer: { type: 'string' }, url: { type: 'string' }, note: { type: 'string' } }, required: ['cdid', 'product', 'new_price_aud'] } },
+  promoted: { type: 'array', items: { type: 'object' } } }, required: ['checked', 'promoted'] }
+const npChunks = []
+for (let i = 0; i < allProducts.length; i += NEWPRICE_CHUNK) npChunks.push(allProducts.slice(i, i + NEWPRICE_CHUNK))
+phase('New price')
+const npRuns = await parallel(npChunks.map((ch, ci) => () => limited(() => agent(
+  `You are the new-price check for ${NAME}. ${RULES}
+The photo scan skipped these lots, but each names a brand or a model. Some modern products cost thousands new and resell well (a Waratah Thumpa pneumatic post driver is about $2,700 new), so for each lot find what the same product costs NEW today in Australia.
+For each lot: decide from the title, the product and the findings whether it is a modern manufactured product with an identifiable brand and model (tools, power tools, machinery, farm and building equipment, electronics, audio, cameras, appliances, instruments). If it is not (an antique, a collectable, art, a book, generic goods with a size like "H-45 CM"), skip it without searching. If it is, run one or two searches (WebSearch, or curl a retailer's site) for the current Australian retail price of that brand and model, new. Use the price on a retailer's or the maker's page (Bunnings, Total Tools, Sydney Tools, WVS, farm and rural suppliers, JB Hi-Fi, Harvey Norman, the maker's own price list). If only an overseas price exists, convert it and say so in note. Never guess a price: if you cannot find one, leave the lot out. Give the page URL.
+Write your list to ${W}/newprice/np_${ci + 1}.json as {"checked": [{"cdid", "lot", "product", "new_price_aud", "retailer", "url", "note"}]} (make the folder if needed), then run: python3 -I ${P}/new_price.py promote ${W} ${W}/newprice/np_${ci + 1}.json --floor ${NEWPRICE_FLOOR}
+It prints the lots it promoted (new price $${NEWPRICE_FLOOR} or more). Return {"checked": <your list>, "promoted": <what it printed>}.
+Lots:
+${JSON.stringify(ch)}`,
+  { label: `new price ${ci + 1}`, phase: 'New price', model: 'sonnet', schema: NP_SCHEMA }))))
+const promoted = npRuns.filter(Boolean).flatMap(r => r.promoted || []).filter(p => p && p.cdid && !candIds.has(p.cdid))
+log(`New-price check: ${allProducts.length} skipped branded lots looked at in ${npChunks.length} runs, ${promoted.length} cost $${NEWPRICE_FLOOR}+ new and go to research`)
+
 // ---------- 3. blind rescoring
 const RESCORE_SCHEMA = { type: 'object', properties: { scores: { type: 'array', items: { type: 'object', properties: {
   cdid: { type: 'number' }, score: { type: 'number' }, rationale: { type: 'string' } }, required: ['cdid', 'score', 'rationale'] } } }, required: ['scores'] }
@@ -157,6 +189,8 @@ rescored.filter(Boolean).forEach(r => (r.scores || []).forEach(x => { newScore[x
 allCands.forEach(c => { c.strength_scan = c.strength; if (newScore[c.cdid]) { c.strength = newScore[c.cdid].score; c.rescore_note = newScore[c.cdid].rationale } })
 log(`Rescored ${Object.keys(newScore).length} of ${allCands.length} candidates`)
 
+promoted.forEach(p => allCands.push({ cdid: p.cdid, lot: p.lot, title: p.title, findings: p.findings, condition: p.condition,
+  reason: p.reason, strength: Math.max(p.strength || 0, 7), new_price_aud: p.new_price_aud, rescore_note: `costs about $${p.new_price_aud} new` }))
 const ranked = [...allCands].sort((a, b) => (b.strength || 0) - (a.strength || 0))
 const firstResearch = ranked.filter(c => PRIORITY.has(c.cdid))
 const toResearch = [...firstResearch, ...ranked.filter(c => !PRIORITY.has(c.cdid) && (c.strength || 0) >= MINSTRENGTH).slice(0, MAXMARKET)]
@@ -182,11 +216,11 @@ function marketPrompt(c) {
   return `You are a market researcher for ${NAME}. ${RULES}
 Candidate: lot ${c.lot} (cdid ${c.cdid}), "${c.title}". Scan notes: ${c.findings}. Condition: ${c.condition}. Why flagged: ${c.reason}. Blind score ${c.strength}/10 (${c.rescore_note || ''}).
 Photos: contact sheet ${W}/sheets/${c.cdid}.jpg, originals ${W}/photos/${c.cdid}_<n>.jpg (Read them; crop and enlarge marks with Pillow where needed). The full lot record is ${W}/lots/${c.cdid}.json.
-Goal: build the best picture of what this item is worth on the open market, keeping the kinds of evidence strictly separate. The Armitage estimate and current bid are meaningless and have not been given to you. Do not look for them.
+${c.new_price_aud ? `The new-price check found it costs about $${c.new_price_aud} new; that is not a resale price, so find what used ones actually sell for. ` : ''}Goal: build the best picture of what this item is worth on the open market, keeping the kinds of evidence strictly separate. The Armitage estimate and current bid are meaningless and have not been given to you. Do not look for them.
 Start with the local price databases: run "python3 -I ${P}/comps.py <two to four key words>" two or three times with different words (maker, model, title words). They hold hammer prices with dates from Gowans (Hobart), Noble Numismatics (coins), Australian Book Auctions, Armitage's own past sales and earlier research. Every same-item hit is a SOLD entry: venue as printed, date, and the url (or the sale and lot reference as the url when there is no link). Gowans and Armitage hits are marked "paid locally": record them with their real venue, but they only show what we might pay (Andy, 7 Nov 2026: neither is a competitive auction) and never set the resale, so always find the resale price elsewhere. Then search the web.
 ${KINDS}
 ${NETWORK}
-Prefer Australian sales from the last 24 months for SOLD and UNSOLD. Do at least 5 varied searches unless the item is clearly generic (mixed china, common furniture), in which case say so and stop early. Return every entry you found, each labelled with its kind. Set needs_chrome true when eBay sold listings or a signed-in site (LiveAuctioneers, Invaluable results, WorthPoint, Rare Book Hub) would settle the value better than what you found, and put the exact search to run in chrome_hint. In viewing_check say what Andy should look at or photograph at the viewing to settle the value (a hallmark, a title page and date, a serial number, a signature, a crack, a fill level), or "nothing" if the photos already settle it. For a book, price the first edition and later printings separately and say which one the lot could be; in viewing_check ask for the copyright page (back of the title page), jacket and any library marks. ${BOOKS} Do not compute a maximum bid. Write your final JSON to ${W}/market/${c.cdid}.json as well as returning it.`
+Prefer Australian sales from the last 24 months for SOLD and UNSOLD. Do at least 5 varied searches unless the item is clearly generic (mixed china, common furniture), in which case say so and stop early. Return every entry you found, each labelled with its kind. Set needs_chrome true when eBay sold listings or a signed-in site (LiveAuctioneers, Invaluable results, WorthPoint, Rare Book Hub) would settle the value better than what you found, and put the exact search to run in chrome_hint. In viewing_check say what Andy should look at or photograph at the viewing to settle the value (a hallmark, a title page and date, a serial number, a signature, a crack, a fill level), or "nothing" if the photos already settle it. For a book, price the first edition and later printings separately and say which one the lot could be; in viewing_check ask for the copyright page (back of the title page), jacket and any library marks. ${BOOKS} For a modern manufactured product (tools, machinery, equipment, electronics, appliances), also record its current new retail price in Australia as an ASKING entry with the retailer as venue and "new retail price" in note; it shows what the item is, never what it resells for. Do not compute a maximum bid. Write your final JSON to ${W}/market/${c.cdid}.json as well as returning it.`
 }
 
 phase('Market')
@@ -208,6 +242,7 @@ return {
   candidates: allCands,
   not_researched: notResearched.map(c => ({ cdid: c.cdid, lot: c.lot, title: c.title, reason: c.reason, strength: c.strength, strength_scan: c.strength_scan, rescore_note: c.rescore_note })),
   interest: allInterest,
+  new_price: { looked_at: allProducts.length, runs: npChunks.length, promoted: promoted.map(p => ({ cdid: p.cdid, lot: p.lot, product: p.product, new_price_aud: p.new_price_aud })) },
   researched: researched.map(r => r.cdid),
   missing: toResearch.filter(c => !researched.find(r => r.cdid === c.cdid)).map(c => c.cdid),
 }

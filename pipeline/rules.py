@@ -103,6 +103,33 @@ def classify(title, description=''):
     return 'title_pass', ''
 
 
+# New-price check (Andy, 8 Nov 2026, after lot 1704, a Waratah Thumpa star post driver that costs about $2,700 new,
+# was skipped by the photo scan as "modern farm tool"): a lot the scan skips that names a brand or a model of a modern
+# manufactured product gets its new retail price looked up, and if that is NEW_PRICE_FLOOR or more it goes to price
+# research. The new price only promotes a lot; a maximum still needs a SOLD price.
+NEW_PRICE_FLOOR = 500
+BRANDS = (r'\b(waratah|stihl|husqvarna|makita|milwaukee|dewalt|bosch|hitachi|hikoki|metabo|festool|hilti|paslode|ryobi|aeg|'
+          r'ozito|black ?& ?decker|triton|carbatec|record power|jet|hafco|sherwood|kincrome|sidchrome|snap.on|stanley|irwin|'
+          r'itm|lincoln|cigweld|unimig|miller|kemppi|honda|briggs|yamaha|kubota|victa|rover|cox|echo|shindaiwa|tanaka|ego|'
+          r'karcher|gerni|atlas copco|mcmillan|peerless|topcon|leica|trimble|sokkia|nikon|canon|sony|panasonic|olympus|'
+          r'pentax|fujifilm|hasselblad|bose|sonos|bang ?& ?olufsen|b&o|bowers|marantz|denon|pioneer|technics|nad|rega|'
+          r'linn|naim|cambridge audio|klipsch|harman|jbl|roland|fender|gibson|martin|taylor|boss|apple|dyson|breville|'
+          r'kitchenaid|thermomix|miele|smeg|delonghi|la marzocco|rancilio|weber|traeger|garmin|lowrance|humminbird|'
+          r'shimano|daiwa|penn|abu garcia|trek|specialized|giant|cannondale|bmc|pinarello|polaris|can.am|ditch witch|'
+          r'tormek|lie.nielsen|veritas|record|bahco|wera|knipex|fluke|snapon|ingersoll|chicago pneumatic|toku|sumake)\b')
+# a model number or product code: letters and digits together (RL-H4C, MS391, K970) or a code of five or more digits
+MODEL = r'\b(?=[a-z0-9-]*\d)(?=[a-z0-9-]*[a-z])[a-z0-9]{1,}[a-z0-9-]{2,}\b|\b\d{5,}\b'
+SIZE = r'^(h|w|d|l|dia|no|x|c|ca|circa)-?\d+$|^\d+(mm|cm|m|kg|g|ml|l|ct|v|w|hp|cc|in|ft|lb|oz|kw|pc|pcs|piece|x)$'
+
+
+def looks_branded(text):
+    """True when a title or scan note names a brand or a model number, the lots the new-price check looks up."""
+    t = (text or '').lower()
+    if re.search(BRANDS, t):
+        return True
+    return any(not re.match(SIZE, m.group(0)) for m in re.finditer(MODEL, t))
+
+
 if __name__ == '__main__':
     import sys
     for t in sys.argv[1:] or ['2 SEATER LOUNGE', 'HUON PINE CHEST OF DRAWERS', 'BOX OF BOOKS', '5 AXE HEADS INC PLUMB',
