@@ -13,12 +13,12 @@
   "ignore_bids": false
  },
  "scanned": 331,
- "candidates": 74,
+ "candidates": 75,
  "counts": {
   "PASS": 1,
-  "CHROME": 65,
+  "CHROME": 67,
   "FAIL": 7,
-  "DROP": 1,
+  "DROP": 0,
   "NOT RESEARCHED": 0
  },
  "lots": [
@@ -973,8 +973,8 @@
    "close": "11/11/2026 10:10:00 PM ADST",
    "identification": "Pair of red painted steel mesh (expanded metal) tub-back patio armchairs with scroll detail on the top rail. Modern mass-produced outdoor furniture, no maker's label or marks visible in the photo. Not antique, not a recognisable collectable brand (e.g. not Woodard or Salterini wrought iron).",
    "researched": true,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "needs_chrome": true,
+   "chrome_hint": " Bidder signal: 124067 - Bridport, (seen in 68 sales); 275815 - West Launceston , (seen in 13 sales); 168233 - Invermay, (seen in 32 sales); 142868 - Perth, (seen in 18 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
@@ -984,8 +984,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "priority": false
   },
   {
@@ -4034,6 +4034,42 @@
      "note": "Folding e-bike, battery not charging, 5 bids. API record."
     }
    ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
+  },
+  {
+   "cdid": 3112845,
+   "lot": 2004,
+   "title": "POWER-PED ELECTRIC BIKE WITH H...",
+   "strength": 7,
+   "findings": "Red step-through Power-Ped e-bike with rear-rack frame battery (pack label partly legible, possibly LEITNER), front basket, rear rack bag, helmet, Li-ion charger with 3-pin plug and XLR-type output lead. Older budget e-bike, motor brand not legible.",
+   "condition": "Used, general wear; battery health and range unknown; tyres look serviceable.",
+   "current_bid": 40.0,
+   "bid_count": 3,
+   "close": "11/11/2026 11:06:00 PM ADST",
+   "identification": "Power-Ped step-through e-bike, battery possibly Leitner",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 1499.0,
+     "date": "current",
+     "venue": "Leitner Ultimate step-thru RRP (ProductReview)",
+     "url": "https://www.productreview.com.au/c/electric-bikes/b/leitner",
+     "same_item": "yes",
+     "note": "new retail price, not a resale price. Power-Ped brand not found online; price is for the nearest Leitner step-through. Brand and battery condition need checking."
+    }
+   ],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,

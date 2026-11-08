@@ -13,10 +13,10 @@
   "ignore_bids": false
  },
  "scanned": 366,
- "candidates": 80,
+ "candidates": 81,
  "counts": {
   "PASS": 8,
-  "CHROME": 61,
+  "CHROME": 62,
   "FAIL": 7,
   "DROP": 3,
   "NOT RESEARCHED": 1
@@ -5997,6 +5997,42 @@
      "note": "PHILIPS SAECO COFFEE MACHINE, 0 bids."
     }
    ],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "priority": false
+  },
+  {
+   "cdid": 3112180,
+   "lot": 1352,
+   "title": "DELONGHI COFFEE MACHINE - POWE...",
+   "strength": 7,
+   "findings": "DeLonghi Nespresso Lattissima-type capsule machine (white) with milk jug and instruction booklet.",
+   "condition": "Power on only per title; general use, appears clean.",
+   "current_bid": 0.0,
+   "bid_count": 0,
+   "close": "11/11/2026 7:30:00 PM ADST",
+   "identification": "DeLonghi Nespresso Lattissima One EN510W (model assumed from photo)",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 529.0,
+     "date": "current",
+     "venue": "Appliances Online (RRP $529, on sale $484)",
+     "url": "https://appliancesonline.com.au/product/delonghi-lattissima-one-white-nespresso-coffee-machine-en510w",
+     "same_item": "yes",
+     "note": "new retail price, not a resale price. Scan says Lattissima-type; exact model not confirmed. Other Lattissima models cost more."
+    }
+   ],
+   "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,

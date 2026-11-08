@@ -13,10 +13,10 @@
   "ignore_bids": false
  },
  "scanned": 416,
- "candidates": 163,
+ "candidates": 164,
  "counts": {
   "PASS": 7,
-  "CHROME": 122,
+  "CHROME": 123,
   "FAIL": 34,
   "DROP": 0,
   "NOT RESEARCHED": 0
@@ -7560,6 +7560,42 @@
    "max_hammer": 0,
    "status": "CHROME",
    "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "priority": false
+  },
+  {
+   "cdid": 3112597,
+   "lot": 1570,
+   "title": "MAKITA BELT SANDER - GOING ORD...",
+   "strength": 7,
+   "findings": "Makita belt sander (teal body, large 100mm-class belt, dust bag), with spare abrasive belts. Rating plate on side present but not legible at photo resolution; model not confirmed. Older Makita (grey alloy base, older styling) likely 9900 or 9924 series.",
+   "condition": "Used, dust and grime, going order per catalogue; cord intact.",
+   "current_bid": 15.0,
+   "bid_count": 2,
+   "close": "11/11/2026 8:41:40 PM ADST",
+   "identification": "Makita 9403 100mm belt sander (model assumed from belt size)",
+   "researched": true,
+   "needs_chrome": false,
+   "chrome_hint": "",
+   "chrome_done": false,
+   "sold": [],
+   "sold_old": [],
+   "unsold": [],
+   "asking": [
+    {
+     "aud_price": 733.95,
+     "date": "current",
+     "venue": "Industrial Shed",
+     "url": "https://www.industrialshed.net.au/products/9403",
+     "same_item": "yes",
+     "note": "new retail price, not a resale price. Rating plate not legible; 100mm Makita belt sander is the 9403. Check model at collection."
+    }
+   ],
+   "paid": [],
+   "resale": 0,
+   "net_resale": 0,
+   "max_hammer": 0,
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
