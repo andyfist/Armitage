@@ -1,7 +1,7 @@
 {
  "cdid": 3110968,
  "lot": 706,
- "identification": "Box of three: Penfolds Bin 51 Riesling and two Penfolds Yattarna Chardonnay (vintage on labels looks like 1998 but not legible enough to confirm)",
+ "identification": "Photo: two bottles Penfolds Yattarna Chardonnay 1998 (one in tissue, one wrapped) plus one Penfolds Bin 51 Riesling (Eden Valley), in a cardboard carton. Three bottles.",
  "entries": [
   {
    "kind": "ASKING",
@@ -58,12 +58,24 @@
    "same_item": "yes",
    "note": "Most recent average price for 1998 Penfolds Yattarna Bin 144 Chardonnay, from March 2026. Retail average, not a price paid, and no auction results shown without a subscription. Vintage on the lot needs confirming (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$37",
+   "currency": "AUD",
+   "aud_price": 37,
+   "date": "2025-10-24",
+   "venue": "wineauction.ai aggregator (single sale in last 5 yrs, per 750ml)",
+   "url": "https://wineauction.ai/wine/penfolds-bin-144-yattarna-chardonnay-coonawarra/1998",
+   "same_item": "yes",
+   "note": "1998 Yattarna 750ml, one auction sale only, venue behind it not shown (free tier); condition unknown. Per bottle.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py crashed on a None value in the DB (yattarna 1998); work/comps.py yattarna, yatarna, penfolds chardonnay, penfolds bin 51 riesling: only an empty Gowans pine box ($14). Gowans API yattarna: same. WebSearch x5 (1998 Yattarna auction sold, Langtons/Wine Owners/Grays/Leonard Joel, Tasmania/Victoria 2025, Langtons result, site:armitage.bidsonline.com.au): no 1998 sold result found. Langtons page curl returned nothing. No SOLD hammer for the 1998 vintage was found. eBay sold prices (1998 Yattarna) and Wine-Searcher/Langtons archives would settle it. | chrome: eBay AU sold: penfolds yattarna chardonnay 1998 and 'bottle' (only an empty box sold). Wine-Searcher product page (average only, vintage price list not shown without PRO). Langtons not tried. | chrome: eBay AU sold: penfolds yattarna chardonnay 1998 and 'bottle' (only an empty box sold). Wine-Searcher product page (average only, vintage price list not shown without PRO). Langtons not tried. | chrome: eBay AU sold: penfolds yattarna chardonnay 1998 and 'bottle' (only an empty box sold). Wine-Searcher product page (average only, vintage price list not shown without PRO). Langtons not tried. | chrome: eBay sold 'penfolds yattarna 1998' (worldwide; only an empty box); Terapeak eBay AU sold, last 2 years: 'penfolds yattarna'",
+ "searches_tried": "pipeline comps.py crashed on a None value in the DB (yattarna 1998); work/comps.py yattarna, yatarna, penfolds chardonnay, penfolds bin 51 riesling: only an empty Gowans pine box ($14). Gowans API yattarna: same. WebSearch x5 (1998 Yattarna auction sold, Langtons/Wine Owners/Grays/Leonard Joel, Tasmania/Victoria 2025, Langtons result, site:armitage.bidsonline.com.au): no 1998 sold result found. Langtons page curl returned nothing. No SOLD hammer for the 1998 vintage was found. eBay sold prices (1998 Yattarna) and Wine-Searcher/Langtons archives would settle it. | chrome: eBay AU sold: penfolds yattarna chardonnay 1998 and 'bottle' (only an empty box sold). Wine-Searcher product page (average only, vintage price list not shown without PRO). Langtons not tried. | chrome: eBay AU sold: penfolds yattarna chardonnay 1998 and 'bottle' (only an empty box sold). Wine-Searcher product page (average only, vintage price list not shown without PRO). Langtons not tried. | chrome: eBay AU sold: penfolds yattarna chardonnay 1998 and 'bottle' (only an empty box sold). Wine-Searcher product page (average only, vintage price list not shown without PRO). Langtons not tried. | chrome: eBay sold 'penfolds yattarna 1998' (worldwide; only an empty box); Terapeak eBay AU sold, last 2 years: 'penfolds yattarna' | chrome: Google Yattarna 1998 auction (Grays lot page for 6-pack showed no price; Wine-Searcher/Langtons not opened); wineauction.ai 1998 page. eBay AU alcohol hidden. Bin 51 Riesling not priced (low value).",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: Penfolds Yattarna Chardonnay 1998; Langtons past auction results 'Yattarna 1998'; Wine-Searcher auction history Yattarna 1998",
- "viewing_check": "Read the Yattarna vintages and fill levels. Nothing sold found on eBay or LiveAuctioneers.",
+ "viewing_check": "Fill level and cork/capsule on each Yattarna (the one in tissue), label condition, Bin 51 vintage (label reads 2001-ish, check), cork seepage.",
  "rate_note": "All figures already AUD, no conversion.",
  "chrome_done": true
 }

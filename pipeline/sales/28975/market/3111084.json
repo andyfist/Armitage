@@ -1,7 +1,7 @@
 {
  "cdid": 3111084,
  "lot": 822,
- "identification": "Two new-with-tags men's Liberty London Tana Lawn cotton shirts (Wiltshire berry print and Ianthe art nouveau print, burgundy), one in purple Liberty box; sizes not legible. (from earlier research; photos not re-checked this pass)",
+ "identification": "Two new-with-tags men's Liberty London Tana Lawn shirts: Wiltshire berry print and Ianthe art nouveau print in burgundy, one in purple Liberty box; sizes not legible.",
  "entries": [
   {
    "kind": "ASKING",
@@ -58,11 +58,47 @@
    "same_item": "partial",
    "note": "Liberty of London mens cotton lawn shirt, Ianthe, 15.5 collar, pre-owned, BIN. eBay AU converted, listed from United Kingdom. Used, single shirt.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$87.50",
+   "currency": "AUD",
+   "aud_price": 87.5,
+   "date": "2026-08-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257666622451",
+   "same_item": "category guide",
+   "note": "Liberty Tana Lawn Wiltshire shirt size 12 by Cotswold, pre-owned, Buy It Now; womenswear, same print only",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$97.22",
+   "currency": "AUD",
+   "aud_price": 97.22,
+   "date": "2026-08-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257673966730",
+   "same_item": "category guide",
+   "note": "Liberty Tana Lawn Ianthe shirt UK 12 James Meade, pre-owned, Buy It Now; womenswear, same print only",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$117.63",
+   "currency": "AUD",
+   "aud_price": 117.63,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257804264709",
+   "same_item": "category guide",
+   "note": "Art Nouveau print Tana Lawn shirt UK 18, new (other), Buy It Now; different maker/size",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for liberty shirt / liberty london / liberty tana lawn: no sales. Gowans API search 'liberty' and 'liberty shirt': no clothing lots, only unrelated items. WebSearch for Wiltshire and Ianthe Liberty men's shirts: only retail and eBay/Etsy listings, no sold prices. Armitage site search not run. eBay sold listings would settle value: Chrome step needed. | chrome: eBay AU sold: liberty london mens shirt ianthe (1 relevant); liberty of london mens shirt wiltshire (only women's or fabric, ladies Wiltshire shirts A$55-87, not same). No sold comp for new men's Wiltshire. | chrome: Terapeak eBay AU sold, last 2 years: 'liberty london shirt tana lawn' (min $30) - no matching sales",
+ "searches_tried": "comps.py (pipeline and work) for liberty shirt / liberty london / liberty tana lawn: no sales. Gowans API search 'liberty' and 'liberty shirt': no clothing lots, only unrelated items. WebSearch for Wiltshire and Ianthe Liberty men's shirts: only retail and eBay/Etsy listings, no sold prices. Armitage site search not run. eBay sold listings would settle value: Chrome step needed. | chrome: eBay AU sold: liberty london mens shirt ianthe (1 relevant); liberty of london mens shirt wiltshire (only women's or fabric, ladies Wiltshire shirts A$55-87, not same). No sold comp for new men's Wiltshire. | chrome: Terapeak eBay AU sold, last 2 years: 'liberty london shirt tana lawn' (min $30) - no matching sales | chrome: Covered by the same eBay AU sold search as lot 863 ('Liberty London mens shirt Tana Lawn'); no men's Liberty-label Wiltshire/Ianthe sold comp found.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold + completed: 'Liberty London mens shirt Tana Lawn Ianthe' and 'Liberty of London mens shirt Wiltshire', AU and UK, new with tags",
- "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "viewing_check": "Check size labels, Liberty label (men's), tags attached, and whether the second shirt is boxed; check collar/cuff for any wear.",
  "chrome_done": true
 }

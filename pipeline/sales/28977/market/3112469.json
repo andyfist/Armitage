@@ -1,7 +1,7 @@
 {
  "cdid": 3112469,
  "lot": 1749,
- "identification": "Makita LS1214 305mm slide compound mitre saw",
+ "identification": "Makita 305mm (12in) sliding compound mitre saw, Makita blue/white livery with dust bag (LS1214 per cloud read), used, spare blade.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,12 +101,72 @@
    "same_item": "partial",
    "note": "Makita LS1216 305mm dual-bevel slide compound mitre saw, tool only, pre-owned, Best Offer accepted. Newer, dual-bevel model, not LS1214.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$149.99",
+   "currency": "AUD",
+   "aud_price": 149.99,
+   "date": "2026-10-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168715083166",
+   "same_item": "category guide",
+   "note": "Hitachi 305mm slide compound mitre saw, pre-owned, 1 bid auction; different brand but same size class",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$138.50",
+   "currency": "AUD",
+   "aud_price": 138.5,
+   "date": "2026-08-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/206489205012",
+   "same_item": "category guide",
+   "note": "Listed only as 'Makita Sliding Compound Mitre Saw', 1 bid auction, model/size not verified",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$134.70",
+   "currency": "AUD",
+   "aud_price": 134.7,
+   "date": "2026-08-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/800300551205",
+   "same_item": "category guide",
+   "note": "Makita LS1011 255mm sliding saw, pre-owned; smaller 10in model",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$220.00",
+   "currency": "AUD",
+   "aud_price": 220.0,
+   "date": "2026-09-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407124264194",
+   "same_item": "category guide",
+   "note": "Makita LS1013 sliding compound saw (260mm), pre-owned Buy It Now; smaller blade, newer model",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70.00",
+   "currency": "AUD",
+   "aud_price": 70.0,
+   "date": "2026-10-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/920028164427",
+   "same_item": "category guide",
+   "note": "Unbranded 305mm sliding mitre saw with stand, pre-owned, 1 bid; low-end brand",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) on makita LS1214 / slide mitre / 305mm; Gowans API makita ls1214, mitre saw, slide compound; WebSearch LS1214 sold auction and used for sale Australia; fetched Evans Clarke (opened), Grays and HiBid (blocked/not loaded). No Armitage lookups. eBay sold listings would settle recent mainland price. | chrome: eBay AU sold: makita ls1214 (parts only, no whole saw in last months), makita ls1214 saw (parts, LS1040 10in at A$186.20 not recorded), makita 305mm slide compound mitre saw (one useful). eBay returned error pages for several attempts (throttled). Google: only the Evans Clarke A$370 (already in Found so far) and an undated Gumtree asking A$550 with no listing URL. | chrome: eBay sold AU 'makita ls1214'; Terapeak eBay AU sold, last 2 years: 'makita ls1214' (min $100)",
+ "searches_tried": "comps.py (pipeline and work) on makita LS1214 / slide mitre / 305mm; Gowans API makita ls1214, mitre saw, slide compound; WebSearch LS1214 sold auction and used for sale Australia; fetched Evans Clarke (opened), Grays and HiBid (blocked/not loaded). No Armitage lookups. eBay sold listings would settle recent mainland price. | chrome: eBay AU sold: makita ls1214 (parts only, no whole saw in last months), makita ls1214 saw (parts, LS1040 10in at A$186.20 not recorded), makita 305mm slide compound mitre saw (one useful). eBay returned error pages for several attempts (throttled). Google: only the Evans Clarke A$370 (already in Found so far) and an undated Gumtree asking A$550 with no listing URL. | chrome: eBay sold AU 'makita ls1214'; Terapeak eBay AU sold, last 2 years: 'makita ls1214' (min $100) | chrome: eBay AU sold: 'Makita LS1214' (only parts sold, no complete saw); 'makita 305mm sliding compound mitre saw used' (closest: Hitachi 305mm A$149.99, unspecified Makita slider A$138.50). No complete LS1214 sold in last few months on eBay AU.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: Makita LS1214 mitre saw (Sold items, Australia); also Grays closed lots makita ls1214",
- "viewing_check": "No complete saws sold on eBay AU in the last 90 days (parts only).",
+ "viewing_check": "Confirm model plate (LS1214 vs LS1212/LS1013), run motor, check sliding rails for play, arbor and blade runout, guard, cord, and that the spare blade is genuinely new in pack.",
  "rate_note": "USD to AUD at about 1.53; AUD entries as printed.",
  "chrome_done": true
 }

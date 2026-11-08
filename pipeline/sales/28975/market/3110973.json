@@ -1,7 +1,7 @@
 {
  "cdid": 3110973,
  "lot": 711,
- "identification": "Laphroaig 10 Year Old, 750ml 43%, 'Established 1815' label, neck 'Bottled in Scotland', D. Johnston & Co; no Royal Warrant visible on front: 1980s-early 90s bottling",
+ "identification": "Laphroaig 10 Years Old Single Islay Malt, 750ml, 43%, 'Established 1815', 'most richly flavoured' label, screw-cap style paper over cap, 'Bottled in Scotland' neck label; 1970s-80s era. Fill at lower neck / top shoulder in photo, label clean.",
  "entries": [
   {
    "kind": "SOLD",
@@ -140,12 +140,24 @@
    "same_item": "close",
    "note": "Later era (late 1990s/early 2000s) 750ml 43%",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$875",
+   "currency": "AUD",
+   "aud_price": 875,
+   "date": null,
+   "venue": "Australian Whisky Auctions lot 130828 (reserve met)",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-130828/laphroaig-10-year-old-pre-warrant-late-1980s-bottling",
+   "same_item": "close",
+   "note": "750ml but 40% late-1980s cork-closure bottling; sale date not visible on page, so 24-month window unverified. Our lot is 43% (earlier era). [Merge flag: sale date not shown, 24-month window unverified.]",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py laphroaig (no sales found); pipeline/comps.py crashed on a data error (NoneType); Gowans API laphroaig (no results); WebSearch x4 (generic 1980s Laphroaig 10 43%, D. Johnston sold, site:armitage.bidsonline, Australian houses); fetched whisky.auction x2 (opened), whiskyauctioneer, whiskyhammer, bonhams, whiskymarketplace.com.au (blocked by bot checks). No Australian past result found. Whisky Auctioneer and Whisky Hammer results, Australian Whisky Auctions and eBay sold would settle it. UK prices for 43% 75cl 1980s range widely (about GBP 300 to 1,500) depending on exact era; Australian buyer pool likely at the lower end. | chrome: eBay AU sold 'laphroaig 10 year old 750ml' and '75cl 43% vintage 1980s' (only current 700ml retail, no vintage sales); whiskyauctioneer.com past-results search (no matches). Note earlier comps listed under 'Found so far' may be the 15 year old, which is a different bottle. | chrome: AWA all past auctions 'laphroaig 10' filtered to 750ml/1980s/1990s titles; opened AWA lot 732980 to compare label and read description | chrome: eBay AU sold 'laphroaig 10 year old 750ml' and '75cl 43% vintage 1980s' (only current 700ml retail, no vintage sales); whiskyauctioneer.com past-results search (no matches). Note earlier comps listed under 'Found so far' may be the 15 year old, which is a different bottle. | chrome: AWA all past auctions 'laphroaig 10' filtered to 750ml/1980s/1990s titles; opened AWA lot 732980 to compare label and read description | chrome: eBay AU sold 'laphroaig 10 year old 750ml' and '75cl 43% vintage 1980s' (only current 700ml retail, no vintage sales); whiskyauctioneer.com past-results search (no matches). Note earlier comps listed under 'Found so far' may be the 15 year old, which is a different bottle. | chrome: AWA all past auctions 'laphroaig 10' filtered to 750ml/1980s/1990s titles; opened AWA lot 732980 to compare label and read description | chrome: eBay sold 'laphroaig 10' AU and worldwide; LiveAuctioneers 'laphroaig 10 year old 1815' (no hits); Terapeak eBay AU sold, last 2 years: 'laphroaig 10 year old'",
+ "searches_tried": "work/comps.py laphroaig (no sales found); pipeline/comps.py crashed on a data error (NoneType); Gowans API laphroaig (no results); WebSearch x4 (generic 1980s Laphroaig 10 43%, D. Johnston sold, site:armitage.bidsonline, Australian houses); fetched whisky.auction x2 (opened), whiskyauctioneer, whiskyhammer, bonhams, whiskymarketplace.com.au (blocked by bot checks). No Australian past result found. Whisky Auctioneer and Whisky Hammer results, Australian Whisky Auctions and eBay sold would settle it. UK prices for 43% 75cl 1980s range widely (about GBP 300 to 1,500) depending on exact era; Australian buyer pool likely at the lower end. | chrome: eBay AU sold 'laphroaig 10 year old 750ml' and '75cl 43% vintage 1980s' (only current 700ml retail, no vintage sales); whiskyauctioneer.com past-results search (no matches). Note earlier comps listed under 'Found so far' may be the 15 year old, which is a different bottle. | chrome: AWA all past auctions 'laphroaig 10' filtered to 750ml/1980s/1990s titles; opened AWA lot 732980 to compare label and read description | chrome: eBay AU sold 'laphroaig 10 year old 750ml' and '75cl 43% vintage 1980s' (only current 700ml retail, no vintage sales); whiskyauctioneer.com past-results search (no matches). Note earlier comps listed under 'Found so far' may be the 15 year old, which is a different bottle. | chrome: AWA all past auctions 'laphroaig 10' filtered to 750ml/1980s/1990s titles; opened AWA lot 732980 to compare label and read description | chrome: eBay AU sold 'laphroaig 10 year old 750ml' and '75cl 43% vintage 1980s' (only current 700ml retail, no vintage sales); whiskyauctioneer.com past-results search (no matches). Note earlier comps listed under 'Found so far' may be the 15 year old, which is a different bottle. | chrome: AWA all past auctions 'laphroaig 10' filtered to 750ml/1980s/1990s titles; opened AWA lot 732980 to compare label and read description | chrome: eBay sold 'laphroaig 10' AU and worldwide; LiveAuctioneers 'laphroaig 10 year old 1815' (no hits); Terapeak eBay AU sold, last 2 years: 'laphroaig 10 year old' | chrome: Google for Laphroaig 10 75cl 43% D Johnston 1980s; opened AWA lot 130828, Grand Whisky Auction lot 741867 (no price visible, login), Whisky.Auction lot 189301. eBay AU alcohol hidden. No in-window SOLD for identical 43% bottle found. [Removed at merge, outside the 24-month window: SOLD GBP 800 Whisky.Auction lot 189301 2024-07-16 https://whisky.auction/auctions/lot/189301/laphroaig-10-year-old (75cl 43% D. Johnston bottled 1970s-80s; box damaged; OUTSIDE 24-month window (July 2024); page shows A$ conversion option but not read)]",
  "needs_chrome": false,
  "chrome_hint": "Whisky Auctioneer / Whisky Hammer past results search: 'Laphroaig 10 Year Old 1980s 75cl 43% D. Johnston'; also eBay sold 'Laphroaig 10 year old 750ml 43% 1980s'",
- "viewing_check": "Check neck/back for Prince of Wales feathers. eBay only showed current 700ml bottles ($110-115, not comparable).",
+ "viewing_check": "Fill level (lower neck?), cap/closure type (screw cap vs cork), label stains, strength 43% confirmed, back label wording, capsule seal. 43% D. Johnston-era bottles trade well above 40% bottlings.",
  "rate_note": "AUD rates assumed, not verified: GBP 1 = A$2.00, HKD 1 = A$0.20. Whisky.Auction results shown as winning bid; buyer premium unclear.",
  "chrome_done": true
 }

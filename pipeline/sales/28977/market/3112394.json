@@ -1,7 +1,7 @@
 {
  "cdid": 3112394,
  "lot": 1673,
- "identification": "Two boxes of mixed playworn diecast (Matchbox/Lesney Major Pack style transporter pieces, small trucks, tractor) plus advertising sundries (Sykes's Drench boxes, Hoffmann bearing boxes, Black Nugget tin, BOC sign, ashtray). (from earlier research; photos not re-checked this pass)",
+ "identification": "Two boxes of playworn Matchbox/Dinky-type diecast (Major Pack transporter, woody wagon, trucks) plus advertising tins and boxes",
  "entries": [
   {
    "kind": "SOLD",
@@ -82,12 +82,36 @@
    "same_item": "partial",
    "note": "1960s Matchbox Major Pack No.3 Sankey tank transporter, single, condition not checked; Australia.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$144.15",
+   "currency": "AUD",
+   "aud_price": 144.15,
+   "date": "2026-11-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/377622492480",
+   "same_item": "no",
+   "note": "1962 Matchbox Lesney Major Pack M9 Inter-State Double Freighter Cooper Jarrett, Buy It Now; condition not confirmed, possibly better than lot piece",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.23",
+   "currency": "AUD",
+   "aud_price": 51.23,
+   "date": "2026-11-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/860024085128",
+   "same_item": "no",
+   "note": "Job lot 3x Matchbox Major Pack M6 Pickfords Scammell 200 Ton trailers only, unboxed, best offer",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) for sykes drench, hoffmann bearing, car transporter dinky, BOC sign tanker: only Dinky hits; work/comps.py matchbox transporter: none; Gowans API for sykes drench, matchbox cooper jarrett, dinky car transporter, hoffmann bearing box; WebSearch for Armitage diecast, Matchbox Major Pack Cooper-Jarrett, Sykes's Drench box. No sold results found for the Sykes, Hoffmann or BOC items. eBay sold prices for playworn Matchbox Major Pack M-9 Cooper-Jarrett and Sykes's Drench boxes would help (403 for us). Treated as a generic mixed lot, stopped early. | chrome: eBay AU sold: matchbox major pack transporter (boxed singles); job lot playworn matchbox lesney dinky diecast (0); lesney matchbox playworn lot (1 relevant). Sykes's Drench not searched. | chrome: Terapeak eBay AU sold, last 2 years: 'matchbox lesney major pack' (min $20) - no matching sales",
+ "searches_tried": "comps.py (pipeline) for sykes drench, hoffmann bearing, car transporter dinky, BOC sign tanker: only Dinky hits; work/comps.py matchbox transporter: none; Gowans API for sykes drench, matchbox cooper jarrett, dinky car transporter, hoffmann bearing box; WebSearch for Armitage diecast, Matchbox Major Pack Cooper-Jarrett, Sykes's Drench box. No sold results found for the Sykes, Hoffmann or BOC items. eBay sold prices for playworn Matchbox Major Pack M-9 Cooper-Jarrett and Sykes's Drench boxes would help (403 for us). Treated as a generic mixed lot, stopped early. | chrome: eBay AU sold: matchbox major pack transporter (boxed singles); job lot playworn matchbox lesney dinky diecast (0); lesney matchbox playworn lot (1 relevant). Sykes's Drench not searched. | chrome: Terapeak eBay AU sold, last 2 years: 'matchbox lesney major pack' (min $20) - no matching sales | chrome: eBay AU sold: matchbox major pack transporter playworn (0); matchbox major pack; sykes drench box vintage (0); sykes drench (only Pickavant tools). Nothing found for the advertising sundries.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: Matchbox Major Pack Cooper-Jarrett transporter M-9 playworn; also eBay Australia sold: Sykes's Drench box vintage",
- "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "viewing_check": "Check the transporter trailer is really a Cooper Jarrett M-9 or similar Major Pack with its ramp and whether wheels and paint are intact; look for any Dinky Supertoys, Corgi or boxed items in the second box. Only the transporter has visible value.",
  "rate_note": "USD 1 = AUD 1.55, GBP 1 = AUD 2.00 (approximate)",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112119,
  "lot": 1291,
- "identification": "Black curved fabric-grille wall/shelf unit, consistent with a Bang & Olufsen BeoSound 1 CD/radio player; no remote or stand seen, working order unknown.",
+ "identification": "Curved dark grey B&O CD/radio unit with top strip (STOP, LOAD, CD, RADIO, VOLUME), most likely BeoSound 1; catalogue says radio goes, so CD side unknown. Photo shows a grille-fronted curved speaker body.",
  "entries": [
   {
    "kind": "SOLD",
@@ -116,12 +116,36 @@
    "same_item": "yes",
    "note": "BeoSound 1 CD player, works but sold for parts or not working per listing, US seller.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$478.96",
+   "currency": "AUD",
+   "aud_price": 478.96,
+   "date": "2026-11-06",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/900054270309",
+   "same_item": "yes",
+   "note": "BeoSound 1 CD/Radio in silver, presumably working; another listing item 298741436254 also sold A$478.96 on 2026-10-31",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$200.23",
+   "currency": "AUD",
+   "aud_price": 200.23,
+   "date": "2026-09-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237063623651",
+   "same_item": "yes",
+   "note": "BeoSound 1 radio/CD, won't read CDs, sold as PARTS; closest to this lot (radio works, CD uncertain)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py bang olufsen / beosound / beocenter / b&o cd (only Beocenter hits); Gowans API cd/beosound searches (nothing); WebSearch for curved B&O CD radio (identified BeoSound 1); WebSearch BeoSound 1 Australia prices; WebSearch BeoSound 1 faulty/auction; fetched sound-affair (opened); Catawiki 403; LiveAuctioneers page empty. No Australian BeoSound 1 sold result found. eBay sold listings would settle it. Armitage not searched. | chrome: eBay AU sold: bang olufsen beosound 1 (several US-sold comps, prices appear to be AUD conversions of USD, shipping extra). LiveAuctioneers not tried. | chrome: eBay AU sold: bang olufsen beosound 1 (several US-sold comps, prices appear to be AUD conversions of USD, shipping extra). LiveAuctioneers not tried. | chrome: eBay AU sold: bang olufsen beosound 1 (several US-sold comps, prices appear to be AUD conversions of USD, shipping extra). LiveAuctioneers not tried.",
+ "searches_tried": "comps.py bang olufsen / beosound / beocenter / b&o cd (only Beocenter hits); Gowans API cd/beosound searches (nothing); WebSearch for curved B&O CD radio (identified BeoSound 1); WebSearch BeoSound 1 Australia prices; WebSearch BeoSound 1 faulty/auction; fetched sound-affair (opened); Catawiki 403; LiveAuctioneers page empty. No Australian BeoSound 1 sold result found. eBay sold listings would settle it. Armitage not searched. | chrome: eBay AU sold: bang olufsen beosound 1 (several US-sold comps, prices appear to be AUD conversions of USD, shipping extra). LiveAuctioneers not tried. | chrome: eBay AU sold: bang olufsen beosound 1 (several US-sold comps, prices appear to be AUD conversions of USD, shipping extra). LiveAuctioneers not tried. | chrome: eBay AU sold: bang olufsen beosound 1 (several US-sold comps, prices appear to be AUD conversions of USD, shipping extra). LiveAuctioneers not tried. | chrome: eBay AU sold 'bang olufsen beosound 1' and 'beosound 1 cd radio player' (2 searches). Note: cdid and chid are 3112119 / 28976 for this lot.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU and eBay US sold/completed: Bang Olufsen Beosound 1 (include 'parts' and 'not working'); also LiveAuctioneers price-result bang-and-olufsen-beosound-cd-player-and-radio",
- "viewing_check": "Ask to power it on: CD tray load, disc read, radio, display, speaker output. Look for the Type number on the back (2582 for BeoSound 1), missing remote, power cable, cracks or dents in the cabinet, and a torn or faded grille cloth. Photograph the back label.",
+ "viewing_check": "Confirm model on the rear label (BeoSound 1 vs other), whether the CD loads and reads, radio tuning, remote and mains lead included, grille and curved top condition. Parts BeoSound 1 with dead CD still sold A$200 on eBay AU.",
  "rate_note": "Assumed 1 GBP = 2.05 AUD, 1 USD = 1.53 AUD; not live rates.",
  "chrome_done": true
 }

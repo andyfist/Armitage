@@ -1,7 +1,7 @@
 {
  "cdid": 3111131,
  "lot": 869,
- "identification": "Modern reproduction walking cane, chromed/nickel cast hare or rabbit head handle with blue glass eyes, black shaft, screw top; looks new, not antique. (from earlier research; photos not re-checked this pass)",
+ "identification": "Modern chromed cast hare/rabbit head walking cane with blue glass eyes, black shaft, screw top; looks new",
  "entries": [
   {
    "kind": "ASKING",
@@ -72,11 +72,23 @@
    "same_item": "partial",
    "note": "Victorian style 3-piece black wooden stick, white rabbit head; eBay AU converted, listed from India.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$171.1",
+   "currency": "AUD",
+   "aud_price": 171.1,
+   "date": "2026-09-07",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/298584329441",
+   "same_item": "no",
+   "note": "Brown hare's/rabbit's head walking stick with glass eyes, best offer accepted; appears a carved/older style, not chromed, category guide only",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version errored, work version: hare cane, rabbit cane, walking cane, cane head); Gowans API hare head cane (nothing); WebSearch hare head cane plated blue eyes, site:armitage.bidsonline rabbit head cane (no Armitage results), rabbit head chrome blue glass eyes Australia; WebFetch of two retailer pages (404 / no price). No same-item sold result found. eBay sold would show typical prices for new plated animal-head canes but the item is clearly a cheap reproduction. | chrome: eBay AU sold: rabbit hare head walking cane stick (0 results, retried); rabbit head walking stick (found 4 comps above). Terapeak not available. New imports only, mostly ex-India dropship. | chrome: eBay AU sold: rabbit hare head walking cane stick (0 results, retried); rabbit head walking stick (found 4 comps above). Terapeak not available. New imports only, mostly ex-India dropship. | chrome: Terapeak eBay AU sold, last 2 years: 'hare head walking cane' (min $20) - no matching sales",
+ "searches_tried": "comps.py (pipeline version errored, work version: hare cane, rabbit cane, walking cane, cane head); Gowans API hare head cane (nothing); WebSearch hare head cane plated blue eyes, site:armitage.bidsonline rabbit head cane (no Armitage results), rabbit head chrome blue glass eyes Australia; WebFetch of two retailer pages (404 / no price). No same-item sold result found. eBay sold would show typical prices for new plated animal-head canes but the item is clearly a cheap reproduction. | chrome: eBay AU sold: rabbit hare head walking cane stick (0 results, retried); rabbit head walking stick (found 4 comps above). Terapeak not available. New imports only, mostly ex-India dropship. | chrome: eBay AU sold: rabbit hare head walking cane stick (0 results, retried); rabbit head walking stick (found 4 comps above). Terapeak not available. New imports only, mostly ex-India dropship. | chrome: Terapeak eBay AU sold, last 2 years: 'hare head walking cane' (min $20) - no matching sales | chrome: eBay AU sold: chrome hare head walking cane blue eyes. One result only; not comparable in material.",
  "needs_chrome": false,
- "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "viewing_check": "Check if the head is solid metal or plated base metal, any hallmark, and whether the screw top hides a compartment. Chrome/plated novelty canes look low value.",
  "rate_note": "USD to AUD 1.55 assumed",
  "chrome_done": true
 }

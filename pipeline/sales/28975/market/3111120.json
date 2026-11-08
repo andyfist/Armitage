@@ -1,7 +1,7 @@
 {
  "cdid": 3111120,
  "lot": 858,
- "identification": "Penfolds RWT (Bin 798) Barossa Valley Shiraz 2002, 750ml, red capsule, cream label, single bottle with level looking high in the photo. (from earlier research; photos not re-checked this pass)",
+ "identification": "Penfolds Bin 798 RWT Shiraz 2002, Barossa Valley, 750ml, bottle no. 22666; red capsule, label clean.",
  "entries": [
   {
    "kind": "ASKING",
@@ -70,12 +70,24 @@
    "same_item": "yes",
    "note": "Live retail asking for a 2002 bottle with a provenance guarantee, in Canada, price converted by Wine-Searcher. Another listing on the page asks A$350.47 per bottle (pre-arrival case of 6). Not sold prices. (URL is the Wine-Searcher price page for this wine, not an individual listing.)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90 median",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-06-13",
+   "venue": "wineauction.ai aggregator: 6 auction sales in last 5 years, median A$90 per 750ml, middle half A$89-A$96, most recent sale 13 Jun 2026",
+   "url": "https://wineauction.ai/wine/penfolds-bin-798-rwt-shiraz-barossa-valley/2002",
+   "same_item": "yes",
+   "note": "median not a single sale; individual sale dates beyond the latest not visible; lowest retail now shown A$125",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (None error) for two word sets; work/comps.py: only a 2004 RWT at WineBid (US$124, 2025-12-07, different vintage, not used) and no 2002 hits; Gowans API search 'penfolds rwt' returned no lots; WebSearch for 2002 RWT auction price (no hammer found, only retail and a forum anecdote of $46 all in for an unnamed RWT vintage, unusable), 2002 RWT Australian retail, site:armitage past RWT (none). Not tried: Langtons, Wine-Searcher (blocked). No SOLD result found for the 2002 vintage. eBay sold and Langtons/Wine-Searcher auction history would settle it. Retail asks are A$215 to A$265, and auction hammer is normally well below retail. | chrome: eBay AU sold: penfolds rwt 2002 (no 2002 bottle sold, only 1997 and 2014 RWT bottles and empty boxes). Wine-Searcher 2002 RWT page (asking only). Langtons not searched. No sold evidence for the actual vintage found. | chrome: eBay AU sold: penfolds rwt 2002 (no 2002 bottle sold, only 1997 and 2014 RWT bottles and empty boxes). Wine-Searcher 2002 RWT page (asking only). Langtons not searched. No sold evidence for the actual vintage found. | chrome: eBay AU sold: penfolds rwt 2002 (no 2002 bottle sold, only 1997 and 2014 RWT bottles and empty boxes). Wine-Searcher 2002 RWT page (asking only). Langtons not searched. No sold evidence for the actual vintage found. | chrome: Terapeak eBay AU sold, last 2 years: 'penfolds rwt 2002' - no matching sales",
+ "searches_tried": "pipeline/comps.py crashed (None error) for two word sets; work/comps.py: only a 2004 RWT at WineBid (US$124, 2025-12-07, different vintage, not used) and no 2002 hits; Gowans API search 'penfolds rwt' returned no lots; WebSearch for 2002 RWT auction price (no hammer found, only retail and a forum anecdote of $46 all in for an unnamed RWT vintage, unusable), 2002 RWT Australian retail, site:armitage past RWT (none). Not tried: Langtons, Wine-Searcher (blocked). No SOLD result found for the 2002 vintage. eBay sold and Langtons/Wine-Searcher auction history would settle it. Retail asks are A$215 to A$265, and auction hammer is normally well below retail. | chrome: eBay AU sold: penfolds rwt 2002 (no 2002 bottle sold, only 1997 and 2014 RWT bottles and empty boxes). Wine-Searcher 2002 RWT page (asking only). Langtons not searched. No sold evidence for the actual vintage found. | chrome: eBay AU sold: penfolds rwt 2002 (no 2002 bottle sold, only 1997 and 2014 RWT bottles and empty boxes). Wine-Searcher 2002 RWT page (asking only). Langtons not searched. No sold evidence for the actual vintage found. | chrome: eBay AU sold: penfolds rwt 2002 (no 2002 bottle sold, only 1997 and 2014 RWT bottles and empty boxes). Wine-Searcher 2002 RWT page (asking only). Langtons not searched. No sold evidence for the actual vintage found. | chrome: Terapeak eBay AU sold, last 2 years: 'penfolds rwt 2002' - no matching sales | chrome: wineauction.ai 2002 RWT page. eBay AU alcohol hidden. Langtons not searched.",
  "needs_chrome": false,
  "chrome_hint": "Langtons auction results and eBay sold listings: 'Penfolds RWT 2002 Shiraz' (also Wine-Searcher auction history 2002 RWT Bin 798)",
- "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "viewing_check": "Fill level, capsule, label, cork; compare against the 2 RWT 2002 lots (852 and 858), same vintage.",
  "rate_note": "All prices AUD, no conversion needed.",
  "chrome_done": true
 }

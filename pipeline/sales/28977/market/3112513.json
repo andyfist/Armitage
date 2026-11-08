@@ -1,7 +1,7 @@
 {
  "cdid": 3112513,
  "lot": 1485,
- "identification": "Atlas Copco pneumatic D-handle chipping hammer with a fitted point chisel plus a spare point and a flat chisel (from earlier research; photos not re-checked this pass)",
+ "identification": "Atlas Copco pneumatic D-handle chipping/scaling hammer (black, quick-change chuck, yellow '105' sticker is an auction lot tag), fitted point chisel plus one long point and one flat chisel, hex shank. Model code not legible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -80,12 +80,36 @@
    "same_item": "category guide",
    "note": "Used Atlas Copco RFF 30-01 pneumatic chipping hammer, listed A$35 or best offer so paid at most A$35, plus A$16.50 delivery. Chisels not mentioned (Reviewer: downgraded to category guide, different model/item, not the same piece type confirmed.)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.33",
+   "currency": "AUD",
+   "aud_price": 51.33,
+   "date": "2026-08-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/265678291520",
+   "same_item": "no",
+   "note": "22mm hex breaker point chisel bit for Atlas Copco/Wacker air hammer, chisel only, category guide for bits",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$352.40",
+   "currency": "AUD",
+   "aud_price": 352.4,
+   "date": "2026-10-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/198679234290",
+   "same_item": "no",
+   "note": "Atlas Copco RRH 18P rivet hammer, different tool class (aircraft rivet hammer), not a comp",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version errored; work version: atlas copco, air hammer, pneumatic hammer, chipping, scaler, rock drill, atlas, jackhammer): no Atlas Copco air hammer sales. Gowans API: atlas copco (none), air hammer, jack hammer. WebSearch: Atlas Copco chipping hammer sold, Atlas Copco air chipping hammer Australia, site:armitage air hammer (nothing). No true SOLD same-item comp found. eBay sold listings for used Atlas Copco chipping hammer would settle it. | chrome: eBay AU sold: atlas copco chipping hammer (one same-type comp, the rest unrelated toys or other brands); atlas copco air hammer chisel (eBay error page). Gumtree not tried. Earlier Gowans comps not re-opened. | chrome: eBay AU sold: atlas copco chipping hammer (one same-type comp, the rest unrelated toys or other brands); atlas copco air hammer chisel (eBay error page). Gumtree not tried. Earlier Gowans comps not re-opened. | chrome: eBay AU sold: atlas copco chipping hammer (one same-type comp, the rest unrelated toys or other brands); atlas copco air hammer chisel (eBay error page). Gumtree not tried. Earlier Gowans comps not re-opened. | chrome: Terapeak eBay AU sold, last 2 years: 'atlas copco chipping hammer pneumatic' (min $50)",
+ "searches_tried": "comps.py (pipeline version errored; work version: atlas copco, air hammer, pneumatic hammer, chipping, scaler, rock drill, atlas, jackhammer): no Atlas Copco air hammer sales. Gowans API: atlas copco (none), air hammer, jack hammer. WebSearch: Atlas Copco chipping hammer sold, Atlas Copco air chipping hammer Australia, site:armitage air hammer (nothing). No true SOLD same-item comp found. eBay sold listings for used Atlas Copco chipping hammer would settle it. | chrome: eBay AU sold: atlas copco chipping hammer (one same-type comp, the rest unrelated toys or other brands); atlas copco air hammer chisel (eBay error page). Gumtree not tried. Earlier Gowans comps not re-opened. | chrome: eBay AU sold: atlas copco chipping hammer (one same-type comp, the rest unrelated toys or other brands); atlas copco air hammer chisel (eBay error page). Gumtree not tried. Earlier Gowans comps not re-opened. | chrome: eBay AU sold: atlas copco chipping hammer (one same-type comp, the rest unrelated toys or other brands); atlas copco air hammer chisel (eBay error page). Gumtree not tried. Earlier Gowans comps not re-opened. | chrome: Terapeak eBay AU sold, last 2 years: 'atlas copco chipping hammer pneumatic' (min $50) | chrome: eBay AU sold: atlas copco chipping hammer; atlas copco air hammer (two other query variants errored/empty). Gumtree not tried. Only one same-maker chipping hammer sale found (RFF 30-01 at A$35).",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed: Atlas Copco chipping hammer (also try 'Atlas Copco air hammer chisel used'); also Gumtree Atlas Copco hammer",
  "rate_note": "All AUD, no conversion applied except eBay snippet currency unknown.",
- "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "viewing_check": "Check chuck retains chisels, piston action sound, air inlet thread, any maker plate or model code under the handle, wear on chisel tips. Cannot test without air.",
  "chrome_done": true
 }

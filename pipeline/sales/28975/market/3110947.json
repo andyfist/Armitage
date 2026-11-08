@@ -1,7 +1,7 @@
 {
  "cdid": 3110947,
  "lot": 685,
- "identification": "Kamikoto Chuka Bocho Chinese-style cleaver in wooden presentation box with certificate of authenticity and card, appears complete",
+ "identification": "Kamikoto Chuka Bocho cleaver in branded box with COA.",
  "entries": [
   {
    "kind": "ASKING",
@@ -58,12 +58,24 @@
    "same_item": "yes",
    "note": "Chuka Bocho Cleaver listing, brand new; price displayed as range so exact paid price not shown, lower end used",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$190.94",
+   "currency": "AUD",
+   "aud_price": 190.94,
+   "date": "2026-09-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/235626087186",
+   "same_item": "yes",
+   "note": "Kamikoto Chuka Bocho Cleaver listing; same model; condition/boxed status not verified; only one sold cleaver found",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed with a TypeError; work/comps.py with 'kamikoto' returned no sales); Gowans API 'kamikoto' returned nothing; WebSearch for Kamikoto cleaver sold, site:armitage.bidsonline.com.au Kamikoto (no past Armitage lots found), Kamikoto Australia second hand. No SOLD or UNSOLD auction results found. eBay sold listings would settle it (eBay is closed to us). | chrome: eBay AU sold 'kamikoto cleaver' (1 result), 'kamikoto knife' (other Kamikoto items only: sets A$85, used knives A$160, not same item). | chrome: eBay AU sold 'kamikoto cleaver' (1 result), 'kamikoto knife' (other Kamikoto items only: sets A$85, used knives A$160, not same item).",
+ "searches_tried": "comps.py (pipeline version crashed with a TypeError; work/comps.py with 'kamikoto' returned no sales); Gowans API 'kamikoto' returned nothing; WebSearch for Kamikoto cleaver sold, site:armitage.bidsonline.com.au Kamikoto (no past Armitage lots found), Kamikoto Australia second hand. No SOLD or UNSOLD auction results found. eBay sold listings would settle it (eBay is closed to us). | chrome: eBay AU sold 'kamikoto cleaver' (1 result), 'kamikoto knife' (other Kamikoto items only: sets A$85, used knives A$160, not same item). | chrome: eBay AU sold 'kamikoto cleaver' (1 result), 'kamikoto knife' (other Kamikoto items only: sets A$85, used knives A$160, not same item). | chrome: eBay AU sold x2 (kamikoto cleaver; kamikoto knife). Other Kamikoto sold items were sets, whetstones, a santoku (~A$85-160), not the same item.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold listings: Kamikoto Chuka Bocho cleaver (also eBay.com.au sold, Kamikoto cleaver)",
- "viewing_check": "Check blade for chips or rust, handle fit, that box, certificate and card are all present, and whether it has been used or sharpened. Confirm it is genuine Kamikoto (logo on blade).",
+ "viewing_check": "Check box, COA and card present, blade for use/chips, handle for cracks.",
  "rate_note": "1 USD = 1.53 AUD assumed",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3110903,
  "lot": 640,
- "identification": "Studio Anna small round dish, dark glaze with sgraffito thylacine and 'Hobart' inscription, white rim (from earlier research; photos not re-checked this pass)",
+ "identification": "Studio Anna small round dish with sgraffito thylacine, inscribed Hobart, worn base label.",
  "entries": [
   {
    "kind": "SOLD",
@@ -104,11 +104,23 @@
    "same_item": "category guide",
    "note": "Studio Anna NZ kiwi dish, Buy It Now, plus A$10 postage. Ordinary subject",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-11-01",
+   "venue": "eBay AU sold",
+   "url": "https://www.ebay.com.au/itm/800823520075",
+   "same_item": "category guide",
+   "note": "Studio Anna souvenir dish kangaroo Perth; no thylacine",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); work/comps.py thylacine dish and anna studio: no sales found. Gowans API: thylacine dish, anna studio, thylacine, studio anna, tasmanian tiger, thylacine pottery/ashtray/pin dish. WebSearch: Studio Anna thylacine sgraffito, site:armitage thylacine dish, Studio Anna thylacine sold, vintage thylacine souvenir pin dish, Studio Anna thylacine price. No same-item sale found. Carters and eBay blocked. eBay sold listings for 'Studio Anna thylacine' or 'Studio Anna Tasmania tiger' would settle it. | chrome: eBay AU sold: studio anna pin dish (three same-maker guides). Searches including 'thylacine' and 'tasmanian tiger' hit eBay error pages three times. Earlier Gowans comps not re-opened. | chrome: eBay AU sold: studio anna pin dish (three same-maker guides). Searches including 'thylacine' and 'tasmanian tiger' hit eBay error pages three times. Earlier Gowans comps not re-opened. | chrome: eBay AU sold: studio anna pin dish (three same-maker guides). Searches including 'thylacine' and 'tasmanian tiger' hit eBay error pages three times. Earlier Gowans comps not re-opened. | chrome: Terapeak eBay AU sold, last 2 years: 'studio anna thylacine' - no matching sales",
+ "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); work/comps.py thylacine dish and anna studio: no sales found. Gowans API: thylacine dish, anna studio, thylacine, studio anna, tasmanian tiger, thylacine pottery/ashtray/pin dish. WebSearch: Studio Anna thylacine sgraffito, site:armitage thylacine dish, Studio Anna thylacine sold, vintage thylacine souvenir pin dish, Studio Anna thylacine price. No same-item sale found. Carters and eBay blocked. eBay sold listings for 'Studio Anna thylacine' or 'Studio Anna Tasmania tiger' would settle it. | chrome: eBay AU sold: studio anna pin dish (three same-maker guides). Searches including 'thylacine' and 'tasmanian tiger' hit eBay error pages three times. Earlier Gowans comps not re-opened. | chrome: eBay AU sold: studio anna pin dish (three same-maker guides). Searches including 'thylacine' and 'tasmanian tiger' hit eBay error pages three times. Earlier Gowans comps not re-opened. | chrome: eBay AU sold: studio anna pin dish (three same-maker guides). Searches including 'thylacine' and 'tasmanian tiger' hit eBay error pages three times. Earlier Gowans comps not re-opened. | chrome: Terapeak eBay AU sold, last 2 years: 'studio anna thylacine' - no matching sales | chrome: eBay AU sold 'studio anna thylacine' (no thylacine items sold, Studio Anna dishes A$16-54); 'tasmanian tiger thylacine pottery dish' returned error page.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold/completed: Studio Anna thylacine dish; Studio Anna Tasmania tiger; vintage thylacine pin dish Hobart",
- "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "viewing_check": "Confirm thylacine image quality, Hobart inscription, chips/crazing, label on base. Thylacine subject is the only upside.",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3111106,
  "lot": 844,
- "identification": "Pooley 'Cooinda Vale' 2017 Single Vineyard Pinot Noir magnum (1.5 L), dark red capsule, label '2017 Single Vineyard Pinot Noir ... Coal River Valley, Estate grown & bottled'. The place name before Coal River Valley is too small to read; Cooinda Vale is at Campania per Langtons. In the same branded Pooley pine box with straw.",
+ "identification": "Pooley Cooinda Vale Pinot Noir 1.5L magnum, numbered 55/72, pine presentation box (per cloud research; photos not re-viewed)",
  "entries": [
   {
    "kind": "ASKING",
@@ -136,11 +136,47 @@
    "note": "The release price. The page shows an internal counter 'total_sales: 77' for this wine.",
    "same_item_raw": "close",
    "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$750",
+   "currency": "AUD",
+   "aud_price": 750,
+   "date": "2026-11-08",
+   "venue": "The Reserve Cellar (retail, vintage 2023 magnum 1.5L, per Google snippet)",
+   "url": "https://www.reservecellar.com.au/products/pooley-cooinda-vale-pinot-noir-2023 (URL truncated in Google snippet, path not verified)",
+   "same_item": "no",
+   "note": "Different vintage (2023); retail asking, not sold. Snippet only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$558",
+   "currency": "AUD",
+   "aud_price": 558,
+   "date": "2026-11-08",
+   "venue": "Stout Stream (retail, Cooinda Vale Pinot Noir magnum 1500ml, vintage not shown for the magnum)",
+   "url": "https://www.stoutstream.com (Pinot Noir category; exact product URL not captured)",
+   "same_item": "no",
+   "note": "Retail asking, 'original price' per snippet; vintage unclear.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$489.99",
+   "currency": "AUD",
+   "aud_price": 489.99,
+   "date": "2026-11-08",
+   "venue": "Wine List Australia (Pooley Cooinda Vale 1.5L magnum)",
+   "url": "https://winelistaustralia.com.au (search snippet; exact product URL not captured)",
+   "same_item": "no",
+   "note": "Retail asking, vintage not shown; snippet text garbled ($489.99/$5879.00 likely per bottle / per case).",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (both databases) pooley/cooinda/magnum: no hits. Gowans API pooley cooinda/pinot/magnum: only an unrelated 4-bottle mixed lot. WebSearch x3 (magnum price, site:armitage, auction sold): no past auction result for a Pooley magnum found. eBay and Wine-Searcher closed; eBay sold or Langtons past results would help. No SOLD comps found. Rates all AUD. | chrome: eBay AU sold: pooley cooinda vale pinot noir; pooley pinot noir magnum (nothing). Google: only an AI overview estimate (not a recorded sale, ignored), results not readable (blocked). Langtons not reached. | chrome: Terapeak eBay AU sold, last 2 years: 'pooley cooinda vale magnum' - no matching sales | chrome: Shared with lot 838 (see there). Specific to 844: 'Pooley Cooinda Vale pinot noir 2017 magnum' (extended); 'Pooley Cooinda Vale Pinot Noir 2017 auction sold Langtons/Grays/Wickmans/Oz Wine Auctions' (extended); The Real Review Cooinda Vale brand page and 2017 page (paywalled); Halliday 2017 page (paywalled); CellarTracker 2014 and 2017 pages; Wine-Searcher 2017 page; Langtons 2017 bottle page.",
+ "searches_tried": "comps.py (both databases) pooley/cooinda/magnum: no hits. Gowans API pooley cooinda/pinot/magnum: only an unrelated 4-bottle mixed lot. WebSearch x3 (magnum price, site:armitage, auction sold): no past auction result for a Pooley magnum found. eBay and Wine-Searcher closed; eBay sold or Langtons past results would help. No SOLD comps found. Rates all AUD. | chrome: eBay AU sold: pooley cooinda vale pinot noir; pooley pinot noir magnum (nothing). Google: only an AI overview estimate (not a recorded sale, ignored), results not readable (blocked). Langtons not reached. | chrome: Terapeak eBay AU sold, last 2 years: 'pooley cooinda vale magnum' - no matching sales | chrome: Shared with lot 838 (see there). Specific to 844: 'Pooley Cooinda Vale pinot noir 2017 magnum' (extended); 'Pooley Cooinda Vale Pinot Noir 2017 auction sold Langtons/Grays/Wickmans/Oz Wine Auctions' (extended); The Real Review Cooinda Vale brand page and 2017 page (paywalled); Halliday 2017 page (paywalled); CellarTracker 2014 and 2017 pages; Wine-Searcher 2017 page; Langtons 2017 bottle page. | chrome: Langtons site search (retail only, 750ml 2024 at A$90; no magnum or past auction result), Google 'Pooley Cooinda Vale Pinot Noir magnum 1.5L price' (asking prices only). No SOLD evidence.",
  "needs_chrome": false,
  "chrome_hint": "Langtons past auction results: Pooley Cooinda Vale magnum 1.5L; also eBay sold: Pooley Cooinda Vale magnum 1.5L pinot noir",
- "viewing_check": "1) Confirm where the 55/72 is marked and whether lots 838 and 844 come with matching paperwork. 2) Check fill and capsule for seepage, and whether the magnum is cork or screw cap (the 750 ml was screw cap). 3) Ask about storage. On drinking, the most recent 750 ml note (Feb 2026) puts it near its peak, and a magnum should be a little behind that.",
+ "viewing_check": "Confirm vintage, fill level, label/box condition, number 55/72 on label. Retail magnums of this wine are asked at A$490-750; no auction sold price found.",
  "chrome_done": true
 }

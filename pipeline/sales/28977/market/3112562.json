@@ -1,7 +1,7 @@
 {
  "cdid": 3112562,
  "lot": 1535,
- "identification": "Large framed display: red Stratocaster-style electric guitar (Squier type) with faint signatures on the scratchplate, a U2 Joshua Tree LP and sleeve, a band photo and two plaques on blue mount in a silver frame (from earlier research; photos not re-checked this pass)",
+ "identification": "Framed display with red Squier Stratocaster-style guitar with several faint scratchplate signatures, LP, photo, plaques, Helping Hand Group COA.",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,12 +46,36 @@
    "url": "https://carters.com.au/index.cfm/item/1336544-paul-mccartney-signature-on-fender-squier-guitar-framed-and-glaz",
    "same_item": "category guide",
    "note": "Snippet only, page returned 429. Price not seen, so unverified and no value taken from it. Worth checking in Chrome."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$4,368.71",
+   "currency": "AUD",
+   "aud_price": 4368.71,
+   "date": "2026-10-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/295755763916",
+   "same_item": "no",
+   "note": "Bono-signed Epiphone guitar with JSA and BAS authentication; category guide only, third-party authenticated single signer, unframed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$799.33",
+   "currency": "AUD",
+   "aud_price": 799.33,
+   "date": "2026-10-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/385602456322",
+   "same_item": "no",
+   "note": "titled 'Facsimile' autographed graphics photo guitar, so printed signatures; category guide for unauthenticated look-alike",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on a None; work version: U2 signed, signed guitar framed; no guitar hits); Gowans API for U2 signed guitar, signed guitar framed, Helping Hand, Squier signed framed (no sold hits); 3 WebSearches (U2 framed guitar Helping Hand; armitage site guitar framed; U2 Squier Strat Joshua Tree); fetched RR Auction, Cash Converters, Carters (429). No same-item result found. eBay sold listings for 'U2 signed guitar framed Helping Hand' would settle it best. | chrome: eBay AU sold: u2 signed guitar, u2 signed guitar framed, u2 autographed guitar (all returned an eBay error page, apparently throttled, so no results); ebay.com worldwide showed a sign-in wall, skipped. No new evidence; earlier Gowans A$260 and RR Auction 2013 comps not re-recorded. | chrome: eBay AU sold: u2 signed guitar, u2 signed guitar framed, u2 autographed guitar (all returned an eBay error page, apparently throttled, so no results); ebay.com worldwide showed a sign-in wall, skipped. No new evidence; earlier Gowans A$260 and RR Auction 2013 comps not re-recorded. | chrome: eBay AU sold: u2 signed guitar, u2 signed guitar framed, u2 autographed guitar (all returned an eBay error page, apparently throttled, so no results); ebay.com worldwide showed a sign-in wall, skipped. No new evidence; earlier Gowans A$260 and RR Auction 2013 comps not re-recorded. | chrome: Terapeak eBay AU sold, last 2 years: 'u2 signed guitar' (min $100)",
+ "searches_tried": "comps.py (pipeline version crashed on a None; work version: U2 signed, signed guitar framed; no guitar hits); Gowans API for U2 signed guitar, signed guitar framed, Helping Hand, Squier signed framed (no sold hits); 3 WebSearches (U2 framed guitar Helping Hand; armitage site guitar framed; U2 Squier Strat Joshua Tree); fetched RR Auction, Cash Converters, Carters (429). No same-item result found. eBay sold listings for 'U2 signed guitar framed Helping Hand' would settle it best. | chrome: eBay AU sold: u2 signed guitar, u2 signed guitar framed, u2 autographed guitar (all returned an eBay error page, apparently throttled, so no results); ebay.com worldwide showed a sign-in wall, skipped. No new evidence; earlier Gowans A$260 and RR Auction 2013 comps not re-recorded. | chrome: eBay AU sold: u2 signed guitar, u2 signed guitar framed, u2 autographed guitar (all returned an eBay error page, apparently throttled, so no results); ebay.com worldwide showed a sign-in wall, skipped. No new evidence; earlier Gowans A$260 and RR Auction 2013 comps not re-recorded. | chrome: eBay AU sold: u2 signed guitar, u2 signed guitar framed, u2 autographed guitar (all returned an eBay error page, apparently throttled, so no results); ebay.com worldwide showed a sign-in wall, skipped. No new evidence; earlier Gowans A$260 and RR Auction 2013 comps not re-recorded. | chrome: Terapeak eBay AU sold, last 2 years: 'u2 signed guitar' (min $100) | chrome: eBay AU sold 'signed u2 guitar' (9 results): above plus small items; first query returned nothing.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: 'U2 signed guitar framed' and 'Helping Hand Group signed guitar framed certificate'; also Carters McCartney Squier lot price realised",
- "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "viewing_check": "Count and read each signature (Bono, Edge, Adam, Larry), compare with known examples, check the Helping Hand COA number 16575 and whether the plaque wording says signed in person.",
  "rate_note": "USD to AUD 1.52 assumed (approx, not looked up).",
  "chrome_done": true
 }

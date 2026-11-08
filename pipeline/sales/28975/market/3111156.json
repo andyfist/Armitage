@@ -1,7 +1,7 @@
 {
  "cdid": 3111156,
  "lot": 894,
- "identification": "1910 Edward VII florin, shilling, sixpence and threepence in flips. Grade from the single photo: roughly VF to EF, bright and possibly cleaned; one photo at 800px is not enough to grade.",
+ "identification": "Four 1910 Edward VII Australian silver coins (florin, shilling, sixpence, threepence) in staples flips; bright, florin date 1910 legible, probably VF to EF, may be cleaned.",
  "entries": [
   {
    "kind": "SOLD",
@@ -302,12 +302,36 @@
    "note": "Seller says VG. eBay AU via Terapeak (Seller Hub Research, 3-year window); avg sold price, postage excluded; grade is the seller's own unless graded.",
    "same_item_raw": "yes (complete 1910 set)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,700",
+   "currency": "AUD",
+   "aud_price": 1700,
+   "date": "2025-11-28",
+   "venue": "Noble Numismatics Sale 140 lot 1003 (25-28 Nov 2025)",
+   "url": "https://www.noble.com.au/auctions/lot/?id=436039",
+   "same_item": "no",
+   "note": "Category guide only: single 1910 florin, full mint bloom, UNCIRCULATED. Different grade (much higher)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,200",
+   "currency": "AUD",
+   "aud_price": 1200,
+   "date": "2025-11-28",
+   "venue": "Noble Sale 140 lot 1004",
+   "url": "https://www.noble.com.au/auctions/lot/?id=436040",
+   "same_item": "no",
+   "note": "Category guide only: single 1910 florin, uncirculated, est $1,250",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py (crashed on a null field); work/comps.py (florin 1910, threepence 1910, type set, coin set silver); Gowans API (1910 florin, shilling, sixpence, edward vii silver, type set); 2 WebSearches (1910 four-coin set results; Noble Numismatics). No direct Armitage or Noble sold result for a matched 1910 four-coin set found. Noble Auction 122 (Nov 2019) mixed lot with 1910 set noted by snippet but price not tied. eBay sold would help settle it. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: WebSearch for Noble 1910 florin/shilling/sixpence/threepence sets; read 5 Noble lot pages from the results, none was a 1910 Edward VII four-coin set. Nothing comparable found. | chrome: WebSearch for Noble 1910 florin/shilling/sixpence/threepence sets; read 5 Noble lot pages from the results, none was a 1910 Edward VII four-coin set. Nothing comparable found. | chrome: WebSearch for Noble 1910 florin/shilling/sixpence/threepence sets; read 5 Noble lot pages from the results, none was a 1910 Edward VII four-coin set. Nothing comparable found. | chrome: Noble 1910 in Florins/Shillings/Sixpences/Threepences categories (Sales 137-142; mostly UNC grades). Downies '1910' Sales 358-362. eBay AU sold '1910 florin australia', '1910 shilling australia'. Terapeak (3 years) also searched.",
+ "searches_tried": "pipeline comps.py (crashed on a null field); work/comps.py (florin 1910, threepence 1910, type set, coin set silver); Gowans API (1910 florin, shilling, sixpence, edward vii silver, type set); 2 WebSearches (1910 four-coin set results; Noble Numismatics). No direct Armitage or Noble sold result for a matched 1910 four-coin set found. Noble Auction 122 (Nov 2019) mixed lot with 1910 set noted by snippet but price not tied. eBay sold would help settle it. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: eBay AU sold: 1910 florin shilling sixpence threepence set (florin and trio comps above; no full four-coin 1910 set seen). Noble archive not tried. | chrome: WebSearch for Noble 1910 florin/shilling/sixpence/threepence sets; read 5 Noble lot pages from the results, none was a 1910 Edward VII four-coin set. Nothing comparable found. | chrome: WebSearch for Noble 1910 florin/shilling/sixpence/threepence sets; read 5 Noble lot pages from the results, none was a 1910 Edward VII four-coin set. Nothing comparable found. | chrome: WebSearch for Noble 1910 florin/shilling/sixpence/threepence sets; read 5 Noble lot pages from the results, none was a 1910 Edward VII four-coin set. Nothing comparable found. | chrome: Noble 1910 in Florins/Shillings/Sixpences/Threepences categories (Sales 137-142; mostly UNC grades). Downies '1910' Sales 358-362. eBay AU sold '1910 florin australia', '1910 shilling australia'. Terapeak (3 years) also searched. | chrome: Noble q='1910 florin' Sales 142, 141, 140. No set of the four 1910 coins found; no lower-grade 1910 florin sale found in the 24 months. eBay not searched yet (throttled).",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: 1910 Australia florin shilling sixpence threepence set; also noble.com.au prices realised, auction 122 (Nov 2019), search 1910 florin",
  "rate_note": "1 GBP = 2.0 AUD, 1 USD = 1.53 AUD (approximate, assumed)",
- "viewing_check": "Grade each coin under a loupe, florin first (it carries most of the value: EF about A$450-500, VF far less, low grades A$30-80). Check for cleaning/hairlines on the bright surfaces. No complete four-coin 1910 sets found sold. Terapeak shows complete 1910 four-coin sets in unstated/low grade selling for only A$50-85, so this lot is only worth more if the florin is genuinely EF.",
+ "viewing_check": "Verify the 1910 date on shilling, sixpence, threepence (only the florin date is visible), grade of each, whether cleaned or polished (bright look), and edge marks. Value depends on grade; high-grade 1910 florin alone is four figures, circulated ones much less.",
  "chrome_done": true
 }

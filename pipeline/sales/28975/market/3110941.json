@@ -1,7 +1,7 @@
 {
  "cdid": 3110941,
  "lot": 679,
- "identification": "A Leechbook or Collection of Medical Recipes of the Fifteenth Century, W. R. Dawson, Macmillan 1934, cloth with a torn and browned dust jacket partly detached. (from earlier research; photos not re-checked this pass)",
+ "identification": "Warren R. Dawson, A Leechbook or Collection of Medical Recipes of the Fifteenth Century, Macmillan 1934, cloth with torn jacket pieces.",
  "entries": [
   {
    "kind": "ASKING",
@@ -37,12 +37,24 @@
    "same_item": "yes",
    "note": "1934 Leechbook listing, condition and jacket not checked. Dealer asking price. Converted at approx rate 1 USD = 1.53 AUD.",
    "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$95.00 + US$52.50 post",
+   "currency": "USD",
+   "aud_price": 146.3,
+   "date": "2026-11-08",
+   "venue": "AbeBooks (Scientia Books, ABAA)",
+   "url": "https://www.abebooks.com/first-edition/Leechbook-Collection-Medical-Recipes-Fifteenth-Century/216601030/bd",
+   "same_item": "yes",
+   "note": "first edition, near fine WITH dust jacket; this lot's jacket is torn in pieces so worth less [Merge flag: USD not converted, aud_price left null.] [converted at USD 1.54; item price only]",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); work/comps.py found nothing for leechbook, dawson medical, leech book; Gowans API search 'leechbook' returned no lots; WebSearch x3 (price/jacket, site:armitage, abebooks); WebFetch of Pemberley (opened), ABAA and Biblio (403); AbeBooks search page returned only modern reprints. No SOLD or UNSOLD comp found. eBay sold listings and AbeBooks/ABPC would settle it. Book rule: niche specialist title, first edition likely modest value. | chrome: eBay AU sold: dawson leechbook 1934 (no sales of the book); AbeBooks 1934 Dawson Leechbook (2 asking listings, US$95 and US$69.30). No sold prices seen. This is a modest value title, so no more searches. | chrome: eBay AU sold: dawson leechbook 1934 (no sales of the book); AbeBooks 1934 Dawson Leechbook (2 asking listings, US$95 and US$69.30). No sold prices seen. This is a modest value title, so no more searches. | chrome: eBay AU sold: dawson leechbook 1934 (no sales of the book); AbeBooks 1934 Dawson Leechbook (2 asking listings, US$95 and US$69.30). No sold prices seen. This is a modest value title, so no more searches. | chrome: Terapeak eBay AU sold, last 2 years: 'leechbook dawson' - no matching sales",
+ "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); work/comps.py found nothing for leechbook, dawson medical, leech book; Gowans API search 'leechbook' returned no lots; WebSearch x3 (price/jacket, site:armitage, abebooks); WebFetch of Pemberley (opened), ABAA and Biblio (403); AbeBooks search page returned only modern reprints. No SOLD or UNSOLD comp found. eBay sold listings and AbeBooks/ABPC would settle it. Book rule: niche specialist title, first edition likely modest value. | chrome: eBay AU sold: dawson leechbook 1934 (no sales of the book); AbeBooks 1934 Dawson Leechbook (2 asking listings, US$95 and US$69.30). No sold prices seen. This is a modest value title, so no more searches. | chrome: eBay AU sold: dawson leechbook 1934 (no sales of the book); AbeBooks 1934 Dawson Leechbook (2 asking listings, US$95 and US$69.30). No sold prices seen. This is a modest value title, so no more searches. | chrome: eBay AU sold: dawson leechbook 1934 (no sales of the book); AbeBooks 1934 Dawson Leechbook (2 asking listings, US$95 and US$69.30). No sold prices seen. This is a modest value title, so no more searches. | chrome: Terapeak eBay AU sold, last 2 years: 'leechbook dawson' - no matching sales | chrome: eBay AU sold 'dawson leechbook 1934': none. AbeBooks 60 results: ASKING US$34-95 for hardcovers, reprints ~US$38-56 new. No SOLD found. Low value title. [Removed at merge, URL is a search-results page, no individual listing captured: ASKING US$34.11 + US$35.00 post AbeBooks (Books From California) 2026-11-08 https://www.abebooks.com/servlet/SearchResults?an=dawson&tn=leechbook&sortby=17 (hardcover 1934, very good, appears to be a print-on-demand/reprint-era ISBN listing; page URL is search results)] [Removed at merge, URL is a search-results page, no individual listing captured: ASKING US$68.77 + US$30.91 post AbeBooks (Marrins Bookshop, UK) 2026-11-08 https://www.abebooks.com/servlet/SearchResults?an=dawson&tn=leechbook&sortby=17 (used 1934 hardcover, jacket not stated; page URL is search results)]",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: Dawson \"A Leechbook\" 1934 Macmillan; AbeBooks: author Dawson title Leechbook, filter first edition, with and without dust jacket, note prices",
- "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "viewing_check": "Confirm Macmillan 1934 title page (not a reprint); describe jacket state and any ownership marks.",
  "rate_note": "No prices recorded so no conversion used.",
  "chrome_done": true
 }
