@@ -1,7 +1,7 @@
 {
  "cdid": 3111182,
  "lot": 920,
- "identification": "Album sheet of 27 Australian shillings: about 10 coat-of-arms (sterling) and 17 ram head (.500), circulated.",
+ "identification": "One sheet of about 35 Australian shillings. Photo viewed; dates not readable.",
  "entries": [
   {
    "kind": "SOLD",
@@ -148,12 +148,48 @@
    "same_item": "partial",
    "note": "Mixed sixpence and shilling silver lot, small",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.32",
+   "currency": "AUD",
+   "aud_price": 53.32,
+   "date": "2025-02-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225589344993",
+   "same_item": "partial",
+   "note": "10 x shillings 1946-1963, 50% silver.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.40",
+   "currency": "AUD",
+   "aud_price": 95.4,
+   "date": "2024-03-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116047358567",
+   "same_item": "partial",
+   "note": "20 shillings 1946-1963 mixed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$260.89",
+   "currency": "AUD",
+   "aud_price": 260.89,
+   "date": "2025-12-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326882219528",
+   "same_item": "partial",
+   "note": "8 pre-1946 sterling florins etc (different coin).",
+   "via": "chrome"
   }
  ],
  "rate_note": "Gowans prices are AUD hammer. Silver USD 51.50/oz at 2026-11-06 (gold-api.com); AUD rate assumed 0.66 USD, unchecked. Pattern: sheets and bags of mixed Australian shillings at Gowans mostly hammer $40-$130 with one outlier at $475; melt about $250 suggests the 27 coins are worth roughly $120-250 unless a key date shows.",
- "searches_tried": "comps.py (pipeline and work) x3; Gowans API searches 'shillings' and 'silver shillings'; one WebSearch for Australian shilling auction results (only overseas single coin hits, none used); Noble results via local DB. eBay sold for 'Australian shillings lot' would help but is closed to us. Armitage past results not searched. | chrome: eBay AU sold: australian shillings silver lot coins sheet (AU only) | chrome: eBay AU sold: australian shillings silver lot coins sheet (AU only)",
+ "searches_tried": "comps.py (pipeline and work) x3; Gowans API searches 'shillings' and 'silver shillings'; one WebSearch for Australian shilling auction results (only overseas single coin hits, none used); Noble results via local DB. eBay sold for 'Australian shillings lot' would help but is closed to us. Armitage past results not searched. | chrome: eBay AU sold: australian shillings silver lot coins sheet (AU only) | chrome: eBay AU sold: australian shillings silver lot coins sheet (AU only) | chrome: Terapeak AU 'australian silver shillings bulk lot' (50 rows).",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Count coins and sort by year: pre-1946 sterling vs ram type; look for key dates (1916M, 1923, 1924, 1932 etc.) and any with better grade.",
+ "viewing_check": "Armitage est $240-300, no bids, next $140 (landed ~A$171). Check dates; 1946-63 shillings sell ~A$5 each.",
  "chrome_done": true
 }

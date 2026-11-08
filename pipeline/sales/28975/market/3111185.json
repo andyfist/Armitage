@@ -1,7 +1,7 @@
 {
  "cdid": 3111185,
  "lot": 923,
- "identification": "Eight 1954 Royal Visit florins, circulated, 50% silver (about 45 g fine silver).",
+ "identification": "Eight Australian florins (shown with kangaroo reverse and Queen portrait, 1954 Royal Visit/.500 silver). Photo viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -127,12 +127,48 @@
    "note": "10 x 1954 florins. eBay AU sold; grade is the seller's own unless graded; postage extra.",
    "same_item_raw": "no (10 coins)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$15.18",
+   "currency": "AUD",
+   "aud_price": 15.18,
+   "date": "2025-12-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167054228524",
+   "same_item": "close",
+   "note": "1954 florin .500 silver.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$10.55",
+   "currency": "AUD",
+   "aud_price": 10.55,
+   "date": "2025-12-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/136409499900",
+   "same_item": "close",
+   "note": "1954 Royal Visit florin.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$9.46",
+   "currency": "AUD",
+   "aud_price": 9.46,
+   "date": "2024-05-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116053802321",
+   "same_item": "close",
+   "note": "1954 vintage florin.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with florin 1954, florins 1954, florin silver lot. Found Armitage's own sale 28712 lot 895 with the identical title at A$110. Did not run web searches or melt check because the local results already agree tightly (about A$12-15 per coin in lots of 8-12, about A$1.20 per gram in bulk). eBay Terapeak sold already in local data. Melt is a floor only (about 45g fine silver); no spot price fetched. | chrome: eBay AU sold '8 x 1954 florins'.",
+ "searches_tried": "comps.py (pipeline and work) with florin 1954, florins 1954, florin silver lot. Found Armitage's own sale 28712 lot 895 with the identical title at A$110. Did not run web searches or melt check because the local results already agree tightly (about A$12-15 per coin in lots of 8-12, about A$1.20 per gram in bulk). eBay Terapeak sold already in local data. Melt is a floor only (about 45g fine silver); no spot price fetched. | chrome: eBay AU sold '8 x 1954 florins'. | chrome: Terapeak AU 'australian florin 1954 silver' (50 rows).",
  "needs_chrome": false,
  "chrome_hint": " Bidder signal: 266642 - Howrah, (coins and banknotes specialist, seen in 12 sales). Look harder for sold prices of this exact item.",
- "viewing_check": "Nothing beyond counting the coins.",
+ "viewing_check": "Armitage est $70-100, current bid $45, next $50 (landed ~A$61). Common coins.",
  "rate_note": "All prices already AUD, no conversion.",
  "lot_note": "Blind score 4/10 stands: recent identical lot sold A$110 hammer.",
  "chrome_done": true

@@ -1,7 +1,7 @@
 {
  "cdid": 3112525,
  "lot": 1497,
- "identification": "Cast iron farm/school bell on swivel yoke with wall bracket, acorn finial, black paint (repainted look); photo consistent, bell about 30cm (from earlier research; photos not re-checked this pass)",
+ "identification": "Cast iron school/farm bell on cast bracket, H-50 D-30 cm, with rope clapper (4 photos viewed). Looks like a US-style yoke-less wall-mount farm bell, no maker mark seen. ",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,12 +79,48 @@
    "url": "https://www.invaluable.com/auction-lot/antique-cast-iron-school-bell-and-mounting-bracket-2004-c-9b64e1f8d7",
    "same_item": "category guide",
    "note": "Snippet only, estimate midpoint at 1.54, final price not seen."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$86.03",
+   "currency": "AUD",
+   "aud_price": 86.03,
+   "date": "2026-08-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/264708629398",
+   "same_item": "partial",
+   "note": "Cast iron wall bracket bell (Golden Fleece), 4 sold, much smaller",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45.15",
+   "currency": "AUD",
+   "aud_price": 45.15,
+   "date": "2026-04-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157786109624",
+   "same_item": "partial",
+   "note": "Antique cow bell, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$41.79",
+   "currency": "AUD",
+   "aud_price": 41.79,
+   "date": "2025-03-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/285554351348",
+   "same_item": "partial",
+   "note": "83cm cast iron rooster bell, 4 sold",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py (crashed on null field), work/comps.py x5 (cast iron bell, bell bracket, farm bell, dinner bell, school bell); Gowans API x3; WebSearch Armitage past results and general farm/school bell. eBay sold prices for 'cast iron farm bell yoke bracket' Australia would help settle it. | chrome: eBay AU sold: cast iron farm bell yoke bracket; cast iron school bell yoke (both eBay error page, throttled). Nothing found. | chrome: eBay AU sold: cast iron farm bell yoke bracket; cast iron school bell yoke (both eBay error page, throttled). Nothing found. | chrome: Terapeak eBay AU sold, last 2 years: 'cast iron bell bracket' (min $80) - no matching sales",
+ "searches_tried": "pipeline comps.py (crashed on null field), work/comps.py x5 (cast iron bell, bell bracket, farm bell, dinner bell, school bell); Gowans API x3; WebSearch Armitage past results and general farm/school bell. eBay sold prices for 'cast iron farm bell yoke bracket' Australia would help settle it. | chrome: eBay AU sold: cast iron farm bell yoke bracket; cast iron school bell yoke (both eBay error page, throttled). Nothing found. | chrome: eBay AU sold: cast iron farm bell yoke bracket; cast iron school bell yoke (both eBay error page, throttled). Nothing found. | chrome: Terapeak eBay AU sold, last 2 years: 'cast iron bell bracket' (min $80) - no matching sales | chrome: Google/WebSearch identification pass. Terapeak AU 3yr: cast iron school bell bracket (1 row); cast iron farm bell (20 rows, all small/new). Photos 1-4 viewed.",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: cast iron farm bell yoke bracket",
- "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "viewing_check": "Armitage est $150-250, bid $220 already. Heavy. Terapeak shows only small decorative bells; no matching 50 cm school bell found, so no support for the current bid.",
  "rate_note": "USD to AUD 1.54 assumed; Gowans hammers exclude premium.",
  "chrome_done": true
 }

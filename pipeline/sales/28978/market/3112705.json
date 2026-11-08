@@ -103,12 +103,24 @@
    "same_item": "category guide",
    "note": "heavy cast iron bird feeder bird bath yin yang, new",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$34",
+   "currency": "AUD",
+   "aud_price": 34,
+   "date": "2026-10-10",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/176704466445",
+   "same_item": "category guide",
+   "note": "Garden bird bath bronze plastic 60x43cm (new, different type)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for bird bath, cast iron bird bath, metal bird bath. Generic item so web search skipped. eBay sold would not change much. | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: cast iron bird bath pedestal (errored), cast iron bird bath",
+ "searches_tried": "comps.py (pipeline and work) for bird bath, cast iron bird bath, metal bird bath. Generic item so web search skipped. eBay sold would not change much. | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: cast iron bird bath pedestal (errored), cast iron bird bath | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: cast iron bird bath pedestal (errored), cast iron bird bath || Terapeak re-check: Terapeak AU: bird bath",
  "needs_chrome": false,
  "chrome_hint": " Bidder signal: 81791 - Longford , TAS (seen in 65 sales); 135397 - Longford, TAS (seen in 126 sales); 142868 - Perth, (seen in 18 sales); 221336 - Rocherlea, (seen in 24 sales); 248847 - Lilydale, (seen in 21 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
- "viewing_check": "Low value. [Armitage page 8 Nov 2026: estimate $10-20, current bid $40. Photos viewed (about 400px, low resolution): cast bird bath on pale green pedestal with perched bird, rusted bowl, tag attached]",
+ "viewing_check": "Low value. [Armitage page 8 Nov 2026: estimate $10-20, current bid $40. Photos viewed (about 400px, low resolution): cast bird bath on pale green pedestal with perched bird, rusted bowl, tag attached] || TERAPEAK RE-CHECK (9 Nov 2026): Terapeak AU \"bird bath\": no cast iron pedestal bird bath sales (200 rows, small pet/garden baths A$9-34).",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

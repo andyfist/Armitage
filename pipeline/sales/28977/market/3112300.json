@@ -1,7 +1,7 @@
 {
  "cdid": 3112300,
  "lot": 1628,
- "identification": "Tray of ~9-10 used cricket bats (Gray-Nicolls, Kookaburra, adidas etc), one team-signed Boon Testimonial bat, 2 helmets, stumps bag",
+ "identification": "Tray of cricket bats (Gray-Nicolls and others) including a team-signed bat (the lot says David Boon testimonial match bat), 2 cricket helmets (green and navy), pads/guards in a bag. All 3 photos viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -113,11 +113,35 @@
    "same_item": "partial",
    "note": "Gray-Nicolls Ultimate 300 David Boon vintage player-model bat, not signed; different item, shows Boon name interest only",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$232.43",
+   "currency": "AUD",
+   "aud_price": 232.43,
+   "date": "2025-04-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/185551579941",
+   "same_item": "partial",
+   "note": "Signed David Boon Gray-Nicolls mini bat",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$115.96",
+   "currency": "AUD",
+   "aud_price": 115.96,
+   "date": "2025-12-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157469764290",
+   "same_item": "partial",
+   "note": "2 signed mini bats Boon and Martyn",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline, work) for david boon signed bat, signed cricket bat, cricket bats; Gowans API for cricket bats, cricket helmet, david boon. No web search done; lot is a mixed used-sports lot. eBay sold for 'David Boon testimonial signed bat' would settle the signed bat premium but is a minor part. | chrome: eBay AU sold: david boon signed cricket bat (no testimonial team bat sold; rest memorabilia cards/prints) | chrome: eBay AU sold: david boon signed cricket bat (no testimonial team bat sold; rest memorabilia cards/prints)",
+ "searches_tried": "comps.py (pipeline, work) for david boon signed bat, signed cricket bat, cricket bats; Gowans API for cricket bats, cricket helmet, david boon. No web search done; lot is a mixed used-sports lot. eBay sold for 'David Boon testimonial signed bat' would settle the signed bat premium but is a minor part. | chrome: eBay AU sold: david boon signed cricket bat (no testimonial team bat sold; rest memorabilia cards/prints) | chrome: eBay AU sold: david boon signed cricket bat (no testimonial team bat sold; rest memorabilia cards/prints) | chrome: Terapeak AU 'david boon signed cricket bat' (5 rows); Google identification from photos",
  "needs_chrome": false,
- "viewing_check": "Read the signatures on the Boon Testimonial bat; the rest are worn modern bats.",
+ "viewing_check": "Armitage est $20-50, bid $20. The signed bat has many illegible signatures; check for a Boon signature and testimonial certificate. Date not shown on one comparable, so that row is undated and not usable as a SOLD price. Undated Terapeak rows excluded from entries: A$136.75 item 144740124946 (Qld v Tas 1996 signed bat, date not shown).",
  "chrome_hint": "eBay sold: David Boon Testimonial signed cricket bat",
  "rate_note": "All prices AUD, no conversion.",
  "chrome_done": true

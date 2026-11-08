@@ -1,7 +1,7 @@
 {
  "cdid": 3111211,
  "lot": 949,
- "identification": "1949 \u00a310 Coombs/Watt (R.60), V/17 604818. Not the first prefix (V/15 is first). Grade from photo: VF or better, flat, good colour.",
+ "identification": "Commonwealth of Australia \u00a310 Coombs/Watt (1949), serial V/17 604818, vendor note VF-/GVF. Both photos viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -397,12 +397,60 @@
    "note": "Seller says aUNC/UNC, auction 50 bids. eBay AU via Terapeak (Seller Hub Research, 3-year window); avg sold price, postage excluded; grade is the seller's own unless graded.",
    "same_item_raw": "yes",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$360",
+   "currency": "AUD",
+   "aud_price": 360.0,
+   "date": "2022-11-22",
+   "venue": "Noble Numismatics archive",
+   "url": "https://www.noble.com.au/auctions/lot/?id=401475",
+   "same_item": "close",
+   "note": "Noble Sale 131 lot 2299: same serial V/17 604818 (R.60), good very fine or better, est $400. Noble prices realised, believed hammer (buyer's premium not shown); check.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$682.28",
+   "currency": "AUD",
+   "aud_price": 682.28,
+   "date": "2026-01-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/146900862541",
+   "same_item": "partial",
+   "note": "1949 \u00a310 Coombs/Watt EF+.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$207.89",
+   "currency": "AUD",
+   "aud_price": 207.89,
+   "date": "2024-04-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176313656948",
+   "same_item": "partial",
+   "note": "1949 \u00a310 Coombs-Watt V-21 'fantastic condition'.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$196.74",
+   "currency": "AUD",
+   "aud_price": 196.74,
+   "date": "2026-08-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/178124655174",
+   "same_item": "partial",
+   "note": "1949 Coombs Watt V18, condition in photos.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py (ten pound, banknote coombs, 10 pound, ten pounds, R59, \u00a310 note; pipeline/comps.py crashed with a TypeError); Gowans API 'ten pound note' and lot 401464; WebSearch for Coombs Watt 1949 ten pound sold (x2); opened Sterling & Currency, Bradford Coins, Invaluable lot. No Noble or Downies result found. eBay sold listings would help: search 'Coombs Watt ten pound R60 VF' with Sold Items filter. | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode) | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode) | chrome: WebSearch Coombs/Watt R60 prices realised; read Sterling & Currency pages (R60 fine, about Unc; page text showed no price for those items, only an unrelated item), Noble Sale 89 and 130 pages. | chrome: WebSearch Coombs/Watt R60 prices realised; read Sterling & Currency pages (R60 fine, about Unc; page text showed no price for those items, only an unrelated item), Noble Sale 89 and 130 pages. | chrome: WebSearch Coombs/Watt R60 prices realised; read Sterling & Currency pages (R60 fine, about Unc; page text showed no price for those items, only an unrelated item), Noble Sale 89 and 130 pages. | chrome: Noble 'Ten pounds Coombs Watt' (Sales 137-142), '604818'. Leski 'Coombs Watt' (only mixed group lots). Downies 'Ten Pounds' Sales 358-362. eBay AU sold '1949 ten pound coombs watt'. Terapeak (3 years) also searched.",
+ "searches_tried": "work/comps.py (ten pound, banknote coombs, 10 pound, ten pounds, R59, \u00a310 note; pipeline/comps.py crashed with a TypeError); Gowans API 'ten pound note' and lot 401464; WebSearch for Coombs Watt 1949 ten pound sold (x2); opened Sterling & Currency, Bradford Coins, Invaluable lot. No Noble or Downies result found. eBay sold listings would help: search 'Coombs Watt ten pound R60 VF' with Sold Items filter. | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode) | chrome: eBay AU sold: 1949 ten pound note Coombs (first long query returned error page; Noble/Downies not searched in light mode) | chrome: WebSearch Coombs/Watt R60 prices realised; read Sterling & Currency pages (R60 fine, about Unc; page text showed no price for those items, only an unrelated item), Noble Sale 89 and 130 pages. | chrome: WebSearch Coombs/Watt R60 prices realised; read Sterling & Currency pages (R60 fine, about Unc; page text showed no price for those items, only an unrelated item), Noble Sale 89 and 130 pages. | chrome: WebSearch Coombs/Watt R60 prices realised; read Sterling & Currency pages (R60 fine, about Unc; page text showed no price for those items, only an unrelated item), Noble Sale 89 and 130 pages. | chrome: Noble 'Ten pounds Coombs Watt' (Sales 137-142), '604818'. Leski 'Coombs Watt' (only mixed group lots). Downies 'Ten Pounds' Sales 358-362. eBay AU sold '1949 ten pound coombs watt'. Terapeak (3 years) also searched. | chrome: Noble archive by serial '604818' (1 hit); Terapeak AU '1949 ten pound note coombs watt' (19 rows).",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold items: 1949 Coombs Watt ten pound R60 (also Noble Numismatics and Downies archives for 1949 R60 VF)",
  "rate_note": "All prices AUD, no conversion needed.",
- "viewing_check": "Check whether it has been washed/pressed (Downies discounts those) and look for trimming. At VF to EF, recent hammer is about A$350 to A$450; nUNC/UNC A$500-700.",
+ "viewing_check": "Armitage est $700-800, no bids, next bid $400 (landed ~A$488). Noble paid A$360 for this serial in 2022, eBay mostly A$140-210.",
  "chrome_done": true
 }

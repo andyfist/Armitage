@@ -1,7 +1,7 @@
 {
  "cdid": 3110971,
  "lot": 709,
- "identification": "Long John Finest Scotch Whisky (MacDonald), 750ml, about 37.5% (label hard to read), late 1980s/1990s Australian market",
+ "identification": "750 ml bottle of Long John whisky (1970s-80s style label, 1 photo).",
  "entries": [
   {
    "kind": "SOLD",
@@ -70,12 +70,24 @@
    "same_item": "no",
    "note": "Different expression (Special Reserve, the premium Long John), shown only as a ceiling. Hammer, excl. AWA buyer's premium",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "\u00a318 hammer",
+   "currency": "GBP",
+   "aud_price": 35.46,
+   "date": "2023-07-04",
+   "venue": "whisky.auction",
+   "url": "https://whisky.auction/auctions/lot/160902/long-john",
+   "same_item": "partial",
+   "note": "Long John bottled 1990s 70cl 40% (whisky.auction). Different, newer bottling.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) long john whisky; Gowans API long john whisky (no hits); fetched SWA page; one WebSearch. Armitage site search not done (task bars looking up Armitage prices). No Australian sold comps found. eBay sold (AU) for 'Long John Finest Scotch Whisky 750ml' would settle it but is closed to us. Evidence all UK and 2021-2025. | chrome: AWA 'long john' (only Special Reserve and ceramic pitchers); SWA 'long john' filtered 75cl/old; low-value bottle, expect A$30-60 | chrome: AWA 'long john' (only Special Reserve and ceramic pitchers); SWA 'long john' filtered 75cl/old; low-value bottle, expect A$30-60",
+ "searches_tried": "comps.py (pipeline and work) long john whisky; Gowans API long john whisky (no hits); fetched SWA page; one WebSearch. Armitage site search not done (task bars looking up Armitage prices). No Australian sold comps found. eBay sold (AU) for 'Long John Finest Scotch Whisky 750ml' would settle it but is closed to us. Evidence all UK and 2021-2025. | chrome: AWA 'long john' (only Special Reserve and ceramic pitchers); SWA 'long john' filtered 75cl/old; low-value bottle, expect A$30-60 | chrome: AWA 'long john' (only Special Reserve and ceramic pitchers); SWA 'long john' filtered 75cl/old; low-value bottle, expect A$30-60 | chrome: WebSearch Long John old bottling; WebFetch whisky.auction lot 160902; Terapeak does not carry alcohol",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: Long John Finest Scotch Whisky 750ml MacDonald",
- "viewing_check": "Fill level, read the strength on the label (37.2/37.5% = Australian 1980s), screw cap seal",
+ "viewing_check": "Armitage est $50-75, bid $55. Older 750 ml (Australian bottling) Long John may be worth more than the 1990s 70 cl (\u00a318), but no comp found; check fill level and label.",
  "rate_note": "GBP to AUD assumed 2.00, not fetched live.",
  "chrome_done": true
 }

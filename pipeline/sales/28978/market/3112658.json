@@ -1,7 +1,7 @@
 {
  "cdid": 3112658,
  "lot": 1817,
- "identification": "Modern rustic live-edge timber slab bench (about 1.2 m) on black steel rectangular sled legs. Generic, no maker's mark, weathered with bark edges and splits.",
+ "identification": "Rustic slab timber top garden seat on black steel legs (seen in all photos; no marks visible)",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,11 +46,24 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/442917/",
    "same_item": "category guide",
    "note": "Unfinished live-edge slab alone (no legs), shows slab material value only. Paid locally, not a resale price. Local database record, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$110.75",
+   "currency": "AUD",
+   "aud_price": 110.75,
+   "date": "2025-11-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/354373755145",
+   "same_item": "category guide",
+   "note": "Gardeon wooden garden bench, new",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with slab/garden/seat, live edge, bench, timber slab: no resale comps, only Gowans local results. WebSearch x2 (live edge slab bench steel legs auction Australia; rustic live edge bench steel legs Australia): no auction sold prices or retail prices seen, snippets only. Generic item, stopped early. eBay AU sold listings for 'live edge slab bench steel legs' would settle resale.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) with slab/garden/seat, live edge, bench, timber slab: no resale comps, only Gowans local results. WebSearch x2 (live edge slab bench steel legs auction Australia; rustic live edge bench steel legs Australia): no auction sold prices or retail prices seen, snippets only. Generic item, stopped early. eBay AU sold listings for 'live edge slab bench steel legs' would settle resale. | chrome: Terapeak AU 3yr sold: live edge timber bench (0); timber bench seat steel legs (0); timber garden bench seat",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: live edge slab bench steel legs",
- "viewing_check": "Check timber species and thickness (hardwood vs pine), slab length, rot or insect damage under the bark, and that legs are firmly fixed.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Armitage estimate $30-50, current bid $40 (9 Nov). Bulky outdoor/furniture lot, local pickup only. Terapeak prices are mostly NEW goods; most sales in last 3 yrs, no 10-year check done as nothing identifiable at $100+ except lots 1792, 1831.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

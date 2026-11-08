@@ -60,14 +60,14 @@
   },
   {
    "kind": "SOLD",
-   "price": "GBP 40",
+   "price": "GBP 40 hammer",
    "currency": "GBP",
-   "aud_price": 80,
+   "aud_price": 78.8,
    "date": "2010-05",
    "venue": "UK auction (per search summary), palomino Arab Xayal 1265",
    "url": "https://www.barnebys.co.uk/realised-prices/beswick_horse.html",
-   "same_item": "yes",
-   "note": "Snippet only, not verified, old, UK, premium status unknown. Rate used about 2.0 AUD per GBP (approximate)."
+   "same_item": "close",
+   "note": "head start item, palomino Arab Xayal 1265, 2010-05; old"
   },
   {
    "kind": "SOLD",
@@ -80,12 +80,72 @@
    "same_item": "close",
    "note": "head start item, palomino Arab Xayal 1265, 2010-05; old [converted at GBP 1.97]",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.21",
+   "currency": "AUD",
+   "aud_price": 47.21,
+   "date": "2025-06-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/187263201542",
+   "same_item": "yes",
+   "note": "Beswick Palomino Xayal Arab #1265, ear end break; same model as lot appears to be",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$125.64",
+   "currency": "AUD",
+   "aud_price": 125.64,
+   "date": "2025-12-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/286914426146",
+   "same_item": "close",
+   "note": "Beswick Arab palomino matte, mint; model not stated, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$88.19",
+   "currency": "AUD",
+   "aud_price": 88.19,
+   "date": "2026-09-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/178501509301",
+   "same_item": "close",
+   "note": "Royal Doulton/Beswick prancing Arab palomino gloss, perfect; different pose (prancing)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$71.95",
+   "currency": "AUD",
+   "aud_price": 71.95,
+   "date": "2025-09-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167785312726",
+   "same_item": "partial",
+   "note": "Beswick Prancing Arab 1261 first edition (auction); different model",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$186.29",
+   "currency": "AUD",
+   "aud_price": 186.29,
+   "date": "2025-07-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267343884340",
+   "same_item": "partial",
+   "note": "Beswick Arab Bahram palomino 19cm; different model, fixed price",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for beswick palomino horse, beswick arab horse, royal doulton horse, beswick, palomino, beswick horse; Gowans API beswick palomino; one WebSearch for Beswick palomino Arab Xayal sold. No Armitage past results or eBay (closed). eBay sold listings for 'Beswick palomino Arab Xayal 1265' would settle it. | chrome: None new (head start used); Photo check only; no new search (head start used, one SOLD from 2010 is old) | chrome: None new (head start used); Photo check only; no new search (head start used, one SOLD from 2010 is old)",
+ "searches_tried": "comps.py (pipeline and work) for beswick palomino horse, beswick arab horse, royal doulton horse, beswick, palomino, beswick horse; Gowans API beswick palomino; one WebSearch for Beswick palomino Arab Xayal sold. No Armitage past results or eBay (closed). eBay sold listings for 'Beswick palomino Arab Xayal 1265' would settle it. | chrome: None new (head start used); Photo check only; no new search (head start used, one SOLD from 2010 is old) | chrome: None new (head start used); Photo check only; no new search (head start used, one SOLD from 2010 is old) | chrome: None new (head start used); Photo check only; no new search (head start used, one SOLD from 2010 is old) | Terapeak AU 3yr (dayRange=1095): beswick arab horse palomino (8 rows); beswick palomino xayal arab horse (1 row). Google: WebSearch not run for this lot beyond head-start Barnebys result (2010 GBP 40, >10 yrs old).",
  "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: Beswick palomino Arab horse Xayal 1265 gloss",
  "rate_note": "GBP to AUD about 2.0, approximate",
- "viewing_check": "Check base for Beswick/Royal Doulton backstamp and any chips.",
+ "viewing_check": "Check base for Beswick/Royal Doulton backstamp and any chips. | TERAPEAK RE-CHECK: Terapeak shows palomino Beswick Arabs sell A$47-186 depending on model; Xayal (#1265) is the standing one and is the lowest priced. Confirm backstamp is Beswick and that it is Xayal, not a Royal Doulton-branded later piece.",
  "chrome_done": true
 }

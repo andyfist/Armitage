@@ -1,7 +1,7 @@
 {
  "cdid": 3111014,
  "lot": 752,
- "identification": "Kamikoto (Kanpeki-style) 3 knife set (slicer, nakiri, utility) in ash wood box with certificate (from earlier research; photos not re-checked this pass)",
+ "identification": "Cased set of 3 Kamikoto chef's knives in timber box with booklet and cards. Both photos viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -80,12 +80,48 @@
    "same_item": "yes",
    "note": "Kamikoto Kanpeki 3 knife set in wood box; condition not checked; only Kamikoto set sold on eBay AU in the filter window",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$86.09",
+   "currency": "AUD",
+   "aud_price": 86.09,
+   "date": "2026-08-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/257618647443",
+   "same_item": "close",
+   "note": "Unused Kamikoto Kanpeki 3-piece set, box and COA",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.78",
+   "currency": "AUD",
+   "aud_price": 47.78,
+   "date": "2024-03-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/266695914649",
+   "same_item": "close",
+   "note": "Kamikoto Kuro 3-knife set, wood box, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$341",
+   "currency": "USD",
+   "aud_price": 525.14,
+   "date": "",
+   "venue": "aus.kamikoto.com",
+   "url": "https://aus.kamikoto.com/products/kanpeki-knife-set-7-inch-santoku-black-friday-offer-normally",
+   "same_item": "close",
+   "note": "New retail price, Kamikoto Kanpeki set (USD)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed with a TypeError; work/comps.py: kamikoto, kamikato, knife set, chef knives, japanese knife) found no Kamikoto hit; Gowans API kamikoto returned nothing; WebSearch x4 (Kamikoto 3 piece price Australia, auction hammer, site:armitage.bidsonline kamikoto, used sold Australia) found no Armitage or Australian sold result. eBay sold prices would settle it (closed to us). | chrome: eBay AU sold: kamikoto knife set (1 exact match, first attempt hit error page, retried OK) | chrome: eBay AU sold: kamikoto knife set (1 exact match, first attempt hit error page, retried OK) | chrome: Terapeak eBay AU sold, last 2 years: 'kamikoto knife set' (min $50)",
+ "searches_tried": "comps.py (pipeline version crashed with a TypeError; work/comps.py: kamikoto, kamikato, knife set, chef knives, japanese knife) found no Kamikoto hit; Gowans API kamikoto returned nothing; WebSearch x4 (Kamikoto 3 piece price Australia, auction hammer, site:armitage.bidsonline kamikoto, used sold Australia) found no Armitage or Australian sold result. eBay sold prices would settle it (closed to us). | chrome: eBay AU sold: kamikoto knife set (1 exact match, first attempt hit error page, retried OK) | chrome: eBay AU sold: kamikoto knife set (1 exact match, first attempt hit error page, retried OK) | chrome: Terapeak eBay AU sold, last 2 years: 'kamikoto knife set' (min $50) | chrome: Terapeak AU 'kamikoto knife' 3yrs (6 rows); Kamikoto AU site.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: Kamikoto Kanpeki knife set (also try Kamikoto 3 knife set ash box), sold items filter, last 90 days; also Gumtree AU.",
- "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "viewing_check": "Armitage est $50-80, current bid $170. Already far above Terapeak sold prices.",
  "rate_note": "1 USD = 1.52 AUD assumed.",
  "chrome_done": true
 }

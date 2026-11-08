@@ -1,7 +1,7 @@
 {
  "cdid": 3111175,
  "lot": 913,
- "identification": "Strand of ~40 baroque ripple freshwater cultured pearls (Edison style), cream-white, silver-tone clasp; photo confirms (from earlier research; photos not re-checked this pass)",
+ "identification": "Single strand of white pearls, graduated, about 7-8mm; clasp not visible. Photo viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -103,12 +103,48 @@
    "same_item": "partial",
    "note": "Same type of new 11-12mm white Edison strand",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$58.02",
+   "currency": "AUD",
+   "aud_price": 58.02,
+   "date": "2026-05-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/363993137965",
+   "same_item": "category guide",
+   "note": "Triple strand freshwater pearl necklace.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$198.49",
+   "currency": "AUD",
+   "aud_price": 198.49,
+   "date": "2026-05-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/306448499196",
+   "same_item": "category guide",
+   "note": "Double strand AAA 6-7mm Akoya (better quality).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$416.24",
+   "currency": "AUD",
+   "aud_price": 416.24,
+   "date": "2026-03-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117083115111",
+   "same_item": "category guide",
+   "note": "Vintage Mikimoto graduated pearl strand.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline, errored on a None field; work/comps.py run for freshwater pearl necklace, baroque pearl, edison pearl, natural pearl necklace); Gowans API baroque/ripple/large pearl necklace; one WebSearch for Edison ripple 11-13mm strand. No Armitage past results or Edison-specific Australian sold results found. eBay sold listings for Edison ripple 11-13mm strands would settle it. | chrome: eBay AU sold: edison pearl necklace baroque ripple; first query hit eBay error page | chrome: eBay AU sold: edison pearl necklace baroque ripple; first query hit eBay error page | chrome: Terapeak eBay AU sold, last 2 years: 'baroque freshwater pearl necklace edison' (min $30) - no matching sales",
+ "searches_tried": "comps.py (pipeline, errored on a None field; work/comps.py run for freshwater pearl necklace, baroque pearl, edison pearl, natural pearl necklace); Gowans API baroque/ripple/large pearl necklace; one WebSearch for Edison ripple 11-13mm strand. No Armitage past results or Edison-specific Australian sold results found. eBay sold listings for Edison ripple 11-13mm strands would settle it. | chrome: eBay AU sold: edison pearl necklace baroque ripple; first query hit eBay error page | chrome: eBay AU sold: edison pearl necklace baroque ripple; first query hit eBay error page | chrome: Terapeak eBay AU sold, last 2 years: 'baroque freshwater pearl necklace edison' (min $30) - no matching sales | chrome: Terapeak AU 'natural white pearl necklace strand' (51 rows).",
  "needs_chrome": false,
  "chrome_hint": "eBay sold items: Edison baroque ripple pearl necklace 11-13mm white freshwater strand (Australia and worldwide, sold only)",
- "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "viewing_check": "Armitage est $75-100, current bid $40, next $50 (landed ~A$61). Check clasp for gold/silver stamp, pearl type.",
  "rate_note": "1 USD = 1.52 AUD assumed, unverified",
  "chrome_done": true
 }

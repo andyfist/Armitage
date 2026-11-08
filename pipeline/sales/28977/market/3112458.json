@@ -88,10 +88,34 @@
    "same_item": "category guide",
    "note": "Vintage Tecalemit side lever grease gun",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-10-13",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/163050066923",
+   "same_item": "category guide",
+   "note": "Mini grease gun set with cartridge (new, budget)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$22",
+   "currency": "AUD",
+   "aud_price": 22,
+   "date": "2026-11-06",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/145102154636",
+   "same_item": "category guide",
+   "note": "Grease gun pressure pistol grip 7000PSI (new)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) grease gun; work/comps.py grease gun --years 2; garden sprayer brass; sprayer lance; spray hose brass. No web search: generic low-value item. eBay sold would not change the picture. | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: vintage lever grease gun",
+ "searches_tried": "comps.py (pipeline) grease gun; work/comps.py grease gun --years 2; garden sprayer brass; sprayer lance; spray hose brass. No web search: generic low-value item. eBay sold would not change the picture. | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: vintage lever grease gun | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: vintage lever grease gun || Terapeak re-check: Terapeak AU: grease gun",
  "needs_chrome": false,
- "viewing_check": "Low value. [Armitage page 8 Nov 2026: estimate $10-20, current bid $10. Photos viewed (about 400px, low resolution): orange lever grease gun and a long hose sprayer lance with brass fittings, no marks readable]",
+ "viewing_check": "Low value. [Armitage page 8 Nov 2026: estimate $10-20, current bid $10. Photos viewed (about 400px, low resolution): orange lever grease gun and a long hose sprayer lance with brass fittings, no marks readable] || TERAPEAK RE-CHECK (9 Nov 2026): Terapeak AU \"grease gun\" (72 relevant rows, mostly new guns A$11-41; cordless A$133-136).",
  "chrome_done": true
 }

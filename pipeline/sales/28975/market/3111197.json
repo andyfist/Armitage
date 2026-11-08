@@ -1,7 +1,7 @@
 {
  "cdid": 3111197,
  "lot": 935,
- "identification": "Sheet of 40 circulated Australian florins in an album sheet, mixed pre-1946 silver and later 50% silver, no 1927/1932 key dates visible at photo resolution.",
+ "identification": "Large sheet of ~35-40 Australian florins in plastic pockets across 3 photos; dates and metal (pre-1946 .925 vs .500) not readable.",
  "entries": [
   {
    "kind": "SOLD",
@@ -174,12 +174,48 @@
    "same_item": "no",
    "note": "Category guide only: 6 post-1946 florins, 50% silver",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$260.89",
+   "currency": "AUD",
+   "aud_price": 260.89,
+   "date": "2025-12-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326882219528",
+   "same_item": "partial",
+   "note": "8 Australian 1910-1945 sterling silver florins (~A$33 each).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$235.79",
+   "currency": "AUD",
+   "aud_price": 235.79,
+   "date": "2025-11-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326830208607",
+   "same_item": "partial",
+   "note": "10 Australian florins 1926-1931 92.5% silver (~A$24 each).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$75.79",
+   "currency": "AUD",
+   "aud_price": 75.79,
+   "date": "2025-04-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256897263713",
+   "same_item": "partial",
+   "note": "Mixed silver coins incl florin and 1966 50c.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with florins/sheet/silver; Gowans API search 'sheet florins' and individual lot pages. Not run: WebSearch, Noble/Armitage past results, spot price check (no live melt verified). Gowans sheet descriptions are empty so sheet sizes are unknown. eBay sold would help only marginally. | chrome: eBay AU sold: sheet of 40 australian florins silver (0 exact, used the fewer-words results). Melt value alone is roughly A$600+; the cloud provisional maximum of A$30 looks far too low if these eBay bulk-lot prices are typical. Gowans comps in the brief already cover Hobart results. | chrome: eBay AU sold: sheet of 40 australian florins silver (0 exact, used the fewer-words results). Melt value alone is roughly A$600+; the cloud provisional maximum of A$30 looks far too low if these eBay bulk-lot prices are typical. Gowans comps in the brief already cover Hobart results. | chrome: eBay AU sold: sheet of 40 australian florins silver (0 exact, used the fewer-words results). Melt value alone is roughly A$600+; the cloud provisional maximum of A$30 looks far too low if these eBay bulk-lot prices are typical. Gowans comps in the brief already cover Hobart results. | chrome: WebSearch for sheets of florins at auction; Invaluable result (30 sterling florins sheet) showed no price on the page text; Noble NZ lot irrelevant. No priced result seen. | chrome: WebSearch for sheets of florins at auction; Invaluable result (30 sterling florins sheet) showed no price on the page text; Noble NZ lot irrelevant. No priced result seen. | chrome: WebSearch for sheets of florins at auction; Invaluable result (30 sterling florins sheet) showed no price on the page text; Noble NZ lot irrelevant. No priced result seen. | chrome: eBay AU sold 'australian florins lot' (several lots of 5-10 coins, A$86-193); a second query was throttled. No 40-coin sheet found. Prices are lots of 5-10 coins, not a like-for-like sheet.",
+ "searches_tried": "comps.py (pipeline and work) with florins/sheet/silver; Gowans API search 'sheet florins' and individual lot pages. Not run: WebSearch, Noble/Armitage past results, spot price check (no live melt verified). Gowans sheet descriptions are empty so sheet sizes are unknown. eBay sold would help only marginally. | chrome: eBay AU sold: sheet of 40 australian florins silver (0 exact, used the fewer-words results). Melt value alone is roughly A$600+; the cloud provisional maximum of A$30 looks far too low if these eBay bulk-lot prices are typical. Gowans comps in the brief already cover Hobart results. | chrome: eBay AU sold: sheet of 40 australian florins silver (0 exact, used the fewer-words results). Melt value alone is roughly A$600+; the cloud provisional maximum of A$30 looks far too low if these eBay bulk-lot prices are typical. Gowans comps in the brief already cover Hobart results. | chrome: eBay AU sold: sheet of 40 australian florins silver (0 exact, used the fewer-words results). Melt value alone is roughly A$600+; the cloud provisional maximum of A$30 looks far too low if these eBay bulk-lot prices are typical. Gowans comps in the brief already cover Hobart results. | chrome: WebSearch for sheets of florins at auction; Invaluable result (30 sterling florins sheet) showed no price on the page text; Noble NZ lot irrelevant. No priced result seen. | chrome: WebSearch for sheets of florins at auction; Invaluable result (30 sterling florins sheet) showed no price on the page text; Noble NZ lot irrelevant. No priced result seen. | chrome: WebSearch for sheets of florins at auction; Invaluable result (30 sterling florins sheet) showed no price on the page text; Noble NZ lot irrelevant. No priced result seen. | chrome: eBay AU sold 'australian florins lot' (several lots of 5-10 coins, A$86-193); a second query was throttled. No 40-coin sheet found. Prices are lots of 5-10 coins, not a like-for-like sheet. | chrome: Terapeak AU 'australian florins bulk lot silver 1930s' (2 rows); 'australian florin 1954 silver' and 'australian florin 1951 jubilee' (shared).",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Count the coins and separate pre-1946 (92.5%) from post-1946 (50%) by date and colour; look for key dates (1927 Canberra, 1932, 1934/35 Centenary, 1937-38). The brief's melt estimate was roughly 320g fine silver.",
+ "viewing_check": "Armitage est $600-700, no bids, next bid $400 (landed ~A$488). Count coins and check years: pre-1946 florins sold ~A$24-33 each; 1946-63 ones ~A$10-15.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

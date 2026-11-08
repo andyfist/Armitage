@@ -14,10 +14,22 @@
    "same_item": "yes",
    "note": "new retail price, not a resale price. Power-Ped brand not found online; price is for the nearest Leitner step-through. Brand and battery condition need checking.",
    "via": "new_price"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-03-11",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/389695381069",
+   "same_item": "partial",
+   "note": "Electric bicycle front wheel, Power Ped disc (part, auction)",
+   "via": "chrome"
   }
  ],
- "viewing_check": "Power-Ped sold search found only generic imported e-bikes and chargers, no matching Power-Ped sale. Battery health decides it. [Armitage page 8 Nov 2026: estimate $70-100, current bid $40. Photos viewed (about 400px, low resolution): 2 photos: red step-through e-bike with basket, rear rack bag and frame battery]",
- "searches_tried": " | chrome: ebay sold: power-ped electric bike",
+ "viewing_check": "Power-Ped sold search found only generic imported e-bikes and chargers, no matching Power-Ped sale. Battery health decides it. [Armitage page 8 Nov 2026: estimate $70-100, current bid $40. Photos viewed (about 400px, low resolution): 2 photos: red step-through e-bike with basket, rear rack bag and frame battery] || TERAPEAK RE-CHECK (9 Nov 2026): Terapeak AU \"power ped\": 1 row (a front wheel A$25). No complete Power-Ped bike sold in 3 yrs. New price per the pack about A$1,499 (Leitner Ultimate step-thru), the Power-Ped is a different older budget model; the battery (Leitner pack?) decides value.",
+ "searches_tried": " | chrome: ebay sold: power-ped electric bike | chrome: ebay sold: power-ped electric bike || Terapeak re-check: Terapeak AU: power ped",
  "needs_chrome": false,
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112573,
  "lot": 1546,
- "identification": "Pressure lantern (black hood, chrome fount, Coleman/Austramax style, mark not legible) plus clear glass kerosene wall lamp with brass burner, chimney and steel bracket",
+ "identification": "Wall-mountable oil lamp and a Tilley pressure lamp (1 photo viewed). ",
  "entries": [
   {
    "kind": "SOLD",
@@ -159,12 +159,24 @@
    "same_item": "partial",
    "note": "Austramax kerosene pressure lantern for parts or repair, BIN",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$49.63",
+   "currency": "AUD",
+   "aud_price": 49.63,
+   "date": "2026-10-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/284764799999",
+   "same_item": "partial",
+   "note": "Tilley lamp glass reproduction 171, parts only",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work and pipeline) for kosmos lamp, tilley lantern, pressure lantern, tilley lamp; Gowans API for tilley lamp, kerosene lantern, wall lamp; WebSearch for Coleman Australia lantern and Kosmos wall lamp (no Australian sold results). eBay AU sold listings for 'Coleman Austramax pressure lantern' and 'Kosmos wall bracket oil lamp' would settle it. | chrome: eBay AU sold: coleman austramax pressure lantern (one error page first); Kosmos wall lamp not searched",
+ "searches_tried": "comps.py (work and pipeline) for kosmos lamp, tilley lantern, pressure lantern, tilley lamp; Gowans API for tilley lamp, kerosene lantern, wall lamp; WebSearch for Coleman Australia lantern and Kosmos wall lamp (no Australian sold results). eBay AU sold listings for 'Coleman Austramax pressure lantern' and 'Kosmos wall bracket oil lamp' would settle it. | chrome: eBay AU sold: coleman austramax pressure lantern (one error page first); Kosmos wall lamp not searched | chrome: Google/WebSearch identification pass. Terapeak AU 3yr: tilley lamp (50 rows, all parts/accessories, no lamp sales in top rows).",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: Coleman Austramax 2/300 pressure lantern; and Kosmos wall bracket kerosene lamp",
  "rate_note": "All AUD hammer, no conversion. Premium extra on Gowans/Armitage.",
- "viewing_check": "Read the fount stamp for Coleman / Austramax / Tilley and model number, check the globe is present and unbroken, pump and generator, and that the wall lamp bracket and burner are original.",
+ "viewing_check": "Armitage est $20-40, bid $20. Check Tilley model (X246B etc), generator and glass present.",
  "chrome_done": true
 }

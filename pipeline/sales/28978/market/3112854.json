@@ -1,7 +1,7 @@
 {
  "cdid": 3112854,
  "lot": 2013,
- "identification": "MachT (Macht) mini petrol tiller/cultivator, likely 52cc 2-stroke budget import, red frame, MachT logo on tine guard. Not a Honda/Husqvarna. Retailer listing exists on MyShopping.com.au (MachT 52cc mini tiller), price not seen.",
+ "identification": "Red petrol mini tiller/cultivator, Macht brand (4-stroke small engine, tines at rear). 1 photo viewed. Google: no AU listing found for 'Macht' tillers; appears to be a small generic/home-brand unit. Bulky, low value.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,48 @@
    "url": "https://www.hr-sports.com.au/outdoor-garden/garden-power-tools/cultivator/",
    "same_item": "category guide",
    "note": "Snippet only. New retail."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$346.52",
+   "currency": "AUD",
+   "aud_price": 346.52,
+   "date": "2026-11-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/144644972863",
+   "same_item": "partial",
+   "note": "PLANTCRAFT 4-stroke 15in tiller NEW, multi-quantity listing (356 sold), new retail guide only; used Macht not found",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$198.76",
+   "currency": "AUD",
+   "aud_price": 198.76,
+   "date": "2026-10-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/354729146565",
+   "same_item": "partial",
+   "note": "Giantz 63cc tiller NEW, 153 sold; new-price guide",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$189.36",
+   "currency": "AUD",
+   "aud_price": 189.36,
+   "date": "2026-05-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/175696835037",
+   "same_item": "partial",
+   "note": "Giantz 88cc tiller NEW, 119 sold; new-price guide",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for macht/tiller/cultivator; Gowans API for tiller, cultivator, macht; WebSearch for Macht mini tiller price and site:armitage petrol tiller (no Armitage past result found). eBay sold prices would settle it but are closed to us.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for macht/tiller/cultivator; Gowans API for tiller, cultivator, macht; WebSearch for Macht mini tiller price and site:armitage petrol tiller (no Armitage past result found). eBay sold prices would settle it but are closed to us. | chrome: Terapeak AU 'macht petrol tiller' (0 rows); Terapeak AU 'petrol tiller cultivator' (50 rows, all new); WebSearch 'Macht petrol tiller cultivator' (nothing on brand)",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: MachT 52cc mini tiller cultivator",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Pull the cord to see if it starts and has compression; check tines turn freely, engine size on the plate, and no seized or cracked parts."
+ "viewing_check": "Est $40-70, bid $70 at check (already at top of estimate; +22% = $85). Check it starts and the tines turn. New 63cc tillers retail about A$190-350.",
+ "chrome_done": true
 }

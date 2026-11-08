@@ -127,12 +127,60 @@
    "same_item": "partial",
    "note": "Ampol Rover 2 stroke 1 gallon tin. item price as shown, postage not included unless stated",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.04",
+   "currency": "AUD",
+   "aud_price": 95.04,
+   "date": "2024-11-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/115914529902",
+   "same_item": "close",
+   "note": "Vintage Ampol one gallon tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$137.42",
+   "currency": "AUD",
+   "aud_price": 137.42,
+   "date": "2024-10-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116321605907",
+   "same_item": "close",
+   "note": "Vintage Ampol one gallon tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$98.50",
+   "currency": "AUD",
+   "aud_price": 98.5,
+   "date": "2025-11-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127465208133",
+   "same_item": "close",
+   "note": "Ampol motor oil 1 gallon tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$26.51",
+   "currency": "AUD",
+   "aud_price": 26.51,
+   "date": "2024-07-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126558576656",
+   "same_item": "close",
+   "note": "Ampol motor oil tin 1 gallon, likely poor",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with ampol/gallon/oil/tin words; Gowans API searches 'ampol oil tin' and 'ampol gallon'. No WebSearch used. eBay sold would settle it but is closed. | chrome: eBay AU sold: Ampol 1 gallon oil tin",
+ "searches_tried": "comps.py (pipeline and work) with ampol/gallon/oil/tin words; Gowans API searches 'ampol oil tin' and 'ampol gallon'. No WebSearch used. eBay sold would settle it but is closed. | chrome: eBay AU sold: Ampol 1 gallon oil tin | chrome: eBay AU sold: Ampol 1 gallon oil tin | Terapeak AU 3yr (dayRange=1095): ampol 1 gallon oil tin (50 rows)",
  "needs_chrome": false,
  "chrome_hint": "",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Pair, rusty; likely $30-60 each.",
+ "viewing_check": "Pair, rusty; likely $30-60 each. | TERAPEAK RE-CHECK: Pair is rusty; check graphics.",
  "chrome_done": true
 }

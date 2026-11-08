@@ -1,7 +1,7 @@
 {
  "cdid": 3112299,
  "lot": 1627,
- "identification": "Two black bakelite PMG 300-series telephones (one with magneto crank) plus a twin-gong wall bell and small bell; untested. (from earlier research; photos not re-checked this pass)",
+ "identification": "2 vintage black Bakelite rotary-dial telephones (300/332-style, PMG era) and a twin-gong electric wall bell. All 3 photos viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -149,12 +149,84 @@
    "same_item": "partial",
    "note": "Single bakelite magneto phone with generator ringer",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$135.15",
+   "currency": "AUD",
+   "aud_price": 135.15,
+   "date": "2025-05-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/146567250966",
+   "same_item": "close",
+   "note": "PMG 332AT black Bakelite rotary dial",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100.16",
+   "currency": "AUD",
+   "aud_price": 100.16,
+   "date": "2026-05-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168345273351",
+   "same_item": "close",
+   "note": "Vintage black Bakelite rotary dial phone",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$86.12",
+   "currency": "AUD",
+   "aud_price": 86.12,
+   "date": "2026-10-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168789665573",
+   "same_item": "close",
+   "note": "Black Bakelite rotary dial PMG",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45.88",
+   "currency": "AUD",
+   "aud_price": 45.88,
+   "date": "2025-03-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126983197122",
+   "same_item": "close",
+   "note": "PMG black Bakelite rotary dial",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$29.26",
+   "currency": "AUD",
+   "aud_price": 29.26,
+   "date": "2025-02-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167287659746",
+   "same_item": "close",
+   "note": "Bakelite PMG 47/300 rotary dial",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$22.93",
+   "currency": "AUD",
+   "aud_price": 22.93,
+   "date": "2025-03-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116535134271",
+   "same_item": "close",
+   "note": "PMG E-49 exchange dial",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py: bakelite telephone, magneto, crank telephone, wall bell, telephone bell, fire bell, gong (pipeline/comps.py crashed on a None value). WebSearch: Armitage past results (nothing relevant), bakelite magneto PMG auction price, PMG magneto wall bell. Carters and vintagephones blocked by bot check. No verified sold price for a magneto crank phone found. eBay sold listings would settle it. | chrome: eBay AU sold: bakelite magneto telephone crank pmg | chrome: eBay AU sold: bakelite magneto telephone crank pmg | chrome: Terapeak eBay AU sold, last 2 years: 'pmg bakelite telephone' (min $30)",
+ "searches_tried": "work/comps.py: bakelite telephone, magneto, crank telephone, wall bell, telephone bell, fire bell, gong (pipeline/comps.py crashed on a None value). WebSearch: Armitage past results (nothing relevant), bakelite magneto PMG auction price, PMG magneto wall bell. Carters and vintagephones blocked by bot check. No verified sold price for a magneto crank phone found. eBay sold listings would settle it. | chrome: eBay AU sold: bakelite magneto telephone crank pmg | chrome: eBay AU sold: bakelite magneto telephone crank pmg | chrome: Terapeak eBay AU sold, last 2 years: 'pmg bakelite telephone' (min $30) | chrome: Terapeak AU 'bakelite telephone vintage' (50 rows); 'pmg black bakelite telephone dial' limit 200 (48 rows)",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold items: PMG magneto crank bakelite telephone 300 series; also 'telephone wall bell twin gong'",
- "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "viewing_check": "Armitage est $20-40, bid $15. Check the numbers on the base (332/300 type), dial, cords and cracks; one phone has an extra cord tied to it. Bell type not identified.",
  "rate_note": "All AUD, no conversion needed.",
  "chrome_done": true
 }

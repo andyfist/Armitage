@@ -15,11 +15,11 @@
  "scanned": 366,
  "candidates": 81,
  "counts": {
-  "PASS": 9,
-  "CHROME": 55,
-  "FAIL": 13,
-  "DROP": 3,
-  "NOT RESEARCHED": 1
+  "PASS": 11,
+  "CHROME": 42,
+  "FAIL": 24,
+  "DROP": 4,
+  "NOT RESEARCHED": 0
  },
  "lots": [
   {
@@ -32,7 +32,7 @@
    "current_bid": 60.0,
    "bid_count": 2,
    "close": "11/11/2026 5:32:20 PM ADST",
-   "identification": "Rustic natural branch-frame armchair with burl slab seat, probably macrocarpa, mid-late 20th century, no maker",
+   "identification": "Rustic natural timber armchair with branch-style arms and split-slat back and leather-look seat (Macrocarpa, likely Tasmanian/Australian rustic furniture); 3 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: rustic tree branch armchair burl slab seat; also eBay AU sold: macrocarpa chair; Trade Me sold: macrocarpa armchair",
@@ -80,7 +80,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:33:00 PM ADST",
-   "identification": "Persian Sennah-style Kurdish rug 220x115 cm",
+   "identification": "Hand-knotted Persian Senneh rug 220x115 cm, red/cream medallion on dark navy field with floral border; 5 photos viewed incl. a close-up of the pile and what looks like a small repair or wear.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold items: 'Persian Senneh rug 220x115' and 'Persian Kurdish village rug 7x4' (Australia); also Invaluable/LiveAuctioneers 'Senneh rug' sold results, Australian houses, last 24 months.",
@@ -183,7 +183,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:33:20 PM ADST",
-   "identification": "Large portrait-format abstract coastal landscape attributed to Ryllton Viney: ochre horizon over a black sea band and cream cliff forms, brushed aluminium frame. Back label handwritten 'RYLLTON VINEY / \"DARK SEA - LIGHT CLIFFS.\" / 2003.' on a brown board backing, with a large handwritten mark beside it. No signature visible on the front in the online photos (both lower corners checked).",
+   "identification": "Abstract oil painting by Ryllton Viney, 'Dark Sea, Light Cliffs' 2003 (handwritten label on the reverse), black and cream band with ochre sky, silver frame; 2 photos viewed. Viney is a Launceston artist (shows at Gallery Pejean, Madeline Gordon Gallery); known for largely black and white layered works.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -277,7 +277,7 @@
    "current_bid": 100.0,
    "bid_count": 1,
    "close": "11/11/2026 5:35:20 PM ADST",
-   "identification": "A decorative Kunstkammer-style 'Prunkstillleben', a pastiche of 17th-century Dutch and German still lifes, signed roughly 'Aug. Scholz'. I couldn't trace the painter in any reference or auction source. The date is open, anywhere from about 1880 to the mid-20th century. The 'herr MARKGRAF ALBERT' tablet is a historicist prop that points to a German-speaking painter but doesn't date the picture.",
+   "identification": "Oil on canvas on board 'Interior scene with grapes', still life of grapes, open book, Chinese lacquer box, goblet and a bronze figure on a lace cloth, heavy black frame with gilt slip; attributed to 'August Scholz'; 3 photos viewed. Decorative Victorian-style still life, possibly modern in the old style.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: 'antiquarian still life oil nautilus cup signed' and 'August Scholz oil painting'; Invaluable/LiveAuctioneers: 'August Scholz' and 'August Schluter still life'",
@@ -381,7 +381,17 @@
      "old": false
     }
    ],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": null,
+     "venue": "artrecord",
+     "url": "https://artrecord.com/index.cfm/artist/5429-sibley-irena/medium/3-prints-and-graphics/?page=2",
+     "same_item": "category guide",
+     "note": "Print results exist but no price, date or edition size visible; not usable as SOLD",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 50.0,
@@ -430,7 +440,7 @@
    "current_bid": 15.0,
    "bid_count": 1,
    "close": "11/11/2026 5:36:40 PM ADST",
-   "identification": "Framed monochrome print of a hibiscus stem, pencil inscribed 'Hibiscus (early morning)', numbered and signed D Rose 1974, wide white mat, black frame.",
+   "identification": "David Rose (1936-2006, Australian printmaker), 'Hibiscus', black ink on cream paper: a single hibiscus stem and flower low on the sheet, black frame, white mat. Armitage: 'DAVID ROSE LIMITED EDITION PRINT HIBISCUS H-74 W-51 CM'. Rose's 1974 'Hibiscus' series ('3 o'clock', '4 o'clock') matches the subject. 1 photo viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: David Rose Hibiscus print signed numbered",
@@ -557,6 +567,15 @@
      "same_item": "close",
      "note": "David Rose Hibiscus, print, signed and numbered 31/80, sheet 760 x 560mm, undated. Retail dealer asking price. Page opened.",
      "old": false
+    },
+    {
+     "aud_price": 400.0,
+     "date": "2019-08-29",
+     "venue": "Lawsons (via Invaluable, price hidden)",
+     "url": "https://www.invaluable.com/artist/rose-david-3hwlubjo02/sold-at-auction-prices/?page=5",
+     "same_item": "close",
+     "note": "'Hibiscus (3 o'clock)' 1974 screenprint 18/22, 75.5 x 52.5 cm, estimate $400-600; the sale price is not shown on Invaluable",
+     "old": true
     }
    ],
    "paid": [],
@@ -579,7 +598,7 @@
    "current_bid": 50.0,
    "bid_count": 1,
    "close": "11/11/2026 5:37:40 PM ADST",
-   "identification": "Framed pastel landscape of misty bush with eucalypts and a track through ferns and autumn tones, in a mahogany-coloured frame with cream mount, portrait format; only one photo",
+   "identification": "Pastel landscape 'Light reflecting bush scene', misty gum trees with autumn undergrowth, timber frame with mount; attributed to Des Murray; 1 photo viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: 'Des Murray pastel'; also artrecord/Invaluable 'Des Murray' sold results",
@@ -608,7 +627,7 @@
    "current_bid": 15.0,
    "bid_count": 1,
    "close": "11/11/2026 5:38:00 PM ADST",
-   "identification": "Small watercolour of gorge with road, signed W. Menzies Gibb.",
+   "identification": "Small watercolour 'Gorge scene' (misty mountain gorge with river), framed; by W. Menzies-Gibb; 2 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Artrecord artist 12621 (William Menzies Gibb) works on paper, signed in, for hammer prices 2020-2026; also eBay sold 'Menzies Gibb watercolour' and Invaluable/LiveAuctioneers 'William Menzies Gibb'",
@@ -644,10 +663,10 @@
    "strength": 5,
    "findings": "Painted thylacine curled in a roundel on a polished burl slab with natural bark edge. Well painted. Auction tag beside it; small handwritten card not legible in crop. No signature seen in photos. Thylacine subject has a dedicated Tasmanian collector following.",
    "condition": "Good; natural bark edge, finish intact.",
-   "current_bid": 310.0,
-   "bid_count": 4,
+   "current_bid": 330.0,
+   "bid_count": 5,
    "close": "11/11/2026 5:41:00 PM ADST",
-   "identification": "Acrylic painting of a curled-up thylacine in a round inset on a natural-edge burl slab, about 60 x 57 cm, attributed to Alison Cooper-White; no signature visible in photo 1. (from earlier research; photos not re-checked this pass)",
+   "identification": "Alison Cooper-White acrylic painting of a thylacine curled up on a round slab of burl wood, wall hanging, signed; 3 photos viewed. Cooper-White is a Tasmanian artist selling on Bluethumb and her own site.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -714,7 +733,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:44:40 PM ADST",
-   "identification": "New hand-knotted contemporary wool/tencel designer carpet 396x295, Jaipur (per brief).",
+   "identification": "New contemporary Galaxy designer carpet 396x295 cm, pink/grey/cream abstract pattern, wool with Tencel silk; 5 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: 'hand knotted wool tencel rug 300x400' and 'Jaipur Rugs contemporary rug 10x13'; also invaluable.com/liveauctioneers 'contemporary hand knotted wool silk rug 396 x 295'",
@@ -799,7 +818,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:46:00 PM ADST",
-   "identification": "Edwardian oak two-part bookcase, geometric astragal glazed doors above, two drawers and two panelled doors below, plinth base",
+   "identification": "English oak Astra-glazed Edwardian bookcase with a cabinet base, 217 cm tall; 4 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -883,7 +902,7 @@
    "current_bid": 100.0,
    "bid_count": 1,
    "close": "11/11/2026 5:46:20 PM ADST",
-   "identification": "Victorian mahogany two-leaf wind-out extension dining table, turned legs on brass castors, rounded corners, good polish; 222 x 122 cm extended.",
+   "identification": "Victorian mahogany pine-top two-leaf extension dining table with winder, 222 cm extended; 4 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -985,7 +1004,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:46:40 PM ADST",
-   "identification": "Set of 8 Victorian rosewood balloon-back dining chairs c1865",
+   "identification": "Set of eight rosewood acanthus-carved balloon-back dining chairs c1865, floral upholstered seats; 4 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: \"victorian rosewood balloon back dining chairs set of 8\" (Australia and UK); also LiveAuctioneers/Invaluable sold: \"set of eight rosewood balloon back chairs\"",
@@ -1085,16 +1104,45 @@
    "strength": 4,
    "findings": "8-string mandolin-banjo (banjolin), not a standard 5-string banjo: 8 tuners, resonator rim with slotted flange, decorated painted/printed vellum head, tailpiece. Headstock stamped in gilt with lion trade mark 'BRITISH MADE' over 'LIBERTY-BELL No 330'. Liberty Bell was a British-made brand of banjos and banjo-mandolins, c.1920s-30s. Fitted case included.",
    "condition": "Case badly torn and worn, lining loose; strings old and loose; headstock and neck finish worn; vellum head intact but aged; tasselled cord attached.",
-   "current_bid": 35.0,
-   "bid_count": 5,
+   "current_bid": 40.0,
+   "bid_count": 6,
    "close": "11/11/2026 5:48:00 PM ADST",
-   "identification": "Liberty Bell No 330 banjolin (8-string banjo-mandolin), British made, c.1920s-30s, with torn fitted case. Photos confirm gilt lion trade mark 'BRITISH MADE' and 'LIBERTY-BELL No 330' on headstock, 8 tuners, decorated vellum head, resonator rim. Modest brand, no web comps found for the Liberty Bell name. (from earlier research; photos not re-checked this pass)",
+   "identification": "Cased Liberty Bell banjo-mandolin (banjolin), eight-string with skin head, resonator-less, in a blue case; 4 photos viewed incl. headstock stamped logo. Liberty Bell banjolins also appear at UK auction (Murray's, Isle of Man, 12 Sep 2020, cased Liberty Bell banjolin, price not shown).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold items: \"Liberty Bell\" banjolin OR \"banjo mandolin\" OR \"mandolin banjo\" British, sold listings, last 90 days; also Reverb sold 'banjolin'",
    "chrome_done": true,
-   "sold": [],
-   "sold_old": [],
+   "sold": [
+    {
+     "aud_price": 257.97,
+     "date": "2025-01-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/185817679048",
+     "same_item": "close",
+     "note": "Vintage 8 string banjo mandolin with original leather case",
+     "old": false
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 239.71,
+     "date": "?",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/185706731455",
+     "same_item": "close",
+     "note": "Vintage 8 string banjo mandolin with leather case; date not shown",
+     "old": false
+    },
+    {
+     "aud_price": 123.03,
+     "date": "?",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/117232463033",
+     "same_item": "close",
+     "note": "Vintage Manby's banjo mandolin banjolin w/ original case; date not shown",
+     "old": false
+    }
+   ],
    "unsold": [],
    "asking": [
     {
@@ -1136,11 +1184,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 257.97,
+   "net_resale": 219.27450000000002,
+   "max_hammer": 15,
+   "status": "FAIL",
+   "why": "max hammer $15 from a median SOLD of $258 does not clear the current bid $40",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1155,7 +1203,7 @@
    "current_bid": 80.0,
    "bid_count": 6,
    "close": "11/11/2026 5:48:40 PM ADST",
-   "identification": "Large pine cutlery/knife tray, arched ends, cut handle divider, old green paint outside, dark interior; photo confirms (from earlier research; photos not re-checked this pass)",
+   "identification": "Large pine cutlery tray with green-painted finish and three compartments, W-51 cm; 3 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -1247,10 +1295,10 @@
    "strength": 6,
    "findings": "Persian Mir/Saraband type rug: ivory field with all-over rows of small boteh (paisley) motifs, multiple red and navy guard borders, hand-knotted appearance with fringe. No label or certificate shown in photos. Size claimed 325 x 215.",
    "condition": "Some fading as stated, general light wear, fringes present, no obvious holes in photos.",
-   "current_bid": 0.0,
-   "bid_count": 0,
+   "current_bid": 280.0,
+   "bid_count": 1,
    "close": "11/11/2026 5:49:00 PM ADST",
-   "identification": "Large ivory-field Persian Mir/Saraband-style rug with rows of boteh, about 325x215, fading (per brief; photo not re-viewed).",
+   "identification": "Large handstitched Iranian pure wool floor rug 325x215 cm with certificate of authenticity, some fading; 3 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: persian mir saraband rug 10x7 (and LiveAuctioneers price-result: Persian Saraband carpet)",
@@ -1367,10 +1415,10 @@
    "strength": 4,
    "findings": "Five-panel folding fire screen in heavily ornate cast metal, gilt finish, with mesh backing; Renaissance revival scrolls, rosettes, urn and wheel motifs, on scroll feet. Victorian/French style, possibly antique cast iron or brass; no foundry mark visible.",
    "condition": "Gilt finish rubbed in places; appears complete; one photo only so back and joints not seen.",
-   "current_bid": 20.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 2,
    "close": "11/11/2026 5:49:40 PM ADST",
-   "identification": "Ornate five-panel folding fire screen, cast gilt metal frame with mesh infill, Renaissance revival scrollwork and urn motif, painted gilt finish, ~80x104cm (from earlier research; photos not re-checked this pass)",
+   "identification": "Cast metal (brass-coloured) ornate folding fire screen, four panels, filigree scroll. Seen in 1 photo. Armitage est $40-80, bid $25.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: 'antique gilt cast iron folding fire screen' and 'ornate brass folding fireplace screen mesh'; also LiveAuctioneers 'gilt folding fire screen'",
@@ -1455,7 +1503,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:51:20 PM ADST",
-   "identification": "Framed street scene of Elmore, Vic: appears to be a reproduction print (even printed finish, small signature at lower right), not an original watercolour.",
+   "identification": "Kenneth Jack (1924-2006) 'Elmore, Victoria' (small town on the Northern Highway near Bendigo). A soft pastel-toned watercolour street scene (shopfronts with verandahs, a street light, TV aerials, a big willow, flock of birds over yellow grass), image about 18 x 38 cm in a wide cream mat with a gold frame, 42 x 77 cm overall. 2 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Kenneth Jack Elmore print; also Invaluable/LiveAuctioneers Kenneth Jack Elmore",
@@ -1513,6 +1561,15 @@
      "url": "https://www.invaluable.com/auction-lot/kenneth-jack-derby-tasmania-247-c-0932ad23e0",
      "same_item": "close",
      "note": "Original watercolour, signed lower left, dated 1986. Estimate AUD 2,000-4,000. Page lists 25% buyer's premium; unknown whether 1,600 is hammer or includes premium. Best like-for-like original (town scene, similar size).",
+     "old": false
+    },
+    {
+     "aud_price": 1198.24,
+     "date": "2025-03-07",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126536443326",
+     "same_item": "close",
+     "note": "Kenneth Jack 'Abandoned Mining Settlement Illabarook VIC', original signed painting",
      "old": false
     }
    ],
@@ -1703,11 +1760,11 @@
      "old": false
     }
    ],
-   "resale": 370.0,
-   "net_resale": 314.5,
-   "max_hammer": 90,
+   "resale": 420.0,
+   "net_resale": 357.0,
+   "max_hammer": 125,
    "status": "PASS",
-   "why": "6 same-item SOLD price(s), median $370; less 15% fees = $314; less $200 profit, / 1.22 premium = max hammer $90",
+   "why": "7 same-item SOLD price(s), median $420; less 15% fees = $357; less $200 profit, / 1.22 premium = max hammer $125",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1722,7 +1779,7 @@
    "current_bid": 5000.0,
    "bid_count": 1,
    "close": "11/11/2026 5:51:40 PM ADST",
-   "identification": "Framed acrylic of kangaroos, spotted-tailed quolls, owl and sugar glider under a dead tree at dusk, signed lower right; signature reads 'D. McWILLIAMS'-like in the photo, may not be Michael.",
+   "identification": "Michael McWilliams (b.1956, Tasmanian, QVMAG survey 2024-25, top Tasmanian narrative painter) 'Meeting at Dusk', signed and dated 1997, 37x28cm, framed behind glass. Shows kangaroos, spotted-tail quolls, a little owl and a sugar glider around a dead tree. Estimate shown as 9-14000, current bid $5,000.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "artrecord.com artist 8762 Michael McWilliams paintings, look for 1990s acrylics and prices under $2,000; also Invaluable sold results 'Michael McWilliams 1997'",
@@ -1738,6 +1795,15 @@
      "url": "https://www.aasd.com.au/artist/1320-michael-mcwilliams/",
      "same_item": "category guide",
      "note": "AASD lists 1997 small acrylics but prices hidden; artrecord returned 429. No price entry. Aggregator snippet: 45 works offered since 1999, 82% sold, recent paintings average about $13,673 (snippet only, unverified).",
+     "old": false
+    },
+    {
+     "aud_price": 0.0,
+     "date": null,
+     "venue": "artrecord",
+     "url": "https://www.artrecord.com/index.cfm/artist/8762-mcwilliams-michael/medium/1-paintings/",
+     "same_item": "category guide",
+     "note": "artrecord lists small works e.g. 'Security Committee' 2008 31.5x43.5cm synthetic polymer on board and 'A Bonded Pair' 28x54.5cm acrylic on kauri board, sold at Colville Hobart, prices behind paywall",
      "old": false
     }
    ],
@@ -1780,7 +1846,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 5:53:20 PM ADST",
-   "identification": "Framed watercolour/gouache river-bank study with dark tree bank and scraped highlights, wide cream mount, gilt frame; signature tiny at lower right, illegible in photo.",
+   "identification": "Geoff(rey) Dyer (1947-2020, Tasmanian) 'Still Water Study', watercolour and gouache, 31 x 39 cm (Armitage dimensions, probably framed), grey-green still water with dark reflected trees and a few drips and spatters, signed lower right in the image, in a thin gilt frame with a cream mat. 2 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Invaluable or LiveAuctioneers: 'Geoffrey Dyer watercolour gouache' sold results 2024-2026, filter works on paper under 45cm; also eBay sold 'Geoff Dyer watercolour'",
@@ -1872,6 +1938,24 @@
      "same_item": "category guide",
      "note": "Tasmania Coastline I, watercolour 75x115cm. Snippet only; unclear if result or estimate. Not verified.",
      "old": false
+    },
+    {
+     "aud_price": 2000.0,
+     "date": "2026-10-28",
+     "venue": "Lawsons (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/dyer-geoffrey-pu03gey9xt/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "Riverbank, watercolour and gouache on paper 36 x 40 cm; estimate only, result not shown",
+     "old": false
+    },
+    {
+     "aud_price": 1000.0,
+     "date": "2026-07-02",
+     "venue": "Leonard Joel (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/dyer-geoffrey-pu03gey9xt/sold-at-auction-prices/",
+     "same_item": "partial",
+     "note": "Abstract, mixed media on paper 40 x 36 cm; estimate only",
+     "old": false
     }
    ],
    "paid": [
@@ -1913,7 +1997,7 @@
    "current_bid": 900.0,
    "bid_count": 9,
    "close": "11/11/2026 5:54:20 PM ADST",
-   "identification": "Oil on canvas, Mount Roland with farm huts, cattle and gum trees, ornate gilt frame; verso inscription per catalogue research.",
+   "identification": "Joshua Higgs Jr (1843-1903, Launceston landscape painter) oil 'Mt Roland 1887', 34x60cm, gilt frame. Photo 5 shows the verso inscribed 'Mount Roland by J. Higgs Jun 1887'. Hill, hut, cattle at a pool, eucalypts and mountain beyond; signature lower left. Est $1,000-1,500, bid $900.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "AASD https://www.aasd.com.au/artist/6038-joshua-higgs-junior/works-in-past-sales/ and artrecord/askart Joshua Higgs auction records; Invaluable 'Joshua Higgs Mount Roland' results",
@@ -1961,7 +2045,7 @@
    "current_bid": 100.0,
    "bid_count": 1,
    "close": "11/11/2026 5:55:40 PM ADST",
-   "identification": "Large unframed mixed-media on canvas 183x123cm by Ryllton Viney.",
+   "identification": "Ryllton Viney (Tasmanian printmaker/artist) mixed media 'History Lessons - The Past is Another Story', 183x123cm, unframed on board/panel, dark grey abstract. Verso inscription (photo 2) gives title, size, 'Mixed media, Charcoal & acrylic'(?) and a 2023 date. Est $200-350, bid $100.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Invaluable or Artsales/AASD: search 'Ryllton Viney' sold auction results; also eBay sold 'Ryllton Viney'",
@@ -2000,12 +2084,22 @@
    "current_bid": 170.0,
    "bid_count": 2,
    "close": "11/11/2026 5:58:20 PM ADST",
-   "identification": "Colonial cedar dropside Pembroke table c1840",
+   "identification": "Cedar string-inlaid triple ring turned dropside table c1840, 72x99x111cm open. Est $300-500, bid $170.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Carters Price Guide https://www.carters.com.au/index.cfm/index/1169-tables-purpose-or-type-pembroke/ then filter for cedar, and eBay Australia sold: 'cedar pembroke table colonial'",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 359.68,
+     "date": "2026-08-12",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256934137110",
+     "same_item": "close",
+     "note": "Antique Australian cedar drop side hall/dining table",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -2084,11 +2178,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 359.68,
+   "net_resale": 305.728,
+   "max_hammer": 85,
+   "status": "FAIL",
+   "why": "max hammer $85 from a median SOLD of $360 does not clear the current bid $170",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2103,7 +2197,7 @@
    "current_bid": 90.0,
    "bid_count": 6,
    "close": "11/11/2026 5:59:00 PM ADST",
-   "identification": "Vintage rectangular cane/rattan two-handled basket, about 36x49x42 cm, twisted rim and handles, faded stencilled lettering ('S & L') on sides. Laundry or trade/carry basket, no maker identified. Generic. (from earlier research; photos not re-checked this pass)",
+   "identification": "Large vintage cane/wicker laundry or log basket with two handles, 36x49x42cm. Est $70-120, bid $90.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": " Bidder signal: 142868 - Perth, (seen in 18 sales); 49364 - Trevallyn, TAS (seen in 124 sales); 142954 - Perth, (seen in 28 sales); 47478 - Cressy, TAS (seen in 38 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
@@ -2116,6 +2210,24 @@
      "url": "https://www.ebay.com.au/itm/128044903723",
      "same_item": "close",
      "note": "Vintage 55cm bamboo cane basket; Buy It Now; item price excl. postage",
+     "old": false
+    },
+    {
+     "aud_price": 50.33,
+     "date": "2026-07-10",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/177866258579",
+     "same_item": "close",
+     "note": "Large vintage cane/wicker laundry basket",
+     "old": false
+    },
+    {
+     "aud_price": 19.16,
+     "date": "2023-12-10",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/166465450496",
+     "same_item": "close",
+     "note": "Large vintage cane laundry basket",
      "old": false
     }
    ],
@@ -2187,11 +2299,11 @@
      "old": false
     }
    ],
-   "resale": 179.29,
-   "net_resale": 152.3965,
+   "resale": 50.33,
+   "net_resale": 42.780499999999996,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $179 does not clear the current bid $90",
+   "why": "max hammer $0 from a median SOLD of $50 does not clear the current bid $90",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2206,7 +2318,7 @@
    "current_bid": 190.0,
    "bid_count": 3,
    "close": "11/11/2026 5:59:20 PM ADST",
-   "identification": "Very large plain dovetailed timber trunk (59 x 145 x 61 cm) with a hasp lock and side handles, catalogued Dutch fruitwood; photos show a simple honey-brown box, no carving. (from earlier research; photos not re-checked this pass)",
+   "identification": "Very large Dutch fruitwood dovetailed trunk, 59x145x61cm, brass lock plate with key (6 photos incl. interior). Est $400-600, bid $190.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Dutch colonial chest teak brass; also LiveAuctioneers/Invaluable results for 'Indo-Dutch chest' last 24 months",
@@ -2283,11 +2395,11 @@
    "current_bid": 110.0,
    "bid_count": 11,
    "close": "11/11/2026 6:04:40 PM ADST",
-   "identification": "American-style oak pressed back swivel office armchair, c1900-1920, embossed pressed seat, no maker mark seen. Common form, not rare.",
+   "identification": "Arts and Crafts pressed back oak swivel (office) armchair with stamped seat. Est $40-70, bid $110 (already above estimate).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: antique oak pressed back swivel office chair Australia; also Carters/LiveAuctioneers 'pressed back swivel armchair'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2371,7 +2483,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2386,12 +2498,22 @@
    "current_bid": 210.0,
    "bid_count": 7,
    "close": "11/11/2026 6:05:40 PM ADST",
-   "identification": "Large cast iron campana urn on square plinth with laurel panels, green paint with rust, about 103 cm (photo seen).",
+   "identification": "Large cast iron garden urn on pedestal with verdigris-green paint, 103cm high 75cm dia (3 photos). Est $300-500, bid $210.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Carters price guide 'urns planters and jardinieres cast iron' (carters.com.au/index.cfm/index/11112) for realised prices; also eBay AU sold: 'cast iron urn plinth' / 'victorian cast iron garden urn pedestal'; Lawsons Cobbitty urn lot page.",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 348.26,
+     "date": "2025-04-08",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/326505968437",
+     "same_item": "close",
+     "note": "Vintage heavy cast iron garden urn planter on pedestal",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [
     {
@@ -2453,11 +2575,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 348.26,
+   "net_resale": 296.02099999999996,
+   "max_hammer": 75,
+   "status": "FAIL",
+   "why": "max hammer $75 from a median SOLD of $348 does not clear the current bid $210",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2472,7 +2594,7 @@
    "current_bid": 150.0,
    "bid_count": 8,
    "close": "11/11/2026 6:07:00 PM ADST",
-   "identification": "Continental carved dome-top trunk with scrolled cartouche carving on front and ends, 96cm; looks provincial 18th-19th C, original dome lid with batten",
+   "identification": "18th century carved oak dovetailed domed top trunk, 40x96x40cm, 5 photos incl. brass lock plate and bear/lion-head keyhole; has a chip carved front and a lined interior. Est $150-250, bid $150.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Invaluable or LiveAuctioneers sold: 'Spanish carved oak dome top coffer 18th century' ; also carters.com.au price guide 'oak trunks' dome-top carved front; eBay sold 'antique Spanish carved chest dome top'",
@@ -2585,7 +2707,7 @@
    "current_bid": 390.0,
    "bid_count": 1,
    "close": "11/11/2026 6:08:00 PM ADST",
-   "identification": "Persian Kolyai village rug 280x155 with lozenge medallions (per brief).",
+   "identification": "Hand-knotted Persian Kolyai (Kurdish, Kolyai/Koliai) rug, 280x155cm, wool pile on wool foundation, vegetable dye; 4 photos show three-diamond medallion, navy border, red field. Est $850-1,000, bid $390.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Persian Kolyai Koliai Kurdish rug 280 x 155 OR 3m; also Invaluable: Kolyai rug sold Australia 2025-2026",
@@ -2715,7 +2837,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:11:00 PM ADST",
-   "identification": "Ivory Kashan/Nain-style Persian carpet about 295x196 with soiling (per brief; photo not re-viewed).",
+   "identification": "Hand-knotted Persian Kashan carpet 295x196 cm, ivory ground, wool pile, cert of authenticity (#393) per catalogue. Photos show cream/ivory floral medallion carpet with light wear at edge.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -2799,7 +2921,7 @@
    "current_bid": 100.0,
    "bid_count": 1,
    "close": "11/11/2026 6:11:20 PM ADST",
-   "identification": "Victorian/William IV style single scroll-end mahogany chaise/end sofa, worn brown leather, turned front feet",
+   "identification": "Victorian mahogany single-end sofa (chaise/couch) with scroll end, button leather upholstery, early 19th c style. Leather is cracked/worn on seat.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -2901,7 +3023,7 @@
    "current_bid": 150.0,
    "bid_count": 1,
    "close": "11/11/2026 6:12:00 PM ADST",
-   "identification": "Set of 8 William IV style blackwood dining chairs",
+   "identification": "Set of 8 blackwood dining chairs (Victorian style, bar backs) with striped upholstered seats, includes carvers? (some appear to have arms in last photo).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -3012,7 +3134,7 @@
    "current_bid": 70.0,
    "bid_count": 3,
    "close": "11/11/2026 6:12:40 PM ADST",
-   "identification": "Majolica-glazed novelty jardiniere, a brown seated monkey holding a woven basket-shaped pot (yellow/orange to green glaze), ~28cm; very likely Bretby; base stamp not visible. Photo 2 shows glaze crazing/small wear, check hand and rim.",
+   "identification": "Bretby (stamped) English novelty majolica jardiniere with a monkey clasping a woven basket, 28 cm, yellow/orange/green glaze. Photos (3) show strong colour, no obvious chips; monkey hands and basket rim should be checked.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Bretby monkey basket jardiniere (also 'Bretby 1251 monkey'); also LiveAuctioneers/Invaluable 'Bretby monkey jardiniere' sold",
@@ -3053,6 +3175,15 @@
      "same_item": "yes",
      "note": "Bretby 'Monkey & Basket' planter c.1900, the same model; outside 24 months",
      "old": true
+    },
+    {
+     "aud_price": 185.42,
+     "date": "8 Dec 2024",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235853226916",
+     "same_item": "yes",
+     "note": "Bretby monkey jardiniere Victorian, good condition, fixed price (UK Terapeak, converted to AU$)",
+     "old": false
     }
    ],
    "sold_old": [],
@@ -3078,13 +3209,13 @@
     }
    ],
    "paid": [],
-   "resale": 203.0,
-   "net_resale": 172.54999999999998,
+   "resale": 185.42,
+   "net_resale": 157.607,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $203 does not clear the current bid $70",
-   "age_note": "4 of 4 prices are more than 3 years old",
-   "trend": "no sales in the last 3 years",
+   "why": "max hammer $0 from a median SOLD of $185 does not clear the current bid $70",
+   "age_note": "4 of 5 prices are more than 3 years old",
+   "trend": "trend steady: last 3 years median $185 against $203 before (-9%)",
    "priority": false
   },
   {
@@ -3163,12 +3294,22 @@
    "current_bid": 150.0,
    "bid_count": 11,
    "close": "11/11/2026 6:15:20 PM ADST",
-   "identification": "Two door mesh food safe on castors, distressed timber, brass latches. Looks like a modern reproduction (likely Asian hardwood), not a period colonial safe. Generic decorative furniture.",
+   "identification": "Large oak 2-door food safe / pie safe with mesh doors, 154 cm tall, on castors.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 189.22,
+     "date": "19 Nov 2023",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/364575658284",
+     "same_item": "close",
+     "note": "Australian antique hardwood meat safe, auction",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -3220,11 +3361,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 189.22,
+   "net_resale": 160.837,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $189 does not clear the current bid $150",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3239,12 +3380,22 @@
    "current_bid": 50.0,
    "bid_count": 2,
    "close": "11/11/2026 6:16:00 PM ADST",
-   "identification": "Oak/timber two-door ice chest with brass plate 'De Luxe', 101cm high, hinged chrome-type latches; photo confirms. (from earlier research; photos not re-checked this pass)",
+   "identification": "Oak ice chest, 'De Luxe' brass plaque, nickel latches, zinc-lined interior with shelf.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold items: oak ice chest (also 'timber ice box' and 'Glacier De Luxe ice chest'), Australia only, sold filter",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 147.72,
+     "date": "20 Sept 2024",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176528992602",
+     "same_item": "close",
+     "note": "Antique silky oak Mawson ice chest 1920s",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [
     {
@@ -3324,11 +3475,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 147.72,
+   "net_resale": 125.562,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $148 does not clear the current bid $50",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3343,7 +3494,7 @@
    "current_bid": 540.0,
    "bid_count": 7,
    "close": "11/11/2026 6:16:40 PM ADST",
-   "identification": "Very long cedar (or similar red timber) six-drawer serving table on turned legs, about 3.36 m (photo seen: polished top, 6 drawers with knob handles, 4 turned legs visible plus centre legs).",
+   "identification": "Impressive long cedar 6-drawer serving/refectory table c1870, turned legs, 336 cm long, with two benches seen in a photo.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Carters price guide: Australian cedar tables colonial and hall (carters.com.au/index.cfm/index/1163-tables-purpose-or-type-hall/ and 10484); also LiveAuctioneers/Invaluable search 'cedar six drawer table 3m' and eBay sold 'long cedar shop counter drawers'",
@@ -3477,7 +3628,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:20:00 PM ADST",
-   "identification": "New hand-knotted wool and bamboo silk contemporary rug, 367x270 (per brief).",
+   "identification": "New contemporary hand-knotted designer rug 367x270 cm, wool and bamboo silk, Jaipur, pink/coral/teal distressed overdyed pattern, documentation #413.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'bamboo silk rug hand knotted wool 360x270' and 'jaipur rug wool bamboo silk 3.6 x 2.7'; also Invaluable/LiveAuctioneers 'wool bamboo silk hand knotted rug 12x9' sold in Australia",
@@ -3581,12 +3732,22 @@
    "current_bid": 35.0,
    "bid_count": 4,
    "close": "11/11/2026 6:20:40 PM ADST",
-   "identification": "Late Victorian/Edwardian English flow blue transfer-printed toilet set (ewer, basin, lidded soap dish), floral with gilt; 'Primula' per title; maker unconfirmed, no backstamp photographed. Common class of ware. (from earlier research; photos not re-checked this pass)",
+   "identification": "English 'Primula' blue and white (flow blue style) 3-piece jug, basin and lid set, transfer printed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: flow blue jug basin set Australia; also LiveAuctioneers 'flow blue wash set Primula'",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 95.58,
+     "date": "22 Mar 2025 (date truncated in extract, year shown as 202x)",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/266257026961",
+     "same_item": "close",
+     "note": "Blakeney ironstone flow blue jug and basin set; different pattern",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -3610,11 +3771,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 95.58,
+   "net_resale": 81.243,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $96 does not clear the current bid $35",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3629,7 +3790,7 @@
    "current_bid": 230.0,
    "bid_count": 14,
    "close": "11/11/2026 6:21:00 PM ADST",
-   "identification": "Set of five Victorian-style lath-back (slat-back) kitchen chairs, elm seats, beech legs, varied tones (harlequin set); photo confirms",
+   "identification": "5 elm and beech cottage (slat-back kitchen) chairs.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: \"set of 5 elm beech kitchen chairs\" and \"antique elm beech lathe back chairs set\"",
@@ -3705,12 +3866,40 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:21:40 PM ADST",
-   "identification": "Victorian wind-out extension dining table, 241cm, reddish timber (looks mahogany-ish in photo, cedar not confirmed), turned legs on castors.",
+   "identification": "Large cedar turned-leg 2-leaf extension dining table 241x123.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Carters price guide: https://www.carters.com.au/index.cfm/index/12011-tables-large-dining-extending-australian-incl-cedar/ (sold cedar extension tables with 2+ leaves, note size and year)",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 463.33,
+     "date": "13 Dec 2024",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/296862384033",
+     "same_item": "close",
+     "note": "Antique cedar extension table with 6 chairs",
+     "old": false
+    },
+    {
+     "aud_price": 196.07,
+     "date": "8 Jan 2026",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/227011997858",
+     "same_item": "close",
+     "note": "Antique cedar one leaf extension table plus chairs",
+     "old": false
+    },
+    {
+     "aud_price": 988.21,
+     "date": "31 Aug 2024",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256611845814",
+     "same_item": "close",
+     "note": "Cedar extension dining table c1900",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -3798,11 +3987,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 463.33,
+   "net_resale": 393.8305,
+   "max_hammer": 155,
+   "status": "PASS",
+   "why": "3 same-item SOLD price(s), median $463; less 15% fees = $394; less $200 profit, / 1.22 premium = max hammer $155",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3817,7 +4006,7 @@
    "current_bid": 40.0,
    "bid_count": 1,
    "close": "11/11/2026 6:22:20 PM ADST",
-   "identification": "Victorian mid 19th century circular mahogany tilt-top pedestal centre table, faceted column, three scroll cabriole legs; top bolts missing.",
+   "identification": "Mid 19th c mahogany pedestal centre table, circular, 107 cm, noted no bolts, with carved trefoil base.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -3916,14 +4105,14 @@
    "strength": 6,
    "findings": "Colonial-style rustic farmhouse kitchen table: single-board style rectangular top with rounded corners and moulded edge, plain apron (no drawer visible), four turned legs with ring turnings. Base retains old dark paint/grime, untouched patina. Top shows a pronounced open grain more like Baltic pine or Oregon than typical fine-grained kauri, so the 'kauri' claim is not clearly supported. No maker's marks, labels or stamps visible. Size 157 x 84 cm is a useful dining/kitchen size; untouched primitive tables of this type sell to the decorator market and typically make $250-500 in Australia.",
    "condition": "Heavy wear and staining to the top (dark water marks, red stain, scratches), apron has split/cracked paint and a loose or patched board on one side, old paint flaking on legs, leg feet worn. Appears structurally complete; would need cleaning or restoration.",
-   "current_bid": 35.0,
-   "bid_count": 4,
+   "current_bid": 40.0,
+   "bid_count": 5,
    "close": "11/11/2026 6:24:20 PM ADST",
-   "identification": "Rustic Australian colonial-style pine farmhouse kitchen table, c. late 19th C, 157x84cm, turned ring legs, old paint, heavy top staining. Timber looks more like Baltic/Oregon than kauri.",
+   "identification": "Rustic kauri pine top farmhouse table 157x84, grey-painted turned legs.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 320.0,
@@ -3960,6 +4149,15 @@
      "same_item": "close",
      "note": "Baltic pine Barossa scullery table 137cm; page not opened.",
      "old": true
+    },
+    {
+     "aud_price": 145.7,
+     "date": "11 Dec 2025",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157531823319",
+     "same_item": "close",
+     "note": "Rustic pine farmhouse dining table",
+     "old": false
     }
    ],
    "sold_old": [],
@@ -4012,13 +4210,13 @@
      "old": false
     }
    ],
-   "resale": 310.0,
-   "net_resale": 263.5,
-   "max_hammer": 50,
+   "resale": 300.0,
+   "net_resale": 255.0,
+   "max_hammer": 45,
    "status": "PASS",
-   "why": "4 same-item SOLD price(s), median $310; less 15% fees = $264; less $200 profit, / 1.22 premium = max hammer $50. 3 of 4 prices are more than 3 years old. trend steady: last 3 years median $320 against $300 before (+7%)",
-   "age_note": "3 of 4 prices are more than 3 years old",
-   "trend": "trend steady: last 3 years median $320 against $300 before (+7%)",
+   "why": "5 same-item SOLD price(s), median $300; less 15% fees = $255; less $200 profit, / 1.22 premium = max hammer $45. 3 of 5 prices are more than 3 years old. trend falling: last 3 years median $233 against $300 before (-22%)",
+   "age_note": "3 of 5 prices are more than 3 years old",
+   "trend": "trend falling: last 3 years median $233 against $300 before (-22%)",
    "priority": false
   },
   {
@@ -4031,7 +4229,7 @@
    "current_bid": 50.0,
    "bid_count": 1,
    "close": "11/11/2026 6:28:40 PM ADST",
-   "identification": "Victorian round tilt-top pedestal dining table, 134 cm",
+   "identification": "Cedar round pedestal dining table c1865, dia 134 cm, tripod base (3 photos viewed). Colonial cedar is the desirable timber.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -4143,11 +4341,11 @@
    "current_bid": 80.0,
    "bid_count": 1,
    "close": "11/11/2026 6:29:00 PM ADST",
-   "identification": null,
-   "researched": false,
+   "identification": "Set of 8 mahogany shield-back (Hepplewhite style) dining chairs with striped upholstered seats (3 photos viewed). Reproduction-style.",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4156,8 +4354,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4172,7 +4370,7 @@
    "current_bid": 700.0,
    "bid_count": 1,
    "close": "11/11/2026 6:29:20 PM ADST",
-   "identification": "Room-size red-field Kashan-style Persian carpet, navy medallion, dark stains in field (photo seen); catalogued Mashhad.",
+   "identification": "Hand-knotted Persian Mashhad carpet 391 x 300 cm, wool pile, red field with central medallion and blue border, comes with authenticity documentation (5 photos viewed). Large room-size rug.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Persian Mashad Kashan carpet 390x300 room size; and Carters price guide 'Mashhad 393 x 300' result",
@@ -4217,6 +4415,15 @@
      "url": "https://www.gumtree.com.au/s-persian+mashad+rug/k0",
      "same_item": "close",
      "note": "Wool hand-knotted Mashad 390x300 cm, retail ask, condition unknown. Snippet only. Ceiling for a clean piece, not a price paid.",
+     "old": false
+    },
+    {
+     "aud_price": 5279.0,
+     "date": null,
+     "venue": "persianrugs.com.au (dealer, page shows Sold)",
+     "url": "https://www.persianrugs.com.au/mashad-persian-rug-ref-9731-388x300cm",
+     "same_item": "close",
+     "note": "Dealer asking price for a vintage c1970 Mashad 388x300 cm; ASKING only, not a sale",
      "old": false
     }
    ],
@@ -4274,10 +4481,10 @@
    "strength": 4,
    "findings": "Original pencil design sheet with German annotations (Fingerring, Armreifen/bracelets, gold, Brosche), numbered pattern numbers around 30587-30612, likely from a German (possibly Pforzheim) jewellery maker's pattern book c1900. Typed explanatory label on mount illegible at photo resolution. Ornate silver-painted frame.",
    "condition": "Foxing and a large tan stain to lower right of sheet, some toning.",
-   "current_bid": 30.0,
-   "bid_count": 2,
+   "current_bid": 40.0,
+   "bid_count": 4,
    "close": "11/11/2026 6:32:40 PM ADST",
-   "identification": "Framed original pencil jewellery pattern/trade sheet, c1900, German annotations, numbered pattern cells (rings, brooches, bracelets), cream paper with some foxing/staining, in ornate silver-painted frame with navy mount. Unsigned.",
+   "identification": "Framed hand-drawn jewellery design sheet c1900, black/gilt frame, pencil/ink designs of rings, brooches and pendants on a single sheet (2 photos viewed, with caption label). Lot 1179 is the pair.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: 'antique jewelry design drawing original sheet'; also 'Pforzheim Musterblatt Schmuck Entwurf um 1900' and LiveAuctioneers/Invaluable 'jewellery design drawings pencil c1900 sheet'",
@@ -4303,10 +4510,10 @@
    "strength": 3,
    "findings": "Framed original pencil pattern-book sheet of costume jewellery designs: buckles, brooches, sprays and bows, each in a ruled cell with a pattern number (e.g. 27324, 27325, 27326, 27377, 27382) and handwritten notes in German ('Schnalle', 'Brosche ... silber'), typical of a Gablonz/Bohemian or German paste jewellery maker's design archive c1900-1920s. Typed label on mount, not legible at photo resolution.",
    "condition": "Paper toned, appears intact; framed under glass in ornate silvered frame.",
-   "current_bid": 30.0,
-   "bid_count": 2,
+   "current_bid": 40.0,
+   "bid_count": 4,
    "close": "11/11/2026 6:33:00 PM ADST",
-   "identification": "Framed original pencil jewellery design sheet c1900-25 (German/Bohemian), 44x55cm.",
+   "identification": "Second framed hand-drawn jewellery design sheet c1900, same frame as lot 1178, designs of clasps, buckles and fittings (2 photos viewed).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: original jewellery design drawing pattern sheet Gablonz OR Bohemian OR antique buckle designs framed; also LiveAuctioneers/Invaluable: jewelry design drawings gouache sold",
@@ -4335,12 +4542,40 @@
    "current_bid": 60.0,
    "bid_count": 4,
    "close": "11/11/2026 6:33:40 PM ADST",
-   "identification": "Rectangular bevelled mirror in gilt composition frame with applied scroll and shell corner and centre mounts, 20th century reproduction. Roughly 100 x 70 cm from photo. No maker marks visible.",
+   "identification": "Gilt framed bevelled wall mirror, 74 x 103 cm, ornate gesso gilt frame (1 photo viewed).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 235.34,
+     "date": "2024-04-15",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/154803356259",
+     "same_item": "close",
+     "note": "Vintage carved gilt wood oval bevelled mirror",
+     "old": false
+    },
+    {
+     "aud_price": 139.98,
+     "date": "2025-07-22",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256939152680",
+     "same_item": "close",
+     "note": "Ornate gold gilt bevelled mirror, medium",
+     "old": false
+    },
+    {
+     "aud_price": 85.38,
+     "date": "2024-03-06",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/134939052352",
+     "same_item": "close",
+     "note": "Overmantel mirror, aged silver gilt frame",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -4409,11 +4644,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 139.98,
+   "net_resale": 118.98299999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $140 does not clear the current bid $60",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4428,7 +4663,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:34:00 PM ADST",
-   "identification": "Oil, gum-tree landscape with three picnickers (a standing man and two seated figures in white with sun hats) under tall white-trunked gums, soft green and blue tones; ornate gilt frame with red velvet slip; dark cursive signature lower left that reads like 'Wykeham Perry'",
+   "identification": "Oil painting 'Landscape with Figures', 29 x 40 cm, gilt and red velvet slip frame, gum trees with figures picnicking; attributed to Wykeham Perry (1936-2021, Victorian landscape painter, exhibited from 1970s) (2 photos viewed).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
@@ -4477,6 +4712,87 @@
      "url": "https://www.invaluable.com/auction-lot/wykeham-perry-australian-1936-2021-river-scene-oil-198-c-7c12398c44",
      "same_item": "close",
      "note": "'Wykeham Perry (Australian 1936-2021) \"River Scene\" oil', est A$200-300. Same size; river subject. The page shows a sold figure of A$90 while its current-bid field shows A$160 with 0 bids; recorded as the sold figure shown. 26.4% premium in lot terms.",
+     "old": false
+    },
+    {
+     "aud_price": 337.09,
+     "date": "2024-08-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/166341406386",
+     "same_item": "close",
+     "note": "Wykeham Perry oil, dealer fixed price",
+     "old": false
+    },
+    {
+     "aud_price": 333.93,
+     "date": "2024-09-10",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/166919804927",
+     "same_item": "close",
+     "note": "Wykeham Perry oil",
+     "old": false
+    },
+    {
+     "aud_price": 279.7,
+     "date": "2025-04-26",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167308135020",
+     "same_item": "close",
+     "note": "Wykeham Perry oil",
+     "old": false
+    },
+    {
+     "aud_price": 325.8,
+     "date": "2026-02-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167738215600",
+     "same_item": "close",
+     "note": "Wykeham Perry oil",
+     "old": false
+    },
+    {
+     "aud_price": 361.52,
+     "date": "2025-07-23",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/177208319812",
+     "same_item": "close",
+     "note": "Wykeham Perry Mount Warning oil",
+     "old": false
+    },
+    {
+     "aud_price": 340.24,
+     "date": "2025-03-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/186964312519",
+     "same_item": "close",
+     "note": "Wykeham Perry Perfect Day, signed oil on canvas",
+     "old": false
+    },
+    {
+     "aud_price": 211.81,
+     "date": "2024-04-15",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/225500497924",
+     "same_item": "close",
+     "note": "Framed Grampians Peak oil",
+     "old": false
+    },
+    {
+     "aud_price": 185.1,
+     "date": "2024-04-02",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/315220818816",
+     "same_item": "close",
+     "note": "Wykeham Perry original oil landscape",
+     "old": false
+    },
+    {
+     "aud_price": 182.26,
+     "date": "2023-12-22",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/165874232859",
+     "same_item": "close",
+     "note": "Wykeham Perry oil",
      "old": false
     }
    ],
@@ -4604,11 +4920,11 @@
      "old": false
     }
    ],
-   "resale": 260.0,
-   "net_resale": 221.0,
-   "max_hammer": 15,
+   "resale": 302.75,
+   "net_resale": 257.3375,
+   "max_hammer": 45,
    "status": "PASS",
-   "why": "5 same-item SOLD price(s), median $260; less 15% fees = $221; less $200 profit, / 1.22 premium = max hammer $15",
+   "why": "14 same-item SOLD price(s), median $303; less 15% fees = $257; less $200 profit, / 1.22 premium = max hammer $45",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4623,12 +4939,22 @@
    "current_bid": 30.0,
    "bid_count": 3,
    "close": "11/11/2026 6:35:00 PM ADST",
-   "identification": "Oil on canvas still life of white gardenias in a cream round vase, gilt frame, signature lower right illegible at photo size; artist unidentified",
+   "identification": "Signed oil 'Still Life', 46 x 55 cm, white gardenias in a vase, gilt frame (1 photo viewed). Signature not clearly legible in the photo.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 91.01,
+     "date": "2023-12-15",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/155924907089",
+     "same_item": "close",
+     "note": "Vintage signed oil still life flowers in ornate gilt frame",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -4679,11 +5005,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 91.01,
+   "net_resale": 77.3585,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $91 does not clear the current bid $30",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4698,7 +5024,7 @@
    "current_bid": 320.0,
    "bid_count": 2,
    "close": "11/11/2026 6:36:20 PM ADST",
-   "identification": "Framed watercolour portrait of an Aboriginal man with red headband against red rock and blue sky, gilt frame, cream mount; looks smooth and printed-like in photo 1, unverified.",
+   "identification": "Rex Battarbee 'Egoota (Pitjentjara)' c1957 watercolour, 38 x 50 cm. Earlier run read the artist's label (Maude Vizard-Wholohan Prize 1958 entry). Not researched further per brief.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Artnet past results for Rex Battarbee (artnet.com/artists/rex-battarbee/past-auction-results) and Artrecord Battarbee works on paper, looking for portrait/tribesman titles (Arunta Tribal Elder 2024, Chingu Pintubi Tribesman 1965 D+H 2008/2014, Portrait of Richard Moketarinja 1952) with prices; also search 'Battarbee Egoota'.",
@@ -4729,6 +5055,15 @@
      "url": "https://www.liveauctioneers.com/item/183823663",
      "same_item": "close",
      "note": "'Mt Hermannsburg' 1936, 39x56cm, with 1937 Adelaide exhibition provenance. Landscape, earlier and with provenance",
+     "old": false
+    },
+    {
+     "aud_price": 5000.0,
+     "date": "2024-08-15",
+     "venue": "Aalders Auctions (Invaluable)",
+     "url": "https://www.invaluable.com/artist/battarbee-rex-ux8w1y8jga/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "Arunta Tribal Elder, 1942, watercolour 34x47 cm. Listed as sold but Invaluable hides the price; estimate shown only, so no price can be recorded",
      "old": false
     }
    ],
@@ -4816,14 +5151,23 @@
      "same_item": "category",
      "note": "Watercolour landscape, 1936, credited to Battarbee. The page ties it to the 1936 trip when he tutored Namatjira and possibly to no. 38 'Valley in James Range' in a 1937 exhibition catalogue. Described as bright, largely unfaded, little foxing. Has an asking price and is not in the site's Sold gallery. The only live dealer asking price found. Not a portrait.",
      "old": false
+    },
+    {
+     "aud_price": 2000.0,
+     "date": "2016-09-20",
+     "venue": "Colville Auctions (Invaluable)",
+     "url": "https://www.invaluable.com/artist/battarbee-rex-ux8w1y8jga/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "UNSOLD (passed). Portrait of Willie Tjimba of the Pitjentjara Tribe, est $2,000-3,000, passed in",
+     "old": true
     }
    ],
    "paid": [],
-   "resale": 7500.0,
-   "net_resale": 6375.0,
-   "max_hammer": 5060,
+   "resale": 6504.0,
+   "net_resale": 5528.4,
+   "max_hammer": 4365,
    "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $7,500; less 15% fees = $6,375; less $200 profit, / 1.22 premium = max hammer $5,060",
+   "why": "4 same-item SOLD price(s), median $6,504; less 15% fees = $5,528; less $200 profit, / 1.22 premium = max hammer $4,365",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4838,12 +5182,40 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:36:40 PM ADST",
-   "identification": "Victorian flame mahogany two-tier chiffonier, scroll crest and supports, two arched-panel doors, bun feet, c1850 (from earlier research; photos not re-checked this pass)",
+   "identification": "Fine flame mahogany 2-tier chiffonier c1850 with carved scroll gallery back and two arched panel doors, 143 x 97 x 37 cm (3 photos viewed).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 312.57,
+     "date": "2024-05-05",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126343347009",
+     "same_item": "close",
+     "note": "c1860 Victorian mahogany chiffonier",
+     "old": false
+    },
+    {
+     "aud_price": 578.31,
+     "date": "2024-05-16",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/173802830663",
+     "same_item": "close",
+     "note": "Victorian mahogany 2 door chiffonier c1880 (dealer)",
+     "old": false
+    },
+    {
+     "aud_price": 250.12,
+     "date": "2024-08-19",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256607593591",
+     "same_item": "close",
+     "note": "Victorian mahogany chiffonier very good",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -4922,11 +5294,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "resale": 312.57,
+   "net_resale": 265.6845,
+   "max_hammer": 50,
+   "status": "PASS",
+   "why": "3 same-item SOLD price(s), median $313; less 15% fees = $266; less $200 profit, / 1.22 premium = max hammer $50",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4941,7 +5313,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:37:40 PM ADST",
-   "identification": "Oil on board, stockmen around night campfire, loose signature lower right, cream mount, silver/gilt frame; label 'Get a Move On Cook'.",
+   "identification": "Keith Naughton (1925-2019, Queensland outback artist) 'Get a Move On Cook', oil, 35 x 75 cm: a night camp scene of eight stockmen crouched or standing around an orange firelit clearing with a smoking billy, pink and blue shirts, dark blue-green sky; gilt and silver double frame, cream mat. 2 photos viewed. Armitage lists it as 'KEITH NAUGHTON OIL'.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Keith Naughton oil painting stockmen campfire; also Art Record Keith Naughton auction results for 'Get a Move On Cook'",
@@ -4973,6 +5345,42 @@
      "same_item": "close",
      "note": "The Fossicker, Opalton, Qld, est 300-500. Sold on the fourth try after passing in at 170, 325, 240. Database entry. AUD, rate 1.0. Invaluable does not say if premium is included.",
      "old": false
+    },
+    {
+     "aud_price": 625.17,
+     "date": "2023-12-13",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/255758662295",
+     "same_item": "close",
+     "note": "Keith Naughton oil, Stockmen in Camp Kimberley",
+     "old": false
+    },
+    {
+     "aud_price": 736.1,
+     "date": "2025-03-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/316143947359",
+     "same_item": "close",
+     "note": "Keith Naughton outback oil, horse and dog",
+     "old": false
+    },
+    {
+     "aud_price": 353.85,
+     "date": "2026-04-20",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/147245586548",
+     "same_item": "close",
+     "note": "Keith Naughton oil painting",
+     "old": false
+    },
+    {
+     "aud_price": 305.24,
+     "date": "2025-07-06",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/236167361195",
+     "same_item": "close",
+     "note": "Keith Naughton Turkeys Nest, auction",
+     "old": false
     }
    ],
    "sold_old": [],
@@ -4996,13 +5404,32 @@
      "old": false
     }
    ],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 300.0,
+     "date": "2025-03-11",
+     "venue": "Raffan Kelaher & Thomas (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/naughton-keith-od04v3mle1/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "'Outstation Camp Fire', oil on board 39 x 49 cm; estimate only",
+     "old": false
+    },
+    {
+     "aud_price": 250.0,
+     "date": "2019-09-15",
+     "venue": "Davidson (via Invaluable)",
+     "url": "https://www.invaluable.com/artist/naughton-keith-od04v3mle1/sold-at-auction-prices/",
+     "same_item": "partial",
+     "note": "'Stockmen Yarning, Hamilton Bore' 39 x 29 cm; estimate only",
+     "old": true
+    }
+   ],
    "paid": [],
    "resale": 600.0,
    "net_resale": 510.0,
    "max_hammer": 250,
    "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $600; less 15% fees = $510; less $200 profit, / 1.22 premium = max hammer $250",
+   "why": "7 same-item SOLD price(s), median $600; less 15% fees = $510; less $200 profit, / 1.22 premium = max hammer $250",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5017,7 +5444,7 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 6:39:00 PM ADST",
-   "identification": "Small river watercolour, signed W. Menzies Gibb.",
+   "identification": "W. Menzies-Gibb watercolour 'Riverside Scene', 28 x 22 cm, soft autumnal trees by water, framed under glass (2 photos viewed). William Menzies Gibb (1859-1931) Scottish-born NZ/Australian landscape painter, works in Christchurch Art Gallery.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold listings: 'W Menzies Gibb watercolour'; Artrecord artist 12621 works on paper results (signed in); invaluable.com 'William Menzies Gibb' sold",
@@ -5056,7 +5483,7 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 6:40:20 PM ADST",
-   "identification": "Two small framed mixed-media works signed Ryllton Viney.",
+   "identification": "Two framed artworks by Ryllton Viney (Tasmanian printmaker/artist), landscape prints/drawings in black frames with white mounts, largest 13 x 32 cm (3 photos viewed).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "Artrecord.com artist 10998 Viney Ryllton results (and AASD 42675) to see the price of the Lawsons watercolour; eBay sold: 'Ryllton Viney'",
@@ -5104,7 +5531,7 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 6:41:40 PM ADST",
-   "identification": "Small watercolour of cottage with hens by a river, signed lower left in a form reading W. Menzies Gibb (photo 2); catalogue and cloud ID attribute to William Menzies Gibb",
+   "identification": "W. Menzies-Gibb watercolour 'Feeding the Hens', 23 x 21 cm, cottage and trees, framed (2 photos viewed).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "artrecord.com or aasd.com.au William Menzies Gibb past sales (watercolours under 30 cm, Australian sales, last 3 years); also eBay sold 'Menzies Gibb watercolour'",
@@ -5168,10 +5595,10 @@
    "strength": 6,
    "findings": "Hand-coloured steel engraved map 'Van Diemen's Island or Tasmania' in the John Tallis decorative style, with a Greek key border, a top vignette view (Hobart Town and Mount Wellington), a lower left vignette of buildings, a lower right vignette of a thylacine-like animal, and a coin inset. This matches the c.1851 Tallis/Rapkin map. At this resolution it cannot be confirmed whether it is an original 1850s engraving or a later facsimile. The paper tone and the light colouring look consistent with an original.",
    "condition": "Clean and evenly toned, no obvious tears. Framed under glass with a red mount. Not examined out of the frame.",
-   "current_bid": 15.0,
-   "bid_count": 1,
+   "current_bid": 25.0,
+   "bid_count": 3,
    "close": "11/11/2026 6:42:00 PM ADST",
-   "identification": "Framed Tallis map of Van Diemen's Island, 36x28cm",
+   "identification": "Framed Tallis map of Van Diemen's Land (Tasmania), 36 x 28 cm, burgundy mount, wooden frame (1 photo viewed). John Tallis map, c1851 steel engraving with vignettes.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: Tallis Rapkin Van Diemen's Land Tasmania map 1851 original (sold, completed items); also LiveAuctioneers/Invaluable sold: 'Tallis Van Diemen's Island or Tasmania'",
@@ -5203,6 +5630,15 @@
      "same_item": "yes",
      "note": "Same map; outside 24 months",
      "old": true
+    },
+    {
+     "aud_price": 65.2,
+     "date": "2026-01-25",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/168078857751",
+     "same_item": "close",
+     "note": "Van Diemens Land Tasmania map 1851 framed J Tallis, antique-style print",
+     "old": false
     }
    ],
    "sold_old": [],
@@ -5274,13 +5710,13 @@
      "old": false
     }
    ],
-   "resale": 77.0,
-   "net_resale": 65.45,
+   "resale": 71.1,
+   "net_resale": 60.434999999999995,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $77 does not clear the current bid $15",
-   "age_note": "3 of 3 prices are more than 3 years old",
-   "trend": "no sales in the last 3 years",
+   "why": "max hammer $0 from a median SOLD of $71 does not clear the current bid $25",
+   "age_note": "3 of 4 prices are more than 3 years old",
+   "trend": "trend falling: last 3 years median $65 against $77 before (-15%)",
    "priority": false
   },
   {
@@ -5293,7 +5729,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 6:42:20 PM ADST",
-   "identification": "Framed Iban pua kumbu ikat fragment, 93x45, label claims 19th C (per brief).",
+   "identification": "Handwoven sacred ikat textile from Borneo, 19th century per catalogue, 93 x 45 cm, framed under glass with an information card (2 photos viewed). Red/cream ikat with figures.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "LiveAuctioneers price results: 'pua kumbu' and 'Iban ikat textile' sold, plus eBay sold listings 'Iban pua kumbu framed'",
@@ -5441,8 +5877,8 @@
    "strength": 4,
    "findings": "Boxed Stirling (Aldi house brand) 25L air fryer oven with 10 inch pizza stone, model/code 19775 on box.",
    "condition": "Box sealed with tape, appears unopened; box edges scuffed.",
-   "current_bid": 40.0,
-   "bid_count": 5,
+   "current_bid": 45.0,
+   "bid_count": 7,
    "close": "11/11/2026 6:43:20 PM ADST",
    "identification": "Stirling 25L air fryer oven with 10 inch pizza stone, boxed, 2 photos.",
    "researched": true,
@@ -5501,7 +5937,7 @@
    "current_bid": 125.0,
    "bid_count": 20,
    "close": "11/11/2026 6:44:20 PM ADST",
-   "identification": "Yamaha Natural Sound silver stereo receiver (R-S300 type) and silver CD player with USB (CD-S300 type), pair of black Yamaha bookshelf speakers; model labels not legible in photo (from earlier research; photos not re-checked this pass)",
+   "identification": "Yamaha hi-fi system: silver Natural Sound stereo receiver, matching CD player with USB port, two black bookshelf speakers and two remotes (3 photos viewed). Model numbers not legible in photos (looks like Yamaha R-S/A-S series receiver and CD-S series player).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed: Yamaha R-S300 ; Yamaha CD-S300 ; Yamaha NS-BP150 (or NS-BP200) speakers",
@@ -5656,10 +6092,10 @@
    "strength": 6,
    "findings": "Westinghouse stainless built-in electric wall oven, model WVE614SC per the title, with the accessories still taped in their carton inside, so it looks unused. Also a Westinghouse black ceramic glass 4-zone electric cooktop with knobs. Rating plates are visible but not legible.",
    "condition": "Oven appears new and unused. Cooktop glass is clean with no visible chips. Not tested.",
-   "current_bid": 60.0,
-   "bid_count": 2,
+   "current_bid": 70.0,
+   "bid_count": 3,
    "close": "11/11/2026 6:44:40 PM ADST",
-   "identification": "Westinghouse 60cm stainless built-in electric wall oven (three knobs, stickers still on door, looks unused) plus cooktop per catalogue; only the oven shown in photo 1",
+   "identification": "Westinghouse built-in wall oven WVE614SC (stainless, black glass) with a ceramic hotplate/cooktop, described as unused, not tested (3 photos viewed).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Westinghouse WVE614SC oven; also Westinghouse ceramic cooktop WHC643BC (Sold items, Australia). Also Facebook Marketplace / Gumtree Tasmania for used wall ovens.",
@@ -5732,10 +6168,10 @@
    "strength": 7,
    "findings": "LG CordZero A9T-MAX All-in-One Tower auto-emptying handstick plus power mop vacuum, model A9T-MAX.ECGRLAP, colour green, charging station VDS-ST2GU.ACGRLAP, made in Korea. Box still strapped, appears new. Current premium model with high retail (roughly $1000+ RRP).",
    "condition": "Box strapped, minor scuffs and a small tear at box corner; contents not seen.",
-   "current_bid": 200.0,
-   "bid_count": 5,
+   "current_bid": 210.0,
+   "bid_count": 6,
    "close": "11/11/2026 6:45:00 PM ADST",
-   "identification": "Boxed, strapped LG CordZero All-in-One Tower auto-emptying handstick plus power mop vac (A9T-MAX per cloud read; box shows All-in-One Tower), appears new.",
+   "identification": "LG CordZero A9T-MAX with All-in-One auto-emptying tower, handstick vacuum and power mop, forest green, new in box (3 photos viewed; box label A9T-MAX ECGRLAP GREEN).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed listings: LG CordZero A9T-MAX (also A9T-MAX tower new in box)",
@@ -5783,7 +6219,7 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 6:50:00 PM ADST",
-   "identification": "Samson (not Samsung) cream masticating juicer, GB-9001/9002 family, plus Anko gaming microphone set (per cloud research; photos not re-viewed)",
+   "identification": "Samsung juicer with accessories, plus a gaming microphone set with boom arm (2 photos viewed). Juicer is going order.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed listings: Samson juicer GB-9001 OR GB-9002 OR masticating",
@@ -5893,8 +6329,8 @@
    "strength": 4,
    "findings": "Two modern aluminium tray-top walker trolleys with brakes, one with instruction sheet; auction tags attached.",
    "condition": "Appear used but complete, wheels and brakes present.",
-   "current_bid": 65.0,
-   "bid_count": 12,
+   "current_bid": 75.0,
+   "bid_count": 14,
    "close": "11/11/2026 6:50:40 PM ADST",
    "identification": "Two walker trolleys with beige trays, hand brakes, swivel wheels, 1 photo.",
    "researched": true,
@@ -5951,8 +6387,8 @@
    "strength": 4,
    "findings": "Hisense approx 32 inch smart TV shown powered on displaying ABC News, with Hisense remote (Netflix, YouTube, Stan, etc buttons).",
    "condition": "Working per photo; no visible screen damage.",
-   "current_bid": 75.0,
-   "bid_count": 12,
+   "current_bid": 80.0,
+   "bid_count": 13,
    "close": "11/11/2026 6:52:20 PM ADST",
    "identification": "Hisense approx 32 inch smart TV, picture on, with remote (low value)",
    "researched": true,
@@ -6039,12 +6475,40 @@
    "current_bid": 105.0,
    "bid_count": 16,
    "close": "11/11/2026 6:54:00 PM ADST",
-   "identification": "Modern laminate fold-out sewing cabinet on castors, probably Horn or similar Australian made; no machine. Generic item, researched briefly.",
+   "identification": "Woodgrain melamine sewing machine cabinet that opens to a fold-out table (Horn-style cabinet), 2 photos viewed.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Horn sewing cabinet woodgrain fold out (Australia)",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 191.24,
+     "date": "2024-11-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116337067943",
+     "same_item": "close",
+     "note": "Horn sewing machine cabinet, free postage",
+     "old": false
+    },
+    {
+     "aud_price": 114.13,
+     "date": "2025-11-04",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116855506014",
+     "same_item": "close",
+     "note": "Horn Sovereign sewing/craft cabinet, excellent used",
+     "old": false
+    },
+    {
+     "aud_price": 146.98,
+     "date": "2024-09-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/145928033824",
+     "same_item": "close",
+     "note": "Horn sewing machine cabinet",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -6096,11 +6560,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 146.98,
+   "net_resale": 124.93299999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $147 does not clear the current bid $105",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6115,12 +6579,22 @@
    "current_bid": 80.0,
    "bid_count": 4,
    "close": "11/11/2026 6:55:20 PM ADST",
-   "identification": "Pearl VORG 101 two-channel guitar combo amp (panel reads VORG 101), black tolex with silver-check grille, spring reverb control at side, on castors; grubby, worn tolex.",
+   "identification": "Pearl guitar amplifier, solid state, grille cloth with control panel, 1 photo viewed. Title says 'Borg 101' but Google shows the maker's model is Pearl VORG 101 (Japan-made, 1970s-80s).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold/completed items: 'Pearl Vorg 101 amp' and 'Pearl Sunflower amp'; also Reverb sold: 'Pearl Vorg'",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 146.56,
+     "date": "2025-12-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/197867008905",
+     "same_item": "close",
+     "note": "Rare 1970s Pearl VORG-101 solid-state guitar amp head, Japan-made, sold on eBay UK (Terapeak converted to AU$)",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -6163,11 +6637,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 146.56,
+   "net_resale": 124.576,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $147 does not clear the current bid $80",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6179,8 +6653,8 @@
    "strength": 4,
    "findings": "Modern decorative chrome spotlight-style lamp on timber tripod, catalogued as replica; not a genuine theatre or film light.",
    "condition": "Appears clean and complete; working per catalogue.",
-   "current_bid": 25.0,
-   "bid_count": 4,
+   "current_bid": 35.0,
+   "bid_count": 6,
    "close": "11/11/2026 6:59:20 PM ADST",
    "identification": "Modern replica search light lamp. Est 20-30, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: metal searchlight-style head on a wooden tripod, standing on a white board.",
    "researched": true,
@@ -6234,7 +6708,7 @@
    "net_resale": 70.35875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $83 does not clear the current bid $25",
+   "why": "max hammer $0 from a median SOLD of $83 does not clear the current bid $35",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6313,8 +6787,8 @@
    "strength": 4,
    "findings": "Modern bronze-effect resin seated greyhound/whippet figure, decorative.",
    "condition": "Appears undamaged.",
-   "current_bid": 105.0,
-   "bid_count": 12,
+   "current_bid": 110.0,
+   "bid_count": 13,
    "close": "11/11/2026 7:07:00 PM ADST",
    "identification": "Bronze-effect resin seated greyhound figure, two photos (low value)",
    "researched": true,
@@ -6382,7 +6856,7 @@
    "current_bid": 60.0,
    "bid_count": 5,
    "close": "11/11/2026 7:09:40 PM ADST",
-   "identification": "Curved dark grey B&O CD/radio unit with top strip (STOP, LOAD, CD, RADIO, VOLUME), most likely BeoSound 1; catalogue says radio goes, so CD side unknown. Photo shows a grille-fronted curved speaker body.",
+   "identification": "Bang & Olufsen BeoSound 1 CD player / AM-FM radio (curved front, dark cloth grille, touch strip along top reading Power, CD, Radio, Volume, Stop, Standby/Go, BANG & OLUFSEN in the middle, two photos). Same lot as the earlier run.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU and eBay US sold/completed: Bang Olufsen Beosound 1 (include 'parts' and 'not working'); also LiveAuctioneers price-result bang-and-olufsen-beosound-cd-player-and-radio",
@@ -6440,6 +6914,69 @@
      "url": "https://www.ebay.com.au/itm/237063623651",
      "same_item": "yes",
      "note": "BeoSound 1 radio/CD, won't read CDs, sold as PARTS; closest to this lot (radio works, CD uncertain)",
+     "old": false
+    },
+    {
+     "aud_price": 659.77,
+     "date": "2025-11-20",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116780297959",
+     "same_item": "close",
+     "note": "Beosound 1 single CD player and radio, rare petrol green",
+     "old": false
+    },
+    {
+     "aud_price": 434.02,
+     "date": "2024-08-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126569676484",
+     "same_item": "close",
+     "note": "Beosound 1 CD/AM/FM, working, hardly used",
+     "old": false
+    },
+    {
+     "aud_price": 831.78,
+     "date": "2025-02-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167227077668",
+     "same_item": "close",
+     "note": "Beosound 1 CD player/radio/aux speaker system",
+     "old": false
+    },
+    {
+     "aud_price": 452.2,
+     "date": "2024-12-04",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/226459231234",
+     "same_item": "close",
+     "note": "Beosound 1 model 2585 radio tuner/CD player",
+     "old": false
+    },
+    {
+     "aud_price": 736.74,
+     "date": "2026-07-06",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/278157515025",
+     "same_item": "close",
+     "note": "Beosound 1 CD",
+     "old": false
+    },
+    {
+     "aud_price": 592.8,
+     "date": "2024-07-14",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/285956161997",
+     "same_item": "close",
+     "note": "Beosound 1 CD player/AM/FM radio, auction",
+     "old": false
+    },
+    {
+     "aud_price": 941.55,
+     "date": "2026-09-10",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/287282809032",
+     "same_item": "close",
+     "note": "Beosound 1 CD player/radio",
      "old": false
     }
    ],
@@ -6503,11 +7040,11 @@
      "old": false
     }
    ],
-   "resale": 476.745,
-   "net_resale": 405.23325,
-   "max_hammer": 165,
+   "resale": 579.28,
+   "net_resale": 492.388,
+   "max_hammer": 235,
    "status": "PASS",
-   "why": "6 same-item SOLD price(s), median $477; less 15% fees = $405; less $200 profit, / 1.22 premium = max hammer $165",
+   "why": "13 same-item SOLD price(s), median $579; less 15% fees = $492; less $200 profit, / 1.22 premium = max hammer $235",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6644,7 +7181,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:22:20 PM ADST",
-   "identification": "Saeco bean-to-cup super-automatic with Bean Switcher badge (Moltio-type, model not read), stainless/black, with a cardboard box of accessories (Saeco box, tin, Breville box, cups)",
+   "identification": "Saeco bean-to-cup automatic coffee machine (stainless/black, Philips-era Saeco model, probably Xelsis or similar) plus a box of accessories and beans (1 photo viewed at full size). Model not legible. Sold POWER ON tested.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: Saeco Moltio OR Xelsis bean switcher used, Australia, sold items",
@@ -6743,7 +7280,26 @@
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 62.83,
+     "date": "2026-08-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/186636975184",
+     "same_item": "close",
+     "note": "DeLonghi Nespresso Gran Lattissima machine",
+     "old": false
+    },
+    {
+     "aud_price": 59.84,
+     "date": "2026-07-08",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/186636980423",
+     "same_item": "close",
+     "note": "DeLonghi Nespresso Gran Lattissima machine",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -6758,11 +7314,11 @@
     }
    ],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 61.335,
+   "net_resale": 52.13475,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $61 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6777,11 +7333,11 @@
    "current_bid": 80.0,
    "bid_count": 6,
    "close": "11/11/2026 7:32:40 PM ADST",
-   "identification": "Modern red-stained pine chest, 2 over 4 drawers, turned knobs, plinth base, no maker label. Generic modern furniture.",
+   "identification": "Six drawer stained pine tallboy chest, 116x90x44 cm (2 photos viewed).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -6843,11 +7399,11 @@
    "current_bid": 40.0,
    "bid_count": 5,
    "close": "11/11/2026 7:39:00 PM ADST",
-   "identification": "20th century reproduction Victorian-style mahogany-stained love seat / settee, carved crest, scroll arms, turned legs, buttoned salmon velvet with braid trim. Generic, not antique.",
+   "identification": "Victorian-style/Louis revival settee love seat, 120 cm, salmon pink buttoned velvet, dark timber legs (3 photos).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: Victorian style love seat settee buttoned velvet mahogany reproduction (Australia)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -6867,7 +7423,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6882,7 +7438,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:44:00 PM ADST",
-   "identification": "Sony TC-630 stereo reel-to-reel with speakers, no power cord, untested",
+   "identification": "Sony TC-630 Tapecorder stereo three-head solid-state reel-to-reel tape deck, c.1968, in a wooden case; no power cord (3 photos incl. a Sony service manual page).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Sony TC-630 (with speakers) and Sony TC-630 no power cord / for parts, last 90 days, Australia and US",
@@ -6895,6 +7451,33 @@
      "url": "https://www.ebay.com.au/itm/128155171495",
      "same_item": "yes",
      "note": "Sony TC-630 Stereo Center, not tested; speakers not confirmed",
+     "old": false
+    },
+    {
+     "aud_price": 121.05,
+     "date": "2024-08-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116300721444",
+     "same_item": "yes",
+     "note": "Sony TC-630 reel to reel, no spec given, 5 bids",
+     "old": false
+    },
+    {
+     "aud_price": 71.45,
+     "date": "2026-11-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/128155171495",
+     "same_item": "yes",
+     "note": "Sony TC-630 tapecorder auction",
+     "old": false
+    },
+    {
+     "aud_price": 54.85,
+     "date": "2024-07-11",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256562418526",
+     "same_item": "yes",
+     "note": "Sony TC-630 three-head, 6 bids",
      "old": false
     }
    ],
@@ -6976,11 +7559,11 @@
      "old": false
     }
    ],
-   "resale": 69.99,
-   "net_resale": 59.491499999999995,
+   "resale": 70.72,
+   "net_resale": 60.111999999999995,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $70 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $71 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false

@@ -68,11 +68,47 @@
    "url": "gowans lot id 444802",
    "same_item": "close",
    "note": "Qty of asst tools incl hammer, pipe wrench, shifter; 4 bids; local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.53",
+   "currency": "AUD",
+   "aud_price": 95.53,
+   "date": "2025-12-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127569017937",
+   "same_item": "partial",
+   "note": "2 vintage 4.5 lb axe heads, Brades",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.73",
+   "currency": "AUD",
+   "aud_price": 42.73,
+   "date": "2024-02-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/196250775069",
+   "same_item": "partial",
+   "note": "Vintage axe and handle 4.5 lb unmarked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$72.15",
+   "currency": "AUD",
+   "aud_price": 72.15,
+   "date": "2025-12-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127569040069",
+   "same_item": "partial",
+   "note": "2 vintage Hytest axe heads",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) crate hand tools; work/comps.py axe, chopmaster (no hits), box spanners pliers, tools. Web searches skipped: generic lot. eBay sold would not materially change value. | chrome: None; WebSearch: vintage hand tools crate with axe auction sold price (nothing comparable priced); low value",
+ "searches_tried": "comps.py (pipeline) crate hand tools; work/comps.py axe, chopmaster (no hits), box spanners pliers, tools. Web searches skipped: generic lot. eBay sold would not materially change value. | chrome: None; WebSearch: vintage hand tools crate with axe auction sold price (nothing comparable priced); low value | chrome: None; WebSearch: vintage hand tools crate with axe auction sold price (nothing comparable priced); low value | Terapeak AU 3yr (dayRange=1095): vintage hand tools job lot axe (0 rows); vintage axe tools lot (50 rows)",
  "needs_chrome": false,
- "viewing_check": "Low value.",
+ "viewing_check": "Low value. | TERAPEAK RE-CHECK: Check axe maker (Hytest, Brades) and any named planes/chisels.",
  "chrome_hint": " Bidder signal: 122213 - Westbury, TAS (seen in 140 sales); 142868 - Perth, (seen in 18 sales); 227440 - Zeehan, (seen in 34 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
  "chrome_done": true
 }

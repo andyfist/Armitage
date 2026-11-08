@@ -58,11 +58,59 @@
    "same_item": "partial",
    "note": "'Ten Little Nigger Boys 1956 Hardcover', pre-owned, listing showed 'or Best Offer' but the item page reads SOLD AU $2,090.70 incl buyer protection fee, sold Sun 8 Nov 2026 6:38pm. Edition, illustrator and condition not confirmed as Nora Case pocket edition, so partial. Outlier: only sale of this title found; price paid may reflect a specific desirable edition. | Corrected via Terapeak 8 Nov 2026: sold A$700, not A$2,090.70. Other copies 2024-26 sold A$4.83-51.77 (Birn Bros A$28.43/A$30.80, Juvenile Productions A$51.77), so this is an outlier.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.80",
+   "currency": "AUD",
+   "aud_price": 30.8,
+   "date": "2026-02-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/236616241919",
+   "same_item": "partial",
+   "note": "Children's book Ten Little N Boys, edition not stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.77",
+   "currency": "AUD",
+   "aud_price": 51.77,
+   "date": "2026-03-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/287171548802",
+   "same_item": "partial",
+   "note": "Ten Little N Boys juvenile book, edition not stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.43",
+   "currency": "AUD",
+   "aud_price": 28.43,
+   "date": "2025-10-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326826037258",
+   "same_item": "partial",
+   "note": "Vintage children's book Ten Little N Boys",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$7.51",
+   "currency": "AUD",
+   "aud_price": 7.51,
+   "date": "2025-06-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/177215261549",
+   "same_item": "partial",
+   "note": "Picture book, low-grade",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for title and Nora Case: no hits. WebSearch twice (title/sold; edition/price): asking prices only, no sold or auction results found. Invaluable artist page for Norah Case fetch returned nothing parseable; AbeBooks author page fetch unhelpful. eBay sold listings would settle it (closed to us). Gowans/Armitage not searched beyond comps DB. Kaplan and Sexual Love dropped under book rule (mass-printed). | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant)",
+ "searches_tried": "Local comps.py (pipeline and work) for title and Nora Case: no hits. WebSearch twice (title/sold; edition/price): asking prices only, no sold or auction results found. Invaluable artist page for Norah Case fetch returned nothing parseable; AbeBooks author page fetch unhelpful. eBay sold listings would settle it (closed to us). Gowans/Armitage not searched beyond comps DB. Kaplan and Sexual Love dropped under book rule (mass-printed). | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | Terapeak AU 3yr (dayRange=1095): ten little nigger boys (6 rows); nora case ten little (0 rows); complete book of sexual love (8 rows, only Kama Sutra types A$15-56)",
  "needs_chrome": false,
  "chrome_hint": "eBay sold/completed: Nora Case \"Ten Little Nigger Boys\" (and Girls) Chatto Windus; also Invaluable/WorthPoint sold for same",
- "viewing_check": "Not researched beyond head start; only Nora Case title of any interest. Offensive title may limit eBay listings. Photo cannot show the title page. Ask for imprint/date and check it is the Nora Case illustrated edition; one eBay AU sale of a 1956 hardcover edition reached A$2,090.70 on 8 Nov 2026 but that edition may differ. Offensive title, specialist collector market.",
+ "viewing_check": "Not researched beyond head start; only Nora Case title of any interest. Offensive title may limit eBay listings. Photo cannot show the title page. Ask for imprint/date and check it is the Nora Case illustrated edition; one eBay AU sale of a 1956 hardcover edition reached A$2,090.70 on 8 Nov 2026 but that edition may differ. Offensive title, specialist collector market. | TERAPEAK RE-CHECK: Terapeak confirms A$700 for item 237118180231 (1956 hardcover). Could not open the listing (eBay error) to confirm illustrator/publisher, so check the lot copy against it: Nora Case illustrated, publisher, date. Complete Book of Sexual Love: no matching Terapeak sales.",
  "chrome_done": true
 }

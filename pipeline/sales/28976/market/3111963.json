@@ -48,12 +48,36 @@
    "same_item": "category guide",
    "note": "Antique Royal Doulton blue floral jug and wash basin set.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$115.34",
+   "currency": "AUD",
+   "aud_price": 115.34,
+   "date": "2024-10-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/276355255403",
+   "same_item": "partial",
+   "note": "Antique 1800s English ceramic basin/jug, quality unknown",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$66.45",
+   "currency": "AUD",
+   "aud_price": 66.45,
+   "date": "2024-03-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/255928572785",
+   "same_item": "partial",
+   "note": "Vintage repro cobalt and white jug and basin",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work and pipeline) for ironstone jug basin, toilet jug basin, wash jug basin; Gowans lots API jug basin. Generic item so stopped early; no web search. eBay sold not needed. | chrome: None; eBay AU sold: victorian jug and basin wash set; low value",
+ "searches_tried": "comps.py (work and pipeline) for ironstone jug basin, toilet jug basin, wash jug basin; Gowans lots API jug basin. Generic item so stopped early; no web search. eBay sold not needed. | chrome: None; eBay AU sold: victorian jug and basin wash set; low value | chrome: None; eBay AU sold: victorian jug and basin wash set; low value | Terapeak AU 3yr (dayRange=1095): victorian jug and basin set (2 rows)",
  "rate_note": "All AUD, no conversion.",
  "needs_chrome": false,
- "viewing_check": "Low value.",
+ "viewing_check": "Low value. | TERAPEAK RE-CHECK: Cheap enough to buy for local resale only; check for cracks.",
  "chrome_hint": " Bidder signal: 88674 - Gormanston, NSW (interstate, seen in 46 sales). Look harder for sold prices of this exact item.",
  "chrome_done": true
 }

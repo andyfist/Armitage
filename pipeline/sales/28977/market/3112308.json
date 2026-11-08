@@ -27,14 +27,14 @@
   },
   {
    "kind": "SOLD",
-   "price": "$22,000 (premium status unknown)",
+   "price": "A$22,000 hammer, premium unknown",
    "currency": "AUD",
    "aud_price": 22000,
    "date": "2008",
    "venue": "Shannons Melbourne International Motorshow Auction 2008 lot 8",
    "url": "https://auctions.shannons.com.au/auctions/2008-melbourne-international-motorshow-auction/G03CNC871D210JAX",
-   "same_item": "category guide",
-   "note": "Snippet only, not verified. 1927 Chevrolet Capital AA roadster, not a tourer, and 18 years old. Weak guide only."
+   "same_item": "close",
+   "note": "head start item; 2008 so very old"
   },
   {
    "kind": "ASKING",
@@ -84,26 +84,26 @@
   },
   {
    "kind": "ASKING",
-   "price": "A$25,000",
+   "price": "A$30,000 (another)",
    "currency": "AUD",
-   "aud_price": 25000,
+   "aud_price": 30000,
    "date": null,
    "venue": "Just Cars",
    "url": "https://www.justcars.com.au/",
    "same_item": "close",
-   "note": "1927 Chevrolet tourer, originally sold in Rockhampton, fully restored, new leather interior (ad ref JCW3822452; link not saved). Dealer ask, not a sale.",
+   "note": "1927 Chevrolet tourer QLD 4347; ask",
    "via": "chrome"
   },
   {
    "kind": "ASKING",
-   "price": "A$16,000 ONO",
+   "price": "A$30,000 (another)",
    "currency": "AUD",
-   "aud_price": 16000,
+   "aud_price": 30000,
    "date": null,
    "venue": "Just Cars",
    "url": "https://www.justcars.com.au/",
    "same_item": "close",
-   "note": "1927 Chevrolet tourer Capitol, restored ~6 years ago, 12 volt, spares (ref JCW2862858). Ask, undated.",
+   "note": "1927 Chevrolet tourer QLD 4347; ask",
    "via": "chrome"
   },
   {
@@ -144,14 +144,14 @@
   },
   {
    "kind": "SOLD",
-   "price": "US$12,100",
+   "price": "US$20,900",
    "currency": "USD",
-   "aud_price": 18150,
-   "date": "2026-05-13",
+   "aud_price": 31350,
+   "date": "2025-10-31",
    "venue": "US auction via classic.com index (Series AA Capitol)",
    "url": "https://www.classic.com/m/chevrolet/series-aa-capitol/year-1927",
    "same_item": "category guide",
-   "note": "1927 Chevrolet Series AA Capitol, condition and body style not shown; venue and individual listing link not shown on the index page. Converted at an assumed US$1 = A$1.50 (not looked up).",
+   "note": "1927 Chevrolet Series AA Capitol, Fort Worth; venue and body style not shown. Converted at an assumed US$1 = A$1.50 (not looked up).",
    "via": "chrome"
   },
   {
@@ -179,10 +179,10 @@
    "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with chevrolet tourer, chevrolet 1927, chev tourer: one Armitage hit. Gowans API for chevrolet tourer, chevrolet 1927, chev tourer, chevrolet superior, vintage tourer returned nothing. WebSearch for Armitage past lots (no Armitage pages returned), 1927 Capitol tourer sold Australia, 1927 Superior tourer for sale Australia. Fetched Burns, Collectable Cars, JustCars pages. eBay sold prices, Shannons past results and Burns & Co results would settle it better; not reached. | chrome: Google: 1927 Chevrolet tourer sold shannons; Shannons auction results; Chevrolet auction result Australia 2025; BaT; Brightwells; Burns & Co; Glenmarch (blocked by bot check, skipped); WebSearch: 1927 Chevrolet tourer sold Australia 2025 (Shannons, Donington, Lloyds, Seven82); Bring a Trailer 1927/1928 Chevrolet Capitol/National; Collecting Cars; classic.com Series AA Capitol index; Anglia Car Auctions lot page; Just Cars 1928 listing; Burns & Co page (no result shown). auctions.shannons.com.au search page showed a certificate privacy error in the browser, so searched via web search only. Carsales sold data is not public.",
+ "searches_tried": "comps.py (pipeline and work) with chevrolet tourer, chevrolet 1927, chev tourer: one Armitage hit. Gowans API for chevrolet tourer, chevrolet 1927, chev tourer, chevrolet superior, vintage tourer returned nothing. WebSearch for Armitage past lots (no Armitage pages returned), 1927 Capitol tourer sold Australia, 1927 Superior tourer for sale Australia. Fetched Burns, Collectable Cars, JustCars pages. eBay sold prices, Shannons past results and Burns & Co results would settle it better; not reached. | chrome: Google: 1927 Chevrolet tourer sold shannons; Shannons auction results; Chevrolet auction result Australia 2025; BaT; Brightwells; Burns & Co; Glenmarch (blocked by bot check, skipped); WebSearch: 1927 Chevrolet tourer sold Australia 2025 (Shannons, Donington, Lloyds, Seven82); Bring a Trailer 1927/1928 Chevrolet Capitol/National; Collecting Cars; classic.com Series AA Capitol index; Anglia Car Auctions lot page; Just Cars 1928 listing; Burns & Co page (no result shown). auctions.shannons.com.au search page showed a certificate privacy error in the browser, so searched via web search only. Carsales sold data is not public. | chrome: Google: 1927 Chevrolet tourer sold shannons; Shannons auction results; Chevrolet auction result Australia 2025; BaT; Brightwells; Burns & Co; Glenmarch (blocked by bot check, skipped); WebSearch: 1927 Chevrolet tourer sold Australia 2025 (Shannons, Donington, Lloyds, Seven82); Bring a Trailer 1927/1928 Chevrolet Capitol/National; Collecting Cars; classic.com Series AA Capitol index; Anglia Car Auctions lot page; Just Cars 1928 listing; Burns & Co page (no result shown). auctions.shannons.com.au search page showed a certificate privacy error in the browser, so searched via web search only. Carsales sold data is not public. | Terapeak AU 3yr (dayRange=1095): 1927 chevrolet tourer (0 rows); 1927 chevrolet (36 rows, all parts and manuals). WebSearch Shannons/Burns/classic.com; fetched Burns and Collectable Cars pages (no prices).",
  "needs_chrome": false,
  "chrome_hint": "eBay sold listings: 1927 Chevrolet tourer; also Shannons and Burns & Co past results for 1926-1928 Chevrolet tourer (Capitol/Superior/National), last 3 years",
  "rate_note": "All prices already AUD, no conversion.",
- "viewing_check": "Verify engine/chassis numbers, registration status and that it is a 4-cyl Capitol; ask what 'running order' means. Realistic sold evidence is thin: Brightwells UK result (about A$27k) for a restored export car is the only recent sale; Shannons and Carsales/Collecting Cars searches found no recent Australian result. Recent Australian sold results are thin: no Australian 1927 Chevrolet tourer result from Shannons, Seven82, Donington, Lloyds, Carsales or Collecting Cars was found in the last 24 months (the Shannons results found were 2005-2008). Best recent evidence is the Anglia UK sale of a restored ex-Australian 1928 tourer at about A$9.5k on the assumed rate (est GBP 4-6k), which is well below the earlier Brightwells GBP 13,664 result (Dec 2025) already in this file. Dealer asks A$16-30k. Estimate A$18-24k looks high against sold evidence; check the 6-cylinder vs 4-cylinder question (Burns & Co example is a 6-cylinder).",
+ "viewing_check": "Verify engine/chassis numbers, registration status and that it is a 4-cyl Capitol; ask what 'running order' means. Realistic sold evidence is thin: Brightwells UK result (about A$27k) for a restored export car is the only recent sale; Shannons and Carsales/Collecting Cars searches found no recent Australian result. Recent Australian sold results are thin: no Australian 1927 Chevrolet tourer result from Shannons, Seven82, Donington, Lloyds, Carsales or Collecting Cars was found in the last 24 months (the Shannons results found were 2005-2008). Best recent evidence is the Anglia UK sale of a restored ex-Australian 1928 tourer at about A$9.5k on the assumed rate (est GBP 4-6k), which is well below the earlier Brightwells GBP 13,664 result (Dec 2025) already in this file. Dealer asks A$16-30k. Estimate A$18-24k looks high against sold evidence; check the 6-cylinder vs 4-cylinder question (Burns & Co example is a 6-cylinder). | TERAPEAK RE-CHECK: Terapeak has no cars. Collectable Cars (SA) listing shows a restored 4-cyl Capitol tourer sold but no price. Check chassis/engine number, rego status, whether 4 or 6 cyl (Burns & Co museum car was 6 cyl, unregistered).",
  "chrome_done": true
 }

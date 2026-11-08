@@ -47,11 +47,23 @@
    "same_item": "partial",
    "note": "16 lots at Bargain Hunt, Leonard Joel, Davidson, Lawsons; prices hidden behind subscription. Black Swan linocut est $200-300 PASSED Mar 2024; bookplate est $60-120 passed Mar 2024.",
    "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "Artrecord: Irena Sibley prints at Gowans and Leonard Joel; prices behind paywall",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": null,
+   "venue": "artrecord",
+   "url": "https://artrecord.com/index.cfm/artist/5429-sibley-irena/medium/3-prints-and-graphics/?page=2",
+   "same_item": "category guide",
+   "note": "Print results exist but no price, date or edition size visible; not usable as SOLD",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (both databases) for Sibley, Sibley print, falling star Sibley; Gowans API search 'sibley' (3 lots, all listed); WebSearch for the title and for Sibley etching/aquatint results found no other sold prices (snippet only, artrecord and AASD prices are paywalled). eBay sold prices and artrecord/AASD signed-in results could add data. Rate: all AUD, no conversion. | chrome: eBay AU sold: Irena Sibley print; Irena Sibley limited edition etching; Google; Invaluable",
+ "searches_tried": "comps.py (both databases) for Sibley, Sibley print, falling star Sibley; Gowans API search 'sibley' (3 lots, all listed); WebSearch for the title and for Sibley etching/aquatint results found no other sold prices (snippet only, artrecord and AASD prices are paywalled). eBay sold prices and artrecord/AASD signed-in results could add data. Rate: all AUD, no conversion. | chrome: eBay AU sold: Irena Sibley print; Irena Sibley limited edition etching; Google; Invaluable | chrome: eBay AU sold: Irena Sibley print; Irena Sibley limited edition etching; Google; Invaluable | Terapeak AU 3yr (dayRange=1095): irena sibley (44 rows, books only); irena sibley print signed limited edition (0 rows). WebSearch; artrecord fetched.",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "No eBay sold prints found; signed book 'When the sun took the colours away' sold $100 on 23 Oct 2026 (366436583817) but is a book.",
+ "viewing_check": "No eBay sold prints found; signed book 'When the sun took the colours away' sold $100 on 23 Oct 2026 (366436583817) but is a book. | TERAPEAK RE-CHECK: Terapeak found no prints; signed book sold about A$100 (23 Oct 2026, per first run).",
  "chrome_done": true
 }

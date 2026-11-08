@@ -1,7 +1,7 @@
 {
  "cdid": 3112857,
  "lot": 2016,
- "identification": "McMillan MC10 two-cylinder V-block cast iron air compressor on horizontal red tank with wheel and single-phase motor, plus long red air hose; worn paint, working order unknown (from earlier research; photos not re-checked this pass)",
+ "identification": "McMillan air compressor (red, belt drive twin-cylinder, model 'NC10' on tank, with hose), described as going order. 2 photos viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -126,12 +126,72 @@
    "note": "McMillan air compressor C12 2.2HP; Buy It Now; item price excl. postage",
    "same_item_raw": "close",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$309.08",
+   "currency": "AUD",
+   "aud_price": 309.08,
+   "date": "2026-02-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157576322162",
+   "same_item": "close",
+   "note": "McMillan air compressor (Terapeak row, no further detail)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$375.19",
+   "currency": "AUD",
+   "aud_price": 375.19,
+   "date": "2026-10-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186386329111",
+   "same_item": "partial",
+   "note": "McMillan Air Compressor C12 2.2HP, bigger/newer model",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$496.65",
+   "currency": "AUD",
+   "aud_price": 496.65,
+   "date": "2024-01-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186256635845",
+   "same_item": "partial",
+   "note": "McMillan C12 cast iron pump belt drive",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$97.18",
+   "currency": "AUD",
+   "aud_price": 97.18,
+   "date": "2024-06-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166759372191",
+   "same_item": "close",
+   "note": "Air Compressor, McMillan (no detail)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$27.53",
+   "currency": "AUD",
+   "aud_price": 27.53,
+   "date": "2025-06-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/135945151546",
+   "same_item": "partial",
+   "note": "McMillan 50L 2HP electric, listing title only (low price probably parts)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for mcmillan compressor, air compressor twin/min-price, compressor hose; Gowans API for mcmillan compressor and air compressor; WebSearch site:armitage.bidsonline McMillan compressor (nothing); WebSearch McMillan MC10 second hand price (no used prices). eBay and Gumtree sold/asking would help; no rate conversion needed (all AUD). Gowans hammer excludes premium. | chrome: eBay AU sold: mcmillan air compressor (error), mcmillan compressor (only 1 relevant sold: C12 at A$370) | chrome: Terapeak eBay AU sold, last 2 years: 'mcmillan air compressor' (min $50)",
+ "searches_tried": "comps.py (pipeline and work) for mcmillan compressor, air compressor twin/min-price, compressor hose; Gowans API for mcmillan compressor and air compressor; WebSearch site:armitage.bidsonline McMillan compressor (nothing); WebSearch McMillan MC10 second hand price (no used prices). eBay and Gumtree sold/asking would help; no rate conversion needed (all AUD). Gowans hammer excludes premium. | chrome: eBay AU sold: mcmillan air compressor (error), mcmillan compressor (only 1 relevant sold: C12 at A$370) | chrome: Terapeak eBay AU sold, last 2 years: 'mcmillan air compressor' (min $50) | chrome: Terapeak AU 'mcmillan air compressor' (18 rows); Google ID from photo ('NC10' on tank)",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: McMillan compressor MC10 (and McMillan air compressor 2.5hp) used, sold items only",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "viewing_check": "Est $60-100, bid $30 at check. Sold McMillan compressors range A$97-500 depending on size; this is a smaller NC10 on a long tank. Check it builds pressure and holds it. Heavy, pickup only.",
  "chrome_done": true
 }

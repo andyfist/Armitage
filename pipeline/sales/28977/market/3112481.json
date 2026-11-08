@@ -73,14 +73,14 @@
   },
   {
    "kind": "SOLD",
-   "price": "A$31.74",
+   "price": "A$30.54",
    "currency": "AUD",
-   "aud_price": 31.74,
+   "aud_price": 30.54,
    "date": "2026-09-04",
    "venue": "eBay AU",
    "url": "https://www.ebay.com.au/itm/188857252888",
    "same_item": "close",
-   "note": "BP Energol 1 gallon vintage oil tin. item price as shown, postage not included unless stated",
+   "note": "BP Energol 1 gallon vintage oil tin",
    "via": "chrome"
   },
   {
@@ -94,12 +94,60 @@
    "same_item": "close",
    "note": "BP Energol 1 gallon vintage Australian tin. item price as shown, postage not included unless stated",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.54",
+   "currency": "AUD",
+   "aud_price": 30.54,
+   "date": "2026-09-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/188857252888",
+   "same_item": "close",
+   "note": "BP Energol 1 gallon vintage oil tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.28",
+   "currency": "AUD",
+   "aud_price": 20.28,
+   "date": "2026-10-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168195205207",
+   "same_item": "close",
+   "note": "Vintage BP Australia 1 gallon tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$49.72",
+   "currency": "AUD",
+   "aud_price": 49.72,
+   "date": "2024-10-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166910255581",
+   "same_item": "close",
+   "note": "BP Energol 1 gallon gear oil tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$86.47",
+   "currency": "AUD",
+   "aud_price": 86.47,
+   "date": "2024-05-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166757842616",
+   "same_item": "partial",
+   "note": "BP Energol Visco Static SAE tin, scarcer",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with energol/oil/tin/bp words; Gowans API energol search. Generic common petroliana so stopped early; no web search. eBay sold would only marginally refine. | chrome: eBay AU sold: BP Energol 1 gallon tin",
+ "searches_tried": "comps.py (pipeline and work) with energol/oil/tin/bp words; Gowans API energol search. Generic common petroliana so stopped early; no web search. eBay sold would only marginally refine. | chrome: eBay AU sold: BP Energol 1 gallon tin | chrome: eBay AU sold: BP Energol 1 gallon tin | Terapeak AU 3yr (dayRange=1095): bp energol oil tin gallon (50 rows)",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Dented ones sell at the low end ($16-35).",
+ "viewing_check": "Dented ones sell at the low end ($16-35). | TERAPEAK RE-CHECK: Dented/rusty ones sell at low end.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

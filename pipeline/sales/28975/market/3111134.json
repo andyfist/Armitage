@@ -48,12 +48,48 @@
    "same_item": "partial",
    "note": "Famille rose 18 inch floor vase; Best Offer accepted so shown price is asking, not necessarily paid; postage A$264.18.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$381.43",
+   "currency": "AUD",
+   "aud_price": 381.43,
+   "date": "2024-09-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166883505080",
+   "same_item": "partial",
+   "note": "Large famille rose Chinese porcelain vase, probably older/better quality",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120.72",
+   "currency": "AUD",
+   "aud_price": 120.72,
+   "date": "2024-08-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126619743013",
+   "same_item": "partial",
+   "note": "Asian Chinese vintage moriage vase",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.99",
+   "currency": "AUD",
+   "aud_price": 59.99,
+   "date": "2025-10-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176899196893",
+   "same_item": "partial",
+   "note": "Chinese blue and white large vase",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) chinese vase famille rose; work/comps.py chinese vase --min-price 100 --years 2. No resale comps found. Item judged generic (modern export decorative vase), stopped early without web search. eBay sold listings for 'large chinese famille rose floor vase 60cm' would settle it but expected low value. | chrome: None (low value); eBay AU sold: large chinese famille rose floor vase 60cm (low value category guide)",
+ "searches_tried": "comps.py (pipeline) chinese vase famille rose; work/comps.py chinese vase --min-price 100 --years 2. No resale comps found. Item judged generic (modern export decorative vase), stopped early without web search. eBay sold listings for 'large chinese famille rose floor vase 60cm' would settle it but expected low value. | chrome: None (low value); eBay AU sold: large chinese famille rose floor vase 60cm (low value category guide) | chrome: None (low value); eBay AU sold: large chinese famille rose floor vase 60cm (low value category guide) | Terapeak AU 3yr (dayRange=1095): chinese famille rose floor vase 60cm (0 rows); large chinese vase floor (11 rows)",
  "needs_chrome": false,
  "chrome_hint": "",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Low value, not searched; check base for reign mark. Bulky and postage-heavy; resale basically local pickup.",
+ "viewing_check": "Low value, not searched; check base for reign mark. Bulky and postage-heavy; resale basically local pickup. | TERAPEAK RE-CHECK: Check base for age and quality; decorated by transfer and overpainting suggests modern.",
  "chrome_done": true
 }

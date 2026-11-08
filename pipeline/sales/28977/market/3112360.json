@@ -1,1 +1,91 @@
-{"cdid":3112360,"lot":1637,"identification":"Youth compound bow, lime green limbs and black grip, Barnett Lil Banshee or similar youth type (logo not legible), with two arrows and a fabric quiver. Retail new roughly under AUD 110.","entries":[{"kind":"SOLD","price":"$80 hammer","aud_price":80,"date":"2026-05-26","venue":"Gowans Auctions (paid locally)","url":"gowansauctions.com.au lot 'COMPOUND BOW & 2 JAPANESE BOWS WITH ARROWS'","same_item":"category guide","note":"Mixed lot with Japanese bows, not the same item; paid locally, not resale; Gowans API record."},{"kind":"SOLD","price":"$190 hammer","aud_price":190,"date":"2026-02-15","venue":"Gowans Auctions (paid locally)","url":"gowansauctions.com.au lot 'COMPOUND BOW, RECURVE BOW, 2 JAPANESE BOWS & ARROWS'","same_item":"category guide","note":"Mixed multi-bow lot, not comparable; paid locally."},{"kind":"ASKING","price":"AUD 109.99","aud_price":109.99,"date":"live, seen 2026-11-08","venue":"BCF","url":"https://bcf.com.au/p/barnett-wildhawk-compound-youth-bow-set/697168.html","same_item":"close","note":"New Barnett Wildhawk youth compound set, snippet only (page opened but price not extracted); new retail ceiling for a used youth bow."}],"searches_tried":"comps.py (both databases) no hits; Gowans API compound bow (2 mixed lots); WebSearch Barnett Lil Banshee Australia; WebFetch BCF page. eBay sold would settle it.","needs_chrome":true,"chrome_hint":"eBay Australia sold listings: Barnett youth compound bow","viewing_check":"Read the model name on the limb or riser, check string and cables are intact and arrows are complete.","rate_note":"AUD only, no conversion."}
+{
+ "cdid": 3112360,
+ "lot": 1637,
+ "identification": "Barnett youth compound bow, green, with quiver and 2 arrows (1 photo seen). Likely Barnett Banshee/Vortex junior type.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "aud_price": 80,
+   "date": "2026-05-26",
+   "venue": "Gowans Auctions (paid locally)",
+   "url": "gowansauctions.com.au lot 'COMPOUND BOW & 2 JAPANESE BOWS WITH ARROWS'",
+   "same_item": "category guide",
+   "note": "Mixed lot with Japanese bows, not the same item; paid locally, not resale; Gowans API record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$190 hammer",
+   "aud_price": 190,
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions (paid locally)",
+   "url": "gowansauctions.com.au lot 'COMPOUND BOW, RECURVE BOW, 2 JAPANESE BOWS & ARROWS'",
+   "same_item": "category guide",
+   "note": "Mixed multi-bow lot, not comparable; paid locally."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AUD 109.99",
+   "aud_price": 109.99,
+   "date": "live, seen 2026-11-08",
+   "venue": "BCF",
+   "url": "https://bcf.com.au/p/barnett-wildhawk-compound-youth-bow-set/697168.html",
+   "same_item": "close",
+   "note": "New Barnett Wildhawk youth compound set, snippet only (page opened but price not extracted); new retail ceiling for a used youth bow."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$57.05",
+   "currency": "AUD",
+   "aud_price": 57.05,
+   "date": "2024-07-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/285975060686",
+   "same_item": "close",
+   "note": "Barnett Banshee Junior compound bow",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$75.29",
+   "currency": "AUD",
+   "aud_price": 75.29,
+   "date": "2026-04-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/286912371408",
+   "same_item": "close",
+   "note": "Barnett Banshee Quad compound bow",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$54.69",
+   "currency": "AUD",
+   "aud_price": 54.69,
+   "date": "2026-02-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/376880438332",
+   "same_item": "close",
+   "note": "Barnett Tomcat compound youth bow, used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$119.37",
+   "currency": "AUD",
+   "aud_price": 119.37,
+   "date": "2025-12-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/397295485617",
+   "same_item": "partial",
+   "note": "Barnett Vortex Lite compound bow, adjustable",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (both databases) no hits; Gowans API compound bow (2 mixed lots); WebSearch Barnett Lil Banshee Australia; WebFetch BCF page. eBay sold would settle it. | chrome: Terapeak AU 'barnett compound bow' 3yrs (6 rows); Google ID pass",
+ "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold listings: Barnett youth compound bow",
+ "viewing_check": "Armitage estimate $30-40, current bid $35 (8 Nov). Check model name on limb, string condition, draw length adjustment. Archery gear may need age checks to post.",
+ "rate_note": "AUD only, no conversion.",
+ "chrome_done": true
+}

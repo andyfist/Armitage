@@ -38,19 +38,67 @@
   },
   {
    "kind": "SOLD",
-   "price": "$75",
+   "price": "A$75",
    "currency": "AUD",
    "aud_price": 75,
    "date": "2013-06-25",
    "venue": "Leski Auctions, Melbourne",
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/74",
-   "same_item": "category guide",
-   "note": "Mixed lot of heaters, Tilley lamp, blow torch, spray pumps, stove. Old (2013) and a mixed lot, so a weak guide. Database hit, page not opened."
+   "same_item": "partial",
+   "note": "head start item; 2013, old"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$39.94",
+   "currency": "AUD",
+   "aud_price": 39.94,
+   "date": "2026-08-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117349211502",
+   "same_item": "partial",
+   "note": "Primus blow torch No.632",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.42",
+   "currency": "AUD",
+   "aud_price": 47.42,
+   "date": "2024-04-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166363047067",
+   "same_item": "partial",
+   "note": "Vintage Primus #632 blow torch",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$46.20",
+   "currency": "AUD",
+   "aud_price": 46.2,
+   "date": "2025-05-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116465292954",
+   "same_item": "partial",
+   "note": "Primus 802 brass blow torch",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$81.87",
+   "currency": "AUD",
+   "aud_price": 81.87,
+   "date": "2024-05-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134735895300",
+   "same_item": "partial",
+   "note": "Vintage Primus brass blow torch",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for blow torch brass and primus blow torch; no web search, lot judged generic mixed sundries. No resale comps found. eBay sold listings for 'Primus brass blow torch' would be the only useful check, but value is low either way. | chrome: None new",
+ "searches_tried": "comps.py (pipeline and work) for blow torch brass and primus blow torch; no web search, lot judged generic mixed sundries. No resale comps found. eBay sold listings for 'Primus brass blow torch' would be the only useful check, but value is low either way. | chrome: None new | chrome: None new | Terapeak AU 3yr (dayRange=1095): primus brass blow torch (44 rows)",
  "needs_chrome": false,
- "viewing_check": "Low value.",
+ "viewing_check": "Low value. | TERAPEAK RE-CHECK: Check the torch model number.",
  "rate_note": "All AUD, no conversion needed.",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112157,
  "lot": 1329,
- "identification": "Saeco bean-to-cup super-automatic with Bean Switcher badge (Moltio-type, model not read), stainless/black, with a cardboard box of accessories (Saeco box, tin, Breville box, cups)",
+ "identification": "Saeco bean-to-cup automatic coffee machine (stainless/black, Philips-era Saeco model, probably Xelsis or similar) plus a box of accessories and beans (1 photo viewed at full size). Model not legible. Sold POWER ON tested.",
  "entries": [
   {
    "kind": "SOLD",
@@ -103,12 +103,24 @@
    "same_item": "partial",
    "note": "eBay AU converted, listed from United States. Saeco Xelsis Focus 8942 with Error E.05, parts only; shows faulty machines still sell",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50.18 (parts)",
+   "currency": "AUD",
+   "aud_price": 50.18,
+   "date": "2025-11-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256322505976",
+   "same_item": "partial",
+   "note": "Saeco Incanto De Luxe semi-automatic replacement part listing, not a whole machine",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for saeco, moltio, philips saeco, bean to cup, coffee machine automatic; Gowans API search saeco; WebSearch Saeco Moltio second hand price Australia. eBay AU sold listings for Saeco Moltio/Xelsis would settle it (closed to us). | chrome: eBay AU sold: saeco bean to cup coffee machine (error page), saeco moltio bean switcher / moltio coffee machine / moltio / saeco coffee machine (all eBay error pages after waits), saeco xelsis (worked, higher model)",
+ "searches_tried": "comps.py (pipeline and work) for saeco, moltio, philips saeco, bean to cup, coffee machine automatic; Gowans API search saeco; WebSearch Saeco Moltio second hand price Australia. eBay AU sold listings for Saeco Moltio/Xelsis would settle it (closed to us). | chrome: eBay AU sold: saeco bean to cup coffee machine (error page), saeco moltio bean switcher / moltio coffee machine / moltio / saeco coffee machine (all eBay error pages after waits), saeco xelsis (worked, higher model) | chrome: WebSearch Saeco automatic coffee machine models. Terapeak AU 3yr: saeco automatic coffee machine (50 rows, all parts/cleaning tablets); saeco xelsis OR exprelia OR incanto machine (parts only). No whole-machine sales found. Photo 1 viewed and zoomed.",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: Saeco Moltio OR Xelsis bean switcher used, Australia, sold items",
- "viewing_check": "Read the exact model on the front/rear plate (Moltio vs other), check drip tray, brew group, water tank and bean hopper, and whether it actually powers through a brew cycle (untested).",
+ "viewing_check": "Armitage est $60-100, bid none yet. Find the model number on the machine at viewing (front panel/back plate). Used Saeco super-automatics often sell $150-400 locally but no Terapeak sold evidence found, so test on model number first.",
  "rate_note": "All AUD, no conversion. Hammer prices exclude buyer's premium.",
  "chrome_done": true
 }

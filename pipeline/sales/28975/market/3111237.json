@@ -57,12 +57,60 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437001/",
    "same_item": "category guide",
    "note": "Single pair 9ct gold earrings 1.4gm; scale if many carded pairs prove to be 9ct (each pair roughly $55 to $140 for 1 to 2gm). (local comps database; page not opened; rate AUD native)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$88.13",
+   "currency": "AUD",
+   "aud_price": 88.13,
+   "date": "2025-04-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/324594527201",
+   "same_item": "partial",
+   "note": "Pairs and singles 9ct solid gold earrings lot",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$116.94",
+   "currency": "AUD",
+   "aud_price": 116.94,
+   "date": "2025-01-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/124701149631",
+   "same_item": "partial",
+   "note": "1 pair 9ct solid yellow gold earrings",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$73.34",
+   "currency": "AUD",
+   "aud_price": 73.34,
+   "date": "2026-07-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/125526890951",
+   "same_item": "partial",
+   "note": "9ct kid's earrings",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$31.17",
+   "currency": "AUD",
+   "aud_price": 31.17,
+   "date": "2025-10-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/405695220381",
+   "same_item": "partial",
+   "note": "Genuine 9ct solid yellow gold earrings pair",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py (errored on a None price bug), work/comps.py: 9ct earrings, earrings collection, earrings cards, tennis bracelet; Gowans API: jeweller shop stock earrings, lot of earrings new, earrings costume. No Gowans sale found for a big lot of carded shop-stock earrings. No web search run (generic costume/shop-stock lot, evidence is thin either way). eBay sold would help but is closed to us. | chrome: None (needs marks); No eBay result (eBay AU search blocked after repeated error pages this run); photo check only. Value depends on 9ct stamps.",
+ "searches_tried": "pipeline/comps.py (errored on a None price bug), work/comps.py: 9ct earrings, earrings collection, earrings cards, tennis bracelet; Gowans API: jeweller shop stock earrings, lot of earrings new, earrings costume. No Gowans sale found for a big lot of carded shop-stock earrings. No web search run (generic costume/shop-stock lot, evidence is thin either way). eBay sold would help but is closed to us. | chrome: None (needs marks); No eBay result (eBay AU search blocked after repeated error pages this run); photo check only. Value depends on 9ct stamps. | chrome: None (needs marks); No eBay result (eBay AU search blocked after repeated error pages this run); photo check only. Value depends on 9ct stamps. | Terapeak AU 3yr (dayRange=1095): 9ct gold earrings pair (50 rows)",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: 'job lot carded earrings new old stock jewellery shop' and 'wholesale lot gold plated stud earrings cards'",
- "viewing_check": "Check for 9ct stamps on card backs; if 9ct, gold value could exceed estimate heavily.",
+ "viewing_check": "Check for 9ct stamps on card backs; if 9ct, gold value could exceed estimate heavily. | TERAPEAK RE-CHECK: Cannot tell gold vs plated from photos. Check card backs and stamps.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

@@ -50,13 +50,13 @@
   {
    "kind": "SOLD",
    "price": "GBP 40 hammer",
-   "aud_price": 80,
+   "aud_price": 78.8,
    "currency": "GBP",
-   "date": "unknown (not stated in snippet)",
+   "date": null,
    "venue": "Fieldings Auctioneers, UK lot 200312",
    "url": "https://fieldingsauctioneers.co.uk/lot/200312",
-   "same_item": "category guide",
-   "note": "Early 20th c Staffordshire ware King Charles spaniel mantel dogs, black patches and gilt, printed mark. Snippet only, date not verified (page fetch gave only unrelated highlights). Rate about 2.0 AUD/GBP, approximate."
+   "same_item": "partial",
+   "note": "head start item, date not stated"
   },
   {
    "kind": "ASKING",
@@ -80,12 +80,36 @@
    "same_item": "partial",
    "note": "head start item, date not stated [converted at GBP 1.97]",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.81",
+   "currency": "AUD",
+   "aud_price": 47.81,
+   "date": "2024-04-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/196283580972",
+   "same_item": "partial",
+   "note": "Porcelain Staffordshire spaniel, single",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.15",
+   "currency": "AUD",
+   "aud_price": 30.15,
+   "date": "2025-02-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/146382873167",
+   "same_item": "partial",
+   "note": "Vintage Staffordshire spaniel",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) with staffordshire/spaniel/willow/dogs: no resale comps, only Armitage/Gowans local hits. WebSearch x3 (willow transfer spaniels, Australian auction, reproduction mantle dogs): no willow-pattern spaniel pairs found anywhere. Fetched Moorabool and Fieldings. eBay sold listings for 'willow pattern staffordshire style dogs pair' would settle resale best (eBay closed to us). Likely generic modern decorative item; stopped at modest depth. Resale evidence for this exact type is thin; no verified competitive-auction SOLD found. | chrome: None new | chrome: None new",
+ "searches_tried": "Local comps.py (pipeline and work) with staffordshire/spaniel/willow/dogs: no resale comps, only Armitage/Gowans local hits. WebSearch x3 (willow transfer spaniels, Australian auction, reproduction mantle dogs): no willow-pattern spaniel pairs found anywhere. Fetched Moorabool and Fieldings. eBay sold listings for 'willow pattern staffordshire style dogs pair' would settle resale best (eBay closed to us). Likely generic modern decorative item; stopped at modest depth. Resale evidence for this exact type is thin; no verified competitive-auction SOLD found. | chrome: None new | chrome: None new | chrome: None new | Terapeak AU 3yr (dayRange=1095): staffordshire spaniel (42 rows); pair spaniel dogs porcelain willow (0 rows)",
  "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: 'willow pattern spaniel dogs pair staffordshire style' and 'staffordshire style willow transfer dogs pair'",
- "viewing_check": "Bid already 45; low value.",
+ "viewing_check": "Bid already 45; low value. | TERAPEAK RE-CHECK: Terapeak (42 rows for staffordshire spaniel) shows only antique/vintage pairs at A$158-274 and singles A$30-48; none are willow-transfer repros.",
  "rate_note": "GBP 1 = about AUD 2.0 (approximate, no live rate checked).",
  "chrome_done": true
 }

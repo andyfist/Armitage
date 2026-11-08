@@ -1,7 +1,7 @@
 {
  "cdid": 3111079,
  "lot": 817,
- "identification": "Three men's Liberty London print shirts (Tana Lawn style), size 42 per catalogue, apparently new with tags",
+ "identification": "Three Liberty London men's shirts, size 42, with purple Liberty tags (one in a box), floral/paisley Liberty prints (1 photo viewed).",
  "entries": [
   {
    "kind": "ASKING",
@@ -155,12 +155,36 @@
    "same_item": "no",
    "note": "Liberty of London fabric D'Anjo floral shirt M, pre-owned; one shirt",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.65",
+   "currency": "AUD",
+   "aud_price": 51.65,
+   "date": "2026-08-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/298395324640",
+   "same_item": "partial",
+   "note": "Flinders Lane men's shirt 42-43 made with Liberty London fabric (not the Liberty-branded shirt)",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "Men's Liberty shirts from about A$225 / US$150-230 new",
+   "currency": "AUD",
+   "aud_price": 225.0,
+   "date": "",
+   "venue": "Lyst",
+   "url": "https://www.lyst.com/shop/mens-liberty-shirts/",
+   "same_item": "category guide",
+   "note": "Lyst listing of new Liberty men's shirts; Liberty London site shows Tana Lawn shirts in same range (new retail price)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) liberty shirt, liberty, liberty london: no same-item hits (only unrelated Liberty lots). Gowans API liberty shirt: no hits. WebSearch: Liberty Lodden men's shirt price; Liberty Tana Lawn men's shirt auction sold; site:armitage.bidsonline.com.au Liberty shirt (nothing); Liberty London shirt new with tags eBay AU (only ebay.de snippets). WebFetch Liberty Lodden page. No Australian auction SOLD found. Search summaries mention eBay.de sold results for used or new Liberty Tana Lawn shirts around GBP 45 (about AUD 90) and a men's floral polo USD 50, but no item URLs were given, so they are not recorded as entries. Indicative only: resale for a single shirt is about AUD 50 to 100, so the three plausibly total AUD 150 to 250 if genuinely new. eBay sold listings would settle it. Note the labels may be Liberty Fabrics-licensed ranges rather than Liberty London main line; check. | chrome: eBay AU sold: liberty london mens shirt (mostly J Crew/Onia/Uniqlo collabs, ignored); liberty tana lawn mens shirt short sleeve; liberty london shirt new with tags mens size 42. Lodden and koi prints not found specifically. | chrome: Terapeak eBay AU sold, last 2 years: 'liberty london shirt short sleeve' (min $30) - no matching sales | chrome: eBay AU sold: liberty london men's shirt; liberty tana lawn shirt men new with tags. 2 searches.",
+ "searches_tried": "comps.py (pipeline and work) liberty shirt, liberty, liberty london: no same-item hits (only unrelated Liberty lots). Gowans API liberty shirt: no hits. WebSearch: Liberty Lodden men's shirt price; Liberty Tana Lawn men's shirt auction sold; site:armitage.bidsonline.com.au Liberty shirt (nothing); Liberty London shirt new with tags eBay AU (only ebay.de snippets). WebFetch Liberty Lodden page. No Australian auction SOLD found. Search summaries mention eBay.de sold results for used or new Liberty Tana Lawn shirts around GBP 45 (about AUD 90) and a men's floral polo USD 50, but no item URLs were given, so they are not recorded as entries. Indicative only: resale for a single shirt is about AUD 50 to 100, so the three plausibly total AUD 150 to 250 if genuinely new. eBay sold listings would settle it. Note the labels may be Liberty Fabrics-licensed ranges rather than Liberty London main line; check. | chrome: eBay AU sold: liberty london mens shirt (mostly J Crew/Onia/Uniqlo collabs, ignored); liberty tana lawn mens shirt short sleeve; liberty london shirt new with tags mens size 42. Lodden and koi prints not found specifically. | chrome: Terapeak eBay AU sold, last 2 years: 'liberty london shirt short sleeve' (min $30) - no matching sales | chrome: eBay AU sold: liberty london men's shirt; liberty tana lawn shirt men new with tags. 2 searches. | chrome: Terapeak AU 3yrs: 'liberty london mens shirt 42' (1 row), 'liberty london tana lawn mens shirt' (0), 'liberty shirt mens new with tags' (2 rows, irrelevant). WebSearch Liberty London men's Tana Lawn shirt price.",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed: \"Liberty London men's shirt\" (also \"Liberty Tana Lawn men's shirt new with tags\", and \"Liberty Lodden shirt\"), Australia and UK sold items, last 90 days",
- "viewing_check": "Confirm all three are genuine Liberty with Tana Lawn labels, true size 42 (about 16.5 inch collar), tags attached, short vs long sleeve. New Liberty Tana Lawn shirts sold at about A$95-140 each on eBay AU in the last 3 months, used about A$50-55.",
+ "viewing_check": "Armitage est $60-100, bid $60. Armitage est and bid noted. Photos show Liberty London (purple Liberty labels) men's cotton shirts with tags attached, patterns including Wiltshire berries, Lodden and an Ianthe style, some in presentation boxes. Check neck size on tags (42 = collar size), tag prices (RRP), and that they are new, unworn.",
  "rate_note": "1 USD = 1.52 AUD and 1 GBP = 2.05 AUD, approximate assumed rates.",
  "chrome_done": true
 }

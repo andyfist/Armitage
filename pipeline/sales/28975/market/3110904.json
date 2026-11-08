@@ -1,7 +1,7 @@
 {
  "cdid": 3110904,
  "lot": 641,
- "identification": "H McHugh Tasmania baluster vase, amber/brown drip glaze, incised McHugh Tasmania 1935, ~13cm, no visible damage",
+ "identification": "Signed McHugh drip-glazed vase, 13 cm, brown/amber and black drip (2 photos), signature on base.",
  "entries": [
   {
    "kind": "SOLD",
@@ -204,12 +204,36 @@
    "same_item": "partial",
    "note": "Rare large Mod.22 emerald/choc glaze, larger and different colour",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$312.18",
+   "currency": "AUD",
+   "aud_price": 312.18,
+   "date": "2026-04-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127830494944",
+   "same_item": "close",
+   "note": "H McHugh Tasmania drip glaze vase (size not shown), auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$177.74",
+   "currency": "AUD",
+   "aud_price": 177.74,
+   "date": "2024-01-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/355413020012",
+   "same_item": "close",
+   "note": "Art Deco McHugh Tasmania vase with yellow, fixed price",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py (McHugh 1935, drip, vase); pipeline/comps.py crashed (bug, None aud_hammer); Gowans API mchugh vase; 3 WebSearch (drip glaze 1935 sold); carters/antiquesreporter blocked (bot check, 429). eBay sold prices would settle it. | chrome: eBay AU sold: mchugh tasmania vase (several error pages from throttling first) | chrome: eBay AU sold: mchugh tasmania vase (several error pages from throttling first)",
+ "searches_tried": "work/comps.py (McHugh 1935, drip, vase); pipeline/comps.py crashed (bug, None aud_hammer); Gowans API mchugh vase; 3 WebSearch (drip glaze 1935 sold); carters/antiquesreporter blocked (bot check, 429). eBay sold prices would settle it. | chrome: eBay AU sold: mchugh tasmania vase (several error pages from throttling first) | chrome: eBay AU sold: mchugh tasmania vase (several error pages from throttling first) | chrome: Terapeak AU 3yr sold 'mchugh pottery tasmania' (135 rows, median A$94.5, max A$1,423); vase subset n=77 median A$96; drip/small subset n=39 median A$85.5",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: McHugh Tasmania 1935 vase drip glaze (Australia, sold items)",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Check base for incised McHugh Tasmania 1935 and shape number, glaze runs, and hairlines or chips inside the rim and on the foot.",
+ "viewing_check": "Armitage est $50-80, bid $25. McHugh (Hobart/Tasmanian art pottery, 1930s) sells A$85-100 typically, up to A$300+ for strong drip glazes or rarer shapes. Most prices are from the last 3 yrs.",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3111958,
  "lot": 1128,
- "identification": "Oak/timber two-door ice chest with brass plate 'De Luxe', 101cm high, hinged chrome-type latches; photo confirms. (from earlier research; photos not re-checked this pass)",
+ "identification": "Oak ice chest, 'De Luxe' brass plaque, nickel latches, zinc-lined interior with shelf.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,23 @@
    "url": "https://www.invaluable.com/auction-lot/the-icicle-oak-ice-chest-128-c-a204d38857",
    "same_item": "close",
    "note": "Snippet only. Icicle oak ice chest, lot 128. Price not seen, so not usable as evidence."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$147.72",
+   "currency": "AUD",
+   "aud_price": 147.72,
+   "date": "20 Sept 2024",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176528992602",
+   "same_item": "close",
+   "note": "Antique silky oak Mawson ice chest 1920s",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for oak ice chest, ice chest, icebox, ice box, de luxe; Gowans API for ice chest, icebox, ice box; WebSearch for De Luxe cork packed oak ice chest Australian auction; WebSearch site:armitage.bidsonline.com.au ice chest (nothing); opened Coburg Hill and Moonee Ponds dealer pages. Rate: AUD native, no conversion. Only Tasmanian sold evidence is $25-40 hammer for plain or unrelated ice chests at Gowans; no sold result for a good refinished oak cork-packed example found. eBay sold listings would settle it. | chrome: eBay AU sold: 'oak ice chest' (Aus only; only junk coolers), 'antique timber ice box cupboard' (junk) | chrome: eBay AU sold: 'oak ice chest' (Aus only; only junk coolers), 'antique timber ice box cupboard' (junk) | chrome: Terapeak eBay AU sold, last 2 years: 'oak ice chest' (min $100) - no matching sales",
+ "searches_tried": "comps.py (pipeline and work) for oak ice chest, ice chest, icebox, ice box, de luxe; Gowans API for ice chest, icebox, ice box; WebSearch for De Luxe cork packed oak ice chest Australian auction; WebSearch site:armitage.bidsonline.com.au ice chest (nothing); opened Coburg Hill and Moonee Ponds dealer pages. Rate: AUD native, no conversion. Only Tasmanian sold evidence is $25-40 hammer for plain or unrelated ice chests at Gowans; no sold result for a good refinished oak cork-packed example found. eBay sold listings would settle it. | chrome: eBay AU sold: 'oak ice chest' (Aus only; only junk coolers), 'antique timber ice box cupboard' (junk) | chrome: eBay AU sold: 'oak ice chest' (Aus only; only junk coolers), 'antique timber ice box cupboard' (junk) | chrome: Terapeak eBay AU sold, last 2 years: 'oak ice chest' (min $100) - no matching sales | chrome: Terapeak AU 'antique oak ice chest' 1 row.",
  "needs_chrome": false,
  "chrome_hint": "eBay Australia sold items: oak ice chest (also 'timber ice box' and 'Glacier De Luxe ice chest'), Australia only, sold filter",
- "viewing_check": "No eBay AU sale of this item in the last 2 years.",
+ "viewing_check": "Est 100-150, bid $50. Check lining and hinges.",
  "chrome_done": true
 }

@@ -60,13 +60,13 @@
   },
   {
    "kind": "ASKING",
-   "price": "A$649 asking (used)",
+   "price": "A$170 to A$350 asking (used)",
    "currency": "AUD",
-   "aud_price": 649,
+   "aud_price": 170,
    "venue": "Cash Converters Australia",
    "url": "https://www.google.com/search?q=stihl+fs+85+brushcutter+price+australia",
-   "same_item": "yes",
-   "note": "used Stihl FS 85 professional brushcutter, 'good condition', dealer asking price not a sale; model discontinued so no current new retail price",
+   "same_item": "close",
+   "note": "Gumtree asks for FS85R at A$170 and FS85 'VGC' at A$350, asking prices only",
    "date": "2026-11-08",
    "via": "chrome"
   },
@@ -81,12 +81,48 @@
    "note": "Gumtree asks for FS85R at A$170 and FS85 'VGC' at A$350, asking prices only",
    "date": "2026-11-08",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$89",
+   "currency": "AUD",
+   "aud_price": 89,
+   "date": "2025-01-21",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/185787138458",
+   "same_item": "partial",
+   "note": "OEM Stihl pull starter for FS 85 (part sale, shows parts demand)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$71",
+   "currency": "AUD",
+   "aud_price": 71,
+   "date": "2025-07-22",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/197462052461",
+   "same_item": "partial",
+   "note": "Genuine Stihl fuel tank for FS 85 (part)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$65",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2024-09-03",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/166713362452",
+   "same_item": "partial",
+   "note": "Shroud for Stihl FS 85 brushcutter (part)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with stihl FS 85, stihl brushcutter, stihl FS85; WebSearch for FS 85 sold price Australia and second hand/Gumtree; fetched Cash Converters page; toolswarehouse page 404. No competitive-auction SOLD comps found. eBay Australia sold listings for 'Stihl FS85' would settle resale. | chrome: ebay sold: stihl fs 85 brushcutter; stihl fs85 brush cutter; google: stihl fs 85 brushcutter price australia (Cash Converters, Gumtree asks)",
+ "searches_tried": "comps.py (pipeline and work) with stihl FS 85, stihl brushcutter, stihl FS85; WebSearch for FS 85 sold price Australia and second hand/Gumtree; fetched Cash Converters page; toolswarehouse page 404. No competitive-auction SOLD comps found. eBay Australia sold listings for 'Stihl FS85' would settle resale. | chrome: ebay sold: stihl fs 85 brushcutter; stihl fs85 brush cutter; google: stihl fs 85 brushcutter price australia (Cash Converters, Gumtree asks) | chrome: ebay sold: stihl fs 85 brushcutter; stihl fs85 brush cutter; google: stihl fs 85 brushcutter price australia (Cash Converters, Gumtree asks) || Terapeak re-check: Terapeak AU: stihl fs 85; stihl brushcutter",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: Stihl FS85 brushcutter (also Gumtree/Facebook Marketplace sold)",
- "viewing_check": "Running condition unknown. eBay AU sold shows only FS85 parts (carburettors, clutch drums A$18-103), no whole used machines found in 24 months. [Armitage page 8 Nov 2026: estimate $80-120, current bid $70. Photos viewed (about 400px, low resolution): 2 photos: Stihl FS 85 brushcutter with bike handle, orange guard and green fuel can]",
+ "viewing_check": "Running condition unknown. eBay AU sold shows only FS85 parts (carburettors, clutch drums A$18-103), no whole used machines found in 24 months. [Armitage page 8 Nov 2026: estimate $80-120, current bid $70. Photos viewed (about 400px, low resolution): 2 photos: Stihl FS 85 brushcutter with bike handle, orange guard and green fuel can] || TERAPEAK RE-CHECK (9 Nov 2026): Terapeak AU \"stihl fs 85\" and \"stihl brushcutter\": only parts (A$37-89 each, so FS 85 spares are in demand, which is a floor value if it does not run). No complete machine sale found.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3111174,
  "lot": 912,
- "identification": "2010 RAM $1 Year of the Tiger 99.9% silver proof (11.66 g) in capsule and box.",
+ "identification": "Royal Australian Mint 2010 Year of the Tiger (Lunar Series) silver proof $1 coin in capsule, red presentation card with spec card. Three photos viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,35 @@
    "url": "https://www.prospectstampsandcoins.com.au/royal-australian-mint/2010-coin-releases-en/2010-year-of-the-tiger-one-dollar-silver-proof-coin.html",
    "same_item": "yes",
    "note": "Snippet only (page returned no readable text to me). Matches 25 mm, 11.66 g, mintage 10,000. Out of stock asking price, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.05",
+   "currency": "AUD",
+   "aud_price": 51.05,
+   "date": "2025-10-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127430527211",
+   "same_item": "close",
+   "note": "2010 Year of the Tiger $1 silver proof coin, Lunar Series.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$103.93",
+   "currency": "AUD",
+   "aud_price": 103.93,
+   "date": "2025-11-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116883737950",
+   "same_item": "partial",
+   "note": "2010 $1 Lunar Tiger 1oz .999 silver.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py in pipeline (crashes with a TypeError on a None aud_hammer, so unusable) and work/comps.py (tiger, lunar, tiger proof, year of the tiger: no same-item hits; only Tasmanian tiger lots). Gowans API: lunar series silver proof, year of the tiger, lunar silver proof coin, 2010 silver proof. WebSearch x3: sold price, dealer price, Noble Numismatics (no Noble lot found). Direct fetch of Wynyard, Ensleigh, Prospect, Numista (403). eBay sold prices would settle it (closed to us). Rough view: sold evidence is thin; realistic hammer about $45-75, with retail asking $65-95 as a ceiling. | chrome: eBay AU sold '2010 year of the tiger $1 silver proof RAM': nothing found for this exact coin (results were Perth Mint 1 oz and 1/2 oz coins, not comparable).",
+ "searches_tried": "comps.py in pipeline (crashes with a TypeError on a None aud_hammer, so unusable) and work/comps.py (tiger, lunar, tiger proof, year of the tiger: no same-item hits; only Tasmanian tiger lots). Gowans API: lunar series silver proof, year of the tiger, lunar silver proof coin, 2010 silver proof. WebSearch x3: sold price, dealer price, Noble Numismatics (no Noble lot found). Direct fetch of Wynyard, Ensleigh, Prospect, Numista (403). eBay sold prices would settle it (closed to us). Rough view: sold evidence is thin; realistic hammer about $45-75, with retail asking $65-95 as a ceiling. | chrome: eBay AU sold '2010 year of the tiger $1 silver proof RAM': nothing found for this exact coin (results were Perth Mint 1 oz and 1/2 oz coins, not comparable). | chrome: Terapeak AU '2010 year of the tiger silver proof coin' (50 rows).",
  "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: 2010 $1 Year of the Tiger silver proof Royal Australian Mint 11.66g (exclude Perth Mint 1oz bullion and Niue)",
- "viewing_check": "Check the certificate is present.",
+ "viewing_check": "Armitage est $25-40, current bid $45 (already above est), next $50 (landed ~A$61). Check outer box and certificate.",
  "chrome_done": true
 }
