@@ -1,9 +1,162 @@
-{"cdid":3112329,"lot":1424,"identification":"Four boxed Trax 'The Originals' (Top Gear) 1:43 Ford Falcon XK/XL models: grey panel van, pale green ute, red station wagon, beige panel van. Likely TR27-series vans, ute and wagon.","entries":[
-{"kind":"SOLD","price":"$80 hammer (2 boxed Trax Holden models)","aud_price":80,"currency":"AUD","date":"2026-02-15","venue":"Gowans Auctions, Hobart (paid locally)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/390564/","same_item":"close","note":"Local room, shows what we might pay, not resale. Holden not Falcon; roughly $40 per model. From local database."},
-{"kind":"SOLD","price":"$45 and $40 hammer (single boxed Trax Originals EH models)","aud_price":45,"currency":"AUD","date":"2026-08-23","venue":"Gowans Auctions, Hobart (paid locally)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/432462/","same_item":"close","note":"Lots 432462 and 432464. Local room, cost guide only. Holden EH, same Trax Originals line."},
-{"kind":"SOLD","price":"$62 hammer (boxed Trax FJ 3-model set plus Siku)","aud_price":62,"currency":"AUD","date":"2025-09-28","venue":"Gowans Auctions, Hobart (paid locally)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/364003/","same_item":"category guide","note":"Local room, cost guide only."},
-{"kind":"ASKING","price":"AU$79.50 (TR26K XK Falcon sedan, used)","aud_price":79.5,"currency":"AUD","date":"unknown, seen 2026-11-07","venue":"eBay (via search summary)","url":"https://www.ebay.de/itm/384148614779","same_item":"close","note":"Snippet only, unverified, and listing may not be a sold price. Different colour and a limited livery."},
-{"kind":"ASKING","price":"US$22.50 (TR27 grey XK panel van NOS)","aud_price":34,"currency":"USD","date":"unknown, seen 2026-11-07","venue":"eBay.de (via search summary)","url":"https://www.ebay.de/itm/167377830641","same_item":"yes","note":"Snippet only, unverified. Rate used 1 USD = 1.50 AUD (assumed). The same grey van as in the lot; shows single NOS value about $30-35."},
-{"kind":"ASKING","price":"AU$44.95 (TR44B 1962 XL van, new)","aud_price":44.95,"currency":"AUD","date":"live, seen 2026-11-07","venue":"eBay (via search summary)","url":"https://www.ebay.de/itm/376500498928","same_item":"close","note":"Snippet only, unverified. XL van, a different model."},
-{"kind":"SOLD","price":"AU$460 (boxed Trax Australian Motoring Legends Ford group, many models)","aud_price":460,"currency":"AUD","date":"unknown","venue":"Drexel Auctions (via search summary)","url":"https://auctions.leski.com.au/lot-details/index/catalog/381/lot/127573/","same_item":"category guide","note":"Snippet only, lot size and date unclear, page returned 403. Weak guide only; do not rely on it."}
-],"searches_tried":"comps.py (pipeline and work) with trax falcon, trax top gear, trax, trax ford: no resale comps, only Gowans local hits. WebSearch x3 on Trax Originals XK Falcon and panel van, mostly eBay snippets and Leski/Drexel; Leski and diecast4u pages blocked (403). eBay sold listings for TR26/TR27/TR28/TR29 would settle it.","needs_chrome":true,"chrome_hint":"eBay sold listings: Trax Top Gear Originals Falcon XK TR27 panel van; also TR28 wagon, TR29 ute (Australia, sold items, last 90 days)","rate_note":"1 USD = 1.50 AUD assumed.","viewing_check":"Check each model number on the box end (TR27, TR28, TR29 etc) and colour, that the box is complete with no model damage, and for any limited or special liveries (worth more). Photograph the box ends."}
+{
+ "cdid": 3112329,
+ "lot": 1424,
+ "identification": "4 boxed Trax Top Gear Originals Ford Falcon XK/XL 1:43 models. Est 40-50, bid 55. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: four boxed Trax models: ute and wagon variants in cream/grey/red/silver; boxes in teal, not four identical models.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer (2 boxed Trax Holden models)",
+   "aud_price": 80,
+   "currency": "AUD",
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/390564/",
+   "same_item": "close",
+   "note": "Local room, shows what we might pay, not resale. Holden not Falcon; roughly $40 per model. From local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 and $40 hammer (single boxed Trax Originals EH models)",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/432462/",
+   "same_item": "close",
+   "note": "Lots 432462 and 432464. Local room, cost guide only. Holden EH, same Trax Originals line."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$62 hammer (boxed Trax FJ 3-model set plus Siku)",
+   "aud_price": 62,
+   "currency": "AUD",
+   "date": "2025-09-28",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/364003/",
+   "same_item": "category guide",
+   "note": "Local room, cost guide only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$79.50 (TR26K XK Falcon sedan, used)",
+   "aud_price": 79.5,
+   "currency": "AUD",
+   "date": "unknown, seen 2026-11-07",
+   "venue": "eBay (via search summary)",
+   "url": "https://www.ebay.de/itm/384148614779",
+   "same_item": "close",
+   "note": "Snippet only, unverified, and listing may not be a sold price. Different colour and a limited livery."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$22.50 (TR27 grey XK panel van NOS)",
+   "aud_price": 34,
+   "currency": "USD",
+   "date": "unknown, seen 2026-11-07",
+   "venue": "eBay.de (via search summary)",
+   "url": "https://www.ebay.de/itm/167377830641",
+   "same_item": "yes",
+   "note": "Snippet only, unverified. Rate used 1 USD = 1.50 AUD (assumed). The same grey van as in the lot; shows single NOS value about $30-35."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$44.95 (TR44B 1962 XL van, new)",
+   "aud_price": 44.95,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-07",
+   "venue": "eBay (via search summary)",
+   "url": "https://www.ebay.de/itm/376500498928",
+   "same_item": "close",
+   "note": "Snippet only, unverified. XL van, a different model."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AU$460 (boxed Trax Australian Motoring Legends Ford group, many models)",
+   "aud_price": 460,
+   "currency": "AUD",
+   "date": "unknown",
+   "venue": "Drexel Auctions (via search summary)",
+   "url": "https://auctions.leski.com.au/lot-details/index/catalog/381/lot/127573/",
+   "same_item": "category guide",
+   "note": "Snippet only, lot size and date unclear, page returned 403. Weak guide only; do not rely on it."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40.0",
+   "currency": "AUD",
+   "aud_price": 40.0,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/880055973235",
+   "same_item": "close",
+   "note": "Trax TR38 Ford 1962 Falcon XL Squire wagon 1/43. single model",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$43.1",
+   "currency": "AUD",
+   "aud_price": 43.1,
+   "date": "2026-11-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/940044243869",
+   "same_item": "close",
+   "note": "Trax Ford XL Falcon Squire 1962 The Originals 1:43 boxed. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.0",
+   "currency": "AUD",
+   "aud_price": 60.0,
+   "date": "2026-10-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/127491827504",
+   "same_item": "close",
+   "note": "Trax TR38D Ford 1962 XL Falcon Squire wagon. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$69.95",
+   "currency": "AUD",
+   "aud_price": 69.95,
+   "date": "2026-11-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/278353624788",
+   "same_item": "close",
+   "note": "Trax TR43B 1962 Ford XL Falcon Deluxe utility reef blue. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25.0",
+   "currency": "AUD",
+   "aud_price": 25.0,
+   "date": "2026-11-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/860101504307",
+   "same_item": "close",
+   "note": "Trax TR30B Ford Falcon XK wagon. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.35",
+   "currency": "AUD",
+   "aud_price": 20.35,
+   "date": "2026-11-07",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/880058300129",
+   "same_item": "close",
+   "note": "Trax Falcon XK panel van Esso Top Gear silver. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with trax falcon, trax top gear, trax, trax ford: no resale comps, only Gowans local hits. WebSearch x3 on Trax Originals XK Falcon and panel van, mostly eBay snippets and Leski/Drexel; Leski and diecast4u pages blocked (403). eBay sold listings for TR26/TR27/TR28/TR29 would settle it. | chrome: eBay AU sold: Trax Falcon XK",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold listings: Trax Top Gear Originals Falcon XK TR27 panel van; also TR28 wagon, TR29 ute (Australia, sold items, last 90 days)",
+ "rate_note": "1 USD = 1.50 AUD assumed.",
+ "viewing_check": "Singles sell $20-70, so four likely $100-200 if all complete and boxed; check box condition.",
+ "chrome_done": true
+}

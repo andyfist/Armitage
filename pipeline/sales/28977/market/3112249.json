@@ -1,7 +1,7 @@
 {
  "cdid": 3112249,
  "lot": 1577,
- "identification": "Kriesler portable valve radio, brown and cream plastic case with carry handle, c late 1950s-early 60s; AWA Radiola transistor radio, grey case, black grille, multi-band dial, c 1960s. Common models, not tested.",
+ "identification": "2 vintage radios: Kriesler portable and AWA Radiola transistor, untested",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,10 +112,59 @@
    "url": "gowans lot id 400546",
    "same_item": "close",
    "note": "AWA Radiola bakelite, low end. Hammer, premium extra; local database listing only (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84.99",
+   "currency": "AUD",
+   "aud_price": 84.99,
+   "date": "2026-10-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/128115893943",
+   "same_item": "partial",
+   "note": "Kriesler 11-41 bakelite valve radio, different model",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70.00",
+   "currency": "AUD",
+   "aud_price": 70.0,
+   "date": "2026-09-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267776435848",
+   "same_item": "partial",
+   "note": "Kriesler 11-99 Newscaster portable valve, different model",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$200.00",
+   "currency": "AUD",
+   "aud_price": 200.0,
+   "date": "2026-09-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227125188118",
+   "same_item": "partial",
+   "note": "AWA Radiola B66 1969 transistor, working; lot's model not identified",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$69.00",
+   "currency": "AUD",
+   "aud_price": 69.0,
+   "date": "2026-10-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/800804273279",
+   "same_item": "partial",
+   "note": "AWA Radiola 208PY transistor eight, working",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for kriesler radio, radiola radio, radiola transistor, vintage radios; Gowans API for awa radiola transistor (no extra hits). No web search; common item. eBay sold would add little.",
+ "searches_tried": "comps.py (pipeline and work) for kriesler radio, radiola radio, radiola transistor, vintage radios; Gowans API for awa radiola transistor (no extra hits). No web search; common item. eBay sold would add little. | chrome: ebay sold: kriesler radio bakelite portable; awa radiola transistor radio",
  "needs_chrome": false,
- "viewing_check": "Test power if allowed; check Kriesler case for cracks or chips, back cover and cord present, and Radiola battery compartment for corrosion and dial lens condition.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Untested. Identify the models; most Kriesler/Radiola sell A$60-200. [Armitage page 8 Nov 2026: estimate $15-30, current bid $30. Photos viewed (about 400px, low resolution): 3 photos: brown/cream Kriesler portable with handle and a small grey AWA Radiola-style transistor radio; no cracks seen]",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

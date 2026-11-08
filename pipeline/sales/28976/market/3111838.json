@@ -1,5 +1,46 @@
-{"cdid":3111838,"lot":1008,"identification":"Unsigned early 20th century Australian impressionist lakeside landscape, oil, later cream frame, Anthony Hordern & Sons Art Gallery Sydney label verso (retail label only, not an attribution). Artist unknown.","entries":[
-{"kind":"SOLD","price":"$130 hammer","currency":"AUD","aud_price":130,"date":"2026-03-01 (listing date)","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=landscape+oil","same_item":"category guide","note":"FRAMED OIL - IMPRESSIONIST LANDSCAPE, unsigned-style generic lot; JSON API result, page opened; premium extra."},
-{"kind":"SOLD","price":"$65 hammer","currency":"AUD","aud_price":65,"date":"2026-08-03 (listing date)","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oil+painting+framed+landscape+signed","same_item":"category guide","note":"FRAMED OIL PAINTING - LANDSCAPE - UNSIGNED - NO GLASS; page opened (API); premium extra."},
-{"kind":"SOLD","price":"$60-$120 hammer","currency":"AUD","aud_price":90,"date":"2026-01 to 2026-05","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=landscape+oil","same_item":"category guide","note":"Several signed or initialled amateur landscape oils (Freeland $65, Burggraf $110, MH $120, Inman $70); range only, signed minor artists, API opened."}
-],"searches_tried":"work/comps.py hordern, lake landscape oil, oil landscape cottage gums (no relevant hits; pipeline/comps.py crashed with a TypeError); Gowans API x6 (lake cottage, landscape gums, anthony hordern, landscape oil, framed unsigned, australian landscape); WebSearch Anthony Hordern label unsigned landscape (only Lambert/Conder lots, not comparable; snippet only). No Armitage past-result search done. eBay sold prices would help only marginally.","needs_chrome":false,"chrome_hint":"","viewing_check":"Check the verso carefully for pencil writing under the Hordern label (artist or title), any signature or monogram at the lower edge hidden by the frame rebate, and any stretcher or board inscriptions. A legible artist name could change value; otherwise it is a $40-120 decorative picture.","rate_note":"All AUD, no conversion."}
+{
+ "cdid": 3111838,
+ "lot": 1008,
+ "identification": "Early 20th C Australian lakeside landscape oil, unsigned, Anthony Hordern gallery label. Est 150-200, no bids. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: lakeside landscape with gums and a homestead, pale gilt frame; second photo shows Anthony Hordern & Sons Ltd Art Gallery Sydney label on the verso.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$130 hammer",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-03-01 (listing date)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=landscape+oil",
+   "same_item": "category guide",
+   "note": "FRAMED OIL - IMPRESSIONIST LANDSCAPE, unsigned-style generic lot; JSON API result, page opened; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$65 hammer",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-08-03 (listing date)",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oil+painting+framed+landscape+signed",
+   "same_item": "category guide",
+   "note": "FRAMED OIL PAINTING - LANDSCAPE - UNSIGNED - NO GLASS; page opened (API); premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60-$120 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-01 to 2026-05",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=landscape+oil",
+   "same_item": "category guide",
+   "note": "Several signed or initialled amateur landscape oils (Freeland $65, Burggraf $110, MH $120, Inman $70); range only, signed minor artists, API opened."
+  }
+ ],
+ "searches_tried": "work/comps.py hordern, lake landscape oil, oil landscape cottage gums (no relevant hits; pipeline/comps.py crashed with a TypeError); Gowans API x6 (lake cottage, landscape gums, anthony hordern, landscape oil, framed unsigned, australian landscape); WebSearch Anthony Hordern label unsigned landscape (only Lambert/Conder lots, not comparable; snippet only). No Armitage past-result search done. eBay sold prices would help only marginally. | chrome: None (unattributed); WebSearch: Anthony Hordern & Sons Art Gallery Sydney label oil painting lakeside sold (no comparable priced found)",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "viewing_check": "Unsigned; ask for verso close-up of pencil writing.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}

@@ -1,7 +1,7 @@
 {
  "cdid": 3111001,
  "lot": 739,
- "identification": "Three green uranium depression glass pieces: wall-hanging SALT box (damaged rim), lemon reamer with handle, footed petal creamer. Unmarked, likely 1930s Australian or US made.",
+ "identification": "3 green uranium depression glass pieces (salt box damaged, lemon reamer, creamer); low value. Est 50-80, bid 45. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: green salt box (wall hanging), lemon reamer, footed creamer.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,36 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2857571&chid=27485",
    "same_item": "category guide",
    "note": "Condiment boat and saucer; single small uranium piece guide."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$38.44",
+   "currency": "AUD",
+   "aud_price": 38.44,
+   "date": "2026-11-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/167878152323",
+   "same_item": "partial",
+   "note": "1930s depression vaseline uranium green Hocking Princess oval piece. different item",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.42",
+   "currency": "AUD",
+   "aud_price": 30.42,
+   "date": "2026-11-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227602070645",
+   "same_item": "partial",
+   "note": "Uranium 1930s Hocking Colonial green covered sugar bowl. ",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for uranium depression glass, uranium glass, uranium juicer, lemon reamer (none), salt box glass; Gowans API for uranium juicer, green glass salt, uranium reamer. No web search done: generic category. No sold hit for a uranium wall salt box specifically. eBay sold would settle the salt box.",
- "needs_chrome": true,
+ "searches_tried": "Local comps.py (pipeline and work) for uranium depression glass, uranium glass, uranium juicer, lemon reamer (none), salt box glass; Gowans API for uranium juicer, green glass salt, uranium reamer. No web search done: generic category. No sold hit for a uranium wall salt box specifically. eBay sold would settle the salt box. | chrome: eBay AU sold: uranium glass bowl | chrome: eBay AU sold: uranium glass bowl",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: uranium glass wall salt box SALT green Bidder signal: 142954 - Perth, (seen in 28 sales); 150336 - Launceston, (seen in 21 sales); 56993 - Queenstown , TAS (seen in 90 sales); 122213 - Westbury, TAS (seen in 140 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Check the extent of the salt box rim damage, and whether the wall salt box has a maker mark or glows under UV; otherwise nothing."
+ "viewing_check": "Damage to salt box noted in catalogue.",
+ "chrome_done": true
 }

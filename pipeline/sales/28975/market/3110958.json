@@ -1,7 +1,7 @@
 {
  "cdid": 3110958,
  "lot": 696,
- "identification": "Olga Claire Garner (b.1943, NSW-born, Tasmanian landscape painter), oil on board, Cradle Mountain and Dove Lake, 19x24 cm, signed lower left (reads O.C. GARNER), linen slip and gilt frame. Small decorative piece.",
+ "identification": "Oil on board 'Cradle Mountain' signed O.G. Garner (Olga Claire Garner, b.1943, Tasmanian). Est 100-200, bid 110. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: Cradle Mountain with Dove Lake, mountain range in warm light, signed lower left, pale linen slip and light gilt frame.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,60 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/397026/",
    "same_item": "category guide",
    "note": "Framed Olga C Garner Cradle Mountain print, signed; prints of this subject can fall to $5. Page not opened; API record seen (premium extra). AUD, no conversion."
+  },
+  {
+   "kind": "ASKING",
+   "price": "Est A$400-500, sold, price hidden behind paywall",
+   "currency": "AUD",
+   "aud_price": 400.0,
+   "date": "2026-03-10",
+   "venue": "Invaluable (Colville Auctions)",
+   "url": "https://www.invaluable.com/artist/garner-olga-claire-fxpxqkhudf/sold-at-auction-prices/",
+   "same_item": "close",
+   "note": "Olga Garner 'Below the Weir Forth River', oil on board, sold 10 Mar 2026 against est $400-500; hammer not visible without subscription. Another 'Hot Hazy Day Tasmania' est $200-400 sold same day. Artist has 39 lots on Invaluable (Albion, Colville, Lawsons, Leonard Joel).",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "Estimate A$300-500 (sold, price hidden)",
+   "currency": "AUD",
+   "aud_price": 300.0,
+   "date": "2025-12-04",
+   "venue": "Invaluable (Leonard Joel)",
+   "url": "https://www.invaluable.com/auction-lot/olga-claire-garner-4022-c-cacecb715e?objectID=201372081",
+   "same_item": "partial",
+   "note": "Auction estimate only. Olga Claire Garner 19 x 24.5 cm, page says sold but hammer needs login. Not a sale price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "Estimate A$160-260 (result not shown)",
+   "currency": "AUD",
+   "aud_price": 160.0,
+   "date": "2020-12-17",
+   "venue": "Invaluable (Leonard Joel)",
+   "url": "https://www.invaluable.com/auction-lot/olga-garner-lonely-little-homestead-oil-on-masoni-3056-c-62a41e4a1a?objectID=158000944",
+   "same_item": "partial",
+   "note": "Auction estimate only, 19 x 24 cm oil on masonite, over 24 months old. Not a sale price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "Estimate A$350-450 (result not shown)",
+   "currency": "AUD",
+   "aud_price": 350.0,
+   "date": "2021-08-30",
+   "venue": "Invaluable (Colville Auctions)",
+   "url": "https://www.invaluable.com/auction-lot/olga-garner-1943-australia-britain-united-states--3-c-34c4acb9ef?objectID=163767840",
+   "same_item": "close",
+   "note": "Auction estimate only, titled Cradle Mountain, size not stated, over 24 months old. Not a sale price.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py (errored, NoneType bug); work/comps.py olga garner, garner dove lake (no hits), cradle mountain oil; Gowans API garner/cradle/olga (5 Garner prints, 2 Cradle oils); WebSearch Olga Garner Cradle Mountain sold (artrecord and AASD list her, 23 of 28 sold, Gowans 5, Lawsons 4, Leonard Joel 4, prices behind subscription; snippet only); WebSearch site:armitage Olga Garner (nothing). No Garner oil price seen. eBay sold prices not checkable.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py (errored, NoneType bug); work/comps.py olga garner, garner dove lake (no hits), cradle mountain oil; Gowans API garner/cradle/olga (5 Garner prints, 2 Cradle oils); WebSearch Olga Garner Cradle Mountain sold (artrecord and AASD list her, 23 of 28 sold, Gowans 5, Lawsons 4, Leonard Joel 4, prices behind subscription; snippet only); WebSearch site:armitage Olga Garner (nothing). No Garner oil price seen. eBay sold prices not checkable. | chrome: eBay AU sold Olga Garner oil painting (nothing relevant); Google; Invaluable artist page; WebSearch for Garner sold prices (Colville, Gibson's, Leski); WebFetch Invaluable artist page (39 lots, estimates only) and one Invaluable lot page (price login-gated); artrecord.com page 2 (no prices); Leski catalogue page (no Garner lot found); aasd.com.au and artprice blocked/unavailable. Leski, Colville and Gibson's own results pages were not directly reachable in this run. | chrome: eBay AU sold Olga Garner oil painting (nothing relevant); Google; Invaluable artist page; WebSearch for Garner sold prices (Colville, Gibson's, Leski); WebFetch Invaluable artist page (39 lots, estimates only) and one Invaluable lot page (price login-gated); artrecord.com page 2 (no prices); Leski catalogue page (no Garner lot found); aasd.com.au and artprice blocked/unavailable. Leski, Colville and Gibson's own results pages were not directly reachable in this run.",
+ "needs_chrome": false,
  "chrome_hint": "artrecord.com artist 9381-garner-olga-claire paintings (signed in) for hammer prices; eBay sold: Olga Garner oil painting Cradle Mountain",
- "viewing_check": "Confirm it is oil on board and not a print or embellished print, read the signature (O.C. Garner) and look for a title or date label on the back.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Sold prices exist (39 lots on Invaluable) but are paywalled; Andy could check them with a subscription or on Colville's own site. Size and subject matter drive price. Priced Garner sales not found. Invaluable shows 39 lots with estimates only and 'Log in to view' for the price (checked lot page, 4 Dec 2025 Leonard Joel 19 x 24.5 cm est A$300-500, sold, price hidden). artrecord.com lists 10 appearances (Davidson, Lawsons, Leonard Joel, Bay East, Gowans) without prices. Estimates for small 19 x 24 cm works: A$160-260 (Leonard Joel 17 Dec 2020 Lonely Little Homestead), A$300-500 (Leonard Joel 4 Dec 2025), A$350-450 (Colville 30 Aug 2021 Cradle Mountain, size not stated). Small Albion Antique Auction Centre lots 2022-24 were estimated only A$10-40. Estimates are not sale prices.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

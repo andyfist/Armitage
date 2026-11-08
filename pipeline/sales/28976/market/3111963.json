@@ -1,7 +1,7 @@
 {
  "cdid": 3111963,
  "lot": 1133,
- "identification": "Late Victorian/Edwardian white ironstone toilet jug and basin with green transfer print of pansies and Art Nouveau peony, moulded body. Unmarked, common. Generic item.",
+ "identification": "Victorian toilet jug and basin, green transfer; low value. Est 20-30, bid 10. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: white jug and basin with green floral transfer, two photos, no marks shown.",
  "entries": [
   {
    "kind": "SOLD",
@@ -24,11 +24,36 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440869/",
    "same_item": "close",
    "note": "Named maker set, 1 bid; page opened via API; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$73.48 BIN + A$191.43 postage",
+   "currency": "AUD",
+   "aud_price": 73.48,
+   "date": "2026-09-13",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318830967273",
+   "same_item": "category guide",
+   "note": "Old Windsor Pottery large floral wash jug and basin set with gilt; postage shows how bulky it is.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$49.00 (8 bids) + A$26 delivery",
+   "currency": "AUD",
+   "aud_price": 49.0,
+   "date": "2026-11-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267826628421",
+   "same_item": "category guide",
+   "note": "Antique Royal Doulton blue floral jug and wash basin set.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work and pipeline) for ironstone jug basin, toilet jug basin, wash jug basin; Gowans lots API jug basin. Generic item so stopped early; no web search. eBay sold not needed.",
+ "searches_tried": "comps.py (work and pipeline) for ironstone jug basin, toilet jug basin, wash jug basin; Gowans lots API jug basin. Generic item so stopped early; no web search. eBay sold not needed. | chrome: None; eBay AU sold: victorian jug and basin wash set; low value",
  "rate_note": "All AUD, no conversion.",
- "needs_chrome": true,
- "viewing_check": "Check for chips, hairlines and a restored spout or handle, and the base for a maker's mark; otherwise nothing.",
- "chrome_hint": " Bidder signal: 88674 - Gormanston, NSW (interstate, seen in 46 sales). Look harder for sold prices of this exact item."
+ "needs_chrome": false,
+ "viewing_check": "Low value.",
+ "chrome_hint": " Bidder signal: 88674 - Gormanston, NSW (interstate, seen in 46 sales). Look harder for sold prices of this exact item.",
+ "chrome_done": true
 }

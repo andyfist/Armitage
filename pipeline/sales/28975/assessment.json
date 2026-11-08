@@ -16,8 +16,8 @@
  "candidates": 158,
  "counts": {
   "PASS": 13,
-  "CHROME": 81,
-  "FAIL": 59,
+  "CHROME": 77,
+  "FAIL": 63,
   "DROP": 5,
   "NOT RESEARCHED": 0
  },
@@ -335,11 +335,11 @@
    "current_bid": 50.0,
    "bid_count": 9,
    "close": "11/11/2026 3:31:20 PM ADST",
-   "identification": "Set of 3 graduated glazed ceramic angelfish wall plaques, mid-century kitsch, unmarked in photos (backs not shown). Likely Japanese or Australian novelty ware of the 1950s-60s; generic.",
+   "identification": "Set of 3 graduated retro glazed angel fish wall plaques, unmarked in photo. Low value.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold, Australia: vintage ceramic angel fish wall plaques set of 3",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -366,7 +366,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -918,13 +918,22 @@
    "current_bid": 25.0,
    "bid_count": 2,
    "close": "11/11/2026 3:34:00 PM ADST",
-   "identification": "Likely Beswick palomino gloss Arab horse (Xayal shape, model 1265, made 1961-1989), about 16cm high. Maker unconfirmed as base mark not photographed; the lot title says Royal Doulton but the form is Beswick. Standard colourway, no damage visible.",
+   "identification": "Palomino horse figure, likely Beswick Arab (Xayal) style; maker unchecked. Armitage est 50-75, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: palomino horse, white mane/tail, standing, no base shot; Beswick-style, maker still unconfirmed.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: Beswick palomino Arab horse Xayal 1265 gloss",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 78.8,
+     "date": "2010-05",
+     "venue": "UK auction (via Barnebys)",
+     "url": "https://www.barnebys.co.uk/realised-prices/beswick_horse.html",
+     "same_item": "close",
+     "note": "head start item, palomino Arab Xayal 1265, 2010-05; old [converted at GBP 1.97]"
+    }
+   ],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -973,7 +982,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1119,11 +1128,11 @@
    "current_bid": 30.0,
    "bid_count": 5,
    "close": "11/11/2026 3:35:00 PM ADST",
-   "identification": "Three green depression glass two-handled bowls with fan-shaped tab handles and stippled finish, likely 1930s, pattern not identified. Uranium unproven (no UV photo).",
+   "identification": "3 green depression glass ramekins, probably uranium; low value. Est 20-40, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: three pale green two-handled bowls, fan tab handles; low value.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold: green depression glass fan handle bowls set of 3",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2786,15 +2795,48 @@
    "current_bid": 110.0,
    "bid_count": 8,
    "close": "11/11/2026 3:51:40 PM ADST",
-   "identification": "Olga Claire Garner (b.1943, NSW-born, Tasmanian landscape painter), oil on board, Cradle Mountain and Dove Lake, 19x24 cm, signed lower left (reads O.C. GARNER), linen slip and gilt frame. Small decorative piece.",
+   "identification": "Oil on board 'Cradle Mountain' signed O.G. Garner (Olga Claire Garner, b.1943, Tasmanian). Est 100-200, bid 110. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: Cradle Mountain with Dove Lake, mountain range in warm light, signed lower left, pale linen slip and light gilt frame.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "artrecord.com artist 9381-garner-olga-claire paintings (signed in) for hammer prices; eBay sold: Olga Garner oil painting Cradle Mountain",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 400.0,
+     "date": "2026-03-10",
+     "venue": "Invaluable (Colville Auctions)",
+     "url": "https://www.invaluable.com/artist/garner-olga-claire-fxpxqkhudf/sold-at-auction-prices/",
+     "same_item": "close",
+     "note": "Olga Garner 'Below the Weir Forth River', oil on board, sold 10 Mar 2026 against est $400-500; hammer not visible without subscription. Another 'Hot Hazy Day Tasmania' est $200-400 sold same day. Artist has 39 lots on Invaluable (Albion, Colville, Lawsons, Leonard Joel)."
+    },
+    {
+     "aud_price": 300.0,
+     "date": "2025-12-04",
+     "venue": "Invaluable (Leonard Joel)",
+     "url": "https://www.invaluable.com/auction-lot/olga-claire-garner-4022-c-cacecb715e?objectID=201372081",
+     "same_item": "partial",
+     "note": "Auction estimate only. Olga Claire Garner 19 x 24.5 cm, page says sold but hammer needs login. Not a sale price."
+    },
+    {
+     "aud_price": 160.0,
+     "date": "2020-12-17",
+     "venue": "Invaluable (Leonard Joel)",
+     "url": "https://www.invaluable.com/auction-lot/olga-garner-lonely-little-homestead-oil-on-masoni-3056-c-62a41e4a1a?objectID=158000944",
+     "same_item": "partial",
+     "note": "Auction estimate only, 19 x 24 cm oil on masonite, over 24 months old. Not a sale price."
+    },
+    {
+     "aud_price": 350.0,
+     "date": "2021-08-30",
+     "venue": "Invaluable (Colville Auctions)",
+     "url": "https://www.invaluable.com/auction-lot/olga-garner-1943-australia-britain-united-states--3-c-34c4acb9ef?objectID=163767840",
+     "same_item": "close",
+     "note": "Auction estimate only, titled Cradle Mountain, size not stated, over 24 months old. Not a sale price."
+    }
+   ],
    "paid": [
     {
      "aud_price": 75.0,
@@ -2849,7 +2891,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -2862,11 +2904,11 @@
    "current_bid": 35.0,
    "bid_count": 5,
    "close": "11/11/2026 3:53:40 PM ADST",
-   "identification": "Freeform mid-century Czech or Murano style uranium art glass centrepiece bowl, two upturned wings, cased with amber edges. Unsigned, tag reads 4711 Uranium. Probably 1950s-60s Bohemian; maker not confirmed.",
+   "identification": "Freeform mid-century uranium/art glass bowl, unattributed. Est 30-50, bid 35. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: freeform green and amber cased art glass bowl with two upswept wings on a foot.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: czech uranium art glass bowl freeform; LiveAuctioneers price results 'uranium art glass bowl'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2958,7 +3000,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -4901,12 +4943,21 @@
    "current_bid": 60.0,
    "bid_count": 3,
    "close": "11/11/2026 4:04:40 PM ADST",
-   "identification": "Harold McHugh (Tasmanian art pottery) flower bowl with domed frog, brown/amber drip glaze, signed H McHugh Tasmania 1935 55 in incised hand on base. Photos confirm signature, date and frog present.",
+   "identification": "Harold McHugh Tasmanian art pottery flower bowl with frog, incised 1935. Est 80-140, bid 60. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: mottled brown/amber/cream drip-glaze bowl with domed pierced frog (3 photos).",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 27.2,
+     "date": "2026-09-04",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/318774435382",
+     "same_item": "close",
+     "note": "Tasmania 1935 McHugh drip glaze art pottery handled bowl, green/brown. same glaze type; cheap, condition unknown"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -4985,11 +5036,11 @@
      "note": "'MCHUGH TASMANIA 63 SIGNED 2 HANDLED VASE'. API record, not a lot page. Vase; 9 bids."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 27.2,
+   "net_resale": 23.119999999999997,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $27 does not clear the current bid $60",
    "priority": false
   },
   {
@@ -5002,11 +5053,11 @@
    "current_bid": 45.0,
    "bid_count": 4,
    "close": "11/11/2026 4:06:00 PM ADST",
-   "identification": "Three green uranium depression glass pieces: wall-hanging SALT box (damaged rim), lemon reamer with handle, footed petal creamer. Unmarked, likely 1930s Australian or US made.",
+   "identification": "3 green uranium depression glass pieces (salt box damaged, lemon reamer, creamer); low value. Est 50-80, bid 45. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: green salt box (wall hanging), lemon reamer, footed creamer.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: uranium glass wall salt box SALT green Bidder signal: 142954 - Perth, (seen in 28 sales); 150336 - Launceston, (seen in 21 sales); 56993 - Queenstown , TAS (seen in 90 sales); 122213 - Westbury, TAS (seen in 140 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5073,7 +5124,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -5979,11 +6030,11 @@
    "current_bid": 45.0,
    "bid_count": 8,
    "close": "11/11/2026 4:11:00 PM ADST",
-   "identification": "Pair of seated spaniel mantle dogs, Staffordshire style, black Willow pattern transfer over white glaze with russet ears, collars with lockets and tails. Looks like a modern decorative reproduction (possibly Portuguese or Chinese made, unconfirmed); not period Staffordshire. No base photo.",
+   "identification": "Pair of modern Staffordshire-style spaniels with willow transfer. Est 30-50, bid 45 (already above estimate). PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: pair of seated spaniels with willow-pattern transfer bodies, brown ears.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: 'willow pattern spaniel dogs pair staffordshire style' and 'staffordshire style willow transfer dogs pair'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -6035,7 +6086,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -7461,11 +7512,11 @@
    "current_bid": 30.0,
    "bid_count": 5,
    "close": "11/11/2026 4:36:00 PM ADST",
-   "identification": "Three books. Only item of interest: Ten Little Nigger Boys (Ten Little Nigger Boys and Girls) illustrated by Nora Case, Chatto & Windus, first issued 1907, reprinted in several editions c.1930s-1959. Edition in lot unknown. Kaplan Illustrated Manual of Sex Therapy and Complete Book of Sexual Love are common and worth little.",
+   "identification": "3 books: Kaplan sex therapy manual, Complete Book of Sexual Love, Nora Case 'Ten Little Nigger Boys'. Est 10-20, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches catalogue: Kaplan Illustrated Manual of Sex Therapy (red/black jacket), Complete Book of Sexual Love (large pictorial jacket), and a small orange/white pictorial pocket book at lower centre (the Ten Little Nigger Boys). Only one photo; imprints not visible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Nora Case \"Ten Little Nigger Boys\" (and Girls) Chatto Windus; also Invaluable/WorthPoint sold for same",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -7508,7 +7559,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": true
   },
   {
@@ -8510,11 +8561,11 @@
    "current_bid": 25.0,
    "bid_count": 4,
    "close": "11/11/2026 4:47:40 PM ADST",
-   "identification": "Two Italian carved alabaster birdbath/tazza ornaments with four carved doves each, mid 20th century tourist ware; larger on veined marble base. Common type.",
+   "identification": "Two small carved alabaster bird baths with dove figures on marble bases, Italian souvenir type (3 photos). Low value.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: Italian alabaster bird bath doves (Australia, last 90 days)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -8550,7 +8601,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -8563,21 +8614,30 @@
    "current_bid": 40.0,
    "bid_count": 3,
    "close": "11/11/2026 4:48:20 PM ADST",
-   "identification": null,
+   "identification": "2 new-with-tags Liberty London men's shirts size 16.5, in boxes. Est 40-70, bid 40. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: two Liberty shirts in boxes, red paisley and blue/pink small floral, one tag visible.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 41.65,
+     "date": "2026-10-25",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/860076578084",
+     "same_item": "close",
+     "note": "Liberty London floral shirt mens 16.5/42, long sleeve fine cotton, used. used not NWT; one shirt"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 41.65,
+   "net_resale": 35.402499999999996,
    "max_hammer": 0,
-   "status": "DROP",
-   "why": "no sold evidence and a weak photo score",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $42 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -8836,15 +8896,24 @@
    "current_bid": 30.0,
    "bid_count": 4,
    "close": "11/11/2026 4:50:20 PM ADST",
-   "identification": "Late 20th century Chinese export decorative floor vase, about 60 cm, printed and overpainted famille-rose style birds and peonies. Common modern 'Satsuma-style' type. No base photo or mark seen.",
+   "identification": "Large modern Chinese famille-rose style floor vase, 60 cm; low value. Est 30-50, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: tall baluster vase with overpainted birds and peonies in coloured reserves, two photos, no base shot; modern export decorative vase, low value.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 111.01,
+     "date": "2026-10-13",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/198684382362",
+     "same_item": "partial",
+     "note": "Famille rose 18 inch floor vase; Best Offer accepted so shown price is asking, not necessarily paid; postage A$264.18."
+    }
+   ],
    "paid": [
     {
      "aud_price": 240.0,
@@ -8867,7 +8936,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -12010,12 +12079,37 @@
    "current_bid": 25.0,
    "bid_count": 1,
    "close": "11/11/2026 5:14:40 PM ADST",
-   "identification": "Pandora Moments sterling silver (S925 ALE) bangle with logo heart clasp (style 596268), two clip/stopper charms and safety chain, in Pandora box. Photo only; one image.",
+   "identification": "Pandora sterling silver bangle with heart clasp, 2 clips, safety chain, boxed. Est 40-70, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: Pandora box lot 945 with slider-style bangle with heart clasp, silver clips.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: Pandora moments heart clasp bangle sterling silver (Sold items, last 90 days)",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 72.08,
+     "date": "2026-11-08",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/318625107880",
+     "same_item": "close",
+     "note": "Pandora radiating heart clasp bangle sterling silver. no charm count stated"
+    },
+    {
+     "aud_price": 116.92,
+     "date": "2026-11-08",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/257783741405",
+     "same_item": "close",
+     "note": "Pandora sterling radiating heart clasp and regular bangle. "
+    },
+    {
+     "aud_price": 96.25,
+     "date": "2026-11-05",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/407206966524",
+     "same_item": "close",
+     "note": "Pandora Moments sterling celestial heart clasp bangle. "
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -12078,11 +12172,11 @@
      "note": "PANDORA BRACELET & CHARMS, 3 bids; weak result. Database listing only."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 96.25,
+   "net_resale": 81.8125,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $96 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -12899,11 +12993,11 @@
    "current_bid": 50.0,
    "bid_count": 9,
    "close": "11/11/2026 5:17:40 PM ADST",
-   "identification": "Mixed lot of circulated Australian paper $1 notes (about nine, QEII), one $2, novelty notes (Minnie Mouse, AC/DC, Government of Inflation, Crazy Dave's) and low-value foreign notes (Canada $1, Bank of Scotland 1 pound, 2 US $1, Japanese WWII military 5 yen, Indonesia, Oman 100 baisa). No rare items seen in photos.",
+   "identification": "Mixed Australian paper $1/$2 notes, novelty notes and some foreign notes. Est 20-30, bid 50 (above estimate). PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: about nine Australian paper $1 notes, a $2, novelty notes (Minnie 'one', AC/DC, euro play money) plus foreign notes; no star notes spotted.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": " Bidder signal: 88685 - Devonport, TAS (seen in 16 sales); 136699 - Prospect Vale , (seen in 50 sales); 66584 - RIVERSIDE, TAS - AutoBid (seen in 87 sales); 122213 - Westbury, TAS (seen in 140 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -12954,7 +13048,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -12967,12 +13061,29 @@
    "current_bid": 55.0,
    "bid_count": 6,
    "close": "11/11/2026 5:20:40 PM ADST",
-   "identification": "Box of about 100 circulated Australian dodecagonal commemorative 50c coins (Bicentenary, Federation, Olympics etc.), two pre-decimal pennies, 1994 $5 coin card, 1988 Bicentennial school memento card, Tasmania novelty $1 notes, AC/DC novelty dollar. Photos show no round 1966 silver 50c. Generic lot; face value roughly $50 plus small extras.",
+   "identification": "~100 commemorative 50c coins plus pre-decimal pennies and novelty notes. Est 50-75, bid 55. PHOTO CHECK: Photos viewed (part 1 re-check). Photo shows a blue tray of about 100 coins (mostly 50c commemoratives and some pre-decimal copper), three pale old-style notes at top left (not identifiable at this size), an AC/DC dollar note, a 1988 Bicentennial coin pack and a medallion in blue case.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": " Bidder signal: 136699 - Prospect Vale , (seen in 50 sales); 289702 - George Town , (seen in 9 sales); 122213 - Westbury, TAS (seen in 140 sales); 175518 - George town , (seen in 37 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 59.0,
+     "date": "2026-10-10",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/189047736590",
+     "same_item": "close",
+     "note": "70 x Australian 50c commemoratives, some doubles. Andy's lot is about 100 coins in a tray plus extras, so similar size band."
+    },
+    {
+     "aud_price": 96.1,
+     "date": "2026-08-31",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/158127328881",
+     "same_item": "close",
+     "note": "172 x Australian 50c commemoratives bulk lot, about A$0.56 per coin."
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -13042,11 +13153,11 @@
      "note": "FOLDER OF COMMEMORATIVE 50C COINS - FACE VALUE $30.50, 1 bid. Local database result, not opened on web. Folder, face value stated."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 77.55,
+   "net_resale": 65.91749999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $78 does not clear the current bid $55",
    "priority": false
   },
   {
@@ -13059,11 +13170,11 @@
    "current_bid": 30.0,
    "bid_count": 5,
    "close": "11/11/2026 5:21:20 PM ADST",
-   "identification": "About 25 modern gold-plated base-metal tourist tokens in capsules (Gordon River Cruises Strahan, Tasmanian Tiger, Tasmanian Devil, Rottnest Island, building/train tokens), plus a Ross Bicentenary 1821-2021 medallion and a coloured portrait medallion in a pouch. Souvenir tokens, no precious metal.",
+   "identification": "~25 gold-tone Tasmanian commemorative tokens; base metal. Est 10-20, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: red box of ~13 gold-tone commemorative tokens plus 4 in capsules, a black pouch and a card; base metal.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": " Bidder signal: 47394 - Invermay, TAS (seen in 106 sales); 68127 - Legana , TAS (seen in 54 sales); 122213 - Westbury, TAS (seen in 140 sales); 175518 - George town , (seen in 37 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -13072,8 +13183,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "priority": false
   },
   {
@@ -13259,11 +13370,11 @@
    "current_bid": 30.0,
    "bid_count": 5,
    "close": "11/11/2026 5:23:20 PM ADST",
-   "identification": "Small walnut-finish two-drawer jewellery casket with mirrored lid, holding about 13 rings (several apparently sterling silver, three yellow-toned that may be 9ct gold or gilt), a butterfly pendant, bead bracelets and costume necklaces. Casket itself is modern and of little value.",
+   "identification": "Jewellery casket with ~13 rings, some sterling, 3 yellow rings possibly 9ct. Est 30-50, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: small wooden jewellery chest with drawers, tray with about 13 rings (several yellow and silver-tone) plus bead necklaces; marks not legible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": " Bidder signal: 255569 - Launceston , (seen in 35 sales); 289702 - George Town , (seen in 9 sales); 289732 - Bicheno, (seen in 13 sales); 122213 - Westbury, TAS (seen in 140 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -13354,7 +13465,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -13468,11 +13579,11 @@
    "current_bid": 25.0,
    "bid_count": 4,
    "close": "11/11/2026 5:24:40 PM ADST",
-   "identification": "About 60 pairs of stud and drop earrings on jeweller's cards, bagged earrings and a carded tennis-style bracelet. Carat marks not legible at 800x600 (one photo only). Gold-coloured studs look like typical small gold/gold-plated shop stock; white-stone ones likely CZ or silver.",
+   "identification": "~60 pairs earrings on shop cards, gold coloured; carat unknown. Est 20-50, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: tray of about 60 earring cards, mostly gold-coloured, plus a few chains; carat not visible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: 'job lot carded earrings new old stock jewellery shop' and 'wholesale lot gold plated stud earrings cards'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -13523,7 +13634,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {

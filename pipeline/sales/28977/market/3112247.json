@@ -1,7 +1,7 @@
 {
  "cdid": 3112247,
  "lot": 1575,
- "identification": "Three 1950s-60s one-gallon rectangular tins: Dominant Chemical Pty Ltd (Moorabbin, Vic, XL 3601, blue, cleaning chemical), Wakefield Industrial Lubricants and Castrol Industrial Oils (green, bearing logo). Industrial grades, less sought than motor oil tins. Rusty, soiled, Dominant worst.",
+ "identification": "3 vintage square 1-gallon tins: Dominant Chemical (Moorabbin Vic), Wakefield Industrial Lubricants (green roundel tin) and Castrol Industrial Oils (green); industrial oils tins, not motor oil",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,72 @@
    "url": "https://www.ebay.com.au/p/19036590954",
    "same_item": "category guide",
    "note": "snippet only, unverified; asking range only, not prices paid. (AUD, rate 1.0; from local comps database, not page opened)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$119.00",
+   "currency": "AUD",
+   "aud_price": 119.0,
+   "date": "2026-10-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237122803353",
+   "same_item": "close",
+   "note": "Wakefield Castrol MOTOR oil 1 imperial gallon tin; lot's tin is industrial lubricant, differs",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$165.00",
+   "currency": "AUD",
+   "aud_price": 165.0,
+   "date": "2026-09-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168667762695",
+   "same_item": "close",
+   "note": "Wakefield Castrol Motor Oil 1 gallon tin, pre-owned",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$110.00",
+   "currency": "AUD",
+   "aud_price": 110.0,
+   "date": "2026-09-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237072507568",
+   "same_item": "close",
+   "note": "Wakefield Castrol motor oil 1 imperial gallon",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$566.78",
+   "currency": "AUD",
+   "aud_price": 566.78,
+   "date": "2026-10-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/256882033108",
+   "same_item": "partial",
+   "note": "Wakefield Castrol XL gallon oil can, a rarer type; outlier, not same tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$165.00",
+   "currency": "AUD",
+   "aud_price": 165,
+   "date": "2026-09-03",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168624081016",
+   "same_item": "partial",
+   "note": "'Wakefield Industrial Lubricants 1 Imperial Quart Oil Tin ~ Pre Castrol', Buy It Now, free delivery; a quart, the lot's tin is a one-gallon",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work and pipeline) on wakefield castrol tin, castrol oil tin, dominant chemical tin, oil tin 1 gallon, wakefield industrial, castrol industrial; Gowans API dominant tin (nothing); WebSearch Dominant Chemical Moorabbin (nothing found); WebSearch Castrol Industrial Oils tin sold (Burns & Co PDF snippet only, no price for the exact tin; plain Castrol gallon $40 and 3 Castrol $80 per snippet, unverified). No same-item Dominant or Wakefield Industrial result found. eBay sold would help but is closed to us.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (work and pipeline) on wakefield castrol tin, castrol oil tin, dominant chemical tin, oil tin 1 gallon, wakefield industrial, castrol industrial; Gowans API dominant tin (nothing); WebSearch Dominant Chemical Moorabbin (nothing found); WebSearch Castrol Industrial Oils tin sold (Burns & Co PDF snippet only, no price for the exact tin; plain Castrol gallon $40 and 3 Castrol $80 per snippet, unverified). No same-item Dominant or Wakefield Industrial result found. eBay sold would help but is closed to us. | chrome: ebay sold: wakefield castrol oil tin gallon vintage; ebay sold: wakefield industrial lubricants tin",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: Castrol Industrial Oils gallon tin; Dominant Chemical Moorabbin tin Bidder signal: 59487 - Trevallyn, TAS (seen in 66 sales); 122213 - Westbury, TAS (seen in 140 sales); 221336 - Rocherlea, (seen in 24 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
  "rate_note": "All AUD, rate 1.0.",
- "viewing_check": "Check for lids/seals and whether tins are full or empty, rust-through or holes, and the Dominant tin's legibility. Nothing else likely to change value; expect roughly $25-60 for the three."
+ "viewing_check": "Check which Wakefield/Castrol tin it is: common motor-oil gallons sell A$95-165, rarer XL-type reached A$567. Rust and paint loss will cut price. Which Wakefield tin: green one-gallon 'Wakefield Industrial Lubricants' in a Castrol-style roundel, not the Castrol motor-oil design; the only close sold comp found is a Wakefield Industrial Lubricants quart at A$165 (Sep 2026). [Armitage page 8 Nov 2026: estimate $30-40, current bid $40. Photos viewed (about 400px, low resolution): 3 square one-gallon tins: Dominant Chemical (blue, Moorabbin), green 'Wakefield Industrial Lubricants' roundel tin, green 'Castrol Industrial Oils' tin; industrial oils, not the motor-oil design]",
+ "chrome_done": true
 }

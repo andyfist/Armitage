@@ -1,7 +1,7 @@
 {
  "cdid": 3112246,
  "lot": 1574,
- "identification": "Stihl FSA 45 18V cordless line trimmer with integrated battery, used and dirty head, no charger visible. Photos show only 2 images.",
+ "identification": "Stihl FSA 45 cordless line trimmer, integrated battery, used",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,48 @@
    "url": "https://www.mygyc.com.au/products/stihl-fsa45-battery-powered-whipper-snipper",
    "same_item": "yes",
    "note": "Page opened; new retail sale price $99, RRP $249. Unclear whether kit includes battery and charger. Asking price only, new."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$128.13",
+   "currency": "AUD",
+   "aud_price": 128.13,
+   "date": "2026-10-07",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/398405148531",
+   "same_item": "yes",
+   "note": "Title 'working tested STIHL FSA 45 cordless 18v'; likely overseas seller, postage not checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-10-12",
+   "venue": "Lawsons (Sydney)",
+   "url": "https://www.lawsons.com.au/auction-lot/a-stihl-fsa-45-cordless-grass-trimmer_3cd8f0e78c",
+   "same_item": "yes",
+   "note": "Stihl FSA 45 cordless grass trimmer, Lawsons Bellevue Hill Home Contents sale, estimate A$100-200; premium not stated on the page",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$249 new retail",
+   "currency": "AUD",
+   "aud_price": 249,
+   "venue": "Stihl AU dealers (Mower Centre Group, Bega Mower Centre, Pakenham Mowers)",
+   "url": "https://www.google.com/search?q=stihl+fsa+45+price+australia",
+   "same_item": "yes",
+   "note": "new retail price in Australia; some dealers clearing at A$99 (GYC Mower Depot, Yardworx) as at 8 Nov 2026; used Gumtree asks around A$120-150",
+   "date": "2026-11-08",
+   "via": "chrome"
   }
  ],
  "rate_note": "All AUD, no conversion.",
- "searches_tried": "comps.py (pipeline and work) for stihl fsa 45, stihl fsa, stihl whipper, stihl cordless, stihl battery trimmer; Gowans API search stihl fsa (1 past hit); WebSearch for FSA 45 used price Australia; opened GYC retailer page. eBay sold prices (FSA 45 sold, Australia) would help but are blocked; Gumtree not checked.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for stihl fsa 45, stihl fsa, stihl whipper, stihl cordless, stihl battery trimmer; Gowans API search stihl fsa (1 past hit); WebSearch for FSA 45 used price Australia; opened GYC retailer page. eBay sold prices (FSA 45 sold, Australia) would help but are blocked; Gumtree not checked. | chrome: ebay sold: stihl fsa 45 trimmer; stihl fsa 45; google: stihl fsa 45 price australia; stihl fsa 45 second hand sold price (found Lawsons result)",
+ "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed listings: Stihl FSA 45 (filter Australia, sold items), compare unit-only versus with charger",
- "viewing_check": "Check whether a charger comes with it, battery charge indicator lights on power-up, and condition of the head and line. Battery health is the main unknown."
+ "viewing_check": "No charger shown in photos; battery is integrated so its health decides value. New retail price not checked. [Armitage page 8 Nov 2026: estimate $30-50, current bid $35. Photos viewed (about 400px, low resolution): 2 photos: Stihl FSA 45 white/orange with integrated battery and line head, used; no charger shown]",
+ "chrome_done": true
 }

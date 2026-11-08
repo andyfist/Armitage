@@ -1,9 +1,152 @@
-{"cdid":3112324,"lot":1419,"identification":"Castrol Wakefield 1 gallon rectangular motor oil tin, grade 1080X, with George VI warrant panel (early 1950s). Common Australian-sold tin; rough condition.","entries":[
-{"kind":"SOLD","price":"$40 hammer","currency":"AUD","aud_price":40,"date":"2025-11-10","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wakefield&page%5Bnumber%5D=1 (lot id 374530)","same_item":"close","note":"CASTROL WAKEFIELD MOTOR OIL TIN, 3 bids, hammer, premium extra. From comps database; condition not checked."},
-{"kind":"SOLD","price":"$23 hammer","currency":"AUD","aud_price":23,"date":"2025-11-10","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wakefield&page%5Bnumber%5D=1 (lot id 374089)","same_item":"close","note":"CASTROL WAKEFIELD OIL TIN, 3 bids, hammer. Likely a lesser tin."},
-{"kind":"SOLD","price":"$60 hammer","currency":"AUD","aud_price":60,"date":"2025-10-06","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oil+tin&page%5Bnumber%5D=1 (lot id 366129)","same_item":"close","note":"CASTROL MOTOR OIL TIN, 8 bids, hammer."},
-{"kind":"SOLD","price":"$5 hammer","currency":"AUD","aud_price":5,"date":"2026-03-09","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=castrol+gallon&page%5Bnumber%5D=1 (lot id 395837)","same_item":"close","note":"ONE GALLON CASTROL TIN, 0 bids, hammer. Low end for a poor tin."},
-{"kind":"SOLD","price":"$25-30 hammer","currency":"AUD","aud_price":30,"date":"2026-07-19","venue":"Gowans Auctions, Hobart","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=castrol+tin&page%5Bnumber%5D=1 (lot ids 425404, 425397)","same_item":"category guide","note":"Multi-tin lots including Castrol/BP; not single-tin evidence."},
-{"kind":"ASKING","price":"AU$47.80","currency":"AUD","aud_price":47.8,"date":"live, seen 2026-11-06","venue":"eBay listing, Castrol 1 Gallon Vintage Motor Oil Tin 'Z Logo'","url":"https://www.ebay.de/itm/235899056453","same_item":"category guide","note":"Snippet only, unverified. Used, later Z logo tin, asking price not price paid."}
-],
-"searches_tried":"pipeline/comps.py crashed (None error); work/comps.py castrol tin (24 Gowans sales, median $40, range $5-$280 incl Neptune/Golden Fleece); Gowans API wakefield, castrol+gallon; WebSearch x2 (no sold records for a George VI panel tin; AU$149 eBay asking snippet had no URL, not recorded). eBay sold prices would settle it: Chrome search 'Wakefield Castrol 1 gallon tin' sold items.","needs_chrome":true,"chrome_hint":"eBay.com.au sold listings: Wakefield Castrol 1 gallon oil tin","rate_note":"All AUD, no conversion.","viewing_check":"Check for dents, holes or leaks, completeness of cap and pourer, and whether the paint and royal arms panel are intact; photograph the base and side panels.","chrome_hint_note":""}
+{
+ "cdid": 3112324,
+ "lot": 1419,
+ "identification": "Castrol Wakefield 1 gallon tin, c.1952 King George VI warrant panel. Est 30-60, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: green/white Castrol Wakefield 1 gallon tin, rust at edges.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2025-11-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wakefield&page%5Bnumber%5D=1 (lot id 374530)",
+   "same_item": "close",
+   "note": "CASTROL WAKEFIELD MOTOR OIL TIN, 3 bids, hammer, premium extra. From comps database; condition not checked."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$23 hammer",
+   "currency": "AUD",
+   "aud_price": 23,
+   "date": "2025-11-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=wakefield&page%5Bnumber%5D=1 (lot id 374089)",
+   "same_item": "close",
+   "note": "CASTROL WAKEFIELD OIL TIN, 3 bids, hammer. Likely a lesser tin."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2025-10-06",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oil+tin&page%5Bnumber%5D=1 (lot id 366129)",
+   "same_item": "close",
+   "note": "CASTROL MOTOR OIL TIN, 8 bids, hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$5 hammer",
+   "currency": "AUD",
+   "aud_price": 5,
+   "date": "2026-03-09",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=castrol+gallon&page%5Bnumber%5D=1 (lot id 395837)",
+   "same_item": "close",
+   "note": "ONE GALLON CASTROL TIN, 0 bids, hammer. Low end for a poor tin."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25-30 hammer",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-07-19",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=castrol+tin&page%5Bnumber%5D=1 (lot ids 425404, 425397)",
+   "same_item": "category guide",
+   "note": "Multi-tin lots including Castrol/BP; not single-tin evidence."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$47.80",
+   "currency": "AUD",
+   "aud_price": 47.8,
+   "date": "live, seen 2026-11-06",
+   "venue": "eBay listing, Castrol 1 Gallon Vintage Motor Oil Tin 'Z Logo'",
+   "url": "https://www.ebay.de/itm/235899056453",
+   "same_item": "category guide",
+   "note": "Snippet only, unverified. Used, later Z logo tin, asking price not price paid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$119.0",
+   "currency": "AUD",
+   "aud_price": 119.0,
+   "date": "2026-10-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237122803353",
+   "same_item": "close",
+   "note": "Wakefield Castrol 1 imperial gallon Australian tin. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$110.0",
+   "currency": "AUD",
+   "aud_price": 110.0,
+   "date": "2026-09-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237072507568",
+   "same_item": "close",
+   "note": "Wakefield Castrol 1 imperial gallon Australian tin. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$165.0",
+   "currency": "AUD",
+   "aud_price": 165.0,
+   "date": "2026-09-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/168667762695",
+   "same_item": "close",
+   "note": "Wakefield Castrol motor oil 1 gallon tin. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.5",
+   "currency": "AUD",
+   "aud_price": 95.5,
+   "date": "2026-09-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237072505921",
+   "same_item": "close",
+   "note": "Wakefield Castrol 1 imperial gallon Australian tin. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$88.5",
+   "currency": "AUD",
+   "aud_price": 88.5,
+   "date": "2026-10-05",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/377509503282",
+   "same_item": "close",
+   "note": "Vintage Australian 1950s Wakefield Castrol 1 gallon tin. item price as shown, postage not included unless stated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50.0",
+   "currency": "AUD",
+   "aud_price": 50.0,
+   "date": "2026-10-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257799256405",
+   "same_item": "close",
+   "note": "Castrol Wakefield vintage imp gallon empty oil can. poorer condition likely",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py crashed (None error); work/comps.py castrol tin (24 Gowans sales, median $40, range $5-$280 incl Neptune/Golden Fleece); Gowans API wakefield, castrol+gallon; WebSearch x2 (no sold records for a George VI panel tin; AU$149 eBay asking snippet had no URL, not recorded). eBay sold prices would settle it: Chrome search 'Wakefield Castrol 1 gallon tin' sold items. | chrome: eBay AU sold: Castrol Wakefield 1 gallon oil tin",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: Wakefield Castrol 1 gallon oil tin",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Condition shows rust and paint loss, so expect the lower end ($50-95).",
+ "chrome_hint_note": "",
+ "chrome_done": true
+}

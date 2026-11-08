@@ -1,10 +1,133 @@
-{"cdid":3112464,"lot":1744,"identification":"Ozito 24L 1.5HP oil-free air compressor (ACP24151 style, boxed, strapped) plus Ozito ASG-GFK 3 piece gravity feed spray gun kit and PowerFit 10m 1/4 BSP air hose, all boxed and appearing new.","entries":[
-{"kind":"SOLD","price":"$60 hammer (3 bids)","aud_price":60,"date":"2026-08-09","venue":"Gowans Auctions, Hobart","url":"gowans lot id 430144","same_item":"yes","note":"OZITO 24LT AIR COMPRESSOR, compressor alone; condition not stated. Local comps database; premium extra."},
-{"kind":"SOLD","price":"$70 hammer (6 bids)","aud_price":70,"date":"2026-04-26","venue":"Gowans Auctions, Hobart","url":"gowans lot id 405618","same_item":"close","note":"OZITO 8 BAR 1.5HP COMPRESSOR, compressor alone, likely same family. Local comps database and Gowans API."},
-{"kind":"SOLD","price":"$85 hammer","aud_price":85,"date":"2025-08-20","venue":"Armitage Auctions, Launceston sale 25445 lot 1730","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2602558&chid=25445&category=ALL&style=group","same_item":"category guide","note":"GMC compressor with an Ozito submersible pump; different mix, only a loose guide. Local comps database."},
-{"kind":"SOLD","price":"$50 hammer (4 bids)","aud_price":50,"date":"2026-07-12","venue":"Gowans Auctions, Hobart","url":"gowans lot id 423774","same_item":"category guide","note":"Ozito jigsaw, spray gun with accessories and laser level mixed lot; not the same kit. Gowans API."},
-{"kind":"ASKING","price":"AU$79.98","aud_price":79.98,"date":"live, seen 2026-11-06 (cached listing, about 581 days old)","venue":"Bunnings Australia, Ozito 3 Piece Gravity Feed Air Spray Gun Kit ASG-GFK","url":"https://www.bunnings.com.au/ozito-3-piece-gravity-feed-air-spray-gun-kit-asg-gfk_p5810650","same_item":"yes","note":"New retail price of the spray kit only; snippet only, not verified. Buywisely notes a low of $65.41 on 6 May 2026."},
-{"kind":"ASKING","price":"$99","aud_price":99,"date":"2014 (old, stale)","venue":"OzBargain thread, Bunnings run-out of Ozito 24L 1.5HP","url":"https://www.ozbargain.com.au/node/154047","same_item":"yes","note":"Old new-retail price for the compressor; snippet only. Model seems discontinued at Bunnings, so no current retail found."}
-],
-"searches_tried":"comps.py (pipeline and work) with ozito/air compressor/24 words; Gowans API for ozito compressor and ozito spray gun; WebSearch for Ozito 24L compressor Bunnings price, site:armitage.bidsonline.com.au Ozito compressor, and Ozito gravity feed spray gun kit price. No Armitage past Ozito 24L result found. eBay sold listings for Ozito 24L compressor and the ASG-GFK kit would help but eBay is closed to us.",
-"needs_chrome":true,"chrome_hint":"eBay.com.au sold and completed listings: Ozito 24L air compressor; and Ozito ASG-GFK gravity feed spray gun kit","viewing_check":"Check the compressor box is sealed and unused (not opened or returned), the model label on the box, and that the spray gun kit and hose boxes are sealed. Realistic value is a compressor around $60-70 hammer in Hobart plus the kit and hose as extras.","rate_note":"All prices in AUD, no conversion."}
+{
+ "cdid": 3112464,
+ "lot": 1744,
+ "identification": "Ozito 24L 1.5HP oil-free air compressor, Ozito spray gun kit, PowerFit 10m hose, new in box",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer (3 bids)",
+   "aud_price": 60,
+   "date": "2026-08-09",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 430144",
+   "same_item": "yes",
+   "note": "OZITO 24LT AIR COMPRESSOR, compressor alone; condition not stated. Local comps database; premium extra."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer (6 bids)",
+   "aud_price": 70,
+   "date": "2026-04-26",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 405618",
+   "same_item": "close",
+   "note": "OZITO 8 BAR 1.5HP COMPRESSOR, compressor alone, likely same family. Local comps database and Gowans API."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$85 hammer",
+   "aud_price": 85,
+   "date": "2025-08-20",
+   "venue": "Armitage Auctions, Launceston sale 25445 lot 1730",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2602558&chid=25445&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "GMC compressor with an Ozito submersible pump; different mix, only a loose guide. Local comps database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer (4 bids)",
+   "aud_price": 50,
+   "date": "2026-07-12",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 423774",
+   "same_item": "category guide",
+   "note": "Ozito jigsaw, spray gun with accessories and laser level mixed lot; not the same kit. Gowans API."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$79.98",
+   "aud_price": 79.98,
+   "date": "live, seen 2026-11-06 (cached listing, about 581 days old)",
+   "venue": "Bunnings Australia, Ozito 3 Piece Gravity Feed Air Spray Gun Kit ASG-GFK",
+   "url": "https://www.bunnings.com.au/ozito-3-piece-gravity-feed-air-spray-gun-kit-asg-gfk_p5810650",
+   "same_item": "yes",
+   "note": "New retail price of the spray kit only; snippet only, not verified. Buywisely notes a low of $65.41 on 6 May 2026."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$99",
+   "aud_price": 99,
+   "date": "2014 (old, stale)",
+   "venue": "OzBargain thread, Bunnings run-out of Ozito 24L 1.5HP",
+   "url": "https://www.ozbargain.com.au/node/154047",
+   "same_item": "yes",
+   "note": "Old new-retail price for the compressor; snippet only. Model seems discontinued at Bunnings, so no current retail found."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$127.95",
+   "currency": "AUD",
+   "aud_price": 127.95,
+   "date": "2026-10-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/167825551570",
+   "same_item": "category guide",
+   "note": "Lincoln 24L 2HP direct drive compressor, not Ozito",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$139.95",
+   "currency": "AUD",
+   "aud_price": 139.95,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/357882495046",
+   "same_item": "category guide",
+   "note": "Giantz 24L oil-free compressor, new",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$139.00",
+   "currency": "AUD",
+   "aud_price": 139.0,
+   "date": "2026-09-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/133682164568",
+   "same_item": "category guide",
+   "note": "Kito 24L 2HP compressor",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$218.90 new retail (40L nearest)",
+   "currency": "AUD",
+   "aud_price": 218.9,
+   "venue": "Bunnings Australia",
+   "url": "https://www.bunnings.com.au/search/products?q=ozito%2024l%20air%20compressor",
+   "same_item": "category guide",
+   "note": "new retail price: Ozito 24L 1.5HP is no longer on Bunnings' site; nearest is Ozito 40L 2.0HP oil free compressor A$218.90 (out of stock), Ozito 1100W Inflate-It kit A$99.98, 10m PVC air hose A$18.98",
+   "date": "2026-11-08",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$60 asking (used)",
+   "currency": "AUD",
+   "aud_price": 60.0,
+   "venue": "Facebook Marketplace (Denham Court NSW)",
+   "url": "https://www.google.com/search?q=ozito+24l+oil+free+air+compressor+1.5hp+price",
+   "same_item": "yes",
+   "note": "Ozito 24L Air Compressor 1.5HP with air hose, used, asking price only",
+   "date": "2026-11-08",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with ozito/air compressor/24 words; Gowans API for ozito compressor and ozito spray gun; WebSearch for Ozito 24L compressor Bunnings price, site:armitage.bidsonline.com.au Ozito compressor, and Ozito gravity feed spray gun kit price. No Armitage past Ozito 24L result found. eBay sold listings for Ozito 24L compressor and the ASG-GFK kit would help but eBay is closed to us. | chrome: ebay sold: ozito 24l air compressor; google: ozito 24l oil free air compressor 1.5hp price; bunnings: ozito 24l air compressor",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold and completed listings: Ozito 24L air compressor; and Ozito ASG-GFK gravity feed spray gun kit",
+ "viewing_check": "No sold Ozito 24L found; new Ozito retail price not looked up. [Armitage page 8 Nov 2026: estimate $100-150, current bid $50. Photos viewed (about 400px, low resolution): boxed Ozito 24L compressor in strapped carton, spray gun kit and hose boxed on a tray; new in boxes]",
+ "rate_note": "All prices in AUD, no conversion.",
+ "chrome_done": true
+}

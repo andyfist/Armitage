@@ -1,1 +1,59 @@
-{"cdid":3111134,"lot":872,"identification":"Late 20th century Chinese export decorative floor vase, about 60 cm, printed and overpainted famille-rose style birds and peonies. Common modern 'Satsuma-style' type. No base photo or mark seen.","entries":[{"kind":"SOLD","price":"$240 hammer (smaller, 38 cm, signed famille rose vase on wood base, rim repair)","aud_price":240,"currency":"AUD","date":"2025-05-28","venue":"Armitage Auctions, Launceston sale 24110 lot 809","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2513001&chid=24110&category=ALL&style=group","same_item":"close","note":"Paid locally, not resale. Local database hit, no page opened. Smaller, signed, repaired; shows what we might pay only."},{"kind":"SOLD","price":"$40 hammer (10 cm signed famille rose vase)","aud_price":40,"currency":"AUD","date":"2026-07-29","venue":"Armitage Auctions, Launceston sale 28327 lot 606","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2995809&chid=28327&category=ALL&style=group","same_item":"category guide","note":"Paid locally, not resale. Much smaller; local database hit, no page opened."}],"searches_tried":"comps.py (pipeline) chinese vase famille rose; work/comps.py chinese vase --min-price 100 --years 2. No resale comps found. Item judged generic (modern export decorative vase), stopped early without web search. eBay sold listings for 'large chinese famille rose floor vase 60cm' would settle it but expected low value.","needs_chrome":false,"chrome_hint":"","rate_note":"All AUD, no conversion.","viewing_check":"Check the base for a reign mark or sticker and for hairlines or rim chips; otherwise nothing."}
+{
+ "cdid": 3111134,
+ "lot": 872,
+ "identification": "Large modern Chinese famille-rose style floor vase, 60 cm; low value. Est 30-50, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: tall baluster vase with overpainted birds and peonies in coloured reserves, two photos, no base shot; modern export decorative vase, low value.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$240 hammer (smaller, 38 cm, signed famille rose vase on wood base, rim repair)",
+   "aud_price": 240,
+   "currency": "AUD",
+   "date": "2025-05-28",
+   "venue": "Armitage Auctions, Launceston sale 24110 lot 809",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2513001&chid=24110&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Paid locally, not resale. Local database hit, no page opened. Smaller, signed, repaired; shows what we might pay only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40 hammer (10 cm signed famille rose vase)",
+   "aud_price": 40,
+   "currency": "AUD",
+   "date": "2026-07-29",
+   "venue": "Armitage Auctions, Launceston sale 28327 lot 606",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2995809&chid=28327&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Paid locally, not resale. Much smaller; local database hit, no page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52.64 + A$16.95 postage",
+   "currency": "AUD",
+   "aud_price": 52.64,
+   "date": "2026-10-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/358525151395",
+   "same_item": "partial",
+   "note": "Vintage Chinese famille rose porcelain vase 25 cm, stamped; much smaller than Andy's 60 cm vase. Category guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$111.01 (Best Offer accepted, price struck through from A$158.58)",
+   "currency": "AUD",
+   "aud_price": 111.01,
+   "date": "2026-10-13",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/198684382362",
+   "same_item": "partial",
+   "note": "Famille rose 18 inch floor vase; Best Offer accepted so shown price is asking, not necessarily paid; postage A$264.18.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline) chinese vase famille rose; work/comps.py chinese vase --min-price 100 --years 2. No resale comps found. Item judged generic (modern export decorative vase), stopped early without web search. eBay sold listings for 'large chinese famille rose floor vase 60cm' would settle it but expected low value. | chrome: None (low value); eBay AU sold: large chinese famille rose floor vase 60cm (low value category guide)",
+ "needs_chrome": false,
+ "chrome_hint": "",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Low value, not searched; check base for reign mark. Bulky and postage-heavy; resale basically local pickup.",
+ "chrome_done": true
+}

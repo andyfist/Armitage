@@ -1,7 +1,7 @@
 {
  "cdid": 3112705,
  "lot": 1864,
- "identification": "Modern reproduction cast iron/alloy pedestal bird bath, scalloped bowl with perched bird, painted verdigris finish; bowl rusted, flaking base. Generic garden ware, no maker.",
+ "identification": "Cast metal reproduction bird bath, rusted",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,36 @@
    "url": "https://www.gowansauctions.com.au/ (lot id 425140)",
    "same_item": "close",
    "note": "Metal bird bath with planter base, 10 bids; weaker form. Hammer, premium extra; local database record (no rate needed, AUD)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$64.07 + A$85.07 postage",
+   "currency": "AUD",
+   "aud_price": 64.07,
+   "date": "2026-10-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117442471457",
+   "same_item": "partial",
+   "note": "Vintage heavy cast iron bird bath or feeder with bird, tabletop, US seller; smaller than the lot",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$55.00 + A$20 postage",
+   "currency": "AUD",
+   "aud_price": 55.0,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/324969837771",
+   "same_item": "category guide",
+   "note": "heavy cast iron bird feeder bird bath yin yang, new",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for bird bath, cast iron bird bath, metal bird bath. Generic item so web search skipped. eBay sold would not change much.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for bird bath, cast iron bird bath, metal bird bath. Generic item so web search skipped. eBay sold would not change much. | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: cast iron bird bath pedestal (errored), cast iron bird bath",
+ "needs_chrome": false,
  "chrome_hint": " Bidder signal: 81791 - Longford , TAS (seen in 65 sales); 135397 - Longford, TAS (seen in 126 sales); 142868 - Perth, (seen in 18 sales); 221336 - Rocherlea, (seen in 24 sales); 248847 - Lilydale, (seen in 21 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
- "viewing_check": "Nothing needed; optionally check the bowl for cracks and whether it is iron or thin alloy.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Low value. [Armitage page 8 Nov 2026: estimate $10-20, current bid $40. Photos viewed (about 400px, low resolution): cast bird bath on pale green pedestal with perched bird, rusted bowl, tag attached]",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

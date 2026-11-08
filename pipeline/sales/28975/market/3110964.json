@@ -1,7 +1,7 @@
 {
  "cdid": 3110964,
  "lot": 702,
- "identification": "Freeform mid-century Czech or Murano style uranium art glass centrepiece bowl, two upturned wings, cased with amber edges. Unsigned, tag reads 4711 Uranium. Probably 1950s-60s Bohemian; maker not confirmed.",
+ "identification": "Freeform mid-century uranium/art glass bowl, unattributed. Est 30-50, bid 35. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: freeform green and amber cased art glass bowl with two upswept wings on a foot.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,36 @@
    "url": "https://www.20thcenturyglass.com/store/index.php?main_page=product_info&products_id=8573",
    "same_item": "category guide",
    "note": "Stolzle Czech Art Deco uranium green bowl; dealer asking; snippet only, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$83.0",
+   "currency": "AUD",
+   "aud_price": 83.0,
+   "date": "2026-11-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/366770473499",
+   "same_item": "partial",
+   "note": "Vintage frosted green uranium glass bowl, scalloped beaded rim. different style",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.85",
+   "currency": "AUD",
+   "aud_price": 28.85,
+   "date": "2026-11-07",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/860051858370",
+   "same_item": "partial",
+   "note": "Art Deco green uranium bowl/bon bon dish, birds, 1930s. ",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py (uranium glass bowl, uranium art glass, murano bowl); work comps.py (uranium bowl, art glass bowl, czech glass bowl, glass centrepiece bowl); WebSearch for Czech uranium freeform bowl (only asking prices and estimates, no verified sold). eBay sold prices and LiveAuctioneers results would help.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py (uranium glass bowl, uranium art glass, murano bowl); work comps.py (uranium bowl, art glass bowl, czech glass bowl, glass centrepiece bowl); WebSearch for Czech uranium freeform bowl (only asking prices and estimates, no verified sold). eBay sold prices and LiveAuctioneers results would help. | chrome: eBay AU sold: uranium glass bowl | chrome: eBay AU sold: uranium glass bowl",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold listings: czech uranium art glass bowl freeform; LiveAuctioneers price results 'uranium art glass bowl'",
- "viewing_check": "Check wing rims and foot for chips or flea bites, any pontil mark, sticker or signature, weight (heavy cased Czech/Murano glass is worth more), and glow under a UV torch.",
- "rate_note": "GBP to AUD about 2.0 (approximate); other prices AUD hammer, premium extra."
+ "viewing_check": "Check for maker label or signature (Czech/Murano) on base.",
+ "rate_note": "GBP to AUD about 2.0 (approximate); other prices AUD hammer, premium extra.",
+ "chrome_done": true
 }

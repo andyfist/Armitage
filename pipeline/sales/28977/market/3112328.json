@@ -1,7 +1,7 @@
 {
  "cdid": 3112328,
  "lot": 1423,
- "identification": "Ex-council pressed aluminium 'MURRAY St' street name blade, black on white reflective face, with cast aluminium pole clamp. Generic modern Australian council sign; no legible maker. Murray St is a main Hobart street so some local interest.",
+ "identification": "Aluminium 'MURRAY St' street sign with bracket. Est 20-30, bid 55. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: white-on-black aluminium MURRAY St street sign with bracket piece.",
  "entries": [
   {
    "kind": "SOLD",
@@ -35,11 +35,24 @@
    "url": "gowans lot id 389833",
    "same_item": "close",
    "note": "QTY OF STREET SIGNS & OTHERS (job lot). Paid locally, not a resale price; premium extra. Page not opened, from local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.92",
+   "currency": "AUD",
+   "aud_price": 85.92,
+   "date": "2026-09-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/117402589714",
+   "same_item": "category guide",
+   "note": "Vintage Road Ends 30x30 reflective aluminium street sign (US). US sign, not Tasmanian",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with murray street sign, street sign, street sign aluminium; WebSearch for Murray St sign Hobart auction, vintage aluminium street sign auction Australia, site:armitage street sign. No resale SOLD comps found for a modern aluminium street sign. eBay sold listings (Australian ex-council street signs) would settle it; unreachable here. Generic item, stopped early.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) with murray street sign, street sign, street sign aluminium; WebSearch for Murray St sign Hobart auction, vintage aluminium street sign auction Australia, site:armitage street sign. No resale SOLD comps found for a modern aluminium street sign. eBay sold listings (Australian ex-council street signs) would settle it; unreachable here. Generic item, stopped early. | chrome: eBay AU sold: Murray Street street sign aluminium",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'street sign Hobart' and 'ex council street sign aluminium' (sold items, last 90 days)",
- "viewing_check": "Check for maker stamp or date on the face and bracket, whether the face is enamel or aluminium, and condition of the reflective face.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "No Tasmanian council sign sold comps found.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

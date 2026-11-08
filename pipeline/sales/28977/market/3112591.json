@@ -1,7 +1,7 @@
 {
  "cdid": 3112591,
  "lot": 1564,
- "identification": "Mixed hardware tray: unbranded cased 12V lithium jump starter pack with clamps/chargers, box of galvanised D shackles and eye bolts, blue-knob gas regulator with two gauges, FBT-2500 plasma cutter tip box, carded General Purpose brass padlocks, Raven Storm Proof door seal. All modern generic.",
+ "identification": "Tray of padlocks, shackles, jump starter pack and sundries, modern generic",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,36 @@
    "url": "gowans id 430193 (local comps DB)",
    "same_item": "category guide",
    "note": "SCA 2400 amp compact jump starter; high end, a branded higher-capacity unit. Local DB listing, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$44.90 + postage",
+   "currency": "AUD",
+   "aud_price": 44.9,
+   "date": "2026-11-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/318210124240",
+   "same_item": "category guide",
+   "note": "new generic 15000A jump starter power bank pack, Buy It Now; lot's jump starter brand unknown, used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120.76 + postage",
+   "currency": "AUD",
+   "aud_price": 120.76,
+   "date": "2026-11-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227579232001",
+   "same_item": "category guide",
+   "note": "new heavy duty 5000A jump starter power pack; upper end of new items",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work db) 'jump starter': 16 Gowans sales, lowest $5, median $48, highest $120 hammer; 'plasma cutter tip' and 'padlocks shackles tray': no sales. Item is clearly generic mixed hardware, so no web search done; stopped early. eBay sold would not materially change this.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (work db) 'jump starter': 16 Gowans sales, lowest $5, median $48, highest $120 hammer; 'plasma cutter tip' and 'padlocks shackles tray': no sales. Item is clearly generic mixed hardware, so no web search done; stopped early. eBay sold would not materially change this. | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: lithium jump starter pack clamps case (errored), jump starter pack lithium (errored), car jump starter power pack",
+ "needs_chrome": false,
  "chrome_hint": " Bidder signal: 122213 - Westbury, TAS (seen in 140 sales); 142868 - Perth, (seen in 18 sales); 78400 - Karoola, TAS (seen in 47 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
- "viewing_check": "Check the jump starter: any brand or mAh/amp rating on the case, whether it holds charge and powers on. Otherwise nothing; rest is generic.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Low value. [Armitage page 8 Nov 2026: estimate $30-50, current bid $30. Photos viewed (about 400px, low resolution): 4 photos: black case with jump starter, tray of padlocks and shackles, regulator, plasma tip box; generic items]",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

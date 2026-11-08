@@ -1,7 +1,97 @@
-{"cdid":3112458,"lot":1738,"identification":"Unbranded orange lever grease gun with flexible hose, plus a long-hose garden sprayer lance. No maker marks legible. Generic workshop and garden items, very low value.","entries":[
-{"kind":"SOLD","price":"$20 hammer","aud_price":20,"date":"2026-01-26","venue":"Gowans Auctions, Hobart","url":"gowans lot id 386624","same_item":"close","note":"Grease gun and grease, comparable plain item; local database, page not opened"},
-{"kind":"SOLD","price":"$2 hammer","aud_price":2,"date":"2026-01-26","venue":"Gowans Auctions, Hobart","url":"gowans lot id 386504","same_item":"close","note":"Plain grease gun, 0 bids; local database"},
-{"kind":"SOLD","price":"$50 hammer","aud_price":50,"date":"2026-05-31","venue":"Gowans Auctions, Hobart","url":"gowans lot id 414202","same_item":"category guide","note":"Shell McNaught branded grease gun with grease; branded so worth more; local database"},
-{"kind":"SOLD","price":"$5 hammer","aud_price":5,"date":"2026-01-26","venue":"Gowans Auctions, Hobart","url":"gowans lot id 386260","same_item":"close","note":"Brass garden sprayer marked Desmo Birmingham; local database"},
-{"kind":"SOLD","price":"$30 hammer","aud_price":30,"date":"2026-08-19","venue":"Armitage Auctions, Launceston","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020845&chid=28448&category=ALL&style=group","same_item":"category guide","note":"Collection of old grease guns; multiple items; local database, page not opened"}],
-"searches_tried":"comps.py (pipeline) grease gun; work/comps.py grease gun --years 2; garden sprayer brass; sprayer lance; spray hose brass. No web search: generic low-value item. eBay sold would not change the picture.","needs_chrome":false,"viewing_check":"nothing"}
+{
+ "cdid": 3112458,
+ "lot": 1738,
+ "identification": "Grease gun and brass garden sprayer, unmarked",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$20 hammer",
+   "aud_price": 20,
+   "date": "2026-01-26",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 386624",
+   "same_item": "close",
+   "note": "Grease gun and grease, comparable plain item; local database, page not opened"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$2 hammer",
+   "aud_price": 2,
+   "date": "2026-01-26",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 386504",
+   "same_item": "close",
+   "note": "Plain grease gun, 0 bids; local database"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "aud_price": 50,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 414202",
+   "same_item": "category guide",
+   "note": "Shell McNaught branded grease gun with grease; branded so worth more; local database"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$5 hammer",
+   "aud_price": 5,
+   "date": "2026-01-26",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 386260",
+   "same_item": "close",
+   "note": "Brass garden sprayer marked Desmo Birmingham; local database"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "aud_price": 30,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020845&chid=28448&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Collection of old grease guns; multiple items; local database, page not opened"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$58.33 + A$37.78 postage",
+   "currency": "AUD",
+   "aud_price": 58.33,
+   "date": "2026-10-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267801585385",
+   "same_item": "category guide",
+   "note": "WESCO vintage lever grease gun oiler, metal yellow, brand named",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$31.01 + A$51.10 postage",
+   "currency": "AUD",
+   "aud_price": 31.01,
+   "date": "2026-10-30",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/137655331859",
+   "same_item": "category guide",
+   "note": "Vintage Wanner lever grease gun, Switzerland",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$26.17 + A$50.86 postage",
+   "currency": "AUD",
+   "aud_price": 26.17,
+   "date": "2026-09-17",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/307172365727",
+   "same_item": "category guide",
+   "note": "Vintage Tecalemit side lever grease gun",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline) grease gun; work/comps.py grease gun --years 2; garden sprayer brass; sprayer lance; spray hose brass. No web search: generic low-value item. eBay sold would not change the picture. | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: vintage lever grease gun",
+ "needs_chrome": false,
+ "viewing_check": "Low value. [Armitage page 8 Nov 2026: estimate $10-20, current bid $10. Photos viewed (about 400px, low resolution): orange lever grease gun and a long hose sprayer lance with brass fittings, no marks readable]",
+ "chrome_done": true
+}

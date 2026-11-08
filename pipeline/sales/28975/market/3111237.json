@@ -1,7 +1,7 @@
 {
  "cdid": 3111237,
  "lot": 975,
- "identification": "About 60 pairs of stud and drop earrings on jeweller's cards, bagged earrings and a carded tennis-style bracelet. Carat marks not legible at 800x600 (one photo only). Gold-coloured studs look like typical small gold/gold-plated shop stock; white-stone ones likely CZ or silver.",
+ "identification": "~60 pairs earrings on shop cards, gold coloured; carat unknown. Est 20-50, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: tray of about 60 earring cards, mostly gold-coloured, plus a few chains; carat not visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -59,9 +59,10 @@
    "note": "Single pair 9ct gold earrings 1.4gm; scale if many carded pairs prove to be 9ct (each pair roughly $55 to $140 for 1 to 2gm). (local comps database; page not opened; rate AUD native)"
   }
  ],
- "searches_tried": "pipeline/comps.py (errored on a None price bug), work/comps.py: 9ct earrings, earrings collection, earrings cards, tennis bracelet; Gowans API: jeweller shop stock earrings, lot of earrings new, earrings costume. No Gowans sale found for a big lot of carded shop-stock earrings. No web search run (generic costume/shop-stock lot, evidence is thin either way). eBay sold would help but is closed to us.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py (errored on a None price bug), work/comps.py: 9ct earrings, earrings collection, earrings cards, tennis bracelet; Gowans API: jeweller shop stock earrings, lot of earrings new, earrings costume. No Gowans sale found for a big lot of carded shop-stock earrings. No web search run (generic costume/shop-stock lot, evidence is thin either way). eBay sold would help but is closed to us. | chrome: None (needs marks); No eBay result (eBay AU search blocked after repeated error pages this run); photo check only. Value depends on 9ct stamps.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: 'job lot carded earrings new old stock jewellery shop' and 'wholesale lot gold plated stud earrings cards'",
- "viewing_check": "Pick up several cards and read the stamps on the backs/posts: 9ct, 375, 'GP', 'RGP', 'sterling', 925. Check the card printing for a stated metal and carat. Weigh a few pairs. If most are 375, tally the pairs and weigh; if plated or CZ costume, value is low. Also check the tennis bracelet's clasp for a 925 or 375 stamp and whether stones are CZ.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check for 9ct stamps on card backs; if 9ct, gold value could exceed estimate heavily.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

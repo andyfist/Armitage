@@ -1,7 +1,7 @@
 {
  "cdid": 3112038,
  "lot": 1210,
- "identification": "Sunbeam Food Lab Dehydrator, digital control, six trays, 35-70 C. Clean, complete in photos.",
+ "identification": "Sunbeam Food Lab electronic dehydrator, digital control, six trays, 3 photos; looks like model DT6000.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,36 @@
    "url": "gowans lot id 366583",
    "same_item": "category guide",
    "note": "Dehydrator plus garden shears, 5 bids. Local database hit, page not opened. Hammer, premium extra. AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$212.83",
+   "currency": "AUD",
+   "aud_price": 212.83,
+   "date": "2025-11-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/276483863126",
+   "same_item": "partial",
+   "note": "Sunbeam DT6000 Food Lab dehydrator, fixed price, qty 3 sold, condition not stated (may be new)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$219.12",
+   "currency": "AUD",
+   "aud_price": 219.12,
+   "date": "2026-07-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166236522619",
+   "same_item": "partial",
+   "note": "Sunbeam Food Lab DT6000, fixed price, 7 sold, likely new",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with sunbeam dehydrator, food dehydrator, dehydrator; Gowans API search 'dehydrator'. No web search: common modern appliance. eBay sold would not change the picture much.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) with sunbeam dehydrator, food dehydrator, dehydrator; Gowans API search 'dehydrator'. No web search: common modern appliance. eBay sold would not change the picture much. | chrome: Terapeak AU 'sunbeam food lab dehydrator': 17 results. A used one went at auction for A$29.30 on 2024-09-07 (126656132982, outside 24 months).",
+ "needs_chrome": false,
  "chrome_hint": " Bidder signal: 142868 - Perth, (seen in 18 sales); 58485 - Rowella, TAS (seen in 108 sales); 59421 - Mole creek, TAS - AutoBid (seen in 25 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
- "viewing_check": "Check it powers on and the fan and heater run; confirm all six trays are present.",
- "rate_note": "All results AUD, no conversion."
+ "viewing_check": "Armitage page shows no estimate. Current bid: $40. Photos all viewed via contact sheet. Check condition in person.",
+ "rate_note": "All results AUD, no conversion.",
+ "chrome_done": true
 }

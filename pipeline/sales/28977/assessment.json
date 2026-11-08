@@ -15,9 +15,9 @@
  "scanned": 416,
  "candidates": 164,
  "counts": {
-  "PASS": 8,
-  "CHROME": 116,
-  "FAIL": 40,
+  "PASS": 9,
+  "CHROME": 104,
+  "FAIL": 51,
   "DROP": 0,
   "NOT RESEARCHED": 0
  },
@@ -32,13 +32,39 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "11/11/2026 7:46:40 PM ADST",
-   "identification": "1927 Chevrolet Capitol (Series AA) 4 cylinder tourer, older restoration, with large spares package (spare gearbox/diff parts, pistons, rims, tank). Running claimed, not verifiable.",
+   "identification": "1927 Chevrolet Capitol 4-cyl tourer, restored, plus spare gearbox and parts. Est 18000-24000, no bids yet. PHOTO CHECK: Photos viewed (part 1 re-check). 27 photos viewed: blue and black four-door tourer with black hood, wooden-spoke wheels, Chevrolet radiator with mascot, four-cylinder engine with Delco-style coil, grey/black interior, spare wheel on rear. Parts: boxes of pistons, rims, carbs and a hand-lettered '1923-1928 Chevrolet' crate; parts are a lot of spares, not new in photos.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: 1927 Chevrolet tourer; also Shannons and Burns & Co past results for 1926-1928 Chevrolet tourer (Capitol/Superior/National), last 3 years",
-   "chrome_done": false,
-   "sold": [],
-   "sold_old": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 26918.08,
+     "date": "2025-12-10",
+     "venue": "Brightwells (UK) via The Classic Valuer",
+     "url": "https://www.theclassicvaluer.com/vehicle-details/brightwells-2025-12-10-chevrolet-capitol-tourer-111ff2",
+     "same_item": "close",
+     "note": "1927/28 Capitol AB tourer, ex-Australia RHD, recently restored to a high standard, green over black. Result on the Classic Valuer page; premium status not stated. About A$27k at roughly A$1=GBP0.50, not looked up. [converted at GBP 1.97]"
+    },
+    {
+     "aud_price": 9504.0,
+     "date": "2026-06-20",
+     "venue": "Anglia Car Auctions (UK), lot 842",
+     "url": "https://angliacarauctions.co.uk/auctions/2763-20-Jun-2026/14862~4-1928-chevrolet-four-door-tourer",
+     "same_item": "close",
+     "note": "1928 Chevrolet National AB four-door tourer, 2.8 L four-cylinder, ex-Australia, restored in Australia 1990-92, 12V, 43,309 miles, UK-registered 1998. Converted at an assumed GBP 1 = A$2.00 (rate not looked up). Hammer/premium split not stated. Sale 20-21 Jun 2026."
+    }
+   ],
+   "sold_old": [
+    {
+     "aud_price": 53900.0,
+     "date": "2022-01-31",
+     "venue": "Bring a Trailer lot 64703",
+     "url": "https://bringatrailer.com/listing/1927-chevolet-capital-3/",
+     "same_item": "close",
+     "note": "1927 Capitol tourer, US car, repainted 2004, replacement engine, 3-speed. Older than 24 months so context only. Includes BaT buyer fee? not stated. [converted at USD 1.54]"
+    }
+   ],
    "unsold": [
     {
      "aud_price": 0.0,
@@ -47,6 +73,14 @@
      "url": "https://burnsandcoauctions.com.au/portfolio/1928-chevrolet-tourer-4-cyl-manual/",
      "same_item": "close",
      "note": "Page opened. 1928 4 cyl tourer, 50,110 miles, maintained, unreserved. No price or result on page; no evidence either way, listed only for follow-up."
+    },
+    {
+     "aud_price": 0.0,
+     "date": null,
+     "venue": "Burns & Co Auctions (Forbes NSW)",
+     "url": "https://burnsandcoauctions.com.au/portfolio/1927-chevrolet-tourer-manual/",
+     "same_item": "partial",
+     "note": "1927 Holden-bodied Chevrolet tourer, unrestored, listed unreserved; result not shown"
     }
    ],
    "asking": [
@@ -65,6 +99,38 @@
      "url": "https://collectablecars.net/sold-cars-a-to-f/ChevroletCapitolTourer19271",
      "same_item": "yes",
      "note": "Page opened. 1927 Capitol tourer, restored a few years ago, runs and drives well, rally use. Marked sold but price hidden ($0.00), so no value evidence."
+    },
+    {
+     "aud_price": 25000.0,
+     "date": null,
+     "venue": "Just Cars",
+     "url": "https://www.justcars.com.au/",
+     "same_item": "close",
+     "note": "1927 Chevrolet tourer, originally sold in Rockhampton, fully restored, new leather interior (ad ref JCW3822452; link not saved). Dealer ask, not a sale."
+    },
+    {
+     "aud_price": 16000.0,
+     "date": null,
+     "venue": "Just Cars",
+     "url": "https://www.justcars.com.au/",
+     "same_item": "close",
+     "note": "1927 Chevrolet tourer Capitol, restored ~6 years ago, 12 volt, spares (ref JCW2862858). Ask, undated."
+    },
+    {
+     "aud_price": 30000.0,
+     "date": null,
+     "venue": "Just Cars",
+     "url": "https://www.justcars.com.au/",
+     "same_item": "close",
+     "note": "1927 Chevrolet tourer QLD 4347; ask"
+    },
+    {
+     "aud_price": 1928.0,
+     "date": "2026-05",
+     "venue": "Just Cars",
+     "url": "https://www.justcars.com.au/cars-for-sale/1928-chevrolet-4-cyl-manual-tourer/JCMD5378772",
+     "same_item": "close",
+     "note": "Dealer listing, 50,110 km, price not shown on page. Not a sale."
     }
    ],
    "paid": [
@@ -77,11 +143,11 @@
      "note": "From local comps database (not opened). C1928 Chevrolet 4 door soft top tourer with extra parts, described as for restoration, so a project; lower end of range. This lot is restored and claimed running, so should be well above it."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "resale": 18211.04,
+   "net_resale": 15479.384,
+   "max_hammer": 12520,
+   "status": "PASS",
+   "why": "2 same-item SOLD price(s), median $18,211; less 15% fees = $15,479; less $200 profit, / 1.22 premium = max hammer $12,520",
    "priority": false
   },
   {
@@ -829,11 +895,11 @@
    "current_bid": 35.0,
    "bid_count": 7,
    "close": "11/11/2026 7:50:20 PM ADST",
-   "identification": "Modern unmarked cast iron reclining rabbit holding a flower-shaped dish (trinket or candle dish), rust-brown finish. Imported decorative giftware, not antique. Photos show no maker's mark.",
+   "identification": "Small cast iron rabbit float vase; modern giftware. Est 20-40, bid 45. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: dark cast iron rabbit with leaf-shaped dish on its back; modern giftware, low value.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -898,13 +964,22 @@
    "current_bid": 70.0,
    "bid_count": 2,
    "close": "11/11/2026 7:50:40 PM ADST",
-   "identification": "Salt glazed stoneware spirit barrel (about 1 gallon), banded, beaded tap surround, old brass T-handle tap; heavily overpainted grey, small hole near top rim, no maker mark. Common late 19th/early 20th C English type, low value.",
+   "identification": "Salt-glazed 1 gallon stoneware spirit barrel with tap, overpainted. Est 100-150, bid 70. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: small wooden-style barrel with grey painted bands and brass tap.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 82.74,
+     "date": "2018-10-09",
+     "venue": "Brettells UK",
+     "url": "https://www.brettells.com/catalogue/lot/4bd2021aa28db8bf3cb48a8d31ce72f6/d338147dbc5ec45e7daf1932de062906/collectables-and-general-lot-45/",
+     "same_item": "close",
+     "note": "head start item; 2018-10-09, old [converted at GBP 1.97]"
+    }
+   ],
    "unsold": [],
    "asking": [],
    "paid": [
@@ -937,7 +1012,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -1160,12 +1235,61 @@
    "current_bid": 25.0,
    "bid_count": 2,
    "close": "11/11/2026 7:52:00 PM ADST",
-   "identification": "Castrol Wakefield 1 gallon rectangular motor oil tin, grade 1080X, with George VI warrant panel (early 1950s). Common Australian-sold tin; rough condition.",
+   "identification": "Castrol Wakefield 1 gallon tin, c.1952 King George VI warrant panel. Est 30-60, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: green/white Castrol Wakefield 1 gallon tin, rust at edges.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: Wakefield Castrol 1 gallon oil tin",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 119.0,
+     "date": "2026-10-21",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/237122803353",
+     "same_item": "close",
+     "note": "Wakefield Castrol 1 imperial gallon Australian tin. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-09-26",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/237072507568",
+     "same_item": "close",
+     "note": "Wakefield Castrol 1 imperial gallon Australian tin. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 165.0,
+     "date": "2026-09-11",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/168667762695",
+     "same_item": "close",
+     "note": "Wakefield Castrol motor oil 1 gallon tin. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 95.5,
+     "date": "2026-09-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/237072505921",
+     "same_item": "close",
+     "note": "Wakefield Castrol 1 imperial gallon Australian tin. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 88.5,
+     "date": "2026-10-05",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/377509503282",
+     "same_item": "close",
+     "note": "Vintage Australian 1950s Wakefield Castrol 1 gallon tin. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-10-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/257799256405",
+     "same_item": "close",
+     "note": "Castrol Wakefield vintage imp gallon empty oil can. poorer condition likely"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -1220,11 +1344,11 @@
      "note": "Multi-tin lots including Castrol/BP; not single-tin evidence."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 102.75,
+   "net_resale": 87.33749999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $103 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -1342,11 +1466,11 @@
    "current_bid": 55.0,
    "bid_count": 11,
    "close": "11/11/2026 7:53:20 PM ADST",
-   "identification": "Ex-council pressed aluminium 'MURRAY St' street name blade, black on white reflective face, with cast aluminium pole clamp. Generic modern Australian council sign; no legible maker. Murray St is a main Hobart street so some local interest.",
+   "identification": "Aluminium 'MURRAY St' street sign with bracket. Est 20-30, bid 55. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: white-on-black aluminium MURRAY St street sign with bracket piece.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'street sign Hobart' and 'ex council street sign aluminium' (sold items, last 90 days)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -1381,7 +1505,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -1394,12 +1518,61 @@
    "current_bid": 55.0,
    "bid_count": 11,
    "close": "11/11/2026 7:53:40 PM ADST",
-   "identification": "Four boxed Trax 'The Originals' (Top Gear) 1:43 Ford Falcon XK/XL models: grey panel van, pale green ute, red station wagon, beige panel van. Likely TR27-series vans, ute and wagon.",
+   "identification": "4 boxed Trax Top Gear Originals Ford Falcon XK/XL 1:43 models. Est 40-50, bid 55. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: four boxed Trax models: ute and wagon variants in cream/grey/red/silver; boxes in teal, not four identical models.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold listings: Trax Top Gear Originals Falcon XK TR27 panel van; also TR28 wagon, TR29 ute (Australia, sold items, last 90 days)",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 40.0,
+     "date": "2026-11-03",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/880055973235",
+     "same_item": "close",
+     "note": "Trax TR38 Ford 1962 Falcon XL Squire wagon 1/43. single model"
+    },
+    {
+     "aud_price": 43.1,
+     "date": "2026-11-03",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/940044243869",
+     "same_item": "close",
+     "note": "Trax Ford XL Falcon Squire 1962 The Originals 1:43 boxed. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-10-29",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/127491827504",
+     "same_item": "close",
+     "note": "Trax TR38D Ford 1962 XL Falcon Squire wagon. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 69.95,
+     "date": "2026-11-08",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/278353624788",
+     "same_item": "close",
+     "note": "Trax TR43B 1962 Ford XL Falcon Deluxe utility reef blue. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 25.0,
+     "date": "2026-11-08",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/860101504307",
+     "same_item": "close",
+     "note": "Trax TR30B Ford Falcon XK wagon. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 20.35,
+     "date": "2026-11-07",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/880058300129",
+     "same_item": "close",
+     "note": "Trax Falcon XK panel van Esso Top Gear silver. item price as shown, postage not included unless stated"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -1454,11 +1627,11 @@
      "note": "Local room, cost guide only."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 41.55,
+   "net_resale": 35.317499999999995,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $42 does not clear the current bid $55",
    "priority": false
   },
   {
@@ -1889,11 +2062,11 @@
    "current_bid": 25.0,
    "bid_count": 4,
    "close": "11/11/2026 7:57:40 PM ADST",
-   "identification": "Australian 'Nightingale Polish Mop' advertising tin (Nightingale Supply Co), round red and black litho tin, early to mid 20th century. Common household tin; lid has stuck-on residue and rust.",
+   "identification": "Nightingale Polish Mop tin, Australian; fair condition. Est 20-40, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: red Nightingale Polish Mop tin, round.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: \"Nightingale Polish Mop\" tin (also try \"Nightingale Supply Co\")",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -1912,7 +2085,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -2038,12 +2211,29 @@
    "current_bid": 45.0,
    "bid_count": 4,
    "close": "11/11/2026 8:00:20 PM ADST",
-   "identification": "Two Ampol Motor Oil 1 imperial gallon rectangular tins (30 MS and SAE 50), 1960s-early 70s. Common petroliana, rust to tops and bases, colours good. Not a rare variant.",
+   "identification": "2 Ampol 1 gallon oil tins (30 MS, SAE 50). Est 60-100, bid 45. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: two Ampol 1 gallon tins, one blue/white and one teal/white.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 65.06,
+     "date": "2026-11-01",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/900044207722",
+     "same_item": "close",
+     "note": "Ampol Motor Oil 1 gallon tin can. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 90.8,
+     "date": "2026-09-12",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/257660044287",
+     "same_item": "close",
+     "note": "Vintage Ampol GT 1 gallon oil tin. different Ampol type"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -2105,11 +2295,11 @@
      "note": "Castrol and Ampol 4 gallon oil tins, local database record, page not opened. Hammer, 22% premium extra."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 77.93,
+   "net_resale": 66.2405,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $78 does not clear the current bid $45",
    "priority": false
   },
   {
@@ -2730,12 +2920,45 @@
    "current_bid": 20.0,
    "bid_count": 1,
    "close": "11/11/2026 8:03:00 PM ADST",
-   "identification": "Two BP Energol 1 gallon motor oil tins with the 1970s-80s green BP shield, one plain 30/40, one Energol Super MS 30/40. Common later-era tins, rusty tops, dents.",
+   "identification": "2 BP Energol 1 gallon tins; rust and dents. Est 30-60, bid 20. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: two BP Energol tins, one older white/green, one newer.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 70.0,
+     "date": "2026-10-22",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/168645258542",
+     "same_item": "close",
+     "note": "BP Energol 1 gallon oil tin. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 64.25,
+     "date": "2026-10-04",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/366606490735",
+     "same_item": "close",
+     "note": "BP Energol 1 gallon net vintage metal oil can. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 31.74,
+     "date": "2026-09-04",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/188857252888",
+     "same_item": "close",
+     "note": "BP Energol 1 gallon vintage oil tin. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 16.5,
+     "date": "2026-11-07",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/227590732548",
+     "same_item": "close",
+     "note": "BP Energol 1 gallon vintage Australian tin. item price as shown, postage not included unless stated"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -2773,11 +2996,11 @@
      "note": "Mixed petroliana tin box lots; median of loose category, rust-free better tins sit higher. Local database."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 47.995,
+   "net_resale": 40.79575,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $48 does not clear the current bid $20",
    "priority": false
   },
   {
@@ -2892,11 +3115,11 @@
    "current_bid": 30.0,
    "bid_count": 3,
    "close": "11/11/2026 8:03:40 PM ADST",
-   "identification": "Five Ampol 2.5 kg grease tins (The Australian Company, stencilled XG 279), two logo styles, 1970s or later; dented, grease residue, lids missing.",
+   "identification": "5 Ampol 2.5 kg grease tins (1970s+). Est 40-70, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: five blue Ampol tins, stencilled XC 279 and a star roundel, stacked in a pyramid.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3597,11 +3820,11 @@
    "current_bid": 25.0,
    "bid_count": 4,
    "close": "11/11/2026 8:07:00 PM ADST",
-   "identification": "Box lot of automobilia: about 6 pump oilers (rusty, blue, red, green), a Carbon tin, a Wayfarer Road Liner caravan name plate (aluminium), a chromed crowned RACT grille badge with rope border, a Bedford truck badge, Ford oval badges (one on a bonnet mount), a Toyota badge and pipe fittings. Condition worn and pitted.",
+   "identification": "Tray of oilers, RACT-style grille badge, Bedford badge, caravan plate. Est 30-50, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: tray with oilers, a Ford oval badge, Toyota-style badge, Bedford-style grille badge and a few small plates; badge type not readable.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'RACT car badge grille' and 'Wayfarer Road Liner caravan plate'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3684,7 +3907,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -3843,11 +4066,11 @@
    "current_bid": 30.0,
    "bid_count": 5,
    "close": "11/11/2026 8:08:00 PM ADST",
-   "identification": "Crate of 7 common petroliana tins: Shell Retinax A grease, BP 1 gallon, yellow plus-style gallon tin, AOPC-style hydraulic fluid tin, blue grease tin, Whiz Air-Flo Auto Polish, Goodyear Repair Gum. All rusty and faded; no rare brand or mint example seen.",
+   "identification": "Crate of oil and grease tins (Shell Retinax, BP, Whiz, Goodyear). Est 20-50, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: crate of tins including Shell, BP, yellow Whiz-style tins; rusty.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4042,12 +4265,29 @@
    "current_bid": 30.0,
    "bid_count": 1,
    "close": "11/11/2026 8:09:40 PM ADST",
-   "identification": "Group of about 25 hollowcast lead farm figures (bulls, cows, sheep, goat, foal, pig, poultry, owl, goose, farmer and farm couple, horse and cart, hurdles, shed), Britains/Johillco style, no mark seen in contact sheet. Paint loss throughout.",
+   "identification": "Box of hollowcast lead farm figures (Britains type), worn. Est 50-80, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: tray of hollow-cast farm animals (cows, sheep, horses, pigs), farmer figures, fences, a small barn and a cart; worn.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold: vintage Britains lead farm animals lot",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 62.34,
+     "date": "2026-10-30",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/237143371241",
+     "same_item": "close",
+     "note": "Bundle old lead farm animals and people, damaged mixed lot. item price as shown, postage not included unless stated"
+    },
+    {
+     "aud_price": 74.86,
+     "date": "2026-10-27",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/880043374421",
+     "same_item": "close",
+     "note": "Vintage lead model animals and farm accessories job lot incl. Britains. item price as shown, postage not included unless stated"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -4093,11 +4333,11 @@
      "note": "3 bids; unbranded old lead figures. Local database and Gowans API checked; page not opened. Premium extra."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 68.6,
+   "net_resale": 58.309999999999995,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $69 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -5606,11 +5846,11 @@
    "current_bid": 25.0,
    "bid_count": 4,
    "close": "11/11/2026 8:21:40 PM ADST",
-   "identification": "Drawer of mixed sundries: unmarked brass paraffin blow torch (common type, no maker stamp visible, Primus claim unconfirmed), painted cow bell, cut-out aluminium horse head plaque, glasses case, tins, hand-crank item. Generic low-value lot.",
+   "identification": "Drawer of sundries incl. brass blow torch, cow bell. Est 20-40, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: tray of sundries with a brass blow torch, a cow bell and small items.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5658,11 +5898,11 @@
    "current_bid": 30.0,
    "bid_count": 5,
    "close": "11/11/2026 8:22:00 PM ADST",
-   "identification": "Mixed used fishing tackle box lot: several plastic tackle boxes, sinkers, hooks, knife, Tillins lures on cards, spinners, flies, handline, an unmarked old bakelite sidecast-type reel and a black plastic surf reel. Generic, no maker marks readable. Only the Tillins carded lures and possibly an Alvey-style reel add value.",
+   "identification": "Fishing tackle boxes, lures, reels. Est 30-60, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: box with a couple of fishing reels, plastic tackle trays and a blue tackle box; reels not identifiable.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'Tillins lure' and 'vintage Alvey sidecast reel bakelite'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5721,7 +5961,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -5811,11 +6051,11 @@
    "current_bid": 30.0,
    "bid_count": 4,
    "close": "11/11/2026 8:24:00 PM ADST",
-   "identification": "Crate of mixed modern used hand tools: Chopmaster-style import axe (rusty head), hammers, adjustable and open-end spanners, pliers, multigrips, side cutters, grinding disc. No premium brands seen.",
+   "identification": "Crate of mixed hand tools and axe. Est 20-50, bid 30. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: blue crate of mixed hand tools with an axe, spanners, pliers.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": " Bidder signal: 122213 - Westbury, TAS (seen in 140 sales); 142868 - Perth, (seen in 18 sales); 227440 - Zeehan, (seen in 34 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5874,7 +6114,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -6462,11 +6702,11 @@
    "current_bid": 35.0,
    "bid_count": 4,
    "close": "11/11/2026 8:27:20 PM ADST",
-   "identification": "Tray of beginner and souvenir mouth organs (Hohner Camping curved, Bluesband, Eastar, House of Marbles, boxed TC Trend Corner), Chinese ceramic ocarina, two small ceramic ocarinas, souvenir castanets, pitch pipe. No premium makers seen in photos.",
+   "identification": "Tray of beginner/souvenir harmonicas and ocarinas; low value. Est 40-70, bid 35. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: tray with about 5 harmonicas (one in Hohner-style box), a pair of castanets and a green ocarina-style piece.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": " Bidder signal: 122213 - Westbury, TAS (seen in 140 sales); 142868 - Perth, (seen in 18 sales); 47428 - Yougtown , TAS (seen in 83 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -6549,7 +6789,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -7451,11 +7691,11 @@
    "current_bid": 5.0,
    "bid_count": 1,
    "close": "11/11/2026 8:36:00 PM ADST",
-   "identification": "Pair of vintage cast iron F clamps (sash/bar type, about 40-50 cm bars), zigzag cast jaws, red wooden handles, old blue paint, hexagon logo on jaw. Likely French or German make, maker not legible. Common workshop item.",
+   "identification": "2 vintage cast iron F clamps. Est 10-20, bid 5. PHOTO CHECK: Photos viewed (part 1 re-check). Photo shows one long wooden/steel bar clamp with red handle and one smaller screw clamp with red handle, not two matching F clamps.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -7580,11 +7820,11 @@
    "current_bid": 15.0,
    "bid_count": 2,
    "close": "11/11/2026 8:38:20 PM ADST",
-   "identification": "Mixed box of used 1960s-70s oil company and touring road maps (Ampol Queensland, Shell, Neptune NSW, RACQ Gold Coast, Brisbane, Singapore booklet, tartan booklet, postcards) plus three modern books (Chronicle of Australia, Kitchen Cabinet Cures, Amazing Home Problem Solver; worthless). Photos show mostly 1960s-70s, common issues; no rare 1920s-30s maps seen.",
+   "identification": "Box of vintage oil company road maps. Est 10-20, bid 15. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: pile of road maps and guides, including a Chronicle of Flight-type book.",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -7757,11 +7997,11 @@
    "current_bid": 30.0,
    "bid_count": 5,
    "close": "11/11/2026 8:39:40 PM ADST",
-   "identification": "Mixed hardware tray: unbranded cased 12V lithium jump starter pack with clamps/chargers, box of galvanised D shackles and eye bolts, blue-knob gas regulator with two gauges, FBT-2500 plasma cutter tip box, carded General Purpose brass padlocks, Raven Storm Proof door seal. All modern generic.",
+   "identification": "Tray of padlocks, shackles, jump starter pack and sundries, modern generic",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": " Bidder signal: 122213 - Westbury, TAS (seen in 140 sales); 142868 - Perth, (seen in 18 sales); 78400 - Karoola, TAS (seen in 47 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -7812,7 +8052,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -7825,11 +8065,11 @@
    "current_bid": 15.0,
    "bid_count": 2,
    "close": "11/11/2026 8:41:40 PM ADST",
-   "identification": "Makita 9403 100mm belt sander (model assumed from belt size)",
+   "identification": "Older Makita belt sander, teal body with grey base, dust bag and spare belts; model not readable from the plate in the photos (could be a 76mm 9900/9924 type or 100mm 9403, unconfirmed)",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -7841,6 +8081,14 @@
      "url": "https://www.industrialshed.net.au/products/9403",
      "same_item": "yes",
      "note": "new retail price, not a resale price. Rating plate not legible; 100mm Makita belt sander is the 9403. Check model at collection."
+    },
+    {
+     "aud_price": 699.0,
+     "date": "2026-11-08",
+     "venue": "Total Tools, Sydney Tools, Gasweld",
+     "url": "https://www.google.com/search?q=makita+9403+belt+sander+100mm+price+australia",
+     "same_item": "category guide",
+     "note": "new retail price of Makita 9403 100mm belt sander in Australia (range A$589-699 across dealers); only relevant if the plate shows 9403"
     }
    ],
    "paid": [],
@@ -7861,11 +8109,11 @@
    "current_bid": 70.0,
    "bid_count": 14,
    "close": "11/11/2026 8:42:40 PM ADST",
-   "identification": "Five used cricket bats: unsigned older club bat with shield decal and green script transfer (maker illegible), Gray-Nicolls Fusion, Kapt Walker style red-sticker bat, Kookaburra (modern junior/club), Gunn & Moore Autograph Original. All unsigned, heavy wear, modern club grade except the older one.",
+   "identification": "5 used cricket bats: Gray-Nicolls Fusion, Kookaburra, Gunn & Moore, an older unmarked club bat, one other",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'used cricket bat Gray-Nicolls Gunn Moore Kookaburra' and 'vintage cricket bat' (older bat maker transfer)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -7932,7 +8180,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -7945,12 +8193,29 @@
    "current_bid": 35.0,
    "bid_count": 4,
    "close": "11/11/2026 8:43:00 PM ADST",
-   "identification": "Stihl FSA 45 18V cordless line trimmer with integrated battery, used and dirty head, no charger visible. Photos show only 2 images.",
+   "identification": "Stihl FSA 45 cordless line trimmer, integrated battery, used",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed listings: Stihl FSA 45 (filter Australia, sold items), compare unit-only versus with charger",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 128.13,
+     "date": "2026-10-07",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/398405148531",
+     "same_item": "yes",
+     "note": "Title 'working tested STIHL FSA 45 cordless 18v'; likely overseas seller, postage not checked"
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2026-10-12",
+     "venue": "Lawsons (Sydney)",
+     "url": "https://www.lawsons.com.au/auction-lot/a-stihl-fsa-45-cordless-grass-trimmer_3cd8f0e78c",
+     "same_item": "yes",
+     "note": "Stihl FSA 45 cordless grass trimmer, Lawsons Bellevue Hill Home Contents sale, estimate A$100-200; premium not stated on the page"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -7961,6 +8226,14 @@
      "url": "https://www.mygyc.com.au/products/stihl-fsa45-battery-powered-whipper-snipper",
      "same_item": "yes",
      "note": "Page opened; new retail sale price $99, RRP $249. Unclear whether kit includes battery and charger. Asking price only, new."
+    },
+    {
+     "aud_price": 249.0,
+     "date": "2026-11-08",
+     "venue": "Stihl AU dealers (Mower Centre Group, Bega Mower Centre, Pakenham Mowers)",
+     "url": "https://www.google.com/search?q=stihl+fsa+45+price+australia",
+     "same_item": "yes",
+     "note": "new retail price in Australia; some dealers clearing at A$99 (GYC Mower Depot, Yardworx) as at 8 Nov 2026; used Gumtree asks around A$120-150"
     }
    ],
    "paid": [
@@ -7997,11 +8270,11 @@
      "note": "FSA 45 bundled with an Ozito electric chainsaw, so the trimmer alone is worth a bit less. Hammer, premium extra. Confirmed via Gowans API."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 114.065,
+   "net_resale": 96.95524999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $114 does not clear the current bid $35",
    "priority": false
   },
   {
@@ -8014,12 +8287,37 @@
    "current_bid": 40.0,
    "bid_count": 7,
    "close": "11/11/2026 8:43:20 PM ADST",
-   "identification": "Three 1950s-60s one-gallon rectangular tins: Dominant Chemical Pty Ltd (Moorabbin, Vic, XL 3601, blue, cleaning chemical), Wakefield Industrial Lubricants and Castrol Industrial Oils (green, bearing logo). Industrial grades, less sought than motor oil tins. Rusty, soiled, Dominant worst.",
+   "identification": "3 vintage square 1-gallon tins: Dominant Chemical (Moorabbin Vic), Wakefield Industrial Lubricants (green roundel tin) and Castrol Industrial Oils (green); industrial oils tins, not motor oil",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: Castrol Industrial Oils gallon tin; Dominant Chemical Moorabbin tin Bidder signal: 59487 - Trevallyn, TAS (seen in 66 sales); 122213 - Westbury, TAS (seen in 140 sales); 221336 - Rocherlea, (seen in 24 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 119.0,
+     "date": "2026-10-21",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/237122803353",
+     "same_item": "close",
+     "note": "Wakefield Castrol MOTOR oil 1 imperial gallon tin; lot's tin is industrial lubricant, differs"
+    },
+    {
+     "aud_price": 165.0,
+     "date": "2026-09-11",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/168667762695",
+     "same_item": "close",
+     "note": "Wakefield Castrol Motor Oil 1 gallon tin, pre-owned"
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-09-26",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/237072507568",
+     "same_item": "close",
+     "note": "Wakefield Castrol motor oil 1 imperial gallon"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -8098,11 +8396,11 @@
      "note": "Neptune and Castrol 1 gallon oil tins; Neptune is the more valuable tin; closing price as listed. (AUD, rate 1.0; from local comps database, not page opened)"
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 119.0,
+   "net_resale": 101.14999999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $119 does not clear the current bid $40",
    "priority": false
   },
   {
@@ -8201,11 +8499,11 @@
    "current_bid": 30.0,
    "bid_count": 5,
    "close": "11/11/2026 8:44:00 PM ADST",
-   "identification": "Kriesler portable valve radio, brown and cream plastic case with carry handle, c late 1950s-early 60s; AWA Radiola transistor radio, grey case, black grille, multi-band dial, c 1960s. Common models, not tested.",
+   "identification": "2 vintage radios: Kriesler portable and AWA Radiola transistor, untested",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -9036,12 +9334,37 @@
    "current_bid": 25.0,
    "bid_count": 4,
    "close": "11/11/2026 8:56:00 PM ADST",
-   "identification": "Five unmarked wooden planes: four moulding/rebate planes (one with depth fence) and one coffin-style smoothing plane. Common 19th/early 20th c. types, no maker stamp legible in photos.",
+   "identification": "5 antique wooden planes (moulding/rebate and a coffin smoother), no maker marks seen",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 87.5,
+     "date": "2026-10-05",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/227550395740",
+     "same_item": "close",
+     "note": "Job lot vintage wooden moulding planes plus smoothing plane"
+    },
+    {
+     "aud_price": 74.86,
+     "date": "2026-09-13",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/287461607357",
+     "same_item": "close",
+     "note": "6 vintage wooden moulding planes job lot"
+    },
+    {
+     "aud_price": 74.76,
+     "date": "2026-10-14",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/880010671815",
+     "same_item": "close",
+     "note": "10 wooden moulding planes"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -9136,11 +9459,11 @@
      "note": "Larger boxes with ploughs and named makers (Moseley $360). Upper bound; not like-for-like with five unmarked planes."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 74.86,
+   "net_resale": 63.631,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -10025,11 +10348,11 @@
    "current_bid": 25.0,
    "bid_count": 4,
    "close": "11/11/2026 9:02:20 PM ADST",
-   "identification": "Mixed bundle of about ten used fishing rods (cane, solid glass, graphite) with a gold sidecast surf reel (Alvey-type, unmarked), old alloy centrepin/baitcaster, spincast and spinning reel. No maker identified.",
+   "identification": "Bundle of about 10 fishing rods and reels, makers not legible",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay Australia sold listings: 'Alvey sidecast reel' and 'vintage bamboo cane fishing rod lot', last 90 days",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -10072,7 +10395,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "priority": false
   },
   {
@@ -10154,12 +10477,37 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 9:03:40 PM ADST",
-   "identification": "Cowley Automatic Level (Cowley Industries, Richmond Vic, invented by Keith Cowley 1944), 1950s-60s, in grey cast metal case with patent plate, with folding wooden staff. Common, cheap instrument.",
+   "identification": "Cowley Automatic Level (Australian made) with timber staff",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold: Cowley automatic level",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 44.95,
+     "date": "2026-08-11",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/178115499687",
+     "same_item": "yes",
+     "note": "Vintage Cowley Automatic Level made in Australia"
+    },
+    {
+     "aud_price": 23.5,
+     "date": "2026-10-19",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/267811158653",
+     "same_item": "yes",
+     "note": "Cowley Automatic Level with leather case, 5 bids"
+    },
+    {
+     "aud_price": 1.0,
+     "date": "2026-09-07",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/278328138835",
+     "same_item": "yes",
+     "note": "Cowley level with case and instructions, 1 bid (may be a low-bid outlier)"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -10214,11 +10562,11 @@
      "note": "Other dumpy levels, mostly with tripod, higher than Cowley. Cowley autos sell lower."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 23.5,
+   "net_resale": 19.974999999999998,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $24 does not clear the current bid $10",
    "priority": false
   },
   {
@@ -10284,11 +10632,11 @@
    "current_bid": 30.0,
    "bid_count": 5,
    "close": "11/11/2026 9:04:40 PM ADST",
-   "identification": "Berkley Oberon Traditional Fly 8'6\" two-piece graphite/glass fly rod in velvet bag with a budget black plastic Diplomat 56 fly reel. Modern budget Berkley outfit, not collectable.",
+   "identification": "Berkley Oberon 8'6\" fly rod, bag, Diplomat 56 plastic reel",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold: Berkley Oberon fly rod 8'6",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -10544,11 +10892,11 @@
    "current_bid": 70.0,
    "bid_count": 4,
    "close": "11/11/2026 9:09:20 PM ADST",
-   "identification": "Stihl FS 85 (Pro) petrol brushcutter, bike handle, harness, guard, trimmer head, green fuel can. Older discontinued professional model; fuel tank yellowed, used and dirty, running condition unknown.",
+   "identification": "Stihl FS 85 Pro brushcutter with harness and fuel can, used",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: Stihl FS85 brushcutter (also Gumtree/Facebook Marketplace sold)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -10568,6 +10916,22 @@
      "url": "https://www.cashconverters.com.au/shop/tools-motor-hardware/power-tools-industrial/garden-trimmers-cutters/whipper-snipper/042300220357",
      "same_item": "yes",
      "note": "Used FS85 in good working condition. Snippet only, unverified, high asking."
+    },
+    {
+     "aud_price": 649.0,
+     "date": "2026-11-08",
+     "venue": "Cash Converters Australia",
+     "url": "https://www.google.com/search?q=stihl+fs+85+brushcutter+price+australia",
+     "same_item": "yes",
+     "note": "used Stihl FS 85 professional brushcutter, 'good condition', dealer asking price not a sale; model discontinued so no current new retail price"
+    },
+    {
+     "aud_price": 170.0,
+     "date": "2026-11-08",
+     "venue": "Gumtree Australia",
+     "url": "https://www.google.com/search?q=stihl+fs+85+brushcutter+price+australia",
+     "same_item": "close",
+     "note": "Gumtree asks for FS85R at A$170 and FS85 'VGC' at A$350, asking prices only"
     }
    ],
    "paid": [
@@ -10600,7 +10964,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -11669,11 +12033,11 @@
    "current_bid": 30.0,
    "bid_count": 6,
    "close": "11/11/2026 9:25:00 PM ADST",
-   "identification": "Plastic tub of new packaged budget hardware and auto sundries: air duster blow guns, hood pin kits, socket sets, wire wheel brush sets, Zenith luggage strap, Kinnears rope, Richdoor padlock, part Castrol container, work light, hose clamps. No-name/budget brands, generic.",
+   "identification": "Tub of new hardware and auto sundries, socket sets",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -11721,15 +12085,24 @@
    "current_bid": 260.0,
    "bid_count": 4,
    "close": "11/11/2026 9:25:40 PM ADST",
-   "identification": "Waratah Thumpa Pneumatic Star Post Driver, product code 222689, with air hose and fittings in a black checker-plate steel box with Waratah label. Photos confirm the label and code. Modern retail product.",
+   "identification": "Waratah Thumpa pneumatic star post driver, lockable box, with hose",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed listings: Waratah Thumpa post driver ; also eBay 'pneumatic star post driver' sold, and Gumtree 'Waratah post driver'",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 2700.0,
+     "date": "2026-11-08",
+     "venue": "Waratah Fencing / seller posts",
+     "url": "https://www.google.com/search?q=waratah+thumpa+pneumatic+post+driver+sold+lot+auction",
+     "same_item": "yes",
+     "note": "new price quoted by the pack (about A$2,700) and a Facebook seller ('new price about A$3000 inc GST'); asking context only"
+    }
+   ],
    "paid": [
     {
      "aud_price": 70.0,
@@ -11752,7 +12125,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -11935,12 +12308,45 @@
    "current_bid": 25.0,
    "bid_count": 4,
    "close": "11/11/2026 9:29:00 PM ADST",
-   "identification": "Mixed box: sealed LEGO Speed Champions 76911 007 Aston Martin DB5 (retired Dec 2023, RRP about AU$30-40), reproduction Velocette MAC tin sign, chrome 7-inch headlight, two cased 1:43 models of 1950s Ferrari sports racers (number 170, Mille Miglia type, makers unreadable) plus 'etc'.",
+   "identification": "LEGO Speed Champions 76911 Aston Martin DB5 007 (sealed look), Velocette tin sign reproduction, chrome headlight, two cased 1:43 Ferrari models",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold/completed: LEGO 76911 sealed new, last 90 days; also eBay sold 'Velocette sign'",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 91.29,
+     "date": "2026-08-14",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/366591080609",
+     "same_item": "yes",
+     "note": "LEGO 76911 new/boxed"
+    },
+    {
+     "aud_price": 60.16,
+     "date": "2026-11-08",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/336883316767",
+     "same_item": "yes",
+     "note": "LEGO 76911 BNISB"
+    },
+    {
+     "aud_price": 59.87,
+     "date": "2026-11-08",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/307219368908",
+     "same_item": "yes",
+     "note": "LEGO 76911 Aston Martin DB5"
+    },
+    {
+     "aud_price": 56.04,
+     "date": "2026-11-08",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/157837653537",
+     "same_item": "yes",
+     "note": "LEGO 76911 brand new"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -11979,11 +12385,11 @@
      "note": "From local database. Different models (Bond cars, not Ferraris); only shows what we might pay."
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 60.015,
+   "net_resale": 51.01275,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $60 does not clear the current bid $25",
    "priority": false
   },
   {
@@ -12174,12 +12580,29 @@
    "current_bid": 30.0,
    "bid_count": 4,
    "close": "11/11/2026 9:31:20 PM ADST",
-   "identification": "Six boxed 1:24 diecast: Maisto Harley-Davidson Custom Ford pickup with motorbike, Welly 1936 Ford Deluxe Cabriolet, Welly 1953 Chevrolet 3100 pickup, and three Woolworths 100 Years Limited Edition trucks (1930, 1940, 1970). Budget mass-produced supermarket and retail models.",
+   "identification": "Six boxed 1:24 budget diecast models (Maisto, Welly, Woolworths 100 year trucks)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: Woolworths 100 Years 1:24 truck, plus Welly 1:24 and Maisto Harley-Davidson Custom 1:24 pickup",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 23.74,
+     "date": "2026-11-06",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/358749926279",
+     "same_item": "close",
+     "note": "Woolworths 100 Years 1940 Ford pickup truck, limited edition, new, Best Offer listing; one truck, not the lot"
+    },
+    {
+     "aud_price": 25.0,
+     "date": "2026-07-19",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/158037961541",
+     "same_item": "close",
+     "note": "Woolworths 100 Years 1970s Ford F-150 truck, limited edition, new in box"
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -12198,14 +12621,30 @@
      "url": "https://www.ebay.de/itm/277187860281",
      "same_item": "yes",
      "note": "Used, cracked front rubber, so inferior to the boxed new lot item. Asking price; snippet only. Rate used about 1 EUR = 1.75 AUD (approximate)."
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-11-08",
+     "venue": "Vinted AU",
+     "url": "https://www.google.com/search?q=woolworths+100+year+limited+edition+1:24+diecast+truck+1930+sold",
+     "same_item": "close",
+     "note": "Woolworths 100 Years 1930 Ford Model AA truck 1:24, asking price"
+    },
+    {
+     "aud_price": 32.9,
+     "date": "2026-11-08",
+     "venue": "Hobbies N Games",
+     "url": "https://www.google.com/search?q=welly+1936+ford+cabriolet+1+24+diecast+price+australia",
+     "same_item": "yes",
+     "note": "Welly 1/24 1936 Ford Deluxe Cabriolet (black) new retail, out of stock; shows new price level only"
     }
    ],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 24.369999999999997,
+   "net_resale": 20.714499999999997,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $24 does not clear the current bid $30",
    "priority": false
   },
   {
@@ -12558,11 +12997,11 @@
    "current_bid": 35.0,
    "bid_count": 2,
    "close": "11/11/2026 9:35:00 PM ADST",
-   "identification": "Two budget pneumatic nailers in hard cases: a Project Air 34 degree strip framing nailer (Model 9034-type) with a box of collated framing nails, and a blue CHS coil nailer with a Paslode D-Head 1000 pack. Not the cordless Paslode Impulse class.",
+   "identification": "Two pneumatic nailers (Project Air framing nailer, CHS coil nailer) plus Paslode nails",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay sold AU: 'pneumatic coil nailer' and 'framing nailer 34 degree air' (optional)",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -12659,11 +13098,11 @@
    "current_bid": 10.0,
    "bid_count": 1,
    "close": "11/11/2026 9:36:40 PM ADST",
-   "identification": "Unbranded orange lever grease gun with flexible hose, plus a long-hose garden sprayer lance. No maker marks legible. Generic workshop and garden items, very low value.",
+   "identification": "Grease gun and brass garden sprayer, unmarked",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -12904,15 +13343,24 @@
    "current_bid": 20.0,
    "bid_count": 3,
    "close": "11/11/2026 9:38:00 PM ADST",
-   "identification": "Grey tub of sundry budget tools: carded wood carving chisel set, Ryobi cordless screwdriver (small lime green, with charger and bag), sealed 15W glue gun, earmuffs, soldering iron, solder, screws, hooks, tapes. Low-value generic mix.",
+   "identification": "Tub of sundry tools and hardware, Ryobi cordless screwdriver",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 59.0,
+     "date": "2026-11-08",
+     "venue": "Bunnings / ryobi.com.au",
+     "url": "https://www.google.com/search?q=ryobi+cordless+screwdriver+4v+price+australia+bunnings",
+     "same_item": "category guide",
+     "note": "new retail price: Ryobi USB twist-grip screwdriver 2Ah kit RSDP4K A$59 (was A$79); lot's exact Ryobi model not identified"
+    }
+   ],
    "paid": [
     {
      "aud_price": 20.0,
@@ -12959,7 +13407,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {
@@ -13058,11 +13506,11 @@
    "current_bid": 50.0,
    "bid_count": 1,
    "close": "11/11/2026 9:38:40 PM ADST",
-   "identification": "Ozito 24L 1.5HP oil-free air compressor (ACP24151 style, boxed, strapped) plus Ozito ASG-GFK 3 piece gravity feed spray gun kit and PowerFit 10m 1/4 BSP air hose, all boxed and appearing new.",
+   "identification": "Ozito 24L 1.5HP oil-free air compressor, Ozito spray gun kit, PowerFit 10m hose, new in box",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed listings: Ozito 24L air compressor; and Ozito ASG-GFK gravity feed spray gun kit",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -13082,6 +13530,22 @@
      "url": "https://www.ozbargain.com.au/node/154047",
      "same_item": "yes",
      "note": "Old new-retail price for the compressor; snippet only. Model seems discontinued at Bunnings, so no current retail found."
+    },
+    {
+     "aud_price": 218.9,
+     "date": "2026-11-08",
+     "venue": "Bunnings Australia",
+     "url": "https://www.bunnings.com.au/search/products?q=ozito%2024l%20air%20compressor",
+     "same_item": "category guide",
+     "note": "new retail price: Ozito 24L 1.5HP is no longer on Bunnings' site; nearest is Ozito 40L 2.0HP oil free compressor A$218.90 (out of stock), Ozito 1100W Inflate-It kit A$99.98, 10m PVC air hose A$18.98"
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-11-08",
+     "venue": "Facebook Marketplace (Denham Court NSW)",
+     "url": "https://www.google.com/search?q=ozito+24l+oil+free+air+compressor+1.5hp+price",
+     "same_item": "yes",
+     "note": "Ozito 24L Air Compressor 1.5HP with air hose, used, asking price only"
     }
    ],
    "paid": [
@@ -13122,7 +13586,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "priority": false
   },
   {

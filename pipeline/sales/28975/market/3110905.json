@@ -1,7 +1,7 @@
 {
  "cdid": 3110905,
  "lot": 642,
- "identification": "Likely Beswick palomino gloss Arab horse (Xayal shape, model 1265, made 1961-1989), about 16cm high. Maker unconfirmed as base mark not photographed; the lot title says Royal Doulton but the form is Beswick. Standard colourway, no damage visible.",
+ "identification": "Palomino horse figure, likely Beswick Arab (Xayal) style; maker unchecked. Armitage est 50-75, bid 25. PHOTO CHECK: Photos viewed (part 1 re-check). Photo matches: palomino horse, white mane/tail, standing, no base shot; Beswick-style, maker still unconfirmed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,24 @@
    "url": "https://www.barnebys.co.uk/realised-prices/beswick_horse.html",
    "same_item": "yes",
    "note": "Snippet only, not verified, old, UK, premium status unknown. Rate used about 2.0 AUD per GBP (approximate)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 40 hammer",
+   "currency": "GBP",
+   "aud_price": 78.8,
+   "date": "2010-05",
+   "venue": "UK auction (via Barnebys)",
+   "url": "https://www.barnebys.co.uk/realised-prices/beswick_horse.html",
+   "same_item": "close",
+   "note": "head start item, palomino Arab Xayal 1265, 2010-05; old [converted at GBP 1.97]",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for beswick palomino horse, beswick arab horse, royal doulton horse, beswick, palomino, beswick horse; Gowans API beswick palomino; one WebSearch for Beswick palomino Arab Xayal sold. No Armitage past results or eBay (closed). eBay sold listings for 'Beswick palomino Arab Xayal 1265' would settle it.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for beswick palomino horse, beswick arab horse, royal doulton horse, beswick, palomino, beswick horse; Gowans API beswick palomino; one WebSearch for Beswick palomino Arab Xayal sold. No Armitage past results or eBay (closed). eBay sold listings for 'Beswick palomino Arab Xayal 1265' would settle it. | chrome: None new (head start used); Photo check only; no new search (head start used, one SOLD from 2010 is old) | chrome: None new (head start used); Photo check only; no new search (head start used, one SOLD from 2010 is old)",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: Beswick palomino Arab horse Xayal 1265 gloss",
  "rate_note": "GBP to AUD about 2.0, approximate",
- "viewing_check": "Turn over and photograph the base mark (Beswick England backstamp, model number 1265 or 1771), and check ears, leg and tail for chips or restoration."
+ "viewing_check": "Check base for Beswick/Royal Doulton backstamp and any chips.",
+ "chrome_done": true
 }

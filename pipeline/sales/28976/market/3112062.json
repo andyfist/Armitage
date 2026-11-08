@@ -1,5 +1,44 @@
-{"cdid":3112062,"lot":1234,"identification":"Two modern aluminium tray-top walker trolleys with brakes (generic Australian mobility aids, no maker identified). Generic item.","entries":[
-{"kind":"SOLD","price":"$25 hammer","currency":"AUD","aud_price":25,"date":"2026-08-16","venue":"Gowans Auctions, Hobart (paid locally, not resale)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/431705/","same_item":"close","note":"Wheelie-walker, 1 bid; database hit, not opened; local room only"},
-{"kind":"SOLD","price":"$5 hammer","currency":"AUD","aud_price":5,"date":"2026-02-01","venue":"Gowans Auctions, Hobart (paid locally, not resale)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/388343/","same_item":"close","note":"Mobility walker and 2 walking frames, 0 bids; database hit; local room only"},
-{"kind":"ASKING","price":"AU$185 to $512 new","currency":"AUD","aud_price":230,"date":"live, seen 2026-11-07","venue":"Australian mobility retailers (Days tray walker $230, tri-wheel $185, trolley walker with handbrakes $512)","url":"https://daily.com.au/collections/tray-walkers","same_item":"category guide","note":"New retail prices; snippet only, not verified; used units resell far lower"}
-],"searches_tried":"comps.py (pipeline and work) for walker, trolley, aluminium, wheelchair, walking frame; one WebSearch for used tray walkers at auction (no auction results). Generic item, stopped early. eBay sold would settle it but value is tiny.","needs_chrome":false,"viewing_check":"nothing"}
+{
+ "cdid": 3112062,
+ "lot": 1234,
+ "identification": "Two walker trolleys with beige trays, hand brakes, swivel wheels, 1 photo.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$25 hammer",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-08-16",
+   "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/431705/",
+   "same_item": "close",
+   "note": "Wheelie-walker, 1 bid; database hit, not opened; local room only"
+  },
+  {
+   "kind": "SOLD",
+   "price": "$5 hammer",
+   "currency": "AUD",
+   "aud_price": 5,
+   "date": "2026-02-01",
+   "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/388343/",
+   "same_item": "close",
+   "note": "Mobility walker and 2 walking frames, 0 bids; database hit; local room only"
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$185 to $512 new",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "live, seen 2026-11-07",
+   "venue": "Australian mobility retailers (Days tray walker $230, tri-wheel $185, trolley walker with handbrakes $512)",
+   "url": "https://daily.com.au/collections/tray-walkers",
+   "same_item": "category guide",
+   "note": "New retail prices; snippet only, not verified; used units resell far lower"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for walker, trolley, aluminium, wheelchair, walking frame; one WebSearch for used tray walkers at auction (no auction results). Generic item, stopped early. eBay sold would settle it but value is tiny. | chrome: Terapeak AU 'invalid walker trolley': 0 results",
+ "needs_chrome": false,
+ "viewing_check": "Armitage page shows no estimate. Current bid: $75. Photos all viewed via contact sheet. Check condition in person.",
+ "chrome_done": true
+}

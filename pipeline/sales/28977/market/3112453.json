@@ -1,7 +1,7 @@
 {
  "cdid": 3112453,
  "lot": 1733,
- "identification": "Two budget pneumatic nailers in hard cases: a Project Air 34 degree strip framing nailer (Model 9034-type) with a box of collated framing nails, and a blue CHS coil nailer with a Paslode D-Head 1000 pack. Not the cordless Paslode Impulse class.",
+ "identification": "Two pneumatic nailers (Project Air framing nailer, CHS coil nailer) plus Paslode nails",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,36 @@
    "url": "https://www.alibaba.com/product-detail/AEROPRO_CHF9034N_Professional_34_Degree_Clip_Head_Framing_Air_Nail_Gun_60793981649.html",
    "same_item": "category guide",
    "note": "Snippet only, not verified. No listing found for Project Air brand. Wholesale/new generic 9034 framing nailers; indicates a budget new-tool tier only. aud_price 0 means not converted."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$145.62",
+   "currency": "AUD",
+   "aud_price": 145.62,
+   "date": "2026-08-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/307118357483",
+   "same_item": "partial",
+   "note": "Hitachi NV83A2 coil framing nailer, 11 bids; different brand, used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80.08",
+   "currency": "AUD",
+   "aud_price": 80.08,
+   "date": "2026-10-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/820143398587",
+   "same_item": "partial",
+   "note": "Banks 21 framing nailer, pre-owned",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work and pipeline) for nail gun, paslode nailer, framing nailer, coil nailer, air nailer, pneumatic nailer; one WebSearch for Project Air 9034 (no brand listing found). No Armitage site or Gowans live API search done beyond the database. eBay sold prices for 'pneumatic coil nailer' and 'framing nailer 9034' would help but are not essential.",
+ "searches_tried": "comps.py (work and pipeline) for nail gun, paslode nailer, framing nailer, coil nailer, air nailer, pneumatic nailer; one WebSearch for Project Air 9034 (no brand listing found). No Armitage site or Gowans live API search done beyond the database. eBay sold prices for 'pneumatic coil nailer' and 'framing nailer 9034' would help but are not essential. | chrome: ebay sold: paslode d head 1000 nail gun OR framing nailer used",
  "needs_chrome": false,
  "chrome_hint": "eBay sold AU: 'pneumatic coil nailer' and 'framing nailer 34 degree air' (optional)",
- "viewing_check": "Check brand plates on both guns and whether the Project Air has its air fitting; nothing else needed. Confirm whether the CHS coil nailer is complete with its coil magazine.",
- "rate_note": "All AUD, no conversion needed; foreign asking prices not converted."
+ "viewing_check": "Untested. Budget-brand nailers; Paslode nails are consumables. [Armitage page 8 Nov 2026: estimate $30-60, current bid $35. Photos viewed (about 400px, low resolution): 3 photos: two hard cases, a red/blue framing nailer with nail strip and box, a blue coil nailer with Paslode nails]",
+ "rate_note": "All AUD, no conversion needed; foreign asking prices not converted.",
+ "chrome_done": true
 }
