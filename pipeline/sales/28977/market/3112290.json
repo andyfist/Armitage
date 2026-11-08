@@ -1,7 +1,7 @@
 {
  "cdid": 3112290,
  "lot": 1618,
- "identification": "Topcon RL-H4C rotating laser level (model confirmed on front panel) with receiver, mount bracket and hard case, plus a Pentax automatic (dumpy) level in an orange case and a levelling staff per title. All 3 photos viewed.",
+ "identification": "Topcon RL-H4C self-levelling rotating laser (model printed on the front panel and on the lid of the yellow carry case) with a Topcon receiver (label looks like LS-80L, 'LR' logo), a rod clamp/receiver holder, the yellow hard case, plus a Pentax automatic level (dumpy) and a separate orange hard case. Title also says STAFF, but no levelling staff is in the photos. Photos 1-3 viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -270,12 +270,24 @@
    "same_item": "partial",
    "note": "Pentax AL-6 auto level with case",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$625.13",
+   "currency": "AUD",
+   "aud_price": 625.13,
+   "date": "2024-05-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186385141014",
+   "same_item": "yes",
+   "note": "RL-H4C kit",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline, errored; work comps used: topcon, pentax, dumpy level, rotating laser, laser level), Gowans API (topcon, pentax, auto level, survey level), WebSearch x3 (RL-H4C sold/price, Pentax auto level sold). eBay sold prices would settle it: eBay.com.au sold, 'Topcon RL-H4C' and 'Topcon RL-H4C LS-80'. | chrome: eBay AU sold: topcon rl-h4c (first attempts hit eBay Error Page, retried after wait) | chrome: eBay AU sold: topcon rl-h4c (first attempts hit eBay Error Page, retried after wait) | chrome: Two WebSearches (Topcon RL-H4C / RL-H5A with LS-80 sold at Lloyds, GraysOnline, Pickles). Results were retail pages (H5A new kits, US/EU shops) and eBay, nothing from the named auction houses with a visible sold price. Machineryline result was already in earlier rounds. | chrome: Two WebSearches (Topcon RL-H4C / RL-H5A with LS-80 sold at Lloyds, GraysOnline, Pickles). Results were retail pages (H5A new kits, US/EU shops) and eBay, nothing from the named auction houses with a visible sold price. Machineryline result was already in earlier rounds. | chrome: Two WebSearches (Topcon RL-H4C / RL-H5A with LS-80 sold at Lloyds, GraysOnline, Pickles). Results were retail pages (H5A new kits, US/EU shops) and eBay, nothing from the named auction houses with a visible sold price. Machineryline result was already in earlier rounds. | chrome: Terapeak AU 'topcon rl-h4c laser level' (24 rows); 'topcon rl-h4c' limit 200 (28 rows); 'pentax auto level' (9 rows); Google identification (photo front panel RL-H4C)",
+ "searches_tried": "comps.py (pipeline, errored; work comps used: topcon, pentax, dumpy level, rotating laser, laser level), Gowans API (topcon, pentax, auto level, survey level), WebSearch x3 (RL-H4C sold/price, Pentax auto level sold). eBay sold prices would settle it: eBay.com.au sold, 'Topcon RL-H4C' and 'Topcon RL-H4C LS-80'. | chrome: eBay AU sold: topcon rl-h4c (first attempts hit eBay Error Page, retried after wait) | chrome: eBay AU sold: topcon rl-h4c (first attempts hit eBay Error Page, retried after wait) | chrome: Two WebSearches (Topcon RL-H4C / RL-H5A with LS-80 sold at Lloyds, GraysOnline, Pickles). Results were retail pages (H5A new kits, US/EU shops) and eBay, nothing from the named auction houses with a visible sold price. Machineryline result was already in earlier rounds. | chrome: Two WebSearches (Topcon RL-H4C / RL-H5A with LS-80 sold at Lloyds, GraysOnline, Pickles). Results were retail pages (H5A new kits, US/EU shops) and eBay, nothing from the named auction houses with a visible sold price. Machineryline result was already in earlier rounds. | chrome: Two WebSearches (Topcon RL-H4C / RL-H5A with LS-80 sold at Lloyds, GraysOnline, Pickles). Results were retail pages (H5A new kits, US/EU shops) and eBay, nothing from the named auction houses with a visible sold price. Machineryline result was already in earlier rounds. | chrome: Terapeak AU 'topcon rl-h4c laser level' (24 rows); 'topcon rl-h4c' limit 200 (28 rows); 'pentax auto level' (9 rows); Google identification (photo front panel RL-H4C) | chrome: Terapeak AU: topcon rl-h4c (19 rows). Photos 1-3 viewed and receiver zoomed",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: Topcon RL-H4C laser level",
- "viewing_check": "Armitage est $60-100, bid $160 at check (+22% = A$195). Test that it powers on and self-levels, check the receiver works and the rotating head turns freely; ask for battery pack. Staff not seen in photos. 10-yr check: skipped on auction sites because the unit is only about 10 yrs old and 3 yrs of AU data show 15+ sales A$560-785 for working kits.",
+ "viewing_check": "Armitage current bid $160, next bid $165, estimate 60-100 (bid already well above estimate). Kit matches the typical eBay sale: laser, receiver, clamp and case; used RL-H4C kits sold A$570-785 over 3 years (typically A$600-700), so even at A$300-350 there is margin if it works. Dirty and well used, the Pentax level is a bonus (not priced). Check at viewing: power on, beam rotation, auto-level (the bubble/lock), receiver beeps, battery compartment, laser window scratches, any damage to the case. Stock sales are Terapeak 3 years, no sale older than Dec 2023 shown.",
  "rate_note": "USD 1.54, SEK 0.15 AUD assumed",
  "chrome_done": true
 }

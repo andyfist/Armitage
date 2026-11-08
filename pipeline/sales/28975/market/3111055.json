@@ -1,7 +1,7 @@
 {
  "cdid": 3111055,
  "lot": 793,
- "identification": "Oil 'Evening on the Yarra River' attributed to Ernest Christmas (Ernest William Christmas, 1863-1918, Australian impressionist), dusk river and trees scene, 35x25cm in gilt frame. Photo viewed (1 only).",
+ "identification": "Oil on what looks like canvas (visible weave) of a dusk river or billabong scene, dead gum trees left, leafy trees and palm right, yellow sunset band over grey hills, in a gilt frame with grey slip. Armitage: 'Ernest Christmas attributed', 'Evening on the Yarra River', 35 x 25 cm. Photo 1 only, zoomed on the lower corners and bottom edge.",
  "entries": [
   {
    "kind": "SOLD",
@@ -149,12 +149,36 @@
    "same_item": "partial",
    "note": "Oil on board 30x22cm gilt frame some paint loss, Kerleys, 24 Apr 2021. Estimate only",
    "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$100-200 estimate",
+   "currency": "AUD",
+   "aud_price": 100.0,
+   "date": "2011-03-28",
+   "venue": "Theodore Bruce (via Invaluable)",
+   "url": "https://www.invaluable.com/artist/christmas-ernst-william-hr52bnqvpi/sold-at-auction-prices/",
+   "same_item": "partial",
+   "note": "'River Landscape' oil on canvas 19.5 x 21 cm, initials and date; result not shown",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "no estimate shown",
+   "currency": "AUD",
+   "aud_price": null,
+   "date": "2013-10-13",
+   "venue": "E J Ainger (via Invaluable)",
+   "url": "https://www.invaluable.com/artist/christmas-ernst-william-hr52bnqvpi/sold-at-auction-prices/",
+   "same_item": "close",
+   "note": "'Attributed Ernest W Christmas' South Australian landscape oil on canvas 83 x 56 cm, unsigned; result not shown. Only attributed comp found",
+   "via": "chrome"
   }
  ],
  "searches_tried": "pipeline/comps.py and work/comps.py (ernest christmas, christmas river/oil): no local hits (pipeline script errored on a null field). WebSearch for Christmas river sold prices. Invaluable artist page parsed (about 45 results). No Gowans/Armitage/AASD search done. Rate: all AUD, no conversion. Recent signed Christmas river scenes sell about AUD 260-460 hammer, top about 1200; attributed/unsigned examples AUD 0-300. eBay sold would help for unsigned decorative river scenes. | chrome: eBay AU sold: ernest christmas oil painting (only unrelated Ernest/Christmas items); antique oil painting river sunset dead trees gilt frame australian (European antique landscapes at A$330-1000, not comparable). Nothing same-item found. | chrome: eBay AU sold: ernest christmas oil painting (only unrelated Ernest/Christmas items); antique oil painting river sunset dead trees gilt frame australian (European antique landscapes at A$330-1000, not comparable). Nothing same-item found. | chrome: eBay AU sold: ernest christmas oil painting (only unrelated Ernest/Christmas items); antique oil painting river sunset dead trees gilt frame australian (European antique landscapes at A$330-1000, not comparable). Nothing same-item found. | chrome: Not worked: blocked sources (AASD, Art Record, Carters bot check; Invaluable hides prices); no per-lot URLs found | chrome: eBay AU sold 'ernest christmas oil painting': no relevant results (only other 'Ernest' artists). Nothing new. | chrome: Terapeak AU 'ernest christmas oil painting' (0 rows); WebSearch Ernest Christmas auction prices; WebFetch Invaluable sold-at-auction page (estimates only); artrecord.com would not load. Wikipedia entry exists for Ernest William Christmas (1863-1918).",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: 'Ernest Christmas oil painting' and 'tonalist river oil painting dead trees sunset'",
- "viewing_check": "Armitage est $140-200, current bid $70. KEY CHECK: lot title says 'attributed' and misspells Christmas; look for signature/initials E W C, canvas/board, age of frame. A genuine small E.W. Christmas oil has been estimated A$200-900 at other auctions, so this is a lead worth a close look. Realised prices not retrieved (Invaluable shows estimates only).",
+ "viewing_check": "Unsigned and attributed only, so expect a fraction of signed Christmas prices (signed small oils were estimated A$200-900; attributed or unsigned usually A$100-300). Current bid $70 against estimate 140-200. Take a torch and loupe to check the lower corners for initials and look at the back. AASD (aasd.com.au) page failed to load so no hammer prices checked.",
  "rate_note": "All prices already AUD; no conversion.",
  "chrome_done": true
 }
