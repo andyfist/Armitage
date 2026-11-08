@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Usage: python3 pipeline/assess.py <chid> [--profit 200] [--fee 0.15] [--premium 0.22] [--months 24]
+"""Usage: python3 pipeline/assess.py <chid> [--profit 200] [--fee 0.15] [--premium 0.22] [--months 120]
 
 The bid check, in code, no AI. Reads one sale's funnel output (pipeline/sales/<chid>/):
 scans/*.json (which lots are candidates and how strong), market/<cdid>.json (the price
@@ -13,6 +13,10 @@ not competitive auctions). They are kept as 'paid', a guide to what we might hav
 and a lot with nothing else goes to the Chrome research instead of passing.
 
   net resale  = median same-item SOLD price (AUD, dated within the last --months) x (1 - fee)
+
+Sold prices from the last 10 years count (Andy, 8 Nov 2026: "we might be omitting useful
+information"); it was 24 months before. Each lot's 'age_note' says how many of its prices are
+more than 3 years old, and 'trend' compares the last 3 years with the years before.
   max hammer  = (net resale - profit) / (1 + premium), rounded down to $5
 
 Writes assessment.json, chrome_list.json (lots for the browser research on the home
@@ -69,13 +73,30 @@ def round_down5(x):
     return int(max(x, 0) // 5 * 5)
 
 
+def age_and_trend(sold):
+    """Notes for a lot's sold prices: how many are more than 3 years old, and whether the
+    last 3 years sell higher or lower than the years before (Andy, 8 Nov 2026)."""
+    old = [x['aud_price'] for x in sold if x.get('old')]
+    new = [x['aud_price'] for x in sold if not x.get('old')]
+    age = f"{len(old)} of {len(sold)} prices are more than 3 years old" if old else ''
+    trend = ''
+    if old and new:
+        a, b = statistics.median(new), statistics.median(old)
+        ch = (a - b) / b if b else 0
+        word = 'steady' if abs(ch) < 0.1 else ('rising' if ch > 0 else 'falling')
+        trend = f"trend {word}: last 3 years median ${a:,.0f} against ${b:,.0f} before ({ch:+.0%})"
+    elif old:
+        trend = 'no sales in the last 3 years'
+    return age, trend
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('chid')
     ap.add_argument('--profit', type=float, default=200, help='minimum net profit in dollars (default 200)')
     ap.add_argument('--fee', type=float, default=0.15, help='selling fees as a fraction of the resale price (default 0.15)')
     ap.add_argument('--premium', type=float, default=0.22, help="Armitage buyer's premium incl. GST (default 0.22)")
-    ap.add_argument('--months', type=int, default=24, help='only SOLD prices this recent count (default 24)')
+    ap.add_argument('--months', type=int, default=120, help='only SOLD prices this recent count (default 120, ten years; Andy, 8 Nov 2026)')
     ap.add_argument('--chrome-floor', type=float, default=100,
                     help='also send to Chrome any lot whose evidence shows it could resell for this much or more (default 100; Andy, 6 Nov 2026)')
     ap.add_argument('--top', type=int, default=25, help='lots listed in the email (default 25)')
@@ -86,6 +107,7 @@ def main():
     bids = json.load(open(os.path.join(D, 'bids.json'))) if os.path.exists(os.path.join(D, 'bids.json')) else {}
     today = datetime.date.today()
     cutoff = today - datetime.timedelta(days=30 * args.months)
+    recent = today - datetime.timedelta(days=365 * 3)
 
     # candidates from the scans (strength = the rescored value if a rescore file exists)
     scanned, cands = 0, {}
@@ -115,11 +137,12 @@ def main():
                'identification': (m or {}).get('identification'), 'researched': m is not None, 'needs_chrome': bool((m or {}).get('needs_chrome')),
                'chrome_hint': (m or {}).get('chrome_hint', ''), 'chrome_done': bool((m or {}).get('chrome_done')),
                'sold': [], 'sold_old': [], 'unsold': [], 'asking': [], 'paid': [], 'resale': 0,
-               'net_resale': 0, 'max_hammer': 0, 'status': '', 'why': '', 'priority': cdid in first}
+               'net_resale': 0, 'max_hammer': 0, 'status': '', 'why': '', 'age_note': '', 'trend': '', 'priority': cdid in first}
         for e in (m or {}).get('entries', []):
             price = float(e.get('aud_price') or 0)
             same = str(e.get('same_item', '')).lower()
-            rec = {'aud_price': price, 'date': e.get('date'), 'venue': e.get('venue'), 'url': e.get('url'), 'same_item': same, 'note': e.get('note', '')}
+            rec = {'aud_price': price, 'date': e.get('date'), 'venue': e.get('venue'), 'url': e.get('url'), 'same_item': same, 'note': e.get('note', ''),
+                   'old': bool(entry_date(e.get('date')) and entry_date(e.get('date')) < recent)}
             if e.get('kind') == 'SOLD' and price > 0 and is_local_room(e):
                 out['paid'].append(rec)
             elif e.get('kind') == 'SOLD' and price > 0 and e.get('url') and same in ('yes', 'close') and 'snippet only' not in str(e.get('note', '')).lower():
@@ -135,10 +158,12 @@ def main():
             out['resale'] = statistics.median(prices)
             out['net_resale'] = out['resale'] * (1 - args.fee)
             out['max_hammer'] = round_down5((out['net_resale'] - args.profit) / (1 + args.premium))
+            out['age_note'], out['trend'] = age_and_trend(out['sold'])
             if out['max_hammer'] >= max(current, 5):
                 out['status'] = 'PASS'
                 out['why'] = (f"{len(prices)} same-item SOLD price(s), median ${out['resale']:,.0f}; less {args.fee:.0%} fees = ${out['net_resale']:,.0f}; "
-                              f"less ${args.profit:,.0f} profit, / {1 + args.premium:.2f} premium = max hammer ${out['max_hammer']:,}")
+                              f"less ${args.profit:,.0f} profit, / {1 + args.premium:.2f} premium = max hammer ${out['max_hammer']:,}"
+                              + ''.join(f". {n}" for n in (out['age_note'], out['trend']) if n))
             else:
                 out['status'] = 'FAIL'
                 out['why'] = f"max hammer ${out['max_hammer']:,} from a median SOLD of ${out['resale']:,.0f} does not clear the current bid ${current:,.0f}"
@@ -191,7 +216,8 @@ def main():
         lines.append(f"{'Other lots' if first else 'Lots'} that pass now (max hammer, current bid, what it is):")
         for x in passes[:args.top]:
             lines.append(f"- Lot {x['lot']}: max ${x['max_hammer']:,} (bid ${x['current_bid']:,.0f}, {x['bid_count'] or 0} bids), {x['title']}. "
-                         f"{(x['identification'] or '')[:120]} Sold evidence: {len(x['sold'])} price(s), median ${x['resale']:,.0f}.")
+                         f"{(x['identification'] or '')[:120]} Sold evidence: {len(x['sold'])} price(s), median ${x['resale']:,.0f}."
+                         + ''.join(f" {n}." for n in (x.get('age_note'), x.get('trend')) if n))
         if len(passes) > args.top:
             lines.append(f"... and {len(passes) - args.top} more in assessment.json")
         lines.append('')
