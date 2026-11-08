@@ -1,7 +1,7 @@
 {
  "cdid": 3112566,
  "lot": 1539,
- "identification": "Eight Tasmanian plates: DF 9641 pair and BB 7805 (Holiday Isle blue on white), WRH 765 pair (black on cream, rusted, paint loss), WHA 583 pair (blue on white, 1941-style tab, heavy paint loss), AG 0432 (TAS blue on cream)",
+ "identification": "Tray of 8 old Tasmanian licence plates (pairs DF-9641, WRH-765, WHA-583, plus BB-7805, AG-0432; Holiday Isle series) (1 photo viewed). ",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,12 +46,84 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/401925/",
    "same_item": "category guide",
    "note": "Pair of Victorian number plates, 4 bids. Ordinary pair."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$286.86",
+   "currency": "AUD",
+   "aud_price": 286.86,
+   "date": "2026-08-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/158145146450",
+   "same_item": "close",
+   "note": "4 original vintage enamel Tasmania number plates, auction 5 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$67.61",
+   "currency": "AUD",
+   "aud_price": 67.61,
+   "date": "2026-08-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/158145150624",
+   "same_item": "close",
+   "note": "2 original enamel Tasmania plates with rego papers, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.04",
+   "currency": "AUD",
+   "aud_price": 48.04,
+   "date": "2024-01-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166551140022",
+   "same_item": "close",
+   "note": "Pair of vintage Tasmania number plates",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$33.17",
+   "currency": "AUD",
+   "aud_price": 33.17,
+   "date": "2025-10-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/146878927440",
+   "same_item": "partial",
+   "note": "Vintage Tasmania small plate, 2 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.66",
+   "currency": "AUD",
+   "aud_price": 28.66,
+   "date": "2026-10-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157936967005",
+   "same_item": "close",
+   "note": "Vintage Tasmania 'Your Natural State' plate",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$18.59",
+   "currency": "AUD",
+   "aud_price": 18.59,
+   "date": "2026-02-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/177872072025",
+   "same_item": "close",
+   "note": "Vintage Tasmania plate",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with several plate words (pipeline one crashed on a None value, work one only gave books); Gowans API searches for number plates, licence plates, Tas plates, holiday isle; two WebSearches (Tasmanian plates sold, site:armitage past results) found nothing relevant. eBay sold prices for old Tasmanian plate pairs would settle it. | chrome: eBay AU sold: tasmania number plate, tasmania holiday isle number plate, tasmania license plate (all eBay error pages after waits up to 40s). Nothing found. | chrome: eBay AU sold: tasmania number plate, tasmania holiday isle number plate, tasmania license plate (all eBay error pages after waits up to 40s). Nothing found.",
+ "searches_tried": "comps.py (pipeline and work) with several plate words (pipeline one crashed on a None value, work one only gave books); Gowans API searches for number plates, licence plates, Tas plates, holiday isle; two WebSearches (Tasmanian plates sold, site:armitage past results) found nothing relevant. eBay sold prices for old Tasmanian plate pairs would settle it. | chrome: eBay AU sold: tasmania number plate, tasmania holiday isle number plate, tasmania license plate (all eBay error pages after waits up to 40s). Nothing found. | chrome: eBay AU sold: tasmania number plate, tasmania holiday isle number plate, tasmania license plate (all eBay error pages after waits up to 40s). Nothing found. | chrome: Google/WebSearch identification pass. Terapeak AU 3yr: tasmania number plate vintage (50 rows). Photo 1 viewed (only one).",
  "needs_chrome": false,
  "chrome_hint": "eBay sold items: old Tasmanian number plate pair (also 'Tasmania Holiday Isle number plate')",
- "viewing_check": "Check the WHA 583 and WRH 765 pairs for age (year tabs) and any older embossed issues; note bends and rust.",
+ "viewing_check": "Armitage est $20-50, bid $35. Check whether plates are enamel/pressed and the series (Holiday Isle, Your Natural State). Singles A$18-33; 4-plate sets sold up to A$287 recently.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

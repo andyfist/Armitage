@@ -1,7 +1,7 @@
 {
  "cdid": 3111193,
  "lot": 931,
- "identification": "6 x Australian 1966 round 50c (80% silver) coins, circulated.",
+ "identification": "Six 1966 round 50c coins, one toned/brownish. Photo viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -182,12 +182,36 @@
    "same_item": "partial",
    "note": "single 1966 round 50c, BIN",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.11",
+   "currency": "AUD",
+   "aud_price": 20.11,
+   "date": "2025-08-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/221436502078",
+   "same_item": "close",
+   "note": "single coin.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$161.62",
+   "currency": "AUD",
+   "aud_price": 161.62,
+   "date": "2024-03-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/155703628363",
+   "same_item": "close",
+   "note": "10 coins (~A$16 each).",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed; work version used, 12 hits), Gowans API detail for each hit, silver spot. Gowans per-coin hammer is steady at about $30-47; six-coin lot $280 in Feb, five-coin lots $170-200 so six coins likely about $200-240 hammer. No web search needed beyond this; eBay sold would add retail cross-check. | chrome: eBay AU sold: '1966 round 50 cent coin australia' (error page), '1966 round fifty cent' (worked) | chrome: eBay AU sold: '1966 round 50 cent coin australia' (error page), '1966 round fifty cent' (worked)",
+ "searches_tried": "comps.py (pipeline version crashed; work version used, 12 hits), Gowans API detail for each hit, silver spot. Gowans per-coin hammer is steady at about $30-47; six-coin lot $280 in Feb, five-coin lots $170-200 so six coins likely about $200-240 hammer. No web search needed beyond this; eBay sold would add retail cross-check. | chrome: eBay AU sold: '1966 round 50 cent coin australia' (error page), '1966 round fifty cent' (worked) | chrome: eBay AU sold: '1966 round 50 cent coin australia' (error page), '1966 round fifty cent' (worked) | chrome: Terapeak AU '1966 round 50 cent silver coin' (shared search, 50 rows).",
  "needs_chrome": false,
  "chrome_hint": "",
  "rate_note": "USD to AUD 1.4376 (open.er-api.com, 2026-11-06); Gowans prices already AUD.",
- "viewing_check": "Confirm all 6 are 1966 round type (not 1966 12-sided), condition and toning. Singles clear about A$35-47 each so six is roughly A$210-280 retail, in line with Gowans.",
+ "viewing_check": "Armitage est $150-200, current bid $110, next $120 (landed ~A$146). One coin looks discoloured.",
  "chrome_done": true
 }

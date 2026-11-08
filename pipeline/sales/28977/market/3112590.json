@@ -1,7 +1,7 @@
 {
  "cdid": 3112590,
  "lot": 1563,
- "identification": "Eight worn South Australian embossed plates (TWO-737, RWY-834 x2, SLD-926, RWV-199, RDL-509, RAL-973 aluminium, orange-on-black 440-217), no heritage/low numbers",
+ "identification": "Eight vintage South Australian licence plates (TWO-737, RWY-834, SLD-926, RWV-199, RDL-509, RAL-973, 440-217 etc) (3 photos viewed). ",
  "entries": [
   {
    "kind": "SOLD",
@@ -138,12 +138,72 @@
    "same_item": "partial",
    "note": "Vintage SA collector plate, single, low end",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$72.68",
+   "currency": "AUD",
+   "aud_price": 72.68,
+   "date": "2024-01-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/235376478211",
+   "same_item": "partial",
+   "note": "NSW 1958 plates x2 pair, auction (different state)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$44.57",
+   "currency": "AUD",
+   "aud_price": 44.57,
+   "date": "2023-12-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256242661025",
+   "same_item": "close",
+   "note": "Vintage original four-digit South Australia plate",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$23.40",
+   "currency": "AUD",
+   "aud_price": 23.4,
+   "date": "2026-01-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227143352815",
+   "same_item": "close",
+   "note": "SA vintage original tin plate",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$16.62",
+   "currency": "AUD",
+   "aud_price": 16.62,
+   "date": "2026-01-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227078788548",
+   "same_item": "partial",
+   "note": "NSW old tin plate",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$12.40",
+   "currency": "AUD",
+   "aud_price": 12.4,
+   "date": "2023-12-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225891798403",
+   "same_item": "close",
+   "note": "Original South Australia plate, auction 8 bids",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py and work/comps.py (number plates, licence plates; mostly irrelevant book hits); Gowans API number plate(s), vintage plates, pair of plates; WebSearch SA number plates sold (only registration-right plates SA 1, 8, 55 at $100k+ which are not comparable), vintage SA plate asking prices, site:armitage (nothing). eBay sold prices would settle it (closed to us). | chrome: eBay AU sold: south australian number plates (10 rows, all singles). Lot-of-plates search not run due to throttling. | chrome: eBay AU sold: south australian number plates (10 rows, all singles). Lot-of-plates search not run due to throttling.",
+ "searches_tried": "pipeline/comps.py and work/comps.py (number plates, licence plates; mostly irrelevant book hits); Gowans API number plate(s), vintage plates, pair of plates; WebSearch SA number plates sold (only registration-right plates SA 1, 8, 55 at $100k+ which are not comparable), vintage SA plate asking prices, site:armitage (nothing). eBay sold prices would settle it (closed to us). | chrome: eBay AU sold: south australian number plates (10 rows, all singles). Lot-of-plates search not run due to throttling. | chrome: eBay AU sold: south australian number plates (10 rows, all singles). Lot-of-plates search not run due to throttling. | chrome: Google/WebSearch identification pass. Terapeak AU 3yr: south australia number plate original (12 rows). Photos 1-3 viewed.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: south australian number plates vintage pair; also 'SA number plates lot' sold",
- "viewing_check": "Check the older numeric 440-217 plate (orange on black) is a genuine early issue and not repainted; check rust and bends. Single SA plates sell about A$12-60 each on eBay, so 8 plates have a wide range.",
+ "viewing_check": "Armitage est $30-50, bid $25. SA plates mostly A$12-45 each; 8 plates plausible A$120-180 if listed singly.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

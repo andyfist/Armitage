@@ -136,12 +136,24 @@
    "same_item": "partial",
    "note": "Art Deco green uranium bowl/bon bon dish, birds, 1930s. ",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$38.08",
+   "currency": "AUD",
+   "aud_price": 38.08,
+   "date": "2026-11-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117503398372",
+   "same_item": "partial",
+   "note": "Stunning vintage Murano large glass bowl, not uranium",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py (uranium glass bowl, uranium art glass, murano bowl); work comps.py (uranium bowl, art glass bowl, czech glass bowl, glass centrepiece bowl); WebSearch for Czech uranium freeform bowl (only asking prices and estimates, no verified sold). eBay sold prices and LiveAuctioneers results would help. | chrome: eBay AU sold: uranium glass bowl | chrome: eBay AU sold: uranium glass bowl",
+ "searches_tried": "pipeline comps.py (uranium glass bowl, uranium art glass, murano bowl); work comps.py (uranium bowl, art glass bowl, czech glass bowl, glass centrepiece bowl); WebSearch for Czech uranium freeform bowl (only asking prices and estimates, no verified sold). eBay sold prices and LiveAuctioneers results would help. | chrome: eBay AU sold: uranium glass bowl | chrome: eBay AU sold: uranium glass bowl | chrome: eBay AU sold: uranium glass bowl | Terapeak AU 3yr (dayRange=1095): murano uranium art glass bowl centrepiece (1 row); uranium depression glass bowl (50 rows)",
  "needs_chrome": false,
  "chrome_hint": "eBay sold listings: czech uranium art glass bowl freeform; LiveAuctioneers price results 'uranium art glass bowl'",
- "viewing_check": "Check for maker label or signature (Czech/Murano) on base.",
+ "viewing_check": "Check for maker label or signature (Czech/Murano) on base. | TERAPEAK RE-CHECK: No maker mark; check base for label/pontil. Prices stay under A$100.",
  "rate_note": "GBP to AUD about 2.0 (approximate); other prices AUD hammer, premium extra.",
  "chrome_done": true
 }

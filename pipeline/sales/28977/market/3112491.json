@@ -1,7 +1,7 @@
 {
  "cdid": 3112491,
  "lot": 1463,
- "identification": "Three 1 gallon oil tins: Shell X-100 Multigrade (yellow, good), Mobiloil A SAE 30 HD with Pegasus (Vacuum Oil Co, fair), and heavily rusted Ampol Motor Oil tin (poor)",
+ "identification": "Three 1 gallon tins: Shell X-100 (yellow/red), Mobiloil A (red/white Pegasus) and a rusty brown tin (1 photo viewed).",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,12 +112,84 @@
    "url": "https://www.ebay.de/itm/306296040192",
    "same_item": "category guide",
    "note": "Shell X-100 1 gallon tin/sign, snippet only, asking, unverified; likely better condition and overseas."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$131.35",
+   "currency": "AUD",
+   "aud_price": 131.35,
+   "date": "2026-09-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168626921708",
+   "same_item": "close",
+   "note": "Shell X100 motor oil 1 gallon tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$104.03",
+   "currency": "AUD",
+   "aud_price": 104.03,
+   "date": "2026-09-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168645250281",
+   "same_item": "close",
+   "note": "Shell X100 1 gallon oil tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.01",
+   "currency": "AUD",
+   "aud_price": 85.01,
+   "date": "2026-03-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168266353480",
+   "same_item": "close",
+   "note": "Vintage Shell X100 1 gallon tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84.53",
+   "currency": "AUD",
+   "aud_price": 84.53,
+   "date": "2024-08-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166634309097",
+   "same_item": "close",
+   "note": "Shell X100 1 gallon tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$55.54",
+   "currency": "AUD",
+   "aud_price": 55.54,
+   "date": "2024-10-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/305831269360",
+   "same_item": "close",
+   "note": "Shell X100 1 gallon petrol tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.65",
+   "currency": "AUD",
+   "aud_price": 28.65,
+   "date": "2024-02-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/226003768712",
+   "same_item": "close",
+   "note": "Shell X100 1 gallon oil tin, poor",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for mobiloil gallon tin, ampol oil tin, ampol, vacuum oil, shell x-100 gallon; Gowans API search ampol; WebSearch for Mobiloil A Vacuum Oil tin and Shell X-100 tin (no Australian sold results found). eBay Australia sold listings would settle it. | chrome: eBay AU sold: ampol oil tin gallon (error), ampol oil tin (loaded but only bottles/tin-tops/replicas, no gallon tins), mobiloil gallon tin (error), vintage 1 gallon oil tin shell mobiloil (error); ebay.com needs sign-in (skipped). Nothing found.",
+ "searches_tried": "comps.py (pipeline and work) for mobiloil gallon tin, ampol oil tin, ampol, vacuum oil, shell x-100 gallon; Gowans API search ampol; WebSearch for Mobiloil A Vacuum Oil tin and Shell X-100 tin (no Australian sold results found). eBay Australia sold listings would settle it. | chrome: eBay AU sold: ampol oil tin gallon (error), ampol oil tin (loaded but only bottles/tin-tops/replicas, no gallon tins), mobiloil gallon tin (error), vintage 1 gallon oil tin shell mobiloil (error); ebay.com needs sign-in (skipped). Nothing found. | chrome: Terapeak AU 3yr: shell x100 1 gallon tin (12 rows), mobiloil gallon tin. Photo 1 viewed.",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold items: 'Ampol oil tin 1 gallon', 'Mobiloil A gallon tin Vacuum Oil', 'Shell X-100 gallon tin'",
  "rate_note": "USD to AUD approx 1.53 assumed; not checked live.",
- "viewing_check": "Photograph each tin for dents, rust perforation, and whether caps are present; Shell and Mobiloil are the better tins, Ampol is rusty.",
+ "viewing_check": "Armitage est $40-70, bid $85 (cost $104). Shell X100 gallons sell $26-131 (12 in 3 yrs); Mobiloil A gallon $25-63. Bid already above typical for the set.",
  "chrome_done": true
 }

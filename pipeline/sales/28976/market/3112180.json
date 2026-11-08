@@ -14,10 +14,46 @@
    "same_item": "yes",
    "note": "new retail price, not a resale price. Scan says Lattissima-type; exact model not confirmed. Other Lattissima models cost more.",
    "via": "new_price"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$62.83",
+   "currency": "AUD",
+   "aud_price": 62.83,
+   "date": "2026-08-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186636975184",
+   "same_item": "close",
+   "note": "DeLonghi Nespresso Gran Lattissima machine",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.84",
+   "currency": "AUD",
+   "aud_price": 59.84,
+   "date": "2026-07-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186636980423",
+   "same_item": "close",
+   "note": "DeLonghi Nespresso Gran Lattissima machine",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$18.43",
+   "currency": "AUD",
+   "aud_price": 18.43,
+   "date": "2026-10-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186042179349",
+   "same_item": "partial",
+   "note": "DeLonghi Gran Lattissima, likely parts/faulty",
+   "via": "chrome"
   }
  ],
- "viewing_check": "Confirm model number on base.",
- "searches_tried": " | chrome: head start",
+ "viewing_check": "Confirm model number on base. | TERAPEAK RE-CHECK: Confirm model; machine is heavy.",
+ "searches_tried": " | chrome: head start | chrome: head start | Terapeak AU 3yr (dayRange=1095): delonghi nespresso lattissima (50 rows, mostly parts)",
  "needs_chrome": false,
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112683,
  "lot": 1842,
- "identification": "Modern imported terracotta strawberry planter, six side pockets, no maker stamp. Common garden centre item.",
+ "identification": "Terracotta strawberry planter (pocketed jar), about 38 cm, undamaged in the photo.",
  "entries": [
   {
    "kind": "SOLD",
@@ -35,10 +35,35 @@
    "url": "gowans lot id 376111",
    "same_item": "close",
    "note": "POTTED STRAWBERRY; local database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$44.39",
+   "currency": "AUD",
+   "aud_price": 44.39,
+   "date": "2026-10-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/389801397472",
+   "same_item": "partial",
+   "note": "Strawberry tower pot, terracotta ceramic, new; qty 4 sold",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.31",
+   "currency": "AUD",
+   "aud_price": 30.31,
+   "date": "2026-05-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/137199509458",
+   "same_item": "partial",
+   "note": "Strawberry tower pot terracotta new; qty 3",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py and pipeline/comps.py (terracotta strawberry planter, strawberry pot); Gowans API strawberry planter (no results). Generic item, stopped early. eBay sold would not change the picture.",
- "needs_chrome": true,
- "viewing_check": "nothing",
- "chrome_hint": " Bidder signal: 294845 - Liffey, (seen in 2 sales); 81791 - Longford , TAS (seen in 65 sales); 168091 - Newnham, (seen in 4 sales); 56993 - Queenstown , TAS (seen in 90 sales); 289732 - Bicheno, (seen in 13 sales); 4 or more bidders. Look harder for sold prices of this exact item."
+ "searches_tried": "work/comps.py and pipeline/comps.py (terracotta strawberry planter, strawberry pot); Gowans API strawberry planter (no results). Generic item, stopped early. eBay sold would not change the picture. | chrome: Terapeak AU 3yrs: 'terracotta strawberry planter' (26 rows)",
+ "needs_chrome": false,
+ "viewing_check": "Armitage estimate $20-30 (8 Nov; live bid not shown on the page, check on the day). Fragile, bulky to post; local pickup only. Used pots sell for less than new.",
+ "chrome_hint": " Bidder signal: 294845 - Liffey, (seen in 2 sales); 81791 - Longford , TAS (seen in 65 sales); 168091 - Newnham, (seen in 4 sales); 56993 - Queenstown , TAS (seen in 90 sales); 289732 - Bicheno, (seen in 13 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
+ "chrome_done": true
 }

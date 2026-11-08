@@ -1,6 +1,80 @@
-{"cdid":3110976,"lot":714,"identification":"Antique cut crystal vase c.1900 with silver collars at rim and foot, hobnail cut base, engraved monogram; English or Continental, hallmarks unseen.","entries":[
-{"kind":"SOLD","price":"GBP 60 hammer","currency":"GBP","aud_price":120,"date":"unknown (undated in snippet)","venue":"Fieldings Auctioneers, UK","url":"https://fieldingsauctioneers.co.uk/lot/70144","same_item":"close","note":"snippet only, page opened but showed no lot detail so unverified. Stourbridge cut crystal vase 24 cm, Birmingham 1918 silver rim, similar size and type. Rate GBP1=AUD2.0 assumed."},
-{"kind":"SOLD","price":"GBP 90 hammer","currency":"GBP","aud_price":180,"date":"unknown (undated in snippet)","venue":"Fieldings Auctioneers, UK","url":"https://fieldingsauctioneers.co.uk/lot/195667","same_item":"close","note":"snippet only, unverified. Glass vase 22.5 cm, 1928 Birmingham silver rim, estimate GBP60-90. Rate 2.0 assumed."},
-{"kind":"SOLD","price":"USD 976 realised","currency":"USD","aud_price":1500,"date":"2026 (listing date shown as 1 Jan 2026)","venue":"Nadeau's Auction, US","url":"https://www.nadeausauction.com/product/lot-7-tiffany-co-sterling-silver-mounted-cut-glass-trophy-vase/","same_item":"category guide","note":"snippet only. Tiffany & Co branded trophy vase, est $300-500; far better than ours, not a comp. Rate USD1=AUD1.53 assumed."},
-{"kind":"SOLD","price":"AUD 900 hammer","currency":"AUD","aud_price":900,"date":"2024-05-25","venue":"Leski Auctions, Melbourne","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/613","same_item":"category guide","note":"from local database. Flynn silver mounted blue crystal vase with platypus, boxed; a collectable, not comparable."}
-],"searches_tried":"comps.py (pipeline) x3 and work/comps.py: no direct comps. WebSearch x2 (sterling mounted hobnail crystal vase; silver rim cut crystal vase Birmingham). Fieldings pages did not open to lot detail. Not tried: Carters and Bonhams lot pages (prices paywalled/not shown). eBay sold prices would help: needs Chrome.","needs_chrome":true,"chrome_hint":"eBay sold listings: antique silver rim cut crystal vase hobnail Birmingham hallmark; also LiveAuctioneers 'silver mounted cut glass vase' past results","viewing_check":"Look inside the rim and under the foot collar for a hallmark (sterling lion/anchor/town mark) and maker; check for chips at the crystal edge under the collar and cracks; confirm collars are solid silver, not plate."}
+{
+ "cdid": 3110976,
+ "lot": 714,
+ "identification": "Sterling silver rimmed cut crystal faceted vase, 24cm, silver band at rim. Both photos viewed.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "GBP 60 hammer",
+   "currency": "GBP",
+   "aud_price": 120,
+   "date": "unknown (undated in snippet)",
+   "venue": "Fieldings Auctioneers, UK",
+   "url": "https://fieldingsauctioneers.co.uk/lot/70144",
+   "same_item": "close",
+   "note": "snippet only, page opened but showed no lot detail so unverified. Stourbridge cut crystal vase 24 cm, Birmingham 1918 silver rim, similar size and type. Rate GBP1=AUD2.0 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 90 hammer",
+   "currency": "GBP",
+   "aud_price": 180,
+   "date": "unknown (undated in snippet)",
+   "venue": "Fieldings Auctioneers, UK",
+   "url": "https://fieldingsauctioneers.co.uk/lot/195667",
+   "same_item": "close",
+   "note": "snippet only, unverified. Glass vase 22.5 cm, 1928 Birmingham silver rim, estimate GBP60-90. Rate 2.0 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "USD 976 realised",
+   "currency": "USD",
+   "aud_price": 1500,
+   "date": "2026 (listing date shown as 1 Jan 2026)",
+   "venue": "Nadeau's Auction, US",
+   "url": "https://www.nadeausauction.com/product/lot-7-tiffany-co-sterling-silver-mounted-cut-glass-trophy-vase/",
+   "same_item": "category guide",
+   "note": "snippet only. Tiffany & Co branded trophy vase, est $300-500; far better than ours, not a comp. Rate USD1=AUD1.53 assumed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 900 hammer",
+   "currency": "AUD",
+   "aud_price": 900,
+   "date": "2024-05-25",
+   "venue": "Leski Auctions, Melbourne",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/613",
+   "same_item": "category guide",
+   "note": "from local database. Flynn silver mounted blue crystal vase with platypus, boxed; a collectable, not comparable."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$87.17",
+   "currency": "AUD",
+   "aud_price": 87.17,
+   "date": "2026-06-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/287330623376",
+   "same_item": "partial",
+   "note": "Small cut crystal bud vase with sterling silver rim, antique",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.87",
+   "currency": "AUD",
+   "aud_price": 30.87,
+   "date": "2025-12-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/306651325013",
+   "same_item": "partial",
+   "note": "Antique sterling silver rimmed cut crystal vase, Birmingham 1904",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline) x3 and work/comps.py: no direct comps. WebSearch x2 (sterling mounted hobnail crystal vase; silver rim cut crystal vase Birmingham). Fieldings pages did not open to lot detail. Not tried: Carters and Bonhams lot pages (prices paywalled/not shown). eBay sold prices would help: needs Chrome. | chrome: Terapeak AU 'sterling silver rim cut crystal vase' 3yrs (2 rows).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold listings: antique silver rim cut crystal vase hobnail Birmingham hallmark; also LiveAuctioneers 'silver mounted cut glass vase' past results",
+ "viewing_check": "Armitage est $40-60, current bid $35. Check hallmarks on silver rim (maker, city, year), dents and chips.",
+ "chrome_done": true
+}

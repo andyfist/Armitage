@@ -101,14 +101,14 @@
   },
   {
    "kind": "ASKING",
-   "price": "A$218.90 new retail (40L nearest)",
+   "price": "A$218.90 (Ozito 40L, 24L no longer listed)",
    "currency": "AUD",
    "aud_price": 218.9,
    "venue": "Bunnings Australia",
    "url": "https://www.bunnings.com.au/search/products?q=ozito%2024l%20air%20compressor",
-   "same_item": "category guide",
-   "note": "new retail price: Ozito 24L 1.5HP is no longer on Bunnings' site; nearest is Ozito 40L 2.0HP oil free compressor A$218.90 (out of stock), Ozito 1100W Inflate-It kit A$99.98, 10m PVC air hose A$18.98",
-   "date": "2026-11-08",
+   "same_item": "close",
+   "note": "new retail price: Ozito 40L 2.0HP oil free compressor A$218.90 (24L model not listed); Ozito 12V 150PSI A$49.98; earlier OzBargain post said Ozito 24L was A$99 run-out",
+   "date": null,
    "via": "chrome"
   },
   {
@@ -122,12 +122,60 @@
    "note": "Ozito 24L Air Compressor 1.5HP with air hose, used, asking price only",
    "date": "2026-11-08",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$41",
+   "currency": "AUD",
+   "aud_price": 41,
+   "date": "2026-04-22",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/127811132697",
+   "same_item": "close",
+   "note": "Ozito 24L air compressor, auction (condition not stated)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$64",
+   "currency": "AUD",
+   "aud_price": 64,
+   "date": "2024-12-13",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/265952009459",
+   "same_item": "close",
+   "note": "Ozito 24L/1.5HP air compressor",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$154",
+   "currency": "AUD",
+   "aud_price": 154,
+   "date": "2024-04-11",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/276362676805",
+   "same_item": "close",
+   "note": "Ozito 24L silent air compressor 1.5HP oil-free",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$173",
+   "currency": "AUD",
+   "aud_price": 173,
+   "date": "2024-05-27",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/276420766174",
+   "same_item": "close",
+   "note": "Ozito 24L silent air compressor 1.5HP oil-free",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with ozito/air compressor/24 words; Gowans API for ozito compressor and ozito spray gun; WebSearch for Ozito 24L compressor Bunnings price, site:armitage.bidsonline.com.au Ozito compressor, and Ozito gravity feed spray gun kit price. No Armitage past Ozito 24L result found. eBay sold listings for Ozito 24L compressor and the ASG-GFK kit would help but eBay is closed to us. | chrome: ebay sold: ozito 24l air compressor; google: ozito 24l oil free air compressor 1.5hp price; bunnings: ozito 24l air compressor",
+ "searches_tried": "comps.py (pipeline and work) with ozito/air compressor/24 words; Gowans API for ozito compressor and ozito spray gun; WebSearch for Ozito 24L compressor Bunnings price, site:armitage.bidsonline.com.au Ozito compressor, and Ozito gravity feed spray gun kit price. No Armitage past Ozito 24L result found. eBay sold listings for Ozito 24L compressor and the ASG-GFK kit would help but eBay is closed to us. | chrome: ebay sold: ozito 24l air compressor; google: ozito 24l oil free air compressor 1.5hp price; bunnings: ozito 24l air compressor | chrome: ebay sold: ozito 24l air compressor; google: ozito 24l oil free air compressor 1.5hp price; bunnings: ozito 24l air compressor || Terapeak re-check: Terapeak AU: ozito compressor; ozito 24l. Bunnings AU search: ozito 24l air compressor",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed listings: Ozito 24L air compressor; and Ozito ASG-GFK gravity feed spray gun kit",
- "viewing_check": "No sold Ozito 24L found; new Ozito retail price not looked up. [Armitage page 8 Nov 2026: estimate $100-150, current bid $50. Photos viewed (about 400px, low resolution): boxed Ozito 24L compressor in strapped carton, spray gun kit and hose boxed on a tray; new in boxes]",
+ "viewing_check": "No sold Ozito 24L found; new Ozito retail price not looked up. [Armitage page 8 Nov 2026: estimate $100-150, current bid $50. Photos viewed (about 400px, low resolution): boxed Ozito 24L compressor in strapped carton, spray gun kit and hose boxed on a tray; new in boxes] || TERAPEAK RE-CHECK (9 Nov 2026): Terapeak AU \"ozito compressor\" and \"ozito 24l\": 4 sales of the exact 24L in 3 yrs. Bunnings retired the 24L (OzBargain A$99 run-out); the 40L is A$218.90 now.",
  "rate_note": "All prices in AUD, no conversion.",
  "chrome_done": true
 }

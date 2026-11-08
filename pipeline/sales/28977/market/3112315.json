@@ -1,7 +1,7 @@
 {
  "cdid": 3112315,
  "lot": 1409,
- "identification": "Kelly Worlds Finest Dandenong felling axe on long curved timber handle; head broad and buffed bright (cross-hatched grinding, pitted); catalogue says True Temper, possibly Canadian-made Kelly True Temper; pattern (Tasmanian vs other) and weight not confirmed from photo",
+ "identification": "Kelly True Temper axe, polished head with oval 'Kelly/Perfect' type stamp, aged timber handle (3 photos). Likely the Kelly Works/Kelly Perfect (USA) pattern.",
  "entries": [
   {
    "kind": "SOLD",
@@ -195,12 +195,72 @@
    "same_item": "partial",
    "note": "Kelly Dandenong Tasmanian pattern head, True Temper 4.5lb, 31 bids; top end, good condition collector pattern",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$268.12",
+   "currency": "AUD",
+   "aud_price": 268.12,
+   "date": "2024-01-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116048666503",
+   "same_item": "partial",
+   "note": "Kelly Dandenong True Temper Canada 4.5lb axe, handle new",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$218.14",
+   "currency": "AUD",
+   "aud_price": 218.14,
+   "date": "2023-11-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/115973852196",
+   "same_item": "partial",
+   "note": "Kelly World's Finest True Temper 4.5lb axe, auction 16 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$254.66",
+   "currency": "AUD",
+   "aud_price": 254.66,
+   "date": "2024-12-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116420479919",
+   "same_item": "partial",
+   "note": "True Temper Kelly Perfect double bit axe",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$181.99",
+   "currency": "AUD",
+   "aud_price": 181.99,
+   "date": "2026-09-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117396736708",
+   "same_item": "close",
+   "note": "Vintage True Temper Flint Edge Kelly Works axe head 4 lb",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$38.82",
+   "currency": "AUD",
+   "aud_price": 38.82,
+   "date": "2025-11-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116874458928",
+   "same_item": "close",
+   "note": "Vintage Kelly Works Flint Edge True Temper axe 4lb USA, auction 7 bids",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) kelly axe, dandenong, axe worlds finest; work/comps.py kelly axe, dandenong axe, axe --min-price 80; Gowans API kelly axe (only past hit: $40 mixed lot; a 'KELLY AXE & HATCHET' lot created 2026-11-01 is from the current/upcoming sale so skipped); WebSearch Kelly Dandenong axe sold auction price (eBay/PicClick snippets only, no auction house results). eBay sold listings would settle it. Generic tool, stopped at limited searches. Local Armitage comps: Kelly axes $90-290 hammer, median about $110; the one explicit Dandenong sold $260. | chrome: eBay AU sold: kelly dandenong axe (error), kelly worlds finest axe (52 results, Kelly heads A$60-456, Tassie pattern up to A$1,300)",
+ "searches_tried": "comps.py (pipeline) kelly axe, dandenong, axe worlds finest; work/comps.py kelly axe, dandenong axe, axe --min-price 80; Gowans API kelly axe (only past hit: $40 mixed lot; a 'KELLY AXE & HATCHET' lot created 2026-11-01 is from the current/upcoming sale so skipped); WebSearch Kelly Dandenong axe sold auction price (eBay/PicClick snippets only, no auction house results). eBay sold listings would settle it. Generic tool, stopped at limited searches. Local Armitage comps: Kelly axes $90-290 hammer, median about $110; the one explicit Dandenong sold $260. | chrome: eBay AU sold: kelly dandenong axe (error), kelly worlds finest axe (52 results, Kelly heads A$60-456, Tassie pattern up to A$1,300) | chrome: Terapeak AU 3yr: kelly true temper axe (178 rows).",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: Kelly Dandenong axe (also 'Kelly Worlds Finest axe head'), last 12 months, used/polished heads",
  "rate_note": "All AUD, no conversion except noted.",
- "viewing_check": "Read the head stamps (Dandenong, Made in Australia vs Canada True Temper), weigh it, identify the pattern (Tasmanian pattern is the premium one), check for cracks and eye damage, handle fit; heavy buffing may cut value for collectors.",
+ "viewing_check": "Armitage est $80-120, bid $80. 177 axe sales in Terapeak (all kinds, median A$142, q1 A$86, q3 A$212). Handle and head condition decide it; look for the Kelly 'Flint Edge' stamp and the weight (lbs) and any new handle.",
  "chrome_done": true
 }

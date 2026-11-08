@@ -65,13 +65,13 @@
   },
   {
    "kind": "SOLD",
-   "price": "$80",
+   "price": "A$80",
    "aud_price": 80,
    "date": "2021-11-27",
    "venue": "Leski Auctions, Melbourne sale 562 lot 743",
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/562",
-   "same_item": "category guide",
-   "note": "1920s Atlantic, Shell NSW, Vacuum Oil maps; older and scarcer than this lot; hammer."
+   "same_item": "partial",
+   "note": "head start item; 2021-11-27"
   },
   {
    "kind": "SOLD",
@@ -82,11 +82,35 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491432&chid=23991&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Shell Tasmanian road map 1922 plus ticket and kit; hammer from local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$14.38",
+   "currency": "AUD",
+   "aud_price": 14.38,
+   "date": "2025-04-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/197209284897",
+   "same_item": "close",
+   "note": "Vintage 1970s/80s road maps of BP, Shell etc",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$14.61",
+   "currency": "AUD",
+   "aud_price": 14.61,
+   "date": "2026-01-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/197986208563",
+   "same_item": "close",
+   "note": "Vintage road maps BP, Shell, Esso",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with ampol/shell/road maps/oil company; Gowans API for ampol map and road maps. No web search done; generic mixed ephemera. eBay sold prices for Ampol/Neptune maps would only confirm small single-map values. | chrome: None new",
+ "searches_tried": "comps.py (pipeline and work) with ampol/shell/road maps/oil company; Gowans API for ampol map and road maps. No web search done; generic mixed ephemera. eBay sold prices for Ampol/Neptune maps would only confirm small single-map values. | chrome: None new | chrome: None new | Terapeak AU 3yr (dayRange=1095): vintage road maps bp shell caltex (2 rows)",
  "needs_chrome": false,
- "viewing_check": "Low value.",
+ "viewing_check": "Low value. | TERAPEAK RE-CHECK: Low value.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

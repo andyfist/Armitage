@@ -25,13 +25,13 @@
   },
   {
    "kind": "SOLD",
-   "price": "$440 hammer",
+   "price": "A$440 hammer",
    "aud_price": 440,
    "date": "2023-11-18",
    "venue": "Leski Auctions, Melbourne sale 604 lot 919",
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/604",
-   "same_item": "category guide",
-   "note": "Genuine circa 1940s nautical searchlight lamp on silky oak base; a real antique, not comparable to a modern replica. Local database record, page not opened. Shown only to show the genuine item is a different market."
+   "same_item": "partial",
+   "note": "head start item; 2023-11-18, likely a genuine item, not this replica"
   },
   {
    "kind": "SOLD",
@@ -56,12 +56,48 @@
    "same_item": "close",
    "note": "Vintage nautical chrome spotlight searchlight tripod floor lamp.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$123.88",
+   "currency": "AUD",
+   "aud_price": 123.88,
+   "date": "2025-12-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/324512225852",
+   "same_item": "partial",
+   "note": "Titanic ship focus search-light replica",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$127.91",
+   "currency": "AUD",
+   "aud_price": 127.91,
+   "date": "2026-07-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/114806783063",
+   "same_item": "partial",
+   "note": "100W LED remote rotating searchlight",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$612.61",
+   "currency": "AUD",
+   "aud_price": 612.61,
+   "date": "2024-01-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134276022702",
+   "same_item": "partial",
+   "note": "Nautical Royal Master restoration searchlight (different, restored real item)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py in pipeline and work databases (search light lamp; searchlight replica; spotlight lamp tripod). No web searches: item is a generic modern decor replica, stopped early. eBay sold listings for 'replica tripod searchlight floor lamp' would settle resale; no open-market resale comp found. | chrome: None new; eBay AU sold: tripod search light lamp vintage style",
+ "searches_tried": "comps.py in pipeline and work databases (search light lamp; searchlight replica; spotlight lamp tripod). No web searches: item is a generic modern decor replica, stopped early. eBay sold listings for 'replica tripod searchlight floor lamp' would settle resale; no open-market resale comp found. | chrome: None new; eBay AU sold: tripod search light lamp vintage style | chrome: None new; eBay AU sold: tripod search light lamp vintage style | Terapeak AU 3yr (dayRange=1095): search light lamp adjustable (3 rows); searchlight spotlight replica lamp vintage (0 rows)",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: chrome tripod searchlight floor lamp replica (optional, low value)",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Catalogued as replica. New retail price not looked up.",
+ "viewing_check": "Catalogued as replica. New retail price not looked up. | TERAPEAK RE-CHECK: Replica; check electrics and size.",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112532,
  "lot": 1504,
- "identification": "Sidchrome 39 piece Metric & A/F socket set, 1/4 and 3/8 drive, no. 19100, red metal case; all positions look filled",
+ "identification": "Sidchrome 39 piece metric and A/F socket set in red metal case, 1/4 and 3/8 drive (1 photo viewed). ",
  "entries": [
   {
    "kind": "SOLD",
@@ -136,12 +136,84 @@
    "same_item": "partial",
    "note": "Sidchrome 39 piece set part no. 19105 (variant)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$93.12",
+   "currency": "AUD",
+   "aud_price": 93.12,
+   "date": "2024-04-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256440915368",
+   "same_item": "close",
+   "note": "Sidchrome 39pc metric & AF, 3 sold avg",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$94.46",
+   "currency": "AUD",
+   "aud_price": 94.46,
+   "date": "2024-02-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/154979643843",
+   "same_item": "close",
+   "note": "39pc, 2 sold avg",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.81",
+   "currency": "AUD",
+   "aud_price": 95.81,
+   "date": "2024-01-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176065480718",
+   "same_item": "close",
+   "note": "39pc 1/4 & 3/8 drive, 1 sold",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.79",
+   "currency": "AUD",
+   "aud_price": 48.79,
+   "date": "2024-10-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176627977079",
+   "same_item": "close",
+   "note": "39pc auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$76.60",
+   "currency": "AUD",
+   "aud_price": 76.6,
+   "date": "2025-03-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186988995327",
+   "same_item": "close",
+   "note": "SCMT19100 auction, 16 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$81.00",
+   "currency": "AUD",
+   "aud_price": 81.0,
+   "date": "2024-07-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/387023552683",
+   "same_item": "partial",
+   "note": "35pc Sidchrome RRP $149; 163 sold; new retail guide",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); used work/comps.py (sidchrome socket, 39, 19100, piece case), Gowans API (2 queries), WebSearch x3 (19100 sold; vintage red case; Armitage site, nothing indexed), WebFetch Evans Clarke. eBay sold prices would settle it better. | chrome: eBay AU sold: sidchrome 39 piece socket set | chrome: eBay AU sold: sidchrome 39 piece socket set",
+ "searches_tried": "pipeline/comps.py crashed (TypeError on None aud_hammer); used work/comps.py (sidchrome socket, 39, 19100, piece case), Gowans API (2 queries), WebSearch x3 (19100 sold; vintage red case; Armitage site, nothing indexed), WebFetch Evans Clarke. eBay sold prices would settle it better. | chrome: eBay AU sold: sidchrome 39 piece socket set | chrome: eBay AU sold: sidchrome 39 piece socket set | chrome: Google/WebSearch identification pass. Terapeak AU 3yr: sidchrome socket set (50 rows); sidchrome 39 piece (16 rows).",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: sidchrome 39 piece socket set 19100 (metal case), filter Sold items",
- "viewing_check": "Count sockets against the lid diagram, check the ratchet works, case latches and rust.",
+ "viewing_check": "Armitage est $40-70, bid $60. Check set is complete (39 pieces) and case latches.",
  "rate_note": "All AUD, no conversion. Gowans hammer excludes premium.",
  "chrome_done": true
 }

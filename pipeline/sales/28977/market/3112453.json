@@ -125,12 +125,48 @@
    "same_item": "partial",
    "note": "Banks 21 framing nailer, pre-owned",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96",
+   "currency": "AUD",
+   "aud_price": 96,
+   "date": "2026-11-07",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/133338410270",
+   "same_item": "category guide",
+   "note": "Brand new Paslode framing nailer with hard case (new, different model)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$182",
+   "currency": "AUD",
+   "aud_price": 182,
+   "date": "2024-06-14",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/383492190626",
+   "same_item": "category guide",
+   "note": "Unimac construction framing nail gun, heavy duty",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$139",
+   "currency": "AUD",
+   "aud_price": 139,
+   "date": "2025-08-10",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/145434269696",
+   "same_item": "category guide",
+   "note": "Unimac cordless framing/coil nailer",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work and pipeline) for nail gun, paslode nailer, framing nailer, coil nailer, air nailer, pneumatic nailer; one WebSearch for Project Air 9034 (no brand listing found). No Armitage site or Gowans live API search done beyond the database. eBay sold prices for 'pneumatic coil nailer' and 'framing nailer 9034' would help but are not essential. | chrome: ebay sold: paslode d head 1000 nail gun OR framing nailer used",
+ "searches_tried": "comps.py (work and pipeline) for nail gun, paslode nailer, framing nailer, coil nailer, air nailer, pneumatic nailer; one WebSearch for Project Air 9034 (no brand listing found). No Armitage site or Gowans live API search done beyond the database. eBay sold prices for 'pneumatic coil nailer' and 'framing nailer 9034' would help but are not essential. | chrome: ebay sold: paslode d head 1000 nail gun OR framing nailer used | chrome: ebay sold: paslode d head 1000 nail gun OR framing nailer used || Terapeak re-check: Terapeak AU: paslode nailer; framing nailer",
  "needs_chrome": false,
  "chrome_hint": "eBay sold AU: 'pneumatic coil nailer' and 'framing nailer 34 degree air' (optional)",
- "viewing_check": "Untested. Budget-brand nailers; Paslode nails are consumables. [Armitage page 8 Nov 2026: estimate $30-60, current bid $35. Photos viewed (about 400px, low resolution): 3 photos: two hard cases, a red/blue framing nailer with nail strip and box, a blue coil nailer with Paslode nails]",
+ "viewing_check": "Untested. Budget-brand nailers; Paslode nails are consumables. [Armitage page 8 Nov 2026: estimate $30-60, current bid $35. Photos viewed (about 400px, low resolution): 3 photos: two hard cases, a red/blue framing nailer with nail strip and box, a blue coil nailer with Paslode nails] || TERAPEAK RE-CHECK (9 Nov 2026): Terapeak AU \"paslode nailer\" and \"framing nailer\": mostly parts and new units; Project Air/CHS not listed.",
  "rate_note": "All AUD, no conversion needed; foreign asking prices not converted.",
  "chrome_done": true
 }

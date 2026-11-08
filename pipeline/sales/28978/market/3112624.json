@@ -1,7 +1,7 @@
 {
  "cdid": 3112624,
  "lot": 1783,
- "identification": "Common modern cast concrete garden bird bath, gadrooned bowl on baluster pedestal, weathered with moss. No maker's mark. Generic item.",
+ "identification": "Cast concrete bird bath on pedestal, 68cm. Photo seen.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,24 @@
    "url": "gowans lot id 404096",
    "same_item": "close",
    "note": "Concrete bird bath, 6 bids. Rate 1.0 AUD. Local room, paid locally only, not a resale price. From local database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$38.34",
+   "currency": "AUD",
+   "aud_price": 38.34,
+   "date": "2026-09-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116421193787",
+   "same_item": "partial",
+   "note": "LVD concrete bird bath",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py 'bird bath' (34 Gowans/Armitage hits, median $56); pipeline/comps.py 'concrete bird bath' (many Armitage hits, mostly $50-115, outliers $15 to $470). No resale comps found; no web search, item is clearly generic. eBay/Gumtree sold would add little.",
+ "searches_tried": "work/comps.py 'bird bath' (34 Gowans/Armitage hits, median $56); pipeline/comps.py 'concrete bird bath' (many Armitage hits, mostly $50-115, outliers $15 to $470). No resale comps found; no web search, item is clearly generic. eBay/Gumtree sold would add little. | chrome: Terapeak AU 'concrete bird bath'",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Check for cracks in the bowl and pedestal join and whether it is two pieces; nothing else needed.",
- "rate_note": "All AUD, rate 1.0."
+ "viewing_check": "Armitage estimate $40-60, current bid $45 (8 Nov). Heavy.",
+ "rate_note": "All AUD, rate 1.0.",
+ "chrome_done": true
 }

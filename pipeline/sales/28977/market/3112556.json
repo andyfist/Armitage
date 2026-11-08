@@ -1,7 +1,7 @@
 {
  "cdid": 3112556,
  "lot": 1529,
- "identification": "HP Laptop 15s-eq2021AU, Ryzen 5 5500U, 15.6in, 8GB/512GB originally, with charger, bag and keyboard",
+ "identification": "HP 15s-eq2021AU 15.6 in laptop (AMD Ryzen) factory reset with wireless mouse, keyboard, charger, carry bag (3 photos viewed; model sticker 15s-eq2021AU 3N8L9PA). ",
  "entries": [
   {
    "kind": "SOLD",
@@ -93,12 +93,24 @@
    "same_item": "no",
    "note": "HP 15s Ryzen 5 3500U, for parts/repair; lower CPU and faulty",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$112.61",
+   "currency": "AUD",
+   "aud_price": 112.61,
+   "date": "2025-01-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/281130504092",
+   "same_item": "partial",
+   "note": "Replacement screen for same model, not a sale of the laptop; parts reference only",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with hp/laptop/15s/ryzen: no same-model sale, only Gowans HP laptop sales above; Gowans API searches laptop, hp laptop, notebook computer, ryzen; WebSearch for HP 15s-eq2021AU price; WebSearch site:armitage.bidsonline.com.au HP laptop (nothing useful). eBay sold listings for 15s-eq2021AU would settle it best (blocked here). | chrome: eBay AU sold (Australia only): hp 15s-eq2021au (error page, no results); hp 15s ryzen 5 5500u laptop (2 results); hp 15s laptop ryzen 5 (0). | chrome: Terapeak eBay AU sold, last 2 years: 'hp laptop 15s ryzen 5' (min $100) - no matching sales | chrome: eBay AU sold: HP 15s-eq2021AU (only parts and screens); HP 15s Ryzen 5 5500U laptop. 2 searches.",
+ "searches_tried": "comps.py (pipeline and work) with hp/laptop/15s/ryzen: no same-model sale, only Gowans HP laptop sales above; Gowans API searches laptop, hp laptop, notebook computer, ryzen; WebSearch for HP 15s-eq2021AU price; WebSearch site:armitage.bidsonline.com.au HP laptop (nothing useful). eBay sold listings for 15s-eq2021AU would settle it best (blocked here). | chrome: eBay AU sold (Australia only): hp 15s-eq2021au (error page, no results); hp 15s ryzen 5 5500u laptop (2 results); hp 15s laptop ryzen 5 (0). | chrome: Terapeak eBay AU sold, last 2 years: 'hp laptop 15s ryzen 5' (min $100) - no matching sales | chrome: eBay AU sold: HP 15s-eq2021AU (only parts and screens); HP 15s Ryzen 5 5500U laptop. 2 searches. | chrome: Google/WebSearch identification pass. Terapeak AU 3yr: hp laptop 15s-eq2021au (4 rows, parts only); hp 15s-eq2 ryzen laptop 1yr (0 rows). No new retail price checked.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: HP 15s-eq2021AU (also try 15s-eq2xxx Ryzen 5 5500U laptop), last 90 days, Australia",
- "viewing_check": "Ask whether it powers on and boots after factory reset, check battery, screen, hinges and keys, and the exact model label. Working units of this model resold on eBay AU for about A$150 pre-owned.",
+ "viewing_check": "Armitage est $50-80, bid $85. Terapeak has no complete laptop sales for this model. Check storage size, RAM and screen condition; a similar Ryzen 3/5 15s typically resells A$300-450 working but I did not see a sold record, so none is recorded.",
  "rate_note": "All AUD, no conversion. Gowans hammers exclude premium.",
  "chrome_done": true
 }

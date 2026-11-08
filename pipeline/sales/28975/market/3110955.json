@@ -1,7 +1,7 @@
 {
  "cdid": 3110955,
  "lot": 693,
- "identification": "Oak serving tray with hand-painted thylacine, attributed in title to Alison Cooper-White (unverified)",
+ "identification": "Alison Cooper-White thylacine painted tray / wooden panel, 53 x 36 cm, painted standing thylacine on timber (1 photo).",
  "entries": [
   {
    "kind": "SOLD",
@@ -59,10 +59,10 @@
    "note": "Framed Gould/Richter and 1950s-60s thylacine prints, typically $50-$240 hammer, median about $100. Mass-produced prints, a ceiling reference for casual thylacine decor, not a comparable. Local database results."
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (TypeError on a null field in its data) so used work/comps.py: thylacine, tasmanian tiger, thylacine tray, cooper white (nothing), alison cooper (one hit). Gowans API: cooper-white (0), alison cooper (1), thylacine tray/painting/hand painted (0), thylacine oil (1). WebSearch x4: Alison Cooper-White thylacine; hand painted thylacine oak tray auction; site:armitage Alison Cooper thylacine; Alison Cooper Tasmanian artist Launceston; Cooper-White thylacine oak tray. No artist found, no comparable painted thylacine tray sold. The pipeline note 'alison + cooper median $480' is a word-pair artefact from unrelated William T Cooper bird books and Carl Cooper pottery, ignore. eBay sold for 'thylacine painted tray' would help. | chrome: WebSearch: 'Alison Cooper-White thylacine painted tray'; 'hand painted thylacine oak tray Tasmanian tiger vintage sold'. No artist of that name or comparable tray found. Carters (bot check) skipped. Brief already holds a Gowans $55 result.",
+ "searches_tried": "pipeline/comps.py crashed (TypeError on a null field in its data) so used work/comps.py: thylacine, tasmanian tiger, thylacine tray, cooper white (nothing), alison cooper (one hit). Gowans API: cooper-white (0), alison cooper (1), thylacine tray/painting/hand painted (0), thylacine oil (1). WebSearch x4: Alison Cooper-White thylacine; hand painted thylacine oak tray auction; site:armitage Alison Cooper thylacine; Alison Cooper Tasmanian artist Launceston; Cooper-White thylacine oak tray. No artist found, no comparable painted thylacine tray sold. The pipeline note 'alison + cooper median $480' is a word-pair artefact from unrelated William T Cooper bird books and Carl Cooper pottery, ignore. eBay sold for 'thylacine painted tray' would help. | chrome: WebSearch: 'Alison Cooper-White thylacine painted tray'; 'hand painted thylacine oak tray Tasmanian tiger vintage sold'. No artist of that name or comparable tray found. Carters (bot check) skipped. Brief already holds a Gowans $55 result. | chrome: Terapeak AU 'thylacine tasmanian tiger painted wood' (0), 'thylacine tray' (0), 'thylacine' (200 rows; plaques/trays A$27-47)",
  "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: 'thylacine painted tray' and 'Tasmanian tiger painted wood tray'; also Trove/Google Images for 'Alison Cooper-White' thylacine",
- "viewing_check": "Look for a signature on the front or a label/inscription on the back; the artist name could not be verified online.",
+ "viewing_check": "Armitage est $200-300, bid $100. Thylacine items have an active collector market but no comparable Cooper-White sale found; check for signature and what it is painted on.",
  "rate_note": "All prices AUD, no conversion needed. Gowans hammers exclude buyer's premium.",
  "chrome_done": true
 }

@@ -140,13 +140,73 @@
    "same_item": "close",
    "note": "Castrol Wakefield vintage imp gallon empty oil can. poorer condition likely",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$67.63",
+   "currency": "AUD",
+   "aud_price": 67.63,
+   "date": "2024-10-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116353470650",
+   "same_item": "close",
+   "note": "Wakefield Castrol motor oil 1 imperial gallon",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90.69",
+   "currency": "AUD",
+   "aud_price": 90.69,
+   "date": "2023-11-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/115980895914",
+   "same_item": "close",
+   "note": "Wakefield Castrol motor oil 1 gallon",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80.84",
+   "currency": "AUD",
+   "aud_price": 80.84,
+   "date": "2024-04-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/135016076406",
+   "same_item": "close",
+   "note": "Castrol Wakefield 1 imperial gallon",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.44",
+   "currency": "AUD",
+   "aud_price": 53.44,
+   "date": "2026-05-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157861769239",
+   "same_item": "partial",
+   "note": "Two one-gallon Castrol tins together",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$26.04",
+   "currency": "AUD",
+   "aud_price": 26.04,
+   "date": "2026-06-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117217077192",
+   "same_item": "partial",
+   "note": "Early Castrol Wakefield CW tin, poor",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py crashed (None error); work/comps.py castrol tin (24 Gowans sales, median $40, range $5-$280 incl Neptune/Golden Fleece); Gowans API wakefield, castrol+gallon; WebSearch x2 (no sold records for a George VI panel tin; AU$149 eBay asking snippet had no URL, not recorded). eBay sold prices would settle it: Chrome search 'Wakefield Castrol 1 gallon tin' sold items. | chrome: eBay AU sold: Castrol Wakefield 1 gallon oil tin",
+ "searches_tried": "pipeline/comps.py crashed (None error); work/comps.py castrol tin (24 Gowans sales, median $40, range $5-$280 incl Neptune/Golden Fleece); Gowans API wakefield, castrol+gallon; WebSearch x2 (no sold records for a George VI panel tin; AU$149 eBay asking snippet had no URL, not recorded). eBay sold prices would settle it: Chrome search 'Wakefield Castrol 1 gallon tin' sold items. | chrome: eBay AU sold: Castrol Wakefield 1 gallon oil tin | chrome: eBay AU sold: Castrol Wakefield 1 gallon oil tin | Terapeak AU 3yr (dayRange=1095): castrol wakefield oil tin gallon (50 rows)",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: Wakefield Castrol 1 gallon oil tin",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Condition shows rust and paint loss, so expect the lower end ($50-95).",
+ "viewing_check": "Condition shows rust and paint loss, so expect the lower end ($50-95). | TERAPEAK RE-CHECK: Rust and paint loss expected to depress price.",
  "chrome_hint_note": "",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3112613,
  "lot": 1772,
- "identification": "Generic galvanised steel tub garden wheelbarrow with orange tubular frame and orange-rim pneumatic/solid wheel. No maker label visible; Daytek name unverified. Ordinary used item.",
+ "identification": "Daytek galvanised steel garden wheelbarrow with orange frame (1 photo seen).",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,10 +68,23 @@
    "url": "gowans lot id 440020",
    "same_item": "close",
    "note": "KELSO wheelbarrow. Local database hit, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.74",
+   "currency": "AUD",
+   "aud_price": 47.74,
+   "date": "2023-11-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176029166693",
+   "same_item": "yes",
+   "note": "Daytek galvanized wheelbarrow",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work and pipeline) for 'garden wheelbarrow' and 'wheelbarrow': 159 sold hits, low $10, median $60; ordinary metal tub barrows at Armitage and Gowans mostly $35 to $80 hammer. Item is generic so web search skipped. No exchange rate needed (AUD). eBay sold not needed.",
- "needs_chrome": true,
- "viewing_check": "nothing beyond checking the tyre holds air (or is solid) and the tray has no rust holes.",
- "chrome_hint": " Bidder signal: 298003 - Norwood, (seen in 3 sales); 142868 - Perth, (seen in 18 sales); 47501 - St Leonards , TAS (seen in 109 sales); 4 or more bidders. Look harder for sold prices of this exact item."
+ "searches_tried": "comps.py (work and pipeline) for 'garden wheelbarrow' and 'wheelbarrow': 159 sold hits, low $10, median $60; ordinary metal tub barrows at Armitage and Gowans mostly $35 to $80 hammer. Item is generic so web search skipped. No exchange rate needed (AUD). eBay sold not needed. | chrome: Terapeak AU 'daytek wheelbarrow' (1 row); photo viewed",
+ "needs_chrome": false,
+ "viewing_check": "Est $20-30, bid $40 at check. Check tyre and tray rust-through.",
+ "chrome_hint": " Bidder signal: 298003 - Norwood, (seen in 3 sales); 142868 - Perth, (seen in 18 sales); 47501 - St Leonards , TAS (seen in 109 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
+ "chrome_done": true
 }

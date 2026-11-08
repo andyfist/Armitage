@@ -1,7 +1,7 @@
 {
  "cdid": 3112438,
  "lot": 1718,
- "identification": "Two unmarked beech wooden plough planes with brass-tipped arms, a Bailey-pattern No 4 style bench plane (rusty) and a cast spokeshave.",
+ "identification": "Three wood planes (a metal bench plane and two wooden moulding/plough planes) plus a spokeshave (1 photo seen). No clear maker marks visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -103,12 +103,72 @@
    "same_item": "partial",
    "note": "Single W Greenslade wooden plough plane, Best Offer accepted",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.59",
+   "currency": "AUD",
+   "aud_price": 95.59,
+   "date": "2025-07-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186639185662",
+   "same_item": "partial",
+   "note": "Antique wooden moulding plane and spoke shave, Mathieson",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$63.06",
+   "currency": "AUD",
+   "aud_price": 63.06,
+   "date": "2025-01-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186639185685",
+   "same_item": "partial",
+   "note": "Mathieson Glasgow wooden moulding planes",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.84",
+   "currency": "AUD",
+   "aud_price": 59.84,
+   "date": "2024-08-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186593274718",
+   "same_item": "partial",
+   "note": "Edward Preston & Sons wooden moulding plane, brass",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.46",
+   "currency": "AUD",
+   "aud_price": 47.46,
+   "date": "2024-04-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126394519991",
+   "same_item": "partial",
+   "note": "Mackay Burley & Heys Glasgow brass wooden moulding plane",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.47",
+   "currency": "AUD",
+   "aud_price": 20.47,
+   "date": "2026-10-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/128151579324",
+   "same_item": "partial",
+   "note": "4 antique wooden moulding planes",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed on a None field; work version worked) with: plough plane, plough, wood plane, spokeshave, plough plane --min-price 100; Gowans API search 'plough'; WebSearch for AU plough plane sold prices (only asking prices/snippets; Carters price guide blocked by bot check, so not opened; no verified Australian sold comps found beyond Gowans). eBay sold prices would settle it: needs Chrome. | chrome: eBay AU sold: 'antique plough plane' and 'plough plane brass wooden vintage' (error pages), plus the 'wooden plough plane' result from lot 1684 | chrome: eBay AU sold: 'antique plough plane' and 'plough plane brass wooden vintage' (error pages), plus the 'wooden plough plane' result from lot 1684",
+ "searches_tried": "comps.py (pipeline version crashed on a None field; work version worked) with: plough plane, plough, wood plane, spokeshave, plough plane --min-price 100; Gowans API search 'plough'; WebSearch for AU plough plane sold prices (only asking prices/snippets; Carters price guide blocked by bot check, so not opened; no verified Australian sold comps found beyond Gowans). eBay sold prices would settle it: needs Chrome. | chrome: eBay AU sold: 'antique plough plane' and 'plough plane brass wooden vintage' (error pages), plus the 'wooden plough plane' result from lot 1684 | chrome: eBay AU sold: 'antique plough plane' and 'plough plane brass wooden vintage' (error pages), plus the 'wooden plough plane' result from lot 1684 | chrome: Terapeak AU 'wooden moulding plane antique' (13 rows); photo viewed; no marks readable in photo so no Google ID beyond type",
  "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: 'wooden plough plane brass' and 'antique plough plane' (sold, completed items, Australia); also carters.com.au plough planes price guide",
- "viewing_check": "Check plough planes for complete fence arms, skates, wedges, irons and maker stamps; bench plane for maker (Stanley/Record etc), cracks and missing parts.",
+ "viewing_check": "Est $20-50, bid $15 at check. Read the toe/heel stamps for maker names (Mathieson, Preston, Marples, Stanley) and check blades are present.",
  "rate_note": "All prices AUD already, no conversion.",
  "chrome_done": true
 }

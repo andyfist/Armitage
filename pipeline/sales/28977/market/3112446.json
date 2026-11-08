@@ -1,7 +1,7 @@
 {
  "cdid": 3112446,
  "lot": 1726,
- "identification": "Ozito 100mm angle grinder (new with swing tag, in case), Makita keyed-chuck hammer drill in case (HP1640 class per cloud ID, model text not legible), plus two aluminium cases of masonry/HSS bits",
+ "identification": "Ozito 100mm angle grinder (new, in case) plus a teal Makita corded hammer drill (HP16-series style) in case and a drill bit set (1 photo seen). Going order.",
  "entries": [
   {
    "kind": "SOLD",
@@ -149,12 +149,60 @@
    "same_item": "partial",
    "note": "Makita HP1640 corded hammer drill, Buy It Now, drill only",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$102.18",
+   "currency": "AUD",
+   "aud_price": 102.18,
+   "date": "2026-03-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117025936524",
+   "same_item": "close",
+   "note": "Makita HP1640 corded hammer drill 680W, used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$62.01",
+   "currency": "AUD",
+   "aud_price": 62.01,
+   "date": "2025-09-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126612273643",
+   "same_item": "close",
+   "note": "Makita HP1631K hammer drill with handle and manual in case",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96.32",
+   "currency": "AUD",
+   "aud_price": 96.32,
+   "date": "2025-02-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126571354348",
+   "same_item": "partial",
+   "note": "Makita HP2051 2-speed percussion drill with case",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$39.95",
+   "currency": "AUD",
+   "aud_price": 39.95,
+   "date": "2026-11-09",
+   "venue": "Bunnings AU",
+   "url": "https://www.bunnings.com.au/ozito-100mm-4-850w-angle-grinder_p6290579",
+   "same_item": "category guide",
+   "note": "New retail price, Ozito 100mm 850W angle grinder (Bunnings)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work and pipeline) for ozito angle grinder, makita hammer drill, ozito grinder, drill bits case; Gowans API search ozito angle grinder; WebSearch Ozito 100mm grinder price; WebSearch Makita HP1640 price. No AUD rate needed. eBay sold prices for used Makita HP1640 would settle drill value. | chrome: eBay AU sold: makita hp1640 hammer drill (6 matches); did not search Ozito grinder or bit sets",
+ "searches_tried": "comps.py (work and pipeline) for ozito angle grinder, makita hammer drill, ozito grinder, drill bits case; Gowans API search ozito angle grinder; WebSearch Ozito 100mm grinder price; WebSearch Makita HP1640 price. No AUD rate needed. eBay sold prices for used Makita HP1640 would settle drill value. | chrome: eBay AU sold: makita hp1640 hammer drill (6 matches); did not search Ozito grinder or bit sets | chrome: Terapeak AU 'makita corded hammer drill case' (74 rows); WebSearch Ozito 100mm grinder price; WebFetch Bunnings Ozito page ($39.95); photo viewed",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold: Makita HP1640 hammer drill used",
- "viewing_check": "Read the Makita model number on the drill plate, confirm it runs, hammer action works and the handle and chuck key are present; check grinder is genuinely new with guard and handle.",
+ "viewing_check": "Est $15-30, bid $10 at check. Read the Makita model plate (the photo shows teal hammer drill in case) and test that it runs; check grinder is truly unused.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

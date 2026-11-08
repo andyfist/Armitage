@@ -1,7 +1,7 @@
 {
  "cdid": 3111944,
  "lot": 1114,
- "identification": "Victorian/William IV style single scroll-end mahogany chaise/end sofa, worn brown leather, turned front feet",
+ "identification": "Victorian mahogany single-end sofa (chaise/couch) with scroll end, button leather upholstery, early 19th c style. Leather is cracked/worn on seat.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,10 +90,34 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=chaise&page%5Bnumber%5D=1",
    "same_item": "close",
    "note": "Edwardian chaise lounge, 4 bids. Gowans API JSON opened (no conversion, AUD)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$153.79",
+   "currency": "AUD",
+   "aud_price": 153.79,
+   "date": "within 3 yrs",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/187096992414",
+   "same_item": "partial",
+   "note": "Victorian restored mahogany chaise, restored upholstery",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96.14",
+   "currency": "AUD",
+   "aud_price": 96.14,
+   "date": "12 Mar 2024",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/355517016869",
+   "same_item": "partial",
+   "note": "Antique chaise lounge auction",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py (chaise, chaise longue, scroll end, couch, sofa mahogany); pipeline/comps.py crashed on a None value; Gowans API (chaise, scroll end, victorian sofa, mahogany couch). No web search: generic period furniture, stopped early. Gowans chaises since Sep 2025 mostly $80-280 hammer, median about $100; top end $280 for mahogany. eBay not needed. | chrome: eBay AU sold: victorian mahogany scroll end sofa OR chaise OR daybed (Error Page, retried after 10s); victorian chaise lounge mahogany (only dollhouse/junk rows). Nothing usable. | chrome: eBay AU sold: victorian mahogany scroll end sofa OR chaise OR daybed (Error Page, retried after 10s); victorian chaise lounge mahogany (only dollhouse/junk rows). Nothing usable.",
+ "searches_tried": "work/comps.py (chaise, chaise longue, scroll end, couch, sofa mahogany); pipeline/comps.py crashed on a None value; Gowans API (chaise, scroll end, victorian sofa, mahogany couch). No web search: generic period furniture, stopped early. Gowans chaises since Sep 2025 mostly $80-280 hammer, median about $100; top end $280 for mahogany. eBay not needed. | chrome: eBay AU sold: victorian mahogany scroll end sofa OR chaise OR daybed (Error Page, retried after 10s); victorian chaise lounge mahogany (only dollhouse/junk rows). Nothing usable. | chrome: eBay AU sold: victorian mahogany scroll end sofa OR chaise OR daybed (Error Page, retried after 10s); victorian chaise lounge mahogany (only dollhouse/junk rows). Nothing usable. | chrome: Terapeak AU 'victorian chaise lounge mahogany' 2 rows.",
  "needs_chrome": false,
- "viewing_check": "Check frame for splits/woodworm, castors/feet, leather tears and spring/base sag; timber species (mahogany vs cedar).",
+ "viewing_check": "Est 150-250, bid $100. Leather very worn: reupholstery needed. Check frame/castors.",
  "chrome_done": true
 }

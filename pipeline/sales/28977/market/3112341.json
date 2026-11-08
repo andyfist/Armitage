@@ -37,11 +37,23 @@
    "same_item": "category guide",
    "note": "Vintage Radiant polish mop tin 1926. US",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$15.44",
+   "currency": "AUD",
+   "aud_price": 15.44,
+   "date": "2026-02-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/177805768376",
+   "same_item": "partial",
+   "note": "Nightingale (Sun Kissed Amethyst) item, not a polish tin",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (both databases) for nightingale, nightingale polish mop, polish mop tin, advertising tin: no same-item hits. Gowans API search 'nightingale polish': no relevant lots. WebSearch x2 for Nightingale Polish Mop tin sold/price: no sales or listings found (snippet only, nothing relevant). Generic common advertising tin, so stopped early. eBay sold listings would settle it but are closed to us. | chrome: eBay AU sold: Nightingale Polish Mop tin",
+ "searches_tried": "comps.py (both databases) for nightingale, nightingale polish mop, polish mop tin, advertising tin: no same-item hits. Gowans API search 'nightingale polish': no relevant lots. WebSearch x2 for Nightingale Polish Mop tin sold/price: no sales or listings found (snippet only, nothing relevant). Generic common advertising tin, so stopped early. eBay sold listings would settle it but are closed to us. | chrome: eBay AU sold: Nightingale Polish Mop tin | chrome: eBay AU sold: Nightingale Polish Mop tin | Terapeak AU 3yr (dayRange=1095): nightingale polish mop tin (0 rows); nightingale polish (3 rows, irrelevant)",
  "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: \"Nightingale Polish Mop\" tin (also try \"Nightingale Supply Co\")",
- "viewing_check": "No Nightingale sold found.",
+ "viewing_check": "No Nightingale sold found. | TERAPEAK RE-CHECK: Rare-ish tin but no sale evidence.",
  "chrome_done": true
 }

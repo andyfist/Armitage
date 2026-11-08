@@ -101,12 +101,84 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=oil%20can",
    "same_item": "category guide",
    "note": "4 assorted oil cans, 4 bids. Premium extra; AUD, no conversion. Local database entry, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$33.14",
+   "currency": "AUD",
+   "aud_price": 33.14,
+   "date": "2025-08-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/284046885772",
+   "same_item": "partial",
+   "note": "RACV vintage metal grille car badge (lot has RACT-style)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.65",
+   "currency": "AUD",
+   "aud_price": 32.65,
+   "date": "2025-07-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126932059531",
+   "same_item": "partial",
+   "note": "RACV vintage grille badge",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.17",
+   "currency": "AUD",
+   "aud_price": 28.17,
+   "date": "2024-12-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/144442716630",
+   "same_item": "partial",
+   "note": "Vintage Royal Automobile Club badge",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$43.23",
+   "currency": "AUD",
+   "aud_price": 43.23,
+   "date": "2025-07-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116690813474",
+   "same_item": "partial",
+   "note": "Vintage thumb pump oil can oiler",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$29.30",
+   "currency": "AUD",
+   "aud_price": 29.3,
+   "date": "2026-01-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116988722655",
+   "same_item": "partial",
+   "note": "Vintage Rega oiler pump",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$34.00",
+   "currency": "AUD",
+   "aud_price": 34.0,
+   "date": "2024-06-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126503194074",
+   "same_item": "partial",
+   "note": "Vintage 1958 Wesco thumb pump oil can",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (both databases): pump oiler, oil can, RACT badge, car badge grille, Bedford badge, bonnet mascot, caravan plate, Wayfarer caravan, oiler; Gowans API: RACT badge, oilers, Wayfarer. No Bedford, Ford, Toyota or Wayfarer caravan plate comps found. No web search done (box lot of mostly low-value items). eBay sold listings for 'RACT grille badge' and 'Wayfarer Road Liner caravan plate' would settle the badge and plate value. Reading: oilers around $10-20 each, RACT badge $35-90, remaining badges and plate small; whole lot plausibly $60-150 hammer. | chrome: None; WebSearch: RACT grille badge vintage car badge sold price (no comparable found); eBay AU search blocked by error pages after repeated tries",
+ "searches_tried": "Local comps.py (both databases): pump oiler, oil can, RACT badge, car badge grille, Bedford badge, bonnet mascot, caravan plate, Wayfarer caravan, oiler; Gowans API: RACT badge, oilers, Wayfarer. No Bedford, Ford, Toyota or Wayfarer caravan plate comps found. No web search done (box lot of mostly low-value items). eBay sold listings for 'RACT grille badge' and 'Wayfarer Road Liner caravan plate' would settle the badge and plate value. Reading: oilers around $10-20 each, RACT badge $35-90, remaining badges and plate small; whole lot plausibly $60-150 hammer. | chrome: None; WebSearch: RACT grille badge vintage car badge sold price (no comparable found); eBay AU search blocked by error pages after repeated tries | chrome: None; WebSearch: RACT grille badge vintage car badge sold price (no comparable found); eBay AU search blocked by error pages after repeated tries | Terapeak AU 3yr (dayRange=1095): vintage oil can oiler car grille badge (0 rows); car grille badge vintage (50 rows); vintage pump oiler oil can (50 rows)",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'RACT car badge grille' and 'Wayfarer Road Liner caravan plate'",
- "viewing_check": "Not researched; badge could be worth a look.",
+ "viewing_check": "Not researched; badge could be worth a look. | TERAPEAK RE-CHECK: Look for a real club badge on the grille. Photos 1 and 2 seen: oilers (blue, red, copper, green), Ford and Toyota emblems, silver plate.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

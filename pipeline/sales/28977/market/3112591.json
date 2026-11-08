@@ -81,12 +81,36 @@
    "same_item": "category guide",
    "note": "new heavy duty 5000A jump starter power pack; upper end of new items",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$122.99",
+   "currency": "AUD",
+   "aud_price": 122.99,
+   "date": "2025-09-12",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/334981925336",
+   "same_item": "category guide",
+   "note": "New GOOLOO 2000-4000A lithium jump starter, 2,526 sold in 3 yrs (average price). New unit, lot is a used unbranded pack [multi-quantity listing, price is the average; qty 2526]",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$71.92",
+   "currency": "AUD",
+   "aud_price": 71.92,
+   "date": "2025-12-09",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/174305851209",
+   "same_item": "category guide",
+   "note": "New Adventure Kings 1000A lithium jump starter, 1,337 sold (average); new, not used [multi-quantity listing, price is the average; qty 1337]",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (work db) 'jump starter': 16 Gowans sales, lowest $5, median $48, highest $120 hammer; 'plasma cutter tip' and 'padlocks shackles tray': no sales. Item is clearly generic mixed hardware, so no web search done; stopped early. eBay sold would not materially change this. | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: lithium jump starter pack clamps case (errored), jump starter pack lithium (errored), car jump starter power pack",
+ "searches_tried": "comps.py (work db) 'jump starter': 16 Gowans sales, lowest $5, median $48, highest $120 hammer; 'plasma cutter tip' and 'padlocks shackles tray': no sales. Item is clearly generic mixed hardware, so no web search done; stopped early. eBay sold would not materially change this. | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: lithium jump starter pack clamps case (errored), jump starter pack lithium (errored), car jump starter power pack | chrome: Not searched: eBay AU returned repeated error pages (rate limit) so this low-value lot got no search; photos not separately viewed, scan description used.; ebay sold: lithium jump starter pack clamps case (errored), jump starter pack lithium (errored), car jump starter power pack || Terapeak re-check: Terapeak AU (dayRange 1095): jump starter",
  "needs_chrome": false,
  "chrome_hint": " Bidder signal: 122213 - Westbury, TAS (seen in 140 sales); 142868 - Perth, (seen in 18 sales); 78400 - Karoola, TAS (seen in 47 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
- "viewing_check": "Low value. [Armitage page 8 Nov 2026: estimate $30-50, current bid $30. Photos viewed (about 400px, low resolution): 4 photos: black case with jump starter, tray of padlocks and shackles, regulator, plasma tip box; generic items]",
+ "viewing_check": "Low value. [Armitage page 8 Nov 2026: estimate $30-50, current bid $30. Photos viewed (about 400px, low resolution): 4 photos: black case with jump starter, tray of padlocks and shackles, regulator, plasma tip box; generic items] || TERAPEAK RE-CHECK (9 Nov 2026): Terapeak AU 3yr confirms new jump starters sell A$70-123 in bulk volume; a used unbranded pack will sell well under that. Padlocks, shackles and plasma tips are low value.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

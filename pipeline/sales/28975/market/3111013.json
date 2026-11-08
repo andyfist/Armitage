@@ -1,10 +1,137 @@
-{"cdid":3111013,"lot":751,"identification":"Unmarked honey and cream drip-glaze milk jug with red-brown rim drip, 1930s-50s Australian art pottery style (Campbell, McHugh or Mashman type). No mark seen, so no attribution; value is as decorative unsigned pottery.","entries":[
-{"kind":"SOLD","price":"$320 hammer","currency":"AUD","aud_price":320,"date":"2025-05-24","venue":"Leski Auctions, Melbourne sale 637 lot 259","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/637","same_item":"category guide","note":"SIGNED John Campbell green glazed jug 12.5cm, incised. Page opened via local database. A signature is what this lot lacks, so ceiling for a Campbell, not this jug. AUD, rate 1."},
-{"kind":"SOLD","price":"$220 hammer","currency":"AUD","aud_price":220,"date":"2025-05-24","venue":"Leski Auctions, Melbourne sale 637 lot 264","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/637","same_item":"category guide","note":"Signed John Campbell blue glazed jug 14.5cm. Local database record. Signed; this jug is unsigned."},
-{"kind":"SOLD","price":"$184 incl premium","currency":"AUD","aud_price":184,"date":"unknown (Jack Grace collection)","venue":"Shapiro Auctioneers SH245","url":"https://www.shapiro.com.au/catalogue/sh245-a-private-collection-of-australian-studio-pottery/","same_item":"category guide","note":"Signed John Campbell 39cm yellow and brown drip glaze vase, estimate $300-500; snippet only, not verified. Shows even signed Campbell drip glaze can sell low."},
-{"kind":"SOLD","price":"$155 hammer","currency":"AUD","aud_price":155,"date":"2025-05-28","venue":"Armitage Auctions sale 24110 lot 750 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2512943&chid=24110&category=ALL&style=group","same_item":"close","note":"Unsigned green glazed pottery milk jug 12cm. Local room, what we might pay, not resale. Local database record."},
-{"kind":"SOLD","price":"$355 hammer","currency":"AUD","aud_price":355,"date":"2026-05-06","venue":"Armitage Auctions sale 27761 lot 615 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2901719&chid=27761&category=ALL&style=group","same_item":"category guide","note":"Unsigned John Campbell character jug; a different form and attributed by the house. Local room, not resale."},
-{"kind":"SOLD","price":"$70 hammer","currency":"AUD","aud_price":70,"date":"2026-09-09","venue":"Armitage Auctions sale 28587 lot 694 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3044564&chid=28587&category=ALL&style=group","same_item":"category guide","note":"Bakewell's Sydney pottery milk jug 13cm. Local room, not resale."},
-{"kind":"SOLD","price":"$30 hammer","currency":"AUD","aud_price":30,"date":"2025-10-19","venue":"Gowans Auctions, Hobart lot id 368868 (paid locally)","url":"gowans lot id 368868","same_item":"category guide","note":"Bendigo pottery jug with Pearsons crock. Local room, not resale."},
-{"kind":"ASKING","price":"not captured","currency":"AUD","aud_price":0,"date":"live, seen 2026-11-08","venue":"Merchant of Welby (dealer)","url":"https://www.merchantofwelby.com.au/print/other-australiana/brown-drip-glazed-jug-0","same_item":"category guide","note":"Early 20th century Australian brown drip glazed jug, dealer listing; snippet only, price not seen."}
-],"searches_tried":"comps.py work db: drip glaze jug, Bendigo pottery jug, Remued jug, Australian pottery jug honey; pipeline comps: milk jug pottery, John Campbell jug; WebSearch Australian drip glaze jug (Shapiro, Carters, Leski hits, not opened). No unmarked drip-glaze jug resale comp found. eBay sold listings for 'Australian pottery drip glaze jug' would settle it.","needs_chrome":true,"chrome_hint":"eBay.com.au sold listings: Australian pottery drip glaze jug (also: Mashman jug, Bendigo pottery jug, unsigned John Campbell jug)","viewing_check":"Look under the glaze foot and around the base for an incised or impressed mark or small paper label (Campbell, Remued, Bakewell, Bendigo, Mashman); check the faint ink/paper mark on the side; check rim for chips or hairlines.","rate_note":"All AUD, rate 1."}
+{
+ "cdid": 3111013,
+ "lot": 751,
+ "identification": "Unsigned glazed Australian pottery milk jug, ochre/cream drip glaze, 13cm, base photographed (no mark seen). Both photos viewed.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$320 hammer",
+   "currency": "AUD",
+   "aud_price": 320,
+   "date": "2025-05-24",
+   "venue": "Leski Auctions, Melbourne sale 637 lot 259",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/637",
+   "same_item": "category guide",
+   "note": "SIGNED John Campbell green glazed jug 12.5cm, incised. Page opened via local database. A signature is what this lot lacks, so ceiling for a Campbell, not this jug. AUD, rate 1."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$220 hammer",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "2025-05-24",
+   "venue": "Leski Auctions, Melbourne sale 637 lot 264",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/637",
+   "same_item": "category guide",
+   "note": "Signed John Campbell blue glazed jug 14.5cm. Local database record. Signed; this jug is unsigned."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$184 incl premium",
+   "currency": "AUD",
+   "aud_price": 184,
+   "date": "unknown (Jack Grace collection)",
+   "venue": "Shapiro Auctioneers SH245",
+   "url": "https://www.shapiro.com.au/catalogue/sh245-a-private-collection-of-australian-studio-pottery/",
+   "same_item": "category guide",
+   "note": "Signed John Campbell 39cm yellow and brown drip glaze vase, estimate $300-500; snippet only, not verified. Shows even signed Campbell drip glaze can sell low."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$155 hammer",
+   "currency": "AUD",
+   "aud_price": 155,
+   "date": "2025-05-28",
+   "venue": "Armitage Auctions sale 24110 lot 750 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2512943&chid=24110&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Unsigned green glazed pottery milk jug 12cm. Local room, what we might pay, not resale. Local database record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$355 hammer",
+   "currency": "AUD",
+   "aud_price": 355,
+   "date": "2026-05-06",
+   "venue": "Armitage Auctions sale 27761 lot 615 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2901719&chid=27761&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Unsigned John Campbell character jug; a different form and attributed by the house. Local room, not resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-09-09",
+   "venue": "Armitage Auctions sale 28587 lot 694 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3044564&chid=28587&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Bakewell's Sydney pottery milk jug 13cm. Local room, not resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2025-10-19",
+   "venue": "Gowans Auctions, Hobart lot id 368868 (paid locally)",
+   "url": "gowans lot id 368868",
+   "same_item": "category guide",
+   "note": "Bendigo pottery jug with Pearsons crock. Local room, not resale."
+  },
+  {
+   "kind": "ASKING",
+   "price": "not captured",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-08",
+   "venue": "Merchant of Welby (dealer)",
+   "url": "https://www.merchantofwelby.com.au/print/other-australiana/brown-drip-glazed-jug-0",
+   "same_item": "category guide",
+   "note": "Early 20th century Australian brown drip glazed jug, dealer listing; snippet only, price not seen."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.04",
+   "currency": "AUD",
+   "aud_price": 51.04,
+   "date": "2023-11-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/314875731781",
+   "same_item": "partial",
+   "note": "Remued drip glaze milk jug 12.5cm",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.24",
+   "currency": "AUD",
+   "aud_price": 32.24,
+   "date": "2024-09-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126662663632",
+   "same_item": "partial",
+   "note": "Bendigo sponge mottled drip glaze milk jug",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.85",
+   "currency": "AUD",
+   "aud_price": 28.85,
+   "date": "2024-06-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/405041353914",
+   "same_item": "partial",
+   "note": "Remued A24 double spout milk jug",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py work db: drip glaze jug, Bendigo pottery jug, Remued jug, Australian pottery jug honey; pipeline comps: milk jug pottery, John Campbell jug; WebSearch Australian drip glaze jug (Shapiro, Carters, Leski hits, not opened). No unmarked drip-glaze jug resale comp found. eBay sold listings for 'Australian pottery drip glaze jug' would settle it. | chrome: Terapeak AU 'australian pottery drip glaze jug milk' 3yrs (6 rows).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: Australian pottery drip glaze jug (also: Mashman jug, Bendigo pottery jug, unsigned John Campbell jug)",
+ "viewing_check": "Armitage est $20-40, current bid $35. Unsigned; style resembles McHugh/Bendigo.",
+ "rate_note": "All AUD, rate 1.",
+ "chrome_done": true
+}

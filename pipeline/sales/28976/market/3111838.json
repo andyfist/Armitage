@@ -35,12 +35,60 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=landscape+oil",
    "same_item": "category guide",
    "note": "Several signed or initialled amateur landscape oils (Freeland $65, Burggraf $110, MH $120, Inman $70); range only, signed minor artists, API opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$189.93",
+   "currency": "AUD",
+   "aud_price": 189.93,
+   "date": "2026-02-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127696033446",
+   "same_item": "partial",
+   "note": "Antique late 1800s oil painting on board, stated antique",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$67.99",
+   "currency": "AUD",
+   "aud_price": 67.99,
+   "date": "2025-01-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167279880403",
+   "same_item": "partial",
+   "note": "Vintage oil painting gold ornate frame",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.66",
+   "currency": "AUD",
+   "aud_price": 60.66,
+   "date": "2025-05-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167476433178",
+   "same_item": "partial",
+   "note": "Oil painting vintage mountain lake scene",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$54.84",
+   "currency": "AUD",
+   "aud_price": 54.84,
+   "date": "2025-09-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167552266892",
+   "same_item": "partial",
+   "note": "Sunset lake oil painting vintage framed",
+   "via": "chrome"
   }
  ],
- "searches_tried": "work/comps.py hordern, lake landscape oil, oil landscape cottage gums (no relevant hits; pipeline/comps.py crashed with a TypeError); Gowans API x6 (lake cottage, landscape gums, anthony hordern, landscape oil, framed unsigned, australian landscape); WebSearch Anthony Hordern label unsigned landscape (only Lambert/Conder lots, not comparable; snippet only). No Armitage past-result search done. eBay sold prices would help only marginally. | chrome: None (unattributed); WebSearch: Anthony Hordern & Sons Art Gallery Sydney label oil painting lakeside sold (no comparable priced found)",
+ "searches_tried": "work/comps.py hordern, lake landscape oil, oil landscape cottage gums (no relevant hits; pipeline/comps.py crashed with a TypeError); Gowans API x6 (lake cottage, landscape gums, anthony hordern, landscape oil, framed unsigned, australian landscape); WebSearch Anthony Hordern label unsigned landscape (only Lambert/Conder lots, not comparable; snippet only). No Armitage past-result search done. eBay sold prices would help only marginally. | chrome: None (unattributed); WebSearch: Anthony Hordern & Sons Art Gallery Sydney label oil painting lakeside sold (no comparable priced found) | chrome: None (unattributed); WebSearch: Anthony Hordern & Sons Art Gallery Sydney label oil painting lakeside sold (no comparable priced found) | Terapeak AU 3yr (dayRange=1095): landscape oil painting lake scene framed (20 rows)",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Unsigned; ask for verso close-up of pencil writing.",
+ "viewing_check": "Unsigned; ask for verso close-up of pencil writing. | TERAPEAK RE-CHECK: Check verso pencil writing for artist name; an attributable name could change this.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

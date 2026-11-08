@@ -1,7 +1,7 @@
 {
  "cdid": 3112043,
  "lot": 1215,
- "identification": "Yamaha Natural Sound silver stereo receiver (R-S300 type) and silver CD player with USB (CD-S300 type), pair of black Yamaha bookshelf speakers; model labels not legible in photo (from earlier research; photos not re-checked this pass)",
+ "identification": "Yamaha hi-fi system: silver Natural Sound stereo receiver, matching CD player with USB port, two black bookshelf speakers and two remotes (3 photos viewed). Model numbers not legible in photos (looks like Yamaha R-S/A-S series receiver and CD-S series player).",
  "entries": [
   {
    "kind": "SOLD",
@@ -170,12 +170,36 @@
    "note": "Yamaha CD-S300 CD player alone; Buy It Now; item price excl. postage",
    "same_item_raw": "close",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$405.66",
+   "currency": "AUD",
+   "aud_price": 405.66,
+   "date": "2024-11-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126795966769",
+   "same_item": "partial",
+   "note": "Yamaha A-S301 stereo amplifier alone; model not confirmed as this lot's, a rough guide",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$158.66",
+   "currency": "AUD",
+   "aud_price": 158.66,
+   "date": "2024-06-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/115949887984",
+   "same_item": "partial",
+   "note": "Yamaha RX-V596 AV receiver, older",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for yamaha amplifier, cd player, receiver, stereo, a-s300, cd-s300; Gowans API searches (no extra sold hits); WebSearch x3 for R-S300 and CD-S300 Australia; opened Reboot IT page. No Australian sold results for the exact models found. eBay sold listings (Australia, R-S300 and CD-S300) would settle it. | chrome: eBay AU sold: yamaha r-s300 receiver (1 result), yamaha cd-s300 cd player (error page, skipped) | chrome: eBay AU sold: yamaha r-s300 receiver (1 result), yamaha cd-s300 cd player (error page, skipped) | chrome: Terapeak eBay AU sold, last 2 years: 'yamaha r-s300 cd-s300' (min $50)",
+ "searches_tried": "Local comps.py (pipeline and work) for yamaha amplifier, cd player, receiver, stereo, a-s300, cd-s300; Gowans API searches (no extra sold hits); WebSearch x3 for R-S300 and CD-S300 Australia; opened Reboot IT page. No Australian sold results for the exact models found. eBay sold listings (Australia, R-S300 and CD-S300) would settle it. | chrome: eBay AU sold: yamaha r-s300 receiver (1 result), yamaha cd-s300 cd player (error page, skipped) | chrome: eBay AU sold: yamaha r-s300 receiver (1 result), yamaha cd-s300 cd player (error page, skipped) | chrome: Terapeak eBay AU sold, last 2 years: 'yamaha r-s300 cd-s300' (min $50) | chrome: Terapeak AU 3yr: yamaha a-s301 (16 rows), yamaha natural sound stereo receiver (43 rows). Photos viewed, closer look at the unit front.",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed: Yamaha R-S300 ; Yamaha CD-S300 ; Yamaha NS-BP150 (or NS-BP200) speakers",
- "viewing_check": "See the checks in the brief; the eBay sales listed are close matches only, so confirm the details match.",
+ "viewing_check": "Est $50-70, bid already $125. Read model numbers at viewing; if it is A-S301/R-S series with a CD-S player the set could be worth several hundred. Power-on tested per lot title.",
  "rate_note": "All AUD, no conversion. Gowans hammers are before premium.",
  "chrome_done": true
 }

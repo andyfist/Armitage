@@ -104,12 +104,60 @@
    "same_item": "partial",
    "note": "Ampol multi-purpose 1 lb red grease tin; some red 1 lb tins reached A$85-120 in Sep-Oct 2026.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.87",
+   "currency": "AUD",
+   "aud_price": 28.87,
+   "date": "2024-04-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126422704457",
+   "same_item": "close",
+   "note": "Ampol grease tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$29.71",
+   "currency": "AUD",
+   "aud_price": 29.71,
+   "date": "2023-11-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126194160843",
+   "same_item": "close",
+   "note": "Ampol grease tin 5lb",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.71",
+   "currency": "AUD",
+   "aud_price": 32.71,
+   "date": "2024-04-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116044845635",
+   "same_item": "partial",
+   "note": "Ampol multi-purpose red grease tin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$9.27",
+   "currency": "AUD",
+   "aud_price": 9.27,
+   "date": "2025-02-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256707076368",
+   "same_item": "close",
+   "note": "Ampol Hamburger-style grease tin, later type",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with ampol grease tin, ampol tin, ampol, grease tins; Gowans API ampol grease; one WebSearch for Ampol 2.5kg grease tin sold (only eBay asking snippets). eBay sold listings would settle it but are closed to us. No rate conversion needed, all AUD. | chrome: None; eBay AU sold: ampol grease tin 2.5kg",
+ "searches_tried": "comps.py (pipeline and work) with ampol grease tin, ampol tin, ampol, grease tins; Gowans API ampol grease; one WebSearch for Ampol 2.5kg grease tin sold (only eBay asking snippets). eBay sold listings would settle it but are closed to us. No rate conversion needed, all AUD. | chrome: None; eBay AU sold: ampol grease tin 2.5kg | chrome: None; eBay AU sold: ampol grease tin 2.5kg | Terapeak AU 3yr (dayRange=1095): ampol grease tin (50 rows)",
  "needs_chrome": false,
  "chrome_hint": "",
- "viewing_check": "Not searched; later metric tins, modest. Andy's blue 2.5 kg tins are later and different from the red 1 lb tins that sold; comps are a guide only.",
+ "viewing_check": "Not searched; later metric tins, modest. Andy's blue 2.5 kg tins are later and different from the red 1 lb tins that sold; comps are a guide only. | TERAPEAK RE-CHECK: Later blue tins are the cheap type.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

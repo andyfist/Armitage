@@ -1,7 +1,7 @@
 {
  "cdid": 3111122,
  "lot": 860,
- "identification": "Single bottle Penfolds St Henri Shiraz 2006, per cloud research (photo not viewed)",
+ "identification": "Penfolds St Henri Shiraz 2006, 750ml (2 photos viewed).",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,12 +101,48 @@
    "url": "https://www.ebay.com.au/itm/355913169077",
    "same_item": "yes",
    "note": "Snippet only. Buy It Now style ask, well above others."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$211.84",
+   "currency": "AUD",
+   "aud_price": 211.84,
+   "date": "2024-09-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/355592628428",
+   "same_item": "close",
+   "note": "Penfolds St Henri Shiraz 2006",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$201.19",
+   "currency": "AUD",
+   "aud_price": 201.19,
+   "date": "2024-03-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/354213274418",
+   "same_item": "close",
+   "note": "Penfolds St Henri Shiraz 2006",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120.49",
+   "currency": "AUD",
+   "aud_price": 120.49,
+   "date": "2025-08-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/406139510804",
+   "same_item": "close",
+   "note": "Penfolds St Henri Shiraz 2006, rated 96",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py in pipeline (crashed on a null field) and work (St Henri hits); Gowans API st henri; WebSearch x2 (auction results and retail); opened Uniques and Antiques, Kent Street, Cellarit (Wickman and Nicks returned nothing to curl). Not checked: Langtons, Wine-Searcher and eBay sold (blocked), Armitage past lots. eBay sold and Wine-Searcher auction results would settle recent sold prices. | chrome: eBay AU sold: penfolds st henri 2006 (only junk, no wine rows); Google for Wine-Searcher/Langtons (snippets only, no price visible); Langtons lot page was 404. Nothing new beyond Found so far. | chrome: eBay AU sold: penfolds st henri 2006 (only junk, no wine rows); Google for Wine-Searcher/Langtons (snippets only, no price visible); Langtons lot page was 404. Nothing new beyond Found so far.",
+ "searches_tried": "comps.py in pipeline (crashed on a null field) and work (St Henri hits); Gowans API st henri; WebSearch x2 (auction results and retail); opened Uniques and Antiques, Kent Street, Cellarit (Wickman and Nicks returned nothing to curl). Not checked: Langtons, Wine-Searcher and eBay sold (blocked), Armitage past lots. eBay sold and Wine-Searcher auction results would settle recent sold prices. | chrome: eBay AU sold: penfolds st henri 2006 (only junk, no wine rows); Google for Wine-Searcher/Langtons (snippets only, no price visible); Langtons lot page was 404. Nothing new beyond Found so far. | chrome: eBay AU sold: penfolds st henri 2006 (only junk, no wine rows); Google for Wine-Searcher/Langtons (snippets only, no price visible); Langtons lot page was 404. Nothing new beyond Found so far. | chrome: Terapeak AU 3yrs: 'penfolds st henri 2006' (3 rows).",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: Penfolds St Henri 2006 750ml; Wine-Searcher auction results for 2006 Penfolds St Henri Shiraz; Langtons past auction results",
- "viewing_check": "Check fill level/ullage, label condition, capsule, storage staining.",
+ "viewing_check": "Armitage est $90-110, bid $50. Same as lot 853. Wine is a drinking buy. Check fill level, label and capsule condition. Alcohol postage on eBay needs care.",
  "rate_note": "USD to AUD about 1.5, approximate, not checked live. AUD entries unconverted.",
  "chrome_done": true
 }

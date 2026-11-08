@@ -1,7 +1,7 @@
 {
  "cdid": 3111116,
  "lot": 854,
- "identification": "Henschke Hill of Grace Shiraz 1994 (Eden Valley), 750ml, in original black Henschke 'Vintage 1994 Hill of Grace' box; label looks clean, foil capsule on neck.",
+ "identification": "Henschke Hill of Grace Shiraz 1994, with its black presentation box (2 photos viewed).",
  "entries": [
   {
    "kind": "ASKING",
@@ -153,12 +153,36 @@
    "same_item": "yes",
    "note": "with original presentation box, dealer asking",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$782.71",
+   "currency": "AUD",
+   "aud_price": 782.71,
+   "date": "2026-06-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326885517452",
+   "same_item": "close",
+   "note": "1994 Henschke Hill of Grace Shiraz 750ml",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50.72",
+   "currency": "AUD",
+   "aud_price": 50.72,
+   "date": "2026-07-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/358484761704",
+   "same_item": "partial",
+   "note": "Empty Hill of Grace wooden wine box (box only, for reference)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline version crashed on a data error; work version returned no sales for henschke / hill of grace); Gowans API search 'hill of grace' returned nothing; WebSearch x5 (general sold price, Langtons result, Armitage past lots, passed-in, Tasmanian houses); opened Langtons page (ok), winebid/wineauctioneer/wickman blocked. No Tasmanian or Armitage past result found. eBay sold listings and Wine-Searcher would settle it (eBay.com.au sold 1994 Hill of Grace 750ml); also Langtons past results and Wine Owners. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay sold 'henschke hill of grace' worldwide (only 2021 vintage); LiveAuctioneers 'hill of grace 1994'; Terapeak eBay AU sold, last 2 years: 'hill of grace 1994' | chrome: eBay AU (alcohol hidden), Google for 1994 Hill of Grace, Wickman lot page (no data visible), Wine Auction Room and Langtons pages (nothing visible without JS/listing), wineauction.ai slug guesses failed. Wine-Searcher not opened (paywall risk). No new SOLD beyond prior $600 entries.",
+ "searches_tried": "Local comps.py (pipeline version crashed on a data error; work version returned no sales for henschke / hill of grace); Gowans API search 'hill of grace' returned nothing; WebSearch x5 (general sold price, Langtons result, Armitage past lots, passed-in, Tasmanian houses); opened Langtons page (ok), winebid/wineauctioneer/wickman blocked. No Tasmanian or Armitage past result found. eBay sold listings and Wine-Searcher would settle it (eBay.com.au sold 1994 Hill of Grace 750ml); also Langtons past results and Wine Owners. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay AU sold: 1994 henschke hill of grace (no 1994 bottle sold; only 2021 vintage, wrong item). Wine-Searcher 1994 Hill of Grace page (asking and live Langtons auction only, no sold history visible without a login). Langtons past results not searched separately. Cloud SOLD comps of $600 (WineBid, Wine Auctioneer) remain the only sold evidence. | chrome: eBay sold 'henschke hill of grace' worldwide (only 2021 vintage); LiveAuctioneers 'hill of grace 1994'; Terapeak eBay AU sold, last 2 years: 'hill of grace 1994' | chrome: eBay AU (alcohol hidden), Google for 1994 Hill of Grace, Wickman lot page (no data visible), Wine Auction Room and Langtons pages (nothing visible without JS/listing), wineauction.ai slug guesses failed. Wine-Searcher not opened (paywall risk). No new SOLD beyond prior $600 entries. | chrome: Terapeak AU 3yrs: 'henschke hill of grace 1994' (2 rows).",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: '1994 Henschke Hill of Grace' 750ml, plus Langtons past results (Hill of Grace 1994) and Wine-Searcher auction history for 1994 Hill of Grace.",
- "viewing_check": "Fill level (top shoulder or better), label stains/tears, cork and capsule condition, box included and in good order, storage marks. Dealer asking prices are far above the $600 realised auction prices found earlier.",
+ "viewing_check": "Armitage est $400-600, bid $220 ($268 with premium). One sale at A$782.71 on 29 Jun 2026 (fixed price). Check fill level, label, cork/capsule and storage. Wine-Searcher or auction results would give a second data point.",
  "rate_note": "USD at 1.50 and GBP at 2.00 assumed, not looked up.",
  "chrome_done": true
 }

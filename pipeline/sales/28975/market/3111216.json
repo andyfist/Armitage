@@ -60,20 +60,68 @@
   },
   {
    "kind": "SOLD",
-   "price": "$320",
+   "price": "A$320",
    "currency": "AUD",
    "aud_price": 320,
    "date": "2025-11-25",
    "venue": "Noble Numismatics sale 140 lot 1576",
    "url": "https://www.noble.com.au/auctions/lot/?id=436612",
-   "same_item": "category guide",
-   "note": "World banknotes mostly travel money, face value $84, incl polymer; much larger and different lot, shows Noble premium for numismatic buyers. Local database; page not opened."
+   "same_item": "partial",
+   "note": "head start item, different (better) note group; 2025-11-25"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$66.86",
+   "currency": "AUD",
+   "aud_price": 66.86,
+   "date": "2024-10-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116348462605",
+   "same_item": "close",
+   "note": "10 x Australian $1 paper notes",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$17.30",
+   "currency": "AUD",
+   "aud_price": 17.3,
+   "date": "2024-06-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256422016628",
+   "same_item": "partial",
+   "note": "Australian one and two dollar paper notes lot",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$114.08",
+   "currency": "AUD",
+   "aud_price": 114.08,
+   "date": "2023-11-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/155883533368",
+   "same_item": "partial",
+   "note": "Rare UNC paper one dollar note, uncirculated",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$7.03",
+   "currency": "AUD",
+   "aud_price": 7.03,
+   "date": "2024-08-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/185621427146",
+   "same_item": "partial",
+   "note": "Single genuine paper $1",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline) banknote lot australian; work/comps.py novelty banknotes, banknotes (2 yrs), bank notes. No web search: generic mixed-note lot. Face value of Australian notes about $12; rest is low-value. eBay sold would add little. | chrome: None new; Photo check; no search this run (earlier head start only). Low value",
+ "searches_tried": "comps.py (pipeline) banknote lot australian; work/comps.py novelty banknotes, banknotes (2 yrs), bank notes. No web search: generic mixed-note lot. Face value of Australian notes about $12; rest is low-value. eBay sold would add little. | chrome: None new; Photo check; no search this run (earlier head start only). Low value | chrome: None new; Photo check; no search this run (earlier head start only). Low value | Terapeak AU 3yr (dayRange=1095): bundle australian banknotes novelty lot (0 rows); australian paper one dollar note (50 rows)",
  "needs_chrome": false,
  "chrome_hint": " Bidder signal: 88685 - Devonport, TAS (seen in 16 sales); 136699 - Prospect Vale , (seen in 50 sales); 66584 - RIVERSIDE, TAS - AutoBid (seen in 87 sales); 122213 - Westbury, TAS (seen in 140 sales); 4 or more bidders. Look harder for sold prices of this exact item.",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Look for replacement/star notes or first-issue paper $1 in the sleeves.",
+ "viewing_check": "Look for replacement/star notes or first-issue paper $1 in the sleeves. | TERAPEAK RE-CHECK: Check for star/replacement or first-issue notes in the sleeves; otherwise near face value.",
  "chrome_done": true
 }

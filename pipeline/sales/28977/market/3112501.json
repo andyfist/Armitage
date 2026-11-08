@@ -128,12 +128,48 @@
    "same_item": "partial",
    "note": "Job lot of 12 Britains farm fencing figures. ",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$21.65",
+   "currency": "AUD",
+   "aud_price": 21.65,
+   "date": "2025-09-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/146812364429",
+   "same_item": "partial",
+   "note": "Nice lot of vintage Britains farm animals",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.95",
+   "currency": "AUD",
+   "aud_price": 20.95,
+   "date": "2024-04-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126387971433",
+   "same_item": "partial",
+   "note": "Vintage Britains and other lead animals",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$11.49",
+   "currency": "AUD",
+   "aud_price": 11.49,
+   "date": "2024-01-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145549361686",
+   "same_item": "partial",
+   "note": "Vintage Britains lead farm animals",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version errored; work version: lead farm, britains farm), Gowans API (lead farm figures, britains farm, lead animals, britains figures, lead figures), one WebSearch for UK sold lots. Armitage past-result search and eBay sold not done; eBay sold would help confirm. | chrome: eBay AU sold: Britains lead farm animals lot",
+ "searches_tried": "comps.py (pipeline version errored; work version: lead farm, britains farm), Gowans API (lead farm figures, britains farm, lead animals, britains figures, lead figures), one WebSearch for UK sold lots. Armitage past-result search and eBay sold not done; eBay sold would help confirm. | chrome: eBay AU sold: Britains lead farm animals lot | chrome: eBay AU sold: Britains lead farm animals lot | Terapeak AU 3yr (dayRange=1095): britains lead farm animals hollowcast (0 rows); britains lead farm animals (45 rows)",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: vintage Britains lead farm animals lot",
- "viewing_check": "Count pieces and check for Britains stamps on bellies.",
+ "viewing_check": "Count pieces and check for Britains stamps on bellies. | TERAPEAK RE-CHECK: Count pieces; look for Britains stamps and horses/farm sets.",
  "rate_note": "Gowans prices are AUD. GBP at about 2.05 AUD approx, not converted for the multi-lot UK entry.",
  "chrome_done": true
 }

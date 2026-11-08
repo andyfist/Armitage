@@ -1,7 +1,7 @@
 {
  "cdid": 3112252,
  "lot": 1580,
- "identification": "Three used felt hats: Akubra Imperial Quality fawn with plaited band, Akubra Superfine brown with grosgrain band, Thomas Cook brown with feather; sizes not visible.",
+ "identification": "3 felt hats: 2 Akubra (one with 'Imperial Quality Pure Fur Felt' label, one 'Superfine Quality' Australian manufacture label) and 1 Thomas Cook (Australia) hat. All 4 photos viewed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -150,12 +150,84 @@
    "same_item": "partial",
    "note": "Vintage Akubra Snowy River, 5 bids, low end (likely worn)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$160.22",
+   "currency": "AUD",
+   "aud_price": 160.22,
+   "date": "2026-03-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157761624824",
+   "same_item": "partial",
+   "note": "Akubra Coober Pedy size 63 Imperial Quality, better model",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.58",
+   "currency": "AUD",
+   "aud_price": 95.58,
+   "date": "2024-03-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166636287426",
+   "same_item": "close",
+   "note": "Vintage Akubra Imperial Quality size 57",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$97.24",
+   "currency": "AUD",
+   "aud_price": 97.24,
+   "date": "2024-10-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176481984521",
+   "same_item": "close",
+   "note": "Vintage Akubra Imperial Quality pure fur felt",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$94.92",
+   "currency": "AUD",
+   "aud_price": 94.92,
+   "date": "2026-11-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117498903936",
+   "same_item": "close",
+   "note": "Vintage Akubra Cattleman Imperial Quality size 59",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$57.76",
+   "currency": "AUD",
+   "aud_price": 57.76,
+   "date": "2024-03-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176266065641",
+   "same_item": "close",
+   "note": "Akubra Imperial Quality Bowen River size 59",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40.24",
+   "currency": "AUD",
+   "aud_price": 40.24,
+   "date": "2025-03-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176946544824",
+   "same_item": "close",
+   "note": "Akubra Imperial Quality size 56",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for akubra, akubra imperial, akubra superfine, 3 hats, thomas cook; one WebSearch for Akubra Imperial sold (only eBay asking prices). Armitage past lots and Gowans API not separately searched. eBay sold prices would settle single-hat values. | chrome: eBay AU sold: 'akubra imperial quality hat' (error page); 'akubra hat used pure fur felt' | chrome: eBay AU sold: 'akubra imperial quality hat' (error page); 'akubra hat used pure fur felt'",
+ "searches_tried": "comps.py (pipeline and work) for akubra, akubra imperial, akubra superfine, 3 hats, thomas cook; one WebSearch for Akubra Imperial sold (only eBay asking prices). Armitage past lots and Gowans API not separately searched. eBay sold prices would settle single-hat values. | chrome: eBay AU sold: 'akubra imperial quality hat' (error page); 'akubra hat used pure fur felt' | chrome: eBay AU sold: 'akubra imperial quality hat' (error page); 'akubra hat used pure fur felt' | chrome: Terapeak AU 'akubra hat'; Terapeak AU 'akubra imperial quality felt hat' (42 rows); Google identification from labels",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: Akubra Imperial Quality pure fur felt hat used",
- "viewing_check": "Check sizes (inside label), sweat band staining, brim crush/moth, and which Akubra models (Imperial, Cattleman, Snowy River) are more saleable. Single used Akubras sold A$35-205 on eBay, typically A$85-130.",
+ "viewing_check": "Armitage est $30-50, bid $40. Check sizes inside the bands, condition of felt and sweatbands; sizes 56-59 sell best. Thomas Cook hats not separately searched beyond the Akubra results.",
  "rate_note": "USD to AUD 1.53 assumed.",
  "chrome_done": true
 }

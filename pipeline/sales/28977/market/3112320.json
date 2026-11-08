@@ -39,13 +39,13 @@
   {
    "kind": "SOLD",
    "price": "GBP 42 hammer",
-   "aud_price": 80,
+   "aud_price": 82.74,
    "currency": "GBP",
    "date": "2018-10-09",
    "venue": "Brettells (UK)",
    "url": "https://www.brettells.com/catalogue/lot/4bd2021aa28db8bf3cb48a8d31ce72f6/d338147dbc5ec45e7daf1932de062906/collectables-and-general-lot-45/",
    "same_item": "close",
-   "note": "Salt glazed rum barrel with royal crest relief and brass tap. Snippet only, not verified, old and UK. Rate assumed about 1.9 AUD per GBP."
+   "note": "head start item; 2018-10-09, old"
   },
   {
    "kind": "SOLD",
@@ -58,12 +58,48 @@
    "same_item": "close",
    "note": "head start item; 2018-10-09, old [converted at GBP 1.97]",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$29.07",
+   "currency": "AUD",
+   "aud_price": 29.07,
+   "date": "2026-01-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157190337705",
+   "same_item": "partial",
+   "note": "Bendigo Pottery wine barrel/flagon",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$138.72",
+   "currency": "AUD",
+   "aud_price": 138.72,
+   "date": "2025-05-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157017343769",
+   "same_item": "partial",
+   "note": "Antique D. Bumstead Co London pottery stoneware (named maker)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.89",
+   "currency": "AUD",
+   "aud_price": 48.89,
+   "date": "2024-07-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134998530238",
+   "same_item": "partial",
+   "note": "Old Ballarat Pottery port wine barrel",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with stoneware spirit barrel, salt glazed barrel, stoneware keg tap, stoneware barrel; Gowans API (stoneware barrel, spirit barrel, stoneware keg, whisky barrel stoneware); WebSearch generic sold hammer and site:armitage.bidsonline.com.au (no new hits). Only 4 searches of sold evidence, item is low value generic. eBay sold listings would settle it but are closed to us. | chrome: eBay AU attempts hit error pages",
+ "searches_tried": "comps.py (pipeline and work) with stoneware spirit barrel, salt glazed barrel, stoneware keg tap, stoneware barrel; Gowans API (stoneware barrel, spirit barrel, stoneware keg, whisky barrel stoneware); WebSearch generic sold hammer and site:armitage.bidsonline.com.au (no new hits). Only 4 searches of sold evidence, item is low value generic. eBay sold listings would settle it but are closed to us. | chrome: eBay AU attempts hit error pages | chrome: eBay AU attempts hit error pages | Terapeak AU 3yr (dayRange=1095): salt glazed stoneware spirit barrel (0); stoneware barrel spirit whisky tap (0); stoneware barrel (30 rows)",
  "needs_chrome": false,
  "chrome_hint": "",
  "rate_note": "GBP to AUD assumed 1.9 (not checked live).",
- "viewing_check": "Hole near rim and paint; check for cracks.",
+ "viewing_check": "Hole near rim and paint; check for cracks. | TERAPEAK RE-CHECK: Overpainted with a hole near rim; condition limits value.",
  "chrome_done": true
 }

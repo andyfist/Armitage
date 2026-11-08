@@ -82,14 +82,14 @@
   },
   {
    "kind": "SOLD",
-   "price": "A$44.95",
+   "price": "A$41",
    "currency": "AUD",
-   "aud_price": 44.95,
+   "aud_price": 41,
    "date": "2026-08-11",
    "venue": "eBay AU",
    "url": "https://www.ebay.com.au/itm/178115499687",
-   "same_item": "yes",
-   "note": "Vintage Cowley Automatic Level made in Australia",
+   "same_item": "close",
+   "note": "Vintage Cowley Automatic Level surveying tool",
    "via": "chrome"
   },
   {
@@ -115,12 +115,96 @@
    "same_item": "yes",
    "note": "Cowley level with case and instructions, 1 bid (may be a low-bid outlier)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42",
+   "currency": "AUD",
+   "aud_price": 42,
+   "date": "2025-06-05",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/126981693861",
+   "same_item": "close",
+   "note": "Vintage 1960s Cowley Automatic Level, Australian made",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$37",
+   "currency": "AUD",
+   "aud_price": 37,
+   "date": "2025-05-30",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/127101166518",
+   "same_item": "close",
+   "note": "Vintage Cowley Automatic Level surveying instrument",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$171",
+   "currency": "AUD",
+   "aud_price": 171,
+   "date": "2026-07-06",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/127843077666",
+   "same_item": "partial",
+   "note": "Vintage Cowley levels and equipment (multiple pieces)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$41",
+   "currency": "AUD",
+   "aud_price": 41,
+   "date": "2026-08-11",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/178115499687",
+   "same_item": "close",
+   "note": "Vintage Cowley Automatic Level surveying tool",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$73",
+   "currency": "AUD",
+   "aud_price": 73,
+   "date": "2025-04-30",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/235972799616",
+   "same_item": "close",
+   "note": "Vintage Cowley Automatic Level in original box",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$93",
+   "currency": "AUD",
+   "aud_price": 93,
+   "date": "2025-04-26",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/254616587681",
+   "same_item": "close",
+   "note": "Vintage Cowley Automatic bricklayers level",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$36",
+   "currency": "AUD",
+   "aud_price": 36,
+   "date": "2026-02-14",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/227208880895",
+   "same_item": "close",
+   "note": "Vintage Cowley Automatic Level with instructions, auction",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for cowley level, dumpy level, surveying level staff; Gowans API for cowley; WebSearch for Cowley automatic level sold auction and site:armitage Cowley level (no new Armitage pages). eBay sold listings would settle UK/AU price: not reachable. | chrome: ebay sold: cowley automatic level dumpy",
+ "searches_tried": "comps.py (pipeline and work) for cowley level, dumpy level, surveying level staff; Gowans API for cowley; WebSearch for Cowley automatic level sold auction and site:armitage Cowley level (no new Armitage pages). eBay sold listings would settle UK/AU price: not reachable. | chrome: ebay sold: cowley automatic level dumpy | chrome: ebay sold: cowley automatic level dumpy || Terapeak re-check: Terapeak AU: cowley level",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold: Cowley automatic level",
  "rate_note": "GBP to AUD about 2.0 assumed.",
- "viewing_check": "Low value: Cowleys sell A$1-45 on eBay AU. Already-found eBay.de GBP 24.99. [Armitage page 8 Nov 2026: estimate $10-20, current bid $10. Photos viewed (about 400px, low resolution): 2 photos: wooden staff with grey instrument head attached; the level itself and plate not clearly visible]",
+ "viewing_check": "Low value: Cowleys sell A$1-45 on eBay AU. Already-found eBay.de GBP 24.99. [Armitage page 8 Nov 2026: estimate $10-20, current bid $10. Photos viewed (about 400px, low resolution): 2 photos: wooden staff with grey instrument head attached; the level itself and plate not clearly visible] || TERAPEAK RE-CHECK (9 Nov 2026): Terapeak AU \"cowley level\": 29 rows, about 11 genuine Cowley level sales A$19-93.",
  "chrome_done": true
 }

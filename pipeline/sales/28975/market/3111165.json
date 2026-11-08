@@ -1,7 +1,7 @@
 {
  "cdid": 3111165,
  "lot": 903,
- "identification": "Four pre-decimal silver coins: 1915 florin, 1921 shilling, 1918 sixpence, 1918 threepence. Zoomed photo shows a small mark below the date of the florin that could be the H mint mark; not resolvable.",
+ "identification": "Four Australian pre-decimal silver coins: a florin, a shilling/crown-size and two smaller (sixpence, threepence). Photo viewed; dates not legible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,35 @@
    "url": "https://www.coinsandaustralia.com/coins-prices-value.php?coin=florin-1915&years=florin-1911-1936&cat=pre-decimal",
    "same_item": "category guide",
    "note": "Guide values, snippet only (site blocked page fetch). Not a price paid."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$350.20",
+   "currency": "AUD",
+   "aud_price": 350.2,
+   "date": "2026-04-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127798239751",
+   "same_item": "partial",
+   "note": "Bulk lot of 20 Australian 3d/6d/1s silver coins (not same, much larger).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$260.89",
+   "currency": "AUD",
+   "aud_price": 260.89,
+   "date": "2025-12-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326882219528",
+   "same_item": "partial",
+   "note": "Lot of 8 Australian 1910-1945 sterling florins.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py (crashed on a null in the database; --source noble worked) and work/comps.py with florin, 1915, 1915H, silver florin, pre-decimal silver; one WebSearch for 1915H florin prices; fetched Sterling & Currency pages (prices not shown in text); coinsandaustralia blocked. Realistic whole-lot value if plain 1915: roughly melt, about $40 to $70 hammer; if 1915H confirmed: about $80 to $130. eBay sold listings and Noble/Downies archives for 1915H Fine/VF would tighten this. Rate AUD only, no conversion. | chrome: Photo zoom only; no price searches.",
+ "searches_tried": "pipeline/comps.py (crashed on a null in the database; --source noble worked) and work/comps.py with florin, 1915, 1915H, silver florin, pre-decimal silver; one WebSearch for 1915H florin prices; fetched Sterling & Currency pages (prices not shown in text); coinsandaustralia blocked. Realistic whole-lot value if plain 1915: roughly melt, about $40 to $70 hammer; if 1915H confirmed: about $80 to $130. eBay sold listings and Noble/Downies archives for 1915H Fine/VF would tighten this. Rate AUD only, no conversion. | chrome: Photo zoom only; no price searches. | chrome: Terapeak AU 'australian silver threepence sixpence lot' (50 rows).",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: Australia 1915H florin (also 'Heaton' florin 1915), Fine to VF, last 12 months; Noble Numismatics archive: 'florin 1915H' VF",
- "viewing_check": "Loupe the area under the florin date for an H (1915H is the scarcer coin). Otherwise the lot is roughly silver value.",
+ "viewing_check": "Armitage est $70-80, current bid $40, next $45 (landed ~A$55). Read the dates: pre-1946 .925 silver and key dates are what count.",
  "chrome_done": true
 }

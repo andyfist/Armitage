@@ -1,7 +1,7 @@
 {
  "cdid": 3110947,
  "lot": 685,
- "identification": "Kamikoto Chuka Bocho cleaver in branded box with COA.",
+ "identification": "Kamikoto Chuka Bocho cleaver in ash wood presentation case with certificate/booklet (2 photos). Kamikoto is a US-marketed Japanese knife brand.",
  "entries": [
   {
    "kind": "ASKING",
@@ -70,12 +70,60 @@
    "same_item": "yes",
    "note": "Kamikoto Chuka Bocho Cleaver listing; same model; condition/boxed status not verified; only one sold cleaver found",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$189.70",
+   "currency": "AUD",
+   "aud_price": 189.7,
+   "date": "2026-09-27",
+   "venue": "eBay US (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/235626087186",
+   "same_item": "close",
+   "note": "Kamikoto Chuka Bocho cleaver, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$181.87",
+   "currency": "AUD",
+   "aud_price": 181.87,
+   "date": "2023-11-11",
+   "venue": "eBay US (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145371559419",
+   "same_item": "close",
+   "note": "Kamikoto Chuka Bocho cleaver ash wood box with COA",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$116.40",
+   "currency": "AUD",
+   "aud_price": 116.4,
+   "date": "2025-12-03",
+   "venue": "eBay US (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225996381526",
+   "same_item": "close",
+   "note": "Kamikoto Chuka Bocho cleaver brand new with certificate",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$115.74",
+   "currency": "AUD",
+   "aud_price": 115.74,
+   "date": "2025-12-29",
+   "venue": "eBay US (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/136647017414",
+   "same_item": "close",
+   "note": "NEW Kamikoto Chuka Bocho chef cleaver",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline version crashed with a TypeError; work/comps.py with 'kamikoto' returned no sales); Gowans API 'kamikoto' returned nothing; WebSearch for Kamikoto cleaver sold, site:armitage.bidsonline.com.au Kamikoto (no past Armitage lots found), Kamikoto Australia second hand. No SOLD or UNSOLD auction results found. eBay sold listings would settle it (eBay is closed to us). | chrome: eBay AU sold 'kamikoto cleaver' (1 result), 'kamikoto knife' (other Kamikoto items only: sets A$85, used knives A$160, not same item). | chrome: eBay AU sold 'kamikoto cleaver' (1 result), 'kamikoto knife' (other Kamikoto items only: sets A$85, used knives A$160, not same item). | chrome: eBay AU sold x2 (kamikoto cleaver; kamikoto knife). Other Kamikoto sold items were sets, whetstones, a santoku (~A$85-160), not the same item.",
+ "searches_tried": "comps.py (pipeline version crashed with a TypeError; work/comps.py with 'kamikoto' returned no sales); Gowans API 'kamikoto' returned nothing; WebSearch for Kamikoto cleaver sold, site:armitage.bidsonline.com.au Kamikoto (no past Armitage lots found), Kamikoto Australia second hand. No SOLD or UNSOLD auction results found. eBay sold listings would settle it (eBay is closed to us). | chrome: eBay AU sold 'kamikoto cleaver' (1 result), 'kamikoto knife' (other Kamikoto items only: sets A$85, used knives A$160, not same item). | chrome: eBay AU sold 'kamikoto cleaver' (1 result), 'kamikoto knife' (other Kamikoto items only: sets A$85, used knives A$160, not same item). | chrome: eBay AU sold x2 (kamikoto cleaver; kamikoto knife). Other Kamikoto sold items were sets, whetstones, a santoku (~A$85-160), not the same item. | chrome: Terapeak AU 'kamikoto cleaver' (0 rows), Terapeak US 'kamikoto cleaver' (190 rows, 175 mentioning cleaver or Chuka incl. sets; single-cleaver sales A$112-190)",
  "needs_chrome": false,
  "chrome_hint": "eBay sold listings: Kamikoto Chuka Bocho cleaver (also eBay.com.au sold, Kamikoto cleaver)",
- "viewing_check": "Check box, COA and card present, blade for use/chips, handle for cracks.",
+ "viewing_check": "Armitage est $40-60, current bid $110 (over estimate). Cleaver sold A$110-190 on eBay US (several; AU has no sales). Check blade for use/chips and that case, certificate and sheath are complete.",
  "rate_note": "1 USD = 1.53 AUD assumed",
  "chrome_done": true
 }

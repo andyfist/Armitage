@@ -1,7 +1,7 @@
 {
  "cdid": 3112321,
  "lot": 1416,
- "identification": "Nickel-plated carbide cycle/motorcycle lamp with green and red side jewels, probably Powell & Hanmer; model unidentified, looks complete and clean",
+ "identification": "Vintage motoring carbide lamp, nickel-plated brass, with reflector and generator on the base, bracket mount (3 photos). Possibly Powell & Hanmer or Lucas; maker plate not visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -116,12 +116,24 @@
    "same_item": "partial",
    "note": "Antique P&H carbide acetylene automobile car headlamp, 1 bid; larger car lamp type",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90.60",
+   "currency": "AUD",
+   "aud_price": 90.6,
+   "date": "2025-01-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/276710923522",
+   "same_item": "close",
+   "note": "Vintage Powell & Hanmer Ltd carbide car lamp",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline: carbide lamp, 3 Gowans hits; work/comps.py powell hanmer: none); Gowans API carbide and powell hanmer; WebSearch P&H carbide sold, site:armitage.bidsonline (no hits), P&H motorcycle lamp for sale; opened Antiques Atlas, Country Home Antiques (sold, no price shown), Fieldings page (useless). eBay sold prices (Powell Hanmer carbide lamp) would settle it better. Local evidence suggests roughly $30-60 hammer for common carbide lamps. | chrome: eBay AU sold: powell hanmer carbide lamp (one error page first) | chrome: eBay AU sold: powell hanmer carbide lamp (one error page first)",
+ "searches_tried": "comps.py (pipeline: carbide lamp, 3 Gowans hits; work/comps.py powell hanmer: none); Gowans API carbide and powell hanmer; WebSearch P&H carbide sold, site:armitage.bidsonline (no hits), P&H motorcycle lamp for sale; opened Antiques Atlas, Country Home Antiques (sold, no price shown), Fieldings page (useless). eBay sold prices (Powell Hanmer carbide lamp) would settle it better. Local evidence suggests roughly $30-60 hammer for common carbide lamps. | chrome: eBay AU sold: powell hanmer carbide lamp (one error page first) | chrome: eBay AU sold: powell hanmer carbide lamp (one error page first) | chrome: Terapeak AU 3yr: carbide lamp vintage car (1 row).",
  "needs_chrome": false,
  "chrome_hint": "eBay sold listings: Powell Hanmer carbide lamp (and model name once identified, e.g. Panther, Revenge, Chieftain)",
- "viewing_check": "Look for the P&H badge, complete burner and reflector, glass, and plating condition. Compare size with car vs cycle lamp types: larger car lamps sell for much more.",
+ "viewing_check": "Armitage est $40-80, bid $25. Look for a maker plate, the lens and the burner. Complete pairs are worth much more.",
  "rate_note": "GBP 1 = AUD 2.00 assumed (not fetched)",
  "chrome_done": true
 }

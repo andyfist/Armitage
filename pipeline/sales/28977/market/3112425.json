@@ -59,12 +59,60 @@
    "note": "new price quoted by the pack (about A$2,700) and a Facebook seller ('new price about A$3000 inc GST'); asking context only",
    "date": "2026-11-08",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-01-19",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/185800446868",
+   "same_item": "category guide",
+   "note": "Replacement rod and rubber set for Rhino Thumpa (a different product, shows no relevant Waratah Thumpa listing sold)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$56",
+   "currency": "AUD",
+   "aud_price": 56,
+   "date": "2026-11-02",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/294219444302",
+   "same_item": "category guide",
+   "note": "Star picket post driver, hand rammer type (hand tool, not pneumatic)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$405",
+   "currency": "AUD",
+   "aud_price": 405,
+   "date": "2026-11-03",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/153768536228",
+   "same_item": "category guide",
+   "note": "Petrol post driver 38cc 4-stroke (new, different type)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$511",
+   "currency": "AUD",
+   "aud_price": 511,
+   "date": "2025-04-04",
+   "venue": "eBay AU (Terapeak 3 yr)",
+   "url": "https://www.ebay.com.au/itm/132129154058",
+   "same_item": "category guide",
+   "note": "Baumr-AG petrol post driver 4-stroke (new)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for waratah thumpa, pneumatic post driver, post driver: only Gowans manual post drivers $35-$135. Gowans API waratah post driver: nothing relevant. WebSearch x5 (Thumpa 222689 price, sold auction, for sale Australia, Bunnings/Elders, Gumtree): no Thumpa listing or price found anywhere, no verified resale price. Pneumatic drivers from other brands are priced for different markets and not comparable. eBay sold prices and Gumtree would settle it (eBay closed to us). No same-item resale evidence found, so no SOLD resale comp. | chrome: ebay sold: waratah thumpa post driver; pneumatic post driver thumpa; waratah thumpa pneumatic (used); google: waratah thumpa pneumatic post driver sold lot auction (AuctionsPlus lot 19, Wellington NSW, sale 16 Jan 2026 marked SOLD but price hidden behind 'reveal price'; AuctionsPlus 7 Mar 2024 new unused lot 3, no price shown)",
+ "searches_tried": "Local comps.py (pipeline and work) for waratah thumpa, pneumatic post driver, post driver: only Gowans manual post drivers $35-$135. Gowans API waratah post driver: nothing relevant. WebSearch x5 (Thumpa 222689 price, sold auction, for sale Australia, Bunnings/Elders, Gumtree): no Thumpa listing or price found anywhere, no verified resale price. Pneumatic drivers from other brands are priced for different markets and not comparable. eBay sold prices and Gumtree would settle it (eBay closed to us). No same-item resale evidence found, so no SOLD resale comp. | chrome: ebay sold: waratah thumpa post driver; pneumatic post driver thumpa; waratah thumpa pneumatic (used); google: waratah thumpa pneumatic post driver sold lot auction (AuctionsPlus lot 19, Wellington NSW, sale 16 Jan 2026 marked SOLD but price hidden behind 'reveal price'; AuctionsPlus 7 Mar 2024 new unused lot 3, no price shown) | chrome: ebay sold: waratah thumpa post driver; pneumatic post driver thumpa; waratah thumpa pneumatic (used); google: waratah thumpa pneumatic post driver sold lot auction (AuctionsPlus lot 19, Wellington NSW, sale 16 Jan 2026 marked SOLD but price hidden behind 'reveal price'; AuctionsPlus 7 Mar 2024 new unused lot 3, no price shown) || Terapeak re-check: Terapeak AU: waratah thumpa; thumpa; pneumatic post driver; star picket driver. WebSearch: waratah thumpa sold auction price (x2)",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold and completed listings: Waratah Thumpa post driver ; also eBay 'pneumatic star post driver' sold, and Gumtree 'Waratah post driver'",
- "viewing_check": "No sold used Waratah Thumpa found on eBay AU. Rely on the Tomkins A$750 hammer already in the pack; check hose, box lock and air consumption need. Estimate A$450-750; the lot is already at A$260 with a Tomkins sale at A$750 hammer in the pack. AuctionsPlus lot 19 (Jan 2026) is marked sold but the price is behind a reveal button. [Armitage page 8 Nov 2026: estimate $450-750, current bid $260. Photos viewed (about 400px, low resolution): 3 photos: Thumpa driver with orange label and green/yellow air hose in a black checkerplate box; looks clean]",
+ "viewing_check": "No sold used Waratah Thumpa found on eBay AU. Rely on the Tomkins A$750 hammer already in the pack; check hose, box lock and air consumption need. Estimate A$450-750; the lot is already at A$260 with a Tomkins sale at A$750 hammer in the pack. AuctionsPlus lot 19 (Jan 2026) is marked sold but the price is behind a reveal button. [Armitage page 8 Nov 2026: estimate $450-750, current bid $260. Photos viewed (about 400px, low resolution): 3 photos: Thumpa driver with orange label and green/yellow air hose in a black checkerplate box; looks clean] || TERAPEAK RE-CHECK (9 Nov 2026): Terapeak AU \"waratah thumpa\", \"thumpa\", \"pneumatic post driver\", \"star picket driver\": 0 pneumatic Waratah Thumpa sales on eBay AU in 3 yrs; petrol post drivers sell A$360-510 new. Web search found Tomkins (A$750, 2023), AuctionsPlus lot 3 Sea Lake (new, price not shown, 7 Mar 2024) and AuctionsPlus lot 19 (Jan 2026, price hidden behind reveal). Sells through farm channels not eBay.",
  "rate_note": "All prices AUD, no conversion needed.",
  "chrome_done": true
 }

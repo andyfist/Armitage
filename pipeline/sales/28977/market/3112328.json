@@ -47,12 +47,48 @@
    "same_item": "category guide",
    "note": "Vintage Road Ends 30x30 reflective aluminium street sign (US). US sign, not Tasmanian",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$23.86",
+   "currency": "AUD",
+   "aud_price": 23.86,
+   "date": "2024-02-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116071312317",
+   "same_item": "partial",
+   "note": "Old mixed road street sign lot",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$35.41",
+   "currency": "AUD",
+   "aud_price": 35.41,
+   "date": "2025-08-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/236092641462",
+   "same_item": "partial",
+   "note": "South Australian No Standing sign",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45.85",
+   "currency": "AUD",
+   "aud_price": 45.85,
+   "date": "2024-06-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/235593572054",
+   "same_item": "partial",
+   "note": "Taxi Zone Parking sign",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with murray street sign, street sign, street sign aluminium; WebSearch for Murray St sign Hobart auction, vintage aluminium street sign auction Australia, site:armitage street sign. No resale SOLD comps found for a modern aluminium street sign. eBay sold listings (Australian ex-council street signs) would settle it; unreachable here. Generic item, stopped early. | chrome: eBay AU sold: Murray Street street sign aluminium",
+ "searches_tried": "comps.py (pipeline and work) with murray street sign, street sign, street sign aluminium; WebSearch for Murray St sign Hobart auction, vintage aluminium street sign auction Australia, site:armitage street sign. No resale SOLD comps found for a modern aluminium street sign. eBay sold listings (Australian ex-council street signs) would settle it; unreachable here. Generic item, stopped early. | chrome: eBay AU sold: Murray Street street sign aluminium | chrome: eBay AU sold: Murray Street street sign aluminium | Terapeak AU 3yr (dayRange=1095): street sign aluminium road name sign st (0 rows); street sign council (6 rows)",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'street sign Hobart' and 'ex council street sign aluminium' (sold items, last 90 days)",
- "viewing_check": "No Tasmanian council sign sold comps found.",
+ "viewing_check": "No Tasmanian council sign sold comps found. | TERAPEAK RE-CHECK: No Tasmanian Murray St comps.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }
