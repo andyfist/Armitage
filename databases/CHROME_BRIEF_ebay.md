@@ -1,6 +1,6 @@
 # Chrome brief: eBay sold prices via Terapeak (and Leski results) for the price database
 
-**Use Sonnet for this chat** (pick Sonnet in the model menu, or say "use Sonnet").
+**Use Opus 5.5 for this chat** (pick Opus 5.5 in the model menu, or say "use Opus 5.5").
 
 **Who runs this:** Claude in Chrome on Andy's computer (Claude Desktop open, computer awake),
 signed in to Andy's own eBay account. The cloud cannot do this part: eBay returns 403 to it,
