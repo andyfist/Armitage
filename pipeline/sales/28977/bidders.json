@@ -1,5 +1,5 @@
 {
- "checked": "09/11/2026 17:28 AEDT",
+ "checked": "10/11/2026 07:28 AEDT",
  "closing_today": 0,
  "all_closed": false,
  "flagged": [
@@ -10,22 +10,33 @@
    "category": "",
    "status": "PASS",
    "max_hammer": 385,
-   "current_bid": 300.0,
-   "bid_count": 5,
+   "current_bid": 350.0,
+   "bid_count": 7,
    "close": "11/11/2026 8:02:20 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "67922 - launceston, TAS",
+   "leader": "67922 - launceston, TAS - AutoBid",
    "researched": true,
    "bidders": [
     {
-     "who": "67922 - launceston, TAS",
+     "who": "67922 - launceston, TAS - AutoBid",
      "no": "67922",
      "town": "Launceston",
      "state": "TAS",
-     "n": 1,
-     "top": 300.0,
+     "n": 2,
+     "top": 350.0,
      "tags": []
+    },
+    {
+     "who": "47446 - Newnham, TAS",
+     "no": "47446",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 3,
+     "top": 325.0,
+     "tags": [
+      "seen in 102 sales"
+     ]
     },
     {
      "who": "49402 - Prospect, TAS",
@@ -36,17 +47,6 @@
      "top": 275.0,
      "tags": [
       "seen in 10 sales"
-     ]
-    },
-    {
-     "who": "47446 - Newnham, TAS",
-     "no": "47446",
-     "town": "Newnham",
-     "state": "TAS",
-     "n": 2,
-     "top": 250.0,
-     "tags": [
-      "seen in 102 sales"
      ]
     },
     {
@@ -61,7 +61,7 @@
      ]
     }
    ],
-   "why": "49402 - Prospect, TAS (seen in 10 sales); 47446 - Newnham, TAS (seen in 102 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
+   "why": "47446 - Newnham, TAS (seen in 102 sales); 49402 - Prospect, TAS (seen in 10 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
   },
   {
    "cdid": 3112425,
@@ -86,7 +86,7 @@
      "n": 1,
      "top": 280.0,
      "tags": [
-      "seen in 21 sales"
+      "seen in 23 sales"
      ]
     },
     {
@@ -108,7 +108,7 @@
      "n": 1,
      "top": 240.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -134,7 +134,7 @@
      ]
     }
    ],
-   "why": "266164 - Riverside, (seen in 21 sales); 196786 - Winkleigh, TAS (seen in 69 sales); 142868 - Perth, (seen in 18 sales); 135397 - Longford, TAS (seen in 126 sales); 49344 - Loira, TAS (seen in 68 sales); 4 or more bidders"
+   "why": "266164 - Riverside, (seen in 23 sales); 196786 - Winkleigh, TAS (seen in 69 sales); 142868 - Perth, (seen in 19 sales); 135397 - Longford, TAS (seen in 126 sales); 49344 - Loira, TAS (seen in 68 sales); 4 or more bidders"
   },
   {
    "cdid": 3112313,
@@ -143,14 +143,25 @@
    "category": "",
    "status": "FAIL",
    "max_hammer": 75,
-   "current_bid": 260.0,
-   "bid_count": 20,
+   "current_bid": 270.0,
+   "bid_count": 21,
    "close": "11/11/2026 7:48:20 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "212103 - Trevallyn ,",
+   "leader": "60401 - legana, TAS",
    "researched": true,
    "bidders": [
+    {
+     "who": "60401 - legana, TAS",
+     "no": "60401",
+     "town": "Legana",
+     "state": "TAS",
+     "n": 1,
+     "top": 270.0,
+     "tags": [
+      "seen in 54 sales"
+     ]
+    },
     {
      "who": "212103 - Trevallyn ,",
      "no": "212103",
@@ -230,7 +241,7 @@
      ]
     }
    ],
-   "why": "212103 - Trevallyn , (usually bids on militaria, seen in 17 sales); 122213 - Westbury, TAS (seen in 141 sales); 59487 - Trevallyn, TAS (seen in 67 sales); 47446 - Newnham, TAS (seen in 102 sales); 116646 - launceston, (seen in 45 sales); 49364 - Trevallyn, TAS (seen in 124 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
+   "why": "60401 - legana, TAS (seen in 54 sales); 212103 - Trevallyn , (usually bids on militaria, seen in 17 sales); 122213 - Westbury, TAS (seen in 141 sales); 59487 - Trevallyn, TAS (seen in 67 sales); 47446 - Newnham, TAS (seen in 102 sales); 116646 - launceston, (seen in 45 sales); 49364 - Trevallyn, TAS (seen in 124 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
   },
   {
    "cdid": 3112309,
@@ -277,7 +288,7 @@
      "n": 1,
      "top": 160.0,
      "tags": [
-      "seen in 101 sales"
+      "seen in 102 sales"
      ]
     },
     {
@@ -288,7 +299,7 @@
      "n": 1,
      "top": 140.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -314,14 +325,14 @@
      ]
     }
    ],
-   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 47340 - St Helens, TAS (seen in 101 sales); 142868 - Perth, (seen in 18 sales); 49364 - Trevallyn, TAS (seen in 124 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
+   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 47340 - St Helens, TAS (seen in 102 sales); 142868 - Perth, (seen in 19 sales); 49364 - Trevallyn, TAS (seen in 124 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
   },
   {
    "cdid": 3112525,
    "lot": 1497,
    "title": "LARGE CAST IRON SCHOOL BELL ON...",
    "category": "",
-   "status": "CHROME",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 220.0,
    "bid_count": 10,
@@ -370,8 +381,8 @@
    "lot": 1417,
    "title": "VINTAGE ENAMEL BP AUSTRALIA AD...",
    "category": "",
-   "status": "CHROME",
-   "max_hammer": 0,
+   "status": "FAIL",
+   "max_hammer": 160,
    "current_bid": 210.0,
    "bid_count": 8,
    "close": "11/11/2026 7:51:20 PM ADST",
@@ -665,11 +676,157 @@
    "why": "122213 - Westbury, TAS (seen in 141 sales); 225294 - Hadspen, - AutoBid (seen in 15 sales); 47404 - Lilydale, TAS (seen in 42 sales); 47995 - hadspen, TAS (seen in 46 sales); 4 or more bidders"
   },
   {
+   "cdid": 3112436,
+   "lot": 1716,
+   "title": "HORNBY ELECTRIC TRAIN SET, PAR...",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 135.0,
+   "bid_count": 24,
+   "close": "11/11/2026 9:29:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "55649 - INVERMAY, TAS - AutoBid",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "55649 - INVERMAY, TAS - AutoBid",
+     "no": "55649",
+     "town": "Invermay",
+     "state": "TAS",
+     "n": 11,
+     "top": 135.0,
+     "tags": [
+      "seen in 133 sales"
+     ]
+    },
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 10,
+     "top": 130.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "71573 - Newnham, TAS",
+     "no": "71573",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 1,
+     "top": 40.0,
+     "tags": [
+      "seen in 63 sales"
+     ]
+    },
+    {
+     "who": "55763 - Riverside, TAS",
+     "no": "55763",
+     "town": "Riverside",
+     "state": "TAS",
+     "n": 1,
+     "top": 30.0,
+     "tags": [
+      "seen in 13 sales"
+     ]
+    },
+    {
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 19 sales"
+     ]
+    }
+   ],
+   "why": "55649 - INVERMAY, TAS - AutoBid (seen in 133 sales); 53311 - Ross, TAS (seen in 125 sales); 71573 - Newnham, TAS (seen in 63 sales); 55763 - Riverside, TAS (seen in 13 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112312,
+   "lot": 1406,
+   "title": "WEST GERMAN BUILT 'OLD SMOKEY'...",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 15,
+   "current_bid": 130.0,
+   "bid_count": 8,
+   "close": "11/11/2026 7:48:00 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "53311 - Ross, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 2,
+     "top": 130.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 2,
+     "top": 120.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "116646 - launceston,",
+     "no": "116646",
+     "town": "Launceston",
+     "state": "TAS",
+     "n": 1,
+     "top": 110.0,
+     "tags": [
+      "seen in 45 sales"
+     ]
+    },
+    {
+     "who": "59487 - Trevallyn, TAS",
+     "no": "59487",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 2,
+     "top": 100.0,
+     "tags": [
+      "seen in 67 sales"
+     ]
+    },
+    {
+     "who": "173871 - Mowbray,",
+     "no": "173871",
+     "town": "Mowbray",
+     "state": "TAS",
+     "n": 1,
+     "top": 90.0,
+     "tags": [
+      "seen in 98 sales"
+     ]
+    }
+   ],
+   "why": "53311 - Ross, TAS (seen in 125 sales); 122213 - Westbury, TAS (seen in 141 sales); 116646 - launceston, (seen in 45 sales); 59487 - Trevallyn, TAS (seen in 67 sales); 173871 - Mowbray, (seen in 98 sales); 4 or more bidders"
+  },
+  {
    "cdid": 3112291,
    "lot": 1619,
    "title": "ASSORTED TROUT LURES, REELS ET...",
    "category": "",
-   "status": "CHROME",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 130.0,
    "bid_count": 17,
@@ -698,7 +855,7 @@
      "n": 2,
      "top": 125.0,
      "tags": [
-      "seen in 72 sales"
+      "seen in 73 sales"
      ]
     },
     {
@@ -709,7 +866,7 @@
      "n": 1,
      "top": 90.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -735,7 +892,80 @@
      ]
     }
    ],
-   "why": "75494 - Deloraine , TAS - AutoBid (seen in 21 sales); 211802 - Invermay, - AutoBid (seen in 72 sales); 142868 - Perth, (seen in 18 sales); 47404 - Lilydale, TAS (seen in 42 sales); 47574 - Summerhill, TAS - AutoBid (seen in 33 sales); 4 or more bidders"
+   "why": "75494 - Deloraine , TAS - AutoBid (seen in 21 sales); 211802 - Invermay, - AutoBid (seen in 73 sales); 142868 - Perth, (seen in 19 sales); 47404 - Lilydale, TAS (seen in 42 sales); 47574 - Summerhill, TAS - AutoBid (seen in 33 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112466,
+   "lot": 1746,
+   "title": "MODEL TRAIN LAYOUT - OO GAUGE",
+   "category": "",
+   "status": "PASS",
+   "max_hammer": 95,
+   "current_bid": 130.0,
+   "bid_count": 16,
+   "close": "11/11/2026 9:39:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "53311 - Ross, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 3,
+     "top": 130.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "55763 - Riverside, TAS - AutoBid",
+     "no": "55763",
+     "town": "Riverside",
+     "state": "TAS",
+     "n": 7,
+     "top": 125.0,
+     "tags": [
+      "seen in 13 sales"
+     ]
+    },
+    {
+     "who": "201511 - Kings Meadows, TAS - AutoBid",
+     "no": "201511",
+     "town": "Kings Meadows",
+     "state": "TAS",
+     "n": 4,
+     "top": 100.0,
+     "tags": [
+      "seen in 66 sales"
+     ]
+    },
+    {
+     "who": "142920 - George Town,",
+     "no": "142920",
+     "town": "George Town",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 23 sales"
+     ]
+    },
+    {
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 19 sales"
+     ]
+    }
+   ],
+   "why": "53311 - Ross, TAS (seen in 125 sales); 55763 - Riverside, TAS - AutoBid (seen in 13 sales); 201511 - Kings Meadows, TAS - AutoBid (seen in 66 sales); 142920 - George Town, (seen in 23 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
   },
   {
    "cdid": 3112467,
@@ -800,79 +1030,6 @@
    "why": "47995 - hadspen, TAS (seen in 46 sales); 68277 - Dilston, TAS (seen in 29 sales); 149770 - Parattah, (seen in 75 sales); 275982 - newnham, (seen in 10 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112312,
-   "lot": 1406,
-   "title": "WEST GERMAN BUILT 'OLD SMOKEY'...",
-   "category": "",
-   "status": "FAIL",
-   "max_hammer": 15,
-   "current_bid": 120.0,
-   "bid_count": 7,
-   "close": "11/11/2026 7:48:00 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "122213 - Westbury, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 2,
-     "top": 120.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "116646 - launceston,",
-     "no": "116646",
-     "town": "Launceston",
-     "state": "TAS",
-     "n": 1,
-     "top": 110.0,
-     "tags": [
-      "seen in 45 sales"
-     ]
-    },
-    {
-     "who": "59487 - Trevallyn, TAS",
-     "no": "59487",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 2,
-     "top": 100.0,
-     "tags": [
-      "seen in 67 sales"
-     ]
-    },
-    {
-     "who": "173871 - Mowbray,",
-     "no": "173871",
-     "town": "Mowbray",
-     "state": "TAS",
-     "n": 1,
-     "top": 90.0,
-     "tags": [
-      "seen in 98 sales"
-     ]
-    },
-    {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
-     "state": "TAS",
-     "n": 1,
-     "top": 60.0,
-     "tags": [
-      "seen in 123 sales"
-     ]
-    }
-   ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 116646 - launceston, (seen in 45 sales); 59487 - Trevallyn, TAS (seen in 67 sales); 173871 - Mowbray, (seen in 98 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
-  },
-  {
    "cdid": 3112317,
    "lot": 1411,
    "title": "GOLDEN FLEECE 1 PINT BRAKE FLU...",
@@ -935,6 +1092,101 @@
    "why": "59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 244646 - Bridgenorth, - AutoBid (seen in 17 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
   },
   {
+   "cdid": 3112485,
+   "lot": 1457,
+   "title": "MEDIEVAL STYLE PROTECTIVE GLOV...",
+   "category": "",
+   "status": "CHROME",
+   "max_hammer": 0,
+   "current_bid": 105.0,
+   "bid_count": 16,
+   "close": "11/11/2026 8:04:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "127689 - Punchbowl,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "127689 - Punchbowl,",
+     "no": "127689",
+     "town": "Punchbowl",
+     "state": "",
+     "n": 1,
+     "top": 105.0,
+     "tags": [
+      "seen in 39 sales"
+     ]
+    },
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 5,
+     "top": 100.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "211802 - Invermay, - AutoBid",
+     "no": "211802",
+     "town": "Invermay",
+     "state": "TAS",
+     "n": 4,
+     "top": 95.0,
+     "tags": [
+      "seen in 73 sales"
+     ]
+    },
+    {
+     "who": "141386 - Launceston,",
+     "no": "141386",
+     "town": "Launceston",
+     "state": "TAS",
+     "n": 2,
+     "top": 60.0,
+     "tags": [
+      "seen in 47 sales"
+     ]
+    },
+    {
+     "who": "47753 - South Launceston , TAS",
+     "no": "47753",
+     "town": "South Launceston",
+     "state": "TAS",
+     "n": 1,
+     "top": 55.0,
+     "tags": [
+      "seen in 77 sales"
+     ]
+    },
+    {
+     "who": "275982 - newnham,",
+     "no": "275982",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 2,
+     "top": 45.0,
+     "tags": [
+      "seen in 10 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 40.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    }
+   ],
+   "why": "127689 - Punchbowl, (seen in 39 sales); 53311 - Ross, TAS (seen in 125 sales); 211802 - Invermay, - AutoBid (seen in 73 sales); 141386 - Launceston, (seen in 47 sales); 47753 - South Launceston , TAS (seen in 77 sales); 275982 - newnham, (seen in 10 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
+  },
+  {
    "cdid": 3112315,
    "lot": 1409,
    "title": "KELLY TRUE TEMPER AXE",
@@ -957,7 +1209,7 @@
      "n": 1,
      "top": 100.0,
      "tags": [
-      "seen in 21 sales"
+      "seen in 23 sales"
      ]
     },
     {
@@ -994,15 +1246,15 @@
      ]
     }
    ],
-   "why": "266164 - Riverside, (seen in 21 sales); 122213 - Westbury, TAS (seen in 141 sales); 135396 - Ambleside , (seen in 29 sales); 47341 - Lilydale, TAS (seen in 136 sales); 4 or more bidders"
+   "why": "266164 - Riverside, (seen in 23 sales); 122213 - Westbury, TAS (seen in 141 sales); 135396 - Ambleside , (seen in 29 sales); 47341 - Lilydale, TAS (seen in 136 sales); 4 or more bidders"
   },
   {
    "cdid": 3112376,
    "lot": 1654,
    "title": "STIHL FS 85 BRUSHCUTTER WITH F...",
    "category": "",
-   "status": "CHROME",
-   "max_hammer": 0,
+   "status": "FAIL",
+   "max_hammer": 40,
    "current_bid": 100.0,
    "bid_count": 6,
    "close": "11/11/2026 9:09:20 PM ADST",
@@ -1245,7 +1497,7 @@
      "n": 5,
      "top": 85.0,
      "tags": [
-      "seen in 138 sales"
+      "seen in 139 sales"
      ]
     },
     {
@@ -1271,14 +1523,14 @@
      ]
     }
    ],
-   "why": "47604 - Riverside, TAS (seen in 138 sales); 90322 - Trevallyn, TAS - AutoBid (seen in 88 sales); 49909 - Launceston, TAS - AutoBid (seen in 31 sales); 4 or more bidders"
+   "why": "47604 - Riverside, TAS (seen in 139 sales); 90322 - Trevallyn, TAS - AutoBid (seen in 88 sales); 49909 - Launceston, TAS - AutoBid (seen in 31 sales); 4 or more bidders"
   },
   {
    "cdid": 3112340,
    "lot": 1435,
    "title": "3 BROAD ARROW STAMPED CONVICT ...",
    "category": "database: 'arrow + convict' made $1,100 median in 10 of 13 sales",
-   "status": "CHROME",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 80.0,
    "bid_count": 10,
@@ -1329,11 +1581,135 @@
      "n": 1,
      "top": 20.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     }
    ],
-   "why": "248906 - Wentworth Falls, (seen in 5 sales); 57263 - Perth, TAS - AutoBid (seen in 6 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 4 or more bidders"
+   "why": "248906 - Wentworth Falls, (seen in 5 sales); 57263 - Perth, TAS - AutoBid (seen in 6 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112533,
+   "lot": 1506,
+   "title": "VINTAGE CORFLUTE CUTOUT SIGN M...",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 80.0,
+   "bid_count": 9,
+   "close": "11/11/2026 8:20:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "170725 - Kings Meadows,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "170725 - Kings Meadows,",
+     "no": "170725",
+     "town": "Kings Meadows",
+     "state": "TAS",
+     "n": 1,
+     "top": 80.0,
+     "tags": [
+      "seen in 6 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 4,
+     "top": 55.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "59487 - Trevallyn, TAS",
+     "no": "59487",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 3,
+     "top": 50.0,
+     "tags": [
+      "seen in 67 sales"
+     ]
+    },
+    {
+     "who": "143940 - Blackstone Heights ,",
+     "no": "143940",
+     "town": "Blackstone Heights",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 21 sales"
+     ]
+    }
+   ],
+   "why": "170725 - Kings Meadows, (seen in 6 sales); 122213 - Westbury, TAS (seen in 141 sales); 59487 - Trevallyn, TAS (seen in 67 sales); 143940 - Blackstone Heights , (seen in 21 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112260,
+   "lot": 1588,
+   "title": "CAST IRON COIN BANK",
+   "category": "coins and banknotes",
+   "status": "SKIPPED",
+   "max_hammer": 0,
+   "current_bid": 80.0,
+   "bid_count": 15,
+   "close": "11/11/2026 8:47:40 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "247185 - East Launceston, - AutoBid",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "247185 - East Launceston, - AutoBid",
+     "no": "247185",
+     "town": "East Launceston",
+     "state": "TAS",
+     "n": 4,
+     "top": 80.0,
+     "tags": [
+      "seen in 27 sales"
+     ]
+    },
+    {
+     "who": "58689 - Dilston, TAS",
+     "no": "58689",
+     "town": "Dilston",
+     "state": "TAS",
+     "n": 6,
+     "top": 75.0,
+     "tags": [
+      "seen in 103 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 4,
+     "top": 45.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    }
+   ],
+   "why": "247185 - East Launceston, - AutoBid (seen in 27 sales); 58689 - Dilston, TAS (seen in 103 sales); 122213 - Westbury, TAS (seen in 141 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   },
   {
    "cdid": 3112600,
@@ -1411,11 +1787,11 @@
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 123 sales"
+      "seen in 125 sales"
      ]
     }
    ],
-   "why": "245086 - Prospect Vale, (seen in 25 sales); 134195 - South Launceston , - AutoBid (seen in 22 sales); 136699 - Prospect Vale , (seen in 53 sales); 90573 - Newnham, TAS (seen in 132 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
+   "why": "245086 - Prospect Vale, (seen in 25 sales); 134195 - South Launceston , - AutoBid (seen in 22 sales); 136699 - Prospect Vale , (seen in 53 sales); 90573 - Newnham, TAS (seen in 132 sales); 53311 - Ross, TAS (seen in 125 sales); 4 or more bidders"
   },
   {
    "cdid": 3112402,
@@ -1502,7 +1878,7 @@
      "n": 1,
      "top": 60.0,
      "tags": [
-      "seen in 69 sales"
+      "seen in 70 sales"
      ]
     },
     {
@@ -1528,7 +1904,69 @@
      ]
     }
    ],
-   "why": "241889 - Prospect Vale , (seen in 9 sales); 241021 - Dynnyrne , (seen in 69 sales); 248847 - Lilydale, (seen in 21 sales); 58593 - WEST LAUNCESTON, TAS (seen in 33 sales); 4 or more bidders"
+   "why": "241889 - Prospect Vale , (seen in 9 sales); 241021 - Dynnyrne , (seen in 70 sales); 248847 - Lilydale, (seen in 21 sales); 58593 - WEST LAUNCESTON, TAS (seen in 33 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112392,
+   "lot": 1671,
+   "title": "4 BOXES OF MODEL RAILWAY LAYOU...",
+   "category": "vague lot",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 70.0,
+   "bid_count": 12,
+   "close": "11/11/2026 9:14:40 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "53311 - Ross, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 3,
+     "top": 70.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "55649 - INVERMAY, TAS - AutoBid",
+     "no": "55649",
+     "town": "Invermay",
+     "state": "TAS",
+     "n": 5,
+     "top": 65.0,
+     "tags": [
+      "seen in 133 sales"
+     ]
+    },
+    {
+     "who": "150297 - Trevallyn,",
+     "no": "150297",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 3,
+     "top": 55.0,
+     "tags": [
+      "seen in 21 sales"
+     ]
+    },
+    {
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 19 sales"
+     ]
+    }
+   ],
+   "why": "53311 - Ross, TAS (seen in 125 sales); 55649 - INVERMAY, TAS - AutoBid (seen in 133 sales); 150297 - Trevallyn, (seen in 21 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
   },
   {
    "cdid": 3112455,
@@ -1564,7 +2002,7 @@
      "n": 5,
      "top": 65.0,
      "tags": [
-      "seen in 72 sales"
+      "seen in 73 sales"
      ]
     },
     {
@@ -1575,95 +2013,11 @@
      "n": 1,
      "top": 15.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     }
    ],
-   "why": "265812 - Traveller's Rest, (seen in 14 sales); 211802 - Invermay, (seen in 72 sales); 142868 - Perth, (seen in 18 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112485,
-   "lot": 1457,
-   "title": "MEDIEVAL STYLE PROTECTIVE GLOV...",
-   "category": "",
-   "status": "CHROME",
-   "max_hammer": 0,
-   "current_bid": 65.0,
-   "bid_count": 8,
-   "close": "11/11/2026 8:04:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "211802 - Invermay,",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "211802 - Invermay,",
-     "no": "211802",
-     "town": "Invermay",
-     "state": "TAS",
-     "n": 1,
-     "top": 65.0,
-     "tags": [
-      "seen in 72 sales"
-     ]
-    },
-    {
-     "who": "141386 - Launceston,",
-     "no": "141386",
-     "town": "Launceston",
-     "state": "TAS",
-     "n": 2,
-     "top": 60.0,
-     "tags": [
-      "seen in 47 sales"
-     ]
-    },
-    {
-     "who": "47753 - South Launceston , TAS",
-     "no": "47753",
-     "town": "South Launceston",
-     "state": "TAS",
-     "n": 1,
-     "top": 55.0,
-     "tags": [
-      "seen in 76 sales"
-     ]
-    },
-    {
-     "who": "275982 - newnham,",
-     "no": "275982",
-     "town": "Newnham",
-     "state": "TAS",
-     "n": 2,
-     "top": 45.0,
-     "tags": [
-      "seen in 10 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 1,
-     "top": 40.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
-     "state": "TAS",
-     "n": 1,
-     "top": 35.0,
-     "tags": [
-      "seen in 123 sales"
-     ]
-    }
-   ],
-   "why": "211802 - Invermay, (seen in 72 sales); 141386 - Launceston, (seen in 47 sales); 47753 - South Launceston , TAS (seen in 76 sales); 275982 - newnham, (seen in 10 sales); 122213 - Westbury, TAS (seen in 141 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
+   "why": "265812 - Traveller's Rest, (seen in 14 sales); 211802 - Invermay, (seen in 73 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
   },
   {
    "cdid": 3112492,
@@ -1746,556 +2100,42 @@
    "why": "122213 - Westbury, TAS (seen in 141 sales); 155501 - Gravelly Beach, - AutoBid (seen in 16 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112250,
-   "lot": 1578,
-   "title": "3 CALTEX OIL TINS",
-   "category": "art",
-   "status": "FAIL",
-   "max_hammer": 0,
-   "current_bid": 65.0,
-   "bid_count": 12,
-   "close": "11/11/2026 8:44:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "59487 - Trevallyn, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "59487 - Trevallyn, TAS",
-     "no": "59487",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 4,
-     "top": 65.0,
-     "tags": [
-      "seen in 67 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 4,
-     "top": 60.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "221336 - Rocherlea,",
-     "no": "221336",
-     "town": "Rocherlea",
-     "state": "TAS",
-     "n": 3,
-     "top": 35.0,
-     "tags": [
-      "seen in 24 sales"
-     ]
-    },
-    {
-     "who": "62993 - Lilydale , TAS",
-     "no": "62993",
-     "town": "Lilydale",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 85 sales"
-     ]
-    }
-   ],
-   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 221336 - Rocherlea, (seen in 24 sales); 62993 - Lilydale , TAS (seen in 85 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112274,
-   "lot": 1602,
-   "title": "2 KARTEL ARCHERY BOWS",
-   "category": "",
-   "status": "CHROME",
-   "max_hammer": 0,
-   "current_bid": 65.0,
-   "bid_count": 13,
-   "close": "11/11/2026 8:52:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "151223 - st leonards,",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "151223 - st leonards,",
-     "no": "151223",
-     "town": "St Leonards",
-     "state": "TAS",
-     "n": 1,
-     "top": 65.0,
-     "tags": [
-      "seen in 20 sales"
-     ]
-    },
-    {
-     "who": "68277 - Dilston, TAS",
-     "no": "68277",
-     "town": "Dilston",
-     "state": "TAS",
-     "n": 1,
-     "top": 60.0,
-     "tags": [
-      "seen in 29 sales"
-     ]
-    },
-    {
-     "who": "248847 - Lilydale,",
-     "no": "248847",
-     "town": "Lilydale",
-     "state": "TAS",
-     "n": 6,
-     "top": 55.0,
-     "tags": [
-      "seen in 21 sales"
-     ]
-    },
-    {
-     "who": "90322 - Trevallyn, TAS - AutoBid",
-     "no": "90322",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 5,
-     "top": 50.0,
-     "tags": [
-      "seen in 88 sales"
-     ]
-    }
-   ],
-   "why": "151223 - st leonards, (seen in 20 sales); 68277 - Dilston, TAS (seen in 29 sales); 248847 - Lilydale, (seen in 21 sales); 90322 - Trevallyn, TAS - AutoBid (seen in 88 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112532,
-   "lot": 1504,
-   "title": "39 PIECE SIDCHROME SOCKET SET",
-   "category": "",
-   "status": "FAIL",
-   "max_hammer": 0,
-   "current_bid": 60.0,
-   "bid_count": 9,
-   "close": "11/11/2026 8:20:00 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "75494 - Deloraine , TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "75494 - Deloraine , TAS",
-     "no": "75494",
-     "town": "Deloraine",
-     "state": "TAS",
-     "n": 2,
-     "top": 60.0,
-     "tags": [
-      "seen in 21 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 3,
-     "top": 55.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "211815 - TREVALLYN,",
-     "no": "211815",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 1,
-     "top": 40.0,
-     "tags": [
-      "seen in 65 sales"
-     ]
-    },
-    {
-     "who": "167167 - Launceston ,",
-     "no": "167167",
-     "town": "Launceston",
-     "state": "TAS",
-     "n": 1,
-     "top": 35.0,
-     "tags": [
-      "seen in 56 sales"
-     ]
-    },
-    {
-     "who": "142868 - Perth,",
-     "no": "142868",
-     "town": "Perth",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 18 sales"
-     ]
-    },
-    {
-     "who": "47446 - Newnham, TAS",
-     "no": "47446",
-     "town": "Newnham",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 102 sales"
-     ]
-    }
-   ],
-   "why": "75494 - Deloraine , TAS (seen in 21 sales); 122213 - Westbury, TAS (seen in 141 sales); 211815 - TREVALLYN, (seen in 65 sales); 167167 - Launceston , (seen in 56 sales); 142868 - Perth, (seen in 18 sales); 47446 - Newnham, TAS (seen in 102 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112536,
-   "lot": 1509,
-   "title": "PAINTED CAST IRON WEATHER VANE...",
-   "category": "database: 'featuring + painted' made $420 median in 3 of 4 sales",
-   "status": "SKIPPED",
-   "max_hammer": 0,
-   "current_bid": 60.0,
-   "bid_count": 8,
-   "close": "11/11/2026 8:21:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "91424 - Kingsmeadows, TAS - AutoBid",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "91424 - Kingsmeadows, TAS - AutoBid",
-     "no": "91424",
-     "town": "Kingsmeadows",
-     "state": "TAS",
-     "n": 4,
-     "top": 60.0,
-     "tags": [
-      "seen in 19 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 4,
-     "top": 55.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    }
-   ],
-   "why": "91424 - Kingsmeadows, TAS - AutoBid (seen in 19 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112392,
-   "lot": 1671,
-   "title": "4 BOXES OF MODEL RAILWAY LAYOU...",
-   "category": "vague lot",
-   "status": "FAIL",
-   "max_hammer": 0,
-   "current_bid": 60.0,
-   "bid_count": 9,
-   "close": "11/11/2026 9:14:40 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "55649 - INVERMAY, TAS - AutoBid",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "55649 - INVERMAY, TAS - AutoBid",
-     "no": "55649",
-     "town": "Invermay",
-     "state": "TAS",
-     "n": 4,
-     "top": 60.0,
-     "tags": [
-      "seen in 131 sales"
-     ]
-    },
-    {
-     "who": "150297 - Trevallyn,",
-     "no": "150297",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 3,
-     "top": 55.0,
-     "tags": [
-      "seen in 21 sales"
-     ]
-    },
-    {
-     "who": "142868 - Perth,",
-     "no": "142868",
-     "town": "Perth",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 18 sales"
-     ]
-    },
-    {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
-     "state": "TAS",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 123 sales"
-     ]
-    }
-   ],
-   "why": "55649 - INVERMAY, TAS - AutoBid (seen in 131 sales); 150297 - Trevallyn, (seen in 21 sales); 142868 - Perth, (seen in 18 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112325,
-   "lot": 1420,
-   "title": "KEENS, GENUINE TASMANIAN CURRY...",
-   "category": "",
-   "status": "CHROME",
-   "max_hammer": 0,
-   "current_bid": 55.0,
-   "bid_count": 8,
-   "close": "11/11/2026 7:52:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "59487 - Trevallyn, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "59487 - Trevallyn, TAS",
-     "no": "59487",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 3,
-     "top": 55.0,
-     "tags": [
-      "seen in 67 sales"
-     ]
-    },
-    {
-     "who": "49364 - Trevallyn, TAS",
-     "no": "49364",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 1,
-     "top": 50.0,
-     "tags": [
-      "seen in 124 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 2,
-     "top": 40.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "142868 - Perth,",
-     "no": "142868",
-     "town": "Perth",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 18 sales"
-     ]
-    },
-    {
-     "who": "47428 - Yougtown , TAS",
-     "no": "47428",
-     "town": "Yougtown",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 83 sales"
-     ]
-    }
-   ],
-   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 49364 - Trevallyn, TAS (seen in 124 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112328,
-   "lot": 1423,
-   "title": "MURRAY STREET SIGN L-60 CM",
-   "category": "",
-   "status": "CHROME",
-   "max_hammer": 0,
-   "current_bid": 55.0,
-   "bid_count": 11,
-   "close": "11/11/2026 7:53:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "59487 - Trevallyn, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "59487 - Trevallyn, TAS",
-     "no": "59487",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 5,
-     "top": 55.0,
-     "tags": [
-      "seen in 67 sales"
-     ]
-    },
-    {
-     "who": "59372 - Norwood, TAS - AutoBid",
-     "no": "59372",
-     "town": "Norwood",
-     "state": "TAS",
-     "n": 5,
-     "top": 50.0,
-     "tags": [
-      "seen in 2 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    }
-   ],
-   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 59372 - Norwood, TAS - AutoBid (seen in 2 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112329,
-   "lot": 1424,
-   "title": "4 1:43 SCALE MODEL FORD FALCON...",
-   "category": "database: 'falcon + ford' made $2,400 median in 5 of 7 sales",
-   "status": "FAIL",
-   "max_hammer": 0,
-   "current_bid": 55.0,
-   "bid_count": 11,
-   "close": "11/11/2026 7:53:40 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "122213 - Westbury, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 5,
-     "top": 55.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "68284 - Beaconsfield, TAS - AutoBid",
-     "no": "68284",
-     "town": "Beaconsfield",
-     "state": "TAS",
-     "n": 5,
-     "top": 50.0,
-     "tags": [
-      "seen in 28 sales"
-     ]
-    },
-    {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
-     "state": "TAS",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 123 sales"
-     ]
-    }
-   ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 68284 - Beaconsfield, TAS - AutoBid (seen in 28 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112533,
-   "lot": 1506,
-   "title": "VINTAGE CORFLUTE CUTOUT SIGN M...",
-   "category": "",
-   "status": "FAIL",
-   "max_hammer": 0,
-   "current_bid": 55.0,
-   "bid_count": 8,
-   "close": "11/11/2026 8:20:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "122213 - Westbury, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 4,
-     "top": 55.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "59487 - Trevallyn, TAS",
-     "no": "59487",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 3,
-     "top": 50.0,
-     "tags": [
-      "seen in 67 sales"
-     ]
-    },
-    {
-     "who": "143940 - Blackstone Heights ,",
-     "no": "143940",
-     "town": "Blackstone Heights",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 21 sales"
-     ]
-    }
-   ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 59487 - Trevallyn, TAS (seen in 67 sales); 143940 - Blackstone Heights , (seen in 21 sales); 4 or more bidders"
-  },
-  {
    "cdid": 3112499,
    "lot": 1471,
    "title": "RAMBO III HUNTING KNIFE WITH L...",
    "category": "",
    "status": "FAIL",
    "max_hammer": 0,
-   "current_bid": 50.0,
-   "bid_count": 7,
+   "current_bid": 65.0,
+   "bid_count": 9,
    "close": "11/11/2026 8:09:00 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "266164 - Riverside,",
+   "leader": "53311 - Ross, TAS",
    "researched": true,
    "bidders": [
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 1,
+     "top": 65.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "240865 - Railton,",
+     "no": "240865",
+     "town": "Railton",
+     "state": "TAS",
+     "n": 1,
+     "top": 60.0,
+     "tags": [
+      "seen in 35 sales"
+     ]
+    },
     {
      "who": "266164 - Riverside,",
      "no": "266164",
@@ -2304,7 +2144,7 @@
      "n": 1,
      "top": 50.0,
      "tags": [
-      "seen in 21 sales"
+      "seen in 23 sales"
      ]
     },
     {
@@ -2374,23 +2214,355 @@
      ]
     }
    ],
-   "why": "266164 - Riverside, (seen in 21 sales); 298197 - Prospect Bale , (seen in 3 sales); 172008 - Perth, (seen in 56 sales); 47995 - hadspen, TAS (seen in 46 sales); 122213 - Westbury, TAS (seen in 141 sales); 285275 - Mowbray, (seen in 2 sales); 56993 - Queenstown , TAS (seen in 91 sales); 4 or more bidders"
+   "why": "53311 - Ross, TAS (seen in 125 sales); 240865 - Railton, (seen in 35 sales); 266164 - Riverside, (seen in 23 sales); 298197 - Prospect Bale , (seen in 3 sales); 172008 - Perth, (seen in 56 sales); 47995 - hadspen, TAS (seen in 46 sales); 122213 - Westbury, TAS (seen in 141 sales); 285275 - Mowbray, (seen in 2 sales); 56993 - Queenstown , TAS (seen in 91 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112250,
+   "lot": 1578,
+   "title": "3 CALTEX OIL TINS",
+   "category": "art",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 65.0,
+   "bid_count": 12,
+   "close": "11/11/2026 8:44:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "59487 - Trevallyn, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "59487 - Trevallyn, TAS",
+     "no": "59487",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 4,
+     "top": 65.0,
+     "tags": [
+      "seen in 67 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 4,
+     "top": 60.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 3,
+     "top": 35.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    },
+    {
+     "who": "62993 - Lilydale , TAS",
+     "no": "62993",
+     "town": "Lilydale",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 85 sales"
+     ]
+    }
+   ],
+   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 221336 - Rocherlea, (seen in 24 sales); 62993 - Lilydale , TAS (seen in 85 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112274,
+   "lot": 1602,
+   "title": "2 KARTEL ARCHERY BOWS",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 65.0,
+   "bid_count": 13,
+   "close": "11/11/2026 8:52:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "151223 - st leonards,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "151223 - st leonards,",
+     "no": "151223",
+     "town": "St Leonards",
+     "state": "TAS",
+     "n": 1,
+     "top": 65.0,
+     "tags": [
+      "seen in 20 sales"
+     ]
+    },
+    {
+     "who": "68277 - Dilston, TAS",
+     "no": "68277",
+     "town": "Dilston",
+     "state": "TAS",
+     "n": 1,
+     "top": 60.0,
+     "tags": [
+      "seen in 29 sales"
+     ]
+    },
+    {
+     "who": "248847 - Lilydale,",
+     "no": "248847",
+     "town": "Lilydale",
+     "state": "TAS",
+     "n": 6,
+     "top": 55.0,
+     "tags": [
+      "seen in 21 sales"
+     ]
+    },
+    {
+     "who": "90322 - Trevallyn, TAS - AutoBid",
+     "no": "90322",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 5,
+     "top": 50.0,
+     "tags": [
+      "seen in 88 sales"
+     ]
+    }
+   ],
+   "why": "151223 - st leonards, (seen in 20 sales); 68277 - Dilston, TAS (seen in 29 sales); 248847 - Lilydale, (seen in 21 sales); 90322 - Trevallyn, TAS - AutoBid (seen in 88 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112329,
+   "lot": 1424,
+   "title": "4 1:43 SCALE MODEL FORD FALCON...",
+   "category": "database: 'falcon + ford' made $2,400 median in 5 of 7 sales",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 60.0,
+   "bid_count": 12,
+   "close": "11/11/2026 7:53:40 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "211515 - BICHENO,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "211515 - BICHENO,",
+     "no": "211515",
+     "town": "Bicheno",
+     "state": "TAS",
+     "n": 1,
+     "top": 60.0,
+     "tags": [
+      "seen in 68 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 5,
+     "top": 55.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "68284 - Beaconsfield, TAS - AutoBid",
+     "no": "68284",
+     "town": "Beaconsfield",
+     "state": "TAS",
+     "n": 5,
+     "top": 50.0,
+     "tags": [
+      "seen in 28 sales"
+     ]
+    },
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    }
+   ],
+   "why": "211515 - BICHENO, (seen in 68 sales); 122213 - Westbury, TAS (seen in 141 sales); 68284 - Beaconsfield, TAS - AutoBid (seen in 28 sales); 53311 - Ross, TAS (seen in 125 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112532,
+   "lot": 1504,
+   "title": "39 PIECE SIDCHROME SOCKET SET",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 60.0,
+   "bid_count": 9,
+   "close": "11/11/2026 8:20:00 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "75494 - Deloraine , TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "75494 - Deloraine , TAS",
+     "no": "75494",
+     "town": "Deloraine",
+     "state": "TAS",
+     "n": 2,
+     "top": 60.0,
+     "tags": [
+      "seen in 21 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 3,
+     "top": 55.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "211815 - TREVALLYN,",
+     "no": "211815",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 1,
+     "top": 40.0,
+     "tags": [
+      "seen in 65 sales"
+     ]
+    },
+    {
+     "who": "167167 - Launceston ,",
+     "no": "167167",
+     "town": "Launceston",
+     "state": "TAS",
+     "n": 1,
+     "top": 35.0,
+     "tags": [
+      "seen in 56 sales"
+     ]
+    },
+    {
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 19 sales"
+     ]
+    },
+    {
+     "who": "47446 - Newnham, TAS",
+     "no": "47446",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 102 sales"
+     ]
+    }
+   ],
+   "why": "75494 - Deloraine , TAS (seen in 21 sales); 122213 - Westbury, TAS (seen in 141 sales); 211815 - TREVALLYN, (seen in 65 sales); 167167 - Launceston , (seen in 56 sales); 142868 - Perth, (seen in 19 sales); 47446 - Newnham, TAS (seen in 102 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112536,
+   "lot": 1509,
+   "title": "PAINTED CAST IRON WEATHER VANE...",
+   "category": "database: 'featuring + painted' made $420 median in 3 of 4 sales",
+   "status": "SKIPPED",
+   "max_hammer": 0,
+   "current_bid": 60.0,
+   "bid_count": 8,
+   "close": "11/11/2026 8:21:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "91424 - Kingsmeadows, TAS - AutoBid",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "91424 - Kingsmeadows, TAS - AutoBid",
+     "no": "91424",
+     "town": "Kingsmeadows",
+     "state": "TAS",
+     "n": 4,
+     "top": 60.0,
+     "tags": [
+      "seen in 20 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 4,
+     "top": 55.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    }
+   ],
+   "why": "91424 - Kingsmeadows, TAS - AutoBid (seen in 20 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
   },
   {
    "cdid": 3112553,
    "lot": 1526,
    "title": "2 TRAYS WITH ASSORTED BADGES, ...",
    "category": "watches and clocks",
-   "status": "CHROME",
+   "status": "FAIL",
    "max_hammer": 0,
-   "current_bid": 50.0,
-   "bid_count": 7,
+   "current_bid": 60.0,
+   "bid_count": 9,
    "close": "11/11/2026 8:27:00 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "47394 - Invermay, TAS",
+   "leader": "289702 - George Town ,",
    "researched": true,
    "bidders": [
+    {
+     "who": "289702 - George Town ,",
+     "no": "289702",
+     "town": "George Town",
+     "state": "TAS",
+     "n": 2,
+     "top": 60.0,
+     "tags": [
+      "seen in 9 sales"
+     ]
+    },
+    {
+     "who": "60938 - GREENS BEACH, TAS",
+     "no": "60938",
+     "town": "Greens Beach",
+     "state": "TAS",
+     "n": 3,
+     "top": 55.0,
+     "tags": [
+      "seen in 83 sales"
+     ]
+    },
     {
      "who": "47394 - Invermay, TAS",
      "no": "47394",
@@ -2399,29 +2571,7 @@
      "n": 1,
      "top": 50.0,
      "tags": [
-      "seen in 106 sales"
-     ]
-    },
-    {
-     "who": "60938 - GREENS BEACH, TAS",
-     "no": "60938",
-     "town": "Greens Beach",
-     "state": "TAS",
-     "n": 2,
-     "top": 45.0,
-     "tags": [
-      "seen in 82 sales"
-     ]
-    },
-    {
-     "who": "289702 - George Town ,",
-     "no": "289702",
-     "town": "George Town",
-     "state": "TAS",
-     "n": 1,
-     "top": 40.0,
-     "tags": [
-      "seen in 9 sales"
+      "seen in 107 sales"
      ]
     },
     {
@@ -2454,11 +2604,551 @@
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 13 sales"
+      "seen in 14 sales"
      ]
     }
    ],
-   "why": "47394 - Invermay, TAS (seen in 106 sales); 60938 - GREENS BEACH, TAS (seen in 82 sales); 289702 - George Town , (seen in 9 sales); 227440 - Zeehan, (seen in 34 sales); 221336 - Rocherlea, (seen in 24 sales); 289732 - Bicheno, (seen in 13 sales); 4 or more bidders"
+   "why": "289702 - George Town , (seen in 9 sales); 60938 - GREENS BEACH, TAS (seen in 83 sales); 47394 - Invermay, TAS (seen in 107 sales); 227440 - Zeehan, (seen in 34 sales); 221336 - Rocherlea, (seen in 24 sales); 289732 - Bicheno, (seen in 14 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112288,
+   "lot": 1616,
+   "title": "DAWN 5 INCH BENCH VICE",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 60.0,
+   "bid_count": 6,
+   "close": "11/11/2026 8:57:00 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "289617 - Longford ,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "289617 - Longford ,",
+     "no": "289617",
+     "town": "Longford",
+     "state": "TAS",
+     "n": 1,
+     "top": 60.0,
+     "tags": [
+      "seen in 9 sales"
+     ]
+    },
+    {
+     "who": "55804 - Trevallyn, TAS",
+     "no": "55804",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 2,
+     "top": 55.0,
+     "tags": [
+      "seen in 3 sales"
+     ]
+    },
+    {
+     "who": "218843 - East Launceston , - AutoBid",
+     "no": "218843",
+     "town": "East Launceston",
+     "state": "TAS",
+     "n": 2,
+     "top": 50.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    },
+    {
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
+     "state": "TAS",
+     "n": 1,
+     "top": 30.0,
+     "tags": [
+      "seen in 19 sales"
+     ]
+    }
+   ],
+   "why": "289617 - Longford , (seen in 9 sales); 55804 - Trevallyn, TAS (seen in 3 sales); 218843 - East Launceston , - AutoBid (seen in 24 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112325,
+   "lot": 1420,
+   "title": "KEENS, GENUINE TASMANIAN CURRY...",
+   "category": "",
+   "status": "CHROME",
+   "max_hammer": 0,
+   "current_bid": 55.0,
+   "bid_count": 8,
+   "close": "11/11/2026 7:52:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "59487 - Trevallyn, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "59487 - Trevallyn, TAS",
+     "no": "59487",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 3,
+     "top": 55.0,
+     "tags": [
+      "seen in 67 sales"
+     ]
+    },
+    {
+     "who": "49364 - Trevallyn, TAS",
+     "no": "49364",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 1,
+     "top": 50.0,
+     "tags": [
+      "seen in 124 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 2,
+     "top": 40.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 19 sales"
+     ]
+    },
+    {
+     "who": "47428 - Yougtown , TAS",
+     "no": "47428",
+     "town": "Yougtown",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 83 sales"
+     ]
+    }
+   ],
+   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 49364 - Trevallyn, TAS (seen in 124 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112328,
+   "lot": 1423,
+   "title": "MURRAY STREET SIGN L-60 CM",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 55.0,
+   "bid_count": 11,
+   "close": "11/11/2026 7:53:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "59487 - Trevallyn, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "59487 - Trevallyn, TAS",
+     "no": "59487",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 5,
+     "top": 55.0,
+     "tags": [
+      "seen in 67 sales"
+     ]
+    },
+    {
+     "who": "59372 - Norwood, TAS - AutoBid",
+     "no": "59372",
+     "town": "Norwood",
+     "state": "TAS",
+     "n": 5,
+     "top": 50.0,
+     "tags": [
+      "seen in 2 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    }
+   ],
+   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 59372 - Norwood, TAS - AutoBid (seen in 2 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112362,
+   "lot": 1639,
+   "title": "BERKLEY 8'6\" FLY ROD & REEL",
+   "category": "",
+   "status": "CHROME",
+   "max_hammer": 0,
+   "current_bid": 55.0,
+   "bid_count": 10,
+   "close": "11/11/2026 9:04:40 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "151065 - Westbury ,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "151065 - Westbury ,",
+     "no": "151065",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 3,
+     "top": 55.0,
+     "tags": [
+      "seen in 95 sales"
+     ]
+    },
+    {
+     "who": "58463 - Penguin, TAS - AutoBid",
+     "no": "58463",
+     "town": "Penguin",
+     "state": "TAS",
+     "n": 3,
+     "top": 50.0,
+     "tags": [
+      "seen in 57 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 2,
+     "top": 25.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    },
+    {
+     "who": "71573 - Newnham, TAS",
+     "no": "71573",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 63 sales"
+     ]
+    }
+   ],
+   "why": "151065 - Westbury , (seen in 95 sales); 58463 - Penguin, TAS - AutoBid (seen in 57 sales); 122213 - Westbury, TAS (seen in 141 sales); 221336 - Rocherlea, (seen in 24 sales); 71573 - Newnham, TAS (seen in 63 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112411,
+   "lot": 1690,
+   "title": "BROMIC OXYSET - MOBILE BRAZING...",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 15,
+   "current_bid": 55.0,
+   "bid_count": 10,
+   "close": "11/11/2026 9:21:00 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "62993 - Lilydale , TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "62993 - Lilydale , TAS",
+     "no": "62993",
+     "town": "Lilydale",
+     "state": "TAS",
+     "n": 4,
+     "top": 55.0,
+     "tags": [
+      "seen in 85 sales"
+     ]
+    },
+    {
+     "who": "201419 - George Town,",
+     "no": "201419",
+     "town": "George Town",
+     "state": "TAS",
+     "n": 2,
+     "top": 50.0,
+     "tags": [
+      "seen in 88 sales"
+     ]
+    },
+    {
+     "who": "68284 - Beaconsfield, TAS - AutoBid",
+     "no": "68284",
+     "town": "Beaconsfield",
+     "state": "TAS",
+     "n": 3,
+     "top": 40.0,
+     "tags": [
+      "seen in 28 sales"
+     ]
+    },
+    {
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    }
+   ],
+   "why": "62993 - Lilydale , TAS (seen in 85 sales); 201419 - George Town, (seen in 88 sales); 68284 - Beaconsfield, TAS - AutoBid (seen in 28 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112488,
+   "lot": 1460,
+   "title": "MEDIEVAL STYLE SHIELD & HELMET",
+   "category": "",
+   "status": "CHROME",
+   "max_hammer": 0,
+   "current_bid": 50.0,
+   "bid_count": 7,
+   "close": "11/11/2026 8:05:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "142986 - Newnham,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "142986 - Newnham,",
+     "no": "142986",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 1,
+     "top": 50.0,
+     "tags": [
+      "seen in 114 sales"
+     ]
+    },
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 2,
+     "top": 45.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "141386 - Launceston,",
+     "no": "141386",
+     "town": "Launceston",
+     "state": "TAS",
+     "n": 1,
+     "top": 40.0,
+     "tags": [
+      "seen in 47 sales"
+     ]
+    },
+    {
+     "who": "275982 - newnham,",
+     "no": "275982",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 2,
+     "top": 35.0,
+     "tags": [
+      "seen in 10 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 30.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    }
+   ],
+   "why": "142986 - Newnham, (seen in 114 sales); 53311 - Ross, TAS (seen in 125 sales); 141386 - Launceston, (seen in 47 sales); 275982 - newnham, (seen in 10 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112531,
+   "lot": 1503,
+   "title": "TRAY OF WOOD CHISELS ETC",
+   "category": "tools and axes",
+   "status": "FAIL",
+   "max_hammer": 10,
+   "current_bid": 50.0,
+   "bid_count": 7,
+   "close": "11/11/2026 8:19:40 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "151065 - Westbury ,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "151065 - Westbury ,",
+     "no": "151065",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 50.0,
+     "tags": [
+      "seen in 95 sales"
+     ]
+    },
+    {
+     "who": "74227 - Ravenswood, TAS",
+     "no": "74227",
+     "town": "Ravenswood",
+     "state": "TAS",
+     "n": 1,
+     "top": 45.0,
+     "tags": [
+      "seen in 102 sales"
+     ]
+    },
+    {
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
+     "state": "TAS",
+     "n": 1,
+     "top": 40.0,
+     "tags": [
+      "seen in 19 sales"
+     ]
+    },
+    {
+     "who": "66584 - RIVERSIDE, TAS - AutoBid",
+     "no": "66584",
+     "town": "Riverside",
+     "state": "TAS",
+     "n": 2,
+     "top": 35.0,
+     "tags": [
+      "seen in 88 sales"
+     ]
+    },
+    {
+     "who": "90322 - Trevallyn, TAS - AutoBid",
+     "no": "90322",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 2,
+     "top": 35.0,
+     "tags": [
+      "seen in 88 sales"
+     ]
+    }
+   ],
+   "why": "151065 - Westbury , (seen in 95 sales); 74227 - Ravenswood, TAS (seen in 102 sales); 142868 - Perth, (seen in 19 sales); 66584 - RIVERSIDE, TAS - AutoBid (seen in 88 sales); 90322 - Trevallyn, TAS - AutoBid (seen in 88 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112566,
+   "lot": 1539,
+   "title": "TRAY OF OLD TASMANIAN LICENSE ...",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 50.0,
+   "bid_count": 10,
+   "close": "11/11/2026 8:31:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "53311 - Ross, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 2,
+     "top": 50.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 3,
+     "top": 45.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "49073 - South Launceston , TAS - AutoBid",
+     "no": "49073",
+     "town": "South Launceston",
+     "state": "TAS",
+     "n": 3,
+     "top": 40.0,
+     "tags": [
+      "seen in 39 sales"
+     ]
+    },
+    {
+     "who": "47394 - Invermay, TAS",
+     "no": "47394",
+     "town": "Invermay",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 107 sales"
+     ]
+    },
+    {
+     "who": "143940 - Blackstone Heights ,",
+     "no": "143940",
+     "town": "Blackstone Heights",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 21 sales"
+     ]
+    }
+   ],
+   "why": "53311 - Ross, TAS (seen in 125 sales); 122213 - Westbury, TAS (seen in 141 sales); 49073 - South Launceston , TAS - AutoBid (seen in 39 sales); 47394 - Invermay, TAS (seen in 107 sales); 143940 - Blackstone Heights , (seen in 21 sales); 4 or more bidders"
   },
   {
    "cdid": 3112286,
@@ -2523,68 +3213,6 @@
    "why": "70419 - Low Head, TAS (seen in 7 sales); 221336 - Rocherlea, (seen in 24 sales); 122213 - Westbury, TAS (seen in 141 sales); 49344 - Loira, TAS (seen in 68 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112411,
-   "lot": 1690,
-   "title": "BROMIC OXYSET - MOBILE BRAZING...",
-   "category": "",
-   "status": "FAIL",
-   "max_hammer": 15,
-   "current_bid": 50.0,
-   "bid_count": 9,
-   "close": "11/11/2026 9:21:00 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "201419 - George Town,",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "201419 - George Town,",
-     "no": "201419",
-     "town": "George Town",
-     "state": "TAS",
-     "n": 2,
-     "top": 50.0,
-     "tags": [
-      "seen in 88 sales"
-     ]
-    },
-    {
-     "who": "62993 - Lilydale , TAS",
-     "no": "62993",
-     "town": "Lilydale",
-     "state": "TAS",
-     "n": 3,
-     "top": 45.0,
-     "tags": [
-      "seen in 85 sales"
-     ]
-    },
-    {
-     "who": "68284 - Beaconsfield, TAS - AutoBid",
-     "no": "68284",
-     "town": "Beaconsfield",
-     "state": "TAS",
-     "n": 3,
-     "top": 40.0,
-     "tags": [
-      "seen in 28 sales"
-     ]
-    },
-    {
-     "who": "221336 - Rocherlea,",
-     "no": "221336",
-     "town": "Rocherlea",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 24 sales"
-     ]
-    }
-   ],
-   "why": "201419 - George Town, (seen in 88 sales); 62993 - Lilydale , TAS (seen in 85 sales); 68284 - Beaconsfield, TAS - AutoBid (seen in 28 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
-  },
-  {
    "cdid": 3112319,
    "lot": 1414,
    "title": "SMALL CAST IRON RABBIT FLOAT V...",
@@ -2607,7 +3235,7 @@
      "n": 2,
      "top": 45.0,
      "tags": [
-      "seen in 71 sales"
+      "seen in 72 sales"
      ]
     },
     {
@@ -2629,7 +3257,7 @@
      "n": 2,
      "top": 30.0,
      "tags": [
-      "seen in 69 sales"
+      "seen in 70 sales"
      ]
     },
     {
@@ -2666,142 +3294,91 @@
      ]
     }
    ],
-   "why": "117678 - Youngtown, TAS (seen in 71 sales); 47637 - Riverside, TAS (seen in 86 sales); 241021 - Dynnyrne , (seen in 69 sales); 201511 - Kings Meadows, TAS - AutoBid (seen in 66 sales); 47666 - Ulverstone , TAS (seen in 99 sales); 182303 - Trevallyn , (seen in 23 sales); 4 or more bidders"
+   "why": "117678 - Youngtown, TAS (seen in 72 sales); 47637 - Riverside, TAS (seen in 86 sales); 241021 - Dynnyrne , (seen in 70 sales); 201511 - Kings Meadows, TAS - AutoBid (seen in 66 sales); 47666 - Ulverstone , TAS (seen in 99 sales); 182303 - Trevallyn , (seen in 23 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112531,
-   "lot": 1503,
-   "title": "TRAY OF WOOD CHISELS ETC",
-   "category": "tools and axes",
-   "status": "FAIL",
-   "max_hammer": 10,
-   "current_bid": 45.0,
-   "bid_count": 6,
-   "close": "11/11/2026 8:19:40 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "74227 - Ravenswood, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "74227 - Ravenswood, TAS",
-     "no": "74227",
-     "town": "Ravenswood",
-     "state": "TAS",
-     "n": 1,
-     "top": 45.0,
-     "tags": [
-      "seen in 102 sales"
-     ]
-    },
-    {
-     "who": "142868 - Perth,",
-     "no": "142868",
-     "town": "Perth",
-     "state": "TAS",
-     "n": 1,
-     "top": 40.0,
-     "tags": [
-      "seen in 18 sales"
-     ]
-    },
-    {
-     "who": "66584 - RIVERSIDE, TAS - AutoBid",
-     "no": "66584",
-     "town": "Riverside",
-     "state": "TAS",
-     "n": 2,
-     "top": 35.0,
-     "tags": [
-      "seen in 87 sales"
-     ]
-    },
-    {
-     "who": "90322 - Trevallyn, TAS - AutoBid",
-     "no": "90322",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 2,
-     "top": 35.0,
-     "tags": [
-      "seen in 88 sales"
-     ]
-    }
-   ],
-   "why": "74227 - Ravenswood, TAS (seen in 102 sales); 142868 - Perth, (seen in 18 sales); 66584 - RIVERSIDE, TAS - AutoBid (seen in 87 sales); 90322 - Trevallyn, TAS - AutoBid (seen in 88 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112566,
-   "lot": 1539,
-   "title": "TRAY OF OLD TASMANIAN LICENSE ...",
+   "cdid": 3112597,
+   "lot": 1570,
+   "title": "MAKITA BELT SANDER - GOING ORD...",
    "category": "",
-   "status": "FAIL",
+   "status": "CHROME",
    "max_hammer": 0,
    "current_bid": 45.0,
    "bid_count": 9,
-   "close": "11/11/2026 8:31:20 PM ADST",
+   "close": "11/11/2026 8:41:40 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "122213 - Westbury, TAS",
+   "leader": "60394 - Riverside, TAS",
    "researched": true,
    "bidders": [
     {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
+     "who": "60394 - Riverside, TAS",
+     "no": "60394",
+     "town": "Riverside",
      "state": "TAS",
-     "n": 3,
+     "n": 2,
      "top": 45.0,
      "tags": [
-      "seen in 141 sales"
+      "seen in 3 sales"
      ]
     },
     {
-     "who": "49073 - South Launceston , TAS - AutoBid",
-     "no": "49073",
-     "town": "South Launceston",
+     "who": "47716 - Dromedary , TAS - AutoBid",
+     "no": "47716",
+     "town": "Dromedary",
      "state": "TAS",
      "n": 3,
      "top": 40.0,
      "tags": [
-      "seen in 38 sales"
+      "seen in 67 sales"
      ]
     },
     {
-     "who": "47394 - Invermay, TAS",
-     "no": "47394",
-     "town": "Invermay",
+     "who": "47337 - Scamander, TAS",
+     "no": "47337",
+     "town": "Scamander",
+     "state": "TAS",
+     "n": 1,
+     "top": 30.0,
+     "tags": [
+      "seen in 46 sales"
+     ]
+    },
+    {
+     "who": "47798 - Ulverstone , TAS",
+     "no": "47798",
+     "town": "Ulverstone",
      "state": "TAS",
      "n": 1,
      "top": 20.0,
      "tags": [
-      "seen in 106 sales"
+      "seen in 70 sales"
      ]
     },
     {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
-     "state": "TAS",
+     "who": "121118 - HILLWOOD (7252),",
+     "no": "121118",
+     "town": "Hillwood 7252",
+     "state": "",
      "n": 1,
      "top": 15.0,
      "tags": [
-      "seen in 123 sales"
+      "seen in 53 sales"
      ]
     },
     {
-     "who": "143940 - Blackstone Heights ,",
-     "no": "143940",
-     "town": "Blackstone Heights",
-     "state": "TAS",
+     "who": "149770 - Parattah,",
+     "no": "149770",
+     "town": "Parattah",
+     "state": "",
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 21 sales"
+      "seen in 75 sales"
      ]
     }
    ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 49073 - South Launceston , TAS - AutoBid (seen in 38 sales); 47394 - Invermay, TAS (seen in 106 sales); 53311 - Ross, TAS (seen in 123 sales); 143940 - Blackstone Heights , (seen in 21 sales); 4 or more bidders"
+   "why": "60394 - Riverside, TAS (seen in 3 sales); 47716 - Dromedary , TAS - AutoBid (seen in 67 sales); 47337 - Scamander, TAS (seen in 46 sales); 47798 - Ulverstone , TAS (seen in 70 sales); 121118 - HILLWOOD (7252), (seen in 53 sales); 149770 - Parattah, (seen in 75 sales); 4 or more bidders"
   },
   {
    "cdid": 3112247,
@@ -2877,55 +3454,56 @@
    "why": "90465 - St Helens, TAS (seen in 54 sales); 59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 221336 - Rocherlea, (seen in 24 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112260,
-   "lot": 1588,
-   "title": "CAST IRON COIN BANK",
-   "category": "coins and banknotes",
+   "cdid": 3112258,
+   "lot": 1586,
+   "title": "2 REMOTE CONTROL WAR PLANES - ...",
+   "category": "",
    "status": "SKIPPED",
    "max_hammer": 0,
    "current_bid": 45.0,
    "bid_count": 8,
-   "close": "11/11/2026 8:47:40 PM ADST",
+   "close": "11/11/2026 8:47:00 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "122213 - Westbury, TAS",
+   "leader": "53311 - Ross, TAS",
    "researched": true,
    "bidders": [
     {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
      "state": "TAS",
-     "n": 4,
+     "n": 2,
      "top": 45.0,
      "tags": [
-      "seen in 141 sales"
+      "seen in 125 sales"
      ]
     },
     {
-     "who": "58689 - Dilston, TAS",
-     "no": "58689",
-     "town": "Dilston",
+     "who": "51662 - Legana, TAS - AutoBid",
+     "no": "51662",
+     "town": "Legana",
      "state": "TAS",
-     "n": 3,
+     "n": 4,
      "top": 40.0,
      "tags": [
-      "seen in 102 sales"
+      "seen in 101 sales"
      ]
     },
     {
-     "who": "221336 - Rocherlea,",
-     "no": "221336",
-     "town": "Rocherlea",
+     "who": "272140 - Scottsdale ,",
+     "no": "272140",
+     "town": "Scottsdale",
      "state": "TAS",
-     "n": 1,
-     "top": 10.0,
+     "n": 2,
+     "top": 30.0,
      "tags": [
-      "seen in 24 sales"
+      "usually bids on coins and banknotes",
+      "seen in 6 sales"
      ]
     }
    ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 58689 - Dilston, TAS (seen in 102 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+   "why": "53311 - Ross, TAS (seen in 125 sales); 51662 - Legana, TAS - AutoBid (seen in 101 sales); 272140 - Scottsdale , (usually bids on coins and banknotes, seen in 6 sales); 4 or more bidders"
   },
   {
    "cdid": 3112371,
@@ -2983,7 +3561,7 @@
      "n": 1,
      "top": 30.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -3020,54 +3598,65 @@
      ]
     }
    ],
-   "why": "135396 - Ambleside , (seen in 29 sales); 196786 - Winkleigh, TAS (seen in 69 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 47404 - Lilydale, TAS (seen in 42 sales); 78400 - Karoola, TAS (seen in 47 sales); 262545 - Bridport , (seen in 12 sales); 4 or more bidders"
+   "why": "135396 - Ambleside , (seen in 29 sales); 196786 - Winkleigh, TAS (seen in 69 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 47404 - Lilydale, TAS (seen in 42 sales); 78400 - Karoola, TAS (seen in 47 sales); 262545 - Bridport , (seen in 12 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112436,
-   "lot": 1716,
-   "title": "HORNBY ELECTRIC TRAIN SET, PAR...",
-   "category": "",
-   "status": "FAIL",
+   "cdid": 3112394,
+   "lot": 1673,
+   "title": "2 BOXES OF TOY CARS & SUNDRIES...",
+   "category": "vague lot",
+   "status": "CHROME",
    "max_hammer": 0,
    "current_bid": 45.0,
-   "bid_count": 6,
-   "close": "11/11/2026 9:29:20 PM ADST",
+   "bid_count": 8,
+   "close": "11/11/2026 9:15:20 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "55649 - INVERMAY, TAS - AutoBid",
+   "leader": "53311 - Ross, TAS",
    "researched": true,
    "bidders": [
     {
-     "who": "55649 - INVERMAY, TAS - AutoBid",
-     "no": "55649",
-     "town": "Invermay",
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
      "state": "TAS",
      "n": 2,
      "top": 45.0,
      "tags": [
-      "seen in 131 sales"
+      "seen in 125 sales"
      ]
     },
     {
-     "who": "71573 - Newnham, TAS",
-     "no": "71573",
-     "town": "Newnham",
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
      "state": "TAS",
-     "n": 1,
+     "n": 3,
      "top": 40.0,
      "tags": [
-      "seen in 63 sales"
+      "seen in 141 sales"
      ]
     },
     {
-     "who": "55763 - Riverside, TAS",
-     "no": "55763",
-     "town": "Riverside",
+     "who": "155070 - Ulverstone, TAS",
+     "no": "155070",
+     "town": "Ulverstone",
      "state": "TAS",
      "n": 1,
-     "top": 30.0,
+     "top": 35.0,
      "tags": [
-      "seen in 13 sales"
+      "seen in 65 sales"
+     ]
+    },
+    {
+     "who": "47995 - hadspen, TAS",
+     "no": "47995",
+     "town": "Hadspen",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 46 sales"
      ]
     },
     {
@@ -3076,24 +3665,86 @@
      "town": "Perth",
      "state": "TAS",
      "n": 1,
-     "top": 25.0,
+     "top": 15.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
+     ]
+    }
+   ],
+   "why": "53311 - Ross, TAS (seen in 125 sales); 122213 - Westbury, TAS (seen in 141 sales); 155070 - Ulverstone, TAS (seen in 65 sales); 47995 - hadspen, TAS (seen in 46 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112412,
+   "lot": 1691,
+   "title": "EGG INCUBATOR - HOLDS 56 EGGS ...",
+   "category": "",
+   "status": "SKIPPED",
+   "max_hammer": 0,
+   "current_bid": 45.0,
+   "bid_count": 6,
+   "close": "11/11/2026 9:21:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "151065 - Westbury ,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "151065 - Westbury ,",
+     "no": "151065",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 45.0,
+     "tags": [
+      "seen in 95 sales"
      ]
     },
     {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
+     "who": "151223 - st leonards,",
+     "no": "151223",
+     "town": "St Leonards",
+     "state": "TAS",
+     "n": 2,
+     "top": 40.0,
+     "tags": [
+      "seen in 20 sales"
+     ]
+    },
+    {
+     "who": "168308 - Summerhill ,",
+     "no": "168308",
+     "town": "Summerhill",
+     "state": "TAS",
+     "n": 1,
+     "top": 35.0,
+     "tags": [
+      "seen in 88 sales"
+     ]
+    },
+    {
+     "who": "136699 - Prospect Vale ,",
+     "no": "136699",
+     "town": "Prospect Vale",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 53 sales"
+     ]
+    },
+    {
+     "who": "91424 - Kingsmeadows, TAS",
+     "no": "91424",
+     "town": "Kingsmeadows",
      "state": "TAS",
      "n": 1,
      "top": 20.0,
      "tags": [
-      "seen in 123 sales"
+      "seen in 20 sales"
      ]
     }
    ],
-   "why": "55649 - INVERMAY, TAS - AutoBid (seen in 131 sales); 71573 - Newnham, TAS (seen in 63 sales); 55763 - Riverside, TAS (seen in 13 sales); 142868 - Perth, (seen in 18 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
+   "why": "151065 - Westbury , (seen in 95 sales); 151223 - st leonards, (seen in 20 sales); 168308 - Summerhill , (seen in 88 sales); 136699 - Prospect Vale , (seen in 53 sales); 91424 - Kingsmeadows, TAS (seen in 20 sales); 4 or more bidders"
   },
   {
    "cdid": 3112330,
@@ -3118,7 +3769,7 @@
      "n": 3,
      "top": 40.0,
      "tags": [
-      "seen in 19 sales"
+      "seen in 20 sales"
      ]
     },
     {
@@ -3144,76 +3795,14 @@
      ]
     }
    ],
-   "why": "91424 - Kingsmeadows, TAS - AutoBid (seen in 19 sales); 122213 - Westbury, TAS (seen in 141 sales); 56030 - PROSPECT VALE, TAS (seen in 42 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112488,
-   "lot": 1460,
-   "title": "MEDIEVAL STYLE SHIELD & HELMET",
-   "category": "",
-   "status": "CHROME",
-   "max_hammer": 0,
-   "current_bid": 40.0,
-   "bid_count": 5,
-   "close": "11/11/2026 8:05:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "141386 - Launceston,",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "141386 - Launceston,",
-     "no": "141386",
-     "town": "Launceston",
-     "state": "TAS",
-     "n": 1,
-     "top": 40.0,
-     "tags": [
-      "seen in 47 sales"
-     ]
-    },
-    {
-     "who": "275982 - newnham,",
-     "no": "275982",
-     "town": "Newnham",
-     "state": "TAS",
-     "n": 2,
-     "top": 35.0,
-     "tags": [
-      "seen in 10 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 1,
-     "top": 30.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 123 sales"
-     ]
-    }
-   ],
-   "why": "141386 - Launceston, (seen in 47 sales); 275982 - newnham, (seen in 10 sales); 122213 - Westbury, TAS (seen in 141 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
+   "why": "91424 - Kingsmeadows, TAS - AutoBid (seen in 20 sales); 122213 - Westbury, TAS (seen in 141 sales); 56030 - PROSPECT VALE, TAS (seen in 42 sales); 4 or more bidders"
   },
   {
    "cdid": 3112493,
    "lot": 1465,
    "title": "TRAY WITH OILERS, CAR BADGES E...",
    "category": "militaria",
-   "status": "CHROME",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 40.0,
    "bid_count": 7,
@@ -3304,7 +3893,7 @@
      "n": 1,
      "top": 40.0,
      "tags": [
-      "seen in 38 sales"
+      "seen in 39 sales"
      ]
     },
     {
@@ -3315,7 +3904,7 @@
      "n": 1,
      "top": 35.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -3348,11 +3937,11 @@
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 123 sales"
+      "seen in 125 sales"
      ]
     }
    ],
-   "why": "49073 - South Launceston , TAS (seen in 38 sales); 142868 - Perth, (seen in 18 sales); 227440 - Zeehan, (seen in 34 sales); 221336 - Rocherlea, (seen in 24 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
+   "why": "49073 - South Launceston , TAS (seen in 39 sales); 142868 - Perth, (seen in 19 sales); 227440 - Zeehan, (seen in 34 sales); 221336 - Rocherlea, (seen in 24 sales); 53311 - Ross, TAS (seen in 125 sales); 4 or more bidders"
   },
   {
    "cdid": 3112544,
@@ -3399,7 +3988,7 @@
      "n": 1,
      "top": 25.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -3425,7 +4014,165 @@
      ]
     }
    ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 163322 - George Town, TAS (seen in 127 sales); 142868 - Perth, (seen in 18 sales); 227440 - Zeehan, (seen in 34 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+   "why": "122213 - Westbury, TAS (seen in 141 sales); 163322 - George Town, TAS (seen in 127 sales); 142868 - Perth, (seen in 19 sales); 227440 - Zeehan, (seen in 34 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112561,
+   "lot": 1534,
+   "title": "DECORATIVE SWORD, AXE & A DART...",
+   "category": "tools and axes",
+   "status": "SKIPPED",
+   "max_hammer": 0,
+   "current_bid": 40.0,
+   "bid_count": 7,
+   "close": "11/11/2026 8:29:40 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "142986 - Newnham,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "142986 - Newnham,",
+     "no": "142986",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 1,
+     "top": 40.0,
+     "tags": [
+      "seen in 114 sales"
+     ]
+    },
+    {
+     "who": "175518 - George town ,",
+     "no": "175518",
+     "town": "George Town",
+     "state": "TAS",
+     "n": 1,
+     "top": 35.0,
+     "tags": [
+      "seen in 38 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 2,
+     "top": 30.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "275982 - newnham,",
+     "no": "275982",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 2,
+     "top": 25.0,
+     "tags": [
+      "seen in 10 sales"
+     ]
+    },
+    {
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    }
+   ],
+   "why": "142986 - Newnham, (seen in 114 sales); 175518 - George town , (seen in 38 sales); 122213 - Westbury, TAS (seen in 141 sales); 275982 - newnham, (seen in 10 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112251,
+   "lot": 1579,
+   "title": "REMOTE CONTROL PLANE",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 40.0,
+   "bid_count": 8,
+   "close": "11/11/2026 8:44:40 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "272140 - Scottsdale , - AutoBid",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "272140 - Scottsdale , - AutoBid",
+     "no": "272140",
+     "town": "Scottsdale",
+     "state": "TAS",
+     "n": 2,
+     "top": 40.0,
+     "tags": [
+      "usually bids on coins and banknotes",
+      "seen in 6 sales"
+     ]
+    },
+    {
+     "who": "60394 - Riverside, TAS",
+     "no": "60394",
+     "town": "Riverside",
+     "state": "TAS",
+     "n": 1,
+     "top": 35.0,
+     "tags": [
+      "seen in 3 sales"
+     ]
+    },
+    {
+     "who": "51662 - Legana, TAS - AutoBid",
+     "no": "51662",
+     "town": "Legana",
+     "state": "TAS",
+     "n": 2,
+     "top": 25.0,
+     "tags": [
+      "seen in 101 sales"
+     ]
+    },
+    {
+     "who": "289702 - George Town ,",
+     "no": "289702",
+     "town": "George Town",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 9 sales"
+     ]
+    },
+    {
+     "who": "285275 - Mowbray,",
+     "no": "285275",
+     "town": "Mowbray",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 2 sales"
+     ]
+    },
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    }
+   ],
+   "why": "272140 - Scottsdale , - AutoBid (usually bids on coins and banknotes, seen in 6 sales); 60394 - Riverside, TAS (seen in 3 sales); 51662 - Legana, TAS - AutoBid (seen in 101 sales); 289702 - George Town , (seen in 9 sales); 285275 - Mowbray, (seen in 2 sales); 53311 - Ross, TAS (seen in 125 sales); 4 or more bidders"
   },
   {
    "cdid": 3112252,
@@ -3483,7 +4230,7 @@
      "n": 1,
      "top": 20.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -3494,11 +4241,11 @@
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 13 sales"
+      "seen in 14 sales"
      ]
     }
    ],
-   "why": "294607 - Penguin, - AutoBid (seen in 3 sales); 156020 - Deloraine , (seen in 41 sales); 255569 - Launceston , (seen in 35 sales); 142868 - Perth, (seen in 18 sales); 289732 - Bicheno, (seen in 13 sales); 4 or more bidders"
+   "why": "294607 - Penguin, - AutoBid (seen in 3 sales); 156020 - Deloraine , (seen in 41 sales); 255569 - Launceston , (seen in 35 sales); 142868 - Perth, (seen in 19 sales); 289732 - Bicheno, (seen in 14 sales); 4 or more bidders"
   },
   {
    "cdid": 3112277,
@@ -3561,6 +4308,90 @@
     }
    ],
    "why": "74227 - Ravenswood, TAS (seen in 102 sales); 92726 - Trevallyn , TAS - AutoBid (seen in 10 sales); 51662 - Legana, TAS (seen in 101 sales); 255486 - Bridport, (seen in 17 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112283,
+   "lot": 1611,
+   "title": "BIANCO ELECTRIC WATER PUMP",
+   "category": "",
+   "status": "PASS",
+   "max_hammer": 80,
+   "current_bid": 40.0,
+   "bid_count": 6,
+   "close": "11/11/2026 8:55:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "151065 - Westbury ,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "151065 - Westbury ,",
+     "no": "151065",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 40.0,
+     "tags": [
+      "seen in 95 sales"
+     ]
+    },
+    {
+     "who": "228941 - Newstead,",
+     "no": "228941",
+     "town": "Newstead",
+     "state": "TAS",
+     "n": 1,
+     "top": 35.0,
+     "tags": [
+      "seen in 12 sales"
+     ]
+    },
+    {
+     "who": "47414 - Legana, TAS",
+     "no": "47414",
+     "town": "Legana",
+     "state": "TAS",
+     "n": 1,
+     "top": 30.0,
+     "tags": [
+      "seen in 76 sales"
+     ]
+    },
+    {
+     "who": "99011 - Evandale,",
+     "no": "99011",
+     "town": "Evandale",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 35 sales"
+     ]
+    },
+    {
+     "who": "227440 - Zeehan,",
+     "no": "227440",
+     "town": "Zeehan",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 34 sales"
+     ]
+    },
+    {
+     "who": "149770 - Parattah,",
+     "no": "149770",
+     "town": "Parattah",
+     "state": "",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 75 sales"
+     ]
+    }
+   ],
+   "why": "151065 - Westbury , (seen in 95 sales); 228941 - Newstead, (seen in 12 sales); 47414 - Legana, TAS (seen in 76 sales); 99011 - Evandale, (seen in 35 sales); 227440 - Zeehan, (seen in 34 sales); 149770 - Parattah, (seen in 75 sales); 4 or more bidders"
   },
   {
    "cdid": 3112360,
@@ -3636,141 +4467,6 @@
    "why": "151223 - st leonards, (seen in 20 sales); 91715 - Youngtown , TAS (seen in 6 sales); 47577 - launceston, TAS (seen in 112 sales); 221336 - Rocherlea, (seen in 24 sales); 248847 - Lilydale, (seen in 21 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112394,
-   "lot": 1673,
-   "title": "2 BOXES OF TOY CARS & SUNDRIES...",
-   "category": "vague lot",
-   "status": "CHROME",
-   "max_hammer": 0,
-   "current_bid": 40.0,
-   "bid_count": 7,
-   "close": "11/11/2026 9:15:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "122213 - Westbury, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 3,
-     "top": 40.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "155070 - Ulverstone, TAS",
-     "no": "155070",
-     "town": "Ulverstone",
-     "state": "TAS",
-     "n": 1,
-     "top": 35.0,
-     "tags": [
-      "seen in 64 sales"
-     ]
-    },
-    {
-     "who": "47995 - hadspen, TAS",
-     "no": "47995",
-     "town": "Hadspen",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 46 sales"
-     ]
-    },
-    {
-     "who": "142868 - Perth,",
-     "no": "142868",
-     "town": "Perth",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 18 sales"
-     ]
-    },
-    {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
-     "state": "TAS",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 123 sales"
-     ]
-    }
-   ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 155070 - Ulverstone, TAS (seen in 64 sales); 47995 - hadspen, TAS (seen in 46 sales); 142868 - Perth, (seen in 18 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112412,
-   "lot": 1691,
-   "title": "EGG INCUBATOR - HOLDS 56 EGGS ...",
-   "category": "",
-   "status": "SKIPPED",
-   "max_hammer": 0,
-   "current_bid": 40.0,
-   "bid_count": 5,
-   "close": "11/11/2026 9:21:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "151223 - st leonards,",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "151223 - st leonards,",
-     "no": "151223",
-     "town": "St Leonards",
-     "state": "TAS",
-     "n": 2,
-     "top": 40.0,
-     "tags": [
-      "seen in 20 sales"
-     ]
-    },
-    {
-     "who": "168308 - Summerhill ,",
-     "no": "168308",
-     "town": "Summerhill",
-     "state": "TAS",
-     "n": 1,
-     "top": 35.0,
-     "tags": [
-      "seen in 88 sales"
-     ]
-    },
-    {
-     "who": "136699 - Prospect Vale ,",
-     "no": "136699",
-     "town": "Prospect Vale",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 53 sales"
-     ]
-    },
-    {
-     "who": "91424 - Kingsmeadows, TAS",
-     "no": "91424",
-     "town": "Kingsmeadows",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 19 sales"
-     ]
-    }
-   ],
-   "why": "151223 - st leonards, (seen in 20 sales); 168308 - Summerhill , (seen in 88 sales); 136699 - Prospect Vale , (seen in 53 sales); 91424 - Kingsmeadows, TAS (seen in 19 sales); 4 or more bidders"
-  },
-  {
    "cdid": 3112442,
    "lot": 1722,
    "title": "6 X 1:24 SCALE DIECAST MODELS",
@@ -3833,68 +4529,6 @@
    "why": "122213 - Westbury, TAS (seen in 141 sales); 119894 - Youngtown , - AutoBid (seen in 11 sales); 51662 - Legana, TAS (seen in 101 sales); 47995 - hadspen, TAS (seen in 46 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112466,
-   "lot": 1746,
-   "title": "MODEL TRAIN LAYOUT - OO GAUGE",
-   "category": "",
-   "status": "PASS",
-   "max_hammer": 95,
-   "current_bid": 40.0,
-   "bid_count": 5,
-   "close": "11/11/2026 9:39:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "201511 - Kings Meadows, TAS - AutoBid",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "201511 - Kings Meadows, TAS - AutoBid",
-     "no": "201511",
-     "town": "Kings Meadows",
-     "state": "TAS",
-     "n": 2,
-     "top": 40.0,
-     "tags": [
-      "seen in 66 sales"
-     ]
-    },
-    {
-     "who": "55763 - Riverside, TAS",
-     "no": "55763",
-     "town": "Riverside",
-     "state": "TAS",
-     "n": 1,
-     "top": 35.0,
-     "tags": [
-      "seen in 13 sales"
-     ]
-    },
-    {
-     "who": "142920 - George Town,",
-     "no": "142920",
-     "town": "George Town",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 23 sales"
-     ]
-    },
-    {
-     "who": "142868 - Perth,",
-     "no": "142868",
-     "town": "Perth",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 18 sales"
-     ]
-    }
-   ],
-   "why": "201511 - Kings Meadows, TAS - AutoBid (seen in 66 sales); 55763 - Riverside, TAS (seen in 13 sales); 142920 - George Town, (seen in 23 sales); 142868 - Perth, (seen in 18 sales); 4 or more bidders"
-  },
-  {
    "cdid": 3112479,
    "lot": 1759,
    "title": "DISPLAY CASE H-59 L-41 D-29 CM...",
@@ -3917,7 +4551,7 @@
      "n": 1,
      "top": 40.0,
      "tags": [
-      "seen in 138 sales"
+      "seen in 139 sales"
      ]
     },
     {
@@ -3928,7 +4562,7 @@
      "n": 1,
      "top": 35.0,
      "tags": [
-      "seen in 19 sales"
+      "seen in 20 sales"
      ]
     },
     {
@@ -3976,7 +4610,7 @@
      ]
     }
    ],
-   "why": "47604 - Riverside, TAS (seen in 138 sales); 91424 - Kingsmeadows, TAS (seen in 19 sales); 122213 - Westbury, TAS (seen in 141 sales); 252194 - Ravenswood, (seen in 5 sales); 80779 - Launceston, TAS (seen in 88 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+   "why": "47604 - Riverside, TAS (seen in 139 sales); 91424 - Kingsmeadows, TAS (seen in 20 sales); 122213 - Westbury, TAS (seen in 141 sales); 252194 - Ravenswood, (seen in 5 sales); 80779 - Launceston, TAS (seen in 88 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   },
   {
    "cdid": 3112324,
@@ -4001,7 +4635,7 @@
      "n": 1,
      "top": 35.0,
      "tags": [
-      "seen in 36 sales"
+      "seen in 37 sales"
      ]
     },
     {
@@ -4038,7 +4672,80 @@
      ]
     }
    ],
-   "why": "88503 - Hadspen, TAS (seen in 36 sales); 218843 - East Launceston , (seen in 24 sales); 59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
+   "why": "88503 - Hadspen, TAS (seen in 37 sales); 218843 - East Launceston , (seen in 24 sales); 59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112335,
+   "lot": 1430,
+   "title": "3 DINKY TOY ARMY TANKS",
+   "category": "militaria",
+   "status": "SKIPPED",
+   "max_hammer": 0,
+   "current_bid": 35.0,
+   "bid_count": 7,
+   "close": "11/11/2026 7:55:40 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "53311 - Ross, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 1,
+     "top": 35.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "57243 - Sth Launceston, TAS - AutoBid",
+     "no": "57243",
+     "town": "Sth Launceston",
+     "state": "TAS",
+     "n": 2,
+     "top": 30.0,
+     "tags": [
+      "seen in 19 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 2,
+     "top": 30.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "75527 - Newstead, TAS",
+     "no": "75527",
+     "town": "Newstead",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 13 sales"
+     ]
+    },
+    {
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 19 sales"
+     ]
+    }
+   ],
+   "why": "53311 - Ross, TAS (seen in 125 sales); 57243 - Sth Launceston, TAS - AutoBid (seen in 19 sales); 122213 - Westbury, TAS (seen in 141 sales); 75527 - Newstead, TAS (seen in 13 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
   },
   {
    "cdid": 3112554,
@@ -4074,7 +4781,7 @@
      "n": 1,
      "top": 30.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -4100,69 +4807,7 @@
      ]
     }
    ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 47428 - Yougtown , TAS (seen in 83 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112561,
-   "lot": 1534,
-   "title": "DECORATIVE SWORD, AXE & A DART...",
-   "category": "tools and axes",
-   "status": "SKIPPED",
-   "max_hammer": 0,
-   "current_bid": 35.0,
-   "bid_count": 6,
-   "close": "11/11/2026 8:29:40 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "175518 - George town ,",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "175518 - George town ,",
-     "no": "175518",
-     "town": "George Town",
-     "state": "TAS",
-     "n": 1,
-     "top": 35.0,
-     "tags": [
-      "seen in 38 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 2,
-     "top": 30.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "275982 - newnham,",
-     "no": "275982",
-     "town": "Newnham",
-     "state": "TAS",
-     "n": 2,
-     "top": 25.0,
-     "tags": [
-      "seen in 10 sales"
-     ]
-    },
-    {
-     "who": "221336 - Rocherlea,",
-     "no": "221336",
-     "town": "Rocherlea",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 24 sales"
-     ]
-    }
-   ],
-   "why": "175518 - George town , (seen in 38 sales); 122213 - Westbury, TAS (seen in 141 sales); 275982 - newnham, (seen in 10 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+   "why": "122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 47428 - Yougtown , TAS (seen in 83 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   },
   {
    "cdid": 3112584,
@@ -4187,7 +4832,7 @@
      "n": 1,
      "top": 35.0,
      "tags": [
-      "seen in 72 sales"
+      "seen in 73 sales"
      ]
     },
     {
@@ -4242,142 +4887,277 @@
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 123 sales"
+      "seen in 124 sales"
      ]
     }
    ],
-   "why": "211802 - Invermay, (seen in 72 sales); 126675 - Hobart, (seen in 108 sales); 120114 - Legana, TAS (seen in 19 sales); 51662 - Legana, TAS (seen in 101 sales); 90573 - Newnham, TAS (seen in 132 sales); 47658 - Lilydale, TAS (seen in 123 sales); 4 or more bidders"
+   "why": "211802 - Invermay, (seen in 73 sales); 126675 - Hobart, (seen in 108 sales); 120114 - Legana, TAS (seen in 19 sales); 51662 - Legana, TAS (seen in 101 sales); 90573 - Newnham, TAS (seen in 132 sales); 47658 - Lilydale, TAS (seen in 124 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112597,
-   "lot": 1570,
-   "title": "MAKITA BELT SANDER - GOING ORD...",
+   "cdid": 3112304,
+   "lot": 1632,
+   "title": "BUNDLE OF FISHING RODS & REELS",
    "category": "",
    "status": "CHROME",
    "max_hammer": 0,
    "current_bid": 35.0,
    "bid_count": 6,
-   "close": "11/11/2026 8:41:40 PM ADST",
+   "close": "11/11/2026 9:02:20 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "47716 - Dromedary , TAS - AutoBid",
+   "leader": "151065 - Westbury ,",
    "researched": true,
    "bidders": [
     {
-     "who": "47716 - Dromedary , TAS - AutoBid",
-     "no": "47716",
-     "town": "Dromedary",
+     "who": "151065 - Westbury ,",
+     "no": "151065",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 35.0,
+     "tags": [
+      "seen in 95 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
      "state": "TAS",
      "n": 2,
-     "top": 35.0,
-     "tags": [
-      "seen in 66 sales"
-     ]
-    },
-    {
-     "who": "47337 - Scamander, TAS",
-     "no": "47337",
-     "town": "Scamander",
-     "state": "TAS",
-     "n": 1,
      "top": 30.0,
      "tags": [
-      "seen in 46 sales"
+      "seen in 141 sales"
      ]
     },
     {
-     "who": "47798 - Ulverstone , TAS",
-     "no": "47798",
-     "town": "Ulverstone",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 69 sales"
-     ]
-    },
-    {
-     "who": "121118 - HILLWOOD (7252),",
-     "no": "121118",
-     "town": "Hillwood 7252",
-     "state": "",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 53 sales"
-     ]
-    },
-    {
-     "who": "149770 - Parattah,",
-     "no": "149770",
-     "town": "Parattah",
-     "state": "",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 75 sales"
-     ]
-    }
-   ],
-   "why": "47716 - Dromedary , TAS - AutoBid (seen in 66 sales); 47337 - Scamander, TAS (seen in 46 sales); 47798 - Ulverstone , TAS (seen in 69 sales); 121118 - HILLWOOD (7252), (seen in 53 sales); 149770 - Parattah, (seen in 75 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112283,
-   "lot": 1611,
-   "title": "BIANCO ELECTRIC WATER PUMP",
-   "category": "",
-   "status": "PASS",
-   "max_hammer": 80,
-   "current_bid": 35.0,
-   "bid_count": 5,
-   "close": "11/11/2026 8:55:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "228941 - Newstead,",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "228941 - Newstead,",
-     "no": "228941",
-     "town": "Newstead",
-     "state": "TAS",
-     "n": 1,
-     "top": 35.0,
-     "tags": [
-      "seen in 12 sales"
-     ]
-    },
-    {
-     "who": "47414 - Legana, TAS",
-     "no": "47414",
-     "town": "Legana",
-     "state": "TAS",
-     "n": 1,
-     "top": 30.0,
-     "tags": [
-      "seen in 76 sales"
-     ]
-    },
-    {
-     "who": "99011 - Evandale,",
-     "no": "99011",
-     "town": "Evandale",
+     "who": "167167 - Launceston ,",
+     "no": "167167",
+     "town": "Launceston",
      "state": "TAS",
      "n": 1,
      "top": 25.0,
      "tags": [
-      "seen in 35 sales"
+      "seen in 56 sales"
      ]
     },
     {
-     "who": "227440 - Zeehan,",
-     "no": "227440",
-     "town": "Zeehan",
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    },
+    {
+     "who": "71573 - Newnham, TAS",
+     "no": "71573",
+     "town": "Newnham",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 63 sales"
+     ]
+    }
+   ],
+   "why": "151065 - Westbury , (seen in 95 sales); 122213 - Westbury, TAS (seen in 141 sales); 167167 - Launceston , (seen in 56 sales); 221336 - Rocherlea, (seen in 24 sales); 71573 - Newnham, TAS (seen in 63 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112384,
+   "lot": 1663,
+   "title": "PRECISION MACHINE VICE",
+   "category": "",
+   "status": "SKIPPED",
+   "max_hammer": 0,
+   "current_bid": 35.0,
+   "bid_count": 7,
+   "close": "11/11/2026 9:12:00 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "48810 - Lebrina, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "48810 - Lebrina, TAS",
+     "no": "48810",
+     "town": "Lebrina",
+     "state": "TAS",
+     "n": 3,
+     "top": 35.0,
+     "tags": [
+      "seen in 49 sales"
+     ]
+    },
+    {
+     "who": "143991 - MONTANA, - AutoBid",
+     "no": "143991",
+     "town": "Montana",
+     "state": "",
+     "n": 2,
+     "top": 30.0,
+     "tags": [
+      "seen in 81 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "47703 - Longford, TAS",
+     "no": "47703",
+     "town": "Longford",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 35 sales"
+     ]
+    }
+   ],
+   "why": "48810 - Lebrina, TAS (seen in 49 sales); 143991 - MONTANA, - AutoBid (seen in 81 sales); 122213 - Westbury, TAS (seen in 141 sales); 47703 - Longford, TAS (seen in 35 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112413,
+   "lot": 1692,
+   "title": "PETROL POWERED TRANSFER PUMP",
+   "category": "",
+   "status": "SKIPPED",
+   "max_hammer": 0,
+   "current_bid": 35.0,
+   "bid_count": 4,
+   "close": "11/11/2026 9:21:40 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "151065 - Westbury ,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "151065 - Westbury ,",
+     "no": "151065",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 35.0,
+     "tags": [
+      "seen in 95 sales"
+     ]
+    },
+    {
+     "who": "126675 - Hobart,",
+     "no": "126675",
+     "town": "Hobart",
+     "state": "TAS",
+     "n": 1,
+     "top": 30.0,
+     "tags": [
+      "seen in 108 sales"
+     ]
+    },
+    {
+     "who": "230589 - Longford,",
+     "no": "230589",
+     "town": "Longford",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 5 sales"
+     ]
+    },
+    {
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    }
+   ],
+   "why": "151065 - Westbury , (seen in 95 sales); 126675 - Hobart, (seen in 108 sales); 230589 - Longford, (seen in 5 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112459,
+   "lot": 1739,
+   "title": "SET OF 8 WOOD WORKING CHISELS",
+   "category": "tools and axes",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 35.0,
+   "bid_count": 6,
+   "close": "11/11/2026 9:37:00 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "47341 - Lilydale, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "47341 - Lilydale, TAS",
+     "no": "47341",
+     "town": "Lilydale",
+     "state": "TAS",
+     "n": 1,
+     "top": 35.0,
+     "tags": [
+      "seen in 136 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 30.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "59649 - Newstead, TAS",
+     "no": "59649",
+     "town": "Newstead",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 5 sales"
+     ]
+    },
+    {
+     "who": "74227 - Ravenswood, TAS",
+     "no": "74227",
+     "town": "Ravenswood",
      "state": "TAS",
      "n": 1,
      "top": 20.0,
      "tags": [
-      "seen in 34 sales"
+      "seen in 102 sales"
+     ]
+    },
+    {
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 24 sales"
      ]
     },
     {
@@ -4392,7 +5172,7 @@
      ]
     }
    ],
-   "why": "228941 - Newstead, (seen in 12 sales); 47414 - Legana, TAS (seen in 76 sales); 99011 - Evandale, (seen in 35 sales); 227440 - Zeehan, (seen in 34 sales); 149770 - Parattah, (seen in 75 sales); 4 or more bidders"
+   "why": "47341 - Lilydale, TAS (seen in 136 sales); 122213 - Westbury, TAS (seen in 141 sales); 59649 - Newstead, TAS (seen in 5 sales); 74227 - Ravenswood, TAS (seen in 102 sales); 221336 - Rocherlea, (seen in 24 sales); 149770 - Parattah, (seen in 75 sales); 4 or more bidders"
   },
   {
    "cdid": 3112331,
@@ -4450,73 +5230,11 @@
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 18 sales"
-     ]
-    }
-   ],
-   "why": "57243 - Sth Launceston, TAS - AutoBid (seen in 19 sales); 75527 - Newstead, TAS (seen in 13 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112335,
-   "lot": 1430,
-   "title": "3 DINKY TOY ARMY TANKS",
-   "category": "militaria",
-   "status": "SKIPPED",
-   "max_hammer": 0,
-   "current_bid": 30.0,
-   "bid_count": 6,
-   "close": "11/11/2026 7:55:40 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "57243 - Sth Launceston, TAS - AutoBid",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "57243 - Sth Launceston, TAS - AutoBid",
-     "no": "57243",
-     "town": "Sth Launceston",
-     "state": "TAS",
-     "n": 2,
-     "top": 30.0,
-     "tags": [
       "seen in 19 sales"
      ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 2,
-     "top": 30.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "75527 - Newstead, TAS",
-     "no": "75527",
-     "town": "Newstead",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 13 sales"
-     ]
-    },
-    {
-     "who": "142868 - Perth,",
-     "no": "142868",
-     "town": "Perth",
-     "state": "TAS",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 18 sales"
-     ]
     }
    ],
-   "why": "57243 - Sth Launceston, TAS - AutoBid (seen in 19 sales); 122213 - Westbury, TAS (seen in 141 sales); 75527 - Newstead, TAS (seen in 13 sales); 142868 - Perth, (seen in 18 sales); 4 or more bidders"
+   "why": "57243 - Sth Launceston, TAS - AutoBid (seen in 19 sales); 75527 - Newstead, TAS (seen in 13 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
   },
   {
    "cdid": 3112538,
@@ -4552,7 +5270,7 @@
      "n": 1,
      "top": 25.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -4578,7 +5296,7 @@
      ]
     }
    ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 221336 - Rocherlea, (seen in 24 sales); 47404 - Lilydale, TAS (seen in 42 sales); 4 or more bidders"
+   "why": "122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 221336 - Rocherlea, (seen in 24 sales); 47404 - Lilydale, TAS (seen in 42 sales); 4 or more bidders"
   },
   {
    "cdid": 3112591,
@@ -4603,7 +5321,7 @@
      "n": 1,
      "top": 30.0,
      "tags": [
-      "seen in 43 sales"
+      "seen in 44 sales"
      ]
     },
     {
@@ -4625,7 +5343,7 @@
      "n": 1,
      "top": 20.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -4651,168 +5369,167 @@
      ]
     }
    ],
-   "why": "64037 - prospect, TAS (seen in 43 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 78400 - Karoola, TAS (seen in 47 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+   "why": "64037 - prospect, TAS (seen in 44 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 78400 - Karoola, TAS (seen in 47 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112251,
-   "lot": 1579,
-   "title": "REMOTE CONTROL PLANE",
+   "cdid": 3112598,
+   "lot": 1571,
+   "title": "3 GARDEN HOSES",
    "category": "",
-   "status": "FAIL",
+   "status": "SKIPPED",
    "max_hammer": 0,
    "current_bid": 30.0,
-   "bid_count": 6,
-   "close": "11/11/2026 8:44:40 PM ADST",
+   "bid_count": 5,
+   "close": "11/11/2026 8:42:00 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "272140 - Scottsdale ,",
+   "leader": "289617 - Longford ,",
    "researched": true,
    "bidders": [
     {
-     "who": "272140 - Scottsdale ,",
-     "no": "272140",
-     "town": "Scottsdale",
+     "who": "289617 - Longford ,",
+     "no": "289617",
+     "town": "Longford",
      "state": "TAS",
      "n": 1,
      "top": 30.0,
-     "tags": [
-      "usually bids on coins and banknotes",
-      "seen in 6 sales"
-     ]
-    },
-    {
-     "who": "51662 - Legana, TAS - AutoBid",
-     "no": "51662",
-     "town": "Legana",
-     "state": "TAS",
-     "n": 2,
-     "top": 25.0,
-     "tags": [
-      "seen in 101 sales"
-     ]
-    },
-    {
-     "who": "289702 - George Town ,",
-     "no": "289702",
-     "town": "George Town",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
      "tags": [
       "seen in 9 sales"
      ]
     },
     {
-     "who": "285275 - Mowbray,",
-     "no": "285275",
-     "town": "Mowbray",
-     "state": "TAS",
+     "who": "215520 - Sidmouth,",
+     "no": "215520",
+     "town": "Sidmouth",
+     "state": "",
      "n": 1,
-     "top": 15.0,
+     "top": 25.0,
      "tags": [
-      "seen in 2 sales"
+      "seen in 43 sales"
      ]
     },
     {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
+     "who": "71705 - Cressy, TAS",
+     "no": "71705",
+     "town": "Cressy",
      "state": "TAS",
      "n": 1,
-     "top": 10.0,
+     "top": 20.0,
      "tags": [
-      "seen in 123 sales"
+      "seen in 50 sales"
      ]
-    }
-   ],
-   "why": "272140 - Scottsdale , (usually bids on coins and banknotes, seen in 6 sales); 51662 - Legana, TAS - AutoBid (seen in 101 sales); 289702 - George Town , (seen in 9 sales); 285275 - Mowbray, (seen in 2 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112304,
-   "lot": 1632,
-   "title": "BUNDLE OF FISHING RODS & REELS",
-   "category": "",
-   "status": "CHROME",
-   "max_hammer": 0,
-   "current_bid": 30.0,
-   "bid_count": 5,
-   "close": "11/11/2026 9:02:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "122213 - Westbury, TAS",
-   "researched": true,
-   "bidders": [
+    },
     {
      "who": "122213 - Westbury, TAS",
      "no": "122213",
      "town": "Westbury",
      "state": "TAS",
-     "n": 2,
-     "top": 30.0,
+     "n": 1,
+     "top": 15.0,
      "tags": [
       "seen in 141 sales"
      ]
     },
     {
-     "who": "167167 - Launceston ,",
-     "no": "167167",
-     "town": "Launceston",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 56 sales"
-     ]
-    },
-    {
-     "who": "221336 - Rocherlea,",
-     "no": "221336",
-     "town": "Rocherlea",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 24 sales"
-     ]
-    },
-    {
-     "who": "71573 - Newnham, TAS",
-     "no": "71573",
-     "town": "Newnham",
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
      "state": "TAS",
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 63 sales"
+      "seen in 19 sales"
      ]
     }
    ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 167167 - Launceston , (seen in 56 sales); 221336 - Rocherlea, (seen in 24 sales); 71573 - Newnham, TAS (seen in 63 sales); 4 or more bidders"
+   "why": "289617 - Longford , (seen in 9 sales); 215520 - Sidmouth, (seen in 43 sales); 71705 - Cressy, TAS (seen in 50 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112362,
-   "lot": 1639,
-   "title": "BERKLEY 8'6\" FLY ROD & REEL",
+   "cdid": 3112269,
+   "lot": 1597,
+   "title": "8 OLD TASMANIAN LICENSE PLATES",
    "category": "",
-   "status": "CHROME",
+   "status": "FAIL",
    "max_hammer": 0,
    "current_bid": 30.0,
    "bid_count": 5,
-   "close": "11/11/2026 9:04:40 PM ADST",
+   "close": "11/11/2026 8:50:40 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "58463 - Penguin, TAS",
+   "leader": "53311 - Ross, TAS",
    "researched": true,
    "bidders": [
     {
-     "who": "58463 - Penguin, TAS",
-     "no": "58463",
-     "town": "Penguin",
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 2,
+     "top": 30.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "211802 - Invermay,",
+     "no": "211802",
+     "town": "Invermay",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 73 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    },
+    {
+     "who": "47394 - Invermay, TAS",
+     "no": "47394",
+     "town": "Invermay",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 107 sales"
+     ]
+    }
+   ],
+   "why": "53311 - Ross, TAS (seen in 125 sales); 211802 - Invermay, (seen in 73 sales); 122213 - Westbury, TAS (seen in 141 sales); 47394 - Invermay, TAS (seen in 107 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112363,
+   "lot": 1640,
+   "title": "3 METRE FLY ROD & REEL",
+   "category": "",
+   "status": "SKIPPED",
+   "max_hammer": 0,
+   "current_bid": 30.0,
+   "bid_count": 5,
+   "close": "11/11/2026 9:05:00 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "151065 - Westbury ,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "151065 - Westbury ,",
+     "no": "151065",
+     "town": "Westbury",
      "state": "TAS",
      "n": 1,
      "top": 30.0,
      "tags": [
-      "seen in 57 sales"
+      "seen in 95 sales"
      ]
     },
     {
@@ -4849,7 +5566,7 @@
      ]
     }
    ],
-   "why": "58463 - Penguin, TAS (seen in 57 sales); 122213 - Westbury, TAS (seen in 141 sales); 221336 - Rocherlea, (seen in 24 sales); 71573 - Newnham, TAS (seen in 63 sales); 4 or more bidders"
+   "why": "151065 - Westbury , (seen in 95 sales); 122213 - Westbury, TAS (seen in 141 sales); 221336 - Rocherlea, (seen in 24 sales); 71573 - Newnham, TAS (seen in 63 sales); 4 or more bidders"
   },
   {
    "cdid": 3112372,
@@ -5020,7 +5737,7 @@
      "n": 1,
      "top": 15.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -5031,11 +5748,11 @@
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 123 sales"
+      "seen in 125 sales"
      ]
     }
    ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 47995 - hadspen, TAS (seen in 46 sales); 142868 - Perth, (seen in 18 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
+   "why": "122213 - Westbury, TAS (seen in 141 sales); 47995 - hadspen, TAS (seen in 46 sales); 142868 - Perth, (seen in 19 sales); 53311 - Ross, TAS (seen in 125 sales); 4 or more bidders"
   },
   {
    "cdid": 3112423,
@@ -5100,51 +5817,51 @@
    "why": "78400 - Karoola, TAS (seen in 47 sales); 47995 - hadspen, TAS (seen in 46 sales); 122213 - Westbury, TAS (seen in 141 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112459,
-   "lot": 1739,
-   "title": "SET OF 8 WOOD WORKING CHISELS",
-   "category": "tools and axes",
-   "status": "FAIL",
+   "cdid": 3112431,
+   "lot": 1710,
+   "title": "LIDDED STAINLESS STEEL MILK VA...",
+   "category": "",
+   "status": "SKIPPED",
    "max_hammer": 0,
    "current_bid": 30.0,
    "bid_count": 5,
-   "close": "11/11/2026 9:37:00 PM ADST",
+   "close": "11/11/2026 9:27:40 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "122213 - Westbury, TAS",
+   "leader": "151065 - Westbury ,",
    "researched": true,
    "bidders": [
     {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
+     "who": "151065 - Westbury ,",
+     "no": "151065",
      "town": "Westbury",
      "state": "TAS",
      "n": 1,
      "top": 30.0,
      "tags": [
+      "seen in 95 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 2,
+     "top": 25.0,
+     "tags": [
       "seen in 141 sales"
      ]
     },
     {
-     "who": "59649 - Newstead, TAS",
-     "no": "59649",
-     "town": "Newstead",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 5 sales"
-     ]
-    },
-    {
-     "who": "74227 - Ravenswood, TAS",
-     "no": "74227",
-     "town": "Ravenswood",
+     "who": "47414 - Legana, TAS",
+     "no": "47414",
+     "town": "Legana",
      "state": "TAS",
      "n": 1,
      "top": 20.0,
      "tags": [
-      "seen in 102 sales"
+      "seen in 76 sales"
      ]
     },
     {
@@ -5153,24 +5870,210 @@
      "town": "Rocherlea",
      "state": "TAS",
      "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 24 sales"
+     ]
+    }
+   ],
+   "why": "151065 - Westbury , (seen in 95 sales); 122213 - Westbury, TAS (seen in 141 sales); 47414 - Legana, TAS (seen in 76 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112435,
+   "lot": 1715,
+   "title": "BOX WITH 007 LEGO KIT, 2 MODEL...",
+   "category": "",
+   "status": "FAIL",
+   "max_hammer": 0,
+   "current_bid": 30.0,
+   "bid_count": 5,
+   "close": "11/11/2026 9:29:00 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "53311 - Ross, TAS",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "53311 - Ross, TAS",
+     "no": "53311",
+     "town": "Ross",
+     "state": "TAS",
+     "n": 2,
+     "top": 30.0,
+     "tags": [
+      "seen in 125 sales"
+     ]
+    },
+    {
+     "who": "91424 - Kingsmeadows, TAS",
+     "no": "91424",
+     "town": "Kingsmeadows",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 20 sales"
+     ]
+    },
+    {
+     "who": "51662 - Legana, TAS",
+     "no": "51662",
+     "town": "Legana",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
+     "tags": [
+      "seen in 101 sales"
+     ]
+    },
+    {
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
+     "state": "TAS",
+     "n": 1,
      "top": 15.0,
+     "tags": [
+      "seen in 141 sales"
+     ]
+    }
+   ],
+   "why": "53311 - Ross, TAS (seen in 125 sales); 91424 - Kingsmeadows, TAS (seen in 20 sales); 51662 - Legana, TAS (seen in 101 sales); 122213 - Westbury, TAS (seen in 141 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112445,
+   "lot": 1725,
+   "title": "3 BOXES OF HAND TOOLS & SUNDRI...",
+   "category": "tools and axes",
+   "status": "CHROME",
+   "max_hammer": 0,
+   "current_bid": 30.0,
+   "bid_count": 5,
+   "close": "11/11/2026 9:32:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "289617 - Longford ,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "289617 - Longford ,",
+     "no": "289617",
+     "town": "Longford",
+     "state": "TAS",
+     "n": 1,
+     "top": 30.0,
+     "tags": [
+      "seen in 9 sales"
+     ]
+    },
+    {
+     "who": "151223 - st leonards,",
+     "no": "151223",
+     "town": "St Leonards",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 20 sales"
+     ]
+    },
+    {
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
+     "state": "TAS",
+     "n": 1,
+     "top": 20.0,
      "tags": [
       "seen in 24 sales"
      ]
     },
     {
-     "who": "149770 - Parattah,",
-     "no": "149770",
-     "town": "Parattah",
-     "state": "",
+     "who": "47979 - young town, TAS",
+     "no": "47979",
+     "town": "Young Town",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 51 sales"
+     ]
+    },
+    {
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
+     "state": "TAS",
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 75 sales"
+      "seen in 19 sales"
      ]
     }
    ],
-   "why": "122213 - Westbury, TAS (seen in 141 sales); 59649 - Newstead, TAS (seen in 5 sales); 74227 - Ravenswood, TAS (seen in 102 sales); 221336 - Rocherlea, (seen in 24 sales); 149770 - Parattah, (seen in 75 sales); 4 or more bidders"
+   "why": "289617 - Longford , (seen in 9 sales); 151223 - st leonards, (seen in 20 sales); 221336 - Rocherlea, (seen in 24 sales); 47979 - young town, TAS (seen in 51 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3112454,
+   "lot": 1734,
+   "title": "BOX OF DISHWASHING TABLETS",
+   "category": "vague lot",
+   "status": "SKIPPED",
+   "max_hammer": 0,
+   "current_bid": 30.0,
+   "bid_count": 5,
+   "close": "11/11/2026 9:35:20 PM ADST",
+   "score": 1,
+   "crowd": true,
+   "leader": "156020 - Deloraine ,",
+   "researched": true,
+   "bidders": [
+    {
+     "who": "156020 - Deloraine ,",
+     "no": "156020",
+     "town": "Deloraine",
+     "state": "TAS",
+     "n": 2,
+     "top": 30.0,
+     "tags": [
+      "seen in 41 sales"
+     ]
+    },
+    {
+     "who": "53307 - West launceston, TAS",
+     "no": "53307",
+     "town": "West Launceston",
+     "state": "TAS",
+     "n": 1,
+     "top": 25.0,
+     "tags": [
+      "seen in 95 sales"
+     ]
+    },
+    {
+     "who": "47490 - Newstead, TAS",
+     "no": "47490",
+     "town": "Newstead",
+     "state": "TAS",
+     "n": 1,
+     "top": 15.0,
+     "tags": [
+      "seen in 113 sales"
+     ]
+    },
+    {
+     "who": "49364 - Trevallyn, TAS",
+     "no": "49364",
+     "town": "Trevallyn",
+     "state": "TAS",
+     "n": 1,
+     "top": 10.0,
+     "tags": [
+      "seen in 124 sales"
+     ]
+    }
+   ],
+   "why": "156020 - Deloraine , (seen in 41 sales); 53307 - West launceston, TAS (seen in 95 sales); 47490 - Newstead, TAS (seen in 113 sales); 49364 - Trevallyn, TAS (seen in 124 sales); 4 or more bidders"
   },
   {
    "cdid": 3112341,
@@ -5217,7 +6120,7 @@
      "n": 1,
      "top": 15.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -5232,7 +6135,7 @@
      ]
     }
    ],
-   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
+   "why": "59487 - Trevallyn, TAS (seen in 67 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 47428 - Yougtown , TAS (seen in 83 sales); 4 or more bidders"
   },
   {
    "cdid": 3112537,
@@ -5257,7 +6160,7 @@
      "n": 1,
      "top": 25.0,
      "tags": [
-      "seen in 64 sales"
+      "seen in 65 sales"
      ]
     },
     {
@@ -5279,7 +6182,7 @@
      "n": 1,
      "top": 15.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -5294,32 +6197,32 @@
      ]
     }
    ],
-   "why": "155070 - Ulverstone, TAS (seen in 64 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+   "why": "155070 - Ulverstone, TAS (seen in 65 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112269,
-   "lot": 1597,
-   "title": "8 OLD TASMANIAN LICENSE PLATES",
-   "category": "",
-   "status": "FAIL",
+   "cdid": 3112573,
+   "lot": 1546,
+   "title": "WALL MOUNTABLE OIL LAMP & A TI...",
+   "category": "art",
+   "status": "CHROME",
    "max_hammer": 0,
    "current_bid": 25.0,
    "bid_count": 4,
-   "close": "11/11/2026 8:50:40 PM ADST",
+   "close": "11/11/2026 8:33:40 PM ADST",
    "score": 1,
    "crowd": true,
-   "leader": "211802 - Invermay,",
+   "leader": "130757 - Sheffield,",
    "researched": true,
    "bidders": [
     {
-     "who": "211802 - Invermay,",
-     "no": "211802",
-     "town": "Invermay",
+     "who": "130757 - Sheffield,",
+     "no": "130757",
+     "town": "Sheffield",
      "state": "TAS",
      "n": 1,
      "top": 25.0,
      "tags": [
-      "seen in 72 sales"
+      "seen in 81 sales"
      ]
     },
     {
@@ -5334,29 +6237,29 @@
      ]
     },
     {
-     "who": "47394 - Invermay, TAS",
-     "no": "47394",
-     "town": "Invermay",
+     "who": "142868 - Perth,",
+     "no": "142868",
+     "town": "Perth",
      "state": "TAS",
      "n": 1,
      "top": 15.0,
      "tags": [
-      "seen in 106 sales"
+      "seen in 19 sales"
      ]
     },
     {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
+     "who": "221336 - Rocherlea,",
+     "no": "221336",
+     "town": "Rocherlea",
      "state": "TAS",
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 123 sales"
+      "seen in 24 sales"
      ]
     }
    ],
-   "why": "211802 - Invermay, (seen in 72 sales); 122213 - Westbury, TAS (seen in 141 sales); 47394 - Invermay, TAS (seen in 106 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
+   "why": "130757 - Sheffield, (seen in 81 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   },
   {
    "cdid": 3112292,
@@ -5421,68 +6324,6 @@
    "why": "119894 - Youngtown , (seen in 11 sales); 122213 - Westbury, TAS (seen in 141 sales); 58485 - Rowella, TAS (seen in 109 sales); 56993 - Queenstown , TAS (seen in 91 sales); 4 or more bidders"
   },
   {
-   "cdid": 3112384,
-   "lot": 1663,
-   "title": "PRECISION MACHINE VICE",
-   "category": "",
-   "status": "SKIPPED",
-   "max_hammer": 0,
-   "current_bid": 25.0,
-   "bid_count": 4,
-   "close": "11/11/2026 9:12:00 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "143991 - MONTANA,",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "143991 - MONTANA,",
-     "no": "143991",
-     "town": "Montana",
-     "state": "",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 80 sales"
-     ]
-    },
-    {
-     "who": "48810 - Lebrina, TAS",
-     "no": "48810",
-     "town": "Lebrina",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 46 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "47703 - Longford, TAS",
-     "no": "47703",
-     "town": "Longford",
-     "state": "TAS",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 35 sales"
-     ]
-    }
-   ],
-   "why": "143991 - MONTANA, (seen in 80 sales); 48810 - Lebrina, TAS (seen in 46 sales); 122213 - Westbury, TAS (seen in 141 sales); 47703 - Longford, TAS (seen in 35 sales); 4 or more bidders"
-  },
-  {
    "cdid": 3112396,
    "lot": 1675,
    "title": "TAP SET & BATHROOM FITTINGS",
@@ -5516,7 +6357,7 @@
      "n": 1,
      "top": 20.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -5538,11 +6379,11 @@
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 123 sales"
+      "seen in 124 sales"
      ]
     }
    ],
-   "why": "51662 - Legana, TAS (seen in 101 sales); 142868 - Perth, (seen in 18 sales); 221336 - Rocherlea, (seen in 24 sales); 47658 - Lilydale, TAS (seen in 123 sales); 4 or more bidders"
+   "why": "51662 - Legana, TAS (seen in 101 sales); 142868 - Perth, (seen in 19 sales); 221336 - Rocherlea, (seen in 24 sales); 47658 - Lilydale, TAS (seen in 124 sales); 4 or more bidders"
   },
   {
    "cdid": 3112399,
@@ -5589,7 +6430,7 @@
      "n": 1,
      "top": 15.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     },
     {
@@ -5604,7 +6445,7 @@
      ]
     }
    ],
-   "why": "218843 - East Launceston , (seen in 24 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
+   "why": "218843 - East Launceston , (seen in 24 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   },
   {
    "cdid": 3112409,
@@ -5629,7 +6470,7 @@
      "n": 1,
      "top": 25.0,
      "tags": [
-      "seen in 36 sales"
+      "seen in 37 sales"
      ]
     },
     {
@@ -5639,143 +6480,19 @@
      "state": "TAS",
      "n": 1,
      "top": 20.0,
-     "tags": [
-      "seen in 19 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "142868 - Perth,",
-     "no": "142868",
-     "town": "Perth",
-     "state": "TAS",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 18 sales"
-     ]
-    }
-   ],
-   "why": "88503 - Hadspen, TAS (seen in 36 sales); 91424 - Kingsmeadows, TAS (seen in 19 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 18 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112435,
-   "lot": 1715,
-   "title": "BOX WITH 007 LEGO KIT, 2 MODEL...",
-   "category": "",
-   "status": "FAIL",
-   "max_hammer": 0,
-   "current_bid": 25.0,
-   "bid_count": 4,
-   "close": "11/11/2026 9:29:00 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "91424 - Kingsmeadows, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "91424 - Kingsmeadows, TAS",
-     "no": "91424",
-     "town": "Kingsmeadows",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 19 sales"
-     ]
-    },
-    {
-     "who": "51662 - Legana, TAS",
-     "no": "51662",
-     "town": "Legana",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 101 sales"
-     ]
-    },
-    {
-     "who": "122213 - Westbury, TAS",
-     "no": "122213",
-     "town": "Westbury",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 141 sales"
-     ]
-    },
-    {
-     "who": "53311 - Ross, TAS",
-     "no": "53311",
-     "town": "Ross",
-     "state": "TAS",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 123 sales"
-     ]
-    }
-   ],
-   "why": "91424 - Kingsmeadows, TAS (seen in 19 sales); 51662 - Legana, TAS (seen in 101 sales); 122213 - Westbury, TAS (seen in 141 sales); 53311 - Ross, TAS (seen in 123 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112445,
-   "lot": 1725,
-   "title": "3 BOXES OF HAND TOOLS & SUNDRI...",
-   "category": "tools and axes",
-   "status": "CHROME",
-   "max_hammer": 0,
-   "current_bid": 25.0,
-   "bid_count": 4,
-   "close": "11/11/2026 9:32:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "151223 - st leonards,",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "151223 - st leonards,",
-     "no": "151223",
-     "town": "St Leonards",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
      "tags": [
       "seen in 20 sales"
      ]
     },
     {
-     "who": "221336 - Rocherlea,",
-     "no": "221336",
-     "town": "Rocherlea",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 24 sales"
-     ]
-    },
-    {
-     "who": "47979 - young town, TAS",
-     "no": "47979",
-     "town": "Young Town",
+     "who": "122213 - Westbury, TAS",
+     "no": "122213",
+     "town": "Westbury",
      "state": "TAS",
      "n": 1,
      "top": 15.0,
      "tags": [
-      "seen in 51 sales"
+      "seen in 141 sales"
      ]
     },
     {
@@ -5786,11 +6503,11 @@
      "n": 1,
      "top": 10.0,
      "tags": [
-      "seen in 18 sales"
+      "seen in 19 sales"
      ]
     }
    ],
-   "why": "151223 - st leonards, (seen in 20 sales); 221336 - Rocherlea, (seen in 24 sales); 47979 - young town, TAS (seen in 51 sales); 142868 - Perth, (seen in 18 sales); 4 or more bidders"
+   "why": "88503 - Hadspen, TAS (seen in 37 sales); 91424 - Kingsmeadows, TAS (seen in 20 sales); 122213 - Westbury, TAS (seen in 141 sales); 142868 - Perth, (seen in 19 sales); 4 or more bidders"
   },
   {
    "cdid": 3112448,
@@ -5815,7 +6532,7 @@
      "n": 1,
      "top": 25.0,
      "tags": [
-      "seen in 64 sales"
+      "seen in 65 sales"
      ]
     },
     {
@@ -5852,75 +6569,13 @@
      ]
     }
    ],
-   "why": "155070 - Ulverstone, TAS (seen in 64 sales); 122213 - Westbury, TAS (seen in 141 sales); 47428 - Yougtown , TAS (seen in 83 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
-  },
-  {
-   "cdid": 3112454,
-   "lot": 1734,
-   "title": "BOX OF DISHWASHING TABLETS",
-   "category": "vague lot",
-   "status": "SKIPPED",
-   "max_hammer": 0,
-   "current_bid": 25.0,
-   "bid_count": 4,
-   "close": "11/11/2026 9:35:20 PM ADST",
-   "score": 1,
-   "crowd": true,
-   "leader": "53307 - West launceston, TAS",
-   "researched": true,
-   "bidders": [
-    {
-     "who": "53307 - West launceston, TAS",
-     "no": "53307",
-     "town": "West Launceston",
-     "state": "TAS",
-     "n": 1,
-     "top": 25.0,
-     "tags": [
-      "seen in 95 sales"
-     ]
-    },
-    {
-     "who": "156020 - Deloraine ,",
-     "no": "156020",
-     "town": "Deloraine",
-     "state": "TAS",
-     "n": 1,
-     "top": 20.0,
-     "tags": [
-      "seen in 41 sales"
-     ]
-    },
-    {
-     "who": "47490 - Newstead, TAS",
-     "no": "47490",
-     "town": "Newstead",
-     "state": "TAS",
-     "n": 1,
-     "top": 15.0,
-     "tags": [
-      "seen in 113 sales"
-     ]
-    },
-    {
-     "who": "49364 - Trevallyn, TAS",
-     "no": "49364",
-     "town": "Trevallyn",
-     "state": "TAS",
-     "n": 1,
-     "top": 10.0,
-     "tags": [
-      "seen in 124 sales"
-     ]
-    }
-   ],
-   "why": "53307 - West launceston, TAS (seen in 95 sales); 156020 - Deloraine , (seen in 41 sales); 47490 - Newstead, TAS (seen in 113 sales); 49364 - Trevallyn, TAS (seen in 124 sales); 4 or more bidders"
+   "why": "155070 - Ulverstone, TAS (seen in 65 sales); 122213 - Westbury, TAS (seen in 141 sales); 47428 - Yougtown , TAS (seen in 83 sales); 221336 - Rocherlea, (seen in 24 sales); 4 or more bidders"
   }
  ],
  "to_research": [],
  "no_photos": [],
  "to_chrome": 0,
- "bidders_known": 5060,
+ "bidders_known": 5067,
  "unknown_towns": [
   "Ambleside",
   "Bridgenorth",
@@ -5933,7 +6588,9 @@
   "Montana",
   "Parattah",
   "Prospect Bale",
+  "Punchbowl",
   "Rowella",
+  "Sidmouth",
   "South Launceston",
   "Traveller'S Rest",
   "Wentworth Falls",
