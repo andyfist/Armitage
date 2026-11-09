@@ -1,1 +1,48 @@
-{"cdid":3113667,"lot":564,"identification":"Stiebel Eltron curved-front wall-mounted fan heater (CK-series style, white, thermostat and timer dials, wall bracket). Model not legible.","entries":[],"searches_tried":"comps.py (pipeline and work) for stiebel eltron, stiebel heater, wall heater fan: no hits. Gowans API search 'stiebel': no lots. WebSearch budget was exhausted (2 attempts refused); stiebel-eltron.com.au fetch 404. No prices seen, none invented. eBay sold listings (Stiebel Eltron CK wall fan heater) and a new-price check at Australian retailers would settle it.","needs_chrome":true,"chrome_hint":"eBay.com.au sold listings: Stiebel Eltron CK 20 OR CKT wall fan heater; also new retail price on stiebel-eltron.com.au / Bunnings / heating retailers","viewing_check":"Photograph the data plate or label (model, kW, e.g. CK 20 or CKT 20) and check the casing and fan for damage."}
+{
+ "cdid": 3113667,
+ "lot": 564,
+ "identification": "Stiebel Eltron wall-mounted fan heater (white curved case, dark louvred outlet on front, two dial controls underneath, wall bracket and loose cable with a terminal block). Description says small, to be hard wired. Looks like the CK-series (CK 20 family) rapid wall heater but the exact model could not be read from the photos.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "A$268.69 avg (Stiebel Eltron CK20 Plus 2000W fan heater, 17 sold, dealer new, last sold 30 Aug 2026)",
+   "currency": "AUD",
+   "aud_price": 268.69,
+   "date": "2026-08-30",
+   "venue": "eBay AU (Terapeak, aggregated listing)",
+   "url": "https://www.ebay.com.au/itm/296279225017",
+   "same_item": "partial",
+   "note": "New dealer listing aggregate, not an individual used sale; model of the lot unconfirmed. Treated as new retail guide.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$210.59 avg (CNS100 Trend M 1000W panel heater, 8 sold, new, last sold 6 May 2026)",
+   "currency": "AUD",
+   "aud_price": 210.59,
+   "date": "2026-05-06",
+   "venue": "eBay AU (Terapeak, aggregated listing)",
+   "url": "https://www.ebay.com.au/itm/305440679487",
+   "same_item": "partial",
+   "note": "New dealer listing aggregate. Lot is described as a SMALL panel wall heater to be hard wired, so a CNS/CON style panel model is possible.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$138.76 avg (CNS 200 Trend 2kW, brand new, RRP A$358, 6 sold, last sold 29 Jan 2025)",
+   "currency": "AUD",
+   "aud_price": 138.76,
+   "date": "2025-01-29",
+   "venue": "eBay AU (Terapeak, aggregated listing)",
+   "url": "https://www.ebay.com.au/itm/235858163593",
+   "same_item": "partial",
+   "note": "Cheapest new price seen; aggregate, not a used sale.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for stiebel eltron, stiebel heater, wall heater fan: no hits. Gowans API search 'stiebel': no lots. WebSearch budget was exhausted (2 attempts refused); stiebel-eltron.com.au fetch 404. No prices seen, none invented. eBay sold listings (Stiebel Eltron CK wall fan heater) and a new-price check at Australian retailers would settle it. | chrome: Terapeak AU sold: 'stiebel eltron wall heater' (23 rows, all new dealer listings); 'stiebel eltron heater used' (no relevant rows).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: Stiebel Eltron CK 20 OR CKT wall fan heater; also new retail price on stiebel-eltron.com.au / Bunnings / heating retailers",
+ "viewing_check": "Armitage estimate 20-30, current bid $5 (9 Nov 2026). Description says small panel wall heater, to be hard wired (needs an electrician). Model not readable; Andy should check the plate on viewing. New prices A$140-$570 depending on model; no used sales found. Tested status unknown.",
+ "chrome_done": true
+}

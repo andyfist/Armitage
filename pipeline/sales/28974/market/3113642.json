@@ -1,8 +1,163 @@
-{"cdid":3113642,"lot":539,"identification":"HEMA/re-enactment kit: Red Dragon Armoury 350N fencing mask (CE), black quilted gambeson with steel spaulders and couters, leather brigandine-style torso armour, arming cap. Mid-range beginner HEMA gear, used.","entries":[
-{"kind":"ASKING","price":"EUR 80.90","aud_price":142,"currency":"EUR","date":"live, seen 2026-11-09","venue":"Irongate Armory (EU)","url":"https://irongatearmory.com/product/red-dragon-fencing-mask-350n/","same_item":"yes","note":"New retail, Red Dragon 350N mask only; snippet only. Rate EUR1=AUD1.75 (assumed). Used mask would resell well below this."},
-{"kind":"ASKING","price":"USD 134.99","aud_price":202,"currency":"USD","date":"live, seen 2026-11-09","venue":"Kult of Athena (US)","url":"https://www.kultofathena.com/product/red-dragon-hema-red-dragon-fencing-mask/","same_item":"close","note":"New retail, Red Dragon HEMA mask (possibly different model); snippet only. Rate USD1=AUD1.50 (assumed)."},
-{"kind":"ASKING","price":"GBP 64.50","aud_price":129,"currency":"GBP","date":"live, seen 2026-11-09","venue":"Salago (UK)","url":"https://salago.co.uk/product/red-dragon-hema-fencing-mask/","same_item":"yes","note":"New retail on sale, Red Dragon HEMA mask; snippet only. Rate GBP1=AUD2.00 (assumed)."},
-{"kind":"ASKING","price":"265.03 (currency unclear, labelled USD)","aud_price":265,"currency":"USD/AUD unclear","date":"live, seen 2026-11-09","venue":"Medieval Fight Club (AU)","url":"https://www.medieval-fightclub.com.au/xl-hema-gambeson-350-n-black/","same_item":"category guide","note":"New 350N black HEMA gambeson, Australian retailer; snippet only. Takes it as AUD for guide. New retail, not resale."},
-{"kind":"ASKING","price":"USD 90.00 plus postage","aud_price":135,"currency":"USD","date":"live, seen 2026-11-09","venue":"eBay seller (US), quilted HEMA gambeson with attachable sleeves, used","url":"https://ebay.com/itm/315445584936","same_item":"category guide","note":"Used gambeson only, medium; snippet only, not verified. Rate USD1=AUD1.50."},
-{"kind":"ASKING","price":"USD 154.19 or best offer","aud_price":231,"currency":"USD","date":"live, seen 2026-11-09","venue":"eBay seller, leather brigandine torso armour","url":"https://www.ebay.com/itm/177106897680","same_item":"category guide","note":"New LARP leather brigandine; snippet only. Rate USD1=AUD1.50."}
-],"searches_tried":"comps.py (pipeline and work) for red dragon armoury, gambeson, brigandine armour, HEMA mask: no hits. WebSearch: Red Dragon 350N mask price; Red Dragon 350N Australia; gambeson with pauldrons Australia used; brigandine auction sold. No sold or unsold results found anywhere, only new retail asking prices. eBay sold listings (Red Dragon 350N mask used, HEMA gambeson used) would settle resale; needs Chrome.","needs_chrome":true,"chrome_hint":"eBay Australia sold listings: 'Red Dragon 350N mask' and 'HEMA gambeson' and 'brigandine armour', filter Sold items","viewing_check":"Check mask size and label (350N, CE), padding and straps condition, whether the spaulders/couters are steel and rust-free, gambeson size and stains, and whether the helmet is a real steel helm or just the mask.","rate_note":"Assumed USD1=AUD1.50, EUR1=AUD1.75, GBP1=AUD2.00; not checked live."}
+{
+ "cdid": 3113642,
+ "lot": 539,
+ "identification": "Lot of HEMA/historical fencing protective gear: a Red Dragon Armoury Level 1 350NW fencing mask with steel bib and red lining, a black quilted padded coat (gambeson) with steel shoulder cops and elbow plates, a black leather torso armour with red leather panel and riveted studs plus leather skirt/belts, and a padded quilted arming cap. About 4 to 5 pieces.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "EUR 80.90",
+   "aud_price": 142,
+   "currency": "EUR",
+   "date": "live, seen 2026-11-09",
+   "venue": "Irongate Armory (EU)",
+   "url": "https://irongatearmory.com/product/red-dragon-fencing-mask-350n/",
+   "same_item": "yes",
+   "note": "New retail, Red Dragon 350N mask only; snippet only. Rate EUR1=AUD1.75 (assumed). Used mask would resell well below this."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 134.99",
+   "aud_price": 202,
+   "currency": "USD",
+   "date": "live, seen 2026-11-09",
+   "venue": "Kult of Athena (US)",
+   "url": "https://www.kultofathena.com/product/red-dragon-hema-red-dragon-fencing-mask/",
+   "same_item": "close",
+   "note": "New retail, Red Dragon HEMA mask (possibly different model); snippet only. Rate USD1=AUD1.50 (assumed)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 64.50",
+   "aud_price": 129,
+   "currency": "GBP",
+   "date": "live, seen 2026-11-09",
+   "venue": "Salago (UK)",
+   "url": "https://salago.co.uk/product/red-dragon-hema-fencing-mask/",
+   "same_item": "yes",
+   "note": "New retail on sale, Red Dragon HEMA mask; snippet only. Rate GBP1=AUD2.00 (assumed)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "265.03 (currency unclear, labelled USD)",
+   "aud_price": 265,
+   "currency": "USD/AUD unclear",
+   "date": "live, seen 2026-11-09",
+   "venue": "Medieval Fight Club (AU)",
+   "url": "https://www.medieval-fightclub.com.au/xl-hema-gambeson-350-n-black/",
+   "same_item": "category guide",
+   "note": "New 350N black HEMA gambeson, Australian retailer; snippet only. Takes it as AUD for guide. New retail, not resale."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 90.00 plus postage",
+   "aud_price": 135,
+   "currency": "USD",
+   "date": "live, seen 2026-11-09",
+   "venue": "eBay seller (US), quilted HEMA gambeson with attachable sleeves, used",
+   "url": "https://ebay.com/itm/315445584936",
+   "same_item": "category guide",
+   "note": "Used gambeson only, medium; snippet only, not verified. Rate USD1=AUD1.50."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 154.19 or best offer",
+   "aud_price": 231,
+   "currency": "USD",
+   "date": "live, seen 2026-11-09",
+   "venue": "eBay seller, leather brigandine torso armour",
+   "url": "https://www.ebay.com/itm/177106897680",
+   "same_item": "category guide",
+   "note": "New LARP leather brigandine; snippet only. Rate USD1=AUD1.50."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$131.28 each, 2 sold (A$262.56 total)",
+   "currency": "AUD",
+   "aud_price": 131.28,
+   "date": "2025-12-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134222345256",
+   "same_item": "partial",
+   "note": "Generic fencing/HEMA mask LARGE with removable lining, not Red Dragon branded. Fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$123.69",
+   "currency": "AUD",
+   "aud_price": 123.69,
+   "date": "2026-04-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/131842129664",
+   "same_item": "partial",
+   "note": "Fencing Coach Mask WMA 350N black, Small, new-style generic HEMA mask. Not Red Dragon.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$117.95",
+   "currency": "AUD",
+   "aud_price": 117.95,
+   "date": "2023-12-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/133160969359",
+   "same_item": "partial",
+   "note": "Fencing Coach Mask WMA 350N black, Medium. Not Red Dragon.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$164.34",
+   "currency": "AUD",
+   "aud_price": 164.34,
+   "date": "2026-06-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227015647759",
+   "same_item": "partial",
+   "note": "Padded full length gambeson, SCA/HEMA/LARP. Not the same piece, only the padded coat category.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$99.69",
+   "currency": "AUD",
+   "aud_price": 99.69,
+   "date": "2024-12-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/314527184369",
+   "same_item": "partial",
+   "note": "Gambeson outfit, medieval/SCA/HEMA/LARP. Category guide.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96.70",
+   "currency": "AUD",
+   "aud_price": 96.7,
+   "date": "2023-11-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/285379600573",
+   "same_item": "partial",
+   "note": "Gambeson hauberk lagging set. Category guide, older.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 69.50 new",
+   "currency": "GBP",
+   "aud_price": 136.91,
+   "date": "2026-11-09",
+   "venue": "Red Dragon Armoury / The HEMA Shop (via Google snippet)",
+   "url": "https://www.reddragonarmoury.com",
+   "same_item": "yes",
+   "note": "New retail price of the Red Dragon HEMA Fencing Mask 350N (snippet shows GBP 69.50 in stock). Also palmettoswords.com USD 164.99, Irongate Armory EUR 80.90, federschwert sale USD 99.99. No AUD conversion recorded.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for red dragon armoury, gambeson, brigandine armour, HEMA mask: no hits. WebSearch: Red Dragon 350N mask price; Red Dragon 350N Australia; gambeson with pauldrons Australia used; brigandine auction sold. No sold or unsold results found anywhere, only new retail asking prices. eBay sold listings (Red Dragon 350N mask used, HEMA gambeson used) would settle resale; needs Chrome. | chrome: Terapeak AU: 'red dragon armoury mask' (0 results, page loaded, 'didn't return any results'); 'HEMA fencing mask' (3 sold); 'HEMA gambeson' (3 sold). Google: 'Red Dragon Armoury HEMA mask 350N price sold' (retail asking prices only).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold listings: 'Red Dragon 350N mask' and 'HEMA gambeson' and 'brigandine armour', filter Sold items",
+ "viewing_check": "Armitage estimate 50-80, current bid $30 (checked 9 Nov 2026, closes 11 Nov ~2:59pm). With 22% premium a $30 bid costs $36.60. Photos from the ID pass show Red Dragon mask (label read), gambeson with steel cops, leather torso armour, arming cap. Andy should check at viewing: mask size and condition of lining, whether the steel cops/elbow plates are real steel, rust, condition of leather. No same-brand SOLD found on Terapeak AU; generic 350N HEMA masks sold A$118-131 new in 2023-2026 and gambesons A$97-164. Prices roughly flat to slightly up across 2023-2026; most sold prices are within 3 years. Used gear typically sells well below new.",
+ "rate_note": "Assumed USD1=AUD1.50, EUR1=AUD1.75, GBP1=AUD2.00; not checked live.",
+ "chrome_done": true
+}

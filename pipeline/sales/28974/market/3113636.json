@@ -2,10 +2,95 @@
  "cdid": 3113636,
  "lot": 533,
  "identification": "Quantity of framed prints and artworks: oil on board portrait of bearded man with pipe and feathered Tyrolean hat (signed lower left, dated apparently 1972, signature illegible), large triptych-style autumn bush/impressionist painting in silver frame, signed Tasmanian landscape photo print titled apparently 'Cradle ... from Dove Lake Rd' (signature illegible), two unframed prints (Norman Rockwell-style doctor and doll print; hand-tinted bush scene), and a framed poster 'Who were they? The convicts of Port Arthur' (Port Arthur Historic Site, 1991 poster of T.J. Nevin portraits).",
- "entries": [],
- "searches_tried": "Local comps.py (pipeline and work) x5 with cradle mountain/dove lake/photograph, rockwell doctor doll, port arthur convicts poster, signed photograph tasmania: no relevant hits (one unrelated ABA book plate). Gowans API search cradle mountain photograph: no results. WebSearch refused (budget used up), so no web comps. Generic decorative lot, no maker identified, stopped early. eBay sold listings would be the only useful check for the Rockwell and poster, but values are low. | chrome: Google 'Who were they convicts of Port Arthur poster' (two wordings); Google 'quantity of framed prints sold auction'. Terapeak blocked by eBay bot check, no artist name legible for auction-results search.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$89.47",
+   "currency": "AUD",
+   "aud_price": 89.47,
+   "date": "2026-07-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/366528891634",
+   "same_item": "category guide",
+   "note": "Framed oil painting, autumn forest (title cut off in the Terapeak row); auction. Generic decorative autumn landscape, comparable genre only",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$126.41",
+   "currency": "AUD",
+   "aud_price": 126.41,
+   "date": "2026-08-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/366589354800",
+   "same_item": "partial",
+   "note": "V. Dybdal signed 1956 oil painting; auction; signed, older, different style",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$87.41",
+   "currency": "AUD",
+   "aud_price": 87.41,
+   "date": "2024-10-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156444517112",
+   "same_item": "category guide",
+   "note": "Vintage framed oil on board landscape, autumn trees by lake, 1939, signed; auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$65.91",
+   "currency": "AUD",
+   "aud_price": 65.91,
+   "date": "2025-04-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/365433621058",
+   "same_item": "category guide",
+   "note": "Clara C. Inness autumn landscape; fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$199.77",
+   "currency": "AUD",
+   "aud_price": 199.77,
+   "date": "2025-11-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/297421559468",
+   "same_item": "partial",
+   "note": "Australian bush original oil painting, V. Schalkwyk, collectors piece; fixed price (could be accepted offer)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$68.09",
+   "currency": "AUD",
+   "aud_price": 68.09,
+   "date": "2026-01-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326949119596",
+   "same_item": "partial",
+   "note": "Australian bush original oil painting, V. Schalkwyk, unframed; fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$27.47",
+   "currency": "AUD",
+   "aud_price": 27.47,
+   "date": "2024-02-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116062328748",
+   "same_item": "category guide",
+   "note": "Thomas Lonyai oil painting Autumn Heat Haze, Sofala Hills 1981, signed; auction, one bid",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline and work) x5 with cradle mountain/dove lake/photograph, rockwell doctor doll, port arthur convicts poster, signed photograph tasmania: no relevant hits (one unrelated ABA book plate). Gowans API search cradle mountain photograph: no results. WebSearch refused (budget used up), so no web comps. Generic decorative lot, no maker identified, stopped early. eBay sold listings would be the only useful check for the Rockwell and poster, but values are low. | chrome: Google 'Who were they convicts of Port Arthur poster' (two wordings); Google 'quantity of framed prints sold auction'. Terapeak blocked by eBay bot check, no artist name legible for auction-results search. | chrome: Google 'Who were they convicts of Port Arthur poster' (two wordings); Google 'quantity of framed prints sold auction'. Terapeak blocked by eBay bot check, no artist name legible for auction-results search. | Re-pass (eBay not blocking): Terapeak AU sold 3yr 'autumn landscape oil painting framed' (25 rows, used 7); 'impressionist bush oil painting large' (0 rows, genuine); 'abstract bush painting framed' (3 rows, 2 Australian bush oils by Schalkwyk used); 'oil painting old man pipe hat' (0 rows); 'bearded man oil painting' (0 rows); 'large abstract autumn painting' (nothing relevant); Google: large impressionist autumn bush oil painting silver frame three panel unsigned sold auction (no match found).",
  "needs_chrome": false,
- "viewing_check": "Estimate $20-40, no bid. Six items: oil portrait of bearded man with pipe (signature/date lower left appears 1972, illegible; ask for a closer look), large autumn bush painting in silver frame (may be a better piece, worth inspecting in person for a signature and whether it is oil), signed Tasmanian landscape photo (Cradle Mountain from Dove Lake area), Port Arthur poster, two unframed prints. The painting is the only thing that could be worth more than the estimate. No artist could be read from photos so no artist sales searched.",
+ "viewing_check": "Estimate $20-40, no bid. Six items: oil portrait of bearded man with pipe (signature/date lower left appears 1972, illegible; ask for a closer look), large autumn bush painting in silver frame (may be a better piece, worth inspecting in person for a signature and whether it is oil), signed Tasmanian landscape photo (Cradle Mountain from Dove Lake area), Port Arthur poster, two unframed prints. The painting is the only thing that could be worth more than the estimate. No artist could be read from photos so no artist sales searched. PRICE RE-PASS: Terapeak AU 'autumn landscape oil painting framed' (3yr, 25 rows) found generic framed autumn oils selling A$27-200 (typically A$65-130; the 3 recent 2026 sales were A$89, A$126 and A$25). Searches 'impressionist bush oil painting large' and 'abstract bush painting framed' gave 0 and 3 rows (nothing like this painting), 'large abstract autumn painting' gave nothing relevant. Google found no match. Because the painting is unsigned in the photo, treat it as decorative art worth about A$60-150 retail at the top end; a heavy frame about 100 x 50 cm is awkward to post. The lot opens at $20-40 estimate with 6 items, so there is an upside only if the painting proves signed (look for a signature or a gallery label on the back and a stamped panel edge); if it has a name, search it on Invaluable and Leski before bidding. Prices here are 2024-2026, recent, with no clear trend.",
  "chrome_hint": "",
  "chrome_done": true
 }
