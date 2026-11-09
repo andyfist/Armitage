@@ -226,12 +226,24 @@
    "note": "1879 year (published 1880), 216 pp, described as Extremely Fine. It did not sell at A$400-500, which shows those high estimates are not reached.",
    "kind_original": "ESTIMATE",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.76",
+   "currency": "AUD",
+   "aud_price": 42.76,
+   "date": "2026-11-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/147353186900",
+   "same_item": "partial",
+   "note": "Ogilvie Imperial Dictionary Supplement, 1855, not the 1850 text volume",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with statistics/colony/tasmania, imperial dictionary ogilvie, tasmanian statistics; Gowans API statistics tasmania (no hits). WebSearch budget exhausted so no web searches done. eBay sold and Rare Book Hub / AbeBooks would help. | chrome: Terapeak AU: statistics colony of tasmania (0), tasmania statistics 1870s (0), imperial dictionary ogilvie blackie (0), imperial dictionary ogilvie (3), tasmania history book campbell town (3). Google for Statistics 1876 and dictionary. | chrome: All 6 photos read with zooms. Web: Statistics of the Colony of Tasmania 1876 sold auction; AbeBooks highest-price listing for the title (browser); von Stieglitz History of Evandale price. No eBay (bot check). Second pass (WebSearch/WebFetch only): Statistics of the Colony of Tasmania sold/realised across ABA, Leski, Lawsons, Invaluable, the-saleroom, WorthPoint, Noble (nothing dated for Tasmania found; Invaluable rate-limited; Lawsons archive robots-blocked; Carters page failed); von Stieglitz History of Evandale 1967 Birchalls (Biblio NZ listings, no auction results); Ogilvie Imperial Dictionary 1850 sold (Gorringes 2024 lot; Gerrards 2015 lot had no hammer shown; AbeBooks UK asking).",
+ "searches_tried": "comps.py (pipeline and work) with statistics/colony/tasmania, imperial dictionary ogilvie, tasmanian statistics; Gowans API statistics tasmania (no hits). WebSearch budget exhausted so no web searches done. eBay sold and Rare Book Hub / AbeBooks would help. | chrome: Terapeak AU: statistics colony of tasmania (0), tasmania statistics 1870s (0), imperial dictionary ogilvie blackie (0), imperial dictionary ogilvie (3), tasmania history book campbell town (3). Google for Statistics 1876 and dictionary. | chrome: All 6 photos read with zooms. Web: Statistics of the Colony of Tasmania 1876 sold auction; AbeBooks highest-price listing for the title (browser); von Stieglitz History of Evandale price. No eBay (bot check). Second pass (WebSearch/WebFetch only): Statistics of the Colony of Tasmania sold/realised across ABA, Leski, Lawsons, Invaluable, the-saleroom, WorthPoint, Noble (nothing dated for Tasmania found; Invaluable rate-limited; Lawsons archive robots-blocked; Carters page failed); von Stieglitz History of Evandale 1967 Birchalls (Biblio NZ listings, no auction results); Ogilvie Imperial Dictionary 1850 sold (Gorringes 2024 lot; Gerrards 2015 lot had no hammer shown; AbeBooks UK asking). | chrome: AbeBooks (Imperial Dictionary, Old House Book, Caring for Old Houses, Campbell Town, Freycinet, Glamorgan), eBay AU sold (Ogilvie). Invaluable and LiveAuctioneers not searched for these titles. Statistics 1876 and Evandale skipped per brief.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold: 'Statistics of the Colony of Tasmania' 1876 OR 1877 OR 1875; also AbeBooks/Trove bookseller listings for Tasmanian Statistics 1870s",
- "viewing_check": "Estimate A$30-50, bid A$35. Check the Statistics volume is complete in wrappers and whether the Evandale is the 1967 Birchalls first (no ISBN). Neither lifts the lot much: sensible ceiling about A$60-70 for a Tasmaniana buyer.",
+ "viewing_check": "Confirm Imperial Dictionary is Vol II only and check its condition and title-page date; read the Glamorgan booklet cover; check the Campbell Town book for a signature.",
  "rate_note": "All AUD, rate 1.",
  "chrome_done": true
 }

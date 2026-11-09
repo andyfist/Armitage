@@ -106,11 +106,71 @@
    "same_item": "partial",
    "note": "Picture book, low-grade",
    "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 36",
+   "currency": "GBP",
+   "aud_price": 70,
+   "date": "2026-11-10",
+   "venue": "Barter Books",
+   "url": "https://www.barterbooks.co.uk/catalog/product_info.php?cPath=4&products_id=157170",
+   "same_item": "close",
+   "note": "Nora Case Ten Little Nigger Boys and Girls, Chatto & Windus 1959 reprint, ex-library reading copy, out of stock.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "price not shown",
+   "currency": "GBP",
+   "aud_price": null,
+   "date": "2020-02-18",
+   "venue": "Stella and Rose's Books",
+   "url": "https://stellabooks.com/books/nora-case/ten-little-nigger-boys-and-ten-little-nigger-girls-935798/2129980",
+   "same_item": "close",
+   "note": "Chatto & Windus c.1941 fair reading copy, backstrip missing. Marked sold, price not visible.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$12.48",
+   "currency": "AUD",
+   "aud_price": 12.48,
+   "date": "2026-10-20",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/397431653308",
+   "same_item": "yes",
+   "note": "Kaplan Illustrated Manual of Sex Therapy hardcover.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$12.77",
+   "currency": "AUD",
+   "aud_price": 12.77,
+   "date": "2026-10-16",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227120565759",
+   "same_item": "yes",
+   "note": "Kaplan Illustrated Manual of Sex Therapy hardcover.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$13.46",
+   "currency": "AUD",
+   "aud_price": 13.46,
+   "date": "2026-09-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/377139927308",
+   "same_item": "yes",
+   "note": "Kaplan Illustrated Manual of Sex Therapy.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "Local comps.py (pipeline and work) for title and Nora Case: no hits. WebSearch twice (title/sold; edition/price): asking prices only, no sold or auction results found. Invaluable artist page for Norah Case fetch returned nothing parseable; AbeBooks author page fetch unhelpful. eBay sold listings would settle it (closed to us). Gowans/Armitage not searched beyond comps DB. Kaplan and Sexual Love dropped under book rule (mass-printed). | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | Terapeak AU 3yr (dayRange=1095): ten little nigger boys (6 rows); nora case ten little (0 rows); complete book of sexual love (8 rows, only Kama Sutra types A$15-56)",
+ "searches_tried": "Local comps.py (pipeline and work) for title and Nora Case: no hits. WebSearch twice (title/sold; edition/price): asking prices only, no sold or auction results found. Invaluable artist page for Norah Case fetch returned nothing parseable; AbeBooks author page fetch unhelpful. eBay sold listings would settle it (closed to us). Gowans/Armitage not searched beyond comps DB. Kaplan and Sexual Love dropped under book rule (mass-printed). | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | chrome: None; eBay AU sold: ten little nigger boys nora case (0 exact; 1 loose result, the 1956 hardcover); nora case ten little boys book (0); nora case illustrated book (0 relevant) | Terapeak AU 3yr (dayRange=1095): ten little nigger boys (6 rows); nora case ten little (0 rows); complete book of sexual love (8 rows, only Kama Sutra types A$15-56) | chrome: AbeBooks, eBay AU sold, Invaluable (prices hidden), Biblio.com, Barter Books, Stella and Rose's, LiveAuctioneers (errored), biblio.co.nz (Cloudflare check, stopped). Lot chid 28975.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold/completed: Nora Case \"Ten Little Nigger Boys\" (and Girls) Chatto Windus; also Invaluable/WorthPoint sold for same",
- "viewing_check": "Not researched beyond head start; only Nora Case title of any interest. Offensive title may limit eBay listings. Photo cannot show the title page. Ask for imprint/date and check it is the Nora Case illustrated edition; one eBay AU sale of a 1956 hardcover edition reached A$2,090.70 on 8 Nov 2026 but that edition may differ. Offensive title, specialist collector market. | TERAPEAK RE-CHECK: Terapeak confirms A$700 for item 237118180231 (1956 hardcover). Could not open the listing (eBay error) to confirm illustrator/publisher, so check the lot copy against it: Nora Case illustrated, publisher, date. Complete Book of Sexual Love: no matching Terapeak sales.",
+ "viewing_check": "Read the Nora Case title page for publisher and date (the only book of interest). Check Holroyd imprint (Aldus 1979) and Kaplan imprint (Quadrangle 1975 with jacket, price on jacket flap). Look for signatures or inscriptions in all three.",
  "chrome_done": true
 }

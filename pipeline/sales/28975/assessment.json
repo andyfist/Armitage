@@ -16,8 +16,8 @@
  "candidates": 158,
  "counts": {
   "PASS": 16,
-  "CHROME": 38,
-  "FAIL": 98,
+  "CHROME": 37,
+  "FAIL": 99,
   "DROP": 6,
   "NOT RESEARCHED": 0
  },
@@ -10029,7 +10029,35 @@
    "needs_chrome": false,
    "chrome_hint": "eBay sold/completed: Nora Case \"Ten Little Nigger Boys\" (and Girls) Chatto Windus; also Invaluable/WorthPoint sold for same",
    "chrome_done": true,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 12.48,
+     "date": "2026-10-20",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/397431653308",
+     "same_item": "yes",
+     "note": "Kaplan Illustrated Manual of Sex Therapy hardcover.",
+     "old": false
+    },
+    {
+     "aud_price": 12.77,
+     "date": "2026-10-16",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/227120565759",
+     "same_item": "yes",
+     "note": "Kaplan Illustrated Manual of Sex Therapy hardcover.",
+     "old": false
+    },
+    {
+     "aud_price": 13.46,
+     "date": "2026-09-04",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/377139927308",
+     "same_item": "yes",
+     "note": "Kaplan Illustrated Manual of Sex Therapy.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -10068,14 +10096,23 @@
      "same_item": "close",
      "note": "1959 copy, red illustrated cover, likely better condition. Snippet only. Rate 2.00.",
      "old": false
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-11-10",
+     "venue": "Barter Books",
+     "url": "https://www.barterbooks.co.uk/catalog/product_info.php?cPath=4&products_id=157170",
+     "same_item": "close",
+     "note": "Nora Case Ten Little Nigger Boys and Girls, Chatto & Windus 1959 reprint, ex-library reading copy, out of stock.",
+     "old": false
     }
    ],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 12.77,
+   "net_resale": 10.8545,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $13 does not clear the current bid $30",
    "age_note": "",
    "trend": "",
    "priority": true

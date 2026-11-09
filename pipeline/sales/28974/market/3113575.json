@@ -106,12 +106,84 @@
    "same_item": "close",
    "note": "Earnshaw A Dictionary of Lace plus Identification of Lace, 2 books, softcover",
    "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$75.68 plus US$37.41 shipping",
+   "currency": "USD",
+   "aud_price": 117,
+   "date": "2026-11-09",
+   "venue": "AbeBooks (Repton and Clover, Norwich)",
+   "url": "https://www.abebooks.com/servlet/BookDetailsPL?bi=22530849142",
+   "same_item": "close",
+   "note": "Jourdain Old Lace 1908 first edition, near fine, with scarce wrapper. The box copy is probably a later reprint with a modern jacket.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$16.08",
+   "currency": "USD",
+   "aud_price": 25,
+   "date": "2026-11-09",
+   "venue": "AbeBooks",
+   "url": "https://www.abebooks.com/servlet/BookDetailsPL?bi=32526103576",
+   "same_item": "close",
+   "note": "Jourdain Old Lace plain used hardback (reprint).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.59 (small collection of books on the history of lace)",
+   "currency": "AUD",
+   "aud_price": 48.59,
+   "date": "2026-08-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/317715426438",
+   "same_item": "partial",
+   "note": "A multi-book lace lot, a guide to what a bundle of lace books makes.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$39.99 (3 bobbin lace books incl. Earnshaw A Dictionary of Lace)",
+   "currency": "AUD",
+   "aud_price": 39.99,
+   "date": "2026-08-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227325877082",
+   "same_item": "partial",
+   "note": "Includes Earnshaw Dictionary of Lace.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$27.40 (Vintage Lace Making Books Job Lot, 7 bids)",
+   "currency": "AUD",
+   "aud_price": 27.4,
+   "date": "2026-08-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/137628631421",
+   "same_item": "partial",
+   "note": "Lace making job lot.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$33.50",
+   "currency": "AUD",
+   "aud_price": 33.5,
+   "date": "2026-09-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/325977449056",
+   "same_item": "yes",
+   "note": "Earnshaw Needle-Made Laces hardcover.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) with Pat Earnshaw lace, Victorian Lace Wardle, Jourdain Old Lace, lace books: no resale comps, only the Gowans lace box. Gowans API lace books. WebSearch x3: Earnshaw sold auction, lace book lots hammer, Wardle used price. No Australian competitive-auction sold result for lace book lots found. eBay sold listings would settle it. Exchange rate 1.5 AUD per USD assumed. | chrome: Terapeak AU: 'lace books Earnshaw' (8 rows), 'Victorian Lace Wardle' (0 rows, twice), 'lace book lot' (28 rows, mostly knitting pattern booklets, not comparable). Google on Wardle Victorian Lace (AbeBooks, Biblio). | chrome: Armitage lot page and both product images (1637422_1.jpg, 1637422_2.jpg) zoomed by region; WebSearch: 'The Love of Lace Hart Calvert Workman' (Workman 1992 hardback, eBay/Alibris listings); 'Laces for a Lady lace booklet' (no identification); 'Jourdain Old Lace Batsford 1988 reprint price' (reprint ISBN 9780713450774, cheap on World of Books/Awesome Books).",
+ "searches_tried": "comps.py (pipeline and work) with Pat Earnshaw lace, Victorian Lace Wardle, Jourdain Old Lace, lace books: no resale comps, only the Gowans lace box. Gowans API lace books. WebSearch x3: Earnshaw sold auction, lace book lots hammer, Wardle used price. No Australian competitive-auction sold result for lace book lots found. eBay sold listings would settle it. Exchange rate 1.5 AUD per USD assumed. | chrome: Terapeak AU: 'lace books Earnshaw' (8 rows), 'Victorian Lace Wardle' (0 rows, twice), 'lace book lot' (28 rows, mostly knitting pattern booklets, not comparable). Google on Wardle Victorian Lace (AbeBooks, Biblio). | chrome: Armitage lot page and both product images (1637422_1.jpg, 1637422_2.jpg) zoomed by region; WebSearch: 'The Love of Lace Hart Calvert Workman' (Workman 1992 hardback, eBay/Alibris listings); 'Laces for a Lady lace booklet' (no identification); 'Jourdain Old Lace Batsford 1988 reprint price' (reprint ISBN 9780713450774, cheap on World of Books/Awesome Books). | chrome: AbeBooks (all 16 items), eBay AU sold (all 16, about 90 days only), Invaluable (Jourdain, sold prices hidden), the-saleroom (Jourdain, 0 results). No dated SOLD found for Jourdain, Pond, Wardle, Jackson, Close single copies; those use ASKING. Google search not used as evidence.",
  "needs_chrome": false,
  "chrome_hint": "eBay sold/completed: 'lot lace books Earnshaw' and 'lace making books job lot' (Australia and UK); also 'Pat Earnshaw Lace in Fashion' sold",
- "viewing_check": "Estimate $30-40, current bid $10, closes 2:37 pm Wed 11 Nov, 22% BP. Nothing collectible in the photos. Only check: dig under the visible stack for any pre-1920 lace book (Palliser History of Lace, Jourdain 1908 first in cloth, Moody, Pollen, Lowes, Caulfeild) or original pattern books/prickings. Open Old Lace to the imprint page: if it reads 1908 Batsford with plates and no ISBN it is the first and worth A$100+, but the jacket and Batsford logo say 1988 reprint. Otherwise only buy as a cheap resale bundle under about A$40 hammer.",
+ "viewing_check": "Open Jourdain Old Lace (spine left in photo 1) at the title page: 1908 (or 1909 Scribner) with cream cloth gilt means first, about A$100-120. A later Batsford reprint with a printed jacket is about A$20-30. Also check whether the Wardle Victorian Lace is Ruth Bean 1982 (reissue) or Jenkins 1968.",
  "rate_note": "USD to AUD 1.5 assumed",
  "chrome_done": true
 }
