@@ -1,14 +1,164 @@
-{"cdid":3113176,"lot":73,
-"identification":"Yamaha alto saxophone, lacquered brass with nickel-plated keys, brown rectangular hard case, folding stand. Tuning-fork emblem on octave key. Brown case and nickel keys suggest an older Japanese student model (YAS-21 or YAS-23, 1970s-80s). Model not confirmed; bell engraving illegible in photos.",
-"entries":[
-{"kind":"SOLD","price":"$390 hammer","currency":"AUD","aud_price":390,"date":"2026-08-23","venue":"Gowans Auctions, Hobart","url":"gowans lot id 432566","same_item":"yes","note":"Yamaha saxophone, 11 bids. Paid locally: what we might pay, not a resale price. From local database."},
-{"kind":"SOLD","price":"$210-340 hammer (alto saxes, 2026)","currency":"AUD","aud_price":340,"date":"2026-05-10","venue":"Gowans Auctions, Hobart","url":"gowans lot id 408117","same_item":"close","note":"Unbranded/budget cased alto, 9 bids; others $210 (May 2026) and $230 Studio 19 (Sep 2026). Paid locally guide only."},
-{"kind":"SOLD","price":"US$225","currency":"USD","aud_price":345,"date":"2024-07-23","venue":"BSS Auction, Philadelphia","url":"https://www.bssauction.com/auction-lot/yamaha-yas-23-alto-sax_11440AA93D","same_item":"yes","note":"Yamaha YAS-23 with case, described hardly used, estimate US$400-600. Snippet only. Premium inclusion unknown. Rate approx 1 USD = 1.53 AUD (assumed)."},
-{"kind":"ASKING","price":"AU$628.65 plus postage","currency":"AUD","aud_price":629,"date":"live, seen 2026-11-09","venue":"eBay Australia (vintage YAS-21 from Japan, with case)","url":"https://www.ebay.com.au/p/1575216704","same_item":"close","note":"Snippet only, unverified. Asking price from an importer, not a price paid."},
-{"kind":"ASKING","price":"US$599 plus shipping","currency":"USD","aud_price":916,"date":"live, seen 2026-11-09","venue":"Sweetwater Gear Exchange (used YAS-23, excellent)","url":"https://www.sweetwater.com/used/listings/290433-used-yamaha-yas-23-alto-saxophone","same_item":"close","note":"Snippet only. Retail ask for excellent condition, serviced; lot is worn and unchecked, so expect well below."}
-],
-"searches_tried":"comps.py (pipeline) yamaha saxophone, alto saxophone; work comps.py saxophone --min-price 100; WebSearch YAS-23 sold auction; WebSearch YAS-21 Australia Gumtree. eBay AU sold listings would settle it: needs Chrome.",
-"needs_chrome":true,
-"chrome_hint":"eBay.com.au sold and completed listings: Yamaha YAS-21 OR YAS-23 alto saxophone case, last 90 days, Australia",
-"viewing_check":"Photograph the engraving on the bell and the serial number (below the low Bb/ on the body) to confirm model (YAS-21, 23, 25, 275); check pads for leaks, dents in the body/neck, mouthpiece and neck cork, and whether keys move freely.",
-"rate_note":"USD to AUD at about 1.53 (assumed)."}
+{
+ "cdid": 3113176,
+ "lot": 73,
+ "identification": "Yamaha alto saxophone with brown hard case and a folding saxophone stand. Gold lacquered brass body, nickel-plated keys, mother-of-pearl key touches, Yamaha tuning-fork logo engraved on the neck (confirmed in a zoom of photo 3). The look (lacquered body, nickel keys, student build) is consistent with the Yamaha YAS-21 / YAS-23 / AS-100 type student altos, but the YAS model stamp and the serial number are NOT legible in any of the 5 photos (bell engraving in photo 4 is visible but too small and blurred to read; no photo shows the neck receiver or the body under the thumb hook). Model is therefore unconfirmed.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$390 hammer",
+   "currency": "AUD",
+   "aud_price": 390,
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 432566",
+   "same_item": "yes",
+   "note": "Yamaha saxophone, 11 bids. Paid locally: what we might pay, not a resale price. From local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$210-340 hammer (alto saxes, 2026)",
+   "currency": "AUD",
+   "aud_price": 340,
+   "date": "2026-05-10",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 408117",
+   "same_item": "close",
+   "note": "Unbranded/budget cased alto, 9 bids; others $210 (May 2026) and $230 Studio 19 (Sep 2026). Paid locally guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "US$225",
+   "currency": "USD",
+   "aud_price": 345,
+   "date": "2024-07-23",
+   "venue": "BSS Auction, Philadelphia",
+   "url": "https://www.bssauction.com/auction-lot/yamaha-yas-23-alto-sax_11440AA93D",
+   "same_item": "yes",
+   "note": "Yamaha YAS-23 with case, described hardly used, estimate US$400-600. Snippet only. Premium inclusion unknown. Rate approx 1 USD = 1.53 AUD (assumed)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$628.65 plus postage",
+   "currency": "AUD",
+   "aud_price": 629,
+   "date": "live, seen 2026-11-09",
+   "venue": "eBay Australia (vintage YAS-21 from Japan, with case)",
+   "url": "https://www.ebay.com.au/p/1575216704",
+   "same_item": "close",
+   "note": "Snippet only, unverified. Asking price from an importer, not a price paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$599 plus shipping",
+   "currency": "USD",
+   "aud_price": 916,
+   "date": "live, seen 2026-11-09",
+   "venue": "Sweetwater Gear Exchange (used YAS-23, excellent)",
+   "url": "https://www.sweetwater.com/used/listings/290433-used-yamaha-yas-23-alto-saxophone",
+   "same_item": "close",
+   "note": "Snippet only. Retail ask for excellent condition, serviced; lot is worn and unchecked, so expect well below."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$393.83 (fixed price)",
+   "currency": "AUD",
+   "aud_price": 393.83,
+   "date": "2026-08-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/336767025110",
+   "same_item": "close",
+   "note": "Vintage Yamaha YAS-21 alto saxophone, made in Japan, ex-university. Model not confirmed to match.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$362.56 (auction, 26 bids)",
+   "currency": "AUD",
+   "aud_price": 362.56,
+   "date": "2026-09-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/366684047124",
+   "same_item": "close",
+   "note": "Vintage Yamaha AS-100 alto sax, Japan, brass, with case.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$335.37 (auction, 9 bids)",
+   "currency": "AUD",
+   "aud_price": 335.37,
+   "date": "2025-11-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116865019154",
+   "same_item": "close",
+   "note": "Yamaha Classic YAS-21 alto sax in vintage condition.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$299.42 (auction, 14 bids)",
+   "currency": "AUD",
+   "aud_price": 299.42,
+   "date": "2024-12-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/135413315958",
+   "same_item": "close",
+   "note": "Yamaha classic YAS-21 alto sax, vintage condition.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$282.58 (auction, 1 bid)",
+   "currency": "AUD",
+   "aud_price": 282.58,
+   "date": "2025-10-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167847676768",
+   "same_item": "close",
+   "note": "Yamaha YAS-21 alto saxophone.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$455.58 (fixed price)",
+   "currency": "AUD",
+   "aud_price": 455.58,
+   "date": "2025-01-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/296932108508",
+   "same_item": "close",
+   "note": "Yamaha YAS-23 alto sax with hard case, Australian seller.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$648.52 (fixed price)",
+   "currency": "AUD",
+   "aud_price": 648.52,
+   "date": "2025-08-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116732682397",
+   "same_item": "partial",
+   "note": "Yamaha Student A-100 alto sax, perfect condition. Better condition and different model, upper bound.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$694.37 (fixed price)",
+   "currency": "AUD",
+   "aud_price": 694.37,
+   "date": "2025-11-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157426268463",
+   "same_item": "partial",
+   "note": "Yamaha YAS26 alto sax, excellent condition. Higher-tier model, upper bound.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline) yamaha saxophone, alto saxophone; work comps.py saxophone --min-price 100; WebSearch YAS-23 sold auction; WebSearch YAS-21 Australia Gumtree. eBay AU sold listings would settle it: needs Chrome. | chrome: Terapeak AU 3yr SOLD: 'yamaha alto saxophone' (50 rows, mostly mouthpieces and bike parts, not used), 'yamaha yas 23 alto sax' (1 row), 'yamaha alto sax case' (5 rows), 'yamaha yas-21' (15 rows, 3 sax), 'yamaha yas-25' (2 rows, $791 and $949 in 2023-24, not used as they are a higher model), 'yamaha alto saxophone vintage' (7 rows).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold and completed listings: Yamaha YAS-21 OR YAS-23 alto saxophone case, last 90 days, Australia",
+ "viewing_check": "Estimate 60-100, current bid $25. Must check at viewing: model stamp (YAS-21/23/25/26 or AS-100; value ranges from about $280 to $700 depending on model), serial number and country of manufacture (Japan), neck and body condition (dents, bent keys, leaking pads, cork), whether the neck fits and the case latches work. Case is old and scuffed. Sax case is large and posts at roughly A$60-100 interstate. Prices are mostly 1-2 years old and steady to slightly up for YAS-21 type altos. Model unconfirmed from photos.",
+ "rate_note": "USD to AUD at about 1.53 (assumed).",
+ "chrome_done": true
+}

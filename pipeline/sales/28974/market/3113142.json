@@ -1,12 +1,172 @@
-{"cdid":3113142,"lot":39,"identification":"Five Australian reds: Wynns Coonawarra Estate Michael Shiraz 1994, Wynns Cabernet Sauvignon 1996, Saltram No.1 Barossa Shiraz 1999, Witchmount Shiraz 2004, Wynns John Riddoch Cabernet Sauvignon Limited Release 1999. Photos confirm all five labels. Value sits in Michael and John Riddoch.","entries":[
-{"kind":"SOLD","price":"$340 hammer (2 bottles, 1990 Michael Hermitage)","aud_price":340,"currency":"AUD","date":"2022-12-04","venue":"Leski Auctions, Melbourne sale 586 lot 1270","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/586","same_item":"close","note":"From local comps database. Different vintage (1990), two bottles so about $170 each, premium not included. Snippet only."},
-{"kind":"SOLD","price":"$375 hammer (1997 Michael Shiraz, lot)","aud_price":375,"currency":"AUD","date":"2013-06-25","venue":"Leski Auctions, Melbourne sale 74 lot 468","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/74","same_item":"close","note":"Old (13 years), different vintage, quantity unclear. Snippet only."},
-{"kind":"SOLD","price":"$300 hammer (lot of Henschke Mount Edelstone 1996, Wynns John Riddoch 1999, Penfolds item)","aud_price":300,"currency":"AUD","date":"2025-05-24","venue":"Leski Auctions, Melbourne sale 637 lot 1516","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/637","same_item":"close","note":"Mixed lot containing the same John Riddoch 1999 plus other wines, so not a single-bottle price. Snippet only."},
-{"kind":"SOLD","price":"$120 hammer (mixed Australian dozen incl. Saltram No.1)","aud_price":120,"currency":"AUD","date":"2023-05-29","venue":"Leski Auctions, Melbourne sale 607 lot 1473","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/607","same_item":"category guide","note":"Dozen of mixed wines, weak guide only. Snippet only."},
-{"kind":"SOLD","price":"final bid $91 per bottle, $107.38 with 18% premium (1994 Michael Shiraz, minor label staining; estimate $100-140)","aud_price":91,"currency":"AUD","date":"unknown (closed, date not seen)","venue":"Langtons","url":"https://www.langtons.com.au/auc-var-27252366.html","same_item":"yes","note":"Same wine and vintage, but label stained (ours clean). Figure came from a search summary; my curl of the page showed no lot content, so snippet only, date not verified. Best single comp: about $90 hammer per bottle."},
-{"kind":"ASKING","price":"$169.90 per bottle (1994 Michael Shiraz)","aud_price":169.9,"currency":"AUD","date":"live, seen 2026-11-09","venue":"Cellarit","url":"https://cellarit.com.au/30511/wynns-coonawarra-michael-shiraz-1994.aspx","same_item":"yes","note":"Retail asking price, in stock, page opened (title/price in page header). Not a price paid."},
-{"kind":"ASKING","price":"$95.00 (1994 Michael Shiraz, minor damaged label, sold out)","aud_price":95,"currency":"AUD","date":"expired, seen 2026-11-09","venue":"Winehouse","url":"https://winehouse.com.au/wynns-michael-shiraz-1994-minor-damaged-label","same_item":"yes","note":"Retail listing, snippet only. Damaged label."},
-{"kind":"ASKING","price":"$89.99 (1999 John Riddoch)","aud_price":89.99,"currency":"AUD","date":"live, seen 2026-11-09","venue":"Nicks Wine Merchants","url":"https://www.nicks.com.au/1999-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon","same_item":"yes","note":"Snippet only; site blocked my fetch. Retail asking."},
-{"kind":"ASKING","price":"$189.90 (1999 John Riddoch, may be a magnum)","aud_price":189.9,"currency":"AUD","date":"live, seen 2026-11-09","venue":"Cellarit","url":"https://www.cellarit.com.au/wine-35111-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon-1999.aspx","same_item":"close","note":"Snippet only; format unclear. Retail asking."}
-],
-"searches_tried":"comps.py (pipeline and work) for Michael Shiraz, John Riddoch, Saltram No.1; WebSearch for Michael 1994 and John Riddoch 1999 auction results; opened Cellarit page; Langtons and Nicks fetches gave no usable content. Not searched: Witchmount 2004, Wynns Cabernet 1996 (low value, about $20-40 each). Rate: AUD only, no conversion. eBay sold and Wine-Searcher auction history would help but are blocked.","needs_chrome":true,"chrome_hint":"Wine-Searcher or eBay sold: 'Wynns Michael Shiraz 1994' and 'Wynns John Riddoch Cabernet 1999'; also Langtons auction results page for lot auc-var-27252366 to confirm date and price.","rate_note":"All prices AUD.","viewing_check":"Fill levels and ullage in the neck of Michael 1994 and John Riddoch 1999, capsule and cork condition, any seepage or label damage."}
+{
+ "cdid": 3113142,
+ "lot": 39,
+ "identification": "Five red wines, bottles only (no box lot): Wynns Coonawarra Estate Michael Shiraz 1994; Wynns Coonawarra Estate Cabernet Sauvignon 1996; Saltram No.1 Barossa Shiraz 1999 (gold medal collar); Witchmount Shiraz 2004 (Victoria, medal stickers 2006); Wynns John Riddoch Coonawarra Cabernet Sauvignon Limited Release 1999. Catalogue says Coonawarra & Barossa. Photo 1 shows a Tyrrell's Wines wooden case behind the bottles (props, not part of lot as far as description says). Michael Shiraz and John Riddoch are Wynns' flagship wines. Estimate 60-100, current bid $35.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$340 hammer (2 bottles, 1990 Michael Hermitage)",
+   "aud_price": 340,
+   "currency": "AUD",
+   "date": "2022-12-04",
+   "venue": "Leski Auctions, Melbourne sale 586 lot 1270",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/586",
+   "same_item": "close",
+   "note": "From local comps database. Different vintage (1990), two bottles so about $170 each, premium not included. Snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$375 hammer (1997 Michael Shiraz, lot)",
+   "aud_price": 375,
+   "currency": "AUD",
+   "date": "2013-06-25",
+   "venue": "Leski Auctions, Melbourne sale 74 lot 468",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/74",
+   "same_item": "close",
+   "note": "Old (13 years), different vintage, quantity unclear. Snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$300 hammer (lot of Henschke Mount Edelstone 1996, Wynns John Riddoch 1999, Penfolds item)",
+   "aud_price": 300,
+   "currency": "AUD",
+   "date": "2025-05-24",
+   "venue": "Leski Auctions, Melbourne sale 637 lot 1516",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/637",
+   "same_item": "close",
+   "note": "Mixed lot containing the same John Riddoch 1999 plus other wines, so not a single-bottle price. Snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120 hammer (mixed Australian dozen incl. Saltram No.1)",
+   "aud_price": 120,
+   "currency": "AUD",
+   "date": "2023-05-29",
+   "venue": "Leski Auctions, Melbourne sale 607 lot 1473",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/607",
+   "same_item": "category guide",
+   "note": "Dozen of mixed wines, weak guide only. Snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "final bid $91 per bottle, $107.38 with 18% premium (1994 Michael Shiraz, minor label staining; estimate $100-140)",
+   "aud_price": 91,
+   "currency": "AUD",
+   "date": "unknown (closed, date not seen)",
+   "venue": "Langtons",
+   "url": "https://www.langtons.com.au/auc-var-27252366.html",
+   "same_item": "yes",
+   "note": "Same wine and vintage, but label stained (ours clean). Figure came from a search summary; my curl of the page showed no lot content, so snippet only, date not verified. Best single comp: about $90 hammer per bottle."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$169.90 per bottle (1994 Michael Shiraz)",
+   "aud_price": 169.9,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-09",
+   "venue": "Cellarit",
+   "url": "https://cellarit.com.au/30511/wynns-coonawarra-michael-shiraz-1994.aspx",
+   "same_item": "yes",
+   "note": "Retail asking price, in stock, page opened (title/price in page header). Not a price paid."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$95.00 (1994 Michael Shiraz, minor damaged label, sold out)",
+   "aud_price": 95,
+   "currency": "AUD",
+   "date": "expired, seen 2026-11-09",
+   "venue": "Winehouse",
+   "url": "https://winehouse.com.au/wynns-michael-shiraz-1994-minor-damaged-label",
+   "same_item": "yes",
+   "note": "Retail listing, snippet only. Damaged label."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$89.99 (1999 John Riddoch)",
+   "aud_price": 89.99,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-09",
+   "venue": "Nicks Wine Merchants",
+   "url": "https://www.nicks.com.au/1999-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon",
+   "same_item": "yes",
+   "note": "Snippet only; site blocked my fetch. Retail asking."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$189.90 (1999 John Riddoch, may be a magnum)",
+   "aud_price": 189.9,
+   "currency": "AUD",
+   "date": "live, seen 2026-11-09",
+   "venue": "Cellarit",
+   "url": "https://www.cellarit.com.au/wine-35111-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon-1999.aspx",
+   "same_item": "close",
+   "note": "Snippet only; format unclear. Retail asking."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50 (1 bottle, Wynns Michael Shiraz 1994)",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2025-10-30",
+   "venue": "Lawsons (Fine Wine, Sydney)",
+   "url": "https://www.lawsons.com.au/auction-lot/1994-wynns-michael-shiraz-coonawarra_8d14305175",
+   "same_item": "yes",
+   "note": "Estimate A$60-80. Per Google snippet; lot assumed single 750ml bottle. Hammer or incl. premium not stated.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$317 for 3x John Riddoch Cab Sauv 1999 (about A$106 each)",
+   "currency": "AUD",
+   "aud_price": 105.67,
+   "date": "2026-03-03",
+   "venue": "Grays Auction (private cellar)",
+   "url": "https://www.grays.com/lot/0077-10741004/private-cellar/wynns-john-riddoch-cabernet-sauvignon-1999-3x-750ml-coonawarra",
+   "same_item": "yes",
+   "note": "3 bottles for A$317, about A$106 each. Date from Google snippet (closed 3 Mar 2026); lot page text did not load. Premium status not confirmed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$160 for 4x Wynns Cab Sauv 1996",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2025-08-21",
+   "venue": "Grays Auction (private cellar)",
+   "url": "https://www.grays.com/lot/0002-10737373/private-cellar/wynns-coonawarra-estate-cabernet-sauvignon-1996-4x-750ml-coonawarra",
+   "same_item": "yes",
+   "note": "About A$40 per bottle. Date and price from Google snippet; lot page not opened. Premium status not confirmed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50 (1 bottle, Saltram No.1 Shiraz 1999)",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2025-05-29",
+   "venue": "Lawsons (Fine Wine, Sydney)",
+   "url": "https://www.lawsons.com.au/auction-lot/1999-saltram-no.1-shiraz-barossa-valley_6204237a2d",
+   "same_item": "yes",
+   "note": "Estimate A$40-50. Page confirmed. Single bottle assumed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$184 for 8x Wynns Cab Sauv 1996",
+   "currency": "AUD",
+   "aud_price": 23,
+   "date": "2005-03-23",
+   "venue": "Lawsons (Annandale)",
+   "url": "https://www.lawsons.com.au/auction-lot/wine-wynns-coonawarra-estate-vintage-1996-ca_4pxvcdyc45",
+   "same_item": "yes",
+   "note": "20 years old, shows only the old level. Page confirmed.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for Michael Shiraz, John Riddoch, Saltram No.1; WebSearch for Michael 1994 and John Riddoch 1999 auction results; opened Cellarit page; Langtons and Nicks fetches gave no usable content. Not searched: Witchmount 2004, Wynns Cabernet 1996 (low value, about $20-40 each). Rate: AUD only, no conversion. eBay sold and Wine-Searcher auction history would help but are blocked. | chrome: 6 Google searches listed above; opened Lawsons pages for Saltram, Cab 1996 (2005), and Grays 1999 JR page (text did not load); findlotsonline page failed to load. Terapeak not used (eBay does not allow alcohol sales).",
+ "needs_chrome": false,
+ "chrome_hint": "Wine-Searcher or eBay sold: 'Wynns Michael Shiraz 1994' and 'Wynns John Riddoch Cabernet 1999'; also Langtons auction results page for lot auc-var-27252366 to confirm date and price.",
+ "rate_note": "All prices AUD.",
+ "viewing_check": "Estimate 60-100, current bid $35 (about $42.70 with 22% premium). Recent sold prices per bottle: Michael 1994 about $50 (Oct 2025), Saltram No.1 1999 $50 (May 2025), Wynns Cab 1996 about $40 (Aug 2025), John Riddoch 1999 about $106 (Mar 2026, 3-bottle lot), Witchmount 2004 about $15-25 retail, no auction sale found. Together about $230-270 at the SOLD level, but these are drinking wines and condition is unknown. Check fill levels, cork and label condition and storage, as this looks like a mixed cellar group with a Tyrrell's case as a prop. Prices are mostly 0-1 year old and steady to slightly rising. Only 1-2 sales per wine were found, below the 5 target; wine auction records are thin online.",
+ "chrome_done": true
+}

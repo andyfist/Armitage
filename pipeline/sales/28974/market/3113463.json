@@ -1,6 +1,141 @@
-{"cdid":3113463,"lot":360,"identification":"Boxed 'Moorgate' pantograph (new pattern), British, wooden graduated arms, serial-like number 203447 stamped on an arm, cast lead weight, brass fittings, printed instruction sheet, red card box. Mid 20th century drawing instrument.","entries":[
-{"kind":"SOLD","price":"$15 hammer","currency":"AUD","aud_price":15,"date":"2026-09-20","venue":"Gowans Auctions, Hobart (paid locally, not resale)","url":"gowans id 439475","same_item":"category guide","note":"VINTAGE PANTOGRAPH, 0 bids. Via local comps database, no Moorgate or box mentioned. Not a resale price."},
-{"kind":"SOLD","price":"$10 hammer","currency":"AUD","aud_price":10,"date":"2026-09-20","venue":"Gowans Auctions, Hobart (paid locally, not resale)","url":"gowans id 439423","same_item":"category guide","note":"PANTOGRAPH, 1 bid. Via local comps database. Not a resale price."},
-{"kind":"SOLD","price":"$10 hammer","currency":"AUD","aud_price":10,"date":"2026-09-20","venue":"Gowans Auctions, Hobart (paid locally, not resale)","url":"gowans id 439481","same_item":"category guide","note":"BRASS & METAL PANTOGRAPH, 1 bid. Via local comps database. Not a resale price."},
-{"kind":"SOLD","price":"$100 hammer","currency":"AUD","aud_price":100,"date":"2025-10-13","venue":"Gowans Auctions, Hobart (paid locally, not resale)","url":"gowans id 368229","same_item":"category guide","note":"PANTOGRAPH COPIER/ENGRAVER, 2 bids. Likely a different (engraving) type, not a drawing pantograph. Not a resale price."}
-],"searches_tried":"comps.py (pipeline and work) for moorgate pantograph and pantograph: no Moorgate hits, four Gowans pantograph results only. Gowans API search 'moorgate' and 'moorgate pantograph': nothing. Invaluable keyword search via curl returned no parsable results. WebSearch was refused (session budget used up), so no web resale comps were found. No resale evidence at all. eBay sold listings for 'Moorgate pantograph' would settle it.","needs_chrome":true,"chrome_hint":"eBay sold/completed listings: 'Moorgate pantograph' and 'vintage wooden pantograph boxed' (Australia and UK, last 12 months)","rate_note":"All AUD, no conversion.","viewing_check":"Check all arms and the lead weight, tracer and pencil fittings are present, that arms are not warped or split, and the instruction sheet is intact. Condition and completeness decide it; photos suggest complete."}
+{
+ "cdid": 3113463,
+ "lot": 360,
+ "identification": "Vintage Moorgate Pantograph (Blundell Harling / W.H. Harling, London), boxwood bars, red card box, with 'New Pattern' instruction sheet, serial-stamped 203447. Mid-20th century drawing copier, common.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$15 hammer",
+   "currency": "AUD",
+   "aud_price": 15,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+   "url": "gowans id 439475",
+   "same_item": "category guide",
+   "note": "VINTAGE PANTOGRAPH, 0 bids. Via local comps database, no Moorgate or box mentioned. Not a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$10 hammer",
+   "currency": "AUD",
+   "aud_price": 10,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+   "url": "gowans id 439423",
+   "same_item": "category guide",
+   "note": "PANTOGRAPH, 1 bid. Via local comps database. Not a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$10 hammer",
+   "currency": "AUD",
+   "aud_price": 10,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+   "url": "gowans id 439481",
+   "same_item": "category guide",
+   "note": "BRASS & METAL PANTOGRAPH, 1 bid. Via local comps database. Not a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2025-10-13",
+   "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+   "url": "gowans id 368229",
+   "same_item": "category guide",
+   "note": "PANTOGRAPH COPIER/ENGRAVER, 2 bids. Likely a different (engraving) type, not a drawing pantograph. Not a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$39.28 (Terapeak UK sale shown converted to AUD)",
+   "currency": "AUD (converted by Terapeak from GBP)",
+   "aud_price": 39.28,
+   "date": "2026-04-24",
+   "venue": "eBay UK (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/178053062739",
+   "same_item": "close",
+   "note": "Winsor & Newton Moorgate pantograph set",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.51 (Terapeak UK sale shown converted to AUD)",
+   "currency": "AUD (converted by Terapeak from GBP)",
+   "aud_price": 19.51,
+   "date": "2026-03-13",
+   "venue": "eBay UK (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/198140164788",
+   "same_item": "close",
+   "note": "Vintage Moorgate pantograph Harling, W&N",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$39.04 (Terapeak UK sale shown converted to AUD)",
+   "currency": "AUD (converted by Terapeak from GBP)",
+   "aud_price": 39.04,
+   "date": "2025-07-18",
+   "venue": "eBay UK (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/226867095248",
+   "same_item": "yes",
+   "note": "Vintage Moorgate pantograph boxed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$17.1 (Terapeak UK sale shown converted to AUD)",
+   "currency": "AUD (converted by Terapeak from GBP)",
+   "aud_price": 17.1,
+   "date": "2024-10-20",
+   "venue": "eBay UK (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/286104460212",
+   "same_item": "yes",
+   "note": "1959 Moorgate boxwood in original box with instructions",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$21.29 (Terapeak UK sale shown converted to AUD)",
+   "currency": "AUD (converted by Terapeak from GBP)",
+   "aud_price": 21.29,
+   "date": "2024-08-09",
+   "venue": "eBay UK (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186606251962",
+   "same_item": "yes",
+   "note": "Moorgate pantograph original box",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$18.26 (Terapeak UK sale shown converted to AUD)",
+   "currency": "AUD (converted by Terapeak from GBP)",
+   "aud_price": 18.26,
+   "date": "2024-04-04",
+   "venue": "eBay UK (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/305477754230",
+   "same_item": "yes",
+   "note": "Vintage Moorgate pantograph boxed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$9.3 (Terapeak UK sale shown converted to AUD)",
+   "currency": "AUD (converted by Terapeak from GBP)",
+   "aud_price": 9.3,
+   "date": "2024-03-09",
+   "venue": "eBay UK (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156091632956",
+   "same_item": "partial",
+   "note": "Vintage Moorgate pantograph, auction",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for moorgate pantograph and pantograph: no Moorgate hits, four Gowans pantograph results only. Gowans API search 'moorgate' and 'moorgate pantograph': nothing. Invaluable keyword search via curl returned no parsable results. WebSearch was refused (session budget used up), so no web resale comps were found. No resale evidence at all. eBay sold listings for 'Moorgate pantograph' would settle it. | chrome: Terapeak AU sold: moorgate pantograph (0 rows); pantograph drawing (modern imports only, ~A$21); Terapeak GB sold: moorgate pantograph (8+ rows); Google",
+ "needs_chrome": false,
+ "chrome_hint": "eBay sold/completed listings: 'Moorgate pantograph' and 'vintage wooden pantograph boxed' (Australia and UK, last 12 months)",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Estimate 30-40, no bids yet. Sold prices are about A$17-39 (UK, converted by Terapeak), so Armitage estimate is at or above market. Check all four bars, pins and weight are present. Prices flat over 2023-26.",
+ "chrome_done": true
+}

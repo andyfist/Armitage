@@ -1,6 +1,129 @@
-{"cdid":3113345,"lot":242,"identification":"Two men's Liberty of London printed cotton shirts, new with swing tags: blue/white 'Katie Floral' (SL100x, size about 31 on tag) and a red/pink/orange floral short-sleeve. Liberty-branded tags; likely Tana Lawn style cotton. Exact sizes and fibre not confirmed from photos.","entries":[
-{"kind":"SOLD","price":"A$42 hammer","aud_price":42,"currency":"AUD","date":"2026-10-25","venue":"eBay AU lot 866 (as printed in local comps database; looks like an earlier research record of a 2-shirt Liberty lot, size 16.5, in boxes)","url":"https://www.ebay.com.au/itm/860076578084","same_item":"close","note":"From local database only, page not opened. Row also shows an estimate and a bid, so it may be a local-room result rather than a true resale; treat as weak. 2 new-with-tags Liberty men's shirts."},
-{"kind":"ASKING","price":"US$245 (Classic Fit Tana Lawn shirt); about US$250+ other styles","aud_price":372,"currency":"USD","date":"live, seen 2026-11-09","venue":"Liberty London (libertylondon.com), new retail","url":"https://www.libertylondon.com/us/department/liberty-products/men/shirts","same_item":"category guide","note":"Snippet only, not verified. New retail price in USD, converted at an assumed 1 USD = 1.52 AUD. Shows what the shirts are, not what they resell for."},
-{"kind":"ASKING","price":"marked down from $225 to $115 (currency not stated)","aud_price":115,"currency":"unstated, treated as AUD","date":"live, seen 2026-11-09","venue":"Everard's Clothing","url":"https://everardsclothing.com/product/liberty-of-london-print-shirt-red-floral/","same_item":"close","note":"Snippet only, not verified. New red floral Liberty print shirt, size 17 only. Dealer asking price."},
-{"kind":"ASKING","price":"GBP 33 to 59 range","aud_price":65,"currency":"GBP","date":"live, seen 2026-11-09","venue":"eBay UK Liberty of London men's casual shirts category","url":"https://www.ebay.co.uk/b/bn_97104901","same_item":"category guide","note":"Snippet only, not verified, mixed used and new. AUD figure is GBP 33 at an assumed 1 GBP = 1.95 AUD, the low end. Asking prices, not sales."}
-],"searches_tried":"comps.py (pipeline and work) for liberty shirt, liberty london shirt, liberty (1 weak hit); Gowans API liberty shirt (nothing useful); WebSearch x3 (Liberty men's shirt new with tags sold, Liberty Tana Lawn Australia price, Katie floral SL100). No true sold prices found. eBay sold listings (new with tags Liberty men's shirt, Tana Lawn) would settle it and are closed to us.","needs_chrome":true,"chrome_hint":"eBay AU and UK sold listings: 'Liberty of London men's shirt new with tags' and 'Liberty London Tana Lawn men's shirt NWT', filter Sold items, last 90 days","rate_note":"Assumed 1 USD = 1.52 AUD, 1 GBP = 1.95 AUD; not checked live.","viewing_check":"Check sizes on both tags and fibre content (Tana Lawn cotton vs blend), whether the red shirt carries a Liberty print name, and that both are genuinely unworn with tags and no fading or marks."}
+{
+ "cdid": 3113345,
+ "lot": 242,
+ "identification": "Two men's Liberty of London (Liberty London) Tana Lawn cotton shirts, new with tags: one blue/white/lilac small floral (tag reads SL100... floral shirt, print name 'Katie' floral, 31-N... code), one pink/orange/navy floral (Made in Portugal collar label). Liberty London's own-brand classic fit Tana Lawn shirts retail new at GBP 175 each on libertylondon.com. Sizes not legible; price tags on shirts not legible.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$42 hammer",
+   "aud_price": 42,
+   "currency": "AUD",
+   "date": "2026-10-25",
+   "venue": "eBay AU lot 866 (as printed in local comps database; looks like an earlier research record of a 2-shirt Liberty lot, size 16.5, in boxes)",
+   "url": "https://www.ebay.com.au/itm/860076578084",
+   "same_item": "close",
+   "note": "From local database only, page not opened. Row also shows an estimate and a bid, so it may be a local-room result rather than a true resale; treat as weak. 2 new-with-tags Liberty men's shirts."
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$245 (Classic Fit Tana Lawn shirt); about US$250+ other styles",
+   "aud_price": 372,
+   "currency": "USD",
+   "date": "live, seen 2026-11-09",
+   "venue": "Liberty London (libertylondon.com), new retail",
+   "url": "https://www.libertylondon.com/us/department/liberty-products/men/shirts",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified. New retail price in USD, converted at an assumed 1 USD = 1.52 AUD. Shows what the shirts are, not what they resell for."
+  },
+  {
+   "kind": "ASKING",
+   "price": "marked down from $225 to $115 (currency not stated)",
+   "aud_price": 115,
+   "currency": "unstated, treated as AUD",
+   "date": "live, seen 2026-11-09",
+   "venue": "Everard's Clothing",
+   "url": "https://everardsclothing.com/product/liberty-of-london-print-shirt-red-floral/",
+   "same_item": "close",
+   "note": "Snippet only, not verified. New red floral Liberty print shirt, size 17 only. Dealer asking price."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 33 to 59 range",
+   "aud_price": 65,
+   "currency": "GBP",
+   "date": "live, seen 2026-11-09",
+   "venue": "eBay UK Liberty of London men's casual shirts category",
+   "url": "https://www.ebay.co.uk/b/bn_97104901",
+   "same_item": "category guide",
+   "note": "Snippet only, not verified, mixed used and new. AUD figure is GBP 33 at an assumed 1 GBP = 1.95 AUD, the low end. Asking prices, not sales."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$92.30",
+   "currency": "AUD",
+   "aud_price": 92.3,
+   "date": "2024-06-19",
+   "venue": "eBay (Terapeak GB view, AUD shown)",
+   "url": "https://www.ebay.com.au/itm/186495725482",
+   "same_item": "close",
+   "note": "Mens Liberty London Tana Lawn floral shirt UK 16, Made in England, used, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$77.49",
+   "currency": "AUD",
+   "aud_price": 77.49,
+   "date": "2025-04-27",
+   "venue": "eBay (Terapeak GB view, AUD shown)",
+   "url": "https://www.ebay.com.au/itm/197221255679",
+   "same_item": "close",
+   "note": "Vintage Liberty of London Tana Lawn men's shirt size M, used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$63.39",
+   "currency": "AUD",
+   "aud_price": 63.39,
+   "date": "2025-10-02",
+   "venue": "eBay (Terapeak GB view, AUD shown)",
+   "url": "https://www.ebay.com.au/itm/136398603646",
+   "same_item": "partial",
+   "note": "Holland Esquire Liberty Tana Lawn shirt, used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$62.21",
+   "currency": "AUD",
+   "aud_price": 62.21,
+   "date": "2025-05-21",
+   "venue": "eBay (Terapeak GB view, AUD shown)",
+   "url": "https://www.ebay.com.au/itm/127115908160",
+   "same_item": "close",
+   "note": "Liberty of London Tana Lawn men's floral shirt L, used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.16",
+   "currency": "AUD",
+   "aud_price": 48.16,
+   "date": "2024-10-24",
+   "venue": "eBay (Terapeak GB view, AUD shown)",
+   "url": "https://www.ebay.com.au/itm/186728084441",
+   "same_item": "close",
+   "note": "Liberty of London classic floral Tana Lawn shirt, used",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52.29",
+   "currency": "AUD",
+   "aud_price": 52.29,
+   "date": "2025-07-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167633097684",
+   "same_item": "partial",
+   "note": "Liberty of London paisley long sleeve men's shirt L (Phillips collab), used",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for liberty shirt, liberty london shirt, liberty (1 weak hit); Gowans API liberty shirt (nothing useful); WebSearch x3 (Liberty men's shirt new with tags sold, Liberty Tana Lawn Australia price, Katie floral SL100). No true sold prices found. eBay sold listings (new with tags Liberty men's shirt, Tana Lawn) would settle it and are closed to us. | chrome: Google Liberty London Tana Lawn shirt; Terapeak AU: liberty london mens shirt (collab brands), liberty tana lawn shirt (Sportscraft etc., $32-52); liberty london classic fit shirt tags (0 rows); Terapeak GB: liberty london mens tana lawn shirt (36 rows)",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU and UK sold listings: 'Liberty of London men's shirt new with tags' and 'Liberty London Tana Lawn men's shirt NWT', filter Sold items, last 90 days",
+ "rate_note": "Assumed 1 USD = 1.52 AUD, 1 GBP = 1.95 AUD; not checked live.",
+ "viewing_check": "Estimate $50-100, current bid $25 (+22% premium). Both are new with tags (pink is short sleeve? check sleeve length and sizes at viewing, and confirm tags and Made in Portugal labels). Used Liberty Tana Lawn men's shirts sell about $48-92 on eBay; NWT own-brand ones should be at or above the top of that range. Prices 2024-2026, steady. Size matters a lot to resale.",
+ "chrome_done": true
+}

@@ -1,5 +1,94 @@
-{"cdid":3113201,"lot":98,"identification":"Two-tone salt glazed stoneware crock (tan body, brown rim band, two lugs, impressed '3') with oval ribbon-style base stamp consistent with McHugh, Launceston; stamp too worn to read so attribution is probable not confirmed. Plus a rustic pine step stool.","entries":[
-{"kind":"SOLD","price":"$60 hammer","currency":"AUD","aud_price":60,"date":"2026-05-06","venue":"Armitage Auctions, Launceston sale 27763 lot 1700","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2902740&chid=27763&category=ALL&style=group","same_item":"yes","note":"McHugh 3 gallon crock with lid, hairline crack. Local database hit, paid locally: cost guide only, not resale. Not opened by me (database record)."},
-{"kind":"SOLD","price":"$140 hammer","currency":"AUD","aud_price":140,"date":"2025-10-22","venue":"Armitage Auctions, Launceston sale 26381 lot 823","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2671189&chid=26381&category=ALL&style=group","same_item":"close","note":"Large McHugh bread crock, 32 cm high. Paid locally: cost guide only, not resale. Database record only."},
-{"kind":"ASKING","price":"$400 to $600 (vases)","currency":"AUD","aud_price":400,"date":"live, seen 2026-11-09","venue":"Cache Antiques (dealer)","url":"https://cacheantiques.com/products/collectible-1930s-blue-and-yellow-art-deco-drip-glaze-vase-by-mchugh-pottery","same_item":"category guide","note":"McHugh 1930s art deco drip glaze vases, much more collectible than utilitarian stoneware; shows only that the name sells. Snippet only, not verified, AUD no conversion."}
-],"searches_tried":"comps.py (pipeline and work) with mchugh crock, mchugh stoneware, stoneware crock: only the two Armitage hits. WebSearch x3 for McHugh crock sold/for sale: Carters has a 'Stoneware McHugh bread crock, no lid' (item 1348100) but price hidden behind subscription and site blocks curl; no resale price found for a McHugh utilitarian crock. No Gowans API run. eBay sold prices for 'McHugh stoneware crock' would help most.","needs_chrome":true,"chrome_hint":"eBay Australia sold listings: McHugh stoneware crock; also Carters item 1348100 signed in for the sold price","viewing_check":"Photograph the base stamp raised/under raking light to read McHugh and Launceston; check for hairline cracks by tapping and torch inside; confirm size numeral and any lid; check stool for age and any maker marks.","rate_note":"All AUD, no conversion."}
+{
+ "cdid": 3113201,
+ "lot": 98,
+ "identification": "McHugh (Launceston, Tasmania, McHugh Bros Pottery) salt-glazed stoneware crock, cream body with brown band and two small lug handles, about 3 gallon (a '3' is impressed on the shoulder), oval maker stamp on the base (too worn to read in the photos), no lid. Together with a rustic worn pine step stool with a hand hole.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-05-06",
+   "venue": "Armitage Auctions, Launceston sale 27763 lot 1700",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2902740&chid=27763&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "McHugh 3 gallon crock with lid, hairline crack. Local database hit, paid locally: cost guide only, not resale. Not opened by me (database record)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$140 hammer",
+   "currency": "AUD",
+   "aud_price": 140,
+   "date": "2025-10-22",
+   "venue": "Armitage Auctions, Launceston sale 26381 lot 823",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2671189&chid=26381&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Large McHugh bread crock, 32 cm high. Paid locally: cost guide only, not resale. Database record only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$400 to $600 (vases)",
+   "currency": "AUD",
+   "aud_price": 400,
+   "date": "live, seen 2026-11-09",
+   "venue": "Cache Antiques (dealer)",
+   "url": "https://cacheantiques.com/products/collectible-1930s-blue-and-yellow-art-deco-drip-glaze-vase-by-mchugh-pottery",
+   "same_item": "category guide",
+   "note": "McHugh 1930s art deco drip glaze vases, much more collectible than utilitarian stoneware; shows only that the name sells. Snippet only, not verified, AUD no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$98.65",
+   "currency": "AUD",
+   "aud_price": 98.65,
+   "date": "2026-08-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/407119013149",
+   "same_item": "partial",
+   "note": "Antique Australian stoneware canister jar bread crock, maker not confirmed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$75.98",
+   "currency": "AUD",
+   "aud_price": 75.98,
+   "date": "2026-10-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/257742107556",
+   "same_item": "partial",
+   "note": "Bendigo Pottery bread bin crock with lid",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$38.96",
+   "currency": "AUD",
+   "aud_price": 38.96,
+   "date": "2025-04-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156324588999",
+   "same_item": "partial",
+   "note": "Bendigo Pottery large crock bread pot with lid",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$94.43",
+   "currency": "AUD",
+   "aud_price": 94.43,
+   "date": "2025-11-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/406348847971",
+   "same_item": "partial",
+   "note": "McHugh Pottery Tasmania shape 45 (art pottery, not a crock), shows McHugh name demand",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with mchugh crock, mchugh stoneware, stoneware crock: only the two Armitage hits. WebSearch x3 for McHugh crock sold/for sale: Carters has a 'Stoneware McHugh bread crock, no lid' (item 1348100) but price hidden behind subscription and site blocks curl; no resale price found for a McHugh utilitarian crock. No Gowans API run. eBay sold prices for 'McHugh stoneware crock' would help most. | chrome: Terapeak AU 3 years: 'mchugh crock' (0), 'mchugh stoneware' (1 row, art pottery), 'mchugh pottery bread crock' (0), 'stoneware bread crock' (6 rows); Google x2; Carter's page.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay Australia sold listings: McHugh stoneware crock; also Carters item 1348100 signed in for the sold price",
+ "viewing_check": "Estimate 30-50, current bid $20, premium 22%. Bulky heavy lot (3 gallon crock plus stool), pickup only. Check for hairlines, chips, and whether the base stamp reads McHugh. No lid. No exact McHugh crock sale found on eBay AU in 3 years; Terapeak 'mchugh crock' and 'mchugh pottery bread crock' returned no rows. Prices 2025-2026 flat to slightly up for Australian stoneware crocks.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}

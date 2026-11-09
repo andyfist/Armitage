@@ -1,9 +1,149 @@
-{"cdid":3113408,"lot":305,"identification":"Five bottles: Wynns Coonawarra Estate John Riddoch Cabernet Sauvignon 1992 and 1993, Holm Oak (Rowella, Tas) 1993 Cabernet, Seppelt Vintage Fortified Touriga 1987, De Bortoli Yarra Valley Cabernet 1994. Title vintages wrong. Value is mainly the two John Riddoch.","entries":[
-{"kind":"SOLD","price":"$300 (lot incl. Wynns John Riddoch 1999, Henschke Mount Edelstone 1996 and a Penfolds)","currency":"AUD","aud_price":300,"date":"2025-05-24","venue":"Leski Auctions, Melbourne sale 637 lot 1516","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/637","same_item":"category guide","note":"From local comps database; mixed 3-bottle lot with different vintages, hammer; not a per-bottle price."},
-{"kind":"ASKING","price":"$229.90","currency":"AUD","aud_price":229.9,"date":"live, seen 2026-11-09","venue":"Cellarit.com.au","url":"https://www.cellarit.com.au/wine-37585-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon-1992.aspx","same_item":"yes","note":"1992 John Riddoch retail asking, snippet only (condition unknown)."},
-{"kind":"ASKING","price":"$163.90","currency":"AUD","aud_price":163.9,"date":"live, seen 2026-11-09","venue":"Cellarit.com.au","url":"https://www.cellarit.com.au/wine-29285-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon-1993.aspx","same_item":"yes","note":"1993 John Riddoch, label slightly cellar damaged, very high shoulder ullage (so lower grade than lot's neck fills); page opened."},
-{"kind":"ASKING","price":"$89.99","currency":"AUD","aud_price":89.99,"date":"live, seen 2026-11-09","venue":"Nick's Wine Merchants","url":"https://www.nicks.com.au/products/1992-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon","same_item":"yes","note":"1992 retail asking, snippet only; page did not show price when fetched."},
-{"kind":"ASKING","price":"$79.99","currency":"AUD","aud_price":79.99,"date":"live, seen 2026-11-09","venue":"Nick's Wine Merchants","url":"https://www.nicks.com.au/products/1993-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon","same_item":"yes","note":"1993 retail asking, snippet only."},
-{"kind":"ASKING","price":"$110 current bid (1994 vintage, closes 8 Nov 2026)","currency":"AUD","aud_price":110,"date":"live, seen 2026-11-09","venue":"Langtons auctions","url":"https://www.langtons.com.au/auctions","same_item":"close","note":"1994 John Riddoch single bottle live auction bid, not a result; snippet only."},
-{"kind":"ASKING","price":"$25 paid (blog, undated)","currency":"AUD","aud_price":25,"date":"undated","venue":"Sweet World Wines blog","url":"https://sweetworldwines.com/2021/05/24/two-older-australian-barossa-fortifieds/","same_item":"yes","note":"Blogger says bought 1987 Seppelt Vintage Fortified Touriga at auction for $25; anecdotal, unverified, snippet only, so not used as SOLD."}
-],"searches_tried":"comps.py (pipeline and work) for john riddoch, holm oak, de bortoli, seppelt touriga: one Leski hit only. Gowans API john riddoch: no usable result. WebSearch for John Riddoch 1992/1993 auction, Langtons, Seppelt Touriga 1987, Holm Oak 1993: no verified auction hammer for these vintages. Wine-Searcher closed. Rough guide: John Riddoch 1992/1993 about A$80-230 retail each depending on fill; others likely $20-40 each. Langtons/Wine Owners/Lawsons past results would settle it. Rate: all AUD, no conversion.","needs_chrome":true,"chrome_hint":"Wine-Searcher auction history: Wynns John Riddoch Cabernet 1992 and 1993; also Langtons past results search 'John Riddoch 1992' and 'John Riddoch 1993'","viewing_check":"Fill levels (high/mid shoulder vs neck) and label/capsule condition on the two John Riddoch bottles; confirm vintages on labels; check for cellar damage or seepage on all bottles."}
+{
+ "cdid": 3113408,
+ "lot": 305,
+ "identification": "Five bottles of Australian red/fortified wine: Holm Oak Vineyards (Rowella, Tasmania) 1993 Cabernet Sauvignon; Seppelt Vintage Fortified 1987 Barossa Valley Touriga (gold medal/trophy neck label, 740ml); two bottles Wynns Coonawarra Estate John Riddoch Cabernet Sauvignon 1993 (Limited Release, labels show 1992 on one neck-label and 1993 on label; both read as John Riddoch 1993 in photo 4); De Bortoli Yarra Valley Cabernet Sauvignon 1994 (medal labels). The John Riddoch bottles are the valuable ones.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$300 (lot incl. Wynns John Riddoch 1999, Henschke Mount Edelstone 1996 and a Penfolds)",
+   "currency": "AUD",
+   "aud_price": 300,
+   "date": "2025-05-24",
+   "venue": "Leski Auctions, Melbourne sale 637 lot 1516",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/637",
+   "same_item": "category guide",
+   "note": "From local comps database; mixed 3-bottle lot with different vintages, hammer; not a per-bottle price."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$229.90",
+   "currency": "AUD",
+   "aud_price": 229.9,
+   "date": "live, seen 2026-11-09",
+   "venue": "Cellarit.com.au",
+   "url": "https://www.cellarit.com.au/wine-37585-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon-1992.aspx",
+   "same_item": "yes",
+   "note": "1992 John Riddoch retail asking, snippet only (condition unknown)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$163.90",
+   "currency": "AUD",
+   "aud_price": 163.9,
+   "date": "live, seen 2026-11-09",
+   "venue": "Cellarit.com.au",
+   "url": "https://www.cellarit.com.au/wine-29285-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon-1993.aspx",
+   "same_item": "yes",
+   "note": "1993 John Riddoch, label slightly cellar damaged, very high shoulder ullage (so lower grade than lot's neck fills); page opened."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$89.99",
+   "currency": "AUD",
+   "aud_price": 89.99,
+   "date": "live, seen 2026-11-09",
+   "venue": "Nick's Wine Merchants",
+   "url": "https://www.nicks.com.au/products/1992-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon",
+   "same_item": "yes",
+   "note": "1992 retail asking, snippet only; page did not show price when fetched."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$79.99",
+   "currency": "AUD",
+   "aud_price": 79.99,
+   "date": "live, seen 2026-11-09",
+   "venue": "Nick's Wine Merchants",
+   "url": "https://www.nicks.com.au/products/1993-wynns-coonawarra-estate-john-riddoch-cabernet-sauvignon",
+   "same_item": "yes",
+   "note": "1993 retail asking, snippet only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$110 current bid (1994 vintage, closes 8 Nov 2026)",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "live, seen 2026-11-09",
+   "venue": "Langtons auctions",
+   "url": "https://www.langtons.com.au/auctions",
+   "same_item": "close",
+   "note": "1994 John Riddoch single bottle live auction bid, not a result; snippet only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$25 paid (blog, undated)",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "undated",
+   "venue": "Sweet World Wines blog",
+   "url": "https://sweetworldwines.com/2021/05/24/two-older-australian-barossa-fortifieds/",
+   "same_item": "yes",
+   "note": "Blogger says bought 1987 Seppelt Vintage Fortified Touriga at auction for $25; anecdotal, unverified, snippet only, so not used as SOLD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$79 winning bid, Wynns John Riddoch Cabernet Sauvignon 1993 750ml",
+   "currency": "AUD",
+   "aud_price": 79,
+   "date": "2026-02-16",
+   "venue": "Wickman's Wine & Whisky Auctions",
+   "url": "https://www.wickman.com.au/lot/22952/wynns-john-riddoch-cabernet-sauvignon-1993",
+   "same_item": "yes",
+   "note": "Starting bid $55, winning bid $79; buyer's premium and condition not shown, so hammer.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$168 hammer, 1x 1993 Wynns John Riddoch Cabernet Sauvignon 1500ml MAGNUM, estimate 80-120",
+   "currency": "AUD",
+   "aud_price": 168,
+   "date": "2009-10-16",
+   "venue": "Lawsons",
+   "url": "https://www.lawsons.com.au/auction-lot/1x-1993-wynns-coonawarra-estate-john-riddoch-cabe_47e801942e",
+   "same_item": "partial",
+   "note": "Magnum, not 750ml, and 17 years old. Not comparable for a single bottle.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "AU$130 estimate, Wynns John Riddoch 1993",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-11-04",
+   "venue": "Sterling Wine Auctions (auction closing 4 Nov)",
+   "url": "https://www.sterlingwine.com.au/product.php?imid=2017&vint=1993",
+   "same_item": "yes",
+   "note": "Estimate only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$116 avg ex-tax per 750ml, Wynns John Riddoch 1993",
+   "currency": "USD",
+   "aud_price": 178.64,
+   "date": "2026-11",
+   "venue": "Wine-Searcher",
+   "url": "https://www.wine-searcher.com/find/wynns+estate+john+riddoch+cab+sauv+coona+warra+south+australia/1993",
+   "same_item": "yes",
+   "note": "Average listing price guide, not a sale.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "US$43 avg ex-tax, 1994 De Bortoli Estate Vineyard Cabernet Sauvignon Yarra Valley",
+   "currency": "USD",
+   "aud_price": 66.22,
+   "date": "2026-11",
+   "venue": "Wine-Searcher",
+   "url": "https://www.wine-searcher.com/find/de+bortoli+estate+vineyard+cab+sauv+yarra+valley+victoria+australia/1994",
+   "same_item": "partial",
+   "note": "Price guide; different bottling name possible. Armitage lot shows plain 'Yarra Valley Cabernet Sauvignon'.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for john riddoch, holm oak, de bortoli, seppelt touriga: one Leski hit only. Gowans API john riddoch: no usable result. WebSearch for John Riddoch 1992/1993 auction, Langtons, Seppelt Touriga 1987, Holm Oak 1993: no verified auction hammer for these vintages. Wine-Searcher closed. Rough guide: John Riddoch 1992/1993 about A$80-230 retail each depending on fill; others likely $20-40 each. Langtons/Wine Owners/Lawsons past results would settle it. Rate: all AUD, no conversion. | chrome: Google x4 (John Riddoch 1993, Holm Oak 1993, Seppelt Touriga 1987, De Bortoli 1994); Wickman lot page; Lawsons lot page; Oddbins completed catalogue (did not load)",
+ "needs_chrome": false,
+ "chrome_hint": "Wine-Searcher auction history: Wynns John Riddoch Cabernet 1992 and 1993; also Langtons past results search 'John Riddoch 1992' and 'John Riddoch 1993'",
+ "viewing_check": "Estimate 60-90, current bid $20. Value is mostly the two John Riddoch 1993 bottles (Wickman A$79 Feb 2026; listings A$95-130), about A$160 for two if fill and labels are good; others add maybe $20-50 for the three. Check fill levels, cork, label condition and whether both Wynns bottles are 1993 (neck-label looks like 1992 on one in the group photo). It is a drinking/cellar buy, not a flip. Only one dated sale found; prices are recent (2026).",
+ "chrome_done": true
+}

@@ -1,7 +1,7 @@
 {
  "cdid": 3113604,
  "lot": 501,
- "identification": "Mixed lot of 6 framed Launceston/Tasmanian works: Geoff Tyson (1911-86) watercolour of a park with fountain and church tower, signed and dated '67 (Launceston City Park); Picturesque Atlas of Australasia hand-coloured wood engraving 'Launceston from Cataract Bridge' c.1886-88; engraving 'Post Office, Launceston'; small engraving of a Launceston building; reproduction iris print; small unsigned oil of a Tasmanian mountain. Value sits almost entirely in the Tyson watercolour (small, about 20x30 cm image).",
+ "identification": "Six framed pictures: (1) coloured wood engraving 'Launceston, from Cataract Bridge' (Picturesque Atlas of Australasia, c.1886-88, after F.B. Schell), (2) framed watercolour of a church and fountain in park (Launceston?) signed Geoff Tyson '63 (Geoffrey Tyson 1911-86, Launceston-born watercolourist), (3) small engraving 'Post Office, Launceston', (4) second framed copy of the Post Office, Launceston print, (5) botanical print of Dutch iris (Iris xiphium), (6) small unsigned oil of a blue mountain landscape. Only the Tyson watercolour is a named artist; the atlas print is a modest decorative print.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,36 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2470119&chid=23842&category=ALL&style=group",
    "same_item": "close",
    "note": "Framed engraving 'Launceston Post Office' 11x13; paid locally only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$350 (Lawsons, premium treatment not stated on page)",
+   "currency": "AUD",
+   "aud_price": 350,
+   "date": "2025-09-04",
+   "venue": "Lawsons (Bowral Home Contents)",
+   "url": "https://www.lawsons.com.au/auction-lot/geoff-tyson-1911-1986-church-scene-1977-waterc_c5a4d6b84f",
+   "same_item": "close",
+   "note": "Geoff Tyson Church Scene 1977 watercolour 34 x 54 cm, est 200-300. The Armitage one is dated 1963 and looks similar or smaller; size not given",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$325 (Lawsons, premium treatment not stated on page)",
+   "currency": "AUD",
+   "aud_price": 325,
+   "date": "2025-09-04",
+   "venue": "Lawsons (Bowral Home Contents)",
+   "url": "https://www.lawsons.com.au/auction-lot/geoff-tyson-1911-1986-coastal-scene-1977-water_5e84d0ebfb",
+   "same_item": "close",
+   "note": "Geoff Tyson Coastal Scene 1977 watercolour 37 x 54 cm, est 200-300",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline and work) for Geoff Tyson, Launceston engraving, Picturesque Atlas Launceston (no hits); Invaluable Tyson artist page parsed via curl. WebSearch budget exhausted so no Atlas engraving web comps found. eBay sold would settle Atlas Cataract Bridge print prices (typically about $30-80 AUD retail, unverified).",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work) for Geoff Tyson, Launceston engraving, Picturesque Atlas Launceston (no hits); Invaluable Tyson artist page parsed via curl. WebSearch budget exhausted so no Atlas engraving web comps found. eBay sold would settle Atlas Cataract Bridge print prices (typically about $30-80 AUD retail, unverified). | chrome: Terapeak AU sold: Geoff Tyson watercolour (0), Launceston Cataract Bridge print (0), Picturesque Atlas Australasia print (0), Launceston antique print (0), Tasmania antique engraving (0); Lawsons lot pages; AASD (paywalled, 21 works listed); MutualArt (record US$557); Invaluable (no lots page) NOTE: the five Terapeak searches returned 0 rows, and eBay later showed a bot check, so those zeros may be blocks rather than true no-results; Terapeak sold prices for the Tyson and atlas prints were not confirmed.",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold: 'Picturesque Atlas Australasia Launceston Cataract' and 'Geoff Tyson watercolour' (sold items)",
- "viewing_check": "Check Tyson signature and date '67 and that it is an original watercolour not a print; check size, foxing or mould in the mat; confirm the mountain oil is unsigned; confirm the Atlas print is genuine wood engraving with plate title.",
- "rate_note": "All AUD, no conversion needed."
+ "viewing_check": "Armitage estimate 50-70, current bid $10. The prize is the Geoff Tyson watercolour: his market is about A$300-350 at regional rooms for 34-37 x 54 cm landscapes (Lawsons Sept 2025), with MutualArt showing a record of about US$557 since 2021 (Leski 2025 listings also exist). The Armitage example is a smaller-looking church/fountain scene dated 1963, so check size, signature, foxing and whether it is under glass. Also note a Geoff Tyson 'Coal River at Richmond' 34 x 54 cm is estimated 250-350 in this same Armitage sale. Prices are 2025, rising slightly. The rest is decorative.",
+ "rate_note": "All AUD, no conversion needed.",
+ "chrome_done": true
 }
