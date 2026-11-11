@@ -59,3 +59,18 @@ One line per lot that made real money after the funnel let it go: where it fell 
 - 2026-11-11 Armitage 28976 lot 1076: $300 for "A DENSELY HAND-WOVEN PERSIAN S..." fell out at scan: skipped (Dealer-consigned decorative village rug, ordinary resale.); words: densely woven persian
 - 2026-11-11 Armitage 28976 lot 1086: $300 for "A NEW USHAK DESIGN RUNNER 300 ..." fell out at scan: skipped (New Indian reproduction runner from a rug dealer consignment, generic resale market.); words: ushak runner
 - 2026-11-11 Armitage 28976 lot 1266: $300 for "MAHOGANY VICTORIAN STYLE BOOKC..." fell out at scan: skipped (Modern reproduction display bookcase, mid-range furniture.); words: mahogany victorian bookc
+- 2026-11-11 Armitage 28977 lot 1400: $5,800 for "2016 HOLDEN BARINA CD 5 DOOR A..." fell out at rules: excluded (motor vehicle); words: holden barina
+- 2026-11-11 Armitage 28977 lot 1401: $1,900 for "2025 RED SHOPRIDER RAIN RIDER ..." fell out at rules: excluded (motor vehicle); words: shoprider rain rider
+- 2026-11-11 Armitage 28977 lot 1444: $860 for "MOUNTED POND YACHT WITH TIMBER..." fell out at scan: skipped (Appears a modern decor model, not an antique pond yacht.); words: mounted pond yacht timber
+- 2026-11-11 Armitage 28977 lot 1746: $355 for "MODEL TRAIN LAYOUT - OO GAUGE" fell out at bid check: FAIL (max hammer $95 from a median SOLD of $374 does not clear the current bid $350); words: model train layout gauge
+- 2026-11-11 Armitage 28977 lot 1497: $340 for "LARGE CAST IRON SCHOOL BELL ON..." fell out at bid check: FAIL (max hammer $0 from a median SOLD of $144 does not clear the current bid $0); words: cast school bell
+- 2026-11-11 Armitage 28977 lot 1747: $340 for "PAIR SAAS CAR SEATS" fell out at bid check: FAIL (max hammer $50 from a median SOLD of $308 does not clear the current bid $300); words: saas car seats
+- 2026-11-11 Armitage 28977 lot 1619: $315 for "ASSORTED TROUT LURES, REELS ET..." fell out at bid check: FAIL (max hammer $0 from a median SOLD of $23 does not clear the current bid $0); words: trout lures reels
+- 2026-11-11 Armitage 28977 lot 1671: $315 for "4 BOXES OF MODEL RAILWAY LAYOU..." fell out at bid check: FAIL (max hammer $0 from a median SOLD of $77 does not clear the current bid $0); words: model railway layou
+- 2026-11-11 Armitage 28977 lot 1743: $310 for "ITM 16MM 12 SPEED PEDESTAL DRI..." fell out at bid check: FAIL (max hammer $220 from a median SOLD of $555 does not clear the current bid $310); words: itm 16mm speed pedestal dri
+- 2026-11-11 Armitage 28977 lot 1532: $300 for "TIMBER & BRASS SHIPS WHEEL DIA..." fell out at scan: skipped (Decorative reproduction ship's wheel, modest value.); words: timber ships wheel dia
+- 2026-11-11 Armitage 28978 lot 2057: $615 for "5 X 8 PANEL FIXED WINDOWS H-204..." fell out at scan: skipped (Salvage joinery, low resale.); words: fixed windows
+- 2026-11-11 Armitage 28978 lot 1924: $355 for "PAINTED TIMBER WROUGHT METAL L..." fell out at bid check: FAIL (max hammer $0 from a median SOLD of $56 does not clear the current bid $355); words: painted timber wrought
+- 2026-11-11 Armitage 28978 lot 2059: $340 for "PAIR OF 10 PANE FRENCH DOORS H..." fell out at scan: skipped (Common painted French doors, building salvage of modest value.); words: pane french
+- 2026-11-11 Armitage 28978 lot 2061: $340 for "PAIR OF 10 PANE FRENCH DOORS H..." fell out at scan: skipped (Common painted French doors, building salvage of modest value.); words: pane french
+- 2026-11-11 Armitage 28978 lot 2055: $315 for "PAIR OF 8 PANE FRENCH DOORS H-..." fell out at scan: skipped (Salvage doors with modest resale.); words: pane french
