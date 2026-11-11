@@ -49,7 +49,7 @@ def main():
     GW = args.chid.startswith('gowans')  # Gowans sale (pipeline/prep_gowans.py)
     out = [f"# {'' if GW else 'Armitage '}{cat['name']}: Chrome price research", '',
            f"For a Claude session on the home computer, using Claude in Chrome (your own signed-in browser). "
-           f"**Run it on Sonnet** (pick Sonnet in the model menu before starting; the work is searching and reading, not reasoning). "
+           f"**Run it on Opus 5.5** (pick Opus 5.5 in the model menu before starting; Andy chose it on 9 Nov 2026 for accuracy and detail). "
            f"Lots close from {cat.get('close_first')} to {cat.get('close_last')} (Hobart time). Buyer's premium {'19.8%' if GW else '22%'}. "
            f"{len(chrome)} lots, best prospects first"
            + (f", starting with the {sum(1 for x in chrome if x.get('priority'))} book lots (Andy's priority for this sale: do every one of them before anything else)" if any(x.get('priority') for x in chrome) else '')
@@ -96,7 +96,7 @@ def main():
     email = [f"{len(chrome)} lots are in the brief, best prospects first: " +
              ', '.join(f"lot {x['lot']} ({x['title'][:40]})" for x in chrome[:8]) + (' ...' if len(chrome) > 8 else '') + '.', '',
              'To run it: on the home computer, with Claude in Chrome connected, start a new chat in the Auction scans project saying '
-             f'"Chrome research for {'Gowans' if GW else 'Armitage'} {args.chid}, use Sonnet". The brief is pipeline/sales/{args.chid}/chrome_brief.md '
+             f'"Chrome research for {'Gowans' if GW else 'Armitage'} {args.chid}, use Opus 5.5". The brief is pipeline/sales/{args.chid}/chrome_brief.md '
              f'(https://github.com/andyfist/armitage/blob/main/pipeline/sales/{args.chid}/chrome_brief.md). '
              'It can run all night, and stopping part way is fine.']
     open(os.path.join(D, 'chrome_email.txt'), 'w').write('\n'.join(email) + '\n')
