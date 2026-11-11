@@ -14,3 +14,48 @@ One line per lot that made real money after the funnel let it go: where it fell 
 - 2026-11-11 Armitage 28975 lot 885: $335 for "9CT GOLD STONE SET RING" fell out at scan: skipped (9ct gold ring with synthetic emerald and CZ, low gold weight.); words: 9ct stone ring
 - 2026-11-11 Armitage 28975 lot 652: $330 for "ORIGINAL RETRO BARSONY STYLE L..." fell out at scan: skipped (Unmarked Barsony-style retro lamp, not an attributed Barsony piece.); words: retro barsony
 - 2026-11-11 Armitage 28975 lot 695: $310 for "TOM SAMEK ARTIST'S PROOF 'MUSI..." fell out at bid check: FAIL (max hammer $0 from a median SOLD of $124 does not clear the current bid $0); words: tom samek artist proof musi
+- 2026-11-11 Armitage 28976 lot 1310: $1,160 for "CORRO CARBON MODULAR LOUNGE SU..." fell out at rules: excluded (large furniture); words: corro carbon modular lounge
+- 2026-11-11 Armitage 28976 lot 1122: $1,110 for "PAIR OF MORAN LEATHER UPHOLSTE..." fell out at rules: excluded (large furniture); words: moran leather upholste
+- 2026-11-11 Armitage 28976 lot 1123: $1,075 for "MORAN 2.5 SEAT LEATHER CHESTER..." fell out at rules: excluded (large furniture); words: moran seat leather chester
+- 2026-11-11 Armitage 28976 lot 1015: $690 for "RYLLTON VINEY MIXED MEDIA MULT..." fell out at scan: skipped (Local contemporary abstract with thin resale market; unlikely to reach $250.); words: ryllton viney media mult
+- 2026-11-11 Armitage 28976 lot 1160: $650 for "MAHOGANY UPHOLSTERED DOUBLE EN..." fell out at rules: excluded (large furniture); words: mahogany upholstered
+- 2026-11-11 Armitage 28976 lot 1056: $610 for "FLAME MAHOGANY CHEST OF DRAWER..." fell out at rules: excluded (large furniture); words: flame mahogany chest
+- 2026-11-11 Armitage 28976 lot 1332: $600 for "GREY FABRIC 3 & 2 SEATER SOFA'..." fell out at rules: excluded (large furniture); words: fabric seater sofa
+- 2026-11-11 Armitage 28976 lot 1074: $530 for "LEATHER UPHOLSTERED WINGBACK A..." fell out at scan: skipped (Reproduction leather wingback with wear.); words: leather upholstered wingback
+- 2026-11-11 Armitage 28976 lot 1092: $530 for "LARGE VICTORIAN CAST IRON BOOT..." fell out at scan: skipped (Decorative but common garden/doorway item, likely under $150.); words: victorian cast boot
+- 2026-11-11 Armitage 28976 lot 1096: $530 for "OAK & ELM PEGGED JIMMY POSSUM ..." fell out at scan: skipped (Reproduction style chair, not a genuine Jimmy Possum.); words: oak elm pegged jimmy possum
+- 2026-11-11 Armitage 28976 lot 1272: $510 for "ELECTRIFIED CELLO SHAPED LAMP ..." fell out at scan: skipped (Decorative novelty lamp, low value.); words: electrified cello lamp
+- 2026-11-11 Armitage 28976 lot 1079: $500 for "A HAND-KNOTTED TRIBAL PERSIAN ..." fell out at scan: skipped (Dealer-consigned decorative tribal rug, ordinary resale.); words: knotted tribal persian
+- 2026-11-11 Armitage 28976 lot 1073: $480 for "BRAZILIAN ROSEWOOD PEDESTAL DI..." fell out at rules: excluded (large furniture); words: brazilian rosewood pedestal
+- 2026-11-11 Armitage 28976 lot 1264: $470 for "MODERN OAK 5 DRAWER CHEST H-13..." fell out at scan: skipped (Modern retail furniture, low resale.); words: modern oak chest
+- 2026-11-11 Armitage 28976 lot 1100: $460 for "PINE RAILWAY BENCH SEAT C1920 ..." fell out at scan: skipped (Plain pine bench with no railway markings to confirm provenance.); words: pine railway bench seat c1920
+- 2026-11-11 Armitage 28976 lot 1375: $460 for "GREEN SWIVEL RECLINER ARMCHAIR..." fell out at rules: excluded (large furniture); words: swivel recliner armchair
+- 2026-11-11 Armitage 28976 lot 1150: $440 for "LARGE FLAME MAHOGANY PEDESTAL ..." fell out at rules: excluded (large furniture); words: flame mahogany pedestal
+- 2026-11-11 Armitage 28976 lot 1169: $440 for "MAHOGANY TWIN PEDESTAL EXTENSI..." fell out at rules: excluded (large furniture); words: mahogany twin pedestal extensi
+- 2026-11-11 Armitage 28976 lot 1374: $440 for "PAIR OF GREY FABRIC SOFAS" fell out at scan: skipped (Modern generic sofas, retail-replacement furniture with modest resale.); words: fabric sofas
+- 2026-11-11 Armitage 28976 lot 1231: $430 for "FISHER & PAYKEL HEAT PUMP 8 KG..." fell out at rules: excluded (whitegoods); words: fisher paykel heat pump
+- 2026-11-11 Armitage 28976 lot 1126: $420 for "LARGE OAK 2 DOOR FOOD SAFE H-1..." fell out at bid check: FAIL (max hammer $0 from a median SOLD of $189 does not clear the current bid $0); words: oak food safe
+- 2026-11-11 Armitage 28976 lot 1339: $420 for "OAK EXTENSION DINING TABLE H-8..." fell out at rules: excluded (large furniture); words: oak extension dining table
+- 2026-11-11 Armitage 28976 lot 1102: $410 for "HAND STITCHED RED & BLACK TRIBA..." fell out at scan: skipped (Common Afghan gul rug, low value.); words: stitched triba
+- 2026-11-11 Armitage 28976 lot 1152: $390 for "MASSIVE PATTERNED FLOOR RUG H-..." fell out at scan: skipped (Common Pakistani Bokhara rug in out-of-fashion pink, modest resale.); words: massive patterned floor rug
+- 2026-11-11 Armitage 28976 lot 1175: $390 for "FLAME MAHOGANY PEDESTAL DINING..." fell out at rules: excluded (large furniture); words: flame mahogany pedestal dining
+- 2026-11-11 Armitage 28976 lot 1297: $380 for "OAK 3 DRAWER, 3 DOOR SIDEBOARD..." fell out at rules: excluded (large furniture); words: oak sideboard
+- 2026-11-11 Armitage 28976 lot 1350: $380 for "PINE FAMED DOUBLE BED WITH INN..." fell out at rules: excluded (large furniture); words: pine famed bed inn
+- 2026-11-11 Armitage 28976 lot 1163: $370 for "EDWARDIAN WALNUT DUMBWAITER WI..." fell out at scan: skipped (Plain decorative sideboard, likely later style piece, modest furniture market.); words: edwardian walnut dumbwaiter
+- 2026-11-11 Armitage 28976 lot 1027: $360 for "ITALIAN FRUITWOOD UPHOLSTERED ..." fell out at rules: excluded (large furniture); words: italian fruitwood upholstered
+- 2026-11-11 Armitage 28976 lot 1088: $360 for "KAURI & BALTIC PINE DWARF KITC..." fell out at rules: excluded (large furniture); words: kauri baltic pine dwarf kitc
+- 2026-11-11 Armitage 28976 lot 1265: $350 for "PAIR OF MATCHING SINGLE DRAWER..." fell out at rules: excluded (large furniture); words: matching
+- 2026-11-11 Armitage 28976 lot 1362: $340 for "OAK & FABRIC KING SIZE BED FRA..." fell out at rules: excluded (large furniture); words: oak fabric king bed fra
+- 2026-11-11 Armitage 28976 lot 1127: $330 for "A TRIBAL AFGHAN TURKOMAN RUG 2..." fell out at scan: skipped (Modern Afghan Baluch-style tribal rug, small size, routine auction stock.); words: tribal afghan turkoman rug
+- 2026-11-11 Armitage 28976 lot 1125: $330 for "KAURI & BALTIC PINE KITCHEN DR..." fell out at rules: excluded (large furniture); words: kauri baltic pine kitchen
+- 2026-11-11 Armitage 28976 lot 1181: $330 for "GILT FRAMED BEVELLED WALL MIRR..." fell out at bid check: FAIL (max hammer $0 from a median SOLD of $140 does not clear the current bid $0); words: gilt bevelled wall mirr
+- 2026-11-11 Armitage 28976 lot 1323: $330 for "RUBELLI WHITE LEATHER 3 SEATER..." fell out at rules: excluded (large furniture); words: rubelli leather seater
+- 2026-11-11 Armitage 28976 lot 1082: $320 for "ENGLISH OAK JACOBEAN STYLE OCC..." fell out at scan: skipped (Common 20th century revival oak table.); words: english oak jacobean occ
+- 2026-11-11 Armitage 28976 lot 1103: $310 for "UPHOLSTERED WINGBACK ARMCHAIR" fell out at scan: skipped (Modern reproduction armchair, low resale.); words: upholstered wingback armchair
+- 2026-11-11 Armitage 28976 lot 1200: $310 for "GILT WINGED OVER MANTEL MIRROR..." fell out at scan: skipped (Damaged decorative gilt mirror, needs repair, moderate value at best); words: gilt winged over mantel mirror
+- 2026-11-11 Armitage 28976 lot 1324: $310 for "BLUE RUBELLI LEATHER ELECTRIC ..." fell out at rules: excluded (large furniture); words: rubelli leather
+- 2026-11-11 Armitage 28976 lot 1371: $310 for "FABRIC ARMCHAIR" fell out at scan: skipped (Modern generic fabric armchair, low resale.); words: fabric armchair
+- 2026-11-11 Armitage 28976 lot 1072: $300 for "A NEW AFGHAN KAZAK FLATWEAVE R..." fell out at scan: skipped (New decorative kilim runner, dealer stock.); words: afghan kazak flatweave
+- 2026-11-11 Armitage 28976 lot 1076: $300 for "A DENSELY HAND-WOVEN PERSIAN S..." fell out at scan: skipped (Dealer-consigned decorative village rug, ordinary resale.); words: densely woven persian
+- 2026-11-11 Armitage 28976 lot 1086: $300 for "A NEW USHAK DESIGN RUNNER 300 ..." fell out at scan: skipped (New Indian reproduction runner from a rug dealer consignment, generic resale market.); words: ushak runner
+- 2026-11-11 Armitage 28976 lot 1266: $300 for "MAHOGANY VICTORIAN STYLE BOOKC..." fell out at scan: skipped (Modern reproduction display bookcase, mid-range furniture.); words: mahogany victorian bookc
