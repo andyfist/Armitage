@@ -1,0 +1,89 @@
+{
+ "cdid": 452449,
+ "lot": 1117,
+ "identification": "Rough-sawn live-edge timber slab catalogued SLAB OF HUON PINE. Photo shows pale straw timber with fine growth rings, sheared bark edges, pin knots, chalked 1117 and 20/11/26. Species not provable from one photo (could be Huon, celery top or similar pale softwood). Size not given, about 2 m by an estimated 30 to 40 cm wide.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$155 hammer",
+   "currency": "AUD",
+   "aud_price": 155,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 442693)",
+   "same_item": "yes",
+   "note": "Single long rough-sawn live-edge slab catalogued SLAB OF HUON PINE, 6 bids; the top of the recent plain-slab range. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 444301)",
+   "same_item": "yes",
+   "note": "SLAB OF HUON PINE, 4 bids. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 444310)",
+   "same_item": "yes",
+   "note": "SLAB OF HUON PINE, 1 bid. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 444304)",
+   "same_item": "yes",
+   "note": "SLAB OF HUON PINE, 4 bids. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 hammer",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lots 444316, 444317)",
+   "same_item": "yes",
+   "note": "SLAB OF HUON PINE, no bids; bottom of range. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180 hammer",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "date not recorded in database (listed within last 12 months)",
+   "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 403934)",
+   "same_item": "yes",
+   "note": "Wide live-edge board sold as PIECE OF HUON PINE; highest single-slab hammer in the Gowans records (many Gowans slab lots, median about $50-60). Local database record, not a page I opened. Paid locally: shows what we might pay, never resale."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,100 to $4,400 per m3 (craft grade Huon pine pieces)",
+   "currency": "AUD",
+   "aud_price": 1100,
+   "date": "live, seen 2026-11-18",
+   "venue": "Island Specialty Timbers tender price archive (Forestry Tasmania style supplier price list)",
+   "url": "https://www.islandspecialtytimbers.com.au/tendering/tender-price-archive",
+   "same_item": "category guide",
+   "note": "Page opened (curl). Raw material price per cubic metre, not a slab sale. A slab about 2 m x 0.35 m x 0.05 m is about 0.035 m3, so about $40 to $155 at that rate; dressed, kiln dried retail slabs cost several times more. Shows the timber is not worth hundreds unless wide, thick and figured."
+  }
+ ],
+ "searches_tried": "Local comps.py (pipeline and work) with huon pine slab, huon pine, huon slab, huon pine --min-price 500: about 25 same-title Gowans slab sales, $25 to $180 hammer, typical $45 to $90. WebSearch was refused (search budget used up), so no web resale search ran. Curled Island Specialty Timbers price archive (opened); huonpine.com.au and two other dealer guesses returned no prices. No SOLD resale evidence found outside Gowans. eBay sold listings for 'huon pine slab' and Tasmanian dealer retail slab prices would settle resale.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold/completed listings: huon pine slab live edge (also 'huon pine board'); and dealer sites for per-slab retail (e.g. Tasmanian timber dealers, Gumtree) for slabs about 2 m long, 300-400 mm wide",
+ "rate_note": "All prices AUD, no conversion. Gowans prices are hammer, premium about 19.8% extra.",
+ "viewing_check": "Smell a fresh cut or scratch (Huon pine has a strong distinctive oil aroma), look at end grain for very fine, even rings, and measure length, width and thickness. Photograph both faces and the end. Check for splits, rot, borer and any wide figured or birdseye area."
+}

@@ -1,0 +1,77 @@
+{
+ "cdid": 452149,
+ "lot": 668,
+ "identification": "Sony PlayStation 4 Pro (three-layer chassis, CUH-7xxx) with two DualShock 4 controllers and one power lead. Console scuffed on top, no HDMI cable visible, storage size and working status unknown. Pro was 1TB as standard.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-06-21",
+   "venue": "Gowans Auctions (Hobart) [paid locally, not resale]",
+   "url": "gowans id 418082",
+   "same_item": "yes",
+   "note": "PS4 Pro with 2 controllers and HDMI/power cords, 14 bids. Local database hit; premium extra. Shows cost only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-05-31",
+   "venue": "Gowans Auctions (Hobart) [paid locally, not resale]",
+   "url": "gowans id 413606",
+   "same_item": "close",
+   "note": "PS4 Pro with one controller, no cords, 9 bids. Local database hit; shows cost only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$159 (was $229) to $399, most $225-270",
+   "currency": "AUD",
+   "aud_price": 245,
+   "date": "live, seen 2026-11-18",
+   "venue": "Cash Converters (multiple stores)",
+   "url": "https://www.cashconverters.com.au/shop/gaming/consoles-equipment/gaming-consoles/sony-game-console/042400205407",
+   "same_item": "yes",
+   "note": "Used PS4 Pro 1TB retail asking prices, tested and with cords; snippet only (pages returned 404 when opened). Dealer margin included, tested stock, so above what an untested auction lot resells for."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$168 (marked Sold), $149 (was $199, marked Sold, Collingwood), $270 (marked Sold, Warwick Farm)",
+   "currency": "AUD",
+   "aud_price": 168,
+   "date": "seen 2026-11-18",
+   "venue": "Cash Converters",
+   "url": "https://www.cashconverters.com.au/shop/gaming/consoles-equipment/gaming-consoles/sony-game-console/032700103876",
+   "same_item": "yes",
+   "note": "Shop listings marked Sold at $149-270; snippet only, unverified, shop prices not auction hammer, so kept as ASKING. Suggests tested working units clear around $150-270 retail."
+  },
+  {
+   "kind": "ASKING",
+   "price": "refurbished PS4 Pro 1TB with controller, price not shown",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "live, seen 2026-11-18",
+   "venue": "Reebelo",
+   "url": "https://reebelo.com.au/collections/sony-playstation-4-pro-console-with-2-controllers-bundle",
+   "same_item": "close",
+   "note": "Page opened, out of stock, no price shown. Refurbished with warranty."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$559.95 RRP at 2016 launch",
+   "currency": "AUD",
+   "aud_price": 559.95,
+   "date": "2016-11",
+   "venue": "Sony Australia launch RRP",
+   "url": "https://www.gamenguide.com/articles/66083/20161111/playstation-4-pro-is-now-available-in-australia-check-out-ps4-pro-specs-and-price.htm",
+   "same_item": "yes",
+   "note": "Discontinued product, no current new price. Launch RRP only, snippet only."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with playstation/ps4/pro words: only Gowans hits, no resale comps. WebSearch for Cash Converters PS4 Pro, Australian auction houses PS4 Pro (nothing found), new retail price. Cash Converters pages 404 on fetch; reebelo page opened. eBay AU sold listings would settle it best (closed to us).",
+ "needs_chrome": true,
+ "chrome_hint": "eBay.com.au sold and completed: \"PS4 Pro 1TB console\" with 2 controllers, Australia, last 90 days; also \"PS4 Pro faulty\" for untested pricing",
+ "viewing_check": "Check the rear label for the CUH-7xxx model and serial, storage size (1TB is standard), and whether it powers on and reaches the home screen. Check for HDMI cable, disc drive tray and eject, controller sticks, and any fan noise or yellow light."
+}
