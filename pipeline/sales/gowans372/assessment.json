@@ -15,11 +15,11 @@
  "scanned": 1431,
  "candidates": 414,
  "counts": {
-  "PASS": 9,
-  "CHROME": 27,
-  "FAIL": 10,
+  "PASS": 11,
+  "CHROME": 63,
+  "FAIL": 15,
   "DROP": 0,
-  "NOT RESEARCHED": 368
+  "NOT RESEARCHED": 325
  },
  "lots": [
   {
@@ -184,23 +184,71 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Gents shield-shaped bloodstone signet ring in yellow gold, 4.9g gross. Photo 2 shows struck cartouches: a first mark (possibly S or anchor-like), maker initials T.A.W., and a further rubbed mark at the edge that could be a 9 or a carat/standard mark. Title says unmarked, so carat is unconfirmed; treat as probably 9ct. Bloodstone top worn and edge chipped. Maker T.A.W. not identified.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold: 9ct gold bloodstone signet ring (Australia and UK, sold items, last 90 days), plus search hallmark maker T.A.W. 9ct on a hallmark database",
    "chrome_done": false,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 680.0,
+     "date": "2026-09-02",
+     "venue": "Bourne End Auction Rooms (UK)",
+     "url": "https://bourneendauctionrooms.co.uk/catalogue/lot/24a870dac20cd43a2d4cd5c2fa078ca5/df552cf371f2e3a723b4ebdb4bf38e80/fine-silver-jewellery-online-only-we-do-not-offer-lot-47/",
+     "same_item": "close",
+     "note": "Page opened. 9ct bloodstone intaglio signet, 5.2g, size Q1/2. Slightly heavier and an engraved intaglio, so better than ours. Rate assumed GBP 1 = AUD 2.00 (not checked live). Premium extra.",
+     "old": false
+    },
+    {
+     "aud_price": 300.0,
+     "date": "2023-04-19",
+     "venue": "Eastbourne Auction Rooms (UK)",
+     "url": "https://www.eastbourneauction.com/catalogue/lot/635f582feda8ba443a7f7a1c2e3e01bf/1dad09680fe122841b8e6c1f4cc703f8/live-online-auction-antique-vintage-modern-jewelle-lot-2016/",
+     "same_item": "close",
+     "note": "Page opened. 9ct bloodstone signet, 4.5g, boxed. Very similar weight; older sale (3.5 years). Rate assumed 2.00. Premium extra.",
+     "old": true
+    },
+    {
+     "aud_price": 190.0,
+     "date": "2023-09-13",
+     "venue": "Warren & Wignall (UK)",
+     "url": "https://www.warrenandwignall.co.uk/catalogue/lot/5db894c197276d6b54fb4d1365a54fad/2a29640469b1a3702bd4742f312b842a/fine-sale-mid-20th-century-jewellery-watches-lot-41/",
+     "same_item": "close",
+     "note": "Page opened. 9ct bloodstone slab signet, Birmingham 1928, 5.5g. Low end, shows the range. Rate assumed 2.00. Premium extra.",
+     "old": true
+    }
+   ],
    "sold_old": [],
-   "unsold": [],
+   "unsold": [
+    {
+     "aud_price": 0.0,
+     "date": "2025-10-13",
+     "venue": "Richard Winterton Auctioneers (UK)",
+     "url": "https://www.the-saleroom.com/en-gb/auction-catalogues/richard-winterton-auctioneers/catalogue-id-srric10500/lot-cfa4c058-4e98-4f57-bde9-b36b008e88c7",
+     "same_item": "category guide",
+     "note": "Snippet only. Lot passed; a damaged stone is a weak seller.",
+     "old": false
+    }
+   ],
    "asking": [],
-   "paid": [],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
-   "age_note": "",
-   "trend": "",
+   "paid": [
+    {
+     "aud_price": 350.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=9ct+gold+ring+gm&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Paid locally, what we might pay, not resale. Plain 9ct shield signet 4.6g (lot 441738). Local database range for similar plain 9ct shield signets Nov 2025 to Oct 2026: $160 to $460, median about $320.",
+     "old": false
+    }
+   ],
+   "resale": 300.0,
+   "net_resale": 255.0,
+   "max_hammer": 45,
+   "status": "PASS",
+   "why": "3 same-item SOLD price(s), median $300; less 15% fees = $255; less $200 profit, / 1.20 premium = max hammer $45. 2 of 3 prices are more than 3 years old. trend rising: last 3 years median $680 against $245 before (+178%)",
+   "age_note": "2 of 3 prices are more than 3 years old",
+   "trend": "trend rising: last 3 years median $680 against $245 before (+178%)",
    "priority": false
   },
   {
@@ -271,21 +319,60 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Edwardian-style openwork heart pendant, 9ct unmarked per title, pear-cut orange stone (citrine or paste), seed pearls, leaf and scroll motifs, fine trace chain with shop tag. Light piece, probably 2-3g pendant plus chain.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: edwardian 9ct citrine seed pearl pendant chain; also Carters and Shapiro archive pages for the same",
    "chrome_done": false,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 300.0,
+     "date": "2025-11-25",
+     "venue": "Noble Numismatics, Sydney sale 140 lot 3287",
+     "url": "https://www.noble.com.au/auctions/lot/?id=438323",
+     "same_item": "close",
+     "note": "From local database. 15ct (not 9ct) heart shaped citrine pendant by Newman, 3.65g, 18x22mm; no seed pearls. Rate: AUD, none needed.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "asking": [
+    {
+     "aud_price": 500.0,
+     "date": "unknown",
+     "venue": "Antiques Atlas, Millbrook Antiques UK",
+     "url": "https://antiques-atlas.com/antique/antique_citrine__pearl_pendant_a757/as163a757",
+     "same_item": "close",
+     "note": "Snippet only. Edwardian citrine and seed pearl flower pendant with 9ct chain, dealer price. Rate 2.0 assumed. Retail, not price paid.",
+     "old": false
+    },
+    {
+     "aud_price": 900.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Antiques in Oxford",
+     "url": "https://www.antiquesinoxford.co.uk/product-page/edwardian-gold-and-citrine-pendant",
+     "same_item": "close",
+     "note": "Snippet only. Early 20th c 9ct citrine and split pearl pendant with trace chain. Dealer retail. Rate 2.0 assumed.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 120.0,
+     "date": "2025-11-17",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/375082/",
+     "same_item": "category guide",
+     "note": "Local database. Edwardian-style negligee/lavalier necklace, yellow gold. Shows what we might pay only, not resale.",
+     "old": false
+    }
+   ],
+   "resale": 300.0,
+   "net_resale": 255.0,
+   "max_hammer": 45,
+   "status": "PASS",
+   "why": "1 same-item SOLD price(s), median $300; less 15% fees = $255; less $200 profit, / 1.20 premium = max hammer $45",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -404,21 +491,59 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
+   "identification": "Cut, squashed and folded ring shank (copper-rose colour) with a grey solder lump; no carat stamp visible in either photo. Described as 9ct scrap, 2.6g, unconfirmed. Colour looks coppery, so it could be low-carat or even gilt/base metal; if 9ct at 2.6g it is worth scrap only (about $160 at dealer buy rates).",
+   "researched": true,
    "needs_chrome": false,
    "chrome_hint": "",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 160.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Melbourne Gold Company (dealer buy rate)",
+     "url": "https://www.melbournegoldcompany.com.au/",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified. 2.6g x $61.5 = about $160 if truly 9ct. Other dealers $61.4 to $63.4/g (Gold Buyers Melbourne 13 Nov 2026, snippet only). Dealer buy rate is a floor-type figure, not a price paid at auction. AUD, no conversion.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 320.0,
+     "date": "2026-09-13",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/437000/",
+     "same_item": "close",
+     "note": "2 x 9ct scrap rings 6g total, 7 bids. Paid locally, shows what we might pay, not resale. About $53/g hammer. From local database.",
+     "old": false
+    },
+    {
+     "aud_price": 590.0,
+     "date": "2026-08-03",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/427326/",
+     "same_item": "category guide",
+     "note": "3 x 9ct scrap rings 4.2g plus 15ct ring 3.4g, 14 bids. Paid locally, not resale. From local database.",
+     "old": false
+    },
+    {
+     "aud_price": 210.0,
+     "date": "2025-07-09",
+     "venue": "Armitage Auctions, Launceston sale 25105 lot 847",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2559714&chid=25105&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Group of 4 scrap 9ct rings, weight not stated. Paid locally, not resale. From local database.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -855,21 +980,68 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Pair of George III Old English pattern sterling teaspoons, London 1815-16 (date letter u, duty mark, crowned leopard's head), maker's mark SH (not confirmed), 53.5g. Photo 2 shows full hallmarks on both spoons. Ordinary maker, common pattern; value is mostly silver weight plus small Georgian collector premium.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold/completed: georgian sterling silver teaspoons pair london 1815 old english (also 'pair georgian silver teaspoons hallmarked'), Australia and UK, last 90 days",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 70.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Schredds of Portobello (UK dealer)",
+     "url": "https://www.schredds.com/teaspoon.htm",
+     "same_item": "close",
+     "note": "Page opened. Single George III Old English teaspoon, London 1815, John Lias, initialled. Dealer retail asking, one spoon, so a pair would be about GBP 70 retail. Rate used GBP 1 = AUD 2.0 (assumed, not checked).",
+     "old": false
+    },
+    {
+     "aud_price": 170.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Love Antiques (UK dealer)",
+     "url": "https://www.loveantiques.com/antique-silver/silver-spoons/georgian-antiques-(1714-to-1837)/english",
+     "same_item": "category guide",
+     "note": "Snippet only, not verified. Pair of George III sterling tea/coffee spoons, year and pattern not stated. Rate 2.0.",
+     "old": false
+    },
+    {
+     "aud_price": 300.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Easyliveauction listing (UK)",
+     "url": "https://www.easyliveauction.com/catalogue/lot/d31cc0fc2e9e7a8205114e73eb79b1fe/1f1638c9faeb7c2641b7b1e9c67628d0/fine-paintings-and-frames-fine-jewellery-watches-and-silve/",
+     "same_item": "category guide",
+     "note": "Snippet only. Pair of 1815 Old English SERVING spoons (larger, more silver), so not a teaspoon comp; ceiling only. Rate 2.0 on GBP 150.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 60.0,
+     "date": "2026-03-23",
+     "venue": "Gowans Auctions (paid locally), lot 398105 'PAIR OF STERLING SILVER SPOONS - 48.9GM'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pair%20of%20sterling%20silver%20spoons&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Paid locally, not a resale price. Almost identical lot title and weight; shows what we might pay.",
+     "old": false
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-05-10",
+     "venue": "Gowans Auctions (paid locally), lot 407923 '3 STERLING SILVER TEASPOONS - 40.2GM'",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=sterling%20silver%20teaspoons&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Paid locally, not resale. 9 bids. Also AUD 100 for 3 London teaspoons 51.3g (2026-09-13, lot 437067). Local median for sterling spoon lots about AUD 110.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -884,21 +1056,50 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Pair of Italian micromosaic drop earrings (doves, swans), gilt metal with twisted wire borders, Roman revival style. Probably mid to late 20th century, 19th century not ruled out from one photo.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold items: vintage Italian micro mosaic drop earrings gilt doves swans (also micromosaic earrings gold plated Italy)",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 5400.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "1stDibs",
+     "url": "https://www.1stdibs.com/jewelry/earrings/dangle-earrings/late-19th-century-italian-micro-mosaic-18k-yellow-gold-chandelier-earrings/id-j_24749972",
+     "same_item": "category guide",
+     "note": "Late 19th C 18k gold chandelier micromosaic pair. Snippet only. Dealer ask, gold, not comparable.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 50.0,
+     "date": "2026-08-09",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "gowans id 429090",
+     "same_item": "category guide",
+     "note": "Italian mosaic brooch and clip-on earrings set, 4 bids. Paid locally, not a resale price. Weaker item.",
+     "old": false
+    },
+    {
+     "aud_price": 180.0,
+     "date": "2025-10-27",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "gowans id 370031",
+     "same_item": "category guide",
+     "note": "Micro mosaic bracelet, 15 bids. Paid locally, not a resale price.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2494,21 +2695,104 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Mezco Toyz MDS Mega Scale 15 inch Child's Play 2 Talking Menacing Chucky (model 78023), boxed, I CAN TALK banner, MDS logo on box. Box looks sealed and sound.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: Mezco Child's Play 2 Talking Menacing Chucky 15 inch 78023 (Sold items filter), also ebay.com.au 'Mezco Chucky 15\" talking' completed",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 149.95,
+     "date": "live, seen 2026-11-18",
+     "venue": "Beserk Australia",
+     "url": "https://www.beserk.com.au/products/childs-play-talking-chucky-15-figure",
+     "same_item": "close",
+     "note": "Talking Chucky 15 inch, new. Snippet only (page opened but price not readable, may be sold out). Retail ask.",
+     "old": false
+    },
+    {
+     "aud_price": 155.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "eBay Australia",
+     "url": "https://www.ebay.com.au/p/27045142134",
+     "same_item": "same item",
+     "note": "New Child's Play 2 talking Chucky listings about A$150-155. Snippet only. Asking, not paid.",
+     "old": false
+    },
+    {
+     "aud_price": 96.82,
+     "date": "live, seen 2026-11-18",
+     "venue": "Popcultcha",
+     "url": "https://www.popcultcha.com.au/child-s-play-2-menacing-chucky-15-mega-scale-action-figure.html",
+     "same_item": "same item",
+     "note": "New retail, in stock per snippet; title may be non-talking variant. Snippet only (page blocked).",
+     "old": false
+    },
+    {
+     "aud_price": 235.58,
+     "date": "live, seen 2026-11-18",
+     "venue": "eBay US",
+     "url": "https://www.ebay.com/itm/403466464087",
+     "same_item": "same item",
+     "note": "New sealed, seller says 3 sold. Snippet only. Rate 1 USD = 1.55 AUD assumed.",
+     "old": false
+    },
+    {
+     "aud_price": 154.98,
+     "date": "live, seen 2026-11-18",
+     "venue": "Amok Time",
+     "url": "https://amoktime.com/mezco-mds-mega-scale-child-s-play-2-talking-menacing-chucky",
+     "same_item": "same item",
+     "note": "New US retail, page opened. Shows original retail level.",
+     "old": false
+    },
+    {
+     "aud_price": 190.65,
+     "date": "live, seen 2026-11-18",
+     "venue": "Frightmare Collectibles",
+     "url": "https://frightmarecollectibles.com/products/childs-play-menacing-chucky-talking-mega-scale-15-inch-doll-mezco",
+     "same_item": "same item",
+     "note": "New, page opened; sale price about US$103 per snippet.",
+     "old": false
+    },
+    {
+     "aud_price": 161.99,
+     "date": "live, seen 2026-11-18",
+     "venue": "Zavvi Australia",
+     "url": "https://www.zavvi.com.au/merch-toys/mezco-child-s-play-talking-sneering-chucky-15-inch-doll/10932358.html",
+     "same_item": "close",
+     "note": "Sneering variant, sold out. Snippet only.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 220.0,
+     "date": "2026-05-24",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "gowans id 411579",
+     "same_item": "close",
+     "note": "Gowans 'CHUCKY DOLL 14\" FIGURE', 13 bids. Paid locally, not a resale price. Probably the same Mezco doll but condition unknown.",
+     "old": false
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2025-10-13",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "gowans id 367311",
+     "same_item": "category guide",
+     "note": "Gowans 'CHUCKY LIVING DEAD DOLL', different item (Living Dead Dolls). Paid locally, not a resale price.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2773,21 +3057,77 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "NECA Halloween (2018) Michael Myers 1/4 scale (about 18 inch) action figure, boxed with alternate heads and hands. Photo shows the sealed-looking window box, front only, with a small sticker on the window.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold listings: NECA Halloween 2018 Michael Myers 1/4 scale 18 inch, Sold items, Australia and worldwide",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 161.17,
+     "date": "live, seen 2026-11-18",
+     "venue": "Popcultcha",
+     "url": "https://www.popcultcha.com.au/halloween-2018-michael-myers-1-4-scale-action-figure.html",
+     "same_item": "yes",
+     "note": "New retail, in stock per search snippet; snippet only (page fetch returned 403). Use as new retail price in Australia.",
+     "old": false
+    },
+    {
+     "aud_price": 186.89,
+     "date": "live, seen 2026-11-18",
+     "venue": "eBay Australia listing",
+     "url": "https://www.ebay.com.au/p/23034691899",
+     "same_item": "yes",
+     "note": "Snippet only; AUD figure as shown in snippet. Postage about A$72 extra.",
+     "old": false
+    },
+    {
+     "aud_price": 210.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "eBay (used listings)",
+     "url": "https://www.ebay.com/itm/156970264079",
+     "same_item": "yes",
+     "note": "Snippet only. Rate about 1.50 AUD per USD (assumed). Used, condition unknown.",
+     "old": false
+    },
+    {
+     "aud_price": 188.0,
+     "date": "2019-08-20",
+     "venue": "NECA store via Toyark (original launch price)",
+     "url": "https://news.toyark.com/2019/08/21/halloween-2018-michael-myers-1-4-scale-figure-and-halloween-ii-ultimate-figure-available-now-via-the-neca-stores-360556",
+     "same_item": "yes",
+     "note": "Snippet only. Original retail 2019, rate 1.50 assumed.",
+     "old": true
+    },
+    {
+     "aud_price": 300.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Caufields (one version sold out)",
+     "url": "https://caufields.com/products/halloween-2018-michael-myers-1-4-scale-action-figure",
+     "same_item": "yes",
+     "note": "Snippet only; high end retail.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 120.0,
+     "date": "2026-06-21",
+     "venue": "Gowans (paid locally, not resale)",
+     "url": "gowans id 418077",
+     "same_item": "close",
+     "note": "NECA 1/4 scale Predator in box, different character, 11 bids. Local cost guide only. Found in local database.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2860,23 +3200,61 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Three sealed horror soundtrack LPs: Child's Play (Joe Renzetti, Waxwork, 2019, hype sticker), Halloween 2018 OST (Sacred Bones SBR-213), Halloween II (Death Waltz/Mondo, orange obi). Colour variants not visible through shrink.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay AU sold/completed: 'Halloween II Death Waltz vinyl', 'Child's Play Waxwork Renzetti LP', 'Halloween 2018 Sacred Bones LP'; also Discogs sales history for each release.",
    "chrome_done": false,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 92.0,
+     "date": "2022-10-08",
+     "venue": "Gripsweat (archived completed sale)",
+     "url": "https://gripsweat.com/item/224417177737/halloween-ii-soundtrack-orange-red-blue-stripe-vinyl-lp-record-album-mondo",
+     "same_item": "close",
+     "note": "Page opened. Halloween II Mondo orange/red/blue stripe, mint. Page says accepted best offer, final price questionable. Rate USD1=AUD1.53 assumed. Only one sold price, US, 4 years old.",
+     "old": true
+    }
+   ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 58.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Going Underground Records",
+     "url": "https://www.goingundergroundrecords.com/products/joe-renzetti-childs-play-1988-original-mgm-motion-picture-soundtrack-colored-vinyl-2xlp",
+     "same_item": "close",
+     "note": "Page opened. Child's Play Waxwork 2xLP coloured, listed SOLD OUT. Retail new price at issue, not a resale. Lot's copy looks like a single sleeve; may be 2LP gatefold.",
+     "old": false
+    },
+    {
+     "aud_price": 31.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "US retailers (search snippet)",
+     "url": "https://www.shugarecords.com/products/pre-orderjohncarpenter-halloween-newvinyllp2018sacredbonesreissueonhalloweenorangecoloredvinyl-70ssoundtrack",
+     "same_item": "close",
+     "note": "Snippet only, not verified. Halloween 2018 SBR-213 black LP retail about USD20-30 (AUD30-45). Common, in print repeatedly.",
+     "old": false
+    },
+    {
+     "aud_price": 73.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Mondo / RareVinyl",
+     "url": "https://mondoshop.com/products/halloween-2",
+     "same_item": "close",
+     "note": "Snippet only, not verified. Reissue is in print so caps resale of the Halloween II LP; orange obi with Mondo/Death Waltz logo suggests the 2014-2018 era pressing.",
+     "old": false
+    }
+   ],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 92.0,
+   "net_resale": 78.2,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
-   "age_note": "",
-   "trend": "",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $92 does not clear the current bid $0",
+   "age_note": "1 of 1 prices are more than 3 years old",
+   "trend": "no sales in the last 3 years",
    "priority": false
   },
   {
@@ -3422,21 +3800,58 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Mondo Masters of the Universe 1/12 scale Skeletor 'Overlord of Evil', almost certainly the MOTU200X Skeletor (credits Santalucia concept and packaging art, Jordan Christianson packaging design match Mondo's listing). Boxed, sticker on front; regular or Timed/Deluxe edition not determinable from photos. Mondo released these from about Aug 2026, so it is a very recent figure.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed listings: \"Mondo MOTU200X Skeletor 1/12\" and \"Mondo Skeletor Overlord of Evil 1/12 200X\"; also actionfigure411 Mondo Skeletor 200x page for sold averages.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 147.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Mondo Shop (new retail price)",
+     "url": "https://mondoshop.com/products/motu200x-skeletor-1-12-scale-figure",
+     "same_item": "yes",
+     "note": "Page opened. Shows ships December 2026 (so retail may be a later batch). Rate assumed USD1=AUD1.55, not verified. Retail, not resale. US shipping and tariffs extra.",
+     "old": false
+    },
+    {
+     "aud_price": 178.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Mondo Shop / Legendsverse checklist",
+     "url": "https://legendsverse.com/checklist/mondo-112-scale/figures/motu200x-skeletor-112-scale-figure-timed-edition-251203120334",
+     "same_item": "close",
+     "note": "Snippet only. Deluxe edition has extra heads, flaming staff, stand, so a different box and contents. Rate 1.55 assumed.",
+     "old": false
+    },
+    {
+     "aud_price": 205.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Props and Replicas (UK retailer)",
+     "url": "https://www.propsandreplicas.co.uk/products/masters-of-the-universe-200x-skeletor-1-12-scale-action-figure-mondo",
+     "same_item": "yes",
+     "note": "Snippet only, not verified. Retail price incl UK VAT. Rate GBP1=AUD2.05 assumed.",
+     "old": false
+    },
+    {
+     "aud_price": 170.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Sideshow Collectibles",
+     "url": "https://www.sideshow.com/collectibles/masters-of-the-universe-skeletor-motu200x-mondo-915252",
+     "same_item": "yes",
+     "note": "Snippet only. Retail preorder, shipping Aug-Oct 2026 per snippet. Rate 1.55 assumed.",
+     "old": false
+    }
+   ],
    "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4166,21 +4581,69 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Nintendo NES Control Deck 'New Design' top loader (PAL NESP-101, Australia/NZ only) in box, with RoboCop 2 (Ocean, boxed), a boxed Mattel/Taito-type title, Gremlins 2, Road Fighter and other loose carts in dust sleeves, plus a manual. Console itself not shown out of the box.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay AU sold and completed: 'NES control deck PAL top loader boxed' and 'NESP-101'; also 'Nintendo Control Deck PAL RoboCop 2 NES lot'",
    "chrome_done": false,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 182.0,
+     "date": "2025-01-04",
+     "venue": "eBay, as listed by PriceCharting (PAL NES top loader, loose console)",
+     "url": "https://www.pricecharting.com/game/pal-nes/nes-top-loading-console-control-deck-3-in-1-game-pak",
+     "same_item": "close",
+     "note": "Loose top loader with dogbone controller and power supply, tested; no box. Rate 1 USD = 1.52 AUD (assumed). Page opened.",
+     "old": false
+    },
+    {
+     "aud_price": 1938.0,
+     "date": "2024-08-20",
+     "venue": "eBay, as listed by PriceCharting (PAL NES Control Deck CIB)",
+     "url": "https://www.pricecharting.com/game/pal-nes/nes-top-loading-console-control-deck-3-in-1-game-pak",
+     "same_item": "close",
+     "note": "Title 'RARE Nintendo NES Control Deck PAL + Super Mario Bros Tetris & World Cup CIB': complete in box with 3-in-1 pak, apparently very good condition. Single data point, and our box has wear and the console is unseen. Rate 1.52. Page opened.",
+     "old": false
+    },
+    {
+     "aud_price": 128.0,
+     "date": "2026-04-14",
+     "venue": "eBay, as listed by PriceCharting (RoboCop 2 PAL NES, CIB)",
+     "url": "https://www.pricecharting.com/game/pal-nes/robocop-2",
+     "same_item": "close",
+     "note": "Boxed RoboCop 2 only, one game in this lot. Other CIB sales Jan to Mar 2026 US$83 to US$121; loose cart US$6 to US$33. Rate 1.52. Page opened.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Reebelo Australia",
+     "url": "https://reebelo.com.au/collections/nintendo-nes-system-redesigned-top-loader",
+     "same_item": "category guide",
+     "note": "Refurbished top loader, out of stock, no price visible. Page opened. No use for value.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 100.0,
+     "date": "2026-08-17",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans lot id 432026",
+     "same_item": "category guide",
+     "note": "QTY OF ASST NINTENDO VIDEO GAMES NES & SNES; shows what we might pay, not resale. From local comps database.",
+     "old": false
+    }
+   ],
+   "resale": 182.0,
+   "net_resale": 154.7,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $182 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4224,21 +4687,69 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Record No. 050 Improved Combination Plane (Sheffield, England), boxed, with cutter rack of about 18 cutters, two fence rods, cutter clamp bracket box and Record booklet. Photos confirm nickel-plated body and blue cutter label.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: \"Record 050 plane\" and \"Record 050 combination plane box\" (Sold items, last 12 months)",
    "chrome_done": false,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 84.0,
+     "date": "2025-12-21",
+     "venue": "Badgers Auctions (UK online)",
+     "url": "https://badgersauctions.com/product/record-044-combination-plane/",
+     "same_item": "close",
+     "note": "Record 044 in box, not 050. From local comps database (not opened by me). Rate 1 GBP = 2.0 AUD assumed.",
+     "old": false
+    },
+    {
+     "aud_price": 86.0,
+     "date": "2026-04-28",
+     "venue": "Haywards (NZ online tool auction)",
+     "url": "https://www.haywards.co.nz/auctions/232/catalogue/0568",
+     "same_item": "close",
+     "note": "Page opened. Stanley No.50 (not Record 050) in box, auction ran 23-28 Apr 2026. Rate 0.90 AUD per NZD assumed; premium extra.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "asking": [
+    {
+     "aud_price": 300.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Jim Bode (US dealer)",
+     "url": "https://jimbodetools.com/collections/jim-bodes-value-guide-to-antique-tools/products/record-no-050-combination-plane-100-complete-mint-in-box-107880",
+     "same_item": "yes",
+     "note": "Page opened. Mint, 100% complete, boxed; page may say Sold; currency not stated. Rate 1.55 AUD per USD assumed. Better than this lot, dealer ask only.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 35.0,
+     "date": "2026-07-26",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=record%20plane&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Lot 425971 RECORD PLANE NO.050, paid locally, cost guide only. One bid. Condition and completeness unknown.",
+     "old": false
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=record%20plane&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Lot 443749 Record No.44 plane with 8 cutters, paid locally, smaller plough plane, cost guide only.",
+     "old": false
+    }
+   ],
+   "resale": 85.0,
+   "net_resale": 72.25,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $85 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6666,21 +7177,86 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Hand-knotted Persian village rug, red field with allover geometric lattice, navy main border, white cotton fringe; Hamadan/Mazlaghan type; 300 x 218cm; one photo, rolled at one end, back not shown. Probably mid-20th century or later semi-commercial village weave, not antique.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: 'hand knotted persian rug 300x220' (Sold items, Australia); also Invaluable/LiveAuctioneers past results 'Hamadan village rug 3m' for Australian houses (Leonard Joel, Lawsons, Carters, Theodore Bruce).",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 2200.0,
+     "date": "undated, seen 2026-11-18",
+     "venue": "Persian Rugs Australia (dealer)",
+     "url": "https://persianrugs.com.au/mehraban-hamadan-persian-rug-ref-12-300x208cm",
+     "same_item": "close",
+     "note": "Page opened. Mehraban Hamadan 300x208, 1970s, excellent condition, dense pile, coral and blue. Dealer retail ask; marked sold but sale price unknown. Retail, not auction.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 1250.0,
+     "date": "2026-06-08",
+     "venue": "Gowans lot 414885 (paid locally, not a resale price)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian%20vis (gowans id 414885)",
+     "same_item": "close",
+     "note": "From local comps database, not re-opened. PURE WOOL HAND KNOTTED PERSIAN VIS RUG 320x220. Similar size, finer Vis type so likely worth more; shows upper local range.",
+     "old": false
+    },
+    {
+     "aud_price": 600.0,
+     "date": "2026-07-19",
+     "venue": "Gowans lot 424512 (paid locally, not a resale price)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian%20rug (gowans id 424512)",
+     "same_item": "close",
+     "note": "Local database only. PERSIAN RUG 290x198, condition unknown.",
+     "old": false
+    },
+    {
+     "aud_price": 340.0,
+     "date": "2026-08-16",
+     "venue": "Gowans lot 430940 (paid locally, not a resale price)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian%20over%20dye (gowans id 430940)",
+     "same_item": "category guide",
+     "note": "Local database only. Persian over-dye 285x199; one bid so cheap.",
+     "old": false
+    },
+    {
+     "aud_price": 330.0,
+     "date": "2026-08-03",
+     "venue": "Gowans lot 427701 (paid locally, not a resale price)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=persian%20somak (gowans id 427701)",
+     "same_item": "category guide",
+     "note": "Local database only. Persian Somak 297x200 (flatweave).",
+     "old": false
+    },
+    {
+     "aud_price": 390.0,
+     "date": "2026-11-11",
+     "venue": "Armitage Auctions, Launceston sale 28976 lot 1104 (paid locally, not a resale price)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111934&chid=28976&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database only. Persian Kolyaie 280x155, wool, hand-knotted village rug; narrower than ours.",
+     "old": false
+    },
+    {
+     "aud_price": 500.0,
+     "date": "2026-11-11",
+     "venue": "Armitage Auctions, Launceston sale 28976 lot 1079 (paid locally, not a resale price)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111909&chid=28976&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Local database only. Tribal Persian Qashqai 271x178.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6811,21 +7387,77 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Sony PlayStation 4 Pro (three-layer chassis, CUH-7xxx) with two DualShock 4 controllers and one power lead. Console scuffed on top, no HDMI cable visible, storage size and working status unknown. Pro was 1TB as standard.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed: \"PS4 Pro 1TB console\" with 2 controllers, Australia, last 90 days; also \"PS4 Pro faulty\" for untested pricing",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 245.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Cash Converters (multiple stores)",
+     "url": "https://www.cashconverters.com.au/shop/gaming/consoles-equipment/gaming-consoles/sony-game-console/042400205407",
+     "same_item": "yes",
+     "note": "Used PS4 Pro 1TB retail asking prices, tested and with cords; snippet only (pages returned 404 when opened). Dealer margin included, tested stock, so above what an untested auction lot resells for.",
+     "old": false
+    },
+    {
+     "aud_price": 168.0,
+     "date": "seen 2026-11-18",
+     "venue": "Cash Converters",
+     "url": "https://www.cashconverters.com.au/shop/gaming/consoles-equipment/gaming-consoles/sony-game-console/032700103876",
+     "same_item": "yes",
+     "note": "Shop listings marked Sold at $149-270; snippet only, unverified, shop prices not auction hammer, so kept as ASKING. Suggests tested working units clear around $150-270 retail.",
+     "old": false
+    },
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Reebelo",
+     "url": "https://reebelo.com.au/collections/sony-playstation-4-pro-console-with-2-controllers-bundle",
+     "same_item": "close",
+     "note": "Page opened, out of stock, no price shown. Refurbished with warranty.",
+     "old": false
+    },
+    {
+     "aud_price": 559.95,
+     "date": "2016-11",
+     "venue": "Sony Australia launch RRP",
+     "url": "https://www.gamenguide.com/articles/66083/20161111/playstation-4-pro-is-now-available-in-australia-check-out-ps4-pro-specs-and-price.htm",
+     "same_item": "yes",
+     "note": "Discontinued product, no current new price. Launch RRP only, snippet only.",
+     "old": true
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 100.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions (Hobart) [paid locally, not resale]",
+     "url": "gowans id 418082",
+     "same_item": "yes",
+     "note": "PS4 Pro with 2 controllers and HDMI/power cords, 14 bids. Local database hit; premium extra. Shows cost only.",
+     "old": false
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-05-31",
+     "venue": "Gowans Auctions (Hobart) [paid locally, not resale]",
+     "url": "gowans id 413606",
+     "same_item": "close",
+     "note": "PS4 Pro with one controller, no cords, 9 bids. Local database hit; shows cost only.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6956,21 +7588,49 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Large framed sepia silver gelatin studio photograph, 'MT HUXLEY - KING R. GORGE - TAS.', Spurling Hobart stamp; early 20th century (Stephen Spurling III era), Tasmanian west coast mining scene. Likely a studio print, not unique; edition and print age unconfirmed.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold: 'Spurling Hobart photograph framed' and 'Spurling Tasmania photograph Mt Lyell'; also Invaluable/Artrecord Stephen Spurling sold prices; Carters item 1740730 (Spurling album) result.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 30.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans id 418454",
+     "same_item": "close",
+     "note": "LAUNCESTON PANORAMA - S SPURLING, 2 bids. Local room, shows cost only, not resale. Database hit, page not opened.",
+     "old": false
+    },
+    {
+     "aud_price": 20.0,
+     "date": "2025-10-06",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans id 365621",
+     "same_item": "close",
+     "note": "SPURLING & SON FRAMED PHOTO - LAUNCESTON FROM TREVALLYN C1890, 3 bids. Local room, cost only. Database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2025-07-30",
+     "venue": "Armitage Auctions, Launceston (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2582162&chid=25271&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Lot of 3 books incl. 'Tas Spurling Photograph'; not a print. Cost only.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -7072,21 +7732,60 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Five hand-painted chalkware wall heads (pirate with eye patch, turbaned figures, Arab in keffiyeh) on black felt in a gilt frame. Photo shows the classic Bossons (Congleton, England, 1946-1996) character-head style; 'Boston' in title is almost certainly a misspelling. Backs not shown, so no Bossons stamp confirmed. Frame is a plain gilt picture frame, adds little.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed listings: bossons chalkware heads, then 'bossons heads framed' and 'bossons lot of 5'",
    "chrome_done": false,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 22.0,
+     "date": "2025-08-24",
+     "venue": "Badgers Auctions (UK online)",
+     "url": "https://badgersauctions.com/product/three-bossons-chalkware-pirate-heads-including-sir-henry-morgan-captain-kid/",
+     "same_item": "close",
+     "note": "Page opened. Three Bossons pirate heads, final bid, premium inclusion unknown. Rate GBP1=AUD2.0. UK house clearance; cheap.",
+     "old": false
+    },
+    {
+     "aud_price": 8.0,
+     "date": "2024-09-29",
+     "venue": "Badgers Auctions (UK online)",
+     "url": "https://badgersauctions.com/product/four-bossons-chalkware-character-heads-two-german-steins/",
+     "same_item": "close",
+     "note": "Page opened. Mixed lot with steins, final bid. Rate GBP1=AUD2.0. Shows the floor for unframed heads in bulk.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "eBay.de",
+     "url": "https://www.ebay.de/itm/396586936018",
+     "same_item": "close",
+     "note": "Snippet only, no price seen. Same configuration (five heads); needs eBay check.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 5.0,
+     "date": "2025-11-10",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "gowans id 373756",
+     "same_item": "category guide",
+     "note": "Paid locally, not a resale price. Different subject, chalkware wall plaques only.",
+     "old": false
+    }
+   ],
+   "resale": 15.0,
+   "net_resale": 12.75,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $15 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -7246,21 +7945,68 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Georg Jensen 'Ribbons' large candleholder (stainless steel, mirror finish, 248 mm, design Alken & Bengtsson), boxed with card and tissue; near new.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold/completed: Georg Jensen Ribbons candleholder Alken Bengtsson (also 'Georg Jensen Ribbons Kerzenhalter' and 'Georg Jensen Ribbons large candleholder 248'), filter Sold items, Australia and UK",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 162.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Finnish Design Shop (AU)",
+     "url": "https://www.finnishdesignshop.com/en-au/product/season-candleholder-mirror-polished-steel",
+     "same_item": "category guide",
+     "note": "Snippet only. Different current Georg Jensen model, new retail, similar size and finish; shows brand price level, not Ribbons.",
+     "old": false
+    },
+    {
+     "aud_price": 190.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Salts Mill / Harvey Nichols (UK)",
+     "url": "https://www.harveynichols.com/georg-jensen/season-candleholder-large-779302-si01-125986",
+     "same_item": "category guide",
+     "note": "Snippet only. Different model, new retail. AUD at about 2.0 on GBP 95.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 100.0,
+     "date": "2026-08-19",
+     "venue": "Armitage Auctions, Launceston sale 28446 lot 771",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3019857&chid=28446&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Paid locally, local-room price, not resale. Different item (pair of candlesticks). From local database, page not opened.",
+     "old": false
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2026-02-23",
+     "venue": "Gowans Auctions, Hobart, lot id 392485",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=georg+jensen+living+torch&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Paid locally, not resale. Different Georg Jensen boxed homeware item, 7 bids. From local database.",
+     "old": false
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-08-09",
+     "venue": "Gowans Auctions, Hobart, lot id 429711",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=georg+jensen+vase&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Paid locally, not resale. Different item, 5 bids. From local database.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -7409,21 +8155,59 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Bond 50: Celebrating Five Decades of Bond 007 box set (gold and black box, 22 films, probably Blu-ray; the DVD edition uses similar art). Appears sealed in shrink wrap; format not confirmed in the single photo.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: Bond 50 Celebrating Five Decades Blu-ray box set (sold, completed, Australia)",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 99.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Salvos Stores",
+     "url": "https://www.salvosstores.com.au/shop/p/celebrating-5-decades-of-bond-007-complete-dvd-collection/1260352",
+     "same_item": "close",
+     "note": "Sealed new DVD edition of Celebrating 5 Decades of Bond 007; snippet only (page fetch got 429). Asking price, DVD not Blu-ray.",
+     "old": false
+    },
+    {
+     "aud_price": 59.99,
+     "date": "unknown, seen 2026-11-18",
+     "venue": "eBay Australia seller (Blu-ray, good used)",
+     "url": "https://www.ebay.com/p/177401351",
+     "same_item": "close",
+     "note": "Snippet only, date unclear, used complete Blu-ray set. Asking, not verified; URL is the eBay product page for this set, not the exact listing.",
+     "old": false
+    },
+    {
+     "aud_price": 67.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "eBay (various, incl. sealed 23-disc)",
+     "url": "https://www.ebay.com/p/177401351",
+     "same_item": "close",
+     "note": "Snippet only. Range of asking prices for used and sealed sets; AUD figure is the low-mid at about 1.52 AUD per USD (approx rate). 23-disc version includes Skyfall, the lot is likely the 22-film original. Unverified.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 40.0,
+     "date": "2026-05-17",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "gowans id 410031",
+     "same_item": "close",
+     "note": "Boxed set of James Bond 007 DVDs, 4 bids. Different set (DVD) and condition unclear. Paid locally, shows what we might pay only, not resale. Local database.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -7673,21 +8457,167 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "LEGO Ideas 21321 International Space Station (NASA ISS, 864 pieces, 16+, retired 2020), built on display stand, box present with wear. One photo; manual not seen, though title says manual included.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed: LEGO 21321 International Space Station, filter Australia, used/built with box",
    "chrome_done": false,
-   "sold": [],
+   "sold": [
+    {
+     "aud_price": 108.0,
+     "date": "2026-11-11",
+     "venue": "eBay US completed sale via PriceCharting (CIB list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "yes",
+     "note": "Built/used 21321, assembled with directions and box. Page opened. Same set, same box-and-manual state as the lot, though completeness of lot unverified. Rate 1 USD = 1.54 AUD. Postage not included.",
+     "old": false
+    },
+    {
+     "aud_price": 118.0,
+     "date": "2026-11-10",
+     "venue": "eBay US completed sale via PriceCharting (CIB list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "yes",
+     "note": "Built/used 21321, with box, ages 16+. Page opened. Same set, same box-and-manual state as the lot, though completeness of lot unverified. Rate 1 USD = 1.54 AUD. Postage not included.",
+     "old": false
+    },
+    {
+     "aud_price": 85.0,
+     "date": "2026-11-09",
+     "venue": "eBay US completed sale via PriceCharting (CIB list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "yes",
+     "note": "Built/used 21321, 100% complete. Page opened. Same set, same box-and-manual state as the lot, though completeness of lot unverified. Rate 1 USD = 1.54 AUD. Postage not included.",
+     "old": false
+    },
+    {
+     "aud_price": 139.0,
+     "date": "2026-11-08",
+     "venue": "eBay US completed sale via PriceCharting (CIB list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "yes",
+     "note": "Built/used 21321, complete box and instructions. Page opened. Same set, same box-and-manual state as the lot, though completeness of lot unverified. Rate 1 USD = 1.54 AUD. Postage not included.",
+     "old": false
+    },
+    {
+     "aud_price": 111.0,
+     "date": "2026-11-06",
+     "venue": "eBay US completed sale via PriceCharting (CIB list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "yes",
+     "note": "Built/used 21321, pre-owned with box and book. Page opened. Same set, same box-and-manual state as the lot, though completeness of lot unverified. Rate 1 USD = 1.54 AUD. Postage not included.",
+     "old": false
+    },
+    {
+     "aud_price": 108.0,
+     "date": "2026-11-01",
+     "venue": "eBay US completed sale via PriceCharting (CIB list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "yes",
+     "note": "Built/used 21321, retired, built. Page opened. Same set, same box-and-manual state as the lot, though completeness of lot unverified. Rate 1 USD = 1.54 AUD. Postage not included.",
+     "old": false
+    },
+    {
+     "aud_price": 116.0,
+     "date": "2026-10-28",
+     "venue": "eBay US completed sale via PriceCharting (CIB list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "yes",
+     "note": "Built/used 21321, used. Page opened. Same set, same box-and-manual state as the lot, though completeness of lot unverified. Rate 1 USD = 1.54 AUD. Postage not included.",
+     "old": false
+    },
+    {
+     "aud_price": 111.0,
+     "date": "2026-10-14",
+     "venue": "eBay US completed sale via PriceCharting (CIB list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "yes",
+     "note": "Built/used 21321, 100% complete with box and instructions. Page opened. Same set, same box-and-manual state as the lot, though completeness of lot unverified. Rate 1 USD = 1.54 AUD. Postage not included.",
+     "old": false
+    },
+    {
+     "aud_price": 108.0,
+     "date": "2026-10-05",
+     "venue": "eBay US completed sale via PriceCharting (CIB list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "yes",
+     "note": "Built/used 21321, used with instructions. Page opened. Same set, same box-and-manual state as the lot, though completeness of lot unverified. Rate 1 USD = 1.54 AUD. Postage not included.",
+     "old": false
+    },
+    {
+     "aud_price": 54.0,
+     "date": "2026-11-09",
+     "venue": "eBay US completed sale via PriceCharting (loose list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "close",
+     "note": "Built set with no box or manual (floor if lot is incomplete or box value is low). Page opened. Rate 1.54.",
+     "old": false
+    },
+    {
+     "aud_price": 77.0,
+     "date": "2026-10-30",
+     "venue": "eBay US completed sale via PriceCharting (loose list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "close",
+     "note": "Built set with no box or manual (floor if lot is incomplete or box value is low). Page opened. Rate 1.54.",
+     "old": false
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2026-05-11",
+     "venue": "eBay US completed sale via PriceCharting (loose list)",
+     "url": "https://www.pricecharting.com/game/lego-ideas/international-space-station-21321",
+     "same_item": "close",
+     "note": "Built set with no box or manual (floor if lot is incomplete or box value is low). Page opened. Rate 1.54.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 129.99,
+     "date": "live, seen 2026-11-18",
+     "venue": "Brickville (Melbourne) pre-loved",
+     "url": "https://brickville.com.au/products/pre-loved-lego-ideas-international-space-station-21321",
+     "same_item": "yes",
+     "note": "Pre-loved 21321 dealer asking price, in stock. Page opened (price from page metadata); condition/box not confirmed.",
+     "old": false
+    },
+    {
+     "aud_price": 169.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "eBay Australia Buy It Now (new, sealed)",
+     "url": "https://www.ebay.com.au/itm/193495154297",
+     "same_item": "category guide",
+     "note": "New sealed listings A$169, A$199.99, A$225. Snippet only, not verified. Asking prices for new, not built.",
+     "old": false
+    },
+    {
+     "aud_price": 99.99,
+     "date": "2020 launch (historic)",
+     "venue": "LEGO Australia original retail",
+     "url": "https://www.lego.com/en-us/product/international-space-station-21321",
+     "same_item": "category guide",
+     "note": "Original RRP only, set retired. Snippet only. Shows what it is, not resale.",
+     "old": true
+    },
+    {
+     "aud_price": 162.0,
+     "date": "2026-11-18",
+     "venue": "BrickRanker / BrickEconomy value estimates",
+     "url": "https://brickranker.com/rankings/set/21321-1/international-space-station",
+     "same_item": "category guide",
+     "note": "Modelled values for NEW sealed, not built. Snippet only, not verified.",
+     "old": false
+    }
+   ],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 108.0,
+   "net_resale": 91.8,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $108 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -7973,21 +8903,69 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Upright mahogany cabinet gramophone, red-backed fretwork grille, double doors below, lift lid, nickel soundbox arm. Style is Victor Victrola VV-X / XI class or HMV/Columbia equivalent, 1910s to 1920s. No maker plate legible in the photo; the title spelling 'Vitrola' is unconfirmed. Mass-produced, common type.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed: 'upright cabinet gramophone' and 'Victrola VV-X', Australia only, last 12 months; also carters.com.au and denhams.com Victrola/HMV upright results",
    "chrome_done": false,
    "sold": [],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 175.0,
+     "date": "Spring 2003",
+     "venue": "James D. Julia (US)",
+     "url": "https://jamesdjulia.com/?p=341499",
+     "same_item": "close",
+     "note": "Victor Victrola VV-X mahogany upright, playable, loose veneer, needle cup missing. Page opened. Over 20 years old, outside the 10 year window; shown only as a floor guide. Rate 1 USD = 1.52 AUD assumed.",
+     "old": true
+    }
+   ],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 394.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "US dealer listings (snippet)",
+     "url": "https://napoleonexhibit.com/store/ANTQ-Victrola-VVIX-Phonograph-Tbltop-Mahog-Cabinet-Record-Player-78-RPM-XLT-Orig_186370821610.html",
+     "same_item": "category guide",
+     "note": "Tabletop VV-IX asking prices, snippet only, US retail, not a price paid. AUD figure is the low end at 1.52.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 210.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "gowans id 440841",
+     "same_item": "close",
+     "note": "English oak 2 door lift-top gramophone in cabinet with records, 4 bids. Hammer, premium extra. Local room, shows what we might pay, not resale. Database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2026-06-14",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "gowans id 416734",
+     "same_item": "close",
+     "note": "2 door gramophone cabinet and records, 5 bids. Hammer. Local, not resale. Database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 230.0,
+     "date": "2025-10-13",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "gowans id 367391",
+     "same_item": "category guide",
+     "note": "Sonora gramophone with stand and records, 12 bids. Hammer. Local, not resale. Database hit.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -8214,21 +9192,58 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Mahogany banjo (wheel) barometer with swan-neck pediment, hygrometer, Fahrenheit thermometer and engraved silvered brass dial; level plate signed Bernasconi Newcastle Warranted (Newcastle upon Tyne maker), English c.1820-1840. Damaged pediment top, crack beside level plate.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold listings: 'Bernasconi Newcastle barometer'; also Invaluable/LiveAuctioneers sold: 'Georgian mahogany wheel barometer signed' (UK and Australian houses, last 5 years); also check Bernasconi barometer on thesaleroom.com",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 2250.0,
+     "date": "2024-07-11",
+     "venue": "Gowans Auctions, Hobart lot 39 (paid locally)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=barometer&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "GEORGIAN THOMAS RUBERGALL LONDON WHEEL BAROMETER; hammer, premium extra; listing text says broken swan-neck pediment too. Named London maker, so likely stronger than a provincial Bernasconi; local room, shows what we might pay not resale. Gowans API entry only, page not opened. No FX needed (AUD).",
+     "old": false
+    },
+    {
+     "aud_price": 450.0,
+     "date": "2025-11-17",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=barometer&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "VINTAGE OAK WALL BAROMETER, mahogany stick mercury barometer with broken swan-neck pediment, silvered dial; 5 bids. Stick not wheel, same under-described style. Paid locally, not resale. Gowans API entry only. No FX needed (AUD).",
+     "old": false
+    },
+    {
+     "aud_price": 550.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans id 444243",
+     "same_item": "category guide",
+     "note": "WALL BAROMETER - NOT WORKING; 4 bids not recorded, details not checked. Paid locally, not resale. Local database only. No FX needed (AUD).",
+     "old": false
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-06-29",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans id 420749",
+     "same_item": "category guide",
+     "note": "SHIPS WHEEL BAROMETER - MADE IN ENGLAND; likely modern, low-end floor. Paid locally. No FX needed (AUD).",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -8243,21 +9258,40 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Enamel (porcelain) single-sided sign, Mobiloil for Motor-Cycles, BB-D for Racing and Everyday Performance, racing motorcyclist graphic. Vacuum Oil / Mobil, about 1950s. Heavy rust and enamel loss down the left third, rust at corners and edges; right two-thirds graphic bright. Photo shows a plausible aged original (rust bleed, chips at eyelets), no obvious repro tells, but one photo only.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold/completed: Mobiloil BB-D motorcycle enamel sign; also LiveAuctioneers and Invaluable: 'Mobiloil motor-cycles enamel sign'",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 2860.0,
+     "date": "04/07/2024",
+     "venue": "Gowans Auctions, Hobart (lot 19, 0 bids)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/266372/",
+     "same_item": "category guide",
+     "note": "RARE SHELL MOTOR OIL ENAMEL SIGN, different brand and likely different condition; paid locally, not a resale price; page not opened, local database hit only. Unreliable outlier.",
+     "old": false
+    },
+    {
+     "aud_price": 40.0,
+     "date": "20/09/2026",
+     "venue": "Gowans Auctions, Hobart (lot id 439713)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/439713/",
+     "same_item": "category guide",
+     "note": "Mixed vintage garage lot with a Gargoyle Mobiloil B can; not a sign; paid locally; local database only.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9316,21 +10350,50 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Trunk of about five antique dolls: three German-type bisque socket-head sleep-eye dolls (Armand Marseille / Schoenau Hoffmeister type, c.1900-1920), one black-haired glazed china shoulder-head in lace dress, one more in white bonnet. No marks seen, maker unconfirmed.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: 'antique bisque head doll Armand Marseille' and 'antique china head doll lot'; also LiveAuctioneers/Invaluable 'Armand Marseille doll lot' Australian houses.",
    "chrome_done": false,
    "sold": [],
-   "sold_old": [],
+   "sold_old": [
+    {
+     "aud_price": 115.0,
+     "date": "25/06/2013",
+     "venue": "Leski Auctions, Melbourne sale 74 lot 46",
+     "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/74",
+     "same_item": "close",
+     "note": "Single Armand Marseille doll with crying noise c1920. Local database record only, not opened. Over 10 years old. One doll, not a group.",
+     "old": true
+    }
+   ],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 115.0,
+     "date": "2026-02-01",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "gowans lot id 387386",
+     "same_item": "close",
+     "note": "2 Armand Marseille bisque head German dolls. Cost guide only, never resale.",
+     "old": false
+    },
+    {
+     "aud_price": 80.0,
+     "date": "2025-03 to 2026-10",
+     "venue": "Armitage Auctions, Launceston (paid locally)",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088287&chid=28839&category=ALL&style=group",
+     "same_item": "close",
+     "note": "Single Armand Marseille dolls, median about A$80 (e.g. sale 28839 lot 843 A$75, 27619 lot 60 A$110, 23720 lot 11 A$115). Cost guide only. Database record, not opened.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9476,21 +10539,86 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Lot 1106, title SLAB OF SASSAFRAS. The one photo shows three rough-sawn live-edge slabs standing against a shed wall, about 2 m long; the lot is the middle slab (chalk reads 106x/20/11/26). The wood is pale, spalted with dark speckling and some knots, not the dark heart typical of blackheart. Unseasoned, natural edge, checks at ends. Gowans sells these in a continuous series, so supply is regular and prices are low.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: 'tasmanian sassafras slab' and 'blackheart sassafras live edge', plus Gumtree Tasmania and Tasmanian specialty timber dealers' slab prices for kiln-dried equivalents",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 1300.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Island Specialty Timbers (Tasmanian tender price archive)",
+     "url": "https://www.islandspecialtytimbers.com.au/tendering/tender-price-archive",
+     "same_item": "category guide",
+     "note": "Page opened. Raw log tender prices, not slabs. A 2 m x 0.3 m x 0.05 m slab is about 0.03 m3, so roughly $25 to $55 at log rates before milling, drying and a woodworker's margin. Category guide only; rate AUD, no conversion.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 95.0,
+     "date": "2026-08-23",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+blackheart+sassafras&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot id 433073 SLAB OF BLACKHEART SASSAFRAS, 5 bids; top of recent range. Paid locally, not a resale price (comps database result, premium extra).",
+     "old": false
+    },
+    {
+     "aud_price": 92.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+blackheart+sassafras&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot id 441322 SLAB OF BLACKHEART SASSAFRAS, 4 bids. Paid locally, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+blackheart+sassafras&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot id 439726 SLAB OF BLACKHEART SASSAFRAS, 4 bids. Paid locally, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 61.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+blackheart+sassafras&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot id 442924, 7 bids. Paid locally, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-09-13",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+blackheart+sassafras&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot id 438182, 4 bids; typical. About 489 Gowans sassafras results have a median hammer of $40, range about $10 to $95. Paid locally, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 15.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+blackheart+sassafras&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot id 439731, 2 bids; bottom of range. Paid locally, not resale.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9592,21 +10720,67 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Rough sawn live-edge Tasmanian timber slab, probably spalted or blackheart sassafras, roughly 2 m plus long, no dimensions. Species unverified from photo. Same seller lots are routinely titled SLAB OF BLACKHEART SASSAFRAS.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay AU sold listings: 'sassafras slab live edge'; also Tasmanian timber dealer sites for spalted/blackheart sassafras slab asking prices",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 92.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 441322",
+     "same_item": "close",
+     "note": "Slab of blackheart sassafras, top of recent run; local room, paid-locally guide only, not resale. From comps.py, page not opened.",
+     "old": false
+    },
+    {
+     "aud_price": 95.0,
+     "date": "2026-08-23",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 433073",
+     "same_item": "close",
+     "note": "Slab of blackheart sassafras, 5 bids; paid-locally guide only. comps.py, page not opened.",
+     "old": false
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 439726",
+     "same_item": "close",
+     "note": "Slab of blackheart sassafras, 4 bids; paid-locally guide only. comps.py, page not opened.",
+     "old": false
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 442921",
+     "same_item": "close",
+     "note": "Slab of blackheart sassafras; paid-locally guide only. comps.py, page not opened.",
+     "old": false
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot ids 442913, 442918, 442919",
+     "same_item": "close",
+     "note": "Plain SLAB OF SASSAFRAS ($10, $15, $30); paid-locally guide only. comps.py, page not opened.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9679,21 +10853,67 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Rough sawn live-edge Tasmanian timber slab, about 2 m long, dense dark spalting/streaking, chalked 1114 and 20/11/26. Catalogued sassafras; species unconfirmed from photo. Roughly 489 Gowans sassafras slab results in the local database: median $40 hammer, usual range $20-95, best about $120-150 (2026).",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "Search eBay Australia sold listings: 'sassafras slab' and 'blackheart sassafras slab live edge'; also Tasmanian timber dealer sites (e.g. Gumnuts/Tasmanian specialty timber slab listings) for retail asking prices per slab.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 120.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 425209 (local comps database)",
+     "same_item": "close",
+     "note": "SLAB OF BLACKHEART SASSAFRAS, 8 bids, top of recent range. Paid locally, not a resale price. Premium extra. Database record, no photo compared.",
+     "old": false
+    },
+    {
+     "aud_price": 140.0,
+     "date": "2026-04-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 404200 (local comps database)",
+     "same_item": "close",
+     "note": "SLAB OF BLACK HEART SASSAFRAS, 3 bids, highest single slab seen in the database. Paid locally, not a resale price.",
+     "old": false
+    },
+    {
+     "aud_price": 61.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 442924 (local comps database)",
+     "same_item": "close",
+     "note": "SLAB OF BLACKHEART SASSAFRAS, 7 bids, typical recent result. Paid locally, not a resale price.",
+     "old": false
+    },
+    {
+     "aud_price": 92.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 441322 (local comps database)",
+     "same_item": "close",
+     "note": "SLAB OF BLACKHEART SASSAFRAS, 4 bids. Paid locally, not a resale price.",
+     "old": false
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 442919 (local comps database)",
+     "same_item": "close",
+     "note": "SLAB OF SASSAFRAS, 3 bids, plain title. Paid locally, not a resale price.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9708,21 +10928,41 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Rough-sawn live-edge slab sold as Huon pine; pale, fine even grain, about 1.3-1.5 m by 40-45 cm, one bark edge. Species and thickness unconfirmed from one photo.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: 'huon pine slab' (also 'huon pine board live edge'); compare with Tasmanian timber dealer asking prices per slab.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 1100.0,
+     "date": "tender archive page, seen 2026-11-18",
+     "venue": "Island Specialty Timbers tender price archive",
+     "url": "https://www.islandspecialtytimbers.com.au/tendering/tender-price-archive",
+     "same_item": "category guide",
+     "note": "Page opened. Sawmill tender price per cubic metre for Huon pine craft logs, not slabs; low end. A 1.4 m x 0.45 m x 40 mm slab is about 0.025 m3, so roughly $30-110 raw timber value; sawn, dried slabs retail well above this. Guide only.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 155.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Moonah (paid locally)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "Local database, lot id 442693, same title, larger board 1.5-1.8 m. Paid locally, not resale. Recent Gowans SLAB OF HUON PINE hammers cluster $105-155 (e.g. 442694 $135, 442696 $110, 441114 $110, 436520 $140, 434907 $135); older ones $25-62 for smaller or plainer pieces. Gowans median about $55-110.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9737,21 +10977,77 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Rough-sawn live-edge Tasmanian timber slab, about 2 m long, long and narrow with a tapering top and bark on both edges, catalogued as Huon pine. Pale yellow, very close even growth lines consistent with Huon pine or celery-top pine; species not confirmable from photos. Sits between lots 1115 and 1117 which are similar slabs from the same run.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia, Sold items: huon pine slab (also huon pine live edge slab, huon pine board 2m); compare with Tasmanian timber dealer retail listings for Huon pine slabs per m3.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Island Specialty Timbers (Tasmania), tender price archive",
+     "url": "https://www.islandspecialtytimbers.com.au/tendering/tender-price-archive",
+     "same_item": "category guide",
+     "note": "Page opened. Prices accepted in past tenders for raw Huon pine craft logs and pieces, not sawn slabs and not retail. A 2 m x 0.3 m x 0.05 m slab is about 0.03 m3, so raw material value about $35 to $130 before milling and drying. Retail dressed Huon pine sells for much more per m3 but I found no verified retail slab listing. No aud rate needed (AUD). aud_price 0 means not a per-item price.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 90.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444301/",
+     "same_item": "yes",
+     "note": "SLAB OF HUON PINE, id 444301, 4 bids. Found in local results database, page not opened. Same seller run, same catalogue wording. Paid-locally price, not a resale.",
+     "old": false
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444310/",
+     "same_item": "yes",
+     "note": "SLAB OF HUON PINE, id 444310, 1 bid. Local database only. Paid-locally price.",
+     "old": false
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444313/",
+     "same_item": "yes",
+     "note": "SLAB OF HUON PINE, id 444313, 2 bids. Local database only.",
+     "old": false
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444315/",
+     "same_item": "yes",
+     "note": "SLAB OF HUON PINE, id 444315, 1 bid. Local database only.",
+     "old": false
+    },
+    {
+     "aud_price": 50.0,
+     "date": "2025-11 to 2026-09",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab%20of%20huon%20pine",
+     "same_item": "yes",
+     "note": "About 2 m live-edge slabs catalogued SLAB OF HUON PINE, narrow 25 to 45 cm ones at the low end ($26 to $50). Local database only. Typical Gowans hammer for this exact title is about $45 to $90, median across all Huon pine lots $55.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9766,21 +11062,86 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Rough-sawn live-edge timber slab catalogued SLAB OF HUON PINE. Photo shows pale straw timber with fine growth rings, sheared bark edges, pin knots, chalked 1117 and 20/11/26. Species not provable from one photo (could be Huon, celery top or similar pale softwood). Size not given, about 2 m by an estimated 30 to 40 cm wide.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold/completed listings: huon pine slab live edge (also 'huon pine board'); and dealer sites for per-slab retail (e.g. Tasmanian timber dealers, Gumtree) for slabs about 2 m long, 300-400 mm wide",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 1100.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Island Specialty Timbers tender price archive (Forestry Tasmania style supplier price list)",
+     "url": "https://www.islandspecialtytimbers.com.au/tendering/tender-price-archive",
+     "same_item": "category guide",
+     "note": "Page opened (curl). Raw material price per cubic metre, not a slab sale. A slab about 2 m x 0.35 m x 0.05 m is about 0.035 m3, so about $40 to $155 at that rate; dressed, kiln dried retail slabs cost several times more. Shows the timber is not worth hundreds unless wide, thick and figured.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 155.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 442693)",
+     "same_item": "yes",
+     "note": "Single long rough-sawn live-edge slab catalogued SLAB OF HUON PINE, 6 bids; the top of the recent plain-slab range. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale.",
+     "old": false
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 444301)",
+     "same_item": "yes",
+     "note": "SLAB OF HUON PINE, 4 bids. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale.",
+     "old": false
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 444310)",
+     "same_item": "yes",
+     "note": "SLAB OF HUON PINE, 1 bid. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale.",
+     "old": false
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 444304)",
+     "same_item": "yes",
+     "note": "SLAB OF HUON PINE, 4 bids. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale.",
+     "old": false
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lots 444316, 444317)",
+     "same_item": "yes",
+     "note": "SLAB OF HUON PINE, no bids; bottom of range. Local database record, not a page I opened. Paid locally: shows what we might pay, never resale.",
+     "old": false
+    },
+    {
+     "aud_price": 180.0,
+     "date": "date not recorded in database (listed within last 12 months)",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot 403934)",
+     "same_item": "yes",
+     "note": "Wide live-edge board sold as PIECE OF HUON PINE; highest single-slab hammer in the Gowans records (many Gowans slab lots, median about $50-60). Local database record, not a page I opened. Paid locally: shows what we might pay, never resale.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9899,21 +11260,58 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Rough-sawn live-edge timber slab, about 2 m long and roughly 25-30 cm wide, plain close grain, one dark knot; catalogued Huon pine but species unverified from photo. Narrow slab, likely at the low end of the Gowans slab results.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: huon pine slab live edge (and Tasmanian timber dealer pages for Huon pine slabs, price per metre)",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 50.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444301/",
+     "same_item": "yes",
+     "note": "Gowans lot 444301 SLAB OF HUON PINE (4 bids). Snippet only (local database); paid-locally guide, never a resale.",
+     "old": false
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444310/",
+     "same_item": "yes",
+     "note": "Gowans lot 444310 SLAB OF HUON PINE (1 bid). Database only; paid-locally guide.",
+     "old": false
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-09",
+     "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab%20of%20huon%20pine",
+     "same_item": "yes",
+     "note": "Gowans SLAB OF HUON PINE, about 2 m long, 35-45 cm wide, pale yellow, live edge. Database only; paid-locally guide.",
+     "old": false
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2025-11 to 2026-10",
+     "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab%20of%20huon%20pine",
+     "same_item": "close",
+     "note": "Range of same-title Gowans slabs; narrow plain slabs mostly $25-$90. Database summary only; paid-locally guide.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -10090,21 +11488,67 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Lot 1123 is the centre slab of three leaning on corrugated iron (1124 left, 1122 right), chalked 20/11/26. Rough-sawn live-edge slab, pale straw to honey, bark and voids on both edges, ripple figure and some knot clusters. Catalogued SLAB OF HUON PINE; species not verifiable from photo and it could be celery-top or another pale Tasmanian softwood. Size by eye roughly 1.8 to 2 m long and 25 to 35 cm wide (narrower than its neighbours). No description. Gowans sells these routinely under the same title.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: 'huon pine slab' and 'huon pine live edge slab' (Sold items, Australia). Also Gumtree/Facebook Marketplace Tasmania 'huon pine slab' asking prices.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 155.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally: hammer, 19.8% premium extra; not a resale price)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/442693/",
+     "same_item": "yes",
+     "note": "Lot 442693 SLAB OF HUON PINE, 6 bids, single long rough-sawn live-edge slab. Top of the recent Gowans range for the same title. Local database row, page not opened by me.",
+     "old": false
+    },
+    {
+     "aud_price": 90.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally: hammer, 19.8% premium extra; not a resale price)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444301/",
+     "same_item": "yes",
+     "note": "Lot 444301 SLAB OF HUON PINE, 4 bids. Same title, typical mid result. Local database row, page not opened by me.",
+     "old": false
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally: hammer, 19.8% premium extra; not a resale price)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444313/",
+     "same_item": "yes",
+     "note": "Lot 444313 SLAB OF HUON PINE, 2 bids. Same title. Local database row, page not opened by me.",
+     "old": false
+    },
+    {
+     "aud_price": 30.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally: hammer, 19.8% premium extra; not a resale price)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444316/",
+     "same_item": "yes",
+     "note": "Lots 444316 and 444317 SLAB OF HUON PINE, 0 bids each. Low end. Local database row, page not opened by me.",
+     "old": false
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2025-07 to 2026-10",
+     "venue": "Gowans Auctions, Hobart/Moonah (paid locally: hammer, 19.8% premium extra; not a resale price)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=huon+pine+slab&page%5Bnumber%5D=1",
+     "same_item": "yes",
+     "note": "About 870 Gowans/Armitage hits for huon pine slab/piece titles in comps.py; most single slabs $40-$110, a few wide ones $135-$180. Range summary only; mostly one or two bidders, so this is what we might pay. Local database row, page not opened by me.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -10148,21 +11592,50 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Two narrow rough-sawn live-edge timber slabs sold as Huon pine; pale straw, close plain grain, about 2 m or less long, one shorter. Photo is a row of numbered slabs (1123 to 1127) against a shed wall. Species and size cannot be confirmed from one photo.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed listings: 'huon pine slab' and 'huon pine live edge' (Australia only), note length and width of each.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 1100.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Island Specialty Timbers (Tasmanian tender price archive)",
+     "url": "https://www.islandspecialtytimbers.com.au/tendering/tender-price-archive",
+     "same_item": "category guide",
+     "note": "Page opened, text read. Raw material price per cubic metre, a tender list not a sale. A 2 m x 0.2 m x 0.04 m slab is about 0.016 m3, so roughly $18 to $70 raw at these rates; retail slab prices run higher but none was verified. Not a price paid.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 105.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444306/",
+     "same_item": "yes",
+     "note": "Local results database hit, not re-opened. Same title; the 2-slab lots on 11 Oct 2026 ranged $50 to $105 hammer (median about $60). Shows what we might pay, never resale.",
+     "old": false
+    },
+    {
+     "aud_price": 58.0,
+     "date": "2026-08 to 2026-10",
+     "venue": "Gowans Auctions, Hobart (paid locally, not resale)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=2%20slabs%20of%20huon%20pine&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Database summary entries (about $25 to $100 hammer for 2-slab lots). Local room, guide to cost only.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -10235,21 +11708,95 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Single rough-sawn live-edge slab, about 40 cm wide and 2 m long, catalogued as Huon pine. One photo only. Face is a plain, even, orange-tan colour with straight fine grain and a few small knots; the neighbouring slabs are paler. Huon pine is normally pale yellow to golden, so this could be Huon pine with an aged surface, or another softwood or a different species. Not confirmed from the photo.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold and completed listings: 'huon pine slab' and 'huon pine live edge', Australia, last 12 months; also Gumtree/Facebook Marketplace Tasmania Huon pine slab asking prices.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
-   "paid": [],
+   "asking": [
+    {
+     "aud_price": 490.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), Slab 201",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+     "same_item": "close",
+     "note": "Page opened. Dressed old-growth Huon slab, 2650 mm x 340 mm x 45 mm, 30.5 kg. Retail dealer asking price, genuine and graded; the lot is rough, unfinished, with splits and stains, so expect well below this.",
+     "old": false
+    },
+    {
+     "aud_price": 660.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), Slab 223",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+     "same_item": "close",
+     "note": "Page opened. 2500 x 440 x 50 mm, 39.6 kg. Dealer asking price; wider and better selected than the lot.",
+     "old": false
+    },
+    {
+     "aud_price": 205.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Huon Pine Tasmania (huonpine.com.au), Slab 256 (Bargain Basement)",
+     "url": "https://huonpine.com.au/product-category/huonpine/slabs/bargain-basement/",
+     "same_item": "close",
+     "note": "Page opened. 1840 x 430 x 25 mm, has some cracks. Closest dealer comparison for a cracked slab, but only 25 mm thick and dressed. Asking price, not paid.",
+     "old": false
+    },
+    {
+     "aud_price": 1100.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Island Specialty Timbers, tender price archive (craft logs or pieces)",
+     "url": "https://www.islandspecialtytimbers.com.au/tendering/tender-price-archive",
+     "same_item": "category guide",
+     "note": "Page opened (via fetch summary). Raw craft Huon pine by volume, quality dependent. A 2 m x 0.4 m x 0.045 m slab is about 0.036 m3, so roughly $40 to $160 of raw timber. Category guide only; the local database row for this source carries a mismatched description, ignore it.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 155.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1 (lot id 442693)",
+     "same_item": "yes",
+     "note": "From comps.py local database, page not opened. SLAB OF HUON PINE, 6 bids, premium extra. Top of the recent Gowans range. Shows what we might pay, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 140.0,
+     "date": "2026-09-06",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1 (lot id 436520)",
+     "same_item": "yes",
+     "note": "From comps.py, not opened. SLAB OF HUON PINE, 6 bids. Local room, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-10-04",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+huon+pine&page%5Bnumber%5D=1 (lot id 442696)",
+     "same_item": "yes",
+     "note": "From comps.py, not opened. 7 bids. Same family of slabs sold in series, typical hammer range $105 to $155 for 2026 (about 15 lots seen, median about $110 to $120). Local room, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2025-2026 (earlier lots)",
+     "venue": "Gowans Auctions, Hobart (paid locally)",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=huon+pine+slab&page%5Bnumber%5D=8",
+     "same_item": "close",
+     "note": "Some earlier 2 m pale slabs of 35 to 50 cm width went for only $45 to $62. Local database summary, not opened. Not resale.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -10583,21 +12130,67 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Ultraloq Bolt Fingerprint Smart Wi-Fi Deadbolt (keypad, fingerprint, Bluetooth, Wi-Fi) boxed, plus Ultraloq Passage Door Lever boxed, both in an outer carton. Photo shows both retail boxes sealed-looking.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay AU sold/completed: Ultraloq Bolt Fingerprint Wi-Fi deadbolt; also Ultraloq Passage Door Lever; also check new retail at au.u-tec.com, Amazon AU, Bunnings, Kogan",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 30.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/439688/",
+     "same_item": "yes",
+     "note": "ULTRALOQ BOLT FINGERPRINT SMART WIFI DEADBOLT. Paid locally, not a resale price; from local database, page not opened. Premium extra. Lot may not include the passage lever.",
+     "old": false
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-08-03",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/427842/",
+     "same_item": "yes",
+     "note": "ULTRALOQ BOLT FINGERPRINT SMART WIFI DEADBOLT (8 bids). Paid locally, not a resale price; from local database, page not opened. Premium extra. Lot may not include the passage lever.",
+     "old": false
+    },
+    {
+     "aud_price": 60.0,
+     "date": "2026-07-12",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/423638/",
+     "same_item": "yes",
+     "note": "ULTRALOQ BOLT FINGERPRINT SMART LOCK. Paid locally, not a resale price; from local database, page not opened. Premium extra. Lot may not include the passage lever.",
+     "old": false
+    },
+    {
+     "aud_price": 40.0,
+     "date": "2026-09-27",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/440614/",
+     "same_item": "yes",
+     "note": "ULTRALOQ FINGERPRINT SMART DEADBOLT. Paid locally, not a resale price; from local database, page not opened. Premium extra. Lot may not include the passage lever.",
+     "old": false
+    },
+    {
+     "aud_price": 45.0,
+     "date": "2026-05-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/411637/",
+     "same_item": "close",
+     "note": "ULTRALOQ BOLT NFC SMART WIFI DEADBOLT. Paid locally, not a resale price; from local database, page not opened. Premium extra. Lot may not include the passage lever.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -11018,21 +12611,49 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Ducar 7500W open-frame petrol portable generator (yellow engine cover, black/pink frame, wheels, key start) with a Kawasaki sticker on the frame, probably an aftermarket badge on a Chinese-built engine. Running condition unknown. Photo seen: one image.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: 'Ducar 7500W generator' (also 'Ducar generator 7500' and 'Ducar HY7500'); also check ducar.com.au for the new retail price of the 7500W model",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 360.0,
+     "date": "2026-07-12",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "gowans id 423741",
+     "same_item": "close",
+     "note": "GENPOWER SV7000 generator, similar-size cheap open-frame unit. 5 bids. Local room, shows what we might pay only, not resale. Found in local database.",
+     "old": false
+    },
+    {
+     "aud_price": 280.0,
+     "date": "2026-09-13",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "gowans id 438424",
+     "same_item": "close",
+     "note": "Crommelins 5.5kVA petrol generator, 4 bids. Local room, cost guide only.",
+     "old": false
+    },
+    {
+     "aud_price": 200.0,
+     "date": "2026-10-11",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "gowans id 444481",
+     "same_item": "category guide",
+     "note": "Unbranded 'GENERATOR', 5 bids. Local room, cost guide only.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -11105,21 +12726,49 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Photo shows a grey Spencer (American Optical) Cycloptic binocular stereo microscope on a ring stand, a small grey photomicrography camera control box, and a cylindrical Kerr Electromelt jewellery melting furnace with handwritten labels, in a cardboard box. Mid-20th-century jeweller's/lab gear, untested. Microscope is the main value; the furnace is a low-value add-on.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold and completed listings: 'American Optical Spencer Cycloptic stereo microscope' and 'Kerr Electromelt furnace'; also LiveAuctioneers/Invaluable past results for 'Spencer Cycloptic'",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 260.0,
+     "date": "2026-05-03",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "gowans id 406830",
+     "same_item": "category guide",
+     "note": "Paid locally, not a resale price. Lot titled MICROSCOPE, 6 bids, hammer. Only a loose guide, make and type not confirmed.",
+     "old": false
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2026-02-01",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "gowans id 388116",
+     "same_item": "category guide",
+     "note": "Paid locally, not a resale price. Box of scientific microscopes, 4 bids.",
+     "old": false
+    },
+    {
+     "aud_price": 22.0,
+     "date": "2026-06-14",
+     "venue": "Gowans Auctions (Hobart)",
+     "url": "gowans id 416755",
+     "same_item": "category guide",
+     "note": "Paid locally, not a resale price. 2 dissecting microscopes, 2 bids.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -11334,21 +12983,76 @@
    "current_bid": 0.0,
    "bid_count": 2,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Floor-standing two-wheel bandsaw (about 14 inch class) in green paint on matching steel stand with castors, wooden table. Maker rests on the title (Bormac); no badge or model plate legible in the photo. Gowans also sold a BORMAC INDUSTRIAL BAND SAW earlier (listed 26 Aug 2026, no sale price recorded).",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: 'Bormac bandsaw' and 'floor standing bandsaw 14 inch' (Sold items, Australia)",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 180.0,
+     "date": "2026-09-20",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 439842",
+     "same_item": "close",
+     "note": "GARRICK BANDSAW, hammer; paid locally, not a resale price. Local database hit, not opened online.",
+     "old": false
+    },
+    {
+     "aud_price": 320.0,
+     "date": "2026-05-17",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 410842",
+     "same_item": "close",
+     "note": "REXON 1HP 2 SPEED BAND SAW, 16 bids; paid locally, not a resale price. Local database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 125.0,
+     "date": "2026-05-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 412289",
+     "same_item": "category guide",
+     "note": "MAKITA BAND SAW (likely a smaller bench unit), 9 bids; paid locally. Local database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 250.0,
+     "date": "2025-09-10",
+     "venue": "Armitage Auctions, Launceston sale 25573 lot 1715",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2617875&chid=25573&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "CARBA TECH BANDSAW going order; paid locally, not a resale price. Local database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 115.0,
+     "date": "2026-01-21",
+     "venue": "Armitage Auctions, Launceston sale 27047 lot 1710",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2788114&chid=27047&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "EMCO 3 SPEED BANDSAW going order; paid locally. Local database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 400.0,
+     "date": "2026-06-14",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 417331",
+     "same_item": "category guide",
+     "note": "WOOD CUTTING BAND SAW MODEL MJ343B with spare blades, 7 bids; paid locally. Local database hit.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -11639,21 +13343,49 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Makita blue case (BDF456SHE label seen in lot 1338 photo) holding an 18V LXT drill driver (BDF456 style) and 18V impact driver (TD-series), two 18V Li-ion batteries, DC18SD-type charger, Irwin bit set. Used, scuffed.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed: makita 18v drill impact driver 2 batteries charger case (also BDF456 DTD146 / DLX2 kit); filter Australia, used",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 165.0,
+     "date": "2026-02-15",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 390994",
+     "same_item": "close",
+     "note": "Paid locally, not resale. Makita drill and impact driver with charger, batteries and bits, 15 bids. Closest match. Local database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-01-26",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 386263",
+     "same_item": "close",
+     "note": "Paid locally, not resale. Drill, impact driver, charger and only 1 battery, 9 bids. Local database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 75.0,
+     "date": "2026-02-23",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 392660",
+     "same_item": "close",
+     "note": "Paid locally, not resale. Drill and impact driver with battery and charger, 8 bids. Local database hit.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -11900,21 +13632,49 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Boxed Stanley 13-052 plough plane (box reads 10 blade plough plane 13-052, English made, 1970s-80s retail issue in cardboard box with yellow card insert). Common user plane, not a rare Stanley No.45/50; boxed set is the selling point. Blade count unverified (blades in pouch).",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold/completed listings (Australia and UK): 'Stanley 13-052 plough plane' and 'Stanley 10 blade plough plane boxed'; also Gumtree/Facebook Marketplace asking prices.",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 105.0,
+     "date": "2026-05-24",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=plough%20plane&page%5Bnumber%5D=1",
+     "same_item": "close",
+     "note": "Gowans lot 412168 'STANLEY PLOUGH PLANE', 6 bids. Paid locally, not a resale price. Model and box not stated. From local database/API, no rate needed.",
+     "old": false
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2025-09-10",
+     "venue": "Armitage Auctions, Launceston",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2617534&chid=25573&category=ALL&style=group",
+     "same_item": "category guide",
+     "note": "Sale 25573 lot 1371 Stanley #54 plough plane with tongue and groove plane. Paid locally, not resale. Different model.",
+     "old": false
+    },
+    {
+     "aud_price": 130.0,
+     "date": "2026-07-12",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=stanley%2045&page%5Bnumber%5D=1",
+     "same_item": "category guide",
+     "note": "Stanley No.45 combination plane, lot 422814. Better, different model. Paid locally, not resale. $260 on lot 421076 (2026-07-05) was a No.45 in hard case with accessories.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -12132,21 +13892,31 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Antique style cast iron reclining barber's chair with pierced cast footrest, scroll base, worn brown and black leather-type upholstery with brass studs. No maker visible; late 19th or early 20th century look. Koken is the main US maker but nothing here confirms it.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold listings (Australia): antique cast iron barber chair; also Koken barber chair sold, and LiveAuctioneers/Invaluable results for antique cast iron barber chair",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 250.0,
+     "date": "2026-09-06",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 436436",
+     "same_item": "close",
+     "note": "KOKEN BARBERS CHAIR, 5 bids. Paid locally, shows what we might pay, not resale. From local database and Gowans API; condition not checked.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -12190,21 +13960,49 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Telstra (Telecom T logo) Gold Phone coin payphone in orange, 'Payphone now 40 cents' sticker, 10c/20c/50c/$1 slot, Credit display, Follow on button. Complete with handset and cord; key held in office; working order unknown.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay Australia sold listings: 'Telstra Gold Phone payphone' and 'Telecom Gold Phone', plus Leonard Joel / Lawsons results for 'Telecom payphone'",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 230.0,
+     "date": "2026-06-28",
+     "venue": "Gowans Auctions, Hobart (paid locally, 15 bids)",
+     "url": "gowans lot id 419873 (gowansauctions.com.au API lots)",
+     "same_item": "yes",
+     "note": "TELECOM GOLD PHONE - KEY IN OFFICE; same item type. Cost guide only, not resale. From local database, page not opened.",
+     "old": false
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2026-10-18",
+     "venue": "Gowans Auctions, Hobart (paid locally, 9 bids)",
+     "url": "gowans lot id 446001 (gowansauctions.com.au API lots)",
+     "same_item": "yes",
+     "note": "GOLD PHONE PAY PHONE; same item type, condition unknown. Cost guide only, not resale. API result, page not opened.",
+     "old": false
+    },
+    {
+     "aud_price": 55.0,
+     "date": "2026-08-19",
+     "venue": "Armitage Auctions, Launceston sale 28448 lot 1663",
+     "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020839&chid=28448&category=ALL&style=group",
+     "same_item": "close",
+     "note": "VINTAGE PAYPHONE, model unspecified. Cost guide only, not resale. From local database, page not opened.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -13407,21 +15205,49 @@
    "current_bid": 0.0,
    "bid_count": 1,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Yamaha RX-V2085 9.2ch Atmos AV receiver (Aventage-class, DAB+, MusicCast), black, on top of its original carton. Unit appears clean; boxed; untested. Discontinued; Australian RRP $2,699.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold and completed listings: Yamaha RX-V2085 (also RX-A2080 as the near twin)",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 950.0,
+     "date": "28/09/2025 (expired)",
+     "venue": "Stereonet classifieds (Bellevue WA)",
+     "url": "https://www.stereonet.com/forums/classifieds/item/22733-yamaha-rx-v2085-av-receiver/",
+     "same_item": "yes",
+     "note": "Private asking price, excellent working condition with remote, mic, antenna. Page opened. Listing expired, not confirmed sold.",
+     "old": false
+    },
+    {
+     "aud_price": 2699.0,
+     "date": "live, seen 18/11/2026",
+     "venue": "Yamaha Australia (discontinued)",
+     "url": "https://au.yamaha.com/en/audio/home-audio/products/av-receivers-amps/85",
+     "same_item": "yes",
+     "note": "New retail price (RRP) as shown in search snippet only, snippet only; page returned 403. Discontinued, so not buyable new. Shows what the item is, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 1980.0,
+     "date": "2021",
+     "venue": "TopBargains / Harvey Norman",
+     "url": "https://www.topbargains.com.au/yamaha-rxv2085b-9-2-channel-av-receiver-musiccast-1980-save-715-harvey-norman-407581",
+     "same_item": "yes",
+     "note": "Old new-stock retail deal, snippet only (page 403). Not current.",
+     "old": true
+    }
+   ],
    "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -13465,21 +15291,69 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Luxman R-1040 solid state AM/FM stereo receiver, c.1977-78, rosewood-look cabinet, with original manual and Lux Corporation Japan carton. Very clean faceplate. Working order not stated.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay sold and completed listings: Luxman R-1040 (also 'Luxman 1040 receiver box'), last 90 days, on ebay.com.au and ebay.com",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "paid": [],
+   "unsold": [
+    {
+     "aud_price": 52.0,
+     "date": "seen 2026-11-18",
+     "venue": "Catawiki",
+     "url": "https://www.catawiki.com/en/l/100130952-luxman-r-1040-solid-state-stereo-receiver",
+     "same_item": "yes",
+     "note": "Snippet only (page 403). Live and early, not a result; weak signal. Rate 1 EUR = 1.75 AUD.",
+     "old": false
+    }
+   ],
+   "asking": [
+    {
+     "aud_price": 455.0,
+     "date": "2023-2025",
+     "venue": "HiFiShark aggregator (Marktplaats EUR 725 top)",
+     "url": "https://hifishark.com/model/luxman-r-1040",
+     "same_item": "yes",
+     "note": "Snippet only. aud_price is the low end (EUR 260); high end about AUD 1270. Asking prices, none boxed, mostly overseas.",
+     "old": true
+    },
+    {
+     "aud_price": 440.0,
+     "date": "2023-2025",
+     "venue": "HiFiShark (Canadian listing)",
+     "url": "https://hifishark.com/model/luxman-r-1040",
+     "same_item": "yes",
+     "note": "Snippet only. Rate 1 CAD = 1.10 AUD.",
+     "old": true
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 310.0,
+     "date": "2026-08-23",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "https://www.gowansauctions.com.au/ gowans id 433127",
+     "same_item": "close",
+     "note": "Luxman L-200 amplifier, different model, no box mentioned. Local room, a guide to what we might pay, not resale. From local database.",
+     "old": false
+    },
+    {
+     "aud_price": 310.0,
+     "date": "2026-02-23",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "https://www.gowansauctions.com.au/ gowans id 392683",
+     "same_item": "category guide",
+     "note": "Pair of Luxman amps L235 and L-1, as is. Local room guide only. From local database.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -13494,31 +15368,59 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": "Bridgestone Potenza 205/45R16 87W x4 (priced as Adrenalin RE003, exact Potenza model not read)",
+   "identification": "Set of four Bridgestone Potenza tyres (likely Adrenalin RE003), 205/45R16 87W, used with visibly worn tread and dirty. Exact Potenza model and tread depth not readable from the one photo.",
    "researched": true,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: 205/45R16 Bridgestone Potenza used tyres; also Gumtree Tasmania 205/45 16 tyres",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
    "unsold": [],
    "asking": [
     {
-     "aud_price": 1199.96,
-     "date": "current",
+     "aud_price": 299.99,
+     "date": "live, seen 2026-11-18",
      "venue": "Costco Australia",
-     "url": "https://www.costco.com.au/Automotive/Tyres/Bridgestone-20545R16-87W-Potenza-Adrenalin-RE003/tire/p/34857",
+     "url": "https://www.costco.com.au/Tyres-Automotive/Tyres/Bridgestone-20545R16-87W-Potenza-Adrenalin-RE003/tire/p/34857",
      "same_item": "yes",
-     "note": "new retail price, not a resale price. Seen 2026-11-18: $299.99 incl GST per tyre (page unclear if per tyre), x4 = $1199.96. Exact Potenza model on sidewall unknown, so may be a different line; fitting excluded.",
+     "note": "New retail price, RE003 205/45R16 87W (about $1,200 for four; 4 for 3 promotion shown). Snippet only. Shows what the item is, never a resale.",
+     "old": false
+    },
+    {
+     "aud_price": 964.0,
+     "date": "May sale, date unclear",
+     "venue": "Motorsport Wheels and Tyres (mswt.com.au)",
+     "url": "https://mswt.com.au/tyre/bridgestone/POTENZA-ADRENALIN-RE003/205-45R16/11002927",
+     "same_item": "yes",
+     "note": "New tyres, sale order summary, snippet only, unverified. Shows new price only.",
      "old": false
     }
    ],
-   "paid": [],
+   "paid": [
+    {
+     "aud_price": 160.0,
+     "date": "2026-06-21",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "gowans id 418658",
+     "same_item": "close",
+     "note": "4 Potenza 215/40R18, 2 bids; paid locally, not a resale price. Different size, condition unknown. Local database hit.",
+     "old": false
+    },
+    {
+     "aud_price": 110.0,
+     "date": "2026-05-03",
+     "venue": "Gowans Auctions (Hobart), paid locally",
+     "url": "gowans id 407584",
+     "same_item": "category guide",
+     "note": "4 Starfire 205/55R16, cheaper brand, rims damaged; paid locally, not resale. Local database hit.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -14275,21 +16177,96 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "20/11/2026 09:30:00 AM AEDT",
-   "identification": null,
-   "researched": false,
-   "needs_chrome": false,
-   "chrome_hint": "",
+   "identification": "Haier heat pump clothes dryer, panel reads 'Heat pump 7kg' (title says 6kg). Likely Haier 300 Series 7kg, HDHPS70LW1 or HDHP70LCW2 (model label unreadable). New RRP about $899 to $999.",
+   "researched": true,
+   "needs_chrome": true,
+   "chrome_hint": "eBay.com.au sold listings: Haier 7kg heat pump dryer (HDHPS70LW1 or HDHP70LCW2), used",
    "chrome_done": false,
    "sold": [],
    "sold_old": [],
-   "unsold": [],
-   "asking": [],
-   "paid": [],
+   "unsold": [
+    {
+     "aud_price": 429.0,
+     "date": "closed, seen 2026-11-18",
+     "venue": "Evans Clarke, Woodville North SA",
+     "url": "https://www.evansclarke.com.au/detail.aspx?id=1912708",
+     "same_item": "yes",
+     "note": "Haier 7kg HDHPS70LW1, new/ex-display/scratch-and-dent stock, RRP $999. Passed in with 0 bids at a $429 start. Ceiling signal. Page opened.",
+     "old": false
+    },
+    {
+     "aud_price": 296.0,
+     "date": "closed, seen 2026-11-18",
+     "venue": "Evans Clarke, Woodville North SA",
+     "url": "https://www.evansclarke.com.au/detail.aspx?id=1874032",
+     "same_item": "category guide",
+     "note": "Haier 7kg sensor VENTED dryer HDV70AWW1, RRP $689, 0 bids. Not heat pump. Page opened.",
+     "old": false
+    }
+   ],
+   "asking": [
+    {
+     "aud_price": 857.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Appliances Online",
+     "url": "https://www.appliancesonline.com.au/product/haier-7kg-300-series-heat-pump-dryer-white-hdhp70lcw2/",
+     "same_item": "close",
+     "note": "New retail price, Haier 300 Series 7kg heat pump HDHP70LCW2, 2yr warranty. Page opened.",
+     "old": false
+    },
+    {
+     "aud_price": 697.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Rick Hart Outlet",
+     "url": "https://rickhartoutlet.com.au/products/haier-300-series-7kg-heat-pump-dryer-hdhps70lw1",
+     "same_item": "yes",
+     "note": "New retail price, HDHPS70LW1. Snippet only.",
+     "old": false
+    },
+    {
+     "aud_price": 532.0,
+     "date": "live, seen 2026-11-18",
+     "venue": "Home Clearance",
+     "url": "https://www.homeclearance.com.au/p/haier-7kg-heat-pump-dryer-hdhps70lw1-0007952123",
+     "same_item": "yes",
+     "note": "New and cosmetic-imperfection HDHPS70LW1 units, 2yr warranty on new. Dealer asking, snippet only.",
+     "old": false
+    },
+    {
+     "aud_price": 536.0,
+     "date": "live, seen 2026-11-18 (sold out)",
+     "venue": "Brisbane Whitegoods",
+     "url": "https://brisbanewhitegoods.com.au/products/haier-hdhps70lw1_bne-7kg-heat-pump-dryer",
+     "same_item": "yes",
+     "note": "Factory second HDHPS70LW1, 1yr warranty. Snippet only.",
+     "old": false
+    }
+   ],
+   "paid": [
+    {
+     "aud_price": 210.0,
+     "date": "2026-08-30",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 434956",
+     "same_item": "close",
+     "note": "Haier heat pump 8kg dryer, 10 bids. Paid locally, not a resale price. Result from local database.",
+     "old": false
+    },
+    {
+     "aud_price": 170.0,
+     "date": "2026-07-19",
+     "venue": "Gowans Auctions, Hobart",
+     "url": "gowans lot id 425258",
+     "same_item": "category guide",
+     "note": "HAIER DRYER, 5 bids, type unknown (probably vented). Paid locally, not a resale price.",
+     "old": false
+    }
+   ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "NOT RESEARCHED",
-   "why": "no market file",
+   "status": "CHROME",
+   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
    "age_note": "",
    "trend": "",
    "priority": false
