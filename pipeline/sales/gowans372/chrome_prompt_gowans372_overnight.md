@@ -1,6 +1,6 @@
 # Overnight Chrome price check: Gowans Weekly Friday Auction GA201126 (sale 372)
 
-For a Claude Desktop session on Andy's computer, with Claude in Chrome turned on. **Run it on Opus 5.5** (pick it in the model menu first). This one prompt is all you need. You have all night.
+For a Claude Desktop session on Andy's computer, with Claude in Chrome turned on. **Run it on Opus 5.5** (pick it in the model menu first). This one prompt is all you need. There is no time limit: run until every lot is done.
 
 The sale: Gowans Auctions, Hobart. Viewing Thursday 19 Nov 9:00 am to 5:30 pm. **Online absentee bids close 9:30 am Friday 20 Nov (Hobart time).** Buyer's premium 19.8% incl GST. 229 lots to check: **every book lot** (59, Part A), **every art lot** (64, Part B), and 106 other lots the cloud scan flagged (Part C).
 
@@ -16,7 +16,7 @@ Andy won't be at the computer, so don't ask him for anything and never wait for 
 
 ## How to run it
 
-- Do the parts **in order: A (books), B (art), C (everything else, best prospects first)**. Andy's orders for this sale: **every title in every book lot, and every single artwork, must be checked.** Parts A and B are not optional and must be finished before Part C. If you run out of night, stop part way through Part C and hand back what is done.
+- Do the parts **in order: A (books), B (art), C (everything else, best prospects first)**. Andy's orders for this sale: **every title in every book lot, and every single artwork, must be checked.** Parts A and B are not optional and must be finished before Part C. There is no time limit: keep going until every lot in all three parts is done, however long it takes.
 - Give each sub-agent **5 lots**. Run up to 3 at once, each in its own Chrome tab, started a few minutes apart.
 - **Step A before Step B for every lot**: open every photo full size and zoom in, Google any maker's marks, signatures, labels, model numbers or hallmarks (use Google Lens if there are none), and write `identification`, `photos_seen`, `marks_seen` and `google_searches` into the file **before** any price search. Price searches use your identification, not the catalogue title. The "cloud scan says" line is a hint, not a fact: check it against the photos.
 - **Books (Part A):** read every spine and cover in every photo and list **every** title in the lot, one row each in `titles` (title, author, publisher and date if visible). Every readable title gets its own search and its own verdict, even ones that look common. A book is only worth more work if its first edition can sell for hundreds or thousands; if the first edition is worth little, say so in one line and move on. For a box of books, the lot's value is the sum of the titles worth selling. Note any spine you could not read and anything Andy must check at the viewing (copyright page, edition, jacket).
@@ -25,11 +25,11 @@ Andy won't be at the computer, so don't ask him for anything and never wait for 
 - **Early check:** when the first agent has saved its first 3 lots, read them. Each must show photos viewed, an identification from the photos, and dated SOLD prices with links (or a clear note of what was searched and found nothing). If not, stop, say what was missing, and restart. Check every finished chunk the same way and put failing lots back on the to-do list.
 - An agent that can't do its lots properly should **stop and say so** rather than hand back a thin file.
 - Agents save after every lot and append a line to `results_gowans372/progress.txt`.
-- **Post a one-line update in this chat about every 5 minutes** (Andy likes to watch), such as "Part A: 6 of 16 done. Lot 334 Jubilee History of Tasmania, 4 sales $250-400." Keep `results_gowans372/PROGRESS.md` up to date.
+- **Post a one-line update in this chat about every 5 minutes, for the whole run, never skipping** (Andy is watching from his phone), such as "Part A: 6 of 16 done. Lot 334 Jubilee History of Tasmania, 4 sales $250-400." Keep `results_gowans372/PROGRESS.md` up to date.
 - **Searches:** if your built-in web search stops working, carry on searching in Chrome tabs (Google, eBay, auction sites' own search pages). Never fall back to guessing.
 - Wait at least 10 seconds between eBay or Terapeak page loads. If eBay shows a bot check ("Pardon our interruption"), stop using eBay for 10 minutes and use the other sites, then try again. If it keeps happening, drop to 2 agents.
 - **Resume:** if a `results_gowans372` folder from an earlier attempt of this prompt exists, skip lots that pass the early check.
-- When done (or at 7 am Hobart time, whichever is first), zip the `results_gowans372` folder as `gowans372_overnight_results.zip`, and post the **morning summary** in this chat as plain text for Andy's phone.
+- Run until every lot is done (no time limit). At 7 am Hobart time, if still running, post an interim morning summary in the chat and carry on. When everything is done, zip the `results_gowans372` folder as `gowans372_overnight_results.zip`, and post the **morning summary** in this chat as plain text for Andy's phone.
 
 ## Money rules (for the summary)
 
