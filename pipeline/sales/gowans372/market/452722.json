@@ -1,0 +1,67 @@
+{
+ "cdid": 452722,
+ "lot": 1390,
+ "identification": "Short live-edge slab of pale golden timber, about 1.2 m long and 20-25 cm wide, catalogued Huon pine. Large knot and void near the top, checking along the face, bark loss on live edge. Photo cannot confirm species; Gowans has sold many similar 'Huon pine' slabs, mostly plain pale pieces that look more like celery top or similar. Timber is narrow and defective.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$155 hammer",
+   "currency": "AUD",
+   "aud_price": 155,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart (Moonah)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot id 442693)",
+   "same_item": "close",
+   "note": "SLAB OF HUON PINE, long live-edge, 6 bids; top of the recent Gowans run. Paid locally, not a resale price. From local database (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$135 hammer",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart (Moonah)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot id 442694)",
+   "same_item": "close",
+   "note": "SLAB OF HUON PINE, 7 bids. Paid locally, not a resale price. From local database (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart (Moonah)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot id 444301)",
+   "same_item": "close",
+   "note": "SLAB OF HUON PINE, 4 bids. Paid locally, not a resale price. From local database (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55 hammer",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart (Moonah)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab+of+huon+pine&page%5Bnumber%5D=1 (lot id 444304)",
+   "same_item": "close",
+   "note": "SLAB OF HUON PINE, 4 bids; Gowans median for Huon slabs is about $55-75. Paid locally, not a resale price. From local database (page not opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$1,100 to $4,400 per m3 accepted tender prices",
+   "currency": "AUD",
+   "aud_price": 1100,
+   "date": "undated (page seen 2026-11-18)",
+   "venue": "Island Specialty Timbers, past tender prices",
+   "url": "https://www.islandspecialtytimbers.com.au/tendering/tender-price-archive",
+   "same_item": "category guide",
+   "note": "Page opened. Accepted prices from past tenders for Huon pine craft logs or pieces, per cubic metre, undated, depends on grain and birdseye. Raw material price, not a finished slab. A slab about 1.2 m x 0.22 m x 0.05 m is roughly 0.013 m3, so this implies only tens of dollars at the low end; weak guide. The local database lists it as 1,100 which is per m3, not per lot."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) with 'huon pine slab' and 'huon pine': many Gowans slab hits, no true resale hits (the one 'resale' hit, Island Specialty Timbers, is per m3; the Colville $2,300 hit is a painting, irrelevant). WebSearch budget was exhausted so no web comps for dealer or other-house slab sales; WebFetch of Island Specialty Timbers worked; two curl attempts at Tasmanian timber dealer search pages returned nothing. eBay sold listings for 'huon pine slab' would settle resale and need Chrome.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: 'huon pine slab live edge' and 'huon pine board 1200mm' (sold items, last 90 days)",
+ "viewing_check": "Confirm species: scent (sweet, oily Huon smell), fine tight grain, colour change on a fresh scrape. Check size and thickness, how deep the void and checks go, whether the slab is flat, and any end splits or insect damage. Photograph the end grain and the back.",
+ "rate_note": "All AUD, no conversion."
+}

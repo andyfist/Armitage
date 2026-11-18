@@ -1,0 +1,100 @@
+{
+ "cdid": 452456,
+ "lot": 1124,
+ "identification": "Rough-sawn live-edge timber slab, catalogued SLAB OF HUON PINE, about 2 m long, 35-40 cm wide, long split down the length. Pale yellow close grain is consistent with Huon pine or celery-top pine; species not confirmable from the photo. Sits next to lots 1123 (wider, darker, likely myrtle or similar) and 1126.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$155 hammer",
+   "currency": "AUD",
+   "aud_price": 155,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/442693/",
+   "same_item": "yes",
+   "note": "Gowans lot 442693 'SLAB OF HUON PINE', long rough-sawn live-edge slab, 6 bids; top of the recent Gowans range. Local database hit, premium extra; shows what we might pay only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$90 hammer",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/444301/",
+   "same_item": "yes",
+   "note": "Gowans lot 444301 'SLAB OF HUON PINE', 4 bids. Same sale run also had 444310 at $90, 444314 $75, 444313 $60, 444304 $55, 444315 $50, 444318 $45, 444316 and 444317 at $30 (0 bids). Local database hit, premium extra; shows what we might pay only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=slab%20of%20huon%20pine",
+   "same_item": "close",
+   "note": "Typical Gowans single 'SLAB OF HUON PINE' result: median about $50-55 across roughly 870 local Gowans/Armitage hits. Wide range $25 to $180, depends on width and length. Local database hit, premium extra; shows what we might pay only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$205",
+   "currency": "AUD",
+   "aud_price": 205,
+   "date": "live, seen 2026-11-18",
+   "venue": "Huon Pine Tasmania (dealer)",
+   "url": "https://www.huonpine.com.au/product-category/huonpine/slabs/bargain-basement/",
+   "same_item": "close",
+   "note": "Page opened. Huon Slab 256, 1840 x 430 x 25 mm, has some cracks, bargain basement. Closest condition match (cracked), but dealer slab is dressed to a thickness and measured; asking price only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$350",
+   "currency": "AUD",
+   "aud_price": 350,
+   "date": "live, seen 2026-11-18",
+   "venue": "Huon Pine Tasmania (dealer)",
+   "url": "https://www.huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+   "same_item": "close",
+   "note": "Page opened. Huon slab 123, 2950 x ~400 x 25 mm, natural edges with bumps. Similar length and width to the lot, thin."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$490",
+   "currency": "AUD",
+   "aud_price": 490,
+   "date": "live, seen 2026-11-18",
+   "venue": "Huon Pine Tasmania (dealer)",
+   "url": "https://www.huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+   "same_item": "close",
+   "note": "Page opened. Slab 201, 2650 (3100) x 340 x 45 mm. Good-grade dealer slab, probably cleaner than the cracked lot."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$660",
+   "currency": "AUD",
+   "aud_price": 660,
+   "date": "live, seen 2026-11-18",
+   "venue": "Huon Pine Tasmania (dealer)",
+   "url": "https://www.huonpine.com.au/product-category/huonpine/slabs/huonpine-slabs-normal/",
+   "same_item": "category guide",
+   "note": "Page opened. Slab 223, 2500 x 440 x 50 mm. Wider and thicker than the lot."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$1,100 to $4,400 per m3",
+   "currency": "AUD",
+   "aud_price": 1100,
+   "date": "live, seen 2026-11-18",
+   "venue": "Island Specialty Timbers tender price archive (log/craft piece prices accepted)",
+   "url": "https://www.islandspecialtytimbers.com.au/tendering/tender-price-archive",
+   "same_item": "category guide",
+   "note": "Page opened. Prices accepted for Huon pine craft logs or pieces per cubic metre, undated, raw logs not slabs. Labelled ASKING to keep it out of any maximum; it shows raw timber value only. aud_price is the low end per m3. A slab of about 2 x 0.38 x 0.04 m is roughly 0.03 m3, so raw value is tiny; dealers add milling, drying and margin."
+  }
+ ],
+ "searches_tried": "Local comps.py x3 (huon pine slab; huon pine; huon slab, plus --min-price 300). WebSearch refused (budget used up), so none run. Direct fetches: huonpine.com.au slab categories (normal and bargain basement), islandspecialtytimbers.com.au tender price archive. No SOLD resale at other auction houses found. Gowans AUD rate n/a. eBay sold listings (Huon pine slab, Tasmania) would settle resale; Gumtree/Facebook asking prices also relevant. Two local-DB 'resale comps' at $1,100/$2,300 were mismatched (different, larger boards or log prices), ignored.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: 'huon pine slab' and 'huon pine live edge', Australia only, last 12 months; also Gumtree 'huon pine slab'.",
+ "viewing_check": "Smell a fresh cut or scraped edge (Huon pine has a strong sweet oil aroma; celery-top and others do not). Photograph the end grain showing very fine, close rings, measure length, width and thickness, and check how far the split runs and whether it goes right through. A thickness under 30 mm limits table use.",
+ "rate_note": "All prices AUD, no conversion."
+}

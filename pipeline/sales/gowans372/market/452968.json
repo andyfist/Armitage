@@ -1,0 +1,89 @@
+{
+ "cdid": 452968,
+ "lot": 1636,
+ "identification": "Rover Easy Trim Xtra self-propelled 4 stroke petrol mower, Rover 800 series OHV Easy Pull engine, with catcher. Used, untested.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$82 hammer",
+   "currency": "AUD",
+   "aud_price": 82,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 438288",
+   "same_item": "yes",
+   "note": "ROVER EASY TRIM LAWN MOWER, 5 bids; same model line. Paid locally, not a resale price; premium extra. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50 hammer",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 444485",
+   "same_item": "close",
+   "note": "ROVER MULCHING MOWER. Paid locally, not a resale price; premium extra. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 hammer",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 440049",
+   "same_item": "close",
+   "note": "ROVER 4 STROKE MOWER WITH CATCHER. Paid locally, not a resale price; premium extra. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$51 hammer",
+   "currency": "AUD",
+   "aud_price": 51,
+   "date": "2026-02-01",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 388221",
+   "same_item": "close",
+   "note": "BBQ & ROVER 800 MOWER, 2 bids, mixed lot, 800 engine. Paid locally, not a resale price; premium extra. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$240 hammer",
+   "currency": "AUD",
+   "aud_price": 240,
+   "date": "2026-03-16",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 397513",
+   "same_item": "close",
+   "note": "ROVER 4 STROKE MOWER & CATCHER, 0 bids, outlier, possibly a high reserve or different item. Paid locally, not a resale price; premium extra. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$110 hammer",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions, Launceston sale 28842 lot 1912",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089082&chid=28842&category=ALL&style=group",
+   "same_item": "close",
+   "note": "ROVER PETROL LAWNMOWER WITH CATCHER. Paid locally, not a resale price; premium extra. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60 hammer",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-06-17",
+   "venue": "Armitage Auctions, Launceston sale 28016 lot 1835",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2946898&chid=28016&category=ALL&style=group",
+   "same_item": "close",
+   "note": "ROVER 4 STROKE LAWNMOWER & CATCHER. Paid locally, not a resale price; premium extra. Database record only, page not opened."
+  }
+ ],
+ "searches_tried": "Local comps.py (both databases) with rover mower, rover easy trim, rover mower --min-price 50 --years 2: only Gowans and Armitage paid-locally hits, median about $50, Easy Trim $82. Gowans API search 'rover easy trim' gave the same single lot. WebSearch refused (budget used up for the turn), so no web searches done. Bunnings and rover.com.au returned HTTP 403, so no new retail price found. No resale (non-local) price, UNSOLD or new retail ASKING entry obtained. eBay sold listings (Rover Easy Trim 800 mower, sold) would settle resale; Gumtree/Facebook asking prices also useful.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: 'Rover Easy Trim Xtra 800 mower' (also 'Rover 800 series self propelled mower'); plus Gumtree Tasmania asking prices and Bunnings/rover.com.au for new retail price.",
+ "rate_note": "All prices AUD, no conversion.",
+ "viewing_check": "Check the engine pulls over and has compression, blade and deck not rusted through or cracked, catcher intact, self-propel drive works, and the model plate (Easy Trim Xtra, engine size) for age."
+}

@@ -1,0 +1,34 @@
+{
+ "cdid": 452826,
+ "lot": 1494,
+ "identification": "Blue tub: two boxed Lind 85W-class vehicle (automobile) adapters for Panasonic Toughbook (PA1555-xxxx series, last digits unclear), two Lenovo ThinkCentre Tiny style mini PCs, boxed Sirocco fan, compact camera, cases, router box. Second box: about 20 TV remotes and a mouse (near zero value).",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "USD 235.62",
+   "currency": "USD",
+   "aud_price": 360,
+   "date": "live, seen 2026-11-18",
+   "venue": "Lind Electronics (maker, new)",
+   "url": "https://lindelectronics.com/product/pa1555-2148/",
+   "same_item": "close",
+   "note": "New retail from maker, page opened (search results list). PA1555 series 85W auto adapters list USD 133.87 to 403 depending on suffix; exact suffix on the lot unknown. New price, not resale; used boxed units resell far lower."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 133.87",
+   "currency": "USD",
+   "aud_price": 205,
+   "date": "live, seen 2026-11-18",
+   "venue": "Lind Electronics (maker, new)",
+   "url": "https://www.lindelectronics.com/?s=PA1555-8&post_type=product",
+   "same_item": "close",
+   "note": "New retail, lowest PA1555 suffixes (-968, -655) at USD 133.87, page opened. New retail price shown for what the item is, not resale. Output spec 16V 5.5A (88W) not confirmed against any listed product."
+  }
+ ],
+ "rate_note": "USD to AUD at 1.53 (assumed approximate rate, not verified today). No AUD conversion of retail includes GST or shipping.",
+ "searches_tried": "comps.py (pipeline and work) for lind toughbook, lind adapter, thinkcentre tiny, panasonic adapter: no hits. Gowans API lind adapter/thinkcentre/toughbook: no sold hits. WebSearch cap reached, so no web searches ran. WebFetch of lindelectronics.com site search (opened). No SOLD or UNSOLD resale comps found. eBay sold listings for Lind PA1555 and Lenovo ThinkCentre M7xx Tiny would settle it.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay Australia sold listings: 'Lind PA1555 Panasonic Toughbook car adapter' and 'Lenovo ThinkCentre Tiny M73 M710q M900' (Sold items, Australia)",
+ "viewing_check": "Read the exact Lind part number on both box labels (PA1555-xxxx) and confirm units are inside. Read the Lenovo Tiny model label (M73, M710q, M900 etc), check for RAM, SSD and power adapters (usually missing, which cuts value). Check the camera and Sirocco fan model."
+}

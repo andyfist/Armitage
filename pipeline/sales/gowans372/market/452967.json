@@ -1,0 +1,42 @@
+{
+ "cdid": 452967,
+ "lot": 1635,
+ "identification": "Sanli (Australian-sold Chinese-made brand) blue steel-deck push mower, black 4-stroke OHV engine (~125-140cc class), fabric catcher bag with Sanli logo. Likely one of Bull Ant, Red Back, Lazer Cut or Power Mulch families (Sanli site lists these as 125-140cc OHV 4-stroke); exact model not legible. Not self-propelled as far as the photo shows. Entry-level mower.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$5 hammer",
+   "aud_price": 5,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 421785",
+   "same_item": "close",
+   "note": "Sanli Lawn Beetle, no catcher, probably a different (cheaper) model; paid-locally only, not resale. Seen in local database and Gowans API (sale_price 500 cents, 0 bids)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$10 hammer",
+   "aud_price": 10,
+   "date": "2026-02-11",
+   "venue": "Armitage Auctions, Launceston sale 27197 lot 2030",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2811148&chid=27197&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Sanli petrol lawnmower, little detail; paid-locally only, not resale. From local database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$240 hammer",
+   "aud_price": 240,
+   "date": "2026-03-16",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 397513",
+   "same_item": "category guide",
+   "note": "Rover 4 stroke mower & catcher, different brand (Rover is a stronger brand); paid-locally only, not resale. From local database."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for sanli mower and 4 stroke mower catcher; Gowans API search 'sanli' (3 lots: two Lawn Beetle, plus this lot, 3 bids so far); sanli.com.au home, range and push-mowers pages opened (specs, no prices, no new retail price listed). WebSearch budget was exhausted so no web comps, no resale SOLD or UNSOLD found, no retailer new price found. eBay sold listings (Sanli 4 stroke mower catcher) and Gumtree/Facebook would settle resale; eBay is closed to us. Resale is probably low: used entry-level 4-stroke mowers typically a modest sum, unverified.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold and completed listings: 'Sanli 4 stroke lawn mower catcher'; also Sanli dealer new price (Bunnings/Sanli dealer) for Bull Ant / Red Back 140cc.",
+ "viewing_check": "Photograph the engine and mower deck for the model name decal (Bull Ant, Red Back, Lazer, Power Mulch) and engine cc; check it starts and pull-cord compresses, deck rust, catcher condition, and whether it is self-propelled (drive lever).",
+ "rate_note": "All AUD, no conversion."
+}
