@@ -1,0 +1,45 @@
+{
+ "cdid": 452003,
+ "lot": 522,
+ "identification": "Commodore Amiga CD32 (PAL, 1993) console in an outer carton marked Commodore Amiga CD32, with consumer information booklet, original controller, PSU, AV leads and what looks like a second item (a round pad or mouse-like device) in the bag. Photo 1 only; no serial, no region label visible. Untested.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "NZD 320 hammer plus premium",
+   "currency": "NZD",
+   "aud_price": 288,
+   "date": "Feb 2025 (month from search snippet)",
+   "venue": "Haywards Auctions, NZ (auction 164)",
+   "url": "https://www.haywards.co.nz/auctions/164/catalogue/0782",
+   "same_item": "close",
+   "note": "Untested CD32 with PSU, 2 controllers, cables and 5 boxed games, no console box. Snippet only (page would not open, 404). Rate used NZD 1 = AUD 0.90 (assumed). Not Australian, not verified."
+  },
+  {
+   "kind": "ASKING",
+   "price": "USD 1,754.51 CIB / 726.19 loose / 3,509 new",
+   "currency": "USD",
+   "aud_price": 2667,
+   "date": "live, seen 2026-11-18",
+   "venue": "PriceCharting (Amiga CD32 System, NTSC listing)",
+   "url": "https://pricecharting.com/console/amiga-cd32",
+   "same_item": "category guide",
+   "note": "Page opened. Aggregated eBay and marketplace sales averages, not one sale; NTSC US page, mostly US dollar pricing and dominated by few sales. CIB AUD figure at rate 1 USD = AUD 1.52 (assumed). An earlier snippet showed CIB about USD 1,058 on a different page, so the guide is unstable. Treat as ceiling only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "GBP 420 (sold-style figure in snippet, tested, very good)",
+   "currency": "GBP",
+   "aud_price": 830,
+   "date": "unknown",
+   "venue": "eBay.de listing (Australian-seller and UK items in snippets)",
+   "url": "https://www.ebay.de/itm/187442975883",
+   "same_item": "category guide",
+   "note": "Snippet only, date and sale status unverified, so recorded as ASKING not SOLD. Rate GBP 1 = AUD 1.98 (assumed). Tested working consoles clearly sell for more than untested."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline and work) for amiga cd32 and commodore console: no resale comps. WebSearch x3 (boxed CD32 sold Australia, auction hammer CIB, Australian houses): no Australian auction console result found. PriceCharting console page opened. Haywards page 404 on fetch. eBay sold listings would settle it best: not reachable.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay.com.au sold and completed items: 'Commodore Amiga CD32 console' (also 'CD32 console untested', 'CD32 boxed'), last 12 months; compare working vs untested/for parts.",
+ "viewing_check": "Photograph the console underside (serial, PAL label), check the box end label and condition, open the lid for disc tray and laser, look for battery or capacitor leakage on any visible board, check the controller buttons and cable, and confirm what the round pad item is. Ask if it can be powered on; also check whether the box is the original retail box or a plain carton with a printed end.",
+ "rate_note": "Assumed rates: USD 1.52, GBP 1.98, NZD 0.90 to AUD."
+}
