@@ -1,0 +1,56 @@
+{
+ "cdid": 3137127,
+ "lot": 815,
+ "identification": "Grand Old Parr De Luxe Scotch Whisky 12 years, 43%, 750ml bottle with 75cl gold box, Greenlees neck foil. Likely 1980s Australian-market export bottling. Sealed, good fill, box lightly worn.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$180 (hammer, as printed in database)",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2025-05-28",
+   "venue": "Armitage Auctions, Launceston sale 24110 lot 655 (paid locally: what we might pay, NOT a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2512848&chid=24110&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Database hit only, not opened. 'Bottle of Old Parr Scotch Whisky', age statement, box and fill not shown. Local room result, shows cost only, never sets resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$227 (hammer as printed, already AUD in database)",
+   "currency": "AUD",
+   "aud_price": 227,
+   "date": "2019-09-10",
+   "venue": "whisky.auction lot 713",
+   "url": "https://whisky.auction/auctions/lot/64734/cardhu-12-year-old",
+   "same_item": "category guide",
+   "note": "Database hit only, not opened. Cardhu 12 yo pure malt, 750ml 43%, boxed, 1980s. A single malt, so likely worth more than a blend like Old Parr 12; use as a ceiling guide for a boxed 1980s 12 yo. No rate applied, database shows AUD. Older than most data (7 years)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$115 (as printed, AUD)",
+   "currency": "AUD",
+   "aud_price": 115,
+   "date": "date not stated",
+   "venue": "Australian Whisky Auctions lot 4 (3 old bottles incl. Long John 12 yo 750ml 43%)",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-481441/dom-benedictine-liqueur",
+   "same_item": "category guide",
+   "note": "Database hit only, not opened. Multi-bottle lot with Benedictine; not a clean comp. Undated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45 and $20 (as printed, AUD)",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2024-07-11 and 2024-08-22 (Lawsons Sydney, lot 4 old bottle lots)",
+   "venue": "Lawsons (Sydney)",
+   "url": "https://www.lawsons.com.au/auction-lot/dom-benedictine-liqueur-old-bottling-43-abv_8a94660a23",
+   "same_item": "category guide",
+   "note": "Database hits only, not opened. Mixed old-bottle lots (Long John 12 yo and others) with low prices; shows ordinary 1980s-90s blends sell cheaply. Low end of range."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'old parr'; 'old parr whisky'; 'old parr 12 scotch whisky'; 'grand old parr'; 'whisky 75cl'; 'scotch whisky 12 year'; 'whisky 750ml 43% boxed'. work/comps.py: 'old parr'; 'whisky'. No same-item Old Parr 12 resale comp held. Only one Armitage Old Parr hit (paid locally).",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold/completed (and Terapeak): 'Old Parr 12 year 750ml'; 'Grand Old Parr De Luxe 12 boxed'; 'Old Parr 12 Greenlees 43%'. Also Scotch Whisky Auctions, Whisky.Auction, Whisky Hammer and Australian Whisky Auctions past results for 'Old Parr 12' (1980s, 750ml/75cl, boxed), plus Lawsons and Leski for local results. Run on sold items from the last 3 years only.",
+ "viewing_check": "Check fill level (shoulder or better), capsule and Greenlees foil intact, label condition and any batch/bottling code on the back label, whether the box is the matching original, and that the seal and cork are not leaking.",
+ "rate_note": "All database prices already in AUD; no conversion applied."
+}

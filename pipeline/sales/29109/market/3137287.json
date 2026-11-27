@@ -1,0 +1,45 @@
+{
+ "cdid": 3137287,
+ "lot": 975,
+ "identification": "Vintage necklace of round and bell/flower shaped yellow-green glass beads, uranium (vaseline) glass look, Czech style, c.1930s-50s. Unconfirmed under UV, no maker mark visible. One photo, appears complete with clasp.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$170",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2026-07-08",
+   "venue": "Armitage Auctions, Launceston sale 28166 lot 943",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2972848&chid=28166&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Database hit, 'URANIUIM GLASS GRADUATED NECKLACE'. Paid locally: shows what we might pay, not a resale price. Graduated uranium necklace, condition and bead type not checked. Database record only, page not opened. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart lot id 432185",
+   "url": "gowans lot id 432185",
+   "same_item": "category guide",
+   "note": "'VINTAGE GREEN GLASS NECKLACE & 1 OTHER'. Paid locally, not a resale price. Includes a second item and uranium not stated. Database record only. AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$75",
+   "currency": "AUD",
+   "aud_price": 75,
+   "date": "2026-09-09",
+   "venue": "Armitage Auctions, Launceston sale 28587 lot 912",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3044780&chid=28587&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "'GRADUATED GLASS BEAD NECKLACE', uranium not stated. Paid locally, not a resale price. Database record only. AUD."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'uranium glass beads', 'vaseline glass necklace', 'czech glass necklace', 'glass necklace', 'uranium'; work/comps.py: 'uranium necklace', 'bead necklace glass'. Only local-room hits (one uranium necklace, a few glass necklaces). No resale comps held. eBay uranium hits in the database are tableware, not necklaces, so not used.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold + Terapeak: 'uranium glass bead necklace vintage', 'vaseline glass necklace Czech', 'Czech uranium glass beads necklace bell flower'. Also WorthPoint and Etsy/Ruby Lane for Czech uranium bead necklaces. Match on bead type (round plus bell/flower) and length.",
+ "viewing_check": "Bring a UV torch (365nm): uranium glass glows bright green. Check clasp for marks (Czechoslovakia, Austria), length, bead count, chips or replaced beads, original thread.",
+ "rate_note": "All AUD, no conversion."
+}
