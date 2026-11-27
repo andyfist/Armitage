@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Usage: python3 pipeline/chrome_import.py <chid> <chrome_results.json>
+"""Usage: python3 pipeline/chrome_import.py <chid> <chrome_results.json | results folder | results .zip> [...]
+
+A folder or zip (the results_<pack>/ folder an all-lots Chrome pack writes, one <chunk>.json per
+5 lots) is read whole. Results for other catalogues (their "chid" field) are skipped, so the
+same folder can be imported once per catalogue. When a lot was done twice (a Sonnet helper
+handed it back to an Opus helper), both sets of prices are kept and the Opus identification wins.
 
 Merges the findings of a Chrome research session (the file described in chrome_brief.md)
 into the sale's market files: each entry is added to pipeline/sales/<chid>/market/<cdid>.json
@@ -8,9 +13,12 @@ viewing_check are updated, and every SOLD entry is also appended to
 pipeline/state/chrome_sold.json so the results database keeps it. Run pipeline/assess.py
 afterwards for the final maximums. Importing the same file twice adds nothing twice.
 """
+import glob
 import json
 import os
 import sys
+import tempfile
+import zipfile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOLD = os.path.join(ROOT, 'pipeline', 'state', 'chrome_sold.json')
@@ -19,11 +27,26 @@ SOLD = os.path.join(ROOT, 'pipeline', 'state', 'chrome_sold.json')
 def main():
     if len(sys.argv) < 3:
         sys.exit(__doc__)
-    chid, src = sys.argv[1], sys.argv[2]
+    chid = sys.argv[1]
     D = os.path.join(ROOT, 'pipeline', 'sales', chid)
-    results = json.load(open(src))
-    if isinstance(results, dict):
-        results = results.get('lots') or results.get('results') or [results]
+    results = []
+    for src in sys.argv[2:]:
+        if src.endswith('.zip'):
+            tmp = tempfile.mkdtemp()
+            zipfile.ZipFile(src).extractall(tmp)
+            src = tmp
+        files = sorted(glob.glob(os.path.join(src, '**', '*.json'), recursive=True)) if os.path.isdir(src) else [src]
+        for f in files:
+            try:
+                got = json.load(open(f))
+            except (ValueError, OSError) as e:
+                print(f'{f}: not readable JSON ({e}), skipped', file=sys.stderr)
+                continue
+            if isinstance(got, dict):
+                got = got.get('lots') or got.get('results') or [got]
+            results += [r for r in got if isinstance(r, dict)]
+    results = [r for r in results if str(r.get('chid') or chid) == str(chid)]
+    results.sort(key=lambda r: 1 if 'opus' in str(r.get('model_used') or '').lower() else 0)  # Opus last, so it wins
     sold_db = json.load(open(SOLD)) if os.path.exists(SOLD) else []
     known = {(s.get('url'), s.get('aud_hammer')) for s in sold_db}
     # a results file with no cdids (the brief once left them out) is matched on lot number:
@@ -55,6 +78,8 @@ def main():
             e = dict(e)
             e['via'] = 'chrome'
             e.setdefault('same_item', 'yes')
+            si = str(e.get('same_item') or '').strip().lower()  # assess.py needs exactly yes or close
+            e['same_item'] = 'yes' if si.startswith('yes') else 'close' if si.startswith('close') else (si or 'yes')
             m['entries'].append(e)
             have.add(key)
             added += 1

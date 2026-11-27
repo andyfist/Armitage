@@ -6,8 +6,12 @@ Needs: repo andyfist/armitage (`main`), Gmail, the Workflow tool.
 Armitage puts a sale's catalogues online a few days to a week before the lots close
 (the 21 Oct 2026 sale appeared on 16 and 19 Oct). This check notices a new catalogue
 within two hours of it appearing, emails Andy, and then runs the funnel on it: prep,
-title pass, photo scan, cloud price research, bid check. Each stage that finishes sends
-Andy one email. Everything hangs off `pipeline/state/sales.json`.
+photo scan of every lot (Opus, medium effort), price hints from our own databases, bid
+check, and the Chrome pack. Since 27 Nov 2026 (Andy) the cloud does NO web price search:
+every lot is priced in Chrome on Andy's PC, with eBay sold prices and Terapeak open and
+his other sites signed in, from one combined prompt per batch of catalogues. Heavy and
+bulky lots, large furniture, whitegoods and vehicles are left out and listed. Each stage
+that finishes sends Andy one email. Everything hangs off `pipeline/state/sales.json`.
 
 ## Prompt
 
@@ -36,19 +40,32 @@ If `pipeline/new_sales.py` is still missing, reply "new-sale check is not on mai
       and email its output to andyfist@gmail.com (first line is the subject, the rest is the body).
    b. Scan and research: run the Workflow tool with the script file `pipeline/wf_funnel.js`
       and, as `args`, the JSON object in `pipeline/sales/<chid>/wfargs.json`. Andy has
-      opted in to this multi-agent run through this routine. It takes one to several
-      hours. Save the returned result to `pipeline/sales/<chid>/funnel_result.json`.
+      opted in to this multi-agent run through this routine. It photo-scans every lot
+      that is not left out, on Opus at medium effort, and looks up price hints in our own
+      databases only (no web search: never pass `cloudWeb`). It takes one to several hours. Save the returned result to `pipeline/sales/<chid>/funnel_result.json`.
       Then `python3 pipeline/stage.py <chid> scanned --note "<counts.SCANNED> lots photo-scanned, <candidates_total> candidates, <researched count> researched"`
       and email the output. If the workflow fails part way, run it again: finished
       batches are skipped, and the files written so far are kept.
    c. Bid check: `python3 pipeline/assess.py <chid>` prints the "first pass done" email;
-      send it to andyfist@gmail.com with subject "Armitage <name>: first pass, <PASS> lots pass the $200 rule".
+      send it to andyfist@gmail.com with subject "Armitage <name>: photo scan done, <PASS> lots pass on database prices so far".
+      Say in the first line of the body that these are database prices only and that every lot
+      is priced in Chrome next.
       Then `python3 pipeline/stage.py <chid> researched` (no email needed for that one).
-   d. Chrome list: `python3 pipeline/chrome_brief.py <chid>` writes `pipeline/sales/<chid>/chrome_brief.md`
-      (the hand-over for the Chrome research chat, which Andy runs on Sonnet) and
-      `chrome_email.txt` (how to start that chat), and prints how many lots are in it. Then run
-      `python3 pipeline/stage.py <chid> chrome_list --note "<n> lots to research in Chrome" --body pipeline/sales/<chid>/chrome_email.txt`
-      and email its output. Skip this step and its email when the brief holds no lots.
+   d. Chrome pack: do this once per run, AFTER steps a to c are done for every new catalogue,
+      with all of this run's new catalogues together (Andy wants one combined Chrome prompt,
+      not one per catalogue; Friday's and Monday's catalogues each get their own pack):
+      `python3 pipeline/chrome_brief.py <chid> [<chid> ...]`. It writes the pack folder
+      `pipeline/sales/packs/armitage_<chids>/` (PROMPT.md, index.json, left_out.md, chunks/) and
+      `armitage_<chids>.zip` next to it, writes `chrome_email.txt` in each sale folder, and prints
+      the counts. Every lot that is not left out is in it: Part A books, Part B art, Part C lots
+      the scan flagged as possibly high value (all three on Opus helpers), Part D the rest (Sonnet).
+      If the `mcp__remote-devices__device_commit_files` tool is available to you, copy PROMPT.md,
+      index.json, left_out.md and the zip (save them under `/mnt/project-files/<pack name>/` first)
+      to `C:\Users\Andy\Documents\claude\<pack name>\` on Andy's PC; if not, the email tells him
+      how to get it. Then, for each catalogue, run
+      `python3 pipeline/stage.py <chid> chrome_list --note "every lot in the Chrome pack <pack name>" --body pipeline/sales/<chid>/chrome_email.txt`
+      and email the output of the first one only (one email per pack). Add the zip to the commit
+      in step f: `git add pipeline/sales/packs/*.zip` (the folder itself is not committed).
    e. Photo list: `python3 pipeline/photo_list.py <chid>` writes `pipeline/sales/<chid>/photo_list.md`
       and prints the email (first line is the subject): send it to andyfist@gmail.com.
       Then `python3 pipeline/stage.py <chid> photo_list` (no email needed for that one).
