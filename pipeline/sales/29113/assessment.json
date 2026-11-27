@@ -16,8 +16,8 @@
  "candidates": 71,
  "counts": {
   "PASS": 2,
-  "CHROME": 61,
-  "FAIL": 8,
+  "CHROME": 60,
+  "FAIL": 9,
   "DROP": 0,
   "NOT RESEARCHED": 0
  },
@@ -3779,12 +3779,112 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:01:20 PM ADST",
-   "identification": "Six wooden oil/fuel/liquor crates (Shell Benzine, Vacuum Oil/Plume, Laurel Kerosene, Old Court Whisky, Yalumba, one unreadable) plus Holden hub caps with lion emblem. Photos checked: Shell and Vacuum boxes are the commoner paper-label-free stencilled types, weathered.",
+   "identification": "Six old Australian timber transport boxes plus a stack of Holden hubcaps. Boxes seen: (1) Vacuum Oil Company Pty Ltd 'Plume Motor Spirit' box with the red Plume logo on the end; (2) 'Laurel Kerosene' box (Vacuum Oil Co) with the laurel wreath end; (3) 'British Imperial Oil Co Ltd, Shell Benzine, Highly Inflammable' box; (4) 'Old Court Whisky' box (Australian distillery brand); (5) 'Yalumba' wine box (green/red stencil); (6) a partly hidden box with 'WE...' stencilled. These are the pine crates that held two 4-gallon tins, 1910s-1950s. Hubcaps: at least two to four full chrome Holden hubcaps with black centre and the Holden lion, matching HK/HT/HG Kingswood/Premier type (late 1960s to early 1970s); exact count not visible. Cloud scan correct.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Shell Benzine wooden box', 'Vacuum Oil wooden crate', 'Plume Motor Spirit crate', 'Laurel Kerosene box', 'Old Court Whisky crate', 'Yalumba wooden crate', 'Holden hub caps FJ EK lion'. Also Gowans/Leski/Carter's/Lawsons for petroliana crates.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 97.97,
+     "date": "2025-06-04",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156890553710",
+     "same_item": "yes",
+     "note": "Vintage Plume Motor Spirit Vacuum Oil Company wooden box crate. Same seller sold four at this price that day.",
+     "old": false
+    },
+    {
+     "aud_price": 84.56,
+     "date": "2025-08-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235674354890",
+     "same_item": "yes",
+     "note": "Vacuum Oil Co Plume wooden crate box, plus A$27.35 postage.",
+     "old": false
+    },
+    {
+     "aud_price": 78.29,
+     "date": "2024-07-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235665616609",
+     "same_item": "yes",
+     "note": "Plume wooden crate box.",
+     "old": false
+    },
+    {
+     "aud_price": 74.42,
+     "date": "2024-09-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235656178780",
+     "same_item": "yes",
+     "note": "Plume wooden crate box.",
+     "old": false
+    },
+    {
+     "aud_price": 75.69,
+     "date": "2026-05-19",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235677185782",
+     "same_item": "yes",
+     "note": "Laurel Kerosene Vacuum Oil tin drum crate wooden box.",
+     "old": false
+    },
+    {
+     "aud_price": 70.22,
+     "date": "2025-08-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/234906454954",
+     "same_item": "yes",
+     "note": "Laurel Kerosene crate wooden box.",
+     "old": false
+    },
+    {
+     "aud_price": 49.48,
+     "date": "2024-09-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235716697814",
+     "same_item": "yes",
+     "note": "Laurel Kerosene crate wooden box.",
+     "old": false
+    },
+    {
+     "aud_price": 48.44,
+     "date": "2024-07-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235583656461",
+     "same_item": "yes",
+     "note": "Laurel Kerosene crate wooden box.",
+     "old": false
+    },
+    {
+     "aud_price": 18.5,
+     "date": "2026-09-21",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/237071123329",
+     "same_item": "close",
+     "note": "Shell Benzine British Imperial Oil Co box END only, 2 bids. Whole boxes are worth more.",
+     "old": false
+    },
+    {
+     "aud_price": 65.0,
+     "date": "2026-11-07",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/307226770176",
+     "same_item": "close",
+     "note": "Single HK-HT-HG Holden steel wheel dog dish hubcap, white, 255 mm. Different style from ours.",
+     "old": false
+    },
+    {
+     "aud_price": 310.0,
+     "date": "2026-11-21",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/307092952798",
+     "same_item": "close",
+     "note": "HK-HT-HG Holden centre hubcaps, set of 4, choice of lion colours. Probably reproduction new stock, so a ceiling.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -3889,11 +3989,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 74.42,
+   "net_resale": 63.257,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $74 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false

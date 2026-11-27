@@ -16,8 +16,8 @@
  "candidates": 180,
  "counts": {
   "PASS": 10,
-  "CHROME": 134,
-  "FAIL": 36,
+  "CHROME": 133,
+  "FAIL": 37,
   "DROP": 0,
   "NOT RESEARCHED": 0
  },
@@ -2049,12 +2049,49 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 7:59:20 PM ADST",
-   "identification": "Nickel plated brass centre-draught kerosene lamp, flame spreader cap marked ROYAL with P and A (Plume & Atwood 'P&A Royal'), probably American c.1900. Photos show worn nickel, corroded cap, dirty burner, clear chimney; H-44 cm.",
+   "identification": "Plume & Atwood 'Royal' centre-draught kerosene table lamp, American, about 1890-1910: nickel-plated brass bulbous font on a pierced foot, side wick-winder knob with a rosette, Royal centre-draught burner with perforated gallery and four chimney prongs, plain clear glass chimney, no shade. Flame spreader is stamped 'P ROYAL A' (P&A for Plume & Atwood) with a sunburst. 44 cm with chimney. Wear to the plating. Cloud scan correct.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and eBay.com sold: 'Plume Atwood Royal lamp', 'P&A Royal nickel kerosene lamp', 'Plume & Atwood centre draught lamp'; Terapeak same terms; LiveAuctioneers/Invaluable results 'Plume Atwood Royal lamp'; Australian auction houses (Leski, Lawsons, Mossgreen) 'Plume Atwood lamp'. Record sold price, date, condition, with or without chimney.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 180.93,
+     "date": "2026-11-15",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/146752273416",
+     "same_item": "yes",
+     "note": "Antique Plume & Atwood Royal nickel plated center draft table lamp. eBay AU sold page showed A$198.87 incl. conversion.",
+     "old": false
+    },
+    {
+     "aud_price": 52.79,
+     "date": "2026-09-25",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/178525995361",
+     "same_item": "yes",
+     "note": "Antique P&A Royal center-draft oil lamp, plus A$22.63 postage.",
+     "old": false
+    },
+    {
+     "aud_price": 90.5,
+     "date": "2024-09-15",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/405215131413",
+     "same_item": "close",
+     "note": "Royal center draft trophy-handle table lamp, auction 1 bid. Over 2 years old.",
+     "old": false
+    },
+    {
+     "aud_price": 60.34,
+     "date": "2025-01-30",
+     "venue": "eBay US (Terapeak, shown in AUD)",
+     "url": "https://www.ebay.com/itm/335786311898",
+     "same_item": "close",
+     "note": "P&A Royal center draft lamp from a hanging fixture.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -2096,11 +2133,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 75.42,
+   "net_resale": 64.107,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $75 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false

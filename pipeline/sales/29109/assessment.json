@@ -15,9 +15,9 @@
  "scanned": 441,
  "candidates": 208,
  "counts": {
-  "PASS": 28,
-  "CHROME": 104,
-  "FAIL": 73,
+  "PASS": 29,
+  "CHROME": 102,
+  "FAIL": 74,
   "DROP": 1,
   "NOT RESEARCHED": 2
  },
@@ -5785,15 +5785,44 @@
    "current_bid": 30.0,
    "bid_count": 1,
    "close": "2/12/2026 3:56:40 PM ADST",
-   "identification": "Modern decorative bronze Atlas bearing a zodiac globe on stepped marble base, signed 'Aldo Vitaleh' (common modern Asian-cast repro signature). Not antique.",
+   "identification": "Modern cast bronze figure of Atlas carrying a celestial globe (stars and zodiac/sun motifs on the globe), standing on a naturalistic rocky plinth, on a turned brown/black marble base, about 33 cm. Signature on the plinth reads 'Aldo Vitaleh'. That is the house signature used on new Chinese-made lost-wax bronzes sold by US dealer European Bronze Finery (also sold through bronzhaus.com and eBay seller european_finery). Decorative reproduction, late 20th or 21st century, not a period bronze. Cloud scan is correct.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'Aldo Vitaleh bronze', 'Aldo Vitaleh Atlas', 'bronze Atlas globe marble base statue large'. Terapeak same terms. LiveAuctioneers and Invaluable results (sold): 'Atlas bronze zodiac globe marble base', 'Aldo Vitaleh'. Leski, Theodore Bruce and Mossgreen/Lawsons sold for 'large bronze Atlas statue marble'. Also check new retail of similar Atlas bronzes at AU decor sellers as ASKING.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 440.0,
+     "date": "2026-09-05",
+     "venue": "eBay (US dealer, shown in AUD)",
+     "url": "https://www.ebay.com.au/itm/256869710804",
+     "same_item": "yes",
+     "note": "Atlas Titan holding the world, 'superior bronze' on marble base, 12.2 in (31 cm). Brand new from a dealer, so a ceiling for a used one.",
+     "old": false
+    },
+    {
+     "aud_price": 192.3,
+     "date": "2026-09-10",
+     "venue": "eBay (shown in AUD)",
+     "url": "https://www.ebay.com.au/itm/147005869525",
+     "same_item": "close",
+     "note": "Bronze Greek Atlas holding world, 10.5 in (27 cm), new, smaller.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "2026-11-27",
+     "venue": "European Bronze Finery shop",
+     "url": "https://reach.dog/shop/europeanbronze/products/art-deco-original-aldo-vitaleh-carrying-the-world-bronze-sculpture-figurine-sale",
+     "same_item": "yes",
+     "note": "New retail asking price for the same model. Asking only.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 170.0,
@@ -5850,11 +5879,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "resale": 316.15,
+   "net_resale": 268.72749999999996,
+   "max_hammer": 55,
+   "status": "PASS",
+   "why": "2 same-item SOLD price(s), median $316; less 15% fees = $269; less $200 profit, / 1.22 premium = max hammer $55",
    "age_note": "",
    "trend": "",
    "priority": true
@@ -6314,15 +6343,34 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 4:03:40 PM ADST",
-   "identification": "Art Deco figural mantle clock attributed to Georges Maxim: reclining lady in cloche hat (probably cold-painted spelter, ivorine or ivory face and hands), doe and fawn, scalloped onyx dial surround, stepped black slate and banded onyx base, 8 day striking movement. L79 H32 cm. IMPORTANT: the photos show lot tag 809 and the description, size and title match Armitage sale 28975 lot 809 (11 Nov 2026, hammer $850), so this looks like the same clock relisted after being sold; if so the last price paid is the local cost, not resale.",
+   "identification": "French Art Deco figural mantel clock, about 1930. Long stepped black slate (or black marble) and banded honey/white onyx plinth, 79 cm long, with a quatrefoil (four-lobed) onyx clock case in the centre. Onyx dial with applied gilt Arabic numerals, gilt hands, two winding holes (8-day striking movement). Left: reclining young woman in a cloche cap and long flared-sleeve robe with gilt incised floral pattern, her face and hands in a pale cream material. Right: patinated doe and fawn grazing. The figures look like cold-painted, patinated spelter (zinc alloy), not bronze: the soft casting detail and the brown 'bronzed' finish are typical of the cheaper French spelter garnitures. The cream face and hands are almost certainly ivorine (celluloid or composition), the standard material on these clocks, not ivory. No signature visible in the photos, so 'by George Maxim' is unconfirmed. Georges Maxim (1885-1940) did model spelter ladies for clocks, but many unsigned clocks of this type get attributed to him. A sticker on the base reads 809, which may be a lot number from an earlier Armitage sale, and a card says 'key in office'.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Art Deco spelter lady deer onyx clock', 'Art Deco onyx mantle clock figure garniture', 'Maxim Art Deco clock'. Also eBay UK/US sold 'Art Deco onyx clock lady deer' and LiveAuctioneers/Invaluable sold: 'Art Deco spelter onyx mantel clock lady fawn', 'Georges Maxim clock'. Look for sold prices of this exact lady-and-doe onyx clock type (France 1930s) and whether it is ivorine face; note the Armitage 28975 lot 809 result as a prior sale.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 931.0,
+     "date": "unknown",
+     "venue": "Antiques Atlas dealer DecoBroc (marked sold, dealer retail)",
+     "url": "https://www.antiques-atlas.com/antique/uriano_lady_and_deer_clock_a004/as653a004",
+     "same_item": "close",
+     "note": "Uriano signed cold-painted spelter lady and patinated spelter deer, red onyx, 8 day Pierre Megnin movement. Dealer retail figure after restoration, treat as a ceiling not a resale.",
+     "old": false
+    },
+    {
+     "aud_price": 0.0,
+     "date": "2026",
+     "venue": "LiveAuctioneers",
+     "url": "https://www.liveauctioneers.com/item/234969656",
+     "same_item": "category guide",
+     "note": "Art Deco hardstone and spelter antelope mantel clock, no reserve. Estimate only.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 850.0,
@@ -6365,7 +6413,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6484,12 +6532,58 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 4:05:00 PM ADST",
-   "identification": "Large full-leather gilt-tooled ledger-format Victorian manuscript commonplace book with alphabet thumb index, handwritten recipes, parlour games and gunpowder trial notes (dated Sept 1869 or 1884), plus loose letters, a pencil sketch, printed circulars and an envelope with stamps. Author, place and provenance unknown; Tasmanian link unproven.",
+   "identification": "Victorian manuscript household and commonplace book in a full calf binding (blind and gilt ruled boards with fleuron corner tools, raised bands and fleurons on the spine), with an alphabetical cut thumb index down the fore-edge. Neat ink entries seen: 'Gooseberry Fool' recipe; a long 'Games' section of parlour games (Twenty Questions, Geography, Birds Beasts and Fishes, and others); a 'Galls ...' remedy; and a dated 'Gun Powder' entry (August 188?, reads as 1884) recording a trial of Curtis & Harvey's Diamond Grain black powder against White Schultze smokeless powder in a gun, with penetration figures. Loose items tucked in: a handwritten letter on blue-lined paper, a pencil landscape sketch of figures in a rural scene, a printed blue certificate or notice ('We hereby ...', signed), an envelope with a red stamp and postmarks, and other loose blue sheets. English household, about 1870-1890 judging by the hand, Curtis & Harvey and Schultze references. No owner name or place legible in the photos. Cloud scan is broadly right.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and eBay.com sold + Terapeak: 'victorian manuscript commonplace book', 'handwritten recipe book 19th century manuscript', 'manuscript receipt book 1800s'. Trove newspapers/ Libraries Tasmania are not price sources but search the text 'Curtis and Harvey diamond grain' and 'gun powder trial 1869' to see if the writer is identifiable. Also check Leski, Mossgreen/Davidson, Lawsons, Charles Leski and Tasmanian auction results for 'manuscript commonplace book' and 'recipe book manuscript'; Rare Book Hub and WorthPoint for sold commonplace books; Invaluable/LiveAuctioneers 'commonplace book manuscript'.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 107.73,
+     "date": "2026-10-05",
+     "venue": "eBay (shown in AUD)",
+     "url": "https://www.ebay.com.au/itm/860008187758",
+     "same_item": "close",
+     "note": "1842 Victorian leather commonplace book album, Barbara Poore manuscript. Sold at list (or Best Offer listing).",
+     "old": false
+    },
+    {
+     "aud_price": 98.77,
+     "date": "2026-11-16",
+     "venue": "eBay (shown in AUD)",
+     "url": "https://www.ebay.com.au/itm/336883917703",
+     "same_item": "close",
+     "note": "1870s Victorian commonplace scrap book, Potts family, 1 bid.",
+     "old": false
+    },
+    {
+     "aud_price": 80.99,
+     "date": "2026-11-16",
+     "venue": "eBay (shown in AUD)",
+     "url": "https://www.ebay.com.au/itm/366804145021",
+     "same_item": "close",
+     "note": "Victorian handwritten recipe book by various people, 1840s cookery, 2 bids.",
+     "old": false
+    },
+    {
+     "aud_price": 154.18,
+     "date": "2026-11-19",
+     "venue": "eBay (shown in AUD)",
+     "url": "https://www.ebay.com.au/itm/206670661617",
+     "same_item": "close",
+     "note": "Antique handwritten recipe book 1800s manuscript cookbook, reduced from A$205.58.",
+     "old": false
+    },
+    {
+     "aud_price": 49.39,
+     "date": "2026-10-05",
+     "venue": "eBay (shown in AUD)",
+     "url": "https://www.ebay.com.au/itm/336802237909",
+     "same_item": "close",
+     "note": "1855 Victorian commonplace book, leather, poetry.",
+     "old": false
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 700.0,
@@ -6504,11 +6598,11 @@
    "unsold": [],
    "asking": [],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 98.77,
+   "net_resale": 83.9545,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $99 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -8036,15 +8130,34 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 4:20:00 PM ADST",
-   "identification": "Louis Vuitton black grained (Taiga-type) leather six-ring binder album / sketch book, LV embossed on cover and inside, brown monogram divider, grey LV-watermarked pages, gilt rings, in original Louis Vuitton Malletier a Paris box. Looks like a genuine LV corporate/desk item, but no exact model identified. Authenticity not confirmed from photos.",
+   "identification": "Louis Vuitton large square ring-bound album/sketch book in black Taiga leather (fine diagonal grain, small blind-stamped LV monogram on the lower right of the front cover and an embossed LV mark inside the front board), six gold-tone binder rings, a brown card divider blind-embossed with LV flower motifs, and thick white cream pages with small blind-embossed LV flowers along the bottom edge. Comes in the LV tan card presentation box with 'LOUIS VUITTON MALLETIER A PARIS, MAISON FONDEE EN 1854' printed lid and tissue. The pages in the photos look blank, so 'has been used' may mean a few pages only. Size looks roughly 30 x 30 cm. Probably the Taiga leather 'album' or drawing album sold as an office/desk item. Authenticity not verified; box, divider and embossed refills all look consistent with genuine LV.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and eBay.com sold + Terapeak: 'Louis Vuitton sketch book', 'Louis Vuitton Taiga agenda binder', 'Louis Vuitton desk agenda GM', 'Louis Vuitton album ring binder box', 'Louis Vuitton Malletier a Paris photo album'. Also LiveAuctioneers / Invaluable results and Catawiki/Christie's/Bonhams online for 'Louis Vuitton desk album' and 'Louis Vuitton Maison fondee en 1854 box'. Check whether this is a genuine LV corporate/client gift item and what such items sold for.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 0.0,
+     "date": "2026",
+     "venue": "Fashionphile",
+     "url": "https://www.fashionphile.com/p/louis-vuitton-taiga-large-ring-agenda-cover-ardoise-1597708",
+     "same_item": "category guide",
+     "note": "LV Taiga large ring agenda cover, black (Ardoise), excellent. Dealer asking, smaller item.",
+     "old": false
+    },
+    {
+     "aud_price": 0.0,
+     "date": "2026",
+     "venue": "1stDibs",
+     "url": "https://www.1stdibs.com/fashion/ephemera/miscellaneous/louis-vuitton-large-black-leather-lady-handbook-cover-gm-858119/id-v_14367602",
+     "same_item": "category guide",
+     "note": "LV large black leather handbook cover GM. Dealer asking.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 85.0,
@@ -8078,7 +8191,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": true
