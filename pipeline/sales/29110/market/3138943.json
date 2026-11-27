@@ -1,7 +1,7 @@
 {
  "cdid": 3138943,
  "lot": 1179,
- "identification": "Hand-knotted Persian Hossainabad (Hamadan region) wool runner, about 2.8 m, all-over Herati/boteh field on red/salmon ground, ivory border, fringes intact, looks clean.",
+ "identification": "Hand-knotted Persian runner, Hossainabad (Hamadan province) style, about 280x78 cm, wool pile. Dense all-over small Herati/mahi repeat on a salmon-red field with ivory floral border, dark red guard stripes, fringes at ends. Armitage estimate 400-600. Clean, professionally photographed, listed with 'documentation of authenticity'. Terapeak/eBay comps found no same-item Hossainabad sold listings.",
  "entries": [
   {
    "kind": "SOLD",
@@ -123,11 +123,84 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=hamadan%20runner (lot id 375446)",
    "same_item": "close",
    "note": "Hamadan runner 292x102 cm. Database record only, no page opened. Paid locally: shows what we might pay, not a resale price. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$670.44",
+   "currency": "AUD",
+   "aud_price": 670.44,
+   "date": "2026-11-15",
+   "venue": "eBay AU (public sold search, items shipped from overseas sellers)",
+   "url": "https://www.ebay.com.au/itm/920137745872",
+   "same_item": "close",
+   "note": "Vintage hand-knotted wool runner 3'6x9'7 (about 292x107), BIN, shown struck down from A$3,047; US seller, not Hossainabad specifically",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$575.95",
+   "currency": "AUD",
+   "aud_price": 575.95,
+   "date": "2026-10-30",
+   "venue": "eBay AU (public sold search, items shipped from overseas sellers)",
+   "url": "https://www.ebay.com.au/itm/920086202081",
+   "same_item": "close",
+   "note": "Vintage hand-knotted wool runner 3'7x8'9 (about 272x109), BIN, struck down from A$2,618; US seller",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$329.92",
+   "currency": "AUD",
+   "aud_price": 329.92,
+   "date": "2026-11-06",
+   "venue": "eBay AU (public sold search, items shipped from overseas sellers)",
+   "url": "https://www.ebay.com.au/itm/227553919269",
+   "same_item": "close",
+   "note": "2x8 vintage wool runner heriz/kazak style, BIN, US seller; narrower and shorter",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$694.56",
+   "currency": "AUD",
+   "aud_price": 694.56,
+   "date": "2025-07-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167517603903",
+   "same_item": "close",
+   "note": "Antique Persian Balouchi wool runner 292x102 cm, BIN fixed price, Terapeak AU (date from Terapeak row, link built from row item id)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$171.67",
+   "currency": "AUD",
+   "aud_price": 171.67,
+   "date": "2026-11-09",
+   "venue": "eBay AU public sold search",
+   "url": "https://www.ebay.com.au/itm/880071878564",
+   "same_item": "close",
+   "note": "'Vintage Runner' 250x84 cm, auction 10 bids, UK seller, A$365 delivery; weak identification, low end",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$300-470",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "2025-07 to 2026-10",
+   "venue": "Armitage Auctions",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089393&chid=28840&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Database hints only, pages not opened by me: Hossainabad runners 285-307 cm made A$300-470 hammer-ish locally (one A$930 outlier). Cost guide, not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'hossainabad'; 'persian runner'; 'hamadan runner'. work/comps.py: 'hossainabad runner'. All hits are Armitage or Gowans (paid locally). Hossainabad runners ~280-330 cm: Armitage range $300-$470 typical (median about $320, one $930 outlier); Gowans Hamadan runners $200-$450. No resale comps in databases.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'hossainabad'; 'persian runner'; 'hamadan runner'. work/comps.py: 'hossainabad runner'. All hits are Armitage or Gowans (paid locally). Hossainabad runners ~280-330 cm: Armitage range $300-$470 typical (median about $320, one $930 outlier); Gowans Hamadan runners $200-$450. No resale comps in databases. | chrome: Terapeak AU 3yr: hossainabad runner (0), hamadan runner (0), persian runner hand knotted wool (11 rows); eBay AU public sold: (hossainabad,hosseinabad,hamadan,hamedan) runner rug (6 rows, dealers/BO), persian runner hand knotted wool AU filter (sorted recent).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/completed: 'Persian Hossainabad runner 2.8m' and 'Hamadan runner 300cm wool hand knotted'; Terapeak same. Also LiveAuctioneers/Invaluable results for 'Hossainabad runner' and Australian houses (Leonard Joel, Mossgreen, Lawsons, Theodore Bruce) sold results for 'Hamadan runner'. Check retail asking at Australian rug dealers for 'Hossainabad runner 280 cm' as ASKING only.",
- "viewing_check": "Check the back for hand-knotted (visible knots, not machine), pile wear and moth damage, stains or pet odour, fringe/selvedge repairs, dye run in the red, exact size and whether it lies flat.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Check back for hand knots, pile wear, moth, stains, odour, the small dark patch near left edge in photo 1, fringe repairs, dye run in the red, exact size, lies flat.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

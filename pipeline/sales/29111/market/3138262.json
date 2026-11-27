@@ -1,7 +1,7 @@
 {
  "cdid": 3138262,
  "lot": 1667,
- "identification": "Tray of about 33 new TaylorMade golf balls in sleeves: 7 Distance+, 2 TP5, 1 TP5 pix, 1 Tour Response type. Low-value sporting consumables.",
+ "identification": "Cardboard tray of 11 sleeves of new TaylorMade golf balls (3 balls per sleeve, 33 balls): 7 Distance+ (blue), 2 TP5 (grey/blue), 1 TP5 pix (Clearpath alignment), 1 red/yellow TaylorMade (Tour Response style, yellow ball)",
  "entries": [
   {
    "kind": "SOLD",
@@ -145,11 +145,72 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045225&chid=28589&category=ALL&style=group",
    "same_item": "category guide",
    "note": "2 BOXES OF GOLF BALLS. Paid locally at Armitage, brand and count unknown; shows what we might pay only, not resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25.0",
+   "currency": "AUD",
+   "aud_price": 25.0,
+   "date": "2026-11-27",
+   "venue": "eBay AU public sold search",
+   "url": "https://www.ebay.com.au/itm/178112001993",
+   "same_item": "yes",
+   "note": "TaylorMade Distance+ 1 dozen new; ~A$2.08 per ball",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$66.3",
+   "currency": "AUD",
+   "aud_price": 66.3,
+   "date": "2026-11-27",
+   "venue": "eBay AU public sold search",
+   "url": "https://www.ebay.com.au/itm/188918100566",
+   "same_item": "yes",
+   "note": "3 dozen new TaylorMade Distance+; ~A$22 per dozen",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$82.88",
+   "currency": "AUD",
+   "aud_price": 82.88,
+   "date": "2026-11-26",
+   "venue": "eBay AU public sold search",
+   "url": "https://www.ebay.com.au/itm/366752907580",
+   "same_item": "close",
+   "note": "TaylorMade TP5 Pix 1 dozen new (NCAA version); ~A$6.90 per ball",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$82.57",
+   "currency": "AUD",
+   "aud_price": 82.57,
+   "date": "2026-11-26",
+   "venue": "eBay AU public sold search",
+   "url": "https://www.ebay.com.au/itm/198421620114",
+   "same_item": "close",
+   "note": "2026 TaylorMade TP5 dozen new; listing shows Best Offer option so price may be an accepted offer, excluded from max (flagged BO, not used)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84.4",
+   "currency": "AUD",
+   "aud_price": 84.4,
+   "date": "2026-11-26",
+   "venue": "eBay AU public sold search",
+   "url": "https://www.ebay.com.au/itm/940108578207",
+   "same_item": "close",
+   "note": "Two dozen TaylorMade TP5 2025 version new; ~A$42 per dozen",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'taylormade golf balls', 'tp5 golf balls', 'golf balls'; work/comps.py: 'taylormade golf balls'. Only Gowans/Armitage local hits; no resale comps held.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'taylormade golf balls', 'tp5 golf balls', 'golf balls'; work/comps.py: 'taylormade golf balls'. Only Gowans/Armitage local hits; no resale comps held. | chrome: eBay AU public sold search 'taylormade distance+ golf balls dozen' sorted by recent. Database hints (Gowans A$15-45, paid locally) used only as paid-locally context.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'TaylorMade TP5 golf balls dozen new' and 'TaylorMade Distance+ golf balls sleeve' (sold, last 90 days; note per-dozen price and scale to about 33 balls, roughly 2.75 dozen). Also check Terapeak and new retail on Golf Warehouse/Golf Direct for TP5 and Distance+ per dozen (ASKING, new retail).",
- "viewing_check": "Confirm sleeves are sealed and count the sleeves; check the TP5 sleeves are genuine TP5/TP5 pix (not Tour Response) and that Distance+ boxes are not damaged or marked.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Confirm all 11 sleeves sealed, TP5 versions (TP5 and TP5 pix), and no damaged or marked balls.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

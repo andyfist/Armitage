@@ -1,7 +1,7 @@
 {
  "cdid": 3138306,
  "lot": 1711,
- "identification": "Large used lot of Scalextric Sport style track, borders and barriers in four cardboard boxes, two white Porsche 919 / Le Mans prototype cars (one number 4, Shell/Hybrid style livery), one red hand controller and a power pack. Brand and digital vs analogue not confirmed from photos; looks like Scalextric Sport (analogue, 1:32).",
+ "identification": "Slot car track lot in three cardboard boxes: many black straights and curves (1:32 Scalextric Sport style), grey and cream/orange-white kerb borders and barriers, 2 white Porsche 919 style cars (numbers 4 and 12) in clear packaging, one red hand controller, one plug-in power pack, loose wires. Brand not printed legibly in photos but track and controller are Scalextric Sport/Classic style.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,72 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112293&chid=28977&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Paid locally, not a resale price. Vintage Scalextric Formula 1 set."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$117.3",
+   "currency": "AUD",
+   "aud_price": 117.3,
+   "date": "2026-11-27",
+   "venue": "eBay AU (public sold search, AU sellers)",
+   "url": "https://www.ebay.com.au/itm/920064025141",
+   "same_item": "close",
+   "note": "Scalextric road racing set boxed, extra track, 2 cars, controller, Ferrari; pre-owned BIN, postage A$45 extra. Closest in content to this lot but smaller.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.99",
+   "currency": "AUD",
+   "aud_price": 59.99,
+   "date": "2026-11-14",
+   "venue": "eBay AU (public sold search, AU sellers)",
+   "url": "https://www.ebay.com.au/itm/257841278900",
+   "same_item": "close",
+   "note": "Scalextric START Audi TT set, 2 cars, 2 controllers, transformer, track; pre-owned BIN, postage A$43.86.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.49",
+   "currency": "AUD",
+   "aud_price": 85.49,
+   "date": "2026-11-25",
+   "venue": "eBay AU (public sold search, AU sellers)",
+   "url": "https://www.ebay.com.au/itm/117539672370",
+   "same_item": "close",
+   "note": "Vintage Triang Scalextric track lot with Lotus car; pre-owned (title read from search row, page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$89.99",
+   "currency": "AUD",
+   "aud_price": 89.99,
+   "date": "2026-11-13",
+   "venue": "eBay AU (public sold search, AU sellers)",
+   "url": "https://www.ebay.com.au/itm/206686641196",
+   "same_item": "category guide",
+   "note": "Scalextric Digital powerbase with controllers, supply and track; pre-owned BIN (digital, different system).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$260.4",
+   "currency": "AUD",
+   "aud_price": 260.4,
+   "date": "2026-10-17",
+   "venue": "eBay AU (public sold search, AU sellers)",
+   "url": "https://www.ebay.com.au/itm/407181699924",
+   "same_item": "close",
+   "note": "Scalextric Sport 1:32 set C8436 with controllers and power supply; pre-owned BIN, complete boxed set, higher end.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: scalextric; slot car; scalextric sport track (no hits); porsche 919 (no hits); scalextric track; slot car track; scalextric controllers; scalextric digital (no hits). work comps.py: scalextric.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: scalextric; slot car; scalextric sport track (no hits); porsche 919 (no hits); scalextric track; slot car track; scalextric controllers; scalextric digital (no hits). work comps.py: scalextric. | chrome: eBay AU public sold 'scalextric track controllers cars' (AU sellers, 120 results); eBay AU sold 'scalextric track controller cars' all locations (mostly UK lots with A$350+ postage, ignored); Terapeak AU 'scalextric track lot' (3 years, shows individual track bundles A$10-45, sets to A$195, filter line showed no condition chip).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Scalextric track lot', 'Scalextric Sport track bulk job lot', 'Scalextric Porsche 919', 'Scalextric C3xxx Porsche 919 Le Mans' (check car catalogue number, single cars sell $30-60 new boxed). Also eBay AU sold 'Scalextric borders barriers lot' and 'Scalextric Sport start set'. Auction houses: Invaluable/LiveAuctioneers 'Scalextric track lot' Australia 2025-2026.",
- "viewing_check": "Check brand marks on track underside and cars (Scalextric vs Carrera or other), whether track is Sport analogue or Digital, car catalogue numbers and condition (lights, tyres, motor runs), count of straights and curves, power pack and controller condition, and whether track is complete and undamaged.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Check track is complete, borders and kerbs undamaged, whether any brand marks (Scalextric Sport vs other), cars run, power pack and controller work, and count pieces.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

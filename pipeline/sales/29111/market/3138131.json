@@ -1,7 +1,7 @@
 {
  "cdid": 3138131,
  "lot": 1535,
- "identification": "Iron jaw animal trap, long-spring type with square pan, rusty. Photo shows no legible maker stamp; 'Lion' claim unverified. Armitage's own recent animal traps sell about $15-100 (paid locally).",
+ "identification": "Antique iron jaw animal trap (rabbit/fox size), two long flat springs and square pan, rusty, paper tag. Catalogue says Lion stamped but no stamp is visible in the single photo.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,60 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/509",
    "same_item": "category guide",
    "note": "19th century iron MANTRAP 78cm, a much larger and different item; shown only as a category ceiling. Database record, not opened. Older than 5 years."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$147.36",
+   "currency": "AUD",
+   "aud_price": 147.36,
+   "date": "2025-05-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127108839281",
+   "same_item": "close",
+   "note": "Vintage large metal animal trap, Made in Australia, LANE; auction, closest dated comparable (marked maker, large)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$91.05",
+   "currency": "AUD",
+   "aud_price": 91.05,
+   "date": "2025-06-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/226789325139",
+   "same_item": "category guide",
+   "note": "Rare antique mouse trap, LION brand; auction, 19 bids. Different (mouse) trap, shows Lion name has a following",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$31.22",
+   "currency": "AUD",
+   "aud_price": 31.22,
+   "date": "2024-04-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145726565126",
+   "same_item": "close",
+   "note": "Vintage Lanes Ace rabbit traps, display only; fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$8.73",
+   "currency": "AUD",
+   "aud_price": 8.73,
+   "date": "2024-04-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145732851510",
+   "same_item": "close",
+   "note": "Vintage rabbit trap 1930s Lanes Ace; fixed price",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'lion trap', 'rabbit trap', 'animal trap', 'lion brand trap', 'long spring trap', 'steel trap jaw', 'mantrap'; work/comps.py: 'lion trap'. No Lion-stamped trap or any resale (eBay, dealer, specialist) comp in the databases.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'lion trap', 'rabbit trap', 'animal trap', 'lion brand trap', 'long spring trap', 'steel trap jaw', 'mantrap'; work/comps.py: 'lion trap'. No Lion-stamped trap or any resale (eBay, dealer, specialist) comp in the databases. | chrome: Terapeak AU 3y (no condition filter shown): 'lion trap antique' (1 result, mouse trap), 'animal trap antique iron' (0), 'rabbit trap' (modern cage traps), 'vintage steel trap' (Lane/Lanes Ace traps); web search Lion brand trap",
+ "needs_chrome": false,
  "rate_note": "All prices AUD, no conversion.",
  "chrome_hint": "eBay AU sold + Terapeak: 'Lion brand rabbit trap' ; 'Lion stamped trap antique' ; 'vintage long spring trap' ; 'antique rabbit trap Australia' . Also eBay sold 'Lion trap' on ebay.com (US) for convert to AUD. Also Facebook/Gumtree collector asking prices as ASKING only, and Gowans/Leski/Lawsons 'antique animal trap' realised prices.",
- "viewing_check": "Examine jaw faces, spring and pan for a stamped lion and maker name (e.g. 'Lion', patent or foundry marks, 'Made in England'); photograph the stamp close up. Check jaws are not cracked and the spring is not broken or heavily pitted."
+ "viewing_check": "Look for Lion stamp on jaw or springs, check for cracks and that springs are not broken.",
+ "chrome_done": true
 }

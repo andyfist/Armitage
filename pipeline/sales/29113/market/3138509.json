@@ -1,7 +1,7 @@
 {
  "cdid": 3138509,
  "lot": 1917,
- "identification": "Three-tine pitch fork on long timber handle plus a single-bit felling axe, rusty, handle weathered. No maker stamp legible in the photo. Generic farm tools unless the axe head carries a Kelly, Plumb or Hytest mark.",
+ "identification": "Three-tine pitch fork on long timber handle and a single-bit felling axe head on a short timber handle; rusty, unmarked as far visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,48 @@
    "url": "https://www.ebay.com.au/itm/116874458928",
    "same_item": "category guide",
    "note": "Kelly True Temper axe, polished head; lowest marked Kelly eBay sale in database. Page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$37.62",
+   "currency": "AUD",
+   "aud_price": 37.62,
+   "date": "2026-05-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117112520105",
+   "same_item": "category guide",
+   "note": "Vintage Sandvik 4.5lb felling axe HEAD, marked brand; this lot is unmarked/rusty so lower.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$64.32",
+   "currency": "AUD",
+   "aud_price": 64.32,
+   "date": "2023-12-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/175990911675",
+   "same_item": "category guide",
+   "note": "Vintage Hults Bruk 2.75lb axe, marked; over 3 years old.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$15.90",
+   "currency": "AUD",
+   "aud_price": 15.9,
+   "date": "2025-09-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167699317138",
+   "same_item": "category guide",
+   "note": "Vintage pitchfork head, garden deco.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'felling axe', 'pitch fork', 'Kelly axe', 'Plumb axe'; work comps.py: 'axe fork' (no resale comps). No web searches (Chrome only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'felling axe', 'pitch fork', 'Kelly axe', 'Plumb axe'; work comps.py: 'axe fork' (no resale comps). No web searches (Chrome only). | chrome: Terapeak AU 3yr: 'vintage axe head rusty unmarked' (0), 'vintage felling axe' (avg A$108, range A$9-666, mostly marked brands), 'pitchfork vintage' (avg A$21).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings (Terapeak): 'pitch fork vintage timber handle' and 'old felling axe unmarked' to confirm generic resale; and if a stamp is found, 'Kelly Dandenong axe', 'Plumb Hytest axe Australia' sold. Unmarked rusty axes and forks are likely only a few dollars each to a few tens.",
- "viewing_check": "Clean and photograph both faces of the axe head for a stamp (Kelly, Plumb, Hytest, Tasmanian pattern, Sheffield). Note handle condition and any cracks. Check fork for a maker mark on the socket. If unmarked, treat as generic.",
- "rate_note": "All prices already AUD, no conversion."
+ "viewing_check": "Clean the axe head and check both faces for a Kelly, Plumb, Hytest or Sheffield stamp; a Kelly would lift it to A$100-275.",
+ "rate_note": "All prices already AUD, no conversion.",
+ "chrome_done": true
 }

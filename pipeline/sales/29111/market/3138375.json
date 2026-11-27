@@ -1,7 +1,7 @@
 {
  "cdid": 3138375,
  "lot": 1782,
- "identification": "Mixed tray of generic used hand tools: G-clamps, sash clamp screws, tin snips, bolt cutters, adjustable wrench, hacksaw, tape measure, tin of zinc stencils. No notable makers legible; rust.",
+ "identification": "Cardboard tray of used hand tools: yellow/orange large G-clamp, green G-clamp, sash clamp screws, tin snips (two pairs plus orange-handled aviation snips), bolt cutters, adjustable pipe wrench, hacksaw frame, blue plastic measuring tape reel, and a metal box of zinc stencil letters/numbers (appear fairly full) with an extra pair of old tin snips.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,10 +57,35 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089105&chid=28842&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Sash clamps and bolt cutters. Paid locally, not a resale price. Database hit, no web page opened. AUD, rate 1."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.38",
+   "currency": "AUD",
+   "aud_price": 30.38,
+   "date": "2024-01-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/285589081799",
+   "same_item": "close",
+   "note": "Set of galvanised metal letter stencils 7.5 cm high, fixed price. Over 2.5 years old.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$40",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-07-29",
+   "venue": "Armitage sale 28329 lot 1724",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997059&chid=28329&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Tray with tin snips etc, cost guide only, database record not opened.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'G-clamp clamps', 'bolt cutters', 'tin snips', 'stencil zinc letters'; work comps.py: 'clamps tools'. Generic lot, stopped early. No resale comps for this kind of lot; only local rooms (typically $20-45).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'G-clamp clamps', 'bolt cutters', 'tin snips', 'stencil zinc letters'; work comps.py: 'clamps tools'. Generic lot, stopped early. No resale comps for this kind of lot; only local rooms (typically $20-45). | chrome: Terapeak AU 3yr sold 'vintage zinc stencil set letters numbers' (no results), 'stencil set metal letters' (one relevant row, no condition filter in line).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'vintage G clamp lot', 'sash clamp heads', 'zinc stencil set letters numbers vintage', 'bolt cutters 900mm' (sold filter, last 90 days). Only worth it if the viewing shows a branded item (Record, Eclipse, Gedore, Bahco) or a complete stencil set.",
- "viewing_check": "Look for maker names on the bolt cutters, snips, wrench and clamps (Record, Eclipse, Gedore, Bahco, Starrett on tape/rule) and check whether the zinc stencil set is complete in its tin."
+ "viewing_check": "Look for maker names on the bolt cutters, snips, wrench and clamps (Record, Eclipse, Gedore, Bahco, Starrett on tape/rule) and check whether the zinc stencil set is complete in its tin.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138402,
  "lot": 1810,
- "identification": "Two cardboard trays of used, rusty common hand tools: universal joints, tyre/valve tools, drift punches, boxed Grip-type bits, pliers, chain, oil filter wrenches, cast pulleys, leather tool bag, plus an NJ Phillips (njphillips.com) boxed animal drench/vaccinator gun and a pump-type applicator. Generic, low value.",
+ "identification": "Two cardboard trays of used rusty common hand tools: universal joint drive shafts, drift punches and pins, Grip-type boxed bits, pliers, chain, oil filter wrench, 3 cast iron pulleys, leather tool bag, plus a boxed NJ Phillips (njphillips.com) animal drench/vaccinator gun and a pump-type applicator.",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,11 +46,24 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088793&chid=28841&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Sale 28841 lot 1627 2 baskets of various hand tools; similar generic lot, what we might pay only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$30-35",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-11-28",
+   "venue": "eBay AU (Terapeak, avg sold A$40, range A$1-293, 'drench gun' 3 yrs)",
+   "url": "https://www.ebay.com.au/itm/394733287816",
+   "same_item": "category guide",
+   "note": "New generic 50ml drench gun, 83 sold at A$35 fixed price. Generic gun, not NJ Phillips; category guide only, so not used for a max.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'NJ Phillips drench' (none), 'drench gun' (none), 'universal joint tool' (none), 'hand tools' (many Armitage generic lots $30-80), 'pliers', 'stock gun' (irrelevant). work/comps.py: 'NJ Phillips' (only an unrelated book). No same-item comps; generic lot so stopped early.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'NJ Phillips drench' (none), 'drench gun' (none), 'universal joint tool' (none), 'hand tools' (many Armitage generic lots $30-80), 'pliers', 'stock gun' (irrelevant). work/comps.py: 'NJ Phillips' (only an unrelated book). No same-item comps; generic lot so stopped early. | chrome: Terapeak AU 3yr sold: 'NJ Phillips drench gun' (0 results), 'drench gun' (avg A$40.24, filters: no condition chip shown). Verdict: clearly under A$100, no max.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'NJ Phillips drench gun' and 'NJ Phillips vaccinator'; eBay AU sold: 'drench gun automatic 20ml' (to price the stock gun alone); eBay AU sold: 'universal joint tool lot'. Also NJ Phillips website for new retail of the boxed gun (ASKING, new retail price). Low value lot, only worth a quick check.",
- "viewing_check": "Check the NJ Phillips box is complete and the gun is intact and unused, and look for any named good-brand tools (Snap-on, Whitworth sets, Sidchrome) among the rusty tools. Otherwise nothing.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check NJ Phillips box is complete and gun unused; look for good-brand tools (Snap-on, Sidchrome) among the rust.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138085,
  "lot": 1488,
- "identification": "Two cast bronze/brass three-blade boat propellers, larger about 27 cm, bored hubs, unmarked, polished, scratched. Generic nautical decor / scrap metal.",
+ "identification": "Two cast bronze/brass three-blade boat propellers (largest 27 cm, other about 22 cm), shaft bores in hubs, unmarked, cleaned/buffed with surface scratches; decor/scrap or small-boat spares.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,84 @@
    "url": "gowans lot id 377261",
    "same_item": "close",
    "note": "Single brass propeller, 2 bids; low end. Local database hit (page not opened); AUD already, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70.02",
+   "currency": "AUD",
+   "aud_price": 70.02,
+   "date": "2026-05-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/178165556161",
+   "same_item": "close",
+   "note": "Vintage brass boat propeller 280 mm dia, single, fixed price (same size as our larger one).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$98.24",
+   "currency": "AUD",
+   "aud_price": 98.24,
+   "date": "2025-06-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/136045531823",
+   "same_item": "close",
+   "note": "Vintage bronze/brass boat propeller 35 cm wide, single, fixed price; larger than ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$142.70",
+   "currency": "AUD",
+   "aud_price": 142.7,
+   "date": "2024-03-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134956823536",
+   "same_item": "category guide",
+   "note": "Vintage large brass/bronze propeller 47 cm; much larger.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$163.93",
+   "currency": "AUD",
+   "aud_price": 163.93,
+   "date": "2023-12-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166479663677",
+   "same_item": "category guide",
+   "note": "Large vintage 3 blade brass propeller approx 380 mm, 6.7 kg; over 3 years old? no, under 3 years; larger.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.00",
+   "currency": "AUD",
+   "aud_price": 20.0,
+   "date": "2024-05-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176311334810",
+   "same_item": "category guide",
+   "note": "2 x vintage 3 blade brass MODEL boat propellers (much smaller).",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$125",
+   "currency": "AUD",
+   "aud_price": 125.0,
+   "date": "2026-11-11",
+   "venue": "Armitage sale 28977 lot 1440",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112345&chid=28977&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "2 brass propellers dia 22cm; database hint, not opened; not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'brass propeller' (32 hits), 'bronze propeller boat' (none), 'ship propeller nautical' (none); work/comps.py: 'propeller' (7 Gowans/Armitage hits). No web used.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'brass propeller' (32 hits), 'bronze propeller boat' (none), 'ship propeller nautical' (none); work/comps.py: 'propeller' (7 Gowans/Armitage hits). No web used. | chrome: Terapeak AU 3 yrs 'brass boat propeller' (many RC-model hits plus vintage large ones).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/completed: 'brass boat propeller 3 blade' and 'bronze propeller 10 inch' (Terapeak, last 90 days, Australia); also 'bronze propeller 27cm lot of 2'. Also check Leski, Mossgreen, Theodore Bruce and Lawsons for 'brass boat propeller'. Note weight-based scrap value (bronze ~ $8-10/kg) from a metal dealer listing.",
- "viewing_check": "Weigh both propellers (bronze scrap floor), check for stamped maker, diameter/pitch numbers or shaft bore marks on hubs, and check for cracks or bent blades. Confirm metal is bronze/brass not pot metal.",
- "rate_note": "All prices AUD; no conversion."
+ "viewing_check": "Weigh each, look for stamped pitch/diameter on hub, cracks, bent blades, confirm bronze (not pot metal).",
+ "rate_note": "All prices AUD; no conversion.",
+ "chrome_done": true
 }

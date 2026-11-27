@@ -1,7 +1,7 @@
 {
  "cdid": 3138159,
  "lot": 1563,
- "identification": "Mixed household tub: one fallow deer antler set (loose), modern brass ship-style quartz wall clock (Roman dial, probably reproduction), wooden spirit level, wire chip basket, wooden-handled chisels and tools, pram wheels, brass-green enamel lid; separate vintage electric or sad iron with blue handle on a stand (possibly Mrs Potts style), plain unmarked cast iron lidded pot, brass oval chamberstick with handle. No maker marks visible. Generic mixed lot.",
+ "identification": "Mixed household tub: fallow deer antler set (loose, one set plus part), modern brass-rimmed quartz ship-style wall clock with Roman dial, wooden spirit level (green bubble), wire chip basket, wooden-handled chisels, two pram wheels, verdigris brass/enamel lid; separate light blue enamel-handled flat iron on brass-ringed hanging stand with silver ball (looks like a gas/spirit or Mrs Potts-style iron, unmarked), plain rusty cast iron lidded casserole, brass oval chamberstick with loop handle. Generic mixed lot.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,38 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2472301&chid=23841",
    "same_item": "category guide",
    "note": "Brass chamberstick in a mixed box. Paid locally (not a competitive auction): shows what we might pay, not resale. Local database record, hammer price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.7",
+   "currency": "AUD",
+   "aud_price": 19.7,
+   "date": "2024-05-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225962706472",
+   "same_item": "close",
+   "note": "Single shed antler, multi-sale listing average (26 sold), single-item price.",
+   "title": "Fallow Deer antlers naturally shed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$49.84",
+   "currency": "AUD",
+   "aud_price": 49.84,
+   "date": "2023-12-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225891984837",
+   "same_item": "close",
+   "note": "Large single antler, 7 sold, average. Over 3 years old by Dec 2026? No, just under 3 years.",
+   "title": "Naturally shed large fallow deer antler",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'deer antlers', 'fallow antlers', 'sad iron', 'cast iron casserole', 'ship clock brass', 'camp oven', 'pram wheels', 'chamberstick brass'; work comps.py: 'antlers'. No genuine resale (competitive market) comps found; every relevant hit is Armitage or Gowans. Antlers about $35-$90 a set locally, camp ovens $10-$55, ship clocks $40-$45 for modern ones. eBay Terapeak hits were for unrelated box lots and not included.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'deer antlers', 'fallow antlers', 'sad iron', 'cast iron casserole', 'ship clock brass', 'camp oven', 'pram wheels', 'chamberstick brass'; work comps.py: 'antlers'. No genuine resale (competitive market) comps found; every relevant hit is Armitage or Gowans. Antlers about $35-$90 a set locally, camp ovens $10-$55, ship clocks $40-$45 for modern ones. eBay Terapeak hits were for unrelated box lots and not included. | chrome: Terapeak AU 3 yr SOLD 'fallow deer antlers' (filter line not checked, treated as unfiltered). Verdict: under A$100, resale not worth the effort; max 0.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings (Terapeak): 'fallow deer antlers' (sold, last 90 days); 'cast iron lidded pot camp oven' sold; 'brass ship clock quartz' sold; 'vintage sad iron stand blue handle' / 'Mrs Potts iron' sold; 'brass chamberstick oval handle' sold; 'wooden pram wheels spoked' sold. Check whether the clock face has a maker name (Schatz, Seth Thomas, Smiths) and whether the cast iron pot is marked (Dutch oven size number, maker).",
- "viewing_check": "Clock dial and back (maker name, quartz vs mechanical movement); underside of the cast iron pot and lid for a maker mark or size number (e.g. Kookaburra, Spinifex, Chasseur); the blue iron (maker, electric or sad); antler count and any skull plate; brass chamberstick for marks or hallmark.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Clock dial maker name; mark under pot and iron.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

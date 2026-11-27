@@ -1,7 +1,7 @@
 {
  "cdid": 3138158,
  "lot": 1562,
- "identification": "Two metal tool boxes (red cantilever with 1/2in drive ratchets, extensions and loose sockets; galvanised box with Sidchrome AF combination spanners, water pump pliers, screwdrivers). Mixed used hand tools, some rust, no complete set seen. Modern new retail price not applicable (mixed used lot, no single product).",
+ "identification": "Two used metal tool boxes: red cantilever box with about 60 mixed 1/2in and 3/8in sockets, 2 ratchets, extension bars and about 20 spanners; plus a galvanised box with a mixed jumble of spanners, water-pump pliers, screwdrivers, ring spanners (a 15/16 AF Sidchrome ring and a double open ender visible). Mixed makes, not a matched set.",
  "entries": [
   {
    "kind": "SOLD",
@@ -114,9 +114,10 @@
    "note": "Sidchrome 39 piece SCMT19100 socket set in case, a tidier complete set than this lot's loose sockets. Taken from our database only, page not opened, nature of price unverified."
   }
  ],
- "searches_tried": "pipeline comps.py: 'Sidchrome spanners' (22 local hits, median $95), 'socket set' (110 local hits, median $68), 'tool box spanners' (31 hits, median $60); work comps.py: 'Sidchrome spanner' (14 Gowans hits). No resale (eBay, dealer) comps in databases beyond one eBay AU 39pc socket set row.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'Sidchrome spanners' (22 local hits, median $95), 'socket set' (110 local hits, median $68), 'tool box spanners' (31 hits, median $60); work comps.py: 'Sidchrome spanner' (14 Gowans hits). No resale (eBay, dealer) comps in databases beyond one eBay AU 39pc socket set row. | chrome: eBay AU public sold 'sidchrome spanners job lot' (Nov 2026); Terapeak AU 3yr 'tool box spanners sockets sidchrome lot' (Condition filter 1 selected, Used): 1 irrelevant row.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'Sidchrome spanners lot', 'Sidchrome combination spanner set AF vintage', 'Sidchrome 1/2 drive socket set', 'vintage cantilever tool box tools lot' (Sold items, last 90 days); Terapeak same terms; Gumtree/Facebook Marketplace Tasmania for Sidchrome spanner sets; Mitre/Sidchrome retail for new price of a 1/2in drive socket set and AF combination spanner set.",
- "viewing_check": "Count of Sidchrome-marked spanners and whether sets are complete AF ranges; check the socket drive sizes and whether any are Sidchrome or Snap-on/Gedore; look for hidden better tools (Sidchrome ratchets, torque wrench, Stanley/Record items) under the top trays; note rust level on spanners.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Count Sidchrome-marked pieces and sockets, check for Snap-on/Gedore/Britool and any torque wrench or ratchet set under the trays.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138406,
  "lot": 1814,
- "identification": "Tub of about 15-20 hubcaps and wheel covers: early VW Beetle dome hubcap with VW logo (heavily rusted, dented), a large chrome Ford spoke-pattern wheel cover, a second spoke cover, several plain dog-dish caps, and rusty/pitted covers. Mixed makes, poor condition.",
+ "identification": "Plastic tub of about 12-15 hubcaps/wheel covers: one rusty VW dome hubcap (VW logo, pitted), two Ford-style spoke wheel covers (oval Ford badge on centre caps), several plain dog-dish/Holden-type chrome caps and cover rings, mixed makes.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,60 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2754190&chid=26808&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Set of 4 Holden hubcaps, a tidy set rather than a mixed tub. Paid locally (not a competitive resale price). Database hit, no web page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52",
+   "currency": "AUD",
+   "aud_price": 52,
+   "date": "2025-02-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267122428998",
+   "same_item": "close",
+   "note": "VW Beetle/Kombi 10in hubcap, single, Fixed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52",
+   "currency": "AUD",
+   "aud_price": 52,
+   "date": "2025-04-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/315200521648",
+   "same_item": "close",
+   "note": "Baby Moon chrome hubcap for VW Beetle, single, Fixed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2024-05-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/276470684496",
+   "same_item": "close",
+   "note": "2 vintage chrome 10in domed VW hubcaps, auction (pair)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$29",
+   "currency": "AUD",
+   "aud_price": 29,
+   "date": "2024-04-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176322081178",
+   "same_item": "close",
+   "note": "Original VW Beetle & Kombi vintage hubcaps, auction, low end",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'hub caps', 'hubcap volkswagen' (no hits), 'wheel covers'; work comps.py: 'hubcaps'. Hits were all Armitage/Gowans (paid locally); no true resale comps found.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'hub caps', 'hubcap volkswagen' (no hits), 'wheel covers'; work comps.py: 'hubcaps'. Hits were all Armitage/Gowans (paid locally); no true resale comps found. | chrome: Terapeak AU 3 yrs sold: 'vw beetle hubcap'.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'VW beetle hubcap original' ; 'Ford wheel cover spoke vintage'; 'dog dish hubcap lot'; 'job lot hubcaps'. Terapeak same terms, last 90 days. Also Gumtree/Facebook Marketplace asking for early VW dome hubcap (check split-window/oval era vs 1960s).",
- "viewing_check": "Look at the VW cap: any date/part number stamped on the back and whether it is the early (pre-1967) flat-logo style; check which Ford and other covers are matched pairs or sets of 4 and their model fit; check for cracks in spoke covers. Count the caps.",
- "rate_note": "All prices already AUD, no conversion."
+ "viewing_check": "Check back of VW cap for marks and if the Ford covers are matched sets.",
+ "rate_note": "All prices already AUD, no conversion.",
+ "chrome_done": true
 }

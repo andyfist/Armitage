@@ -15,10 +15,10 @@
  "scanned": 283,
  "candidates": 71,
  "counts": {
-  "PASS": 2,
-  "CHROME": 60,
-  "FAIL": 9,
-  "DROP": 0,
+  "PASS": 5,
+  "CHROME": 39,
+  "FAIL": 25,
+  "DROP": 2,
   "NOT RESEARCHED": 0
  },
  "lots": [
@@ -32,12 +32,22 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 9:51:20 PM ADST",
-   "identification": "US-pattern wooden ammunition crate for 2 rounds of 105mm H.E. M1 with supplementary charge and PD fuze M557, Comp B filled, dated 1966 (Vietnam era). Empty, common militaria.",
+   "identification": "US-pattern wooden ammunition crate for 2 rounds of 105mm HE M1 with supplementary charge and PD fuze M557, lot MY-10-66 (1966), Vietnam era, rope handles, hinged lid, two latches, empty. Photo 1 stencils read 105MM F-?? on lid; front reads 2 CART 105MM H.E. M1 ... FUZE PD M557 ... MY-10-66, 35/118. Photo 2: empty, torn paper labels and 76 in marker inside lid, a hairline split on the lid.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold: '105mm ammo box wooden 1966' and 'M1 105mm howitzer ammunition crate'; eBay.com sold (convert USD) 'M1 105mm HE wood ammo crate'; Terapeak same; Pickles/Leski/Shannons militaria results; WorthPoint '105mm ammunition crate'.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 39.95,
+     "date": "2026-11-25",
+     "venue": "eBay AU (public sold search)",
+     "url": "https://www.ebay.com.au/itm/115218206978",
+     "same_item": "close",
+     "note": "F22 pattern 105mm Howitzer wooden ammo box, military surplus, pre-owned, BIN; Terapeak shows 17 sold at avg A$39.72 over 3 yrs; postage about A$38",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -88,11 +98,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 39.95,
+   "net_resale": 33.9575,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $40 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -107,11 +117,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 9:57:40 PM ADST",
-   "identification": "Coca-Cola can-shaped rolling drinks cooler on castors, red body, 'Coca-Cola Coke Trade Mark Regd' script, cream lid; plastic promotional cooler, likely 1980s. Photos show scuffed paint, stained interior.",
+   "identification": "Coca-Cola can-shaped rolling drinks cooler on castors, red plastic body with Coca-Cola script and 'Coke Trade Mark Regd', cream lid, side handle recess, about 84 cm high; c.1980s-90s promotional can cooler. Interior is a plain moulded tub with a smaller inner disc; stained/dirty.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold/completed: 'Coca-Cola can cooler wheels', 'Coke can shaped esky on castors', 'Coca-Cola drinks cooker'; Terapeak same terms (last 12 months, Australia); Gumtree/Facebook Marketplace Tasmania and Victoria asking prices for 'Coca-Cola can cooler'; Leski, Lawsons, Mossgreen/Theodore Bruce past results for 'Coca-Cola cooler'; LiveAuctioneers 'Coca-Cola can cooler'. Note whether the sold ones are the same 1980s plastic type and their condition.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -149,7 +159,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -164,11 +174,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 9:58:00 PM ADST",
-   "identification": "Grey steel 12-drawer desktop/floor index or parts cabinet with card-holder handles, mid-century industrial; catalogue says Namco (maker badge on top front illegible in photo). Slim narrow cabinet, not a standard filing cabinet. Rust on bottom drawer and base, worn top.",
+   "identification": "Narrow grey painted steel 12-drawer cabinet (index/parts/filing chest), card-holder handles, H114 W36 D41 cm; maker badge not legible in the 450x600 photo (catalogue says Namco). Surface rust on bottom drawer and base, worn top.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'vintage industrial 12 drawer steel cabinet', 'multi drawer metal parts cabinet industrial', 'Namco 12 drawer cabinet', 'steel index card cabinet 10 drawer', 'Namco filing chest'. Also Gumtree/Facebook Marketplace Tasmania asking prices for 'industrial drawer cabinet' for local resale ceiling. Check postage/pickup, as freight on a bulky steel cabinet limits eBay sales.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -197,7 +207,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -212,12 +222,22 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:01:20 PM ADST",
-   "identification": "Geelong brand black checkerplate steel ute/trailer toolbox with red reflectors, gas struts, lockable latches, on galvanised mounting frame, about 122 x 48 x 45 cm. Badge and inside label illegible in photos.",
+   "identification": "Large black checkerplate (diamond plate) steel chest-style ute/trailer toolbox with galvanised mounting frame, 122x48x45 cm, red reflectors and reflective strip, gas struts, two latches, side handles; catalogue says Geelong (a Geelong Diamond Plus style chest, c.1050-1200 mm class). Fair condition, few loose bolts inside. Lid badge and inside label unreadable in 800x600 photos.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold (Terapeak): 'Geelong toolbox', 'Geelong checkerplate toolbox', 'steel checkerplate ute toolbox', 'trailer toolbox checkerplate steel'. Gumtree/Facebook Marketplace Tas asking for 'Geelong toolbox'. Also new retail price (ASKING) for a comparable steel checkerplate ute toolbox at Bunnings, Supercheap Auto, Repco, Totally Tools. Geelong is an Australian maker, check their current catalogue for the model.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 175.61,
+     "date": "2024-03-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/295307689865",
+     "same_item": "close",
+     "note": "Geelong Diamond Plus toolbox 1050mm TB30FMD, likely new from a dealer, A$49.29 postage; 2 sold. Slightly smaller and over 2.5 years old.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -268,11 +288,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 175.61,
+   "net_resale": 149.26850000000002,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $176 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -287,11 +307,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:04:00 PM ADST",
-   "identification": "Two cast iron treadle sewing machine bases: one marked SINGER on the cross bar (sphinx style wheel guards, rusty, worn paint), one unnamed black painted base. Both with treadles and grates. Common items.",
+   "identification": "Two cast iron treadle sewing machine bases. Right: Singer treadle base with SINGER cast in the cross-bar, sphinx medallions, lattice end frames, rusty/brown, treadle grate and wheel present. Left: unnamed black-painted base with scrolled top rails and swan-neck cross frame, treadle and wheel present, maker not identifiable. Both appear complete.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Singer treadle base cast iron' and 'cast iron treadle sewing machine base pair' (bare bases, not tables); Australian Gumtree/Facebook Marketplace asking prices for 'treadle base' in Tasmania/Victoria; Invaluable/LiveAuctioneers sold 'Singer treadle base' Australia. Check whether an unnamed base sells for less than a Singer one.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 46.24,
@@ -300,6 +320,15 @@
      "url": "https://www.ebay.com.au/itm/135306016956",
      "same_item": "close",
      "note": "Singer treadle base table. Not reopened. Postage likely limits eBay buyers for bare bases.",
+     "old": false
+    },
+    {
+     "aud_price": 245.89,
+     "date": "2024-03-07",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256435193031",
+     "same_item": "close",
+     "note": "Pre-1920s Singer treadle cast iron table base legs only, auction with 1 bid, free postage. Only bare-base sale found; over 2.5 years old; condition unknown.",
      "old": false
     }
    ],
@@ -399,11 +428,11 @@
      "old": false
     }
    ],
-   "resale": 46.24,
-   "net_resale": 39.304,
+   "resale": 146.065,
+   "net_resale": 124.15525,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $46 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $146 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -418,11 +447,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:13:40 PM ADST",
-   "identification": "Ullrich aluminium platform step ladder (two treads plus platform, top handrail, castors on rear legs), used. Model and height not legible in photos.",
+   "identification": "Ullrich aluminium platform step ladder, 3-step (two treads plus platform, so platform about 0.9m), top handrail, 4 castors on the rear/side bracing, Ullrich yellow-on-blue decals on stile. Used, clean, appears complete. Estimate 80-120, current bid $30.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'Ullrich platform ladder', 'Ullrich platform step ladder 3 step', 'Ullrich aluminium platform ladder 1.2m'; Terapeak same; Gumtree/Facebook Marketplace Tasmania 'Ullrich platform ladder' (ASKING only); Grays Online and Pickles/Lloyds sold results for 'platform ladder'; new retail price at Bunnings/Total Tools/Ullrich Aluminium site as ASKING (note new retail price). Check height and rating.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -469,7 +498,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -484,11 +513,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:14:20 PM ADST",
-   "identification": "Traditional round craypot, white-painted cane bound with rusty steel wire, rope handles, funnel top. Tasmanian coastal decor item. Photos show flaking paint, rusted wire, cane looks intact.",
+   "identification": "Traditional round cane (willow/cane) and wire lobster/craypot, white painted, rope handles, funnel top, approx 60-70 cm across. Common Tasmanian decor item.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'cane crayfish pot', 'vintage craypot cane', 'wicker craypot Tasmania', 'lobster pot cane decor'. Also Facebook Marketplace/Gumtree Tas 'craypot' for asking prices (ASKING only), and Leski/Mossgreen/Lawsons/Theodore Bruce sold results for 'crayfish pot' or 'lobster pot' (last 10 years).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -589,7 +618,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -604,11 +633,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:16:00 PM ADST",
-   "identification": "Kincrome aluminium checker plate gull-wing ute/truck toolbox, blue KINCROME badge, two chrome T-handle locks, gas struts, approx 120cm wide. Photos show a small scuff/mark on a lower corner.",
+   "identification": "Kincrome Upright Aluminium Truck Box 1210mm, model 51037 (discontinued): 700 H x 500 D x 1210 W mm checker plate, gull-wing top/front lid on twin gas struts, two T-handle locks with keys, rubber weather seal, blue Kincrome badge. Used, clean, minor scuffs.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + completed: 'Kincrome checker plate toolbox' and 'Kincrome ute toolbox aluminium gullwing' (Terapeak 12 months); also 'aluminium checker plate gullwing toolbox 1200' for unbranded comparison. Gumtree and Facebook Marketplace asking prices for Kincrome ute toolbox (ASKING only). New retail price in Australia: Kincrome checker plate ute/truck toolbox on kincrome.com.au, Sydney Tools, Supercheap Auto or Bunnings (ASKING, 'new retail price').",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 315.0,
@@ -631,7 +660,17 @@
    ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 1163.45,
+     "date": "2026-11-27",
+     "venue": "Australian Online Car Parts (new retail)",
+     "url": "https://www.australianonlinecarparts.com.au/upright-alum-truck-box-1210",
+     "same_item": "yes",
+     "note": "KINCROME Upright Aluminium Truck Box 1210mm 51037 NEW, RRP A$1,633.50. New retail price only.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 160.0,
@@ -680,11 +719,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:16:40 PM ADST",
-   "identification": "Single spoked bicycle-type wheel (yellow/black rim decal, possibly Mavic) in a black and red moulded body with carry handle, foot platform and small rear castor. Looks like a one-wheel personal mobility device (Solowheel or Ryno style, possibly a home-built or electric unicycle shell). Brand and model not readable, and no motor or battery is visible, so it may be a non-powered prototype or a stripped unit. Not confirmed.",
+   "identification": "Single-wheel personal transporter / electric unicycle style device: black and red moulded shell enclosing one side of a 36-spoke bicycle wheel with a Mavic-type rim (yellow/black decal, red reflector), top carry handle, foot platform at the base, small swivel castor on the rear as a parking stand, steel plate with ring of 12 bolts and a central axle nut on the shell side. Looks like an electric self-balancing monowheel (Solowheel/Ryno/Airwheel family) or home-built or prototype unit, no visible maker, no visible power switch, battery or charger. Not confirmed as electric. Catalogue calls it SKATE WHEEL, current bid A$10, estimate A$10-15.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'solowheel', 'electric unicycle self balancing', 'one wheel scooter unicycle', 'monowheel'. Also Google Lens on the lot photo to identify the maker. Check Gumtree/Facebook Marketplace for 'Solowheel Inventist' and compare. Check whether it has a motor/battery (affects value greatly). Auction houses: Lloyds, Grays, Pickles for similar e-mobility lots.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -693,8 +732,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -709,11 +748,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:17:20 PM ADST",
-   "identification": "Pair of Victorian-style cast iron bench ends, scrolling arms, pierced rosette and foliate panels, splayed legs, heavy surface rust, no slats, no foundry mark seen; period or later reproduction unknown. Photo shows one end clearly with a second behind.",
+   "identification": "Pair of cast iron garden/park bench ends (two stacked in photo), scrolled arm and top rail with scroll finials, pierced rosette-and-foliate side panel, splayed feet. Heavy rust, no paint, no slats. Victorian-style pattern, period or later casting unknown. H 77cm per catalogue. Estimate 40-70, current bid $15.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'cast iron bench ends pair', 'victorian cast iron garden seat ends', 'cast iron bench ends rosette scroll' (filter Sold, Australia, 2 years; note pair vs single and postage/pickup). Also search for a foundry pattern match: 'cast iron seat ends rosette pierced scroll arm Coalbrookdale / Victorian pattern' and Gumtree/Facebook Marketplace asking prices, LiveAuctioneers/Invaluable 'cast iron bench ends' Australian results.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 143.0,
@@ -749,6 +788,78 @@
      "url": "https://www.ebay.com.au/itm/127885780146",
      "same_item": "close",
      "note": "Vintage cast iron garden bench ends, scroll arm, painted; pair vs single unclear. Rate: AUD, no conversion. Database record, no page opened.",
+     "old": false
+    },
+    {
+     "aud_price": 78.81,
+     "date": "2026-07-19",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/127885780146",
+     "same_item": "close",
+     "note": "Vintage Cast Iron Garden Bench Ends. Terapeak row, page not opened; Fixed price unless stated; pair vs single not stated in title.",
+     "old": false
+    },
+    {
+     "aud_price": 75.65,
+     "date": "2026-08-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/187366437958",
+     "same_item": "close",
+     "note": "Vintage Original Cast Iron Bench Ends. Terapeak row, page not opened; Fixed price unless stated; pair vs single not stated in title.",
+     "old": false
+    },
+    {
+     "aud_price": 70.11,
+     "date": "2025-12-08",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167859374743",
+     "same_item": "close",
+     "note": "Cast Iron Garden Chair Bench Seat Ends, pickup only. Terapeak row, page not opened; Fixed price unless stated; pair vs single not stated in title.",
+     "old": false
+    },
+    {
+     "aud_price": 150.89,
+     "date": "2025-09-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/186957725917",
+     "same_item": "close",
+     "note": "Cast iron Garden Chair Bench Seat Ends (top of range). Terapeak row, page not opened; Fixed price unless stated; pair vs single not stated in title.",
+     "old": false
+    },
+    {
+     "aud_price": 77.67,
+     "date": "2025-05-23",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/226755822195",
+     "same_item": "close",
+     "note": "Vintage Antique Cast Iron Garden Bench Seat Ends, auction, 1 bid. Terapeak row, page not opened; Fixed price unless stated; pair vs single not stated in title.",
+     "old": false
+    },
+    {
+     "aud_price": 53.49,
+     "date": "2026-03-04",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/188092564952",
+     "same_item": "close",
+     "note": "Cast iron garden bench seat End, auction, 1 bid (single end). Terapeak row, page not opened; Fixed price unless stated; pair vs single not stated in title.",
+     "old": false
+    },
+    {
+     "aud_price": 107.7,
+     "date": "2026-09-16",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/198621703163",
+     "same_item": "close",
+     "note": "Vintage ends, fresh paint, auction, 1 bid, pickup NSW. Terapeak row, page not opened; Fixed price unless stated; pair vs single not stated in title.",
+     "old": false
+    },
+    {
+     "aud_price": 147.81,
+     "date": "2024-03-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/166623771768",
+     "same_item": "close",
+     "note": "Vintage cast iron bench seat ends x 2, pickup Thomastown (over 2 years old). Terapeak row, page not opened; Fixed price unless stated; pair vs single not stated in title.",
      "old": false
     }
    ],
@@ -820,11 +931,11 @@
      "old": false
     }
    ],
-   "resale": 109.5,
-   "net_resale": 93.075,
+   "resale": 78.24000000000001,
+   "net_resale": 66.504,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $110 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $78 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -839,21 +950,76 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:17:40 PM ADST",
-   "identification": "Fenn Millenium composite racing surf ski (Fenn, Australian maker), white, rudder, footwell pedal, bailer ports, Men's Health decal. Model name and era read from the side decal; length and layup (glass, carbon, Kevlar) not known.",
+   "identification": "Fenn Mako Millennium elite racing surf ski (side decal reads 'MILLENIUM' under the Fenn shark/Mako logo), white composite, roughly 6.4-6.5 m, understern rudder, bucket seat with adjustable footplate and pedal/rudder lines, two round bailer/drain ports at the seat, Men's Health sponsor decal. Layup (glass/carbon) unknown. An older design (Mako Millennium dates from about the early 2000s; superseded by Fenn's Swordfish/Elite/Mako6 models).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + completed: 'Fenn Millenium surf ski', 'Fenn surf ski', 'Fenn Mako surf ski' (for model-range context), 'racing surf ski' with Australia location. Gumtree and Facebook Marketplace: 'Fenn surf ski' (asking only, Tasmania and Victoria). Surfski sales sites: Surfski Warehouse / Epic Kayaks / Paddle Australia second-hand lists for 'Fenn Millenium'. Also new retail check not needed (Fenn skis are no longer made in this model).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 500.0,
+     "date": "2026-11-15",
+     "venue": "Gumtree AU",
+     "url": "https://www.gumtree.com.au/web/listing/other-sports-fitness/1345720735",
+     "same_item": "close",
+     "note": "Fenn Elite Glide carbon ~10kg, good used, watertight, North Fremantle WA, negotiable. A newer and better Fenn elite ski than a Millennium",
+     "old": false
+    },
+    {
+     "aud_price": 1690.0,
+     "date": "2026-11-07",
+     "venue": "Gumtree AU",
+     "url": "https://www.gumtree.com.au/web/listing/kayaks-paddle/1345578715",
+     "same_item": "category guide",
+     "note": "Fenn Swordfish S carbon hybrid bought new 2019, Manly NSW: modern model, far newer",
+     "old": false
+    },
+    {
+     "aud_price": 600.0,
+     "date": "2026-10-26",
+     "venue": "Gumtree AU",
+     "url": "https://www.gumtree.com.au/web/listing/kayaks-paddle/1345343585",
+     "same_item": "category guide",
+     "note": "Fenn Mako XT fibreglass 5.8m (intermediate ski), Batemans Bay NSW, negotiable",
+     "old": false
+    },
+    {
+     "aud_price": 170.0,
+     "date": "2026-11-22",
+     "venue": "Gumtree AU",
+     "url": "https://www.gumtree.com.au/web/listing/kayaks-paddle/1345848519",
+     "same_item": "category guide",
+     "note": "Fenn Mako XT fibreglass with paddle, Concord NSW, negotiable",
+     "old": false
+    },
+    {
+     "aud_price": 295.0,
+     "date": "2026-09-25",
+     "venue": "Gumtree AU",
+     "url": "https://www.gumtree.com.au/web/listing/other-sports-fitness/1344780061",
+     "same_item": "category guide",
+     "note": "Renegade 5.7m competition ski, WA, negotiable: older race skis ask A$100-300",
+     "old": false
+    },
+    {
+     "aud_price": 100.0,
+     "date": "2026-11-19",
+     "venue": "Gumtree AU",
+     "url": "https://www.gumtree.com.au/web/listing/kayaks-paddle/1345792861",
+     "same_item": "category guide",
+     "note": "Red 7 surf ski, Hilton WA, negotiable",
+     "old": false
+    }
+   ],
    "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -868,11 +1034,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:18:00 PM ADST",
-   "identification": "Three-tine pitch fork on long timber handle plus a single-bit felling axe, rusty, handle weathered. No maker stamp legible in the photo. Generic farm tools unless the axe head carries a Kelly, Plumb or Hytest mark.",
+   "identification": "Three-tine pitch fork on long timber handle and a single-bit felling axe head on a short timber handle; rusty, unmarked as far visible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings (Terapeak): 'pitch fork vintage timber handle' and 'old felling axe unmarked' to confirm generic resale; and if a stamp is found, 'Kelly Dandenong axe', 'Plumb Hytest axe Australia' sold. Unmarked rusty axes and forks are likely only a few dollars each to a few tens.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -946,7 +1112,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -961,12 +1127,31 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:18:40 PM ADST",
-   "identification": "Red painted cast iron rotary hand drum pump with crank, curved spout and steel suction tube. No brand legible. Common workshop/farm item, not obviously petroliana (no maker markings seen).",
+   "identification": "Red painted cast metal rotary hand drum pump (barrel pump) with hooked curved spout, crank handle and long grey steel suction tube, about 95 cm tall. Generic modern-style pump (Malco/Hi-Boy/Lumax type), no maker legible in the small 450x600 photo.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'rotary drum pump cast iron hand crank', 'vintage rotary barrel pump', 'hand rotary fuel drum pump red'. Also 'Malco Hi-Boy drum pump' sold and 'vintage oil drum pump' for branded versions. New retail for a cast iron rotary pump is an ASKING guide only.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 54.69,
+     "date": "2026-11-05",
+     "venue": "eBay AU (public sold search)",
+     "url": "https://www.ebay.com.au/itm/267694660388",
+     "same_item": "close",
+     "note": "VEVOR rotary barrel hand crank drum pump, brand new, +A$59 delivery",
+     "old": false
+    },
+    {
+     "aud_price": 111.93,
+     "date": "2026-11-27",
+     "venue": "eBay AU (public sold search)",
+     "url": "https://www.ebay.com.au/itm/188040496570",
+     "same_item": "close",
+     "note": "SGS cast iron rotary barrel hand pump, brand new, +A$141 delivery",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -1044,11 +1229,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 83.31,
+   "net_resale": 70.8135,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $83 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1063,11 +1248,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:21:00 PM ADST",
-   "identification": "Cast iron hand priming/lift pump, body cast 'GRAZCOS' with model line partly legible (BA3A W?), long timber handle, repainted red and grey, flaking. Vintage Australian farm pump (Grazcos, Graziers Co-operative Shearing Co), niche collector interest.",
+   "identification": "Grazcos (Graziers Co-operative Shearing Co) cast iron lever-action hand priming/transfer pump with timber handle, red and grey repaint, brass outlet fitting. Farm item.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Grazcos pump', 'Grazcos priming pump', 'Grazcos'; also 'vintage cast iron lift pump hand' sold. Check Australian auction houses (Lawsons, Leski, Gibson's, Theodore Bruce) via LiveAuctioneers/Invaluable: 'Grazcos'. Also Trove/Google for 'Grazcos BA3A' to confirm model.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -1114,7 +1299,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1129,12 +1314,58 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:27:00 PM ADST",
-   "identification": "Red unbranded hydraulic pipe bender, bottle jack ram, return springs, several bending formers, typical imported 12 tonne type. No pump handle visible.",
+   "identification": "Unbranded imported red hydraulic pipe bender (12 tonne type): frame with bottle-jack ram, two return springs, 4 bending formers/dies (loose beside the ram), two pins on the frame. Looks freshly painted, tidy. No pump handle shown. Estimate 80-100, current bid $30.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold/completed: 'hydraulic pipe bender 12 tonne' and '16 tonne pipe bender', with Terapeak; also Gumtree AU and Facebook Marketplace asking prices; new retail at Bunnings, Sydney Tools, Supercheap Auto, Toolmart for 12 tonne hydraulic pipe bender (record as ASKING, new retail price). Also check Grays Online and Lloyds sold results for 'pipe bender'.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 205.52,
+     "date": "2025-05-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/254493483960",
+     "same_item": "close",
+     "note": "12 ton hydraulic pipe bender, 6 dies, Fixed price. Terapeak row, page not opened; condition not shown (listings read as new imports); price excludes postage.",
+     "old": false
+    },
+    {
+     "aud_price": 197.39,
+     "date": "2024-06-05",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/283289015871",
+     "same_item": "close",
+     "note": "Pipe Bender 12 TON hydraulic portable, Fixed price (over 2 years old). Terapeak row, page not opened; condition not shown (listings read as new imports); price excludes postage.",
+     "old": false
+    },
+    {
+     "aud_price": 190.95,
+     "date": "2024-06-19",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/375130688529",
+     "same_item": "close",
+     "note": "Heavy duty 12 ton hydraulic pipe bender, 6 deep dies, Fixed price (over 2 years old). Terapeak row, page not opened; condition not shown (listings read as new imports); price excludes postage.",
+     "old": false
+    },
+    {
+     "aud_price": 198.11,
+     "date": "2024-03-31",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/303904522105",
+     "same_item": "close",
+     "note": "12 ton air-hydraulic pipe bender, 6 formers, Fixed price (over 2 years old; air-hydraulic variant). Terapeak row, page not opened; condition not shown (listings read as new imports); price excludes postage.",
+     "old": false
+    },
+    {
+     "aud_price": 97.9,
+     "date": "2025-08-25",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/336131655155",
+     "same_item": "close",
+     "note": "16 ton bender, 8 dies, AUCTION with 1 bid (low end; shows what a lightly contested one went for). Terapeak row, page not opened; condition not shown (listings read as new imports); price excludes postage.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -1194,11 +1425,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 197.39,
+   "net_resale": 167.7815,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $197 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1213,15 +1444,43 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:29:00 PM ADST",
-   "identification": "Strapped pack of tongue and groove Tasmanian oak flooring on bearers, handwritten 'APPROX 11.00 m/2 TAS OAK T+G'. Mixed lengths, some short, looks new and unfinished. Likely 65x20mm like Armitage's earlier packs (not confirmed).",
+   "identification": "Strapped pack (2 steel straps, on 2 bearers) of new, unfinished, light-coloured Tasmanian oak (eucalypt) tongue-and-groove flooring, catalogued 85 x 20 mm (boards in photo 2 look about 80-85 mm cover, consistent). Pack about 2.4 m long overall; boards of mixed lengths from short offcuts (roughly 0.5 m) up to about 2.4 m, many boards visibly end-matched (tongue on the end). Hand-marked on a board: 'APPROX 11.00 m/2 TAS OAK T+G' with a yellow circled '6' (pack number). Clean, no visible water staining; some boards with gum veins/knots typical of standard/feature grade.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold and Gumtree/Facebook Marketplace Tasmania: 'Tasmanian oak tongue and groove flooring' and 'Tas oak T&G flooring 65mm' (price per m2, packs 10-12 m2, Tas/Vic sales). Also check Terapeak and recycled timber yards (Tasmania, Victoria) and Bunnings/Hobart timber merchants for new Tas oak 85x19 or 60x19 T&G flooring price per m2 as ASKING entries. Check Gowans and other Tasmanian auction houses for strapped packs.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 13.39,
+     "date": "2026-11-27",
+     "venue": "Bunnings (new retail)",
+     "url": "https://www.bunnings.com.au/85-x-19mm-tasmanian-oak-em-prime-flooring-linear-metre_p0081498",
+     "same_item": "close",
+     "note": "New 85x19 Tas oak end-matched flooring, prime grade, A$13.39 per lineal metre = about A$165/m2 at 80 mm cover. Shows new cost, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 12.76,
+     "date": "2026-11-27",
+     "venue": "Bowens (new retail)",
+     "url": "https://www.bowens.com.au/p/85x19mm-tasmanian-oak-solid-flooring-2/",
+     "same_item": "close",
+     "note": "New 85x19 Tas oak solid flooring, prime/select/standard grades, A$12.76-21.78 (unit not stated, likely per lm). New cost only.",
+     "old": false
+    },
+    {
+     "aud_price": 1700.0,
+     "date": "2026-08-28",
+     "venue": "Gumtree (Coburg VIC)",
+     "url": "https://www.gumtree.com.au/web/listing/building-materials/1344248195",
+     "same_item": "close",
+     "note": "Private seller, about 146 lm of new select-grade Tas oak T&G 108x19 (about 15 m2), A$1,700 asking = about A$110/m2. Still listed after 3 months, so asking is high; only private resale comparable found.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 205.0,
@@ -1282,7 +1541,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1297,11 +1556,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:30:00 PM ADST",
-   "identification": "Unbranded blue long-chassis hydraulic garage trolley jack with white extension handle, rusty saddle, worn paint; no brand or capacity legible in the single photo.",
+   "identification": "Unbranded heavy duty long-chassis hydraulic garage trolley jack, blue with white handle, rusty saddle; capacity unknown (likely 2-3 t).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'long chassis trolley jack 3 tonne used' and 'heavy duty garage jack 2500kg used' (sold, Australia, last 90 days); Facebook Marketplace/Gumtree Tasmania 'trolley jack' asking prices; once brand is known (check label at viewing) search '<brand> 3 tonne trolley jack' sold; new retail from Supercheap Auto, Repco, Bunnings for a 3 tonne long-chassis jack as ASKING 'new retail price'.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -1384,7 +1643,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1399,15 +1658,25 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:30:40 PM ADST",
-   "identification": "Strapped pack of Tasmanian oak tongue and groove flooring, marked APPROX 10.0 M2, about 65 mm wide, mixed lengths, some knots and gum vein, appears unused.",
+   "identification": "Strapped pack of new, unused Tasmanian oak tongue-and-groove flooring, about 10 m2 (handwritten), roughly 65 mm wide x ~20 mm, random/mixed lengths (pack about 2 m long; many shorter boards stepped at the ends), mixed colour from pale to reddish (normal Tas oak mixed species), some gum vein and knots (looks like standard/feature grade, possibly offcuts or short-length seconds).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'Tasmanian oak flooring tongue groove 65mm' and 'Tas oak T&G flooring per m2'; Facebook Marketplace/Gumtree Tas: 'Tasmanian oak flooring' (asking, per m2); retail new price per m2 from Bunnings, Britton Timbers, Mikes Timber (65x19/20 Tas oak T&G, standard/select grade) as ASKING; Gowans and Pickles/Grays Tas oak flooring pack results; Facebook Marketplace Launceston 'second hand flooring Tas oak'.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 11.9,
+     "date": "2026-11-27",
+     "venue": "Elite Wooden Floors (new retail)",
+     "url": "https://www.elitewoodenfloors.com.au/products/tasmanian-oak-solid-timber-flooring",
+     "same_item": "close",
+     "note": "New Tas oak solid T&G (85/108/133 x 19 mm), single listed price, size not given. New 65 mm T&G is roughly A$60-100/m2 (my estimate, not verified).",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 210.0,
@@ -1486,7 +1755,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1501,12 +1770,85 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:31:20 PM ADST",
-   "identification": "Six dovetailed timber gelignite boxes, Nobel (Australasia) Pty Ltd, 'BULK 1 1/8 X 8 POLAR A.N. GELIGNITE 60', 50 lb net, Authority No. 42. Pre-ICI era, likely 1920s-1950s. Photo shows boxes in decent weathered condition, one with a lid-less open top; stencilled oval Nobel stamp clearly legible on sides.",
+   "identification": "Dovetailed pine explosives boxes, Nobel (Australasia) Pty Ltd oval stamp with Alfred Nobel portrait, 'WITH CARE - KEEP DRY', 'MADE IN AUSTRALIA', 'AUTHORITY No 42'; end printing 'BULK 1 1/8 X 8 POLAR A.N. GELIGNITE 60'. Open (lidless) boxes, weathered. Only 4-5 boxes visible in the one photo (stacked 2 on 3), catalogue says 6.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'Nobel gelignite box', 'Nobel Australasia explosives box timber', 'vintage explosives box dovetail'; Terapeak same. Also LiveAuctioneers/Invaluable/Gumtree and Australian auction houses (Mossgreen, Lawsons, Leski) for 'Nobel explosives box' and 'ICI gelignite box'. Note whether sold per box or as a multi-box lot, and Nobel versus ICI branding.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 145.59,
+     "date": "2026-05-23",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/336492663696",
+     "same_item": "close",
+     "note": "'ALFRED NOBEL VINTAGE EXPLOSIVES - WOODEN BOX CRATE', single box, fixed price, +A$11.81 post. Listing page opened (ended, sparse).",
+     "old": false
+    },
+    {
+     "aud_price": 125.7,
+     "date": "2026-05-11",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/177985439132",
+     "same_item": "close",
+     "note": "'Vintage ALFRED NOBLE GELIGNITE Explosives Linderlock Wooden Box Crate Melbourne', single box, fixed price.",
+     "old": false
+    },
+    {
+     "aud_price": 122.14,
+     "date": "2023-12-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235211893348",
+     "same_item": "close",
+     "note": "'ALFRED NOBEL VINTAGE EXPLOSIVES - SUPERB WOODEN BOX CRATE', single, fixed price (same seller as 336492663696).",
+     "old": false
+    },
+    {
+     "aud_price": 97.5,
+     "date": "2023-12-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/145379154333",
+     "same_item": "close",
+     "note": "'Vintage boxes - Alfred Nobel wooden explosives crate', one box in photo (Ajax), fixed price, +A$41 post. Page opened.",
+     "old": false
+    },
+    {
+     "aud_price": 76.57,
+     "date": "2024-01-04",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235247081150",
+     "same_item": "close",
+     "note": "'ALFRED NOBEL VINTAGE EXPLOSIVES - SUPERB WOODEN BOX CRATE', single, fixed price.",
+     "old": false
+    },
+    {
+     "aud_price": 48.71,
+     "date": "2024-06-26",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/276352046788",
+     "same_item": "yes",
+     "note": "'Vintage GELIGNITE Wooden Box Crate NOBEL AUSTRALIA PTY LTD', single, fixed price.",
+     "old": false
+    },
+    {
+     "aud_price": 29.46,
+     "date": "2024-03-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256402172673",
+     "same_item": "yes",
+     "note": "'Alfred Nobel Gelignite fracture box. Wood without lid. empty', lidless like this lot, fixed price.",
+     "old": false
+    },
+    {
+     "aud_price": 25.01,
+     "date": "2024-09-13",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/165368464052",
+     "same_item": "yes",
+     "note": "'Vintage Gelignite Boxes (2)', two boxes for A$25, fixed price.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -1530,11 +1872,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 87.035,
+   "net_resale": 73.97975,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $87 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1549,15 +1891,34 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:32:20 PM ADST",
-   "identification": "Strapped pack of Tasmanian oak tongue and groove flooring, handwritten 'APPROX 10.0 M/2 TAS OAK T+G FLOORING', random lengths, appears unused. Likely 65x20mm (not confirmed).",
+   "identification": "One strapped pack of new, unfinished solid Tasmanian oak tongue and groove flooring, handwritten batten 'APPROX 10.0 M/2 TAS OAK T+G FLOORING'. End view shows about 6 boards across by about 15 layers, board face roughly 65 mm (consistent with catalogue 65x20). Random lengths: one end square, the other end ragged with many short boards; longest boards look about 1.8-2.4 m against the forklift in photo 1. Clean, bright, no finish, no visible borer or stain.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold: 'Tasmanian oak flooring T&G 10m2' and 'Tasmanian oak floorboards 85x19'; Gumtree/Facebook Marketplace Tasmania 'Tas oak flooring' (ASKING); retail new: Bunnings/Wunderlich/British Hardware/Tas timber merchants Tasmanian oak overlay flooring per m2 (new retail price, ASKING, approx $70-110/m2 expected, verify); Gowans/Hobart and Tasmanian timber salvage dealers.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 13.39,
+     "date": "2026-11-27",
+     "venue": "Bunnings (new retail)",
+     "url": "https://www.bunnings.com.au/85-x-19mm-tasmanian-oak-em-prime-flooring-linear-metre_p0081498",
+     "same_item": "close",
+     "note": "85x19 Tas oak EM prime flooring, A$13.39 per lineal metre, about A$160-170/m2 laid cover. 65 mm boards are narrower and not stocked; new value of 10 m2 roughly A$1,000-1,600. New retail only, not a resale price.",
+     "old": false
+    },
+    {
+     "aud_price": 13.09,
+     "date": "2026-11-27",
+     "venue": "Elite Wooden Floors (new retail)",
+     "url": "https://www.elitewoodenfloors.com.au/products/tasmanian-oak-solid-timber-flooring",
+     "same_item": "close",
+     "note": "Tas oak solid flooring 85/108/133x19, from A$11.90/lm ex GST (A$13.09 inc). New retail only.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 260.0,
@@ -1618,7 +1979,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1633,11 +1994,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:33:00 PM ADST",
-   "identification": "Pallet of used generic garden tools (about four picks/mattocks, shovels, spades, rakes, forks, edger, crowbar). No maker identified; rusty heads, weathered handles. Generic lot.",
+   "identification": "Pallet (blue plastic pallet) of about 25-30 mixed used garden hand tools: 3 picks/pick-mattocks, several round-mouth and square shovels/spades, lawn edger wheel, 2 plastic leaf rakes, rake and fork shafts, hand cultivator, long bar/crowbar. Rusty heads, weathered timber handles, a couple of green-handled items. No maker stamps readable.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'pick mattock vintage' (Hytest, Spear and Jackson, Tasmanian timber handle), 'shovel spade bundle', 'vintage garden tools job lot'. Facebook Marketplace Tasmania/Launceston sold garden tools. Only worth it if viewing shows a named maker (Hytest, Bulldog, Kelly, Ames) or a quality item.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -1729,7 +2090,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1744,12 +2105,40 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:33:20 PM ADST",
-   "identification": "Pair of yellow ratchet-type chain load binders with grab hooks, generic farm/transport hardware (likely 8-10mm chain size, maker not legible). Common low-value item.",
+   "identification": "Pair of yellow ratchet-type chain load binders (lever ratchet, chain size likely 8-10mm) each with two grab hooks, painted yellow with chipped paint, light rust; generic transport hardware, maker not identified.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'ratchet load binder pair' and 'ratchet chain binder 8mm' (Sold items, Australia). Also Gumtree/Facebook Marketplace used 'load binder ratchet' for asking prices, and Bunnings/Kincrome/Tradequip new price for 'ratchet load binder 8-10mm' (new retail ASKING entry, roughly $30-60 each new).",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 62.7,
+     "date": "2026-11-24",
+     "venue": "eBay AU (public sold search)",
+     "url": "https://www.ebay.com.au/itm/302544588969",
+     "same_item": "close",
+     "note": "2 x ratchet load binder 6mm, brand new, free delivery",
+     "old": false
+    },
+    {
+     "aud_price": 99.0,
+     "date": "2026-11-20",
+     "venue": "eBay AU (public sold search)",
+     "url": "https://www.ebay.com.au/itm/302896987528",
+     "same_item": "close",
+     "note": "2 x ratchet load binder 8-10mm, brand new, free delivery",
+     "old": false
+    },
+    {
+     "aud_price": 89.0,
+     "date": "2026-11-11",
+     "venue": "eBay AU (public sold search)",
+     "url": "https://www.ebay.com.au/itm/174410617649",
+     "same_item": "close",
+     "note": "2X ratchet load binder 6mm, brand new, +A$9 delivery",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -1791,11 +2180,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 89.0,
+   "net_resale": 75.64999999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $89 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1810,15 +2199,25 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:34:00 PM ADST",
-   "identification": "Two packs of Tasmanian oak 65 mm architrave or skirting, handwritten approx 60 lm and 50 lm (about 110 lm), appears unused and clean. Photos confirm both labels.",
+   "identification": "Two loose-strapped packs of unpainted, apparently unused Tasmanian oak 65 mm architrave/skirting (flat profile with eased/rounded edge, about 18-19 mm thick by eye), long lengths (several pieces look 3-5 m). Pack 1 batten: '65mm ARCHITRAVE APPROX 60.0 M LIN TAS OAK OR SKIRTING' (yellow circled 1); pack 2: '65mm ARCHITRAVE APPROX 50.0 M LIN TAS OAK OR SKIRTING' (circled 2). About 110 lm total, so the catalogue's '50 linear metre' undercounts (it gives only pack 2). A visible longitudinal split in the top piece of pack 1.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold/completed: 'Tasmanian oak architrave 65mm', 'Tas oak skirting 65mm lineal'; Gumtree Tasmania/Victoria and Facebook Marketplace 'Tasmanian oak architrave' (asking, per lm); Terapeak 'tasmanian oak skirting'; new retail per lm at Bunnings and Britton Timbers / Tasmanian oak mouldings suppliers (ASKING, new retail price); other auction houses: Gowans Hobart, Burnie/Devonport auctions for timber packs.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 34.2,
+     "date": "2026-11-27",
+     "venue": "Bunnings (new retail)",
+     "url": "https://www.bunnings.com.au/65-x-19mm-2-4m-moulding-tasmanian-oak-single-bevel-select_p0070028",
+     "same_item": "close",
+     "note": "65x19 Tas oak single bevel moulding, select grade, A$14.25/lm (page opened in Chrome). 110 lm new would be about A$1,570. New retail only.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 55.0,
@@ -1861,7 +2260,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1876,15 +2275,43 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:35:40 PM ADST",
-   "identification": "Strapped pack of new-looking Tasmanian oak tongue and groove flooring, label 'APPROX 13.0 M/2' (label only), mixed lengths incl. short offcuts, unfinished, mixed pale to red tones.",
+   "identification": "Long strapped pack (3 steel straps plus top battens, on bearers) of new, unfinished Tasmanian oak tongue-and-groove flooring, catalogued 65 x 20 mm; end view shows about 8 boards wide by about 20-22 layers, boards with tongue/groove and relief grooves underneath. Pack roughly 3.5-3.6 m long; most boards long (photo 1 shows a mostly square-ended pack with only a few short boards sticking out), the other end stepped with shorter lengths. Colour pale to mid pink-brown with some darker gum-vein/feature boards (mixed Tas oak species, standard/feature grade). Batten marked 'APPROX 13.0 m/2 TAS OAK T+G FLOORING' with a yellow circled pack number (looks like 2). Clean, no visible staining.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold/completed: 'tasmanian oak tongue and groove flooring' and 'tas oak floorboards 130mm' (note $/m2 and pickup only). Facebook Marketplace/Gumtree Tasmania and Victoria: 'tasmanian oak flooring' (ASKING). Retail new: Bunnings, Britton Timbers, Tas Oak flooring 85x19 / 65x20 per m2 (ASKING, new retail). Also Gumtree 'recycled/ new surplus Tas oak T&G', and Gowans, Mossgreen/Lawsons-type timber lots for sold results.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 13.39,
+     "date": "2026-11-27",
+     "venue": "Bunnings (new retail)",
+     "url": "https://www.bunnings.com.au/85-x-19mm-tasmanian-oak-em-prime-flooring-linear-metre_p0081498",
+     "same_item": "close",
+     "note": "New 85x19 Tas oak end-matched flooring, prime grade, A$13.39 per lineal metre = about A$165/m2 at 80 mm cover. Shows new cost, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 12.76,
+     "date": "2026-11-27",
+     "venue": "Bowens (new retail)",
+     "url": "https://www.bowens.com.au/p/85x19mm-tasmanian-oak-solid-flooring-2/",
+     "same_item": "close",
+     "note": "New 85x19 Tas oak solid flooring, prime/select/standard grades, A$12.76-21.78 (unit not stated, likely per lm). New cost only.",
+     "old": false
+    },
+    {
+     "aud_price": 1700.0,
+     "date": "2026-08-28",
+     "venue": "Gumtree (Coburg VIC)",
+     "url": "https://www.gumtree.com.au/web/listing/building-materials/1344248195",
+     "same_item": "close",
+     "note": "Private seller, about 146 lm of new select-grade Tas oak T&G 108x19 (about 15 m2), A$1,700 asking = about A$110/m2. Still listed after 3 months, so asking is high; only private resale comparable found.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 205.0,
@@ -1963,7 +2390,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -1978,12 +2405,76 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:36:40 PM ADST",
-   "identification": "Wellsaw Model 404 electric reciprocating saw (not pneumatic as titled), Wells Manufacturing Corp, Three Rivers, Michigan USA; 3.5 A 230 V AC/DC, serial 22219, US Pat 3784751. A butcher/carcass/bone type saw with long blade. Dirty, rusted blade, worn cord.",
+   "identification": "Jarvis/Wellsaw Model 404 heavy duty electric reciprocating breaking saw (butcher/bone saw, 16 inch blade type), Wells Manufacturing Corp, Three Rivers Michigan, serial 22219, 230V AC/DC 3.5A. Title says pneumatic but the plate is electric. Rusty blade, dirty alloy body, long rubber cord, untested.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and eBay US sold/completed: 'Wellsaw 404', 'Wellsaw 400 meat saw', 'Wells Manufacturing reciprocating saw'; Terapeak on same; also 'vintage butcher reciprocating saw' and 'Wellsaw' on LiveAuctioneers, Invaluable, Gumtree and Facebook Marketplace AU. Note price in USD and convert to AUD.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 867.34,
+     "date": "2026-08-24",
+     "venue": "eBay US via Terapeak (AUD converted by eBay)",
+     "url": "https://www.ebay.com.au/itm/117370369499",
+     "same_item": "yes",
+     "note": "NICE Jarvis Wellsaw 404 with 6 blades, Buy It Now. Includes spare blades so high end.",
+     "old": false
+    },
+    {
+     "aud_price": 511.35,
+     "date": "2026-08-04",
+     "venue": "eBay US via Terapeak (AUD converted by eBay)",
+     "url": "https://www.ebay.com.au/itm/147436591444",
+     "same_item": "yes",
+     "note": "Jarvis Wellsaw 404 HD Breaking Saw 16in, Buy It Now, free postage. Item page now shows catalogue page ePID 1069383778.",
+     "old": false
+    },
+    {
+     "aud_price": 339.39,
+     "date": "2026-03-09",
+     "venue": "eBay US via Terapeak (AUD converted by eBay)",
+     "url": "https://www.ebay.com.au/itm/157735304917",
+     "same_item": "yes",
+     "note": "Jarvis Wellsaw 404 HD Breaking Saw 16in, Buy It Now",
+     "old": false
+    },
+    {
+     "aud_price": 331.83,
+     "date": "2026-03-20",
+     "venue": "eBay US via Terapeak (AUD converted by eBay)",
+     "url": "https://www.ebay.com.au/itm/127756601620",
+     "same_item": "yes",
+     "note": "Jarvis Wellsaw 404 HD Breaking Saw 16in, Buy It Now, free postage",
+     "old": false
+    },
+    {
+     "aud_price": 490.23,
+     "date": "2025-12-27",
+     "venue": "eBay US via Terapeak (AUD converted by eBay)",
+     "url": "https://www.ebay.com.au/itm/136886441910",
+     "same_item": "yes",
+     "note": "Jarvis Wellsaw 404 HD Butcher Processor Breakdown Saw with 16in blade",
+     "old": false
+    },
+    {
+     "aud_price": 414.81,
+     "date": "2025-01-05",
+     "venue": "eBay US via Terapeak (AUD converted by eBay)",
+     "url": "https://www.ebay.com.au/itm/126866746574",
+     "same_item": "yes",
+     "note": "404 tested works, needs blade. Closest to our condition (needs blade). Over 1 year old.",
+     "old": false
+    },
+    {
+     "aud_price": 150.84,
+     "date": "2024-10-31",
+     "venue": "eBay US via Terapeak",
+     "url": "https://www.ebay.com.au/itm/135315513276",
+     "same_item": "close",
+     "note": "Air Saw Wellsaw Model 404 Jarvis pneumatic variant (the 'pneumatic' in the Armitage title may have come from this style). Low outlier, different air-tool version, over 2 years old, not used in median.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -2007,11 +2498,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "resale": 414.81,
+   "net_resale": 352.5885,
+   "max_hammer": 125,
+   "status": "PASS",
+   "why": "7 same-item SOLD price(s), median $415; less 15% fees = $353; less $200 profit, / 1.22 premium = max hammer $125",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2026,15 +2517,43 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:37:20 PM ADST",
-   "identification": "Strapped pack of unused Tasmanian oak tongue and groove flooring, hand-marked APPROX 13.0 M2 (label only), mixed lengths, mixed pale to red tones, unfinished.",
+   "identification": "Strapped pack (3 steel straps with top battens, on bearers) of new, unfinished Tasmanian oak tongue-and-groove flooring, catalogued 65 x 20 mm; end view about 8 boards wide by about 18-20 layers, relief-grooved undersides. Pack about 3 m long; one end square, the other stepped with many shorter boards (photo 3 shows a fair number of short lengths). Mixed pale to pink-brown tones with some darker boards. Batten marked 'APPROX 13.0 m/2 TAS OAK T+G FLOORING' with a yellow circled pack number (looks like 5). Looks like a sister pack of lot 1970 from the same seller.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'tasmanian oak tongue and groove flooring' and 'tas oak floorboards 85x19' and 'tas oak flooring m2'; Terapeak same; Gumtree Tasmania/Victoria and Facebook Marketplace 'Tasmanian oak flooring' (ASKING); retail new price per m2 from Bunnings, Britton Timbers, Tas Oak flooring suppliers (ASKING, new retail price). Check board size (cover width x thickness) first.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 13.39,
+     "date": "2026-11-27",
+     "venue": "Bunnings (new retail)",
+     "url": "https://www.bunnings.com.au/85-x-19mm-tasmanian-oak-em-prime-flooring-linear-metre_p0081498",
+     "same_item": "close",
+     "note": "New 85x19 Tas oak end-matched flooring, prime grade, A$13.39 per lineal metre = about A$165/m2 at 80 mm cover. Shows new cost, not resale.",
+     "old": false
+    },
+    {
+     "aud_price": 12.76,
+     "date": "2026-11-27",
+     "venue": "Bowens (new retail)",
+     "url": "https://www.bowens.com.au/p/85x19mm-tasmanian-oak-solid-flooring-2/",
+     "same_item": "close",
+     "note": "New 85x19 Tas oak solid flooring, prime/select/standard grades, A$12.76-21.78 (unit not stated, likely per lm). New cost only.",
+     "old": false
+    },
+    {
+     "aud_price": 1700.0,
+     "date": "2026-08-28",
+     "venue": "Gumtree (Coburg VIC)",
+     "url": "https://www.gumtree.com.au/web/listing/building-materials/1344248195",
+     "same_item": "close",
+     "note": "Private seller, about 146 lm of new select-grade Tas oak T&G 108x19 (about 15 m2), A$1,700 asking = about A$110/m2. Still listed after 3 months, so asking is high; only private resale comparable found.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 205.0,
@@ -2095,7 +2614,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2110,15 +2629,34 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:39:00 PM ADST",
-   "identification": "Strapped pack of approx 8.0 m2 Tasmanian oak tongue and groove flooring on bearers, mixed lengths, unfinished, unused looking with some darker boards (hand-marked batten). Profile and thickness not confirmed.",
+   "identification": "One long strapped pack of solid Tasmanian oak tongue and groove flooring on bearers, handwritten batten 'APPROX 8.0 M2 TAS OAK T+G FLOORING'. End view shows only about 3 boards across by about 17 layers, and the boards look roughly 4.5-5 times their thickness, so probably about 85-90 x 19-20 mm, not the 65 x 20 mm in the catalogue. Long lengths (pack roughly 4-5 m against the forklift), some shorter pieces sticking out one end. Unfinished, appears unused; several darker or weathered boards and a few rough/grey ends. Illegible pencil writing on the top board.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold and completed: 'tasmanian oak flooring' and 'tas oak tongue and groove flooring' (note price per m2, pickup in Tas). Gumtree and Facebook Marketplace Tas: 'tas oak flooring' per m2. Retail: Bunnings, British Hardware, Tas timber merchants for new Tas oak T&G flooring per m2 (ASKING). Auction results: Gowans, Mitchell and Co and Tasmanian Auction House sold timber flooring packs. Compare per m2 and note thickness 19-20mm and width 80-130mm.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 13.39,
+     "date": "2026-11-27",
+     "venue": "Bunnings (new retail)",
+     "url": "https://www.bunnings.com.au/85-x-19mm-tasmanian-oak-em-prime-flooring-linear-metre_p0081498",
+     "same_item": "close",
+     "note": "85x19 Tas oak EM prime flooring, A$13.39 per lineal metre, about A$160-170/m2 laid cover. 65 mm boards are narrower and not stocked; new value of 10 m2 roughly A$1,000-1,600. New retail only, not a resale price.",
+     "old": false
+    },
+    {
+     "aud_price": 13.09,
+     "date": "2026-11-27",
+     "venue": "Elite Wooden Floors (new retail)",
+     "url": "https://www.elitewoodenfloors.com.au/products/tasmanian-oak-solid-timber-flooring",
+     "same_item": "close",
+     "note": "Tas oak solid flooring 85/108/133x19, from A$11.90/lm ex GST (A$13.09 inc). New retail only.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 205.0,
@@ -2188,7 +2726,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2203,21 +2741,40 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:43:00 PM ADST",
-   "identification": "Walk-behind petrol power float (helicopter trowel), about 90 cm four-blade cage ring, red frame, yellow Robin (Fuji/Subaru) horizontal-shaft engine, probably EY20 class. Trowel maker not visible. Used, worn, dirty, condition unknown.",
+   "identification": "Walk-behind petrol power trowel / power float ('helicopter'), about 90 cm (36 in) guard ring with 4 flat finishing blades, red-orange frame and gearbox housing, single tubular handle with throttle lever and a dangling kill/deadman bail, yellow Robin (Fuji Heavy/Subaru) EY-series horizontal-shaft engine, by size probably EY20 (5 hp). Old, paint worn, rust on blades and ring; engine pull start and fuel tank present. Trowel maker unknown (no plate legible). The red frame plus Robin engine matches Crommelins (Australian maker) livery, so possibly an old Crommelins; unconfirmed.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold/completed: 'power trowel 900mm petrol', 'helicopter trowel Robin EY20', 'walk behind power float petrol 36 inch'; Terapeak same. Gumtree/Facebook Marketplace AU used power trowels (asking). Grays Online, Pickles, Slattery, Lawsons sold results: 'power trowel'. Machinery Trader/Mascus AU used. New retail ASKING: Bunnings/Total Tools/Kennards sale: '900mm petrol power trowel' (new retail price entry). Also Robin EY20 replacement engine price for parts value.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 2499.0,
+     "date": "2024-04-15",
+     "venue": "Gumtree (Boonah QLD dealer)",
+     "url": "https://www.gumtree.com.au/s-ad/boonah/other-tools-diy/crommelins-24-inch-610mm-robin-subaru-6hp-ex17-petrol-power-trowel/1323854793",
+     "same_item": "close",
+     "note": "NEW Crommelins 24in Robin/Subaru EX17 power trowel. Crommelins (Australian) uses the same red livery and Robin engines as this lot.",
+     "old": false
+    },
+    {
+     "aud_price": 2195.0,
+     "date": "2026-11-27",
+     "venue": "Roads Online (dealer)",
+     "url": "https://roadsonline.com.au/detail/powertech-honda-power-concrete-trowel-36-967017",
+     "same_item": "category guide",
+     "note": "NEW Powertech Honda 36in power trowel, inc GST, freight extra.",
+     "old": false
+    }
+   ],
    "paid": [],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2232,11 +2789,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:46:40 PM ADST",
-   "identification": "Bench-mount lever metal shear (bar/plate hand shear), long handle, painted red-brown, unmarked in photo. Generic workshop tool, likely mid-20th century Australian or British made.",
+   "identification": "Unbranded bench-mount lever metal/bar shear (hand guillotine), repainted red-brown, long lever, two mounting feet.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'bench lever shear', 'bar shear bench mount', 'hand lever metal shear cast iron'; also Terapeak for the same; Gumtree and Facebook Marketplace Tasmania asking prices for 'lever shear'; Lawsons, Mitchell's, Gowans past results for 'metal shear'. New retail: search Bunnings, Sutton Tools, Total Tools for 'bench lever shear / bar cutter' for the new retail price as an ASKING entry.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2274,7 +2831,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2289,11 +2846,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:47:00 PM ADST",
-   "identification": "Old black-painted steel cream can with hinged lid, central filler, ring handles and riveted bands; lid plaques illegible (likely dairy company plaques). Common item.",
+   "identification": "Old black-painted steel dairy cream can with lid (about 40 cm tall, hinged clasps, ring handles, riveted bands, central filler cap). Plain, no maker legible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings (Terapeak): 'vintage cream can', 'old cream can steel lid', 'dairy cream can plaque'. Also Gowans/Armitage not needed. Check sold results for cans with legible company plaques (e.g. butter factory names), which sell higher.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2358,7 +2915,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2373,11 +2930,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:47:20 PM ADST",
-   "identification": "Four terracotta pots (one with saucer, one old weathered) and a weathered wooden crate stencilled SPARKLE in green, probably a soft drink or cordial bottle crate. Generic garden pots; only the crate has small collector interest.",
+   "identification": "Four terracotta garden pots (one small weathered, one with saucer, two larger) plus a grey weathered wooden slatted crate stencilled SPARKLE in green. Crate looks like a bottle/drinks crate, probably later 20th century; pots ordinary.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'Sparkle crate wooden', 'Sparkle drinks crate', 'Sparkle cordial crate Tasmania'; also 'vintage wooden soft drink crate stencilled' sold; Terapeak for same. Check which maker/state SPARKLE was (possible Tasmanian or Victorian cordial maker). Pots are generic, no need to search.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2415,7 +2972,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2430,12 +2987,22 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:47:40 PM ADST",
-   "identification": "Wooden crate of roughly 30 or more rusty steel jaw (gin) rabbit traps, mixed patterns, no legible maker stamps.",
+   "identification": "Pine crate holding roughly 25-35 mixed rusty steel jaw (gin) rabbit traps, some chained, a few red-painted, 3 hung on crate sides. Crate has stencilled/pencilled marks (Portina, II).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'job lot vintage rabbit traps', 'antique gin trap Lane', 'Lane Ace rabbit trap', 'Cyclone rabbit trap'; Terapeak same terms, last 12 months. Also check Facebook Marketplace/Gumtree for bulk rabbit trap asking prices and Mitchell's or rural clearance auctions.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 85.5,
+     "date": "2026-11-15",
+     "venue": "eBay AU (public sold search, madmickmeataxe)",
+     "url": "https://www.ebay.com.au/itm/960181868608",
+     "same_item": "close",
+     "note": "Pair of vintage spring jaw rabbit traps, 1 bid. Terapeak shows A$81.73 item price (Terapeak condition filter 1 selected). Link built from Terapeak item ID.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -2513,11 +3080,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 85.5,
+   "net_resale": 72.675,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $86 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2532,11 +3099,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:48:00 PM ADST",
-   "identification": "Ozito Silent Shredder (low speed roller type, likely the ~2400W Bunnings model); no model number visible. Budget brand.",
+   "identification": "Ozito Silent Shredder, electric low-speed roller garden shredder on wheeled steel stand (Bunnings budget brand, likely 2400W Silent Shredder).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Ozito silent shredder', 'Ozito 2400W silent shredder', 'Ozito rapid shredder'; Bunnings AU for Ozito 2400W Silent Shredder new retail price (record as ASKING, new retail price); Gumtree/Facebook Marketplace Tasmania asking for comparison.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 47.0,
@@ -2545,6 +3112,60 @@
      "url": "https://www.ebay.com.au/itm/146554391838",
      "same_item": "close",
      "note": "Ozito Rapid Shredder 2400W with pole pruner, as recorded in our earlier research database; recorded price only, listing not opened by me. Only resale-type SOLD found; sold with a pruner, so the shredder alone may be a little lower.",
+     "old": false
+    },
+    {
+     "aud_price": 19.61,
+     "date": "2025-10-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167852734489",
+     "same_item": "yes",
+     "note": "Ozito 2400W Corded Silent Garden Shredder, auction 1 bid; Terapeak row.",
+     "old": false
+    },
+    {
+     "aud_price": 47.47,
+     "date": "2025-04-08",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/205389952900",
+     "same_item": "yes",
+     "note": "Ozito 2400W Silent Garden Shredder, good working order, auction 5 bids.",
+     "old": false
+    },
+    {
+     "aud_price": 49.43,
+     "date": "2024-07-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126589398673",
+     "same_item": "yes",
+     "note": "Ozito Silent Shredder portable, minimal usage, fixed price.",
+     "old": false
+    },
+    {
+     "aud_price": 48.98,
+     "date": "2024-02-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/134948205955",
+     "same_item": "yes",
+     "note": "Ozito 2400W Silent Garden Shredder auction 1 bid.",
+     "old": false
+    },
+    {
+     "aud_price": 78.27,
+     "date": "2024-02-16",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/225996245654",
+     "same_item": "yes",
+     "note": "Ozito Silent Shredder 2400W SSH-240 excellent condition, fixed price.",
+     "old": false
+    },
+    {
+     "aud_price": 90.46,
+     "date": "2024-01-28",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176196009545",
+     "same_item": "yes",
+     "note": "Ozito 2400W Silent Shredder preowned, auction 3 bids; oldest, over 2.5 years.",
      "old": false
     }
    ],
@@ -2598,11 +3219,11 @@
      "old": false
     }
    ],
-   "resale": 47.0,
-   "net_resale": 39.949999999999996,
+   "resale": 48.98,
+   "net_resale": 41.632999999999996,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $47 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $49 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2617,15 +3238,34 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:49:00 PM ADST",
-   "identification": "Two red steel T-bar sash clamps (about 1 m, brand not visible), one blue/yellow Irwin Quick-Grip style one-handed bar clamp, and two coiled steel barrel hoops. Common workshop items.",
+   "identification": "Two red steel T-bar/sash clamps (about 1 m), one blue and yellow Irwin Quick-Grip style one-handed bar clamp (about 900 mm), and a steel barrel hoop ring (cat says two hoops, one ring visible).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'sash clamp 1000mm' and 'T bar clamp 1m' (sold, Australia); 'Irwin Quick-Grip 900mm bar clamp' sold; 'barrel hoops steel' sold. Terapeak on 'sash clamps'. Also new retail check: Bunnings/Total Tools for Irwin Quick-Grip bar clamp and a 1 m sash clamp (record as ASKING, new retail price).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 68.98,
+     "date": "2026-11-10",
+     "venue": "eBay AU (Terapeak, 28 sold)",
+     "url": "https://www.ebay.com.au/itm/163748368535",
+     "same_item": "category guide",
+     "note": "NEW T-bar sash clamp 1370mm; used pair would sell well below, plus heavy freight.",
+     "old": false
+    },
+    {
+     "aud_price": 71.12,
+     "date": "2026-08-20",
+     "venue": "eBay AU (Terapeak, 13 sold)",
+     "url": "https://www.ebay.com.au/itm/157052012990",
+     "same_item": "category guide",
+     "note": "NEW T-bar sash clamp 900-1800mm.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 45.0,
@@ -2695,7 +3335,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2710,12 +3350,103 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:49:40 PM ADST",
-   "identification": "Forged iron blacksmith's leg (post) vice, about 103 cm, screw, box, tommy bar and spring present, heavy rust, no maker stamp visible, no mounting plate seen.",
+   "identification": "Forged iron blacksmith's leg (post) vice, about 103 cm overall, fairly light pattern with short jaws (estimate 3.5-4 in / 90-100 mm jaw width from photo proportions). Screw with box/nut, tommy bar, flat leaf spring between the legs, mounting bracket/strap piece hanging at the screw and a square block at the pivot on the leg; long leg ends in a bolt/nut. Heavy surface rust. No maker's stamp visible in the single photo.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'blacksmith leg vice', 'post vice blacksmith', 'leg vice Fisher Wilkinson Peter Wright' (sold, last 12 months, Australia, note postage as these are heavy and ~20 kg+); also Facebook Marketplace/Gumtree 'leg vice' asking for ASKING only; Lawsons, Mossgreen and Burchardt/regional machinery auctions 'leg vice' results; Blacksmiths Guild of Australia sales page.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 236.76,
+     "date": "2025-09-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/127344782956",
+     "same_item": "close",
+     "note": "'Vintage Blacksmith Leg Vice', auction 1 bid, free postage (pickup style). Listing page opened, ended, little detail; jaw size not stated.",
+     "old": false
+    },
+    {
+     "aud_price": 244.89,
+     "date": "2025-11-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/127486402653",
+     "same_item": "close",
+     "note": "'Vintage Blacksmith Leg Vice', auction 1 bid.",
+     "old": false
+    },
+    {
+     "aud_price": 198.33,
+     "date": "2025-11-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/177541231237",
+     "same_item": "close",
+     "note": "'Vintage Blacksmith Leg Vice', auction 4 bids, +A$58.77 postage.",
+     "old": false
+    },
+    {
+     "aud_price": 98.83,
+     "date": "2025-09-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/257082701495",
+     "same_item": "close",
+     "note": "'Blacksmith Post Leg Vice', auction 1 bid.",
+     "old": false
+    },
+    {
+     "aud_price": 216.09,
+     "date": "2026-05-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/257520899767",
+     "same_item": "close",
+     "note": "'Vintage antique blacksmith post leg vice heavy duty', auction 1 bid.",
+     "old": false
+    },
+    {
+     "aud_price": 98.95,
+     "date": "2024-05-24",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/285863491694",
+     "same_item": "close",
+     "note": "'Blacksmith Leg Vice (needs adjustment) pick up Warwick Qld', auction 4 bids.",
+     "old": false
+    },
+    {
+     "aud_price": 244.85,
+     "date": "2025-11-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256891895605",
+     "same_item": "close",
+     "note": "'Antique Vintage Blacksmith Post Leg Vice', fixed price sold.",
+     "old": false
+    },
+    {
+     "aud_price": 173.06,
+     "date": "2025-07-23",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167389907211",
+     "same_item": "close",
+     "note": "Post leg vice mounted on timber post, fixed price sold.",
+     "old": false
+    },
+    {
+     "aud_price": 81.45,
+     "date": "2025-02-20",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256751428419",
+     "same_item": "close",
+     "note": "'Antique Blacksmith Leg Vice', fixed price sold.",
+     "old": false
+    },
+    {
+     "aud_price": 80.68,
+     "date": "2026-05-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/157883702636",
+     "same_item": "close",
+     "note": "Hand-forged leg vice, 3 in jaws, fixed price. Probably similar light pattern to ours.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -2820,11 +3551,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 185.695,
+   "net_resale": 157.84074999999999,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $186 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2839,11 +3570,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:50:00 PM ADST",
-   "identification": "Two large raw timber burls (likely eucalypt/gum or Tasmanian burl): one flat cut slab about 67 cm across with chainsaw cuts, one hollowed bowl-form burl with a hole. Photo seen: cut faces show pale reddish figured wood, bark edges, some cracks.",
+   "identification": "Two large raw eucalypt (gum/Tasmanian) burls: a roughly 67 cm cut slab-form burl with chainsaw cuts and a hole, and a smaller hollowed bowl-form burl with cracks and holes. Pale reddish figured wood, bark edges.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'burl slab', 'eucalyptus burl', 'gum burl', 'burl bowl blank', 'tasmanian burl'; Gumtree/Facebook Marketplace Tas live burl listings (ASKING); Leski and Gowans results for 'burl'; Etsy/eBay live-edge burl slab asking prices for comparison.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2917,7 +3648,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2932,11 +3663,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:50:20 PM ADST",
-   "identification": "Nine finger-jointed pine/hardwood gelignite (explosive) boxes, stencilled WITH CARE KEEP DRY, GELIGNITE, BULK 1/4 x 8, maker roundel probably Nobel/ICIANZ, weathered, two with painted ends.",
+   "identification": "Nine vintage Australian wooden explosives boxes (finger/dovetail jointed), most likely Nobel (Alfred Nobel / Nobel Australia) gelignite boxes of the 1950s-60s. Photo shows lettering consistent with 'BULK ... X' stencils; two box ends painted (green, patterned), one dark narrow box on top. Photo is low resolution (800x600) so maker roundels and wording cannot be read.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings (Terapeak): 'gelignite box', 'Nobel explosives box', 'ICIANZ box', 'wooden explosives crate', 'dynamite box timber', for lots of several boxes and singles. Also Leski, Theodore Bruce, Mossgreen/Lawsons, Gowans and Lloyds sold results for 'gelignite box'/'explosives box' and Gumtree/Facebook asking prices for decorator use.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 160.0,
@@ -2946,6 +3677,78 @@
      "same_item": "close",
      "note": "Dynamite box, stained pine and iron with rope handles, with a cedar detonator box, 19th century. Single box plus extra item, older and better made. Database record, no page opened. No rate needed (AUD).",
      "old": true
+    },
+    {
+     "aud_price": 145.59,
+     "date": "2026-05-23",
+     "venue": "eBay AU (Terapeak, condition filter 1 selected)",
+     "url": "https://www.ebay.com.au/itm/336492663696",
+     "same_item": "yes",
+     "note": "Alfred Nobel vintage explosives wooden box, Buy It Now, single box",
+     "old": false
+    },
+    {
+     "aud_price": 125.7,
+     "date": "2026-05-11",
+     "venue": "eBay AU (Terapeak, condition filter 1 selected)",
+     "url": "https://www.ebay.com.au/itm/177985439132",
+     "same_item": "yes",
+     "note": "Vintage Alfred Noble gelignite explosives Linderlock wooden box, Buy It Now, single",
+     "old": false
+    },
+    {
+     "aud_price": 76.57,
+     "date": "2024-01-04",
+     "venue": "eBay AU (Terapeak, condition filter 1 selected)",
+     "url": "https://www.ebay.com.au/itm/235247081150",
+     "same_item": "yes",
+     "note": "Alfred Nobel vintage explosives wooden box, Buy It Now, single. Nearly 3 years old.",
+     "old": false
+    },
+    {
+     "aud_price": 48.71,
+     "date": "2024-06-26",
+     "venue": "eBay AU (Terapeak, condition filter 1 selected)",
+     "url": "https://www.ebay.com.au/itm/276352046788",
+     "same_item": "yes",
+     "note": "Vintage gelignite wooden box, Nobel Australia, Buy It Now, single",
+     "old": false
+    },
+    {
+     "aud_price": 29.46,
+     "date": "2024-03-01",
+     "venue": "eBay AU (Terapeak, condition filter 1 selected)",
+     "url": "https://www.ebay.com.au/itm/256402172673",
+     "same_item": "yes",
+     "note": "Alfred Nobel gelignite box, wood, no lid, empty. Low end, closest to a poor-condition box.",
+     "old": false
+    },
+    {
+     "aud_price": 25.01,
+     "date": "2024-09-13",
+     "venue": "eBay AU (Terapeak, condition filter 1 selected)",
+     "url": "https://www.ebay.com.au/itm/165368464052",
+     "same_item": "yes",
+     "note": "Vintage gelignite boxes, listing for 2 boxes, so about A$12.50 each",
+     "old": false
+    },
+    {
+     "aud_price": 97.5,
+     "date": "2023-12-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/145379154333",
+     "same_item": "yes",
+     "note": "Vintage Alfred Nobel wooden explosives crate, over 3 years old",
+     "old": false
+    },
+    {
+     "aud_price": 100.97,
+     "date": "2023-12-19",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/235173318418",
+     "same_item": "yes",
+     "note": "Vintage wooden explosives/ammunition box, ICI, over 3 years old",
+     "old": false
     }
    ],
    "sold_old": [],
@@ -2980,13 +3783,13 @@
      "old": false
     }
    ],
-   "resale": 160.0,
-   "net_resale": 136.0,
+   "resale": 97.5,
+   "net_resale": 82.875,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0",
-   "age_note": "1 of 1 prices are more than 3 years old",
-   "trend": "no sales in the last 3 years",
+   "why": "max hammer $0 from a median SOLD of $98 does not clear the current bid $0",
+   "age_note": "1 of 9 prices are more than 3 years old",
+   "trend": "trend falling: last 3 years median $87 against $160 before (-46%)",
    "priority": false
   },
   {
@@ -2999,21 +3802,31 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:50:40 PM ADST",
-   "identification": "Pair of timber and iron horse swingletrees (whippletrees/doubletree bars) with central hook and end loops; not bullock yokes (no bows or neck cut-outs). Weathered, split, rusted.",
+   "identification": "Pair of timber and iron swingletrees (whippletrees / doubletrees) with central hook and end loops; not bullock yokes (no bows or neck cut-outs). Weathered timber.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'swingletree antique' ; 'whippletree horse' ; 'old doubletree draught horse iron'. Terapeak same. Also Gumtree/Facebook Marketplace asking and Mossgreen/Lawsons/Leonard Joel farm collectables sold results for 'swingletree' and 'bullock yoke'.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 100.49,
+     "date": "2026-02-08",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/375783854184",
+     "same_item": "close",
+     "note": "Metal vintage swingletree (harness, horse drawn), fixed price, one sale only; A$42 postage. This lot is two timber/iron bars, weathered.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 100.49,
+   "net_resale": 85.4165,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $100 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3028,11 +3841,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:51:20 PM ADST",
-   "identification": "Four long-handled farm forks: three 4-5 tine manure/digging forks and one 2-3 tine hay fork, timber handles. No makers' marks visible. Common farm tools, rusty and weathered.",
+   "identification": "Four long-handled farm forks: three 4-5 tine manure/digging forks and one 3-tine hay fork, timber handles, rusty. No maker marks visible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'antique hay fork timber handle', 'vintage pitchfork wooden handle', 'manure fork 4 tine vintage'; Gumtree/Facebook Marketplace Tasmania 'hay fork' for asking prices. Likely $15-40 each at best as rustic decor.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3097,7 +3910,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3112,12 +3925,49 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:51:40 PM ADST",
-   "identification": "Mixed lot: D-handle spade, D-handle garden fork, two sledgehammers, small Fiskars X-series splitting hatchet (orange/black), and a pair of steel-leg, timber-top saw horses with orange legs. Used, rusty, paint splatter.",
+   "identification": "Garden tool lot: D-handle steel spade, D-handle garden fork, two sledgehammers (rusty heads, one short and one long handle), one small Fiskars X-series hatchet (orange/black, about 35 cm, looks like X7), plus pair of steel-leg timber-top saw horses with orange paint.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Fiskars X7 hatchet', 'Fiskars X-series hatchet 36cm', 'Fiskars X10 splitting axe', 'sledge hammer 4lb 6lb 10lb wooden handle', 'pair steel saw horses trestles'. Also Gumtree/Facebook Marketplace Tasmania for saw horses and used spades/forks. Note new retail price in Australia for the Fiskars X7 (Bunnings, Mitre 10) as ASKING.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 49.74,
+     "date": "2026-10-08",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/sch/i.html?_nkw=fiskars+x7+hatchet+used&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3000",
+     "same_item": "close",
+     "note": "Fiskars Hatchet 14 in (78506984) pre-owned, sharpened, BIN, US seller; only used Fiskars hatchet sold found. Item number not captured from the public search page, so no link",
+     "old": false
+    },
+    {
+     "aud_price": 59.75,
+     "date": "2025-07-24",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/197544887064",
+     "same_item": "close",
+     "note": "Fiskars X7 hatchet wood splitter (condition not stated, Terapeak row)",
+     "old": false
+    },
+    {
+     "aud_price": 54.17,
+     "date": "2025-08-14",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/388808488956",
+     "same_item": "close",
+     "note": "Fiskars 14in X7 hatchet with sharpener (Terapeak, probably new)",
+     "old": false
+    },
+    {
+     "aud_price": 90.02,
+     "date": "2025-05-09",
+     "venue": "eBay AU",
+     "url": "https://www.ebay.com.au/itm/262348328549",
+     "same_item": "close",
+     "note": "Fiskars Chopping Axe Hatchet X7 (Terapeak, probably new)",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -3168,11 +4018,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 56.96,
+   "net_resale": 48.416,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $57 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3187,11 +4037,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:54:20 PM ADST",
-   "identification": "Painted white timber lift-top box holding mixed used hand tools: ball pein and claw hammers, nylon/rubber mallet, log splitting wedge, cold chisel, hammer heads, cast part. No makers legible. Generic mixed tool lot.",
+   "identification": "Painted white timber lift-top box (approx 60x45cm, cleated sides, hasp and padlock) holding mixed used rusty hand tools: two long-handled hammers (one green/orange handle), rubber/red-handled mallet, blue-painted log splitting wedge, cold chisel/bolster, hammer heads, a cast grinder or machine part, timber block.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'vintage hammer lot', 'ball pein hammer vintage Sidchrome OR Stanley OR Estwing', 'log splitting wedge', 'vintage wooden tool chest painted'. Check for any named maker hammers (Warrington, Estwing, Plumb) once marks are read.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3229,7 +4079,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3244,12 +4094,22 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:54:40 PM ADST",
-   "identification": "Hand-crank Alfa-Laval cream separator ('ALFA-LAVAL 50 PR MIN 10', size 10) on cast stand with bowl, discs, spouts, supply tank and pails; rusty, paint worn, disc stack completeness unknown. Common farm item.",
+   "identification": "Alfa-Laval hand-crank cream separator, size 10 (50 turns/min), black cast frame with pulley and bowl, plus loose bowl parts, discs, spouts, tank and rod in a galvanised basin. Rusty, paint worn, completeness unknown.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold/completed: 'alfa laval cream separator', 'alfa laval hand crank separator', 'cream separator vintage'; Terapeak same terms (last 12 months, Australia); also eBay Buy It Now asking for context. Auction results: LiveAuctioneers and Invaluable 'alfa laval cream separator' (sold); Facebook Marketplace/Gumtree asking for Tasmania; check spare bowl/disc parts sold separately.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 249.0,
+     "date": "2026-06-29",
+     "venue": "eBay AU (ended listing page opened)",
+     "url": "https://www.ebay.com.au/itm/236318557658",
+     "same_item": "close",
+     "note": "ALFA-LAVAL No.103 bench separator, same cast gear-cover style, ended A$249 (Terapeak showed A$259.01 incl. something; could include offer), A$29 postage. Only complete-machine sale found. Looks clean and presented in photo, so well above what a rusty size 10 in a basin would make. Single comp, cannot set a max.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -3327,11 +4187,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "resale": 249.0,
+   "net_resale": 211.65,
+   "max_hammer": 5,
+   "status": "PASS",
+   "why": "1 same-item SOLD price(s), median $249; less 15% fees = $212; less $200 profit, / 1.22 premium = max hammer $5",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3346,11 +4206,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:57:00 PM ADST",
-   "identification": "Steel box-section ratchet lever lifting jack with crank handle and foot, marked PWD 2955 (Public Works Department). Not clearly a Trewalla; the databases only hold the timber-bodied Trewalla jack, so this is at best a category match.",
+   "identification": "Steel box-section ratchet lever jack (flat bar body with crank handle, ratchet pawl and lifting foot), stamped PWD 2955 (Public Works Department), tagged. Catalogue calls it a Trewalla jack; no maker name visible in the photo.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Trewalla jack', 'ratchet lever jack PWD', 'railway lifting jack ratchet', 'vintage ratchet lever jack steel'; also 'PWD' stamped tools sold on eBay AU, Gowans/Mossgreen-type tool lots, and Trewalla maker marks (Trewalla Wagon Jack, Tasmanian/Vic firm).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 71.0,
@@ -3359,6 +4219,15 @@
      "url": "https://www.ebay.com.au/itm/116447107651",
      "same_item": "close",
      "note": "Database hit only, no page opened. Timber and iron ratchet Trewalla jack, 2 photos, name from title. Different form (timber body) from this steel box-section lever jack; only resale-type comp held. Rate: AUD, 1.0.",
+     "old": false
+    },
+    {
+     "aud_price": 74.02,
+     "date": "2025-09-05",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116447107651",
+     "same_item": "close",
+     "note": "Trewalla jack, timber and iron type, free postage. Different form from this steel lever jack. Only Terapeak hit in 3 years.",
      "old": false
     }
    ],
@@ -3403,11 +4272,11 @@
      "old": false
     }
    ],
-   "resale": 71.0,
-   "net_resale": 60.35,
+   "resale": 72.50999999999999,
+   "net_resale": 61.63349999999999,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $71 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $73 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3422,15 +4291,34 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:57:40 PM ADST",
-   "identification": "Strapped pack of sawn boards, hand labelled approx 0.2 m3 kiln dried Tasmanian blackwood, 50 mm thick, about 1.2 m lengths, weathered outer boards. Label unverified.",
+   "identification": "Strapped pack of roughly 30-35 sawn scantlings/boards, all 50mm thick, mostly about 75-100mm wide with a few wider boards on top, lengths roughly 1.2-1.5m, on bearers. End grain (photo 3 zoomed) shows mixed golden to dark chocolate brown with dark streaks, consistent with Tasmanian blackwood (Acacia melanoxylon). Hand label on top board: 'APPROX .2 M3 CUB METRE KILN DRIED TAS BLACKWOOD ALL 50MM THICK'. Outer faces greyed and weathered from outdoor storage. Volume claim of 0.2 m3 is plausible from the end count (about 6 rows x 5-6 pieces).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'tasmanian blackwood timber kiln dried', 'blackwood boards 50mm', 'blackwood slab'. Dealer ASKING per m3 or per board foot: Britton Timbers, Tasmanian Timber Sales, Hobart/Launceston specialty timber merchants, Gumtree/Facebook Marketplace 'blackwood timber' (check sold). Auctions: Gowans, Armitage past results 'blackwood pack/pallet', Pickles/Grays timber lots.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 55.0,
+     "date": "2026-11-27",
+     "venue": "Hammerroo (timber retailer)",
+     "url": "https://hammerroo.com.au/products/tasmanian-blackwood-150x38mm-kd-rs",
+     "same_item": "category guide",
+     "note": "Tas blackwood 150x38 KD select, rough sawn, special order. Works out at about A$9,600 per m3 retail, so 0.2 m3 new select grade would be ~A$1,900 retail. Retail select grade, long lengths; this lot is short and weathered.",
+     "old": false
+    },
+    {
+     "aud_price": 70.0,
+     "date": "2019-12-07",
+     "venue": "Woodwork Forums classifieds (Rochester Vic)",
+     "url": "https://www.woodworkforums.com/f222/tasmanian-blackwood-75-100-125-150-square-stock-231694",
+     "same_item": "close",
+     "note": "Private seller, select grade air dried blackwood squares, 0.9-4m. Equates to about A$7,000 per m3 asking. 7 years old.",
+     "old": true
+    }
+   ],
    "paid": [
     {
      "aud_price": 550.0,
@@ -3509,7 +4397,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3524,11 +4412,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:58:20 PM ADST",
-   "identification": "Pallet of damaged giant-scale RC warbird airframe parts (balsa fuselage skeleton, camouflage fuselage, white wings with red tips and RAF roundels, yellow/blue wing), with a small petrol (two-stroke gas) engine, cowl, spinner and propeller. Maker and engine brand not legible. Likely Tiger Moth or Chipmunk style trainer.",
+   "identification": "Pallet of damaged large-scale (roughly 2m+ wingspan) RC model aircraft parts: balsa-framed wing and tail structures, a camouflage-painted (tan/green) fuselage with torn covering, a red/white wing with RAF roundels, a yellow/blue painted wing, and one fuselage nose with an engine (black, shrouded, looks like a petrol/gas single-cylinder engine) with grey propeller and spinner. Engine make and model not readable. Looks like a trainer or warbird project, incomplete, no visible radio gear.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'giant scale gas engine RC' ; 'DLE 20 OR DA-35 OR Zenoah OR Saito gas engine sold'; 'giant scale RC Tiger Moth ARF OR balsa sold'; 'RC warbird project damaged sold'. Terapeak for the same. Also Gumtree and Facebook Marketplace Australia RC gas engine sold prices; check Model Flying forums classifieds.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3537,8 +4425,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3553,15 +4441,25 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:58:40 PM ADST",
-   "identification": "Very long two-section aluminium extension ladder, roughly 8-10 m extended (about 18 rungs per section in the photo), no brand visible. Used, appears complete. Generic category item.",
+   "identification": "Very long two-section aluminium extension ladder, unbranded in the photo. Next to a mini excavator (about 2.5 m tall) it looks about 8-10 m extended (roughly 28-30 rungs overall). Used, appears complete. Generic category item.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'aluminium extension ladder 8m', 'aluminium extension ladder 9m', 'Bailey extension ladder 2 section'; Gumtree/Facebook Marketplace Tasmania 'extension ladder aluminium' for local asking; Grays/Lloyds/Pickles sold 'aluminium extension ladder'; also new retail ASKING on Bunnings and Bailey/Gorilla sites for a comparable 7.3-9m two-section (new retail price entry).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 229.0,
+     "date": "2026-11-21",
+     "venue": "eBay AU new retail (Bailey STEPTHRU safety device, an accessory)",
+     "url": "https://www.ebay.com.au/sch/i.html?_nkw=aluminium+extension+ladder+9m&LH_Sold=1&LH_Complete=1&_salic=15",
+     "same_item": "category guide",
+     "note": "Not the same item, shown only as the type of new ladder products sold on eBay: telescopic ladders A$60-270 new, with A$20-120 delivery. No used 8-10 m extension ladder appears sold on eBay AU.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 135.0,
@@ -3631,7 +4529,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3646,15 +4544,25 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 10:59:00 PM ADST",
-   "identification": "Strapped pack of sawn boards, hand-labelled 'approx 0.4 m3 kiln dried Tas blackwood all 50 mm thick'. Looks consistent with blackwood (Acacia melanoxylon) but species is unverified. Weathered surfaces, roughly 2 m plus lengths, various widths.",
+   "identification": "Strapped pack of sawn, square-edged boards, all about 50 mm thick, widths roughly 100-200 mm, lengths about 2.4 m (a few shorter), about 20+ boards, on bearers. End grain and colour (golden to chocolate-brown heartwood, a few pale sapwood edges, some dark streaks) look right for Tasmanian blackwood (Acacia melanoxylon). Hand-written board: 'Approx .4 m3 cub metre kiln dried Tas blackwood all 50 mm thick'. Rough sawn, surfaces greyed/weathered on top, no visible rot.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'tasmanian blackwood timber kiln dried 50mm', 'blackwood slab', 'blackwood boards per m3'. Retail ASKING: Tasmanian timber merchants and sawmills (per m3 or per board foot price for kiln dried Tas blackwood 50 mm), Gumtree/Facebook Marketplace Tasmania 'blackwood timber'. Also Tasmanian Timber Merchant/Mill price lists, Mulga/Woodworkers Source style sites for blackwood per board foot.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 54.66,
+     "date": "2026-11-27",
+     "venue": "Hammerroo (online timber retailer)",
+     "url": "https://hammerroo.com.au/products/tasmanian-blackwood-150x38mm-kd-rs",
+     "same_item": "close",
+     "note": "New retail: Tasmanian blackwood 150x38 Select, kiln dried, skip dressed = about A$9,600 per m3. At that rate 0.4 m3 is about A$3,800 retail (select grade, fresh); this weathered ungraded pack is worth well under that.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 550.0,
@@ -3697,7 +4605,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -3712,11 +4620,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:00:40 PM ADST",
-   "identification": "Pair of steel horse hames with chain, plus pair of cast iron fire dogs with small figural (owl or monkey-like) heads on wheeled bases. A small kangaroo in relief sits on a hame plate (photo 2), likely a maker's emblem, so possibly Australian-made. No legible name. Rusty, dirty, common types.",
+   "identification": "Pair of steel/iron horse hames with draught chain and hame-strap tops (rusty, black painted), plus a pair of small cast fire dogs/andirons with figural gilt or brass-coloured seated figure heads (looks like small monkeys or cherubs in caps) on cast bases with wheels and timber-coloured iron rear legs. A faint raised kangaroo emblem sits on a hame plate in close-up photo 2.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'cast iron fire dogs owl' ; 'andirons owl head cast iron pair' ; 'horse hames kangaroo' ; 'kangaroo hames harness Australian'; 'antique hames pair' . Also Leski, Theodore Bruce and Lawsons sold results for 'andirons kangaroo' and 'hames'. Check for a maker name behind the kangaroo emblem (e.g. kangaroo-branded harness makers).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 56.0,
@@ -3734,6 +4642,15 @@
      "url": "https://www.ebay.com.au/itm/126966501132",
      "same_item": "close",
      "note": "Antique fireplace andirons pair, plain. Database hit only (page not opened).",
+     "old": false
+    },
+    {
+     "aud_price": 48.1,
+     "date": "2025-04-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126966501132",
+     "same_item": "close",
+     "note": "Antique fireplace andirons / fire dogs pair, fixed price, plain. Over 1 year old.",
      "old": false
     }
    ],
@@ -3760,11 +4677,11 @@
      "old": false
     }
    ],
-   "resale": 51.0,
-   "net_resale": 43.35,
+   "resale": 48.1,
+   "net_resale": 40.885,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $51 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $48 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4008,11 +4925,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:02:00 PM ADST",
-   "identification": "Photo shows three ratchet flooring cramps (title says 4) with chains, long levers and gear/ratchet housings, partly green paint, rusty. Old type of tradesman's floor cramp, no maker legible.",
+   "identification": "Four old geared screw/chain floor cramps (flooring jacks) with long levers and chains, green and rust paint, no maker visible. Photo shows four units (three upright plus one with lever lying across), matching the title.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold/completed: 'flooring cramp' , 'floor clamp ratchet chain', 'vintage flooring cramps' (filter Sold items, Australia); Terapeak same terms; Gumtree and Facebook Marketplace 'flooring clamps' for asking prices; Pickles/Lawsons/Grays tool lots 'flooring clamps' sold; Bunnings/Carbatec/Tools Today for new floor clamp retail (ASKING, new retail price). Check how many cramps and any maker (e.g. Record, Stanley, Sargent).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4095,7 +5012,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4110,12 +5027,22 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:06:00 PM ADST",
-   "identification": "4-panel sectional (retractable) garage door, about 2450 x 2150 mm opening, with tracks, torsion/spring assembly, rollers and cables in a tub, plus a B&D Controll-A-Door opener motor still bagged (opener model and remote not confirmed). Photos 5 and 6 look like stock images. Used, dismantled, rollers rusty.",
+   "identification": "Dismantled 4-panel sectional (retractable) garage door, opening 2450 x 2150 mm, white/grey steel panels, with curved tracks, rail, hinges, cables and rollers in a pink tub, and a B&D Controll-A-Door sectional opener head (bagged in plastic; model number not readable in photos, likely a CAD4 or similar). Photos 5 and 6 are stock/unrelated images of installed doors (photo 6 is a different house with a different door and opener). Remote control not shown.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'B&D Controll-A-Door opener' and 'B&D Controll-A-Door remote' (Terapeak too); 'sectional garage door panels used' and 'B&D sectional door used'; Gumtree/Facebook Marketplace Tasmania 'used sectional garage door' and 'B&D garage door opener' (asking only). Also B&D new retail price for a Controll-A-Door opener and a 4-panel sectional door (Bunnings, B&D site) as ASKING new retail.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 154.4,
+     "date": "2026-10-29",
+     "venue": "eBay AU (public sold search, Pre-owned)",
+     "url": "https://www.ebay.com.au/itm/960015024509",
+     "same_item": "yes",
+     "note": "B&D Controll-A-Door CAD4 electrical garage door opener motor unit, pre-owned. Only one used same-item sale found. Opener only, no door.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [
@@ -4154,14 +5081,23 @@
      "same_item": "category guide",
      "note": "Merlin Tiltmaster opener with 2 remotes, not tested. Database only.",
      "old": false
+    },
+    {
+     "aud_price": 294.0,
+     "date": "2026-11-07",
+     "venue": "eBay AU, new (sold listing)",
+     "url": "https://www.ebay.com.au/itm/112235573654",
+     "same_item": "close",
+     "note": "New B&D CAD4 replacement sectional opener, sold new at A$294. New retail guide, not a used resale price.",
+     "old": false
     }
    ],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 154.4,
+   "net_resale": 131.24,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $154 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4176,11 +5112,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:08:20 PM ADST",
-   "identification": "Two modern Australian reflective aluminium road signs: 'LOOK FOR TRAINS' (white, square) and red 'RAILWAY CROSSING' crossbuck-style sign. Not old enamel. Photo shows clean reflective faces, so likely decommissioned or surplus current-standard signs.",
+   "identification": "Two modern Australian standard reflective aluminium rail-crossing signs (AS 1742.7 type): a red rectangular 'RAILWAY CROSSING' crossbuck sign (R6-24 type, roughly 120x80cm judging by proportion) and a white square 'LOOK FOR TRAINS' supplementary plate (black border, roughly 60x60cm). Retroreflective sheeting faces, rounded corners, not enamel, not railway-company cast or enamel signage. Likely late 20th / 21st century decommissioned road-authority signs.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'railway crossing sign' 'look for trains sign' 'railway crossing reflective sign' 'railway crossbuck sign Australia'; check size and whether signs are genuine decommissioned rail signs. Also Leski Auctions realised prices 'railway crossing sign' and Facebook Marketplace/Gumtree asking prices for comparison.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 260.0,
@@ -4190,11 +5126,30 @@
      "same_item": "close",
      "note": "RAILWAY CROSSING metal sign 84x128cm, estimate $200-300. Database record only, page not opened. Condition and age unknown, may be older than ours; single sign, no Look For Trains. Only real resale-type comp for the crossing sign.",
      "old": false
+    },
+    {
+     "aud_price": 124.17,
+     "date": "2024-03-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/225810142965",
+     "same_item": "close",
+     "note": "'Railway Crossing - Train (passive control) Regulatory Warning Signs', fixed price x3, +A$11.54 post. Appears to be a new sign from a sign shop (multiple units). Not opened.",
+     "old": false
     }
    ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 216.52,
+     "date": "2026-09-07",
+     "venue": "eBay AU, SFB Signs (Newcastle sign maker)",
+     "url": "https://www.ebay.com.au/itm/113158771506",
+     "same_item": "yes",
+     "note": "Brand-new R6-24 RAILWAY CROSSING road sign, BIN, 13 sold, last sale 7 Sep 2026 (Terapeak avg A$211). Page opened. New retail, so a ceiling for a used one, not a resale price.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 120.0,
@@ -4242,11 +5197,11 @@
      "old": false
     }
    ],
-   "resale": 260.0,
-   "net_resale": 221.0,
-   "max_hammer": 15,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $260; less 15% fees = $221; less $200 profit, / 1.22 premium = max hammer $15",
+   "resale": 192.085,
+   "net_resale": 163.27225,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $192 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4261,12 +5216,22 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:13:40 PM ADST",
-   "identification": "Ezycut combination saw bench and buzzer (jointer/thicknesser style) on steel cabinet with castors, side-mounted motor, rise and fall table, stencilled W.M. Purse & Sons. Australian-made Ezycut woodworking machine, rusty and untested.",
+   "identification": "Vintage Australian combination woodworking machine, saw bench (rise and fall table, tilting arbor) with side buzzer/jointer (surfacing) table, on a rusty steel cabinet stand with castors and a tilting handle, side-mounted electric motor and switch box. Stencilled 'W.M. PURSE & SONS' on the cabinet (previous owner). Catalogue says Ezycut; no Ezycut maker plate is readable in the photos (2 photos, 450x600), so brand rests on the catalogue.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold/completed: 'Ezycut combination saw bench', 'Ezycut buzzer', 'Ezycut bench saw'; Terapeak for the same; Gumtree and Facebook Marketplace AU 'Ezycut' asking prices; Lawsons, Mossgreen, Grays, Gowans and Tasmanian auction results for 'Ezycut' and 'combination woodworking machine'; Australian vintage woodworking forums for Ezycut combination machine values. No new retail price needed (vintage, not current).",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 139.02,
+     "date": "2024-08-11",
+     "venue": "eBay AU (Terapeak, auction)",
+     "url": "https://www.ebay.com.au/itm/116278369425",
+     "same_item": "close",
+     "note": "Heavy Duty EZYCUT Woodworking Bench Saw / Table Saw, auction. Listing page opened. Possibly a bench saw only, not combination machine. Over 2 years old. Only same-brand machine sale found.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -4281,11 +5246,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 139.02,
+   "net_resale": 118.167,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $139 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4300,11 +5265,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:17:20 PM ADST",
-   "identification": "Three unmarked cast iron cobbler's lasts (shoe anvils): two tripod type and one upright. No maker marks visible in the photo. Common decor and workshop item.",
+   "identification": "Three cast iron cobbler's boot/shoe lasts (shoemaker's stands): one upright single-foot last and two standard three-piece cobbler's stands (T-shaped, different foot sizes). Rusty-brown, unmarked in photo.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'cast iron cobblers last' and 'cobbler shoe anvil tripod' (Sold items, last 90 days, Australia, note multi-lot and postage). Terapeak same terms. Also Facebook Marketplace/Gumtree asking for 'cobblers last' for retail asking range, and LiveAuctioneers/Invaluable only if a maker mark turns up.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4369,7 +5334,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4384,15 +5349,44 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:17:40 PM ADST",
-   "identification": "Star Wars TIE Fighter shaped portable gas BBQ (Star Wars logo on lid, wing side tables, cast grill plate) with Darth Vader printed floor mat. Licensed novelty barbecue, believed to be the Star Wars TIE Fighter portable BBQ range; exact maker and model not legible on base label.",
+   "identification": "Portable one-burner gas BBQ in the shape of a Star Wars TIE Fighter (domed lid with STAR WARS logo, hexagonal wing side tables, cast grill plate, TIE engine-pod front), with a printed Darth Vader helmet floor mat. Looks like the Gasmate Star Wars TIE Fighter portable BBQ (Gasmate was Bunnings' brand).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Star Wars TIE Fighter BBQ' and 'TIE Fighter barbecue portable gas' (sold, last 12 months, used condition, Australia). Also check Gumtree/Facebook Marketplace sold or asking for the same, and current new retail price (Big W / Kmart / Bunnings / Amazon AU / Target) to log as ASKING. Check whether a Darth Vader floor mat sold with it matters.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 285.23,
+     "date": "2025-03-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176923484314",
+     "same_item": "yes",
+     "note": "'Star Wars Tie Fighter BBQ', auction, 1 bid, Terapeak sold A$285.23 (listing page shows A$299.00 ended price, difference unexplained, possibly postage/rounding). Condition not shown. Page opened.",
+     "old": false
+    },
+    {
+     "aud_price": 595.55,
+     "date": "2023-12-07",
+     "venue": "eBay AU (Terapeak, Brand New filter on)",
+     "url": "https://www.ebay.com.au/itm/224686876266",
+     "same_item": "yes",
+     "note": "Gasmate Star Wars Tie-Fighter Portable 1 Burner BBQ Grill, Fixed price, brand new, over 3 years old. Page opened, listed A$599.99.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 652.0,
+     "date": "2026-11-28",
+     "venue": "Appliances Online (new retail, Gasmate SW-2201)",
+     "url": "https://www.appliancesonline.com.au/product/gasmate-sw-2201-star-wars-tie-fighter-lpg-bbq/",
+     "same_item": "yes",
+     "note": "New retail, RRP A$799 shown. Asking only. Confirms model SW-2201.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 80.0,
@@ -4404,11 +5398,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "resale": 440.39,
+   "net_resale": 374.3315,
+   "max_hammer": 140,
+   "status": "PASS",
+   "why": "2 same-item SOLD price(s), median $440; less 15% fees = $374; less $200 profit, / 1.22 premium = max hammer $140",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4423,12 +5417,31 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:18:40 PM ADST",
-   "identification": "Masport Garden Recycler petrol chipper/shredder, green, Briggs and Stratton OHV-style engine (about 5HP per scan notes), hopper with wire extension, two wheels. Used, rust on base, engine dirty, running not stated.",
+   "identification": "Masport 'Garden Recycler' petrol chipper/shredder, green steel hopper with wire extension frame, small two-wheel base, Briggs & Stratton petrol engine (badge appears to read 5 HP, not certain).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold and completed: 'Masport garden recycler chipper shredder'; 'Masport chipper shredder briggs stratton'; also Terapeak for the same. Facebook Marketplace and Gumtree Tasmania/Victoria for 'Masport chipper shredder' (asking only). Also check Masport (masport.com.au) and Bunnings/Stihl-type retailers for current new Masport chipper retail price as an ASKING entry.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 196.97,
+     "date": "2025-06-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/187356297224",
+     "same_item": "yes",
+     "note": "'Masport 5HP Chipper/ Shredder Combo - Briggs Stratton Engine'. Listing page shows ended A$300, so Terapeak A$196.97 is a Best Offer price. Free postage. Cannot set a max.",
+     "old": false
+    },
+    {
+     "aud_price": 701.38,
+     "date": "2024-06-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/135052541444",
+     "same_item": "close",
+     "note": "'Masport garden mulcher shredder chipper used briggs and stratton'. Page shows A$800 ended, so Best Offer accepted; engine size and model unknown. Excluded from max.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -4470,11 +5483,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
-   "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "resale": 449.175,
+   "net_resale": 381.79875,
+   "max_hammer": 145,
+   "status": "PASS",
+   "why": "2 same-item SOLD price(s), median $449; less 15% fees = $382; less $200 profit, / 1.22 premium = max hammer $145",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4489,11 +5502,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:19:00 PM ADST",
-   "identification": "Carba-Tec model CT-106A 2HP 240V single phase dust collector, Taiwan made 2014, stand with cartridge canister and bag.",
+   "identification": "Generic Taiwan-made 2HP single-phase 240V woodworking dust collector, model CT-106A (mfg no M111031, dated 2014), white steel base plate with centrifugal fan and motor, upright steel frame carrying a round bag/cartridge canister on top, flexible hose, cloth collection bag on the floor. Brand not shown on plate (Carba-Tec style CT model prefix is a guess).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'Carbatec CT-106A dust collector', 'Carbatec 2HP dust extractor cartridge'; Terapeak same; Facebook Marketplace/Gumtree 'Carbatec dust collector 2hp' (asking); Carbatec.com.au current equivalent 2HP cartridge dust collector (new retail ASKING); Grays/Lawsons/Pickles workshop sold results for 2HP dust collectors.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4558,7 +5571,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4573,15 +5586,25 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:20:00 PM ADST",
-   "identification": "Carba-Tec Dust Collector, single bag type, 1500W (2HP class) 240V 2950rpm 50Hz motor on blue base with hose and cloth bag. Older Carbatec house-brand import, bag discoloured. Going order per title.",
+   "identification": "Carba-Tec single-bag dust collector, 1500W (2HP class) 240V 2950rpm 50Hz, on blue base plate with cloth bag, flexible hoses. Matches the current Carbatec Portable Dust Collector 2HP (DC-1200P, old code FM-300); exact model plate not seen, only the CARBA-TEC rating label. Going order per catalogue.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'Carba-Tec dust collector 1500W', 'Carbatec 2hp dust extractor single bag', 'dust extractor 1500W 240V single bag'; Gumtree/Facebook Marketplace AU asking for same; Carbatec.com.au new retail price for the current 2HP single bag dust collector (record as ASKING, new retail price); Grays/Lawsons/Pickles workshop equipment results for Carba-Tec dust collector.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 415.0,
+     "date": "2026-11-28",
+     "venue": "Carbatec AU new retail (page opened)",
+     "url": "https://carbatec.com.au/dust-extractor-2hp-old-code-fm-300",
+     "same_item": "close",
+     "note": "New Carbatec Portable Dust Collector 2HP DC-1200P, on sale from A$484. New retail, never a resale price.",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 120.0,
@@ -4606,7 +5629,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4621,11 +5644,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:20:40 PM ADST",
-   "identification": "Mixed lot: cream-repainted tin trunk with cane basket, fire tools, Singer Oil Extra Quality tin and a modern reproduction 'London Station, London NW10' railway-style wall clock. Low-value general lot.",
+   "identification": "Cream-repainted tin trunk (about 75cm) holding a cane basket, iron fire tongs/poker, a yellow Singer Oil Extra Quality tin (rectangular, small) and a round black-cased wall clock with brass bezel, Roman numerals, dial reads LONDON STATION and a line beneath. Looks like a modern reproduction station clock.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'London Station London NW10 wall clock'; 'railway station style wall clock black brass bezel'; 'Singer Oil Extra Quality tin' (sold); 'vintage tin trunk cream painted'. Check whether the clock is a reproduction (modern retail repro station clocks) via eBay sold.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 119.0,
@@ -4706,12 +5729,58 @@
    "current_bid": 50.0,
    "bid_count": 1,
    "close": "2/12/2026 11:22:20 PM ADST",
-   "identification": "Single bay blue upright pallet racking, 2 frames with orange beams, 3 beam levels seen, Dexion/Colby style, no brand legible, appears straight and complete. Frame size not stated in photos; tall frames look about 2.5-3 m.",
+   "identification": "One bay of used heavy-duty pallet racking: 2 blue upright frames (about 2.2 m high, 84 cm deep, braced) and 6 orange beams (3 levels, about 2.96 m long) per catalogue H-221 W-296 D-84 cm. Generic Dexion/Colby-style, no brand visible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold+completed: 'pallet racking bay used', 'pallet rack upright frame beams', 'Dexion pallet racking used' (Terapeak 90 days). Gumtree/Facebook Marketplace Tasmania: 'pallet racking' for local asking prices. Grays Online and Lawsons sold: 'pallet racking'. Also new retail for comparison: Dexion/Colby/Mecalux 1 bay starter kit at Bunnings/Total Tools/pallet racking suppliers (ASKING, new retail).",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 78.72,
+     "date": "2025-08-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/187466961772",
+     "same_item": "close",
+     "note": "Single bay pallet racking, 3 wood shelves, 2.6 m, auction, 1 bid. Closest in size to this lot (single bay).",
+     "old": false
+    },
+    {
+     "aud_price": 99.81,
+     "date": "2025-10-08",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/187624054449",
+     "same_item": "close",
+     "note": "Two bays pallet racking, 7 wood shelves, 2.4 m, auction (about A$50 a bay). Free postage shown; pickup in practice.",
+     "old": false
+    },
+    {
+     "aud_price": 151.46,
+     "date": "2024-01-23",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176184263191",
+     "same_item": "close",
+     "note": "Used pallet racking 2 bays 2.6 m long x 2.41 high, 15 rails, auction 6 bids (about A$75 a bay). Over 2 years old. ",
+     "old": false
+    },
+    {
+     "aud_price": 239.54,
+     "date": "2026-09-09",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/128033843309",
+     "same_item": "close",
+     "note": "Dexion 2 level beam bay 3.6 m x 2.7 m (Terapeak price; listing showed A$220 so may include an offer). Larger bay.",
+     "old": false
+    },
+    {
+     "aud_price": 244.66,
+     "date": "2025-05-26",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/187234215451",
+     "same_item": "close",
+     "note": "Used heavy duty racking 5.18 m high 2 bay, 16 pallet spaces, auction. Much larger.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -4771,11 +5840,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 151.46,
+   "net_resale": 128.741,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $151 does not clear the current bid $50",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4790,11 +5859,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:23:00 PM ADST",
-   "identification": "Mixed rusty workshop tub: old cast iron bench vice (maker not legible), Dietz-style hurricane lantern, two braces, auger bits, several rabbit traps (makers not legible), wooden blower-like item, spade heads, hacksaw, mallet, wrecking bars. Mostly low-value user items; traps and vice are the main interest.",
+   "identification": "Mixed rusty workshop pile: small old cast iron bench vice (no maker visible, roughly 3 inch), grey Dietz-style hurricane lantern (looks modern/reproduction), one or two rusty rabbit trap mechanisms tangled together, round wooden bellows/block item, two carpenter's braces, auger bit, hand saw, two spade/shovel heads, hacksaw frame, sledge head, bars, golf club head.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Lane rabbit trap', 'Sidebottom rabbit trap', 'vintage rabbit trap lot', 'Victor rabbit trap'; 'cast iron bench vice vintage' (sold); 'vintage carpenters brace' (sold); 'Dietz hurricane lantern' (sold). Also Gowans/Leski/Carter's sold results for 'rabbit traps' and 'vice' to confirm resale levels.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 180.0,
@@ -4858,11 +5927,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:23:40 PM ADST",
-   "identification": "Mixed tool lot: crate and boxes of ring/open-end/combination spanners (brands not legible, possibly some Sidchrome), tube/box spanners, small socket sets (red case, tins), Meco items, 6 pc metric pack, pliers, multigrips, shifters, bucket of files/rasps, plus a pair of blue-on-white number plates reading BS 9?02 (state not confirmed).",
+   "identification": "Mixed tool lot: 5 boxes/crates and a bucket. Crate and two trays of used spanners (ring, open-end, combination, some in a blue plastic holder), box of pliers/shifters/adjustable spanners, tub with a pair of Tasmanian 'Holiday Isle' style blue-on-white number plates (BS 9?02, strapped together with tape), tube/box spanners, drill bits and punches, a box with rusty metal socket cases, a red 6-piece-style socket set case, a MECO item and a carded 6pc set of bits, and a bucket of old files and rasps with a chain.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'Sidchrome spanners job lot', 'Sidchrome spanner set', 'Stahlwille spanner', 'vintage spanners bulk lot'; Terapeak for same. eBay AU sold: 'Victoria number plates BS 902 pair', 'Victorian blue white number plates pair', 'vintage number plates pair' (check state and year). Also eBay sold 'Meco' tools if brand confirmed.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -4945,7 +6014,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -4960,11 +6029,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:24:00 PM ADST",
-   "identification": "Stainless-bodied submersible drainage/sump pump with black base and float switch, sold as Onka per title (label not legible in photo), plus a tub of blue pool hose. Condition unknown, untested.",
+   "identification": "Onka stainless-bodied submersible drainage/dirty-water pump with black base, coiled mains cable and vertical float switch, plus a clear tub holding blue corrugated pool-type hose (several lengths). Tub is hand-marked \"pump\" and a number. Brand per catalogue title only; label not legible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold/completed: 'Onka submersible pump', 'Onka drainage pump stainless', 'Onka 400W/750W submersible'. Terapeak on same. Also find current new retail price in Australia (Bunnings, Onka/Kmart-type retailers) for the matching Onka model as an ASKING 'new retail price' entry. Gumtree AU for used asking prices.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5011,7 +6080,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5026,12 +6095,58 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:24:40 PM ADST",
-   "identification": "Mixed four-box hand tool lot: socket/ratchet sets, nut drivers, hole saw kit, Allen keys, 0-1in micrometer (new, carded, unbranded), red-handled bolt cutters, Supercraft telescopic pick-up tool, screwdrivers, brass blowlamp/sprayer, sash clamps, hammers, six handsaws (Warrior and older wood-handled, one back saw), plus a bucket of rusty cast iron claw bath feet. Generic used tools, no premium maker or collectable seen in photos.",
+   "identification": "Four boxes of used general hand tools: socket/ratchet and nut driver box, Allen keys in a tub, carded 0-1in micrometer (unbranded, new in packet), red-handled bolt cutters, Supercraft carded screwdriver with telescopic pick-up tool, small brass blowlamp, brass garden pump sprayer, sash clamps, hammer, planes/squares, six handsaws (a Warrior, a back saw and older wood-handled saws, all rusty) and a bucket of rusty cast iron claw bath feet.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'cast iron claw bath feet set of 4' (sold); 'vintage brass blowlamp' and 'brass sprayer oil can' (sold); 'Warrior handsaw' and 'vintage handsaw Spear Jackson Disston' (sold); '0-1in micrometer carded new'. Also new retail on Bunnings/Total Tools for 0-1in micrometer and Supercraft telescopic pick-up tool (record as ASKING, new retail price).",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 98.24,
+     "date": "2025-10-26",
+     "venue": "eBay AU (Terapeak, Used filter on)",
+     "url": "https://www.ebay.com.au/itm/267408373716",
+     "same_item": "close",
+     "note": "Cast iron claw bath feet set of 4, fixed price, post extra ~A$25. Bath feet only, one part of the lot; lot feet are rusty/pitted and count not confirmed.",
+     "old": false
+    },
+    {
+     "aud_price": 94.62,
+     "date": "2025-01-22",
+     "venue": "eBay AU (Terapeak, Used filter on)",
+     "url": "https://www.ebay.com.au/itm/205208247569",
+     "same_item": "close",
+     "note": "Original antique cast iron claw bath feet set 4, fixed price, post extra ~A$25. Bath feet only, one part of the lot; lot feet are rusty/pitted and count not confirmed.",
+     "old": false
+    },
+    {
+     "aud_price": 68.21,
+     "date": "2025-06-25",
+     "venue": "eBay AU (Terapeak, Used filter on)",
+     "url": "https://www.ebay.com.au/itm/236132216603",
+     "same_item": "close",
+     "note": "Set of 4 ball and claw bath feet, fixed price, post extra ~A$25. Bath feet only, one part of the lot; lot feet are rusty/pitted and count not confirmed.",
+     "old": false
+    },
+    {
+     "aud_price": 72.48,
+     "date": "2025-05-18",
+     "venue": "eBay AU (Terapeak, Used filter on)",
+     "url": "https://www.ebay.com.au/itm/235996171881",
+     "same_item": "close",
+     "note": "Set of 4 ball and claw bath feet, fixed price, post extra ~A$25. Bath feet only, one part of the lot; lot feet are rusty/pitted and count not confirmed.",
+     "old": false
+    },
+    {
+     "aud_price": 71.51,
+     "date": "2025-03-13",
+     "venue": "eBay AU (Terapeak, Used filter on)",
+     "url": "https://www.ebay.com.au/itm/235996170041",
+     "same_item": "close",
+     "note": "Set of 4 ball and claw bath feet, fixed price, post extra ~A$25. Bath feet only, one part of the lot; lot feet are rusty/pitted and count not confirmed.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -5091,11 +6206,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 72.48,
+   "net_resale": 61.608000000000004,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $72 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5110,12 +6225,22 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:25:00 PM ADST",
-   "identification": "Arched embossed (pressed) brass/copper firescreen panel, two setter gun dogs pointing in a landscape with trees, probably early to mid 20th century decorative piece. No maker mark visible in the photo. Heavy tarnish and green/brown patina.",
+   "identification": "Arched (half-round) embossed pressed brass firescreen panel, two pointer/setter gun dogs in a wooded landscape, about 60 x 86 cm, early to mid 20th century style, dull patina. No frame or maker mark visible; resting against furniture.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'embossed brass firescreen dogs', 'brass fire screen hunting dogs setters', 'copper brass fire screen pointer dogs'; eBay Buy It Now for asking prices. Also Leski, Theodore Bruce, Mossgreen/Gibson's, Invaluable/LiveAuctioneers sold: 'pressed brass firescreen dogs', 'repousse brass fire screen setters'. Check for a maker (e.g. English or Arts and Crafts repousse).",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 120.0,
+     "date": "2026-09-04",
+     "venue": "eBay AU (public sold search)",
+     "url": "https://www.ebay.com.au/itm/397179582384",
+     "same_item": "close",
+     "note": "Antique Art Deco fire screen/guard with setter/retriever dog outline. Listed as 'or Best Offer', so the price may be a Best Offer figure; cannot set a max.",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -5166,11 +6291,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 120.0,
+   "net_resale": 102.0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $120 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5185,11 +6310,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:25:40 PM ADST",
-   "identification": "Black tub of mostly new carded cheap-brand hand tools: ratchet tie-down sets (Kenga/Handy style packs), spring clamps, snips, pliers sets, garden sprinkler, dead-blow mallet, wire brush. Generic, low value per item.",
+   "identification": "Black plastic tub of mostly new carded budget tools and accessories: ratchet tie-down sets (2-packs, yellow/black branded packs), spring clamps (orange/red pack), snips/secateur-style cutters with green handles, a pliers set, a green garden sprinkler, a dead-blow style mallet, wire brush, a blue carded item. Generic bargain-store grade.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'ratchet tie down set 4 pack', 'spring clamp set', 'tin snips Kenga', 'dead blow mallet'. Check Bunnings/Supercheap new retail for same packs; mixed new tool lots on eBay sold.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5245,7 +6370,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5260,11 +6385,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:26:00 PM ADST",
-   "identification": "CIGWELD Easywelder Turbo transformer-type stick (arc) welder on wheels, blue, with electrode holder lead, earth clamp and mains lead. Read from the photo: Easywelder Turbo branding, single wheel visible. No rods visible. Condition faded and scuffed, untested.",
+   "identification": "Cigweld Easywelder Turbo, old blue single-wheel transformer-type AC stick (arc) welder with mains lead, electrode lead and earth clamp. Rods not visible in photo. Untested.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings (Terapeak): 'Cigweld Easywelder', 'Cigweld Easywelder Turbo', 'Cigweld arc welder transformer'; Gumtree and Facebook Marketplace Tas/Vic 'Cigweld stick welder'; Cigweld current new-price check (Easywelder successors, e.g. Weldskill/Cigweld stick welders at Bunnings, Sydney Tools, Total Tools) as ASKING new retail only.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5320,7 +6445,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5335,11 +6460,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:26:20 PM ADST",
-   "identification": "Two plastic tubs of modern budget hand tools and garden items: socket/bit set in orange case, caulking gun, trowel, small heat gun, drill bit sets, clamps, green garden spreader, paint tray, fixings. No identifiable brands in the photo; generic mixed lot.",
+   "identification": "Two grey plastic storage tubs of mixed modern budget tools and hardware: orange socket/bit case, clamps, caulking gun, trowel, green hand garden spreader, red/black blister-packed fixings, paint roller tray, tape. Brands not legible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Low value lot, only worth a quick check: eBay AU sold listings 'job lot tools tub' and 'garden seed spreader hand held' (Terapeak optional). Check Bunnings/Kmart for new retail of a generic socket/bit set and heat gun if brands are read at viewing.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5395,7 +6520,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5410,11 +6535,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:30:20 PM ADST",
-   "identification": "Traditional hand scythe, curved timber snath with two grips, rusted blade with brace wire; no maker mark visible. Common farm collectable.",
+   "identification": "Old hand scythe: curved bent-timber snath with two turned wooden grips (one with a ferrule), plain steel blade fixed with a brace wire. Single photo, blade small and rusty; no maker stamp visible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'vintage scythe' and 'antique scythe snath' (Sold items, Australia). Also eBay AU sold 'scythe Sheffield marked'. Check Gumtree/Facebook asking prices for 'old scythe' and decor pricing at rustic decor dealers. Low value item, one or two searches suffice.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5533,7 +6658,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5548,11 +6673,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:31:00 PM ADST",
-   "identification": "Rusted hand auger style post hole digger with T handle (ring-style auger head) and a large steel-frame bow saw. No maker marks visible. Common farm tools, no antique or collector features seen.",
+   "identification": "Hand post hole auger (T-bar handle, ring-type cutter head, rusted) and a large steel bow saw frame (blade present, rusted).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'vintage post hole auger hand' and 'old bow saw large'; Gumtree/Facebook Marketplace asking for 'hand post hole digger'. Only worthwhile if more than about $30 total is credible; likely not.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5626,7 +6751,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5641,11 +6766,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 11:32:00 PM ADST",
-   "identification": "Eight used, unbranded long-handled garden tools (spades, forks, edger/cultivator). Generic job lot, no maker visible.",
+   "identification": "Eight used long-handled garden tools: 3 D-handle spades/shovels, 2 forks (one green-shafted), a long hay/garden fork, a star-wheel edger, and a white/black fibreglass-handled tool. Dirty and weathered.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Low value, generic lot; only worth checking if a maker stamp appears. eBay AU sold: 'Spear & Jackson digging fork', 'vintage garden fork spade' sold items; Terapeak 'garden tools lot'. Also Gumtree Tasmania garden tools asking prices.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5764,7 +6889,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false

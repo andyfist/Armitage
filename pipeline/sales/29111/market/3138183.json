@@ -1,7 +1,7 @@
 {
  "cdid": 3138183,
  "lot": 1588,
- "identification": "Sony PSP-1000 series (box PSP-1002 K Value Pack), black, with soft pouch, original box and 13 UMD titles (Ridge Racer 2 Platinum, Anacondas UMD video, Pilot Academy, V8 Supercars Australia 2, Brunswick Pro Bowling, Tiger Woods PGA Tour 07 and 06, Gran Turismo, Hot Brain, Ricky Ponting 2007 Pressure Play, World of Pool x2, SEGA Rally). Untested; box worn and torn at front; charger not clearly pictured.",
+ "identification": "Sony PSP-1000 (box marked PSP-1002 K, Value Pack, Australian PAL), piano black, with black pouch, wrist strap, original box (worn, torn front tape) and 13 UMD games in a purple tray: Ridge Racer 2 (Platinum), Anacondas UMD Video, Pilot Academy, V8 Supercars Australia 2, Brunswick Pro Bowling, Tiger Woods PGA Tour 07 and 06, Gran Turismo, Hot Brain, Ricky Ponting 2007 Pressure Play, World of Pool x2 (one a handwritten disc case), SEGA Rally. Charger and battery not visible in the photos.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,12 +68,73 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/416532/",
    "same_item": "category guide",
    "note": "Gowans lot 'QTY OF PSP GAMES'. PAID LOCALLY: shows what we might pay, not a resale price. Local database record only (no page opened); AUD, no conversion. Less complete than this lot (this one is boxed with 13 UMDs)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$192.67",
+   "currency": "AUD",
+   "aud_price": 192.67,
+   "date": "2026-11-15",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/407359221740",
+   "same_item": "yes",
+   "note": "PSP-1000K Value Pack black, boxed, tested working.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$179.27",
+   "currency": "AUD",
+   "aud_price": 179.27,
+   "date": "2026-10-30",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/940026364872",
+   "same_item": "yes",
+   "note": "PSP black boxed with games and charger bundle, Buy It Now.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$149.00",
+   "currency": "AUD",
+   "aud_price": 149,
+   "date": "2026-11-04",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/940059704473",
+   "same_item": "close",
+   "note": "PSP-1000 piano black bundle with charger and memory card (not boxed per title).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$139.14",
+   "currency": "AUD",
+   "aud_price": 139.14,
+   "date": "2026-10-09",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/407273161048",
+   "same_item": "close",
+   "note": "PSP-1000 piano black console.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$130.00",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-11-03",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/900058666504",
+   "same_item": "yes",
+   "note": "PSP 1000 Value Pack black handheld system.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline): 'PSP-1000 Sony PlayStation Portable', 'Sony PSP console', 'UMD PSP games lot', 'PlayStation Portable', 'PSP', 'Sony PSP', 'PlayStation'; work/comps.py: 'Sony PSP' and 'PSP'. All returned no resale comps.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline): 'PSP-1000 Sony PlayStation Portable', 'Sony PSP console', 'UMD PSP games lot', 'PlayStation Portable', 'PSP', 'Sony PSP', 'PlayStation'; work/comps.py: 'Sony PSP' and 'PSP'. All returned no resale comps. | chrome: eBay AU public sold (AU only) 'sony psp 1000 boxed games'.",
+ "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings (Terapeak too): 'Sony PSP 1000 boxed' , 'PSP-1002 Value Pack', 'PSP 1000 console boxed with games'; also 'PSP UMD games lot' sold, Australia only, last 90 days. Check whether charger is included and compare working vs untested/for parts. Also Gumtree and Cash Converters AU asking prices as ASKING only.",
- "viewing_check": "Check the charger is present and is the correct Sony PSP adapter, power on the console and check the screen for dead pixels, UMD drive works with a game, battery present and holds charge, buttons and analogue nub, any scratches on screen; check UMD discs for scratches; confirm box has inner trays and manuals. Check whether Ridge Racer 2 and other cases hold the discs.",
+ "viewing_check": "Confirm charger, battery present and holds charge, power on, screen dead pixels, UMD drive reads a disc, analogue nub, box has inner trays.",
  "lot_note": "No local database hits. Not a modern product currently sold new, so no new retail entry.",
- "rate_note": "All AUD, no conversion."
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,10 +1,72 @@
 {
  "cdid": 3138384,
  "lot": 1791,
- "identification": "Surface-supplied hookah (diver's air line): Briggs & Stratton I/C 3.5 (127cc) engine belt-driving a finned single-cylinder air compressor, on a float ring (inner tube), with intake snorkel and two yellow air hoses with second-stage/regulator fittings. Two workshop receipts ($140 carby clean, $80 GX140 carby) in photos. Maker of the compressor head not identified from photos.",
- "entries": [],
- "searches_tried": "pipeline/comps.py: 'hookah dive compressor', 'divers air line', 'Briggs Stratton hookah', 'dive air compressor', 'air compressor', 'Briggs Stratton engine', 'hookah diving'; work/comps.py: 'hookah', 'dive compressor', 'air compressor', 'Briggs Stratton engine', 'hookah diving'. No same-item or close resale comps. Only unrelated hits (Gowans shisha 'hookah' lots, workshop air compressors at Armitage/Gowans $20-165, which are paid-locally figures and not relevant to a dive hookah). No new retail price recorded (databases only, no web).",
- "needs_chrome": true,
+ "identification": "Two-diver floating petrol hookah (surface-supplied air) unit: Briggs & Stratton I/C 3.5 hp 127cc horizontal-shaft engine with a gear-reduction/pulley drive (pink cover) belt-driving a separate old finned single-cylinder piston air compressor (red paint flaking, rusty pulley), mounted in a white tub inside a large truck/tractor inner tube float, black intake snorkel, red delivery hose, two long yellow air hoses (approx 2 x 15-20 m) each with a black second-stage regulator and harness clip. Not a branded Brownie's/Hookamax kit; looks like an older locally assembled or rebuilt unit. Two workshop receipts with it: 'clean tank, clean carby, refit, run, test, check over' A$140, and Job 26293 'flooding, fit carby' GX140 carby A$80.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$540.70",
+   "currency": "AUD",
+   "aud_price": 541,
+   "date": "2024-04-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326086792606",
+   "same_item": "category guide",
+   "note": "'Gasoline/petrol hookah diving compressor by Hookamax', fixed price; condition not shown, branded unit (not opened)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$385.82",
+   "currency": "AUD",
+   "aud_price": 386,
+   "date": "2024-10-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176603495942",
+   "same_item": "category guide",
+   "note": "12V hookah compressor with mask and snorkel, fixed price (likely new); also A$422 Dec 2024 (176633176376) and A$421 Feb 2025 (176785947235)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$57.27",
+   "currency": "AUD",
+   "aud_price": 57,
+   "date": "2026-10-26",
+   "venue": "eBay (US, public sold search)",
+   "url": "https://www.ebay.com.au/itm/128151053995",
+   "same_item": "category guide",
+   "note": "Used 40 ft hookah hose with regulators only: shows hoses/regs alone are low value",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$3,850",
+   "currency": "AUD",
+   "aud_price": 3850,
+   "date": "2026-11-27",
+   "venue": "Wolf Air (AU maker, new retail)",
+   "url": "https://wolf-air.squarespace.com/wolf-air-petrol-dive-compressor",
+   "same_item": "category guide",
+   "note": "New 12 cfm recreational petrol hookah, Honda GX200, ABAC pump, inc GST + freight",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$2,817",
+   "currency": "AUD",
+   "aud_price": 2817,
+   "date": "2025-12-15",
+   "venue": "eBay AU (Terapeak, dealer)",
+   "url": "https://www.ebay.com.au/itm/263787656367",
+   "same_item": "category guide",
+   "note": "New Nardi Extreme petrol hookah with hose, dealer fixed price",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'hookah dive compressor', 'divers air line', 'Briggs Stratton hookah', 'dive air compressor', 'air compressor', 'Briggs Stratton engine', 'hookah diving'; work/comps.py: 'hookah', 'dive compressor', 'air compressor', 'Briggs Stratton engine', 'hookah diving'. No same-item or close resale comps. Only unrelated hits (Gowans shisha 'hookah' lots, workshop air compressors at Armitage/Gowans $20-165, which are paid-locally figures and not relevant to a dive hookah). No new retail price recorded (databases only, no web). | chrome: Terapeak EBAY-AU 'hookah dive', 'hookah compressor', 'hookah petrol'; Terapeak EBAY-US 'hookah dive compressor gas'; eBay AU public sold 'hookah diving' (mostly US items); web search for AU new petrol hookah prices (Wolf Air, Brownie's).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'hookah dive compressor petrol', 'hookah diving system Briggs Stratton', 'surface supplied diving compressor floating', 'Brownie Third Lung' (Brownie's is the common brand), 'Nuvair hookah', 'Scuba Doctor hookah' for new retail. Also Gumtree/Facebook Marketplace Australia sold/asking for 'hookah petrol' (asking only). Check new retail: Brownie's Third Lung Tankless Diver 'Floating Petrol Hookah' from Australian dive retailers (ASKING, new retail price). Check Honda GX140 / B&S I/C 3.5 engine alone sold on eBay as a floor value.",
- "viewing_check": "Photograph compressor head and crankcase for a maker or model plate and any serial number; check for oil/water in the pump, hose condition (cracks, perishing, fittings), whether it starts and pumps (pull start), presence of a check valve/filter and regulator mouthpieces (photo 4 shows only connectors). Confirm the hoses are rated breathing-air grade. The engine alone is a reasonable floor value."
+ "viewing_check": "Look for any maker plate on the compressor; check for oil in the compressor (oil-lubricated pumps are unsafe for breathing air); hose and regulator condition and age; ask to see it start.",
+ "chrome_done": true
 }

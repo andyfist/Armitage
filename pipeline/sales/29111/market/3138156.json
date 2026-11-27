@@ -1,14 +1,79 @@
-{"cdid":3138156,"lot":1560,"identification":"Heavy leather tool satchel with about 20 loose spanners: several Sidchrome (Australian) combination spanners incl. AF/BSW marked, Stahlwille Open Box combination, Super Chrome double open end, a large cranked ring spanner, unnamed BSW/BSF and Made in England double open enders up to about 1in+. Mixed ages, rusty older open enders, worn chrome Sidchromes. Not a set; no single standout piece seen.",
-"entries":[
-{"kind":"SOLD","price":"$135","aud_price":135,"currency":"AUD","date":"2026-10-27","venue":"eBay AU (via local database, item 168818507138)","url":"https://www.ebay.com.au/itm/168818507138","same_item":"category guide","note":"Sidchrome 39 piece socket set in red case, not spanners; shows Sidchrome sells on eBay but it is a complete boxed set. Database record only, page not opened. AUD, no conversion."},
-{"kind":"SOLD","price":"$180","aud_price":180,"currency":"AUD","date":"2026-10-04","venue":"Gowans Auctions, Hobart (paid locally)","url":"gowans lot id 442976","same_item":"category guide","note":"Box of assorted Sidchrome spanners plus a broad axe; paid locally, shows what we might pay only, not resale. Database record only."},
-{"kind":"SOLD","price":"$120","aud_price":120,"currency":"AUD","date":"2026-04-26","venue":"Gowans Auctions, Hobart (paid locally)","url":"gowans lot id 405710","same_item":"close","note":"Sidchrome spanners lot, 16 bids; paid locally, not resale. Database record only."},
-{"kind":"SOLD","price":"$35","aud_price":35,"currency":"AUD","date":"2026-02-15","venue":"Gowans Auctions, Hobart (paid locally)","url":"gowans lot id 391395","same_item":"close","note":"Qty of Sidchrome ring spanners; paid locally, not resale."},
-{"kind":"SOLD","price":"$70","aud_price":70,"currency":"AUD","date":"2026-10-21","venue":"Armitage Auctions, Launceston sale 28841 lot 1629 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088795&chid=28841&category=ALL&style=group","same_item":"close","note":"Tray of various spanner sets incl. Sidchrome; paid locally, not resale."},
-{"kind":"SOLD","price":"$45","aud_price":45,"currency":"AUD","date":"2025-07-30","venue":"Armitage Auctions, Launceston sale 25274 lot 1713 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2582866&chid=25274&category=ALL&style=group","same_item":"close","note":"Box of Sidchrome spanners; paid locally, not resale."}
-],
-"searches_tried":"pipeline/comps.py: 'sidchrome spanner', 'stahlwille spanner', 'spanner set satchel', 'sidchrome', 'sidchrome combination spanner', 'bsw spanner'; work/comps.py: 'sidchrome spanner'. Only one non-local hit (eBay socket set). Stahlwille, Super Chrome, BSW: nothing. Local Sidchrome spanner lots (about 28) median $85, mostly $35-$180 for boxes of 20+ spanners.",
-"needs_chrome":true,
-"chrome_hint":"eBay AU sold + Terapeak: 'Sidchrome combination spanner lot', 'Sidchrome spanners job lot', 'vintage spanners job lot Australia', 'Stahlwille Open Box spanner' (check size/each), 'Made in England double open end spanner 1 inch', 'Super Chrome spanner'. Price per piece for Sidchrome combos in worn condition (expect a few dollars each) and any large 1in+ BSW/Whitworth open enders; also Gumtree/Facebook Marketplace asking for lots of 20 mixed spanners.",
-"viewing_check":"Read the stamping on the large ring spanner (maker, size) and the unnamed BSW/BSF open enders; count Stahlwille and Sidchrome pieces and check the leather satchel is a genuine old tool roll bag. Photograph the biggest spanners (over 1in) with sizes visible. Check for any Whitworth or Britool/Snap-on/Gedore pieces among the rusty ones.",
-"rate_note":"All prices AUD, no conversion."}
+{
+ "cdid": 3138156,
+ "lot": 1560,
+ "identification": "Worn leather tool satchel holding about 19 mixed used spanners: a few Sidchrome combination/open end, one Stahlwille Open Box combination, large rusty double open enders (one marked Made in England), one offset ring spanner, unnamed chrome double enders. Mixed ages, not a set, no standout single piece seen.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$135",
+   "aud_price": 135,
+   "currency": "AUD",
+   "date": "2026-10-27",
+   "venue": "eBay AU (via local database, item 168818507138)",
+   "url": "https://www.ebay.com.au/itm/168818507138",
+   "same_item": "category guide",
+   "note": "Sidchrome 39 piece socket set in red case, not spanners; shows Sidchrome sells on eBay but it is a complete boxed set. Database record only, page not opened. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180",
+   "aud_price": 180,
+   "currency": "AUD",
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 442976",
+   "same_item": "category guide",
+   "note": "Box of assorted Sidchrome spanners plus a broad axe; paid locally, shows what we might pay only, not resale. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120",
+   "aud_price": 120,
+   "currency": "AUD",
+   "date": "2026-04-26",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 405710",
+   "same_item": "close",
+   "note": "Sidchrome spanners lot, 16 bids; paid locally, not resale. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "aud_price": 35,
+   "currency": "AUD",
+   "date": "2026-02-15",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 391395",
+   "same_item": "close",
+   "note": "Qty of Sidchrome ring spanners; paid locally, not resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70",
+   "aud_price": 70,
+   "currency": "AUD",
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions, Launceston sale 28841 lot 1629 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088795&chid=28841&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Tray of various spanner sets incl. Sidchrome; paid locally, not resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2025-07-30",
+   "venue": "Armitage Auctions, Launceston sale 25274 lot 1713 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2582866&chid=25274&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Box of Sidchrome spanners; paid locally, not resale."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'sidchrome spanner', 'stahlwille spanner', 'spanner set satchel', 'sidchrome', 'sidchrome combination spanner', 'bsw spanner'; work/comps.py: 'sidchrome spanner'. Only one non-local hit (eBay socket set). Stahlwille, Super Chrome, BSW: nothing. Local Sidchrome spanner lots (about 28) median $85, mostly $35-$180 for boxes of 20+ spanners. | chrome: eBay AU public sold search 'sidchrome spanners job lot' (all conditions, Nov 2026 results; ~60 loosely matched sold listings, none individually linkable from page text).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'Sidchrome combination spanner lot', 'Sidchrome spanners job lot', 'vintage spanners job lot Australia', 'Stahlwille Open Box spanner' (check size/each), 'Made in England double open end spanner 1 inch', 'Super Chrome spanner'. Price per piece for Sidchrome combos in worn condition (expect a few dollars each) and any large 1in+ BSW/Whitworth open enders; also Gumtree/Facebook Marketplace asking for lots of 20 mixed spanners.",
+ "viewing_check": "Read stamps on the biggest spanners (over 1in) for Britool, Gedore, Snap-on, Whitworth; count Sidchrome pieces.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
+}

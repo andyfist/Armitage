@@ -1,7 +1,7 @@
 {
  "cdid": 3138706,
  "lot": 2114,
- "identification": "Mixed tool lot: crate and boxes of ring/open-end/combination spanners (brands not legible, possibly some Sidchrome), tube/box spanners, small socket sets (red case, tins), Meco items, 6 pc metric pack, pliers, multigrips, shifters, bucket of files/rasps, plus a pair of blue-on-white number plates reading BS 9?02 (state not confirmed).",
+ "identification": "Mixed tool lot: 5 boxes/crates and a bucket. Crate and two trays of used spanners (ring, open-end, combination, some in a blue plastic holder), box of pliers/shifters/adjustable spanners, tub with a pair of Tasmanian 'Holiday Isle' style blue-on-white number plates (BS 9?02, strapped together with tape), tube/box spanners, drill bits and punches, a box with rusty metal socket cases, a red 6-piece-style socket set case, a MECO item and a carded 6pc set of bits, and a bucket of old files and rasps with a chain.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,24 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112489&chid=28977&category=ALL&style=group",
    "same_item": "category guide",
    "note": "[paid locally: what we might pay, not a resale price] 8 vintage South Australian number plates. (database record, AUD so no conversion)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$54.32",
+   "currency": "AUD",
+   "aud_price": 54.32,
+   "date": "2026-11-14",
+   "venue": "eBay AU (sold search)",
+   "url": "https://www.ebay.com.au/itm/178134672066",
+   "same_item": "category guide",
+   "note": "10 Everest combination spanners job lot, from UK, shows ordinary vintage spanner lots sell for about A$15-65.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'sidchrome spanner', 'spanner set', 'number plates', 'stahlwille' (no hits); work comps.py: 'sidchrome spanners'. Only local-room and one eBay plate comps found; no resale comps for the spanners.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'sidchrome spanner', 'spanner set', 'number plates', 'stahlwille' (no hits); work comps.py: 'sidchrome spanners'. Only local-room and one eBay plate comps found; no resale comps for the spanners. | chrome: Terapeak AU 3yr 'tasmania holiday isle number plates' (no condition filter); eBay AU sold 'job lot spanners vintage tools'.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Sidchrome spanners job lot', 'Sidchrome spanner set', 'Stahlwille spanner', 'vintage spanners bulk lot'; Terapeak for same. eBay AU sold: 'Victoria number plates BS 902 pair', 'Victorian blue white number plates pair', 'vintage number plates pair' (check state and year). Also eBay sold 'Meco' tools if brand confirmed.",
  "viewing_check": "Read headstamps on the spanners (Sidchrome, Stahlwille, King Dick, Gedore are worth more; unbranded or Chinese chrome is not) and count Sidchrome pieces. Photograph both number plates front and back: state, year, embossing, full digits, and whether they are a matching pair. Check socket sets for brand and completeness.",
- "rate_note": "All prices AUD; no conversion used."
+ "rate_note": "All prices AUD; no conversion used.",
+ "chrome_done": true
 }

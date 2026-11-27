@@ -1,11 +1,93 @@
-{"cdid":3138555,"lot":1963,"identification":"Pair of yellow ratchet-type chain load binders with grab hooks, generic farm/transport hardware (likely 8-10mm chain size, maker not legible). Common low-value item.","entries":[
-{"kind":"SOLD","price":"$85","aud_price":85,"currency":"AUD","date":"2025-10-22","venue":"Armitage Auctions, Launceston sale 26383 lot 1635","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2672084&chid=26383&category=ALL&style=group","same_item":"close","note":"2 ratchet load binders plus chain. Paid locally, not a resale price. Database hit only, page not opened. AUD, no conversion."},
-{"kind":"SOLD","price":"$30","aud_price":30,"currency":"AUD","date":"2025-07-09","venue":"Armitage Auctions, Launceston sale 25108 lot 1878","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2560349&chid=25108&category=ALL&style=group","same_item":"yes","note":"2 ratchet load binders. Paid locally, not a resale price. Database hit only, page not opened. AUD, no conversion."},
-{"kind":"SOLD","price":"$60","aud_price":60,"currency":"AUD","date":"2026-02-11","venue":"Armitage Auctions, Launceston sale 27197 lot 1905","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2811054&chid=27197&category=ALL&style=group","same_item":"category guide","note":"Drag chain and 2 load binders. Paid locally, not a resale price. Database hit only."},
-{"kind":"SOLD","price":"$5-$10","aud_price":10,"currency":"AUD","date":"2026-03-04","venue":"Armitage Auctions, Launceston sale 27353 lot 1986 (also sale 28169 lot 1742, 2 binders $5)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2835690&chid=27353&category=ALL&style=group","same_item":"category guide","note":"Single or plain load binders, very low. Paid locally, not a resale price. Database hit only."}
-],
-"searches_tried":"pipeline/comps.py: 'ratchet binder', 'load binder', 'chain binder'; work/comps.py: 'load binder'. No resale comps in any database; only Armitage and Gowans local hits (paid locally: pairs of ratchet binders $30 to $85, singles $4 to $10).",
-"needs_chrome":true,
-"chrome_hint":"eBay AU sold listings: 'ratchet load binder pair' and 'ratchet chain binder 8mm' (Sold items, Australia). Also Gumtree/Facebook Marketplace used 'load binder ratchet' for asking prices, and Bunnings/Kincrome/Tradequip new price for 'ratchet load binder 8-10mm' (new retail ASKING entry, roughly $30-60 each new).",
-"viewing_check":"Read the cast lettering on the hooks and the tag on the barrel for maker and chain size/WLL (e.g. 8-10mm, 5400kg); check ratchet action and thread are not bent or seized. Low-value item either way.",
-"rate_note":"All AUD, no conversion."}
+{
+ "cdid": 3138555,
+ "lot": 1963,
+ "identification": "Pair of yellow ratchet-type chain load binders (lever ratchet, chain size likely 8-10mm) each with two grab hooks, painted yellow with chipped paint, light rust; generic transport hardware, maker not identified.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$85",
+   "aud_price": 85,
+   "currency": "AUD",
+   "date": "2025-10-22",
+   "venue": "Armitage Auctions, Launceston sale 26383 lot 1635",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2672084&chid=26383&category=ALL&style=group",
+   "same_item": "close",
+   "note": "2 ratchet load binders plus chain. Paid locally, not a resale price. Database hit only, page not opened. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30",
+   "aud_price": 30,
+   "currency": "AUD",
+   "date": "2025-07-09",
+   "venue": "Armitage Auctions, Launceston sale 25108 lot 1878",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2560349&chid=25108&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "2 ratchet load binders. Paid locally, not a resale price. Database hit only, page not opened. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "aud_price": 60,
+   "currency": "AUD",
+   "date": "2026-02-11",
+   "venue": "Armitage Auctions, Launceston sale 27197 lot 1905",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2811054&chid=27197&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Drag chain and 2 load binders. Paid locally, not a resale price. Database hit only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$5-$10",
+   "aud_price": 10,
+   "currency": "AUD",
+   "date": "2026-03-04",
+   "venue": "Armitage Auctions, Launceston sale 27353 lot 1986 (also sale 28169 lot 1742, 2 binders $5)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2835690&chid=27353&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Single or plain load binders, very low. Paid locally, not a resale price. Database hit only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$62.70",
+   "currency": "AUD",
+   "aud_price": 62.7,
+   "date": "2026-11-24",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/302544588969",
+   "same_item": "close",
+   "note": "2 x ratchet load binder 6mm, brand new, free delivery",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$99.00",
+   "currency": "AUD",
+   "aud_price": 99,
+   "date": "2026-11-20",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/302896987528",
+   "same_item": "close",
+   "note": "2 x ratchet load binder 8-10mm, brand new, free delivery",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$89.00",
+   "currency": "AUD",
+   "aud_price": 89,
+   "date": "2026-11-11",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/174410617649",
+   "same_item": "close",
+   "note": "2X ratchet load binder 6mm, brand new, +A$9 delivery",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'ratchet binder', 'load binder', 'chain binder'; work/comps.py: 'load binder'. No resale comps in any database; only Armitage and Gowans local hits (paid locally: pairs of ratchet binders $30 to $85, singles $4 to $10). | chrome: eBay AU public sold (Australia only) 'ratchet load binder pair'. Verdict: under A$100.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'ratchet load binder pair' and 'ratchet chain binder 8mm' (Sold items, Australia). Also Gumtree/Facebook Marketplace used 'load binder ratchet' for asking prices, and Bunnings/Kincrome/Tradequip new price for 'ratchet load binder 8-10mm' (new retail ASKING entry, roughly $30-60 each new).",
+ "viewing_check": "Read hook/barrel marks for chain size and WLL; ratchet action and thread not bent or seized.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}

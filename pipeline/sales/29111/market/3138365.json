@@ -1,6 +1,47 @@
-{"cdid":3138365,"lot":1772,"identification":"Plywood/timber rifle transit case painted with club badge 'A.C.P.T.S.A.' (crossed rifles, slouch hats), number 3684, webbing sling stencilled M.J. Turner, baize interior with two brass-fitted cleaning rods, gear bag, pull-throughs. Likely a target rifle club member's personal case; probably mid 20th century.",
-"entries":[{"kind":"SOLD","price":"$60","currency":"AUD","aud_price":60,"date":"2026-08-16","venue":"Gowans Auctions, Hobart","url":"gowans lot id 431204","same_item":"category guide","note":"Old reloading tools, tin and ebony cleaning rods; paid locally (not a competitive auction, not a resale price). Loose guide to cleaning kit only; database record, page not opened."}],
-"searches_tried":"pipeline/comps.py: 'rifle case', 'A.C.P.T.S.A.', 'target rifle club', 'gun case timber', 'cleaning rod', 'shooting association'; work/comps.py: 'rifle case'. No same-item or rifle-case comps found (hits were Noble medals and fobs, not cases).",
-"needs_chrome":true,
-"chrome_hint":"eBay AU sold: 'vintage rifle case timber' ; 'target rifle case club badge'; 'rifle transit case wooden vintage Australia'; 'SMLE cleaning rod brass'; also Terapeak 'wooden rifle case'. Also search 'ACPTSA' / 'A.C.P.T.S.A. rifle club' (expand the initials) and 'M.J. Turner rifle'. Check Invaluable/LiveAuctioneers for 'rifle case' Australian military memorabilia, and Gowans/Leski/Noble past results for gun cases.",
-"viewing_check":"Check the badge initials and any club/association name or year, the number 3684, name stencils, and whether the case fits a particular rifle (SMLE, .303, Martini). Check for rifle-club labels inside the lid and whether the brass-fitted rods are military-marked (broad arrow, dates). Confirm no firearm is included."}
+{
+ "cdid": 3138365,
+ "lot": 1772,
+ "identification": "Plywood/timber rifle transit case (about 1m long) with hand-painted gold-on-black club badge on lid: crossed rifles between two slouch hats, lettered A.C.P.T.S.A. with number 3684. Webbing sling stencilled M.J. Turner. Green baize lined interior holding two wooden cleaning rods, rag/pull-through, and a leather satchel-type bag. Probably a mid 20th century target rifle club member's case (no firearm).",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-08-16",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 431204",
+   "same_item": "category guide",
+   "note": "Old reloading tools, tin and ebony cleaning rods; paid locally (not a competitive auction, not a resale price). Loose guide to cleaning kit only; database record, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45.96",
+   "currency": "AUD",
+   "aud_price": 46,
+   "date": "2025-02-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/296924470312",
+   "same_item": "category guide",
+   "note": "Vintage wooden rifle hard gun case, plain, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$227.38",
+   "currency": "AUD",
+   "aud_price": 227,
+   "date": "2024-01-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176164069215",
+   "same_item": "category guide",
+   "note": "Antique wooden lined gun case (Birmingham, rifle/shotgun/pistol), auction. Better quality antique English case, not comparable to a plywood club case; shows top of category",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'rifle case', 'A.C.P.T.S.A.', 'target rifle club', 'gun case timber', 'cleaning rod', 'shooting association'; work/comps.py: 'rifle case'. No same-item or rifle-case comps found (hits were Noble medals and fobs, not cases). | chrome: Terapeak AU 'wooden rifle case' 3 years (4 rows, no condition chip seen); web search for the badge initials.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold: 'vintage rifle case timber' ; 'target rifle case club badge'; 'rifle transit case wooden vintage Australia'; 'SMLE cleaning rod brass'; also Terapeak 'wooden rifle case'. Also search 'ACPTSA' / 'A.C.P.T.S.A. rifle club' (expand the initials) and 'M.J. Turner rifle'. Check Invaluable/LiveAuctioneers for 'rifle case' Australian military memorabilia, and Gowans/Leski/Noble past results for gun cases.",
+ "viewing_check": "Check for club labels inside the lid, military broad-arrow marks on the rods, and what the badge initials stand for.",
+ "chrome_done": true
+}

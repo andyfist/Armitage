@@ -1,7 +1,7 @@
 {
  "cdid": 3138301,
  "lot": 1706,
- "identification": "Nine albums of modern (2010s) AFL Teamcoach and Select trading cards plus a Footy Collectors album; mostly common base cards, no obvious premium signature cards seen in scan notes. Photos not re-examined.",
+ "identification": "9 albums/binders of AFL trading cards: about 5 AFL Teamcoach albums (2010s era caricature cards, team cards, part-filled pages), 3 green/red Select-type binders (not readable) and 1 black 'Footy Collectors' Select binder. Mostly common base cards.",
  "entries": [
   {
    "kind": "SOLD",
@@ -134,11 +134,60 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2882445&chid=27619&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Collection of AFL football cards and albums (sale 27619 lot 361). Paid locally (not a competitive resale room): shows what we might pay, never resale. AUD, no conversion. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$86.54",
+   "currency": "AUD",
+   "aud_price": 86.54,
+   "date": "2026-08-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/336755428888",
+   "same_item": "category guide",
+   "note": "Bulk lot 12 AFL Teamcoach albums, EMPTY (no cards), fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$73.28",
+   "currency": "AUD",
+   "aud_price": 73.28,
+   "date": "2026-09-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/336767460039",
+   "same_item": "category guide",
+   "note": "Bulk lot 10 AFL Teamcoach albums, EMPTY, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25.24",
+   "currency": "AUD",
+   "aud_price": 25.24,
+   "date": "2024-2026 (3yr window; avg of many)",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/266756477657",
+   "same_item": "category guide",
+   "note": "2024 Teamcoach complete common base set 200 cards in album (current-year complete set price level)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.82",
+   "currency": "AUD",
+   "aud_price": 19.82,
+   "date": "2026-07-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/306228669316",
+   "same_item": "category guide",
+   "note": "2025 Teamcoach sealed collector album, avg of 198 sold",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'AFL Teamcoach cards' (none), 'AFL cards album', 'Teamcoach' (none), 'footy cards collection', 'team coach albums', 'AFL albums cards'; work/comps.py: 'AFL cards'. No resale (eBay or open-market) comps in databases; only local-room results, which show cost not resale. Local range for album lots mostly $2-$75 per lot, typically $15-$45 for 2-4 albums; $260 once for 3 Team Coach 2026 albums.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'AFL Teamcoach cards' (none), 'AFL cards album', 'Teamcoach' (none), 'footy cards collection', 'team coach albums', 'AFL albums cards'; work/comps.py: 'AFL cards'. No resale (eBay or open-market) comps in databases; only local-room results, which show cost not resale. Local range for album lots mostly $2-$75 per lot, typically $15-$45 for 2-4 albums; $260 once for 3 Team Coach 2026 albums. | chrome: Terapeak AU 3yr: 'afl teamcoach album cards', 'afl teamcoach albums bulk collection'.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'AFL Teamcoach album' ; 'AFL Teamcoach 2013 complete set' ; 'AFL Select Footy Stars cards lot' ; 'AFL Teamcoach Gold/Silver parallel' ; 'AFL Teamcoach caricature card'. Check completed Teamcoach albums (full vs part set, per album price) and any premium inserts (Brownlow, signature, Gold). Also Gumtree/Facebook AFL card groups for asking only.",
- "viewing_check": "Page through each album: count filled vs empty slots, and look for Gold/Silver parallels, signature or memorabilia cards, rookies of big names (e.g. Cripps, Neale, Dangerfield, Dusty Martin) and any pre-2010 or 1990s Select cards. Note which Teamcoach years are present and whether any album is a complete set.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Page through each binder for Gold/Silver parallels, signature cards, 1990s Select/Stimorol cards; count filled slots.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

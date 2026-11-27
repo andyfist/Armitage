@@ -1,7 +1,7 @@
 {
  "cdid": 3138712,
  "lot": 2120,
- "identification": "Black tub of mostly new carded cheap-brand hand tools: ratchet tie-down sets (Kenga/Handy style packs), spring clamps, snips, pliers sets, garden sprinkler, dead-blow mallet, wire brush. Generic, low value per item.",
+ "identification": "Black plastic tub of mostly new carded budget tools and accessories: ratchet tie-down sets (2-packs, yellow/black branded packs), spring clamps (orange/red pack), snips/secateur-style cutters with green handles, a pliers set, a green garden sprinkler, a dead-blow style mallet, wire brush, a blue carded item. Generic bargain-store grade.",
  "entries": [
   {
    "kind": "SOLD",
@@ -59,9 +59,10 @@
    "note": "Kincrome tool box and hand tools. Paid locally, not a resale price."
   }
  ],
- "searches_tried": "pipeline comps.py: 'ratchet tie down', 'Kincrome tools', 'Kenga snips pliers'; work comps.py: 'ratchet straps', 'tool lot tub'. Only locally paid Gowans/Armitage hits; no resale comps.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'ratchet tie down', 'Kincrome tools', 'Kenga snips pliers'; work comps.py: 'ratchet straps', 'tool lot tub'. Only locally paid Gowans/Armitage hits; no resale comps. | chrome: eBay AU public sold search 'ratchet tie down set 2 pack new' (Australia only). No Terapeak needed.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'ratchet tie down set 4 pack', 'spring clamp set', 'tin snips Kenga', 'dead blow mallet'. Check Bunnings/Supercheap new retail for same packs; mixed new tool lots on eBay sold.",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Count the carded items and read brands on packs (ratchet sets, snips, pliers); check packs are sealed and unused."
+ "viewing_check": "Read brands on the packs and count sealed carded items; if there is a branded set (DeWalt, Sutton, Kincrome) it would be worth more.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138360,
  "lot": 1766,
- "identification": "Two red steel toolboxes (one cantilever) with generic hand tools: shifters, screwdrivers, pliers, hammer, multigrips, Allen keys, rusty ring/open spanners marked Chrome Vanadium, Drop Forged, Stanley. No premium brand identified from notes.",
+ "identification": "Two red steel toolboxes (one 5-tray cantilever) holding mixed generic hand tools: 3-4 adjustable shifters (Crescent-style), screwdrivers with amber and blue handles, pliers, claw hammers, riveter, locking pliers, Allen keys, and a box of rusty combination spanners (Chrome Vanadium/Drop Forged stamped).",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,10 +90,23 @@
    "url": "gowans lot id 409134",
    "same_item": "close",
    "note": "Red toolbox and assorted tools. Paid locally, not a resale price; database record, page not opened."
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-10-21",
+   "venue": "Armitage sale 28841 lot 1667",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088833&chid=28841&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Toolbox with various hand tools, paid locally, not a resale price (from database, page not opened)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'Stanley spanner', 'Crescent shifter', 'Chrome Vanadium spanner set', 'tool box tools', 'red tool box', 'toolbox hand tools spanners', 'cantilever toolbox'; work/comps.py 'Stanley spanners' (nothing). No resale comps in any database; only local rooms (about $20-80 for comparable mixed toolbox lots).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'Stanley spanner', 'Crescent shifter', 'Chrome Vanadium spanner set', 'tool box tools', 'red tool box', 'toolbox hand tools spanners', 'cantilever toolbox'; work/comps.py 'Stanley spanners' (nothing). No resale comps in any database; only local rooms (about $20-80 for comparable mixed toolbox lots). | chrome: eBay AU public sold search 'cantilever toolbox with tools job lot' (_salic=15).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Sidchrome OR Stanley OR Crescent spanners job lot used'; 'cantilever tool box red steel' sold (pickup only, low); Terapeak 'job lot hand tools toolbox'. Generic rusty tools are low value; only worth a check if viewing finds Sidchrome, Snap-on, Gedore, Record or Crescent-brand pieces. New retail price not applicable (mixed used generic lot).",
- "viewing_check": "Open the boxes and look for premium names (Sidchrome, Snap-on, Gedore, Record, Bahco, Crescent USA-made shifters) and vintage planes or measuring tools; check how many spanners are rusted solid. Otherwise nothing."
+ "viewing_check": "Open the boxes, look for premium names (Sidchrome, Snap-on, Gedore, Record, Crescent USA) and how many spanners are rusted solid.",
+ "chrome_done": true
 }

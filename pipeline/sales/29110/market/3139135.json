@@ -1,7 +1,7 @@
 {
  "cdid": 3139135,
  "lot": 2371,
- "identification": "Pair of B&W (Bowers & Wilkins) black floorstanding speakers, tall two-section cabinets with a separate upper midrange/tweeter box and lower bass cabinet, grilles on, small B&W badge. Look like DM600 series (DM602/DM603 type, late 1990s). Exact model not legible from the one photo. Scuffed cabinets, not tested.",
+ "identification": "Pair of B&W (Bowers & Wilkins) black ash floorstanding speakers, two-section cabinet with separate upper head, DM600-series style (DM602/DM603 S2/S3 era). Exact model unconfirmed (badge only legible as B&W; photo is 450x600).",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,60 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2996922&chid=28328&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Small shelf pair, low end. Paid locally. Local database hit; AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$680.00",
+   "currency": "AUD",
+   "aud_price": 680.0,
+   "date": "2026-09-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237077211974",
+   "same_item": "category guide",
+   "note": "B&W 683 floorstanders (newer, bigger series), 10 bids. Guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$424.70",
+   "currency": "AUD",
+   "aud_price": 424.7,
+   "date": "2026-09-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/278261079901",
+   "same_item": "category guide",
+   "note": "DM600 S3 bookshelf pair (smaller than lot). Price may include Best Offer, so guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$509.50",
+   "currency": "AUD",
+   "aud_price": 509.5,
+   "date": "2026-10-04",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/287545410642",
+   "same_item": "category guide",
+   "note": "DM600 S3 (England) Buy It Now, probably bookshelf pair. Guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$250.00",
+   "currency": "AUD",
+   "aud_price": 250.0,
+   "date": "2026-11-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/960126281082",
+   "same_item": "category guide",
+   "note": "DM302 Prism bookshelf pair, BIN. Older small model, guide only.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'B&W speakers', 'Bowers Wilkins', 'B&W 600 floor speakers' (no hits); work comps.py: 'Bowers Wilkins'. Only Gowans and Armitage local-room results found; no resale (eBay, Facebook, Gumtree) data held.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'B&W speakers', 'Bowers Wilkins', 'B&W 600 floor speakers' (no hits); work comps.py: 'Bowers Wilkins'. Only Gowans and Armitage local-room results found; no resale (eBay, Facebook, Gumtree) data held. | chrome: Terapeak AU 3yr 'B&W DM603 speakers' (Used condition filter was on). eBay AU public sold: DM603 speakers, DM603 floor standing, DM floor standing pair, B&W DM603 (AU only). Several results were UK-shipped parts or Best Offer.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold and completed: 'B&W DM602 speakers', 'B&W DM603 speakers', 'B&W DM601 floorstanding', 'Bowers Wilkins DM600 pair' (Sold items, Australia, last 12 months; Terapeak if signed in). Also Gumtree/Facebook Marketplace 'B&W DM602' and 'B&W DM603' for Tasmania and mainland asking prices, plus Mitchell/Leilo/Lawsons sold results for 'B&W floorstanding speakers'. Note whether sellers say pickup only (floorstanders are heavy, freight lowers resale).",
- "viewing_check": "Read the model label on the rear terminal panel or the badge (DM601/602/603/604 etc, and S2/S3 suffix) and photograph it. Check the drivers: foam or rubber surrounds perished, tweeter dome dents, bass cone damage. Check the grille fabric and cabinet veneer lifting. If possible, connect an amp and confirm both speakers sound on all drivers. Confirm the pair is matched (both same model).",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Read the model on the rear terminal plate (DM602/603 and S2/S3). Check tweeter and midrange domes, bass driver surrounds for perishing, cabinet veneer, that both are same model, and test with an amp.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

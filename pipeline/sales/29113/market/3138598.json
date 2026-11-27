@@ -1,7 +1,7 @@
 {
  "cdid": 3138598,
  "lot": 2006,
- "identification": "Wooden crate of roughly 30 or more rusty steel jaw (gin) rabbit traps, mixed patterns, no legible maker stamps.",
+ "identification": "Pine crate holding roughly 25-35 mixed rusty steel jaw (gin) rabbit traps, some chained, a few red-painted, 3 hung on crate sides. Crate has stencilled/pencilled marks (Portina, II).",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,24 @@
    "url": "gowans lot id 364721",
    "same_item": "close",
    "note": "BOX OF ASST RABBIT TRAPS (6 bids). Paid locally (not competitive auction, not a resale price). Database hit, no page opened. Rate AUD 1."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.50",
+   "currency": "AUD",
+   "aud_price": 85.5,
+   "date": "2026-11-15",
+   "venue": "eBay AU (public sold search, madmickmeataxe)",
+   "url": "https://www.ebay.com.au/itm/960181868608",
+   "same_item": "close",
+   "note": "Pair of vintage spring jaw rabbit traps, 1 bid. Terapeak shows A$81.73 item price (Terapeak condition filter 1 selected). Link built from Terapeak item ID.",
+   "via": "chrome"
   }
  ],
  "rate_note": "All AUD, rate 1.",
- "searches_tried": "pipeline comps.py: 'rabbit trap', 'gin trap', 'Lane Ace trap', 'steel jaw trap'; work comps.py: 'rabbit traps'. Only local rooms (what we might pay) hold hits: crate/box/tub lots of traps range about $40-195, typical $80-140. No resale comps in databases.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'rabbit trap', 'gin trap', 'Lane Ace trap', 'steel jaw trap'; work comps.py: 'rabbit traps'. Only local rooms (what we might pay) hold hits: crate/box/tub lots of traps range about $40-195, typical $80-140. No resale comps in databases. | chrome: eBay AU sold (AU only) 'rabbit traps job lot vintage'; Terapeak AU 3yr 'rabbit trap' (cage traps, irrelevant), 'vintage rabbit trap spring jaw' (1 result, Condition filter 1 selected).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'job lot vintage rabbit traps', 'antique gin trap Lane', 'Lane Ace rabbit trap', 'Cyclone rabbit trap'; Terapeak same terms, last 12 months. Also check Facebook Marketplace/Gumtree for bulk rabbit trap asking prices and Mitchell's or rural clearance auctions.",
- "viewing_check": "Count the traps, read any stamps on plates or springs (Lane, Ace, Cyclone, Hawkins, Newhouse), check springs for breaks and for any rare patterns or unusual large traps; otherwise bulk rusty gin traps are low value."
+ "viewing_check": "Count the traps, read stamps (Lane, Ace, Acme, Hawkins, Newhouse), check springs for breaks, look for any large or unusual patterns.",
+ "chrome_done": true
 }

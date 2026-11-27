@@ -1,7 +1,7 @@
 {
  "cdid": 3138067,
  "lot": 1470,
- "identification": "Large brass/bronze bell-shaped bank or bullion weight marked 100 TROY OZS, lead verification plug on handle; no maker seen. About 3.1 kg of metal.",
+ "identification": "Victorian-style bronze/brass bell-shaped trade weight, loop handle with flat plate stamped '100 TROY OZ' (small TROY above), no maker or verification marks visible, ~18cm, ~3.1kg. Estimate $20-30, current bid $15.",
  "entries": [
   {
    "kind": "SOLD",
@@ -48,8 +48,9 @@
    "note": "Set of 9 brass troy bullion weights in cedar box, colonial trade use; a provenanced set, an outlier, not a guide for a single weight. Local database record only (page not opened); hammer price, premium excluded."
   }
  ],
- "searches_tried": "pipeline comps.py: 'bell weight troy', '100 troy ounce weight', 'brass bell weight', 'troy ounce brass weight', 'bank weight', 'bullion weight', '100 oz weight'; work comps.py: 'bell weight', 'troy ounce weight'. No same-item (100 oz bell weight) hit. Gowans hits were gym weights, irrelevant.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'bell weight troy', '100 troy ounce weight', 'brass bell weight', 'troy ounce brass weight', 'bank weight', 'bullion weight', '100 oz weight'; work comps.py: 'bell weight', 'troy ounce weight'. No same-item (100 oz bell weight) hit. Gowans hits were gym weights, irrelevant. | chrome: eBay AU public sold '100 oz troy bell weight brass': 0 exact; only small bell weight sets A$20-170 and the one Best Offer pair above",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU and eBay.com sold + Terapeak: '100 troy oz brass bell weight', 'bell weight 100 oz troy', 'bank bullion weight brass 100 ounce', 'bullion weight bell brass lead plug'. Also LiveAuctioneers/Invaluable: 'bell weight 100 troy ounces', and Leski/Noble results for 'bullion weight'. Look for US assayer or bank bullion weights and for scrap brass value (about 3.1 kg).",
- "viewing_check": "Check the lead plug stamp under '100' (maker or verification mark, crown or date), any maker name on the base, and weigh it to confirm about 3.11 kg; check for Australian bank or mint markings, which would lift value."
+ "viewing_check": "Check for maker/verification stamp under the handle plate",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138959,
  "lot": 1195,
- "identification": "High back English Windsor armchair c1860, pierced splat, crinoline stretcher, elm seat; dark timber might be yew (unconfirmed). Local databases hold no yew or crinoline Windsor armchair comps.",
+ "identification": "Antique English high-back Windsor armchair, Yorkshire/Lincolnshire style: hooped back with pierced vase-shaped splat, turned arm supports, saddle elm seat, turned legs, crinoline (crescent) stretcher. Dark old finish; catalogue says oak and elm c1860. Timber looks like ash/elm with a dark patina, not obviously yew. Estimate 200-300, current bid $100.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,48 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/516",
    "same_item": "category guide",
    "note": "Tasmanian blackwood captains chair with crinoline stretcher, 19th c. Different timber and form, only shows crinoline stretcher chairs sell around $300. Hammer, no premium. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 240 hammer",
+   "currency": "GBP",
+   "aud_price": 450,
+   "date": "2021-09-27",
+   "venue": "Gorringe's, Lewes (UK auction)",
+   "url": "https://auction.gorringes.co.uk/auction-lot-detail/An-early-19th-century-yew-and-elm-Windsor-armchair,-with-cri&salelot=270921++1204+&refno=90012757",
+   "same_item": "close",
+   "note": "Early 19th c yew and elm Windsor armchair with crinoline stretcher, est GBP150-250; AUD at about 1.88 for Sept 2021, hammer. Over 3 years old, yew and earlier than ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "GBP 500 hammer",
+   "currency": "GBP",
+   "aud_price": 960,
+   "date": "unknown",
+   "venue": "Dukes, Dorchester (UK auction), Richard Pratley Collection lot 38",
+   "url": "https://app.dukes-auctions.com/en/auction/1057-interiors/38-an-elm-and-yew-windsor-chair",
+   "same_item": "close",
+   "note": "19th c elm and yew hoop-back Windsor, pierced splat, crinoline stretcher, est GBP200-400. Sale date not shown on page, AUD at about 1.92 (indicative). Named collection, so premium over ordinary.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$210-390",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "2025-08 to 2026-04",
+   "venue": "Armitage Auctions",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2603252&chid=25444&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Database hints (not opened by me): Windsor armchairs c1880-c1900 made A$210 and A$390 locally. Cost guide only.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: windsor chair; windsor crinoline; yew chair; elm chair; windsor armchair; yew windsor; crinoline stretcher. work comps.py: windsor chair. AUD only, no conversion needed.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: windsor chair; windsor crinoline; yew chair; elm chair; windsor armchair; yew windsor; crinoline stretcher. work comps.py: windsor chair. AUD only, no conversion needed. | chrome: Terapeak AU 3yr 'windsor armchair crinoline' (0 results); eBay AU public sold 'antique windsor armchair' (only toy/doll/children's chairs plus one Hitchcock A$182 US); web searches for UK/AU auction results; fetched Carters (paywalled), Fieldings (no lot data), Dukes, Gorringe's.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold (and Terapeak): 'yew windsor armchair', 'windsor armchair crinoline stretcher', 'elm windsor armchair antique', 'high back windsor armchair'. LiveAuctioneers/Invaluable results: 'yew wood windsor armchair' and 'crinoline stretcher windsor armchair', last 10 years. Also Leski, Lawsons, Theodore Bruce, Davidson (AU) sold prices; compare pierced-splat yew vs elm examples.",
- "viewing_check": "Identify the timber: look at seat, arms and legs for yew (orange sapwood, dark heartwood with tight knots) vs elm/oak; check the crinoline stretcher is original, arm and leg joints and any splits or worm, and any repairs to the splat.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Timber (yew vs elm/ash), crinoline stretcher original, arm and leg joints, splits, worm, repairs to splat and seat.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

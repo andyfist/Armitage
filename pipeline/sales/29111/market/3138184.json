@@ -1,7 +1,7 @@
 {
  "cdid": 3138184,
  "lot": 1589,
- "identification": "Tackle tray of about 50 used trout lures: older wooden Tasmanian-style minnows and cobras, spoons and spinners, plus three carded Tillins lures (modern, $4.50 stickers). Photos show mostly common wooden minnows and spoons; no individual Ashley marks legible. Likely a lot-of-lures value, not individual collector pieces.",
+ "identification": "Clear plastic tackle box with about 55-60 small used trout lures (mostly small painted wooden minnows/cobra-style lures, a few gold spoons, one tube of spare hooks/sinkers) plus three carded modern Tillins lures (yellow cards, price stickers about A$4.50). Tasmanian-style trout tackle.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,84 @@
    "url": "gowans lot id 424630",
    "same_item": "category guide",
    "note": "Generic lures lot. Hammer, AUD, no conversion. Database record (not a web page). Paid locally: shows what we might pay, not a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.16",
+   "currency": "AUD",
+   "aud_price": 32.16,
+   "date": "2026-10-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/196417170602",
+   "same_item": "close",
+   "note": "Vintage Tillins King Cobra trout lure #41Y, single, BIN (shows best single vintage Tillins piece)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$9.96",
+   "currency": "AUD",
+   "aud_price": 9.96,
+   "date": "2026-08-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267391913699",
+   "same_item": "close",
+   "note": "New Tillins Ashley spinner 5cm, BIN (same maker as the 3 carded; carded ones worth about A$10-12 each)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$11.51",
+   "currency": "AUD",
+   "aud_price": 11.51,
+   "date": "2025-08-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/266506649153",
+   "same_item": "close",
+   "note": "New Tillins Ashley spinner 5cm, BIN",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$12.04",
+   "currency": "AUD",
+   "aud_price": 12.04,
+   "date": "2025-03-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267061363454",
+   "same_item": "close",
+   "note": "New Tillins Ashley spinner 3.8cm, BIN",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.08",
+   "currency": "AUD",
+   "aud_price": 30.08,
+   "date": "2026-09-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/296697063613",
+   "same_item": "category guide",
+   "note": "Lot of 3 vintage Worden's Rooster Tail trout lures, BIN (different brand, shows small lot level)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$31.78",
+   "currency": "AUD",
+   "aud_price": 31.78,
+   "date": "2025-05-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116590409101",
+   "same_item": "category guide",
+   "note": "4 vintage Hellin Flatfish trout lures, auction (different brand)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'Tillins lure', 'trout lure wooden', 'Ashley lure', 'fishing lures tackle'; work/comps.py: 'Tillins lure' (no resale comps). Rebel lure eBay hits ($5-$61, 18 sold) are modern boxed Rebel lures, not the same item, so not recorded as entries.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'Tillins lure', 'trout lure wooden', 'Ashley lure', 'fishing lures tackle'; work/comps.py: 'Tillins lure' (no resale comps). Rebel lure eBay hits ($5-$61, 18 sold) are modern boxed Rebel lures, not the same item, so not recorded as entries. | chrome: Terapeak AU 3yr: 'tillins lure', 'vintage trout lures lot', 'vintage tasmanian lures' (the last returned Tasmanian Devil spoons, irrelevant). No condition filter noted.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Tillins lure', 'Tillins trout lure lot', 'Ashley lure Tasmania', 'vintage wooden trout lure lot Australia', 'Tasmanian wooden minnow lure'; Terapeak on 'Tillins' and 'Ashley cobra lure'; Gowans and Armitage past results for 'Ashley lures' and 'Tillins' for context only. Look for sold bulk lots of 30-50 vintage lures and single sold prices for Ashley Cobra and Tillins wooden minnows.",
- "viewing_check": "Open the tray and read maker names stamped or painted on the lures: Ashley, Cobra, Tillins, Dickson, any hand-made labelled wooden minnows. Photograph the best few wooden lures (undersides, hook hangers). Check whether the Tillins cards are genuine and whether any older wooden pieces are in good paint.",
- "rate_note": "All entries AUD, no conversion."
+ "viewing_check": "Open the box and read maker names on the better wooden lures (Tillins, Ashley, Cobra, Dickson); pick out any older hand-painted pieces.",
+ "rate_note": "All entries AUD, no conversion.",
+ "chrome_done": true
 }

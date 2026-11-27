@@ -1,7 +1,7 @@
 {
  "cdid": 3138309,
  "lot": 1714,
- "identification": "Box of Tasmanian maps: dozens of TASMAP 1:100 000 and 1:25 000 topographic sheets (yellow and blue covers), Hydro-Electric Commission 'Lake Gordon and Lake Pedder' map, Lake St Clair/Cradle area maps, assorted brochures and a Saturday paper.",
+ "identification": "Large box (est. 70-100 sheets) of Tasmap Tasmania maps: blue and light-blue 1:100,000 topographic sheets (Olga, Nive, Sophia, Old River, D'Entrecasteaux, King Island Special, Port Davey, Lisle, Brea etc, some duplicates), about 25-30 yellow 1:25,000 sheets (Arthurs Lake etc), HEC Lake Gordon and Lake Pedder map in bag, Great Lake map 1:30,000 in sleeve, North-West Tasmania maps, a Saturday newspaper and loose papers. 1980s-90s editions, folded.",
  "entries": [
   {
    "kind": "SOLD",
@@ -161,12 +161,24 @@
    "same_item": "yes",
    "note": "single 1:25 000 'Giblin' 1985",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.01",
+   "currency": "AUD",
+   "aud_price": 53.01,
+   "date": "2026-10-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/327372196709",
+   "same_item": "close",
+   "note": "Tasmap bulk lot of 15 x 1:100,000 sheets (Huon, Spero, Olga etc), fixed price, about A$3.50 a sheet",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: tasmap map; tasmania topographic map; HEC Lake Pedder map; tasmanian maps; pedder map; tasmap topographic; bushwalking maps tasmania; 1:25000 map tasmania. work/comps.py: tasmap map; tasmania topographic map; HEC Lake Pedder map; tasmanian maps. No resale (non-local) comps for this item type found. Local box-of-Tasmanian-maps results range $16-190, mostly $25-130; bigger, mixed topographic boxes sit around $60-190. | chrome: Terapeak 'tasmap topographic map' (12 sold)",
+ "searches_tried": "pipeline/comps.py: tasmap map; tasmania topographic map; HEC Lake Pedder map; tasmanian maps; pedder map; tasmap topographic; bushwalking maps tasmania; 1:25000 map tasmania. work/comps.py: tasmap map; tasmania topographic map; HEC Lake Pedder map; tasmanian maps. No resale (non-local) comps for this item type found. Local box-of-Tasmanian-maps results range $16-190, mostly $25-130; bigger, mixed topographic boxes sit around $60-190. | chrome: Terapeak 'tasmap topographic map' (12 sold) | chrome: Terapeak AU 3yr: 'tasmap maps lot' (2 rows), 'tasmap 1:25000 tasmania topographic' (none).",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold listings: 'Tasmap 1:100000 topographic map Tasmania' (sold, last 90 days; note price per sheet and lot sizes); 'Tasmap 1:25000 Tasmania lot'; 'Hydro Electric Commission Tasmania map Lake Pedder Gordon' (sold); 'Great Lake map Tasmania 1:50000'. Also Terapeak for 'Tasmap'. Check Tasmanian Map Centre / Service Tasmania current price of 1:100000 and 1:25000 sheets as ASKING (new retail), noting many sheets are superseded and old editions have little collector value. Pedder pre-flooding maps may attract Lake Pedder enthusiasts.",
- "viewing_check": "Count sheets and look for old (pre-1970) or HEC maps, which sell better.",
+ "viewing_check": "Count sheets, check edition dates (pre-1990), HEC Pedder map and Great Lake map condition.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

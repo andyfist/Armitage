@@ -1,7 +1,7 @@
 {
  "cdid": 3138448,
  "lot": 1856,
- "identification": "Coca-Cola can-shaped rolling drinks cooler on castors, red body, 'Coca-Cola Coke Trade Mark Regd' script, cream lid; plastic promotional cooler, likely 1980s. Photos show scuffed paint, stained interior.",
+ "identification": "Coca-Cola can-shaped rolling drinks cooler on castors, red plastic body with Coca-Cola script and 'Coke Trade Mark Regd', cream lid, side handle recess, about 84 cm high; c.1980s-90s promotional can cooler. Interior is a plain moulded tub with a smaller inner disc; stained/dirty.",
  "entries": [
   {
    "kind": "SOLD",
@@ -35,10 +35,35 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2972990&chid=28168&category=ALL&style=group",
    "same_item": "category guide",
    "note": "2 vintage Coca-Cola cooler bags and dart board; soft bags, weak comparison. From local database; shows what we might pay only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$36.05",
+   "currency": "AUD",
+   "aud_price": 36.05,
+   "date": "2026-11-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/128091945844",
+   "same_item": "category guide",
+   "note": "Vintage Coca Cola can-shape cooler bag, soft, small; weak comparison only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$70",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2025-11-12",
+   "venue": "Armitage sale 26638 lot 1626",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2729292&chid=26638&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Small Coca-Cola cooler, local room, not resale (database record only).",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'coca-cola cooler', 'coca cola drinks cooker', 'coke can cooler', 'coca-cola', 'coca-cola can cooler', 'coca cola esky', 'drinks cooler'; work/comps.py: 'coca-cola cooler', 'coca cola drinks cooker', 'coke can cooler', 'coca-cola'. No same-item can cooler hit and no resale (non-local) comp; the non-local coca-cola hits were coins, badges and footy cards, all irrelevant. Rate: all AUD, no conversion.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'coca-cola cooler', 'coca cola drinks cooker', 'coke can cooler', 'coca-cola', 'coca-cola can cooler', 'coca cola esky', 'drinks cooler'; work/comps.py: 'coca-cola cooler', 'coca cola drinks cooker', 'coke can cooler', 'coca-cola'. No same-item can cooler hit and no resale (non-local) comp; the non-local coca-cola hits were coins, badges and footy cards, all irrelevant. Rate: all AUD, no conversion. | chrome: Terapeak AU 3yr: 'coca cola can cooler', 'coca cola can shaped cooler wheels large', 'coke can cooler wheels' (no condition filter seen).",
+ "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold/completed: 'Coca-Cola can cooler wheels', 'Coke can shaped esky on castors', 'Coca-Cola drinks cooker'; Terapeak same terms (last 12 months, Australia); Gumtree/Facebook Marketplace Tasmania and Victoria asking prices for 'Coca-Cola can cooler'; Leski, Lawsons, Mossgreen/Theodore Bruce past results for 'Coca-Cola cooler'; LiveAuctioneers 'Coca-Cola can cooler'. Note whether the sold ones are the same 1980s plastic type and their condition.",
- "viewing_check": "Check for makers marks or a label under the base or inside (maker, date), whether the wheels are intact, lid fit and cracks, interior drain plug, amount of fading and rust or splits. Photograph the base and any stamp."
+ "viewing_check": "Check base for maker label, wheels, lid fit, cracks.",
+ "chrome_done": true
 }

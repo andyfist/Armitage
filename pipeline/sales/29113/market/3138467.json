@@ -1,7 +1,7 @@
 {
  "cdid": 3138467,
  "lot": 1875,
- "identification": "Two cast iron treadle sewing machine bases: one marked SINGER on the cross bar (sphinx style wheel guards, rusty, worn paint), one unnamed black painted base. Both with treadles and grates. Common items.",
+ "identification": "Two cast iron treadle sewing machine bases. Right: Singer treadle base with SINGER cast in the cross-bar, sphinx medallions, lattice end frames, rusty/brown, treadle grate and wheel present. Left: unnamed black-painted base with scrolled top rails and swan-neck cross frame, treadle and wheel present, maker not identifiable. Both appear complete.",
  "entries": [
   {
    "kind": "SOLD",
@@ -123,11 +123,48 @@
    "url": "https://www.ebay.com.au/itm/135306016956",
    "same_item": "close",
    "note": "Singer treadle base table. Not reopened. Postage likely limits eBay buyers for bare bases."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$245.89",
+   "currency": "AUD",
+   "aud_price": 245.89,
+   "date": "2024-03-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256435193031",
+   "same_item": "close",
+   "note": "Pre-1920s Singer treadle cast iron table base legs only, auction with 1 bid, free postage. Only bare-base sale found; over 2.5 years old; condition unknown.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$115",
+   "currency": "AUD",
+   "aud_price": 115,
+   "date": "2025-11-12",
+   "venue": "Armitage sale 26639 lot 1948",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2729492&chid=26639&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Pair of Singer treadle bases; database record, not opened. Local room, not resale.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$50",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-07-08",
+   "venue": "Armitage sale 28169 lot 1841",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2973383&chid=28169&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Single Singer base; database record, not opened. Local room, not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'singer treadle', 'treadle base', 'sewing machine base'; work/comps.py: 'singer treadle'. No web searches (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'singer treadle', 'treadle base', 'sewing machine base'; work/comps.py: 'singer treadle'. No web searches (databases only). | chrome: Terapeak AU 3yr: 'singer treadle base cast iron', 'treadle sewing machine base only table legs', 'singer treadle legs' (no condition filter seen).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Singer treadle base cast iron' and 'cast iron treadle sewing machine base pair' (bare bases, not tables); Australian Gumtree/Facebook Marketplace asking prices for 'treadle base' in Tasmania/Victoria; Invaluable/LiveAuctioneers sold 'Singer treadle base' Australia. Check whether an unnamed base sells for less than a Singer one.",
- "viewing_check": "Check both bases are complete (treadle, pitman, wheel, grates, no cracks or welds in castings). Photograph the Singer casting numbers or any maker marks on the unnamed base; confirm sizes (about 70-80 cm high) and that the Singer base is not seized.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Check both complete (treadle, pitman, wheel, grates), no cracks or welds, not seized; photograph marks on the left base.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

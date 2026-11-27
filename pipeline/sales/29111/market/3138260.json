@@ -1,7 +1,7 @@
 {
  "cdid": 3138260,
  "lot": 1665,
- "identification": "Red painted sheet steel hand lamp, domed top, clear and green lenses, wire bail; probably a railway or roadworks kerosene hand lamp, repainted, maker unknown.",
+ "identification": "Vintage red-painted sheet steel kerosene roadworks / signal lamp, box body with domed hood, wire bail handle, one clear (dark in photo) and one green pebbled lens. Repainted red, some dents. Maker unknown (looks like Artcraft/Bladon style roadworks lantern).",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,96 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2559875&chid=25107&category=ALL&style=group",
    "same_item": "close",
    "note": "RGM roadworks warning lamp. Local room: what we might pay, not resale. Database hit (not opened); AUD, rate 1."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.64",
+   "currency": "AUD",
+   "aud_price": 59.64,
+   "date": "2024-01-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225965578113",
+   "same_item": "close",
+   "note": "Artcraft railway roadworks kerosene signal lamp, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50.12",
+   "currency": "AUD",
+   "aud_price": 50.12,
+   "date": "2025-11-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117524417441",
+   "same_item": "close",
+   "note": "Chalwyn railway/roadworks lantern no burner, auction 1 bid",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.87",
+   "currency": "AUD",
+   "aud_price": 48.87,
+   "date": "2026-01-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168086094691",
+   "same_item": "close",
+   "note": "Highway Safety flashing amber roadworks lamp",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.67",
+   "currency": "AUD",
+   "aud_price": 19.67,
+   "date": "2024-03-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166664764241",
+   "same_item": "close",
+   "note": "Vintage roadworks lantern, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$57.32",
+   "currency": "AUD",
+   "aud_price": 57.32,
+   "date": "2026-08-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/376800231474",
+   "same_item": "close",
+   "note": "Artcraft Council roadworks lamp (avg of 2 sales)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$141.13",
+   "currency": "AUD",
+   "aud_price": 141.13,
+   "date": "2024-12-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116395778149",
+   "same_item": "close",
+   "note": "Pair of Appleton Chalwyn lanterns with burners (outlier, pair)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$137.01",
+   "currency": "AUD",
+   "aud_price": 137.01,
+   "date": "2025-07-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/196515625622",
+   "same_item": "close",
+   "note": "Telecom Australia Artcraft warning lantern, marked; outlier",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'signal lamp', 'railway lamp', 'hand lamp kerosene', 'roadworks lamp'; work comps.py: 'railway signal lamp' (no hits)",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'signal lamp', 'railway lamp', 'hand lamp kerosene', 'roadworks lamp'; work comps.py: 'railway signal lamp' (no hits) | chrome: Terapeak AU 3yr 'vintage roadworks lamp railway signal lamp' (1 result) and 'roadworks lamp' (no condition filter shown). Verdict: likely A$30-60, not worth chasing.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'railway hand lamp red' , 'vintage railway signal lamp green lens', 'roadworks lamp vintage kerosene'; Terapeak same; Noble Numismatics and Leski realised prices for 'railway lantern'.",
  "rate_note": "All AUD, rate 1.",
- "viewing_check": "Look inside and underneath for maker stamp, railway initials (VR, NSWGR, TGR), embossing on top, burner and font present, and whether red paint hides original colour or markings."
+ "viewing_check": "Look under base and inside for maker stamp, council/railway initials, burner present.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138355,
  "lot": 1761,
- "identification": "Vintage brass pressure garden sprayer with lance and pump (Rega per title) plus a Bosch Isio cordless grass/shrub shears in tin presentation box. Low value lot.",
+ "identification": "Bosch Isio cordless grass/shrub shears (teal, with shrub-cutter blade) with Bosch printed tin, plus a brass pressure garden sprayer with lance and pump (Rega per catalogue; paper label illegible in the single photo). Used.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,60 @@
    "url": "gowans lot id 386260",
    "same_item": "close",
    "note": "Brass garden sprayer marked Desmo Birmingham. Paid locally (not a competitive auction): shows what we might pay, not resale. Database hit, no rate needed (AUD)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$46.37",
+   "currency": "AUD",
+   "aud_price": 46,
+   "date": "2025-01-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176771634518",
+   "same_item": "close",
+   "note": "Bosch 3.6V cordless compact hedge/shrub shear (Isio family), fixed price, condition not checked",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$44.68",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2024-08-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134642294991",
+   "same_item": "close",
+   "note": "Bosch cordless Isio lithium-ion shrub shear, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$79.86",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2024-08-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/386959445481",
+   "same_item": "close",
+   "note": "Bosch 3.6V compact hedge/shrub shear, likely a full new/boxed set",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$97.55",
+   "currency": "AUD",
+   "aud_price": 98,
+   "date": "2026-10-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/385548723630",
+   "same_item": "close",
+   "note": "Bosch 3.6V compact hedge/shrub shear, likely new/boxed set, top end",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'Rega sprayer' (12 Armitage/Gowans hits, median $18); 'Bosch Isio' (none); 'brass pressure sprayer' (none); 'garden sprayer brass' (2 hits). work/comps.py: 'Bosch Isio shears' (none). No resale comps in any database; no new retail price looked up (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'Rega sprayer' (12 Armitage/Gowans hits, median $18); 'Bosch Isio' (none); 'brass pressure sprayer' (none); 'garden sprayer brass' (2 hits). work/comps.py: 'Bosch Isio shears' (none). No resale comps in any database; no new retail price looked up (databases only). | chrome: Terapeak AU 'bosch isio shears' 3 years (8 rows; condition filter not visibly selected). No separate sprayer search; local database shows Rega/brass sprayers paid A$5-25.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Bosch Isio cordless shears' (and 'Bosch Isio 3 grass shears set'); eBay AU sold: 'vintage brass garden sprayer Rega'; 'brass pressure sprayer vintage'. Check Bosch AU or Bunnings for current Isio new retail price (ASKING, new retail price).",
- "viewing_check": "Check Isio shears: charger or battery present, power on, blade condition, box complete. Sprayer: brass maker's plate/label, dents, pump seal. Otherwise nothing.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Check charger and battery present, power on, blade condition.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3139246,
  "lot": 2483,
- "identification": "Early 1980s champagne-finish component stereo: integrated amp, tuner/receiver section and Metal cassette deck in matching fascias, separate silver tuner, Marantz semi-automatic belt-drive turntable (logo on plinth, model unreadable), pair of floorstanding speakers with orange timber bases (badge too small to read, possibly Yamaha). Not tested. Only the turntable is clearly Marantz; the rack may be another brand in matching style.",
+ "identification": "Early-1980s Marantz champagne-finish separates stack: integrated amplifier, a second unit that looks like a tuner/EQ strip, a Metal-capable cassette deck, a separate silver-faced tuner (probably Marantz ST-series), a Marantz semi-automatic belt-drive turntable with dust cover, and a pair of floorstanding timber-base speakers (small badge, brand not readable). 7 pieces, untested.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,48 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2926496&chid=27892&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Yamaha and Marantz receivers, Sansui turntable, Marantz CD player, not tested. Multi-piece mixed lot. Database hit, AUD so no rate used."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$179.40",
+   "currency": "AUD",
+   "aud_price": 179.4,
+   "date": "2026-03-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206060993723",
+   "same_item": "close",
+   "note": "Marantz TAD-50 stereo system (PM-50 amp, ST-50 tuner, SD-50 cassette), three pieces, no speakers or turntable.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$150",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2026-09-09",
+   "venue": "Armitage sale 28588 lot 1187",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045905&chid=28588&category=ALL&style=group",
+   "same_item": "close",
+   "note": "5-piece stereo incl Yamaha, Pioneer, Polk speakers. Local price, not resale.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$270",
+   "currency": "AUD",
+   "aud_price": 270,
+   "date": "2026-01-21",
+   "venue": "Armitage sale 27046 lot 1252",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2788870&chid=27046&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Marantz tuner + 2 Marantz amps, going. Local price, not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: marantz turntable; marantz stereo; marantz receiver amplifier; vintage stereo system; yamaha speakers; hi-fi cassette tuner turntable. work comps.py: marantz. No same-model resale comps in any database; all hits are local rooms (cost guide only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: marantz turntable; marantz stereo; marantz receiver amplifier; vintage stereo system; yamaha speakers; hi-fi cassette tuner turntable. work comps.py: marantz. No same-model resale comps in any database; all hits are local rooms (cost guide only). | chrome: eBay AU public sold 'marantz vintage hifi system amplifier tuner cassette turntable speakers' (fewer-words results); Terapeak AU 3yr 'marantz system amplifier tuner cassette' (1 row).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'Marantz turntable semi automatic belt drive' (check model, e.g. TT-series/6xxx); 'vintage Marantz stereo system rack cassette tuner amp'; 'Marantz champagne amplifier 1980s'; 'vintage stereo system job lot speakers turntable' (sold, Australia, last 12 months). Terapeak on the same. Once the turntable model and speaker brand are known, search those sold. Also Facebook Marketplace/Gumtree for vintage hi-fi systems as ASKING guide.",
- "viewing_check": "Read the model number on the turntable plinth/rear and the amp, tuner and deck fascias and rear labels (brand and model, are they all Marantz?). Read the speaker badge and rear label (brand, model, impedance). Check turntable stylus/cartridge, belt and arm condition, speaker cone surrounds and grille cloth, cassette deck door and belts, and whether any unit powers on.",
- "rate_note": "All hits AUD; no conversion."
+ "viewing_check": "Read model numbers on each unit, speaker badge, power on each, turntable belt and stylus, cassette deck belts.",
+ "rate_note": "All hits AUD; no conversion.",
+ "chrome_done": true
 }

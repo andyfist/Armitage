@@ -1,7 +1,7 @@
 {
  "cdid": 3138496,
  "lot": 1904,
- "identification": "Ullrich aluminium platform step ladder (two treads plus platform, top handrail, castors on rear legs), used. Model and height not legible in photos.",
+ "identification": "Ullrich aluminium platform step ladder, 3-step (two treads plus platform, so platform about 0.9m), top handrail, 4 castors on the rear/side bracing, Ullrich yellow-on-blue decals on stile. Used, clean, appears complete. Estimate 80-120, current bid $30.",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,10 +46,35 @@
    "url": "gowans lot id 383524",
    "same_item": "category guide",
    "note": "Bailey ladder and Gorilla platform ladder, two items. Paid locally, NOT a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$207.16",
+   "currency": "AUD",
+   "aud_price": 207.16,
+   "date": "2026-11-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/327395506768",
+   "same_item": "category guide",
+   "note": "Ullrich aluminium EXTENSION ladder 8m, Fixed price, free postage; different product (shows Ullrich sells on eBay AU, not platform ladder). Terapeak row, page not opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$74.90",
+   "currency": "AUD",
+   "aud_price": 74.9,
+   "date": "2026-09-21",
+   "venue": "eBay AU public sold search",
+   "url": "https://www.ebay.com.au/itm/178426198216",
+   "same_item": "category guide",
+   "note": "Bailey platform ladder aluminium/fibreglass, pre-owned; listing flagged Best Offer so cannot set a max. Different brand, model and height unknown.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: ullrich ladder (none); platform step ladder; aluminium platform ladder; ullrich (only scaffold planks and unrelated medal hits, not used); step ladder; platform ladder. work comps.py: ullrich ladder (none).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: ullrich ladder (none); platform step ladder; aluminium platform ladder; ullrich (only scaffold planks and unrelated medal hits, not used); step ladder; platform ladder. work comps.py: ullrich ladder (none). | chrome: Terapeak AU 'ullrich platform ladder' (0 results), 'ullrich ladder' (1 row), eBay AU public sold 'ullrich platform ladder', 'aluminium platform ladder 0.9m 3 step' (pre-owned), 'bailey platform ladder aluminium', two WebSearches.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'Ullrich platform ladder', 'Ullrich platform step ladder 3 step', 'Ullrich aluminium platform ladder 1.2m'; Terapeak same; Gumtree/Facebook Marketplace Tasmania 'Ullrich platform ladder' (ASKING only); Grays Online and Pickles/Lloyds sold results for 'platform ladder'; new retail price at Bunnings/Total Tools/Ullrich Aluminium site as ASKING (note new retail price). Check height and rating.",
- "viewing_check": "Read the model and height (step count, platform height) and duty rating on the stile labels; check castors work, no bent stiles or cracked rungs, handrail secure, locking braces intact."
+ "viewing_check": "Read the model and duty rating on the stile labels (e.g. PL3, 120 or 150kg), measure platform height, check castors, handrail and bracing, no bends.",
+ "chrome_done": true
 }

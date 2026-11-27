@@ -1,7 +1,7 @@
 {
  "cdid": 3138511,
  "lot": 1919,
- "identification": "Red painted cast iron rotary hand drum pump with crank, curved spout and steel suction tube. No brand legible. Common workshop/farm item, not obviously petroliana (no maker markings seen).",
+ "identification": "Red painted cast metal rotary hand drum pump (barrel pump) with hooked curved spout, crank handle and long grey steel suction tube, about 95 cm tall. Generic modern-style pump (Malco/Hi-Boy/Lumax type), no maker legible in the small 450x600 photo.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,36 @@
    "url": "gowans lot id 372858",
    "same_item": "close",
    "note": "44 gallon drum pump. Paid locally, not a resale price. Database hit, no page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$54.69",
+   "currency": "AUD",
+   "aud_price": 54.69,
+   "date": "2026-11-05",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/267694660388",
+   "same_item": "close",
+   "note": "VEVOR rotary barrel hand crank drum pump, brand new, +A$59 delivery",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$111.93",
+   "currency": "AUD",
+   "aud_price": 111.93,
+   "date": "2026-11-27",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/188040496570",
+   "same_item": "close",
+   "note": "SGS cast iron rotary barrel hand pump, brand new, +A$141 delivery",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'drum pump' (many hits), 'rotary pump' (none), 'petrol pump oil' (3 unrelated eBay tray lots, ignored); work/comps.py: 'drum pump' (Gowans only). No resale comps for a plain drum pump in the databases.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'drum pump' (many hits), 'rotary pump' (none), 'petrol pump oil' (3 unrelated eBay tray lots, ignored); work/comps.py: 'drum pump' (Gowans only). No resale comps for a plain drum pump in the databases. | chrome: eBay AU public sold worldwide 'rotary drum pump hand crank cast iron'. Verdict: under A$100.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'rotary drum pump cast iron hand crank', 'vintage rotary barrel pump', 'hand rotary fuel drum pump red'. Also 'Malco Hi-Boy drum pump' sold and 'vintage oil drum pump' for branded versions. New retail for a cast iron rotary pump is an ASKING guide only.",
- "viewing_check": "Look for a maker name or casting mark on the pump body (Malco, Wakefield, Shell, BP, Texaco), check the crank turns freely, the body is not cracked, and the tube is complete.",
- "rate_note": "All AUD, rate 1."
+ "viewing_check": "Look for a maker casting (Malco, Lincoln, Wakefield), crank turns freely, no cracks, tube complete.",
+ "rate_note": "All AUD, rate 1.",
+ "chrome_done": true
 }

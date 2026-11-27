@@ -1,7 +1,7 @@
 {
  "cdid": 3138175,
  "lot": 1580,
- "identification": "Three loose 1977-78 Kenner Star Wars figures (first 12 era): Chewbacca with bowcaster, Ben Kenobi (no cloak, no saber), Princess Leia (white cape, no blaster, yellowed). Incomplete, played-with condition. Photo suggests Kenner/Hong Kong-type loose figures; not confirmed.",
+ "identification": "Three loose vintage Kenner Star Wars figures: Chewbacca with bowcaster, Ben (Obi-Wan) Kenobi with white hair, no cape and no lightsaber, Princess Leia Organa with vinyl cape (no blaster), yellowed/stained. First-12 era 1977-78, incomplete, played-with.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,10 +68,71 @@
    "url": "gowans lot id 396874",
    "same_item": "category guide",
    "note": "Likely modern, low end. Local database row only; no page opened. Hammer, AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.56",
+   "currency": "AUD",
+   "aud_price": 19.56,
+   "date": "2026-09-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/158257685091",
+   "same_item": "yes",
+   "note": "Vintage 1977 Kenner Chewbacca loose with bowcaster, single figure",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25.07",
+   "currency": "AUD",
+   "aud_price": 25.07,
+   "date": "2026-11-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/198096765720",
+   "same_item": "yes",
+   "note": "Kenner 1977 GMFGI Hong Kong Chewbacca loose, single figure",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.58",
+   "currency": "AUD",
+   "aud_price": 19.58,
+   "date": "2025-08-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127269674034",
+   "same_item": "yes",
+   "note": "Vintage 1977 Chewbacca loose",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$68.81",
+   "currency": "AUD",
+   "aud_price": 68.81,
+   "date": "2026-08-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/257654732327",
+   "same_item": "close",
+   "note": "Lot of 7 used loose vintage Kenner figures, about A$10 each",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$102.48",
+   "currency": "AUD",
+   "aud_price": 102.48,
+   "date": "2026-04-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168334649940",
+   "same_item": "close",
+   "note": "Lot of 8 loose original trilogy Kenner figures 1977-80, about A$13 each",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'star wars kenner', 'star wars figure', 'chewbacca leia kenobi', 'vintage star wars', 'kenner figure'; work/comps.py 'star wars kenner'. Only Armitage/Gowans (paid locally) hits. eBay AU rows returned were for an unrelated modern collectables lot, ignored. No resale comp found. Rate: all AUD.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'star wars kenner', 'star wars figure', 'chewbacca leia kenobi', 'vintage star wars', 'kenner figure'; work/comps.py 'star wars kenner'. Only Armitage/Gowans (paid locally) hits. eBay AU rows returned were for an unrelated modern collectables lot, ignored. No resale comp found. Rate: all AUD. | chrome: Terapeak AU 3yr (Used filter on): 'kenner star wars loose chewbacca kenobi leia' (no results), 'vintage star wars kenner loose figure lot', 'kenner star wars chewbacca loose'.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: 'vintage Kenner Star Wars Chewbacca loose' ; 'Kenner Star Wars Ben Kenobi loose' ; 'Kenner Star Wars Princess Leia loose'; 'vintage star wars figure lot Kenner 1977 loose' (Terapeak, last 90 days, Australia plus ebay.com sold for Kenobi/Leia). Also Pickers/Collectors Weekly, Sworders/Hake's sold lots for loose first-12 lots. Check whether figures are Hong Kong or Taiwan/Hong Kong marked and if Kenobi has grey hair (later) versus white hair.",
- "viewing_check": "Check the copyright stamp on leg or back (Kenner 1977 / G.M.F.G.I., Hong Kong or other), Kenobi hair colour and whether arms are intact, Chewbacca bowcaster and fur condition, Leia cape and yellowing, joint tightness, any paint wear, any reproduction signs."
+ "viewing_check": "Check leg/back stamp (Kenner 1977 GMFGI Hong Kong), Ben arms intact, Leia yellowing.",
+ "chrome_done": true
 }

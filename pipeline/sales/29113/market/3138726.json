@@ -1,7 +1,7 @@
 {
  "cdid": 3138726,
  "lot": 2134,
- "identification": "Traditional hand scythe, curved timber snath with two grips, rusted blade with brace wire; no maker mark visible. Common farm collectable.",
+ "identification": "Old hand scythe: curved bent-timber snath with two turned wooden grips (one with a ferrule), plain steel blade fixed with a brace wire. Single photo, blade small and rusty; no maker stamp visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -136,9 +136,10 @@
    "note": "Scythe, 4 bids. Database hit, paid locally: shows what we might pay, not a resale price. AUD, no conversion."
   }
  ],
- "searches_tried": "pipeline/comps.py: 'scythe'; 'scythe snath' (no hits); 'farm tool antique' (irrelevant furniture hits). work/comps.py: 'scythe'. About 30 local scythe hits, mostly $30 to $95, only a named Sheffield one reached $110. Noble coin hits were false matches and ignored.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'scythe'; 'scythe snath' (no hits); 'farm tool antique' (irrelevant furniture hits). work/comps.py: 'scythe'. About 30 local scythe hits, mostly $30 to $95, only a named Sheffield one reached $110. Noble coin hits were false matches and ignored. | chrome: Terapeak AU 3yr sold 'vintage scythe' (Condition filter line not shown in text, mostly irrelevant results); eBay AU sold 'old scythe wooden snath' (0 exact, 1 close).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'vintage scythe' and 'antique scythe snath' (Sold items, Australia). Also eBay AU sold 'scythe Sheffield marked'. Check Gumtree/Facebook asking prices for 'old scythe' and decor pricing at rustic decor dealers. Low value item, one or two searches suffice.",
- "viewing_check": "Look at the blade near the heel for a maker stamp (Tyzack, Sheffield, Brades etc), check snath for cracks or splits and the brace wire is intact.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check blade heel for a maker stamp (Tyzack, Sheffield, Brades), snath cracks and brace wire.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

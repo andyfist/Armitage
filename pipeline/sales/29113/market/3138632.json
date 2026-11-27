@@ -1,7 +1,7 @@
 {
  "cdid": 3138632,
  "lot": 2040,
- "identification": "Strapped pack of sawn boards, hand-labelled 'approx 0.4 m3 kiln dried Tas blackwood all 50 mm thick'. Looks consistent with blackwood (Acacia melanoxylon) but species is unverified. Weathered surfaces, roughly 2 m plus lengths, various widths.",
+ "identification": "Strapped pack of sawn, square-edged boards, all about 50 mm thick, widths roughly 100-200 mm, lengths about 2.4 m (a few shorter), about 20+ boards, on bearers. End grain and colour (golden to chocolate-brown heartwood, a few pale sapwood edges, some dark streaks) look right for Tasmanian blackwood (Acacia melanoxylon). Hand-written board: 'Approx .4 m3 cub metre kiln dried Tas blackwood all 50 mm thick'. Rough sawn, surfaces greyed/weathered on top, no visible rot.",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,11 +46,96 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2566578&chid=25151&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Assorted blackwood timber 1.5 m to 5 m, thickness not stated. Currency AUD, no conversion. Paid locally: shows what we might pay, not a resale price. Database record only, page not opened."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$54.66 per lineal metre",
+   "currency": "AUD",
+   "aud_price": 54.66,
+   "date": "2026-11-27",
+   "venue": "Hammerroo (online timber retailer)",
+   "url": "https://hammerroo.com.au/products/tasmanian-blackwood-150x38mm-kd-rs",
+   "same_item": "close",
+   "note": "New retail: Tasmanian blackwood 150x38 Select, kiln dried, skip dressed = about A$9,600 per m3. At that rate 0.4 m3 is about A$3,800 retail (select grade, fresh); this weathered ungraded pack is worth well under that.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$550 (database figure)",
+   "currency": "AUD",
+   "aud_price": 550,
+   "date": "2025-07-16",
+   "venue": "Armitage Auctions sale 25151 lot 137",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2566684&chid=25151&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Page opened: 'PALLET OF BLACKWOOD TIMBER (VARIOUS SIZES)', est 200-300, closed workshop sale. Hammer not shown on page; A$550 from database only. Not a resale price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$245 (database figure)",
+   "currency": "AUD",
+   "aud_price": 245,
+   "date": "2026-07-08",
+   "venue": "Armitage Auctions sale 28169 lot 1715",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2973257&chid=28169&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Page opened: 'PACK KILN DRIED BLACKWOOD 150 X 20 MM BOARDS - DRESSED ALL ROUND', est 100-200. Thin stock. Hammer from database only. Not a resale price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$156.56",
+   "currency": "AUD",
+   "aud_price": 156.56,
+   "date": "2026-07-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127555870674",
+   "same_item": "category guide",
+   "note": "Tasmanian blackwood board, hobby/slab/bar top, fixed price; size not read (listing ended). Shows single boards sell to woodworkers on eBay",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$131.73",
+   "currency": "AUD",
+   "aud_price": 131.73,
+   "date": "2025-11-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126600418805",
+   "same_item": "category guide",
+   "note": "Tasmanian blackwood craft wood / live edge piece, fixed price; small piece",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$110.17",
+   "currency": "AUD",
+   "aud_price": 110.17,
+   "date": "2024-10-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126600412534",
+   "same_item": "category guide",
+   "note": "Tasmanian blackwood craft wood live edge piece, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$78.41",
+   "currency": "AUD",
+   "aud_price": 78.41,
+   "date": "2024-09-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126279990412",
+   "same_item": "category guide",
+   "note": "Blackwood box-making timber, fixed price; small craft offcuts",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py and work/comps.py: 'blackwood timber', 'tasmanian blackwood boards', 'blackwood kiln dried'. No resale comps (no eBay, no competitive auction) for blackwood sawn timber found.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py and work/comps.py: 'blackwood timber', 'tasmanian blackwood boards', 'blackwood kiln dried'. No resale comps (no eBay, no competitive auction) for blackwood sawn timber found. | chrome: Terapeak AU 'tasmanian blackwood timber' (3 yrs); eBay listing 127555870674 opened (ended, dims not shown); WebSearch 'Tasmanian blackwood kiln dried 50mm rough sawn price per cubic metre'; Hammerroo retail page; Plankville NZ (not relevant); Gumtree AU 'blackwood timber'; Armitage closed lots 25151/137 and 28169/1715 opened.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'tasmanian blackwood timber kiln dried 50mm', 'blackwood slab', 'blackwood boards per m3'. Retail ASKING: Tasmanian timber merchants and sawmills (per m3 or per board foot price for kiln dried Tas blackwood 50 mm), Gumtree/Facebook Marketplace Tasmania 'blackwood timber'. Also Tasmanian Timber Merchant/Mill price lists, Mulga/Woodworkers Source style sites for blackwood per board foot.",
- "viewing_check": "Confirm species (blackwood has a straw to dark brown colour and fine wavy grain; check end grain and a fresh planed face), moisture/dryness, board count and true dimensions to check 0.4 m3, straightness, splits, rot, borer, and how much usable timber lies under the weathering. Photograph end grain and a planed patch.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Count boards and measure widths/lengths to check 0.4 m3. Plane or scrape a small patch and check end grain for blackwood colour and figure (any fiddleback is a bonus). Check for surface checking, end splits, borer holes, cupping/twist, and that it is dry (light for its size, no damp underneath). Note sapwood proportion.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

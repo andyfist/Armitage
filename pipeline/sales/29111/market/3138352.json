@@ -1,7 +1,7 @@
 {
  "cdid": 3138352,
  "lot": 1758,
- "identification": "Unmarked three-legged cast iron camp oven (Dutch oven) with flanged lid and wire bail, about 16 inch. Falkirk attribution not supported by photos; no mark seen.",
+ "identification": "Unmarked three-legged cast iron camp oven with flat lid with loop handle and wire bail, roughly 16in (about 40 cm). Dark seasoned finish, interior grey and sound. Falkirk attribution (catalogue) not visible in photos.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,36 @@
    "url": "gowans lot id 442772",
    "same_item": "category guide",
    "note": "CAST IRON CAMP OVEN, 2 bids. Paid locally, not a resale price; database record only, not a web page."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$55.00",
+   "currency": "AUD",
+   "aud_price": 55.0,
+   "date": "2026-11-15",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/168804340260",
+   "same_item": "close",
+   "note": "Vintage cast iron camp oven and lid, pre-owned, listed 'or Best Offer' so price may be an accepted offer; plus A$30 postage. Not used for max.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$124.34",
+   "currency": "AUD",
+   "aud_price": 124.34,
+   "date": "2026-10-31",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/128021672655",
+   "same_item": "category guide",
+   "note": "Lodge vintage large #14 footed camp oven with lid, named US maker, 'or Best Offer', postage A$215. Not used for max.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: falkirk camp oven (none); cast iron camp oven; camp oven legged (none); three legged camp oven (none); footed camp oven; metters camp oven. work/comps.py: camp oven.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: falkirk camp oven (none); cast iron camp oven; camp oven legged (none); three legged camp oven (none); footed camp oven; metters camp oven. work/comps.py: camp oven. | chrome: Terapeak AU 3yr 'falkirk camp oven' (2 SA potjie rows; condition filter 1 selected); eBay AU public sold search 'cast iron camp oven 16 inch legs lid' (mostly new items) and 'large cast iron camp oven vintage' pre-owned BIN.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'cast iron camp oven 16 inch legged lid' and 'Falkirk camp oven'; also 'Metters camp oven' and 'Lodge 16 inch camp oven' sold; Gumtree/Facebook asking prices for large legged ovens; Lawsons/Theodore sold results for 'camp oven'.",
- "viewing_check": "Turn the oven and lid over and photograph the base and lid underside for a foundry name, size number (e.g. 16) or Falkirk/Metters mark; check for cracks, warping, pitting and that the lid fits.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Turn oven and lid over and photograph base and lid underside for foundry name or size number (Falkirk, Metters, 16); check for cracks, warping, pitting, lid fit.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3139013,
  "lot": 1249,
- "identification": "Full-size (4/4) unlabelled, probably German or Czech trade violin, early to mid 20th century, one-piece flamed maple back, with stick bow and black shaped hard case. Maker not identifiable from photos; the bow has no visible stamp.",
+ "identification": "Full-size (4/4 by proportion to the case) student/trade violin, probably Czech or German (Saxon/Bohemian) factory work c1930-1960: bright orange-yellow varnish, TWO-piece flamed maple back (centre join clearly visible), inlaid purfling, ebonised (black-stained) fingerboard worn through to pale wood near the nut, black ebonised tailpiece and chinrest, strings and bridge fitted. Round brazilwood-type stick bow with ebony-type frog and nickel ferrule. Black shaped wooden hard case, green lining, worn covering. Armitage estimate A$30-50.",
  "entries": [
   {
    "kind": "SOLD",
@@ -178,11 +178,72 @@
    "url": "gowans lot id 426440",
    "same_item": "close",
    "note": "PAID LOCALLY, not a resale price, shows what we might pay only: violin in case. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$157.65",
+   "currency": "AUD",
+   "aud_price": 157.65,
+   "date": "2026-09-05",
+   "venue": "eBay AU (public sold search, AU sellers)",
+   "url": "https://www.ebay.com.au/itm/287551843716",
+   "same_item": "close",
+   "note": "Vintage violin, Stradivarius 1719 copy label, hard case and bows; auction, 7 bids. Labelled trade violin, similar grade.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$200.00",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2026-09-23",
+   "venue": "eBay AU (public sold search, AU sellers)",
+   "url": "https://www.ebay.com.au/itm/206573902821",
+   "same_item": "close",
+   "note": "Vintage Antonius Stradivarius copy 4/4 full size violin with bow and case. Format not checked.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$86.13",
+   "currency": "AUD",
+   "aud_price": 86.13,
+   "date": "2026-10-16",
+   "venue": "eBay (public sold search)",
+   "url": "https://www.ebay.com.au/itm/327394635800",
+   "same_item": "close",
+   "note": "Old violin, bow and wooden case, for restoration; auction 2 bids, plus A$142 postage (likely overseas seller).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$150.70",
+   "currency": "AUD",
+   "aud_price": 150.7,
+   "date": "2026-11-18",
+   "venue": "eBay (public sold search)",
+   "url": "https://www.ebay.com.au/itm/327449607516",
+   "same_item": "close",
+   "note": "Vintage 'Guarnerius' 4/4 violin with case and bow, 1 bid; A$112 delivery suggests US seller.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$85-140 new",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "2026-11-25",
+   "venue": "eBay AU new student outfits (sold BIN)",
+   "url": "https://www.ebay.com.au/itm/385888090534",
+   "same_item": "category guide",
+   "note": "New Eastar and similar 4/4 student violin outfits with case and bow sell new for A$85-140; caps what a no-name old trade violin fetches for playing use.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'violin'; 'violin bow case'; 'violin stradivarius copy'; 'violin german trade label'; 'violin flame maple' (no hits); work comps.py 'violin'. No web searches (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'violin'; 'violin bow case'; 'violin stradivarius copy'; 'violin german trade label'; 'violin flame maple' (no hits); work comps.py 'violin'. No web searches (databases only). | chrome: eBay AU public sold search 'old violin 4/4 bow case' (worldwide) and 'vintage violin 4/4 bow case' (Australia-only location filter in URL). No Terapeak used for this lot (new rule).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings (and Terapeak): 'violin 4/4 bow case German', 'antique violin one piece back flamed maple', 'old violin with bow and case' (sold, last 90 days, AUD). Also Leski Auctions (Melbourne) realised prices for violins 2024-2026, Gardiner Houlgate / Lawsons / Mossgreen violin results, and Gumtree/Facebook sold violins. Compare only 4/4 unlabelled trade violins with bow and case.",
- "viewing_check": "Look through the f-hole with a torch or phone camera for a paper label or ink stamp (maker, place, date) and photograph it; check the neck/scroll for a brand burn mark or branded back; check for cracks, open seams, soundpost crack and top repairs; photograph the bow frog, stick and any stamp (silver, nickel, pernambuco vs brazilwood), and check the bow is straight with hair. Measure body length (about 356 mm for 4/4).",
- "rate_note": "All figures AUD; no conversion needed."
+ "viewing_check": "Torch through the bass-side f-hole for a label or stamp; check top for cracks (especially around soundpost and f-holes) and open seams; check the bow stick for a stamp and whether it is straight; read the white paper item in the case pocket.",
+ "rate_note": "All figures AUD; no conversion needed.",
+ "chrome_done": true
 }

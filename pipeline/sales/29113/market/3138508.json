@@ -1,11 +1,85 @@
 {
  "cdid": 3138508,
  "lot": 1916,
- "identification": "Fenn Millenium composite racing surf ski (Fenn, Australian maker), white, rudder, footwell pedal, bailer ports, Men's Health decal. Model name and era read from the side decal; length and layup (glass, carbon, Kevlar) not known.",
- "entries": [],
- "searches_tried": "pipeline/comps.py: 'fenn surf ski', 'surf ski', 'fenn millenium', 'racing ski', 'fenn', 'kayak', 'surfski'; work/comps.py: 'fenn surf ski', 'fenn', 'kayak', 'surfski'. No same-item hits. Local kayak hits (Gowans $12-$300 for recreational plastic kayaks, Armitage Oceans poly kayak $80) are a different class and are paid-locally rooms only, so not recorded as comps.",
- "needs_chrome": true,
+ "identification": "Fenn Mako Millennium elite racing surf ski (side decal reads 'MILLENIUM' under the Fenn shark/Mako logo), white composite, roughly 6.4-6.5 m, understern rudder, bucket seat with adjustable footplate and pedal/rudder lines, two round bailer/drain ports at the seat, Men's Health sponsor decal. Layup (glass/carbon) unknown. An older design (Mako Millennium dates from about the early 2000s; superseded by Fenn's Swordfish/Elite/Mako6 models).",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "A$500",
+   "currency": "AUD",
+   "aud_price": 500,
+   "date": "2026-11-15",
+   "venue": "Gumtree AU",
+   "url": "https://www.gumtree.com.au/web/listing/other-sports-fitness/1345720735",
+   "same_item": "close",
+   "note": "Fenn Elite Glide carbon ~10kg, good used, watertight, North Fremantle WA, negotiable. A newer and better Fenn elite ski than a Millennium",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$1,690",
+   "currency": "AUD",
+   "aud_price": 1690,
+   "date": "2026-11-07",
+   "venue": "Gumtree AU",
+   "url": "https://www.gumtree.com.au/web/listing/kayaks-paddle/1345578715",
+   "same_item": "category guide",
+   "note": "Fenn Swordfish S carbon hybrid bought new 2019, Manly NSW: modern model, far newer",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$600",
+   "currency": "AUD",
+   "aud_price": 600,
+   "date": "2026-10-26",
+   "venue": "Gumtree AU",
+   "url": "https://www.gumtree.com.au/web/listing/kayaks-paddle/1345343585",
+   "same_item": "category guide",
+   "note": "Fenn Mako XT fibreglass 5.8m (intermediate ski), Batemans Bay NSW, negotiable",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$170",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2026-11-22",
+   "venue": "Gumtree AU",
+   "url": "https://www.gumtree.com.au/web/listing/kayaks-paddle/1345848519",
+   "same_item": "category guide",
+   "note": "Fenn Mako XT fibreglass with paddle, Concord NSW, negotiable",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$295",
+   "currency": "AUD",
+   "aud_price": 295,
+   "date": "2026-09-25",
+   "venue": "Gumtree AU",
+   "url": "https://www.gumtree.com.au/web/listing/other-sports-fitness/1344780061",
+   "same_item": "category guide",
+   "note": "Renegade 5.7m competition ski, WA, negotiable: older race skis ask A$100-300",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$100",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2026-11-19",
+   "venue": "Gumtree AU",
+   "url": "https://www.gumtree.com.au/web/listing/kayaks-paddle/1345792861",
+   "same_item": "category guide",
+   "note": "Red 7 surf ski, Hilton WA, negotiable",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'fenn surf ski', 'surf ski', 'fenn millenium', 'racing ski', 'fenn', 'kayak', 'surfski'; work/comps.py: 'fenn surf ski', 'fenn', 'kayak', 'surfski'. No same-item hits. Local kayak hits (Gowans $12-$300 for recreational plastic kayaks, Armitage Oceans poly kayak $80) are a different class and are paid-locally rooms only, so not recorded as comps. | chrome: Terapeak AU 'fenn surf ski' (3 yrs), 'surf ski' (3 yrs): no ski sales; WebSearch 'Fenn Millennium surf ski specs/used price', surfski.info sale thread (no price), surfski.wiki tables (no Millennium row); Gumtree AU 'fenn surf ski', 'surf ski' (location page).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + completed: 'Fenn Millenium surf ski', 'Fenn surf ski', 'Fenn Mako surf ski' (for model-range context), 'racing surf ski' with Australia location. Gumtree and Facebook Marketplace: 'Fenn surf ski' (asking only, Tasmania and Victoria). Surfski sales sites: Surfski Warehouse / Epic Kayaks / Paddle Australia second-hand lists for 'Fenn Millenium'. Also new retail check not needed (Fenn skis are no longer made in this model).",
- "viewing_check": "Photograph the full deck and underside for gel-coat cracks, soft spots or repairs (tap the hull), the rudder and cable condition, footwell pedal, hull length sticker or serial number, and the faint grey bow decal. Measure length and check weight (carbon/Kevlar layup is lighter and worth more). Confirm the model is Millenium and approximate year.",
- "rate_note": "No priced entries, so no currency conversion used."
+ "viewing_check": "Check hull and deck for cracks, soft spots and repairs (press around the seat, footwell and the brown mark on the side), rudder and cables work with the pedals, bailers seal, no water inside (shake/listen). Weigh it if possible (carbon ~11-12 kg, glass ~15+ kg) and look for a layup sticker or serial near the stern.",
+ "rate_note": "No priced entries, so no currency conversion used.",
+ "chrome_done": true
 }

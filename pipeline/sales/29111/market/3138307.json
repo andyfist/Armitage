@@ -1,7 +1,7 @@
 {
  "cdid": 3138307,
  "lot": 1712,
- "identification": "Box of c1960s-70s tinplate and plastic toys: Japanese tin School Bus, tin Jaguar 25 racer, United Airport Service truck, tin ukulele, tin spinning top (Donald Duck style litho), Toltoys Express Delivery plastic van, blue plastic Mustang, Elf Tyrrell F1, grey tin sports car, tin delivery van, rusty stake trailer. Heavy rust and wear on most; common types.",
+ "identification": "Box of 12 or so c.1950s-70s toys: tin lithographed spinning top with Disney Donald Duck style characters (largest/best item, rust spotting, wooden knob), Japanese tin 'School Bus' (rusty, windows broken), tin red 'Jaguar 25' racer, tin 'United Airport Service' tractor/truck, tin ukulele (hula/palm scene), tin cream and red 'Express Delivery' trailer, Toltoys plastic 'Express Delivery' van, plastic blue Mustang, plastic blue Elf Tyrrell F1 with Goodyear decal, rusty grey tin sports car, rusty tin stake trailer, rusty tin tractor cab",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,96 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020665&chid=28448&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Japanese tin spinning toy plus AFL cards. PAID LOCALLY: not a resale price. Database record only (snippet only, page not opened). AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$30.23",
+   "currency": "AUD",
+   "aud_price": 30.23,
+   "date": "2024-11-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167054096725",
+   "same_item": "close",
+   "note": "Vintage 1950s lithograph tin spinning top, auction (comparable to the Donald Duck top; over 2 years old)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$26.49",
+   "currency": "AUD",
+   "aud_price": 26.49,
+   "date": "2026-09-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/136775774108",
+   "same_item": "close",
+   "note": "Vintage LBZ Lorenz Bolz Zirndorf tin spinning top, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$24.51",
+   "currency": "AUD",
+   "aud_price": 24.51,
+   "date": "2025-10-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134056468133",
+   "same_item": "close",
+   "note": "Vintage tin spinning top LBZ, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$24.48",
+   "currency": "AUD",
+   "aud_price": 24.48,
+   "date": "2024-11-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167091671827",
+   "same_item": "close",
+   "note": "Antique vintage spinning top tin toy, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$22.55",
+   "currency": "AUD",
+   "aud_price": 22.55,
+   "date": "2024-10-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126692454506",
+   "same_item": "close",
+   "note": "Raggedy Ann and Andy Chein tin litho spinning top, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$240.03",
+   "currency": "AUD",
+   "aud_price": 240.03,
+   "date": "2023-12-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/275868830782",
+   "same_item": "category guide",
+   "note": "Ichiko VW School Bus Japan friction, boxed; NOT same item (different bus, boxed), shown as ceiling only",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-11-11",
+   "venue": "Armitage sale 28974 lot 439",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3113542&chid=28974&category=ALL&style=group",
+   "same_item": "close",
+   "note": "box of vintage tin toys; database hint, not resale",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'tinplate toy', 'Japanese tin car', 'Tonka', 'Toltoys', 'vintage toys box'; work comps.py: 'tin toys', 'spinning top', 'tin bus'. No exact-item hits; only generic tin-toy box and group comps.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'tinplate toy', 'Japanese tin car', 'Tonka', 'Toltoys', 'vintage toys box'; work comps.py: 'tin toys', 'spinning top', 'tin bus'. No exact-item hits; only generic tin-toy box and group comps. | chrome: Terapeak AU 3yr 'tin spinning top vintage' (10 rows), 'tin toy school bus japan' (2 rows, different item). Individual searches for Jaguar 25 and Airport Service not run because each is clearly under A$40 and the lot is under A$100 overall. 15s+ pacing.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Japanese tin school bus friction', 'tin Jaguar 25 racer toy Japan', 'United airport service tin truck', 'tin ukulele toy litho', 'tin spinning top Donald Duck', 'Toltoys express delivery van'; also 'vintage tin toys lot Japan' sold. Check Leski, Gowans resale-grade rooms, LiveAuctioneers for tin toy group lots. Expect individual pieces $10-40 each when rusty.",
- "viewing_check": "Look for maker marks (Bandai, Yonezawa, Alps, Nomura, TN) under the bus, Jaguar and Airport truck; check whether the bus and Jaguar are friction-motor working and how bad the rust holes are. Photograph undersides.",
- "rate_note": "All figures AUD as recorded; no currency conversion used."
+ "viewing_check": "Photograph undersides for maker marks (Ichiko, Bandai, Yonezawa, Alps, Nomura); check whether the School Bus and Jaguar are friction-working and how bad the rust holes are; confirm the top spins and whether it is Disney licensed (Willow, Chein or Ohio Art).",
+ "rate_note": "All figures AUD as recorded; no currency conversion used.",
+ "chrome_done": true
 }

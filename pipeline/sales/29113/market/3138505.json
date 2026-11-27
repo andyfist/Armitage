@@ -1,1 +1,37 @@
-{"cdid":3138505,"lot":1913,"identification":"Single spoked bicycle-type wheel (yellow/black rim decal, possibly Mavic) in a black and red moulded body with carry handle, foot platform and small rear castor. Looks like a one-wheel personal mobility device (Solowheel or Ryno style, possibly a home-built or electric unicycle shell). Brand and model not readable, and no motor or battery is visible, so it may be a non-powered prototype or a stripped unit. Not confirmed.","entries":[],"searches_tried":"pipeline/comps.py: 'one wheel scooter', 'mavic wheel', 'electric unicycle', 'skate wheel scooter' - no hits. work/comps.py: 'one wheel scooter' - no hits.","needs_chrome":true,"chrome_hint":"eBay AU sold + Terapeak: 'solowheel', 'electric unicycle self balancing', 'one wheel scooter unicycle', 'monowheel'. Also Google Lens on the lot photo to identify the maker. Check Gumtree/Facebook Marketplace for 'Solowheel Inventist' and compare. Check whether it has a motor/battery (affects value greatly). Auction houses: Lloyds, Grays, Pickles for similar e-mobility lots.","viewing_check":"Look for any maker label, serial plate or model name on the body and hub. Check for a motor in the hub, battery, charger, switch and wiring. Photograph the hub side and underside. Check the tyre and rim brand decal.","rate_note":"No prices found, no rate used."}
+{
+ "cdid": 3138505,
+ "lot": 1913,
+ "identification": "Single-wheel personal transporter / electric unicycle style device: black and red moulded shell enclosing one side of a 36-spoke bicycle wheel with a Mavic-type rim (yellow/black decal, red reflector), top carry handle, foot platform at the base, small swivel castor on the rear as a parking stand, steel plate with ring of 12 bolts and a central axle nut on the shell side. Looks like an electric self-balancing monowheel (Solowheel/Ryno/Airwheel family) or home-built or prototype unit, no visible maker, no visible power switch, battery or charger. Not confirmed as electric. Catalogue calls it SKATE WHEEL, current bid A$10, estimate A$10-15.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$449.25",
+   "currency": "AUD",
+   "aud_price": 449.25,
+   "date": "2026-11-21",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/188615954353",
+   "same_item": "category guide",
+   "note": "Kingsong 10in basketball electric unicycle, brand new, modern powered EUC; not the same item, shows powered units sell A$450+ new",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.70",
+   "currency": "AUD",
+   "aud_price": 53.7,
+   "date": "2026-10-12",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/206526732940",
+   "same_item": "category guide",
+   "note": "Inmotion V8 electric unicycle listing at A$53.70, likely a part or incomplete unit, +A$143 delivery",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'one wheel scooter', 'mavic wheel', 'electric unicycle', 'skate wheel scooter' - no hits. work/comps.py: 'one wheel scooter' - no hits. | chrome: Terapeak AU 3yr 'electric unicycle solowheel' (no results); eBay AU public sold worldwide 'electric unicycle' and 'solowheel OR ryno OR monowheel one wheel scooter' (modern EUCs and kids kick scooters only, no match).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'solowheel', 'electric unicycle self balancing', 'one wheel scooter unicycle', 'monowheel'. Also Google Lens on the lot photo to identify the maker. Check Gumtree/Facebook Marketplace for 'Solowheel Inventist' and compare. Check whether it has a motor/battery (affects value greatly). Auction houses: Lloyds, Grays, Pickles for similar e-mobility lots.",
+ "viewing_check": "Look inside shell/hub for motor, battery, switch, charger; maker label or serial plate; try turning the wheel (motor drag suggests a hub motor); photograph underside and shell edges.",
+ "rate_note": "No prices found, no rate used.",
+ "chrome_done": true
+}

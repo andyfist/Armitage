@@ -1,7 +1,7 @@
 {
  "cdid": 3139252,
  "lot": 2489,
- "identification": "Pair of La-Z-Boy Rialto rocker recliners, light grey woven fabric, both reclining with side handles, looks near new and clean in photos.",
+ "identification": "Pair of La-Z-Boy rocker recliners in light grey woven fabric, manual recline (side lever), timber rocker base. Rialto name is the catalogue's; no model tag visible in photos. Look clean, both shown reclined.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,36 @@
    "url": "https://www.ebay.com.au/itm/406410837721",
    "same_item": "category guide",
    "note": "La-Z-Boy 2 seater cream leather sofa, not a recliner pair; database record only, page not opened. Weak guide."
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$150",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2026-05-27",
+   "venue": "Armitage 27892 lot 1297, pair grey fabric La-Z-Boy recliner/rockers (database record, page not opened)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2926586&chid=27892&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Paid locally, hammer, not resale",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$330",
+   "currency": "AUD",
+   "aud_price": 330,
+   "date": "2026-05-10",
+   "venue": "Gowans Hobart lot 408585, pair La-Z-Boy recliners, 8 bids (database record)",
+   "url": "gowans lot id 408585 (no link available)",
+   "same_item": "close",
+   "note": "Paid locally, hammer, not resale",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'la-z-boy rocker recliner', 'lazboy rialto', 'la-z-boy', 'rialto', 'rocker recliner pair'; work comps.py: 'recliner pair', 'la-z-boy rocker'. No Rialto-specific hits. Local pairs of La-Z-Boy recliners cost $150-590 hammer (grey fabric pair $150).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'la-z-boy rocker recliner', 'lazboy rialto', 'la-z-boy', 'rialto', 'rocker recliner pair'; work comps.py: 'recliner pair', 'la-z-boy rocker'. No Rialto-specific hits. Local pairs of La-Z-Boy recliners cost $150-590 hammer (grey fabric pair $150). | chrome: Terapeak AU 3yr 'La-Z-Boy recliner rocker pair' (no results, no filter shown); eBay AU sold 'la-z-boy recliner' AU sellers (parts only).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'La-Z-Boy Rialto recliner', 'La-Z-Boy rocker recliner grey fabric', 'La-Z-Boy Pinnacle recliner'; Facebook Marketplace/Gumtree Tasmania 'La-Z-Boy recliner pair' for asking prices; La-Z-Boy Australia and Harvey Norman new price for Rialto (ASKING, new retail); Grays/Lawsons/Pickles Sydney-Melbourne sold results for 'La-Z-Boy recliner'.",
- "viewing_check": "Check the tag under the seat or on the base for model name and fabric; confirm both recline and rock smoothly, no stains, pet hair, sagging or tears; check footrest mechanism and handles.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Tag under seat for model name and fabric type, both recline and rock smoothly, footrests lock, stains, pet hair, sagging, handle mechanisms.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

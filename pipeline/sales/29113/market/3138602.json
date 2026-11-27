@@ -1,7 +1,7 @@
 {
  "cdid": 3138602,
  "lot": 2010,
- "identification": "Two red steel T-bar sash clamps (about 1 m, brand not visible), one blue/yellow Irwin Quick-Grip style one-handed bar clamp, and two coiled steel barrel hoops. Common workshop items.",
+ "identification": "Two red steel T-bar/sash clamps (about 1 m), one blue and yellow Irwin Quick-Grip style one-handed bar clamp (about 900 mm), and a steel barrel hoop ring (cat says two hoops, one ring visible).",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,36 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020992&chid=28449&category=ALL&style=group",
    "same_item": "category guide",
    "note": "A quantity of hoops, larger than the two here; weak comparison. Paid locally (cost guide only, not a resale price); database hit, page not opened. AUD, no conversion."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$68.98",
+   "currency": "AUD",
+   "aud_price": 68.98,
+   "date": "2026-11-10",
+   "venue": "eBay AU (Terapeak, 28 sold)",
+   "url": "https://www.ebay.com.au/itm/163748368535",
+   "same_item": "category guide",
+   "note": "NEW T-bar sash clamp 1370mm; used pair would sell well below, plus heavy freight.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$71.12",
+   "currency": "AUD",
+   "aud_price": 71.12,
+   "date": "2026-08-20",
+   "venue": "eBay AU (Terapeak, 13 sold)",
+   "url": "https://www.ebay.com.au/itm/157052012990",
+   "same_item": "category guide",
+   "note": "NEW T-bar sash clamp 900-1800mm.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'irwin quick-grip' (none); 'sash clamp' (many local hits); 'barrel hoops' (1 hit); 'bar clamp' (irrelevant). work/comps.py: 'sash clamp' (Gowans only). No resale comps in any database.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'irwin quick-grip' (none); 'sash clamp' (many local hits); 'barrel hoops' (1 hit); 'bar clamp' (irrelevant). work/comps.py: 'sash clamp' (Gowans only). No resale comps in any database. | chrome: Terapeak AU 3yr: 'sash clamp 1000mm' (0), 'sash clamp' (avg A$56, range A$5-275, new T-bar A$64-71).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'sash clamp 1000mm' and 'T bar clamp 1m' (sold, Australia); 'Irwin Quick-Grip 900mm bar clamp' sold; 'barrel hoops steel' sold. Terapeak on 'sash clamps'. Also new retail check: Bunnings/Total Tools for Irwin Quick-Grip bar clamp and a 1 m sash clamp (record as ASKING, new retail price).",
- "viewing_check": "Look for a brand stamp on the red clamps (Record, Paulcall, Saxon or Pexto add value) and the Quick-Grip model and length; check the red clamps' screws turn freely.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Look for brand stamp on red clamps (Record, Paulcall); check Quick-Grip model and length; screws turn freely.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

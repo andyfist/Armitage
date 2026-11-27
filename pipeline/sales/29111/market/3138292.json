@@ -1,7 +1,7 @@
 {
  "cdid": 3138292,
  "lot": 1697,
- "identification": "British Mk II steel helmet (Brodie pattern, WWII) with hand-painted 'SC' (Special Constabulary) to front, black finish, oilcloth-headband liner, khaki webbing chinstrap. No legible maker/date stamp. Photos show cream/white SC lettering with rust; painting age unverified (could be period or later).",
+ "identification": "British WWII Mk II steel helmet (Brodie pattern; catalogue says Mk 1) in black paint with stencilled/painted 'SC' (Special Constable / Special Constabulary) in white that has rusted through, oilcloth/rubberised liner with cruciform pad, khaki webbing chinstrap. Crown rivet and rim stamps not visible. Armitage tag 1697.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,10 +101,47 @@
    "url": "gowans lot id 421782",
    "same_item": "category guide",
    "note": "BRODIE HELMET (7 bids). PAID LOCALLY: shows only what we might pay, never a resale price. Database record only, no page opened. Prices are hammer, AUD as printed (no conversion)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$117.3",
+   "currency": "AUD",
+   "aud_price": 117.3,
+   "date": "2026-10-22",
+   "venue": "eBay (public sold search, worldwide, AUD as shown)",
+   "url": "https://www.ebay.com.au/itm/227573939723",
+   "same_item": "close",
+   "note": "WW2 British Brodie helmet, pre-owned, Buy It Now (plain, no marking stated)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$82.57",
+   "currency": "AUD",
+   "aud_price": 82.57,
+   "date": "2026-11-08",
+   "venue": "eBay (public sold search, worldwide, AUD as shown)",
+   "url": "https://www.ebay.com.au/itm/278428650694",
+   "same_item": "close",
+   "note": "Original WW2 British Mk2 Brodie, screw and X-pad, Buy It Now, from UK (postage A$60 extra)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$69.54",
+   "currency": "AUD",
+   "aud_price": 69.54,
+   "date": "2026-08-31",
+   "venue": "eBay (public sold search, worldwide, AUD as shown)",
+   "url": "https://www.ebay.com.au/itm/277669335590",
+   "same_item": "close",
+   "note": "Original WW2 British Mk2 Brodie, Buy It Now, from UK (postage A$55 extra)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'brodie helmet'; 'mk II helmet steel'; 'special constabulary'; 'WWII helmet british'. work/comps.py: 'brodie helmet' (only the Gowans hit). No web searches by instruction. Rate note: all database prices are AUD, no conversion.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'brodie helmet'; 'mk II helmet steel'; 'special constabulary'; 'WWII helmet british'. work/comps.py: 'brodie helmet' (only the Gowans hit). No web searches by instruction. Rate note: all database prices are AUD, no conversion. | chrome: Noble Numismatics four lot pages opened (confirmed); eBay AU public sold search worldwide 'ww2 british brodie helmet special constable'; Terapeak AU 3yr 'special constable helmet' (1 irrelevant row); 2 web searches.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: 'WW2 British Home Front helmet SC special constabulary', 'Brodie Mk II helmet painted SC', 'WW2 police special constable steel helmet'. Also eBay UK sold (convert GBP to AUD) and Terapeak for same. Auction houses: Noble Numismatics past results (helmets), Leski, Mossgreen/Bonhams militaria, LiveAuctioneers 'Mk II Brodie helmet SC'. Check whether painted SC helmets sell above plain Mk II (UK demand for Home Front marked) and whether repainted ones are discounted.",
- "viewing_check": "Inside crown rivet and rim/liner for maker, date and broad arrow stamps (e.g. 1939-41 dates). Check whether SC paint sits over original paint and is aged (rust under/within lettering, paint on rust) or looks fresh/modern; check liner and chinstrap dates. Photograph the interior stamps."
+ "viewing_check": "Check crown rivet, rim and liner for maker/date stamps (1939-41), whether the SC paint sits over aged original paint with rust in the lettering, liner and chinstrap condition and dates.",
+ "chrome_done": true
 }

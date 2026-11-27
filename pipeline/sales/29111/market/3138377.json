@@ -1,7 +1,7 @@
 {
  "cdid": 3138377,
  "lot": 1784,
- "identification": "Mixed crate of lamps: about three Coleman pressure lanterns, a Tilley-style kerosene pressure lamp, three or four old brass/tinplate carriage (coach) lamps with bevelled glass, a black tin square lamp and mantles. Poor, dusty condition, untested. Not examined beyond the scan notes.",
+ "identification": "Crate of lamps: 2 Coleman pressure lanterns (one green with Coleman decal, one dark green/grey), 1 Tilley-type pressure lamp (black top, silver base), about 4-5 old brass-and-iron/tin carriage (coach) lamps with bevelled glass, rusty and verdigris, one with a wood-handled bracket, a black tin box lamp with side spout (rail/hand signal style), a Jackeroo lantern mantle packet. Poor condition, untested.",
  "entries": [
   {
    "kind": "SOLD",
@@ -134,11 +134,108 @@
    "url": "gowans lot id 409229",
    "same_item": "close",
    "note": "Box of carriage lamps. Paid locally, not a resale price. Database result, no page opened. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$205.73",
+   "currency": "AUD",
+   "aud_price": 205.73,
+   "date": "2026-11-11",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/336864320247",
+   "same_item": "close",
+   "note": "Coleman green model 200A lantern dated 8-82, pre-owned, 14 bids; like our green Coleman, probably in better order",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$140.17",
+   "currency": "AUD",
+   "aud_price": 140.17,
+   "date": "2026-11-16",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/206685017724",
+   "same_item": "close",
+   "note": "Coleman Custom 200A single mantle lantern, pre-owned",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$118.05",
+   "currency": "AUD",
+   "aud_price": 118.05,
+   "date": "2026-10-27",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/377581071356",
+   "same_item": "close",
+   "note": "Vintage Coleman model 201 kerosene pressure lantern, pre-owned",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$190.0",
+   "currency": "AUD",
+   "aud_price": 190.0,
+   "date": "2026-09-29",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/377512154769",
+   "same_item": "close",
+   "note": "Vintage Tilley X246B kerosene pressure lantern, pre-owned; like our Tilley-style lamp if it is an X246B",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$107.66",
+   "currency": "AUD",
+   "aud_price": 107.66,
+   "date": "2026-05-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/257518572463",
+   "same_item": "close",
+   "note": "Antique coach kerosene lantern, Kempthorn Melbourne, steel/brass; Terapeak",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$104.55",
+   "currency": "AUD",
+   "aud_price": 104.55,
+   "date": "2026-11-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/147659099249",
+   "same_item": "close",
+   "note": "Antique coach lamps, Terapeak (auction, count not confirmed)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$64.09",
+   "currency": "AUD",
+   "aud_price": 64.09,
+   "date": "2025-11-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267458962296",
+   "same_item": "close",
+   "note": "Antique bevelled glass driving coach lantern, single; Terapeak",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$210.26",
+   "currency": "AUD",
+   "aud_price": 210.26,
+   "date": "2024-08-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/226244454590",
+   "same_item": "close",
+   "note": "Antique JN&S brass carriage coach lamps x2 (pair); over 2 years old; Terapeak",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: Coleman lantern; Tilley lamp; coach lamp brass (no hits); carriage lamp. work/comps.py: Coleman lantern. Nothing run on the web, per instruction.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: Coleman lantern; Tilley lamp; coach lamp brass (no hits); carriage lamp. work/comps.py: Coleman lantern. Nothing run on the web, per instruction. | chrome: Terapeak AU 3yr: antique brass carriage lamp (no condition filter shown). eBay AU public sold (AU sellers): vintage coleman pressure lantern; coleman 200A lantern green.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/Terapeak: 'brass carriage lamp antique' , 'coach lamp brass bevelled glass', 'Coleman 200A lantern vintage', 'Coleman lantern green', 'Tilley lamp X246B', 'Tilley lamp vintage kerosene'; eBay completed only. Also LiveAuctioneers/Invaluable: 'carriage lamp brass' and 'Coleman lantern' Australian results from the last 10 years. Check whether the brass lamps are pairs and the maker (e.g. Lucas, Salsbury).",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Count the carriage lamps and see if any are matching pairs; check for maker names on brass (Lucas, Salsbury, Powell and Hanmer), whether glass is intact, and Coleman model and date stamps on the fount (200A, 220, colour, Australian-made). Check Tilley model (X246, Hendon) and whether anything is copper or brass."
+ "viewing_check": "Read Coleman model number and date code on the founts (200A/220/201, month-year stamp), check Tilley model (X246B stamped on the base/top), globes intact, pumps and generators, count carriage lamps and look for maker marks (JN&S, Lucas, Kempthorn), dents, missing glass, burner/wick present.",
+ "chrome_done": true
 }

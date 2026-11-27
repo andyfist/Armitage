@@ -1,8 +1,139 @@
-{"cdid":3138058,"lot":1461,"identification":"Early 1900s blue and white vitreous enamel street name sign 'ELIZABETH ST' on steel, border lines, two fixing holes, chips and rust at corners and holes, rust patch over the S, rusty back, old inventory label S648/9. Small (about 60 cm long by 12 cm high judging from photos, size not confirmed). No maker or council mark seen. Elizabeth St is a common street name (Hobart, Launceston, Melbourne, Brisbane and others), so the town matters.","entries":[
-{"kind":"SOLD","price":"$380","currency":"AUD","aud_price":380,"date":"2021-11-27","venue":"Leski Auctions, Melbourne sale 562 lot 365","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/562","same_item":"close","note":"Blue and white enamel over steel street sign 'SPENCER ST. 95-161' with Melbourne coat of arms. Larger, more decorative and a Melbourne CBD name, so likely worth more than ours. Database record only (no page opened). Hammer, no premium. AUD, no conversion."},
-{"kind":"SOLD","price":"$380","currency":"AUD","aud_price":380,"date":"2025-05-24","venue":"Leski Auctions, Melbourne sale 637 lot 741","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/637","same_item":"category guide","note":"SPENCER STREET Melbourne station platform tin enamel sign, 82 x 143 cm. Much larger and a railway sign, not a street blade. Database record only. AUD."},
-{"kind":"SOLD","price":"$130","currency":"AUD","aud_price":130,"date":"2013-06-25","venue":"Leski Auctions, Melbourne sale 74 lot 101","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/74","same_item":"category guide","note":"Mixed lot: Streets ice cream and Arnotts enamel signs, post office sign and a 'Beach rd. 33' road sign. Lot of several, so only a loose guide. Old (13 years). Database record only. AUD."},
-{"kind":"SOLD","price":"$80","currency":"AUD","aud_price":80,"date":"2026-08-16","venue":"eBay AU lot 1423 (research record)","url":"https://www.ebay.com.au/itm/227477749351","same_item":"category guide","note":"Ex-council extruded aluminium 'MURRAY St' blade, about 60 cm. Aluminium, not enamel, so a floor for street signs, not same item. Database record only, listing not opened by me. AUD."},
-{"kind":"SOLD","price":"$130","currency":"AUD","aud_price":130,"date":"2026-06-14","venue":"Gowans Auctions, Hobart lot 416630 (paid locally)","url":"https://www.gowansauctions.com.au/ (gowans lot id 416630)","same_item":"yes","note":"ENAMEL STREET SIGN - QUEENS AVENUE, 8 bids. Closest same-type item but a paid-locally price: shows what we might pay, never a resale price. Condition not recorded."}
-],
-"searches_tried":"pipeline/comps.py: 'enamel street sign'; 'street sign Elizabeth'; 'enamel sign'. work/comps.py: 'enamel street sign'. No Elizabeth St street sign hit. Only one Gowans street sign and two Leski Melbourne Spencer St signs are relevant. Armitage past enamel advertising signs ($60 to $720) are a different category and not used as comps.","needs_chrome":true,"chrome_hint":"1) eBay AU sold + completed: 'enamel street sign', 'ELIZABETH ST enamel sign', 'vintage enamel street name sign' (Terapeak last 12 months, Australia, note size and condition). 2) Leski Auctions realised prices: 'street sign enamel'. 3) Gowans, Mossgreen/Theodore Bruce, Davidson Auctions, Burns & Co (bidsonline): 'enamel street sign' and 'Elizabeth St'. 4) LiveAuctioneers / Invaluable: 'enamel street sign Australia'. 5) Check whether Elizabeth St is a Hobart, Launceston or Melbourne sign (local streets sell better).","viewing_check":"Measure the sign (length and height) and look for council or maker marks (e.g. Stewart & Co, Wunderlich, Hobart or Launceston Municipal) on the back or edge; check the rust over the S and chip extent at the holes; the S648/9 label is probably an old collection or dealer stock number. Any provenance as a Hobart or Launceston Elizabeth St sign would lift value."}
+{
+ "cdid": 3138058,
+ "lot": 1461,
+ "identification": "Single-sided vitreous enamel street name blade 'ELIZABETH ST' (superscript T), white letters and double border lines on blue, flat steel, c1900-1940. Fixing holes at the four corners plus one through the centre (in the 'B'). About 63.5 x 13 cm. Chips and rust at all corners and holes, a rust patch over the 'S', a scratched 'V' at lower right. Back plain grey steel, rusty, unmarked. Old paper stock/inventory label reading '5648/9' on the face (cloud scan read 'S648/9'). No council or maker mark, so the town is unknown (Elizabeth St exists in Hobart, Launceston, Melbourne, Sydney, Brisbane and many others).",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$380",
+   "currency": "AUD",
+   "aud_price": 380,
+   "date": "2021-11-27",
+   "venue": "Leski Auctions, Melbourne sale 562 lot 365",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/562",
+   "same_item": "close",
+   "note": "Blue and white enamel over steel street sign 'SPENCER ST. 95-161' with Melbourne coat of arms. Larger, more decorative and a Melbourne CBD name, so likely worth more than ours. Database record only (no page opened). Hammer, no premium. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$380",
+   "currency": "AUD",
+   "aud_price": 380,
+   "date": "2025-05-24",
+   "venue": "Leski Auctions, Melbourne sale 637 lot 741",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/637",
+   "same_item": "category guide",
+   "note": "SPENCER STREET Melbourne station platform tin enamel sign, 82 x 143 cm. Much larger and a railway sign, not a street blade. Database record only. AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2013-06-25",
+   "venue": "Leski Auctions, Melbourne sale 74 lot 101",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/74",
+   "same_item": "category guide",
+   "note": "Mixed lot: Streets ice cream and Arnotts enamel signs, post office sign and a 'Beach rd. 33' road sign. Lot of several, so only a loose guide. Old (13 years). Database record only. AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-08-16",
+   "venue": "eBay AU lot 1423 (research record)",
+   "url": "https://www.ebay.com.au/itm/227477749351",
+   "same_item": "category guide",
+   "note": "Ex-council extruded aluminium 'MURRAY St' blade, about 60 cm. Aluminium, not enamel, so a floor for street signs, not same item. Database record only, listing not opened by me. AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-06-14",
+   "venue": "Gowans Auctions, Hobart lot 416630 (paid locally)",
+   "url": "https://www.gowansauctions.com.au/ (gowans lot id 416630)",
+   "same_item": "yes",
+   "note": "ENAMEL STREET SIGN - QUEENS AVENUE, 8 bids. Closest same-type item but a paid-locally price: shows what we might pay, never a resale price. Condition not recorded."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$380",
+   "currency": "AUD",
+   "aud_price": 380,
+   "date": "2021-11-27",
+   "venue": "Leski Auctions, Melbourne sale 562",
+   "url": "https://auctions.leski.com.au/lot-details/index/catalog/562/lot/178289/MELBOURNE-STREET-SIGN-SPENCER-ST-95-161-blue-amp-white-enamel-over-steel-wi",
+   "same_item": "close",
+   "note": "Melbourne street sign 'SPENCER ST 95-161', blue and white enamel over steel with Melbourne coat of arms. Better: named Melbourne CBD street, arms, numbers. Over 3 years old.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-03-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116920647191",
+   "same_item": "close",
+   "note": "Vintage double-sided enamel 'Derna Rd' street sign, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$107",
+   "currency": "AUD",
+   "aud_price": 107,
+   "date": "2026-10-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/377550489939",
+   "same_item": "category guide",
+   "note": "Vintage Bourke St street sign c1940-50s, wood/metal (not enamel), 1 bid. From sold search results.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$400",
+   "currency": "AUD",
+   "aud_price": 400,
+   "date": "2024-12-07",
+   "venue": "Leski Auctions, Melbourne sale 623",
+   "url": "https://auctions.leski.com.au/lot-details/index/catalog/623/lot/217893/TRAMWAYS-group-of-five-assorted-vintage-metal-destination-signs-I-IVERS-ST-",
+   "same_item": "category guide",
+   "note": "Group of five Melbourne tramway metal destination signs. Five signs, tram interest; loose guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2013-06-25",
+   "venue": "Leski Auctions, Melbourne sale 74",
+   "url": "https://auctions.leski.com.au/lot-details/index/catalog/74/lot/25873/SIGNS-Streets-ice-cream-Arnotts-Biscuits-post-office-enamel-sign-and-Beach-rd",
+   "same_item": "category guide",
+   "note": "Mixed lot of enamel signs including a 'Beach Rd' road sign. 13 years old, several signs.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-06-14",
+   "venue": "Gowans Auctions, Hobart lot 416630",
+   "url": "https://www.gowansauctions.com.au/ (gowans lot id 416630)",
+   "same_item": "yes",
+   "note": "Database hint, not opened: enamel street sign 'Queens Avenue', 8 bids. Paid locally, not resale.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'enamel street sign'; 'street sign Elizabeth'; 'enamel sign'. work/comps.py: 'enamel street sign'. No Elizabeth St street sign hit. Only one Gowans street sign and two Leski Melbourne Spencer St signs are relevant. Armitage past enamel advertising signs ($60 to $720) are a different category and not used as comps. | chrome: Terapeak AU 'enamel street sign', 'vintage street sign enamel st' (0), 'old street sign original'; eBay AU sold 'enamel street sign' (AU only, 236 results filtered); Leski site search x2 (103 lots read).",
+ "needs_chrome": false,
+ "chrome_hint": "1) eBay AU sold + completed: 'enamel street sign', 'ELIZABETH ST enamel sign', 'vintage enamel street name sign' (Terapeak last 12 months, Australia, note size and condition). 2) Leski Auctions realised prices: 'street sign enamel'. 3) Gowans, Mossgreen/Theodore Bruce, Davidson Auctions, Burns & Co (bidsonline): 'enamel street sign' and 'Elizabeth St'. 4) LiveAuctioneers / Invaluable: 'enamel street sign Australia'. 5) Check whether Elizabeth St is a Hobart, Launceston or Melbourne sign (local streets sell better).",
+ "viewing_check": "Ask Armitage or the vendor where it came from (Launceston/Hobart Elizabeth St would be the only real upside); check the back edge for a council or maker stamp; check how far the rust under the S has lifted the enamel.",
+ "chrome_done": true
+}

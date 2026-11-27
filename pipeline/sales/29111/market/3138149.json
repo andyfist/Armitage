@@ -1,7 +1,7 @@
 {
  "cdid": 3138149,
  "lot": 1553,
- "identification": "Framed print of a 1930s French Shell advertisement 'Shell - chaque goutte compte' (stylised mechanic/robot figure), 45 x 38 cm, black frame. Modern reproduction (Shell heritage-style print), not an original poster.",
+ "identification": "Framed French Shell magazine advertisement page 'Par 30 de froid Shell / SHELL chaque goutte compte' (skier with Shell Huile Moteur can), c.1929-30s, mounted in black frame with brown mat, 45x38cm.",
  "entries": [
   {
    "kind": "SOLD",
@@ -35,12 +35,48 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/74",
    "same_item": "category guide",
    "note": "Collection of 1950s Shell service station advertising, flyers, posters and magazines; a collection, over 10 years old, not comparable. Database hit, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$4.95",
+   "currency": "AUD",
+   "aud_price": 4.95,
+   "date": "2024-03-13",
+   "venue": "eBay FR (Terapeak, AUD shown)",
+   "url": "https://www.ebay.com.au/itm/134889772778",
+   "same_item": "yes",
+   "note": "Publicite advertising 1929 Huile Shelle chaque goutte compte Montagne Ski, unframed ad; eBay FR via Terapeak, displayed in AUD",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$8.37",
+   "currency": "AUD",
+   "aud_price": 8.37,
+   "date": "2023-12-30",
+   "venue": "eBay FR (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/203290982256",
+   "same_item": "category guide",
+   "note": "Shell huile + Molinard parfum ad 1930; eBay FR",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$13.09",
+   "currency": "AUD",
+   "aud_price": 13.09,
+   "date": "2025-02-10",
+   "venue": "eBay FR (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156328008279",
+   "same_item": "category guide",
+   "note": "1932 Antar/Shell motor oil ad; eBay FR",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'shell advertisement', 'shell print', 'shell poster', 'petroliana shell', 'shell oil', 'French advertisement framed', 'magazine advertisement framed', 'vintage advertising print'; work/comps.py: 'shell print'. No same-item resale comp found. | chrome: Not searched: modern decor/reproduction.",
+ "searches_tried": "pipeline/comps.py: 'shell advertisement', 'shell print', 'shell poster', 'petroliana shell', 'shell oil', 'French advertisement framed', 'magazine advertisement framed', 'vintage advertising print'; work/comps.py: 'shell print'. No same-item resale comp found. | chrome: Not searched: modern decor/reproduction. | chrome: Terapeak AU 'shell chaque goutte compte' (0), Terapeak FR 'shell publicite 1930'",
  "needs_chrome": false,
  "chrome_hint": "eBay AU and eBay FR sold/Terapeak: 'Shell publicite 1930 Par 30 de froid', 'Shell chaque goutte compte publicite', 'Shell Huile Moteur publicite ancienne ski'; also 'vintage French Shell advertisement print' and 'Shell Huiles Essences pub 1930s'. Check LiveAuctioneers/Invaluable for 'Shell French advertising' and Delcampe/Etsy sold-comparable magazine-page ads (framed vs unframed).",
- "viewing_check": "If it were an original 1930s lithographic poster it would be large and on thin paper; at 45 x 38 cm framed it is a reproduction.",
+ "viewing_check": "None needed.",
  "rate_note": "All database prices are AUD; no conversion needed.",
  "chrome_done": true
 }

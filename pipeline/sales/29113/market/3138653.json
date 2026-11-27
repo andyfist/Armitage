@@ -1,12 +1,93 @@
-{"cdid":3138653,"lot":2061,"identification":"4-panel sectional (retractable) garage door, about 2450 x 2150 mm opening, with tracks, torsion/spring assembly, rollers and cables in a tub, plus a B&D Controll-A-Door opener motor still bagged (opener model and remote not confirmed). Photos 5 and 6 look like stock images. Used, dismantled, rollers rusty.",
-"entries":[
-{"kind":"ASKING","price":"$285","aud_price":285,"currency":"AUD","date":"2025-10-22","venue":"Armitage Auctions, Launceston sale 26383 lot 1598 (paid locally, hammer, not resale)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2672047&chid=26383&category=ALL&style=group","same_item":"category guide","note":"Merlin Silent Drive opener only, local room hammer; shows what we might pay for an opener, no door. Database result, page not opened. Kind label ASKING is a placeholder: it is not a resale price."},
-{"kind":"ASKING","price":"$180","aud_price":180,"currency":"AUD","date":"2025-10-22","venue":"Armitage Auctions, Launceston sale 26383 lot 1430 (paid locally, hammer, not resale)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2671881&chid=26383&category=ALL&style=group","same_item":"category guide","note":"Unbranded garage door motor, local hammer. Database only. Not a resale price."},
-{"kind":"ASKING","price":"$85","aud_price":85,"currency":"AUD","date":"2025-11-12","venue":"Armitage Auctions, Launceston sale 26639 lot 1801 (paid locally, hammer, not resale)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2729526&chid=26639&category=ALL&style=group","same_item":"category guide","note":"2 x B&D roller doors with brackets, local hammer. Closest local door comp but roller type, not sectional. Database only."},
-{"kind":"ASKING","price":"$25","aud_price":25,"currency":"AUD","date":"2025-12-03","venue":"Armitage Auctions, Launceston sale 26808 lot 1733 (paid locally, hammer, not resale)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2754119&chid=26808&category=ALL&style=group","same_item":"category guide","note":"Merlin Tiltmaster opener with 2 remotes, not tested. Database only."}
-],
-"searches_tried":"pipeline/comps.py: 'B&D garage door', 'Controll-A-Door opener', 'sectional garage door', 'garage door opener', 'garage door', 'B&D', 'roller door'; work/comps.py: 'garage door'. No resale (SOLD) comps held. Local hits are all Armitage/Gowans (paid locally) so cannot set resale; entries are labelled ASKING only because no schema label fits, they are NOT asking prices.",
-"needs_chrome":true,
-"chrome_hint":"eBay.com.au sold listings: 'B&D Controll-A-Door opener' and 'B&D Controll-A-Door remote' (Terapeak too); 'sectional garage door panels used' and 'B&D sectional door used'; Gumtree/Facebook Marketplace Tasmania 'used sectional garage door' and 'B&D garage door opener' (asking only). Also B&D new retail price for a Controll-A-Door opener and a 4-panel sectional door (Bunnings, B&D site) as ASKING new retail.",
-"viewing_check":"Read opener model and barcode label (Controll-A-Door series), check it is complete with rail/arm and remote(s); count the door panels, measure and check for dents, panel damage, and whether tracks, springs, hinges and cables are complete; photograph the door maker label on panel edge.",
-"rate_note":"All AUD, no conversion."}
+{
+ "cdid": 3138653,
+ "lot": 2061,
+ "identification": "Dismantled 4-panel sectional (retractable) garage door, opening 2450 x 2150 mm, white/grey steel panels, with curved tracks, rail, hinges, cables and rollers in a pink tub, and a B&D Controll-A-Door sectional opener head (bagged in plastic; model number not readable in photos, likely a CAD4 or similar). Photos 5 and 6 are stock/unrelated images of installed doors (photo 6 is a different house with a different door and opener). Remote control not shown.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "$285",
+   "aud_price": 285,
+   "currency": "AUD",
+   "date": "2025-10-22",
+   "venue": "Armitage Auctions, Launceston sale 26383 lot 1598 (paid locally, hammer, not resale)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2672047&chid=26383&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Merlin Silent Drive opener only, local room hammer; shows what we might pay for an opener, no door. Database result, page not opened. Kind label ASKING is a placeholder: it is not a resale price."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$180",
+   "aud_price": 180,
+   "currency": "AUD",
+   "date": "2025-10-22",
+   "venue": "Armitage Auctions, Launceston sale 26383 lot 1430 (paid locally, hammer, not resale)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2671881&chid=26383&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Unbranded garage door motor, local hammer. Database only. Not a resale price."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$85",
+   "aud_price": 85,
+   "currency": "AUD",
+   "date": "2025-11-12",
+   "venue": "Armitage Auctions, Launceston sale 26639 lot 1801 (paid locally, hammer, not resale)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2729526&chid=26639&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "2 x B&D roller doors with brackets, local hammer. Closest local door comp but roller type, not sectional. Database only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "$25",
+   "aud_price": 25,
+   "currency": "AUD",
+   "date": "2025-12-03",
+   "venue": "Armitage Auctions, Launceston sale 26808 lot 1733 (paid locally, hammer, not resale)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2754119&chid=26808&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Merlin Tiltmaster opener with 2 remotes, not tested. Database only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$154.40",
+   "currency": "AUD",
+   "aud_price": 154.4,
+   "date": "2026-10-29",
+   "venue": "eBay AU (public sold search, Pre-owned)",
+   "url": "https://www.ebay.com.au/itm/960015024509",
+   "same_item": "yes",
+   "note": "B&D Controll-A-Door CAD4 electrical garage door opener motor unit, pre-owned. Only one used same-item sale found. Opener only, no door.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$294.00",
+   "currency": "AUD",
+   "aud_price": 294,
+   "date": "2026-11-07",
+   "venue": "eBay AU, new (sold listing)",
+   "url": "https://www.ebay.com.au/itm/112235573654",
+   "same_item": "close",
+   "note": "New B&D CAD4 replacement sectional opener, sold new at A$294. New retail guide, not a used resale price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.49",
+   "currency": "AUD",
+   "aud_price": 32.49,
+   "date": "2026-10-28",
+   "venue": "eBay AU (public sold search, Pre-owned)",
+   "url": "https://www.ebay.com.au/itm/257595978455",
+   "same_item": "category guide",
+   "note": "B&D Control A Door circuit board only (suits CAD5). Part only, a guide.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'B&D garage door', 'Controll-A-Door opener', 'sectional garage door', 'garage door opener', 'garage door', 'B&D', 'roller door'; work/comps.py: 'garage door'. No resale (SOLD) comps held. Local hits are all Armitage/Gowans (paid locally) so cannot set resale; entries are labelled ASKING only because no schema label fits, they are NOT asking prices. | chrome: Terapeak EBAY-AU 3 years 'B&D Controll-A-Door' (mostly new remotes, no condition filter on); eBay AU public sold 'b&d garage door opener motor used' and 'b&d controll-a-door cad opener' (Used filter): one used CAD4 sale. Did not search sectional panels separately as they cannot be posted.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings: 'B&D Controll-A-Door opener' and 'B&D Controll-A-Door remote' (Terapeak too); 'sectional garage door panels used' and 'B&D sectional door used'; Gumtree/Facebook Marketplace Tasmania 'used sectional garage door' and 'B&D garage door opener' (asking only). Also B&D new retail price for a Controll-A-Door opener and a 4-panel sectional door (Bunnings, B&D site) as ASKING new retail.",
+ "viewing_check": "Read the opener model and label (CAD4/CAD5, CADS, etc), confirm remotes and wall button, rail/arm complete; count panels and check for dents or rust, whether hinges, springs/torsion shaft, cables and brackets are all there, and measure panel height to confirm 2150 mm.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}

@@ -1,9 +1,142 @@
-{"cdid":3138390,"lot":1797,"identification":"Mixed tray. Main item is a wooden block holding a graduated set of knobbed brass/bronze cylinder weights (probably a metric or continental style set, about 14 slots, one empty) plus a separate large brass cylinder weight (about 2kg style). Also two machetes (rusty), a small letter scale, pliers, spring balance, bottle opener, padlock and a 2-fold boxwood and brass 36 inch rule (maker not legible). Mostly generic; value rests on the weights block.","entries":[
-{"kind":"SOLD","price":"$300 hammer","aud_price":300,"date":"2022-12-04","venue":"Leski Auctions, Melbourne sale 586 lot 275","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/586","same_item":"close","note":"Database hit, not opened. Set of eight antique brass bell weights, largest 14lb. Larger imperial bell weights; our set is smaller, graduated in a block. AUD, no conversion."},
-{"kind":"SOLD","price":"$550 hammer","aud_price":550,"date":"2025-11-29","venue":"Leski Auctions, Melbourne sale 640 lot 580","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/640","same_item":"category guide","note":"Database hit, not opened. Twelve assorted cast brass bell weights 7lb to 8oz, some Broad Arrow stamped. Upper end; ours are not shown with stamps. AUD."},
-{"kind":"SOLD","price":"$400 hammer","aud_price":400,"date":"2015-05-19","venue":"Leski Auctions, Melbourne sale 128 lot 202","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/128","same_item":"category guide","note":"Database hit, not opened. Nine brass bell weights 1/2oz to 7lb stamped London. Older than 10 years, so weak. AUD."},
-{"kind":"SOLD","price":"$102","aud_price":102,"date":"2026-03-09","venue":"eBay AU (Terapeak), brass and oak postal scales with weights","url":"https://www.ebay.com.au/itm/267555530843","same_item":"category guide","note":"Database hit, not opened. Complete postal scales and weights, a more saleable item than loose weights. Other Terapeak hits for the same item $125 to $150 (2024 to 2025). AUD."},
-{"kind":"SOLD","price":"$80 hammer","aud_price":80,"date":"2026-04-13","venue":"Noble Numismatics, Sydney sale 141 lot 52","url":"https://www.noble.com.au/auctions/lot/?id=438811","same_item":"category guide","note":"Database hit, not opened. Two pan balance with brass weights in original box c.1900. Complete working set. AUD."},
-{"kind":"SOLD","price":"$850 hammer","aud_price":850,"date":"2024-10-20","venue":"Leski Auctions, Melbourne sale 633 lot 153","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/633","same_item":"category guide","note":"Database hit, not opened. Tornaghi cased drawing set with boxwood rules, price driven by the Sydney maker and silver case; not comparable to an unnamed rule. Shown only to rule out the rule as a value driver."},
-{"kind":"SOLD","price":"$35 to $100 hammer (Armitage, 5 hits)","aud_price":55,"date":"2025-07-30 to 2026-09-30","venue":"Armitage Auctions, Launceston (paid locally), e.g. sale 28712 lot 629, sale 28329 lot 1543","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997219&chid=28329&category=ALL&style=group","same_item":"category guide","note":"PAID LOCALLY, not a resale price. Brass scale and weight sets $35 to $100, median about $55. Gowans Hobart similar $35 to $50 (2026). Shows what we might pay only."}
-],"searches_tried":"pipeline/comps.py and work/comps.py: 'bell weights brass', 'boxwood rule', 'brass weights set', 'apothecary weights'. No web searches (databases only). No hits for machetes, 2-fold rule makers or spring balances. Exchange rate not needed, all AUD.","needs_chrome":true,"chrome_hint":"eBay AU sold + Terapeak: 'antique brass weights wooden block set', 'brass cylinder weights wooden block metric', 'knobbed brass weights set wood box', '2kg brass weight', 'boxwood 2 fold rule 36 inch brass'; also eBay sold 'machete bakelite handle vintage'. Check Leski and Noble past results for 'brass weights block'. Also check rule maker (Rabone, Stanley) once read at viewing.","needs_chrome":true,"viewing_check":"Check weight stamps (metric g/kg, imperial oz/lb, Broad Arrow, makers like Avery or Bate) and whether the set is complete; read the boxwood rule maker name on the face; check machete blade makers (Tramontina, Collins, Wilkinson); check rule for brass-bound ivory or Rabone stamp."}
+{
+ "cdid": 3138390,
+ "lot": 1797,
+ "identification": "Mixed tray. Main item: a continental-style (metric) set of knobbed bronze/brass cylinder weights in a fitted softwood block, with a large plain brass cylinder weight (probably 1 kg or 2 kg) that sits in the block's empty large hole, so the set is: 1 large + 4 medium + 3 small + about 5 tiny of 4 tiny slots filled, with 3 tiny slots empty (incomplete). Weights green-patinated, block worn with a split along the top. Also: two machetes (one modern pale-wood-handled with heavy rust, one with chequered dark composition/bakelite grip and heavy rust; no maker marks visible), a cast metal pendulum letter scale, a metal scale scoop/pan, two pairs of fencing/combination pliers, wood-handled hand tools (spokeshave-type and a scraper), a grey stacked metal cup/nested weight, small padlock, brass spring balance, bottle opener, and a 3 ft two-fold boxwood rule with brass tips and centre hinge (maker name not visible in photos). Estimate 40-60, current bid $15.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$300 hammer",
+   "aud_price": 300,
+   "date": "2022-12-04",
+   "venue": "Leski Auctions, Melbourne sale 586 lot 275",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/586",
+   "same_item": "close",
+   "note": "Database hit, not opened. Set of eight antique brass bell weights, largest 14lb. Larger imperial bell weights; our set is smaller, graduated in a block. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$550 hammer",
+   "aud_price": 550,
+   "date": "2025-11-29",
+   "venue": "Leski Auctions, Melbourne sale 640 lot 580",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/640",
+   "same_item": "category guide",
+   "note": "Database hit, not opened. Twelve assorted cast brass bell weights 7lb to 8oz, some Broad Arrow stamped. Upper end; ours are not shown with stamps. AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$400 hammer",
+   "aud_price": 400,
+   "date": "2015-05-19",
+   "venue": "Leski Auctions, Melbourne sale 128 lot 202",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/128",
+   "same_item": "category guide",
+   "note": "Database hit, not opened. Nine brass bell weights 1/2oz to 7lb stamped London. Older than 10 years, so weak. AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$102",
+   "aud_price": 102,
+   "date": "2026-03-09",
+   "venue": "eBay AU (Terapeak), brass and oak postal scales with weights",
+   "url": "https://www.ebay.com.au/itm/267555530843",
+   "same_item": "category guide",
+   "note": "Database hit, not opened. Complete postal scales and weights, a more saleable item than loose weights. Other Terapeak hits for the same item $125 to $150 (2024 to 2025). AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 hammer",
+   "aud_price": 80,
+   "date": "2026-04-13",
+   "venue": "Noble Numismatics, Sydney sale 141 lot 52",
+   "url": "https://www.noble.com.au/auctions/lot/?id=438811",
+   "same_item": "category guide",
+   "note": "Database hit, not opened. Two pan balance with brass weights in original box c.1900. Complete working set. AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$850 hammer",
+   "aud_price": 850,
+   "date": "2024-10-20",
+   "venue": "Leski Auctions, Melbourne sale 633 lot 153",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/633",
+   "same_item": "category guide",
+   "note": "Database hit, not opened. Tornaghi cased drawing set with boxwood rules, price driven by the Sydney maker and silver case; not comparable to an unnamed rule. Shown only to rule out the rule as a value driver."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35 to $100 hammer (Armitage, 5 hits)",
+   "aud_price": 55,
+   "date": "2025-07-30 to 2026-09-30",
+   "venue": "Armitage Auctions, Launceston (paid locally), e.g. sale 28712 lot 629, sale 28329 lot 1543",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997219&chid=28329&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "PAID LOCALLY, not a resale price. Brass scale and weight sets $35 to $100, median about $55. Gowans Hobart similar $35 to $50 (2026). Shows what we might pay only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.26",
+   "currency": "AUD",
+   "aud_price": 59.26,
+   "date": "2026-11-17",
+   "venue": "eBay (sold, UK seller)",
+   "url": "https://www.ebay.com.au/itm/407351145339",
+   "same_item": "close",
+   "note": "'Antique Brass Metric Weight Set 1kg To 10g With Wooden Block Holder Unpolished'. 1 bid. Very close type to ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52.75",
+   "currency": "AUD",
+   "aud_price": 52.75,
+   "date": "2026-11-03",
+   "venue": "eBay (sold, US seller), 8 bids",
+   "url": "https://www.ebay.com.au/itm/206655678774",
+   "same_item": "close",
+   "note": "'Antique set of brass scale weights housed in a wooden block, 10 weights'.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96.16",
+   "currency": "AUD",
+   "aud_price": 96.16,
+   "date": "2026-10-30",
+   "venue": "eBay (sold, US seller), fixed price or Best Offer",
+   "url": "https://www.ebay.com.au/itm/147592379707",
+   "same_item": "close",
+   "note": "'Vintage Brass Metric Balance Weight Set 2000g Complete Wooden Block'. Complete set, may be Best Offer.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52.75",
+   "currency": "AUD",
+   "aud_price": 52.75,
+   "date": "2026-10-26",
+   "venue": "eBay (sold, US seller), BIN",
+   "url": "https://www.ebay.com.au/itm/206595799923",
+   "same_item": "category guide",
+   "note": "Henry Troemner 10 brass weights in wooden block (named maker).",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$35-100",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2025-07-30 to 2026-09-30",
+   "venue": "Armitage / Gowans (database hint)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997219&chid=28329&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Brass scale and weight sets paid locally A$35-100, median about A$55. Not resale.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py and work/comps.py: 'bell weights brass', 'boxwood rule', 'brass weights set', 'apothecary weights'. No web searches (databases only). No hits for machetes, 2-fold rule makers or spring balances. Exchange rate not needed, all AUD. | chrome: eBay public sold 'brass weights wooden block' (worldwide sellers, Nov 2026 sales). No further searches: lot is clearly under $100.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'antique brass weights wooden block set', 'brass cylinder weights wooden block metric', 'knobbed brass weights set wood box', '2kg brass weight', 'boxwood 2 fold rule 36 inch brass'; also eBay sold 'machete bakelite handle vintage'. Check Leski and Noble past results for 'brass weights block'. Also check rule maker (Rabone, Stanley) once read at viewing.",
+ "viewing_check": "Check the weight tops for gram stamps or verification marks; check the rule face for a maker name (Rabone, Stanley, Chesterman) and whether it is a 'No.' model; machete blades for maker stamps (Collins, Tramontina, Brades) under the rust.",
+ "chrome_done": true
+}

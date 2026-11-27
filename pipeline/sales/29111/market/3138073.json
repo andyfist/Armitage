@@ -1,7 +1,7 @@
 {
  "cdid": 3138073,
  "lot": 1476,
- "identification": "Phillips & Son, Devonport (Tasmania) cream glazed stoneware ginger beer bottle, black transfer roundel 'This bottle is the property of Phillips & Son, Ginger Beer, Devonport', internal screw thread neck, c. early 20th century. Photos show no chips or cracks, light grime. Common-ish Tasmanian bottle; the firm's soda syphons are better known.",
+ "identification": "Phillips & Son, Devonport (Tasmania) cream stoneware ginger beer bottle, black transfer roundel 'This bottle is the property of Phillips & Son, Ginger Beer, Devonport', internal screw thread, blob/bulb top.",
  "entries": [
   {
    "kind": "SOLD",
@@ -35,11 +35,48 @@
    "url": "gowans lot id 395086",
    "same_item": "category guide",
    "note": "Phillips & Son Devonport soda syphon, a different object (glass syphon), shown only for the maker's local demand. Database record, page not opened. AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$75.00",
+   "currency": "AUD",
+   "aud_price": 75.0,
+   "date": "2026-11-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/198782448171",
+   "same_item": "yes",
+   "note": "Phillips & Son Devonport blob top all white ginger beer VGC. Listing shows Best Offer accepted, so excluded from max.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.00",
+   "currency": "AUD",
+   "aud_price": 60.0,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267816825527",
+   "same_item": "close",
+   "note": "Edwards Devonport ginger beer (small stamp), different Devonport maker.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50.00",
+   "currency": "AUD",
+   "aud_price": 50.0,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/267816825204",
+   "same_item": "close",
+   "note": "Edwards Devonport ginger beer (big stamp), different Devonport maker.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'Phillips Devonport ginger beer'; 'stoneware ginger beer Devonport'; 'Tasmanian ginger beer bottle'; 'Phillips & Son'. work/comps.py: 'Phillips Devonport ginger'. No resale (non-local) comps found. Other Armitage syphon hits (2025-26, $20-160) are different objects.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'Phillips Devonport ginger beer'; 'stoneware ginger beer Devonport'; 'Tasmanian ginger beer bottle'; 'Phillips & Son'. work/comps.py: 'Phillips Devonport ginger'. No resale (non-local) comps found. Other Armitage syphon hits (2025-26, $20-160) are different objects. | chrome: eBay AU sold 'phillips son devonport ginger beer' (AU sellers).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/completed: 'Phillips Son Devonport ginger beer bottle', 'Devonport stoneware ginger beer', 'Tasmanian stoneware ginger beer bottle'; Terapeak same terms; also Gowans, Leski, Mossgreen/Lawsons and Facebook/Bottle Collectors Tasmania sold results; check price for variants with this transfer roundel vs impressed stamp.",
- "viewing_check": "Check the rim and base for hairline cracks or chips, any maker stamp on the base (Bendigo, Fowler, Edwards), whether the transfer is crisp, and the neck thread for chips. Photograph the base and the full transfer.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check rim, thread and base for chips or hairline cracks.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

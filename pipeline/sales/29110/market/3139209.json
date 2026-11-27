@@ -1,7 +1,7 @@
 {
  "cdid": 3139209,
  "lot": 2446,
- "identification": "La-Z-Boy Astor Platinum electric lift recliner, dark grey fabric, hand control, sold as is, function unknown. Photos show a clean-looking chair with light fabric wear.",
+ "identification": "Grey fabric electric power lift recliner chair with two-section headrest, hand control tucked in seat, power cord and lead; catalogued as La-Z-Boy Astor Platinum (a real La-Z-Boy Australia range, new A$2,719 fabric, RRP A$3,399). Sold as is.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,48 @@
    "url": "gowans lot id 423127",
    "same_item": "category guide",
    "note": "Black leather lift chair, 4 bids. Database hit."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$2,719",
+   "currency": "AUD",
+   "aud_price": 2719,
+   "date": "2026-11-28",
+   "venue": "La-Z-Boy Australia",
+   "url": "https://la-z-boy.com.au/astor-platinum-lift-chair",
+   "same_item": "yes",
+   "note": "New Astor Platinum lift chair, fabric, sale price (RRP A$3,399). New retail only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$340",
+   "currency": "AUD",
+   "aud_price": 340,
+   "date": "2026-07-29",
+   "venue": "Armitage sale 28328 lot 1283",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2996878&chid=28328&category=ALL&style=group",
+   "same_item": "close",
+   "note": "La-Z-Boy grey fabric lift chair. Paid locally, not a resale price (database hint, page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$1,650",
+   "currency": "AUD",
+   "aud_price": 1650,
+   "date": "2026-08-19",
+   "venue": "Armitage sale 28447 lot 1249",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020419&chid=28447&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Same model but outlier. Paid locally, not opened.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'lift chair', 'La-Z-Boy Astor', 'recliner lift'; work/comps.py same three. No resale comps (Gowans/Armitage only; no new retail price looked up, databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'lift chair', 'La-Z-Boy Astor', 'recliner lift'; work/comps.py same three. No resale comps (Gowans/Armitage only; no new retail price looked up, databases only). | chrome: eBay AU sold 'La-Z-Boy lift chair electric recliner' (AU, parts only), web search and La-Z-Boy AU price page. Gumtree/Facebook not searched (not signed in).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'La-Z-Boy Astor Platinum lift chair'; 'La-Z-Boy lift recliner' (sold, Australia). Gumtree/Facebook Marketplace Tas and Vic for La-Z-Boy Astor lift chair asking prices. La-Z-Boy Australia and Harvey Norman/Amart for new Astor Platinum lift chair retail price (ASKING, new retail). Grays/Lawsons/Pickles for La-Z-Boy lift chair sold results.",
- "viewing_check": "Plug in and run the hand control: check lift, recline and stall under load; look for the La-Z-Boy tag and model label under the chair; check fabric wear on arms and seat, pet hair or odour, and that the power pack and cable are present.",
- "rate_note": "All prices already AUD."
+ "viewing_check": "Find the La-Z-Boy tag under the chair; plug in and cycle lift and recline under load; check hand control, fabric wear, smell, and the power pack.",
+ "rate_note": "All prices already AUD.",
+ "chrome_done": true
 }

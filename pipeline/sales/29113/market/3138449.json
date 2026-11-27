@@ -1,7 +1,7 @@
 {
  "cdid": 3138449,
  "lot": 1857,
- "identification": "Grey steel 12-drawer desktop/floor index or parts cabinet with card-holder handles, mid-century industrial; catalogue says Namco (maker badge on top front illegible in photo). Slim narrow cabinet, not a standard filing cabinet. Rust on bottom drawer and base, worn top.",
+ "identification": "Narrow grey painted steel 12-drawer cabinet (index/parts/filing chest), card-holder handles, H114 W36 D41 cm; maker badge not legible in the 450x600 photo (catalogue says Namco). Surface rust on bottom drawer and base, worn top.",
  "entries": [
   {
    "kind": "SOLD",
@@ -32,10 +32,23 @@
    "url": "https://www.ebay.com.au/itm/257117359453",
    "same_item": "category guide",
    "note": "Roneo England c.1930s-50s two-drawer steel index card cabinet, olive green, brass label holders. Different maker, smaller, better condition. Price listed as AUD in database; not verified by me, database record only."
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$25",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2025-09-10",
+   "venue": "Armitage sale 25574 lot 1892",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2618062&chid=25574&category=ALL&style=group",
+   "same_item": "close",
+   "note": "2 drawer Namco filing cabinet; database record, not opened. Local price only.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'namco filing', 'namco cabinet', 'steel filing cabinet drawer', 'industrial parts cabinet drawer'; work/comps.py: 'namco' (only Namco stools, chairs, electronics and the same 4-drawer Gowans hit). No resale comp for a 12-drawer cabinet in the databases. Common item, so stopped early.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'namco filing', 'namco cabinet', 'steel filing cabinet drawer', 'industrial parts cabinet drawer'; work/comps.py: 'namco' (only Namco stools, chairs, electronics and the same 4-drawer Gowans hit). No resale comp for a 12-drawer cabinet in the databases. Common item, so stopped early. | chrome: Terapeak AU 3yr: three searches above (no condition filter seen).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'vintage industrial 12 drawer steel cabinet', 'multi drawer metal parts cabinet industrial', 'Namco 12 drawer cabinet', 'steel index card cabinet 10 drawer', 'Namco filing chest'. Also Gumtree/Facebook Marketplace Tasmania asking prices for 'industrial drawer cabinet' for local resale ceiling. Check postage/pickup, as freight on a bulky steel cabinet limits eBay sales.",
- "viewing_check": "Read the maker badge on top front (Namco or other), measure width and depth, check every drawer runs and has no missing runners or dividers, extent of rust through the base and lower drawer, and whether the top is solid or rotted."
+ "viewing_check": "Read maker badge, check every drawer runs, rust through base.",
+ "chrome_done": true
 }

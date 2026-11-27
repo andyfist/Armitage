@@ -1,11 +1,184 @@
-{"cdid":3138409,"lot":1817,"identification":"Box lot: enamelled saucepan (rusted), rusty cast iron pressure kerosene stove (maker not visible), nickel-plated vacuum gauge 0-30 inHg (maker unreadable), early nickel-plated acetylene carbide bicycle/motorcycle lamp with red side jewel (maker not legible; possibly Powell & Hanson or Lucas type). Only the lamp has real collector value.","entries":[
-{"kind":"SOLD","price":"$120","currency":"AUD","aud_price":120,"date":"2025-07-28","venue":"Noble Numismatics, Sydney sale 139 lot 434","url":"https://www.noble.com.au/auctions/lot/?id=430637","same_item":"close","note":"Jos. Lucas Acetyphote 317 brass carbide bicycle lamp, aged with oxidation. Named maker, brass; ours unnamed and nickel. Database hit, hammer, AUD assumed (no conversion)."},
-{"kind":"SOLD","price":"$91","currency":"AUD","aud_price":91,"date":"2025-01-17","venue":"eBay AU (Terapeak)","url":"https://www.ebay.com.au/itm/276710923522","same_item":"close","note":"Vintage motoring carbide lamp, nickel-plated brass, reflector and generator, bracket mount, possibly Powell & Hanson. Good comparison for ours; database record, not opened by me."},
-{"kind":"SOLD","price":"$50","currency":"AUD","aud_price":50,"date":"2014-11-18","venue":"Noble Numismatics, Sydney sale 107 lot 1159","url":"https://www.noble.com.au/auctions/lot/?id=285647","same_item":"close","note":"Panther by P & H, early 1900s motorcycle/bicycle lamp, nickel and glass. Old sale (12 years), weak guide."},
-{"kind":"SOLD","price":"$60","currency":"AUD","aud_price":60,"date":"2024-07-29","venue":"Noble Numismatics, Sydney sale 136 lot 339","url":"https://www.noble.com.au/auctions/lot/?id=420568","same_item":"category guide","note":"Miner's helmet carbide lamp, brass Demon. Different type of lamp, category guide only."},
-{"kind":"SOLD","price":"$60","currency":"AUD","aud_price":60,"date":"2026-09-27","venue":"Gowans Auctions, Hobart (paid locally)","url":"gowans lot id 440851","same_item":"close","note":"1930s bicycle carbide lamp. Paid locally: what we might pay, not a resale price."},
-{"kind":"SOLD","price":"$45","currency":"AUD","aud_price":45,"date":"2026-11-11","venue":"Armitage Auctions, Launceston sale 28977 lot 1416 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112321&chid=28977&category=ALL&style=group","same_item":"close","note":"Vintage motoring carbide lamp. Paid locally: cost guide only."},
-{"kind":"SOLD","price":"$320","currency":"AUD","aud_price":320,"date":"2026-06-17","venue":"Armitage Auctions, Launceston sale 28015 lot 1511 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2946537&chid=28015&category=ALL&style=group","same_item":"category guide","note":"Motorcycle carbide lamp SET, not a single lamp. Paid locally: cost guide only."},
-{"kind":"SOLD","price":"$57-98 (four eBay sales)","currency":"AUD","aud_price":94,"date":"2024-10 to 2025-11","venue":"eBay AU (Terapeak), listing group lot 1456","url":"https://www.ebay.com.au/itm/236434642415","same_item":"category guide","note":"Lane's Thermil / brass Primus-type camp stoves. Ours is a rusty cast iron stove, likely much lower; category guide only."},
-{"kind":"SOLD","price":"$50","currency":"AUD","aud_price":50,"date":"2025-05-07","venue":"Armitage Auctions, Launceston sale 23991 lot 1463 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491436&chid=23991&category=ALL&style=group","same_item":"category guide","note":"Westinghouse vacuum gauge. Paid locally: cost guide only. Ours has no readable maker."}
-],"searches_tried":"pipeline comps.py: carbide lamp; acetylene lamp (no hits); kerosene pressure stove; vacuum gauge; bicycle lamp. work comps.py: carbide lamp. No web used.","needs_chrome":true,"chrome_hint":"eBay AU sold + Terapeak: 'carbide bicycle lamp nickel red jewel', 'Powell Hanson Ful-Lite Pathfinder carbide lamp', 'Lucas Acetyphote carbide lamp', 'vintage acetylene bicycle lamp'; eBay sold 'vacuum gauge 30 inHg nickel' and 'kerosene pressure stove cast iron'. Also Noble Numismatics archive 'carbide lamp'.","viewing_check":"Read the maker name and model on the lamp (body, door, burner, generator base) and any stamp such as P&H, Lucas, Miller, Solar; check lens and jewel intact and generator complete. Also photograph the gauge dial maker name and any stove maker mark on tank or burner.","rate_note":"All figures AUD, no conversion."}
+{
+ "cdid": 3138409,
+ "lot": 1817,
+ "identification": "Box lot: unnamed nickel-plated carbide (acetylene) bicycle lamp with red side jewel and front generator, rusty cast iron kerosene pressure stove burner, enamel saucepan with long handle (chipped, rusted), round vacuum gauge 0-30 on a mounting flange, small rusty buckle.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2025-07-28",
+   "venue": "Noble Numismatics, Sydney sale 139 lot 434",
+   "url": "https://www.noble.com.au/auctions/lot/?id=430637",
+   "same_item": "close",
+   "note": "Jos. Lucas Acetyphote 317 brass carbide bicycle lamp, aged with oxidation. Named maker, brass; ours unnamed and nickel. Database hit, hammer, AUD assumed (no conversion)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$91",
+   "currency": "AUD",
+   "aud_price": 91,
+   "date": "2025-01-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/276710923522",
+   "same_item": "close",
+   "note": "Vintage motoring carbide lamp, nickel-plated brass, reflector and generator, bracket mount, possibly Powell & Hanson. Good comparison for ours; database record, not opened by me."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2014-11-18",
+   "venue": "Noble Numismatics, Sydney sale 107 lot 1159",
+   "url": "https://www.noble.com.au/auctions/lot/?id=285647",
+   "same_item": "close",
+   "note": "Panther by P & H, early 1900s motorcycle/bicycle lamp, nickel and glass. Old sale (12 years), weak guide."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2024-07-29",
+   "venue": "Noble Numismatics, Sydney sale 136 lot 339",
+   "url": "https://www.noble.com.au/auctions/lot/?id=420568",
+   "same_item": "category guide",
+   "note": "Miner's helmet carbide lamp, brass Demon. Different type of lamp, category guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-09-27",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 440851",
+   "same_item": "close",
+   "note": "1930s bicycle carbide lamp. Paid locally: what we might pay, not a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-11-11",
+   "venue": "Armitage Auctions, Launceston sale 28977 lot 1416 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112321&chid=28977&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Vintage motoring carbide lamp. Paid locally: cost guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$320",
+   "currency": "AUD",
+   "aud_price": 320,
+   "date": "2026-06-17",
+   "venue": "Armitage Auctions, Launceston sale 28015 lot 1511 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2946537&chid=28015&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Motorcycle carbide lamp SET, not a single lamp. Paid locally: cost guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$57-98 (four eBay sales)",
+   "currency": "AUD",
+   "aud_price": 94,
+   "date": "2024-10 to 2025-11",
+   "venue": "eBay AU (Terapeak), listing group lot 1456",
+   "url": "https://www.ebay.com.au/itm/236434642415",
+   "same_item": "category guide",
+   "note": "Lane's Thermil / brass Primus-type camp stoves. Ours is a rusty cast iron stove, likely much lower; category guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2025-05-07",
+   "venue": "Armitage Auctions, Launceston sale 23991 lot 1463 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491436&chid=23991&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Westinghouse vacuum gauge. Paid locally: cost guide only. Ours has no readable maker."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$67",
+   "currency": "AUD",
+   "aud_price": 67,
+   "date": "2024-03-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134954469422",
+   "same_item": "close",
+   "note": "P&H Sultan carbide bicycle lamp, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2024-05-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156218413516",
+   "same_item": "close",
+   "note": "Simplex carbide bicycle lamp, Fixed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$54",
+   "currency": "AUD",
+   "aud_price": 54,
+   "date": "2024-02-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/165660045446",
+   "same_item": "close",
+   "note": "P&H The Revenge carbide bicycle lamp, Fixed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$79",
+   "currency": "AUD",
+   "aud_price": 79,
+   "date": "2026-10-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/177694988267",
+   "same_item": "close",
+   "note": "Herm Riemann Phaenomen carbide bicycle lamp, Fixed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$67",
+   "currency": "AUD",
+   "aud_price": 67,
+   "date": "2025-02-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/205297300990",
+   "same_item": "close",
+   "note": "Panther Birmingham carbide bicycle lamp, Fixed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48",
+   "currency": "AUD",
+   "aud_price": 48,
+   "date": "2025-04-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/197167790996",
+   "same_item": "close",
+   "note": "Herm Riemann Piccolo carbide lamp, auction",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline comps.py: carbide lamp; acetylene lamp (no hits); kerosene pressure stove; vacuum gauge; bicycle lamp. work comps.py: carbide lamp. No web used. | chrome: Terapeak AU 3 yrs sold: 'carbide bicycle lamp'. Database hints (Noble A$120 Lucas, Gowans, Armitage) not used as resale.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'carbide bicycle lamp nickel red jewel', 'Powell Hanson Ful-Lite Pathfinder carbide lamp', 'Lucas Acetyphote carbide lamp', 'vintage acetylene bicycle lamp'; eBay sold 'vacuum gauge 30 inHg nickel' and 'kerosene pressure stove cast iron'. Also Noble Numismatics archive 'carbide lamp'.",
+ "viewing_check": "Look for maker name on lamp body, door, generator base; gauge maker; stove maker mark.",
+ "rate_note": "All figures AUD, no conversion.",
+ "chrome_done": true
+}

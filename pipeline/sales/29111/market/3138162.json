@@ -1,7 +1,7 @@
 {
  "cdid": 3138162,
  "lot": 1566,
- "identification": "Paslode Impulse cordless gas finish/brad nailer (IM65/IM250 series, older NiCd-style taped battery pack), orange case, charger base, brads, hex key, manual. Plate unreadable. Photos confirm orange hard case, worn silver labels, battery taped with red tape and rewired.",
+ "identification": "Paslode Impulse cordless gas straight/angled finish (16ga brad) nailer, older NiCd-era IM65/IM250 type (orange body, silver labels worn off), in orange hard case with charger base, a taped and rewired battery pack (red tape), strip of brads and hex key. Model plate unreadable; working order unknown.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,36 @@
    "url": "gowans lot id 425312",
    "same_item": "category guide",
    "note": "Impulse framing nailer lithium generation; different class. Paid locally (not a competitive auction): shows what we might pay, never resale. Local database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$350.00",
+   "currency": "AUD",
+   "aud_price": 350,
+   "date": "2026-10-01",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/800658406325",
+   "same_item": "close",
+   "note": "Paslode Impulse IM250S straight finish nailer, pre-owned, Buy It Now A$350 (A$340 with coupon), free delivery. Newer Li-ion IM250S generation and presumably working, so it is above what this old taped-battery NiCd unit would bring.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$191.50",
+   "currency": "AUD",
+   "aud_price": 191.5,
+   "date": "2026-10-22",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/800823586096",
+   "same_item": "category guide",
+   "note": "Paslode Impulse 16ga framing gun, pre-owned; price shown is Best Offer, so NOT counted toward max. Framing tool, different class.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'paslode impulse', 'paslode nailer', 'paslode', 'brad nailer'; work comps.py: 'paslode'. Only Armitage/Gowans (paid locally) hits; no resale comps. No web used per instruction. New retail price not obtainable from databases (needs Chrome).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'paslode impulse', 'paslode nailer', 'paslode', 'brad nailer'; work comps.py: 'paslode'. Only Armitage/Gowans (paid locally) hits; no resale comps. No web used per instruction. New retail price not obtainable from databases (needs Chrome). | chrome: Terapeak AU 3yr 'paslode impulse finish nailer' (Condition filter, mostly parts; no useful rows) and 'paslode im250 nailer kit' (Condition filter; new Li-ion kits). eBay AU public sold: 'paslode impulse IM65 IM250 nailer case' (&_salic=15) and 'paslode impulse nail gun used IM65' (AU sellers only).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: 'Paslode Impulse IM65 finish nailer', 'Paslode IM250 straight finish', 'Paslode IM65A F16', 'Paslode Impulse brad nailer battery'; Terapeak same; Gumtree/Facebook Marketplace AU for Paslode IM65/IM250 used; replacement battery price for IM65 (6V NiCd, to cost a rebuild); new retail from Paslode Australia/Bunnings/Sydney Tools/Total Tools for IM65A F16 (ASKING, new retail).",
- "viewing_check": "Read model plate/serial (IM65, IM65A, IM250, F16 or F18 gauge) on gun body and under silver labels; check battery: does it hold charge and charger light up; test fire if allowed; check for fuel cell, driver wear, magazine damage and cracked case. Note that taped/rewired battery likely needs replacement.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Read the model on the body (IM65, IM65A, IM250, IM250A, F16/F18), check the battery pack voltage and whether the charger lights, test fire if allowed, check driver blade, magazine and the case.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

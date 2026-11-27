@@ -1,1 +1,133 @@
-{"cdid":3138388,"lot":1795,"identification":"Box lot of old farm and rigging items: pair of blade sheep hand shears with leather sheath (illegible maker stamp), two wooden pulley blocks with rope, two old cast padlocks (one painted), chain, large iron bale/hay hook with wooden handle. Rusty, common, low value.","entries":[{"kind":"SOLD","price":"A$25-50 (sheep shears with scissors, Gowans, 2026)","aud_price":25,"date":"2026-07-12 to 2026-09-27","venue":"Gowans Auctions, Hobart (paid locally, not a resale price)","url":"gowans lot id 441227; 431101; 422818","same_item":"close","note":"Local sale only: shows what we might pay. Sheep shears sold in small lots at $15-50. Database hit, no page opened."},{"kind":"SOLD","price":"A$20-60 (hand shears lots, Armitage, 2025-2026)","aud_price":35,"date":"2025-03-26 to 2026-10-21","venue":"Armitage Auctions, Launceston (paid locally, not a resale price)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088765&chid=28841&category=ALL&style=group","same_item":"close","note":"Local sale only; hand shears usually bundled with other tools, median about $35. Database hit."},{"kind":"SOLD","price":"A$15-70 (bale hook lots)","aud_price":40,"date":"2025-06-18 to 2025-12-08","venue":"Armitage and Gowans (paid locally, not a resale price)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2560161&chid=25107&category=ALL&style=group","same_item":"close","note":"Local sale only, bale hooks in mixed lots, median about $42. Database hit."},{"kind":"SOLD","price":"A$65-80 (pulley blocks, Gowans)","aud_price":72,"date":"2025-11-10 to 2026-03-30","venue":"Gowans Auctions, Hobart (paid locally, not a resale price)","url":"gowans lot id 400931; 373571","same_item":"close","note":"Local sale only: one and two pulley blocks. Database hit."},{"kind":"SOLD","price":"A$100-160 (nautical groups with pulley blocks)","aud_price":160,"date":"2016-10-17 to 2017-05-30","venue":"Leski Auctions, Melbourne","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/221","same_item":"category guide","note":"Mixed maritime groups, not this lot; old and ships-grade blocks, well over 9 years old. Database hit, page not opened."},{"kind":"SOLD","price":"A$41-60 (4 brass padlocks inc Jacksons)","aud_price":50,"date":"2026-03-28 to 2026-09-29","venue":"eBay AU (Terapeak)","url":"https://www.ebay.com.au/itm/157723215913","same_item":"category guide","note":"Solid brass padlocks with keys; this lot has rusty cast iron padlocks, worth less. Database hit only."}],"searches_tried":"pipeline comps.py: sheep shears; hand shears; padlock; pulley block; bale hook; shears. work comps.py: sheep shears. No true resale comps for this item; generic rusty farm lot.","needs_chrome":true,"chrome_hint":"eBay AU sold: 'antique sheep hand shears leather bow'; 'vintage bale hook wooden handle'; 'vintage wooden pulley block rope'; 'old cast iron padlock'. Terapeak for the same. Optionally Gowans/Leski for blocks.","viewing_check":"Look at the shears blade stamp (maker, e.g. Wolstenholme, Burgon & Ball, Sheffield), padlock markings and any key, and pulley block makers marks or brass sheaves. Otherwise common rusty items.","rate_note":"All prices AUD, no conversion."}
+{
+ "cdid": 3138388,
+ "lot": 1795,
+ "identification": "Box lot of old farm and rigging items: pair of blade sheep hand shears (leather bow, string-bound, maker stamp not readable) with leather sheath, two wooden pulley blocks with rope and iron hooks, two old cast padlocks (one painted), short chain, large iron bale hook with wooden handle. Rusty throughout.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$25-50 (sheep shears with scissors, Gowans, 2026)",
+   "aud_price": 25,
+   "date": "2026-07-12 to 2026-09-27",
+   "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+   "url": "gowans lot id 441227; 431101; 422818",
+   "same_item": "close",
+   "note": "Local sale only: shows what we might pay. Sheep shears sold in small lots at $15-50. Database hit, no page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20-60 (hand shears lots, Armitage, 2025-2026)",
+   "aud_price": 35,
+   "date": "2025-03-26 to 2026-10-21",
+   "venue": "Armitage Auctions, Launceston (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088765&chid=28841&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Local sale only; hand shears usually bundled with other tools, median about $35. Database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$15-70 (bale hook lots)",
+   "aud_price": 40,
+   "date": "2025-06-18 to 2025-12-08",
+   "venue": "Armitage and Gowans (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2560161&chid=25107&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Local sale only, bale hooks in mixed lots, median about $42. Database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$65-80 (pulley blocks, Gowans)",
+   "aud_price": 72,
+   "date": "2025-11-10 to 2026-03-30",
+   "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+   "url": "gowans lot id 400931; 373571",
+   "same_item": "close",
+   "note": "Local sale only: one and two pulley blocks. Database hit."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100-160 (nautical groups with pulley blocks)",
+   "aud_price": 160,
+   "date": "2016-10-17 to 2017-05-30",
+   "venue": "Leski Auctions, Melbourne",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/221",
+   "same_item": "category guide",
+   "note": "Mixed maritime groups, not this lot; old and ships-grade blocks, well over 9 years old. Database hit, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$41-60 (4 brass padlocks inc Jacksons)",
+   "aud_price": 50,
+   "date": "2026-03-28 to 2026-09-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157723215913",
+   "same_item": "category guide",
+   "note": "Solid brass padlocks with keys; this lot has rusty cast iron padlocks, worth less. Database hit only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.58",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2025-01-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156457846579",
+   "same_item": "close",
+   "note": "Antique hand shearing sheep shears, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$27.80",
+   "currency": "AUD",
+   "aud_price": 28,
+   "date": "2025-01-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/285617935040",
+   "same_item": "close",
+   "note": "Vintage UTS sheep hand shears, Sheffield",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.23",
+   "currency": "AUD",
+   "aud_price": 32,
+   "date": "2025-03-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167127031465",
+   "same_item": "close",
+   "note": "Antique Hind's Patent hand shears, made in England",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$26.96",
+   "currency": "AUD",
+   "aud_price": 27,
+   "date": "2026-05-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/178135374400",
+   "same_item": "close",
+   "note": "Antique Harp brand cast steel hand sheep shears",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25.90",
+   "currency": "AUD",
+   "aud_price": 26,
+   "date": "2026-11-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/236511764092",
+   "same_item": "close",
+   "note": "Antique/vintage hand sheep shears, made in England",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline comps.py: sheep shears; hand shears; padlock; pulley block; bale hook; shears. work comps.py: sheep shears. No true resale comps for this item; generic rusty farm lot. | chrome: Terapeak AU 'antique sheep hand shears' 3 years (12+ rows; condition filter not visibly selected).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold: 'antique sheep hand shears leather bow'; 'vintage bale hook wooden handle'; 'vintage wooden pulley block rope'; 'old cast iron padlock'. Terapeak for the same. Optionally Gowans/Leski for blocks.",
+ "viewing_check": "Read the shears blade stamp (maker), padlock markings and any key, pulley block makers' marks.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
+}

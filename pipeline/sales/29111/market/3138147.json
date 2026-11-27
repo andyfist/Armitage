@@ -1,7 +1,7 @@
 {
  "cdid": 3138147,
  "lot": 1551,
- "identification": "Tray of mixed garage items: Shell 1 lb grease tin (red/yellow, worn), tin labelled '...ETHENE' (cleaner, Chemical Co. U.S.A.) with long spout, copper pump oiler, cone oilers, two brass pencil oilers, rusty square oil can, plastic squeeze bottle. Common petroliana, rust and wear.",
+ "identification": "Tray of petroliana: Shell 1lb grease tin (worn), a yellow Plus-Ethene-style tin with long spout oiler, copper thumb-press oiler, cone oilers, two brass pencil oilers, rusty square oil can, plastic squeeze bottle.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,60 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997096&chid=28329&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Shell, Caltex and Neptune 1 lb grease tins, several tins. Paid locally. AUD, no conversion. From local database line, listing page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$38.07",
+   "currency": "AUD",
+   "aud_price": 38.07,
+   "date": "2026-11-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/137929197990",
+   "same_item": "close",
+   "note": "Lot of vintage oilers and oil tins for display; fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$66.40",
+   "currency": "AUD",
+   "aud_price": 66.4,
+   "date": "2025-04-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326372256490",
+   "same_item": "category guide",
+   "note": "Lot of 3 vintage Rega thumb press oiler pumps; fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$39.31",
+   "currency": "AUD",
+   "aud_price": 39.31,
+   "date": "2025-06-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/226497399674",
+   "same_item": "category guide",
+   "note": "Lot of 3 vintage bottom press oiler pumps; fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.50",
+   "currency": "AUD",
+   "aud_price": 47.5,
+   "date": "2025-03-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326372251129",
+   "same_item": "category guide",
+   "note": "Lot of 2 blue Rega thumb press oilers; fixed price",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'shell grease tin', 'oiler brass', 'oil tin petroliana', 'oil can', 'oiler', 'Shell grease tin 1lb' (no hits), 'oilers tray', 'pencil oiler' (no hits); work/comps.py: 'shell oil tin'.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'shell grease tin', 'oiler brass', 'oil tin petroliana', 'oil can', 'oiler', 'Shell grease tin 1lb' (no hits), 'oilers tray', 'pencil oiler' (no hits); work/comps.py: 'shell oil tin'. | chrome: Terapeak AU 3y 'oil tins oilers lot' (no condition filter shown)",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Shell grease tin 1lb'; 'vintage brass oiler lot'; 'copper pump oiler'; 'brass pencil oiler'; '\"ethene\" oil tin Chemical Co'; 'petroliana oil tin lot'. Also Facebook/Gumtree petroliana for asking prices.",
- "viewing_check": "Look at the '...ETHENE' tin label for the full name and maker, the Shell tin for any rarity (older logo, pecten style), and whether the brass pencil oilers are marked (maker, Eagle, Wakefield). Otherwise common.",
- "rate_note": "All AUD."
+ "viewing_check": "Read oiler tin label and Shell tin logo era.",
+ "rate_note": "All AUD.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138294,
  "lot": 1699,
- "identification": "Tourist/souvenir kukri (Nepal), decorated timber scabbard with brass inlay, likely mid-late 20th century, no maker or arsenal marks seen.",
+ "identification": "Tourist-grade Nepalese/Indian kukri (about 40cm blade), faintly engraved blade with cho notch, turned timber grip with brass bolster and pommel, timber scabbard with brass bands and inlaid brass bird/fish motifs, no karda/chakmak. Likely mid-late 20th century.",
  "entries": [
   {
    "kind": "SOLD",
@@ -156,11 +156,72 @@
    "url": "gowans lot id 367049",
    "same_item": "close",
    "note": "PAID LOCALLY, not a resale price: 2 vintage kukri knives. Database record (comps.py), AUD so no conversion; hammer, premium excluded."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$118.61",
+   "currency": "AUD",
+   "aud_price": 118.61,
+   "date": "2026-08-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/147495210516",
+   "same_item": "close",
+   "note": "Vintage 1967-68 military Gurkha kukri in scabbard with 2 small blades, auction 4 bids (stronger military-type)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100.11",
+   "currency": "AUD",
+   "aud_price": 100.11,
+   "date": "2024-06-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156257235068",
+   "same_item": "close",
+   "note": "Vintage Nepalese Gurkha kukri fighting knife with scabbards, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$261.02",
+   "currency": "AUD",
+   "aud_price": 261.02,
+   "date": "2026-07-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157818784120",
+   "same_item": "close",
+   "note": "Nepal khukuri 40cm with scabbard, fixed price (upper outlier)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$158.94",
+   "currency": "AUD",
+   "aud_price": 158.94,
+   "date": "2024-02-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126338314746",
+   "same_item": "category guide",
+   "note": "Indian Army Ghurka kukri PAIR no scabbard, auction 9 bids (not like for like)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$81.67",
+   "currency": "AUD",
+   "aud_price": 81.67,
+   "date": "2026-03-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/266041235451",
+   "same_item": "category guide",
+   "note": "New custom handmade kukri with scabbard, 28 sold (new import price level)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: kukri; gurkha knife; ghurka kukri scabbard; khukuri. work/comps.py: kukri. No web searches (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: kukri; gurkha knife; ghurka kukri scabbard; khukuri. work/comps.py: kukri. No web searches (databases only). | chrome: Terapeak AU 3yr: 'kukri brass inlay scabbard' (nothing), 'kukri scabbard' (6+ rows).",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: 'kukri brass inlay scabbard' and 'gurkha kukri souvenir timber scabbard'; Terapeak same terms, last 12 months; Noble Numismatics archive 'kukri'; LiveAuctioneers/Invaluable sold 'kukri brass inlaid scabbard'. Look for SOLD prices on tourist kukris with decorated scabbards.",
- "viewing_check": "Check ricasso and blade for any stamp (maker, arsenal, date, 'MKII' or Indian ordnance marks); whether the blade is steel with a tang through the grip; scabbard condition (inlay loose, missing karda/chakmak) and pitting depth. A military stamp would lift value well above tourist grade.",
- "rate_note": "All database prices already AUD; no conversion."
+ "viewing_check": "Check ricasso/blade for stamps (arsenal, date, MKII), tang, scabbard inlay condition.",
+ "rate_note": "All database prices already AUD; no conversion.",
+ "chrome_done": true
 }

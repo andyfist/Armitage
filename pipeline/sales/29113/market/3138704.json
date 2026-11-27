@@ -1,7 +1,7 @@
 {
  "cdid": 3138704,
  "lot": 2112,
- "identification": "Mixed rusty workshop tub: old cast iron bench vice (maker not legible), Dietz-style hurricane lantern, two braces, auger bits, several rabbit traps (makers not legible), wooden blower-like item, spade heads, hacksaw, mallet, wrecking bars. Mostly low-value user items; traps and vice are the main interest.",
+ "identification": "Mixed rusty workshop pile: small old cast iron bench vice (no maker visible, roughly 3 inch), grey Dietz-style hurricane lantern (looks modern/reproduction), one or two rusty rabbit trap mechanisms tangled together, round wooden bellows/block item, two carpenter's braces, auger bit, hand saw, two spade/shovel heads, hacksaw frame, sledge head, bars, golf club head.",
  "entries": [
   {
    "kind": "SOLD",
@@ -59,8 +59,9 @@
    "note": "Boxes and tubs of rabbit traps $25-$140; bench vices $20-$145 (Dawn/Record named ones top end). Paid locally: not a resale price."
   }
  ],
- "searches_tried": "pipeline comps.py: rabbit trap; bench vice; hurricane lantern; Lane trap; Sidebottom; Dietz lantern; carpenters brace; forge bellows; auger bits. work/comps.py: rabbit trap. No resale (non-local) rabbit trap comps found; no brace, bellows or auger sold comps.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: rabbit trap; bench vice; hurricane lantern; Lane trap; Sidebottom; Dietz lantern; carpenters brace; forge bellows; auger bits. work/comps.py: rabbit trap. No resale (non-local) rabbit trap comps found; no brace, bellows or auger sold comps. | chrome: eBay AU public sold: 'vintage rabbit traps lot' (traps A$22-43 each, trap setter hoes A$29-101), 'vintage cast iron bench vice small' (A$24-33). One-line verdict: clearly under A$100 as a lot, skip.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Lane rabbit trap', 'Sidebottom rabbit trap', 'vintage rabbit trap lot', 'Victor rabbit trap'; 'cast iron bench vice vintage' (sold); 'vintage carpenters brace' (sold); 'Dietz hurricane lantern' (sold). Also Gowans/Leski/Carter's sold results for 'rabbit traps' and 'vice' to confirm resale levels.",
- "viewing_check": "Check rabbit trap makers stamped on plates or jaws (Lane, Sidebottom, Victor, Sheffield marks) and count them; look for a maker name on the vice (Record, Parkinson, Woden, Dawn) and size; lantern maker embossed on font or cap (Dietz, Harvey Shaw & Drake); maker stamps on braces (Spofforth, Sheffield)."
+ "viewing_check": "Check vice for maker name, traps for Lane/Sidebottom stamps; if a named trap or Record vice is there, still only about A$40 each.",
+ "chrome_done": true
 }

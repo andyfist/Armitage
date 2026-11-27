@@ -1,7 +1,7 @@
 {
  "cdid": 3138422,
  "lot": 1830,
- "identification": "Sundstrom (Sweden) SR-70 compressed air hood kit (andningsskyddspaket SR-70) in the maker's wooden flight case: Gast-type oil-less rotary vane air pump on a Dayton electric motor with filter/regulator, long white air hose, SR-63 hood instruction sheet. Hood itself not seen in photos, so possibly incomplete. Pen on case reads roughly 'Spray paint contractors'. Vintage (likely 1980s), niche spray-painting/industrial safety item.",
+ "identification": "Sundstrom (Sweden) SR-70 'andningsskyddspaket' supplied-air breathing kit in its plywood/aluminium-edged carry case: oil-less rotary vane air pump (Gast-type head) on a Dayton electric motor with Sundstrom label, outlet filter/regulator with blue bowl cap, AU 3-pin plug, about 15-20 m white breathing air hose, and Sundstrom 'Compressed Air Programme' leaflet for the SR-63 Compressed Air Hood. NO HOOD, belt or valve seen in any photo, so the SR-63 hood itself is probably missing (title names it from the leaflet).",
  "entries": [
   {
    "kind": "SOLD",
@@ -13,11 +13,84 @@
    "url": "gowans lot id 428363",
    "same_item": "category guide",
    "note": "TRITON POWERED RESPIRATOR & ELECTRIC THICKNESSER (15 bids). Different item and a combined lot. Paid locally: what we might pay, NOT a resale price. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$489.78",
+   "currency": "AUD",
+   "aud_price": 489.78,
+   "date": "2024-03-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/314838778782",
+   "same_item": "close",
+   "note": "Gast 0523-101Q 1/4 HP rotary vane pump, Marathon motor, single sale, fixed price + A$119 post. Our pump looks like the same Gast family but model unread.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$541.64",
+   "currency": "AUD",
+   "aud_price": 541.64,
+   "date": "2025-04-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145053120629",
+   "same_item": "close",
+   "note": "Gast 0523-P541Q 1/4 HP pump, 4 sold at this price, free post - likely new/dealer stock.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$345.91",
+   "currency": "AUD",
+   "aud_price": 345.91,
+   "date": "2026-11-21",
+   "venue": "eBay US (Terapeak, AUD shown)",
+   "url": "https://www.ebay.com.au/itm/405401940245",
+   "same_item": "close",
+   "note": "Gast 0523-103Q pump, 40 sold - dealer stock, US.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$568.34",
+   "currency": "AUD",
+   "aud_price": 568.34,
+   "date": "2024-11-08",
+   "venue": "eBay US (Terapeak, AUD shown)",
+   "url": "https://www.ebay.com.au/itm/395536814077",
+   "same_item": "close",
+   "note": "Gast 0523-101Q-G588NDX, 9 sold - dealer, likely new/rebuilt.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$109.53",
+   "currency": "AUD",
+   "aud_price": 109.53,
+   "date": "2025-01-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176132283396",
+   "same_item": "category guide",
+   "note": "Gast 1031 vacuum pump, used, smaller - shows used single pumps go much lower.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$589.55",
+   "currency": "AUD",
+   "aud_price": 589.55,
+   "date": "2026-03-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/124903397826",
+   "same_item": "category guide",
+   "note": "Sundstrom SR307 compressed air attachment (new, 7 sold) - shows Sundstrom air parts are dear new, but a different part.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'sundstrom air hood', 'sundstrom SR', 'supplied air respirator', 'Gast air pump', 'respirator', 'air pump vane'; work/comps.py: 'sundstrom', 'respirator'. No same-item hits; only a Gowans Triton respirator (category guide) and unrelated Armitage respirator lots (not recorded, not comparable).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'sundstrom air hood', 'sundstrom SR', 'supplied air respirator', 'Gast air pump', 'respirator', 'air pump vane'; work/comps.py: 'sundstrom', 'respirator'. No same-item hits; only a Gowans Triton respirator (category guide) and unrelated Armitage respirator lots (not recorded, not comparable). | chrome: Terapeak (no condition filter): EBAY-AU 'sundstrom air' (only SR100 masks, SR500 PAPR, SR307 attachment, SR550 hose), EBAY-US 'sundstrom sr-70' (none), EBAY-AU 'gast pump', 'gast 0523', EBAY-US 'gast 0523 pump'.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU and eBay.com sold/completed: 'Sundstrom SR-70', 'Sundstrom compressed air hood', 'Sundstrom SR 63 hood', 'Sundstrom SR-70 air pump kit'; also 'Gast 0522 rotary vane pump' and 'Gast 1531 pump' sold for the pump alone (Terapeak if available). Check Sundstrom/Sundstrom Safety (Sweden) and Dayton motor model on the plate. Also Gumtree/Facebook for supplied-air spray hood kits and new retail of a comparable supplied-air hood kit (e.g. 3M Versaflo/Speedglas air-fed, Australian safety retailers) as an ASKING entry for scale only.",
- "viewing_check": "Photograph the pump and motor nameplates (Gast model number, Dayton model, voltage; AU plug/240V or 110V US?). Open the case and confirm a hood/helmet, breathing tube, belt and fittings are present and perishable parts (hood visor, seals) are not perishing. Check the pump runs and the filter bowl is intact. A missing hood sharply cuts value to roughly the pump alone.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check whether an SR-63 hood/belt/valve is anywhere in the case; read pump and motor plates (Gast model, 240 V); run the pump.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138610,
  "lot": 2018,
- "identification": "Mixed lot: D-handle spade, D-handle garden fork, two sledgehammers, small Fiskars X-series splitting hatchet (orange/black), and a pair of steel-leg, timber-top saw horses with orange legs. Used, rusty, paint splatter.",
+ "identification": "Garden tool lot: D-handle steel spade, D-handle garden fork, two sledgehammers (rusty heads, one short and one long handle), one small Fiskars X-series hatchet (orange/black, about 35 cm, looks like X7), plus pair of steel-leg timber-top saw horses with orange paint.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,84 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997365&chid=28330&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Pair of saw horses; other pairs $30-45 at Armitage/Gowans in 2026. PAID LOCALLY: shows what we might pay, not a resale price. Local database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$49.74",
+   "currency": "AUD",
+   "aud_price": 49.74,
+   "date": "2026-10-08",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/sch/i.html?_nkw=fiskars+x7+hatchet+used&LH_Sold=1&LH_Complete=1&LH_ItemCondition=3000",
+   "same_item": "close",
+   "note": "Fiskars Hatchet 14 in (78506984) pre-owned, sharpened, BIN, US seller; only used Fiskars hatchet sold found. Item number not captured from the public search page, so no link",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.75",
+   "currency": "AUD",
+   "aud_price": 59.75,
+   "date": "2025-07-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/197544887064",
+   "same_item": "close",
+   "note": "Fiskars X7 hatchet wood splitter (condition not stated, Terapeak row)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$54.17",
+   "currency": "AUD",
+   "aud_price": 54.17,
+   "date": "2025-08-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/388808488956",
+   "same_item": "close",
+   "note": "Fiskars 14in X7 hatchet with sharpener (Terapeak, probably new)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90.02",
+   "currency": "AUD",
+   "aud_price": 90.02,
+   "date": "2025-05-09",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/262348328549",
+   "same_item": "close",
+   "note": "Fiskars Chopping Axe Hatchet X7 (Terapeak, probably new)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$93.99",
+   "currency": "AUD",
+   "aud_price": 93.99,
+   "date": "2026-08-01",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/197255329523",
+   "same_item": "category guide",
+   "note": "Fiskars X7 hatchet Brand New (new price guide)",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$35",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-07-29",
+   "venue": "Armitage sale 28330 lot 1772 (pair of saw horses)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997365&chid=28330&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Database record only; paid locally, not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: fiskars hatchet (none), fiskars x-series axe (6 Terapeak hits), fiskars, saw horses, garden fork spade, sledgehammer (none), garden tools; work/comps.py: fiskars axe (none).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: fiskars hatchet (none), fiskars x-series axe (6 Terapeak hits), fiskars, saw horses, garden fork spade, sledgehammer (none), garden tools; work/comps.py: fiskars axe (none). | chrome: Terapeak AU 3yr: fiskars x7 hatchet (mostly new; condition filter chip not selected). eBay AU public sold, Pre-owned filter: fiskars x7 hatchet used (1 relevant sale). Verdict: under A$110 whole lot, max 0.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Fiskars X7 hatchet', 'Fiskars X-series hatchet 36cm', 'Fiskars X10 splitting axe', 'sledge hammer 4lb 6lb 10lb wooden handle', 'pair steel saw horses trestles'. Also Gumtree/Facebook Marketplace Tasmania for saw horses and used spades/forks. Note new retail price in Australia for the Fiskars X7 (Bunnings, Mitre 10) as ASKING.",
- "viewing_check": "Check the Fiskars model on the head or handle (X7 hatchet vs X11/X25 splitting axe, length), the weight stamped on sledgehammer heads, handle condition and cracks, and whether the saw horse legs are sturdy.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Fiskars model on handle, sledge weights, handle cracks.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

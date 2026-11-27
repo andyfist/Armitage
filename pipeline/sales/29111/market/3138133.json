@@ -1,7 +1,7 @@
 {
  "cdid": 3138133,
  "lot": 1537,
- "identification": "Plumb (USA) single bit felling axe, stamped PLUMB U.S.A., head wire brushed with light pitting, hickory handle sound. Likely mid-20th century Plumb Fayetteville/Philadelphia era; weight stamp and any Fayetteville or Hytest marking not visible.",
+ "identification": "Plumb (USA) single bit axe, curved hickory handle, head cleaned/wire brushed. Stamped PLUMB U.S.A. on the poll. Weight stamp not visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,72 @@
    "url": "gowans lot id 389467",
    "same_item": "close",
    "note": "5 pound Plumb axe. Paid locally (what we might pay), not a resale price. AUD, no conversion. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$171.72",
+   "currency": "AUD",
+   "aud_price": 171.72,
+   "date": "2026-06-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/226920940211",
+   "same_item": "close",
+   "note": "Vintage PLUMB Axe; fixed price, 2 sold (avg)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$162.55",
+   "currency": "AUD",
+   "aud_price": 162.55,
+   "date": "2025-04-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116565167057",
+   "same_item": "close",
+   "note": "PLUMB USA 4lb Aussie import axe, new handle; fixed/auction restorer listing",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$146.41",
+   "currency": "AUD",
+   "aud_price": 146.41,
+   "date": "2025-02-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116481452237",
+   "same_item": "close",
+   "note": "PLUMB USA 4.5lb axe, spotted gum handle; auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$125.62",
+   "currency": "AUD",
+   "aud_price": 125.62,
+   "date": "2025-03-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116505344477",
+   "same_item": "close",
+   "note": "PLUMB USA 4.5lb axe, paper label Aussie import; auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$153.03",
+   "currency": "AUD",
+   "aud_price": 153.03,
+   "date": "2024-08-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116277006675",
+   "same_item": "close",
+   "note": "PLUMB USA 4.5lb axe, hickory handle; auction",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'plumb axe', 'plumb', 'axe felling', 'hatchet axe head', 'plumb usa', 'plumb ebay axe', 'single bit axe'; work comps.py: 'plumb axe'. Only Armitage/Gowans (paid locally) hits for Plumb; no resale comps. The eBay 'felling axe' hits were Kelly Dandenong axes (different maker, not same item, not recorded).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'plumb axe', 'plumb', 'axe felling', 'hatchet axe head', 'plumb usa', 'plumb ebay axe', 'single bit axe'; work comps.py: 'plumb axe'. Only Armitage/Gowans (paid locally) hits for Plumb; no resale comps. The eBay 'felling axe' hits were Kelly Dandenong axes (different maker, not same item, not recorded). | chrome: Terapeak AU 3y 'plumb axe' (no condition filter shown, 50+ rows incl. axe head covers and racing axes, excluded)",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: 'Plumb USA axe', 'Plumb felling axe vintage', 'Plumb 3.5 lb axe handle'; also eBay.com US sold (Terapeak) 'Plumb Fayetteville axe', 'Plumb USA single bit axe'. Compare cleaned heads with handles in similar condition; Australian Hytest/Plumb Australia axes are a separate, dearer line. Also check Gumtree and Facebook Marketplace asking prices for vintage Plumb axes.",
  "rate_note": "All figures AUD, no conversion.",
- "viewing_check": "Check the head weight stamp (e.g. 3 1/2 lb), any extra marks (Fayetteville, Philadelphia, Hytest, Australia), poll cracks, eye damage or handle wedge condition, and whether the bit is chipped or re-ground."
+ "viewing_check": "Check weight stamp and Tassie pattern shape, poll cracks, eye damage, chipped bit.",
+ "chrome_done": true
 }

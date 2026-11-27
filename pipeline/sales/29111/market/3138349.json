@@ -1,7 +1,7 @@
 {
  "cdid": 3138349,
  "lot": 1755,
- "identification": "Orange manual chain block hoist, SWL 1t, with load chain and hand chain in plastic tub. No maker visible; generic import style (Kito/Beaver/Anchor-type 1 tonne). Chain lightly rusty, used.",
+ "identification": "Orange manual 1 tonne chain block hoist (hand chain, SWL 1t stamped on cover), unbranded import style, with load chain in plastic tub; lightly rusty, used.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,10 +68,47 @@
    "url": "gowans lot id 381730",
    "same_item": "close",
    "note": "Endless chain, block and tackle. Paid locally, NOT a resale price. Database hit, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$54.32",
+   "currency": "AUD",
+   "aud_price": 54.32,
+   "date": "2026-10-22",
+   "venue": "eBay AU (pre-owned filter)",
+   "url": "https://www.ebay.com.au/itm/880027845725",
+   "same_item": "yes",
+   "note": "1 Ton 3m chain hoist block and tackle, pre-owned, plus A$49.90 postage.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$86.92",
+   "currency": "AUD",
+   "aud_price": 86.92,
+   "date": "2026-10-12",
+   "venue": "eBay AU (pre-owned filter)",
+   "url": "https://www.ebay.com.au/itm/287539932870",
+   "same_item": "yes",
+   "note": "1 Ton hand chain block 25 m chain, untested, plus A$77.75 postage.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$82.89",
+   "currency": "AUD",
+   "aud_price": 82.89,
+   "date": "2026-10-11",
+   "venue": "eBay AU (pre-owned filter)",
+   "url": "https://www.ebay.com.au/itm/334760290147",
+   "same_item": "close",
+   "note": "Torin Big Red 1 ton manual chain block, pre-owned, plus A$234 postage (probably long chain).",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: chain block hoist (none); 1 ton chain block (2 Gowans hits); endless chain hoist 1t (none); manual chain hoist (none); chain block; hoist; work/comps.py chain block hoist (none). No web searches per instruction. Also pipeline/comps.py 'chain block' showed local range $10-$100, median about $35-40.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: chain block hoist (none); 1 ton chain block (2 Gowans hits); endless chain hoist 1t (none); manual chain hoist (none); chain block; hoist; work/comps.py chain block hoist (none). No web searches per instruction. Also pipeline/comps.py 'chain block' showed local range $10-$100, median about $35-40. | chrome: eBay AU sold '1 tonne chain block hoist' with pre-owned filter.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: '1 tonne chain block' and '1 ton chain hoist' (sold, used, Australia); Terapeak same; Gumtree/Facebook Marketplace used 1t chain block; auction results at Graysonline and Lloyds for 'chain block 1 tonne'. New retail ASKING: Bunnings, Sydney Tools, Total Tools '1 tonne chain block' (new about $50-120 AUD, not seen).",
- "viewing_check": "Check the load plate or body stamping for maker, WLL/SWL and serial number; check hooks have safety latches, chain links not stretched or badly rusted, hand chain runs and brake holds when lifting a small load. Uncertified so only worth workshop use."
+ "viewing_check": "Check hooks and latches, chain stretch/rust, brake holds under load; look for maker stamping on body.",
+ "chrome_done": true
 }

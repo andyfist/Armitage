@@ -1,7 +1,7 @@
 {
  "cdid": 3138206,
  "lot": 1611,
- "identification": "AWA Radiola bakelite mantel valve radio, chassis marked Model 5??MY (possibly 517MY), Tasmanian dial; common model, worn, untested, old cloth cord.",
+ "identification": "AWA brown bakelite 4-valve mantel radio, c.1940s, red cloth grille slots, AWA dial, two knobs; back off in photo 2 showing valves, cloth flex and a chassis plate reading MODEL 5??MY (digits unreadable at photo resolution), serial about 000F1993. Untested, old cloth cord, bakelite scuffed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,84 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2789260&chid=27044&category=ALL&style=group",
    "same_item": "close",
    "note": "Old AWA Radiola bakelite radio. PAID LOCALLY, not a resale price. Database record only, page not opened. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$61.57",
+   "currency": "AUD",
+   "aud_price": 61.57,
+   "date": "2024-01-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225952901946",
+   "same_item": "close",
+   "note": "AWA Radiola brown bakelite mantel, auction 24 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.15",
+   "currency": "AUD",
+   "aud_price": 51.15,
+   "date": "2025-08-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116716424012",
+   "same_item": "close",
+   "note": "AWA Radiola brown bakelite valve radio c.1940s, auction 2 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52.46",
+   "currency": "AUD",
+   "aud_price": 52.46,
+   "date": "2026-10-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168760168978",
+   "same_item": "close",
+   "note": "AWA brown bakelite valve mantel radio, broken/parts, BIN",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$61.91",
+   "currency": "AUD",
+   "aud_price": 61.91,
+   "date": "2026-10-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168762484661",
+   "same_item": "close",
+   "note": "AWA cream bakelite valve mantel radio, broken/parts, BIN",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$131.59",
+   "currency": "AUD",
+   "aud_price": 131.59,
+   "date": "2026-01-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/205990152577",
+   "same_item": "close",
+   "note": "AWA 512M 1947 bakelite mantel, ex order unrestored, BIN (dealer ask level)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$146.87",
+   "currency": "AUD",
+   "aud_price": 146.87,
+   "date": "2025-07-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126818791258",
+   "same_item": "close",
+   "note": "AWA Radiola bakelite valve radio 1950s untested parts or repair, BIN (free postage)",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'AWA radio'; 'AWA bakelite mantel'; 'AWA 517' (no model hits); 'mantel radio bakelite'; 'Radiola bakelite valve'; 'Radiola mantel'. work/comps.py: 'AWA radio' (Gowans/Armitage only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'AWA radio'; 'AWA bakelite mantel'; 'AWA 517' (no model hits); 'mantel radio bakelite'; 'Radiola bakelite valve'; 'Radiola mantel'. work/comps.py: 'AWA radio' (Gowans/Armitage only). | chrome: Terapeak AU 3yr: 'awa bakelite mantel radio', 'awa radiola valve radio' (no condition filter noted).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'AWA Radiola bakelite mantel valve radio', 'AWA 517MY', 'AWA radiola 5 valve bakelite'. Also Leski realized prices and Lawsons/Mossgreen/Theodore Bruce for 'AWA bakelite mantel radio'; compare working vs untested and cabinet colour. Ignore Fisk/Empire State and Mickey models, they are a different class.",
- "viewing_check": "Read the chassis/back label for exact model number (517MY etc) and valve count; check bakelite for cracks, chips or repairs, dial glass and grille cloth, and that the cord is cloth (do not power on). Photograph the back with the cover off.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Read the exact model number on the chassis plate; check bakelite for cracks, and the dial glass.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

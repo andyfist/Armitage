@@ -1,7 +1,7 @@
 {
  "cdid": 3138554,
  "lot": 1962,
- "identification": "Pallet of used generic garden tools (about four picks/mattocks, shovels, spades, rakes, forks, edger, crowbar). No maker identified; rusty heads, weathered handles. Generic lot.",
+ "identification": "Pallet (blue plastic pallet) of about 25-30 mixed used garden hand tools: 3 picks/pick-mattocks, several round-mouth and square shovels/spades, lawn edger wheel, 2 plastic leaf rakes, rake and fork shafts, hand cultivator, long bar/crowbar. Rusty heads, weathered timber handles, a couple of green-handled items. No maker stamps readable.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,36 @@
    "url": "gowans lot id 442910",
    "same_item": "category guide",
    "note": "Qty of asst garden tools, 4 bids. Paid locally, not a competitive auction: shows what we might pay, never resale. Database hit, no page opened. No FX needed (AUD)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.00",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-11-15",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/880084101867",
+   "same_item": "category guide",
+   "note": "Vintage NOS Bonser Australian-made pick/mattock, 1 bid, +A$19.82 delivery; named maker, not seen on this pallet",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$15.00",
+   "currency": "AUD",
+   "aud_price": 15,
+   "date": "2026-11-26",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/237205644078",
+   "same_item": "category guide",
+   "note": "Vintage mattock pick axe head only, +A$14.40 delivery",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'garden tools', 'pick mattock' (no hits), 'shovel spade', 'mattock', 'crowbar', 'rake fork'; work/comps.py: 'garden tools' (103 Gowans/Armitage results, median $35, no resale comps). Item is generic so stopped early. No web searches (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'garden tools', 'pick mattock' (no hits), 'shovel spade', 'mattock', 'crowbar', 'rake fork'; work/comps.py: 'garden tools' (103 Gowans/Armitage results, median $35, no resale comps). Item is generic so stopped early. No web searches (databases only). | chrome: eBay AU public sold (Australia only) 'pick mattock vintage used'. Verdict: under A$100.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'pick mattock vintage' (Hytest, Spear and Jackson, Tasmanian timber handle), 'shovel spade bundle', 'vintage garden tools job lot'. Facebook Marketplace Tasmania/Launceston sold garden tools. Only worth it if viewing shows a named maker (Hytest, Bulldog, Kelly, Ames) or a quality item.",
- "viewing_check": "Check heads for maker stamps on the picks, mattocks and spades (Hytest, Kelly, Spear and Jackson, Tasmanian axe/tool makers), and look for sound handles; otherwise nothing. Local range is $15 to $140, median about $45 for similar lots.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check pick and mattock heads for stamps (Bonser, Hytest, Spear and Jackson, Kelly); if a named Australian maker, the picks may be A$40-60 each.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3139250,
  "lot": 2487,
- "identification": "Solid Tasmanian blackwood 3 drawer bedside chest, carved corbels, turned feet, dovetailed drawers, unmarked, probably maker-built. Common local type.",
+ "identification": "Solid Tasmanian-style blackwood three drawer bedside chest, H66cm, carved corbels each side of top drawer, turned feet, dovetailed drawers, raised back lip, unmarked.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,24 @@
    "url": "gowans lot id 400871",
    "same_item": "close",
    "note": "Blackwood 3 drawer chest of drawers (size unclear). Paid locally, what we might pay, not a resale price. Database record only, page not opened."
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$65-100",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2025-06-18",
+   "venue": "Armitage 24217 lot 1115, 25272 lot 1261, 26807 lot 2222, 25106 lot 1225 (single chests A$65-100 hammer, database records, pages not opened)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2536654&chid=24217&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Paid locally, not resale. Shows what we might pay.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'blackwood bedside'; 'blackwood chest drawers'; 'tasmanian blackwood'; 'blackwood 3 drawer chest'; work comps.py: 'blackwood bedside'. Only local rooms hold hits, no competitive resale data.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'blackwood bedside'; 'blackwood chest drawers'; 'tasmanian blackwood'; 'blackwood 3 drawer chest'; work comps.py: 'blackwood bedside'. Only local rooms hold hits, no competitive resale data. | chrome: eBay AU sold 'blackwood bedside chest 3 drawer' (no relevant same-item sold; flat-pack results only).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'blackwood bedside chest 3 drawer' and 'Tasmanian blackwood bedside'; Terapeak same. Gumtree/Facebook Marketplace Tasmania asking prices for blackwood bedside chests. Also Lawsons, Leonard Joel, Theodore Bruce sold for 'blackwood bedside chest'.",
- "viewing_check": "Look inside and under the drawers and back for a maker's label, stamp or signature (a known Tasmanian maker would lift value); confirm timber is solid blackwood, not veneer; check top for marks and drawer runners.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Look for maker label/stamp inside and under; confirm solid blackwood, drawer runners, top marks.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

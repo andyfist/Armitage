@@ -1,7 +1,7 @@
 {
  "cdid": 3138702,
  "lot": 2110,
- "identification": "Single bay blue upright pallet racking, 2 frames with orange beams, 3 beam levels seen, Dexion/Colby style, no brand legible, appears straight and complete. Frame size not stated in photos; tall frames look about 2.5-3 m.",
+ "identification": "One bay of used heavy-duty pallet racking: 2 blue upright frames (about 2.2 m high, 84 cm deep, braced) and 6 orange beams (3 levels, about 2.96 m long) per catalogue H-221 W-296 D-84 cm. Generic Dexion/Colby-style, no brand visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,72 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2471585&chid=23845&category=ALL&style=group",
    "same_item": "close",
    "note": "3 pallet racking accessories only, shows loose parts are cheap. Database hit, hammer price, no AUD conversion needed. Page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$78.72",
+   "currency": "AUD",
+   "aud_price": 78.72,
+   "date": "2025-08-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/187466961772",
+   "same_item": "close",
+   "note": "Single bay pallet racking, 3 wood shelves, 2.6 m, auction, 1 bid. Closest in size to this lot (single bay).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$99.81",
+   "currency": "AUD",
+   "aud_price": 99.81,
+   "date": "2025-10-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/187624054449",
+   "same_item": "close",
+   "note": "Two bays pallet racking, 7 wood shelves, 2.4 m, auction (about A$50 a bay). Free postage shown; pickup in practice.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$151.46",
+   "currency": "AUD",
+   "aud_price": 151.46,
+   "date": "2024-01-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176184263191",
+   "same_item": "close",
+   "note": "Used pallet racking 2 bays 2.6 m long x 2.41 high, 15 rails, auction 6 bids (about A$75 a bay). Over 2 years old. ",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$239.54",
+   "currency": "AUD",
+   "aud_price": 239.54,
+   "date": "2026-09-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/128033843309",
+   "same_item": "close",
+   "note": "Dexion 2 level beam bay 3.6 m x 2.7 m (Terapeak price; listing showed A$220 so may include an offer). Larger bay.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$244.66",
+   "currency": "AUD",
+   "aud_price": 244.66,
+   "date": "2025-05-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/187234215451",
+   "same_item": "close",
+   "note": "Used heavy duty racking 5.18 m high 2 bay, 16 pallet spaces, auction. Much larger.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'pallet rack', 'dexion racking' (none), 'pallet racking bay beams' (none), 'racking'; work comps.py: 'pallet racking', 'racking', 'pallet'. No resale (non-local) comps found; all hits are Armitage paid-locally prices (about $190-340 for 2-3 tier or 2 bay lots, $30 for accessories).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'pallet rack', 'dexion racking' (none), 'pallet racking bay beams' (none), 'racking'; work comps.py: 'pallet racking', 'racking', 'pallet'. No resale (non-local) comps found; all hits are Armitage paid-locally prices (about $190-340 for 2-3 tier or 2 bay lots, $30 for accessories). | chrome: eBay AU sold pallet racking bay upright beams used (Australia only); Terapeak AU 3yr pallet racking bay (no condition filter seen; new and used mixed, used picked).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: 'pallet racking bay used', 'pallet rack upright frame beams', 'Dexion pallet racking used' (Terapeak 90 days). Gumtree/Facebook Marketplace Tasmania: 'pallet racking' for local asking prices. Grays Online and Lawsons sold: 'pallet racking'. Also new retail for comparison: Dexion/Colby/Mecalux 1 bay starter kit at Bunnings/Total Tools/pallet racking suppliers (ASKING, new retail).",
- "viewing_check": "Measure frame height, frame depth and beam length; count beams and check beam clips/safety pins; look for bent uprights or beam damage; read any maker label or load rating plate (Dexion, Colby, Schaefer) on frames or beams.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Measure frame height, depth, beam length; count beams and safety clips; check uprights are straight; read any maker label.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

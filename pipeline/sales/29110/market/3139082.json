@@ -1,7 +1,7 @@
 {
  "cdid": 3139082,
  "lot": 1318,
- "identification": "Victorian mahogany chiffonier base, serpentine top, frieze drawer, two arched panel doors with barley twist columns, plinth; superstructure missing, top worn. Common form, low value.",
+ "identification": "Victorian mahogany (appears mahogany, possibly stained) chiffonier base: serpentine top, frieze drawer, two arched-panel doors flanked by barley-twist columns, plinth base. Superstructure/back missing. 86x105x40 cm. Estimate 30-40, current bid $20 at time of check.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,36 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2858214&chid=27486&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Mahogany veneer chiffonier base with mirror. Paid locally, cost only. Database record, no web page opened; rate n/a (AUD as printed)."
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "A$200-400 estimate",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "2026-03-17",
+   "venue": "McKenzies Auctioneers via Invaluable, lot 179",
+   "url": "https://www.invaluable.com/auction-lot/mahogany-chiffonier-base-179-c-05579aefcd",
+   "same_item": "close",
+   "note": "Page opened: Victorian-style mahogany chiffonier base, estimate A$200-400; realised price hidden (log in), so the database hint of A$225 is NOT confirmed. Cannot set a max.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$210",
+   "currency": "AUD",
+   "aud_price": 210,
+   "date": "2026-10-21",
+   "venue": "Armitage sale 28838 lot 45",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3090062&chid=28838&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Database hint, not opened; cedar chiffonier base, local price not resale",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'mahogany chiffonier', 'chiffonier', 'Victorian mahogany sideboard'; work/comps.py: 'chiffonier'.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'mahogany chiffonier', 'chiffonier', 'Victorian mahogany sideboard'; work/comps.py: 'chiffonier'. | chrome: eBay AU sold 'victorian mahogany chiffonier' (none; only unrelated mahogany items); Invaluable lot 179 page opened (price hidden).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'victorian mahogany chiffonier base'; Invaluable/LiveAuctioneers past results: 'victorian chiffonier barley twist', 'mahogany chiffonier base only'; also Gumtree/Facebook asking prices for Tasmania pickup.",
- "viewing_check": "Check veneer lifts and top damage, whether drawer and doors work, wood is mahogany not cedar/stained, barley twists intact, sturdy back; how it was cut off (any stubs for a missing back).",
- "rate_note": "All AUD as printed in databases."
+ "viewing_check": "Veneer lifts, top damage, drawer and doors working, mahogany vs stained cedar, barley twists intact, stubs where the back was removed.",
+ "rate_note": "All AUD as printed in databases.",
+ "chrome_done": true
 }

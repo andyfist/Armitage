@@ -1,7 +1,7 @@
 {
  "cdid": 3139154,
  "lot": 2390,
- "identification": "Heatseeker Solaire 09W swimming pool heat pump (rating plate: 9 kW at air 27C/water 27C, 1.5 kW input, COP 6; 6.5 kW at air 15C, 1.45 kW, COP 4.5; 220-240V 1ph, 6.4A, R410A 0.9 kg, 37 kg, serial 0090ED41B423081005). WiFi badge, titanium-style exchanger ports, box of plumbing fittings, hose, cable, unions and manual. Condition looks clean, untested.",
+ "identification": "Heatseeker Solaire 09W swimming pool heat pump (on/off type, R410A, 9 kW at air 27C / 6.5 kW at air 15C, 1.5 kW input, COP 6/4.5, 220-240 V single phase 6.4 A, 37 kg) with WiFi badge and front control panel behind a clear flap. Looks clean and lightly used (unit and grille unmarked, white unions on the water ports). With a box of plumbing: 3-way diverter valve, 40/50 mm check valve and tee, union fittings, condensate hose, long white control/WiFi cable, a bagged wall-mount bracket or controller housing, thread tape, the Heatseeker heat pump manual and a check-valve instruction sheet. Serial 0090ED41B423081005 (the '2308' run suggests Aug 2023 manufacture, unconfirmed).",
  "entries": [
   {
    "kind": "SOLD",
@@ -13,11 +13,84 @@
    "url": "gowans lot id 443020",
    "same_item": "category guide",
    "note": "Title only 'HEAT PUMP', 0 bids, probably a faulty or unrelated unit (not confirmed to be a pool heat pump). Local room, shows only what we might pay. AUD, no conversion. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,941.11",
+   "currency": "AUD",
+   "aud_price": 1941.11,
+   "date": "2026-10-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/407218437905",
+   "same_item": "close",
+   "note": "Supreme Heating Nova V2-09 INVERTER 9kW, used, pickup Brighton; same maker and size but the newer, dearer inverter model, so Solaire is worth well under this",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$487.82",
+   "currency": "AUD",
+   "aud_price": 487.82,
+   "date": "2025-05-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/187199238362",
+   "same_item": "close",
+   "note": "Used EvoHeat pool heat pump, auction; size not read. Best guide to a used on/off unit",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$672.49",
+   "currency": "AUD",
+   "aud_price": 672.49,
+   "date": "2024-12-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/387612136049",
+   "same_item": "category guide",
+   "note": "'Swimming pool heater used', fixed price; type not confirmed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$193.97",
+   "currency": "AUD",
+   "aud_price": 193.97,
+   "date": "2024-11-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156506658783",
+   "same_item": "category guide",
+   "note": "Pool heat pump 17.1kW 'read description' (likely faulty), auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$2,255.89",
+   "currency": "AUD",
+   "aud_price": 2255.89,
+   "date": "2025-08-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/382839125495",
+   "same_item": "category guide",
+   "note": "NEW Swimmax 9kW pool heat pump, fixed price sale by retailer: new-retail guide for a 9kW on/off unit (recorded as ASKING per new-retail rule)",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$2,044.60",
+   "currency": "AUD",
+   "aud_price": 2044.6,
+   "date": "2026-03-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/383543680528",
+   "same_item": "category guide",
+   "note": "NEW Swimmax 7kW pool heat pump, retailer fixed price",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'heatseeker solaire', 'heat pump heatseeker', 'heatseeker', 'pool heat pump', 'heat pump', 'pool'; work/comps.py: same words. No Heatseeker or pool heat pump comps in any database. Heat pump hits were clothes dryers (Fisher & Paykel, Haier) and are not relevant.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'heatseeker solaire', 'heat pump heatseeker', 'heatseeker', 'pool heat pump', 'heat pump', 'pool'; work/comps.py: same words. No Heatseeker or pool heat pump comps in any database. Heat pump hits were clothes dryers (Fisher & Paykel, Haier) and are not relevant. | chrome: Terapeak AU 'pool heat pump' (all and used only), 'swimming pool heat pump kw' (no results), 'heat pump pool heater'; Gumtree AU 'heatseeker heat pump' (no results), 'pool heat pump'; Google and WebSearch for Heatseeker Solaire; supremeheating.com.au.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak (last 90 days): 'Heatseeker Solaire pool heat pump', 'Heatseeker pool heat pump 9kw', 'swimming pool heat pump 9kw used'. Gumtree AU and Facebook Marketplace (Tasmania and mainland) for used pool heat pumps 8-10 kW. Also check new retail: heatseeker.com.au / Heatseeker Solaire range (9 kW WiFi model, record as ASKING 'new retail price'), plus a couple of Australian pool-supply retailers for comparable 9 kW inverter-less units. Check Grays/Lloyds/Pickles sold results for 'pool heat pump'.",
- "viewing_check": "Photograph the rating plate and serial again, check for a compressor or fan noise if power is available (ask staff to power on briefly), check titanium exchanger ports and fins for corrosion or damage, confirm controller/WiFi module and cable present, check the fittings box is complete, and look for any scale or water marks inside the ports indicating hours of use.",
- "rate_note": "All AUD, no conversion used."
+ "viewing_check": "Ask staff to power it on and confirm the display lights and fan spins; if water can be run through, check the compressor starts (it won't run without flow). Check the fins are straight and uncorroded, titanium exchanger ports clean, no oil stains at pipe joints (refrigerant leak), and that the WiFi module/controller and cable are present. Confirm the box has the bypass valve, check valve and unions shown.",
+ "rate_note": "All AUD, no conversion used.",
+ "chrome_done": true
 }

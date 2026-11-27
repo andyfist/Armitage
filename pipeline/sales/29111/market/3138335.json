@@ -1,7 +1,7 @@
 {
  "cdid": 3138335,
  "lot": 1741,
- "identification": "Fiskars PowerGear-style gear lopper, Fiskars telescopic tree pruner with spare cutting head, older bypass lopper, HiPro sledge hammer with timber head and fibreglass handle. Used garden tools, paint loss.",
+ "identification": "Garden tools: Fiskars telescopic tree pruner (pole, with spare head in plastic box and Fiskars packaging sleeve), Fiskars gear-type bypass lopper, an older Fiskars-style lopper/long-reach pruner with serrated head, plus a HiPro club/sledge hammer with orange fibreglass handle (rusty head).",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,72 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2729379&chid=26639&category=ALL&style=group",
    "same_item": "category guide",
    "note": "2 sledge hammers & pinch bar. Paid locally, not a resale price. Database record only (no page opened)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$264.30",
+   "currency": "AUD",
+   "aud_price": 264.3,
+   "date": "2026-11-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/325399082568",
+   "same_item": "close",
+   "note": "Fiskars UPX86 PowerGear X Telescopic Tree Pruner, BRAND NEW fixed price, 17 sold. New price, not used.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$255.83",
+   "currency": "AUD",
+   "aud_price": 255.83,
+   "date": "2026-11-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/254855241860",
+   "same_item": "close",
+   "note": "Fiskars UPX86 telescopic pruner, new, 12 sold.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$230.02",
+   "currency": "AUD",
+   "aud_price": 230.02,
+   "date": "2026-01-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/294951623896",
+   "same_item": "close",
+   "note": "Fiskars UPX86, new, 7 sold.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$103.28",
+   "currency": "AUD",
+   "aud_price": 103.28,
+   "date": "2026-08-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267098353247",
+   "same_item": "close",
+   "note": "Fiskars PowerGear Bypass Lopper M L76, new (Terapeak Brand New filter was on for lopper search).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$113.27",
+   "currency": "AUD",
+   "aud_price": 113.27,
+   "date": "2025-05-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256752290333",
+   "same_item": "close",
+   "note": "Fiskars PowerGear L78 large bypass lopper, new.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'Fiskars lopper' (none), 'Fiskars pruner', 'garden tools loppers' (none), 'sledge hammer', 'hipro' (none), 'fiskars'; work comps.py: 'Fiskars'. Fiskars eBay Terapeak hits were axes (X25), not the same item, so omitted. No resale comps for loppers/pruner/hammer held. No new-retail entry added (no web access allowed).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'Fiskars lopper' (none), 'Fiskars pruner', 'garden tools loppers' (none), 'sledge hammer', 'hipro' (none), 'fiskars'; work comps.py: 'Fiskars'. Fiskars eBay Terapeak hits were axes (X25), not the same item, so omitted. No resale comps for loppers/pruner/hammer held. No new-retail entry added (no web access allowed). | chrome: Terapeak AU 3yr sold: 'fiskars telescopic tree pruner' (no condition chip visible), 'fiskars pruner pole used' (no results), 'fiskars powergear lopper' (Condition filter (1 selected) Brand New shown, so new prices). eBay AU public sold 'fiskars tree pruner pole' used and 'fiskars lopper', 'fiskars telescopic pruner' (AU only).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: 'Fiskars PowerGear lopper', 'Fiskars UP86 telescopic tree pruner', 'Fiskars UP84 pruner', 'Fiskars loppers used'; Terapeak same; 'HiPro sledge hammer'. Also Bunnings/Amazon AU new retail price for Fiskars PowerGear lopper and telescopic pruner (ASKING, new retail).",
  "viewing_check": "Model markings on the Fiskars lopper and pruner (PowerGear L77/L78 vs older), pruner head and blade condition, whether spare head is complete, rope/cord intact, hammer weight marking and head looseness.",
- "rate_note": "All AUD, no conversion."
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

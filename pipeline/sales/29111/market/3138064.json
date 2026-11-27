@@ -1,7 +1,7 @@
 {
  "cdid": 3138064,
  "lot": 1467,
- "identification": "Brades (Brades of Oldbury, England) single-bit felling axe head, stamped BRADES 1571 with cockatoo logo and MADE IN ENGLAND, on a timber handle that looks replaced or refinished. Head cleaned/polished with pitting and staining. 1571 is a pattern/weight number, not a date.",
+ "identification": "Brades (Oldbury, England) Cockatoo pattern 1571 single-bit axe, Tasmanian pattern head about 4.5 lb, Made in England, on a replacement/refinished timber handle",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,108 @@
    "url": "https://www.ebay.com.au/itm/116874458928",
    "same_item": "category guide",
    "note": "Kelly True Temper axe, low end of range. Different maker. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$257.83",
+   "currency": "AUD",
+   "aud_price": 257.83,
+   "date": "2026-06-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/178230260542",
+   "same_item": "yes",
+   "note": "4lb Brades Cockatoo England, auction, 18 bids (head, weight 4lb).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100.75",
+   "currency": "AUD",
+   "aud_price": 100.75,
+   "date": "2026-06-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/178074367290",
+   "same_item": "yes",
+   "note": "Brades 1571 Cockatoo head 4.5lb England, fixed price, free postage.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$140.63",
+   "currency": "AUD",
+   "aud_price": 140.63,
+   "date": "2026-03-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/188093860795",
+   "same_item": "yes",
+   "note": "Brades 1571 Cockatoo 4.5lb Tassie pattern head, 44 bids.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$109.48",
+   "currency": "AUD",
+   "aud_price": 109.48,
+   "date": "2026-02-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/188060997172",
+   "same_item": "yes",
+   "note": "4.5lb Brades Cockatoo England, 27 bids.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$180.92",
+   "currency": "AUD",
+   "aud_price": 180.92,
+   "date": "2026-02-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127672536412",
+   "same_item": "yes",
+   "note": "Brades 1571 Cockatoo 4.5lb Tassie pattern head, 14 bids.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$185.50",
+   "currency": "AUD",
+   "aud_price": 185.5,
+   "date": "2026-02-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127642423941",
+   "same_item": "yes",
+   "note": "Brades Cockatoo 4.5lb, good stamp, new Spotted Gum handle, 27 bids. Closest to handled lot.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$99.92",
+   "currency": "AUD",
+   "aud_price": 99.92,
+   "date": "2025-12-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/177637335973",
+   "same_item": "yes",
+   "note": "Brades Cockatoo 4.5lb head, Tasmanian pattern, England.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$56.61",
+   "currency": "AUD",
+   "aud_price": 56.61,
+   "date": "2026-08-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/137557869814",
+   "same_item": "yes",
+   "note": "Brades Cockatoo 4lb England 1571, 2 bids, low end.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'brades cockatoo', 'cockatoo axe', 'brades axe', 'brades', 'cockatoo', 'axe head', 'hytest axe', 'kelly axe'. work/comps.py: 'brades cockatoo' (no results). No resale (non-local) Brades comps in any database; only paid-locally hits and Kelly eBay sales as category guide.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'brades cockatoo', 'cockatoo axe', 'brades axe', 'brades', 'cockatoo', 'axe head', 'hytest axe', 'kelly axe'. work/comps.py: 'brades cockatoo' (no results). No resale (non-local) Brades comps in any database; only paid-locally hits and Kelly eBay sales as category guide. | chrome: Terapeak AU 3yr 'brades cockatoo axe' (Used condition filter on, 50 rows, 89 sellers, avg A$156); no eBay public search needed.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings (and Terapeak): 'Brades cockatoo axe', 'Brades axe head', 'Brades Made in England axe 1571', 'Brades Oldbury axe'; also 'Brades cockatoo' on LiveAuctioneers/Invaluable and Australian auction houses (Leski, Mossgreen, Lawsons). Compare sold prices for handled vs head-only, and polished vs original-patina.",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Check the stamp is crisp (BRADES 1571, cockatoo, MADE IN ENGLAND), head weight, any cracks or chips near the eye and edge, whether the handle is tight and original, and whether the head was ground or buffed (lost original patina and bevel)."
+ "viewing_check": "Confirm weight (4.5lb pattern), no crack at poll or eye, edge intact, whether buffed (collectors prefer original patina), handle tight.",
+ "chrome_done": true
 }

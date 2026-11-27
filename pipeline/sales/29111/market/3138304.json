@@ -1,7 +1,7 @@
 {
  "cdid": 3138304,
  "lot": 1709,
- "identification": "Five Hitachi 18V Li-ion (older slide-in type) skins: C18DL circular saw, RB18DL blower, CR18DL reciprocating saw, G18DL angle grinder, WH18DL impact driver, plus three black 18V batteries. No charger. Heavily used, dirty, untested (photos confirm).",
+ "identification": "Five used Hitachi 18V Li-ion bare tools (green/black): C18DL 165mm circular saw, RB18DL blower, reciprocating saw (probably CR18DL), angle grinder (probably G18DL), impact driver (WH18DL type), plus three black 18V post-style batteries. No charger. Dirty, heavily used, untested.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,10 +79,83 @@
    "url": "gowans lot id 431765",
    "same_item": "close",
    "note": "Hitachi 9 inch grinder and Ryobi drill; mixed lot. PAID LOCALLY: shows what we might pay, not a resale price. Database record, no page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$140",
+   "currency": "AUD",
+   "aud_price": 140,
+   "date": "2026-11-15",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/133478098324",
+   "same_item": "yes",
+   "note": "Genuine Hitachi G18DL angle grinder skin, pre-owned, listed AU$149.99 / 139.99 with coupon, BIN, specialist seller. Sold figure is the listed price, not tested by page.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$150",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2026-09-18",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/134741761019",
+   "same_item": "close",
+   "note": "Hitachi C18DSL 18V circular saw skin, pre-owned, Japan made, listed 159.99 / 149.99 with coupon. Sibling of the C18DL.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$150",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2026-11-17",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/287707063572",
+   "same_item": "close",
+   "note": "Hitachi HiKOKI CR18DBL brushless recip saw skin, pre-owned AU$149.56 (newer brushless model, so higher than the lot's CR18DL).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$160",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-10-31",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/134399955882",
+   "same_item": "close",
+   "note": "Genuine Hitachi DV18DSDL impact drill driver skin, pre-owned, 169.99 / 159.99 with coupon (different driver to the WH18DL).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$110",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-09-16",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/226806474938",
+   "same_item": "category guide",
+   "note": "Hitachi DH18DSL rotary hammer skin, pre-owned, 129.95 / 93.89 with coupon. Shows used 18V Hitachi skins range about $90-160 each.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48",
+   "currency": "AUD",
+   "aud_price": 48,
+   "date": "2026-11-14",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/117184879002",
+   "same_item": "category guide",
+   "note": "Aftermarket 5.0Ah 18V battery for Hitachi RB18DL/WH18DL, brand new A$42-48: replacement battery price, shows the 3 batteries are worth little unless genuine and holding charge.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'hitachi 18v' (none), 'hitachi cordless drill', 'hitachi circular saw', 'hitachi impact driver', 'hitachi grinder', 'hitachi blower' (none), 'hitachi reciprocating saw' (none), 'hitachi power tools'; work/comps.py 'hitachi 18v' (none). Only local-room (Armitage/Gowans) hits; no resale comps held. Hitachi tools are now Hikoki; new retail not checked (no web allowed).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'hitachi 18v' (none), 'hitachi cordless drill', 'hitachi circular saw', 'hitachi impact driver', 'hitachi grinder', 'hitachi blower' (none), 'hitachi reciprocating saw' (none), 'hitachi power tools'; work/comps.py 'hitachi 18v' (none). Only local-room (Armitage/Gowans) hits; no resale comps held. Hitachi tools are now Hikoki; new retail not checked (no web allowed). | chrome: Terapeak 'hitachi 18v cordless tool lot' (no results); eBay AU public sold 'hitachi 18v tool lot skin' (60 results, specific per-tool comps); eBay AU sold 'hitachi CR18DL OR RB18DL OR WH18DL OR C18DL' (only batteries/chargers). New retail ASKING not checked, low value.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'Hitachi C18DL skin', 'Hitachi CR18DL', 'Hitachi G18DL', 'Hitachi WH18DL', 'Hitachi RB18DL', 'Hitachi 18V BSL1815 battery' (BCL1815 / BSL1830 likely fit; check batteries) and 'Hitachi 18V tool lot'. Facebook Marketplace/Gumtree for used skins. Also record new retail ASKING for Hikoki 18V skins (Bunnings, Sydney Tools) and replacement battery price, as a guide only.",
- "viewing_check": "Read battery model labels (BSL1815/BSL1830/EB18) and whether they hold charge; check blade/chuck condition and whether any tool switch or trigger is cracked; note any missing chargers. Untested, so ask if a compatible charger can be borrowed to test."
+ "viewing_check": "Read battery labels, borrow a Hitachi charger to test all 3 batteries and each tool; check recip saw model and blade clamp.",
+ "chrome_done": true
 }

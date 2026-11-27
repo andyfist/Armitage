@@ -1,7 +1,7 @@
 {
  "cdid": 3138220,
  "lot": 1625,
- "identification": "Mixed tray: Sloan's Family Liniment bottle, Evans Medical Supplies Iodum B.P. amber jar, ribbed amber poison bottle, other old bottles; souvenir spoons, plated mug, paua-handled knife stamped STG.SILVER (small, probably thin silver blade or handle mount), enamel crest spoon, salt spoon. Common, low-value bottles and tarnished flatware.",
+ "identification": "Timber tray holding old chemist/household bottles (Sloan's Family Liniment clear bottle with paper label, Evans Medical Supplies Iodum B.P. amber stoppered jar with paper label, ribbed amber poison bottle with stopper, small amber jar, 3 plain clear bottles) plus small souvenir items: 2 souvenir spoons (one enamel crest), small salt spoon, small plated tankard, and a paua-shell handled knife with blade stamped STG.SILVER.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,60 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2904460&chid=27760&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Amber glass chemistry bottles, sale 27760 lot 550. Database record, page not opened. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$23.23",
+   "currency": "AUD",
+   "aud_price": 23.23,
+   "date": "2026-06-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167336684885",
+   "same_item": "close",
+   "note": "Sloan's Family Liniment bottle with label, 1930s Australia, Buy It Now.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.86",
+   "currency": "AUD",
+   "aud_price": 20.86,
+   "date": "2025-04-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/185868082350",
+   "same_item": "close",
+   "note": "Vintage glass Sloan's Family Liniment bottle.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$13.55",
+   "currency": "AUD",
+   "aud_price": 13.55,
+   "date": "2025-05-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116590692541",
+   "same_item": "close",
+   "note": "Sloan's Liniment bottle, auction, 1 bid.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$69.60",
+   "currency": "AUD",
+   "aud_price": 69.6,
+   "date": "2025-09-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167634234235",
+   "same_item": "close",
+   "note": "Old bottles lot: Dr Sheldon's Magnetic Liniment and Sloan's Family Liniment (two bottles).",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'chemist bottle', \"Sloan's liniment\" (no hits), 'paua knife sterling' (no hits), 'poison bottle amber'; work comps.py 'chemist bottle'. Lot is generic low-value mixed bottles and flatware. No resale comp for the lot type found locally (only eBay Terapeak records for unrelated clear stoppered bottles, $37-$43, not same item).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'chemist bottle', \"Sloan's liniment\" (no hits), 'paua knife sterling' (no hits), 'poison bottle amber'; work comps.py 'chemist bottle'. Lot is generic low-value mixed bottles and flatware. No resale comp for the lot type found locally (only eBay Terapeak records for unrelated clear stoppered bottles, $37-$43, not same item). | chrome: Terapeak AU 3yr sold 'sloan's liniment bottle' (filter line showed Condition filter (1 selected) Used, so Used only; fine for old bottles). No other searches.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Sloan's Family Liniment bottle'; 'Evans Medical Supplies Iodum B.P. jar amber'; 'paua shell handle knife STG SILVER' and 'sterling paua handled knife'; 'ribbed amber poison bottle'. Check Terapeak for the same and for 'souvenir spoon enamel crest' lots. Weigh the silver knife only if hallmark confirms.",
  "viewing_check": "Check the STG.SILVER knife: is the blade/handle solid silver or only a mount, and its weight; any other hallmarks. Check Evans Iodum jar label and Sloan's bottle for cracks and original contents; look for embossed local (Tasmanian) chemist names on the clear bottles, which add value.",
- "rate_note": "All AUD, no conversion."
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

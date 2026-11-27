@@ -1,7 +1,7 @@
 {
  "cdid": 3138596,
  "lot": 2004,
- "identification": "Old black-painted steel cream can with hinged lid, central filler, ring handles and riveted bands; lid plaques illegible (likely dairy company plaques). Common item.",
+ "identification": "Old black-painted steel dairy cream can with lid (about 40 cm tall, hinged clasps, ring handles, riveted bands, central filler cap). Plain, no maker legible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,48 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2811100&chid=27197&category=ALL&style=group",
    "same_item": "close",
    "note": "Small vintage cream can 35 cm plus aluminium bread crock; paid-locally price, not resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.86",
+   "currency": "AUD",
+   "aud_price": 20.86,
+   "date": "2026-06-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145478671077",
+   "same_item": "category guide",
+   "note": "Only a brass/copper milk can/cream urn name plate, not a can. Terapeak row.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$128.58",
+   "currency": "AUD",
+   "aud_price": 128.58,
+   "date": "2025-09-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267093160907",
+   "same_item": "category guide",
+   "note": "Antique copper and brass milk can with lid: different, more decorative metal; not same item.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-08-19",
+   "venue": "Armitage lot (large cream can H-57cm)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020900&chid=28449&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Database record only, paid locally, not resale. Other local prices $25-55 for plain cream cans (database).",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline): cream can; milk can; dairy can cream. comps.py (work): cream can. Generic common item, stopped at 4 searches.",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline): cream can; milk can; dairy can cream. comps.py (work): cream can. Generic common item, stopped at 4 searches. | chrome: Terapeak AU 3yr: old cream can (no results), vintage cream can, antique milk can lid. Condition filter chip row showed no selected value. Verdict: clearly under $100, max 0.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings (Terapeak): 'vintage cream can', 'old cream can steel lid', 'dairy cream can plaque'. Also Gowans/Armitage not needed. Check sold results for cans with legible company plaques (e.g. butter factory names), which sell higher.",
- "viewing_check": "Read and photograph the two lid plaques (dairy or butter factory name, can size/capacity); check lid fit, rust-through and whether the paint hides a stamped name.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Read the lid plaques (dairy/butter factory name).",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138618,
  "lot": 2026,
- "identification": "Painted white timber lift-top box holding mixed used hand tools: ball pein and claw hammers, nylon/rubber mallet, log splitting wedge, cold chisel, hammer heads, cast part. No makers legible. Generic mixed tool lot.",
+ "identification": "Painted white timber lift-top box (approx 60x45cm, cleated sides, hasp and padlock) holding mixed used rusty hand tools: two long-handled hammers (one green/orange handle), rubber/red-handled mallet, blue-painted log splitting wedge, cold chisel/bolster, hammer heads, a cast grinder or machine part, timber block.",
  "entries": [
   {
    "kind": "SOLD",
@@ -37,9 +37,10 @@
    "note": "Box of hand tools etc, sale 28977 lot 1741 ($35). Paid locally: shows what we might pay, never a resale price. Database hit, page not opened."
   }
  ],
- "searches_tried": "pipeline comps.py: 'hammer wedge', 'ball pein hammer', 'tool box hand tools', 'cold chisel bolster'; work comps.py: 'hammer tools'. No resale comps found; only Armitage/Gowans local results (typically $25-$80 for boxes of mixed hand tools).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'hammer wedge', 'ball pein hammer', 'tool box hand tools', 'cold chisel bolster'; work comps.py: 'hammer tools'. No resale comps found; only Armitage/Gowans local results (typically $25-$80 for boxes of mixed hand tools). | chrome: eBay AU public sold search \"vintage tool box hammers lot\" (about 60 results, Sep-Nov 2026): unmarked hammer groups A$9-50, only named/US-listed lots above A$100. Verdict: clearly under A$100, not worth chasing.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'vintage hammer lot', 'ball pein hammer vintage Sidchrome OR Stanley OR Estwing', 'log splitting wedge', 'vintage wooden tool chest painted'. Check for any named maker hammers (Warrington, Estwing, Plumb) once marks are read.",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Look at hammer and chisel heads for maker stamps (Estwing, Plumb, Warrington, Sidchrome, Spear and Jackson), and any unusual specialist tools in the pile; check the box for age or maker marks."
+ "viewing_check": "Check hammer and chisel heads for maker stamps (Estwing, Plumb, Warrington, Sidchrome); look for specialist tools in the pile.",
+ "chrome_done": true
 }

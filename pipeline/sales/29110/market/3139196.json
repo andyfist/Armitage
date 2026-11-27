@@ -1,7 +1,7 @@
 {
  "cdid": 3139196,
  "lot": 2433,
- "identification": "Samsung SDS SHP-DH537 smart digital door lock (keypad and fingerprint style lever handle set), in retail box, appears new. Title says D4537 but box label clearly reads SHP-DH537. Samsung SDS is the Korean-market maker; this model is a common Asian-market lock, possibly grey import.",
+ "identification": "Samsung SDS SHP-DH537 smart digital mortise door lock (touchpad keypad plus fingerprint/NFC handle set, black), boxed and appears new. Catalogue title says D4537, box clearly reads SHP-DH537.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,24 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112263&chid=28977&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Smart lock entrance set, condition unstated. Paid locally, not a resale price; no exchange rate needed (AUD). Database record, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$499.00",
+   "currency": "AUD",
+   "aud_price": 499.0,
+   "date": "2026-10-13",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/960010779419",
+   "same_item": "yes",
+   "note": "Listing page opened: SOLD A$499.00 incl. A$28.91 buyer protection fee, brand new Samsung SDS SHP-DH537. Search page also showed 'or Best Offer', so could be a Best Offer sale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'samsung door lock', 'samsung SHP smart door', 'digital door lock', 'smart lock', 'samsung', 'door lock'; work/comps.py: 'samsung smart door lock', 'smart lock'. No same-item hits (no SHP-DH537 sold anywhere in our databases). Only category-guide smart locks, all paid locally, range $25-125 (Ultraloq, Tapo, Aqara, unbranded).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'samsung door lock', 'samsung SHP smart door', 'digital door lock', 'smart lock', 'samsung', 'door lock'; work/comps.py: 'samsung smart door lock', 'smart lock'. No same-item hits (no SHP-DH537 sold anywhere in our databases). Only category-guide smart locks, all paid locally, range $25-125 (Ultraloq, Tapo, Aqara, unbranded). | chrome: eBay AU sold 'Samsung SHP-DH537' and 'Samsung digital mortise door lock DH537' (90 days), Terapeak AU 3yr 'Samsung SHP-DH537' (no condition filter shown).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: 'Samsung SHP-DH537', 'Samsung SHP DH537 digital door lock', 'Samsung SDS smart door lock'; Terapeak on SHP-DH537; Gumtree/Facebook Marketplace AU 'Samsung digital door lock'; AliExpress/Amazon AU/Kogan new price for SHP-DH537 as ASKING (new retail price); Samsung SDS SHP-DH537 spec (fingerprint? Korean-only keypad voice? Australian door prep compatibility, mortise vs cylinder).",
- "viewing_check": "Confirm box is sealed and shows SHP-DH537 label; look for contents (handle set, mortise body, keys, batteries, manual, rear unit), any language/region label (Korean-only voice or 220V regional issues), fingerprint reader or keypad only, and whether the door latch fits Australian doors.",
- "rate_note": "All figures AUD, rate 1. No web prices checked (databases only)."
+ "viewing_check": "Confirm box sealed, contents (handle, mortise body, keys, battery cover, manual), fingerprint reader present, language and region label, and mortise size for Australian doors.",
+ "rate_note": "All figures AUD, rate 1. No web prices checked (databases only).",
+ "chrome_done": true
 }

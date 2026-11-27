@@ -1,7 +1,7 @@
 {
  "cdid": 3138605,
  "lot": 2013,
- "identification": "Two large raw timber burls (likely eucalypt/gum or Tasmanian burl): one flat cut slab about 67 cm across with chainsaw cuts, one hollowed bowl-form burl with a hole. Photo seen: cut faces show pale reddish figured wood, bark edges, some cracks.",
+ "identification": "Two large raw eucalypt (gum/Tasmanian) burls: a roughly 67 cm cut slab-form burl with chainsaw cuts and a hole, and a smaller hollowed bowl-form burl with cracks and holes. Pale reddish figured wood, bark edges.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,72 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020828&chid=28448&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Tray of timber burls etc, mixed. Database hit only (no web page opened). Paid locally: shows what we might pay, not resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$194.95",
+   "currency": "AUD",
+   "aud_price": 194.95,
+   "date": "2024-11-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167078806846",
+   "same_item": "category guide",
+   "note": "2 brown mallee burl live-edge slabs, auction 1 bid; mallee burl is a premium cut, small platter-sized; category guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$129.77",
+   "currency": "AUD",
+   "aud_price": 129.77,
+   "date": "2025-11-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167899864315",
+   "same_item": "category guide",
+   "note": "Red mallee burl live edge slab, auction; category guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$77.64",
+   "currency": "AUD",
+   "aud_price": 77.64,
+   "date": "2025-05-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167480264399",
+   "same_item": "category guide",
+   "note": "Brown mallee burl slab, auction; category guide.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50.05",
+   "currency": "AUD",
+   "aud_price": 50.05,
+   "date": "2026-11-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/128173261408",
+   "same_item": "category guide",
+   "note": "Red gum burl hardwood live edge slab 47x35x2.1cm, fixed price, free postage; closest size/species, small.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$135",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2026-09-09",
+   "venue": "Armitage sale 28590 lot 1934 (2 gum burls DIA-70 cm)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045528&chid=28590&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Database record only (page not opened); paid locally, not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'timber burl', 'burl', 'huon pine burl', 'burr wood slab' (no hits); work comps.py: 'burl'. Only local-room (paid locally) hits found, no resale evidence.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'timber burl', 'burl', 'huon pine burl', 'burr wood slab' (no hits); work comps.py: 'burl'. Only local-room (paid locally) hits found, no resale evidence. | chrome: Terapeak AU 3yr: burl gum eucalyptus (no results), burl slab (many small slabs, condition filter chip not selected). Verdict: under A$150, max 0.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'burl slab', 'eucalyptus burl', 'gum burl', 'burl bowl blank', 'tasmanian burl'; Gumtree/Facebook Marketplace Tas live burl listings (ASKING); Leski and Gowans results for 'burl'; Etsy/eBay live-edge burl slab asking prices for comparison.",
  "rate_note": "All prices AUD, no conversion.",
- "viewing_check": "Check species and figure (cut a clean face or wet it), depth of cracks, rot or insect holes, thickness of the slab and wall thickness of the hollowed piece, and whether the hole goes right through. Photograph with a tape measure."
+ "viewing_check": "Species, figure, cracks, depth.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138079,
  "lot": 1482,
- "identification": "Two embossed glass oil bottles: one with Shell X-100 Motor Oil 30 tin pourer top and red cap (photo 2 shows paint loss and rust at spout), the other with a worn plastic Castrol GTX pourer top. Residual oil in both.",
+ "identification": "Two glass oil bottles with pourer tops: one with a Shell X-100 Motor Oil 30 tin cone pourer top (red collar, paint loss and rust at spout), the other with a worn cream Castrol GTX pourer top. Residual oil in both.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,84 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2535550&chid=24218&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Embossed Wakefield Castrol pint bottle with Shell tin top. Database record only (no page opened). AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$318.70",
+   "currency": "AUD",
+   "aud_price": 318.7,
+   "date": "2026-11-09",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/407346114385",
+   "same_item": "yes",
+   "note": "Vintage 1950s Shell X-100 Motor Oil 30, top and glass oil bottle, pre-owned, Buy It Now, dealer listing (condition not confirmed; top end of range).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.00",
+   "currency": "AUD",
+   "aud_price": 85.0,
+   "date": "2026-10-19",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/206031611068",
+   "same_item": "close",
+   "note": "Shell 30 X100 tin motor oil top/pourer with tin cap, top only (no bottle), pre-owned, Buy It Now.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$132.88",
+   "currency": "AUD",
+   "aud_price": 132.88,
+   "date": "2024-07-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/204889199055",
+   "same_item": "close",
+   "note": "Vintage Shell X100 oil tin top with vintage one imperial pint bottle; grade not read from Terapeak row. Over 2 years old.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.63",
+   "currency": "AUD",
+   "aud_price": 51.63,
+   "date": "2025-04-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156880894429",
+   "same_item": "close",
+   "note": "Vintage Shell X100 10W-30 tin top pourer bottle and 1 quart glass bottle; multigrade, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$171.37",
+   "currency": "AUD",
+   "aud_price": 171.37,
+   "date": "2025-06-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167376035606",
+   "same_item": "close",
+   "note": "Shell X100 Multigrade 20W-40 oil bottle tin top; multigrade not '30'.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$70",
+   "currency": "AUD",
+   "aud_price": 70.0,
+   "date": "2025-05-07",
+   "venue": "Armitage sale 23991 lot 1383",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491191&chid=23991&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "1 pint oil bottle with Shell X100 tin top; database hint, not opened; not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'shell oil bottle', 'x-100 motor oil', 'castrol gtx bottle' (no hits), 'oil bottle tin top'; work/comps.py: 'shell oil bottle'. Only one non-local SOLD hit near this item (eBay AU Mobiloil pint bottle, $184, 2026-10-05); no Shell X-100 bottle resale comp found. Burns & Co and Leski (2013, Texaco, too old) hits were unrelated mixed lots, omitted.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'shell oil bottle', 'x-100 motor oil', 'castrol gtx bottle' (no hits), 'oil bottle tin top'; work/comps.py: 'shell oil bottle'. Only one non-local SOLD hit near this item (eBay AU Mobiloil pint bottle, $184, 2026-10-05); no Shell X-100 bottle resale comp found. Burns & Co and Leski (2013, Texaco, too old) hits were unrelated mixed lots, omitted. | chrome: Terapeak AU 3 yrs: 'shell x100 oil bottle', 'shell x100 30 tin top'; eBay AU public sold 'shell x100 30 tin top oil bottle'.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/completed: 'Shell X-100 oil bottle tin top', 'Shell X100 tin pourer bottle', 'Shell X100 motor oil 30 bottle'; Terapeak same terms (last 12 months); also 'Castrol GTX plastic oil bottle top'. Check Gowans/Burns & Co/Shannons petroliana results for Shell tin-top bottles.",
- "viewing_check": "Check the Shell tin top for rust holes, dents, and whether the bottle is embossed and matches (pint vs quart); check bottle for chips or cracks and the GTX top for splits. Photograph bottle base embossing.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Bottle base embossing and size (pint or 500ml), whether the Shell top is rusted through, paint loss extent, cracks, and what the GTX top is made of.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

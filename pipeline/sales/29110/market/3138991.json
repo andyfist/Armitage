@@ -1,8 +1,151 @@
-{"cdid":3138991,"lot":1227,"identification":"Small Japanese four-drawer kiri/sugi tansu (narrow single-case chest), iron lock plates, drop pulls and side carry rings, Meiji/Taisho. Worn, stained, drawer fronts marked, paper tag on bottom drawer.","entries":[
-{"kind":"SOLD","price":"AUD 260","currency":"AUD","aud_price":260,"date":"2026-04-24","venue":"Gowans Auctions, Hobart, auction 340 (paid locally, not a resale price)","url":"https://www.gowansauctions.com.au/auction/340?lot=403359","same_item":"close","note":"Japanese 5 drawer tansu, softwood, dark worn finish, iron lock plates; very similar; database record; 7 bids"},
-{"kind":"SOLD","price":"AUD 110","currency":"AUD","aud_price":110,"date":"2026-01-23","venue":"Gowans Auctions, Hobart, auction 327 (paid locally, not a resale price)","url":"https://www.gowansauctions.com.au/auction/327?lot=385262","same_item":"close","note":"Japanese 2 drawer tansu chest; database record"},
-{"kind":"SOLD","price":"AUD 300","currency":"AUD","aud_price":300,"date":"2025-11-14","venue":"Gowans Auctions, Hobart, auction 321 (paid locally, not a resale price)","url":"https://www.gowansauctions.com.au/auction/321?lot=374061","same_item":"category guide","note":"4 drawer Japanese 2 part tansu; larger two-part form; database record"},
-{"kind":"SOLD","price":"AUD 200","currency":"AUD","aud_price":200,"date":"2026-08-14","venue":"Gowans Auctions, Hobart, auction 356 (paid locally, not a resale price)","url":"https://www.gowansauctions.com.au/auction/356?lot=429471","same_item":"close","note":"Japanese small wooden cabinet with 6 drawers; database record"},
-{"kind":"SOLD","price":"AUD 180","currency":"AUD","aud_price":180,"date":"2026-01-16","venue":"Gowans Auctions, Hobart, auction 326 (paid locally, not a resale price)","url":"https://www.gowansauctions.com.au/auction/326?lot=382635","same_item":"category guide","note":"Japanese 5 drawer chest with door concealing 2 drawers; database record"},
-{"kind":"SOLD","price":"AUD 1,320","currency":"AUD","aud_price":1320,"date":"2026-01-21","venue":"Armitage Auctions, Launceston sale 27046 lot 1037 (paid locally, not a resale price)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2788650&chid=27046&category=ALL&style=group","same_item":"category guide","note":"Large 2-piece Meiji mizuya tansu 172cm high; far bigger and better; ceiling only"}
-],"searches_tried":"pipeline/comps.py: 'tansu', 'japanese chest drawer', 'meiji tansu'; work/comps.py: 'tansu'. All hits are Gowans/Armitage local rooms; no resale comps in databases.","needs_chrome":true,"chrome_hint":"eBay AU sold+completed: 'japanese tansu small drawer chest', 'meiji tansu iron'; Terapeak same; LiveAuctioneers and Invaluable results: 'Japanese tansu four drawer' (Australian and US small chests, last 10 years); Lawsons, Leonard Joel, Theodore Bruce sold results 'tansu'; also check Gumtree/Facebook Marketplace AU asking prices (ASKING only).","rate_note":"All AUD, no conversion.","viewing_check":"Check drawer interiors for kiri vs sugi, wood condition and borer, whether the iron lock plates and pulls are original, locks working, and the overall size/measurements; photograph back and base for splits or replacement boards."}
+{
+ "cdid": 3138991,
+ "lot": 1227,
+ "identification": "Small Japanese four-drawer tansu, narrow single-case chest (79 x 29 x 34 cm), softwood (sugi/kiri) with dark worn finish, black iron lock plates with drop-ring pulls, iron carry rings on the sides, old paper labels on drawer fronts. Meiji/Taisho. Estimate 150-250, no bids yet.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "AUD 260",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "2026-04-24",
+   "venue": "Gowans Auctions, Hobart, auction 340 (paid locally, not a resale price)",
+   "url": "https://www.gowansauctions.com.au/auction/340?lot=403359",
+   "same_item": "close",
+   "note": "Japanese 5 drawer tansu, softwood, dark worn finish, iron lock plates; very similar; database record; 7 bids"
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 110",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-01-23",
+   "venue": "Gowans Auctions, Hobart, auction 327 (paid locally, not a resale price)",
+   "url": "https://www.gowansauctions.com.au/auction/327?lot=385262",
+   "same_item": "close",
+   "note": "Japanese 2 drawer tansu chest; database record"
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 300",
+   "currency": "AUD",
+   "aud_price": 300,
+   "date": "2025-11-14",
+   "venue": "Gowans Auctions, Hobart, auction 321 (paid locally, not a resale price)",
+   "url": "https://www.gowansauctions.com.au/auction/321?lot=374061",
+   "same_item": "category guide",
+   "note": "4 drawer Japanese 2 part tansu; larger two-part form; database record"
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 200",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2026-08-14",
+   "venue": "Gowans Auctions, Hobart, auction 356 (paid locally, not a resale price)",
+   "url": "https://www.gowansauctions.com.au/auction/356?lot=429471",
+   "same_item": "close",
+   "note": "Japanese small wooden cabinet with 6 drawers; database record"
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 180",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-01-16",
+   "venue": "Gowans Auctions, Hobart, auction 326 (paid locally, not a resale price)",
+   "url": "https://www.gowansauctions.com.au/auction/326?lot=382635",
+   "same_item": "category guide",
+   "note": "Japanese 5 drawer chest with door concealing 2 drawers; database record"
+  },
+  {
+   "kind": "SOLD",
+   "price": "AUD 1,320",
+   "currency": "AUD",
+   "aud_price": 1320,
+   "date": "2026-01-21",
+   "venue": "Armitage Auctions, Launceston sale 27046 lot 1037 (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2788650&chid=27046&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Large 2-piece Meiji mizuya tansu 172cm high; far bigger and better; ceiling only"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$278.65",
+   "currency": "AUD",
+   "aud_price": 278.65,
+   "date": "2026-03-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/405414611731",
+   "same_item": "close",
+   "note": "Antique sugi wood tansu box, Japanese drawers, iron lock c1900, BIN. Size not stated (a small box type); item page shows ended at A$260 vs Terapeak A$278.65, so Terapeak figure may include conversion/postage; use A$260-279",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$292.66",
+   "currency": "AUD",
+   "aud_price": 292.66,
+   "date": "2026-10-28",
+   "venue": "eBay AU public sold search",
+   "url": "https://www.ebay.com.au/itm/237078898958",
+   "same_item": "close",
+   "note": "Antique Japanese tansu chest, iron hardware, keyaki style Meiji, kuri-noki; BIN; size not confirmed",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$233.82",
+   "currency": "AUD",
+   "aud_price": 233.82,
+   "date": "2025-10-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/306437814426",
+   "same_item": "close",
+   "note": "Antique Japanese small wooden tansu box, calligraphy drawers; BIN; small tabletop type",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$317.25",
+   "currency": "AUD",
+   "aud_price": 317.25,
+   "date": "2025-08-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/388794222849",
+   "same_item": "close",
+   "note": "Japanese vintage wooden multi-drawer sewing/tansu chest; BIN; small tabletop type",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$285.75",
+   "currency": "AUD",
+   "aud_price": 285.75,
+   "date": "2025-02-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/387644732440",
+   "same_item": "close",
+   "note": "Vintage medicine chest, Japanese herbal drawer cabinet, mini tansu; BIN; smaller, vintage not antique",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$110-300",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "2025-11 to 2026-08",
+   "venue": "Gowans Auctions Hobart",
+   "url": "https://www.gowansauctions.com.au/auction/340?lot=403359",
+   "same_item": "close",
+   "note": "Database hints (not opened by me): Gowans tansu A$110-260 for 2-6 drawer chests. Cost guide only.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'tansu', 'japanese chest drawer', 'meiji tansu'; work/comps.py: 'tansu'. All hits are Gowans/Armitage local rooms; no resale comps in databases. | chrome: Terapeak AU 3yr 'japanese tansu drawers' (about 10 rows); eBay AU public sold 'antique japanese tansu chest iron' AU filter (mostly hardware and small boxes); opened ended item pages 405975624791 (Best Offer, excluded), 405414611731.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold+completed: 'japanese tansu small drawer chest', 'meiji tansu iron'; Terapeak same; LiveAuctioneers and Invaluable results: 'Japanese tansu four drawer' (Australian and US small chests, last 10 years); Lawsons, Leonard Joel, Theodore Bruce sold results 'tansu'; also check Gumtree/Facebook Marketplace AU asking prices (ASKING only).",
+ "rate_note": "All AUD, no conversion.",
+ "viewing_check": "Drawer interiors, borer, whether locks/pulls original, splits, any replaced boards.",
+ "chrome_done": true
+}

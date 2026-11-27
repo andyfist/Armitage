@@ -1,7 +1,7 @@
 {
  "cdid": 3138707,
  "lot": 2115,
- "identification": "Stainless-bodied submersible drainage/sump pump with black base and float switch, sold as Onka per title (label not legible in photo), plus a tub of blue pool hose. Condition unknown, untested.",
+ "identification": "Onka stainless-bodied submersible drainage/dirty-water pump with black base, coiled mains cable and vertical float switch, plus a clear tub holding blue corrugated pool-type hose (several lengths). Tub is hand-marked \"pump\" and a number. Brand per catalogue title only; label not legible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -44,9 +44,10 @@
    "note": "AUD. Submersible pump, not tested; local room, not resale. From database."
   }
  ],
- "searches_tried": "pipeline/comps.py: 'onka pump', 'onka submersible', 'submersible pump' (11 local hits, median $25, all Armitage/Gowans), 'drainage pump', 'pool hose', 'sump pump'; work/comps.py: 'onka pump' (none). No Onka hits, no resale comps.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'onka pump', 'onka submersible', 'submersible pump' (11 local hits, median $25, all Armitage/Gowans), 'drainage pump', 'pool hose', 'sump pump'; work/comps.py: 'onka pump' (none). No Onka hits, no resale comps. | chrome: WebSearch for Onka pump (nothing). eBay AU public sold search \"onga submersible pump stainless\" (Sep-Nov 2026): 0 exact; related sold new stainless dirty-water sump pumps A$99-165 (Marro 180-370W A$135-165, Kuller A$99). Verdict: under A$100 used, not worth chasing.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/completed: 'Onka submersible pump', 'Onka drainage pump stainless', 'Onka 400W/750W submersible'. Terapeak on same. Also find current new retail price in Australia (Bunnings, Onka/Kmart-type retailers) for the matching Onka model as an ASKING 'new retail price' entry. Gumtree AU for used asking prices.",
- "viewing_check": "Read the pump label for model and wattage, check cable and float switch for damage, see if the impeller turns freely, note the hose length and condition.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Read pump label for model and wattage, check cable, float switch, impeller turns, hose length.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138572,
  "lot": 1980,
- "identification": "Strapped pack of approx 8.0 m2 Tasmanian oak tongue and groove flooring on bearers, mixed lengths, unfinished, unused looking with some darker boards (hand-marked batten). Profile and thickness not confirmed.",
+ "identification": "One long strapped pack of solid Tasmanian oak tongue and groove flooring on bearers, handwritten batten 'APPROX 8.0 M2 TAS OAK T+G FLOORING'. End view shows only about 3 boards across by about 17 layers, and the boards look roughly 4.5-5 times their thickness, so probably about 85-90 x 19-20 mm, not the 65 x 20 mm in the catalogue. Long lengths (pack roughly 4-5 m against the forklift), some shorter pieces sticking out one end. Unfinished, appears unused; several darker or weathered boards and a few rough/grey ends. Illegible pencil writing on the top board.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,96 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/415797/",
    "same_item": "category guide",
    "note": "Strapped pack new unused Tas oak T&G (VJ style), size unstated. Low outlier. Paid locally: what we might pay, NOT a resale price. Database record, no page opened."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$13.39/lm",
+   "currency": "AUD",
+   "aud_price": 13.39,
+   "date": "2026-11-27",
+   "venue": "Bunnings (new retail)",
+   "url": "https://www.bunnings.com.au/85-x-19mm-tasmanian-oak-em-prime-flooring-linear-metre_p0081498",
+   "same_item": "close",
+   "note": "85x19 Tas oak EM prime flooring, A$13.39 per lineal metre, about A$160-170/m2 laid cover. 65 mm boards are narrower and not stocked; new value of 10 m2 roughly A$1,000-1,600. New retail only, not a resale price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$11.90/lm ex GST",
+   "currency": "AUD",
+   "aud_price": 13.09,
+   "date": "2026-11-27",
+   "venue": "Elite Wooden Floors (new retail)",
+   "url": "https://www.elitewoodenfloors.com.au/products/tasmanian-oak-solid-timber-flooring",
+   "same_item": "close",
+   "note": "Tas oak solid flooring 85/108/133x19, from A$11.90/lm ex GST (A$13.09 inc). New retail only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$260",
+   "currency": "AUD",
+   "aud_price": 260,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3021032&chid=28449&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Lot 1862 'PACK OF TAS OAK T&G FLOORING APPROX 10 M2 L-160 CM 65MM X 20MM' (page opened, same wording, evidently same vendor). Price from database (page shows lot closed, no price). Not a resale price. About A$26/m2.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$210",
+   "currency": "AUD",
+   "aud_price": 210,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020973&chid=28449&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Lot 1803, approx 10 m2 to 120 cm. Database figure, page not opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$215",
+   "currency": "AUD",
+   "aud_price": 215,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3021030&chid=28449&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Lot 1860, approx 12 m2 L-120 cm. Database figure.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$205",
+   "currency": "AUD",
+   "aud_price": 205,
+   "date": "2026-08-19",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3020971&chid=28449&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Lot 1801, approx 12 m2 L-80 cm. Database figure.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2025-03-26",
+   "venue": "Armitage Auctions, Launceston",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2448586&chid=23724&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Lot 1913, 2 packs Tas oak T&G, area unstated. Database figure.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: tasmanian oak flooring (no resale comps); tongue groove flooring; oak flooring; tas oak t g; lining boards. work/comps.py: tasmanian oak flooring. Only Armitage and Gowans (paid locally) hits found; no resale comps.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: tasmanian oak flooring (no resale comps); tongue groove flooring; oak flooring; tas oak t g; lining boards. work/comps.py: tasmanian oak flooring. Only Armitage and Gowans (paid locally) hits found; no resale comps. | chrome: eBay AU public sold 'hardwood tongue groove flooring m2' (0 exact); same searches as lot 1960 (eBay AU sold 'tasmanian oak flooring', 'tas oak floorboards'; Terapeak 'tasmanian oak flooring' with shared Used condition filter; Bunnings/Elite new retail). Armitage lot 1862 page opened.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold and completed: 'tasmanian oak flooring' and 'tas oak tongue and groove flooring' (note price per m2, pickup in Tas). Gumtree and Facebook Marketplace Tas: 'tas oak flooring' per m2. Retail: Bunnings, British Hardware, Tas timber merchants for new Tas oak T&G flooring per m2 (ASKING). Auction results: Gowans, Mitchell and Co and Tasmanian Auction House sold timber flooring packs. Compare per m2 and note thickness 19-20mm and width 80-130mm.",
- "viewing_check": "Measure board width and thickness, count pack for true m2 (about 8), check for end-match, splits, borer, stains and the darker boards, and confirm species is Tas oak not blackwood or myrtle.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Measure width and thickness (expect 85x19, catalogue says 65x20), check the darker boards (species, weathering, moisture), share of short pieces, any end splits, borer or cupping; count layers x boards for real m2.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

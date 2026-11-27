@@ -1,7 +1,7 @@
 {
  "cdid": 3138219,
  "lot": 1624,
- "identification": "Brass trumpet-bell air horn on black cast diaphragm housing with two mounting lugs, railway/locomotive style (maker unknown; Westinghouse-type possible). Photos show a tag, no visible maker marks on the housing back; housing repainted black, bell polished.",
+ "identification": "Brass trumpet-bell air horn (railway/locomotive or tyfon-type), roughly 40-45 cm long, with a black-painted cast diaphragm housing with two mounting lugs. Polished brass bell and tube, housing repainted, no maker.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,48 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2671854&chid=26383&category=ALL&style=group",
    "same_item": "close",
    "note": "MELBOURNE TRAIN AIR HORNS (plural, so possibly more than one horn). Paid locally: what we might pay, NOT a resale price. Database record only, page not opened. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$133.60",
+   "currency": "AUD",
+   "aud_price": 133.6,
+   "date": "2026-02-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/327006747976",
+   "same_item": "close",
+   "note": "Vintage MAS (Melbourne rail) air horn Matexon; Terapeak shows A$133.60, ended page shows A$125. Named railway horn, so likely a little stronger than ours",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$287.49",
+   "currency": "AUD",
+   "aud_price": 287.49,
+   "date": "2025-02-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/196954684237",
+   "same_item": "close",
+   "note": "Westinghouse railway horn cast iron brass. Ended page shows A$300 vs Terapeak 287.49, so Best Offer: excluded from max. Named maker.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$164.13",
+   "currency": "AUD",
+   "aud_price": 164.13,
+   "date": "2026-09-24",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/137758257456",
+   "same_item": "category guide",
+   "note": "Vintage train air horn steam whistle brass; a whistle, not a trumpet horn",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'air horn', 'train horn', 'brass horn', 'railway horn'; work/comps.py: 'air horn brass'. No eBay or other open-market resale comps for train horns in the databases (only Gowans/Armitage local rooms, paid locally $35-$115, median about $85).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'air horn', 'train horn', 'brass horn', 'railway horn'; work/comps.py: 'air horn brass'. No eBay or other open-market resale comps for train horns in the databases (only Gowans/Armitage local rooms, paid locally $35-$115, median about $85). | chrome: Terapeak AU 3yr: 'brass train air horn' (4 rows, mostly modern), 'vintage train horn brass' (3 rows), 'railway air horn' (4 rows); Terapeak US 'brass locomotive air horn' (HO model parts only); eBay AU public sold 'brass train horn vintage' worldwide (steam whistles mostly). Terapeak filters headings Condition/Format/Price shown, none selected.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'brass train air horn', 'locomotive air horn brass', 'Westinghouse air horn brass', 'railway horn diaphragm brass'; also eBay US sold 'brass locomotive horn' (convert USD to AUD, state rate); Leski, Mossgreen/Theodore Bruce and Newcastle/Railwayana auction results for 'locomotive horn', 'tyfon horn', 'Westinghouse horn'. Check for Tyfon or Westinghouse casting marks on the housing.",
- "viewing_check": "Look at the casting for a maker name or number (Westinghouse, Tyfon, Leslie, Wabco, SAR/VR/NSWGR stamp), any railway ownership stamp, and the underside/inside of housing for cast marks under the repaint. Confirm diaphragm is present and bell is not dented. Photograph all marks.",
- "rate_note": "All entries AUD, no conversion needed."
+ "viewing_check": "Look for cast marks (Westinghouse, Tyfon, Wabco, VR/NSWGR) under the black paint on the housing; check diaphragm and bell for dents.",
+ "rate_note": "All entries AUD, no conversion needed.",
+ "chrome_done": true
 }

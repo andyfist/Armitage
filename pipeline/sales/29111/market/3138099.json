@@ -1,7 +1,7 @@
 {
  "cdid": 3138099,
  "lot": 1502,
- "identification": "Makita HS7000 185mm (7-1/4in) corded circular saw, 1200W, 230-240V, made in China, label dated 2022.3, serial 00253248 K (photo 3). Box printed HS7000SP (SP = the retail pack, with 2 year warranty logo). Appears as new with box, cord and plug visible, no blade-guard damage seen. Budget-range Makita model.",
+ "identification": "Makita HS7000 185mm 1200W corded circular saw, boxed (box HS7000SP), plate dated 2022-3, made in China, looks as new.",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,11 +46,72 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045404&chid=28589&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Paid locally (AUD, no conversion): what we might pay, NOT a resale price. Database hit only, page not opened. Makita circular saw, going order, size unstated. Typical used local price is about $20-85 (24 hits, median $40)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.4",
+   "currency": "AUD",
+   "aud_price": 42.4,
+   "date": "2026-08-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/188677945836",
+   "same_item": "yes",
+   "note": "HS7000, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52.64",
+   "currency": "AUD",
+   "aud_price": 52.64,
+   "date": "2026-03-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/188089824063",
+   "same_item": "yes",
+   "note": "HS7000, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.32",
+   "currency": "AUD",
+   "aud_price": 53.32,
+   "date": "2026-02-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/257354501492",
+   "same_item": "yes",
+   "note": "HS7000, auction.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$54.69",
+   "currency": "AUD",
+   "aud_price": 54.69,
+   "date": "2025-09-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/187587292824",
+   "same_item": "yes",
+   "note": "HS7000, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.05",
+   "currency": "AUD",
+   "aud_price": 60.05,
+   "date": "2023-12-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176022804110",
+   "same_item": "yes",
+   "note": "HS7000, fixed price; over 2 years old.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py and work/comps.py: 'makita circular saw' (24 hits, local only), 'makita HS7000' (none), 'makita 185mm saw' (1 hit), 'makita 185' (2 hits), 'makita boxed saw' (1 hit). No resale (non-local) comps in any database. New retail price NOT obtained (databases only), so no ASKING entry yet.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py and work/comps.py: 'makita circular saw' (24 hits, local only), 'makita HS7000' (none), 'makita 185mm saw' (1 hit), 'makita 185' (2 hits), 'makita boxed saw' (1 hit). No resale (non-local) comps in any database. New retail price NOT obtained (databases only), so no ASKING entry yet. | chrome: Terapeak AU 3yr 'Makita HS7000 circular saw', 56 rows read first 10; no condition chip seen.",
+ "needs_chrome": false,
  "chrome_hint": "1) eBay.com.au sold+completed: 'Makita HS7000 circular saw' and 'Makita HS7000SP' (also Terapeak, last 90 days); note used vs new. 2) New retail AU (ASKING, for the record): Bunnings, Sydney Tools, Total Tools, Mitre 10 'Makita HS7000 185mm circular saw'. 3) Gumtree/Facebook Marketplace asking for used HS7000 (ASKING). 4) Grays Online / Lawsons sold results 'Makita circular saw 185mm'.",
  "rate_note": "All entries AUD, no conversion.",
- "viewing_check": "Confirm box is HS7000SP and sealed contents complete: saw, blade fitted, rip fence, hex key, manual. Check the base plate for scratches, cord for damage, spin test on power, and that the serial on box matches the saw."
+ "viewing_check": "Confirm blade, rip fence, hex key, manual present and saw runs.",
+ "chrome_done": true
 }

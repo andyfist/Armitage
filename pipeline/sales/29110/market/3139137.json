@@ -1,7 +1,7 @@
 {
  "cdid": 3139137,
  "lot": 2373,
- "identification": "Vertical stainless steel manual sausage filler/stuffer, crank handle, rectangular frame and base, about 7 L cylinder, three stuffing tubes (one fitted, two loose). Small paper label on top, illegible at photo resolution; maker unknown. Condition looks clean and good.",
+ "identification": "Unbranded vertical stainless steel manual sausage stuffer, roughly 7 L cylinder, crank handle, rack and piston, rectangular base, 3 stuffing tubes (one fitted, two loose). Generic Asian-made type like Uimoso/VEVOR 7L.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,10 +57,59 @@
    "url": "https://www.ebay.com.au/itm/266686964699",
    "same_item": "category guide",
    "note": "Flora Max 3400W electric mincer, new, 70 sold avg. Different item (electric, new). Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$99.46",
+   "currency": "AUD",
+   "aud_price": 99.46,
+   "date": "2026-11-11",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/800802741642",
+   "same_item": "yes",
+   "note": "15LB/7L manual vertical stuffer, Pre-owned, 'or Best Offer' shown so price may be Best Offer; search page only, listing not opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$176.26",
+   "currency": "AUD",
+   "aud_price": 176.26,
+   "date": "2026-11-12",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/366700716016",
+   "same_item": "close",
+   "note": "Uimoso 7L vertical, brand new (with coupon), delivery extra. New price guide.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$169.99",
+   "currency": "AUD",
+   "aud_price": 169.99,
+   "date": "2026-11-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/147608796551",
+   "same_item": "close",
+   "note": "VEVOR 7L vertical, brand new, delivery A$134 extra. New price guide.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$274.99",
+   "currency": "AUD",
+   "aud_price": 274.99,
+   "date": "2026-09-22",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336741101540",
+   "same_item": "close",
+   "note": "Uimoso 7L vertical 304 stainless, new, delivery A$176 extra.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'sausage filler' (nil), 'sausage stuffer stainless' (nil), 'sausage maker', 'sausage', 'stuffer', 'meat mincer stainless'. work/comps.py: 'sausage filler' (nil). No same-item manual vertical filler sale in any database. No web searches (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'sausage filler' (nil), 'sausage stuffer stainless' (nil), 'sausage maker', 'sausage', 'stuffer', 'meat mincer stainless'. work/comps.py: 'sausage filler' (nil). No same-item manual vertical filler sale in any database. No web searches (databases only). | chrome: eBay AU sold 'vertical sausage stuffer stainless 7L' (AU), Terapeak AU 3yr 'vertical sausage stuffer 7L' (avg A$247, range A$19-505). Verdict: under A$200 profit, a pass for resale.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'vertical sausage filler stainless 7L', 'sausage stuffer 5L 7L stainless steel vertical', and brand variants (Dick, Reber, Tre Spade, Sirman, Grizzly, Kitchener) once the label is known. Also eBay AU 'sausage stuffer vertical 7L' new price (Kogan, Amazon AU, Bunnings/Barbeques Galore for new retail ASKING). Gumtree/Facebook Marketplace AU asking for used 'sausage filler'. Auction houses: Grays Online, Lawsons, Mossgreen sold 'sausage filler'.",
- "viewing_check": "Read the label on top of the machine (maker/model/capacity). Check for a stamped capacity (5/7/10 L), that the piston rack and gear move smoothly, rubber seal on piston is intact, and that all stuffing tubes are present. Photograph the label and any plate underneath."
+ "viewing_check": "Read the top plate, confirm 7 L, smooth rack, piston seal and all 3 tubes.",
+ "chrome_done": true
 }

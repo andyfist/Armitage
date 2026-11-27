@@ -1,7 +1,7 @@
 {
  "cdid": 3138599,
  "lot": 2007,
- "identification": "Ozito Silent Shredder (low speed roller type, likely the ~2400W Bunnings model); no model number visible. Budget brand.",
+ "identification": "Ozito Silent Shredder, electric low-speed roller garden shredder on wheeled steel stand (Bunnings budget brand, likely 2400W Silent Shredder).",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,84 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3112822&chid=28978&category=ALL&style=group",
    "same_item": "close",
    "note": "Ozito Electric Shredder and long handle pruner, sale 28978 lot 1981 (database hit; paid locally, not a resale price; no web page opened)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.61",
+   "currency": "AUD",
+   "aud_price": 19.61,
+   "date": "2025-10-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167852734489",
+   "same_item": "yes",
+   "note": "Ozito 2400W Corded Silent Garden Shredder, auction 1 bid; Terapeak row.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.47",
+   "currency": "AUD",
+   "aud_price": 47.47,
+   "date": "2025-04-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/205389952900",
+   "same_item": "yes",
+   "note": "Ozito 2400W Silent Garden Shredder, good working order, auction 5 bids.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$49.43",
+   "currency": "AUD",
+   "aud_price": 49.43,
+   "date": "2024-07-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126589398673",
+   "same_item": "yes",
+   "note": "Ozito Silent Shredder portable, minimal usage, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.98",
+   "currency": "AUD",
+   "aud_price": 48.98,
+   "date": "2024-02-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134948205955",
+   "same_item": "yes",
+   "note": "Ozito 2400W Silent Garden Shredder auction 1 bid.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$78.27",
+   "currency": "AUD",
+   "aud_price": 78.27,
+   "date": "2024-02-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225996245654",
+   "same_item": "yes",
+   "note": "Ozito Silent Shredder 2400W SSH-240 excellent condition, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90.46",
+   "currency": "AUD",
+   "aud_price": 90.46,
+   "date": "2024-01-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176196009545",
+   "same_item": "yes",
+   "note": "Ozito 2400W Silent Shredder preowned, auction 3 bids; oldest, over 2.5 years.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'ozito shredder', 'ozito', 'garden shredder mulcher', 'shredder', 'silent shredder', 'rapid shredder', 'mulcher'; work comps.py: 'ozito shredder'. No new retail price in databases.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'ozito shredder', 'ozito', 'garden shredder mulcher', 'shredder', 'silent shredder', 'rapid shredder', 'mulcher'; work comps.py: 'ozito shredder'. No new retail price in databases. | chrome: Terapeak AU 3yr: ozito silent shredder (condition filter chip not selected). Google/Bunnings search for new price: no price read.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Ozito silent shredder', 'Ozito 2400W silent shredder', 'Ozito rapid shredder'; Bunnings AU for Ozito 2400W Silent Shredder new retail price (record as ASKING, new retail price); Gumtree/Facebook Marketplace Tasmania asking for comparison.",
- "viewing_check": "Model number and wattage on the rating plate; plug in or check cord and that the roller turns; check hopper and feed chute for damage; whether a catch bin or pusher is included.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Rating plate, cord, roller turns.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

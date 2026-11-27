@@ -1,7 +1,7 @@
 {
  "cdid": 3139268,
  "lot": 2505,
- "identification": "Large bowfront Tasmanian blackwood display cabinet, four arched glazed doors over four panel door base with two drawers, late 20th century cabinetmaker made, unmarked.",
+ "identification": "Large two-piece bowfront display cabinet, Tasmanian blackwood (solid or veneer not verified), four arched glazed doors with glass shelves over four arched-panel doors with two drawers and open centre. Late 20th century, unmarked. H194 W154 D40cm.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,36 @@
    "url": "gowans lot id 417283",
    "same_item": "category guide",
    "note": "2 door blackwood display cabinet; smaller. Database hit only, paid locally, not a resale price."
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$490",
+   "currency": "AUD",
+   "aud_price": 490,
+   "date": "2026-02-11",
+   "venue": "Armitage 27195 lot 1309, blackwood display cabinet H191 W125 D40 (database record, page not opened)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2811741&chid=27195&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Paid locally, hammer, not resale",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$230",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-02-11",
+   "venue": "Armitage 27195 lot 1257 blackwood 4 door display cabinet H210 W100 (database record)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2811689&chid=27195&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Paid locally, not resale",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: blackwood display cabinet; bowfront cabinet (no hits); blackwood china cabinet; display cabinet glazed. work/comps.py: blackwood cabinet (only Coogan bedside hits, irrelevant).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: blackwood display cabinet; bowfront cabinet (no hits); blackwood china cabinet; display cabinet glazed. work/comps.py: blackwood cabinet (only Coogan bedside hits, irrelevant). | chrome: eBay AU sold 'blackwood display cabinet' AU sellers (no same-item results).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'blackwood display cabinet'; 'Tasmanian blackwood bow front display cabinet'; 'blackwood china cabinet 4 door'. Terapeak same. Also Facebook Marketplace/Gumtree Tasmania asking for blackwood display cabinet, and Lawsons/Leonard Joel/Mossgreen Australian blackwood cabinet results.",
- "viewing_check": "Look inside and underneath for a maker label or stamp (Tasmanian makers add value), confirm solid blackwood vs veneer, measure H/W/D, check lights or mirror back, glass shelves and drawer runners.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check for maker label inside/under, solid vs veneer, measure H/W/D, lights/mirror back, glass shelves intact, drawer runners.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

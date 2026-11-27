@@ -1,7 +1,7 @@
 {
  "cdid": 3138226,
  "lot": 1631,
- "identification": "Two oak-cased tap and die sets (die stock with five round dies and tap wrench; second with large and small brass tap wrenches). Unmarked, part sets, worn cases, light rust. Generic vintage engineering tools.",
+ "identification": "Two vintage oak-cased tap and die sets, both incomplete. Set 1: die stock with tommy bar and 6 round dies, no taps visible. Set 2: two tap wrenches (large steel, small brass), no taps or dies. Cases worn and stained, rust. Maker unmarked in photos (likely English, Whitworth era).",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,72 @@
    "url": "gowans lot id 404365",
    "same_item": "close",
    "note": "Piper Threadmaster tap & die set; 3 bids. Database hit (not opened). PAID LOCALLY: shows what we might pay, not a resale price. AUD, no rate needed. Hammer, premium not included."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$26.32",
+   "currency": "AUD",
+   "aud_price": 26.32,
+   "date": "2026-03-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/257390555801",
+   "same_item": "close",
+   "note": "Vintage P&N part tap and die set, wooden case, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$17.66",
+   "currency": "AUD",
+   "aud_price": 17.66,
+   "date": "2025-08-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/388818762641",
+   "same_item": "close",
+   "note": "Tap and die set vintage in wooden case, Walsall, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$91.94",
+   "currency": "AUD",
+   "aud_price": 91.94,
+   "date": "2025-01-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/960165612266",
+   "same_item": "category guide",
+   "note": "Vintage tap and die set in wooden case, auction; date from Terapeak row not captured exactly, completeness unknown. Treat as unverified date",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$73.41",
+   "currency": "AUD",
+   "aud_price": 73.41,
+   "date": "2024-12-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/235850800532",
+   "same_item": "close",
+   "note": "Patience & Nicholson tap and die set in wooden case, Buy It Now, named maker, probably more complete",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95.78",
+   "currency": "AUD",
+   "aud_price": 95.78,
+   "date": "2025-01-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/365330518812",
+   "same_item": "category guide",
+   "note": "P&N tap and die set wooden case, auction, named maker",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'tap die', 'tap and die set', 'screw plate', 'die stock'; work/comps.py: 'tap die'. No resale (eBay/Terapeak) hits; only Armitage and Gowans paid-locally results (about $25-125, typical $50-70 for part or boxed sets).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'tap die', 'tap and die set', 'screw plate', 'die stock'; work/comps.py: 'tap die'. No resale (eBay/Terapeak) hits; only Armitage and Gowans paid-locally results (about $25-125, typical $50-70 for part or boxed sets). | chrome: Terapeak AU 3yr: 'vintage tap and die set wooden case' (9+ rows)",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'vintage tap and die set wooden case' and 'antique tap die set oak box' (sold and completed); Terapeak same terms last 12 months; also 'Whitworth tap and die set cased', 'Britannia/Hart/Moore & Wright/Eclipse tap die set' if a maker shows. Check Facebook Marketplace/Gumtree AU asking prices as ASKING only.",
- "viewing_check": "Look for maker names on die stock, tap wrench and dies (e.g. Whitworth, Moore & Wright, Eclipse, Britannia, Greenfield, Patience & Nicholson, Wells); thread type (BSW/BSF/Whitworth vs metric); count of taps and dies present; rust severity; whether brass wrench is stamped.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Maker marks on die stock, dies and wrenches, thread type, which taps/dies are present.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

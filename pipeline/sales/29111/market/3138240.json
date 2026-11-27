@@ -1,7 +1,7 @@
 {
  "cdid": 3138240,
  "lot": 1645,
- "identification": "Two unmarked Victorian-to-early 20th century English style cast iron kettles (one small with copper lid and wooden handle, one with brass handle and wooden grip) and a lidded cast iron camp oven with copper-toned lid and lid lifter. Sooty, rust inside oven. Makers unseen.",
+ "identification": "Two cast iron stove kettles (one larger with copper lid and black turned handle; one smaller with brass swing handle, wooden grip and cast lid) plus a lidded cast iron camp oven/dutch oven with copper-toned lid, loop handles and a rusty cast lid lifter. Interior of oven rusty with possible hairline crack lines near the base (photo 2). Makers not visible (bases/lids not shown).",
  "entries": [
   {
    "kind": "SOLD",
@@ -123,11 +123,60 @@
    "url": "gowans lot id 442772",
    "same_item": "close",
    "note": "PAID LOCALLY, shows what we might pay, not a resale price. cast iron camp oven. Database record, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$132.12",
+   "currency": "AUD",
+   "aud_price": 132.12,
+   "date": "2025-05-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/286214450699",
+   "same_item": "close",
+   "note": "Merton's cast iron 5 quart kettle with copper lid, Buy It Now, named maker",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.98",
+   "currency": "AUD",
+   "aud_price": 47.98,
+   "date": "2024-12-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156088767414",
+   "same_item": "close",
+   "note": "Kenrick 10 pint cast iron stovetop kettle, Buy It Now",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$172.61",
+   "currency": "AUD",
+   "aud_price": 172.61,
+   "date": "2025-01-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126878603770",
+   "same_item": "close",
+   "note": "T&C Clark No.1 4 pint cast iron kettle, Buy It Now",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$112.0",
+   "currency": "AUD",
+   "aud_price": 112.0,
+   "date": "2024-10-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156442936590",
+   "same_item": "category guide",
+   "note": "Clark & Co cast iron boiler kettle with tap, camp, Buy It Now",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: camp oven; cast iron kettle; camp kettle; billy kettle (no hits); kettle copper lid; Clark kettle; cast iron oven lid lifter. work comps.py: camp oven; cast iron kettle.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: camp oven; cast iron kettle; camp kettle; billy kettle (no hits); kettle copper lid; Clark kettle; cast iron oven lid lifter. work comps.py: camp oven; cast iron kettle. | chrome: Terapeak AU 3yr: 'cast iron kettle copper lid' (2 results), 'antique cast iron kettle' (10+ rows)",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'cast iron kettle copper lid' sold; 'cast iron camp oven lid' sold; 'T&C Clark kettle' sold; 'Kenrick kettle' sold. Also Gumtree/Facebook asking prices and LiveAuctioneers 'cast iron camp oven' for resale ranges. Common items; expect roughly $30-100 per piece resale, shipping heavy so local pickup limits buyers.",
- "viewing_check": "Turn kettles over and check the base and under the lid for maker marks (Clark, Kenrick, Mertons, Rd numbers, size number). Check kettles for cracks, holes or leaks, and the oven lid for a fit and a cracked rim; note oven size and any maker casting on the base.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Turn each kettle and lid over for maker names (T&C Clark, Merton, Kenrick) and size numbers; check kettles for cracks/holes and oven for crack and lid fit.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }
