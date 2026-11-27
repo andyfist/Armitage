@@ -1,13 +1,128 @@
-{"cdid":3137322,"lot":1010,"identification":"Macquarie Mint 2014 Centenary of WWI set (incomplete): 2g 14ct gold proof 'HMAS Sydney' commemorative (mintage 5,000, about 1.17g fine gold), Kiribati $10 'Preparing for Battle' silver coin, plus a third silver coin, in capsules with certificates.",
-"entries":[
-{"kind":"SOLD","price":"A$110 hammer","currency":"AUD","aud_price":110,"date":"2024-06-30","venue":"Leski Auctions, Melbourne sale 620 lot 51","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/620","same_item":"yes","note":"2014 Macquarie Mint Centenary of WWI folder with 2g gold HMAS Sydney, Kiribati $10 and another coin. Database record only, no page opened. Closest match to this lot. Hammer, premium excluded."},
-{"kind":"SOLD","price":"A$740 hammer","currency":"AUD","aud_price":740,"date":"2024-06-30","venue":"Leski Auctions, Melbourne sale 620 lot 25","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/620","same_item":"close","note":"Accumulation with five WWI 2g gold medallions plus silver. Database record only. Roughly $150 per gold piece, so supports about $110-150 for one."},
-{"kind":"SOLD","price":"A$120 hammer","currency":"AUD","aud_price":120,"date":"2026-04-13","venue":"Noble Numismatics, Sydney sale 141 lot 439","url":"https://www.noble.com.au/auctions/lot/?id=439198","same_item":"close","note":"Macquarie Mint coin folder with 14ct gold coin (2016) and .999 silver coin. Database record only. Similar small-gold-plus-silver folder."},
-{"kind":"SOLD","price":"A$140 hammer","currency":"AUD","aud_price":140,"date":"2024-06-30","venue":"Leski Auctions, Melbourne sale 620 lot 50","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/620","same_item":"close","note":"2013 Macquarie Mint We Will Remember Them folder with 2g gold piece, $2 coin. Database record only."},
-{"kind":"SOLD","price":"A$70 hammer","currency":"AUD","aud_price":70,"date":"2026-07-28","venue":"Noble Numismatics, Sydney sale 142 lot 1421","url":"https://www.noble.com.au/auctions/lot/?id=459407","same_item":"category guide","note":"Mixed world coins including Macquarie Mint WWI piece. Database record only, weak comparison."}
-],
-"searches_tried":"pipeline/comps.py: 'Macquarie Mint HMAS Sydney gold' (2 hits); 'Centenary WWI Kiribati silver' (none); '14ct gold proof Macquarie' (1); 'Macquarie Mint World War gold' (5); 'Leski Macquarie Mint folder gold' (2); 'Macquarie Mint' (many, scanned). work/comps.py gave nothing extra. No resale (eBay) comps held.",
-"needs_chrome":true,
-"chrome_hint":"eBay AU sold + Terapeak: 'Macquarie Mint HMAS Sydney 2g gold 2014', 'Macquarie Mint Centenary World War 1 14ct gold coin', 'Kiribati $10 Preparing for Battle 2014 silver'. Also Leski and Noble archives for 'Macquarie Mint 2g gold' and 'Centenary of WWI'. Check gold spot (14ct 2g about 1.17g fine) for melt.",
-"viewing_check":"Confirm the gold coin is present in its capsule and is the 2g 14ct HMAS Sydney (not gold plated), identify the third silver coin and certificate, and note which folder/sleeve pieces are missing.",
-"rate_note":"All sales in AUD, no conversion."}
+{
+ "cdid": 3137322,
+ "lot": 1010,
+ "identification": "Macquarie Mint '1914-2014 The Centenary of World War I' presentation folder, incomplete: 2014 'HMAS Sydney' gold commemorative (14-carat gold, 18 mm, 2 g, proof, mintage 5,000) in capsule, plus two silver coins in capsules: 2014 Kiribati $10 'Preparing for Battle' (10 g, 28 mm, Brilliant Uncirculated, mintage 150,000) and a second similar Kiribati $10 silver (Gallipoli/soldier scene). Certificates for the gold and the 'Preparing for Battle' coin; a third certificate partly visible under the folder (10 g, BU, mintage 150,000). Private mint issue: value is essentially gold content.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$110 hammer",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2024-06-30",
+   "venue": "Leski Auctions, Melbourne sale 620 lot 51",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/620",
+   "same_item": "yes",
+   "note": "2014 Macquarie Mint Centenary of WWI folder with 2g gold HMAS Sydney, Kiribati $10 and another coin. Database record only, no page opened. Closest match to this lot. Hammer, premium excluded."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$740 hammer",
+   "currency": "AUD",
+   "aud_price": 740,
+   "date": "2024-06-30",
+   "venue": "Leski Auctions, Melbourne sale 620 lot 25",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/620",
+   "same_item": "close",
+   "note": "Accumulation with five WWI 2g gold medallions plus silver. Database record only. Roughly $150 per gold piece, so supports about $110-150 for one."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120 hammer",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-04-13",
+   "venue": "Noble Numismatics, Sydney sale 141 lot 439",
+   "url": "https://www.noble.com.au/auctions/lot/?id=439198",
+   "same_item": "close",
+   "note": "Macquarie Mint coin folder with 14ct gold coin (2016) and .999 silver coin. Database record only. Similar small-gold-plus-silver folder."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$140 hammer",
+   "currency": "AUD",
+   "aud_price": 140,
+   "date": "2024-06-30",
+   "venue": "Leski Auctions, Melbourne sale 620 lot 50",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/620",
+   "same_item": "close",
+   "note": "2013 Macquarie Mint We Will Remember Them folder with 2g gold piece, $2 coin. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-07-28",
+   "venue": "Noble Numismatics, Sydney sale 142 lot 1421",
+   "url": "https://www.noble.com.au/auctions/lot/?id=459407",
+   "same_item": "category guide",
+   "note": "Mixed world coins including Macquarie Mint WWI piece. Database record only, weak comparison."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,703.87",
+   "currency": "AUD",
+   "aud_price": 1703.87,
+   "date": "2026-09-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206543209816",
+   "same_item": "close",
+   "note": "Macquarie Mint First World War COMPLETE 8-coin 14ct gold proof set with COAs, auction 11 bids. Same series; about A$213 per gold coin (if 2 g each, that is melt). Terapeak row; item page itself returned eBay error page.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$37.79",
+   "currency": "AUD",
+   "aud_price": 37.79,
+   "date": "2026-10-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/178552169640",
+   "same_item": "close",
+   "note": "Macquarie Mint 2014 Kiribati $10 'Leaving for War' 10 g silver (.500 per other listings) coin, fixed price. Sister coin of our silver pieces. 11 Terapeak sales of this coin over 3 years A$21-38.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2017-01-01",
+   "venue": "Noble Numismatics sale 115 lot 788",
+   "url": "https://www.noble.com.au/auctions/lot/?id=324809",
+   "same_item": "category guide",
+   "note": "Macquarie Mint First World War collection of 16 .333 silver medals plus Kiribati/Nauru $10 silvers; no gold. Shows silver-only WWI Macquarie items are cheap. Old. Page opened (sale date c.2017).",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "melt about A$245",
+   "currency": "AUD",
+   "aud_price": 245,
+   "date": "2026-11-27",
+   "venue": "Melt value",
+   "url": "https://meltvalue.com/au/gold-price",
+   "same_item": "category guide",
+   "note": "Gold coin 2 g x 0.585 = 1.17 g fine x A$173/g = about A$202. Two 10 g silver coins (cert reads 'Silver 999/1000' but sister listings say .500) at A$66.32/oz = A$11-21 each. Total about A$225-245.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "",
+   "venue": "Armitage estimate this sale",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3137322&chid=29109&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Estimate A$140-180; bid ladder starts at A$80. Not a sale.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'Macquarie Mint HMAS Sydney gold' (2 hits); 'Centenary WWI Kiribati silver' (none); '14ct gold proof Macquarie' (1); 'Macquarie Mint World War gold' (5); 'Leski Macquarie Mint folder gold' (2); 'Macquarie Mint' (many, scanned). work/comps.py gave nothing extra. No resale (eBay) comps held. | chrome: Terapeak AU 'macquarie mint gold 2 grams' (3 yrs), 'macquarie mint 14 carat gold' (3 yrs), '14 carat gold coin certificate' (90 d, none), '14ct gold coin proof' (90 d), 'kiribati $10 silver 2014 macquarie' (3 yrs); eBay public sold search errored (eBay server error pages); Noble lots 439198, 324809, 323595 opened.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'Macquarie Mint HMAS Sydney 2g gold 2014', 'Macquarie Mint Centenary World War 1 14ct gold coin', 'Kiribati $10 Preparing for Battle 2014 silver'. Also Leski and Noble archives for 'Macquarie Mint 2g gold' and 'Centenary of WWI'. Check gold spot (14ct 2g about 1.17g fine) for melt.",
+ "viewing_check": "Confirm the gold coin is in its capsule and the capsule is sealed; read the third silver coin and its certificate; note what's missing from the folder.",
+ "rate_note": "All sales in AUD, no conversion.",
+ "chrome_done": true
+}

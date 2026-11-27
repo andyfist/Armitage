@@ -1,7 +1,7 @@
 {
  "cdid": 3137298,
  "lot": 986,
- "identification": "Pair of 18ct white gold (stamped 750) crossover X pave diamond clip earrings, 90 x 0.03ct RBC (2.70ct by the valuation, title says 2.56ct), 10.14g, 18.39 x 10.08mm, Launceston Precision Jewellers valuation 2/05/2015 no. 11554, insurance replacement $8,650. Lot ticket 906 shows these were offered before (sale 28975, cdid 3111168). Photos viewed.",
+ "identification": "Pair of 18ct white gold crossover (X) clip-on earrings, one bar pave-set with round brilliant diamonds, the other bar plain polished, unbranded. Launceston Precision Jewellers valuation 2/05/2015 no. 11554 (Ben/Lynda Nicholls): 18ct white gold stamped 750, 90 x 0.03ct RBC diamonds pave set, 18.39 x 10.08mm, 10.14g total, insurance replacement *A$8,650 (* = handmade replacement price). 90 x 0.03 = 2.70ct; catalogue says 2.56ct. Right earring shows several brownish/yellow spots among the pave in the close-up: dirt in the settings, tinted stones, or empty settings.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,84 @@
    "url": "https://smithandsinger.com.au/lot/AU0804/204",
    "same_item": "category guide",
    "note": "From earlier research: different open-work design, 158 diamonds about 2.58ct, 18ct white gold. Old, loose guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,306.89",
+   "currency": "AUD",
+   "aud_price": 1306.89,
+   "date": "2026-10-23",
+   "venue": "eBay US (Terapeak, AUD as shown)",
+   "url": "https://www.ebay.com.au/itm/318813633516",
+   "same_item": "close",
+   "note": "18K yellow gold pave diamond cushion earrings, French clip, 7.5g, unbranded. Lighter, yellow gold. Public sold page showed A$1,639 ask/BO; Terapeak sold A$1,307.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$2,800",
+   "currency": "AUD",
+   "aud_price": 2800,
+   "date": "2023-05-09",
+   "venue": "Smith & Singer Sydney AU0861 lot 79",
+   "url": "https://www.smithandsinger.com.au/lot/AU0861/79",
+   "same_item": "close",
+   "note": "Page opened: pair 18ct white gold domed circle pave diamond earrings, about 2.20ct, 16mm, clip and hinged post, SIGNED PIOVANO (branded, so above unbranded). Hammer A$2,800 (A$3,436 with premium), est A$3,800-5,800. 3.5 years old, flagged as over 3 years.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,010.10",
+   "currency": "AUD",
+   "aud_price": 1010.1,
+   "date": "2026-11-06",
+   "venue": "eBay (public sold search, worldwide)",
+   "url": "https://www.ebay.com.au/itm/407318217589",
+   "same_item": "category guide",
+   "note": "18k white gold cocoa and white diamond pave dangle drop earrings, Italian design, 27 bids. Different style; shows auction level for unbranded pave.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,800",
+   "currency": "AUD",
+   "aud_price": 1800,
+   "date": "2012-09-11",
+   "venue": "Smith & Singer AU0770 lot 82",
+   "url": "https://www.smithandsinger.com.au/lot/AU0770/82",
+   "same_item": "category guide",
+   "note": "Page opened: pair spherical pave diamond pendant earrings, 18ct white gold, 28mm. Hammer A$1,800. 14 years old, out of window; not in median.",
+   "via": "chrome"
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "Estimate A$2,500-3,000",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "2026-11-11",
+   "venue": "Armitage sale 28975 lot 906",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111168&chid=28975&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Same pair (ticket 906 in photo). Lot closed; now relisted at a lower estimate (A$2,250-2,500), so it most likely passed in. Result not shown on page.",
+   "via": "chrome"
+  },
+  {
+   "kind": "MELT",
+   "price": "about A$1,270 (scrap about A$1,140)",
+   "currency": "AUD",
+   "aud_price": 1270,
+   "date": "2026-11-27",
+   "venue": "meltvalue.com/au/gold-price",
+   "url": "https://meltvalue.com/au/gold-price",
+   "same_item": "yes",
+   "note": "10.14g total less about 0.54g of diamonds (2.70ct) = about 9.6g of 18ct = 7.2g fine x A$176.62/g. Scrap buyers pay roughly 90%. Melee diamonds add little on a scrap basis (roughly A$100-300).",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'diamond clip earrings', 'pave diamond earrings white gold', '18ct white gold diamond earrings'; work/comps.py same three. Also read our own earlier research file for the previous offering (sale 28975 lot 906, cdid 3111168) and state/chrome_sold.json. No web used.",
+ "searches_tried": "pipeline/comps.py: 'diamond clip earrings', 'pave diamond earrings white gold', '18ct white gold diamond earrings'; work/comps.py same three. Also read our own earlier research file for the previous offering (sale 28975 lot 906, cdid 3111168) and state/chrome_sold.json. No web used. | chrome: Terapeak EBAY-US '18k white gold pave diamond crossover earrings' 3y (all Yurman), '18k white gold pave diamond clip earrings' 3y (20 rows, mostly branded), 'diamond clip earrings white gold 2ctw pave' 3y, '18k white gold pave diamond earrings 2ct' 90d (0); eBay AU public sold '18ct white gold pave diamond earrings' (branded only) and worldwide 'white gold pave diamond clip earrings'; Smith & Singer lot pages; WebSearch.",
  "rate_note": "USD to AUD 1.53 as used in earlier research. No true same-item resale price found in databases; the two LiveAuctioneers rows are mislabelled as this lot and are other items.",
- "needs_chrome": true,
+ "needs_chrome": false,
  "chrome_hint": "eBay AU and eBay US sold/Terapeak: '18k white gold pave diamond crossover clip earrings', 'white gold pave X earrings 750 clip 10g', 'diamond pave X clip earrings 18k'. Smith & Singer, Leski, Mossgreen/Lawsons, Theodore Bruce, Carters, Davidson results for 'pave diamond clip earrings 18ct white gold'. LiveAuctioneers/Invaluable sold: 'crossover pave diamond clip earrings 18k white gold'. Also check the gold-weight floor: 10.14g at 18ct is about 7.6g fine gold at today's AUD spot.",
- "viewing_check": "Check the 750 stamp on the clip backs, confirm clips and hinges work, and look for missing or loose pave stones and wear on the stone-set faces. Photograph the valuation to confirm date and weight. Ask whether the previous offering (ticket 906) sold or was passed in."
+ "viewing_check": "Loupe both pave faces for missing or chipped stones and check what the brownish spots on the right earring are. Check the 750 stamp, clip springs and posts/hinges. Look for a maker's mark (a signed Italian maker would lift the value). Weigh (10.14g). Ask whether lot 906 in sale 28975 passed in and at what bid.",
+ "chrome_done": true
 }

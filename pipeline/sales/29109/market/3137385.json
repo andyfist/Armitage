@@ -1,7 +1,7 @@
 {
  "cdid": 3137385,
  "lot": 1073,
- "identification": "About five clear plastic tubs of mixed loose world coins (visible: UK pennies and halfpennies, some Australian, an Indian holed coin, euro-era and Commonwealth minors, few possibly silver). Nothing key-date visible in photos. Bulk weight lot, probably 4 to 6 kg.",
+ "identification": "Bulk unsorted circulated world coins in four clear plastic takeaway tubs (about 3-6 kg total, unweighed). Mostly copper, brass and cupro-nickel with some aluminium; holed coins (Indian/Asian), British pennies and larger copper pieces visible; a few white-metal coins may be old silver but none identifiable.",
  "entries": [
   {
    "kind": "SOLD",
@@ -167,11 +167,72 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=tin+world+coins",
    "same_item": "close",
    "note": "Single tins of mixed world coins, many base metal. PAID LOCALLY: not a resale price; typical close results $35-$100. Hammer, AUD so rate 1.0; database record, not page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$41.48 per 1 kg",
+   "currency": "AUD",
+   "aud_price": 41.48,
+   "date": "2026-11-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/257388589566",
+   "same_item": "yes",
+   "note": "1 kg mixed world coins bulk, many 1800s dates. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.32 per 1 kg",
+   "currency": "AUD",
+   "aud_price": 53.32,
+   "date": "2026-09-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168586703445",
+   "same_item": "yes",
+   "note": "1 kg mixed world coins. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.32 per approx 1 kg",
+   "currency": "AUD",
+   "aud_price": 60.32,
+   "date": "2026-01-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267298671506",
+   "same_item": "yes",
+   "note": "Approx 1 kg mixed world coins, free post. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$41.51 per 1 kg",
+   "currency": "AUD",
+   "aud_price": 41.51,
+   "date": "2025-06-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/226567218540",
+   "same_item": "yes",
+   "note": "1 kg 1800s-current copper nickel world coins. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.10 per 1 kg",
+   "currency": "AUD",
+   "aud_price": 42.1,
+   "date": "2024-01-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225840249039",
+   "same_item": "yes",
+   "note": "1 kg mixed world coins 1800s onwards. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'bulk world coins'; 'world coins lot'; 'kilo coins'; 'tubs coins'. work comps.py: 'mixed world coins'; 'bulk coins tubs'. Databases only, no web.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'bulk world coins'; 'world coins lot'; 'kilo coins'; 'tubs coins'. work comps.py: 'mixed world coins'; 'bulk coins tubs'. Databases only, no web. | chrome: Terapeak AU 3yr 'world coins bulk lot 1kg' (50 rows).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'world coins bulk lot kg', 'mixed world coins job lot 5kg', 'UK pennies bulk lot' (sold, last 90 days, Australia). Noble Numismatics archive and Leski realised prices: 'bulk world coins base metal' last 2 years. Check eBay sold per-kg prices for unsorted world coins.",
- "viewing_check": "Estimate total weight, and dig through each tub for silver (Aus pre-1946 sixpence to florin, UK pre-1947, 1966 Aus 50c, crowns, USA/Canada silver), large crowns, gold or key dates; check the tub bottoms and any holed or capsule coins. Photograph a handful from the bottom of each tub.",
- "rate_note": "All hits AUD hammer, rate 1.0. Buyer's premium excluded. Resale evidence (Noble, Leski) for comparable bulk base metal world lots is about $120-$370, centred near $150-$220; Armitage and Gowans hits are local paying levels only."
+ "viewing_check": "Weigh the tubs (kitchen scales). Pick through for silver (pre-1947 British/Australian shillings, florins, half-crowns, pre-1920 Australian silver), any large crowns, Australian 1930 penny and other key dates. Only worth bidding if there is a handful of silver.",
+ "rate_note": "All hits AUD hammer, rate 1.0. Buyer's premium excluded. Resale evidence (Noble, Leski) for comparable bulk base metal world lots is about $120-$370, centred near $150-$220; Armitage and Gowans hits are local paying levels only.",
+ "chrome_done": true
 }

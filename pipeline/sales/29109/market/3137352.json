@@ -1,7 +1,7 @@
 {
  "cdid": 3137352,
  "lot": 1040,
- "identification": "Maria Theresa thaler dated 1780, almost certainly a post-1780 Austrian restrike (SF/X mintmark), .833 silver, about 28 g (about 23 g fine silver), with soldered loop for pendant. Not a contemporary strike.",
+ "identification": "Maria Theresa thaler dated 1780 (Austrian restrike), silver .833 about 28 g, with soldered bale loop as a pendant. Both photos opened: reverse double-headed eagle, obverse veiled bust; photos are only 450x600 so mint marks not legible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,84 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=313909",
    "same_item": "category guide",
    "note": "Silver coin jewellery, 50 cent pieces in pendant frames (2 different); category guide for pendant-mounted silver coins, older than 10 years only marginally. Local database hit, AUD so no conversion. Hammer, buyer's premium not included. Noble is a competitive national numismatic room. Database record only, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$86.63",
+   "currency": "AUD",
+   "aud_price": 86.63,
+   "date": "2024-06-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/386853973727",
+   "same_item": "yes",
+   "note": "1780 MT thaler restrike .833 silver coin pendant, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$18.93",
+   "currency": "AUD",
+   "aud_price": 18.93,
+   "date": "2025-02-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/235939588001",
+   "same_item": "yes",
+   "note": "Austrian 1780 MT thaler pendant, auction, 1 bid. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80.62",
+   "currency": "AUD",
+   "aud_price": 80.62,
+   "date": "2026-05-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/137309698473",
+   "same_item": "close",
+   "note": "Plain 1780 MT thaler restrike, no loop, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84.06",
+   "currency": "AUD",
+   "aud_price": 84.06,
+   "date": "2026-01-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127628086711",
+   "same_item": "close",
+   "note": "Plain 1780 MT thaler restrike, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$68.81",
+   "currency": "AUD",
+   "aud_price": 68.81,
+   "date": "2025-12-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/146985979798",
+   "same_item": "close",
+   "note": "Plain 1780 MT thaler restrike, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$31.22",
+   "currency": "AUD",
+   "aud_price": 31.22,
+   "date": "2024-05-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145770219340",
+   "same_item": "close",
+   "note": "Plain 1780 MT thaler, auction, low end",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'maria theresa thaler' (230 hits, median $180 but mostly multi-item lots); 'thaler 1780' (266); 'maria theresa' (335); 'thaler pendant' (3); 'thaler mount'; '1780 restrike'. work/comps.py 'maria theresa thaler': no resale comps found. No web searches (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'maria theresa thaler' (230 hits, median $180 but mostly multi-item lots); 'thaler 1780' (266); 'maria theresa' (335); 'thaler pendant' (3); 'thaler mount'; '1780 restrike'. work/comps.py 'maria theresa thaler': no resale comps found. No web searches (databases only). | chrome: Terapeak AU 1095 days x2.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold (Buy It Now and auction, completed): 'Maria Theresa thaler 1780 pendant', 'Maria Theresa thaler 1780 restrike silver', 'Maria Theresa thaler 1780 loop'; Terapeak for same; also eBay sold 'Maria Theresa 1780 thaler lot' to see single-coin retail. Check Noble Numismatics and Downies archive for 'Maria Theresa thaler 1780 holed OR mounted OR pendant'. Also current silver spot in AUD for melt (about 23 g fine).",
- "viewing_check": "Confirm date and mintmark (1780 SF or X) and edge lettering (Justicio Clementia); check weight (about 28 g) and that the loop is solder rather than a drilled hole; note any cleaning or damage. A loop reduces collector value, so expect bullion-plus pricing.",
- "rate_note": "All entries are AUD, no conversion."
+ "viewing_check": "Weigh it (about 28 g if genuine), check the edge lettering and that it is silver not a base-metal copy, and how much the loop damages the coin.",
+ "rate_note": "All entries are AUD, no conversion.",
+ "chrome_done": true
 }

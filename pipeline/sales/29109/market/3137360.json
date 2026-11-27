@@ -1,7 +1,7 @@
 {
  "cdid": 3137360,
  "lot": 1048,
- "identification": "30 circulated Australian coloured $2 coins in sleeves (Remembrance, Olympic, Commonwealth Games, Lest We Forget, Mr Squiggle, Possum Magic style and others). Face $60. Two or three plain red ring coins appear to be 2014-2017 Remembrance/Lest We Forget types with lettering around the ring, not the 2012 red poppy; photos cannot confirm.",
+ "identification": "About 30 circulated Australian coloured $2 coins in a 5-column plastic coin sheet (face value A$60, price tag on sheet reads about 5K/2/4/85, unclear). Mix of Remembrance, Olympic, Commonwealth Games and others. Photos are low resolution: dates and individual coin designs can't be read, so presence of a 2012 red poppy or other key date can't be confirmed.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,72 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/600",
    "same_item": "category guide",
    "note": "Mixed uncirculated coloured $2 group incl 2012 Remembrance (8), 2013 Coronation (2) and others. Better grade and includes keys; upper guide only. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$81.08",
+   "currency": "AUD",
+   "aud_price": 81.08,
+   "date": "2025-02-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116454032898",
+   "same_item": "close",
+   "note": "25 mixed circulated coloured $2 coins, bulk lot (about A$3.24 each). Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$81.14",
+   "currency": "AUD",
+   "aud_price": 81.14,
+   "date": "2025-02-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116454046389",
+   "same_item": "close",
+   "note": "25 circulated coloured $2 coins bulk lot, same seller. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$71.71",
+   "currency": "AUD",
+   "aud_price": 71.71,
+   "date": "2025-05-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116454060003",
+   "same_item": "close",
+   "note": "20 circulated coloured $2 coins bulk lot (about A$3.59 each). Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$72.57",
+   "currency": "AUD",
+   "aud_price": 72.57,
+   "date": "2025-04-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116454104339",
+   "same_item": "close",
+   "note": "20 circulated coloured $2 coins bulk lot. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$310.07",
+   "currency": "AUD",
+   "aud_price": 310.07,
+   "date": "2026-05-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/406917128364",
+   "same_item": "category guide",
+   "note": "75 mixed circulated coloured $2 coins (about A$4.13 each); larger lot, shows per-coin rate. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'coloured $2 coin', 'Remembrance Day $2', 'Mr Squiggle', 'Lest We Forget $2'; work comps.py: 'coloured 2 dollar coins' (no hits).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'coloured $2 coin', 'Remembrance Day $2', 'Mr Squiggle', 'Lest We Forget $2'; work comps.py: 'coloured 2 dollar coins' (no hits). | chrome: Terapeak AU 3 years 'coloured $2 coins lot'. Median of the four same-size comps about A$77 for 20-25 coins; scaled to 30 coins about A$100. Profit rule A$100 gives (100x0.85-100)/1.22 below zero, so max 0 at face-plus-small-premium; only worth it for bid under about A$0 net, i.e. not worth it unless key dates are seen.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: 'coloured $2 coins lot', 'bulk coloured $2 coins 30', 'Australia coloured two dollar coins collection' (last 90 days); Terapeak same. Leski and Noble Numismatics realised prices: 'coloured $2' bulk lots; also eBay sold '2012 Remembrance Day $2 circulated' and '2017 Lest We Forget $2 red' to price the red ring coins by date.",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Check the dates and reverse of each red ring coin: a 2012 Remembrance Day red poppy (worth $20-50+ circulated) versus 2014-2017 issues (near face). Look for a 2012 Lest We Forget RSL coin, 2013 Coronation, 2014 Gwoya Jungarai or other scarcer dates among the 30, and confirm the count."
+ "viewing_check": "Check the dates of every red-ring coin (2012 red poppy circulated can be A$20-50 versus 2014-2017 near face) and any 2012 Lest We Forget, 2013 Coronation, 2014 Gwoya Jungarai.",
+ "chrome_done": true
 }

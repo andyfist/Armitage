@@ -1,7 +1,7 @@
 {
  "cdid": 3137290,
  "lot": 978,
- "identification": "Victorian-style engraved sterling vesta case (name W. FARR in shield cartouche) plus a small shield-shaped hinged locket with scroll top, monogram outside and M.G.F. FARR inside, small marks probably Birmingham. Light silver weight, two common smalls with no maker or date confirmed. Value is mostly scrap plus modest collector price, likely about $50 to $120 for the pair.",
+ "identification": "Edwardian sterling silver vesta case with scroll engraving and cartouche engraved 'W. FARR', plus a small shield-shaped sterling silver locket (two hinged leaves, scroll-engraved front with monogram, inside engraved 'M.G.F. FARR' with a three-mark hallmark cluster). English, c1900-1915.",
  "entries": [
   {
    "kind": "SOLD",
@@ -125,8 +125,9 @@
    "note": "Paid locally (Gowans/Armitage): shows what we might pay, never resale. Birmingham 1910 Gloster 19g vesta."
   }
  ],
- "searches_tried": "pipeline comps.py: 'vesta case sterling', 'silver vesta', 'silver locket Birmingham', 'Farr' (nothing relevant on Farr). work/comps.py: 'vesta silver'. No web used.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'vesta case sterling', 'silver vesta', 'silver locket Birmingham', 'Farr' (nothing relevant on Farr). work/comps.py: 'vesta silver'. No web used. | chrome: Terapeak AU sterling silver vesta case. Verdict: clearly sub-A$100 per piece, not worth chasing.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'sterling silver vesta case Birmingham engraved' and 'antique silver locket shield Birmingham' (sold only, last 12 months, check postage); Terapeak same terms; Noble Numismatics and Leski realised prices for 'vesta case'; LiveAuctioneers/Invaluable 'Victorian sterling vesta case' for UK/AU results.",
- "viewing_check": "Photograph the hallmarks on both pieces (town, date letter, maker's mark) and note weight in grams if possible; check the vesta for dents, split hinge or worn striker, and whether the locket hinge and contents frame are intact."
+ "viewing_check": "Read hallmarks on both pieces (maker, date letter), weigh both (vesta about 20-30g), check hinge and striker.",
+ "chrome_done": true
 }

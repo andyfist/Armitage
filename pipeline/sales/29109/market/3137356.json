@@ -1,8 +1,151 @@
-{"cdid":3137356,"lot":1044,"identification":"Macquarie Mint 'Second World War Silver Commemorative Collection', folder of 8 proof-style coins (Fall of Singapore, HMAS Sydney II, Hellfire Pass, Army Nursing Service, Battles in the Pacific, Coastwatchers, Z Special Unit, Pacific War Ends) with certificates. Certificate specification lines are not legible; weight possibly about 16g each but metal (fine silver vs silver-plated) not confirmed. Not found in any local database.","entries":[
-{"kind":"SOLD","price":"A$160 hammer","currency":"AUD","aud_price":160,"date":"2024-06-30","venue":"Leski Auctions, Melbourne sale 620 lot 35","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/620","same_item":"close","note":"Database record only (not opened). Macquarie Mint Silver Collections: 2014 Architecture (1 set) plus 2018 History of Australians in WW1 (2 sets) in original folders, so about $53 per set. Closest comparable folder-style silver set. Rate 1.0 AUD."},
-{"kind":"SOLD","price":"A$150 hammer","currency":"AUD","aud_price":150,"date":"2024-07-29","venue":"Noble Numismatics, Sydney sale 136 lot 2033","url":"https://www.noble.com.au/auctions/lot/?id=422262","same_item":"category guide","note":"Database record only. Macquarie Mint Summer Olympics prestige set of 13 silver coins in case with certificates. Different set, but shows Macquarie Mint multi-coin silver sets in the $150 range. Rate 1.0 AUD."},
-{"kind":"SOLD","price":"A$70 hammer","currency":"AUD","aud_price":70,"date":"2026-07-28","venue":"Noble Numismatics, Sydney sale 142 lot 1421","url":"https://www.noble.com.au/auctions/lot/?id=459407","same_item":"category guide","note":"Database record only. Mixed world coins lot including Macquarie Mint WWI piece(s); mixed lot so weak comp. Rate 1.0 AUD."},
-{"kind":"SOLD","price":"A$160 hammer","currency":"AUD","aud_price":160,"date":"2026-04-28","venue":"Leski Auctions, Melbourne sale 653 lot 72","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/653","same_item":"category guide","note":"Database record only. Macquarie Mint 175 Years of Melbourne, 24 medallion set, prooflike copper enriched with pure silver (not solid silver), boxed with CoAs. Shows plated or enriched Macquarie issues sell around this level for a large set."},
-{"kind":"SOLD","price":"A$40 hammer","currency":"AUD","aud_price":40,"date":"2026-10-04","venue":"Gowans Auctions, Hobart lot 441883 (paid locally)","url":"gowans lot id 441883","same_item":"category guide","note":"Paid locally, not a resale price. 1988 uncirculated set plus Macquarie Mint We Will Remember Them silver coin. Shows what we might pay only."},
-{"kind":"ASKING","price":"A$1,440 (Terapeak sold, fixed price)","currency":"AUD","aud_price":1440,"date":"2026-10-21","venue":"eBay Australia","url":"https://www.ebay.com.au/itm/128122291351","same_item":"category guide","note":"Database record, page not opened by me. Macquarie Mint Australian Heritage Collection 24-coin set, silver proof 0.999. Much larger and different set; shows fine silver Macquarie sets can be worth real money, but not a comp for an 8 coin WWII folder. Treat as fixed price listing, not verified."}],
-"searches_tried":"pipeline/comps.py: 'macquarie mint second world war' (nothing), 'WWII silver commemorative', 'macquarie mint silver coin set', 'Hellfire Pass coin' (nothing); work/comps.py: 'macquarie mint silver'. No same-set hit in any database.","needs_chrome":true,"chrome_hint":"eBay AU sold + Terapeak: 'Macquarie Mint Second World War silver commemorative collection', 'Macquarie Mint WWII silver coins Coastwatchers Z Special Unit', 'Macquarie Mint Hellfire Pass silver'. Also Noble Numismatics and Leski Auctions realised prices for 'Macquarie Mint Second World War' and 'Macquarie Mint Silver Collections'. Check whether the set was a magazine/subscription release (Macquarie Mint site) and its original issue price and metal (fine silver weight per coin, or silver plated).","rate_note":"All prices AUD, rate 1.0.","viewing_check":"Read the Specifications block on a certificate of authenticity (metal, fineness e.g. .999 vs silver plated, weight, diameter, mintage). Check edge for a fineness mark, confirm all 8 coins and both certificates of ownership are present, and note any toning or capsule marks."}
+{
+ "cdid": 3137356,
+ "lot": 1044,
+ "identification": "Macquarie Mint 'Second World War Silver Commemorative Collection' folder with 8 small round proof-style medals in capsules (Fall of Singapore, HMAS Sydney II, Hellfire Pass, Australian Army Nursing Service, Battles in the Pacific, Coastwatchers, Z Special Unit, Pacific War Ends), with certificates of authenticity and ownership. Looks like Volume I of the series.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2024-06-30",
+   "venue": "Leski Auctions, Melbourne sale 620 lot 35",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/620",
+   "same_item": "close",
+   "note": "Database record only (not opened). Macquarie Mint Silver Collections: 2014 Architecture (1 set) plus 2018 History of Australians in WW1 (2 sets) in original folders, so about $53 per set. Closest comparable folder-style silver set. Rate 1.0 AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$150 hammer",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2024-07-29",
+   "venue": "Noble Numismatics, Sydney sale 136 lot 2033",
+   "url": "https://www.noble.com.au/auctions/lot/?id=422262",
+   "same_item": "category guide",
+   "note": "Database record only. Macquarie Mint Summer Olympics prestige set of 13 silver coins in case with certificates. Different set, but shows Macquarie Mint multi-coin silver sets in the $150 range. Rate 1.0 AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70 hammer",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-07-28",
+   "venue": "Noble Numismatics, Sydney sale 142 lot 1421",
+   "url": "https://www.noble.com.au/auctions/lot/?id=459407",
+   "same_item": "category guide",
+   "note": "Database record only. Mixed world coins lot including Macquarie Mint WWI piece(s); mixed lot so weak comp. Rate 1.0 AUD."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$160 hammer",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-04-28",
+   "venue": "Leski Auctions, Melbourne sale 653 lot 72",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/653",
+   "same_item": "category guide",
+   "note": "Database record only. Macquarie Mint 175 Years of Melbourne, 24 medallion set, prooflike copper enriched with pure silver (not solid silver), boxed with CoAs. Shows plated or enriched Macquarie issues sell around this level for a large set."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40 hammer",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-10-04",
+   "venue": "Gowans Auctions, Hobart lot 441883 (paid locally)",
+   "url": "gowans lot id 441883",
+   "same_item": "category guide",
+   "note": "Paid locally, not a resale price. 1988 uncirculated set plus Macquarie Mint We Will Remember Them silver coin. Shows what we might pay only."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$1,440 (Terapeak sold, fixed price)",
+   "currency": "AUD",
+   "aud_price": 1440,
+   "date": "2026-10-21",
+   "venue": "eBay Australia",
+   "url": "https://www.ebay.com.au/itm/128122291351",
+   "same_item": "category guide",
+   "note": "Database record, page not opened by me. Macquarie Mint Australian Heritage Collection 24-coin set, silver proof 0.999. Much larger and different set; shows fine silver Macquarie sets can be worth real money, but not a comp for an 8 coin WWII folder. Treat as fixed price listing, not verified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$195.23",
+   "currency": "AUD",
+   "aud_price": 195.23,
+   "date": "2024-11-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/133111716238",
+   "same_item": "yes",
+   "note": "Title: Second World War Silver Commemorative Collection Volume I, Macquarie Mint, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$139.57",
+   "currency": "AUD",
+   "aud_price": 139.57,
+   "date": "2024-06-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/266845783373",
+   "same_item": "yes",
+   "note": "Title: 8 x silver medals commemorative collection, auction (item page ended, no detail left). Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$136.98",
+   "currency": "AUD",
+   "aud_price": 136.98,
+   "date": "2024-02-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166432577560",
+   "same_item": "yes",
+   "note": "Title: Macquarie Mint Second World War silver commemorative collection Volume 1, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$177.04",
+   "currency": "AUD",
+   "aud_price": 177.04,
+   "date": "2024-02-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/334825016102",
+   "same_item": "close",
+   "note": "Volume 2 (different 8 coins), fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$278.44",
+   "currency": "AUD",
+   "aud_price": 278.44,
+   "date": "2025-04-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/306024560456",
+   "same_item": "close",
+   "note": "Collection, coin count not stated in title (probably more than 8). Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$320.85",
+   "currency": "AUD",
+   "aud_price": 320.85,
+   "date": "2025-11-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/226464192301",
+   "same_item": "close",
+   "note": "Collection, coin count not stated in title (probably more than 8). Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'macquarie mint second world war' (nothing), 'WWII silver commemorative', 'macquarie mint silver coin set', 'Hellfire Pass coin' (nothing); work/comps.py: 'macquarie mint silver'. No same-set hit in any database. | chrome: Terapeak AU 1095 days x1, eBay item page x1 (ended, no detail), WebSearch, WebFetch.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'Macquarie Mint Second World War silver commemorative collection', 'Macquarie Mint WWII silver coins Coastwatchers Z Special Unit', 'Macquarie Mint Hellfire Pass silver'. Also Noble Numismatics and Leski Auctions realised prices for 'Macquarie Mint Second World War' and 'Macquarie Mint Silver Collections'. Check whether the set was a magazine/subscription release (Macquarie Mint site) and its original issue price and metal (fine silver weight per coin, or silver plated).",
+ "rate_note": "All prices AUD, rate 1.0.",
+ "viewing_check": "Read the certificate spec tables: metal (.333, .925 or .999), weight and diameter of each medal. Check all 8 capsules and both certificates of ownership are present. If .999 silver at full weight, resale and max would rise.",
+ "chrome_done": true
+}

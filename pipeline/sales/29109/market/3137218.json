@@ -1,7 +1,7 @@
 {
  "cdid": 3137218,
  "lot": 906,
- "identification": "Sessions Clock Co (Forestville, Connecticut) 8-day American mantel clock, black painted wood (mock slate/ebonised) case with green faux-marble columns, gilt capitals, embossed metal panels, cast metal feet, ivory dial signed Sessions, 'made in U.S.A.', c1910-1930. Common model; condition and running unknown.",
+ "identification": "Sessions Clock Co (USA) 8-day mantel clock, black painted wood case with green faux-marble columns, gilt capitals, embossed metal panels, cast feet, white dial signed Sessions. c1910-1925. Matches cloud scan.",
  "entries": [
   {
    "kind": "SOLD",
@@ -200,11 +200,72 @@
    "url": "gowans lot id 413664",
    "same_item": "close",
    "note": "Sessions mantle clock; hammer. Paid locally (not competitive, shows what we might pay, never resale). Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$68.23",
+   "currency": "AUD",
+   "aud_price": 68.23,
+   "date": "2026-10-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117452299709",
+   "same_item": "yes",
+   "note": "Antique c1910 Sessions USA mantel clock, black architectural column, with key; auction, 2 bids. Terapeak row, item page not opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$64.62",
+   "currency": "AUD",
+   "aud_price": 64.62,
+   "date": "2026-09-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/158178448307",
+   "same_item": "close",
+   "note": "'Antique 1800s Sessions Made in USA Wooden Mantle Clock', fixed price, free postage. Style not confirmed (title only).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$66.34",
+   "currency": "AUD",
+   "aud_price": 66.34,
+   "date": "2026-09-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/158178493696",
+   "same_item": "close",
+   "note": "'Antique 1800s Sessions Wooden Mantle Clock', fixed price. Same seller as above, style not confirmed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$107.35",
+   "currency": "AUD",
+   "aud_price": 107.35,
+   "date": "2026-08-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/147510168847",
+   "same_item": "close",
+   "note": "'Sessions American Mantle Clock', fixed price. Style not confirmed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120.10",
+   "currency": "AUD",
+   "aud_price": 120.1,
+   "date": "2026-10-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206575835271",
+   "same_item": "close",
+   "note": "'The Sessions Clock Co. Mechanical Wind-Up Mantel Clock Wood Glass Black Arabic', fixed price.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'sessions mantel clock', 'sessions 8 day', 'sessions clock marble columns' (none), 'sessions mantle'; work comps.py: 'sessions mantel clock', 'sessions 8 day', 'sessions clock marble columns' (none). No web used.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'sessions mantel clock', 'sessions 8 day', 'sessions clock marble columns' (none), 'sessions mantle'; work comps.py: 'sessions mantel clock', 'sessions 8 day', 'sessions clock marble columns' (none). No web used. | chrome: Terapeak EBAY-AU 3 years 'sessions mantel clock'.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold+completed: 'Sessions mantel clock' and 'Sessions 8 day mantel clock black columns' (also 'Sessions adamantine mantel clock'); Terapeak last 12 months, filter Australia; eBay US sold same keywords for pillar/column model; LiveAuctioneers and Invaluable results 'Sessions mantel clock black columns'; Australian auction houses (Leonard Joel, Lawsons, Theodore Bruce, Gowans online) for sold Sessions clocks.",
  "rate_note": "All prices AUD, no conversion.",
- "viewing_check": "Check the back for movement and strike, whether it runs and strikes, key and pendulum present, dial glass intact, cracks or loss in case, gilt capitals and feet intact, and any paper label or serial number inside the case."
+ "viewing_check": "Does it run and strike, key and pendulum present, dial glass and gilt capitals intact, case cracks, label or serial inside.",
+ "chrome_done": true
 }

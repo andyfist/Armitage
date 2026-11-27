@@ -1,7 +1,7 @@
 {
  "cdid": 3137053,
  "lot": 741,
- "identification": "Six bottles Cataract Pinot Noir 2021, Tamar Valley Tasmania, Cataract Wines (Riverside), 750 ml, 13.5%, 1,100 bottles made, in original carton. Small-batch current-release style label; not a cellar rarity.",
+ "identification": "6 bottles Cataract Pinot Noir 2021, Tamar Valley Tasmania, 750 mL, 13.5% alc, 100% pinot noir with 50% whole bunch, 'only 1,100 bottles made'. Producer Cataract Wines, Riverside (Launceston). Photo 1 shows the sealed-look carton with the lid open and one bottle standing beside it; photo 2 is the carton label. Photos are identical across lots 740, 741, 742 and 743 (four identical cases, 24 bottles in all). Estimate presumed the same as lot 740 (A$80-120); only lot 740's page was opened.",
  "entries": [
   {
    "kind": "SOLD",
@@ -35,11 +35,24 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2727712&chid=26636&category=ALL&style=group",
    "same_item": "category guide",
    "note": "2 bottles Dalrymple 2022 Mount Lord pinot (Tasmanian, premium tier). Two bottles only. Database record only."
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$45",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-11-11",
+   "venue": "Armitage sale 28975 lot 987",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111249&chid=28975&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "6 bottles unnamed pinot noir. Local price, not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'cataract pinot noir', 'cataract tamar', 'tasmanian pinot noir 2021', 'cataract', 'pinot noir'; work/comps.py: same words, 'pinot'. No same-item hits for Cataract wine; only category guides.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'cataract pinot noir', 'cataract tamar', 'tasmanian pinot noir 2021', 'cataract', 'pinot noir'; work/comps.py: same words, 'pinot'. No same-item hits for Cataract wine; only category guides. | chrome: Terapeak AU 3yr 'Cataract Pinot Noir' (no results); Google; WebSearch x2; Armitage lot page for 740.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Cataract Wines pinot noir'; 'Cataract Tamar Valley pinot noir 2021'. Check cataractwines.com.au for the retail price per bottle (ASKING). Also Wine-Searcher 'Cataract Pinot Noir 2021 Tamar Valley', and Langton's / Vinomofo / Dan Murphy's listings. Auction searches: Gowans and Leski wine results not useful (local); try Wine Ark / Grays Online sold wine 'Tasmanian pinot noir 2021'.",
- "viewing_check": "Check fill levels and capsules on the visible bottle, confirm all six bottles are the same wine and vintage (photos identical to lot 740, so possibly 12 total), carton condition, no storage damage or label stains.",
- "rate_note": "All AUD, rate 1.0."
+ "viewing_check": "Count six bottles per carton, check fill level, capsules and labels for storage damage, confirm vintage on the bottles matches 2021. If buying to drink, the wine is a 2021 light-medium pinot, drink soon.",
+ "rate_note": "All AUD, rate 1.0.",
+ "chrome_done": true
 }

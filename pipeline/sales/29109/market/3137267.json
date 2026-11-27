@@ -1,7 +1,7 @@
 {
  "cdid": 3137267,
  "lot": 955,
- "identification": "1983 Royal Australian Mint $200 gold Koala (Devlin reverse, Machin obverse), 22ct .916, 10 g, about 0.2947 oz fine gold, in blue RAM folder. Uncirculated, not proof.",
+ "identification": "1983 Royal Australian Mint $200 gold coin, Koala reverse (Devlin), Machin obverse, date 1983 read on obverse. 22ct (.916) gold, 10 g, 24 mm, about 9.16 g / 0.2945 oz fine gold. Uncirculated issue in blue RAM vinyl wallet with card (not proof). Coin bright, no obvious marks at photo resolution.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,96 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/600",
    "same_item": "yes",
    "note": "1983 unc in pouch; shows the price trend with gold. Database record (page not opened); AUD, no conversion; hammer excl. premium."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$2,018.90",
+   "currency": "AUD",
+   "aud_price": 2018.9,
+   "date": "2026-11-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117537521805",
+   "same_item": "yes",
+   "note": "RAM Koala $200 10g .916 22ct 1983, fixed price. Terapeak sold price (public page shows A$2,089.66). Gold already near today's level.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,565.31",
+   "currency": "AUD",
+   "aud_price": 1565.31,
+   "date": "2026-11-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167999435325",
+   "same_item": "yes",
+   "note": "1983 $200 Koala in original packaging (title says proof, likely unc wallet). Best offer accepted; Terapeak shows the accepted A$1,565 against A$2,000 ask. Most recent low.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,975.79",
+   "currency": "AUD",
+   "aud_price": 1975.79,
+   "date": "2026-09-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206392368384",
+   "same_item": "yes",
+   "note": "1983 $200 Koala in original pouch, 10g 22ct. Gold was higher in Sept.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,823.52",
+   "currency": "AUD",
+   "aud_price": 1823.52,
+   "date": "2026-08-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267770954473",
+   "same_item": "yes",
+   "note": "1983 RAM $200 Koala, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$2,080.30",
+   "currency": "AUD",
+   "aud_price": 2080.3,
+   "date": "2026-10-16",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/398449167854",
+   "same_item": "yes",
+   "note": "1983 $200 Koala with blue case. Best offer accepted: shown price is the asking, real sale price hidden and probably lower.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "Current bid A$625",
+   "currency": "AUD",
+   "aud_price": 625,
+   "date": "2026-11-27",
+   "venue": "Armitage sale 29109 lot 955",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3137267&chid=29109&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Current bid on this lot, estimate A$1,050-1,200. Not resale.",
+   "via": "chrome"
+  },
+  {
+   "kind": "MELT",
+   "price": "A$1,618",
+   "currency": "AUD",
+   "aud_price": 1618,
+   "date": "2026-11-27",
+   "venue": "meltvalue.com/au/gold-price",
+   "url": "https://meltvalue.com/au/gold-price",
+   "same_item": "yes",
+   "note": "Spot A$5,493.39/oz, A$176.62/g at 6:38pm AEDT 27 Nov 2026. 10g x .9167 = 9.167g fine = A$1,619. Gold down 10% in 6 weeks and 30% off Jan 2026 high, so the floor is moving.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: '1983 gold koala' (31 hits), '200 gold coin koala' (86 hits), '1983 koala unc', '22 carat 200 dollar gold' (none); work/comps.py '1983 200 gold' (none). No Gowans or Armitage hits for this coin. Prices track gold: $660-860 in 2023-24, $1,300-1,600 in 2025-26.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: '1983 gold koala' (31 hits), '200 gold coin koala' (86 hits), '1983 koala unc', '22 carat 200 dollar gold' (none); work/comps.py '1983 200 gold' (none). No Gowans or Armitage hits for this coin. Prices track gold: $660-860 in 2023-24, $1,300-1,600 in 2025-26. | chrome: eBay AU public sold '1983 $200 gold coin koala'; Terapeak EBAY-AU '1983 $200 gold koala' 3 years (50 rows); Noble lot 431075; Leski PDF 653 (unreadable); WebSearch Leski; meltvalue spot.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: '1983 $200 gold koala' and '1983 koala 200 dollar gold 22ct' (sold + completed); Terapeak same; Noble Numismatics current/last sale 1983 koala $200; Leski realised prices latest sale 1983 Koala; Downies and Status International results; also check current AUD gold spot for 0.2947 oz fine gold.",
- "viewing_check": "Confirm 1983 date, uncirculated (not proof; proof comes in a box with certificate), no scratches or fingerprints on surface, wallet and card present. Photograph both faces.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check coin surfaces for handling marks, fingerprints or toning (sells as unc), that the date reads 1983, and the wallet and card are intact. Weigh if possible (10.0g). Confirm it is not a gold-plated copy (edge reeding crisp, no copy stamp).",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

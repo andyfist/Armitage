@@ -1,7 +1,7 @@
 {
  "cdid": 3137381,
  "lot": 1069,
- "identification": "1988 Australia $10 polymer Bicentennial commemorative (Johnston/Fraser, AA prefix) in a sleeve/folder, plus five common WWII Japanese invasion notes: Malaya $10 MA, Malaya $1, Oceania 1 shilling OC, Netherlands Indies 1 gulden AW 350129A, and a Japan 100 yen note. All common types.",
+ "identification": "1988 Bicentennial $10 polymer commemorative note (prefix AA, serial not readable, in a clear sleeve not a folder) plus five foreign notes: Japanese Government (Malaya) $10 MA block, Malaya $1, Oceania one shilling (OC), Japan 100 yen (Itagaki type), Netherlands Indies 1 gulden 1943 (AW359129A).",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,72 @@
    "url": "gowans lot id 432468",
    "same_item": "category guide",
    "note": "Envelope of Japanese invasion money plus glass items; paid locally, what we might pay, NOT a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$66.28",
+   "currency": "AUD",
+   "aud_price": 66.28,
+   "date": "2024-10-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126666987267",
+   "same_item": "yes",
+   "note": "1988 $10 first polymer, UNC, AA prefix. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.71",
+   "currency": "AUD",
+   "aud_price": 60.71,
+   "date": "2024-08-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126534559755",
+   "same_item": "yes",
+   "note": "1988 $10 UNC AA prefix. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$69.27",
+   "currency": "AUD",
+   "aud_price": 69.27,
+   "date": "2025-02-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126893405864",
+   "same_item": "yes",
+   "note": "1988 $10 UNC AA prefix. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$68.53",
+   "currency": "AUD",
+   "aud_price": 68.53,
+   "date": "2025-05-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127022575712",
+   "same_item": "yes",
+   "note": "1988 $10 UNC AA prefix. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$44.53",
+   "currency": "AUD",
+   "aud_price": 44.53,
+   "date": "2024-09-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/204995397891",
+   "same_item": "yes",
+   "note": "1988 $10 polymer in folder, AA170 prefix. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'japanese invasion money'; 'invasion notes oceania'; '1988 ten dollar polymer commemorative'; 'ten dollars 1988 folder AA single'; 'malaya one dollar japanese'; 'netherlands indies gulden 1943'. work/comps.py 'japanese invasion notes' and '1988 polymer': no resale comps. Only Noble (Sydney) and one Gowans hit; no eBay or retail data.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'japanese invasion money'; 'invasion notes oceania'; '1988 ten dollar polymer commemorative'; 'ten dollars 1988 folder AA single'; 'malaya one dollar japanese'; 'netherlands indies gulden 1943'. work/comps.py 'japanese invasion notes' and '1988 polymer': no resale comps. Only Noble (Sydney) and one Gowans hit; no eBay or retail data. | chrome: Terapeak AU 3yr '1988 ten dollar polymer note' (50 rows) and '...folder AA' (2 rows); Google x1.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Australia 1988 $10 polymer commemorative AA folder' (single note, serial AA, note prefix); 'Japanese invasion money lot Malaya Oceania Netherlands Indies' sold; Terapeak on both; Noble Numismatics and Leski realised for 1988 $10 commemorative single notes and small JIM groups.",
- "viewing_check": "Check the $10 serial prefix and number (low AA numbers, AA00/AA01 or a repeater/solid serial add value), that it is the dated 26 Jan 1988 commemorative in its original folder, and the corners and fold condition. The JIM notes are common; check only for the Malaya $10 MA and Oceania shillings being uncirculated.",
- "rate_note": "All prices are AUD hammer; no conversion."
+ "viewing_check": "Read the polymer note's prefix and serial. Low AA numbers (AA 01-AA 25, or a solid/low serial) sell for A$100-300 at Noble; otherwise it is a A$60 note. Check it is uncirculated.",
+ "rate_note": "All prices are AUD hammer; no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3136985,
  "lot": 673,
- "identification": "John Campbell (Launceston, Tasmania) ribbed baluster vase, green and amber drip glaze, two applied lizard form handles, base incised 'John Campbell Tasmania', 'B33 M' and 'H' (B33 may read as 1933). One handle reattached per scan notes. About 13-15cm high from photos (estimate).",
+ "identification": "John Campbell Pottery (Launceston, Tasmania) small ribbed bulbous vase, flared neck, amber/caramel neck over green drip glaze, two applied lizard/snake-form handles (heads visible at the handle ends), H 14 cm. Base incised 'B33 M' / 'H' / 'John Campbell Tasmania'. Handle repaired per catalogue. Lot page: estimate A$80-140, current bid A$40.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,84 @@
    "url": "gowans lot id 414811, 373645",
    "same_item": "category guide",
    "note": "PAID LOCALLY, not a resale price. Typical signed Campbell vases $25-100, median about $55; higher for the larger pinched example at $200 (lot 373646)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.76",
+   "currency": "AUD",
+   "aud_price": 47.76,
+   "date": "2026-10-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/158053368390",
+   "same_item": "close",
+   "note": "John Campbell Tasmania ribbed vase, fixed price. No handles in title.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90.10",
+   "currency": "AUD",
+   "aud_price": 90.1,
+   "date": "2026-11-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117513369243",
+   "same_item": "category guide",
+   "note": "Pink John Campbell vase signed to base, fixed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$102.15",
+   "currency": "AUD",
+   "aud_price": 102.15,
+   "date": "2026-11-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/185601183031",
+   "same_item": "category guide",
+   "note": "John Campbell vase signed to base, fixed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.42",
+   "currency": "AUD",
+   "aud_price": 42.42,
+   "date": "2026-10-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/128162092384",
+   "same_item": "category guide",
+   "note": "John Campbell small posy vase, green glaze, fixed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.26",
+   "currency": "AUD",
+   "aud_price": 159.26,
+   "date": "2026-09-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117384067784",
+   "same_item": "category guide",
+   "note": "'RARE' marbled glaze vase, fixed. Upper end for a small vase.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$410",
+   "currency": "AUD",
+   "aud_price": 410,
+   "date": "2026-09-09",
+   "venue": "Armitage Auctions sale 28587 lot 602",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3044474&chid=28587&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Database hint, not opened: large signed 1932 twin handle vase 18cm. Paid locally, not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'john campbell'; 'campbell tasmania vase'; 'john campbell lizard'; 'campbell pottery glazed vase'. work comps.py: 'john campbell vase'. No same-item lizard handled Campbell found. Leski (Melbourne) is the only competitive room in the databases; Leski currency AUD, premium status unknown. A few database eBay lines carried Armitage lot numbers and were left out as unreliable.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'john campbell'; 'campbell tasmania vase'; 'john campbell lizard'; 'campbell pottery glazed vase'. work comps.py: 'john campbell vase'. No same-item lizard handled Campbell found. Leski (Melbourne) is the only competitive room in the databases; Leski currency AUD, premium status unknown. A few database eBay lines carried Armitage lot numbers and were left out as unreliable. | chrome: Terapeak AU 3yr 'john campbell lizard' (only comic results), 'john campbell tasmania' (50 rows). WebSearch x1. eBay public sold search not used (error pages reported).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'John Campbell Tasmania lizard vase', 'John Campbell pottery lizard handles', 'John Campbell Tasmania ribbed vase two handles'. Leski Auctions, Theodore Bruce, Mossgreen/Smith & Singer, Lawsons archives: 'John Campbell Tasmania vase'. Also LiveAuctioneers/Invaluable 'John Campbell Tasmanian pottery lizard'. Look for lizard/snake handled examples sold and repaired handle comparisons.",
  "rate_note": "All prices AUD, no conversion.",
- "viewing_check": "Check the reattached handle: size of the join, colour fill/overpaint (use UV torch if possible), any cracks running into the body; confirm the signature and 'B33' date read, rim chips, and measure the height."
+ "viewing_check": "Find which handle is repaired and how well (glue line, overpaint, UV torch); check rim for chips; only worth a punt under about A$40 as a keeper.",
+ "chrome_done": true
 }

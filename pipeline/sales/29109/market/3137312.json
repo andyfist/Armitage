@@ -1,12 +1,111 @@
-{"cdid":3137312,"lot":1000,"identification":"Five carded Australian silver sixpences: 1918-M (George V, scarce, weak reverse, hand-annotated card), 1921, 1943-S x2 (San Francisco, KGVI), 1954 (uncirculated, full lustre). Only the 1918-M has any numismatic premium; the rest are common silver.","entries":[
-{"kind":"SOLD","price":"A$80","aud_price":80,"date":"2025-07-28","venue":"Noble Numismatics, Sydney sale 139 lot 731","url":"https://www.noble.com.au/auctions/lot/?id=430934","same_item":"close","note":"Database hit (snippet only, page not opened): small mixed lot incl. 1910 sixpence, 1918M sixpence, threepences, 1939 shilling, sixpence 195x. Hammer, premium not included. AUD, no conversion."},
-{"kind":"SOLD","price":"A$250","aud_price":250,"date":"2025-06-17","venue":"Leski Auctions, Melbourne sale 634 lot 81","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/634","same_item":"close","note":"Database hit (snippet only): three George V sixpences 1911 EF, 1912 VF, 1918 EF. Listed 'Estimate $300 -' in the snippet and the $250 is as held in the database; 1918 here is EF, better than our weak 1918-M, so this is a ceiling for the key coin. Treat as unverified beyond the database."},
-{"kind":"SOLD","price":"A$80","aud_price":80,"date":"2026-04-28","venue":"Leski Auctions, Melbourne sale 653 lot 143","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/653","same_item":"category guide","note":"Database hit (snippet only): 13 Elizabeth II sixpences 1954-1963, all EF or Unc. Shows the later dates are near silver value (about A$6 each)."},
-{"kind":"SOLD","price":"A$300","aud_price":300,"date":"2026-04-28","venue":"Leski Auctions, Melbourne sale 653 lot 127","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/653","same_item":"category guide","note":"Database hit (snippet only): 38 sixpences 1918-1963 plus 25 threepences and copper. Bulk, roughly A$4 to 5 a coin; shows floor value."},
-{"kind":"SOLD","price":"A$220","aud_price":220,"date":"2026-04-13","venue":"Noble Numismatics, Sydney sale 141 lot 208","url":"https://www.noble.com.au/auctions/lot/?id=438967","same_item":"category guide","note":"Database hit (snippet only): mixed lot with florins, shillings and sixpences 1918M, 1922, 1945, 1951PL, 1954. Too mixed to isolate the sixpences."}
-],
-"searches_tried":"pipeline/comps.py: 'sixpence 1918'; 'sixpence 1954'; 'sixpence 1943S'. work/comps.py: 'australian sixpences lot'; 'sixpence 1918M'. No Gowans/Armitage like-for-like sixpence comps worth recording (only paid-locally pre-decimal bags, not resale). No single-coin 1918-M result in the databases.",
-"needs_chrome":true,
-"chrome_hint":"eBay AU sold + Terapeak: 'Australia sixpence 1918 M', 'Australia sixpence 1921', 'Australia sixpence 1943 S'. Noble Numismatics archive (noble.com.au) search 'sixpence 1918M' for single-coin results by grade (G, F, VF), and Downies / Status International for 1918M sixpence. Also check 'australian sixpences 5 coin lot' sold.",
-"viewing_check":"Check the 1918-M grade and whether the reverse weakness is just the strike (common for this date) or wear; look at the date and mintmark clearly under light and check for cleaning or damage. Also check the 1921 for wear. The others look common and bright.",
-"rate_note":"All prices AUD, no conversion."}
+{
+ "cdid": 3137312,
+ "lot": 1000,
+ "identification": "Five Australian .925 silver sixpences in old handwritten 2x2 cards (same collector as lot 1004): 1918-M (card 'key date, scarce, weak reverse'; looks worn, about Good-Fine), 1921 (card 'some emu feathers visible, some muscle tone on kangaroo', about VF), 1943-S x2 (KGVI WWII San Francisco issue, bright), 1954 (card 'full lustre, uncirculated'). Estimate A$50-70, current bid A$25.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$80",
+   "aud_price": 80,
+   "date": "2025-07-28",
+   "venue": "Noble Numismatics, Sydney sale 139 lot 731",
+   "url": "https://www.noble.com.au/auctions/lot/?id=430934",
+   "same_item": "close",
+   "note": "Database hit (snippet only, page not opened): small mixed lot incl. 1910 sixpence, 1918M sixpence, threepences, 1939 shilling, sixpence 195x. Hammer, premium not included. AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$250",
+   "aud_price": 250,
+   "date": "2025-06-17",
+   "venue": "Leski Auctions, Melbourne sale 634 lot 81",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/634",
+   "same_item": "close",
+   "note": "Database hit (snippet only): three George V sixpences 1911 EF, 1912 VF, 1918 EF. Listed 'Estimate $300 -' in the snippet and the $250 is as held in the database; 1918 here is EF, better than our weak 1918-M, so this is a ceiling for the key coin. Treat as unverified beyond the database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80",
+   "aud_price": 80,
+   "date": "2026-04-28",
+   "venue": "Leski Auctions, Melbourne sale 653 lot 143",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/653",
+   "same_item": "category guide",
+   "note": "Database hit (snippet only): 13 Elizabeth II sixpences 1954-1963, all EF or Unc. Shows the later dates are near silver value (about A$6 each)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$300",
+   "aud_price": 300,
+   "date": "2026-04-28",
+   "venue": "Leski Auctions, Melbourne sale 653 lot 127",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/653",
+   "same_item": "category guide",
+   "note": "Database hit (snippet only): 38 sixpences 1918-1963 plus 25 threepences and copper. Bulk, roughly A$4 to 5 a coin; shows floor value."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$220",
+   "aud_price": 220,
+   "date": "2026-04-13",
+   "venue": "Noble Numismatics, Sydney sale 141 lot 208",
+   "url": "https://www.noble.com.au/auctions/lot/?id=438967",
+   "same_item": "category guide",
+   "note": "Database hit (snippet only): mixed lot with florins, shillings and sixpences 1918M, 1922, 1945, 1951PL, 1954. Too mixed to isolate the sixpences."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$23.24",
+   "currency": "AUD",
+   "aud_price": 23.24,
+   "date": "2026-10-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326980543675",
+   "same_item": "close",
+   "note": "1918 George V sixpence, average circulated, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$13.58",
+   "currency": "AUD",
+   "aud_price": 13.58,
+   "date": "2026-09-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256512019830",
+   "same_item": "close",
+   "note": "1918 sixpence average circulated, fixed price (multi-quantity seller)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$58.45",
+   "currency": "AUD",
+   "aud_price": 58.45,
+   "date": "2026-01-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/277619114470",
+   "same_item": "close",
+   "note": "Four 1918 KGV sixpences together (~A$15 each)",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$25 current bid",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-11-27",
+   "venue": "Armitage 29109 lot 1000",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3137312&chid=29109&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Estimate A$50-70, 22% premium",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'sixpence 1918'; 'sixpence 1954'; 'sixpence 1943S'. work/comps.py: 'australian sixpences lot'; 'sixpence 1918M'. No Gowans/Armitage like-for-like sixpence comps worth recording (only paid-locally pre-decimal bags, not resale). No single-coin 1918-M result in the databases. | chrome: eBay AU public sold '1918 m sixpence' (error page); Terapeak AU 3yr '1918 m sixpence', '1918 sixpence australia'.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'Australia sixpence 1918 M', 'Australia sixpence 1921', 'Australia sixpence 1943 S'. Noble Numismatics archive (noble.com.au) search 'sixpence 1918M' for single-coin results by grade (G, F, VF), and Downies / Status International for 1918M sixpence. Also check 'australian sixpences 5 coin lot' sold.",
+ "viewing_check": "Only worth a look if bidding stays very low: check the 1918-M has the M mintmark under the date and isn't cleaned.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
+}

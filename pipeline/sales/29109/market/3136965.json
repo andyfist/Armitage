@@ -1,7 +1,7 @@
 {
  "cdid": 3136965,
  "lot": 653,
- "identification": "Very large twin-handled bulbous vase, streaked brown/cream/caramel drip glaze, base incised 'A308 LH' and 'John Campbell 1933' (Launceston, Tasmania). Photos show glaze flaking at base rim and handle repair per catalogue. Signature and date look genuine in photo 3.",
+ "identification": "John Campbell Pottery (Launceston, Tasmania) large twin-handled bulbous vase, flared neck, two loop handles, streaked brown/caramel/cream/oxblood drip glaze, H 25 cm. Base incised 'A308 LH' (shape/glaze code and decorator or thrower initials) over 'John Campbell 1933' in the usual Campbell script. One handle repaired per catalogue (photo 4 is a close-up of one handle; a pale patch at the upper handle join is likely the repair). Lot page: estimate A$150-250, current bid A$70.",
  "entries": [
   {
    "kind": "SOLD",
@@ -123,11 +123,72 @@
    "url": "https://www.ebay.com.au/itm/126256070017",
    "same_item": "category guide",
    "note": "Brown drip glaze vase signed John Campbell Tasmania, in a mixed box; low-end eBay price for small/boxed pieces. Database record (page not opened); AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$392.67",
+   "currency": "AUD",
+   "aud_price": 392.67,
+   "date": "2026-09-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267785547137",
+   "same_item": "close",
+   "note": "John Campbell baluster urn with two spur handles, blue and green, auction. Undamaged as far as the title says. Only linked twin-handled sale.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$117.28",
+   "currency": "AUD",
+   "aud_price": 117.28,
+   "date": "2026-10-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267817350231",
+   "same_item": "category guide",
+   "note": "John Campbell face jug, blue, auction. Not used for max.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$159.26",
+   "currency": "AUD",
+   "aud_price": 159.26,
+   "date": "2026-09-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117384067784",
+   "same_item": "category guide",
+   "note": "John Campbell Tasmania marbled glaze piece, fixed. Not used for max.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD-UNLINKED",
+   "price": "A$147",
+   "currency": "AUD",
+   "aud_price": 147,
+   "date": "",
+   "venue": "Shapiro Auctioneers, Sydney",
+   "url": "https://www.shapiro.com.au/?p=182143",
+   "same_item": "category guide",
+   "note": "Shapiro lot 6, two 12 cm drip glaze bud vases signed John Campbell Tasmania / John Campbell 1933, sold A$147 incl BP (date not shown).",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 402088",
+   "same_item": "category guide",
+   "note": "Gowans Hobart signed John Campbell vase (database). Not a resale price.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'John Campbell pottery'; 'Campbell Launceston vase'; 'Campbell Tasmania pottery 1933'; 'John Campbell Tasmanian'; 'Campbell two-handled bulbous vase'; 'Campbell brown drip glaze vase'. work/comps.py: 'John Campbell pottery'; 'bulbous two-handled Campbell'. No exact twin-handled brown 1933 hit.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'John Campbell pottery'; 'Campbell Launceston vase'; 'Campbell Tasmania pottery 1933'; 'John Campbell Tasmanian'; 'Campbell two-handled bulbous vase'; 'Campbell brown drip glaze vase'. work/comps.py: 'John Campbell pottery'; 'bulbous two-handled Campbell'. No exact twin-handled brown 1933 hit. | chrome: Terapeak AU 3yr 'john campbell vase' (50 rows), 'john campbell handled' (23 rows). WebSearch x2 + Carters/Merchant of Welby/Shapiro pages. Leski PDF not readable.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'John Campbell Launceston pottery vase two handled' and 'John Campbell Tasmania pottery large vase 1933'. Invaluable/LiveAuctioneers results: 'John Campbell Tasmania pottery vase' (Leski, Gibson's, Colville, Mossgreen, Davidson). Also Leski realised prices for 'Campbell two handled vase' and Trove/Design & Art Australia for dated pieces.",
- "viewing_check": "Check the repaired handle (which one, quality of fill, glue line) with a UV torch; measure height; confirm signature/1933 and 'A308 LH' on base; inspect glaze losses at base rim and any hairlines or restoration to the rim.",
- "rate_note": "All prices AUD, no conversion needed."
+ "viewing_check": "Find the repaired handle and judge the repair (glue line, overpaint, UV torch); check the rim and foot for chips; confirm 'A308 LH / John Campbell 1933' on base.",
+ "rate_note": "All prices AUD, no conversion needed.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3137372,
  "lot": 1060,
- "identification": "Mixed accumulation of about 40 badges and pins: Scottish-style SAC cap badge, Rising Sun type badges, MCC 1965-66 member badge no. 6686, LGH Miseris Succurrere disc, Magpies football badge, 1938 Australian YMCA Tournament Sydney pin (Mrs Ross Jones), CPA platinum pin in box, Red Cross badges, cloth insignia and rank stripes. Worn, mostly common types.",
+ "identification": "Mixed accumulation of about 30 badges and insignia: Australian rising sun and other military cap badges, 'S.A.C.'-style cap badge, cloth rank chevrons and a blue cloth formation patch, CPA pin in a presentation box, Red Cross badges, YMCA 1938 Sydney tournament button badge, LGH (Launceston General Hospital) nurse badge, MCC 65-66 member badge no. 6686, Magpies football badge, buttons.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,84 @@
    "url": "gowans lot id 411091",
    "same_item": "category guide",
    "note": "Single Red Cross badge; shows what we might pay. Database record only, page not opened. No FX needed (AUD)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40.52",
+   "currency": "AUD",
+   "aud_price": 40.52,
+   "date": "2026-11-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/128191427405",
+   "same_item": "category guide",
+   "note": "Mixed WW1/WW2 military and British badges and pins lot, auction. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70.26",
+   "currency": "AUD",
+   "aud_price": 70.26,
+   "date": "2026-02-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117045000605",
+   "same_item": "category guide",
+   "note": "Military insignia and badges lot (AAOC, air and army), estate, auction. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$56.87",
+   "currency": "AUD",
+   "aud_price": 56.87,
+   "date": "2025-08-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/136356020702",
+   "same_item": "category guide",
+   "note": "Vintage Australian Army badges/buttons/pins Lot B, auction. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$29.4",
+   "currency": "AUD",
+   "aud_price": 29.4,
+   "date": "2025-08-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/136356015290",
+   "same_item": "category guide",
+   "note": "Vintage Australian Army badges/buttons/pins Lot A, auction. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$24.8",
+   "currency": "AUD",
+   "aud_price": 24.8,
+   "date": "2025-10-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116777618236",
+   "same_item": "category guide",
+   "note": "Vintage Australian military badges, buttons bulk lot, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$108.45",
+   "currency": "AUD",
+   "aud_price": 108.45,
+   "date": "2024-03-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116114171015",
+   "same_item": "category guide",
+   "note": "Four AU Commonwealth Military Forces Rising Sun badges, estate lot (better pieces than this lot). Terapeak row, item id from data-item-id",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'MCC member badge'; 'YMCA badge 1938' (none); 'enamel badges military'; 'MCC badge 1965' (none); 'Red Cross badge'; 'YMCA pin'. work/comps.py: 'badge MCC'.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'MCC member badge'; 'YMCA badge 1938' (none); 'enamel badges military'; 'MCC badge 1965' (none); 'Red Cross badge'; 'YMCA pin'. work/comps.py: 'badge MCC'. | chrome: Terapeak AU 1095 days x1.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'MCC member badge 1965 66', 'Melbourne Cricket Club badge 1966 6686'; 'YMCA 1938 Sydney tournament pin'; 'Magpies Collingwood football club badge enamel'; 'LGH Miseris Succurrere badge' (Launceston General Hospital); 'Rising Sun hat badge Australian'. Also Noble Numismatics and Leski realised prices for 'MCC badge' and 'mixed badges lot'. Check the Rising Sun and SAC cap badges for maker marks (Stokes, Firmin) as those drive value.",
- "viewing_check": "Turn over the Rising Sun type and SAC cap badges for maker marks and check if they are KC/QEII or reproductions; check MCC badge number and condition of enamel; see whether any badge is a pre-1950 AIF hat badge or silver hallmarked.",
- "rate_note": "All AUD, no conversion."
+ "viewing_check": "Check whether the cap badges are genuine Australian (not British) and any with maker marks. Look for scarce items hidden in the pile (e.g. AIF, Light Horse, officer badges). Otherwise skip.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3137351,
  "lot": 1039,
- "identification": "8 x 1954 Australian Royal Visit florins (lion and kangaroo reverse). NOTE: 1954 florins are .500 silver (11.31g, about 5.65g fine each, about 45g fine for eight), not .925 as the scan note says. Circulated, VF range. Melt only about $60-70 at current silver; market is collector/bullion-lot buyers.",
+ "identification": "8 x 1954 Australian Royal Visit florins (lion and kangaroo reverse), all dated 1954 as seen in photo, circulated VF-ish. Note .500 silver, not .925 as the scan note says (11.31 g, 5.65 g fine each).",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,72 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/412972/",
    "same_item": "close",
    "note": "Single 1954 Royal Visit florin (about $35 each at Gowans; eight would be $200+ at that rate but lots differ). Paid locally only. (AUD, rate 1; database record only, not opened)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$194.71",
+   "currency": "AUD",
+   "aud_price": 194.71,
+   "date": "2026-06-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145639639079",
+   "same_item": "yes",
+   "note": "10 coins 1954 Royal Visit florin lot = A$19.47 each; 8 coins pro rata A$156",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.49",
+   "currency": "AUD",
+   "aud_price": 19.49,
+   "date": "2026-07-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/143578614268",
+   "same_item": "yes",
+   "note": "single 1954 Royal Visit florin Very Fine",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$19.49",
+   "currency": "AUD",
+   "aud_price": 19.49,
+   "date": "2026-05-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/335225986941",
+   "same_item": "yes",
+   "note": "single 1954 Royal Visit florin 'quality', 2/-",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$25.97",
+   "currency": "AUD",
+   "aud_price": 25.97,
+   "date": "2026-09-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256147877045",
+   "same_item": "yes",
+   "note": "single 1954 Royal Visit florin",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$72.81",
+   "currency": "AUD",
+   "aud_price": 72.81,
+   "date": "2026-02-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/144658779594",
+   "same_item": "category guide",
+   "note": "3 florins 1927/1951/1954 trio, not same",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: '1954 florin', 'royal visit florin', 'florin 1954 sterling'; work comps.py: '1954 florin'. Closest SOLD resale: eBay AU eight 1954 RV florins $199 (Aug 2026) and mixed eight florins $143 (Oct 2026). Armitage paid $75-110 for identical eight-coin lots. Two Dec 2025 eBay entries at $11 and $15 look like single coins or odd lots, not used. No UNSOLD or ASKING entries held.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: '1954 florin', 'royal visit florin', 'florin 1954 sterling'; work comps.py: '1954 florin'. Closest SOLD resale: eBay AU eight 1954 RV florins $199 (Aug 2026) and mixed eight florins $143 (Oct 2026). Armitage paid $75-110 for identical eight-coin lots. Two Dec 2025 eBay entries at $11 and $15 look like single coins or odd lots, not used. No UNSOLD or ASKING entries held. | chrome: Terapeak AU '1954 florin royal visit' 365d; meltvalue silver.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + completed: '8 x 1954 florins', 'eight 1954 royal visit florin lot', '1954 royal visit florin lot' (Terapeak 90 days, sort by price). Also Noble Numismatics and Leski realised prices for 1954 Royal Visit florin groups, last 12 months. Check current asking for sets of 8-10 florins on eBay AU Buy It Now.",
  "rate_note": "All AUD, rate 1.",
- "viewing_check": "Confirm all eight are dated 1954 with the lion/kangaroo Royal Visit reverse (not mixed 1951 or 1953), and check grade and any toning or cleaning. Also confirm the lot really is eight coins and not a mixed set."
+ "viewing_check": "Confirm all eight dated 1954 with lion/kangaroo reverse and not worn flat.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3137233,
  "lot": 921,
- "identification": "Henschke Hill of Grace 1994, Eden Valley single vineyard shiraz, 750ml. Photos show clean black label, capsule on, no box visible.",
+ "identification": "Henschke Hill of Grace 1994, Eden Valley single-vineyard shiraz, 750ml, black and silver label clean, Henschke capsule intact. No presentation box visible. Fill looks to be at the base of the neck / top shoulder but hard to read through dark glass at photo resolution.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,60 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/551",
    "same_item": "category guide",
    "note": "Database record only (comps.py), page not opened. 1990 vintage. Different vintage, over 5 years old."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$655",
+   "currency": "AUD",
+   "aud_price": 655,
+   "date": "2024-09-24",
+   "venue": "Grays Private Cellar sale 10730731 lot 0004",
+   "url": "https://www.grays.com/lot/0004-10730731/private-cellar/henschke-%60hill-of-grace%60-1994-(1-x-",
+   "same_item": "yes",
+   "note": "Page opened: Henschke Hill of Grace 1994 1 x 750ml, cellared, sold A$655 (2 bids), buyer's premium not included. Database said it had a presentation box; page not checked for box.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$1,499",
+   "currency": "AUD",
+   "aud_price": 1499,
+   "date": "2026-11-27",
+   "venue": "Dan Murphy's (DM_912167)",
+   "url": "https://www.danmurphys.com.au/product/DM_912167/henschke-hill-of-grace-shiraz-1994",
+   "same_item": "yes",
+   "note": "Retail list price, shown unavailable for pickup and delivery. Ceiling only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$320",
+   "currency": "AUD",
+   "aud_price": 320,
+   "date": "2026-11-11",
+   "venue": "Armitage sale 28975 lot 854 (database hint, not opened)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111116&chid=28975&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Same wine and vintage two weeks ago in this room. What the local room pays, not resale.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "Estimate A$300-400, no bid shown",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "2026-11-27",
+   "venue": "Armitage sale 29109 lot 921",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3137233&chid=29109&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Current lot.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'henschke hill of grace', 'hill of grace 1994', 'henschke 1994'; work/comps.py: 'henschke hill grace' (no hits). No web searches.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'henschke hill of grace', 'hill of grace 1994', 'henschke 1994'; work/comps.py: 'henschke hill grace' (no hits). No web searches. | chrome: Terapeak EBAY-AU 'hill of grace 1994' 3y (2 rows: A$817.51 bottle, A$52.96 empty box); eBay AU public sold (error page); WebSearch; Grays lot page; Dan Murphy's.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Henschke Hill of Grace 1994' (last 90 days, 1 bottle, no box vs box). Grays.com past lots 'Hill of Grace 1994'. Wine-searcher 'Henschke Hill of Grace 1994' (auction results and avg price). Langtons and Leski past results 'Hill of Grace 1994'. WineBid and LiveAuctioneers 'Hill of Grace 1994' sold in last 2 years. Check box/no-box and fill level in each.",
  "rate_note": "All database prices already AUD; EUR rate for 2021 LiveAuctioneers not stated.",
- "viewing_check": "Fill level (photos suggest into neck, confirm), capsule and cork condition, label scuffs or staining, any presentation box nearby, signs of seepage or leaking, bottle number if present."
+ "viewing_check": "Hold to the light for fill level (base of neck or better is fine; upper shoulder or lower is a pass). Check the capsule turns or is stuck, any seepage or sticky residue under the capsule, cork not pushed up, and colour/bricking at the shoulder.",
+ "chrome_done": true
 }

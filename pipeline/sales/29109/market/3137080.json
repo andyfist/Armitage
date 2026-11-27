@@ -1,1 +1,48 @@
-{"cdid":3137080,"lot":768,"identification":"McCallum's Perfection Scots Whisky, 750ml, bottled in Australia, c1970s-80s, signed D & J McCallum, Founded 1807. Common blended Scotch of the period.","entries":[],"searches_tried":"pipeline/comps.py: 'mccallum scotch', 'mccallums whisky', 'perfection scots whisky', 'whisky bottle'; work/comps.py: 'mccallum whisky', 'scotch 750ml'. No same-item hits. Only unrelated hits (Gowans McCallum character jug, Long John and other 750ml Scotch lots at Armitage/Gowans), not recorded as comps.","needs_chrome":true,"chrome_hint":"eBay AU sold listings: 'McCallums Perfection Scotch Whisky 750ml' and 'McCallum's Perfection whisky vintage'; also Australian Whisky Auctions past results 'McCallum'; Terapeak 'McCallums Perfection'. Expect low value (common blend).","viewing_check":"Check fill level, that the seal and capsule are intact, label condition and any strength/proof marking; nothing else likely to change value."}
+{
+ "cdid": 3137080,
+ "lot": 768,
+ "identification": "McCallum's Perfection Scots Whisky 750ml, Produce of Scotland, bottled in Australia, D&J McCallum (Edinburgh). Cream cap, light label, fill high shoulder. Common blend.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$10.03",
+   "currency": "AUD",
+   "aud_price": 10.03,
+   "date": "2024-06-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176320516278",
+   "same_item": "category guide",
+   "note": "EMPTY bottle only. Terapeak row, item id from data-item-id. Empty vintage glass McCallums bottle.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.82",
+   "currency": "AUD",
+   "aud_price": 32.82,
+   "date": "2025-01-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/306022451502",
+   "same_item": "category guide",
+   "note": "EMPTY bottle only. Terapeak row, item id from data-item-id. Empty McCallum's bottle with alum lid.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$11.75",
+   "currency": "AUD",
+   "aud_price": 11.75,
+   "date": "2026-04-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206183710589",
+   "same_item": "category guide",
+   "note": "EMPTY mini only. Terapeak row, item id from data-item-id. Empty mini bottle.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'mccallum scotch', 'mccallums whisky', 'perfection scots whisky', 'whisky bottle'; work/comps.py: 'mccallum whisky', 'scotch 750ml'. No same-item hits. Only unrelated hits (Gowans McCallum character jug, Long John and other 750ml Scotch lots at Armitage/Gowans), not recorded as comps. | chrome: Terapeak AU 3yr 'mccallum's perfection scots whisky' (only jugs, empties, memorabilia; no full bottle). AWA past results page not fetchable.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'McCallums Perfection Scotch Whisky 750ml' and 'McCallum's Perfection whisky vintage'; also Australian Whisky Auctions past results 'McCallum'; Terapeak 'McCallums Perfection'. Expect low value (common blend).",
+ "viewing_check": "Fill level, capsule seal, label stains.",
+ "chrome_done": true
+}

@@ -1,7 +1,7 @@
 {
  "cdid": 3137001,
  "lot": 689,
- "identification": "Unsigned French brass corniche-style carriage clock, fluted columns, Arabic enamel dial, apparently timepiece only (no repeat button seen), tarnished, running unknown. Likely early 20th century.",
+ "identification": "French brass carriage clock, timepiece only (8 day), 'colonne'/column case with four fluted columns topped by turned finials, leaf-moulded friezes top and bottom, turned bun feet, fluted carry handle, bevelled top glass, white enamel chapter ring with Arabic numerals around an engine-turned gilt centre, spade hands. Back plate shows only the winding arbor, hand-set square and ratchet click; no strike train, no repeat button, no alarm. Probably c.1900-1920. Lot page estimate A$150-250.",
  "entries": [
   {
    "kind": "SOLD",
@@ -134,11 +134,96 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3044527&chid=28587&category=ALL&style=group",
    "same_item": "close",
    "note": "French brass cased with leather case. Our own room, not resale. Database record only (no page opened); AUD, rate 1."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$181.27",
+   "currency": "AUD",
+   "aud_price": 181.27,
+   "date": "2026-11-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227594827279",
+   "same_item": "close",
+   "note": "Antique French brass carriage clock with wooden travel outer case and key, auction 1 bid. Unsigned, timepiece presumably. Has travel case (ours does not seem to).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$152.11",
+   "currency": "AUD",
+   "aud_price": 152.11,
+   "date": "2026-09-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/376847574715",
+   "same_item": "close",
+   "note": "'Carriage Clock - Made in France - antique clock #009', fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$364.54",
+   "currency": "AUD",
+   "aud_price": 364.54,
+   "date": "2026-11-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/307206221342",
+   "same_item": "close",
+   "note": "Antique French carriage clock retailed by Wm B Bradford & Son Exeter, working, fixed. Retailer-signed dial lifts it; upper bound for ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$44.02",
+   "currency": "AUD",
+   "aud_price": 44.02,
+   "date": "2026-09-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/327344795334",
+   "same_item": "category guide",
+   "note": "Antique Duverdrey & Bloquel French carriage alarm clock, auction 8 bids. Low end, condition unknown.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.57",
+   "currency": "AUD",
+   "aud_price": 42.57,
+   "date": "2026-10-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/198751424278",
+   "same_item": "category guide",
+   "note": "Vintage Bayard (later 20th c French) carriage clock, untested, fixed. Lower grade than ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-03-01",
+   "venue": "Gowans Auctions, Hobart (database)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=carriage+clock&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Brass corniche carriage clock. Not resale. Not opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$90",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-09-13",
+   "venue": "Gowans Auctions, Hobart (database)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=carriage+clock&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Corniche brass, damaged enamel. Not resale. Not opened.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py and work/comps.py: 'carriage clock', 'french brass carriage', 'corniche carriage clock', '8 day carriage clock' (no hits).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py and work/comps.py: 'carriage clock', 'french brass carriage', 'corniche carriage clock', '8 day carriage clock' (no hits). | chrome: Terapeak AU 3yr 'french carriage clock brass' (50 rows), AU 90d 'carriage clock' (50 rows), UK 3yr 'french carriage clock column' (11 rows).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/Terapeak: 'French brass carriage clock corniche' and 'carriage clock fluted columns 8 day' (sold, last 12 months, running only). Also LiveAuctioneers and Invaluable results for 'French brass carriage clock' unsigned, timepiece, sold Australian houses (Leski, Theodore Bruce, Gibson's, Lawsons, Mossgreen); compare timepiece-only vs repeater.",
  "rate_note": "All AUD, rate 1. Local database hammer prices, premium extra.",
- "viewing_check": "Wind it and see if it runs and keeps going; check for a repeat button or strike, any stamp or serial on the back plate (maker, Paris medal), escapement type, dial and glass cracks, and whether the key and travel case are present."
+ "viewing_check": "Wind and check it runs for several minutes; look under the base and on the back plate for any stamp (maker, serial, 'Made in France', medallion); check enamel dial for hairlines and chips; check platform escapement through top glass is ticking; any key or case.",
+ "chrome_done": true
 }

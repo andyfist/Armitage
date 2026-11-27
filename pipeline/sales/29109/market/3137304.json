@@ -1,11 +1,161 @@
-{"cdid":3137304,"lot":992,"identification":"Mixed vintage costume jewellery lot: large shell cameo in marcasite white metal frame, small shell cameo in gilt filigree, large banded agate brooch in gilt frame, worn sovereign case (plate or silver plate), animal foot pin with red paste, paste/faux pearl floral brooch, small openwork pendant. No hallmarks visible. Nothing seen to suggest gold.","entries":[
-{"kind":"SOLD","price":"$35","aud_price":35,"currency":"AUD","date":"2026-10-21","venue":"Armitage Auctions, Launceston sale 28839 lot 864 (paid locally, not a resale price)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088308&chid=28839&category=ALL&style=group","same_item":"close","note":"Large oval banded agate brooch 5.5cm, database record only. Local room price, shows what we might pay. Rate: AUD, no conversion."},
-{"kind":"SOLD","price":"$100","aud_price":100,"currency":"AUD","date":"2026-09-30","venue":"Armitage Auctions, Launceston sale 28712 lot 910 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067371&chid=28712&category=ALL&style=group","same_item":"category guide","note":"Large shell carved cameo, frame not stated in record; may be gold-rimmed so may overstate a base-metal frame. Local price only."},
-{"kind":"SOLD","price":"$40","aud_price":40,"currency":"AUD","date":"2026-08-30","venue":"Gowans Auctions, Hobart lot id 433813 (paid locally)","url":"gowans lot id 433813","same_item":"close","note":"3 shell cameos, base grouping. Local price only."},
-{"kind":"SOLD","price":"$30","aud_price":30,"currency":"AUD","date":"2026-08-09","venue":"Gowans Auctions, Hobart lot id 429125 (paid locally)","url":"gowans lot id 429125","same_item":"close","note":"2 Victorian conch shell cameos. Local price only."},
-{"kind":"SOLD","price":"$13","aud_price":13,"currency":"AUD","date":"2026-09-27","venue":"Gowans Auctions, Hobart lot id 440276 (paid locally)","url":"gowans lot id 440276","same_item":"close","note":"2 cameo brooches. Local price only."},
-{"kind":"SOLD","price":"$25","aud_price":25,"currency":"AUD","date":"2026-10-11","venue":"Gowans Auctions, Hobart lot id 443621 (paid locally)","url":"gowans lot id 443621","same_item":"category guide","note":"2 sterling marcasite brooches; ours is white metal, unmarked, so likely lower. Local price only."},
-{"kind":"SOLD","price":"$30 to $50","aud_price":40,"currency":"AUD","date":"2026-09-06","venue":"Gowans Auctions, Hobart lots 435549 and 435400 (paid locally)","url":"gowans lot id 435549; gowans lot id 435400","same_item":"category guide","note":"Sovereign cases, $30 and $50, unspecified metal. Local price only."},
-{"kind":"SOLD","price":"$100","aud_price":100,"currency":"AUD","date":"2026-07-28","venue":"Noble Numismatics, Sydney sale 142 lot 1544","url":"https://www.noble.com.au/auctions/lot/?id=459530","same_item":"category guide","note":"Gold plate sovereign case by Dennison c1910 with a Parker pen, 2 items. Better quality than a worn tarnished case. Competitive room but plate case likely lower. Database record only."}
-],
-"searches_tried":"pipeline/comps.py: 'shell cameo', 'cameo brooch', 'sovereign case', 'marcasite', 'agate brooch'. No web searching done, per instruction. No resale (eBay sold) data held for this mix.","needs_chrome":true,"chrome_hint":"eBay AU sold listings: 'shell cameo brooch marcasite', 'vintage banded agate brooch gilt', 'antique sovereign case plated', 'rabbit foot brooch vintage paste'; Terapeak for the same; also sold results for 'lot vintage costume brooches cameo' to see how mixed lots sell. Check Australian auction houses (Leski, Lawsons, Davidson) for unmarked white metal cameo brooches.","viewing_check":"Photograph the backs of both cameos and the agate brooch for stamps (9ct, 800, 925, sterling, Sil) and pin type. Check the coin case for hallmarks or EPNS and any engraving. Magnet or acid test the white metal frame. Check cameo shell for cracks or chips and marcasite for missing stones.","rate_note":"All prices AUD, no conversion used."}
+{
+ "cdid": 3137304,
+ "lot": 992,
+ "identification": "Mixed vintage brooch lot, 7 pieces: large oval shell cameo (lady's head) in a marcasite-set white metal frame; small oval shell cameo in a beaded/filigree frame; large banded agate oval brooch in gilt frame; small openwork rectangular pendant; animal foot (rabbit) pin with a red stone top; hinged round pocket-watch-style coin/sovereign case; faux pearl and diamante spray brooch. Cloud scan correct.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "aud_price": 35,
+   "currency": "AUD",
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions, Launceston sale 28839 lot 864 (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088308&chid=28839&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Large oval banded agate brooch 5.5cm, database record only. Local room price, shows what we might pay. Rate: AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100",
+   "aud_price": 100,
+   "currency": "AUD",
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28712 lot 910 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067371&chid=28712&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Large shell carved cameo, frame not stated in record; may be gold-rimmed so may overstate a base-metal frame. Local price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40",
+   "aud_price": 40,
+   "currency": "AUD",
+   "date": "2026-08-30",
+   "venue": "Gowans Auctions, Hobart lot id 433813 (paid locally)",
+   "url": "gowans lot id 433813",
+   "same_item": "close",
+   "note": "3 shell cameos, base grouping. Local price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30",
+   "aud_price": 30,
+   "currency": "AUD",
+   "date": "2026-08-09",
+   "venue": "Gowans Auctions, Hobart lot id 429125 (paid locally)",
+   "url": "gowans lot id 429125",
+   "same_item": "close",
+   "note": "2 Victorian conch shell cameos. Local price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$13",
+   "aud_price": 13,
+   "currency": "AUD",
+   "date": "2026-09-27",
+   "venue": "Gowans Auctions, Hobart lot id 440276 (paid locally)",
+   "url": "gowans lot id 440276",
+   "same_item": "close",
+   "note": "2 cameo brooches. Local price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25",
+   "aud_price": 25,
+   "currency": "AUD",
+   "date": "2026-10-11",
+   "venue": "Gowans Auctions, Hobart lot id 443621 (paid locally)",
+   "url": "gowans lot id 443621",
+   "same_item": "category guide",
+   "note": "2 sterling marcasite brooches; ours is white metal, unmarked, so likely lower. Local price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 to $50",
+   "aud_price": 40,
+   "currency": "AUD",
+   "date": "2026-09-06",
+   "venue": "Gowans Auctions, Hobart lots 435549 and 435400 (paid locally)",
+   "url": "gowans lot id 435549; gowans lot id 435400",
+   "same_item": "category guide",
+   "note": "Sovereign cases, $30 and $50, unspecified metal. Local price only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$100",
+   "aud_price": 100,
+   "currency": "AUD",
+   "date": "2026-07-28",
+   "venue": "Noble Numismatics, Sydney sale 142 lot 1544",
+   "url": "https://www.noble.com.au/auctions/lot/?id=459530",
+   "same_item": "category guide",
+   "note": "Gold plate sovereign case by Dennison c1910 with a Parker pen, 2 items. Better quality than a worn tarnished case. Competitive room but plate case likely lower. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$103.37",
+   "currency": "AUD",
+   "aud_price": 103.37,
+   "date": "2026-06-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127928718442",
+   "same_item": "close",
+   "note": "Vintage Art Deco cameo brooch/pendant, 835 silver, marcasite, carved shell. Silver stamped, ours not known to be. Single piece.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$76.20",
+   "currency": "AUD",
+   "aud_price": 76.2,
+   "date": "2026-11-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117047113299",
+   "same_item": "close",
+   "note": "Vintage carved cameo shell brooch/pendant set in 800 silver. Single piece.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$102.54",
+   "currency": "AUD",
+   "aud_price": 102.54,
+   "date": "2026-11-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/146147340398",
+   "same_item": "close",
+   "note": "Vintage 800 silver marcasite flower cameo oval brooch/pendant, 3cm.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40.06",
+   "currency": "AUD",
+   "aud_price": 40.06,
+   "date": "2026-08-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/137583207537",
+   "same_item": "close",
+   "note": "Vintage cameo costume jewellery lot, shell and resin brooches, bracelet, pendant. Best match for the mixed-lot nature of ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$122.77",
+   "currency": "AUD",
+   "aud_price": 122.77,
+   "date": "2024-03-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145629807846",
+   "same_item": "close",
+   "note": "4cm vintage 930 silver marcasite hand carved shell cameo brooch/pendant, auction 1 bid. Over 2 years old.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'shell cameo', 'cameo brooch', 'sovereign case', 'marcasite', 'agate brooch'. No web searching done, per instruction. No resale (eBay sold) data held for this mix. | chrome: Terapeak AU 3yr Used filter: 'shell cameo brooch marcasite' (21 sold, A$27-150).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'shell cameo brooch marcasite', 'vintage banded agate brooch gilt', 'antique sovereign case plated', 'rabbit foot brooch vintage paste'; Terapeak for the same; also sold results for 'lot vintage costume brooches cameo' to see how mixed lots sell. Check Australian auction houses (Leski, Lawsons, Davidson) for unmarked white metal cameo brooches.",
+ "viewing_check": "Look for 800/925/silver stamps on the marcasite cameo frame, test or magnet the metals, check cameos for chips and the agate for cracks.",
+ "rate_note": "All prices AUD, no conversion used.",
+ "chrome_done": true
+}

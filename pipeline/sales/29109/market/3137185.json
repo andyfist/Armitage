@@ -1,7 +1,7 @@
 {
  "cdid": 3137185,
  "lot": 873,
- "identification": "Penfolds Grandfather Rare Tawny (fortified, 750 ml likely) in wooden presentation box with swing ticket and medallion, red top capsule. Modern presentation; vintage/bottling date not visible. Title: BOTTLE OF PENFOLDS GRANDFATHER TAWNY PORT.",
+ "identification": "Penfolds Grandfather Rare Tawny (fortified, 750 ml, the 'Rare Tawny' label as on the 20-year-old blend), in its wooden presentation box with a leaflet and a medallion on the bottle, red wax-style capsule. Bottling year not visible. Estimate A$40-60, current bid A$45 at check time.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,48 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/530",
    "same_item": "category guide",
    "note": "Hammer, premium excluded; estimate $500-600. Twelve bottles of Grandfather Port, probably older stock, unboxed; over 5 years old, so only a rough guide. Real competitive sale but lot of 12."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$129",
+   "currency": "AUD (Terapeak)",
+   "aud_price": 129,
+   "date": "2026-09-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/358402275504",
+   "same_item": "yes",
+   "note": "Penfolds Grandfather Rare Tawny Port 750ml, fixed price. Page not opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$117",
+   "currency": "AUD (Terapeak)",
+   "aud_price": 117,
+   "date": "2026-11-19",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/355587828596",
+   "same_item": "yes",
+   "note": "Penfolds Grandfather Rare Tawny 20 years gift box NV 750mL. Page not opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$107",
+   "currency": "AUD (Terapeak)",
+   "aud_price": 107,
+   "date": "2026-07-23",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/256731549378",
+   "same_item": "yes",
+   "note": "Penfolds Grandfather Rare Tawny 750ml, fixed price. Page not opened.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'penfolds grandfather', 'grandfather tawny', 'penfolds rare tawny'; work/comps.py: 'penfolds grandfather'. Also seen: Armitage sale 28712 lot 808, 1945 Grandfather Port as is, $155 (different, vintage bottle, excluded).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'penfolds grandfather', 'grandfather tawny', 'penfolds rare tawny'; work/comps.py: 'penfolds grandfather'. Also seen: Armitage sale 28712 lot 808, 1945 Grandfather Port as is, $155 (different, vintage bottle, excluded). | chrome: Terapeak AU 3yr; web search (no useful price).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'Penfolds Grandfather Rare Tawny box' and 'Penfolds Grandfather tawny port 750ml' (Sold items filter, Australia, last 90 days); also Terapeak. Wine-Searcher / Langtons / Wine Market Journal: 'Penfolds Grandfather Rare Tawny' for ASKING retail and auction results. Compare Penfolds retail page for current Grandfather price (ASKING, new retail). Check Gowans/Leski/Mossgreen-type wine auctions for boxed lots.",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Read the bottle label and back label for bottling date or batch, check fill level (shoulder, ullage), capsule and cork seal intact, box condition and that the medallion and swing ticket are present; confirm 750 ml and whether it is the 20 YO or Rare Tawny (label says Rare Tawny in photo)."
+ "viewing_check": "Read back label for bottling date and age statement (20 Year Old?), fill level, cork/seal, box and medallion, leaflet present, no leakage.",
+ "chrome_done": true
 }

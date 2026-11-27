@@ -1,7 +1,7 @@
 {
  "cdid": 3137074,
  "lot": 762,
- "identification": "Seppelt Para Liqueur Port, bottling No.102 (neck label 'Old Liqueur Port 102'), round decanter-style bottle with brown capsule, produced and bottled by B. Seppelt & Sons Limited, Adelaide. Original maroon box with price sticker and handwritten number. Photo confirms the 102 label. Common numbered (non-vintage) Para series.",
+ "identification": "Seppelt Para Liqueur Port, boxed, 1970s-80s numbered bottling (round-shouldered 'Old Liqueur Port' bottle, Para label, neck label with a bottling number; number not legible in the photo). Box label shows a number that may be 1150/115 area, unreadable.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,36 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/637",
    "same_item": "category guide",
    "note": "1947 Seppeltsfield Para vintage tawny, 738ml. A vintage-dated bottle, worth more than a numbered bottling; not the same item. Local database record (snippet only, no page opened); AUD so rate 1."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$91.72",
+   "currency": "AUD",
+   "aud_price": 91.72,
+   "date": "2026-09-12",
+   "venue": "eBay AU (Buy It Now, free delivery)",
+   "url": "https://www.ebay.com.au/itm/196453121941",
+   "same_item": "close",
+   "note": "Para Liqueur Port No 116 circa 1991. eBay public sold search; only linked sale in 90 days.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$30-50",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-11-27",
+   "venue": "Armitage estimate",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3137074&chid=29109&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Estimate only, no bid yet.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'seppelt para port', 'para liqueur port', 'seppelt liqueur port 102' (no hits); work/comps.py: 'seppelt para' (no hits). Nothing in the databases is a 2020s competitive sale of a numbered boxed bottle; Gowans (about $30-55) and Armitage ($35-105) are local rooms only.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'seppelt para port', 'para liqueur port', 'seppelt liqueur port 102' (no hits); work/comps.py: 'seppelt para' (no hits). Nothing in the databases is a 2020s competitive sale of a numbered boxed bottle; Gowans (about $30-55) and Armitage ($35-105) are local rooms only. | chrome: Terapeak AU sold 3y 'seppelt para liqueur port' (about 45 rows); eBay AU public sold search once (1 linked row). Gowans/Armitage figures are from the chunk database hints only.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'Seppelt Para Liqueur Port 102', 'Para Liqueur Port boxed bottling 102', 'Seppelt Para port numbered bottle box'; Terapeak same terms, last 12 months; also check other numbers 101-118 for the going rate. Auction houses: Leski realized prices (Para Liqueur Port), Lawsons, Mossgreen/Leonard Joel wine, Langton's, Wine Searcher auction results, Grays Online (Para Liqueur). Also Seppelt Para 'Bin 102' on Australian Wine Auctions.",
- "viewing_check": "Fill level and ullage, capsule intact, cap seal, any leakage or staining in box, label condition, and whether the number 102 is on both neck label and box. Confirm it is a numbered bottling, not a vintage-dated Para (vintage-dated ones are worth much more).",
- "rate_note": "All prices AUD, rate 1."
+ "viewing_check": "Read the bottling number on the neck label and box (101-126). Check fill level and box condition. Any number under 105 or a vintage-dated (1939-47) bottle would change the value.",
+ "rate_note": "All prices AUD, rate 1.",
+ "chrome_done": true
 }

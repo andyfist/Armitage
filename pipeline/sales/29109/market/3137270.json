@@ -1,7 +1,7 @@
 {
  "cdid": 3137270,
  "lot": 958,
- "identification": "Victorian 9ct gold twin bar brooch, ribbed ball terminals, central flowerhead of seed pearls round a green stone, two seed pearl stars, safety chain. Unmarked in photos; carat unconfirmed (could be 9ct or 15ct), maker unknown.",
+ "identification": "Late Victorian/Edwardian gold twin-bar brooch: two parallel bars between squared end posts with ribbed ball terminals, centre a six-petal flowerhead each petal set with a seed pearl around a small green stone (paste, glass or possibly peridot/tourmaline), flanked by two five-point star mounts each with one seed pearl, four small bead accents, gold safety chain and pin. Est. 45-50 mm long (no scale in photo). Typical Australian/English c.1890-1910 bar brooch. Lot page: estimate A$150-200, no current bid value showing (27 Nov ~19:55).",
  "entries": [
   {
    "kind": "SOLD",
@@ -134,11 +134,72 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/422430/",
    "same_item": "close",
    "note": "9ct seed pearl and greenstone brooch. PAID LOCALLY: not resale (database record, no web page opened; AUD as printed, no conversion)"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$254.60",
+   "currency": "AUD",
+   "aud_price": 254.6,
+   "date": "2026-10-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117474682182",
+   "same_item": "close",
+   "note": "Antique Edwardian 9ct brooch, amethyst and seed pearls, 2.7 g, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100.57",
+   "currency": "AUD",
+   "aud_price": 100.57,
+   "date": "2026-09-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117433552876",
+   "same_item": "close",
+   "note": "Antique 9ct gold and seed pearl brooch 'wear or scrap', fixed, weight not stated.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$679.18",
+   "currency": "AUD",
+   "aud_price": 679.18,
+   "date": "2026-11-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/125866939470",
+   "same_item": "category guide",
+   "note": "Yellow gold ruby and seed pearl anchor brooch, fixed. Different motif, probably higher carat/heavier. Upper outlier.",
+   "via": "chrome"
+  },
+  {
+   "kind": "MELT",
+   "price": "A$64.88/g 9ct",
+   "currency": "AUD",
+   "aud_price": 64.88,
+   "date": "2026-11-27",
+   "venue": "meltvalue.com/au (24ct A$173.00/g)",
+   "url": "https://meltvalue.com/au/9ct-gold-price",
+   "same_item": "yes",
+   "note": "At assumed 3 g gold, melt about A$195; eBay 9ct scrap clears about A$61-80/g (see lot 953).",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$220",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "2025-05-07",
+   "venue": "Armitage sale 23989 lot 814",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2491065&chid=23989&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Database hint, not opened: 9ct seed pearl Victorian brooch. Not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'seed pearl brooch', 'victorian 9ct brooch', 'pearl bar brooch', '9ct seed pearl'; work comps.py: 'seed pearl brooch'. Ignored Denhams, Badgers and Noble sale 140 lot 3146 hits, which carry the same text as a Gowans two-brooch lot and look unreliable.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'seed pearl brooch', 'victorian 9ct brooch', 'pearl bar brooch', '9ct seed pearl'; work comps.py: 'seed pearl brooch'. Ignored Denhams, Badgers and Noble sale 140 lot 3146 hits, which carry the same text as a Gowans two-brooch lot and look unreliable. | chrome: Terapeak AU 90d 'antique 9ct gold seed pearl bar brooch' (0), Terapeak AU 3yr '9ct seed pearl brooch' (50 rows; 3 linked in 90d). Noble lot pages x4 opened.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'victorian 9ct gold seed pearl bar brooch' and '15ct seed pearl bar brooch green stone'; Terapeak same; Leski, Noble, Mossgreen/Theodore Bruce, Lawsons sold results for 'seed pearl bar brooch gold'; LiveAuctioneers and Invaluable sold 'Victorian seed pearl gold bar brooch'.",
- "viewing_check": "Carat stamp (9, 15 or 375/625) under loupe on bar and pin, maker mark (Aronson, Willis, etc.), weight on scales (likely 3 to 5g), pearls missing, whether green stone is glass or paste, pin and catch condition.",
- "rate_note": "All database prices are AUD as printed; no conversion."
+ "viewing_check": "Turn it over: look for 9ct/15ct/375/625 and a maker mark (Willis, Aronson, Benjamin, T&S, Stewart, Golding would add A$50-100). Weigh it (3 g assumed). Count pearls (11 expected: 6 flower, 2 stars, none missing), check pin and catch work and safety chain is gold.",
+ "rate_note": "All database prices are AUD as printed; no conversion.",
+ "chrome_done": true
 }

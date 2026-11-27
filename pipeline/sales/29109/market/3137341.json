@@ -1,7 +1,7 @@
 {
  "cdid": 3137341,
  "lot": 1029,
- "identification": "Three Australian George V silver (.925) florins dated 1926, 1927 and 1928 in hand-labelled card holders (grades pencilled 4, 5 and 6). Obverses noted as 6 clear pearls with centre diamond (the scarcer/ordinary headband varieties are not distinguished by this). Look about VF, some wear. Oddity: the holder labelled 1927 appears to show the coat of arms reverse, but the only 1927 florin is the Canberra Parliament House type, so the date label may be wrong (could be another date) and must be checked.",
+ "identification": "Three Australian George V silver florins on hand-labelled cards: 1928, 1927 (plain reverse date, not the Canberra), 1926. Photo 2 shows the obverses, each card noting '6 clear pearls and centre diamond in headband' (pearl count in the crown band, a grading note); one card has a corner chipped. Circulated, about VF per the seller notes. Matches cloud scan.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,84 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=438981",
    "same_item": "category guide",
    "note": "Florins 1914-1931 incl. 1926 (2), 1927, 1928, plus shillings etc. Larger mixed lot, only a ceiling-style guide to bulk silver demand. Database hit (comps.py), no web page opened. AUD already, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45.67",
+   "currency": "AUD",
+   "aud_price": 45.67,
+   "date": "2026-05-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227152369874",
+   "same_item": "yes",
+   "note": "1926 sterling silver florin, free post.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40.17",
+   "currency": "AUD",
+   "aud_price": 40.17,
+   "date": "2026-01-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227140398742",
+   "same_item": "yes",
+   "note": "1926 KGV florin, 92.5% silver, 'very nice'.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$38.55",
+   "currency": "AUD",
+   "aud_price": 38.55,
+   "date": "2026-07-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/277394262731",
+   "same_item": "yes",
+   "note": "1926 KGV florin, 5/6 pearls, very nice.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$34.83",
+   "currency": "AUD",
+   "aud_price": 34.83,
+   "date": "2026-01-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225200133589",
+   "same_item": "yes",
+   "note": "1926 KGV florin, very nice vintage.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.95",
+   "currency": "AUD",
+   "aud_price": 28.95,
+   "date": "2025-12-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/324567162579",
+   "same_item": "yes",
+   "note": "1926 George V florin, average circulated.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$24.93",
+   "currency": "AUD",
+   "aud_price": 24.93,
+   "date": "2025-08-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256997655717",
+   "same_item": "yes",
+   "note": "1926 florin, above average circulated.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'florin 1926', 'florin 1927', 'florin 1928', 'george florin'; work/comps.py: 'florin 1926', 'florin george' (no resale comps found). No single-coin 1926/1928 hits; only multi-coin Noble and Leski lots. No Armitage or Gowans same-item hits seen.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'florin 1926', 'florin 1927', 'florin 1928', 'george florin'; work/comps.py: 'florin 1926', 'florin george' (no resale comps found). No single-coin 1926/1928 hits; only multi-coin Noble and Leski lots. No Armitage or Gowans same-item hits seen. | chrome: Terapeak AU 3yr: '1926 florin australia'. Silver melt not checked (about 10.5g of .925 per florin).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/Terapeak: 'australian florin 1926', 'australian florin 1928', 'florin 1927 coat of arms' (to settle the date), each with Sold Items filter, last 12 months, grade VF. Noble Numismatics lot search for 'florin 1926' and 'florin 1928' singles; Downies and Status International results for 'florin 1926 VF'. Check coin-dealer retail (Perth Mint dealers, Coins of Oz) as ASKING for 1926 and 1928 VF. Silver content approx 11.3 g .925 each, melt roughly $12-18 per coin at current silver.",
- "viewing_check": "Read each date with a loupe, especially the 1927 (confirm reverse is Parliament House Canberra type or not; coat of arms with 1927 would be odd). Photograph the date and reverse of each coin. Check for cleaning, scratches and rim knocks; confirm real grade (VF vs F) and that none are lead or copy forgeries. Check 1926 and 1928 more closely as they are the scarcer dates in better grade.",
- "rate_note": "All figures AUD from the databases, no conversion."
+ "viewing_check": "Check grades (cards say about VF), cleaning, and the damaged card corner is only the card.",
+ "rate_note": "All figures AUD from the databases, no conversion.",
+ "chrome_done": true
 }

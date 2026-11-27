@@ -1,7 +1,7 @@
 {
  "cdid": 3137386,
  "lot": 1074,
- "identification": "Cased 12-coin 'History of Seafaring' proof set (Beschichte der Schifffahrt/Histoire de la navigation), wooden presentation case, capsuled crown-size coins with tall ships, from Pacific/African issuers (Cook Islands/Tuvalu $2, Vanuatu 10 vatu, PNG 2 kina, 1 dollar Royal Clipper, 100 francs). Looks like the 2008-2010 multi-country series; the Noble 2012 'History of Seafaring silver crowns' suggests at least some issues are silver, but a 12-piece set may mix silver and silver-plated base metal. Fineness not readable in photos.",
+ "identification": "Cased set of 12 'History of Seafaring' proof crown-size coins in a mahogany-finish presentation case, each in a square capsule with a small ship logo (same style as Westminster Collection sets). Coins read: Bounty $2, Victoria $2, Endeavour $2, Gorch Fock (dated 2015), a Cook Islands/Tuvalu-type $2, a $2 tall ship with map, Alexander von Humboldt 2 Kina (PNG), Mayflower (dated 2016), The Royal Clipper 1 Dollar ('Geschichte der Seefahrt'), Fregate 100 Francs, Passat Half Dollar, Golden Hind 10 Vatu. Likely about 2013-2016 issues. Metal not stated on the visible case or capsules.",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,11 +46,24 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=268659",
    "same_item": "category guide",
    "note": "Local database hit, snippet text only, page not opened. Perth Mint Tuvalu 2011 Golden Hind 1oz silver proof, cased, single coin; different maker."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$847.27",
+   "currency": "AUD",
+   "aud_price": 847.27,
+   "date": "2026-03-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267590021136",
+   "same_item": "close",
+   "note": "Titled 'History of Seafaring sterling silver proof coin collection, 15 coins each of 12g...' (title truncated in Terapeak), auction, 1 sale. Same series name but 15 coins not 12, and only one sale, so a single data point; Terapeak row, item id from data-item-id. Shows the set CAN be sterling and sell high.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'history seafaring proof', 'seafaring silver proof set', 'royal clipper', 'tuvalu proof sailing ships', 'history seafaring', 'seafaring crowns', 'tuvalu silver proof ships'; work/comps.py: 'seafaring proof', plus repeats (no hits). No Gowans or Armitage hits.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'history seafaring proof', 'seafaring silver proof set', 'royal clipper', 'tuvalu proof sailing ships', 'history seafaring', 'seafaring crowns', 'tuvalu silver proof ships'; work/comps.py: 'seafaring proof', plus repeats (no hits). No Gowans or Armitage hits. | chrome: Terapeak AU 3yr 'history of seafaring coin collection' (1 row), 'seafaring silver proof coins case' (0); Terapeak US (0); WebSearch x2; Littleton page; Noble 256603 opened.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/completed: 'History of Seafaring silver proof coins set 12', 'Geschichte der Seefahrt 925 silver coins set case'; Terapeak same. Also search 'History of Seafaring' Noble Numismatics, Leski, Downies, Mowbray, Heritage past results, and LiveAuctioneers/Invaluable 'History of Seafaring proof set'. Check issuer (Numista 'History of Seafaring' series, 2008-2010 Cook Islands/Tuvalu/Vanuatu/PNG/Belarus) for composition: .925 silver vs silver-plated copper-nickel, and the original issue price from the mint/dealer.",
- "viewing_check": "Read the edge and reverse of several coins out of capsule if allowed: fineness marks (925, Ag, 'silver', weight 28.28g/1oz or 31.1g), look for certificate of authenticity in the case lid or under the tray, and check a magnet test and weight on a couple of coins. Plated cupronickel is near worthless; .925 crown coins are roughly melt plus modest premium. Photograph any certificate and the case underside.",
- "rate_note": "All prices AUD, no conversion needed."
+ "viewing_check": "Take a capsule out (or read the capsule backs and certificate paperwork in the case): look for '925', 'Ag', 'sterling silver', or 'silver plated' wording; check any certificate of authenticity or booklet in the case; weigh a coin (sterling crown about 20-28 g vs cupro-nickel). Magnet test. If sterling, count coins and compare with the 15-coin set that sold A$847.",
+ "rate_note": "All prices AUD, no conversion needed.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3137127,
  "lot": 815,
- "identification": "Grand Old Parr De Luxe Scotch Whisky 12 years, 43%, 750ml bottle with 75cl gold box, Greenlees neck foil. Likely 1980s Australian-market export bottling. Sealed, good fill, box lightly worn.",
+ "identification": "Grand Old Parr De Luxe Scotch Whisky aged 12 years, 43% alc/vol, 750 ml, with gold foil 75 cl box. Label reads 'Bottled in Scotland'. 750ml/43% export bottling, 1980s.",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,11 +46,84 @@
    "url": "https://www.lawsons.com.au/auction-lot/dom-benedictine-liqueur-old-bottling-43-abv_8a94660a23",
    "same_item": "category guide",
    "note": "Database hits only, not opened. Mixed old-bottle lots (Long John 12 yo and others) with low prices; shows ordinary 1980s-90s blends sell cheaply. Low end of range."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2022-10-30",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-171179/grand-old-parr-de-luxe-12-year-old-1980s",
+   "same_item": "yes",
+   "note": "Grand Old Parr De Luxe 12 YO 1980s. Over 3 years old.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$135",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2022-09-25",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-160316/grand-old-parr-de-luxe-12-year-old-1980s",
+   "same_item": "yes",
+   "note": "Same 1980s bottling. Over 3 years old.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$113",
+   "currency": "AUD",
+   "aud_price": 113,
+   "date": "2022-05-29",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-120065/grand-old-parr-12-year-old-deluxe-scotch-whisky",
+   "same_item": "close",
+   "note": "Old Parr 12 deluxe, era not stated. Over 3 years old.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$135",
+   "currency": "AUD",
+   "aud_price": 135,
+   "date": "2025-03-30",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-450324/grand-old-parr-12-year-old-deluxe-scotch-whisky-1000ml",
+   "same_item": "close",
+   "note": "1000ml version (older litre bottling).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$62",
+   "currency": "AUD",
+   "aud_price": 62,
+   "date": "2026-06-28",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-692313/grand-old-parr-12-year-old-deluxe-scotch-whisky",
+   "same_item": "close",
+   "note": "Recent, probably a modern bottling (era not stated); the freshest AWA price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$95",
+   "currency": "AUD",
+   "aud_price": 95,
+   "date": "2026-04-21",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/336020763783",
+   "same_item": "close",
+   "note": "Terapeak row, Grand Old Parr 12, fixed price, A$95 each (3 sold). Page not opened; era unknown.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'old parr'; 'old parr whisky'; 'old parr 12 scotch whisky'; 'grand old parr'; 'whisky 75cl'; 'scotch whisky 12 year'; 'whisky 750ml 43% boxed'. work/comps.py: 'old parr'; 'whisky'. No same-item Old Parr 12 resale comp held. Only one Armitage Old Parr hit (paid locally).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'old parr'; 'old parr whisky'; 'old parr 12 scotch whisky'; 'grand old parr'; 'whisky 75cl'; 'scotch whisky 12 year'; 'whisky 750ml 43% boxed'. work/comps.py: 'old parr'; 'whisky'. No same-item Old Parr 12 resale comp held. Only one Armitage Old Parr hit (paid locally). | chrome: AWA past results; Terapeak AU 3yr.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold/completed (and Terapeak): 'Old Parr 12 year 750ml'; 'Grand Old Parr De Luxe 12 boxed'; 'Old Parr 12 Greenlees 43%'. Also Scotch Whisky Auctions, Whisky.Auction, Whisky Hammer and Australian Whisky Auctions past results for 'Old Parr 12' (1980s, 750ml/75cl, boxed), plus Lawsons and Leski for local results. Run on sold items from the last 3 years only.",
- "viewing_check": "Check fill level (shoulder or better), capsule and Greenlees foil intact, label condition and any batch/bottling code on the back label, whether the box is the matching original, and that the seal and cork are not leaking.",
- "rate_note": "All database prices already in AUD; no conversion applied."
+ "viewing_check": "Fill level, neck foil and capsule intact, label condition and back label/batch code, box matches, no leaking.",
+ "rate_note": "All database prices already in AUD; no conversion applied.",
+ "chrome_done": true
 }

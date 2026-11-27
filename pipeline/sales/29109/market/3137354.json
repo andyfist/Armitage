@@ -1,7 +1,7 @@
 {
  "cdid": 3137354,
  "lot": 1042,
- "identification": "Three 1966 Australian round 50 cent coins (Coat of Arms reverse, one-year type, 80% silver, 13.28g each, about 32g fine silver in total). Photo shows three coins, fairly bright, circulated to about EF, no obvious damage. Common date, no varieties visible.",
+ "identification": "Three Australian 1966 round 50 cent coins (80% silver, 13.28 g each). Photo shows three coats-of-arms reverses only, no obverses, no dates visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,84 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111173&chid=28975&category=ALL&style=group",
    "same_item": "yes",
    "note": "PAID LOCALLY, Armitage's own past sale, not a resale price. 8 coins at $150 and $180, about $19-23 a coin. Also sale 28712 lot 883, 8 coins $220 (2026-09-30)."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$37.48",
+   "currency": "AUD",
+   "aud_price": 37.48,
+   "date": "2026-11-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/256466366925",
+   "same_item": "yes",
+   "note": "Single 1966 round 50c 80% silver, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$63.38",
+   "currency": "AUD",
+   "aud_price": 63.38,
+   "date": "2026-11-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326419064720",
+   "same_item": "yes",
+   "note": "Single 1966 round 50c uncirculated, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.33",
+   "currency": "AUD",
+   "aud_price": 47.33,
+   "date": "2026-11-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/295412995464",
+   "same_item": "yes",
+   "note": "Single in 2x2 holder, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$24.75",
+   "currency": "AUD",
+   "aud_price": 24.75,
+   "date": "2025-10-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326682404599",
+   "same_item": "yes",
+   "note": "Single circulated, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.88",
+   "currency": "AUD",
+   "aud_price": 20.88,
+   "date": "2025-08-19",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/221436502078",
+   "same_item": "yes",
+   "note": "Single, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.35",
+   "currency": "AUD",
+   "aud_price": 20.35,
+   "date": "2024-08-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/266485093670",
+   "same_item": "yes",
+   "note": "Single, fixed price. Terapeak row, item id from data-item-id",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: '1966 round 50c'; '1966 fifty cent silver'; 'australian round fifty cents lot'. work/comps.py: '1966 round 50 cent'.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: '1966 round 50c'; '1966 fifty cent silver'; 'australian round fifty cents lot'. work/comps.py: '1966 round 50 cent'. | chrome: Terapeak AU 1095 days x1.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + completed: '1966 round 50 cent coin lot of 3' and '3 x 1966 round 50c silver' (Terapeak last 90 days, check lots of 2-5 and per-coin postage); also '1966 round 50c circulated'. Noble Numismatics realised prices: 'silver fifty cents 1966' (last 12 months, 2-5 coin lots). Leski and Downies results for '1966 fifty cents'. Also note current silver spot AUD for melt floor (about 32g fine).",
- "viewing_check": "Check each coin for cleaning, scratches, holed or damaged edges and grade (circulated vs EF). Confirm all three are 1966 round, not later cupro-nickel 12-sided. Check for any toning or higher grade (aUNC and above sells about $50 each).",
- "rate_note": "All prices AUD, rate 1.00."
+ "viewing_check": "Confirm all three are dated 1966 (not 1967 onward cupro-nickel) and check grade.",
+ "rate_note": "All prices AUD, rate 1.00.",
+ "chrome_done": true
 }

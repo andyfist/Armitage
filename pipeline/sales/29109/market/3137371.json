@@ -1,7 +1,7 @@
 {
  "cdid": 3137371,
  "lot": 1059,
- "identification": "Six 1966 round 50c (80% silver, one-year type, about 64g silver in total), 1953 Coronation crown (cupro-nickel) and 1988 Parliament House $5 on card. Value is mostly the six 50c.",
+ "identification": "Six Australian 1966 round 50c coins (80% silver, about 13.5g each, one-year type), a British Elizabeth II crown in a square capsule (cruciform shields reverse, consistent with the 1953 Coronation crown, cupro-nickel) and a 1988 Parliament House $5 aluminium-bronze coin on its Commonwealth Bank spec card. Value is almost all in the six 50c.",
  "entries": [
   {
    "kind": "SOLD",
@@ -145,11 +145,96 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=420876",
    "same_item": "category guide",
    "note": "Seven 1988 Parliament House $5, two Anzac $5 and other coins; roughly $8 to $10 per coin."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$239.99",
+   "currency": "AUD",
+   "aud_price": 239.99,
+   "date": "2026-08-31",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/188578141919",
+   "same_item": "yes",
+   "note": "6 X 1966 Round 50c lot, eBay public sold search listing, title read, page not opened",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$219.65",
+   "currency": "AUD",
+   "aud_price": 219.65,
+   "date": "2026-09-09",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/237043981620",
+   "same_item": "yes",
+   "note": "1966 Round 50c x6, 10 bids; Terapeak shows A$224.90 (with postage difference)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$209.95",
+   "currency": "AUD",
+   "aud_price": 209.95,
+   "date": "2026-10-25",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/860080967141",
+   "same_item": "yes",
+   "note": "6 x 1966 Round 50c bulk lot",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$196.80",
+   "currency": "AUD",
+   "aud_price": 196.8,
+   "date": "2026-11-23",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/407373593015",
+   "same_item": "yes",
+   "note": "1966 50c silver decimal coins x6",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$170.00",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2026-11-14",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336896517098",
+   "same_item": "close",
+   "note": "Five 1966 round 50c (scale to six about A$204); not used in median",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$6-22",
+   "currency": "AUD",
+   "aud_price": 8,
+   "date": "2026-11-24",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/860105772639",
+   "same_item": "close",
+   "note": "1953 Coronation crown, typical A$6-11 (many sales 22-27 Nov); not set in median",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$170",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2026-10-11",
+   "venue": "Gowans Hobart",
+   "url": "gowans lot 443468",
+   "same_item": "yes",
+   "note": "Bag of six round 50c, paid locally, not resale",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: '1966 round 50c silver', '1953 coronation crown', 'parliament house five dollar'; work/comps.py: '1966 round 50c'. No web searches.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: '1966 round 50c silver', '1953 coronation crown', 'parliament house five dollar'; work/comps.py: '1966 round 50c'. No web searches. | chrome: Terapeak AU '1966 round 50c x6' 3y; eBay AU sold '1966 round 50c x6 silver'; eBay AU sold '1953 coronation crown'",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold (Terapeak): '1966 round 50c lot', '6 x 1966 round 50c', '1966 50c round silver bundle', '1953 coronation crown elizabeth II cupro nickel', '1988 parliament house $5 CBA'. Also Noble Numismatics and Downies realised prices for '1966 round 50c' lots of 5-10 coins. Bundles of 6 are the resale comparison.",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Check the dates and condition of each of the six 50c (all 1966, any Unc or capsule-grade), that the crown is the 1953 cupro-nickel and not a silver proof, and the card for the $5."
+ "viewing_check": "Check all six dates are 1966 and none holed or cleaned, grades; crown date and that it is cupro-nickel; $5 coin on card.",
+ "chrome_done": true
 }

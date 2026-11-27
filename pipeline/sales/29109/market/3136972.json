@@ -1,7 +1,7 @@
 {
  "cdid": 3136972,
  "lot": 660,
- "identification": "Amber/honey glazed earthenware jug moulded as Lord Kitchener's face with moustache, base incised 'R.J.C 1912' (Rupert J. Campbell, Launceston Pottery, Tasmania, dated 1912). Likely WWI-era Kitchener commemorative novelty; glaze running and flecks/losses at base rim, no cracks seen.",
+ "identification": "Earthenware face jug, H 15 cm, honey/amber lead glaze with white mottled run at handle side and base, moulded and incised as a moustached man in a banded cap (the catalogue calls it Kitchener; the headband with zigzag incising reads more like a cap/turban band, so Kitchener is plausible but not certain). Pinched spout, branch-style handle. Base incised by hand 'R.J.C 1912'. Attributed to Rupert Campbell, a son of John Campbell of the Launceston (Campbell) pottery: learnantiques lists a son Rupert among John Campbell's children; I could not confirm the 'J' initial or that he signed pieces R.J.C. Early dated, hand-made piece, unlike the standard 'John Campbell Tasmania' factory signature.",
  "entries": [
   {
    "kind": "SOLD",
@@ -103,9 +103,10 @@
    "note": "Signed Glen Campbell pottery plate 20cm with Launceston crest. PAID LOCALLY: what we might pay, not a resale price. Database record, page not opened (AUD, rate 1)."
   }
  ],
- "searches_tried": "pipeline/comps.py: 'Rupert Campbell', 'Kitchener jug', 'Launceston Pottery', 'Campbell Tasmanian pottery'; work/comps.py same four. No same-item hit (no Rupert Campbell Kitchener jug sale in databases). Only John Campbell / Campbell Pottery category comps and one Kitchener trench art jug.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'Rupert Campbell', 'Kitchener jug', 'Launceston Pottery', 'Campbell Tasmanian pottery'; work/comps.py same four. No same-item hit (no Rupert Campbell Kitchener jug sale in databases). Only John Campbell / Campbell Pottery category comps and one Kitchener trench art jug. | chrome: Terapeak AU 'john campbell pottery' (3 y, 50 rows) and 'campbell pottery character jug' (3 y, 4 rows, Used filter auto-applied); eBay public search errored; WebSearch x4; WebFetch Carters Campbell learn page, DAAO John Campbell, learnantiques John Campbell pottery.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Rupert Campbell Kitchener jug', 'Campbell Pottery Launceston Kitchener', 'Tasmanian pottery Kitchener jug', 'Kitchener face jug pottery 1912'. Also Leski Auctions (Australian & Colonial History) realised prices, Invaluable and LiveAuctioneers for 'Rupert Campbell Launceston', 'Campbell Pottery Kitchener', 'Lord Kitchener character jug WW1'; Gowans/Colville for Tasmanian pottery. Check Trove/Launceston Museum (QVMAG) for Rupert Campbell Kitchener jugs.",
- "viewing_check": "Check base incision reads R.J.C 1912 (photo 3 looks clear), any other maker mark or number, hairlines or restoration at handle join and rim, extent of glaze loss at base rim, and height. Photograph handle junction and rim interior under light.",
- "rate_note": "All AUD, rate 1."
+ "viewing_check": "Check the handle joins and rim for hairlines or restoration, base rim flecks (photo shows small chips), and the white patches (glaze crawl vs repair). Look for any other mark under the glaze. If cheap (under A$60) it is a fair punt for local Tasmaniana interest, but not a resale buy at A$200 profit. QVMAG (Launceston) may be able to confirm Rupert Campbell's work.",
+ "rate_note": "All AUD, rate 1.",
+ "chrome_done": true
 }

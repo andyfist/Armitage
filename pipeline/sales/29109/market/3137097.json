@@ -1,7 +1,7 @@
 {
  "cdid": 3137097,
  "lot": 785,
- "identification": "Lladro gres (matte grey stoneware) figure of an elderly Chinese sage with white beard and patterned headwear, holding robe, about 21 cm. Base mark not photographed, so Lladro attribution unconfirmed (could be Nao or another maker).",
+ "identification": "Matte grey gres figure of an elderly Chinese sage/scholar with white beard, ochre/blue glazed headdress, hands tucked in sleeves, c21 cm. Style of Lladro gres (1970s) but no mark visible in the single photo, so Lladro attribution unconfirmed (could be Nao or other Spanish maker).",
  "entries": [
   {
    "kind": "SOLD",
@@ -35,11 +35,84 @@
    "url": "gowans lot id 437367",
    "same_item": "category guide",
    "note": "Lladro and Nao figures plus one other, mixed lot. Local database record, not opened online. Paid locally: shows what we might pay, not a resale price. Glazed Lladro, not gres sage."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$79.4",
+   "currency": "AUD",
+   "aud_price": 79.4,
+   "date": "2026-10-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/880045013029",
+   "same_item": "close",
+   "note": "Lladro Gres Figurine Chinese Monk Man, marked. Auction. Closest same-type figure. Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$124.13",
+   "currency": "AUD",
+   "aud_price": 124.13,
+   "date": "2024-10-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/305869007676",
+   "same_item": "category guide",
+   "note": "Lladro Priest Franciscan Monk #2060 gres. Fixed price. Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$124.49",
+   "currency": "AUD",
+   "aud_price": 124.49,
+   "date": "2024-02-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/304741006404",
+   "same_item": "category guide",
+   "note": "Lladro gres 'Tenderness' girl with rabbit, Daisa. Fixed price, over 2 yrs old. Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$121.17",
+   "currency": "AUD",
+   "aud_price": 121.17,
+   "date": "2025-12-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/146559944177",
+   "same_item": "category guide",
+   "note": "Lladro Tenderness #2094 gres girl with bunny 21cm. Fixed price. Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$189.25",
+   "currency": "AUD",
+   "aud_price": 189.25,
+   "date": "2026-05-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/287347925118",
+   "same_item": "category guide",
+   "note": "Lladro gres matt finish duck pulling pigtail #2096. Auction (upper end). Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$150/A$70",
+   "currency": "AUD",
+   "aud_price": 70,
+   "date": "2026-10-21",
+   "venue": "Armitage 28839 lots 601 and 708 (glazed Lladro girls)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088152&chid=28839&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Database records, not opened. Paid locally, glazed not gres.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'lladro gres', 'lladro sage', 'lladro oriental', 'lladro', 'nao'; work/comps.py: 'lladro gres'. No hits in any database.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'lladro gres', 'lladro sage', 'lladro oriental', 'lladro', 'nao'; work/comps.py: 'lladro gres'. No hits in any database. | chrome: Terapeak AU 3yr: 'lladro gres chinese sage' (0 rows), 'lladro gres figurine chinese' (1 row), 'lladro gres' (many rows, gres figures mostly A$100-190); Google for Lladro Chinese sage gres model (no match found).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'Lladro gres sage', 'Lladro gres Chinese man figurine', 'Lladro oriental sage matte'. Terapeak same terms, last 12 months. LiveAuctioneers and Invaluable results: 'Lladro gres oriental sage'. Australian houses (Leonard Joel, Theodore Bruce, Gowans) for 'Lladro gres'.",
  "viewing_check": "Turn it over and photograph the base: Lladro blind-stamped or impressed mark, gres model number and Spanish marks. Without it, could be Nao or unmarked. Check for chips and glaze loss on the headwear and beard.",
- "rate_note": "All AUD, no conversion."
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
 }

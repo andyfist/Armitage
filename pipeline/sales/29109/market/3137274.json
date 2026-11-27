@@ -1,7 +1,7 @@
 {
  "cdid": 3137274,
  "lot": 962,
- "identification": "1926 South Africa (Pretoria, SA) George V full sovereign, KM.21, 22ct, 7.32g fine gold. Photos show a bright coin, EF to UNC, mint mark not clearly legible but consistent with SA. Possible jeweller's copy risk (a few Noble lots are flagged as copies); weight and mint mark to be checked.",
+ "identification": "George V full gold sovereign dated 1926, 22ct (.9167), 7.99 g, 7.32 g fine gold. Bright lustrous coin, looks about EF to UNC with light bag marks. In 1926 London struck no sovereigns, so a genuine 1926 has a branch mint mark: SA (Pretoria, common), M or P (common), or S (Sydney, scarcer). Tiny marks to the right of the date at photo resolution are consistent with the catalogue's SA but can't be read.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,120 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=405405",
    "same_item": "close",
    "note": "Pair, 1926SA and 1928SA sovereigns, EF; about $650 each. Database hit, hammer excludes premium; not opened online."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,622.22",
+   "currency": "AUD",
+   "aud_price": 1622.22,
+   "date": "2026-09-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/336810254621",
+   "same_item": "close",
+   "note": "George V full sovereign, South Africa mint, year not in title. Same type, common date. Fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,625.91",
+   "currency": "AUD",
+   "aud_price": 1625.91,
+   "date": "2026-09-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/336810238409",
+   "same_item": "close",
+   "note": "George V full sovereign 1911, common date bullion-type. Fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,443.54",
+   "currency": "AUD",
+   "aud_price": 1443.54,
+   "date": "2026-11-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227604095433",
+   "same_item": "close",
+   "note": "1912 Melbourne George V full sovereign, unc per title. Fixed price, at current gold level.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,423.84",
+   "currency": "AUD",
+   "aud_price": 1423.84,
+   "date": "2026-11-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/287738771640",
+   "same_item": "close",
+   "note": "1913 London George V full sovereign, auction. Most recent, at current gold.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,824.95",
+   "currency": "AUD",
+   "aud_price": 1824.95,
+   "date": "2026-10-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267807649358",
+   "same_item": "close",
+   "note": "1914 Melbourne George V large head full sovereign, choice. Gold near its Oct peak.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$2,165.37",
+   "currency": "AUD",
+   "aud_price": 2165.37,
+   "date": "2026-08-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/278234023833",
+   "same_item": "close",
+   "note": "1912 George V full sovereign 22ct, fixed price. Higher gold then; top of range.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$1,797.64",
+   "currency": "AUD",
+   "aud_price": 1797.64,
+   "date": "2026-09-27",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/197677273804",
+   "same_item": "close",
+   "note": "George V South Africa mint 1921-32 sovereign, Sigma tested, Buy It Now plus A$167 postage (overseas seller). Not in median (duplicate type of 26 Sep row, overseas).",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "Current bid A$600",
+   "currency": "AUD",
+   "aud_price": 600,
+   "date": "2026-11-27",
+   "venue": "Armitage sale 29109 lot 962",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3137274&chid=29109&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Current bid, estimate A$1,000-1,200. Not resale.",
+   "via": "chrome"
+  },
+  {
+   "kind": "MELT",
+   "price": "A$1,293",
+   "currency": "AUD",
+   "aud_price": 1293,
+   "date": "2026-11-27",
+   "venue": "meltvalue.com/au/gold-price",
+   "url": "https://meltvalue.com/au/gold-price",
+   "same_item": "yes",
+   "note": "Spot A$176.62/g (A$5,493.39/oz) 27 Nov 2026 6:38pm AEDT x 7.3224g fine gold = A$1,293.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: '1926 sovereign'; 'sovereign pretoria'; 'sovereign 1926 SA'. work/comps.py: 'gold sovereign George V'; '1926 sovereign Pretoria' (no resale comps). No local Armitage or Gowans hits seen. All entries are Noble/Leski auction hammers (SOLD); no UNSOLD or ASKING in the databases.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: '1926 sovereign'; 'sovereign pretoria'; 'sovereign 1926 SA'. work/comps.py: 'gold sovereign George V'; '1926 sovereign Pretoria' (no resale comps). No local Armitage or Gowans hits seen. All entries are Noble/Leski auction hammers (SOLD); no UNSOLD or ASKING in the databases. | chrome: Terapeak EBAY-AU '1926 SA sovereign' 3y (1 row, half sov), '1926 sovereign gold' 3y (8 rows), 'george v full sovereign' 90d, 'george v gold sovereign' 90d; eBay AU public sold '1926 sovereign' in Coins; Noble lots 391635, 428246; meltvalue spot.",
+ "needs_chrome": false,
  "chrome_hint": "eBay Australia sold listings: '1926 sovereign South Africa SA Pretoria', '1926 SA gold sovereign George V'. Terapeak same. Also Noble Numismatics and Leski realised prices for 1926 SA sovereign (last 2 years), Downies, Mowbray, and a dealer ASKING check (Perth Mint/Coinworks/Sovereign Rarities) for 'South Africa 1926 sovereign'. Check current gold spot in AUD for floor.",
  "rate_note": "All prices already AUD in the databases, rate 1.0. Hammer only; 22% Armitage premium would add to cost.",
- "viewing_check": "Weigh the coin (should be about 7.98g gross), check the mint mark SA right of the date on the reverse, edge reeding and a clean 'J' or other jeweller's copy mark, and rim for solder or mount marks. Photograph the date area close up."
+ "viewing_check": "Under a loupe, read the mint mark on the ground line above the date (SA, M, P or S); a P, M or S changes the value. Weigh (7.99g) and check diameter 22.05mm, crisp reeding, no solder or mount marks on rim, no jeweller's copy stamp.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3137387,
  "lot": 1075,
- "identification": "Mixed box: jeweller's box (Paul Thomson, Hobart) with several faux or cultured pearl strands; 1970s-style Mickey Mouse mechanical wristwatch on expanding band (maker not legible); small ladies' mechanical watch; Disney child's watch on blue strap; Wayfarer-style sunglasses with grey marble rim, possibly Ray-Ban (temple text not legible).",
+ "identification": "Mixed jewellery/watch lot: Paul Thomson (Hobart jeweller) box with several pearl strands (clasps look silver-tone, real or faux unknown), a 1970s-style Mickey Mouse mechanical wristwatch on expanding band (chrome case, maker not readable), a small ladies' mechanical watch on expanding band, a Disney child's watch on blue strap in a black pouch, and a black Wayfarer-style pair of sunglasses with grey marble top rim and G-15 style green lenses (looks like a Ray-Ban Wayfarer, B&L era Black Marble, not confirmed).",
  "entries": [
   {
    "kind": "SOLD",
@@ -123,11 +123,84 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=pearl+necklace",
    "same_item": "category guide",
    "note": "Single strands of 10mm cream pearls, likely real cultured, gold clasp. Our strands look faux or small cultured with silver-tone clasps, so this is an upper bound. Paid locally."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$149.60",
+   "currency": "AUD",
+   "aud_price": 149.6,
+   "date": "2025-12-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/147027904897",
+   "same_item": "close",
+   "note": "Vintage 80s B&L Ray-Ban W0522 Wayfarer, USA, with case. Terapeak row, item id from data-item-id. Plain black, not marble.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$169.00",
+   "currency": "AUD",
+   "aud_price": 169.0,
+   "date": "2025-12-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/187318461354",
+   "same_item": "close",
+   "note": "Vintage B&L Ray-Ban Wayfarer II made in USA. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$187.31",
+   "currency": "AUD",
+   "aud_price": 187.31,
+   "date": "2025-11-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/187721360984",
+   "same_item": "close",
+   "note": "Ray-Ban Wayfarer B&L 5022 80s USA black gloss. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$148.31",
+   "currency": "AUD",
+   "aud_price": 148.31,
+   "date": "2026-03-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/198197134864",
+   "same_item": "close",
+   "note": "Ray-Ban (B&L) vintage Wayfarer II tortoise, auction. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$147.63",
+   "currency": "AUD",
+   "aud_price": 147.63,
+   "date": "2025-07-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/146720658992",
+   "same_item": "close",
+   "note": "Ray-Ban Barcelona 1992 Olympic B&L Sport Wayfarer, used. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$85.24",
+   "currency": "AUD",
+   "aud_price": 85.24,
+   "date": "2026-04-12",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116766229757",
+   "same_item": "close",
+   "note": "1970s Disney Mickey Mouse Swiss made wristwatch, working. Best Mickey comparison; others in same search A$18-95 (Ingersoll A$94.92 Feb 2025 item 126867299872; Lorus A$50.15 Jun 2024 item 276417065949; Hong Kong A$17.56 May 2025 item 267077014324).",
+   "via": "chrome"
   }
  ],
  "rate_note": "All prices AUD, rate 1.0. No foreign currency.",
- "searches_tried": "pipeline/comps.py: mickey mouse watch; ray-ban wayfarer (no hits); ray ban; sunglasses ray-ban; pearl necklace; pearl strands box (no hits); disney watch. work/comps.py: mickey mouse watch. No web used. No eBay sold or other resale comps held for these items.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: mickey mouse watch; ray-ban wayfarer (no hits); ray ban; sunglasses ray-ban; pearl necklace; pearl strands box (no hits); disney watch. work/comps.py: mickey mouse watch. No web used. No eBay sold or other resale comps held for these items. | chrome: Terapeak AU 3yr: 'Ray-Ban Wayfarer Bausch Lomb USA marble' (no results), 'Ray-Ban Wayfarer vintage B&L' (many rows A$47-370), 'Mickey Mouse watch expanding band vintage mechanical' (none), 'Mickey Mouse wrist watch vintage' (A$18-95). WebSearch for marble Wayfarer.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold (Terapeak): 'Mickey Mouse watch expanding band vintage' and 'Bradley OR Lorus OR Timex Mickey Mouse mechanical watch'; 'Ray-Ban Wayfarer B&L marble OR 'Ray-Ban Wayfarer Bausch Lomb USA grey marble' (the marble Wayfarer II/Bausch & Lomb era can be worth well over $100); 'Disney child watch blue strap Bradley'; 'cultured pearl strand silver clasp lot'. Also Noble Numismatics watch archive for Mickey Mouse.",
- "viewing_check": "Sunglasses: read temple arm text and lens etching (Ray-Ban, Bausch & Lomb, USA, B&L or Made in Italy, W0xxx code) to settle genuine vs copy and era. Mickey watch: dial and caseback for maker (Bradley, Lorus, Timex, Ingersoll). Pearls: clasp stamps (925, 9ct), test a strand against a tooth for gritty cultured vs smooth glass, check knots and size."
+ "viewing_check": "Read the temple arm (Ray-Ban, B&L, USA, W0xxx or 5022/5024) and lens etching (RB or B&L). Mickey watch dial and caseback for maker (Bradley, Ingersoll, Lorus). Pearl clasps for 925/9ct stamps; tooth test strands.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3136981,
  "lot": 669,
- "identification": "John Campbell (Launceston, Tasmania) art pottery wall pocket, shield/leaf shape with moulded insect (dragonfly/cicada) in green and orange drip glaze. Reverse incised 'John Campbell Launceston Tas' plus initials/number. No visible damage.",
+ "identification": "John Campbell Pottery (Launceston, Tasmania) shield/leaf-shaped wall pocket, H 22 cm, mottled green and orange glaze over incised vein lines (stylised leaf, or possibly a moth/cicada with spread wings, the incised outline at the top centre is ambiguous). Back glazed amber-green, incised in script 'John Campbell / Launceston / Tas' plus a second underlined mark reading 'TAS' (probably a decorator's initials or a repeat of Tas). Hanging hole intact, no damage visible.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,60 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110898&chid=28975&category=ALL&style=group",
    "same_item": "close",
    "note": "Signed miniature Campbell wall vase H-11cm. Paid locally, what we might pay, NOT a resale price."
+  },
+  {
+   "kind": "SOLD-UNLINKED",
+   "price": "A$320",
+   "currency": "AUD",
+   "aud_price": 320,
+   "date": "2026-05-30",
+   "venue": "Leski Auctions sale #531 lot 28 (hammer)",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/650",
+   "same_item": "category guide",
+   "note": "Prices-realised PDF opened, lot 28 = A$320; description (applied Tasmania map pocket, 16cm) from database only. Not an individual lot page, so not used for max",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$55.13",
+   "currency": "AUD",
+   "aud_price": 55.13,
+   "date": "2026-11-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/205875071055",
+   "same_item": "category guide",
+   "note": "John Campbell drip glaze fan-shaped basket vase (not a wall pocket); shows general drip-glaze Campbell level A$50-70",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$207",
+   "currency": "AUD",
+   "aud_price": 207,
+   "date": "2026-11-25",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267846502224",
+   "same_item": "category guide",
+   "note": "John Campbell Tasmania vase green blue (different form)",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$85",
+   "currency": "AUD",
+   "aud_price": 85,
+   "date": "2026-11-11",
+   "venue": "Armitage sale 28975 lot 646",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110909&chid=28975&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Large signed Campbell wall vase H-17cm (database, not opened). What we might pay, not resale",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'john campbell'; 'campbell wall pocket'; 'campbell launceston'; 'campbell dragonfly' (none); 'campbell insect wall' (none); 'tasmanian pottery wall pocket' (none). work comps.py: 'john campbell pottery'; 'campbell wall pocket' (none). No exact insect/dragonfly pocket in databases. Resale evidence is Leski realised prices (Melbourne) and eBay Terapeak records, all database-only.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'john campbell'; 'campbell wall pocket'; 'campbell launceston'; 'campbell dragonfly' (none); 'campbell insect wall' (none); 'tasmanian pottery wall pocket' (none). work comps.py: 'john campbell pottery'; 'campbell wall pocket' (none). No exact insect/dragonfly pocket in databases. Resale evidence is Leski realised prices (Melbourne) and eBay Terapeak records, all database-only. | chrome: Terapeak AU 1095d 'john campbell wall pocket' (5, all unlinked) and 'campbell tasmania wall' (5, unlinked); Terapeak AU 90d 'john campbell pottery' (27, no wall pockets); Leski prices-realised PDF #531; Google Leski/Carters/Shapiro.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'John Campbell Launceston wall pocket', 'John Campbell pottery dragonfly', 'John Campbell Tasmania wall vase moulded'. Leski Auctions realised prices archive: 'John Campbell wall pocket' (all sales, check for insect/dragonfly/cicada/leaf). Invaluable and LiveAuctioneers: 'John Campbell Tasmania pottery wall pocket'. Also Gibson's, Colville, Mossgreen/Leonard Joel archives for 'John Campbell Launceston'.",
- "viewing_check": "Photograph the reverse signature and initials closely (confirm 'John Campbell Launceston Tas' and the initials/number). Check the rim and tips of the points for chips or glaze flakes, any hairline from the hanging hole, and confirm the insect moulding is crisp. Measure height.",
- "rate_note": "All prices AUD, no conversion needed."
+ "viewing_check": "Check the tips and rim for chips and the hanging hole for hairlines; look at the second incised mark (decorator initials?). Only worth a token bid if Andy wants it for himself.",
+ "rate_note": "All prices AUD, no conversion needed.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3136964,
  "lot": 652,
- "identification": "Treacle/Rockingham glazed earthenware Lord Kitchener face jug, unmarked, possibly Tasmanian (Launceston/Campbell) but unconfirmed; Bendigo-type Rockingham face jugs are the nearest comparable.",
+ "identification": "Treacle/Rockingham-type brown glazed earthenware face jug moulded as Lord Kitchener (moustache, side hair, ears), with a loop handle and paper tag number. Unglazed to a rough-glazed base; no mark, signature or date on the base or under the handle in photos 4 and 6. Could be Launceston (John Campbell) or Bendigo or imported; cannot be told without a mark.",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,11 +46,24 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/128",
    "same_item": "no",
    "note": "Trench art jug engraved with Kitchener portrait, with a lamp. Different type, weak comparison. Database record (comps.py), no page opened; hammer excludes premium; AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$117.28",
+   "currency": "AUD",
+   "aud_price": 117.28,
+   "date": "2026-10-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267817350231",
+   "same_item": "category guide",
+   "note": "John Campbell Launceston Pottery blue face jug, SIGNED; different glaze and signed, so a better item than this one",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'Kitchener jug', 'Launceston Pottery Kitchener', 'Campbell Launceston pottery jug', 'Rockingham character jug', 'Bendigo pottery jug', 'Kitchener'; work/comps.py: 'Kitchener jug'. No Launceston/Campbell or Kitchener face jug hits; no Gowans/Armitage hits for this type. Hits above are only category guides (Bendigo face jugs about $100-300).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'Kitchener jug', 'Launceston Pottery Kitchener', 'Campbell Launceston pottery jug', 'Rockingham character jug', 'Bendigo pottery jug', 'Kitchener'; work/comps.py: 'Kitchener jug'. No Launceston/Campbell or Kitchener face jug hits; no Gowans/Armitage hits for this type. Hits above are only category guides (Bendigo face jugs about $100-300). | chrome: Terapeak AU 'kitchener jug', 'lord kitchener face jug pottery', 'john campbell launceston pottery jug'; web search and Carters (prices hidden)",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Kitchener face jug Rockingham', 'Launceston Pottery Kitchener jug', 'Campbell Launceston pottery jug', 'RJC 1912 Kitchener jug'. Also Leski, Gowans, Mossgreen, Lawsons, Theodore Bruce, Tasmanian auction results, and LiveAuctioneers/Invaluable for 'Kitchener character jug Tasmania'. Compare with lot 660 (RJC 1912 signed) results.",
- "viewing_check": "Check the base and under the handle for any impressed or incised mark (RJC, Campbell, Launceston, initials, date); compare mould detail with signed lot 660; note any rim/handle chips or restoration under UV.",
- "rate_note": "All entries AUD; no conversion."
+ "viewing_check": "Look for an impressed or incised mark under the handle or on the base rim (Campbell, Launceston, RJC); check chips and the rim loss; compare mould with lot 660.",
+ "rate_note": "All entries AUD; no conversion.",
+ "chrome_done": true
 }

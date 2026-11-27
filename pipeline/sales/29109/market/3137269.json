@@ -1,7 +1,7 @@
 {
  "cdid": 3137269,
  "lot": 957,
- "identification": "Yellow metal figaro-style (long and short link) chain with lobster clasp, broken, in two pieces. Catalogued 9ct but no hallmark or clasp tag legible in the one photo (possible tiny tag near clasp). Weight not stated; by length (about 45-50cm) and light link size probably 3-5 g.",
+ "identification": "Yellow gold (9ct per catalogue) figaro-link necklace, 1:2 style links, lobster clasp, broken in one place near the clasp side (open gap, plus a small kink). Roughly 45-50 cm if intact. Sold for gold weight or repair.",
  "entries": [
   {
    "kind": "SOLD",
@@ -103,9 +103,10 @@
    "note": "Competitive auction, lot of 3 small 9ct necklaces incl. figaro 3+1 (2.8g, 44cm), total about 3.8g. Old; gold price much lower than now, so only a weak guide."
   }
  ],
- "searches_tried": "pipeline/comps.py: '9ct gold chain', 'figaro chain gold', '9ct necklace scrap', 'gold chain broken', '9ct chain damaged'; work/comps.py: '9ct gold chain', 'figaro 9ct'. No eBay sold or competitive resale comps for modern damaged 9ct chains in the databases; the Noble hits are 2015-2019 only. Rough read of local rooms: damaged 9ct chains of 3 to 4 g made $180-240 hammer, about $55-65 per gram.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: '9ct gold chain', 'figaro chain gold', '9ct necklace scrap', 'gold chain broken', '9ct chain damaged'; work/comps.py: '9ct gold chain', 'figaro 9ct'. No eBay sold or competitive resale comps for modern damaged 9ct chains in the databases; the Noble hits are 2015-2019 only. Rough read of local rooms: damaged 9ct chains of 3 to 4 g made $180-240 hammer, about $55-65 per gram. | chrome: Terapeak AU as above.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold and Terapeak: '9ct gold chain broken', '9ct gold figaro chain scrap', '9ct yellow gold figaro necklace 3g/4g/5g' (Sold items, Australia, last 90 days). Also check today's AUD 9ct scrap price per gram from a dealer (e.g. Gold Corp/local buyers) and Noble Numismatics, Theodore Bruce and Leonard Joel recent results for 'damaged 9ct chain' lots with stated weight.",
  "rate_note": "All prices AUD, no conversion. Armitage premium 22% (from lot record) applies on top of any bid.",
- "viewing_check": "Weigh the chain (grams is the whole value), look for a '375' or '9ct' stamp on the clasp, jump rings and tag near the clasp, and acid or magnet test if unmarked. Confirm both pieces are included and no links are missing."
+ "viewing_check": "Weigh it (ideally ask for weight), read the clasp/ring tag for 375, check it is not gold-filled or plated, check for solder repair needs.",
+ "chrome_done": true
 }

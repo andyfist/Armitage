@@ -1,7 +1,7 @@
 {
  "cdid": 3137143,
  "lot": 831,
- "identification": "Six bottles Cataract 2021 Pinot Noir, Tamar Valley Tasmania, 13.5%, 750ml, label says 1,100 bottles made, produced by Cataract Wines, Riverside (Launceston). Original carton, photos show one bottle and the carton label. Looks like a recent small label with a modern label design; no wine-trade price evidence found locally.",
+ "identification": "6 x 750ml Cataract Pinot Noir 2021, Tamar Valley Tasmania, 13.5%, screwcap, in plain white carton with label. Micro negociant label 'Cataract Wines', 36 New Ecclestone Rd, Riverside (licence holder Martin Stanley Wozniak per Tas Treasury liquor decisions 2022-23). Label says 50% whole bunch, only 1,100 bottles made. Not a second label of a larger producer as far as I can find.",
  "entries": [
   {
    "kind": "SOLD",
@@ -57,11 +57,36 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2656902&chid=25741&category=ALL&style=group",
    "same_item": "category guide",
    "note": "6 bottles mixed Tasmanian wines. Paid locally: what we might pay, not a resale price. Database record only (no web page opened). AUD, no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$279.54",
+   "currency": "AUD",
+   "aud_price": 279.54,
+   "date": "2026-09-03",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/366062694376",
+   "same_item": "category guide",
+   "note": "Rowella Estate Tasmanian Pinot Noir 2025, DOZEN (A$23/bottle), fixed price, 3 sold. Different wine; shows a dozen of cheap Tas pinot online is about A$20-23 a bottle.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$210.21",
+   "currency": "AUD",
+   "aud_price": 210.21,
+   "date": "2026-10-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/366062666649",
+   "same_item": "category guide",
+   "note": "Richmond Bridge Tasmanian Pinot Noir 2025, DOZEN (A$17.50/bottle), fixed price. Different wine, category guide only.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'cataract pinot' (none), 'cataract tasmania' (art only, irrelevant), 'tamar valley pinot noir' (none), 'tasmanian pinot noir', 'pinot noir 2021', 'tasmanian wine bottles', 'cataract wine' (none); work comps.py: 'cataract pinot', 'tasmanian pinot', 'cataract wine'. No Cataract Wines resale comp in any database. Cataract Gorge art hits ignored.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'cataract pinot' (none), 'cataract tasmania' (art only, irrelevant), 'tamar valley pinot noir' (none), 'tasmanian pinot noir', 'pinot noir 2021', 'tasmanian wine bottles', 'cataract wine' (none); work comps.py: 'cataract pinot', 'tasmanian pinot', 'cataract wine'. No Cataract Wines resale comp in any database. Cataract Gorge art hits ignored. | chrome: Terapeak AU 3yr 'cataract pinot noir' (0 results); Terapeak AU 3yr 'tasmanian pinot noir 6 bottles' (2 rows, dozens of other labels); Google x2; winery site (dead); WebSearch.",
+ "needs_chrome": false,
  "chrome_hint": "Search: Cataract Wines Pinot Noir 2021 on cataractwines.com.au (retail price per bottle); Wine-Searcher 'Cataract Pinot Noir 2021 Tamar Valley'; eBay AU sold 'Cataract Pinot Noir'; eBay sold 'Tasmanian pinot noir 6 bottles'; Wine Market Journal / Langton's / Auctionata wine results for small Tasmanian pinot; Vinomofo or Dan Murphy's for similar Tamar Valley pinot retail.",
- "viewing_check": "Check fill level and seals/capsules, label condition, and the vintage/producer on the carton. Photograph the carton end label. Confirm all six bottles are present and match.",
- "rate_note": "All figures AUD, no conversion."
+ "viewing_check": "Check all six bottles are Cataract 2021 Pinot Noir with intact screwcaps and good labels, carton holds six. Ask about storage (cellar vs shed). If drinking it, A$20-25 a bottle is a fair hammer ceiling, i.e. about A$100-120 hammer for six before premium.",
+ "rate_note": "All figures AUD, no conversion.",
+ "chrome_done": true
 }

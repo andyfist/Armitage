@@ -1,8 +1,164 @@
-{"cdid":3137106,"lot":794,"identification":"Low rolled-rim bulb/flower bowl, blue and yellow/orange drip glaze, incised base 'J (H?) McHugh Tasmania', date 1935 (or 1955) and number 55. Genuine McHugh (Launceston) pottery. Hairline crack through rim and chip at foot, as catalogued. Common domestic-size piece, not one of the rare trough/figural forms.","entries":[
-{"kind":"SOLD","price":"$80","aud_price":80,"currency":"AUD","date":"2026-05-30","venue":"Leski Auctions, Melbourne sale 650 lot 27","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/650","same_item":"close","note":"McHugh bowl, mottled green glaze, 10cm high 21cm dia, incised H. McHugh Tasmania. Condition not stated. Database record (page not opened by me). Competitive Melbourne room, only resale-type sold price found; rate 1 AUD = 1 AUD. Not price-check against cracked state."},
-{"kind":"SOLD","price":"$60","aud_price":60,"currency":"AUD","date":"2026-11-11","venue":"Armitage Auctions, Launceston sale 28975 lot 735 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110997&chid=28975&category=ALL&style=group","same_item":"close","note":"Signed McHugh flower bowl with frog, 23cm dia. Local room, shows what we might pay, not resale. Database record only."},
-{"kind":"SOLD","price":"$40","aud_price":40,"currency":"AUD","date":"2026-01-21","venue":"Armitage Auctions, Launceston sale 27045 lot 732 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2787589&chid=27045&category=ALL&style=group","same_item":"close","note":"Signed glazed McHugh bowl dated 1935, 13cm dia. Local room, not resale. Database record only."},
-{"kind":"SOLD","price":"$365","aud_price":365,"currency":"AUD","date":"2025-11-12","venue":"Armitage Auctions, Launceston sale 26636 lot 671 (paid locally)","url":"https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2727688&chid=26636&category=ALL&style=group","same_item":"category guide","note":"Large signed McHugh green glazed centre bowl, 30cm dia, cracked. Much larger and better form, so an upper outlier, not comparable in size. Local room, not resale. Database record only."},
-{"kind":"SOLD","price":"$55","aud_price":55,"currency":"AUD","date":"2026-08-23","venue":"Gowans Auctions, Hobart lot id 432469 (paid locally)","url":"gowans lot id 432469","same_item":"category guide","note":"H McHugh Tasmanian 33 flower frog/ring, 5 bids. Local room, not resale. Database record only."}
-],
-"searches_tried":"pipeline/comps.py: 'McHugh'; 'McHugh Tasmania pottery'; 'McHugh bowl'; 'Launceston pottery'; 'McHugh Tasmania'; 'McHugh flower'. work/comps.py: 'McHugh'. Some database rows labelled eBay AU (Terapeak) with Armitage lot numbers look like re-listed or estimate records, so I did not use them as verified sales.","needs_chrome":true,"chrome_hint":"eBay AU sold listings: 'McHugh Tasmania bowl', 'McHugh pottery flower bowl', 'McHugh Tasmania blue yellow glaze'; Terapeak same terms, last 12 months; Leski Auctions realised prices 'McHugh bowl'; Gowans Hobart and Mossgreen/Theodore Bruce results 'McHugh Tasmania bowl'; Trading Post / Facebook Marketplace asking prices for blue McHugh bowls.","viewing_check":"Check the crack length and whether it runs through the base or just the rim, the foot chip, and whether the blue and orange glaze is uncommon colouring. Photograph the base signature and date (1935 or 1955) and any restoration under UV.","rate_note":"All prices AUD, rate 1.0. Likely value cracked: roughly $20 to $50 locally; no resale evidence beyond one Leski $80 for a sound bowl."}
+{
+ "cdid": 3137106,
+ "lot": 794,
+ "identification": "McHugh (Launceston, Tasmania) glazed pottery flower bowl, blue and yellow/amber drip glaze, c29 cm wide, hand-incised signature on base reading 'J(H) McHugh Tasmania' with date (looks 1935) and shape number 55.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$80",
+   "aud_price": 80,
+   "currency": "AUD",
+   "date": "2026-05-30",
+   "venue": "Leski Auctions, Melbourne sale 650 lot 27",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/650",
+   "same_item": "close",
+   "note": "McHugh bowl, mottled green glaze, 10cm high 21cm dia, incised H. McHugh Tasmania. Condition not stated. Database record (page not opened by me). Competitive Melbourne room, only resale-type sold price found; rate 1 AUD = 1 AUD. Not price-check against cracked state."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "aud_price": 60,
+   "currency": "AUD",
+   "date": "2026-11-11",
+   "venue": "Armitage Auctions, Launceston sale 28975 lot 735 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110997&chid=28975&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Signed McHugh flower bowl with frog, 23cm dia. Local room, shows what we might pay, not resale. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$40",
+   "aud_price": 40,
+   "currency": "AUD",
+   "date": "2026-01-21",
+   "venue": "Armitage Auctions, Launceston sale 27045 lot 732 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2787589&chid=27045&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Signed glazed McHugh bowl dated 1935, 13cm dia. Local room, not resale. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$365",
+   "aud_price": 365,
+   "currency": "AUD",
+   "date": "2025-11-12",
+   "venue": "Armitage Auctions, Launceston sale 26636 lot 671 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2727688&chid=26636&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Large signed McHugh green glazed centre bowl, 30cm dia, cracked. Much larger and better form, so an upper outlier, not comparable in size. Local room, not resale. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55",
+   "aud_price": 55,
+   "currency": "AUD",
+   "date": "2026-08-23",
+   "venue": "Gowans Auctions, Hobart lot id 432469 (paid locally)",
+   "url": "gowans lot id 432469",
+   "same_item": "category guide",
+   "note": "H McHugh Tasmanian 33 flower frog/ring, 5 bids. Local room, not resale. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$69.28",
+   "currency": "AUD",
+   "aud_price": 69.28,
+   "date": "2026-07-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117267336046",
+   "same_item": "close",
+   "note": "McHugh Pottery Tasmania dish, blue and yellow, signed. Auction. Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$67.83",
+   "currency": "AUD",
+   "aud_price": 67.83,
+   "date": "2026-07-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117267326925",
+   "same_item": "close",
+   "note": "McHugh flower frog, blue and yellow, signed. Auction. Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.16",
+   "currency": "AUD",
+   "aud_price": 60.16,
+   "date": "2026-06-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117230917771",
+   "same_item": "category guide",
+   "note": "McHugh signed flower frog vase, brown glaze. Auction. Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$119.3",
+   "currency": "AUD",
+   "aud_price": 119.3,
+   "date": "2024-01-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116045771356",
+   "same_item": "close",
+   "note": "Large 235mm signed H McHugh Tasmania 48, blue drip glaze (closest size/colour). Auction, 2 yrs 10 mths old. Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$172.34",
+   "currency": "AUD",
+   "aud_price": 172.34,
+   "date": "2024-03-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126365747518",
+   "same_item": "category guide",
+   "note": "'HUGE vintage 30s McHugh Tasmania pottery drip glaze' (title truncated, form not confirmed). Auction, 2 yrs 8 mths old. Terapeak row, item id from data-item-id (listing page not opened).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-05-30",
+   "venue": "Leski Auctions Melbourne sale 531 lot 27",
+   "url": "https://auctions.leski.com.au/lot-details/index/catalog/650/lot/234736/McHUGH-pottery-bowl-with-mottled-green-glaze-incised-H-McHugh-Tasmania-10cm-high-21cm-diameter",
+   "same_item": "close",
+   "note": "McHugh bowl mottled green, 10cm x 21cm dia, condition not stated. Price realized from Leski catalogue page opened in Chrome; hammer/realised as shown. Sale date from local database.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$600",
+   "currency": "AUD",
+   "aud_price": 600,
+   "date": "",
+   "venue": "Cache Antiques (dealer)",
+   "url": "https://cacheantiques.com/products/large-blue-yellow-john-mc-hugh-tasmanian-australian-art-pottery-art-deco-vase",
+   "same_item": "category guide",
+   "note": "Large blue/yellow McHugh VASE c1935, 19cm, chip to base, listed 'Sold out'. Dealer asking price only, not a sold price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-11-11",
+   "venue": "Armitage 28975 lot 735",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110997&chid=28975&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Signed McHugh flower bowl with frog, 23cm. Database record, paid locally, not opened. Also Armitage 27045 lot 732 A$40 (13cm, 1935) and Armitage 26636 lot 671 A$365 (30cm green, cracked).",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'McHugh'; 'McHugh Tasmania pottery'; 'McHugh bowl'; 'Launceston pottery'; 'McHugh Tasmania'; 'McHugh flower'. work/comps.py: 'McHugh'. Some database rows labelled eBay AU (Terapeak) with Armitage lot numbers look like re-listed or estimate records, so I did not use them as verified sales. | chrome: Terapeak AU 3yr 'mchugh tasmania pottery bowl' (4 rows, Used filter) and 'mchugh pottery tasmania' (13 rows); Leski McHugh sales 531/463/436; Carters McHugh pages (prices hidden); Cache Antiques; Shapiro SH245.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'McHugh Tasmania bowl', 'McHugh pottery flower bowl', 'McHugh Tasmania blue yellow glaze'; Terapeak same terms, last 12 months; Leski Auctions realised prices 'McHugh bowl'; Gowans Hobart and Mossgreen/Theodore Bruce results 'McHugh Tasmania bowl'; Trading Post / Facebook Marketplace asking prices for blue McHugh bowls.",
+ "viewing_check": "Check the crack length and whether it runs through the base or just the rim, the foot chip, and whether the blue and orange glaze is uncommon colouring. Photograph the base signature and date (1935 or 1955) and any restoration under UV.",
+ "rate_note": "All prices AUD, rate 1.0. Likely value cracked: roughly $20 to $50 locally; no resale evidence beyond one Leski $80 for a sound bowl.",
+ "chrome_done": true
+}

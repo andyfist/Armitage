@@ -1,7 +1,7 @@
 {
  "cdid": 3137217,
  "lot": 905,
- "identification": "E. Graeme Robertson, Early Buildings of Southern Tasmania, Volumes I and II, Georgian House, Melbourne (1970 first edition). Both hardbacks in dust jackets; vol I jacket has edge wear and a small tear top right; title page and a plate spread shown, text block looks clean.",
+ "identification": "E. Graeme Robertson, Early Buildings of Southern Tasmania, Volumes I and II, Georgian House, Melbourne (1970 first and only edition), both in pictorial dust jackets with rubbing, edge chips and small tears. Title page of Volume One read. A newspaper clipping is loose in Vol I (photo 2, left edge) and a paper slip in the other volume (photo 3, top). No limitation or signature page seen.",
  "entries": [
   {
    "kind": "SOLD",
@@ -162,12 +162,36 @@
    "same_item": "close",
    "note": "vol II only",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$240.44",
+   "currency": "AUD",
+   "aud_price": 240.44,
+   "date": "2026-11-01",
+   "venue": "eBay AU (Terapeak and public sold search)",
+   "url": "https://www.ebay.com.au/itm/317712581179",
+   "same_item": "yes",
+   "note": "'Early Buildings of Southern Tasmania, 2 volumes by E. Graeme Robertson, HC, 1970'. Public sold search shows A$299 (listed price); Terapeak records A$240.44 sold, so likely best offer accepted. Used A$240.44.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$170 / A$270 / A$170 / A$240 / A$80",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2025-10 to 2026-06",
+   "venue": "Armitage and Gowans (database hints)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2945913&chid=28013&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Paid locally, not resale. Excluded.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'Robertson Early Buildings Southern Tasmania'; 'Early Buildings Tasmania'; 'Georgian House Robertson'. work/comps.py: 'Robertson Early Buildings Southern Tasmania'. No web searches (databases only). | chrome: Terapeak sold 3 yrs (7 results)",
+ "searches_tried": "pipeline/comps.py: 'Robertson Early Buildings Southern Tasmania'; 'Early Buildings Tasmania'; 'Georgian House Robertson'. work/comps.py: 'Robertson Early Buildings Southern Tasmania'. No web searches (databases only). | chrome: Terapeak sold 3 yrs (7 results) | chrome: Terapeak EBAY-AU 3 yrs 'early buildings of southern tasmania' (7 rows, 1 linked). eBay AU public sold search 'early houses of northern tasmania' (showed this title too). Leski 650 PDF.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings (Terapeak): 'Early Buildings of Southern Tasmania Robertson 2 volumes'; also 'Robertson Early Buildings Southern Tasmania first edition 1970'. Check AbeBooks, Book Hunter/Bookfinder, Leski and Australian Book Auctions results, and Mossgreen/Lawsons/Davidson Auctions for 2 vol sets with jackets. Record sold price, date and jacket condition.",
- "viewing_check": "Not worth a look unless Andy wants them for himself.",
+ "viewing_check": "Copyright page for 1970, both volumes present, jacket tears and chips, library stamps or inscriptions; look at the loose newspaper clipping and paper slip (could be relevant ephemera or a letter).",
  "rate_note": "All prices already AUD; no conversion.",
  "chrome_done": true
 }

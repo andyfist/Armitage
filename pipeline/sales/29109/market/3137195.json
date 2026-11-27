@@ -1,7 +1,7 @@
 {
  "cdid": 3137195,
  "lot": 883,
- "identification": "Mixed tray: painted cast iron spaniel dog money box (worn paint), small binoculars with tan leather pouch, plated ladle, two spoons (one with green stone), engraved plated cigarette case, chrome lighter, souvenir shoe horn, tin canister, cased medallion, small pewter vase, leather pouch. No maker marks legible.",
+ "identification": "Tray of small collectables: cast iron painted cocker spaniel money box (about 12-14cm), cased opera glasses in tan leather pouch, EPNS ladle, two souvenir/plated teaspoons (one gilt with green stone), engraved plated cigarette case, chrome lighter in case, cased medallion/coin, pewter beaker, souvenir shoe horn with printed advertising, decorated tea tin, red leather pencil/needle case.",
  "entries": [
   {
    "kind": "SOLD",
@@ -123,11 +123,36 @@
    "url": "https://www.ebay.com.au/itm/186878861282",
    "same_item": "category guide",
    "note": "Tureens plus plated fork; weak match to plated ladle. eBay record in database. Local database record, no web page opened. AUD, no conversion. Hammer, premium excluded."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$22.40",
+   "currency": "AUD",
+   "aud_price": 22.4,
+   "date": "2024-03-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/285756467114",
+   "same_item": "close",
+   "note": "Cast iron cocker spaniel dog money box, free postage. Terapeak row, item id from data-item-id. Over 3 years not applicable (under 3).",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$50",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-02-11",
+   "venue": "Armitage sale 27194 lot 815",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2810362&chid=27194&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Cast iron HMV dog money box 14cm; from database hint, page not opened; not a resale price.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: cast iron dog money box; money box spaniel; binoculars leather case; cigarette case plated; pewter vase; souvenir shoe horn; plated ladle. work comps.py: cast iron money box; binoculars leather. No same-item hit for spaniel box, shoe horn.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: cast iron dog money box; money box spaniel; binoculars leather case; cigarette case plated; pewter vase; souvenir shoe horn; plated ladle. work comps.py: cast iron money box; binoculars leather. No same-item hit for spaniel box, shoe horn. | chrome: Terapeak AU 3yr 'cast iron spaniel dog money box' (1 row).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'cast iron spaniel dog money box vintage' and 'cast iron dog money box still bank'; eBay sold 'vintage small binoculars leather case'; 'engraved silver plated cigarette case vintage'; 'souvenir advertising shoe horn'. Also LiveAuctioneers/Invaluable 'cast iron dog still bank'.",
  "rate_note": "All AUD in databases, no conversion.",
- "viewing_check": "Check binoculars for maker name (opera/field glass, any military broad arrow), dog money box for maker marks, casting quality and any Hubley/Kyser style mark, base plug, and the medallion and green-stone spoon for hallmarks or EPNS/sterling stamps."
+ "viewing_check": "Check for hallmarks on the ladle, spoons and cigarette case (sterling would lift it), maker name on opera glasses. Clearly under A$100.",
+ "chrome_done": true
 }

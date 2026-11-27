@@ -1,7 +1,7 @@
 {
  "cdid": 3137236,
  "lot": 924,
- "identification": "Penfolds Bin 798 RWT Shiraz 2002, Barossa Valley, 750ml, bottle no. 22272, fill into neck, label clean (from scan notes; photos not re-read).",
+ "identification": "Single bottle Penfolds RWT (Red Wine Trial) Bin 798 Shiraz 2002, Barossa Valley, 750 ml, red wax/foil capsule, back label showing bottle number 22272. Current bid none, estimate 90-120.",
  "entries": [
   {
    "kind": "SOLD",
@@ -266,11 +266,60 @@
    "url": "https://wineauction.ai/wine/penfolds-bin-798-rwt-shiraz-barossa-valley/2002",
    "same_item": "yes",
    "note": "From local database only (snippet, page not opened). Median of several auction sales, hammer excl. premium, not a single sale. AUD so no conversion."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$215",
+   "currency": "AUD",
+   "aud_price": 215,
+   "date": "2026-11-27",
+   "venue": "Cellarit",
+   "url": "https://www.cellarit.com.au/wine-41042-penfolds-rwt-shiraz-2002.aspx",
+   "same_item": "yes",
+   "note": "Retailer price, 1 in stock. ASKING.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$199",
+   "currency": "AUD",
+   "aud_price": 199,
+   "date": "2026-11-27",
+   "venue": "Nicks Wine Merchants",
+   "url": "https://www.nicks.com.au/products/2002-penfolds-rwt-barossa-shiraz",
+   "same_item": "yes",
+   "note": "Retailer price, stock not stated. ASKING.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$283.19",
+   "currency": "AUD (Terapeak)",
+   "aud_price": 283.19,
+   "date": "2026-09-23",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/357917743667",
+   "same_item": "category guide",
+   "note": "RWT 2014 (different vintage), fixed price. No 2002 sale found on eBay in 3 years.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$130-190",
+   "currency": "AUD",
+   "aud_price": 140,
+   "date": "2026-11-11",
+   "venue": "Armitage sale 28975 lots 852, 858, 861 (and 28839 lot 825 at A$190)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3111114&chid=28975&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "2002 RWT singles A$130, 140, 140 hammer 11 Nov 2026, A$190 on 21 Oct 2026; relists of the same wine, database record. Local room only, not resale.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'penfolds rwt 2002', 'rwt shiraz 2002', 'penfolds rwt'; work comps.py: 'penfolds rwt 2002' (no resale comps). No web searches per instruction.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'penfolds rwt 2002', 'rwt shiraz 2002', 'penfolds rwt'; work comps.py: 'penfolds rwt 2002' (no resale comps). No web searches per instruction. | chrome: Terapeak AU 'penfolds rwt shiraz' (none for 2002); web retail check.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Penfolds RWT 2002 Shiraz' (sold items, last 90 days); Wine-Searcher 'Penfolds RWT Bin 798 2002' AU merchant prices; wineauction.ai 2002 page; Langton's, Wickman/Mid-Level auction results 'RWT 2002'; Terapeak for same.",
- "viewing_check": "Check fill level (into neck is good), capsule and cork condition, label scuffs or tears, and confirm vintage 2002 and bottle number on the back label.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Fill level (into neck is good), label tears, capsule and cork, confirm back label.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

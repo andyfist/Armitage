@@ -1,7 +1,7 @@
 {
  "cdid": 3137378,
  "lot": 1066,
- "identification": "Mixed lot: Ritmeester cigar box of circulated world base-metal coins, boxed 100th anniversary end of WWI medallion, Thai banknote and coin folder, Bicentennial memento for school students, pewter-look Tasman 350th plaque with gilt centre, gilt tokens, Australia in the Great War card medallion, and about 18 silver-coloured engraved Australian wildflower medallions (possible sterling, unproven, may be silver-plated or nickel). Only value driver is whether the flower medallions are sterling; the rest is a few dollars each.",
+ "identification": "Mixed commemorative lot: Ritmeester cigar box of circulated world base-metal coins; boxed 50th(?) anniversary end of WWII medallion (gilt); Thai banknote and coin folder; two Bicentennial memento folders with medallion; large pewter Tasman 350th plaque with gilt centre; 4 small gilt tokens; Australia in the Great War card medallion; and 17-18 bright silver-coloured Australian wildflower-type medallions with engraved floral designs and patterned border rims (about 40-50mm, uncased, loose in a box). Value rests on whether the flower medallions are sterling (the RAM Wildflowers medallions are sterling).",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,60 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=435068",
    "same_item": "category guide",
    "note": "Misc exonumia, tokens and minor world base metal coins. Hammer AUD, rate 1.0. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$156.54",
+   "currency": "AUD",
+   "aud_price": 156.54,
+   "date": "2026-09-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/158200442289",
+   "same_item": "close",
+   "note": "RAM Medallion Aust Wildflowers sterling silver 71.3g, single medallion, fixed price. Terapeak row, item id from data-item-id. Only counts if ours are this series; ours look smaller/thinner.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$117.70",
+   "currency": "AUD",
+   "aud_price": 117.7,
+   "date": "2025-09-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/388683149930",
+   "same_item": "close",
+   "note": "Royal Australian Mint wildflower silver medallion, single, fixed price, free postage. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$360",
+   "currency": "AUD",
+   "aud_price": 360,
+   "date": "2024-07-29",
+   "venue": "Noble Numismatics sale 136 lot 1100",
+   "url": "https://www.noble.com.au/auctions/lot/?id=421329",
+   "same_item": "category guide",
+   "note": "Page opened. RAM Courtship medallion set, six sterling 50mm medallions (57 g ASW each), cased, uncirculated. Hammer. About A$60 per sterling medallion; guide to the type of RAM sterling medallion.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$110",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2013 or earlier (old sale 47)",
+   "venue": "Noble Numismatics sale 47 lot 634",
+   "url": "https://www.noble.com.au/auctions/lot/?id=13318",
+   "same_item": "category guide",
+   "note": "Page opened. Courtship set of six sterling medals, cased. Old sale, over 10 years, shows the low side.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'tasman 350th plaque' (none), 'tasman pewter plaque' (none), 'bicentennial medallion', 'australia great war medallion', 'wildflower silver medallion', 'wildflower medallions sterling', 'world coins lot'; work comps.py: 'silver medallion flora' (none). No direct sold match for a set of about 18 wildflower medallions, and no eBay/web checked (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'tasman 350th plaque' (none), 'tasman pewter plaque' (none), 'bicentennial medallion', 'australia great war medallion', 'wildflower silver medallion', 'wildflower medallions sterling', 'world coins lot'; work comps.py: 'silver medallion flora' (none). No direct sold match for a set of about 18 wildflower medallions, and no eBay/web checked (databases only). | chrome: Terapeak AU 3yr 'australian wildflower sterling silver medallion' (0), 'wildflower medallion silver' (2 rows); Noble lot pages 394292, 421329, 13318 opened; Google x2.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'wildflower medallion sterling silver Australian flora' and 'Australian wildflowers silver medallion set Franklin Mint' (check whether these are a known sterling issue and the per-piece price, and whether plated); 'Tasman 350th anniversary pewter plaque'; Noble Numismatics archive search 'wildflower medallion' for sold lots 2019-2026; also check sterling silver price per oz AUD for melt value of 18 medallions once weight is known.",
- "viewing_check": "Pick up one flower medallion: look for 925, STERLING, a maker mark or issuer name on the rim or reverse, and weigh one on scales (sterling at that diameter would feel heavy, roughly 20-30 g) and try a magnet. Photograph the reverse and edge of one. The rest is low value.",
- "rate_note": "All prices AUD, rate 1.0."
+ "viewing_check": "Pick up a flower medallion: look for STERLING / 925 / RAM mint mark on reverse or rim, check weight (RAM wildflower is about 71 g; sterling 50mm about 57 g), and use a magnet (should not stick) and the edge for plating wear. Count the number of medallions and note whether the reverse has the Royal Australian Mint name.",
+ "rate_note": "All prices AUD, rate 1.0.",
+ "chrome_done": true
 }

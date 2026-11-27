@@ -1,7 +1,7 @@
 {
  "cdid": 3137379,
  "lot": 1067,
- "identification": "Mixed banknote lot: one circulated Australian ten shillings (Coombs/Wilson Flinders type, serial AO/86 023589, folds and soiling), two paper $1 notes (Johnston/Stone or similar, worn), one polymer-era-style $2 note under the ten shilling, plus about ten worn world notes: Singapore $1 bird series, Hong Kong $10, Yugoslavia 50 dinara, Banco Nacional Ultramarino and other Portuguese colonial notes, Italian notes, a green Central Bank note. All circulated.",
+ "identification": "Australian and world banknotes: one pre-decimal 10 shillings (Coombs/Wilson or similar Flinders-type, serial about 'AO/86 ...3589', circulated with folds), two paper $1 notes (Knight/Stone type, used, one with ink/label mark), one paper $2 (Johnston/Stone type, green), plus about 10 loose world notes (Singapore $1 bird series, Hong Kong, Portuguese colonial, Yugoslavia, an Italian and an orange Eastern note), all worn.",
  "entries": [
   {
    "kind": "SOLD",
@@ -134,11 +134,72 @@
    "url": "gowans id 375145",
    "same_item": "close",
    "note": "Ten shillings Coombs/Wilson, 4 bids. Paid locally: what we might pay, NOT a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.37",
+   "currency": "AUD",
+   "aud_price": 42.37,
+   "date": "2026-11-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/257869181848",
+   "same_item": "yes",
+   "note": "1952 10/- Coombs/Wilson, above average circulated. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.03",
+   "currency": "AUD",
+   "aud_price": 51.03,
+   "date": "2026-06-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/358651696345",
+   "same_item": "yes",
+   "note": "1961 Ten Shillings note, Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$53.16",
+   "currency": "AUD",
+   "aud_price": 53.16,
+   "date": "2024-06-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116208306467",
+   "same_item": "yes",
+   "note": "1952 Ten Shilling note Coombs/Wilson. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$56.28",
+   "currency": "AUD",
+   "aud_price": 56.28,
+   "date": "2024-09-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/296656640017",
+   "same_item": "yes",
+   "note": "1949 Ten Shillings Coombs/Watt. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$109.59",
+   "currency": "AUD",
+   "aud_price": 109.59,
+   "date": "2025-05-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/134968230564",
+   "same_item": "close",
+   "note": "R16 Coombs Wilson Ten Shilling, used good VF (better grade than ours). Terapeak row, item id from data-item-id.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'ten shillings banknote', 'Flinders ten shillings', 'Australia ten shillings note', 'banknote lot world'; work/comps.py: 'ten shillings note'. No SOLD data found for the Singapore, Hong Kong, Yugoslav or Portuguese pieces individually. No UNSOLD or ASKING data held.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'ten shillings banknote', 'Flinders ten shillings', 'Australia ten shillings note', 'banknote lot world'; work/comps.py: 'ten shillings note'. No SOLD data found for the Singapore, Hong Kong, Yugoslav or Portuguese pieces individually. No UNSOLD or ASKING data held. | chrome: Terapeak AU 3yr 'ten shillings banknote Australia' (50 rows).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Australia ten shillings banknote Coombs Wilson circulated' (sold, last 90 days, check AO prefix); 'Australian $1 paper note Johnston Stone circulated' sold; 'Singapore bird series $1 banknote' sold; 'Hong Kong ten dollars banknote' sold; 'Banco Nacional Ultramarino banknote' sold; 'lot of world banknotes 30 circulated' sold. Also Noble Numismatics and Leski past results for 'world banknotes mixed lot'.",
  "rate_note": "All prices already AUD, no conversion.",
- "viewing_check": "Check the ten shillings for signatures and prefix (AO/86 serial, Commonwealth vs Reserve Bank), grade and tears; confirm the two $1 notes are not a star or first-prefix note; look through all world notes for any better pieces (Portuguese colonial large notes, older Italian or Yugoslav issues) and count them."
+ "viewing_check": "Read the ten shilling signatures and serial prefix (Coombs/Wilson common; Armitage/Coombs and earlier prefixes dearer), check for pinholes and tears. Flick through world pile for any pre-war or Chinese/Russian notes or high denominations.",
+ "chrome_done": true
 }

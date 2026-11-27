@@ -1,9 +1,151 @@
-{"cdid":3137237,"lot":925,"identification":"Mixed box lot: embossed metal and enamel-lid trinket boxes, bag of mixed Australian and world coins (pre-decimal, mostly copper and base), white-metal ball bracelet, coin bracelet, abalone and amethyst-type rings, filigree pendants, Victoria-style coin pendant, turquoise-type spoons and knives, gold-tone brooches. Photos show no legible hallmarks; ball bracelet and pendants look silver-look or possibly sterling (Siam or Mexican style). Mostly costume and low-grade items.","entries":[
-{"kind":"SOLD","price":"A$40","currency":"AUD","aud_price":40,"date":"2026-03-01","venue":"Gowans Auctions, Hobart (paid locally)","url":"gowans lot id 393272","same_item":"close","note":"Sterling silver ball bracelet 9.3g, hammer. Local room, shows what we might pay, not resale. Database record only."},
-{"kind":"SOLD","price":"A$45","currency":"AUD","aud_price":45,"date":"2026-06-28","venue":"Gowans Auctions, Hobart (paid locally)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=marcasite+watch","same_item":"category guide","note":"Bag of assorted dress and silver-look jewellery, hammer. Paid locally, not resale. Database record only."},
-{"kind":"SOLD","price":"A$90","currency":"AUD","aud_price":90,"date":"2026-06-21","venue":"Gowans Auctions, Hobart (paid locally)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=bag+dress+jewellery+sterling+silver","same_item":"close","note":"Bag of assorted dress and silver-look jewellery, hammer. Paid locally, not resale."},
-{"kind":"SOLD","price":"A$50","currency":"AUD","aud_price":50,"date":"2026-03-01","venue":"Gowans Auctions, Hobart (paid locally)","url":"https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=siam+silver&page%5Bnumber%5D=1","same_item":"close","note":"Mixed silver-look and costume jewellery incl Siam-style filigree, hammer. Paid locally, not resale."},
-{"kind":"SOLD","price":"A$40","currency":"AUD","aud_price":40,"date":"2024-04-08","venue":"Noble Numismatics, Sydney sale 135 lot 1970","url":"https://www.noble.com.au/auctions/lot/?id=417665","same_item":"category guide","note":"Indian silver jewellery group (bangle, bracelet, dented pendant), hammer. Competitive room but only a category guide; database record only."},
-{"kind":"SOLD","price":"A$80","currency":"AUD","aud_price":80,"date":"2025-11-17","venue":"Gowans Auctions, Hobart (paid locally)","url":"gowans lot id 375178","same_item":"category guide","note":"Bag of Australian pre-decimal coins incl florins, hammer. Paid locally. Our coin bag looks mostly copper and base, so the florin lots are an upper guide only."},
-{"kind":"SOLD","price":"A$150","currency":"AUD","aud_price":150,"date":"2016-11-28","venue":"Leski Auctions, Melbourne sale 184 lot 1513","url":"https://auctions.leski.com.au/auctions/print-realized-prices/id/184","same_item":"category guide","note":"Carton of English and Australian pre-decimal copper and silver in bags with 1966 50c x10. Larger and older, much more silver than our small bag. Over 10 years old."}
-],"searches_tried":"pipeline/comps.py: 'sterling silver trinket box'; 'pre-decimal coins bag'; 'silver ball bracelet'; 'abalone amethyst ring' (no hits); work/comps.py: 'silver jewellery lot'. Generic mixed lot, stopped there.","needs_chrome":true,"chrome_hint":"eBay AU sold + Terapeak: 'sterling silver ball bead bracelet' ; 'vintage coin bracelet silver' ; 'Siam sterling filigree pendant' ; 'abalone silver ring vintage'. Noble Numismatics / Leski realised prices: 'bag mixed pre-decimal world coins' ; 'silver jewellery lot'. Also check silver spot price per gram to value any sterling by weight (ball bracelet, pendants).","viewing_check":"Look for 925 or STERLING stamps on the ball bracelet, filigree pendants, rings and spoons; weigh the ball bracelet if allowed; check the coin bag for pre-1946 Australian silver (florins, shillings, sixpences) and any silver world crowns, and whether the Victoria-style coin pendant is a real coin.","rate_note":"All hits are AUD, rate 1.0 (no conversion).","chrome_hint_extra":""}
+{
+ "cdid": 3137237,
+ "lot": 925,
+ "identification": "Carton of mixed trinkets: two embossed metal trinket/jewellery boxes (one dog scene), enamel-lid box, set of about 6-7 spoons with turquoise-colour scarab/stone finials (white metal, hallmarks unseen), fish-slice style/butter knives, white-metal ball-bead bracelet, coin bracelet, loose coins (zip bag, mixed pre-decimal copper and some silver-looking), pendants/rings with turquoise, amethyst-type and abalone stones, large gilt flower brooches in a box, plus a small jewellery box of costume pieces.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$40",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-03-01",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 393272",
+   "same_item": "close",
+   "note": "Sterling silver ball bracelet 9.3g, hammer. Local room, shows what we might pay, not resale. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$45",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2026-06-28",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=marcasite+watch",
+   "same_item": "category guide",
+   "note": "Bag of assorted dress and silver-look jewellery, hammer. Paid locally, not resale. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90",
+   "currency": "AUD",
+   "aud_price": 90,
+   "date": "2026-06-21",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=bag+dress+jewellery+sterling+silver",
+   "same_item": "close",
+   "note": "Bag of assorted dress and silver-look jewellery, hammer. Paid locally, not resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-03-01",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/?filter%5Bsearch%5D=siam+silver&page%5Bnumber%5D=1",
+   "same_item": "close",
+   "note": "Mixed silver-look and costume jewellery incl Siam-style filigree, hammer. Paid locally, not resale."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2024-04-08",
+   "venue": "Noble Numismatics, Sydney sale 135 lot 1970",
+   "url": "https://www.noble.com.au/auctions/lot/?id=417665",
+   "same_item": "category guide",
+   "note": "Indian silver jewellery group (bangle, bracelet, dented pendant), hammer. Competitive room but only a category guide; database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$80",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2025-11-17",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 375178",
+   "same_item": "category guide",
+   "note": "Bag of Australian pre-decimal coins incl florins, hammer. Paid locally. Our coin bag looks mostly copper and base, so the florin lots are an upper guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$150",
+   "currency": "AUD",
+   "aud_price": 150,
+   "date": "2016-11-28",
+   "venue": "Leski Auctions, Melbourne sale 184 lot 1513",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/184",
+   "same_item": "category guide",
+   "note": "Carton of English and Australian pre-decimal copper and silver in bags with 1966 50c x10. Larger and older, much more silver than our small bag. Over 10 years old."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$256.82",
+   "currency": "AUD",
+   "aud_price": 256.82,
+   "date": "2026-09-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/147556366276",
+   "same_item": "category guide",
+   "note": "90g sterling scrap jewellery job lot (earrings, ring, chain), about A$2.85/g. Terapeak row, item id from data-item-id. Weighed, stamped sterling bulk lot, not ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$340.34",
+   "currency": "AUD",
+   "aud_price": 340.34,
+   "date": "2026-03-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227267332718",
+   "same_item": "category guide",
+   "note": "127g vintage/modern 925 jewellery bundle, about A$2.68/g. Terapeak row, item id from data-item-id. Weighed, stamped sterling bulk lot, not ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$136.21",
+   "currency": "AUD",
+   "aud_price": 136.21,
+   "date": "2026-04-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/227284693809",
+   "same_item": "category guide",
+   "note": "60g 925 bundle, about A$2.27/g. Terapeak row, item id from data-item-id. Weighed, stamped sterling bulk lot, not ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$84.41",
+   "currency": "AUD",
+   "aud_price": 84.41,
+   "date": "2024-12-20",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167164729968",
+   "same_item": "category guide",
+   "note": "Deceased estate bulk vintage jewellery job lot (mixed, not all silver). Terapeak row, item id from data-item-id. Weighed, stamped sterling bulk lot, not ours.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.21",
+   "currency": "AUD",
+   "aud_price": 47.21,
+   "date": "2024-08-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166901896445",
+   "same_item": "category guide",
+   "note": "Broken scrap jewellery, some silver. Terapeak row, item id from data-item-id. Weighed, stamped sterling bulk lot, not ours.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'sterling silver trinket box'; 'pre-decimal coins bag'; 'silver ball bracelet'; 'abalone amethyst ring' (no hits); work/comps.py: 'silver jewellery lot'. Generic mixed lot, stopped there. | chrome: Terapeak AU sold 3yr: scarab turquoise silver spoon, job lot silver jewellery scrap.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'sterling silver ball bead bracelet' ; 'vintage coin bracelet silver' ; 'Siam sterling filigree pendant' ; 'abalone silver ring vintage'. Noble Numismatics / Leski realised prices: 'bag mixed pre-decimal world coins' ; 'silver jewellery lot'. Also check silver spot price per gram to value any sterling by weight (ball bracelet, pendants).",
+ "viewing_check": "Look for 925/STERLING stamps on ball-bead bracelet, spoons, rings and pendants; check coin bag for pre-1946 shillings/florins (0.925 silver) and 1910-1945 Australian silver; weigh stamped pieces and price at about A$2.3/g sterling.",
+ "rate_note": "All hits are AUD, rate 1.0 (no conversion).",
+ "chrome_hint_extra": "",
+ "chrome_done": true
+}

@@ -1,7 +1,7 @@
 {
  "cdid": 3137088,
  "lot": 776,
- "identification": "German bisque socket head doll with sleep eyes, open mouth, auburn wig, jointed composition body, later cream outfit. Mark unread; Armand Marseille (e.g. 370/390 type) or similar common maker likely.",
+ "identification": "German bisque socket-head doll about 34cm, sleep eyes, open mouth with teeth, auburn mohair wig, composition ball-jointed body, later cream christening-style dress and bonnet, knitted socks and shoes. Mould and maker not readable; style is Armand Marseille 390-type or similar, c1900-1925.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,36 @@
    "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/74",
    "same_item": "close",
    "note": "Sale 74 lot 46, Armand Marseille German porcelain headed doll with crying noise c1920. Competitive Australian room but 13 years old, outside the 10 year window; database record only, no page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$151.19",
+   "currency": "AUD",
+   "aud_price": 151.19,
+   "date": "2026-11-15",
+   "venue": "eBay AU (Terapeak row under 90 days, fixed price)",
+   "url": "https://www.ebay.com.au/itm/158049082484",
+   "same_item": "close",
+   "note": "Antique doll AM 3 DEP 1894, 33cm bisque head. Same size. Item page not opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$185.73",
+   "currency": "AUD",
+   "aud_price": 185.73,
+   "date": "2026-10-25",
+   "venue": "eBay AU (Terapeak row, fixed price)",
+   "url": "https://www.ebay.com.au/itm/158280057112",
+   "same_item": "category guide",
+   "note": "Armand Marseille 370 2/0, 48cm, larger and a better mould. Item page not opened.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'bisque doll', 'german bisque doll', 'armand marseille doll', 'porcelain headed doll', 'antique doll jointed'; work/comps.py: 'bisque doll', 'armand marseille', 'doll sleep eyes'. The work/comps.py bisque doll hits were US Theriault's Parian lady shoulder-head dolls ($359 to $2,441): wrong type, excluded. Databases hold no recent competitive resale comp for this type, only local rooms and one 2013 Leski result.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'bisque doll', 'german bisque doll', 'armand marseille doll', 'porcelain headed doll', 'antique doll jointed'; work/comps.py: 'bisque doll', 'armand marseille', 'doll sleep eyes'. The work/comps.py bisque doll hits were US Theriault's Parian lady shoulder-head dolls ($359 to $2,441): wrong type, excluded. Databases hold no recent competitive resale comp for this type, only local rooms and one 2013 Leski result. | chrome: Terapeak AU sold 3y 'antique german bisque head doll sleep eyes' (4 rows, Used filter on); 'armand marseille doll bisque' (about 50 rows). Google/other houses not searched further since lot is likely under A$150.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Armand Marseille bisque head doll 20 inch' and 'antique German bisque head doll sleep eyes composition body' (Sold items, Australia, last 90 days); eBay sold 'Armand Marseille 390 doll' and '370', '1894', 'Simon Halbig', 'Heubach Koppelsdorf 250' by mould number once read. Terapeak same terms. Auction houses: Leski Melbourne realised prices, Theriault's, LiveAuctioneers and Invaluable 'Armand Marseille doll' (sold, 2020+), Mossgreen/Leonard Joel doll results, WorthPoint 'Armand Marseille 390'.",
- "viewing_check": "Photograph the incised mark on the back of the head (maker, mould number, size, e.g. 'A 5 M' or 'S&H'). Check the head for hairline cracks with a torch from inside if the wig/pate lifts, and chips at rim and eye sockets. Check the body stamp, joints and fit of limbs, and doll height. Note any original clothing or label.",
- "rate_note": "All AUD, no conversion. Gowans and Armitage entries are local costs not resale prices. No UNSOLD or ASKING entries found in databases."
+ "viewing_check": "Lift the wig or look at the back of the head for the mould number and maker (AM 390, 370, 351 or other, or Heubach Koppelsdorf). Check head for hairlines or chips, eye mechanism, body paint, and whether the wig is original. A named mould in good order with original clothes could reach A$150+; an unmarked or restored head A$60-90.",
+ "rate_note": "All AUD, no conversion. Gowans and Armitage entries are local costs not resale prices. No UNSOLD or ASKING entries found in databases.",
+ "chrome_done": true
 }

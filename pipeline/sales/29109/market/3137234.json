@@ -1,7 +1,7 @@
 {
  "cdid": 3137234,
  "lot": 922,
- "identification": "Penfolds RWT (Red Winemaking Trial) Barossa Valley Shiraz, 750ml single bottle, vintage roundel appears to read 1998 (not clearly legible in photo), red capsule, fill into neck, label looks clean, lot sticker on label.",
+ "identification": "Penfolds RWT Barossa Valley Shiraz, single 750ml bottle, vintage roundel reads 1998 (second RWT vintage; first was 1997). Grey/silver early-style label, red capsule intact, fill into the neck. Old stock tag '5669/2' on the neck.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,60 @@
    "url": "https://www.winebid.com/BuyWine/Item/10349499",
    "same_item": "category guide",
    "note": "2004 RWT screwcap, different vintage; weak guide only. Database record only, currency unverified."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$170 hammer",
+   "currency": "AUD",
+   "aud_price": 170,
+   "date": "2025-07-01",
+   "venue": "Grays Online, Private Cellar lot 0022",
+   "url": "https://www.grays.com/lot/0022-10736297/private-cellar/www.penfolds.com",
+   "same_item": "yes",
+   "note": "1998 RWT Shiraz single 750ml, cork. Hammer, 17.5% BP extra. Page opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100 hammer",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2025-12-09",
+   "venue": "Grays Online, Private Cellar lot 0050",
+   "url": "https://www.grays.com/lot/0050-10739522/private-cellar/www.penfolds.com",
+   "same_item": "yes",
+   "note": "1998 RWT Shiraz single 750ml, 18 bids. Hammer, 17.5% BP extra. Page opened.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$250",
+   "currency": "AUD",
+   "aud_price": 250,
+   "date": "2026-11-27",
+   "venue": "Nicks Wine Merchants (retail)",
+   "url": "https://www.nicks.com.au/products/1998-penfolds-rwt-barossa-shiraz",
+   "same_item": "yes",
+   "note": "Retail asking per bottle. Stock not stated.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$160-240 hammer",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2023-05-29",
+   "venue": "Leski sale 607 lots 1531-1534 (database hint, not opened)",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/607",
+   "same_item": "close",
+   "note": "1998 RWT MAGNUMS in wooden case, not 750ml. Realised-prices page, not individual lot. Not counted.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'penfolds rwt 1998', 'penfolds RWT', 'penfolds red wine', 'RWT 1998', 'penfolds 1998'; work comps.py same words. No 750ml 1998 RWT single-bottle SOLD hit found; the only 1998 RWT hits are four Leski magnums (A$160-240, May 2023). Armitage 2000-2006 RWT bottles paid locally A$70-210.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'penfolds rwt 1998', 'penfolds RWT', 'penfolds red wine', 'RWT 1998', 'penfolds 1998'; work comps.py same words. No 750ml 1998 RWT single-bottle SOLD hit found; the only 1998 RWT hits are four Leski magnums (A$160-240, May 2023). Armitage 2000-2006 RWT bottles paid locally A$70-210. | chrome: Terapeak AU 3yr 'penfolds rwt 1998' (2 rows, both >90 days, unlinked); WebSearch x2; Grays lot pages x3 (one was 1998 Bin 28, not counted); Nicks retail.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Penfolds RWT 1998 Shiraz 750ml'; wineauction.ai /wine/penfolds-rwt-shiraz-barossa-valley/1998; Langtons price guide 'RWT 1998'; Wine-Searcher 1998 RWT avg price; Leski, Mossgreen, Sotheby's wine and Wine Auction Room for 1998 RWT single bottles in last 2 years; also check the 1998 vintage is genuine versus later RWT (vintage roundel).",
- "viewing_check": "Read the vintage roundel on the front label (confirm 1998, not 1996/1999/2008), check fill level against shoulder/neck, capsule and cork condition, label stains or tears, and any seepage or ullage at the cork.",
- "rate_note": "All figures AUD; no conversion applied (WineBid entry currency unverified)."
+ "viewing_check": "Confirm 1998 on the vintage roundel, fill level (into neck is good), capsule not seeping, cork not dropped. Ask about storage. If buying to drink, A$100-120 hammer is fair.",
+ "rate_note": "All figures AUD; no conversion applied (WineBid entry currency unverified).",
+ "chrome_done": true
 }

@@ -1,11 +1,85 @@
 {
  "cdid": 3137060,
  "lot": 748,
- "identification": "Thrown earthenware bowl vase, green lead-type glaze, incised rings, base incised 'G R' monogram and 1944. Studio or amateur pottery, maker unidentified (Gladys Reynell unproven and unlikely).",
- "entries": [],
- "searches_tried": "pipeline/comps.py: reynell vase; studio pottery vase 1944; pottery vase initialled green glaze; pottery 1944; glazed vase; studio pottery. work/comps.py: reynell pottery. No hits in any. Only unrelated hits (Leski named-maker 1944 pieces $260-$500 for Boyd/Jolliff; Armitage/Gowans generic glazed vases $15-$130, paid locally, not same item), so none recorded.",
- "needs_chrome": true,
+ "identification": "Wheel-thrown red/buff earthenware squat jar-vase, H 15 cm, everted rim, shoulder with stepped throwing rings, rich green lead-type glaze running yellow-green, unglazed foot ring. Base glazed inside the foot with three kiln-stilt scars and an incised freehand script 'G R' monogram (flourished G and R) over '1944', the 1 written with a continental flag-stroke. Hand-signed, dated amateur or small studio work; maker not identified. Estimate A$60-80, current bid A$30.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "A$25.02",
+   "currency": "AUD",
+   "aud_price": 25.02,
+   "date": "2024-06-23",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/355797075275",
+   "same_item": "close",
+   "note": "Vintage Australian pottery Margaret Eve Turnbull vase, 1944, signed and dated amateur/studio piece. Auction. Closest type (named-but-minor maker, 1944). Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$46.52",
+   "currency": "AUD",
+   "aud_price": 46.52,
+   "date": "2026-03-31",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/206179249558",
+   "same_item": "category guide",
+   "note": "John Campbell Tasmania green glaze pot 1930s (from Sonnet D016 Terapeak row).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$56.01",
+   "currency": "AUD",
+   "aud_price": 56.01,
+   "date": "2025-05-02",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/376048274903",
+   "same_item": "category guide",
+   "note": "Avonleigh studio pottery vase c1940s drip glaze (Sonnet D016).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$78.21",
+   "currency": "AUD",
+   "aud_price": 78.21,
+   "date": "2025-09-15",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/266778377655",
+   "same_item": "category guide",
+   "note": "1930s Remued-style drip glaze vase (Sonnet D016).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96.16",
+   "currency": "AUD",
+   "aud_price": 96.16,
+   "date": "2026-05-29",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/157938025198",
+   "same_item": "category guide",
+   "note": "John Campbell Tasmania art deco drip glaze pot vase, a known maker (Sonnet D016).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$37.05",
+   "currency": "AUD",
+   "aud_price": 37.05,
+   "date": "2026-07-28",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/204132345952",
+   "same_item": "category guide",
+   "note": "Florenz studio pottery green-brown vase (Sonnet D016).",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: reynell vase; studio pottery vase 1944; pottery vase initialled green glaze; pottery 1944; glazed vase; studio pottery. work/comps.py: reynell pottery. No hits in any. Only unrelated hits (Leski named-maker 1944 pieces $260-$500 for Boyd/Jolliff; Armitage/Gowans generic glazed vases $15-$130, paid locally, not same item), so none recorded. | chrome: Terapeak EBAY-AU 'pottery vase 1944' 3 yrs (4 rows, 1 useful); category rows reused from Sonnet D016 Terapeak; AGSA Reynell records; two WebSearches for GR potters. eBay public sold search not used (pacing rule). | chrome: Terapeak EBAY-AU 'pottery vase 1944' 3 yrs (4 rows, 1 useful); category rows reused from Sonnet D016 Terapeak; AGSA Reynell records; two WebSearches for GR potters. eBay public sold search not used (pacing rule).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Gladys Reynell vase' and 'Reynell pottery'; eBay AU sold: 'studio pottery green glaze vase 1944 signed'; Terapeak same; Leonard Joel, Mossgreen, Lawsons, Theodore Bruce, Gowans past results for 'Reynell pottery' and 'Australian studio pottery 1940s green glaze'; Design & Art Australia Online (DAAO) for potters with initials G.R. active 1940s Australia.",
- "viewing_check": "Photograph the base closely (is the monogram G R or G D, any impressed maker mark), check the glaze chips at the foot rim, any restoration under UV, and compare incised script to known Reynell marks.",
- "rate_note": "No prices found, no conversion needed."
+ "viewing_check": "Not worth a viewing trip on its own. If handling it anyway: any impressed mark under the glaze, chips to rim and foot, and whether the clay is red earthenware (local) or a whiter continental body.",
+ "rate_note": "No prices found, no conversion needed.",
+ "chrome_done": true
 }

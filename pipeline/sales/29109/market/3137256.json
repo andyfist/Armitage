@@ -1,7 +1,7 @@
 {
  "cdid": 3137256,
  "lot": 944,
- "identification": "Three square drip-glazed (green and amber) ashtrays, each incised underneath 'John Campbell', one also 'Tasc', by John Campbell Pottery, Launceston, Tasmania (c.1930s-40s). Photos confirm three square ashtrays with hand-incised signatures on the base; the signatures look like genuine incised Campbell script. Small, common form.",
+ "identification": "Three small square John Campbell (Launceston, Tasmania) pottery ashtrays, green and amber drip glaze, about 7 cm, each with incised 'John Campbell' on the base, one also with 'Tasc'.",
  "entries": [
   {
    "kind": "SOLD",
@@ -90,11 +90,72 @@
    "url": "gowans lot id 421134",
    "same_item": "close",
    "note": "PAID LOCALLY, not resale. John Campbell vase and ashtray. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$52.09",
+   "currency": "AUD",
+   "aud_price": 52.09,
+   "date": "2025-04-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/186274893822",
+   "same_item": "close",
+   "note": "Green drip glaze ashtray. Single ashtray, Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$51.66",
+   "currency": "AUD",
+   "aud_price": 51.66,
+   "date": "2025-01-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/205228614260",
+   "same_item": "close",
+   "note": "Vintage Tasmania John Campbell ashtray. Single ashtray, Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$63.28",
+   "currency": "AUD",
+   "aud_price": 63.28,
+   "date": "2025-10-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/374517779378",
+   "same_item": "close",
+   "note": "Tasmania drip glazed ashtray. Single ashtray, Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.27",
+   "currency": "AUD",
+   "aud_price": 59.27,
+   "date": "2026-09-27",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/158336180981",
+   "same_item": "close",
+   "note": "Tasmania signed glazed ashtray. Single ashtray, Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$50.79",
+   "currency": "AUD",
+   "aud_price": 50.79,
+   "date": "2026-06-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/358694242119",
+   "same_item": "close",
+   "note": "Ceramic ashtray 3 x 11.5 cm. Single ashtray, Terapeak row, item id from data-item-id.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'John Campbell pottery', 'Campbell Tasc', 'John Campbell ashtray', 'Campbell Tasmania pottery'; work comps.py same four. No hit for 'Campbell Tasc'. No web searches (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'John Campbell pottery', 'Campbell Tasc', 'John Campbell ashtray', 'Campbell Tasmania pottery'; work comps.py same four. No hit for 'Campbell Tasc'. No web searches (databases only). | chrome: Terapeak AU sold 3yr: john campbell pottery ashtray.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'John Campbell pottery ashtray', 'John Campbell Tasmania ashtray', 'Campbell Launceston pottery ashtray set'; also 'John Campbell pottery Tasc' (sold, last 90 days). Leski Auctions realised prices 'John Campbell ashtray'; Invaluable/LiveAuctioneers 'John Campbell Launceston pottery ashtray'; Gowans/Tasmanian Auction Rooms for context only.",
  "rate_note": "All prices already AUD; no conversion.",
- "viewing_check": "Check each base for a clear incised John Campbell signature (and the Tasc mark), look for chips, crazing or glaze loss on the rims and corners, and confirm all three are the same glaze and size."
+ "viewing_check": "Chips, hairlines or glaze loss on rims and corners; that all three show the signature clearly; size about 7 cm.",
+ "chrome_done": true
 }

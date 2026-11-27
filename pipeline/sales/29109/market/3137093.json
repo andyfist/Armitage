@@ -1,7 +1,7 @@
 {
  "cdid": 3137093,
  "lot": 781,
- "identification": "Cardhu 12 Year Old Single Highland Malt Scotch Whisky, 750ml 43%, squat decanter-style bottle with wooden-look stopper, Johnnie Walker striding man neck foil, Australian import label (John Walker & Sons, 145 Epsom Road, Rosebery), with original box. About late 1980s to 1990s.",
+ "identification": "Cardhu 12 Year Old Single Highland Malt Scotch Whisky, 750ml 43%, squat decanter-style bottle with wooden-look stopper, JW striding man neck foil, Australian import label (John Walker & Sons, 145 Epsom Road, Rosebery 2018), with original box. Late 1980s to 1990s 'Single Malt Highland' label, not the older 'Pure Malt' label.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,84 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3067138&chid=28712",
    "same_item": "category guide",
    "note": "Armitage sale 28712 lot 677, Cardhu Single Malt aged 11 years. PAID LOCALLY: shows what we might pay, never a resale price. Database record only (page not opened); hammer price, premium not included."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$62",
+   "currency": "AUD",
+   "aud_price": 62,
+   "date": "2025-05-25",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-471438/cardhu-12-year-old",
+   "same_item": "close",
+   "note": "plain 'Cardhu 12 Year Old' (non-Pure-Malt label), size not in title, hammer",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$82",
+   "currency": "AUD",
+   "aud_price": 82,
+   "date": "2026-05-31",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-682356/cardhu-12-year-old-torn-seal",
+   "same_item": "close",
+   "note": "Cardhu 12 with torn seal, hammer; condition worse than ours",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$56",
+   "currency": "AUD",
+   "aud_price": 56,
+   "date": "2023-11-26",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-290415/cardhu-12-year-old",
+   "same_item": "close",
+   "note": "plain Cardhu 12; over 3 years old",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$58",
+   "currency": "AUD",
+   "aud_price": 58,
+   "date": "2023-09-24",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-270453/cardhu-12-year-old-700ml",
+   "same_item": "close",
+   "note": "700ml; over 3 years old",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$58",
+   "currency": "AUD",
+   "aud_price": 58,
+   "date": "2022-11-27",
+   "venue": "Australian Whisky Auctions",
+   "url": "https://www.australianwhiskyauctions.com.au/lot-180872/cardhu-12-year-old",
+   "same_item": "close",
+   "note": "over 4 years old",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$160",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-11-11",
+   "venue": "Armitage sale 28975 lot 713, Cardhu Pure Malt 750ml",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3110975&chid=28975",
+   "same_item": "category guide",
+   "note": "older Pure Malt label, paid locally, not resale",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'cardhu 12', 'cardhu', 'johnnie walker cardhu' (no hits); work/comps.py: 'cardhu' (no hits).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'cardhu 12', 'cardhu', 'johnnie walker cardhu' (no hits); work/comps.py: 'cardhu' (no hits). | chrome: AWA past results cardhu and cardhu-12-year-old; Terapeak not usable for spirits.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings and Terapeak: 'Cardhu 12 year old 750ml box'; 'Cardhu single highland malt 750ml 43%'; 'Cardhu 12 Epsom Road'. Australian Whisky Auctions and whisky.auction results: 'Cardhu 12 single malt 750ml' (check sold vs unsold). Also Scotch Whisky Auctions and WhiskyHammer for 'Cardhu 12 1980s 750ml'. Note whether labels say Pure Malt or Single Highland Malt.",
- "viewing_check": "Check fill level (into neck is good), intact neck foil and seal, label condition and 'Single Highland Malt' wording versus 'Pure Malt', 750ml 43% on the label, box condition (corners, stains), and any ullage or cloudiness.",
- "rate_note": "All database prices already in AUD, no conversion; whisky.auction currency assumed AUD (unverified)."
+ "viewing_check": "Confirm the label wording is 'Single Malt Highland', not 'Pure Malt' (a Pure Malt label would be worth about A$175); fill, foil, box.",
+ "rate_note": "All database prices already in AUD, no conversion; whisky.auction currency assumed AUD (unverified).",
+ "chrome_done": true
 }

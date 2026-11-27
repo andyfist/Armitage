@@ -1,7 +1,7 @@
 {
  "cdid": 3137350,
  "lot": 1038,
- "identification": "Eight British half crowns in handwritten flips: 1881 QV young head, 1900 x2 QV veiled head, 1902 and 1907 Edward VII, 1921 x2 George V, one George VI. By photo the Victorian and Edwardian coins look about F, the George VI about EF. Five are .925 sterling (about 14.1g each, about 70g gross, about 65g fine silver) and three are .500 (about 14.1g each, about 42g gross, about 21g fine).",
+ "identification": "Eight British half crowns in handwritten flips: George VI (EF), George V 1921 x2 (F, .500), Edward VII 1902 (F) and 1907, Victoria veiled head 1900 x2 (F) and Victoria young head 1881 (GB, worn). Five .925 sterling (1881, 1900x2, 1902, 1907), three .500 (1921x2, George VI).",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,60 @@
    "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/396499/",
    "same_item": "category guide",
    "note": "Single 1817 half crown from a group of 12 British coins in flips with handwritten dates; same seller style. Shows what we might pay locally only. Local database record; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$41.66",
+   "currency": "AUD",
+   "aud_price": 41.66,
+   "date": "2026-08-31",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117382160096",
+   "same_item": "close",
+   "note": "single 1874 Victoria young head NF; comparable for our 1881",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$24.29",
+   "currency": "AUD",
+   "aud_price": 24.29,
+   "date": "2026-10-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/128161914938",
+   "same_item": "close",
+   "note": "single 1901 Victoria half crown, below melt",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$111.23",
+   "currency": "AUD",
+   "aud_price": 111.23,
+   "date": "2026-09-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/125754788245",
+   "same_item": "category guide",
+   "note": "1887 Victoria VF single, better than ours",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$71.45",
+   "currency": "AUD",
+   "aud_price": 71.45,
+   "date": "2026-11-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126457605335",
+   "same_item": "category guide",
+   "note": "1934 George V half crown .500, single, retail",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'half crown 1881', 'half crowns silver lot', 'halfcrown 1902 Edward VII', 'half crown sterling', 'halfcrowns Victoria veiled 1900'; work/comps.py: 'half crown'. No web searches (databases only).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'half crown 1881', 'half crowns silver lot', 'halfcrown 1902 Edward VII', 'half crown sterling', 'halfcrowns Victoria veiled 1900'; work/comps.py: 'half crown'. No web searches (databases only). | chrome: Terapeak AU 'silver half crowns' 365d; meltvalue silver.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'lot of 8 british half crowns silver', 'victoria veiled head half crown 1900', 'edward vii half crown 1902 1907', 'george v half crown 1921 .500'; also current spot silver (A$/oz) for melt floor: five .925 coins about 65g gross = about 60g fine, plus three .500 about 42g gross = about 21g fine, total about 81g fine silver. Noble Numismatics results for 'halfcrowns Victoria Edward VII' (recent sales 138-140), Downies and Status International for small silver lots.",
- "viewing_check": "Check each date/grade under light: 1881 and 1900 coins for wear, cleaning, holing or damage; any scarce date or variety (1902 matte proof, 1881 brockage unlikely); confirm George VI is 1937-46 (.500) not 1947-48; weigh coins if possible. Mainly: are any better than F, since this lot is mostly sterling melt plus modest collector premium.",
- "rate_note": "All Noble and Gowans prices already in AUD per database; no conversion. Noble prices taken as printed in database (hammer assumed, not verified buyer premium)."
+ "viewing_check": "Check coins in flips for cleaning/holes; confirm George VI date 1937-46 (.500); 1907 and 1881 grades.",
+ "rate_note": "All Noble and Gowans prices already in AUD per database; no conversion. Noble prices taken as printed in database (hammer assumed, not verified buyer premium).",
+ "chrome_done": true
 }

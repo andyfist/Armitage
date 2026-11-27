@@ -1,7 +1,7 @@
 {
  "cdid": 3137064,
  "lot": 752,
- "identification": "Turned wooden vase, red stained, pokerwork of two kookaburras among gum leaves; roughly 25-30cm judging by photo. Unsigned as far as the photo shows; base not shown. Likely 1920s-30s Australian tourist pokerwork, or possibly later. Shiny finish may be a later varnish.",
+ "identification": "Australian pokerwork (pyrography) turned wooden vase, about 25 cm, red-stained, two kookaburras on gum branch with leaves. Unsigned on the visible side, base not shown. Probably 1920s-40s.",
  "entries": [
   {
    "kind": "SOLD",
@@ -112,11 +112,84 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2753680&chid=26806&category=ALL&style=group",
    "same_item": "category guide",
    "note": "PAID LOCALLY, not resale: huon pine pokerwork vase 35cm. Database record only (no page opened); AUD so no conversion; hammer, buyer's premium not included."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$247.00",
+   "currency": "AUD",
+   "aud_price": 247.0,
+   "date": "2025-11-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157482672842",
+   "same_item": "yes",
+   "note": "Vintage pokerwork vase 25.2cm, 2 kookaburras + wattle. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$245.16",
+   "currency": "AUD",
+   "aud_price": 245.16,
+   "date": "2024-12-23",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/276789471129",
+   "same_item": "close",
+   "note": "Antique Australian pokerwork hoop pine vase, kookaburra. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$251.54",
+   "currency": "AUD",
+   "aud_price": 251.54,
+   "date": "2024-05-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/156204018013",
+   "same_item": "close",
+   "note": "Vintage 22.5cm pokerwork vase, kookaburra and gum leaves, with insert. Over 2 years old. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$139.75",
+   "currency": "AUD",
+   "aud_price": 139.75,
+   "date": "2025-01-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167251901761",
+   "same_item": "close",
+   "note": "1920s Huon pine pokerwork vase, kookaburra and gum leaves. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$127.13",
+   "currency": "AUD",
+   "aud_price": 127.13,
+   "date": "2026-03-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267615323178",
+   "same_item": "close",
+   "note": "Antique Australian pokerwork vase c1920, kookaburra motif. Terapeak row, item id from data-item-id.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$63.40",
+   "currency": "AUD",
+   "aud_price": 63.4,
+   "date": "2026-07-09",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117291345112",
+   "same_item": "category guide",
+   "note": "Lower end: Australian pokerwork vase, kookaburra. Same search also shows souvenir-grade A$20-55 and top lots A$323 (copper liner, May 2026, item 267683510047) and A$526-529 (30cm, 2023-24).",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'pokerwork kookaburra', 'poker work vase', 'pyrography kookaburra vase', 'kookaburra vase'; work comps.py same terms (only Gowans/Armitage hits).",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'pokerwork kookaburra', 'poker work vase', 'pyrography kookaburra vase', 'kookaburra vase'; work comps.py same terms (only Gowans/Armitage hits). | chrome: Terapeak AU 3yr 'pokerwork kookaburra vase' (about 20 rows A$20-529).",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'pokerwork kookaburra vase', 'poker work vase kookaburra', 'huon pine pokerwork vase'; Terapeak same terms, last 12 months. Also Leski Auctions realised prices 'pokerwork vase', LiveAuctioneers/Invaluable 'pokerwork kookaburra vase Australia', Carter's/Lawsons/Theodore Bruce 'pokerwork vase'. Compare same height and signed vs unsigned.",
- "viewing_check": "Turn the vase over: look for a signature, initials, maker name or Tasmanian/huon pine label on the base; measure height; check if the finish is original or later varnish; check cracks, splits and rim damage.",
- "rate_note": "All prices AUD, no conversion."
+ "viewing_check": "Turn the vase over: signature, initials, label, Huon pine/hoop pine; measure height; check for cracks, splits, rim chips, whether there is a liner/insert, and whether varnish is original.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3137264,
  "lot": 952,
- "identification": "Small 9ct gold Tasmania map pendant, leaf/bark textured front engraved 'Tasmania', about 2.2 cm high, back stamp reads 9ct. Typical early-to-mid 20th century souvenir type (Willis style), no maker seen. Weight not stated, est about 2 g.",
+ "identification": "Small flat 9ct gold souvenir pendant cut to the outline of Tasmania, front with a crackled/bark-textured engraved ground and 'Tasmania' in script across a diagonal ribbon band, millegrain-style edge, jump ring and bail at top. About 19-20 mm high by tape (cloud scan said 22 mm). Rose-yellow colour. Lot page: estimate A$40-60, current bid A$20 (27 Nov 19:40).",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,48 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2617158&chid=25571&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Group of 9ct jewellery including a Tasmanian pendant. paid locally, shows what we might pay, never a resale price.  Database record only (no web page opened). Prices are AUD hammer, no rate conversion needed."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$129.81",
+   "currency": "AUD",
+   "aud_price": 129.81,
+   "date": "2026-10-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/168797688958",
+   "same_item": "category guide",
+   "note": "Willis & Sons 9ct wishbone and Tasmania map brooch, auction 2 bids. Brooch not pendant, named maker.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$220",
+   "currency": "AUD",
+   "aud_price": 220,
+   "date": "2025-12-03",
+   "venue": "Armitage sale 26806 lot 920",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2753899&chid=26806&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Database hint, not opened. 9ct 'Tasmania' pendant, weight unknown. Not resale.",
+   "via": "chrome"
+  },
+  {
+   "kind": "MELT",
+   "price": "A$64.88/g 9ct",
+   "currency": "AUD",
+   "aud_price": 64.88,
+   "date": "2026-11-27",
+   "venue": "meltvalue.com/au (24ct A$173.00/g, 5:59am AEDT)",
+   "url": "https://meltvalue.com/au/9ct-gold-price",
+   "same_item": "yes",
+   "note": "At an assumed 1.2-1.5 g (same size as the Noble 1.2g example) melt is about A$78-97.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'tasmania pendant 9ct', 'tasmania map pendant', 'tasmaniana gold pendant' (no hits); work/comps.py: 'tasmania pendant'. Competitive-room SOLD evidence is thin: Leski 2024 pair $260 and Noble 2012 $200 are the only clean ones. No web search done.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'tasmania pendant 9ct', 'tasmania map pendant', 'tasmaniana gold pendant' (no hits); work/comps.py: 'tasmania pendant'. Competitive-room SOLD evidence is thin: Leski 2024 pair $260 and Noble 2012 $200 are the only clean ones. No web search done. | chrome: Terapeak AU 3yr '9ct tasmania pendant' (4 rows, all >90d), 'tasmania gold charm' (3), 'tasmania map gold' (34 rows, 1 relevant linked). WebSearch x3, Noble lot pages 257503, 503601 (Willis Australia map pendant 1.14g passed in at A$100 est, Nov 2025), Leski 613 list, Carters guide.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: '9ct gold Tasmania map pendant', '9ct gold Tasmania pendant charm', 'Willis Tasmania map pendant 9ct'; Terapeak same terms; Leski, Noble, Mossgreen/Theodore Bruce, Davidson and Lawsons results for 'Tasmanian map pendant 9ct'; also Etsy/dealer asking for context (label ASKING).",
  "rate_note": "All prices are AUD, no conversion.",
- "viewing_check": "Check the 9ct stamp on the back under a loupe (9ct vs 9 or 375, any maker mark), weigh it if possible, and check the ring loop and solder for repair or a plated finish."
+ "viewing_check": "Loupe the back stamp: check for a maker mark beside '9CT' (Stewart, Golding, Willis, Taylor & Sharp lift value). Weigh it (expect 1-1.5 g). Check the jump ring is gold, not a base-metal replacement.",
+ "chrome_done": true
 }
