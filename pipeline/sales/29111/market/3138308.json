@@ -1,0 +1,45 @@
+{
+ "cdid": 3138308,
+ "lot": 1713,
+ "identification": "Ozito electric demolition breaker (hex-chuck, around 15 kg class) in moulded case with manual, two chisels (one pointed, one flat), side handle. Photo shows used, worn case, going order. Exact model not legible.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$95",
+   "currency": "AUD",
+   "aud_price": 95,
+   "date": "2025-07-30",
+   "venue": "Armitage Auctions, Launceston (paid locally)",
+   "url": "Armitage sale 25274 lot 1701 https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2582854&chid=25274&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Makita electric jackhammer, going order; different brand, similar class. Paid locally: shows what we might pay, not a resale price. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$190",
+   "currency": "AUD",
+   "aud_price": 190,
+   "date": "2025-10-22",
+   "venue": "Armitage Auctions, Launceston (paid locally)",
+   "url": "Armitage sale 26383 lot 1590 https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2672039&chid=26383&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Full Boar demolition hammer, new unopened; new condition, so above a used Ozito. Paid locally: shows what we might pay, not a resale price. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$105",
+   "currency": "AUD",
+   "aud_price": 105,
+   "date": "2025-12-01",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "Gowans lot id 379442",
+   "same_item": "close",
+   "note": "Detroit demolition hammer; condition not recorded. Paid locally: shows what we might pay, not a resale price. Database record only."
+  }
+ ],
+ "searches_tried": "pipeline comps.py: 'ozito demolition', 'ozito breaker', 'demolition hammer', 'jackhammer', 'ozito', 'electric jackhammer', 'rotary hammer'; work comps.py 'ozito demolition'. No Ozito demolition breaker hit and no resale (eBay/auction) comp in the databases. New retail price not in databases (Bunnings sells Ozito demolition breakers, check in Chrome).",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold + Terapeak: 'Ozito demolition breaker' , 'Ozito demolition hammer 1500W', 'Ozito jackhammer' (sold, Australia, last 12 months, used only). Also Facebook Marketplace/Gumtree sold-ish asking for 'Ozito demolition'. Bunnings: 'Ozito demolition breaker' for new retail price (record as ASKING, new retail price). Compare Makita HM1214C/ Bosch GSH 11 used sold for ceiling.",
+ "viewing_check": "Read model number and wattage on the rating plate; check cord, chuck lock and that chisels are the correct hex fit; ask for a power-on test to confirm it hammers; note case cracks and missing parts.",
+ "rate_note": "All AUD, no conversion."
+}

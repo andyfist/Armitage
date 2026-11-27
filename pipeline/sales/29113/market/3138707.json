@@ -1,0 +1,52 @@
+{
+ "cdid": 3138707,
+ "lot": 2115,
+ "identification": "Stainless-bodied submersible drainage/sump pump with black base and float switch, sold as Onka per title (label not legible in photo), plus a tub of blue pool hose. Condition unknown, untested.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$65",
+   "aud_price": 65,
+   "date": "2026-09-09",
+   "venue": "Armitage Auctions, Launceston sale 28589 lot 1779 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3045369&chid=28589&category=ALL&style=group",
+   "same_item": "close",
+   "note": "AUD, no conversion. Submersible pump & hose; local room price, shows what we might pay, not resale. From database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$70",
+   "aud_price": 70,
+   "date": "2026-07-26",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 427063",
+   "same_item": "category guide",
+   "note": "AUD. Submersible pump & Paslode gun; mixed lot, local room, not resale. From database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "aud_price": 35,
+   "date": "2026-04-13",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 402760",
+   "same_item": "category guide",
+   "note": "AUD. Grundfos submersible pump; local room, not resale. From database."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25",
+   "aud_price": 25,
+   "date": "2025-11-12",
+   "venue": "Armitage Auctions, Launceston sale 26638 lot 1718 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2728966&chid=26638&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "AUD. Submersible pump, not tested; local room, not resale. From database."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'onka pump', 'onka submersible', 'submersible pump' (11 local hits, median $25, all Armitage/Gowans), 'drainage pump', 'pool hose', 'sump pump'; work/comps.py: 'onka pump' (none). No Onka hits, no resale comps.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold/completed: 'Onka submersible pump', 'Onka drainage pump stainless', 'Onka 400W/750W submersible'. Terapeak on same. Also find current new retail price in Australia (Bunnings, Onka/Kmart-type retailers) for the matching Onka model as an ASKING 'new retail price' entry. Gumtree AU for used asking prices.",
+ "viewing_check": "Read the pump label for model and wattage, check cable and float switch for damage, see if the impeller turns freely, note the hose length and condition.",
+ "rate_note": "All AUD, no conversion."
+}

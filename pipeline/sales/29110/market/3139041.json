@@ -1,0 +1,88 @@
+{
+ "cdid": 3139041,
+ "lot": 1277,
+ "identification": "Scrubbed pine top farmhouse/kitchen table, ebonised or black painted turned-leg base, end drawer, about 5-6ft, with a separate rough pine extension leaf. Late Victorian to Edwardian colonial style; blackwood base claim unverified (painted over). Ordinary Tasmanian farmhouse table, not a premium piece.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$320",
+   "currency": "AUD",
+   "aud_price": 320,
+   "date": "2025-11-29",
+   "venue": "Leski Auctions, Melbourne sale 640 lot 295",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/640",
+   "same_item": "close",
+   "note": "Baltic pine and blackwood farmhouse scullery table, drawer; hammer; DB record, snippet only. Closest dealer-room resale comp; condition not stated."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$300",
+   "currency": "AUD",
+   "aud_price": 300,
+   "date": "2021-11-27",
+   "venue": "Leski Auctions, Melbourne sale 562 lot 571",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/562",
+   "same_item": "close",
+   "note": "Colonial farmhouse kitchen table, Baltic pine with blackwood legs, 192cm; hammer; older (2021); DB record, snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2023-05-27",
+   "venue": "Leski Auctions, Melbourne sale 597 lot 633",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/597",
+   "same_item": "category guide",
+   "note": "Rustic kauri/Baltic pine scullery table, low end for rough example; DB record, snippet only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$400",
+   "currency": "AUD",
+   "aud_price": 400,
+   "date": "2022-06-25",
+   "venue": "Leski Auctions, Melbourne sale 573 lot 563",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/573",
+   "same_item": "category guide",
+   "note": "Colonial Baltic pine scullery table, Barossa, 19th century; DB record, snippet only. Better provenance than this lot."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$150-$240",
+   "currency": "AUD",
+   "aud_price": 160,
+   "date": "2026-07-31 (also 17 Jul $150, 10 Jul $240, 16 Jan $150)",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "https://www.gowansauctions.com.au/backend/api/v1/lots/426419/",
+   "same_item": "close",
+   "note": "Scrubbed pine and hardwood kitchen table about 5ft, repeated lots; paid locally, shows what we might pay only; DB record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$180",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2026-05-06",
+   "venue": "Armitage Auctions sale 27762 lot 1084 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2903270&chid=27762&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Blackwood and pine top farmhouse table 134cm; paid locally; DB record."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$170-$380",
+   "currency": "AUD",
+   "aud_price": 270,
+   "date": "2025-08 to 2026-11 (170 Nov 2026 lot 1117; 270 Oct 2026 lot 995; 380 Dec 2025 lot 1212; 200/190 small ones 2025)",
+   "venue": "Armitage Auctions, Launceston (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3089288&chid=28840&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Scrubbed pine and blackwood farmhouse tables, 120-183cm; paid locally; DB records."
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: pine farmhouse table; blackwood table; scrubbed pine table; extension table pine; kitchen table pine. work/comps.py: pine table. No UNSOLD or ASKING hits. AUD only, no conversion.",
+ "needs_chrome": true,
+ "chrome_hint": "eBay AU sold: 'antique pine farmhouse table' and 'scrubbed pine kitchen table blackwood' (Sold items, Tas/Vic/NSW pickup); Gumtree/FB Marketplace Launceston-Hobart 'pine farmhouse table' asking; Leski, Theodore Bruce, Lawsons, Mossgreen/Gibson's sold 'farmhouse table pine blackwood'; Terapeak 'pine farmhouse table'.",
+ "viewing_check": "Check base timber under the paint (blackwood vs painted pine) via a scrape in the drawer or underside; drawer dovetails; top thickness and splits; whether the leaf is original/matches; measure length and wheel/leg stability; woodworm."
+}
