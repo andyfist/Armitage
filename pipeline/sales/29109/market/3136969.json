@@ -116,9 +116,33 @@
    "same_item": "close",
    "note": "Leski 613 lot 37 rare koala/gumnut wall pocket in pink, brown and green (database hint, PDF not opened). Rarer pink colourway, not comparable to green.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$366.78",
+   "currency": "AUD",
+   "aud_price": 366.78,
+   "date": "2026-06-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206311751776",
+   "same_item": "yes",
+   "note": "John Campbell koala wall pocket, auction 4 bids [relinked via Terapeak data-item-id, 28 Nov]",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$349.89",
+   "currency": "AUD",
+   "aud_price": 349.89,
+   "date": "2025-11-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/336313305455",
+   "same_item": "yes",
+   "note": "John Campbell koala wall vase, auction [relinked via Terapeak data-item-id, 28 Nov]",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py 'john campbell koala'; 'campbell tasmania wall pocket'; 'john campbell pottery' (also work/comps.py same three). Koala-specific sold hits: Leski 2024 $1,700, Leski 2016 $420, Armitage 2025 $480 (paid locally). Plain wall pockets $82-$320. No ASKING or UNSOLD entries in the databases. | chrome: Terapeak AU 3yr 'john campbell koala' (2 rows), 'koala wall pocket' (15 rows, no other Campbell). eBay public sold search 'john campbell koala' (Error Page). WebSearch x5, Shapiro and Carters pages, Armitage 25571 lot 589 page.",
+ "searches_tried": "pipeline/comps.py 'john campbell koala'; 'campbell tasmania wall pocket'; 'john campbell pottery' (also work/comps.py same three). Koala-specific sold hits: Leski 2024 $1,700, Leski 2016 $420, Armitage 2025 $480 (paid locally). Plain wall pockets $82-$320. No ASKING or UNSOLD entries in the databases. | chrome: Terapeak AU 3yr 'john campbell koala' (2 rows), 'koala wall pocket' (15 rows, no other Campbell). eBay public sold search 'john campbell koala' (Error Page). WebSearch x5, Shapiro and Carters pages, Armitage 25571 lot 589 page. | chrome: Terapeak AU 3yr 'john campbell koala' (2 rows), 'koala wall pocket' (15 rows, no other Campbell). eBay public sold search 'john campbell koala' (Error Page). WebSearch x5, Shapiro and Carters pages, Armitage 25571 lot 589 page.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'John Campbell Tasmania koala wall pocket', 'Campbell Pottery Launceston koala wall vase', 'John Campbell koala vase'. Invaluable/LiveAuctioneers: 'John Campbell koala wall pocket' (Leski, Gibson's, Colville, Mossgreen, Davidson, Lawsons). Also Leski realised prices page search 'Campbell koala'. Check for green-glaze koala results and 'K.B.C' or decorator-initial pieces; note any with original label.",
  "viewing_check": "Check the koala ears/paws, gumnuts and rim for chips or restoration (photo 3 shows a glossy pale mark low on the left front edge, likely a glaze reflection, check it); read the front label; confirm the K.B.L initials.",

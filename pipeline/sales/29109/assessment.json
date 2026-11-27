@@ -15,9 +15,9 @@
  "scanned": 441,
  "candidates": 208,
  "counts": {
-  "PASS": 45,
+  "PASS": 44,
   "CHROME": 30,
-  "FAIL": 125,
+  "FAIL": 126,
   "DROP": 8,
   "NOT RESEARCHED": 0
  },
@@ -622,6 +622,24 @@
      "same_item": "close",
      "note": "Described as rare koala, gumnuts and leaves wall pocket in pink, brown and green. Database record; page not opened. Different glaze (pink), probably a scarcer colourway, so likely the top of the range, not a direct match for green.",
      "old": false
+    },
+    {
+     "aud_price": 366.78,
+     "date": "2026-06-07",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/206311751776",
+     "same_item": "yes",
+     "note": "John Campbell koala wall pocket, auction 4 bids [relinked via Terapeak data-item-id, 28 Nov]",
+     "old": false
+    },
+    {
+     "aud_price": 349.89,
+     "date": "2025-11-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/336313305455",
+     "same_item": "yes",
+     "note": "John Campbell koala wall vase, auction [relinked via Terapeak data-item-id, 28 Nov]",
+     "old": false
     }
    ],
    "sold_old": [
@@ -648,11 +666,11 @@
      "old": false
     }
    ],
-   "resale": 1700.0,
-   "net_resale": 1445.0,
-   "max_hammer": 1020,
+   "resale": 366.78,
+   "net_resale": 311.763,
+   "max_hammer": 90,
    "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $1,700; less 15% fees = $1,445; less $200 profit, / 1.22 premium = max hammer $1,020",
+   "why": "3 same-item SOLD price(s), median $367; less 15% fees = $312; less $200 profit, / 1.22 premium = max hammer $90",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -22492,7 +22510,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 5:10:40 PM ADST",
-   "identification": "Mixed commemorative lot: Ritmeester cigar box of circulated world base-metal coins; boxed 50th(?) anniversary end of WWII medallion (gilt); Thai banknote and coin folder; two Bicentennial memento folders with medallion; large pewter Tasman 350th plaque with gilt centre; 4 small gilt tokens; Australia in the Great War card medallion; and 17-18 bright silver-coloured Australian wildflower-type medallions with engraved floral designs and patterned border rims (about 40-50mm, uncased, loose in a box). Value rests on whether the flower medallions are sterling (the RAM Wildflowers medallions are sterling).",
+   "identification": "Mixed lot: Ritmeester cigar box of circulated world base-metal coins, boxed 60th anniversary end of WWII 'For Service to Australia' bronze medallion, Thai banknote and two coins in folder, two Bicentennial Memento for School Students medallions, pewter Tasman 350th plaque with gilt centre, four gilt tokens/medallions, and (photo 2) a box of about 17-18 silver-coloured cast medallions/mini plates with frosted floral borders and Australian wildflower centres (waratah, banksia etc.) plus a poppy-card medallion",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'wildflower medallion sterling silver Australian flora' and 'Australian wildflowers silver medallion set Franklin Mint' (check whether these are a known sterling issue and the per-piece price, and whether plated); 'Tasman 350th anniversary pewter plaque'; Noble Numismatics archive search 'wildflower medallion' for sold lots 2019-2026; also check sterling silver price per oz AUD for melt value of 18 medallions once weight is known.",
@@ -23272,7 +23290,7 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 5:13:20 PM ADST",
-   "identification": "Cased set of 12 'History of Seafaring' proof crown-size coins in a mahogany-finish presentation case, each in a square capsule with a small ship logo (same style as Westminster Collection sets). Coins read: Bounty $2, Victoria $2, Endeavour $2, Gorch Fock (dated 2015), a Cook Islands/Tuvalu-type $2, a $2 tall ship with map, Alexander von Humboldt 2 Kina (PNG), Mayflower (dated 2016), The Royal Clipper 1 Dollar ('Geschichte der Seefahrt'), Fregate 100 Francs, Passat Half Dollar, Golden Hind 10 Vatu. Likely about 2013-2016 issues. Metal not stated on the visible case or capsules.",
+   "identification": "'History of Seafaring' proof coin collection in mahogany-finish presentation box with ship emblem on lid lining; 12 capsuled proof coins with sailing ships (Pacific-nation issues: Samoa/Fiji/Vanuatu/PNG etc., 2015-2017 series per prior read). This series (sold via Macquarie Mint) is struck in sterling silver (individual coins sell as 'sterling silver'); fineness not legible in photos",
    "researched": true,
    "needs_chrome": false,
    "chrome_hint": "eBay AU sold/completed: 'History of Seafaring silver proof coins set 12', 'Geschichte der Seefahrt 925 silver coins set case'; Terapeak same. Also search 'History of Seafaring' Noble Numismatics, Leski, Downies, Mowbray, Heritage past results, and LiveAuctioneers/Invaluable 'History of Seafaring proof set'. Check issuer (Numista 'History of Seafaring' series, 2008-2010 Cook Islands/Tuvalu/Vanuatu/PNG/Belarus) for composition: .925 silver vs silver-plated copper-nickel, and the original issue price from the mint/dealer.",
@@ -23285,6 +23303,69 @@
      "url": "https://www.ebay.com.au/itm/267590021136",
      "same_item": "close",
      "note": "Titled 'History of Seafaring sterling silver proof coin collection, 15 coins each of 12g...' (title truncated in Terapeak), auction, 1 sale. Same series name but 15 coins not 12, and only one sale, so a single data point; Terapeak row, item id from data-item-id. Shows the set CAN be sterling and sell high.",
+     "old": false
+    },
+    {
+     "aud_price": 460.28,
+     "date": "2024-08-28",
+     "venue": "eBay (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/176535328870",
+     "same_item": "close",
+     "note": "Macquarie Mint silver coin set in wooden box, 21 coins, History of Seafaring, auction 1 bid",
+     "old": false
+    },
+    {
+     "aud_price": 52.96,
+     "date": "2026-02-06",
+     "venue": "eBay (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/324783098754",
+     "same_item": "yes",
+     "note": "single 2017 Vanuatu 10 vatu sterling Golden Hind (6 sold)",
+     "old": false
+    },
+    {
+     "aud_price": 55.75,
+     "date": "2026-02-06",
+     "venue": "eBay (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/324783091426",
+     "same_item": "yes",
+     "note": "single 2017 Samoa $1 sterling Rickmer Rickmers (3 sold)",
+     "old": false
+    },
+    {
+     "aud_price": 42.34,
+     "date": "2025-08-24",
+     "venue": "eBay (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/224602597594",
+     "same_item": "yes",
+     "note": "single 2018 Samoa $1 silver, History of Seafaring (2 sold)",
+     "old": false
+    },
+    {
+     "aud_price": 49.85,
+     "date": "2024-09-15",
+     "venue": "eBay (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/364564719258",
+     "same_item": "yes",
+     "note": "single 2015 PNG 2 kina silver, History of Seafaring",
+     "old": false
+    },
+    {
+     "aud_price": 42.9,
+     "date": "2024-08-25",
+     "venue": "eBay (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/305715395679",
+     "same_item": "yes",
+     "note": "single 2015 Fiji $2 sterling Victoria",
+     "old": false
+    },
+    {
+     "aud_price": 43.23,
+     "date": "2024-08-25",
+     "venue": "eBay (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/324783183536",
+     "same_item": "yes",
+     "note": "single 2015 Samoa $2 sterling Gorch Fock",
      "old": false
     }
    ],
@@ -23302,11 +23383,11 @@
    "unsold": [],
    "asking": [],
    "paid": [],
-   "resale": 847.27,
-   "net_resale": 720.1795,
-   "max_hammer": 425,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $847; less 15% fees = $720; less $200 profit, / 1.22 premium = max hammer $425",
+   "resale": 51.405,
+   "net_resale": 43.69425,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $51 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
