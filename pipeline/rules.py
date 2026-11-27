@@ -1,7 +1,8 @@
 """Category rules for the Armitage funnel. Edit these lists; nothing else needs to change.
 
 classify(title, description) returns one of:
-  ('exclude', reason)      never scanned: large furniture, whitegoods, motor vehicles (Andy, 21 Oct 2026)
+  ('exclude', reason)      never scanned or priced: large furniture, whitegoods, motor vehicles (Andy, 21 Oct 2026),
+                           and anything heavy or bulky (Andy, 7 Nov 2026); every one goes on a "left out" list
   ('always_look', reason)  goes straight to the photo scan, skipping the title pass: categories
                            where collectors chase value the catalogue never mentions
   ('title_pass', '')       everything else: the title pass decides whether photos get looked at
@@ -27,6 +28,39 @@ EXCLUDE = [
 VALUE_WORDS = (r'\b(huon|blackwood|cedar|colonial|georgian|regency|victorian|edwardian|art deco|arts and crafts|mid.century|danish|'
                r'featherston|parker|fler|chiswell|eames|tessa|snelling|windsor|campaign|apothecary|pedal car|model|toy|diecast|'
                r'matchbox|corgi|dinky|tin ?plate|vintage|antique|oil|watercolour|painting|signed)\b')
+
+# Heavy or bulky (Andy, 7 Nov 2026: rugs, generators, compressors, band saws, fountains, train layouts; mainland freight
+# and carting kill the margin). Judged on the title only, and with no value-word escape, so a Persian rug is out too.
+# Worded carefully: a fountain pen, a match safe, a travel rug, a toy piano, a gravy boat and a mantel clock stay in.
+# Every excluded lot goes on the "left out" list in the Chrome pack so Andy can put one back (chrome_brief.py --add).
+BULKY = (r"(?<!travel )(?<!picnic )(?<!knee )(?<!car )(?<!throw )\brugs?\b|\bcarpets?\b|\b(floor|hall) runners?\b|\bgenerators?\b|"
+         r"\bcompressors?\b|\bband ?saws?\b|\btable ?saws?\b|\bdrop ?saws?\b|\bmitre ?saws?\b|\bthicknessers?\b|\bjointers?\b|"
+         r"\blathes?\b|\bdrill press(es)?\b|\bwelders?\b|\blog splitters?\b|\bcement mixers?\b|\bwheel ?barrows?\b(?! wheels?)|"
+         r"\bmowers?\b|\bpressure washers?\b|\bwater tanks?\b|\bsheds?\b|\bgazebos?\b|\btrampolines?\b|\bspa (bath|pool)s?\b|"
+         r"\b(pool|billiard|snooker|table tennis|ping pong) tables?\b|(?<!toy )(?<!childs )(?<!child's )\bpianos?\b(?! (accordion|rolls?|music|book|sconces?|shaped|parts))|"
+         r"\bpianolas?\b|\b(pump|reed|church|electric) organs?\b|\bharmoniums?\b|\b(train|railway) layouts?\b|"
+         r"\bfountains?\b(?! ?pens?)|\bbird ?baths?\b|\bslabs? of\b|\btimber slabs?\b|\btyres\b|"
+         r"\bbikes?\b(?! (covers?|parts|racks?|lamps?|lights?|bells?|badges?|horns?|pumps?|locks?|seats?|helmets?|stands?))|"
+         r"\bbicycles?\b(?! (lamps?|lights?|bells?|badges?|horns?|pumps?|locks?|seats?|helmets?))|\btreadmills?\b|\browing machines?\b|"
+         r"\bcross trainers?\b|\bbarbers? chairs?\b|\bwork ?bench(es)?\b|\bkilns?\b|\bmangles?\b|"
+         r"(?<!match )(?<!vesta )(?<!toy )(?<!money )\bsafes?\b|\bclothes ?lines?\b|\boutboards?\b|\b(diesel|petrol|stationary|air cooled) (engines?|motors?)\b|"
+         r"\bdinghy|\bdinghies\b|\bkayaks?\b|\bcanoes?\b|\btinnies\b|\bgantry\b|\bengine (hoist|crane|stand)s?\b|"
+         r"\b(fire|fireplace) surrounds?\b|\bmantelpieces?\b|\bbath ?tubs?\b|\bcast iron baths?\b|\bbbqs?\b|\bbarbecues?\b|"
+         r"\bpay ?phones?\b|\boutdoor (setting|seat|chair|table|bench)e?s?\b|\b\d{2} ?(\"|inch|in\b) ?(tv|television)\b|"
+         r"\b(flat screen|smart|led|lcd|plasma) (tv|television)s?\b")
+
+
+def title_text(title, description=''):
+    """The lot's title; Armitage cuts long titles with '...', so then the description's first sentence stands in."""
+    text = (title or '').lower()
+    if text.endswith('...') and description:
+        text = re.split(r'\. ', description, maxsplit=1)[0].lower()
+    return text
+
+
+def is_bulky(title, description=''):
+    return bool(re.search(BULKY, title_text(title, description)))
+
 
 # Lots that always get the photo scan. The 21 Oct 2026 sale showed why: four axe lots (a Hytest Racer
 # head among them) were passed over until a bidder from Bouvard, WA started on them.
@@ -70,9 +104,7 @@ NOT_PRIORITY = (r'\b(macbook|chromebook|notebook (computer|pc)|laptop|map drawer
 def is_priority(title, description=''):
     """Judged on the title only, as descriptions mention books in passing (a rug's 'book cover design', a radio 'with
     book'). Armitage cuts long titles with '...', so then the description's first sentence stands in for the title."""
-    text = (title or '').lower()
-    if text.endswith('...') and description:
-        text = re.split(r'\. ', description, maxsplit=1)[0].lower()
+    text = title_text(title, description)
     return bool(PRIORITY and re.search(PRIORITY, text) and not re.search(NOT_PRIORITY, text))
 
 
@@ -91,8 +123,31 @@ def priority_cdids(sale_dir):
 PHOTO_SCAN_ALL = True
 
 
+# Art lots (Andy, 16 Nov 2026: "treat art like books"): every one gets the deep Chrome check on Opus, every
+# picture in a group lot priced. Oil cans, oil lamps and lamp oil are petroliana, not paintings.
+ART = (r'\b(oil on (canvas|board|panel|paper|linen|card)|oils? paintings?|oil sketch|watercolou?rs?|acrylics? on|gouache|pastels?|'
+       r'paintings?|artworks?|etchings?|lithographs?|engravings?|woodcuts?|wood cuts?|linocuts?|screen ?prints?|serigraphs?|'
+       r'aquatints?|mezzotints?|drypoints?|limited edition prints?|signed prints?|art prints?|framed prints?|prints? signed|'
+       r'sketch(es)?|drawings?|charcoal (drawing|sketch|on|study)|ink and wash|pen and ink|bronzes?|sculptures?|carvings?|aboriginal|bark paintings?|'
+       r'dot paintings?|tapa|portrait|still life|landscape|seascape|signed (lower|l\.?\s?[lr]\.?|bottom|verso|on (the )?(back|verso))|'
+       r'framed (picture|art|oil|watercolour)|oil\b(?! ?(can|cans|tin|tins|lamps?|lanterns?|bottles?|jugs?|drums?|filters?|pumps?|heaters?|stoves?|burners?|signs?|cloth))|'
+       r'battarbee|namatjira|hermannsburg|pro hart|kenneth jack|piguenit|glover|mcwilliams|boyd|nolan|streeton|heysen|norman lindsay)\b')
+
+
+# petroliana and tools that say "oil" (a Castrol gallon oil tin, oil and grease tins, an oil box of tools)
+NOT_ART_OIL = (r'\b(motor|engine|gallon|quart|pint|litre|lubricating|machine|gear|lamp|castrol|mobil|mobiloil|shell|ampol|caltex|'
+               r'golden fleece|vacuum|esso|plume|atlantic|neptune|valvoline|penrite|bp)\b[^.,]{0,25}?\boil\b|\boil (&|and) grease\b|\boil box\b')
+
+
+def is_art(title, description=''):
+    text = re.sub(NOT_ART_OIL, ' ', f'{title or ""} {description or ""}'.lower())
+    return bool(re.search(ART, text))
+
+
 def classify(title, description=''):
     text = f'{title or ""} {description or ""}'.lower()
+    if is_bulky(title, description):  # Andy, 7 Nov 2026: nothing heavy or bulky, whatever it is
+        return 'exclude', 'heavy or bulky'
     for reason, pat in ALWAYS_LOOK:  # a tool box with a heater in it is still a tool box
         if re.search(pat, text):
             return 'always_look', reason
