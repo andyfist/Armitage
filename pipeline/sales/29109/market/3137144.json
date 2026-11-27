@@ -1,7 +1,7 @@
 {
  "cdid": 3137144,
  "lot": 832,
- "identification": "Oil of a sheep's head on black ground in an open timber box frame, catalogued as Alison Cooper-White (Tasmanian painter whose animal subjects, incl. sheep, shadow boxes and painted drawers, appear regularly at Armitage). Signature not seen in photo.",
+ "identification": "Alison Cooper-White (contemporary Tasmanian painter), sheep head and shoulders on a dark ground, oil, painted inside the back of a timber shadow box, 46 x 39 cm. Recent original.",
  "entries": [
   {
    "kind": "SOLD",
@@ -68,11 +68,24 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2754904&chid=26807&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Same artist, small framed watercolour, low end of her range. Local database record (page not opened)."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$331-1,300",
+   "currency": "AUD",
+   "aud_price": 810,
+   "date": "2026-11-27",
+   "venue": "Bluethumb (artist's own listings)",
+   "url": "https://bluethumb.com.au/alison-cooper-white",
+   "same_item": "category guide",
+   "note": "artist primary prices; no secondary sales found",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'cooper-white'; 'alison cooper'; 'cooper white sheep'; 'shadow box sheep' (no hits). work/comps.py: 'cooper-white'; 'sheep oil painting' (no hits). Only Armitage/Gowans hits found; no competitive-auction or retail comps in our databases.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'cooper-white'; 'alison cooper'; 'cooper white sheep'; 'shadow box sheep' (no hits). work/comps.py: 'cooper-white'; 'sheep oil painting' (no hits). Only Armitage/Gowans hits found; no competitive-auction or retail comps in our databases. | chrome: see lot 1166",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold (AU) and Terapeak: 'Alison Cooper-White' ; 'Alison Cooper-White sheep'; 'Alison Cooper White oil painting'. Also Invaluable and LiveAuctioneers artist search 'Alison Cooper-White'; Google/Instagram/gallery sites for her retail prices (Tasmanian galleries, her own site) to set ASKING comps for shadow boxes and sheep studies; Theauctioneer/Bidsonline other houses 'Cooper-White shadow box'.",
- "viewing_check": "Look for a signature (lower corner of the painting, inside the box, or label or inscription on the back or underside of the box) and a title or date. Measure the size and check the paint is oil and the box is original.",
- "rate_note": "All AUD, no conversion needed."
+ "viewing_check": "None for resale.",
+ "rate_note": "All AUD, no conversion needed.",
+ "chrome_done": true
 }

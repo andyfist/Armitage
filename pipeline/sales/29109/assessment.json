@@ -15,10 +15,10 @@
  "scanned": 441,
  "candidates": 208,
  "counts": {
-  "PASS": 31,
-  "CHROME": 107,
-  "FAIL": 68,
-  "DROP": 0,
+  "PASS": 28,
+  "CHROME": 104,
+  "FAIL": 73,
+  "DROP": 1,
   "NOT RESEARCHED": 2
  },
  "lots": [
@@ -2238,11 +2238,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:18:40 PM ADST",
-   "identification": "Impasto oil of a river with a mountain beyond (possibly Quamby Bluff, Tas), signed lower left 'R. Crossland '96'. Mounted and framed. Attributed to Tasmanian painter Rick Crossland; no database holds any Crossland sale.",
+   "identification": "Rick Crossland, 'Quamby Brook': river reflecting hills and Quamby Bluff, stormy sky, small oil, 19 x 27 cm, gilt frame with green mat. Tasmanian (Launceston-area) painter.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Search: eBay AU sold listings 'Rick Crossland' and 'Crossland oil painting Tasmania'; Terapeak 'Rick Crossland'; invaluable.com / liveauctioneers 'Crossland Tasmania oil'; Gowans, Mossgreen, Leonard Joel, Theodore Bruce and Lawsons results for 'Rick Crossland'; Design & Art Australia Online (daao.org.au) 'Crossland' for artist profile; Trove/Google for 'Rick Crossland painter Tasmania' to confirm identity and exhibition record.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -2280,7 +2280,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -2473,21 +2473,49 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:21:40 PM ADST",
-   "identification": "'Charles Horner of Halifax: A celebration of his life and work' by Tom J Lawson, hardback with dust jacket, c.2010 small specialist run. Single printing as far as known, so no first versus later printing split. Niche collector reference on Horner silver thimbles and hatpins, out of print. Under the book rule it is only worth pursuing if specialist sales show real money; the scan note guide of $30-80 is unverified and low.",
+   "identification": "Tom J. Lawson, 'Charles Horner of Halifax: A celebration of his life and work' (2002), hardback in dust jacket, colour plates of Horner thimbles, hatpins and enamel jewellery. Looks clean, jacket bright.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and UK sold/completed: \"Charles Horner of Halifax\" Lawson; \"Charles Horner of Halifax a celebration of his life and work\" (also Terapeak). Also check AbeBooks, Biblio, Amazon and ViaLibri asking prices for the same title (ASKING), and Thimble Society / thimble and hatpin collector book sales. WorthPoint for any past sales.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 118.7,
+     "date": "2025-09-12",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156214586622",
+     "same_item": "yes",
+     "note": "HB 2002 VGC, +$19.70 post",
+     "old": false
+    },
+    {
+     "aud_price": 26.37,
+     "date": "2025-05-10",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/205472850485",
+     "same_item": "yes",
+     "note": "+$4.83 post",
+     "old": false
+    },
+    {
+     "aud_price": 48.95,
+     "date": "2024-05-03",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256492094703",
+     "same_item": "yes",
+     "note": "'mint', +$18.25 post",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
    "paid": [],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 48.95,
+   "net_resale": 41.6075,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $49 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": true
@@ -5256,15 +5284,25 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:52:40 PM ADST",
-   "identification": "Oil of a sheep's head on black ground in an open timber box frame, catalogued as Alison Cooper-White (Tasmanian painter whose animal subjects, incl. sheep, shadow boxes and painted drawers, appear regularly at Armitage). Signature not seen in photo.",
+   "identification": "Alison Cooper-White (contemporary Tasmanian painter), sheep head and shoulders on a dark ground, oil, painted inside the back of a timber shadow box, 46 x 39 cm. Recent original.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay sold (AU) and Terapeak: 'Alison Cooper-White' ; 'Alison Cooper-White sheep'; 'Alison Cooper White oil painting'. Also Invaluable and LiveAuctioneers artist search 'Alison Cooper-White'; Google/Instagram/gallery sites for her retail prices (Tasmanian galleries, her own site) to set ASKING comps for shadow boxes and sheep studies; Theauctioneer/Bidsonline other houses 'Cooper-White shadow box'.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 810.0,
+     "date": "2026-11-27",
+     "venue": "Bluethumb (artist's own listings)",
+     "url": "https://bluethumb.com.au/alison-cooper-white",
+     "same_item": "category guide",
+     "note": "artist primary prices; no secondary sales found",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 550.0,
@@ -5325,7 +5363,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; older sold, asking or unsold evidence only",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5340,11 +5378,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:53:00 PM ADST",
-   "identification": "Pro Hart (Kevin Charles Hart, 1928-2006) small hand coloured line etching, swagman in billabong, 'His Ghost May Be Heard', Waltzing Matilda Series No. 30 of series 1, Lytlewode Press, edition 100, plate signed only, publisher's proof UNSIGNED, with Lytlewode certificate (15 Dec 2011), framed. Photos not re-read; identification from scan notes.",
+   "identification": "Pro Hart, hand coloured line etching from the Littlewode Press 'Waltzing Matilda' series (Series 1), swagman floating in the billabong ('His Ghost May Be Heard'), 12.7 x 14.7 cm plate, framed. Comes with a Certificate of Authenticity from publisher Robert C. Littlewode (15 Dec 2011) stating it is an UNSIGNED Publisher's Proof from an edition of 100. The plate bears 'Pro Hart' in the plate (not a pencil signature).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Pro Hart etching Waltzing Matilda', 'Pro Hart Lytlewode Press etching', 'Pro Hart His Ghost May Be Heard', 'Pro Hart swagman billabong etching'; note signed vs unsigned. Invaluable and LiveAuctioneers results: 'Pro Hart etching hand coloured' last 3 years; also Leonard Joel, Theodore Bruce, Davidson, Lawsons, Mossgreen. Check Lytlewode Press Waltzing Matilda series prices.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 180.0,
@@ -5362,6 +5400,15 @@
      "url": "https://www.invaluable.com/auction-lot/pro-hart-australia-1928-2006-crib-time-etching-ed-8153-c-1c0b7853e6",
      "same_item": "close",
      "note": "Small Pro Hart hand-coloured etching (Crib Time), not the Waltzing Matilda series; category guide for size. Database record only (page not opened); AUD so no conversion; hammer, premium extra.",
+     "old": false
+    },
+    {
+     "aud_price": 29.37,
+     "date": "2025-08-19",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/396839656669",
+     "same_item": "yes",
+     "note": "Pro Hart original etching Waltzing Matilda series, unsigned",
      "old": false
     }
    ],
@@ -5433,11 +5480,11 @@
      "old": false
     }
    ],
-   "resale": 165.0,
-   "net_resale": 140.25,
+   "resale": 150.0,
+   "net_resale": 127.5,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $165 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $150 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5452,11 +5499,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:53:20 PM ADST",
-   "identification": "Framed John Tallis / J. Rapkin steel-engraved map 'Van Diemen's Island or Tasmania', c1851 (Tallis Illustrated Atlas), hand-coloured outline, Greek key and floral border, vignettes of Hobart Town, Government House and thylacine. Design matches the original Tallis; photos cannot rule out a later facsimile. Heavy brown foxing and stains.",
+   "identification": "John Tallis / J. Rapkin, 'Van Diemen's Island or Tasmania' (London, c.1851, from Tallis's Illustrated Atlas), steel engraving with vignettes of Hobart Town, the V.D.L. Company agent's residence at Circular Head and a thylacine. Fully hand coloured including the Greek-key border and vignettes (originals usually have outline colour only, so the full colour is later, or this is a reproduction). Framed in a modern ornate gilt frame with black mat; frame 60 x 48 cm, map approx 26 x 35 cm.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold + Terapeak: 'Tallis map Van Diemen's Island Tasmania' and 'Tallis Tasmania map framed' (last 12 months, check size and whether described original). Also Leski Auctions realized prices and LiveAuctioneers/Invaluable for 'Tallis Van Diemen's Island or Tasmania'; Gowans/Leski for Tasmanian map prints; check for facsimile/reproduction listings of the same map.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 65.0,
@@ -5465,6 +5512,33 @@
      "url": "https://www.ebay.com.au/itm/168078857751",
      "same_item": "yes",
      "note": "Framed Tallis map of Van Diemen's Land, 36 x 28 cm, c1851 steel engraving. Smaller than this lot; database record only, listing page not opened by me. Closest recent resale comp (same map, framed). Currency assumed AUD, rate 1.0.",
+     "old": false
+    },
+    {
+     "aud_price": 213.0,
+     "date": "2017-04-26",
+     "venue": "Old World Auctions",
+     "url": "https://www.oldworldauctions.com/catalog/lot/162/740",
+     "same_item": "yes",
+     "note": "original, outline colour with later colour to decorative elements; USD x1.52; over 3 yrs old",
+     "old": true
+    },
+    {
+     "aud_price": 67.59,
+     "date": "2026-01-25",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/168078857751",
+     "same_item": "close",
+     "note": "framed 'antique style print' reproduction of this map",
+     "old": false
+    },
+    {
+     "aud_price": 56.79,
+     "date": "2025-02-13",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156317737373",
+     "same_item": "close",
+     "note": "Tallis Tasmania wall map, reproduction",
      "old": false
     }
    ],
@@ -5477,10 +5551,38 @@
      "same_item": "close",
      "note": "Four Tallis maps incl. 'Van Diemen's Island or Tasmania' sold together (hammer). Over 10 years old and a group, so per-map value well below $225. Database record, page not opened.",
      "old": true
+    },
+    {
+     "aud_price": 167.0,
+     "date": "2005-03-02",
+     "venue": "Old World Auctions",
+     "url": "https://www.oldworldauctions.com/catalog/lot/110/691",
+     "same_item": "yes",
+     "note": "original outline colour; old",
+     "old": true
+    },
+    {
+     "aud_price": 228.0,
+     "date": "2016-11-16",
+     "venue": "Old World Auctions",
+     "url": "https://www.oldworldauctions.com/catalog/lot/160/783",
+     "same_item": "close",
+     "note": "includes this map + 3 others",
+     "old": true
     }
    ],
    "unsold": [],
-   "asking": [],
+   "asking": [
+    {
+     "aud_price": 570.0,
+     "date": "2026",
+     "venue": "Classical Images (dealer)",
+     "url": "https://www.classicalimages.com/collections/sold/products/copy-of-1851-john-tallis-antique-map-of-tasmania-or-van-diemens-land-australia",
+     "same_item": "yes",
+     "note": "original, dealer price",
+     "old": false
+    }
+   ],
    "paid": [
     {
      "aud_price": 45.0,
@@ -5510,13 +5612,13 @@
      "old": false
     }
    ],
-   "resale": 65.0,
-   "net_resale": 55.25,
+   "resale": 66.295,
+   "net_resale": 56.35075,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $65 does not clear the current bid $0",
-   "age_note": "",
-   "trend": "",
+   "why": "max hammer $0 from a median SOLD of $66 does not clear the current bid $0",
+   "age_note": "1 of 4 prices are more than 3 years old",
+   "trend": "trend falling: last 3 years median $65 against $213 before (-69%)",
    "priority": false
   },
   {
@@ -5529,11 +5631,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:53:40 PM ADST",
-   "identification": "Pro Hart (Kevin Charles Hart) small hand-coloured line etching from the Lytlewode Press Waltzing Matilda series (swagman and jumbuck at a billabong, plate signed PRO HART, 127 x 147 mm, edition 100). Certificate from Robert Littlewood reads Series 1 No. 30 'His Ghost May Be Heard', unsigned publisher's proof, so it may belong to a different print. Pencil mark in margin is faint, not a clear signature. Framed, clean.",
+   "identification": "Pro Hart, hand coloured line etching from the Littlewode Press 'Waltzing Matilda' series (Series 1), swagman by a gum tree watching a jumbuck at the billabong, 12.7 x 14.7 cm plate, framed. Comes with a Certificate of Authenticity from publisher Robert C. Littlewode (15 Dec 2011) stating it is an UNSIGNED Publisher's Proof from an edition of 100. The plate bears 'Pro Hart' in the plate (not a pencil signature).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings: 'Pro Hart etching Waltzing Matilda', 'Pro Hart hand coloured etching Lytlewode', 'Pro Hart swagman jumbuck etching'. Invaluable and LiveAuctioneers results: 'Pro Hart Waltzing Matilda etching Littlewood' and 'Pro Hart etching His Ghost May Be Heard'. Also check Leonard Joel, Mossgreen, Davidson, Lawsons results for the same series.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 180.0,
@@ -5542,6 +5644,15 @@
      "url": "https://www.invaluable.com/auction-lot/hart-pro-1928-2006-waltzing-matilda-1977-82-etchi-1003-c-233c5a1851",
      "same_item": "close",
      "note": "Database record (page not opened, no web access this run); small Pro Hart hand-coloured etching, hammer, premium not included. Database description text is truncated and templated, so exact image is unconfirmed. URL title says Waltzing Matilda 1977-82 etching, so likely the same series.",
+     "old": false
+    },
+    {
+     "aud_price": 29.37,
+     "date": "2025-08-19",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/396839656669",
+     "same_item": "yes",
+     "note": "Pro Hart original etching Waltzing Matilda series, unsigned",
      "old": false
     }
    ],
@@ -5577,11 +5688,11 @@
      "old": false
     }
    ],
-   "resale": 180.0,
-   "net_resale": 153.0,
+   "resale": 104.685,
+   "net_resale": 88.98225,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $180 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $105 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5596,11 +5707,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:54:20 PM ADST",
-   "identification": "Group of three framed pen and watercolour Tasmanian house studies (Egmont Cottage Westbury, Entally House Hadspen, Perth), signed Cheyne Purdue, a minor Tasmanian topographic artist. Small reproduction-style tinted drawings in matching timber frames; likely multiples or prints with hand colouring, not unique works.",
+   "identification": "Three Cheyne Purdue pen and watercolour studies of Tasmanian colonial houses (white two-storey farmhouse with verandah; hipped-roof cottage among autumn trees; Georgian house with dormers and picket fence), each 18 x 25 cm on tan ground, matching timber frames with cream mats, each titled and signed in pencil below.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'Cheyne Purdue' and 'Cheyne Purdue watercolour' (sold filter, 90 days+Terapeak); also 'Purdue Tasmania print Entally'. Check Gowans, Mossgreen, Leonard Joel, Theodore Bruce and LiveAuctioneers/Invaluable for 'Cheyne Purdue' results; Design & Art Australia Online for artist bio.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5620,7 +5731,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5758,11 +5869,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:57:00 PM ADST",
-   "identification": "Small framed oil on board, 'Mt Roland' Tasmanian landscape, H-11 W-16 cm, signed lower left 'M. Hawkins' (visible in photo). Attributed to Mabel Hawkins, a minor Tasmanian amateur-style landscape painter. Cream and gilt frame, good condition in photo.",
+   "identification": "Mabel Hawkins, small oil on board, Mt Roland (Tasmania) across green farmland, 11 x 16 cm, cream and gilt frame. Amateur/regional hand, decorative. (Lots 845 and 847 are a near-identical pair of the same view.)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold/completed: 'Hawkins Mt Roland oil'; 'Mabel Hawkins painting Tasmania'. Also Invaluable/LiveAuctioneers/Gowans/Leonard Joel/Bonhams results for 'Mabel Hawkins' and 'M. Hawkins Mt Roland'; Design & Art Australia Online (DAAO) entry for Mabel Hawkins; Tasmanian dealers asking prices for small Mt Roland oils.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5782,7 +5893,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5797,11 +5908,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:57:40 PM ADST",
-   "identification": "Small oil on board/canvas of Mt Roland, Tasmania, by Mabel (M.) Hawkins, signed lower right 'M. Hawkins' (visible in photo), 11 x 16 cm, in cream and gold frame. Minor Tasmanian amateur-style landscape; no other Mabel Hawkins records in databases.",
+   "identification": "Mabel Hawkins, small oil (canvas board), Mt Roland (Tasmania) across green farmland, 11 x 16 cm, cream and gilt frame. Amateur/regional hand, decorative. (Lots 845 and 847 are a near-identical pair of the same view.)",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'Mabel Hawkins oil painting', 'M Hawkins Mt Roland oil', 'Mt Roland oil painting small framed Tasmania'; Terapeak same. Also Invaluable/LiveAuctioneers and Gowans/Tullochs/Mossgreen archive searches for 'Mabel Hawkins' and 'Hawkins Mt Roland'; Trove/Design & Art Australia Online for the artist.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5839,7 +5950,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5854,11 +5965,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:58:20 PM ADST",
-   "identification": "Still life of white blossom (Bursaria) in cut glass vase, oil on board in gilt and white slip frame, catalogued as Nell Frankcombe (Tasmanian). No signature visible in photo; attribution rests on catalogue. Frame scuffed, paint sound.",
+   "identification": "Nell Frankcombe (1906-2001, Tasmanian), oil on board, white Tasmanian Christmas bush (Prostanthera/Bursaria-type white flowers) in a cut-glass bowl on a dark ledge, brown ground, 24 x 29 cm, in a gilt frame with linen slip. Original, typical of her small flower pieces. Signature not legible in the single photo.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Chrome: eBay AU sold 'Nell Frankcombe' and 'Nell Frankcombe oil'; Terapeak same; Gowans/Leonard Joel/Mossgreen/Theodore Bruce/Invaluable and LiveAuctioneers search 'Nell Frankcombe' for resale results; trove/Design & Art Australia for artist bio; check whether unsigned or signed examples sell at auction.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -5899,13 +6010,22 @@
      "same_item": "close",
      "note": "Berries, oil on board, signed lower left. Database hit only (comps.py), no web page opened. AUD, no conversion.",
      "old": false
+    },
+    {
+     "aud_price": 1104.0,
+     "date": "2022-04",
+     "venue": "Gowans, Hobart (not a resale venue per Andy's rules, shown as market ceiling)",
+     "url": "https://www.aasd.com.au/artist/14758-nell-frankcombe/",
+     "same_item": "category guide",
+     "note": "'Alpine Flora'; AASD: 33 offered since 2018, 30 sold",
+     "old": true
     }
    ],
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -5920,11 +6040,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:58:40 PM ADST",
-   "identification": "Unsigned dusk bush river landscape, oil on canvas or board, portrait, gilt frame with grey slip, catalogued 'Ernest Christmas attributed, Evening on the Yarra River', 35 x 25 cm. No signature visible in the single photo. Same title and size as Armitage lot 793 in sale 28975 (Nov 2026), so possibly the same maker or a decorative-circle sibling.",
+   "identification": "Australian school river landscape at sunset (tall gums, still water, yellow sky), oil, 35 x 25 cm, gilt frame with linen slip. Catalogued as 'attributed to' Ernest Christmas (1863-1918); no signature visible in the single photo. Style is generic late-19th/early-20th C bush river scene; attribution unsupported by anything visible.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Search: Invaluable and LiveAuctioneers sold results for 'Ernest William Christmas oil' (and 'E.W. Christmas' 'attributed to'), last 10 years, Australian houses (Leski, Mossgreen, Davidson, Gibson's, Lawsons, Theodore Bruce, Leonard Joel); eBay AU sold listings 'Christmas oil painting river landscape' and 'attributed Ernest Christmas'; Trove and Design & Art Australia Online for E.W. Christmas style and signature; Terapeak 'Ernest Christmas painting'. Separate genuine signed works from 'attributed' and decorative unsigned dusk river scenes.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 460.0,
@@ -6005,11 +6125,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 3:59:00 PM ADST",
-   "identification": "Watercolour of a steep river gorge with a road cut into the cliff, snowy peaks behind, signed lower right 'W. Menzies Gibb' (William Menzies Gibb, NZ/Australian, 1859-1931). Likely a New Zealand gorge scene (Buller or Otira type). Framed, mounted, under glass.",
+   "identification": "William Menzies Gibb (1859-1931, Scottish-born New Zealand painter, son of John Gibb), watercolour, Otira Gorge on the West Coast Road (NZ): river below steep bush-clad walls with snow peak behind, a red Cobb & Co coach on the cut road at the bluff, 28 x 21 cm, signed lower right 'W. Menzies Gibb'. Framed with cream mat in a dark/gilt frame. Armitage catalogues it as 'W. Menzies-Gibb, Gorge Scene' without the NZ attribution. Genuine-looking period watercolour (washes, scratching-out highlights).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "Run on Andy's PC: (1) eBay AU and eBay.com sold listings (and Terapeak) for 'Menzies Gibb watercolour', 'William Menzies Gibb', 'Menzies Gibb Otira', 'Menzies Gibb Buller Gorge'. (2) Australian and NZ auction results: Leonard Joel, Mossgreen, Davidson Auctions, Theodore Bruce, Webb's, Mowbray, Art+Object, International Art Centre (NZ) for 'Menzies Gibb'. (3) LiveAuctioneers and Invaluable results for 'Menzies Gibb watercolour'. (4) Also check Design & Art Australia Online and Artprice for his auction range, and compare signed gorge/coach road scenes of similar size (about 30x25 cm).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -6047,7 +6167,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -6496,12 +6616,67 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 4:06:40 PM ADST",
-   "identification": "Four modern children's books: Beatrix Potter Classic Tales omnibus (Warne), Carroll Through the Looking-Glass (modern jacketed reprint), The Annotated Alice (Gardner, Tenniel; Potter-style jacket, could be 1960 first, later Potter printing or Bramhall House reprint), Milne Winnie the Pooh Complete Collection (modern omnibus). Only the Annotated Alice has any chance of real value, and only as a 1960 first printing.",
+   "identification": "4 modern illustrated children's hardbacks: The Classic Tales of Beatrix Potter (Warne omnibus); Through the Looking-Glass and What Alice Found There (Lewis Carroll, modern illustrated edition, Humpty Dumpty cover); The Annotated Alice (Carroll, Tenniel illus., Martin Gardner intro and notes, Bramhall House-style reprint in jacket); Winnie-the-Pooh: The Complete Collection of Stories and Poems (Milne/Shepard, map cover). All late reprints, none early.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and eBay.com sold: 'Annotated Alice Gardner 1960 Clarkson Potter first edition' and 'Annotated Alice 1960 dust jacket'; compare 1960 first (price in AUD, jacket state) against later Potter printings and Bramhall House (usually under AUD 40). Also AbeBooks / Biblio sold-comparable listings for 'Annotated Alice 1960 first edition Clarkson N. Potter' (first edition has no later-printing statement; Potter 1960 first is typically AUD 100 to 300 if jacketed, to be verified). Rare Book Hub and Invaluable for 1960 firsts. The other three titles are common modern reprints; no search needed.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 14.96,
+     "date": "2026-02-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/127608487740",
+     "same_item": "yes",
+     "note": "Annotated Alice, Gardner, 1970 reprint",
+     "old": false
+    },
+    {
+     "aud_price": 16.14,
+     "date": "2026-09-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/394119676398",
+     "same_item": "close",
+     "note": "Annotated Alice",
+     "old": false
+    },
+    {
+     "aud_price": 35.78,
+     "date": "2026-02-06",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116972998936",
+     "same_item": "yes",
+     "note": "Winnie the Pooh Complete Collection HC",
+     "old": false
+    },
+    {
+     "aud_price": 32.01,
+     "date": "2026-08-18",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/117358147240",
+     "same_item": "yes",
+     "note": "Winnie the Pooh Complete Collection HC",
+     "old": false
+    },
+    {
+     "aud_price": 0.97,
+     "date": "2024-02-07",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116054976181",
+     "same_item": "close",
+     "note": "Complete Tales of Beatrix Potter, Warne 1989",
+     "old": false
+    },
+    {
+     "aud_price": 55.12,
+     "date": "2026-11-17",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/357337262835",
+     "same_item": "close",
+     "note": "Through the Looking-Glass, edition unknown",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -6516,11 +6691,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 24.075,
+   "net_resale": 20.463749999999997,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $24 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": true
@@ -6535,11 +6710,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 4:08:20 PM ADST",
-   "identification": "Mixed Tasmanian ephemera box: Westwood Estate subdivision sale booklet, Tasmanian Football Record (Heathorns), greyhound programme, railway and emergency regulation booklets, handwritten deeds and mortgage (one dated 1841), 1917 Ringarooma covers, stamps, photo prints, two Clyde dog spikes, lead 'Australia' tag. Only the early manuscript deeds and local items have real interest.",
+   "identification": "Box of Tasmanian paper ephemera: handwritten 19th-century indenture/conveyance deeds (dated January, year not legible in photo); 'Directions for the erection of domestic surface shelters' (WWII ARP booklet); a Tasmanian Football Record (1960s, Heathorns car ad on cover); greyhound racing program; 'Subdivisional sale, Westwood Estate' auction brochure; two small early photos (landscape, portrait); 1940s envelope postmarked Tasmania addressed Woodlands; loose stamps; a cast 'Clyde dog spikes' sample with tag 'used at Tasmania mining sites on light rail lines'; a zinc/lead embossed tag reading '...BUS TRAM...' (Tasmanian transport plate?); a student ticket.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'Tasmania indenture 1841', 'Tasmanian deed 1840s manuscript', 'Tasmania mortgage document 1840s'; 'Westwood Estate subdivision Tasmania'; 'Clyde railway dog spike Tasmania'; Noble Numismatics archive 'Tasmania deed'; Leski ephemera lots; 'Ringarooma 1917 cover'.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 320.0,
@@ -6549,6 +6724,15 @@
      "same_item": "close",
      "note": "Tasmania title deeds on vellum 1868 (2), 1882, 1911 (2), duty stamps and seal, 6 items. Hammer, premium excluded. Later and on vellum; this lot's 1841 deeds are earlier but paper. Database record only.",
      "old": true
+    },
+    {
+     "aud_price": 14.0,
+     "date": "2026-06-07",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/117224500356",
+     "same_item": "close",
+     "note": "single 1973 Tasmanian Football Record",
+     "old": false
     }
    ],
    "sold_old": [],
@@ -6610,13 +6794,13 @@
      "old": false
     }
    ],
-   "resale": 320.0,
-   "net_resale": 272.0,
-   "max_hammer": 55,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $320; less 15% fees = $272; less $200 profit, / 1.22 premium = max hammer $55. 1 of 1 prices are more than 3 years old. no sales in the last 3 years",
-   "age_note": "1 of 1 prices are more than 3 years old",
-   "trend": "no sales in the last 3 years",
+   "resale": 167.0,
+   "net_resale": 141.95,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $167 does not clear the current bid $0",
+   "age_note": "1 of 2 prices are more than 3 years old",
+   "trend": "trend falling: last 3 years median $14 against $320 before (-96%)",
    "priority": false
   },
   {
@@ -7330,11 +7514,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 4:17:00 PM ADST",
-   "identification": "E. Graeme Robertson, Early Buildings of Southern Tasmania, Vols I and II, Georgian House, 1970 first edition, in worn dust jackets. Standard Tasmanian architecture reference; the first edition is the edition in the lot (later printings are not known to have been issued, so none priced).",
+   "identification": "E. Graeme Robertson, Early Buildings of Southern Tasmania, Volumes I and II, Georgian House, Melbourne (1970 first edition). Both hardbacks in dust jackets; vol I jacket has edge wear and a small tear top right; title page and a plate spread shown, text block looks clean.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold listings (Terapeak): 'Early Buildings of Southern Tasmania Robertson 2 volumes'; also 'Robertson Early Buildings Southern Tasmania first edition 1970'. Check AbeBooks, Book Hunter/Bookfinder, Leski and Australian Book Auctions results, and Mossgreen/Lawsons/Davidson Auctions for 2 vol sets with jackets. Record sold price, date and jacket condition.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 480.0,
@@ -7362,6 +7546,60 @@
      "same_item": "close",
      "note": "A shelf of Australian-interest books including Early Houses of Northern Tasmania and Early Buildings of Southern Tasmania, so not a clean single-set price; older sale. Database hit, hammer price, buyer's premium not included; no web page opened. AUD, no conversion.",
      "old": true
+    },
+    {
+     "aud_price": 238.66,
+     "date": "2026-11-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/317712581179",
+     "same_item": "yes",
+     "note": "2 vols, HC, 1970, free postage",
+     "old": false
+    },
+    {
+     "aud_price": 134.85,
+     "date": "2026-04-23",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/227250647303",
+     "same_item": "yes",
+     "note": "2 vols HB 1970, +$21.53 post",
+     "old": false
+    },
+    {
+     "aud_price": 121.32,
+     "date": "2025-08-22",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/286495296764",
+     "same_item": "yes",
+     "note": "2 vol set 1st ed, +$18.34 post",
+     "old": false
+    },
+    {
+     "aud_price": 118.03,
+     "date": "2025-07-30",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/356491342417",
+     "same_item": "yes",
+     "note": "vols 1/2 1970, +$19.67 post",
+     "old": false
+    },
+    {
+     "aud_price": 279.09,
+     "date": "2025-01-02",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/167162110645",
+     "same_item": "yes",
+     "note": "two volume set, free postage",
+     "old": false
+    },
+    {
+     "aud_price": 53.2,
+     "date": "2024-11-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/286138112159",
+     "same_item": "close",
+     "note": "vol II only",
+     "old": false
     }
    ],
    "sold_old": [],
@@ -7414,13 +7652,13 @@
      "old": false
     }
    ],
-   "resale": 320.0,
-   "net_resale": 272.0,
-   "max_hammer": 55,
-   "status": "PASS",
-   "why": "3 same-item SOLD price(s), median $320; less 15% fees = $272; less $200 profit, / 1.22 premium = max hammer $55. 1 of 3 prices are more than 3 years old. trend steady: last 3 years median $320 against $320 before (+0%)",
-   "age_note": "1 of 3 prices are more than 3 years old",
-   "trend": "trend steady: last 3 years median $320 against $320 before (+0%)",
+   "resale": 160.0,
+   "net_resale": 136.0,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $160 does not clear the current bid $0",
+   "age_note": "1 of 9 prices are more than 3 years old",
+   "trend": "trend falling: last 3 years median $147 against $320 before (-54%)",
    "priority": true
   },
   {
@@ -7855,11 +8093,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 4:20:20 PM ADST",
-   "identification": "E. Graeme Robertson and Edith N. Craig, Early Houses of Northern Tasmania, 2 vols, Georgian House, Melbourne 1964, limited edition no. 615 of 1,000 signed by both authors, in dust jackets. Later trade printings (c.1966) exist and are unsigned; this lot is the signed limited first edition.",
+   "identification": "E. Graeme Robertson & Edith N. Craig, Early Houses of Northern Tasmania, Vols I and II (Georgian House, Melbourne, 1964). Limited edition, limitation page numbered 615 of 1,000, signed by both authors. Both in dust jackets, jackets with light edge wear; old price sticker on vol I jacket.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold/Terapeak: 'Early Houses of Northern Tasmania Robertson Craig signed limited'. AbeBooks, Rare Book Hub and Trove-linked dealers (Tasmanian booksellers, Hobart/Launceston) for 'Early Houses of Northern Tasmania 1964 limited 1000 signed numbered' to find asking prices for numbered signed sets. Also Mossgreen, Leski, Davidson Auctions, Lawsons, Gowans and Invaluable/LiveAuctioneers sold results for the same title.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 320.0,
@@ -7869,6 +8107,78 @@
      "same_item": "close",
      "note": "Database hit, not opened. A shelf of Australian interest books including Early Houses of Northern Tasmania [1966] plus other titles, so the price covers several books and a later printing, not a signed limited set. Likely understates this lot. AUD, no conversion.",
      "old": true
+    },
+    {
+     "aud_price": 426.13,
+     "date": "2026-04-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/227248173001",
+     "same_item": "yes",
+     "note": "signed limited, 2 vols with DJs, +$21.53 post",
+     "old": false
+    },
+    {
+     "aud_price": 431.21,
+     "date": "2026-01-12",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/317712583095",
+     "same_item": "yes",
+     "note": "2 vols, free post",
+     "old": false
+    },
+    {
+     "aud_price": 388.02,
+     "date": "2025-04-29",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/355903267840",
+     "same_item": "yes",
+     "note": "vols 1/2, vol 1 signed, +$15 post",
+     "old": false
+    },
+    {
+     "aud_price": 173.15,
+     "date": "2025-04-21",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/256870038588",
+     "same_item": "yes",
+     "note": "vols 1 & 2, free post",
+     "old": false
+    },
+    {
+     "aud_price": 188.58,
+     "date": "2024-12-24",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/276663447713",
+     "same_item": "close",
+     "note": "title doesn't say 2 vols; VGC",
+     "old": false
+    },
+    {
+     "aud_price": 221.95,
+     "date": "2024-02-28",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/186317259831",
+     "same_item": "yes",
+     "note": "signed vols I & II, 1 bid, +$20.91 post",
+     "old": false
+    },
+    {
+     "aud_price": 130.52,
+     "date": "2026-07-04",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/406916536999",
+     "same_item": "close",
+     "note": "vol 1 only",
+     "old": false
+    },
+    {
+     "aud_price": 100.93,
+     "date": "2024-07-06",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156166794509",
+     "same_item": "close",
+     "note": "vol 2 only",
+     "old": false
     }
    ],
    "sold_old": [],
@@ -7903,13 +8213,13 @@
      "old": false
     }
    ],
-   "resale": 320.0,
-   "net_resale": 272.0,
-   "max_hammer": 55,
-   "status": "PASS",
-   "why": "1 same-item SOLD price(s), median $320; less 15% fees = $272; less $200 profit, / 1.22 premium = max hammer $55. 1 of 1 prices are more than 3 years old. no sales in the last 3 years",
-   "age_note": "1 of 1 prices are more than 3 years old",
-   "trend": "no sales in the last 3 years",
+   "resale": 221.95,
+   "net_resale": 188.6575,
+   "max_hammer": 0,
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $222 does not clear the current bid $0",
+   "age_note": "1 of 9 prices are more than 3 years old",
+   "trend": "trend falling: last 3 years median $205 against $320 before (-36%)",
    "priority": true
   },
   {
@@ -15744,11 +16054,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 5:14:20 PM ADST",
-   "identification": "Two framed Bea Maddock 'Red Text' prints (Genesis text, etched zinc, red ink on handmade NZ flax paper, waxed, Ritchies Mill Launceston 1984), numbered XXV and XXVI of a 40-work series, with typed artist statement. Plus a pen drawing of a man with umbrella and bag, a small circular etching in brick-pattern frame (signed in pencil, dated 79?), and a pen and wash tram scene signed Colin Crichton (uncertain).",
+   "identification": "5 framed works: (1-2) TWO Bea Maddock 'Red Text' sheets, plates XXV and XXVI, from her 40-part 'Red Text' (Genesis) series: hand-scripted text printed from etched zinc plates in hand-ground red ink on handmade NZ flax paper coated with wax, printed at Ritchies Mill studio, Launceston, 1984 (typed artist's statement on the back of one frame confirms this), in matching timber frames; (3) pen-and-ink drawing of a man from behind with umbrella and bag, black frame; (4) small abstract print of dark cell-like shapes in a brick-pattern painted frame; (5) small pen and wash sketch of a city building/church, timber frame, signed lower right (illegible).",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'Bea Maddock print', 'Bea Maddock Red Text'. Australian Art Sales Digest / Invaluable / LiveAuctioneers / Leonard Joel / Deutscher and Hackett / Mossgreen / Tasmanian houses (Gowans, Mures): 'Bea Maddock Red Text 1984 etching', 'Bea Maddock Genesis'. Also search 'Colin Crichton tram' and 'Maddock 79 etching circular'. Check Bea Maddock results for numbered Red Text works specifically (one of 40).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [
     {
      "aud_price": 131.0,
@@ -15767,10 +16077,29 @@
      "same_item": "close",
      "note": "From local database (not page opened). Tom Samek artist's proof 'Musical Chairs', small framed etching 14x14 cm. Only a possible match: the lot's small circular etching shows stylised chairs and tables, signature illegible, so the artist is unconfirmed. Relevant only to that one small piece.",
      "old": false
+    },
+    {
+     "aud_price": 550.0,
+     "date": "2024-08-06",
+     "venue": "Colville Auctions, Hobart",
+     "url": "https://www.invaluable.com/auction-lot/bea-maddock-1934-2016-australia-red-text-xxiii-70-c-7c6440ebfb",
+     "same_item": "yes",
+     "note": "'Red Text XXIII', same series; price via appraisily (BP basis not stated)",
+     "old": false
     }
    ],
    "sold_old": [],
-   "unsold": [],
+   "unsold": [
+    {
+     "aud_price": 0.0,
+     "date": "2025-02-11",
+     "venue": "Colville Auctions, Hobart",
+     "url": "https://www.invaluable.com/auction-lot/bea-maddock-1934-2016-australia-red-text-xxviii-62-c-2d2493eb1d",
+     "same_item": "yes",
+     "note": "'Red Text XXVIII', no price in appraisily: probably passed in",
+     "old": false
+    }
+   ],
    "asking": [],
    "paid": [
     {
@@ -15792,11 +16121,11 @@
      "old": false
     }
    ],
-   "resale": 124.0,
-   "net_resale": 105.39999999999999,
+   "resale": 131.0,
+   "net_resale": 111.35,
    "max_hammer": 0,
    "status": "FAIL",
-   "why": "max hammer $0 from a median SOLD of $124 does not clear the current bid $0",
+   "why": "max hammer $0 from a median SOLD of $131 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -15914,11 +16243,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 5:15:00 PM ADST",
-   "identification": "Six framed modern photographic/botanical works (rose petals, roses, shells). One signed in pencil 'Bashir Baraki 1/1, Shells, 1996' (Tasmanian photographer); others unsigned or with printed label. Decorative, no database comps for the artist.",
+   "identification": "Tub of modern artworks: small framed floral studies (pink hibiscus, white lily, rose in red frame), a mosaic of pressed petals on black, a still life of shells in a red frame (print), and a pale floral painting. Decorative.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'Bashir Baraki'; Google/Trove: 'Bashir Baraki photographer Tasmania'; Invaluable/LiveAuctioneers/Gowans/Leski/Mossgreen results: 'Baraki photograph'; Artprice/AskART 'Bashir Baraki'; eBay sold 'framed rose petal photograph art' for generic decorative guide.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -15927,8 +16256,8 @@
    "resale": 0,
    "net_resale": 0,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "DROP",
+   "why": "no sold evidence and a weak photo score",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -16177,11 +16506,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 5:19:20 PM ADST",
-   "identification": "Two small framed abstract mixed media/acrylic works, signed in pencil on the mount, reading like 'Ryllton' (Ryllton Viney, Tasmanian). Small image sizes, black frames, white mounts.",
+   "identification": "2 Ryllton Viney acrylic works on paper/board: a dark textured abstract (black/umber) and a red-orange and black abstract, framed in black with white mats, pencil-signed.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold: 'Ryllton Viney'; 'Ryllton Viney signed framed'; Terapeak 'Ryllton Viney'; Invaluable/LiveAuctioneers/Gowans/Mossgreen 'Ryllton Viney' results; Design & Art Australia online (DAAO) 'Ryllton Viney' for artist standing; also Tasmanian galleries asking prices.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -16264,7 +16593,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false

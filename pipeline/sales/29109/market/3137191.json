@@ -1,7 +1,7 @@
 {
  "cdid": 3137191,
  "lot": 879,
- "identification": "Mixed Tasmanian ephemera box: Westwood Estate subdivision sale booklet, Tasmanian Football Record (Heathorns), greyhound programme, railway and emergency regulation booklets, handwritten deeds and mortgage (one dated 1841), 1917 Ringarooma covers, stamps, photo prints, two Clyde dog spikes, lead 'Australia' tag. Only the early manuscript deeds and local items have real interest.",
+ "identification": "Box of Tasmanian paper ephemera: handwritten 19th-century indenture/conveyance deeds (dated January, year not legible in photo); 'Directions for the erection of domestic surface shelters' (WWII ARP booklet); a Tasmanian Football Record (1960s, Heathorns car ad on cover); greyhound racing program; 'Subdivisional sale, Westwood Estate' auction brochure; two small early photos (landscape, portrait); 1940s envelope postmarked Tasmania addressed Woodlands; loose stamps; a cast 'Clyde dog spikes' sample with tag 'used at Tasmania mining sites on light rail lines'; a zinc/lead embossed tag reading '...BUS TRAM...' (Tasmanian transport plate?); a student ticket.",
  "entries": [
   {
    "kind": "SOLD",
@@ -101,11 +101,48 @@
    "url": "https://www.noble.com.au/auctions/lot/?id=259195",
    "same_item": "category guide",
    "note": "Tasmania mining scrip, Ringarooma. Not the same item and over 10 years old; context only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$14.00",
+   "currency": "AUD",
+   "aud_price": 14.0,
+   "date": "2026-06-07",
+   "venue": "eBay AU auction (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117224500356",
+   "same_item": "close",
+   "note": "single 1973 Tasmanian Football Record",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$55.51",
+   "currency": "AUD",
+   "aud_price": 55.51,
+   "date": "2026-03-11",
+   "venue": "eBay AU auction (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/127717228725",
+   "same_item": "category guide",
+   "note": "8 records 1968-69",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$46.85",
+   "currency": "AUD",
+   "aud_price": 46.85,
+   "date": "2024-09-30",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/166996122355",
+   "same_item": "category guide",
+   "note": "11 records 1980-81",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: 'tasmania deed', 'tasmanian ephemera', 'railway dog spike', 'Westwood subdivision' (no hits), 'football record', 'manuscript deed', 'Ringarooma', 'railway spike'; work comps.py: 'tasmania ephemera'. Local Tasmanian ephemera boxes mostly $5 to $190 (paid locally); no direct resale comp for 1840s Tasmanian manuscript deeds.",
- "needs_chrome": true,
+ "searches_tried": "pipeline comps.py: 'tasmania deed', 'tasmanian ephemera', 'railway dog spike', 'Westwood subdivision' (no hits), 'football record', 'manuscript deed', 'Ringarooma', 'railway spike'; work comps.py: 'tasmania ephemera'. Local Tasmanian ephemera boxes mostly $5 to $190 (paid locally); no direct resale comp for 1840s Tasmanian manuscript deeds. | chrome: Terapeak 1",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Tasmania indenture 1841', 'Tasmanian deed 1840s manuscript', 'Tasmania mortgage document 1840s'; 'Westwood Estate subdivision Tasmania'; 'Clyde railway dog spike Tasmania'; Noble Numismatics archive 'Tasmania deed'; Leski ephemera lots; 'Ringarooma 1917 cover'.",
  "rate_note": "All prices already AUD, no conversion.",
- "viewing_check": "Read the 1841 deeds in full: parties, place names, land description, seals, signatures; check Westwood Estate booklet date and any maps; look for pre-1900 covers or notable stamps among the loose items."
+ "viewing_check": "Read the dates and place names on the handwritten deeds; check the BUS/TRAM tag wording.",
+ "chrome_done": true
 }

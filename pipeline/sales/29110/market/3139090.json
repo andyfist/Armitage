@@ -1,7 +1,7 @@
 {
  "cdid": 3139090,
  "lot": 1326,
- "identification": "Framed pastel landscape of a misty bush track with gums at sunrise, signed lower right 'Murray 02' (2002), wide fawn mount, timber frame. Title attributes it to Des Murray (Tasmanian pastellist); the signature reads only 'Murray', so attribution rests on style and the catalogue title. Local Armitage sales show many similar Des Murray pastels, all in the $140-330 range paid locally.",
+ "identification": "Des Murray, 'Early Morning Sunlight': misty bush track through gums at dawn, pastel, 60 x 80 cm framed, timber frame with cream mat, signed lower left 'D. Murray' (or 'G. Murray') with date. Popular decorative bush pastel style.",
  "entries": [
   {
    "kind": "SOLD",
@@ -59,8 +59,9 @@
    "note": "Sale 27195 lot 1070, framed pastel 'Along the Fenceline' by Des Murray 63 x 46 cm. Database hit only."
   }
  ],
- "searches_tried": "pipeline/comps.py 'des murray'; 'murray pastel'; 'murray early morning'; work/comps.py same three. No resale (non-Armitage/Gowans) comps held for Des Murray. Rate: AUD, none needed.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py 'des murray'; 'murray pastel'; 'murray early morning'; work/comps.py same three. No resale (non-Armitage/Gowans) comps held for Des Murray. Rate: AUD, none needed. | chrome: '\"Des Murray\" pastel artist Australian bush landscape sold auction' (no record found)",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Des Murray pastel'; 'Des Murray framed pastel signed'. Also check Des Murray (Tasmanian artist) results on LiveAuctioneers, Invaluable, Lawsons, Leonard Joel, Mossgreen and Gowans for 'Des Murray pastel'; confirm his signature style (Murray with year) and any gallery or retail asking prices.",
- "viewing_check": "Photograph the signature closely and compare with known Des Murray signatures (surname only, year), check the back for a label, artist name, title 'Early Morning' or gallery stamp, and look under glass for foxing, fading or mount burn, and check frame size."
+ "viewing_check": "None.",
+ "chrome_done": true
 }

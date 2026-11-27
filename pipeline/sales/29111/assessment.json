@@ -16,8 +16,8 @@
  "candidates": 180,
  "counts": {
   "PASS": 10,
-  "CHROME": 137,
-  "FAIL": 33,
+  "CHROME": 134,
+  "FAIL": 36,
   "DROP": 0,
   "NOT RESEARCHED": 0
  },
@@ -3874,11 +3874,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 8:18:20 PM ADST",
-   "identification": "Framed French Shell magazine advertisement page ('SHELL chaque goutte compte', skier with Shell Huile Moteur can), probably 1920s-30s; a period magazine page, not a poster. Not verified from outside sources.",
+   "identification": "Framed print of a 1930s French Shell advertisement 'Shell - chaque goutte compte' (stylised mechanic/robot figure), 45 x 38 cm, black frame. Modern reproduction (Shell heritage-style print), not an original poster.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and eBay FR sold/Terapeak: 'Shell publicite 1930 Par 30 de froid', 'Shell chaque goutte compte publicite', 'Shell Huile Moteur publicite ancienne ski'; also 'vintage French Shell advertisement print' and 'Shell Huiles Essences pub 1930s'. Check LiveAuctioneers/Invaluable for 'Shell French advertising' and Delcampe/Etsy sold-comparable magazine-page ads (framed vs unframed).",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -3907,7 +3907,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9107,12 +9107,58 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 9:11:40 PM ADST",
-   "identification": "Large box (looks like 100+ sheets) of Tasmanian Tasmap 1:100000 topographic sheets (Olga, Nive, Sophia, Old River, D'Entrecasteaux, King Island Special, Port Davey, Lisle and others), many yellow 1:25000 sheets (Arthurs Lake etc), HEC Map of Lake Gordon and Lake Pedder 1:50000, Great Lake map, North-West Tasmania, a Saturday newspaper. Used, folded, 1980s-90s era sheets. Photos reviewed.",
+   "identification": "Box of Tasmanian maps: dozens of TASMAP 1:100 000 and 1:25 000 topographic sheets (yellow and blue covers), Hydro-Electric Commission 'Lake Gordon and Lake Pedder' map, Lake St Clair/Cradle area maps, assorted brochures and a Saturday paper.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold listings: 'Tasmap 1:100000 topographic map Tasmania' (sold, last 90 days; note price per sheet and lot sizes); 'Tasmap 1:25000 Tasmania lot'; 'Hydro Electric Commission Tasmania map Lake Pedder Gordon' (sold); 'Great Lake map Tasmania 1:50000'. Also Terapeak for 'Tasmap'. Check Tasmanian Map Centre / Service Tasmania current price of 1:100000 and 1:25000 sheets as ASKING (new retail), noting many sheets are superseded and old editions have little collector value. Pedder pre-flooding maps may attract Lake Pedder enthusiasts.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 37.77,
+     "date": "2026-09-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/227380260220",
+     "same_item": "close",
+     "note": "8 TASMAP 1:100 000 sheets, Central Lakes",
+     "old": false
+    },
+    {
+     "aud_price": 19.01,
+     "date": "2025-03-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/276852825193",
+     "same_item": "close",
+     "note": "9 TASMAP topographic sheets",
+     "old": false
+    },
+    {
+     "aud_price": 12.19,
+     "date": "2026-08-25",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/267671120258",
+     "same_item": "yes",
+     "note": "single 1:100 000 'Pieman'",
+     "old": false
+    },
+    {
+     "aud_price": 26.58,
+     "date": "2026-06-16",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/155564011975",
+     "same_item": "yes",
+     "note": "single 1:25 000 'Richmond' 1986, new old stock",
+     "old": false
+    },
+    {
+     "aud_price": 20.26,
+     "date": "2024-09-15",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/155563950510",
+     "same_item": "yes",
+     "note": "single 1:25 000 'Giblin' 1985",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -9199,11 +9245,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 20.26,
+   "net_resale": 17.221,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $20 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -9830,12 +9876,31 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 9:21:40 PM ADST",
-   "identification": "Quantity of Tasmap wall maps: Central Tasmania 1:150000 Edition 2 (Lands Department Hobart, 1978), North-West Tasmania First Edition 1:200000 with flora/fauna border, plus rolled others. Common government-printed 1970s maps, creased.",
+   "identification": "Quantity of Tasmanian wall/touring maps: 'North-West Tasmania' first edition, 'Central Tasmania' 1:150 000 edition 2, rolled wall maps with photo borders (Tasmania tourist maps), probably 1990s-2000s.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU sold/Terapeak: 'Tasmap wall map', 'Tasmania wall map 1:150000', 'Central Tasmania Tasmap', 'North West Tasmania map flora fauna'. Also Trove/AbeBooks sold-style listings for 'Tasmap Lands Department Hobart 1978'. Check whether flora/fauna bordered North-West map (First Edition 1:200000) has any collector premium versus plain sheets.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 37.77,
+     "date": "2026-09-01",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/227380260220",
+     "same_item": "close",
+     "note": "8 TASMAP 1:100 000 sheets, Central Lakes",
+     "old": false
+    },
+    {
+     "aud_price": 19.01,
+     "date": "2025-03-27",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/276852825193",
+     "same_item": "close",
+     "note": "9 TASMAP topographic sheets",
+     "old": false
+    }
+   ],
    "sold_old": [],
    "unsold": [],
    "asking": [],
@@ -9895,11 +9960,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 28.39,
+   "net_resale": 24.1315,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $28 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -10083,11 +10148,11 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 9:23:00 PM ADST",
-   "identification": "Three framed colour prints from Charles Crombie's 'Rules of Golf' series (Rules XIV, XV, XVI), signed in plate, gilt frames. Photos show later offset-type reproductions likely; original 1905 Perrier chromolithographs are a separate, higher-value item.",
+   "identification": "3 framed comical golfing prints after Charles Crombie's 'The Rules of Golf' (Perrier, 1905) series (Rule XVI etc.), each with pencil-style captions below, oak frames. Likely later reproductions of the Perrier chromolithographs.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay AU and UK sold + Terapeak: 'Crombie Rules of Golf print framed' and 'Charles Crombie golf print Perrier' (check sold, last 12 months, separate originals 1905 from reproductions, note single vs set of 3). Also Invaluable/LiveAuctioneers/Bonhams/Mullock's results for 'Crombie Rules of Golf'. WorthPoint 'Crombie golf rules print'.",
-   "chrome_done": false,
+   "chrome_done": true,
    "sold": [],
    "sold_old": [],
    "unsold": [],
@@ -10107,7 +10172,7 @@
    "net_resale": 0,
    "max_hammer": 0,
    "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "why": "no recent same-item SOLD price in the cloud sources; only Armitage or Gowans results, which show what we might pay, not what it resells for",
    "age_note": "",
    "trend": "",
    "priority": false
@@ -10264,12 +10329,85 @@
    "current_bid": 0.0,
    "bid_count": 0,
    "close": "2/12/2026 9:25:20 PM ADST",
-   "identification": "Mixed box of 1950s-70s Australian football and sport magazines: Footy Fan (1960s, 2/-, Gabelich Collingwood, North Melbourne), Sporting Life (1950s incl Nov 1954 cricket, Carnival Special), The Saint June 1967, Bulldogs History Book, Tigers Yearbook 1976, Sport's Greatest Headlines. Fair condition.",
+   "identification": "Box of Victorian football and sport magazines, mostly 1950s-60s: a stack of Footy Fan magazines (2/- cover price, so 1962-65; covers seen include Richmond, Collingwood, Footscray/North players), Sporting Life magazines (incl. Nov 1954 'Test Tension' and a carnival special), The Saint (St Kilda FC) June 1967, 'The Bulldogs' history book, 'The Tigers Yearbook 1976', 'Sport's Greatest Headlines', a Hawks 'Greatest' newspaper liftout and trotting paper. Covers worn and creased.",
    "researched": true,
-   "needs_chrome": true,
+   "needs_chrome": false,
    "chrome_hint": "eBay.com.au sold: 'Footy Fan magazine 1960s' (sold, Australia), 'Sporting Life magazine 1954', 'The Saint St Kilda 1967', 'Tigers Yearbook 1976', 'VFL football magazines lot'; Terapeak 12 months; Leski Auctions and Lawsons/Mossgreen sports memorabilia realised prices for Footy Fan runs; Gabelich Footy Fan issue singles.",
-   "chrome_done": false,
-   "sold": [],
+   "chrome_done": true,
+   "sold": [
+    {
+     "aud_price": 20.2,
+     "date": "2024-02-08",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156038119549",
+     "same_item": "yes",
+     "note": "Footy Fan 1964 GF preview",
+     "old": false
+    },
+    {
+     "aud_price": 26.79,
+     "date": "2024-02-08",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156038120258",
+     "same_item": "yes",
+     "note": "Footy Fan 1964 Collingwood",
+     "old": false
+    },
+    {
+     "aud_price": 27.54,
+     "date": "2024-02-12",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156045387281",
+     "same_item": "yes",
+     "note": "Footy Fan 1964",
+     "old": false
+    },
+    {
+     "aud_price": 17.71,
+     "date": "2024-02-12",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/156045387540",
+     "same_item": "yes",
+     "note": "Footy Fan 1964 Polly Farmer",
+     "old": false
+    },
+    {
+     "aud_price": 15.37,
+     "date": "2024-07-16",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126567684287",
+     "same_item": "yes",
+     "note": "Footy Fan Sept 1964",
+     "old": false
+    },
+    {
+     "aud_price": 12.22,
+     "date": "2024-10-13",
+     "venue": "eBay AU (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/116354545827",
+     "same_item": "yes",
+     "note": "Footy Fan 1963",
+     "old": false
+    },
+    {
+     "aud_price": 4.9,
+     "date": "2024-11-26",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126784519734",
+     "same_item": "yes",
+     "note": "Sporting Life April 1956",
+     "old": false
+    },
+    {
+     "aud_price": 3.06,
+     "date": "2024-01-03",
+     "venue": "eBay AU auction (Terapeak)",
+     "url": "https://www.ebay.com.au/itm/126254441163",
+     "same_item": "yes",
+     "note": "Sporting Life Jan 1950",
+     "old": false
+    }
+   ],
    "sold_old": [
     {
      "aud_price": 75.0,
@@ -10312,11 +10450,11 @@
      "old": false
     }
    ],
-   "resale": 0,
-   "net_resale": 0,
+   "resale": 16.54,
+   "net_resale": 14.059,
    "max_hammer": 0,
-   "status": "CHROME",
-   "why": "no recent same-item SOLD price in the cloud sources; researcher asked for eBay/signed-in sites",
+   "status": "FAIL",
+   "why": "max hammer $0 from a median SOLD of $17 does not clear the current bid $0",
    "age_note": "",
    "trend": "",
    "priority": false

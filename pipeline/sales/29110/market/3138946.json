@@ -1,7 +1,7 @@
 {
  "cdid": 3138946,
  "lot": 1182,
- "identification": "Engraving of a ruined triumphal arch, caption reads roughly 'Arc de Tite/Titus' (18th c French view of Rome, Barbault-type series, not Piranesi), heavy water staining and foxing, in a wide birdseye Huon pine (or birdseye maple) frame with gilt slip. Frame is the main value; print is minor.",
+ "identification": "Wide colonial birdseye Huon pine picture frame (well figured, flat ogee profile with gilt slip), outer approx 60 x 50 cm, containing an early 19th-century engraving of gothic abbey ruins (catalogued c.1800) badly water-stained across the upper sheet. The value is in the frame, not the print.",
  "entries": [
   {
    "kind": "SOLD",
@@ -79,11 +79,36 @@
    "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3113623&chid=28974&category=ALL&style=group",
    "same_item": "category guide",
    "note": "Two small prints in huon pine and birdseye maple frames. Paid locally: what we might pay, not a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.28",
+   "currency": "AUD",
+   "aud_price": 59.28,
+   "date": "2025-10-11",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/365425207562",
+   "same_item": "category guide",
+   "note": "small pencil sketch in a Huon pine frame (much smaller, plain)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "price hidden",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "unknown",
+   "venue": "Carters price guide",
+   "url": "https://carters.com.au/index.cfm/item/1303724-19th-century-birdseye-huon-pine-framed-engraving-39-cm-x-34-cm-i",
+   "same_item": "close",
+   "note": "19th C birdseye Huon pine framed engraving 60 x 49 cm exterior, near-identical item; price paywalled",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'birdseye huon pine frame', 'huon pine frame', 'engraving rome arch', 'arc de titus engraving', 'barbault rome engraving', 'antique engraving framed birdseye', 'piranesi etching' (last five: no hits); work/comps.py: 'huon pine frame'. No comp for the print itself. Frame-only comps: Leski $400-500 for good 19th c birdseye huon frames; local rooms $25-75 for framed prints.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'birdseye huon pine frame', 'huon pine frame', 'engraving rome arch', 'arc de titus engraving', 'barbault rome engraving', 'antique engraving framed birdseye', 'piranesi etching' (last five: no hits); work/comps.py: 'huon pine frame'. No comp for the print itself. Frame-only comps: Leski $400-500 for good 19th c birdseye huon frames; local rooms $25-75 for framed prints. | chrome: 1 Terapeak, 1 web",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'birdseye huon pine frame', 'huon pine picture frame antique', 'birdseye maple frame large'. Terapeak same. Leski realized prices and Gowans/Mossgreen/Lawsons for 'huon pine frame'. LiveAuctioneers/Invaluable: 'Barbault Arc de Titus engraving', 'Les plus beaux monuments de Rome ancienne Barbault', 'Arc de Tite gravure Rome 18th century'. Check if the frame is Huon pine or birdseye maple (maple is worth far less).",
  "rate_note": "All AUD, no conversion.",
- "viewing_check": "Confirm timber: Huon pine vs birdseye maple (scent, tight small eyes, colour), frame outer size and condition of corners/joins. Photograph the caption and credit lines under the print (maker, 'Barbault' or other, date) and the mount label; check whether print is laid down and the extent of staining."
+ "viewing_check": "Confirm it is genuine Huon pine (oily, peppery smell, pale gold) and solid not veneer; check mitres and gilt slip.",
+ "chrome_done": true
 }

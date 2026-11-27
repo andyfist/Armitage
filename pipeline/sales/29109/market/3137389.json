@@ -1,7 +1,7 @@
 {
  "cdid": 3137389,
  "lot": 1077,
- "identification": "Two framed Bea Maddock 'Red Text' prints (Genesis text, etched zinc, red ink on handmade NZ flax paper, waxed, Ritchies Mill Launceston 1984), numbered XXV and XXVI of a 40-work series, with typed artist statement. Plus a pen drawing of a man with umbrella and bag, a small circular etching in brick-pattern frame (signed in pencil, dated 79?), and a pen and wash tram scene signed Colin Crichton (uncertain).",
+ "identification": "5 framed works: (1-2) TWO Bea Maddock 'Red Text' sheets, plates XXV and XXVI, from her 40-part 'Red Text' (Genesis) series: hand-scripted text printed from etched zinc plates in hand-ground red ink on handmade NZ flax paper coated with wax, printed at Ritchies Mill studio, Launceston, 1984 (typed artist's statement on the back of one frame confirms this), in matching timber frames; (3) pen-and-ink drawing of a man from behind with umbrella and bag, black frame; (4) small abstract print of dark cell-like shapes in a brick-pattern painted frame; (5) small pen and wash sketch of a city building/church, timber frame, signed lower right (illegible).",
  "entries": [
   {
    "kind": "SOLD",
@@ -46,10 +46,71 @@
    "url": "https://www.ebay.com.au/itm/266966143865",
    "same_item": "close",
    "note": "From local database (not page opened). Tom Samek artist's proof 'Musical Chairs', small framed etching 14x14 cm. Only a possible match: the lot's small circular etching shows stylised chairs and tables, signature illegible, so the artist is unconfirmed. Relevant only to that one small piece."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$550",
+   "currency": "AUD",
+   "aud_price": 550,
+   "date": "2024-08-06",
+   "venue": "Colville Auctions, Hobart",
+   "url": "https://www.invaluable.com/auction-lot/bea-maddock-1934-2016-australia-red-text-xxiii-70-c-7c6440ebfb",
+   "same_item": "yes",
+   "note": "'Red Text XXIII', same series; price via appraisily (BP basis not stated)",
+   "via": "chrome"
+  },
+  {
+   "kind": "UNSOLD",
+   "price": "no price recorded",
+   "currency": "AUD",
+   "aud_price": 0,
+   "date": "2025-02-11",
+   "venue": "Colville Auctions, Hobart",
+   "url": "https://www.invaluable.com/auction-lot/bea-maddock-1934-2016-australia-red-text-xxviii-62-c-2d2493eb1d",
+   "same_item": "yes",
+   "note": "'Red Text XXVIII', no price in appraisily: probably passed in",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$850",
+   "currency": "AUD",
+   "aud_price": 850,
+   "date": "2026-06-19",
+   "venue": "Leonard Joel",
+   "url": "https://appraisily.com/api/scraper-search/artists/bea-maddock/llm.md",
+   "same_item": "category guide",
+   "note": "four 1974 photo-etchings ed. 3/60 (aggregator page, no lot link)",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$550",
+   "currency": "AUD",
+   "aud_price": 550,
+   "date": "2023-08-17",
+   "venue": "Leonard Joel",
+   "url": "https://appraisily.com/api/scraper-search/artists/bea-maddock/llm.md",
+   "same_item": "category guide",
+   "note": "'Black and White Cloud' 1976 photo-etching ed 2/10",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "2023-08-07",
+   "venue": "Colville Auctions",
+   "url": "https://appraisily.com/api/scraper-search/artists/bea-maddock/llm.md",
+   "same_item": "category guide",
+   "note": "'Artifact from Tromemanner XXXI'",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'Bea Maddock', 'Maddock Red Text', 'Maddock etching', 'Crichton tram', 'Maddock', 'Tasmanian etching signed'; work/comps.py: same Maddock terms. No Red Text or Maddock print comps in any database; only two Armitage catalogue ephemera hits.; pipeline/comps.py 'Tasmanian etching signed' (surfaced Tom Samek Musical Chairs comps).",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'Bea Maddock', 'Maddock Red Text', 'Maddock etching', 'Crichton tram', 'Maddock', 'Tasmanian etching signed'; work/comps.py: same Maddock terms. No Red Text or Maddock print comps in any database; only two Armitage catalogue ephemera hits.; pipeline/comps.py 'Tasmanian etching signed' (surfaced Tom Samek Musical Chairs comps). | chrome: 2 web searches, appraisily, Invaluable search",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU sold: 'Bea Maddock print', 'Bea Maddock Red Text'. Australian Art Sales Digest / Invaluable / LiveAuctioneers / Leonard Joel / Deutscher and Hackett / Mossgreen / Tasmanian houses (Gowans, Mures): 'Bea Maddock Red Text 1984 etching', 'Bea Maddock Genesis'. Also search 'Colin Crichton tram' and 'Maddock 79 etching circular'. Check Bea Maddock results for numbered Red Text works specifically (one of 40).",
- "viewing_check": "Check the edition numbers XXV and XXVI and signature or title on the Red Text prints and their backs, and that the typed statement is attached. Photograph the signature and date on the small circular etching (79?) and the signature on the tram scene (Colin Crichton?), and the umbrella drawing for any signature. Check the paper for foxing, stains or damage under the glass. Check whether the small chairs etching is signed Samek."
+ "viewing_check": "Check both Red Text sheets for wax bloom, cockling or tears; confirm plate numbers; look for Maddock's signature or studio stamp; identify the other three works.",
+ "chrome_done": true
 }

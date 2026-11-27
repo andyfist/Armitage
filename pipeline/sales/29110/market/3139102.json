@@ -1,7 +1,7 @@
 {
  "cdid": 3139102,
  "lot": 1338,
- "identification": "Unsigned oil on board of an old sandstone cottage beneath a large tree, mid 20th century style, linen slip and gilt frame. Attribution to Maurice Sullivan is from the lot title only; no signature visible in the photo.",
+ "identification": "Maurice Sullivan, 'Old Cottage, Woollahra', oil on board, 21 x 30 cm, sandstone cottage under a large tree, in a gilt and linen frame. Amateur/minor Sydney hand.",
  "entries": [
   {
    "kind": "SOLD",
@@ -48,8 +48,9 @@
    "note": "Wykeham Perry signed bush cottage oil on board, 39.5x50cm. Paid locally: what we might pay, not a resale price. Database record only."
   }
  ],
- "searches_tried": "pipeline/comps.py: 'maurice sullivan', 'sullivan oil board', 'sullivan woollahra cottage', 'sullivan', 'cottage oil board', 'woollahra'; work/comps.py: 'maurice sullivan'. No Maurice Sullivan hit in any database.",
- "needs_chrome": true,
+ "searches_tried": "pipeline/comps.py: 'maurice sullivan', 'sullivan oil board', 'sullivan woollahra cottage', 'sullivan', 'cottage oil board', 'woollahra'; work/comps.py: 'maurice sullivan'. No Maurice Sullivan hit in any database. | chrome: '\"Maurice Sullivan\" Australian artist oil Woollahra cottage sold' (no auction record found)",
+ "needs_chrome": false,
  "chrome_hint": "eBay sold/Terapeak: 'Maurice Sullivan oil painting'; Invaluable and LiveAuctioneers past results: 'Maurice Sullivan' (Australian, Sydney); Google Images of Woollahra sandstone cottage oils; also artistsinaustralia / Design & Art Australia Online for Maurice Sullivan to confirm he is a real listed artist; AuctionsPlus and Leski 'Sullivan oil on board cottage'.",
- "viewing_check": "Look under the frame and on the back for a signature, 'Sullivan' label, title or date; check the lower corners of the image for a tiny signature. Without a signature the attribution is unverified."
+ "viewing_check": "None.",
+ "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3139075,
  "lot": 1311,
- "identification": "Mater Dolorosa type head of the Virgin in blue veil and red, oil on canvas, after Carlo Dolci / Sassoferrato school; probably a 19th-century copy. Canvas stencil of Winsor & Newton (Limited), 38 Rathbone Place London (c.1880s-1930s). Heavy carved gilt gesso frame, with losses.",
+ "identification": "Head of a woman in a dark blue cloak/veil with red scarf, eyes lowered (devotional 'Madonna'-type head after Carlo Dolci / Italian Baroque), oil on canvas, 29 x 21 cm, in a deep ornate gilt composition frame. Back of canvas has a faint ink stamp/inscription (unreadable). Likely late 19th/early 20th C copy.",
  "entries": [
   {
    "kind": "SOLD",
@@ -26,8 +26,9 @@
    "note": "Gilt framed oil 'copy of old master' by Bianca Ciappa, 48x38cm, a modern copy, different item. Local database record only, shows what we might pay, never resale. No FX needed (AUD)."
   }
  ],
- "searches_tried": "comps.py (pipeline and work): 'mater dolorosa', 'winsor newton', 'virgin oil portrait gilt', 'madonna carlo dolci', 'sassoferrato', 'victorian oil portrait gilt', 'old master copy oil'. No relevant hits (only unrelated Winsor & Newton board Piguenit attribution, not comparable).",
- "needs_chrome": true,
+ "searches_tried": "comps.py (pipeline and work): 'mater dolorosa', 'winsor newton', 'virgin oil portrait gilt', 'madonna carlo dolci', 'sassoferrato', 'victorian oil portrait gilt', 'old master copy oil'. No relevant hits (only unrelated Winsor & Newton board Piguenit attribution, not comparable). | chrome: No signature to search.",
+ "needs_chrome": false,
  "chrome_hint": "eBay AU/UK sold + Terapeak: 'Mater Dolorosa oil painting antique framed', 'Virgin Mary oil on canvas gilt frame antique Victorian', 'after Carlo Dolci oil painting'. Also LiveAuctioneers/Invaluable results: 'after Carlo Dolci Madonna oil on canvas', 'after Sassoferrato Virgin oil', 'Mater Dolorosa 19th century oil gilt frame'; Australian houses (Leski, Mossgreen, Davidson, Gowans excluded as resale) for 'Madonna oil copy gilt frame'. Check sold prices of the gilt gesso frame alone (19th century carved frame 40x50cm).",
- "viewing_check": "Check the frame size and gesso condition, any old labels or inscriptions on back and stretcher, whether the canvas is relined, and paint losses under good light; a signature or exhibition label would change the value."
+ "viewing_check": "Read the stamp on the canvas back (colourman or dealer could date it).",
+ "chrome_done": true
 }
