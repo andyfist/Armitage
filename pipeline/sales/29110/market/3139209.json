@@ -1,7 +1,7 @@
 {
  "cdid": 3139209,
  "lot": 2446,
- "identification": "Grey fabric electric power lift recliner chair with two-section headrest, hand control tucked in seat, power cord and lead; catalogued as La-Z-Boy Astor Platinum (a real La-Z-Boy Australia range, new A$2,719 fabric, RRP A$3,399). Sold as is.",
+ "identification": "La-Z-Boy Astor Platinum power lift recliner (per catalogue), dark charcoal-grey textured fabric: two-section pillow back, rolled pillow arms, chaise-pad footrest, hand control and power lead bagged on the seat. Shape matches the La-Z-Boy Astor family (SKU 55T519CPA; new A$2,719 fabric, RRP A$3,399, 1150H x 890W x 990D mm). Sold AS IS.",
  "entries": [
   {
    "kind": "SOLD",
@@ -115,12 +115,48 @@
    "same_item": "yes",
    "note": "Same model but outlier. Paid locally, not opened.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$167.89",
+   "currency": "AUD",
+   "aud_price": 168,
+   "date": "",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/334025932676",
+   "same_item": "category guide",
+   "note": "TiMotion TA6 lift chair motor to suit La-Z-Boy, fixed price, 30 sold (trade seller, new/OEM parts). Parts value guide only; date not captured (multi-sale listing).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$88.50-125.47",
+   "currency": "AUD",
+   "aud_price": 107,
+   "date": "",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/334061785656",
+   "same_item": "category guide",
+   "note": "TiMotion La-Z-Boy lift chair remotes (also 335959884255 at A$88.50). Parts guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$99.60",
+   "currency": "AUD",
+   "aud_price": 100,
+   "date": "",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/335980150432",
+   "same_item": "category guide",
+   "note": "TiMotion 29V La-Z-Boy power supply. Parts guide only.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'lift chair', 'La-Z-Boy Astor', 'recliner lift'; work/comps.py same three. No resale comps (Gowans/Armitage only; no new retail price looked up, databases only). | chrome: eBay AU sold 'La-Z-Boy lift chair electric recliner' (AU, parts only), web search and La-Z-Boy AU price page. Gumtree/Facebook not searched (not signed in).",
+ "searches_tried": "pipeline/comps.py: 'lift chair', 'La-Z-Boy Astor', 'recliner lift'; work/comps.py same three. No resale comps (Gowans/Armitage only; no new retail price looked up, databases only). | chrome: eBay AU sold 'La-Z-Boy lift chair electric recliner' (AU, parts only), web search and La-Z-Boy AU price page. Gumtree/Facebook not searched (not signed in). | chrome: Terapeak EBAY-AU 3yr \"la-z-boy lift chair\": avg A$122, all parts (motors, remotes, PSUs), no whole chairs; filter line shows \"Filter Applied\" (unspecified, left untouched). Sonnet also found parts only.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings: 'La-Z-Boy Astor Platinum lift chair'; 'La-Z-Boy lift recliner' (sold, Australia). Gumtree/Facebook Marketplace Tas and Vic for La-Z-Boy Astor lift chair asking prices. La-Z-Boy Australia and Harvey Norman/Amart for new Astor Platinum lift chair retail price (ASKING, new retail). Grays/Lawsons/Pickles for La-Z-Boy lift chair sold results.",
- "viewing_check": "Find the La-Z-Boy tag under the chair; plug in and cycle lift and recline under load; check hand control, fabric wear, smell, and the power pack.",
+ "viewing_check": "Plug in and run lift and recline through a full cycle with someone sitting in it; find the La-Z-Boy law tag and model label under the seat; check the motor and PSU are TiMotion and present; fabric wear, odour and stains.",
  "rate_note": "All prices already AUD.",
  "chrome_done": true
 }

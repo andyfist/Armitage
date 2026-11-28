@@ -1,7 +1,7 @@
 {
  "cdid": 3138389,
  "lot": 1796,
- "identification": "Three one-gallon-size stoneware flagons: (1) Abbott's Old English Ginger Beer (Launceston, Tasmania) printed grey/cream and tan-top jar with phoenix/eagle trade mark in an 'A' and wire bail handle and 'keep screw stopper tight' text; (2) plain two-tone tan/cream flagon with string handle; (3) brown salt-glazed flagon with cork and old tag, impressed '1 GALLON' on shoulder. Lot is sold as is.",
+ "identification": "Three stoneware flagons/demijohns of similar size (about 1 gallon): (1) Abbott's Old English Ginger Beer demijohn, Launceston Tasmania: grey salt-glaze body, tan (Bristol-type) top, black transfer of the phoenix trade mark inside a large 'A', 'KEEP SCREW STOPPER TIGHT' on the shoulder, caution text that the jar is the property of Abbott's Ltd, Tasmania; wire bail handle, screw stopper missing (wooden/stoneware top only); (2) plain cream body tan-top flagon with string handle, no visible mark; (3) brown salt-glazed flagon impressed '1 GALLON' on the shoulder, cork stopper, string and old handwritten paper tag.",
  "entries": [
   {
    "kind": "SOLD",
@@ -162,12 +162,24 @@
    "same_item": "yes",
    "note": "Local room prices for Abbotts jars A$45-140 (one A$785 outlier, not checked). Not resale.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$121.16",
+   "currency": "AUD",
+   "aud_price": 121.16,
+   "date": "2025-09-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326753479250",
+   "same_item": "yes",
+   "note": "Abbott's Tasmania demijohn, good condition, auction.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'abbott ginger beer' (7 paid-locally hits, no resale); 'stoneware ginger beer launceston' (none); 'abbott's tasmania bottle' (none); 'stoneware demijohn' (28 local hits, 6 eBay sold). work/comps.py: 'abbott ginger beer' (1 Gowans hit). No web searches, per instruction. | chrome: Terapeak AU 3y 'abbotts ginger beer stoneware' (1 result) and 'abbotts ginger beer' (about 12 results); no condition filter shown.",
+ "searches_tried": "pipeline/comps.py: 'abbott ginger beer' (7 paid-locally hits, no resale); 'stoneware ginger beer launceston' (none); 'abbott's tasmania bottle' (none); 'stoneware demijohn' (28 local hits, 6 eBay sold). work/comps.py: 'abbott ginger beer' (1 Gowans hit). No web searches, per instruction. | chrome: Terapeak AU 3y 'abbotts ginger beer stoneware' (1 result) and 'abbotts ginger beer' (about 12 results); no condition filter shown. | chrome: Terapeak EBAY-AU 3y SOLD 'abbotts ginger beer' (Condition filter (1 selected) = Used; 11 rows); 'abbott's tasmania demijohn' (Used filter; 3 rows). eBay item pages error, so listings were not opened.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Abbott's Launceston ginger beer stoneware', 'Abbotts Old English ginger beer jar Tasmania', 'Abbott Launceston stoneware bottle'. Also 'stoneware 1 gallon jar brown salt glaze' and 'two tone stoneware demijohn handle' sold. Check Tasmanian bottle dealers and Gowans/Mossgreen-type results for Abbott's.",
  "rate_note": "All prices AUD, no conversion.",
- "viewing_check": "Check Abbott's jar for cracks, hairlines, rim chips, print clarity and wire handle/stopper; check tan flagon and brown 1 GALLON jar for maker stamps.",
+ "viewing_check": "Check the Abbott's jar for hairline cracks and rim chips (tap test), whether the screw stopper is there, and the base for a potter's mark (Bendigo Pottery etc.); check the two plain jars' bases for maker stamps.",
  "chrome_done": true
 }

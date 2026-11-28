@@ -1,7 +1,7 @@
 {
  "cdid": 3138505,
  "lot": 1913,
- "identification": "Single-wheel personal transporter / electric unicycle style device: black and red moulded shell enclosing one side of a 36-spoke bicycle wheel with a Mavic-type rim (yellow/black decal, red reflector), top carry handle, foot platform at the base, small swivel castor on the rear as a parking stand, steel plate with ring of 12 bolts and a central axle nut on the shell side. Looks like an electric self-balancing monowheel (Solowheel/Ryno/Airwheel family) or home-built or prototype unit, no visible maker, no visible power switch, battery or charger. Not confirmed as electric. Catalogue calls it SKATE WHEEL, current bid A$10, estimate A$10-15.",
+ "identification": "'Magic Wheel' style foot-propelled one-wheel skate/scooter (non-electric): a single bicycle-size spoked wheel (yellow/black rim decal, red reflector) housed in a black moulded plastic shell with red flare stripes, carry-handle slot at the top, low foot platform at the base, and a small rear castor wheel on an outrigger for steering/balance. The hub is a plain 12-bolt plate with axle nut: no motor, battery, switch or charge port visible. This matches the Magic Wheel launched in the UK in 2008 (about GBP 80-119 new), which you ride like a skateboard, one foot on the platform and kicking with the other; cheap copies are still sold online as 'Magic Wheel Scooter Penny Farthing'.",
  "entries": [
   {
    "kind": "SOLD",
@@ -26,12 +26,24 @@
    "same_item": "category guide",
    "note": "Inmotion V8 electric unicycle listing at A$53.70, likely a part or incomplete unit, +A$143 delivery",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$74.86",
+   "currency": "AUD",
+   "aud_price": 74.86,
+   "date": "2025-10-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/155767986145",
+   "same_item": "close",
+   "note": "'Magic Wheel Scooter Penny Farthing Sport Bike', fixed price; Condition filter (1 selected) was on, so probably a new copy from a retailer",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'one wheel scooter', 'mavic wheel', 'electric unicycle', 'skate wheel scooter' - no hits. work/comps.py: 'one wheel scooter' - no hits. | chrome: Terapeak AU 3yr 'electric unicycle solowheel' (no results); eBay AU public sold worldwide 'electric unicycle' and 'solowheel OR ryno OR monowheel one wheel scooter' (modern EUCs and kids kick scooters only, no match).",
+ "searches_tried": "pipeline/comps.py: 'one wheel scooter', 'mavic wheel', 'electric unicycle', 'skate wheel scooter' - no hits. work/comps.py: 'one wheel scooter' - no hits. | chrome: Terapeak AU 3yr 'electric unicycle solowheel' (no results); eBay AU public sold worldwide 'electric unicycle' and 'solowheel OR ryno OR monowheel one wheel scooter' (modern EUCs and kids kick scooters only, no match). | chrome: Terapeak EBAY-GB 'magic wheel skate' (no condition filter shown; no matching rows); Terapeak EBAY-AU 'magic wheel scooter' (Condition filter 1 selected; 1 row A$74.86).",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'solowheel', 'electric unicycle self balancing', 'one wheel scooter unicycle', 'monowheel'. Also Google Lens on the lot photo to identify the maker. Check Gumtree/Facebook Marketplace for 'Solowheel Inventist' and compare. Check whether it has a motor/battery (affects value greatly). Auction houses: Lloyds, Grays, Pickles for similar e-mobility lots.",
- "viewing_check": "Look inside shell/hub for motor, battery, switch, charger; maker label or serial plate; try turning the wheel (motor drag suggests a hub motor); photograph underside and shell edges.",
+ "viewing_check": "None needed for resale. If curious, a maker label inside the shell would confirm Magic Wheel.",
  "rate_note": "No prices found, no rate used.",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138565,
  "lot": 1973,
- "identification": "Jarvis/Wellsaw Model 404 heavy duty electric reciprocating breaking saw (butcher/bone saw, 16 inch blade type), Wells Manufacturing Corp, Three Rivers Michigan, serial 22219, 230V AC/DC 3.5A. Title says pneumatic but the plate is electric. Rusty blade, dirty alloy body, long rubber cord, untested.",
+ "identification": "Wellsaw Model 404 (sold in the US as the Jarvis Wellsaw 404) heavy-duty electric reciprocating breaking saw for meat/carcass processing, 16 in style blade, Wells Manufacturing Corp, Three Rivers, Michigan; 230 V AC/DC 3.5 A version, serial 22219. Electric, not pneumatic as the catalogue says. Front guide knob and rear pistol grip present, long heavy rubber cord with a non-Australian-looking connector at the end, blade heavily rusted, alloy body dirty and oxidised. Untested.",
  "entries": [
   {
    "kind": "SOLD",
@@ -108,12 +108,96 @@
    "same_item": "close",
    "note": "Air Saw Wellsaw Model 404 Jarvis pneumatic variant (the 'pneumatic' in the Armitage title may have come from this style). Low outlier, different air-tool version, over 2 years old, not used in median.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$693.87",
+   "currency": "AUD",
+   "aud_price": 693.87,
+   "date": "2026-05-03",
+   "venue": "eBay US (Terapeak EBAY-US, AUD as converted by Terapeak)",
+   "url": "https://www.ebay.com.au/itm/147278612127",
+   "same_item": "yes",
+   "note": "Jarvis Wellsaw 404 HD 16in, AUCTION with 21 bids: best evidence of open-market value.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$565.65",
+   "currency": "AUD",
+   "aud_price": 565.65,
+   "date": "2024-12-22",
+   "venue": "eBay US (Terapeak EBAY-US, AUD as converted by Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167033728199",
+   "same_item": "yes",
+   "note": "404 HD \"see description\", fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$452.52",
+   "currency": "AUD",
+   "aud_price": 452.52,
+   "date": "2024-12-04",
+   "venue": "eBay US (Terapeak EBAY-US, AUD as converted by Terapeak)",
+   "url": "https://www.ebay.com.au/itm/145917280437",
+   "same_item": "yes",
+   "note": "404 HD with 12in blade.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$829.63",
+   "currency": "AUD",
+   "aud_price": 829.63,
+   "date": "2024-10-17",
+   "venue": "eBay US (Terapeak EBAY-US, AUD as converted by Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116335623500",
+   "same_item": "yes",
+   "note": "Jarvis Wellsaw 404 16in, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$603.36",
+   "currency": "AUD",
+   "aud_price": 603.36,
+   "date": "2024-03-11",
+   "venue": "eBay US (Terapeak EBAY-US, AUD as converted by Terapeak)",
+   "url": "https://www.ebay.com.au/itm/116052062433",
+   "same_item": "yes",
+   "note": "Vintage Wellsaw 404 tested and working.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$2108.76",
+   "currency": "AUD",
+   "aud_price": 2108.76,
+   "date": "2026-11-19",
+   "venue": "eBay US (Terapeak EBAY-US, AUD as converted by Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225451603241",
+   "same_item": "category guide",
+   "note": "Dealer listing, 27 sold, almost certainly new/rebuilt units; excluded, shows new price level.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$96.82",
+   "currency": "AUD",
+   "aud_price": 96.82,
+   "date": "2026-02-20",
+   "venue": "eBay US (Terapeak EBAY-US, AUD as converted by Terapeak)",
+   "url": "https://www.ebay.com.au/itm/266504656569",
+   "same_item": "category guide",
+   "note": "Replacement 16in HD blade OEM 1023124 (needed for ours), fixed price, 22 sold.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: wellsaw; wells saw 404; reciprocating meat saw; butcher bone saw; wells manufacturing; carcass saw; electric saw. work/comps.py: wellsaw 404; meat saw; wells manufacturing; carcass saw; electric saw. No Wellsaw hit in any database. | chrome: Terapeak EBAY-AU wellsaw 404 3 years: no results. Terapeak EBAY-US wellsaw saw 3 years: 50 rows incl 404 sales listed above (US marketplace, AUD converted). Opened eBay product page ePID 1069383778 to confirm model.",
+ "searches_tried": "pipeline/comps.py: wellsaw; wells saw 404; reciprocating meat saw; butcher bone saw; wells manufacturing; carcass saw; electric saw. work/comps.py: wellsaw 404; meat saw; wells manufacturing; carcass saw; electric saw. No Wellsaw hit in any database. | chrome: Terapeak EBAY-AU wellsaw 404 3 years: no results. Terapeak EBAY-US wellsaw saw 3 years: 50 rows incl 404 sales listed above (US marketplace, AUD converted). Opened eBay product page ePID 1069383778 to confirm model. | chrome: Terapeak EBAY-US 'wellsaw 404' 3 years SOLD, both pages (100 rows, mostly parts/blades; 11 used complete saws picked out by item ID). Terapeak EBAY-AU 'wellsaw' 3 years: no results. Filter lines showed Condition/Format/Price filters with none selected. Google 'Jarvis Wellsaw 404 breaking saw price Australia' (no AU retail price found; MEFE sells breaking saws).",
  "needs_chrome": false,
  "chrome_hint": "eBay AU and eBay US sold/completed: 'Wellsaw 404', 'Wellsaw 400 meat saw', 'Wells Manufacturing reciprocating saw'; Terapeak on same; also 'vintage butcher reciprocating saw' and 'Wellsaw' on LiveAuctioneers, Invaluable, Gumtree and Facebook Marketplace AU. Note price in USD and convert to AUD.",
- "viewing_check": "Check cord for cuts and the plug, whether the motor runs freely by hand, blade rust and straightness, and whether the blade support/guide and handle are present. Photograph the plate for the full patent number. Ask if the 230V plate suits the plug fitted.",
+ "viewing_check": "Ask to plug in and run it (cord is old rubber, check for cracks and the plug type: the connector looks non-Australian, so it may need a new plug fitted by an electrician). Check blade support and the blade clamp/drive stud are present, body not cracked.",
  "rate_note": "All hits are AUD, no conversion used.",
  "chrome_done": true
 }

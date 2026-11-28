@@ -1,7 +1,7 @@
 {
  "cdid": 3138094,
  "lot": 1497,
- "identification": "Three boxes of HO/OO model railway items: a divided tray of 15 weathered American-outline HO freight cars (Santa Fe boxcars, cabooses, stock cars, reefers, Union Pacific style), mostly Athearn-type kits, plus two boxes holding about 35-45 plastic/kit buildings (houses, terraces, station, sheds, water tower, coaling stage), some Faller/Kibri-type kits, dusty and a few damaged.",
+ "identification": "Three cardboard boxes of used HO-scale (labelled 'H0/00') American-outline model railway items. Box 1: a divided tray of 15 heavily hand-weathered 40ft freight cars, Athearn 'blue box' type kit-built plastic: New York Central 'Central' boxcars (2), Santa Fe boxcars incl. 'Shock Control' (3), Santa Fe and another caboose (2), Pacific Fruit Express UP reefers (3, orange), stock cars (2), outside-braced boxcars and a green boxcar. Boxes 2-3: about 30 assembled plastic kit buildings (European Faller/Kibri/Vollmer-type houses and terraces, US-style frame houses, water tower, coaling tower, small station, sheds, a tunnel/rock piece), dusty, a few with loose parts.",
  "entries": [
   {
    "kind": "SOLD",
@@ -129,13 +129,97 @@
    "same_item": "close",
    "note": "Tray of model railway layout buildings; database hint, not opened; not resale.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.39",
+   "currency": "AUD",
+   "aud_price": 28.39,
+   "date": "2026-11-13",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/128178460652",
+   "same_item": "close",
+   "note": "6 HO freight cars, painted and customised, auction: closest in kind to this weathered tray, about A$4.70 per car.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.36",
+   "currency": "AUD",
+   "aud_price": 32.36,
+   "date": "2026-05-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/157714707776",
+   "same_item": "close",
+   "note": "Athearn HO boxcars lot of 4, fixed price, about A$8 per car.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40.38",
+   "currency": "AUD",
+   "aud_price": 40.38,
+   "date": "2026-01-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167962680806",
+   "same_item": "close",
+   "note": "Athearn HO lot of 3 boxcars, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.17",
+   "currency": "AUD",
+   "aud_price": 60.17,
+   "date": "2026-06-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117250051923",
+   "same_item": "close",
+   "note": "OO/HO building kit lot x4 (Metcalfe etc), auction; buildings guide.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$59.24",
+   "currency": "AUD",
+   "aud_price": 59.24,
+   "date": "2026-06-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117250075908",
+   "same_item": "close",
+   "note": "OO/HO hand-built building lot x5, auction, about A$12 each.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$61.56",
+   "currency": "AUD",
+   "aud_price": 61.56,
+   "date": "2026-09-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117376697736",
+   "same_item": "close",
+   "note": "OO/HO building lot x6 plus extras, auction.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$28.52",
+   "currency": "AUD",
+   "aud_price": 28.52,
+   "date": "2026-06-17",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/117241545846",
+   "same_item": "close",
+   "note": "OO/HO scenery and building kit lot x7, auction, about A$4 each.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'HO freight cars' (nothing), 'Athearn', 'model railway buildings', 'HO scale', 'railway', 'locomotive', 'Santa Fe', 'Lima Hornby' (nothing). work/comps.py: 'HO Athearn' (nothing). No Santa Fe or HO freight car resale comps held. | chrome: Terapeak AU 3 yrs: 'HO scale freight cars lot', 'HO scale model railway buildings lot'.",
+ "searches_tried": "pipeline/comps.py: 'HO freight cars' (nothing), 'Athearn', 'model railway buildings', 'HO scale', 'railway', 'locomotive', 'Santa Fe', 'Lima Hornby' (nothing). work/comps.py: 'HO Athearn' (nothing). No Santa Fe or HO freight car resale comps held. | chrome: Terapeak AU 3 yrs: 'HO scale freight cars lot', 'HO scale model railway buildings lot'. | chrome: Terapeak EBAY-AU 3 yrs SOLD: 'ho freight cars lot weathered' (Used condition filter was on, 0 results), 'ho scale freight cars lot' (no filter), 'ho model railway buildings lot' (no filter).",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'HO scale Athearn freight cars lot', 'HO scale Santa Fe boxcar lot used', 'HO scale buildings kit built lot', 'HO model railway lot job lot'; also eBay.com US sold 'HO freight car lot Athearn' (convert USD at the day's rate). Check Australian auction results (Leski, Lawsons, Grays, Gowans archive) for 'HO scale rolling stock lot'. Expect per-car values of about $3 to $8 for used Athearn-type cars, buildings about $2 to $5 each.",
  "needs_chrome_reason": "No resale comps for American HO rolling stock in local databases.",
- "viewing_check": "Count cars and buildings exactly, check undersides for Athearn/Walthers/Atlas/Kadee branding, wheels, couplers; any boxed or metal kits; building makers (Faller, Kibri, Vollmer) and damage.",
+ "viewing_check": "Only if bidding cheaply: check undersides for Athearn/Walthers markings, metal wheels and Kadee couplers (adds a little), and whether any building kits are Faller/Kibri/Vollmer in better shape.",
  "rate_note": "All AUD, no conversion needed.",
  "chrome_done": true
 }

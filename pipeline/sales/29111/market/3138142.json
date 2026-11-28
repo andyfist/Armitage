@@ -1,7 +1,7 @@
 {
  "cdid": 3138142,
  "lot": 1546,
- "identification": "Pye (Australian, c1950s) walnut-veneer valve mantel radio, multi-band (shortwave) dial with 7 band bars, cream bezel, gold speaker cloth, three knobs, small Pye logo on top. Model not readable; rear is hardboard back with ventilation slots, cord present.",
+ "identification": "Pye (Pye Electronics Pty Ltd, Melbourne) model APJ, 1951, 5-valve dual-wave (broadcast plus 3 shortwave bands) valve mantel radio, large walnut-veneer cabinet with sloping sides, cream plastic surround, gold speaker cloth on left, six-bar slide-rule dial on right, three front knobs (volume, tone, tuning) and a band-change knob on the right side, Pye badge on the top. Identified by matching the cabinet and dial to the APJ picture on radiomuseum.org (Mingay's Price Service 1952-55) and the Silicon Chip Jan 2017 restoration article (side colour-coded band switch, 3 knobs, ~520mm wide). Hardboard back marked PHONO P.U. (pickup input), original twin-flex pickup lead hanging out, brown mains cord.",
  "entries": [
   {
    "kind": "SOLD",
@@ -129,12 +129,48 @@
    "same_item": "close",
    "note": "Vintage Pye valve radio untested, auction",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$100.32",
+   "currency": "AUD",
+   "aud_price": 100.32,
+   "date": "2026-10-18",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206621522350",
+   "same_item": "close",
+   "note": "Pye timber mantel 1951-53, 'good order', fixed price. Thumbnail: smaller 2-knob broadcast-only set (APL type), working.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$73.57",
+   "currency": "AUD",
+   "aud_price": 73.57,
+   "date": "2026-11-04",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/206621518998",
+   "same_item": "close",
+   "note": "Pye timber mantel 1951-53, 'good order', fixed price. Thumbnail: 2-knob APL type.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40.11",
+   "currency": "AUD",
+   "aud_price": 40.11,
+   "date": "2025-09-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/205725333808",
+   "same_item": "close",
+   "note": "1952 Pye timber mantel, unrestored as is, fixed price. Thumbnail: 4-knob dual-wave set with multi-bar dial, rough cabinet.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "comps.py (pipeline): 'pye radio', 'pye mantel', 'pye walnut' (no hits); 'pye' (only Pye stereos/record players/speakers, no radios); 'valve mantel radio', 'walnut radio', 'shortwave radio', 'AWA radio', 'mantel radio'. work/comps.py 'pye radio' no hits. No same-item Pye valve radio sold anywhere in the databases. | chrome: Terapeak AU 'Pye valve radio mantel' (2 results), 'Pye radio valve' 3 years (condition filter on).",
+ "searches_tried": "comps.py (pipeline): 'pye radio', 'pye mantel', 'pye walnut' (no hits); 'pye' (only Pye stereos/record players/speakers, no radios); 'valve mantel radio', 'walnut radio', 'shortwave radio', 'AWA radio', 'mantel radio'. work/comps.py 'pye radio' no hits. No same-item Pye valve radio sold anywhere in the databases. | chrome: Terapeak AU 'Pye valve radio mantel' (2 results), 'Pye radio valve' 3 years (condition filter on). | chrome: Terapeak EBAY-AU 3yr: 'pye apj' (0 results), 'pye radio valve' (15 rows), 'pye short wave radio' (1 row), 'pye mantel radio' (10 rows). 'Filter Applied' shows on Terapeak with a 'Used' condition facet chip, so results may be limited to used items (fine for this). Thumbnails opened for 5 rows. Web: radiomuseum APJ/APL, Silicon Chip APJ article; no non-eBay APJ sale found. eBay item page 226874124037 gave an error page.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak (last 12-24 months): 'Pye valve radio walnut', 'Pye mantel radio vintage', 'Pye shortwave radio 1950s'; add the model number once read at viewing (eg Pye P-series). Also LiveAuctioneers/Invaluable sold: 'Pye mantle radio walnut', and Leski/Theodore Bruce/Shapiro 'Pye mantle radio' realised prices. Check whether Pye Australia model prices exceed Kreisler/Astor walnut sets.",
- "viewing_check": "Read the model number on the back label and dial; check veneer lifting and cabinet cracks; see whether it has shortwave bands with valves present.",
+ "viewing_check": "Look inside the back for the model/chassis label (APJ), check that all 5 valves are there and the dial glass is not cracked, check the side band-switch knob, the mains cord insulation and veneer at the top edges.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

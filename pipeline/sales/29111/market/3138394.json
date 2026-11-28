@@ -1,7 +1,7 @@
 {
  "cdid": 3138394,
  "lot": 1801,
- "identification": "Hydraulic/screw ram puller kit in a red steel box: central ram with turquoise label band and T-handle, two short hook legs on a crosshead, one long curved hook leg, three-leg spider, other legs and adapters in the box. Catalogue says Sykes-Pickavant (English maker); brand not visible in the photo. Used, surface rust, completeness unknown.",
+ "identification": "Hydraulic twin/triple leg puller kit in a red steel tool box, consistent with Sykes-Pickavant (England) hydraulic puller sets: threaded-body hydraulic ram with turquoise label band and T-bar screw pump on a twin-leg crosshead (two short hook legs fitted), plus loose long reach legs (at least three long curved legs and two medium legs), a three-leg spider/crosshead, extension pins/adapters and a blue cloth in the box. Used, grime and some surface rust; ram condition unknown.",
  "entries": [
   {
    "kind": "SOLD",
@@ -143,11 +143,59 @@
    "same_item": "close",
    "note": "New Sykes Pickavant 8 tonne hydraulic twin-leg puller kit, asking only.",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$266.58",
+   "currency": "AUD",
+   "aud_price": 266.58,
+   "date": "2024-07-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/314840786584",
+   "same_item": "yes",
+   "note": "Sykes-Pickavant 8 tonne hydraulic twin leg puller kit 50-100, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$266.7",
+   "currency": "AUD",
+   "aud_price": 266.7,
+   "date": "2024-09-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/155030026414",
+   "same_item": "yes",
+   "note": "Sykes-Pickavant 8 tonne hydraulic twin leg puller kit, made in England, fixed price (Sonnet saw A$262.50 on the ended page).",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$282.68",
+   "currency": "AUD",
+   "aud_price": 282.68,
+   "date": "2026-01-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/326891735852",
+   "same_item": "yes",
+   "note": "Sykes-Pickavant 1500 series 150mm twin/triple leg hydraulic puller, fixed price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$88.15",
+   "currency": "AUD",
+   "aud_price": 88.15,
+   "date": "2025-11-08",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/286691464344",
+   "same_item": "close",
+   "note": "Sykes-Pickavant hydraulic ram 150000 only (triple leg puller), shows a ram alone sells about A$90.",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'sykes pickavant' (none), 'puller kit' (none), 'pulling kit' (1 Armitage), 'hydraulic puller' (none), 'bearing puller', 'gear puller', 'puller set' (Armitage only). work/comps.py 'sykes pickavant' (none). No web used, per instruction. No competitive-auction or resale comps held. All AUD, no conversion. | chrome: Terapeak AU 3y 'sykes pickavant puller' (about 15 rows, no condition filter shown); opened ended listing 155030026414.",
+ "searches_tried": "pipeline/comps.py: 'sykes pickavant' (none), 'puller kit' (none), 'pulling kit' (1 Armitage), 'hydraulic puller' (none), 'bearing puller', 'gear puller', 'puller set' (Armitage only). work/comps.py 'sykes pickavant' (none). No web used, per instruction. No competitive-auction or resale comps held. All AUD, no conversion. | chrome: Terapeak AU 3y 'sykes pickavant puller' (about 15 rows, no condition filter shown); opened ended listing 155030026414. | chrome: Terapeak EBAY-AU 3y SOLD 'sykes pickavant hydraulic puller' (15 rows; filter line showed no condition selection at time of read).",
  "needs_chrome": false,
  "chrome_hint": "eBay.com.au sold/completed: 'Sykes Pickavant puller kit', 'Sykes Pickavant hydraulic puller set', 'hydraulic bearing puller kit toolbox'; Terapeak same terms, last 12 months. Also Gumtree/Facebook Marketplace Australia and UK eBay sold for Sykes-Pickavant pullers (convert GBP to AUD). Record new retail price of a Sykes-Pickavant or equivalent hydraulic puller kit (e.g. Sykes-Pickavant, Supercheap Auto, Toolkit Depot) as ASKING.",
- "viewing_check": "Look for Sykes-Pickavant name/Made in England stamps on ram, legs and box; confirm ram works and holds pressure; count legs and the spider and compare with SP kit contents; check for bent/cracked legs.",
+ "viewing_check": "Read the ram's turquoise label (Sykes-Pickavant, tonnage, part no.) and look for SP stamps on the legs; screw the T-bar in to check the ram extends and holds pressure with no oil weeping; count the legs (twin and triple sets, short and long) and check for bent hooks.",
  "chrome_done": true
 }

@@ -1,7 +1,7 @@
 {
  "cdid": 3138268,
  "lot": 1673,
- "identification": "Large black pebbled 10x50 prismatic binoculars with central focus on a bridge/post, in brown leather case with strap. Military-style (WWII-era pattern); could be a German Dienstglas-type 10x50 or British/Commonwealth pattern, or just a later Japanese commercial 10x50. Maker not identified.",
+ "identification": "Pair of 10x50 porro-prism binoculars in the 'Zeiss-type' (Z-type) layout: centre focus wheel at the top of a thin exposed focusing rod that runs down between the barrels to a separate lower bridge joining the objective ends, black pebbled covering, with a fitted brown leather case (saddle lid, side loops, strap). Most likely a 1950s-70s Japanese (or HK) commercial 10x50. On a second, closer look this is NOT the German WWII Dienstglas pattern Sonnet feared: Dienstglas 10x50s (thumbnails of the Zeiss BLC and 1939 Zeiss sales checked in Terapeak) have a thick full-length hinge and no exposed rod or separate lower bridge. The barrels only look tapered from the camera angle. Maker unread.",
  "entries": [
   {
    "kind": "SOLD",
@@ -195,12 +195,60 @@
    "same_item": "close",
    "note": "1970s 10x50 in fitted leather case, Made in HK",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$48.92",
+   "currency": "AUD",
+   "aud_price": 48.92,
+   "date": "2025-06-15",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/357026841084",
+   "same_item": "close",
+   "note": "1970s Hanimex Constellations 10x50 with leather case, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.76",
+   "currency": "AUD",
+   "aud_price": 42.76,
+   "date": "2026-06-24",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/366484418380",
+   "same_item": "close",
+   "note": "Vintage Omega 10x50 coated, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$18.15",
+   "currency": "AUD",
+   "aud_price": 18.15,
+   "date": "2026-03-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267616421945",
+   "same_item": "close",
+   "note": "Simplon 10x50 in leather case, auction 6 bids",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$17.21",
+   "currency": "AUD",
+   "aud_price": 17.21,
+   "date": "2025-09-06",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/365831217354",
+   "same_item": "close",
+   "note": "Hoya 10x50 Japan with leather case, auction",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline comps.py: binoculars 10x50; binoculars military; binoculars leather case; prismatic binoculars; Barr Stroud binoculars (none); Kershaw binoculars; naval binoculars (none). work comps.py: binoculars 10x50 (Gowans/Armitage only). | chrome: Terapeak AU 3yr (no condition filter shown): '10x50 binoculars leather case vintage' (commercial ones A$24-71); 'ww2 binoculars 10x50 military' (3 Dienstglas sales A$351-508).",
+ "searches_tried": "pipeline comps.py: binoculars 10x50; binoculars military; binoculars leather case; prismatic binoculars; Barr Stroud binoculars (none); Kershaw binoculars; naval binoculars (none). work comps.py: binoculars 10x50 (Gowans/Armitage only). | chrome: Terapeak AU 3yr (no condition filter shown): '10x50 binoculars leather case vintage' (commercial ones A$24-71); 'ww2 binoculars 10x50 military' (3 Dienstglas sales A$351-508). | chrome: Terapeak EBAY-AU 3 yr: 'dienstglas 10x50' (4 rows, thumbnails checked), 'vintage 10x50 binoculars leather case' (10 rows); both show 'Condition filter (1 selected)', Used, fine here.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold: '10x50 binoculars leather case military' and 'WWII 10x50 prismatic binoculars' (Terapeak); eBay sold 'Barr Stroud 10x50', 'Kershaw 10x50', 'Ross London 10x50'. Also Noble Numismatics and Leski realised prices for 'binoculars 10x50 leather case', and LiveAuctioneers sold 'WWII binoculars 10x50'.",
  "rate_note": "All AUD, no conversion needed.",
- "viewing_check": "Photograph the top plates and bridge: maker name, serial, 'Dienstglas', 'blc'/'cxn'/'ddv' codes, broad arrow, 'Prismatic No' marks. Check prisms for fungus and focus.",
+ "viewing_check": "Read the top prism plates: maker (Nikon/Nippon Kogaku, Fujinon, Zeiss, Leitz, Hensoldt, Barr & Stroud, Ross), serial, '10x50', any military code (blc, cxn, beh, ddx, 'Dienstglas', broad arrow). Only a German WWII or a Nikon/Fujinon marking changes the verdict. Check prisms for fungus/haze and that the focus moves.",
  "chrome_done": true
 }

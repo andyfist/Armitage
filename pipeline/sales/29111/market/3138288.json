@@ -1,7 +1,7 @@
 {
  "cdid": 3138288,
  "lot": 1693,
- "identification": "Box of Tasmanian fishing ephemera: 10 Tasmanian Angling Reports (1st ed 1981, 1982, 1983, 5th 1985, 7th 1987, 8th 1988, 10th 1990, 1991, 1992, 1993), about 25-30 Northern Tasmanian Fisheries Association annual reports (c.1950s-70s, incl. 63/64 and 66/67 era), 3 Fly-fishers' Club of Tasmania newsletters, Inland Fisheries Commission newsletter, Inland Fisheries Service whitebait folder. Paper wear and fading to older reports.",
+ "identification": "Box of Tasmanian freshwater-angling paper: 10 Tasmanian Angling Reports (Inland Fisheries Commission annual anglers' digest; First Ed 1981, Second 1982, Third 1983, Fifth 1985, Seventh 1987, Eighth 1988, Tenth 1990, 1991, 1992, 1993); about 30 Northern Tasmanian Fisheries Association annual reports, c.1960s-early 1970s (covers dated 1962, 63/64, 64/65, 1966, two rainbow-trout 'annual REPORT' covers c.1970s, several with '1897' founding-year emblem); 3 Fly-fishers' Club of Tasmania newsletters; an Inland Fisheries Commission Newsletter; an Inland Fisheries Service whitebait booklet/folder (blue). Wear, foxing, faded and torn covers on older reports.",
  "entries": [
   {
    "kind": "SOLD",
@@ -162,12 +162,36 @@
    "same_item": "yes",
    "note": "Tasmanian Angling Report 1982 single, auction, 1 bid",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$10.77",
+   "currency": "AUD",
+   "aud_price": 10.77,
+   "date": "2024-06-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/387089628315",
+   "same_item": "yes",
+   "note": "Tasmanian Angling Report 1981, single, fixed price",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$14.34",
+   "currency": "AUD",
+   "aud_price": 14.34,
+   "date": "2024-10-07",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/387277711968",
+   "same_item": "close",
+   "note": "Tasmanian Angling Report 1996 (later issue than the lot), single",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: tasmanian angling report; angling tasmania fishing; northern tasmanian fisheries association (none); fly fishing tasmania trout; inland fisheries; fishing ephemera. work/comps.py: same first four. | chrome: Terapeak AU 3yr: 'tasmanian angling report' (page truncated in my read after 5 rows), 'northern tasmanian fisheries association' (1 sale).",
+ "searches_tried": "pipeline/comps.py: tasmanian angling report; angling tasmania fishing; northern tasmanian fisheries association (none); fly fishing tasmania trout; inland fisheries; fishing ephemera. work/comps.py: same first four. | chrome: Terapeak AU 3yr: 'tasmanian angling report' (page truncated in my read after 5 rows), 'northern tasmanian fisheries association' (1 sale). | chrome: Terapeak EBAY-AU 3 years (Condition filter '1 selected'/Used on, not changed): 'tasmanian angling report' (7 unique sales), 'tasmanian fisheries association' (1), 'tasmania trout fishing annual report' (0). Australian Book Auctions sale 101 price list via WebFetch (prices only).",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold + Terapeak: 'Tasmanian Angling Report'; 'Northern Tasmanian Fisheries Association annual report'; 'Fly Fishers Club of Tasmania newsletter'; 'Inland Fisheries Commission Tasmania'. Also Trove/AbeBooks/Australian Book Auctions results for 'Tasmanian angling' ephemera.",
- "viewing_check": "Check NTFA year run (pre-1960 scarcer), any signatures or inscriptions, condition.",
+ "viewing_check": "Look for any pre-1960 NTFA reports or anything signed or with club letters/inserts; check the run of years. Otherwise a low-value lot.",
  "rate_note": "All AUD, no conversion.",
  "chrome_done": true
 }

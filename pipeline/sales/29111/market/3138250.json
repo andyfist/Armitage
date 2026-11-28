@@ -1,7 +1,7 @@
 {
  "cdid": 3138250,
  "lot": 1655,
- "identification": "AWA (Amalgamated Wireless Australasia) Radiola model 510M, 5-valve broadcast and shortwave bakelite mantel radio, 1946-47 (radiomuseum.org: AWA Radiola 510M, 5 valves, BC+SW, bakelite, 12.5 x 8 x 7.5 in). Brown bakelite, horizontal-rib grille with cloth, dual-wave dial with Australian station call signs, three knobs. Maker not named on cabinet but chassis stamp reads MODEL 510M (serial about 00053711) with green AWA-style label.",
+ "identification": "Brown bakelite dual-wave (broadcast plus short wave) 5-valve mantel radio, chassis stamped MODEL 510M, which matches the AWA Radiola 510M (1946-47, 5 valves, BC+SW, bakelite, 318 x 203 x 191 mm per radiomuseum.org). Ribbed rounded cabinet with four horizontal bars over the grille cloth, square glass dial at right with Australian call signs and short-wave bands, three knobs. Maker badge not visible on the cabinet front.",
  "entries": [
   {
    "kind": "SOLD",
@@ -284,12 +284,36 @@
    "same_item": "close",
    "note": "Vintage AWA Radiola brown bakelite case, valve radio (auction)",
    "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$91.62",
+   "currency": "AUD",
+   "aud_price": 91.62,
+   "date": "2026-09-22",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/287587135769",
+   "same_item": "close",
+   "note": "Vintage bakelite valve radio AWA Radiola, auction",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.42",
+   "currency": "AUD",
+   "aud_price": 47.42,
+   "date": "2025-03-29",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/267198709879",
+   "same_item": "close",
+   "note": "AWA bakelite valve radio, auction",
+   "via": "chrome"
   }
  ],
- "searches_tried": "pipeline/comps.py: 'bakelite mantel radio', 'radio dual wave' (no hits), 'Astor radio', 'AWA radio'; work/comps.py: 'bakelite radio'. Maker unknown so brand searches are category guides only. | chrome: Web search and radiomuseum.org fetch for '510M'; Terapeak AU 3yr 'AWA radiola bakelite valve radio' (35 rows), 'radiola 510M' (1 row); ended page opened for 267722900440. Filter headings shown, none selected.",
+ "searches_tried": "pipeline/comps.py: 'bakelite mantel radio', 'radio dual wave' (no hits), 'Astor radio', 'AWA radio'; work/comps.py: 'bakelite radio'. Maker unknown so brand searches are category guides only. | chrome: Web search and radiomuseum.org fetch for '510M'; Terapeak AU 3yr 'AWA radiola bakelite valve radio' (35 rows), 'radiola 510M' (1 row); ended page opened for 267722900440. Filter headings shown, none selected. | chrome: Terapeak EBAY-AU 3 yr 'radiola 510m' (1 row) and 'awa radiola bakelite valve radio' (35 rows); both show 'Condition filter (1 selected)', Used, fine here. eBay item page 267722900440 returned eBay's 'Something went wrong' page, so the cabinet could not be compared photo to photo. radiomuseum 510M page fetched.",
  "needs_chrome": false,
  "chrome_hint": "eBay AU sold listings (Terapeak): 'bakelite mantel radio dual wave', 'model 510M radio', 'bakelite shortwave mantel radio Australian valve', 'Astor OR Kriesler OR Healing OR Bandmaster 510M'. Also Google 'Australian radio model 510M valve' and the Radio Heritage / Australian Wireless Valve Radio Info (Kevin Chant) model lists to name the maker. Check Leski Auctions realised prices for 'bakelite mantel radio'.",
- "viewing_check": "Confirm AWA/Radiola on the chassis label, test valves and power-up (do not rely on plug), check cabinet cracks and all three knobs, transformer rust.",
+ "viewing_check": "Read the green chassis label for AWA/Radiola; check the cabinet for cracks (bakelite corners and back edge), dial glass, all three knobs original. Do not power up.",
  "rate_note": "All hits are in AUD, no conversion needed.",
  "chrome_done": true
 }
