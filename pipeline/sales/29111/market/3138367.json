@@ -1,0 +1,95 @@
+{
+ "cdid": 3138367,
+ "lot": 1774,
+ "identification": "Echo single-cylinder 2-stroke petrol hedge trimmer, grey/cream engine with Echo recoil badge, black rear handle with orange trigger lock, single orange-covered blade about 55-60 cm. Probably an Echo HC-150/HC-1500/HC-152 family machine (model plate not legible in the single photo). Used, untested, tagged.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$45",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2025-12-03",
+   "venue": "Armitage Auctions, Launceston sale 26808 lot 1753 (paid locally: cost guide only, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2754188&chid=26808&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Database hit, page not opened. Same maker and type; condition unknown. Local room price, shows what we might pay."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80 and $180",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-03-25 and 2026-08-19",
+   "venue": "Armitage Auctions sale 27487 lot 1406 and sale 28448 lot 1398 (Stihl HS 45, paid locally: cost guide only)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2858324&chid=27487&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Database hit, page not opened. Different make (Stihl), comparable professional petrol hedge trimmer. Wide spread. Other local petrol hedge trimmers $10-110 (Homelite $30-65, Ryobi $85, generic $35-50). Cost guide only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$109.89",
+   "currency": "AUD",
+   "aud_price": 109.89,
+   "date": "2024-03-14",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/176214127073",
+   "same_item": "close",
+   "note": "Echo HC-560 hedge trimmer, Fixed price, 2024; different model, shows used/AU price for a working Echo hedger. Over 2 years old. Condition not confirmed.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$245.83",
+   "currency": "AUD",
+   "aud_price": 245.83,
+   "date": "2024-08-05",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126601780816",
+   "same_item": "category guide",
+   "note": "Echo HC-1501 petrol hedge trimmer, Fixed price AU; probably new or near new, double-blade pro model, over 2 years old.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$342.86",
+   "currency": "AUD",
+   "aud_price": 342.86,
+   "date": "2025-10-28",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/236283986118",
+   "same_item": "category guide",
+   "note": "Echo 534mm 21.2cc petrol hedge trimmer (HC-2020), Fixed price, new pro model.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$499",
+   "currency": "AUD",
+   "aud_price": 499,
+   "date": "2026-11-09",
+   "venue": "eBay AU, sold new (simplytoolscomau)",
+   "url": "https://www.ebay.com.au/itm/158315718479",
+   "same_item": "category guide",
+   "note": "New Echo HC-2020 double-sided hedge trimmer, new retail ASKING; pro model, not this machine.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$45",
+   "currency": "AUD",
+   "aud_price": 45,
+   "date": "2025-12-03",
+   "venue": "Armitage sale 26808 lot 1753",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2754188&chid=26808&category=ALL&style=group",
+   "same_item": "yes",
+   "note": "Echo hedge trimmer paid locally, not a resale price (database hint, page not opened).",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'echo hedge trimmer', 'echo petrol hedge', 'hedge trimmer petrol', 'echo hct'; work/comps.py: 'echo hedge trimmer' (no hits). No resale comps in any database; only local-room results. | chrome: Terapeak AU 3 yrs 'Echo petrol hedge trimmer' and 'Echo HC hedge trimmer'; eBay AU public sold search 'echo petrol hedge trimmer'. | chrome: Terapeak AU 3 yrs 'Echo petrol hedge trimmer' and 'Echo HC hedge trimmer'; eBay AU public sold search 'echo petrol hedge trimmer'.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'Echo HC petrol hedge trimmer' (also 'Echo HC-150', 'Echo HC-1500', 'Echo HC-2020', 'Echo HC-2810') with Sold items filter, Australia; Terapeak same terms; Gumtree Tasmania/Australia 'Echo hedge trimmer'; Grays/Pickles/Lloyds Auctions sold results 'Echo hedge trimmer'. Also new retail price for a current Echo HC hedge trimmer at Echo Australia dealers, Bunnings or Whipper Snipper Shop (ASKING, new retail).",
+ "viewing_check": "Read the model plate on the engine or handle (HC-150, HC-1500, HC-152, HC-2020?), pull cord for compression, check blade teeth and cutter bar for bends and the fuel tank for cracks.",
+ "rate_note": "All prices AUD, no conversion.",
+ "chrome_done": true
+}

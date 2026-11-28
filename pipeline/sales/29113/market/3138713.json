@@ -1,0 +1,80 @@
+{
+ "cdid": 3138713,
+ "lot": 2121,
+ "identification": "Cigweld Easywelder Turbo, old blue single-wheel transformer-type AC stick (arc) welder with mains lead, electrode lead and earth clamp. Rods not visible in photo. Untested.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$40",
+   "currency": "AUD",
+   "aud_price": 40,
+   "date": "2026-07-19",
+   "venue": "Gowans (Hobart) [paid locally, not a resale price]",
+   "url": "gowans id 425342",
+   "same_item": "close",
+   "note": "CIGWELD WELDER, 3 bids. Model not stated. Database record only; paid locally, shows what we might pay."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$20",
+   "currency": "AUD",
+   "aud_price": 20,
+   "date": "2026-03-16",
+   "venue": "Gowans (Hobart) [paid locally, not a resale price]",
+   "url": "gowans id 397727",
+   "same_item": "close",
+   "note": "CIGWELD WELDER WITH CABLES & JUMPER LEADS, 0 bids. Likely a similar basic stick welder. Database record only; paid locally."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$22",
+   "currency": "AUD",
+   "aud_price": 22,
+   "date": "2025-09-28",
+   "venue": "Gowans (Hobart) [paid locally, not a resale price]",
+   "url": "gowans id 364705",
+   "same_item": "category guide",
+   "note": "CIGWELD COMPACT 2 & WELDER MASK, 0 bids. Different model. Paid locally."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2025-10-13",
+   "venue": "Gowans (Hobart) [paid locally, not a resale price]",
+   "url": "gowans id 368079",
+   "same_item": "category guide",
+   "note": "CIGWELD TRANSMIG 165 WELDER & ACCESSORIES, 2 bids. MIG, different type. Paid locally."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$200",
+   "currency": "AUD",
+   "aud_price": 200,
+   "date": "2026-06-28",
+   "venue": "Gowans (Hobart) [paid locally, not a resale price]",
+   "url": "gowans id 420596",
+   "same_item": "category guide",
+   "note": "CIGWELD WELDER & OZITO & WELDING HELMETS, multi-item lot, 9 bids. Not comparable. Paid locally."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$259.00",
+   "currency": "AUD",
+   "aud_price": 259,
+   "date": "2026-10-05",
+   "venue": "eBay AU (public sold search)",
+   "url": "https://www.ebay.com.au/itm/227443699452",
+   "same_item": "category guide",
+   "note": "Cigweld Micro Arc-140 inverter welder with leads; modern inverter, not comparable to an old transformer unit.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'cigweld easywelder', 'cigweld arc welder', 'easywelder turbo', 'arc welder transformer' (all no hits). work/comps.py: 'cigweld welder' (6 Gowans hits, median $45, no resale comps). No web searches, per instruction. | chrome: eBay AU public sold: 'cigweld easywelder' (nothing same-item), 'cigweld arc welder transformer stick' (inverter models only, A$72-395). Verdict: under A$100, skip unless very cheap. | chrome: eBay AU public sold: 'cigweld easywelder' (nothing same-item), 'cigweld arc welder transformer stick' (inverter models only, A$72-395). Verdict: under A$100, skip unless very cheap.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay.com.au sold listings (Terapeak): 'Cigweld Easywelder', 'Cigweld Easywelder Turbo', 'Cigweld arc welder transformer'; Gumtree and Facebook Marketplace Tas/Vic 'Cigweld stick welder'; Cigweld current new-price check (Easywelder successors, e.g. Weldskill/Cigweld stick welders at Bunnings, Sydney Tools, Total Tools) as ASKING new retail only.",
+ "rate_note": "All AUD, no conversion needed.",
+ "viewing_check": "Read data plate (240V single phase, amps), check leads and clamp, any rods in the lot.",
+ "chrome_done": true
+}

@@ -1,0 +1,118 @@
+{
+ "cdid": 3138182,
+ "lot": 1587,
+ "identification": "Two Apple iPhones, screens off: a black notched full-screen model (iPhone XR or iPhone 11, thick bezels, backs not shown so cannot tell which) and a space grey home-button model (iPhone 5s or SE 1st gen, worn edges). Lot description says factory reset (account estate).",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$80",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2026-06-21",
+   "venue": "Gowans Auctions, Moonah/Hobart (paid locally, not a resale price)",
+   "url": "gowans lot id 417800",
+   "same_item": "category guide",
+   "note": "IPHONE 12 SE 256GB - PASSWORD OOO OOO (10 bids). Locked-looking phone, single unit, different model. Locally paid guide only; database row, not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2025-10-06",
+   "venue": "Gowans Auctions, Moonah/Hobart (paid locally, not a resale price)",
+   "url": "gowans lot id 365461",
+   "same_item": "close",
+   "note": "IPHONE SE & IPHONE 4S (6 bids). Old small iPhones, comparable to the 5s/SE half of this lot. Locally paid guide only; database row."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-05-17",
+   "venue": "Gowans Auctions, Moonah/Hobart (paid locally, not a resale price)",
+   "url": "gowans lot id 409835",
+   "same_item": "category guide",
+   "note": "3 APPLE IPHONES (4 bids). Unspecified models. Locally paid guide only; database row."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$147.76",
+   "currency": "AUD",
+   "aud_price": 147.76,
+   "date": "2026-11-26",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/287748802159",
+   "same_item": "close",
+   "note": "iPhone XR 64GB black unlocked, battery health 87%.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$102.50",
+   "currency": "AUD",
+   "aud_price": 102.5,
+   "date": "2026-11-26",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/267847783485",
+   "same_item": "close",
+   "note": "iPhone XR 64GB black unlocked.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$129.99",
+   "currency": "AUD",
+   "aud_price": 129.99,
+   "date": "2026-11-26",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/880150591470",
+   "same_item": "close",
+   "note": "iPhone XR 64GB white, 'read description'.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$117.30",
+   "currency": "AUD",
+   "aud_price": 117.3,
+   "date": "2026-11-27",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/880156024502",
+   "same_item": "close",
+   "note": "iPhone 11 64GB black, network unlocked.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$165.00",
+   "currency": "AUD",
+   "aud_price": 165,
+   "date": "2026-11-27",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/307302641591",
+   "same_item": "close",
+   "note": "iPhone 11 64GB unlocked, pre-owned.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$44.08",
+   "currency": "AUD",
+   "aud_price": 44.08,
+   "date": "2026-11-27",
+   "venue": "eBay AU public sold search (AU only)",
+   "url": "https://www.ebay.com.au/itm/206623869415",
+   "same_item": "close",
+   "note": "iPhone 5s unlocked. Others: A$55.53 (327456031397, 23 Nov, 16GB space grey good), A$34.75 (227576072383, 25 Nov, smashed screen), A$59.00 (366202506270, 22 Nov).",
+   "via": "chrome"
+  }
+ ],
+ "rate_note": "All AUD, no conversion.",
+ "searches_tried": "pipeline/comps.py: 'iPhone XR', 'iPhone 11', 'iPhone 5s', 'Apple iPhone'; work/comps.py: 'iPhone'. No resale comps for iPhone XR/11/5s; only Gowans local results. | chrome: eBay AU public sold (AU only) 'iphone 11 64gb black', 'iphone xr 64gb black', 'iphone 5s space grey'. | chrome: eBay AU public sold (AU only) 'iphone 11 64gb black', 'iphone xr 64gb black', 'iphone 5s space grey'.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'iPhone XR 64GB' , 'iPhone 11 64GB', 'iPhone 5s' , 'iPhone SE 1st gen', filter Sold, Australia, last 90 days, compare 'for parts / locked' vs working. Terapeak same terms. Also check Gumtree/Facebook Marketplace Launceston asking prices and Cash Converters/Swappie AU for XR/11 retail refurb price as ASKING.",
+ "viewing_check": "Check backs for model number (A2221 = 11, A1984 = XR, A1457/A1533 = 5s), storage in Settings/About, power on to see whether it hits the Hello screen or an Activation Lock screen, cracks, Face ID, battery health.",
+ "chrome_done": true
+}

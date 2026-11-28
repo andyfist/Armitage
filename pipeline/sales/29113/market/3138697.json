@@ -1,0 +1,78 @@
+{
+ "cdid": 3138697,
+ "lot": 2105,
+ "identification": "Cream-repainted tin trunk (about 75cm) holding a cane basket, iron fire tongs/poker, a yellow Singer Oil Extra Quality tin (rectangular, small) and a round black-cased wall clock with brass bezel, Roman numerals, dial reads LONDON STATION and a line beneath. Looks like a modern reproduction station clock.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$119",
+   "currency": "AUD",
+   "aud_price": 119,
+   "date": "2024-04-05",
+   "venue": "eBay AU (Terapeak) lot 333",
+   "url": "https://www.ebay.com.au/itm/195599539642",
+   "same_item": "close",
+   "note": "Industrial style square wall clock, 'KENSINGTON STATION LONDON 1873', distressed timber frame. Different design, a styled decor clock. Database record only, page not opened. AUD so no conversion."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25",
+   "currency": "AUD",
+   "aud_price": 25,
+   "date": "2026-04-26",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 405188",
+   "same_item": "close",
+   "note": "Waterloo Station railway clock, battery operated. Paid locally only, not a resale price. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$15",
+   "currency": "AUD",
+   "aud_price": 15,
+   "date": "2026-06-21",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 418510",
+   "same_item": "close",
+   "note": "Victoria Station London wall clock. Paid locally only. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$50",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-08-16",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 430692",
+   "same_item": "close",
+   "note": "Singer sewing machine oil tin, 3 bids. Paid locally only. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$35",
+   "currency": "AUD",
+   "aud_price": 35,
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28711 lot 95 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3069796&chid=28711&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Painted tin trunk. Paid locally only. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2026-09-27",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot id 440849",
+   "same_item": "close",
+   "note": "Painted tin trunk. Paid locally only. Database record only."
+  }
+ ],
+ "searches_tried": "comps.py (pipeline): 'railway station clock', 'Singer oil tin', 'tin trunk', 'London Station clock', 'wall clock station', 'petroliana oil tin'; work/comps.py 'singer oil tin'. No resale (non-local) comps for the trunk or Singer tin. Only resale comp is one eBay station-style clock at $119 (different design). Local hits suggest trunk $20-60, clock $15-25, tin ~$50 (outlier). | chrome: eBay AU sold x2 (clock, Singer tin). No Terapeak run (clearly under A$100). | chrome: eBay AU sold x2 (clock, Singer tin). No Terapeak run (clearly under A$100).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'London Station London NW10 wall clock'; 'railway station style wall clock black brass bezel'; 'Singer Oil Extra Quality tin' (sold); 'vintage tin trunk cream painted'. Check whether the clock is a reproduction (modern retail repro station clocks) via eBay sold.",
+ "viewing_check": "Clock back (quartz?), Singer tin condition/label.",
+ "chrome_done": true
+}

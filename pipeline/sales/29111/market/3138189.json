@@ -1,0 +1,93 @@
+{
+ "cdid": 3138189,
+ "lot": 1594,
+ "identification": "Two old brass-bladed screwdrivers with turned fruitwood/timber handles and brass ferrules (non-sparking magazine/ordnance type). One has a long flat brass blade stamped with an asterisk/star, a broad arrow over 'WD', a 'J' (inspector) and a date that reads about 1898 (close-up is blurry). The other has a short, wide brass blade, no mark seen. British War Department issue, late 19th century.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$40",
+   "aud_price": 40,
+   "currency": "AUD (hammer, no rate needed)",
+   "date": "2018-07-31",
+   "venue": "Noble Numismatics, Sydney sale 118 lot 3025",
+   "url": "https://www.noble.com.au/auctions/lot/?id=343605",
+   "same_item": "category guide",
+   "note": "Pair of gun turnscrew screwdrivers, bone-like handles with brass fittings. Different type, not military marked. Database hit only; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$80",
+   "aud_price": 80,
+   "currency": "AUD (hammer, no rate needed)",
+   "date": "2023-07-24",
+   "venue": "Noble Numismatics, Sydney sale 133 lot 307",
+   "url": "https://www.noble.com.au/auctions/lot/?id=407865",
+   "same_item": "category guide",
+   "note": "Gunsmith's turnscrews, large and small, timber handles with brass ends and steel blades. Steel, not brass bladed and no WD mark, so only a loose guide. Database hit only; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120",
+   "aud_price": 120,
+   "currency": "AUD (hammer, no rate needed)",
+   "date": "2023-07-24",
+   "venue": "Noble Numismatics, Sydney sale 133 lot 320",
+   "url": "https://www.noble.com.au/auctions/lot/?id=407878",
+   "same_item": "category guide",
+   "note": "Two 19th century gunsmith's turnscrews, timber handles with brass ends, steel blades. Older gun-tool category, not WD marked. Database hit only; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$140",
+   "aud_price": 140,
+   "currency": "AUD (hammer, no rate needed)",
+   "date": "2020-11-24",
+   "venue": "Noble Numismatics, Sydney sale 125 lot 4371",
+   "url": "https://www.noble.com.au/auctions/lot/?id=376970",
+   "same_item": "category guide",
+   "note": "Antique firearm tools lot incl. Martini-Henry combination tool plus pair of gun screwdrivers. Value is mostly the Martini-Henry tool, so overstates screwdriver value. Database hit only; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$37.65",
+   "currency": "AUD",
+   "aud_price": 37.65,
+   "date": "2026-09-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/167885781792",
+   "same_item": "close",
+   "note": "Antique brass screwdrivers and brass drawing pins, no military marks mentioned",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$47.82",
+   "currency": "AUD",
+   "aud_price": 47.82,
+   "date": "2024-01-26",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/225973995114",
+   "same_item": "category guide",
+   "note": "Antique wooden and brass multi-tool screwdriver, different item",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$80-140",
+   "currency": "AUD",
+   "aud_price": 80,
+   "date": "2023-07-24",
+   "venue": "Noble Numismatics sales 125/133 (gunsmith turnscrews, steel blades)",
+   "url": "https://www.noble.com.au/auctions/lot/?id=407865",
+   "same_item": "category guide",
+   "note": "Database hint only, not opened, different type (steel gun turnscrews)",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'screwdriver broad arrow' (1 irrelevant hit), 'brass screwdriver' (6 hits, 4 used as category guides), 'WD broad arrow brass' (5 hits, none same item: bayonets, brassware), 'non-sparking' (none). work/comps.py 'brass screwdriver' (none). No exact same-item (WD brass non-sparking screwdriver) comp held. Noble hits are Australian hammer prices; no Armitage or Gowans hits. | chrome: Terapeak AU 3yr: 'brass screwdriver broad arrow' (none), 'antique brass screwdriver' (modest A$20-48 results); WebSearch for broad arrow WD brass screwdriver. | chrome: Terapeak AU 3yr: 'brass screwdriver broad arrow' (none), 'antique brass screwdriver' (modest A$20-48 results); WebSearch for broad arrow WD brass screwdriver.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'WD broad arrow brass screwdriver', 'brass non sparking screwdriver military', 'ordnance brass screwdriver broad arrow', 'Admiralty brass screwdriver magazine', 'antique brass screwdriver wooden handle'; also eBay UK sold (convert GBP to AUD) and Noble Numismatics archive 'turnscrew' / 'broad arrow tool'. Also check ASKING on Etsy/militaria dealers for 'WD brass screwdriver', and current new retail is not relevant (antique).",
+ "needs_chrome_reason": "No exact comps in databases; eBay sold listings would settle the value.",
+ "viewing_check": "Read the blade stamps in hand (date, maker, inspector), confirm blades are brass, check for a mark on screwdriver 2.",
+ "chrome_done": true
+}

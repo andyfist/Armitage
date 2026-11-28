@@ -1,0 +1,42 @@
+{
+ "chid": "29111",
+ "name": "ONLINE AUCTION 2ND DECEMBER LOTS 1449 - 1830",
+ "root": "/home/user/armitage/pipeline/sales/29111",
+ "pipeline": "/home/user/armitage/pipeline",
+ "titleChunks": 0,
+ "batch": 15,
+ "concurrency": 8,
+ "maxMarket": 200,
+ "alwaysLook": [
+  {
+   "cdid": 3138249,
+   "lot": 1654,
+   "title": "COFFEE GRINDER",
+   "why": "bidder signal: 205742 - Gravelly Beach, (seen in 6 sales); 122213 - Westbury, TAS (seen in 144 sales); 49364 - Trevallyn, TAS (seen in 128 sales); 74227 - Ravenswood, TAS (seen in 106 sales); 47658 - Lilydale, TAS (seen in 126 sales); 47604 - Riverside, TAS (seen in 142 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3138297,
+   "lot": 1702,
+   "title": "2 GLASS OIL LAMPS",
+   "why": "bidder signal: 122213 - Westbury, TAS (seen in 144 sales); 239577 - Lebrina, (seen in 38 sales); 56912 - Evandale, TAS (seen in 42 sales); 142954 - Perth, (seen in 32 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3138342,
+   "lot": 1748,
+   "title": "ASSORTED FISHING TACKLE ETC",
+   "why": "bidder signal: 47404 - Lilydale, TAS (seen in 43 sales); 76161 - Devonport , TAS (seen in 40 sales); 56030 - PROSPECT VALE, TAS (seen in 45 sales); 55770 - Invermay , TAS (seen in 97 sales); 4 or more bidders"
+  },
+  {
+   "cdid": 3138385,
+   "lot": 1792,
+   "title": "2 PYRENE FIRE EXTINGUISHERS",
+   "why": "bidder signal: 48080 - Launceston, TAS (seen in 115 sales); 47340 - St Helens, TAS (seen in 103 sales); 122213 - Westbury, TAS (seen in 144 sales); 47604 - Riverside, TAS (seen in 142 sales); 4 or more bidders"
+  }
+ ],
+ "priority": [
+  3138049
+ ],
+ "description": "Armitage Auctions (Invermay, Launceston) online auction, ONLINE AUCTION 2ND DECEMBER LOTS 1449 - 1830: lots 1449 to 1830, each lot closes at its own time from 2/12/2026 7:44:00 PM ADST to 2/12/2026 9:49:20 PM ADST",
+ "minStrength": 1,
+ "tagPrefix": "bid280932-"
+}

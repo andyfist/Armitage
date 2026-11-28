@@ -1,0 +1,107 @@
+{
+ "cdid": 3139202,
+ "lot": 2439,
+ "identification": "Box lot of Behringer audio gear: silver Xenyx mixer (12-input, 4 XLR mic channels, about 1202 class, no FX section seen), black Behringer U-Phoria USB interface (UMC202HD or UM2 type, 2 combo inputs), Shure SM58-style dynamic handheld mic with XLR lead (silver ball grille, brand not legible), round pop filter, Behringer-branded packet, bundle of XLR/jack/RCA/USB leads.",
+ "entries": [
+  {
+   "kind": "ASKING",
+   "price": "$55 (hammer, Gowans)",
+   "aud_price": 55,
+   "currency": "AUD",
+   "date": "2026-09-20",
+   "venue": "Gowans Auctions, Hobart",
+   "url": "gowans lot id 439780",
+   "same_item": "close",
+   "note": "Database hit, BEHRINGER MIXER, paid locally: what we might pay, not a resale price. Not opened. Recorded as ASKING only because no resale evidence; it is a local room price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$75.47",
+   "currency": "AUD",
+   "aud_price": 75.47,
+   "date": "2026-11-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/206674972707",
+   "same_item": "yes",
+   "note": "Behringer UMC202HD, Pre-owned (B-ware), Buy It Now, delivery A$81 extra.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$91.17",
+   "currency": "AUD",
+   "aud_price": 91.17,
+   "date": "2026-11-21",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/820377566432",
+   "same_item": "yes",
+   "note": "UMC202HD tested, pre-owned, shipped from US.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$70.00",
+   "currency": "AUD",
+   "aud_price": 70.0,
+   "date": "2026-11-26",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257867541567",
+   "same_item": "close",
+   "note": "Behringer UM2 interface, tested, pre-owned BIN.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$106.70",
+   "currency": "AUD",
+   "aud_price": 106.7,
+   "date": "2026-09-18",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/257739839444",
+   "same_item": "close",
+   "note": "Xenyx 1202 12-channel, pre-owned; shows 'or Best Offer' so may be an offer price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$90.00",
+   "currency": "AUD",
+   "aud_price": 90.0,
+   "date": "2026-11-10",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/336884303305",
+   "same_item": "category guide",
+   "note": "Xenyx 1002 10-input with power adaptor, BIN.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$89.95",
+   "currency": "AUD",
+   "aud_price": 89.95,
+   "date": "2026-10-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/227554565488",
+   "same_item": "category guide",
+   "note": "Xenyx 802, pre-owned, 'or Best Offer'. Guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$138.99",
+   "currency": "AUD",
+   "aud_price": 138.99,
+   "date": "2026-11-27",
+   "venue": "eBay AU",
+   "url": "https://www.ebay.com.au/itm/880136791506",
+   "same_item": "yes",
+   "note": "New UMC202HD sold at A$129-139 (new price reference).",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'behringer mixer' (1 Gowans hit, $55 on 2026-09-20), 'behringer xenyx' (none), 'behringer umc202hd' (none), 'microphone mixer' (1 Gowans hit, Rybozen vocal mixer $35, not same item). work/comps.py: 'behringer' (Gowans: mixer $55, Powerplay P1 $30, AT108 amp $40). No resale comps held. Rate: all AUD, no conversion. | chrome: eBay AU sold: 'Behringer Xenyx 1202', 'Behringer U-Phoria UMC202HD' (AU). | chrome: eBay AU sold: 'Behringer Xenyx 1202', 'Behringer U-Phoria UMC202HD' (AU).",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold (Terapeak): 'Behringer UMC202HD' sold; 'Behringer Xenyx' mixer sold (identify model from the panel, e.g. Xenyx 1002/1202/1204); 'Behringer XM8500' or 'Samson Q6' sold for the mic; 'pop filter' sold. Also Gumtree and Facebook Marketplace AU for UMC202HD and Xenyx used asks. Retail new for reference: Behringer UMC202HD at Store DJ, Mwave, Sky Music (new retail ASKING entry, roughly $100-$130 AU, unverified, check); Xenyx 1002 and similar new price.",
+ "viewing_check": "Read mixer model (1202/1204/1002) and interface model (UMC202HD vs UM2) on the panels, check mic is a Shure SM58 (A$100 new, A$50-70 used) or a lookalike, test power and knobs.",
+ "chrome_done": true
+}

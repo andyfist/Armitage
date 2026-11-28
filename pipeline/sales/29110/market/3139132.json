@@ -1,0 +1,91 @@
+{
+ "cdid": 3139132,
+ "lot": 2368,
+ "identification": "Brice commercial meat slicer, old polished-aluminium unit with about 250 mm (10 inch) blade, gravity-feed style, carriage/meat holder shown detached beside it. Dirty and worn; sold 'going order' (untested by us). Estimate on lot page A$40-50.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$110",
+   "currency": "AUD",
+   "aud_price": 110,
+   "date": "2026-07-05",
+   "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+   "url": "gowans lot id 421984",
+   "same_item": "yes",
+   "note": "BRICE BUTCHERS COMMERCIAL MEAT SLICER, 5 bids. From local database; page not opened. Shows what we might pay only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$130",
+   "currency": "AUD",
+   "aud_price": 130,
+   "date": "2026-03-01",
+   "venue": "Gowans Auctions, Hobart (paid locally, not a resale price)",
+   "url": "gowans lot id 394601",
+   "same_item": "close",
+   "note": "BRICE VEGETABLE SLICER, 2 bids; may be a different machine type. Database only; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$230",
+   "currency": "AUD",
+   "aud_price": 230,
+   "date": "2026-07-29",
+   "venue": "Armitage Auctions, Launceston sale 28328 lot 1250 (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2996845&chid=28328&category=ALL&style=group",
+   "same_item": "close",
+   "note": "BECKERS ELECTRIC MEAT SLICER, Italy, going order. Different make. Database only; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$55",
+   "currency": "AUD",
+   "aud_price": 55,
+   "date": "2025-10-22",
+   "venue": "Armitage Auctions, Launceston sale 26382 lot 1184 (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2671628&chid=26382&category=ALL&style=group",
+   "same_item": "close",
+   "note": "MEAT SLICER going order, make not stated. Database only; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2026-02-11",
+   "venue": "Armitage Auctions, Launceston sale 27195 lot 1246 (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2811678&chid=27195&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "COMMERCIAL FOOD SLICER going order. Database only; page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$172.83",
+   "currency": "AUD",
+   "aud_price": 172.83,
+   "date": "2024-12-18",
+   "venue": "eBay AU (Terapeak, Fixed price)",
+   "url": "https://www.ebay.com.au/itm/196690940456",
+   "same_item": "close",
+   "note": "Brice GPR 300 commercial meat slicer (300 mm, newer model, likely cleaner). Nearly 2 years old.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$40.05",
+   "currency": "AUD",
+   "aud_price": 40.05,
+   "date": "",
+   "venue": "eBay AU (Terapeak, Auction)",
+   "url": "https://www.ebay.com.au/itm/266871077699",
+   "same_item": "close",
+   "note": "Brice industrial meat slicer, auction; date not shown in Terapeak row (within 3 years). Likely poor condition.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'brice slicer', 'meat slicer', 'slicer'; work/comps.py: same three. Only local rooms (Gowans, Armitage) found, no resale comps. No new retail price looked up (databases only). | chrome: Terapeak 'brice slicer' (3 yrs, 4 rows); eBay AU public sold 'brice meat slicer' (only generic/other brands). Verdict: A$80-170 resale, not enough sold evidence for a max. | chrome: Terapeak 'brice slicer' (3 yrs, 4 rows); eBay AU public sold 'brice meat slicer' (only generic/other brands). Verdict: A$80-170 resale, not enough sold evidence for a max.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'Brice meat slicer' and 'Brice slicer 250' and 'Brice 300 slicer' (Sold items, last 12 months, check for carriage/blade included); also Terapeak 'Brice slicer'. Gumtree and Facebook Marketplace Tasmania/Vic 'Brice slicer' for asking prices. Grays/Lawsons/Gowans-type commercial kitchen auctions 'Brice slicer'. New retail: Brice Australia (brice.com.au) slicer range, and Bidfood/Mecca for new slicers, as ASKING.",
+ "viewing_check": "Blade present, sharp and undamaged; motor runs; carriage and guard fit and slide; model/serial plate for blade size (250 or 300 mm) and voltage.",
+ "chrome_done": true
+}

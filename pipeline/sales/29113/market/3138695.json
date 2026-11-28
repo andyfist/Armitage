@@ -1,0 +1,70 @@
+{
+ "cdid": 3138695,
+ "lot": 2103,
+ "identification": "Carba-Tec single-bag dust collector, 1500W (2HP class) 240V 2950rpm 50Hz, on blue base plate with cloth bag, flexible hoses. Matches the current Carbatec Portable Dust Collector 2HP (DC-1200P, old code FM-300); exact model plate not seen, only the CARBA-TEC rating label. Going order per catalogue.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2025-07-16",
+   "venue": "Armitage Auctions, Launceston sale 25151 lot 62 (paid locally: cost guide only, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2566609&chid=25151&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Carba-Tec 2024K dust extractor, database hit; condition not known, different model; local room so shows what we might pay, not resale. No web page opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$190",
+   "currency": "AUD",
+   "aud_price": 190,
+   "date": "2025-10-22",
+   "venue": "Armitage Auctions, Launceston sale 26383 lot 1555 (paid locally: cost guide only, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2672005&chid=26383&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Carbatec dust extractor, going order; model and size not stated so may be larger; local room, not resale. No web page opened."
+  },
+  {
+   "kind": "ASKING",
+   "price": "A$415",
+   "currency": "AUD",
+   "aud_price": 415,
+   "date": "2026-11-28",
+   "venue": "Carbatec AU new retail (page opened)",
+   "url": "https://carbatec.com.au/dust-extractor-2hp-old-code-fm-300",
+   "same_item": "close",
+   "note": "New Carbatec Portable Dust Collector 2HP DC-1200P, on sale from A$484. New retail, never a resale price.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$190",
+   "currency": "AUD",
+   "aud_price": 190,
+   "date": "2025-10-22",
+   "venue": "Armitage sale 26383 lot 1555 (database, not opened)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2672005&chid=26383&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Carbatec dust extractor going order. Cost guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$120",
+   "currency": "AUD",
+   "aud_price": 120,
+   "date": "2025-07-16",
+   "venue": "Armitage sale 25151 lot 62 (database, not opened)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2566609&chid=25151&category=ALL&style=group",
+   "same_item": "close",
+   "note": "Carba-Tec 2024K extractor. Cost guide only.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'carba-tec dust', 'carbatec dust collector', 'dust extractor 2hp', 'carba-tec extractor', 'dust extractor'; work/comps.py same words. Only one hit (Armitage 2025, paid locally). No resale comps held. Also 'dust extractor' hit Gowans 2026 generic extractors $100-130 and Armitage WMS/GMC $30-60 (paid locally, category guide only). | chrome: Terapeak AU 3yr carba-tec dust collector (no results, no condition filter seen); eBay AU sold carbatec dust collector (cyclone kits, not relevant); eBay AU sold dust extractor 2hp 1500w bag workshop, Australia only (one new Sherwood); web search and Carbatec page for new retail. | chrome: Terapeak AU 3yr carba-tec dust collector (no results, no condition filter seen); eBay AU sold carbatec dust collector (cyclone kits, not relevant); eBay AU sold dust extractor 2hp 1500w bag workshop, Australia only (one new Sherwood); web search and Carbatec page for new retail.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'Carba-Tec dust collector 1500W', 'Carbatec 2hp dust extractor single bag', 'dust extractor 1500W 240V single bag'; Gumtree/Facebook Marketplace AU asking for same; Carbatec.com.au new retail price for the current 2HP single bag dust collector (record as ASKING, new retail price); Grays/Lawsons/Pickles workshop equipment results for Carba-Tec dust collector.",
+ "viewing_check": "Run the motor, check impeller and bag for splits, hose condition, any model plate (DC-1200P).",
+ "chrome_done": true
+}

@@ -1,0 +1,93 @@
+{
+ "cdid": 3138597,
+ "lot": 2005,
+ "identification": "Four terracotta garden pots (one small weathered, one with saucer, two larger) plus a grey weathered wooden slatted crate stencilled SPARKLE in green. Crate looks like a bottle/drinks crate, probably later 20th century; pots ordinary.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$50",
+   "aud_price": 50,
+   "currency": "AUD",
+   "date": "2026-10-21",
+   "venue": "Armitage Auctions, Launceston sale 28842 lot 1768 (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088938&chid=28842&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "4 terracotta planters and a potted aloe; local room, shows what we might pay only. Database hit, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$45",
+   "aud_price": 45,
+   "currency": "AUD",
+   "date": "2026-09-30",
+   "venue": "Armitage Auctions, Launceston sale 28715 lot 1937 (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3069350&chid=28715&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "4 terracotta planters; local room, cost guide only. Database hit, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30",
+   "aud_price": 30,
+   "currency": "AUD",
+   "date": "2026-07-29",
+   "venue": "Armitage Auctions, Launceston sale 28329 lot 1488 (paid locally, not a resale price)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2997164&chid=28329&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Vinegar bottles in a wooden crate; weak guide for a crate. Cost guide only. Database hit, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$32.20",
+   "currency": "AUD",
+   "aud_price": 32.2,
+   "date": "2026-03-02",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126201274589",
+   "same_item": "category guide",
+   "note": "Vintage Schweppes wooden bottle crate (named brand, advertising); category guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$42.11",
+   "currency": "AUD",
+   "aud_price": 42.11,
+   "date": "2026-03-16",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/177282652237",
+   "same_item": "category guide",
+   "note": "1960s Noddy soft drink wooden crate Geelong; category guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$60.20",
+   "currency": "AUD",
+   "aud_price": 60.2,
+   "date": "2025-01-01",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/126760285708",
+   "same_item": "category guide",
+   "note": "Vintage Schweppes wooden bottle crate; category guide only.",
+   "via": "chrome"
+  },
+  {
+   "kind": "PAID LOCALLY",
+   "price": "A$50",
+   "currency": "AUD",
+   "aud_price": 50,
+   "date": "2026-10-21",
+   "venue": "Armitage sale 28842 lot 1768",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=3088938&chid=28842&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "4 terracotta planters and aloe; paid locally, not resale; database record only.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'sparkle crate', 'sparkle drinks crate', 'sparkle', 'drink crate', 'terracotta planter', 'wooden bottle crate'; work/comps.py: 'sparkle crate'. No SOLD resale comps for a SPARKLE crate. Mostly generic garden pots. | chrome: Terapeak AU 3yr: sparkle wooden crate (no results), vintage wooden bottle crate. Google for Sparkle crate: no maker found. Clearly under $100, max 0. | chrome: Terapeak AU 3yr: sparkle wooden crate (no results), vintage wooden bottle crate. Google for Sparkle crate: no maker found. Clearly under $100, max 0.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings: 'Sparkle crate wooden', 'Sparkle drinks crate', 'Sparkle cordial crate Tasmania'; also 'vintage wooden soft drink crate stencilled' sold; Terapeak for same. Check which maker/state SPARKLE was (possible Tasmanian or Victorian cordial maker). Pots are generic, no need to search.",
+ "viewing_check": "Read crate stencil and any other text; check pot cracks.",
+ "chrome_done": true
+}

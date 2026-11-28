@@ -1,0 +1,67 @@
+{
+ "cdid": 3138704,
+ "lot": 2112,
+ "identification": "Mixed rusty workshop pile: small old cast iron bench vice (no maker visible, roughly 3 inch), grey Dietz-style hurricane lantern (looks modern/reproduction), one or two rusty rabbit trap mechanisms tangled together, round wooden bellows/block item, two carpenter's braces, auger bit, hand saw, two spade/shovel heads, hacksaw frame, sledge head, bars, golf club head.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$180",
+   "currency": "AUD",
+   "aud_price": 180,
+   "date": "2022-12-04",
+   "venue": "Leski Auctions, Melbourne sale 586 lot 277",
+   "url": "https://auctions.leski.com.au/auctions/print-realized-prices/id/586",
+   "same_item": "close",
+   "note": "Named, dated Harvey Shaw & Drake hurricane lantern; far better than a plain grey Dietz-style lantern. Local database entry, not opened. AUD hammer."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30",
+   "currency": "AUD",
+   "aud_price": 30,
+   "date": "2014-11-18",
+   "venue": "Noble Numismatics, Sydney sale 107 lot 1164",
+   "url": "https://www.noble.com.au/auctions/lot/?id=285652",
+   "same_item": "close",
+   "note": "WWII Dietz railway lantern; old (over 10 years) so weak guide. Local database entry."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$29-$53",
+   "currency": "AUD",
+   "aud_price": 53,
+   "date": "2026-10-16",
+   "venue": "eBay AU (earlier research database), small 65mm vice",
+   "url": "https://www.ebay.com.au/itm/820239149187",
+   "same_item": "category guide",
+   "note": "Small Record/Woden type swivel vices at $29 to $53 (Oct 2026). Our vice is a larger old unnamed one; category guide only. From database, page not opened."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$30 to $115 typical",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2025-09 to 2026-05",
+   "venue": "Gowans Auctions, Hobart (paid locally)",
+   "url": "gowans lot ids 408998, 388149, 383315, 364721",
+   "same_item": "close",
+   "note": "Pairs to boxes of rabbit traps (e.g. tub $65, box $80, box $115). Paid locally: shows what we might pay, not a resale price."
+  },
+  {
+   "kind": "SOLD",
+   "price": "$25 to $140 typical",
+   "currency": "AUD",
+   "aud_price": 65,
+   "date": "2026-01 to 2026-11",
+   "venue": "Armitage Auctions, Launceston (paid locally)",
+   "url": "e.g. sale 28978 lot 2000 cdid 3112841; sale 27893 lot 1573 cdid 2925748",
+   "same_item": "close",
+   "note": "Boxes and tubs of rabbit traps $25-$140; bench vices $20-$145 (Dawn/Record named ones top end). Paid locally: not a resale price."
+  }
+ ],
+ "searches_tried": "pipeline comps.py: rabbit trap; bench vice; hurricane lantern; Lane trap; Sidebottom; Dietz lantern; carpenters brace; forge bellows; auger bits. work/comps.py: rabbit trap. No resale (non-local) rabbit trap comps found; no brace, bellows or auger sold comps. | chrome: eBay AU public sold: 'vintage rabbit traps lot' (traps A$22-43 each, trap setter hoes A$29-101), 'vintage cast iron bench vice small' (A$24-33). One-line verdict: clearly under A$100 as a lot, skip. | chrome: eBay AU public sold: 'vintage rabbit traps lot' (traps A$22-43 each, trap setter hoes A$29-101), 'vintage cast iron bench vice small' (A$24-33). One-line verdict: clearly under A$100 as a lot, skip.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold + Terapeak: 'Lane rabbit trap', 'Sidebottom rabbit trap', 'vintage rabbit trap lot', 'Victor rabbit trap'; 'cast iron bench vice vintage' (sold); 'vintage carpenters brace' (sold); 'Dietz hurricane lantern' (sold). Also Gowans/Leski/Carter's sold results for 'rabbit traps' and 'vice' to confirm resale levels.",
+ "viewing_check": "Check vice for maker name, traps for Lane/Sidebottom stamps; if a named trap or Record vice is there, still only about A$40 each.",
+ "chrome_done": true
+}

@@ -1,0 +1,36 @@
+{
+ "cdid": 3137115,
+ "lot": 803,
+ "identification": "J&B Rare blended Scotch 750ml, bottled in Australia, red cap, c1980s. Common blend.",
+ "entries": [
+  {
+   "kind": "SOLD",
+   "price": "$60",
+   "currency": "AUD",
+   "aud_price": 60,
+   "date": "2026-05-27",
+   "venue": "Armitage Auctions, Launceston sale 27891 lot 679 (paid locally)",
+   "url": "https://armitage.bidsonline.com.au/catalogue_detail.aspx?cdid=2925165&chid=27891&category=ALL&style=group",
+   "same_item": "category guide",
+   "note": "Boxed Chivas Regal blended scotch 750ml. Different brand, local room price: shows only what we might pay, not resale. Database record only."
+  },
+  {
+   "kind": "SOLD",
+   "price": "A$20.67",
+   "currency": "AUD",
+   "aud_price": 20.67,
+   "date": "2025-10-10",
+   "venue": "eBay AU (Terapeak)",
+   "url": "https://www.ebay.com.au/itm/136568702690",
+   "same_item": "category guide",
+   "note": "EMPTY bottle only. Terapeak row, item id from data-item-id. EMPTY J&B 700ml bottle 1980s label.",
+   "via": "chrome"
+  }
+ ],
+ "searches_tried": "pipeline/comps.py: 'J&B whisky', 'J & B Rare scotch', 'Justerini Brooks' (only Knockando J&B-label single malt hits, a different product, not used), 'J&B', 'Rare blended scotch', 'blended scotch whisky 750ml', 'J and B rare'; work/comps.py: 'J&B', 'blended scotch whisky'. No same-item J&B Rare hits in any database. | chrome: Terapeak AU 3yr 'j&b rare scotch whisky' (memorabilia and one empty bottle only); a longer query returned no results. AWA past results fetch failed. | chrome: Terapeak AU 3yr 'j&b rare scotch whisky' (memorabilia and one empty bottle only); a longer query returned no results. AWA past results fetch failed.",
+ "needs_chrome": false,
+ "chrome_hint": "eBay AU sold listings (Terapeak): 'J&B Rare whisky 750ml Australia bottled' and 'J&B Rare vintage 1980s'; Australian Whisky Auctions and Scotch Whisky Auctions past results: 'J&B Rare' (look for 75cl/750ml old bottlings, sold only); Whisky Auctioneer: 'J&B Rare old bottling'. Check what plain J&B Rare sells for in the same fill and cap condition.",
+ "viewing_check": "Fill, cap seal, label.",
+ "rate_note": "All AUD, no conversion.",
+ "chrome_done": true
+}
